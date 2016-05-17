@@ -1,0 +1,468 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2868_1252_1230
+TOPIC#:		310
+DATE:		910513
+TRANSCRIBER:	GLP
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	4
+REMARKS:	None.
+
+============================================================================
+  
+
+o          A.1 utt1:  <Beep> Okay, {F uh, }  /
+qy          A.1 utt2: [ [ have you, + did you, ] + have you ] grown up in Dallas, Stephanie? /  
+
+nn          B.2 utt1:  {F Uh, } no  /
+sd^e          B.2 utt2: I've only been here for the last ten years, {F uh, } /  
+
+qw          A.3 utt1:  {F Oh, } where are you from? /  
+
+sd          B.4 utt1:  I grew up most of my childhood in Germany. /  
+
+b^m          A.5 utt1:  In Germany. /  
+
+%          B.6 utt1:  {F Uh, } {C and, } -/  
+
+%          A.7 utt1:  # {D Well, } # -/  
+
+sd          B.8 utt1:  #  [ we, + # we ] took a lot of vacations while we were there because everything was within driving distance. /  
+
+sd          A.9 utt1:  {D Now } there's a place I'd like to visit <laughter>. /  
+
+sd          B.10 utt1:  {C So } [ we, + we ] travelled all over Europe.   
+
+ba          A.11 utt1:  {F Oh, } that's neat. /  
+
++          B.12 utt1:  [ When I was, + when I was ] very young. Unfortunately, [ a, + a ] little bit too young to really appreciate. /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  {F Uh, } I was grade school age. {F Uh, } /  
+
+sd          A.15 utt1:  [ My hus-, + my husband ] [ had a bicycle tour of Europe, + {E or } took a bicycle tour ] about five months right after the second world war  /
+sd          A.15 utt2: {C and so } we've seen lots of pictures [ of the, + of the ] beautiful,   
+
+b          B.16 utt1:  # {F Um. }  # /  
+
++          A.17 utt1:  # spots # and,    
+
+sd          B.18 utt1:  # [ That, # +   
+
++          A.19 utt1:  # areas, #  /
+b@          A.19 utt2: y-,   
+
++          B.20 utt1:  that ] would be [ a, + to me, a ] really nice vacation --   
+
++@          A.21 utt1:  Yeah. /  
+
++          B.22 utt1:  -- because [ I'm, + I'm ] not in physical shape for something like that,  but, {F uh, } [ I, + I ] sure would work on it <laughter>,   
+
+x          A.23 utt1:  # <Laughter>.  #   
+
++          B.24 utt1:  # if # I had an opportunity like that. /  
+
+b          A.25 utt1:  Yeah,  /
+ba          A.25 utt2: that's [ neat, + neat ] <breathing>.  /
+qo          A.25 utt3:  What kind of vacations do you like? /  
+
+sd          B.26 utt1:  {F Uh, } {D well } my husband and I are scuba divers. /  
+
+bk          A.27 utt1:  {F Oh. }  H-, -/  
+
+sd          B.28 utt1:  {C So, } we both like to go to dive resorts.  /
+sd          B.28 utt2:  {F Uh, } we went to Hawaii on our honeymoon, /  
+
+b          A.29 utt1:  # Uh-huh.  # /  
+
+sd          B.30 utt1:  # {C and } # we dove there.  /
+sd          B.30 utt2:  {F Uh, } {C but, }  [ we, + we ] did about six dives while we were there.   /
+sd          B.30 utt3: {C And, }  {F uh, } we were originally planning on going to Cayman,   
+
+b          A.31 utt1:  # {F Oh, } uh-huh.  # /  
+
++          B.32 utt1:  # {F uh, } last # year -- /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  -- {F uh, } {C but, }  we weren't able to get enough people together for the trip.  /
+sd          B.34 utt2:  We had to have, {D like, } eleven people for,   
+
+b          A.35 utt1:  # {F Oh, } uh-huh.  # /  
+
++          B.36 utt1:  # this package, # {F uh, } deal. /  
+
+b          A.37 utt1:  Yeah. /  
+
+sd          B.38 utt1:  {F Uh, } {C and } we couldn't get enough people together, {F uh, } to go,  /
+sd          B.38 utt2: {C so } it ended up [ falling a-, + falling through. ] /  
+
+b          A.39 utt1:  Yeah. /  
+
+sd          B.40 utt1:  We were going to get a really good price. /  
+
+sd          A.41 utt1:  [ When, + when ] our children were younger, [ we enjoyed, + we lived ] up in, {F uh, } [ New York, +    
+
+b          B.42 utt1:  # Uh-huh.  # /  
+
++          A.43 utt1:  # {E or } # New  Jersey ] [ and, + and } used to like, {F uh, } traveling into upstate New York and camping --  /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sd          A.45 utt1:  -- {C and } we had a little collapsible sailboat and liked to sail and, that sort of thing,  /
+sd          A.45 utt2: {C but } we've never really, {F uh, } did any diving or anything.  /
+sd          A.45 utt3:  Little bit [ of s-, + of, ] {F uh, } {F uh, } <lipsmack>, {F oh, }   
+
+^2          B.46 utt1:  # Snorkeling? # /  
+
++          A.47 utt1:  # [ s-, + # water skiing. ] /  
+
+bk          B.48 utt1:  {F Oh, } really. /  
+
+sd          A.49 utt1:  {C But, }  not much [ of, + {F uh, }   
+
+b          B.50 utt1:  # {F Um. }  # /  
+
++          A.51 utt1:  # of # ] anything else.  /
+%          A.51 utt2: {F Uh, } /  
+
+sd          B.52 utt1:  {D Well, } my husband and I both like water, /  
+
+b          A.53 utt1:  # Uh-huh.  # /  
+
+sd          B.54 utt1:  # {C so } # [ any, + any ] vacation that we go on is usually,   
+
+^2          A.55 utt1:  # It's got to be the water. # /  
+
++          B.56 utt1:  # [ involves, + ] close to the ocean, #   
+
+b          A.57 utt1:  # Right.  # /  
+
++          B.58 utt1:  # [ or, + # or ] something like that. /  
+
+sd          A.59 utt1:  [ When, + when ] we were in Jersey, we used to go down to the Jersey beach a lot, and really enjoyed that a lot.  /
+sd          A.59 utt2:  [ It's really, + they had,   
+
+b          B.60 utt1:  # Yeah,  /
+sd          B.60 utt2: [ we, # +   
+
++          A.61 utt1:  # a really # ] nice beach areas there. /  
+
++          B.62 utt1:  After we ] moved away from Germany,  we moved to New Hampshire. /  
+
+b          A.63 utt1:  Uh-huh. /  
+
+sd          B.64 utt1:  {C And } I lived there for seven years. /  
+
+b          A.65 utt1:  {F Oh, } I see. /  
+
+sd          B.66 utt1:  {F Uh, }   
+
+ba          A.67 utt1:  # That's a really pretty area, too.  # /  
+
++          B.68 utt1:  # {C and } I really enjoyed that because, # {D you know, } the mountains were real close, /  
+
+b          A.69 utt1:  # Uh-huh.  # /  
+
+sd          B.70 utt1:  # [ we # like the, + we like the ] white mountains  /
+sd          B.70 utt2: {C and, }   
+
+b          A.71 utt1:  Yeah. /  
+
++          B.72 utt1:  {F Uh, } unfortunately, I didn't really get to go skiing much while I was there.  /
+sd          B.72 utt2: I went skiing once. /  
+
+b          A.73 utt1:  Yeah,  /
+sd          A.73 utt2: [ we loved the, + we loved [ the, + the ] ] New Jersey area, too, because [ the + <breathing>  the ] lakes were really pretty close, {D you know, }  /
+sd          A.73 utt3: [ you could, +   
+
+b          B.74 utt1:  # Uh-huh.  # /  
+
++          A.75 utt1:  # you # could ] drive within twenty minutes to an hour <breathing>  and just be at a real nice vacation spot where you could sail [ and, + and ] just really, - /
+sd          A.75 utt2: {C and } then we weren't too for from the Appalachian Trail,  /
+sd          A.75 utt3: we did quite a bit of hiking,  /
+sv          A.75 utt4: which is kind of fun.  /
+qr          A.75 utt5:  Are [ you a, + you a ] hiker, or not? /  
+
+^h          B.76 utt1:  {F Uh, } /  
+
+qy^g          A.77 utt1:  Not so much, {F huh? } /  
+
+ng          B.78 utt1:  [ Not, + not ] really so much.  /
+sd          B.78 utt2:  [ [ If, + if, ] + if ] there was some place [ that, + that ] we went to where there was hiking involved, [ I, + I ] would be {D you know, } happy to go hiking, /  
+
+b          A.79 utt1:  # Uh-huh.  # /  
+
+sd          B.80 utt1:  # {C but } # <breathing>  [ we, + we ] never have really planned a vacation around, {F uh, } places to go hiking. /  
+
+qy^d          A.81 utt1:  {C So } [ [ your, + your next, ] + your plans ] are try to find someplace to [ s-, + scuba ] dive. /  
+
+ny          B.82 utt1:  Yeah.  /
+sd^e          B.82 utt2:  Our next vacation [ will, + will ] be scuba diving,  /
+sd          B.82 utt3: I'm sure. /  
+
+qy          A.83 utt1:  You have any children? /  
+
+nn          B.84 utt1:  No,  /
+sd^e          B.84 utt2: not yet. /  
+
+bk          A.85 utt1:  Okay,  /
+%          A.85 utt2: then that's probably one of the reasons our, - /
+sd          A.85 utt3: we had little children all the time, /  
+
+b          B.86 utt1:  # Yeah.  # /  
+
+sv          A.87 utt1:  # {C so } # some of the things are not [ as, + quite as, ] {F uh, } # adaptable.  # /  
+
+aa          B.88 utt1:  # Yeah, #  /
+sv          B.88 utt2: [ it's a, + it's a ] little more, difficult planning a vacation,   
+
+aa          A.89 utt1:  # Yeah,  /
+aa          A.89 utt2: it is.  # /  
+
++          B.90 utt1:  # when you [ have, + # have ] children. /  
+
+sv          A.91 utt1:  You have to try to figure out kinds of things that you can do that they will enjoy, too,  /
+%          A.91 utt2: {C and, } -/  
+
+b          B.92 utt1:  # Yeah.  # /  
+
+%          A.93 utt1:  # {C so, } # I think, wha-, -/  
+
+b          B.94 utt1:  Yeah,  /
+sv          B.94 utt2: {C and } diving is something that, - /
+sv          B.94 utt3: especially for small children, {F uh, } - /
+sd          B.94 utt4: I think [ the, + the ] minimum age for diving [ [ is, +   
+
+b          A.95 utt1:  # Yeah.  # /  
+
++          B.96 utt1:  # is # ] probably, + legal anyway, # would be probably  ] about sixteen.  # /  
+
+sd          A.97 utt1:  # Eleven or twelve, I would # think, probably  /
+sd          A.97 utt2: {C but, }  maybe fifteen even. /  
+
+b          B.98 utt1:  Yeah. /  
+
+sd          A.99 utt1:  I know that, {F uh, } {F uh, } [ one of, + one ] thing that happens [ to us + to ] vacation trips now is that usually that try to involve some of the members of the family.  /
+sd          A.99 utt2: {D You know, } we go wherever somebody is,   
+
+b          B.100 utt1:  # Uh-huh.  # /  
+
++          A.101 utt1:  # that # we haven't seen for a while <laughter>.  /
+%          A.101 utt2: {C So } [ that, + that's ] kind of, - /
+sd          A.101 utt3:  {F uh, } we just came back from, {F uh, } {F uh, } Grand Rapids where we saw one of our sons graduate,   
+
+b@          B.102 utt1:  # {F Um. }  #   
+
++          A.103 utt1:  # [ from, # + {F uh, } with ] his Master's Degree in social work  /
+sd          A.103 utt2: {C and so } that was fun,  /
+sd          A.103 utt3: [ {C and, } +  {C and } ] the summer [ we have a, + we have [ a, + a ] ] reunion [ in, + in ] Salt Lake area up by Park Cities.    
+
++@          B.104 utt1:  Uh-huh. /  
+
++          A.105 utt1:  Where we're going to camp for a week with as many members [ of, + of ] a rather large reunion group [ that, + ] {F uh, } as we can get together  /
+%          A.105 utt2: {C so, } -/  
+
+ba          B.106 utt1:  [ That, + that ] sounds like a lot of fun. /  
+
+%          A.107 utt1:  Ye-, -/  
+
+sd          B.108 utt1:  Our family had a reunion last year that was kind of like that, too, /  
+
+b          A.109 utt1:  # Yeah.  # /  
+
+sd          B.110 utt1:  # that # there were several hundred, {F uh, } people  /
+sd          B.110 utt2: {C and } they all kind of met at a central place.  /
+sd          B.110 utt3: [ I, + I ] didn't go, /  
+
+b          A.111 utt1:  # {F Um. }  # /  
+
+sd          B.112 utt1:  # {F uh, } # {C but } [ it would have been nice. + It would have been a nice ] vacation. /  
+
+sd          A.113 utt1:  [ [ We, + we've tra-, ] + we've ] moved around enough so that we now have people in different parts of the country.  /
+sd          A.113 utt2:  I guess my favorite vacation idea would be to somehow figure out something kind of mobile where you could stop and sleep maybe, {D you know, } like [ a, +    
+
+b          B.114 utt1:  # Uh-huh.  # /  
+
++          A.115 utt1:  # a # ] small camper.  /
+sd          A.115 utt2:  [ We've, + we've ] travelled in a big one.  /
+sv          A.115 utt3:  I hate them <laughter>  because they're hard to jockey around, {D you know, }  /
+%          A.115 utt4: {C but } maybe a pickup with the back on, -/  
+
+sd          B.116 utt1:  [ Some-, + {C or } something ] [ like, {F uh, } what's the, + like  ] the Volkswagen Vanagon.   
+
+b          A.117 utt1:  Yeah. /  
+
++          B.118 utt1:  I've heard is really nice. /  
+
+sv          A.119 utt1:  {C So } you could kind of sleep in it sometimes,  /
+sv          A.119 utt2: {C but } you wouldn't want to do it all the time. /  
+
+b          B.120 utt1:  Yeah. /  
+
+sd          A.121 utt1:  {F Uh, } we have enough friends here and there,  /
+sd          A.121 utt2: I would just love to just drive through the United States and stop and see people I know,   
+
+b          B.122 utt1:  Uh-huh. /  
+
++          A.123 utt1:  and visit for a day and then go on and, {D you know. } -/  
+
+sd          B.124 utt1:  My dad has been talking for years about, {F uh, } getting a fifth wheel --   
+
+b          A.125 utt1:  Uh-huh. /  
+
++          B.126 utt1:  -- and just picking up,  /
+sd          B.126 utt2: he's retired -- /  
+
+b          A.127 utt1:  Uh-huh. /  
+
+sd          B.128 utt1:  -- {F uh, }  he's in his sixties,  /
+sd          B.128 utt2: {C and } he, {F uh, } would like to just get a fifth wheel and just travel across the country and spend a month here or a couple of weeks there,   
+
+b          A.129 utt1:  # Yeah.  # /  
+
++          B.130 utt1:  # and # just, {D you know, } not,   
+
+b          A.131 utt1:  # Yeah.  # /  
+
++          B.132 utt1:  # be # settled anywhere, /  
+
+b          A.133 utt1:  # Yeah,  /
+sv          A.133 utt2: I think, #   
+
+sd          B.134 utt1:  # just see, see # the rest of the country. /  
+
++          A.135 utt1:  I think that would real, - /
+sd          A.135 utt2: {C and } I would like to maybe not take great long trips, [ but, + but ] have your home base, where your home is --   
+
+b          B.136 utt1:  Uh-huh. /  
+
++          A.137 utt1:  -- and then just travel out for, {D like, }  maybe, {F oh, } a month, maybe go, -/  
+
+sd          B.138 utt1:  [ He, + he ] does that quite a bit. /  
+
+%          A.139 utt1:  {C And, } -/  
+
+sd          B.140 utt1:  [ He, + he ] hasn't lately, though, {F uh, } because he's been ill, /  
+
+b          A.141 utt1:  # Yeah.  # /  
+
+sd          B.142 utt1:  # {F uh, } # {C but } he's been known to be gone for a month or two at a time  /
+sd(^q)          B.142 utt2: {C and, } {D you know, } he'll say, this is my itinerary.  /
+^q          B.142 utt3:  I'm going here, here and here  /
+^q          B.142 utt4: {C and } I'll be back in about two months <laughter>. /  
+
+b          A.143 utt1:  Yeah.  /
+sv          A.143 utt2: There are a lot of [ neat, + neat ] places to visit in America,  /
+ba          A.143 utt3: that's for sure.  /
+sd          A.143 utt4:  [ We've, + I haven't ] been much to the south,  /
+sd          A.143 utt5: I haven't been [ in, + in ] Georgia or Florida or Mississippi or Alabama.  /
+sd          A.143 utt6:  I guess [ that's, + those are ] the only states I have not visited.   /
+sd          A.143 utt7: {C But, }  {F uh, } up the coast, {F uh, } [ at, + {F uh, } {F uh, } in ] Maryland and around there, [ where the, + where the ] early history is, there's some - /
+sv          A.143 utt8:  Johnstown and, {F uh, } [ in s-, + in that ] area is just really neat,  /
+sv          A.143 utt9: interesting things to - /
+%          A.143 utt10: {C so, } {D you know. } -/  
+
+b          B.144 utt1:  # Uh-huh.  # /  
+
+%          A.145 utt1:  # {D so, } # -/  
+
+qy          B.146 utt1:  Have you been [ a, + to a ] lot of the different historical sites? /  
+
+ny          A.147 utt1:  Yeah,  /
+sd^e          A.147 utt2: we took a trip, {F uh, } around to the, {F uh, } Civil War battle grounds and  things back in nineteen sixty when it was the centennial or something, /  
+
+b          B.148 utt1:  # Uh-huh.  # /  
+
+aa          A.149 utt1:  # I # believe it was.   /
+sd          A.149 utt2: {F Uh, } had about three kids then I think,  /
+sd          A.149 utt3: {C but } that was a really fun, interesting trip.  /
+sd          A.149 utt4:  [ [ I + <breathing> we, ] + we ] read Bruce  ((   ))  book before we went, {D you know, }  /
+sd          A.149 utt5: {C and, so } we were ready to look up the places we read about. /  
+
+b          B.150 utt1:  Yeah,  /
+sd          B.150 utt2: [ I -- +   
+
+sd@          A.151 utt1:  It was really interesting.   
+
++          B.152 utt1:  -- I ] think [ right, + right ] now while my husband and I don't have any kids we'll probably take as many vacations as we can doing things like scuba diving [ and, +   
+
++@          A.153 utt1:  # Yeah.  # /  
+
++          B.154 utt1:  # and # ] adventurous types of things, /  
+
+b          A.155 utt1:  # Yeah.  # /  
+
+sd          B.156 utt1:  # {C and # then } [ when we-, + eventually, when we ] have kids, -/  
+
+b          A.157 utt1:  Yeah. /  
+
+sd          B.158 utt1:  {D Now, } [ his, + his ] folks did a lot of traveling across country.  /
+sd          B.158 utt2:  {D You know } they went to the Grand Canyon and did things like that. /  
+
+sv          A.159 utt1:  {D Well, } {D now, } camping is fun with kids.  /
+%          A.159 utt2:  If you're,   
+
+b          B.160 utt1:  # Yeah.  # /  
+
++          A.161 utt1:  # {D you # know, } - /
+sv          A.161 utt2: once they get a little bigger, not teeny tiny ones, - /
+sv          A.161 utt3: {C but, }  [ even, +  even ] some little ones do pretty good  /
+sv          A.161 utt4: [ {C but, } +   
+
+b          B.162 utt1:  # Yeah.  # /  
+
++          A.163 utt1:  # {C but } # ] when they get a little bigger [ so + ] they can help,  /
+sv          A.163 utt2: [ that, + that's ] a fun way [ to + <breathing>,  to, ] {F uh, } cut costs  /
+sv          A.163 utt3: {C and } it's enjoyable, too.  /
+sv          A.163 utt4: Very restful.  /
+%          A.163 utt5: {E I mean } I find, -/  
+
+aa          B.164 utt1:  Yeah,  /
+sd          B.164 utt2: [ I, +  I ] do enjoy camping. /  
+
+b          A.165 utt1:  Yeah,  /
+sv          A.165 utt2: I find the outdoors very relaxing and, {D you know, } kind of <breathing> a change. /  
+
+sd          B.166 utt1:  As long as I have a shower nearby, I'm fine <laughter>.    
+
+b          A.167 utt1:  Yeah <laughter>. /  
+
++          B.168 utt1:  And electricity. /  
+
+ba          A.169 utt1:  {D Well, } I'm with you.  /
+sd          A.169 utt2:  I need my creature comforts, too. /  
+
+b          B.170 utt1:  Yeah. /  
+
+fc          A.171 utt1:  {D Well, } it was great to talk to you. /  
+
+fc          B.172 utt1:  It was nice talking to you, too, Beth. /  
+
+fc          A.173 utt1:  Okay,  /
+fc          A.173 utt2: see you later.  /
+fc          A.173 utt3:  Bye-bye. /  
+
+fc^m          B.174 utt1:  Okay.  /
+fc^m          B.174 utt2: Bye-bye. / 

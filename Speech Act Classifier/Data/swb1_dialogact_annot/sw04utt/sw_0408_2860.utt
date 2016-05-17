@@ -1,0 +1,500 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2860_1105_1132
+TOPIC#:		358
+DATE:		910512
+TRANSCRIBER:	khb
+UTT_CODER:		AEE
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:        None. 
+
+===========================================================================
+  
+
+o          B.1 utt1:  There we # are. # /  
+
+b          A.2 utt1:  # <Talking> <<radio, very faint>> Yes # .  /
+qw          A.2 utt2:  Tell me, what are some of the things that you did with your children when they were growing up? /  
+
+sd          B.3 utt1:  {F Oh, } {D well, } {F uh, } when they were little, we did lots of reading and playing and  going to parks,   
+
+x          A.4 utt1:  <Talking> <<someone in background>>.   *[[what is this]]
+
++          B.5 utt1:  and things of that sort,  /
+sd          B.5 utt2: {C and, }   
+
+b          A.6 utt1:  Uh-huh. /  
+
++          B.7 utt1:  [ b-, + ] I had two boys.  /
+sd          B.7 utt2:  They were both interested in things like model rockets,  /
+sd          B.7 utt3: {C so } we would go to the football field and set off model rockets <laughter>. /  
+
+sd          A.8 utt1:  I have two boys also <laughter>.  /
+sd          A.8 utt2:  {F Uh, }   my children [ are, +  {F um, } are ] swimmers,  /
+sd          A.8 utt3: {C and so }  as they were growing up much of, {F uh, } our, {F um, } normal life outside of school and everything [ arou-, + {F uh, } revolved around  ] their swimming. /  
+
+b          B.9 utt1:  Uh-huh. /  
+
+sd          A.10 utt1:  {C So, } in order to have a reason for being there, especially as they got older, I became involved in it too  /
+sd          A.10 utt2: {C so }  we were always together at their meets. /  
+
+ba          B.11 utt1:  {F Oh, } {D well, } that's good.   /
+sd          B.11 utt2: {F Um, }   mine were not terribly sporting. /  
+
+b          A.12 utt1:  Uh-huh. /  
+
+sd          B.13 utt1:  {F Uh, } they both did T-ball and soccer in grade school, /  
+
+b          A.14 utt1:  Uh-huh. /  
+
+sd          B.15 utt1:  {C but } neither one of them carried on, {F uh, } the sports after that. /  
+
+b          A.16 utt1: Yeah,  /
+sd          A.16 utt2: [ the, +  the ] boys tried those,  /
+sd          A.16 utt3: {C but }   [ they w-, + they did ] go in,   /
+sd          A.16 utt4: they started swimming when they were, {F oh, } seven and eight,  /
+sd          A.16 utt5: {C and } they really loved it,  /
+sd          A.16 utt6: {C and } they're swimming both c-, - /
+%          A.16 utt7: they'll be, - /
+sd          A.16 utt8: one is in college,  also swims in college,  /
+sd          A.16 utt9: {C and } the other will continue to swim in college,  /
+sd          A.16 utt10: {C and } they're fortunate,  /
+sd          A.16 utt11: they [ ma-, + even made ] nationals. /  
+
+ba          B.17 utt1:  {F Oh, } wonderful!  /
+ba          B.17 utt2: # {F Oh } that's great! # /  
+
+sd          A.18 utt1:  # {C And so } we would drive up # to see that [ [ when + w-, ] +  whenever ] it was reasonably close,  /
+sd          A.18 utt2: {C but, }  we did a lot of things, {F um, }  /
+sd          A.18 utt3: {C and } we tried to do things both together and individually with the children, {F um. } /  
+
+b          B.19 utt1:  # Yeah,  /
+%          B.19 utt2: I, # -/  
+
+sd          A.20 utt1:  # we live near Washington, #  /
+sd          A.20 utt2:  {C so } [ we, + we  ] would always go in for the museums. /  
+
+b          B.21 utt1:  <Laughter> Sure. /  
+
+sd          A.22 utt1:  That's always a big, {F uh, } thing.   /
+sd          A.22 utt2: {C And } one of my children is, {F uh, } also a musician  /
+sd          A.22 utt3: {C so, }  {F um, } one of the things that we did with him a lot was to go,   <breathing> either my husband or I, or both of us would, t-,  concerts with him. /  
+
+b          B.23 utt1:  Uh-huh. /  
+
+sd          A.24 utt1:  {C And } my other child, {F um, } {F uh, } is [ in, +  big into ] tropical fish, /  
+
+b          B.25 utt1:  <Noise> {F Uh. } /  
+
+sd          A.26 utt1:  {C so } our whole family,    we take family trips to different places to visit [ fish stores + or go to fish shows,  ]  /
+%          A.26 utt2: {C so } <laughter>, -/  
+
+ba          B.27 utt1:  My goodness, {F uh. } /  
+
+x          A.28 utt1: <Laughter>.   
+
+sd          B.29 utt1:  {D Well, } we didn't have any, {F uh, } avid, {F uh, } activities like that, /  
+
+x          A.30 utt1:  <Laughter>.   
+
+sd          B.31 utt1: [ they, + they ] were interested in a lot of things,  /
+sd          B.31 utt2: {C but } nothing to quite that depth, # I guess.  /
+%          B.31 utt3:  {C But, }  we would, # -/  
+
+sd          A.32 utt1:  # <Laughter>  ((   ))  I don't think [ we've, + # we've ]  missed a fish store on the entire [ east, + northeast  ] coast of the United States <laughter>. /  
+
+ba          B.33 utt1:  {F Oh } my goodness.  /
+sd          B.33 utt2: {D Well, } we did go to things like aquariums and, {F uh, }   
+
+b          A.34 utt1:  Uh-huh. /  
+
++          B.35 utt1:  {F uh, } <clicking> natural history museums and zoos, and all of those things that one does with # kids, {F uh, } # /  
+
+b          A.36 utt1:  # Yes.  /
+sd          A.36 utt2: In fact, it's funny, #  /
+sd          A.36 utt3: our vacations have always been,  {F um, } {F uh, } {F uh, }   [ as, + as ] they've gotten older.  /
+sd          A.36 utt4: When they were younger we would go to the beach,  /
+sd          A.36 utt5: {C but } as they got older we tried to pattern our vacations where we would travel  and do things,   
+
+b          B.37 utt1:  Uh-huh. /  
+
++          A.38 utt1:  and that there would be [ a, + a  ] feature each day.    
+
+b          B.39 utt1:  {F Uh, } yes. /  
+
++          A.40 utt1:  Whether it would be going to, - /
+sd          A.40 utt2: one summer [ we, +  {F uh, } we ]  went up to New England  /
+sd          A.40 utt3: {C and } we went to the marble quarries up there, [ and, + ] {F uh, }   
+
+b          B.41 utt1:  {F Oh, }  (( really )) . /  
+
++          A.42 utt1:  to see that, and another day fish hatchery,  /
+sd          A.42 utt2: {C and,    
+
+b          B.43 utt1:  Yeah. /  
+
++          A.44 utt1: so } [ we did, + {D you know, } we did ] try,  /
+sd          A.44 utt2: {C and } of course we learned too. /  
+
+b          B.45 utt1:  <Laughter> Yeah. /  
+
+h          A.46 utt1: [ {C But, } +  {F uh, } {C and, } ]  {F uh, } I don't know,  /
+%          A.46 utt2: I, {F uh, } - /
+sd          A.46 utt3: when they were very young I did not work. /  
+
+b          B.47 utt1:  Yeah,  /
+sd          B.47 utt2: {D well, } I started working half-time when, {F uh, } they were at the nursery school. /  
+
+b          A.48 utt1:  Uh-huh. /  
+
+%          B.49 utt1:  # {C But } I  ((   )) - /
+%          B.49 utt2: yet. # -/  
+
+sd          A.50 utt1:  # {C And } [ I, + I  ] started working # part-time when they were in, {F um, } junior high school and high school,  /
+sd          A.50 utt2: [ {C and } + now, {C and } ]  I worked in the school system,  /
+sd          A.50 utt3: {C and } now I work a full school day,  /
+sd          A.50 utt4: {C but } that leaves me off on holidays and summers. /  
+
+b          B.51 utt1:  Uh-huh. /  
+
+%          A.52 utt1:  {C So } [ it was a, + it was a,  ] {D you know, } - /
+sd          A.52 utt2:  I think they need me more,   
+
+b          B.53 utt1:  Yeah. /  
+
++          A.54 utt1:  when they were older, than they did when they were, -/  
+
+sv          B.55 utt1:  {D Well, } {F uh, } I think, [ it, +  {F uh, } they ]  need you in different ways. /  
+
+aa          A.56 utt1:  That's true,  /
+aa          A.56 utt2: yeah. /  
+
+sv          B.57 utt1:  You want to be around for the crisis and things like that,  /
+sv          B.57 utt2: [ {C and, } +   
+
+aa          A.58 utt1:  That's right. /  
+
++          B.59 utt1:  {C but } ] it's not quite so much the hand-holding and peanut butter and jelly making <laughter>. /  
+
+aa          A.60 utt1:  {F Um, } yeah,  /
+ba          A.60 utt2:  [ that's, + that's  ] for sure.  /
+ba^r          A.60 utt3:    That's for sure,  /
+qy          A.60 utt4: [ what do you, + do you ] have any feelings as to the trends that you see? /  
+
+%          B.61 utt1:  {D Well, } it lo-, - /
+%          B.61 utt2: o-, - /
+sv          B.61 utt3: the one trend I would say is that with so many more women choosing professional careers,   
+
+b          A.62 utt1:  Uh-huh. /  
+
++          B.63 utt1:  there are fewer of them home in the afternoons,  /
+sv          B.63 utt2:  {C and } I don't think it needs to be the mothers,  /
+sv          B.63 utt3: {C but } I think it would be nice if some of the parents would be around for a few more hours. /  
+
+aa          A.64 utt1:  Yeah,  /
+%          A.64 utt2: when they  ((   )) , {D you know }  /
+sd          A.64 utt3:  it was funny,  /
+sd          A.64 utt4: I can remember,  /
+sd          A.64 utt5: {C and } my mother and I have talked about it, [ to + ] how important it was when I came home from school. /  
+
+b          B.65 utt1:  {F Um. } /  
+
+sd          A.66 utt1:  It wasn't really conversation,  /
+sd          A.66 utt2: {C but } there were always things that just tumbled out. /  
+
+b          B.67 utt1:  Yes. /  
+
+sd          A.68 utt1:  {C And, }  {F uh, } {F uh, } granted the child doesn't always think that they're sharing it,  /
+%          A.68 utt2: {C but }  it, - /
+sv          A.68 utt3: [ when they, + when it's ] not there they miss it. /  
+
+aa          B.69 utt1:  I think that's true,  /
+sv          B.69 utt2: {C but } [ I d-, + I also think ]  that's, at least in my experience, truer of girls than boys. /  
+
+b          A.70 utt1:  Uh-huh. /  
+
+sd          B.71 utt1:  Even when I was there, my boys didn't share all that much with me,  and  certainly not to the extent I did with my mother. /  
+
+aa          A.72 utt1:  Yeah,  /
+aa^r          A.72 utt2: yeah.  /
+aa          A.72 utt3: No,  /
+sd          A.72 utt4: [ [ I, + I, ] + I ] realize that,  /
+sv          A.72 utt5: {C but } it's funny,  /
+sv          A.72 utt6: they don't always do it,  /
+sv          A.72 utt7: {C but } occasionally they do,  /
+%          A.72 utt8:  {C and } you want, -/  
+
+aa          B.73 utt1:  Yeah.  /
+aa          B.73 utt2:  Uh-huh. /  
+
+sv          A.74 utt1:  {C and } when they do,  there's a reason for it, that they're sharing it, /  
+
+b          B.75 utt1:  Uh-huh. /  
+
+sd          A.76 utt1:  {C and } [ you want to be avail-, + {E at least } I've wanted to be   available, ] when  [ they, + for some reason, [ they  had,  + they were  ] ] bouncing something off of me.    
+
+b          B.77 utt1:  Right. /  
+
++          A.78 utt1:  Because it was something that was bothering them  or they were concerned about,  /
+%          A.78 utt2: {C and }  it was, {F uh, } - /
+sv(^q)          A.78 utt3: you just felt,  gee, if I weren't here,    
+
+b          B.79 utt1:  Uh-huh /  
+
++          A.80 utt1:  how, - /
+%          A.80 utt2: [ {C or, } +  {C or  } ] if my husband, -/  
+
+qh          B.81 utt1:  Who would they ask? /  
+
+aa          A.82 utt1:  That's right. /  
+
+qh          B.83 utt1:  {C Or } what would they do? /  
+
+aa          A.84 utt1:  Yes,  /
+aa          A.84 utt2: that's exactly right.  /
+sv          A.84 utt3:  {F Uh, }  {C but } [ it has been, + {F um, } it's been ] interesting  [ and + ] particularly [  I, + I  ] think because the society in which we live,  families are separated.  /
+sv          A.84 utt4: You don't have grandparents near by or aunts and uncles. /  
+
+b          B.85 utt1:  Uh-huh. /  
+
+sd          A.86 utt1:  {F Um, } {E I mean, } I grew up in a situation where on weekends we were always visiting relatives. /  
+
+b          B.87 utt1:  Yeah,  /
+sd          B.87 utt2: {D well, } I did too.  /
+sd          B.87 utt3:  We were close to my, {F uh, } maternal grandparents, {E I mean, } just a few miles,   
+
+b          A.88 utt1:  Uh-huh. /  
+
++          B.89 utt1:  and, {F uh, } close enough to visit my paternal grandparents, {D you know, } quite often. /  
+
+b          A.90 utt1:  Yeah,  /
+b^r          A.90 utt2: yeah. /  
+
+sd          B.91 utt1:  They were fifty miles away  /
+%          B.91 utt2: {C but, } -/  
+
+%          A.92 utt1:  {D See, }  {C and }   we're, - /
+%          A.92 utt2: {F uh, } that, - /
+sd          A.92 utt3: [ [ we, + I,  ] + I  ] grew up with, {D you know } - /
+sd          A.92 utt4: every weekend there was some visiting somewhere. /  
+
+b          B.93 utt1:  Uh-huh. /  
+
+sd          A.94 utt1:  {F Um, } {C and } it was sort of an Italian family, /  
+
+b          B.95 utt1:  {F Um. } /  
+
+%          A.96 utt1:  {F um, } {C but } my children, - /
+sd          A.96 utt2:  [ we, +   although we  ] have some relatives in the area that [ we, + we  ] see,  we, - /
+%          A.96 utt3: they don't ha-, - /
+sd          A.96 utt4: it's not that constant --   
+
+b          B.97 utt1:  Right. /  
+
++          A.98 utt1:  -- thing where you are on intimate terms with cousins. /  
+
+sd          B.99 utt1:  {D Well, } when my kids were quite small,   
+
+b          A.100 utt1:  Uh-huh. /  
+
++          B.101 utt1:  {F uh, } we lived close to both sets of grandparents  /
+sd          B.101 utt2: {C and } they saw them a lot,  /
+sd          B.101 utt3: {C but } they don't have any cousins, {F uh, }  /
+sd          B.101 utt4: {C or } they didn't, -/  
+
+b          A.102 utt1:  Yeah. /  
+
+sd          B.103 utt1:  [ their, +  {F uh, } their ] cousins are about ten years younger. /  
+
+b          A.104 utt1:  Uh-huh. /  
+
+sd          B.105 utt1:  {C So, } {F uh, } they never played together or anything. /  
+
+b          A.106 utt1:  Yeah.  /
+%@          A.106 utt2: {C And } [ I, + I ] just sort of think --   
+
+sd          B.107 utt1:  {C And } there are only two of them  /
+sd          B.107 utt2: {C and } they didn't live in the same town. /  
+
++@          A.108 utt1:  -- yeah  /
+%          A.108 utt2: that - /
+%          A.108 utt3: the trend [  of, +  of ] families and time, - /
+sv          A.108 utt4:  [ where, + where ] parents are spending less time, you don't have the families, [ too, + to  ] take up the gap. /  
+
+aa          B.109 utt1:  That's right. /  
+
+sv          A.110 utt1:  {C And  so } the kids in some ways [ [ are, + are, ] + are  ] suffering a little bit, in that, {F uh, } [ [ the model, + the role models  ] that get +  [ [ the, +  the, ] + the  ] family issues that get  ] discussed,     
+
+b          B.111 utt1:  Yeah. /  
+
++          A.112 utt1:  and all these, I think are very important parts of them growing up, /  
+
+b          B.113 utt1: Uh-huh. /  
+
+sd          A.114 utt1:  {C so } [ we, + we  ] try [ to, + to ] do it as well as we can.  /
+sd          A.114 utt2: We keep in close contact with grandparents and talk over the phone, /  
+
+b          B.115 utt1:  Uh-huh. /  
+
+sd          A.116 utt1:  {C and } cousins and aunts and uncles, - /
+sd          A.116 utt2: {C and } we do,  /
+sd          A.116 utt3: {C but } [ it's, + although it's ] not the same, we are, - /
+sv          A.116 utt4: {C and } that's part of, I think, teaching too, is what a family is like,  /
+qh          A.116 utt5: {C because } then [ h-, + how  ] do they pattern their own? /  
+
+sv          B.117 utt1:  {D Well } everyone makes it's own model,  /
+sv          B.117 utt2:  {C but, }  {F uh, } [ i-, + it  ] seems that there should be some continuity, /  
+
+b          A.118 utt1:  Yeah,   {F Um. } /  
+
+sv          B.119 utt1:  {C and } it's helpful to have, {F uh, } things that become family traditions, and  that sort of thing. /  
+
+%          A.120 utt1:  That's, - /
+%          A.120 utt2: yeah.  /
+sd          A.120 utt3: {D Well, } [ we've always, + we have had ]   this tradition, {F um, } that we always go out before Christmas and cut our own tree. /  
+
+b          B.121 utt1:  Uh-huh. /  
+
+sd          A.122 utt1:  {C And } that's always been a little bit of a tradition that we've had.  /
+sd          A.122 utt2: Now, this year, it's, was hard with our son now being in college. /  
+
+b          B.123 utt1:  Yeah <noise>. /  
+
+sd          A.124 utt1:  {C So } this was one thing that we, {F um, } weren't able to do this year,  /
+sd          A.124 utt2: {C but } we did that [ for e-, + ] from the time the children were young enough to realize what it was until, {F uh, } our older son went away to college. /  
+
+sv          B.125 utt1:  {F Oh, } {D well, } that's the kind of thing that they will remember, though. /  
+
+sd          A.126 utt1:  {C And } we have advent calendars still,    
+
+b          B.127 utt1:  Uh-huh. /  
+
++          A.128 utt1:  from the time that they came, {D you know, } to, -/  
+
+sd          B.129 utt1:  Ours finally disintegrated. /  
+
+b          A.130 utt1:  Oh. /  
+
+sd          B.131 utt1:  We had a felt one that was li-, - /
+sd          B.131 utt2: it was a Christmas tree that had, {F uh, } a little trinket for each day,   
+
+b          A.132 utt1:  {F Oh, } yes. /  
+
++          B.133 utt1:  that was pinned on the date, /  
+
+%          A.134 utt1:  That's, - /
+%          A.134 utt2: uh-huh. /  
+
+sd          B.135 utt1:  {C and } then you took it off  and put it on the tree,  /
+sd          B.135 utt2: {C so } at the end you had a decorated tree. /  
+
+%          A.136 utt1:  {D Well, } [ o-, + ours  ] is, {F uh, } # - /
+sd          A.136 utt2: [ a friend # -- +   
+
+sd          B.137 utt1:  # {C And } it finally # got moth-eaten,  /
+sd          B.137 utt2: we threw it way last year <laughter>. /  
+
++          A.138 utt1:  -- {F uh, } a friend ] of mine from Denmark hand appliqu3ed one for each child. /  
+
+ba          B.139 utt1:  How nice. /  
+
+sd          A.140 utt1:  {C And, }  {E I mean, } they look today as new as they did when [ they gave them to, + she gave them to ] us,  /
+sd          A.140 utt2: {C and } there's a ring  /
+sd          A.140 utt3: {C and } you buy a present, /  
+
+b          B.141 utt1:  {F Oh, } I see. /  
+
+sd          A.142 utt1:  {C and } you wrap the present up,  /
+sd          A.142 utt2: {C and } {E I mean, } the presents have gone from the days when they were very young to a little box of Band-Aids and an eraser and  things, /  
+
+ba          B.143 utt1:  <Laughter> How cute. /  
+
+sd          A.144 utt1: [ to + today, ] where, {F um, } sometimes I put a little gift [ if I see something that's, + ] {F uh, }  occasionally a Christmas tree decoration which they will save for [ their, + their  ] future,   
+
+b          B.145 utt1:  Uh-huh. /  
+
++          A.146 utt1:  to sometimes, just money,    
+
+b          B.147 utt1:  Yeah. /  
+
++          A.148 utt1:  {F uh, } pieces of candy.  /
+sd          A.148 utt2:   {C So, } I think as they're getting in college,  I just, - /
+sd          A.148 utt3:  for my older boy that was in college I put a dollar bill for each day.    # Which was the equivalent # -- -/  
+
+qy^d          B.149 utt1:  # {F Oh, } I'm sure he appreciated that! # /  
+
+nd          A.150 utt1:  -- {D well, } it was the equivalent of a Christmas present. /  
+
+b          B.151 utt1: Uh-huh. /  
+
+sd          A.152 utt1: [ [ {C But } it was, {F uh, } + {C and } it was, ] + {C and, } {D you know, } it was ] fun,  /
+sd          A.152 utt2: {C but } that's a tradition  /
+sd          A.152 utt3: {C and } [ they will, + those will ] be passed on to them [ when they, +   
+
+b          B.153 utt1:  Yeah. /  
+
++          A.154 utt1:  when they ] get married and leave. /  
+
+sd         B.155 utt1:  {D Well, } you were saying what other trends are there,  /
+sd          B.155 utt2: {C and } one just occurred to me because I was editing a book about it recently, /  
+
+b          A.156 utt1:  Uh-huh. /  
+
+sv          B.157 utt1:  {C and } that is the trend in a lot of, {F uh, } lower class areas, for the grandmothers to be raising the children. /  
+
+aa          A.158 utt1:  Yes,  /
+aa^r          A.158 utt2: yes, /  
+
+%          B.159 utt1:  {C And } that's, - /
+sv          B.159 utt2:  a lot of it is due to the fact that the mothers are on drugs. /  
+
+%          A.160 utt1:  The b-, - /
+%          A.160 utt2: yes,  /
+sv          A.160 utt3: and the broken families.  /
+sd          A.160 utt4:  [ We, +  {F um, } as I said, living in an area of Washington, D C.   
+
+b          B.161 utt1:  Uh-huh. /  
+
++          A.162 utt1:  We ] definitely see this, {F uh, }  /
+sd          A.162 utt2: {C and, }  {F uh, } it's that grandmother figure, not only raising her own children, but raising, {F um, } children from the streets, too, frequently. /  
+
+aa          B.163 utt1:  Right.  /
+sd          B.163 utt2:  {D Well, } we had a sociologist at the center where I work who was writing a book on, {F uh, } multigeneration,    
+
+b          A.164 utt1:  Uh-huh. /  
+
++          B.165 utt1:  {F um, } matriarchies, [ in a way. + ]    
+
+b          A.166 utt1:  Uh-huh. /  
+
++          B.167 utt1:  {F uh, } where the tradition in the family has been for a teenaged  daughter to have a baby while she's still living at home with the mother  /
+%          B.167 utt2: {C and, } -/  
+
+aa          A.168 utt1:  Yes,  /
+%          A.168 utt2: {D well, } [  this is a, + this is a ] si-, - /
+%          A.168 utt3: {F uh, } this is in fact, {F uh, } - /
+sd          A.168 utt4: we've been studying this in our school, that, {F um, } this is one of the symptoms, or not the symptoms,  /
+sv          A.168 utt5: it's one of the ways that young girls feel that they are maturing,  /
+sv          A.168 utt6: it's a rite of passage </talking>. /  
+
+b          B.169 utt1:  Yeah. / 

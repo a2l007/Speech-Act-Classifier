@@ -1,0 +1,268 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3154_1290_1288
+TOPIC#:		335
+DATE:		910726
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.
+
+==========================================================================
+  
+
+o          A.1 utt1: Okay.  /
+^h          A.1 utt2: {D Well, } let's see,  /
+sd          A.1 utt3: {D well, } we keep our [ paper, + paper ] bags lined up in the garage for [ glass and, + glass and, ] {F uh, } plastics   /
+sd          A.1 utt4: {C and, } {F uh, } we make the dump over to the Wal-Mart bins there as soon as they're full.  /
+sd          A.1 utt5: I guess we collect [ m-, + milk ] cartons and whatever [ p-, + other plastics ] are acceptable. /  
+
+qy          B.2 utt1:  Are you in the part of town where, {F uh, } they have gotten into the other containers yet for recycling? /  
+
+nn          A.3 utt1:  No,  /
+nn^r          A.3 utt2: no,  /
+sv^e          A.3 utt3: I didn't think that anybody had those at all yet. /  
+
+aa          B.4 utt1: {D Well, } maybe they don't.  /
+sd          B.4 utt2: [ I, + I ] know that was supposed to be in May  /
+sd          B.4 utt3: {C and } I couldn't tell whether some parts of town had started it or if it was just everybody [ was, + <breathing> was ] waiting for the delivery of whatever those containers were. /  
+
+b          A.5 utt1: Right.  /
+ar          A.5 utt2: {D Well, } no,  /
+sd          A.5 utt3: I haven't seen any,  /
+sv          A.5 utt4: {C so } [ I, + I ] thought that it [ all, + had all ] been delayed several times.  /
+sd          A.5 utt5: {C So } I have no idea what they look like  /
+sd          A.5 utt6: {C and, } I'm --   
+
+b          B.6 utt1:  Yeah,  /
+sv          B.6 utt2: [ th-, +   
+
++          A.7 utt1:  -- kind of anxious to see them. /  
+
++          B.8 utt1: That's ] going to be interesting because [ it's, + {F uh, } we've ] gotten so convenient and conventional in trash disposal which is <breathing>, {F uh, } - /
+sd          B.8 utt2: I look at our big green containers,  /
+sd(^q)          B.8 utt3: {C and } I say, {D well, } they work fine  /
+sd          B.8 utt4: {C and } I keep mine outside the garage so that I don't have any odors  /
+sv          B.8 utt5: {C but } --   
+
+b          A.9 utt1:  {F Oh, } right. /  
+
++          B.10 utt1: -- it's clearly a place where, {F uh, } {F uh, } - /
+sv          B.10 utt2: it will be interesting to see how well that works  /
+sd          B.10 utt3: {C and } [ I am, + I'm ] glad the community is doing it.  /
+sv          B.10 utt4: {F Uh, } it's one of those things that kind of has to be forced on people.  /
+sd          B.10 utt5: {F Uh, } I don't know [ if, where you grew up in your, + ] what you saw back, {F uh, } years ago,  /
+sd          B.10 utt6: {C but } for me the thing that strikes me is [ I, + ] {F uh, } growing up in rural South Dakota where, {D hey } the farmers brought their eggs to town and the local hatchery --   
+
+b          A.11 utt1:  Right. /  
+
++          B.12 utt1: -- would candle them and package them is that, {F uh, } in the fifties, {F uh, } you could say we had the recycling going on then that we should have now.   
+
+b^r          A.13 utt1:  Right. /  
+
++          B.14 utt1: Which was all the milk bottles were glass  /
+sd          B.14 utt2: {C and } you got a nickel or dime, which in that time was a lot of money, when you returned them.  /
+sd          B.14 utt3: Pop bottles --   
+
+b          A.15 utt1:  Oh. /  
+
++          B.16 utt1:  -- all had a deposit on them. /  
+
+aa          A.17 utt1: {F Oh, } of course.  /
+aa          A.17 utt2: That, they did.  /
+sd          A.17 utt3: {D You know } {D actually, } we had milk delivered to our house --   
+
+b          B.18 utt1:  Oh. /  
+
++          A.19 utt1: -- in glass bottles  /
+sd          A.19 utt2: {C and } we had a milk shoot at the side of the house. /  
+
+b          B.20 utt1:  Uh-huh. /  
+
+sd          A.21 utt1: You could just leave the milkman a note --   
+
+b          B.22 utt1:  Yeah. /  
+
++          A.23 utt1: -- on what you needed  /
+sd          A.23 utt2: {C and so } you just put the empty ones back out there  /
+sd          A.23 utt3: {C and } he took them away and [ put, + {D you know, } put ] another gallon of [ glass, + glass ] bottle in there. /  
+
+b          B.24 utt1:  Yeah. /  
+
+b          A.25 utt1:  {D So, } {F uh, } yeah, /  
+
+sd          B.26 utt1: {D So, } {F uh, } {D you know, } I look back [ at, + at, ] {F uh, } my childhood  /
+sv          B.26 utt2: {C and } I'd say, {D you know, } they were doing things then that we should be doing now  /
+sd          B.26 utt3: {C and so } it doesn't bother me at all that [ we're, + we're, ] {F uh, } kind of starting to put the pressure on people to get away from all this, {F uh, } throwaway society that got developed in the sixties and seventies. /  
+
+aa          A.27 utt1: Right,  /
+aa^r          A.27 utt2: right,  /
+sv          A.27 utt3: [ it would be nice, + it would be nice ] to see it take a good turn here.  /
+sv          A.27 utt4: It seems like it started to take a turn and then it went away  /
+sd          A.27 utt5: {C so } I hope that this time [ it, + it ] stays.  /
+sv          A.27 utt6: Just,   
+
+b          B.28 utt1:  Yeah. /  
+
++          A.29 utt1: To see stacks and stacks of newspapers just to the trash is just amazing.  /
+sd          A.29 utt2: {D So, } {F uh, } {D you know, } [ [ we, + when we go dump, ] + {D actually } when we go dump ] our things, {F oh, } we collect newspapers, too, and then take them,  /
+sv          A.29 utt3: seems like [ there's a pretty well, + there's a [ p-, + pretty ] continual flow ] of people coming and dumping glass and dumping plastics -- /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sv          A.31 utt1: -- {C so } that's kind of encouraging.  /
+sd          A.31 utt2: [ I didn't know, + {D you know, } I didn't know ] if we started to do that.  /
+sd          A.31 utt3: I didn't know what to expect. /  
+
+b          B.32 utt1: Yeah,  /
+sd          B.32 utt2: {D well } I'll have to say [ I'm, + I'm, ] the only one I'm good at at this point is the newspaper.  {F Uh, } taking that to the Boy Scouts and my aluminum cans --   
+
+b          A.33 utt1:  Right. /  
+
++          B.34 utt1: -- {F uh, } getting rid of those,  /
+sd          B.34 utt2: {C but } on the plastic, [ I have, + {F uh, } I don't have ] any habits there yet  /
+sd          B.34 utt3: {C and } [ I'm, + guess I'm ] waiting for the city [ to, + to ] push me in that direction  /
+sv          B.34 utt4: [ {C but, } +   
+
+sv          A.35 utt1: <Laughter> {D Well, } I guess they will shortly.  /
+%          A.35 utt2: I, {F uh, } -/  
+
++          B.36 utt1: {C But, } ] it just seems like on the larger scale that, {D you know, } [ the, + ] we always talk about in our society is that economic strife things  /
+sv          B.36 utt2: {C and } I think [ if, + {F uh, } if ] we just start to put, {D you know, } the nickel deposit on things, like, {F uh, } was the case years ago that, {F uh, } it would have more immediate effect, {F uh, } [ than, + ] - /
+sd          B.36 utt3: {C because } I remember searching ditches for beer bottles because they were worth money -- /  
+
+b          A.37 utt1:  {F Oh, } right. /  
+
+sv          B.38 utt1: -- {C and } it seems like beer drinkers are among the worst for throwing things out the window  /
+sd          B.38 utt2: {C and so } outside my little town,   
+
+x          A.39 utt1:  <Breathing>.   
+
++          B.40 utt1: we would, {F uh, } go out and --   
+
+b          A.41 utt1:  Yeah.  /  
+
++          B.42 utt1: -- look for long neck beer bottle because they were worth something. /  
+
+b          A.43 utt1: Right.  /
+sd          A.43 utt2: Do you know, [ I saw + in Tom Thumb yesterday, I saw ] the return to [ the, + {F uh, } the ] small Coke bottles. /  
+
+b          B.44 utt1:  Yeah. /  
+
+sd          A.45 utt1: {C And } I don't know if there's a deposit on those or not. /  
+
+%          B.46 utt1: I, - /
+sv          B.46 utt2: {D well } that's interesting because, - /
+qy^g          B.46 utt3: they're back to glass, you're saying? /  
+
+na          A.47 utt1: [ They were glass, + they were the glass, ] {F uh, } - /
+^h          A.47 utt2: {D well, } let's see,  /
+sd          A.47 utt3: they'd be, I don't know, maybe [ ten ounce or -- +   
+
+b          B.48 utt1:  Uh-huh. /  
+
++          A.49 utt1:  -- six ounce or ten ounce. ]     
+
+b          B.50 utt1:  Yeah. /  
+
++          A.51 utt1: [ Sort of a small size, + sort of a small size ] [ and, + and ] [ [ we, + anyway we just, ] + we didn't stop ] and [ look them, + look at them ] a long time  /
+sd          A.51 utt2: [ {C but, } + {C and } ] they were packed in the old sort of six pack stick them down, {D you know, } {F uh } --   
+
+b          B.52 utt1:  Uh-huh. /  
+
++          A.53 utt1: -- [ sort of, + sort of ] a basket --   
+
+^2          B.54 utt1:  [ The carton. +      
+
++          A.55 utt1:  -- type thing. /  
+
++          B.56 utt1:  The paper carton. ] /  
+
+aa          A.57 utt1: Right,  /
+aa^r          A.57 utt2: right,  /
+sd          A.57 utt3: {D so, } I hadn't seen that in a long time. /  
+
+b          B.58 utt1: Yeah.  /
+sv          B.58 utt2: {D Well, } I mean the, - /
+sv          B.58 utt3: you really look and say a lot of the things we need to do, we were doing  /
+sv          B.58 utt4: {C and } we had all the mechanisms in place with the fold up paper cartons, the wood <breathing>, {F uh, } racks which now, basically, you could turn them into the plastic ones that would hold, {F uh, } twenty-four bottles.  /
+sd          B.58 utt5: [ {C And, } + {C and, } ] {F uh, } {F uh, } I'm not really say going back to good old days,  /
+sv          B.58 utt6: {C but } certainly we were doing things the way we think we should do <laughter> them now. /  
+
+b          A.59 utt1:  Yeah,  /
+b^r          A.59 utt2: yeah,  /
+%          A.59 utt3: {D well, } -/  
+
+sv          B.60 utt1: {D Well, } it will be interesting to see how, over the next year, this all works out because, {D like } on the, {F uh, } grass, [ I'm, + I ] know your husband, {F uh, } <breathing> doesn't really like the paper sacks. /  
+
+aa          A.61 utt1: No,  /
+sd          A.61 utt2: he doesn't like the paper sacks  /
+sd          A.61 utt3: [ [ {C and, + } {F uh, } {C but } he, ] + {C but, } {D you know, } he ] likes to pick the grass up, too.  /
+sd          A.61 utt4: He [ doesn't, +   
+
+b          B.62 utt1:  Yeah. /  
+
++          A.63 utt1:  Doesn't, ] -/  
+
+sd          B.64 utt1: [ I'm the, + I'm the ] same way because otherwise, {F uh, } - /
+sd(^q)          B.64 utt2: {F oh, } [ I'm, + I ] generally listen to Neal Sperry on Saturdays and [ Neal, + {F uh, } Neal's ] a person who says, I like to pick it up  /
+sd          B.64 utt3: {C but } I don't believe in throwing it into [ the, + {F uh, } the ] landfill,  /
+sd          B.64 utt4: {C so } I have my compost pile,  /
+sv          B.64 utt5: {C but } most of us don't have the, {F uh, } sufficient,   
+
+x          A.65 utt1:  <Laughter>.   
+
++          B.66 utt1:  lot size [ to, + {F uh, } to ] do that. /  
+
+aa          A.67 utt1:  Right,  /
+aa^r          A.67 utt2: right. /  
+
+sd          B.68 utt1:  {F Uh, } {C so } I'm glad the city's willing to take that on. /  
+
+ba          A.69 utt1: That's nice.  /
+sd          A.69 utt2: I guess they dump it the same place,  /
+qy^d          A.69 utt3: I wonder where they dump that. /  
+
+sd          B.70 utt1: {D Well, } there's someplace, {D you know, }  /
+%          B.70 utt2: if it's, - /
+sd          B.70 utt3: {C because } really, when I look at what my grass does [ in, + in ] actually about twenty-four hours, {F uh, } knowing what the farmers do in rural areas, they just take their hay and just build a big mound of it and it naturally, {F uh, } composts or stores  /
+sd          B.70 utt4: {C and, } {F uh, } {C so } all you have to do is just place it somewhere and churn it  /
+sd          B.70 utt5: {C and } it will naturally decompose <noise>, {F uh, }  /
+sd          B.70 utt6: {C so } you just have to kind of keep in separated  /
+sd          B.70 utt7: {C and then, } {F uh, } who knows <noise> how they process it from there and what they turn it into,  /
+sv          B.70 utt8: {C but } it's certainly usable material. /  
+
+aa          A.71 utt1: Yeah,  /
+aa^r          A.71 utt2: yeah,  /
+sv          A.71 utt3: {D well } [ they must, + they must ] keep it separate if they have this date in. /  
+
+b          B.72 utt1:  Uh-huh. /  
+
+sd          A.73 utt1: They have this day now, that it's, {D you know, } separate from the other trash pick up. /  
+
+b          B.74 utt1: Right <<pause>>.  /
+sd          B.74 utt2: {C But, } [ I, + the thing I ] don't understand about that is, {D like } when, - /
+sd          B.74 utt3: it's one thing to send grass there,  /
+sv          B.74 utt4: {C but } I've trimmed trees and other things which, {F uh, } end up being something that, clearly won't decompose nearly as rapidly, /  
+
+aa          A.75 utt1:  No. / 

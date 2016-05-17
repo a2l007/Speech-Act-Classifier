@@ -1,0 +1,271 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+
+
+FILENAME:	3657_1425_1001
+TOPIC#:		325
+DATE:		920102
+TRANSCRIBER:	glp
+UTT_CODER:      aabo
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        None.
+
+==========================================================================
+  
+
+o          A.1 utt1:  Okay Jerry. /  
+
+o          B.2 utt1:  Ok-, -/  
+
+sd^t          A.3 utt1:  I guess, {F uh, } tonight's topic is about, {F uh, } personal computers and level of interest [ and, + {F uh, } and ] [ your, + your ] expertise. /  
+
+b          B.4 utt1:  <Laughter> Oops <laughter>. /  
+
+x          A.5 utt1:  <Laughter>.   
+
+b          B.6 utt1:  {F Oh, } {D well. } -/  
+
+b^r          A.7 utt1:  {F Oh, } {D well. } -/  
+
+b          B.8 utt1:  {D Well, } okay,  /
+ad^t          B.8 utt2: {D well, } [ let's, + let's ] fire away.  /
+%          B.8 utt3:  {F Uh, } {D well, } Brian, /  
+
+aa          A.9 utt1:  Okay.  /
+%          A.9 utt2: {D Well, } first of all, - /
+qy^t          A.9 utt3: you want me to start off? /  
+
+ny          B.10 utt1:  Yeah,  /
+ad^t          B.10 utt2: [ [ why don't you, + why don't we, ] + why don't you ] do about thirty seconds  /
+co^t          B.10 utt3: {C and } I'll do thirty seconds  /
+ad^t          B.10 utt4: {C and then } we can work off of there. /  
+
+aa          @A.11 utt1:  Okay,  /
+aa          @A.11 utt2: [ real, + real ] fine.  /
+sd          @A.11 utt3:  {F Uh, } first of all, {F uh, } yes,  /
+sd          @A.11 utt4: {F uh, } I do own a P C here at home  /
+sd          @A.11 utt5: {C and } I also have one at the office.  /
+sd          @A.11 utt6:  {C And } my level of interest is quite high with P C -s  /
+sd          @A.11 utt7: {C and } [ I was really, + I am really ] interested in them, however, not to the extent as I was about, {F uh, } two years ago when I basically knew about everything there was to know about different things  /
+sd          @A.11 utt8: {C and } that was the time when we were shopping for one.  /
+sd          @A.11 utt9: {C And } I think we got a top of the line at that time,  /
+sd          @A.11 utt10: {C but, } {F uh, } as you know P C -s change quite rapidly  /
+sd          @A.11 utt11: {C and } the technological advances kind of outdated our P C where I can get the same P C I got two years ago at the fraction of the cost.  /
+sd          @A.11 utt12:  {C And } I also enjoy using ours at home  /
+sd          @A.11 utt13: {C and } we use it for [ a, + a ] number of different things.  /
+sd          @A.11 utt14:  Plus I get in [ a lot, + an awful lot ] of good use of one at [ work, + where I work. ]  /
+sd          @A.11 utt15:  Lot of, {F uh, } analytical, {F uh, } testing, reviews, {F uh, } lot of different things I use it [ at h-, + at ] work,  /
+sd          @A.11 utt16: {C so } I enjoy P C -s  /
+sd          @A.11 utt17: {C and } [ they, + they ] make my [ w-, + ] life and my work a lot easier.  /
+qo          @A.11 utt18:  How about yourself? /  
+
+%          B.12 utt1:  {D Well, } {F uh, } since, {F uh, } - /
+sd          B.12 utt2: {D well, } I guess since this time last year I've changed, {F uh, } jobs within the firm I'm with -- /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  -- <Lipsmack> {C and, } {F uh, } I now am learning to be a sys admin [ on, + on, ] not only P C -s, but, {F uh, } [ pers-, + ] {F uh, } professional work stations --   
+
+ba          A.15 utt1:  Wow. /  
+
++          B.16 utt1:  -- as well. /  
+
+ba          A.17 utt1:  All right. /  
+
+sd          B.18 utt1:  {C And } these are the big mamas, i. e. sons, {F uh, } Hewlett Packards, {F uh } --   
+
+b          A.19 utt1:  Uh-huh. /  
+
++          B.20 utt1:  -- {F uh, } [ sor-, + ] {F uh, } <lipsmack> {F oh, } the big Solburns [ and, + and ] so forth. /  
+
+b          A.21 utt1:  Yeah. /  
+
+%          B.22 utt1:  {C And, } {F uh, } <breathing> h-, - /
+sd          B.22 utt2: [ {C and, } + {C and, } ] {F uh, } we have, {F uh, } two P C -s here.  /
+sd          B.22 utt3: We have, {F uh, } an X T  /
+sd          B.22 utt4: {C and then } recently [ we, + we ] made [ a, + ] [ the + ] command decision to go ahead and get, {F uh, } the absolute top of the line because spouse is a, {F uh, } programmer. /  
+
+b          A.23 utt1:  Uh-huh. /  
+
+sd          B.24 utt1:  {C And so } we got one [ that, +   
+
+x          A.25 utt1:  <Laughter>.   
+
++@          B.26 utt1:  that ] could do enough, {F uh, } and, {D you know, } hold three different O S -s.   
+
+b          A.27 utt1:  {F Oh, } yeah. /  
+
++@          B.28 utt1:  As far as DOS, {F uh, } UNIX, and, {F uh, } O S Two. /  
+
+b          A.29 utt1:  {F Oh, } yes. /  
+
+sd          B.30 utt1:  <Laughter> {C So, } {F uh, } [ I, + I ] get to see all kinds of different applications. /  
+
+sv          A.31 utt1:  Sounds like you're an expert at it, too. /  
+
+bd          B.32 utt1:  No,  /
+bd          B.32 utt2: no. /  
+
+x          A.33 utt1:  <Laughter>.   
+
+bd          B.34 utt1:  Learning,  /
+bd          B.34 utt2: [ I'm learning t-, + I'm learning to ] be, {F uh, } one who knows what's he's doing -- /  
+
+b          A.35 utt1:  Yes. /  
+
+qh       B.36 utt1:  -- {C but, } expert,  /
+nn          B.36 utt2: no <laughter>. /  
+
+%          A.37 utt1:  {F Oh, } {D well, } {D well. } -/  
+
+sv          B.38 utt1:  I frown on [ that, +  that ] term because, {F uh, } too many people, [ s-, + ] {D you know, } {F uh, } misuse the word  /
+o@          B.38 utt2: {C so, }   
+
+x          A.39 utt1:  <Laughter>.   
+
++@          B.40 utt1:  I'd rather say [ I'm, + [ I, + I ] am ] continually learning,  /
+sd          B.40 utt2: {C but } [ my area, + [ m-, + ] my level ] of expertise is increasing almost daily. /  
+
+ba          A.41 utt1:  {D Well, } that's great, be-, -/  
+
+b          B.42 utt1:  {C And, } {F uh, } yeah,  /
+sd          B.42 utt2: {C so, } I've got a P C and a work station at work  /
+%          B.42 utt3: {C and } I -- -/  
+
+b          A.43 utt1:  Uh-huh. /  
+
+sd          B.44 utt1:  -- {C and } we have two P C -s here [ w-, + ] at home. /  
+
+b          A.45 utt1:  Right. /  
+
+%          B.46 utt1:  {C And } the, - /
+sd          B.46 utt2: a lot of [ [ the, + the, ] + the ] new mama we're, {F uh, } - /
+sd          B.46 utt3: I've got Aldus and, {F uh, } Micrographics on it as far as, {F uh, } technical publishing  /
+sd          B.46 utt4: {C and } we do [ a, + ] quite a bit of church work with ours. /  
+
+ba          A.47 utt1:  Great. /  
+
+%          B.48 utt1:  {C And, } {F uh, } -/  
+
+sd          A.49 utt1:  We do an awful lot of that, too <laughter> with ours. /  
+
+%          B.50 utt1:  {D You know, } some, - /
+sd          B.50 utt2: [ [ I, + I, ] + I've ] found that, {F uh, } the more we do with it, {F uh, } - /
+%          B.50 utt3: it seem, - /
+sv          B.50 utt4: {C and } the Lord's just pleased that we're kind of, - /
+sv          B.50 utt5: [ this is, + this is, ] part of giving back a portion of what He's given to us. /  
+
+x          A.51 utt1:  <Laughter>.   
+
+sv          B.52 utt1:  {C So, } {F uh, } I don't mind, because seems like the more we do, [ there's, + there's ] the more stuff that's, {F uh, } available that comes along and so forth. /  
+
+aa          A.53 utt1:  {F Oh, } yes. /  
+
+%          B.54 utt1:  {C And, } -/  
+
+aa          A.55 utt1:  Definitely agree with that. /  
+
+sv(^q)          B.56 utt1:  {C So, } {F uh, } rather than being niggardly [ and, +  and, ] chintzy, {F uh, } we've just said, you bet, boss, seeing as he was the one that, {F uh, }   
+
+x          A.57 utt1:  <Laughter>.   
+
++          B.58 utt1:  enabled us to get the money to buy the Four Eighty-Six. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:  {C Because } the top of the line we've got, - /
+sd          B.60 utt2: {D well, } we've got a compatible.  /
+%          B.60 utt3:  It, - /
+o@          B.60 utt4:  {F uh, }   
+
+b          A.61 utt1:  Yeah. /  
+
++@          B.62 utt1:  Eight meg of ram [ and, + and ] [ [ two, + two, ] + two ] hundred and eleven hard drives. /  
+
+ba          A.63 utt1:  Wow,  /
+ba^r          A.63 utt2: wow,  /
+%          A.63 utt3: you got, - /
+qy          A.63 utt4: that's a Four Eighty-Six processor, too? /  
+
+ny          B.64 utt1:  Uh-huh,  /
+ny^r          B.64 utt2: uh-huh. /  
+
+ba          A.65 utt1:  Wow <laughter>. /  
+
+sd          B.66 utt1:  Like I said --   
+
+%          A.67 utt1:  That's, -/  
+
++@          B.68 utt1:  -- we bought a real [ steam, + steam ] burner.    
+
+b          A.69 utt1:  Yes. /  
+
++@          B.70 utt1:  {F Uh, } mainly because of spouse's UNIX --   
+
+b@          A.71 utt1:  Yes.   
+
++@          B.72 utt1:  -- because UNIX --   
+
++@          A.73 utt1:  Has to s-, - /
+^2          A.73 utt2: you have to have that to support UNIX. /  
+
++@          B.74 utt1:  -- takes [ [ [ a, + a, ] + [ c-, + ] a ] + ] {D well, } four megs minimum --   
+
+b          A.75 utt1:  Uh-huh,  /
+^2          A.75 utt2: of RAM. /  
+
++@          B.76 utt1:  -- of RAM  /
+sd          B.76 utt2: {C and then, } {F uh, } [ [ it, + it, ] + it ] likes to live on about a hundred and  fifty megabyte hard drive. /  
+
+b          A.77 utt1:  Right <laughter>. /  
+
+sd          B.78 utt1:  {C So } the next size up was a Two Hundred and Eleven  /
+sd          B.78 utt2: {C and so } rather than just have one, we went ahead and got two.  /
+sd          B.78 utt3:  {F Uh, } at some point in time I'm going to do the mirroring, {F uh, } experiment to where one disk mirrors the other for --   
+
+b          A.79 utt1:  Yeah. /  
+
++          B.80 utt1:  -- fault tolerance. /  
+
+ba          A.81 utt1:  Wow,  /
+b          A.81 utt2: okay. /  
+
+sd          B.82 utt1:  {C And, } {F uh, } {F oh, } [ speak, + speak ] of the angel, she just walked in <yelling>. /  
+
+sd          A.83 utt1:  {D Well, } good for her <laughter>. /  
+
+t3          B.84 utt1:  T I stuff <<to another person>>.  /
+%          B.84 utt2:  {C So, } {F uh, } {F uh, } -/  
+
+qy^d          A.85 utt1:  You say she's a programmer also. /  
+
+ny          B.86 utt1:  Yeah,  /
+sd^e          B.86 utt2: [ she's, + she's ] a squirrel for, {F uh, } {F uh, } contractor out at American Airlines. /  
+
+b          A.87 utt1:  Uh-huh. /  
+
+%          B.88 utt1:  {C So, } -/  
+
+ba          A.89 utt1:  {D Well, } great.  /
+sv          A.89 utt2:  {D Well, } she probably needs that kind of a powerful type of a machine to do her work. / 

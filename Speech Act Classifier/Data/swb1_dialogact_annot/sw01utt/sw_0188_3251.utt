@@ -1,0 +1,277 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3251_1327_1379
+TOPIC#:		361
+DATE:		911013
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Speaker B very muffled and hard to distinguish words
+either in conversation or in monologue.
+
+========================================================================
+  
+
+o          B.1 utt1:  Okay,  /
+sd^t          B.1 utt2:  ((   ))  I missed a part of it.  /
+qy^d^t          B.1 utt3:   We're to talk about what, lawns and gardens? /  
+
+sd^t          A.2 utt1:  Lawn and garden work and what you enjoy and what kind of work you do.  /
+sd          A.2 utt2: [ I'm, +  I'm ] a putterer.  /
+sd^t          A.2 utt3:  I chose that topic because I really like gardening --   
+
+b          @B.3 utt1:  Uh-huh. /  
+
++          A.4 utt1:  -- as far as flowers and shrubs and just keeping a pretty yard. /  
+
+b          B.5 utt1:  Uh-huh.  /
+%          B.5 utt2:  I, {D well, } - /
+sd^t          B.5 utt3:  [ [ it's, +  it's, ] + it's  ] very <laughter> [ str-, +  strange ] that I got this call because my wife just called me.  /
+sd          B.5 utt4: I was just in the shower after finishing [ mowing the lawn --   
+
+b          A.6 utt1:  <Laughter>  Oh. /  
+
++          B.7 utt1:  --  and, +  {D you know, } mowing the lawn   and ] removing some old petunias out of the garden,  /
+sd          B.7 utt2: this type of thing is working right in to start planting [ fall, + fall ] bulbs. /  
+
+b          A.8 utt1:  Uh-huh. /  
+
+%          B.9 utt1:  {F Uh. } /  
+
+sd          A.10 utt1:  We've had a late fall  /
+sd          A.10 utt2: it seems like,  the weather, - /
+sd          A.10 utt3: in fact today it's really warm,  /
+sd          A.10 utt4: {C and so } many of the summer flowers are still pretty enough that you hate to pull them up,  /
+sv          A.10 utt5: {C but } {D you know } you need to pretty soon. /  
+
+sd          B.11 utt1:  {D Well, } that's the way this was.  /
+sd          B.11 utt2:   [ The, +  the ] petunias were really great.  /
+sd          B.11 utt3:  Our mums [ are, +  are ] beautiful, /  
+
+b          A.12 utt1:  Oh. /  
+
+sd          B.13 utt1:  {F Uh, } [ I don't know if we, +  I don't think we've ]  had a frost up here.  /
+sd          B.13 utt2: [ I've been, +  I was ] down in   ((   ))  for a week,  /
+sd          B.13 utt3: {C so } I don't know what happened last week -- /  
+
+b          A.14 utt1:  Uh-huh. /  
+
+sd          B.15 utt1:  -- {F uh, } {C but, }  {F uh, } [ it seems  like  it's, +  I don't know if it's ] late.  /
+sd          B.15 utt2: I'm sort of waiting for Indian Summer  /
+sd          B.15 utt3: {C so } I can get a lot of stuff down out here. /  
+
+b          A.16 utt1:  Uh-huh. /  
+
+sd          B.17 utt1:  {F Uh, } [ I, +  I ] enjoy it.  /
+sd          B.17 utt2:  [ [ We came here, + we just moved into this, ] +  {D well, } we moved ] [ in +  in ]  November   and put [ all, + all ] the landscaping in [ this, + this ] year.  /
+sd          B.17 utt3:   We came from nine years in a condo, {F uh, }  /
+sd          B.17 utt4: {C and } working in that condo, you didn't have to do anything --   
+
+b          A.18 utt1:  Uh-huh. /  
+
++          B.19 utt1:  -- {D you know, } unless you really wanted to,  /
+%          B.19 utt2: {C so } --   
+
+bf          A.20 utt1:  {D So } now --   
+
++          B.21 utt1:  --  ((   )) . -/  
+
++          A.22 utt1:  -- you have the chance to really create [ and, +  and ] spread out. /  
+
+aa          B.23 utt1:  Right.  /
+%          B.23 utt2:  {D You know, } I can't, - /
+sd          B.23 utt3:  this is my [ third, +  third ] house I think, I've owned, {F um, }  /
+sd          B.23 utt4:  {C but, }  {F uh, } it's interesting, {D you know, }  /
+sd          B.23 utt5: the only problem is that I do quite a bit of traveling,  /
+sd          B.23 utt6: {C and } it sort of gets away from me --   
+
+b          A.24 utt1:  Uh-huh. /  
+
++          B.25 utt1:  -- if you're not with it.  /
+sd          B.25 utt2:  [ {C So, } + {C but, } ]   {F uh, } [ I, +  I ] enjoy most of it,  /
+sd          B.25 utt3: {C and } about this time of year [ there  is, +  it starts ]  getting a little old,  /
+sd          B.25 utt4: {C and } I start looking forward to, {D you know, } having other things to do with my --   
+
+bf          A.26 utt1:  The grass --   
+
++          B.27 utt1:  --  ((   )) . /  
+
++          A.28 utt1:  -- not growing so fast <laughter>. /  
+
+ar          B.29 utt1:  {D Well, } [ it is, +  it is ]  for me  /
+sd          B.29 utt2: {C because } I've been doing a lot of fertilizing.  /
+sd          B.29 utt3: We had a terrible summer,  /
+sd          B.29 utt4: we had a drought -- /  
+
+b          A.30 utt1:  Oh. /  
+
+sd          B.31 utt1:  -- {C and, }  {F uh, } took a lot of watering  and a lot of fertilizing,  /
+sd          B.31 utt2: {C and } now it's really growing  /
+sd          B.31 utt3:  {C and } I'm trying to establish a good [ root, + root ] growth --   
+
+%          A.32 utt1:  {F Um } -- /  
+
++          B.33 utt1:  -- {D you know, } for the winter. /  
+
+sd          A.34 utt1:  -- ours seems to have slowed down here.  /
+sd          A.34 utt2: We're not having to mow every week religiously -- /  
+
+b          B.35 utt1:  Really. /  
+
+sd          A.36 utt1:  -- {C but } we're still fighting bugs, and ready to change some of [ the, +  the ] summer flowers out -- /  
+
+%          B.37 utt1: {F Uh. } /  
+
+sd          A.38 utt1:  -- I still have caladiums that are pretty, which is a surprise this late in the year. /  
+
+bh          B.39 utt1:  {F Oh, } really? /  
+
+ny          A.40 utt1:  Uh-huh. /  
+
+%          B.41 utt1:  {F Um. } /  
+
+sd          A.42 utt1:  {C But } {D like } today, it's eighty-five degrees -- /  
+
+b          B.43 utt1:  {F Oh, } yeah -- /  
+
+sd          A.44 utt1:  -- it's really strange, /  
+
+b          B.45 utt1:  -- yeah,  /
+sd          B.45 utt2: I hear that from, my brother-in-law lives in Plano, /  
+
+sd          A.46 utt1:  {C But } that'll change --   
+
+b          B.47 utt1:  Yeah <laughter>. /  
+
++          A.48 utt1:  -- real quick <laughter>. /  
+
+sd          B.49 utt1:  {D Well, } he always -- -/  
+
+sd          A.50 utt1:  We'll wish we'd planted bulbs and pansies already. /  
+
+sd          B.51 utt1:  -- <Laughter> he waits until it gets about seventeen below up here  /
+sd          B.51 utt2: {C and then } he calls us, /  
+
+ba          A.52 utt1:  {F Oh, } my gosh. /  
+
+b          B.53 utt1:  yeah  /
+sd          B.53 utt2: it's seventy degrees here in the sunshine.  /
+%          B.53 utt3: {C  So } <laughter>. -/  
+
+sd          A.54 utt1:  {D Well, } Texas has gotten to where it's a real problem as far as plants, because our summers are so terribly hot -- /  
+
+%          B.55 utt1:   ((   )) . /  
+
+sd          A.56 utt1:  -- {C and } we have ice storms every year.  /
+sd          A.56 utt2:   {C And } there just aren't that many plants and shrubs that can take both of those --   
+
+b          B.57 utt1:  Uh-huh. /  
+
++          A.58 utt1:  -- extremes.  /
+sd          A.58 utt2: Some of the things that used to be hardy are getting to where they don't make it through the two swings. /  
+
+b          B.59 utt1:  Yeah,  /
+%          B.59 utt2: that is, - /
+sd          B.59 utt3: [ I was, +   {D you know, } I was ] {D like } conditioned to it -- /  
+
+b          A.60 utt1:  Uh-huh. /  
+
+sd          B.61 utt1:  -- [ they, +  they ] have to be hardened to it  /
+sd          B.61 utt2: [ that's, +  that's ] strange with me.  /
+sd          B.61 utt3:  {D You know, } you think, Dallas, {D you know, } almost semitropical, you wouldn't have [ that kind of, +  that kind of ] problem,  /
+%          B.61 utt4: {C but, } -/  
+
+sd          A.62 utt1:  {D Well, } for the most part we don't,  /
+sd          A.62 utt2:  {C but } we have usually just a pocket of really bad hot and really bad cold.  /
+sd          A.62 utt3:  {D Well, } the summers have gotten where they're a lot hotter -- /  
+
+b          B.63 utt1:  Uh-huh. /  
+
+sd          A.64 utt1:  -- {C but } [ the, +  the ]  ice storms really are stressful on all [ the, +  the ] plants that we have around.  /
+sd          A.64 utt2:   We've noticed that crepe myrtles don't do as well as they used to --    
+
+b          B.65 utt1:  Really,  /
+bh          B.65 utt2: {F oh } do they. /  
+
++          A.66 utt1:  -- and, {F uh, } pittosporum  /
+sd          A.66 utt2: that used to be the kind of things we could plant all the time -- /  
+
+b          B.67 utt1:  Uh-huh. /  
+
+sd          A.68 utt1:  -- [ you, +  you -- ]   
+
+sd          B.69 utt1:  I love, -/  
+
++          A.70 utt1:  -- really take a chance with them freezing, /  
+
+b          B.71 utt1:  Yeah,  /
+sd          B.71 utt2: I love [ the, +  {F uh, } the ]  landscaping,  /
+sd          B.71 utt3: like I say, my brother-in-law  ((   )) .   I get to Carrollton quite a bit. /  
+
+b          A.72 utt1:  Uh-huh. /  
+
+sd          B.73 utt1:  I go there on business,  /
+sd          B.73 utt2:  {C and } I really enjoy getting around and  seeing the different areas with different gardens,  /
+sd          B.73 utt3:  {C and } Texas is, - /
+sd          B.73 utt4:  [ D-, +  Dallas ] is very nice.  /
+sd          B.73 utt5:  I really enjoy it there.  The landscaping, the homes, the architecture, the whole thing --   
+
+b          A.74 utt1:  Uh-huh. /  
+
++          B.75 utt1:  -- very enjoyable gardens,  /
+sd          B.75 utt2: {C and } my wife and I, -/  
+
+sd          A.76 utt1:  Except for the lack of trees, out where we are # <laughter>. #    
+
+%          B.77 utt1:  # {D Well. } # -/  
+
++          A.78 utt1:  It was all cotton fields,  /
+sd          A.78 utt2: {C and } when we get to other parts of the country where the trees are so beautiful, we really miss it. /  
+
+b          B.79 utt1:  Yeah,  /
+sd          B.79 utt2: that we have, {D you know } -- -/  
+
+b          A.80 utt1:  Uh-huh. /  
+
+sd          B.81 utt1:  -- Ohio's a very pretty state.  /
+sd          B.81 utt2:  [ We moved, +  in seventy-six we moved ] to Chicago,  /
+sd          B.81 utt3: we lived there for five years,  /
+sd          B.81 utt4: {C and } I remember the first time I took my wife there on a house hunt,  /
+sd          B.81 utt5: {F uh, } we were coming in  /
+sd          B.81 utt6: {C and } before the plane landed she looked out the window  /
+sd(^q)       B.81 utt7: {C and } [ she said, +  she said, ] ((   ))  there's no trees down there. /  
+
+x          A.82 utt1:  <Laughter>.   
+
+^q          B.83 utt1:   ((   ))  this is Illinois,  /
+^q          B.83 utt2: you're not. - /
+sd          B.83 utt3:  {C And, }  when we got out to the area where we decided we were going to live and buy a house, there were no trees --    
+
+%          A.84 utt1:  {F Um. } /  
+
++          B.85 utt1:  -- because the farmers had cleared all the land -- /  
+
+b          A.86 utt1:  Uh-huh. /  
+
+sd          B.87 utt1:  -- {C and } now all of a sudden it was being developed,  /
+sd          B.87 utt2: {C and } the first thing I did was planted all kinds of trees, / 

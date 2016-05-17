@@ -1,0 +1,477 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2557_1043_1016
+TOPIC#:		335
+DATE:		910411
+TRANSCRIBER:	lan
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.
+
+============================================================================
+  
+
+sd          A.1 utt1:  <Laughter> {C and } she's expecting the end of this month,  /
+sd          A.1 utt2: {C and } she's the only one that lives near by. /  
+
+ba          B.2 utt1:  {F Oh, } {D well } that will be nice though. /  
+
+sd          A.3 utt1:  {C So } the rest live in, - /
+sd          A.3 utt2: one lives in Connecticut,  /
+sd          A.3 utt3: {C and } couple lives in Pittsburg,  /
+sd          A.3 utt4: {C and } one lives near D. C.  /
+%          A.3 utt5:  {C So, } {F uh } ... -/  
+
+sv          B.4 utt1:  {C But } still sort of up in that general --   
+
+b          A.5 utt1:  # Yeah # /  
+
++          B.6 utt1:  -- # area # of the country -- -/  
+
+b          A.7 utt1:  # Yeah # /  
+
+sv          B.8 utt1:  -- # {C so } you # can probably see them # sometimes. # /  
+
+b          A.9 utt1:  # Yeah,  /
+sd          A.9 utt2: we see them # once in a while, a couple of times a year at least, /  
+
+b          B.10 utt1:  # Yeah # /  
+
+sd          A.11 utt1:  # {C and } the # ones in Pittsburg, of course, we see more often, /  
+
+b          B.12 utt1:  Yeah /  
+
+%          A.13 utt1:  {D So, } {F uh } ... -/  
+
+b          B.14 utt1:  Okay. /  
+
+b          A.15 utt1:  All right  /
+sd^t          A.15 utt2: I'm ready to go. /  
+
+qw          @B.16 utt1:  {D Well, } {F uh, } what kind of recycling do you have in your area? /  
+
+sd          A.17 utt1:  {D Well, } they've been trying different things.  /
+sd          A.17 utt2:   [ One, + one  ] of the biggest problems seems to be [ we don't, + they don't  ] have anyplace to put some of the things that need recycled. /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+sd          A.19 utt1:  Right now we've recycled glass for [ ye-, be-, + years because  ] we have a glass industry in our community. /  
+
+%          B.20 utt1:  {F Oh, } what, - /
+qw          B.20 utt2: which one is that? /  
+
+sd          A.21 utt1:  Owens. /  
+
+bk          B.22 utt1:  {F Oh, } uh-huh. /  
+
+sd^r          A.23 utt1:  Owens  ((   )) . {F Um, }  /
+sd          A.23 utt2: {C so } glass has been recycled for a long time.  /
+sd          A.23 utt3: {F Uh, } we have a (( cycling ))  area set up here at our house,  /
+sd          A.23 utt4: the Boy Scouts [ have, + {C and } they've  ] done that for years.  /
+sd          A.23 utt5: {F Uh, } the stores are recycling their plastic bags now.  /
+sd          A.23 utt6: You can take them back in  /
+sd          A.23 utt7: {C and } they have bins to collect those.    
+
+b          B.24 utt1:  Uh-huh. /  
+
++          A.25 utt1:  {F Uh, } the aluminum cans.  /
+sd          A.25 utt2: They try to do the, {F uh, } newspapers  /
+sd          A.25 utt3: {C and, } {F uh, } they had to close their area down because they couldn't sell  it.  /
+%          A.25 utt4:  They were, - /
+sd          A.25 utt5: what they were doing was shredding it and trying to sell it to farmers for bedding for their animals,    
+
+b          B.26 utt1:  # Uh-huh. # /  
+
++          A.27 utt1:  # and # that type of thing.  /
+sd          A.27 utt2: {C And } that didn't work,  /
+sd          A.27 utt3: [ {C but, } + {C but }  ] somebody told me that they were charging as much for it as they did for straw.    
+
+b          B.28 utt1:  Oh. /  
+
++          A.29 utt1:  Which is why they couldn't sell it, /  
+
+b          B.30 utt1:  # Yeah. # /  
+
+sd          A.31 utt1:  # {D you # know, } {C because } the farmers would buy the straw if it's a, {D you know, } similar price. /  
+
+b          B.32 utt1:  Sure. /  
+
+^h          A.33 utt1:  {C And } let's see,  /
+^h          A.33 utt2: is there anything else.  /
+%          A.33 utt3:  Okay,  /
+sd          A.33 utt4: I think by this Fall it's going to be required that the town of Clarion, which we'll live nearby, will have mandatory recycling started  /
+  %        A.33 utt5: {C so, } -/  
+
+qy^d          B.34 utt1:  On just particular things - /
+%          B.34 utt2: {C or, } -/  
+
+sd          A.35 utt1:  {F Uh, } mainly the glass, the aluminum, the plastics. -/  
+
+b          B.36 utt1:  Uh-huh. /  
+
+%          A.37 utt1:  {F Uh, } /  
+
+sv          B.38 utt1:  {D Well, } it sounds like they're doing quite a bit. /  
+
+sd          A.39 utt1:  {D Well, } we're working hard on it because we're fighting also in our area a large hazardous waste incinerator --    
+
+b          B.40 utt1:  {F Uh. } /  
+
++          A.41 utt1:  -- which we do not want built  /
+sd          A.41 utt2: {C and, } {F uh, } we would like industry to do more before they build these big, huge incinerators. /  
+
+b          B.42 utt1:  Yeah. /  
+
+sd          A.43 utt1:  {C And, } {F uh, } [ we, + we  ] just feel [ they should, + they should  ] offer industry some incentives to do more reducing of their waste products and reusing, /  
+
+b          B.44 utt1:  # Uh-huh. # /  
+
+%          A.45 utt1:  # them, # - /
+sd          A.45 utt2: {C because } some of those companies that are doing it [ have, + save  ] money eventually.  /
+sd          A.45 utt3: At first, apparently, it costs more to get started. /  
+
+b          B.46 utt1:  Right. /  
+
+sv          A.47 utt1:  {C But } once they get established, then it's a money saving thing. /  
+
+sd          B.48 utt1:  {D Well, } our company does some things, all of which I couldn't even tell you about.  /
+sd          B.48 utt2: I don't know all of them  /
+%          B.48 utt3: {C but, } -/  
+
+qw          A.49 utt1:  {C And } what is T I? /  
+
+sd          B.50 utt1:  {F Uh, } Texas Instruments. /  
+
+bk          A.51 utt1:  {F Oh, } okay. /  
+
+b          B.52 utt1:   (( Yeah  )) . /  
+
+o          A.53 utt1:  Gee,  /
+sd          A.53 utt2: [ my, + my  ] son works for, - /
+^h          A.53 utt3: no,  /
+^h          A.53 utt4: not for that, - /
+%          A.53 utt5: okay.  /
+ad          A.53 utt6:  {E Excuse me, } go ahead <laughter>. /  
+
+sd^t          B.54 utt1:  {D Well, } [ I, + I  ] was just curious as how you got hooked up with [ this, + this  ] speech type of thing. /  
+
+sd          A.55 utt1:  {D Well, } my son works [ in, + {F uh, } for  ] the federal government.  /
+sd          A.55 utt2: [ He's, + he  ] works in a computer laboratory. /  
+
+b          B.56 utt1:  Oh  /
+%          B.56 utt2: {C and } he, -/  
+
+sd          A.57 utt1:  {C And, } {F uh, } it was through him [ that, + that,  ] {F uh, } -/  
+
+b          B.58 utt1:  Yeah.  /
+sd          B.58 utt2:  {D Well, } here at work, {F um, } each one of us has two trash baskets in our office  /
+sd          B.58 utt3: {C and } one of those is designed for any kind of paper products that, {F um, } they want to use, {D you know, } for recycling.  /
+sd          B.58 utt4: They can't deal with every type. /  
+
+qw          A.59 utt1:  {F Uh, } maybe you could tell me, what is the difference between office paper waste and just {D like } newspapers? /  
+
+sd          B.60 utt1:  {D Well, } I guess I don't know specifically, except that, {F uh, } for the paper that they want to recycle, they do not want any newspaper, {F um, }  and things like  candy wrappers or, {F uh, } that type of thing.  /
+^h          B.60 utt2: Let's see,  /
+sd          B.60 utt3:  I have a list here.  /
+sd          B.60 utt4: {F Um, } they don't want lunch sacks or brown envelopes, {F uh, } phone books.  /
+sd          B.60 utt5: {C So } there are, {D you know, } a lot of kinds of things that they don't want,  but then any kind of computer paper, letters, {F uh, } booklets, - /
+sd          B.60 utt6: they'll even take things that are bound. /  
+
+%          A.61 utt1:  {F Um. } /  
+
+sd          B.62 utt1:  {F Um, } {C and } it doesn't all have to be {D like } white.  /
+sd          B.62 utt2: They'll take colored folders, /  
+
+b          A.63 utt1:  # {F Oh, } really.  # /  
+
+sd          B.64 utt1:  # [ {C and, } + {C and, } ] # {F uh, } even some of those can have plastic tabs on them. /  
+
+%          A.65 utt1:  {F Um. } /  
+
+sd          B.66 utt1:  {C So } [ it's, + it's  ] hard to kind of figure out, {D you know, } which things are the right ones. /  
+
+%          A.67 utt1:  {F Um. } /  
+
+sd          B.68 utt1:  {E I mean } [ I, + I'll  ] frequently have to look at the list,    
+
+o@          A.69 utt1:   ((   )) .   
+
++          B.70 utt1:  if it's something that I don't throw away all the time. /  
+
+b          A.71 utt1:  <Laughter> Yeah. /  
+
+sd          B.72 utt1:  {C But, } {F um, } they do that  /
+sd          B.72 utt2: {C and then } we use, {F uh, } different chemicals and things,  /
+sd          B.72 utt3: {C and } I know [ that + ] <squeak> about how they take care of that sort,   
+
+b          A.73 utt1:  # Right,  /
+b          A.73 utt2: yeah. # /  
+
++          B.74 utt1:  # of thing.  /
+sd          B.74 utt2:  # [ I, + I  ] don't know all the details, /  
+
+b          A.75 utt1:  # Right,  /
+b          A.75 utt2: yeah. # /  
+
+sd          B.76 utt1:  # {C but } they're # really on top of that. /  
+
+b          A.77 utt1:  Yeah. /  
+
+sd          B.78 utt1:  {C And } there probably some other things that I don't about because we're a real large company. /  
+
+b          A.79 utt1:  Uh-huh,  /
+b^r          A.79 utt2: uh-huh. /  
+
+sd          B.80 utt1:  {C And } I just don't have contact with them. /  
+
+b          A.81 utt1:  Uh-huh. /  
+
+sd          B.82 utt1:  {C But } in our, {F uh, } city, - /
+sd          B.82 utt2: {D well, } I live in a suburb of Dallas -- /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  -- {C and } they have initiated a newspaper recycling --    
+
+b          A.85 utt1:  Uh-huh. /  
+
++          B.86 utt1:  -- whereby they pick it up from your alley, {F uh, } one day a week --   
+
+b          A.87 utt1:  Uh-huh. /  
+
++          B.88 utt1:  -- and all you have to do is bundle it. /  
+
+b          A.89 utt1:  Uh-huh. /  
+
+sd          B.90 utt1:  {F Uh, } all around Dallas there are a lot of recycling centers where you can take things, sometimes for money --    
+
+b          A.91 utt1:  Uh-huh. /  
+
+ +         B.92 utt1:  -- {F um, } but most of those are real far away from {D like } where I live at any rate. /  
+
+sd          A.93 utt1:   (( {D Well } ))  it would be inconvenient [ to, + in other words to,  ] -/  
+
+^2          B.94 utt1:  Very inconvenient,  /
+sd          B.94 utt2: {C and, } {F um, } it's [ just, + {D you know, } hasn't  ] been very practical to get into a lot of those things.  /
+sd          B.94 utt3: If they would make it something where they, {D you know, } would pick it up at the curb or at least make it, {D you know, } down the street and at the corner,   
+
+b          A.95 utt1:  # Right, # /  
+
++          B.96 utt1:  # type # of thing, {F uh, } -/  
+
+^2          A.97 utt1:  more areas where they would pick it up. /  
+
+b          B.98 utt1:  Yeah, /  
+
+b          A.99 utt1:  # Yeah. # /  
+
+sv          B.100 utt1:  # that # wouldn't be so bad. /  
+
+ b         A.101 utt1:  Yeah. /  
+
+sd          B.102 utt1:  {F Um, } our grocery store, like yours, will take the, {F uh, } plastic bags  /
+sd          B.102 utt2: {C and } they'll also take [ the, + the  ] paper bags back. /  
+
+b          A.103 utt1:  {F Um, } uh-huh. /  
+
+sd          B.104 utt1:  {C But, } {F um, } {F uh, } you mentioned the, {F uh, } glass type of stuff.  /
+sd          B.104 utt2: The reason I ask you about that is years ago,  {C and } {A [ it, + it  ] changed names somewhere along the line, } [ but, + ] {F um, } my dad used to work for Knox Glass in,   
+
+sd          A.105 utt1:  {F Oh, } {D well, } Knox is # just over the hill here <laughter>. # /  
+
++          B.106 utt1:  # Knox, Pennsylvania.  /
+bh          B.106 utt2: {F Oh, } really? # /  
+
+ny@          A.107 utt1:  Yes, uh-huh.  /
+sd^e          A.107 utt2:  [ They, +   
+
+b          B.108 utt1:  # Yeah  /
+%          B.108 utt2: it's, # -/  
+
++          A.109 utt1:  # they ] no # longer are, {D you know, } active. /  
+
+b          B.110 utt1:  Yeah,  /
+sd          B.110 utt2: they were taken over by Glass Containers years ago, /  
+
+b         A.111 utt1:  # Yeah. # /  
+
+sd          B.112 utt1:  # [ {C and, } # + {C but }  ] he worked for them for {D like } thirty-one years. /  
+
+ba          A.113 utt1:  {F Oh, } for heaven's sake. /  
+
+sd          B.114 utt1:  {C And } he used to travel up there to Knox quite a bit, /  
+
+b          A.115 utt1:  # Yeah. # /  
+
+sd          B.116 utt1:  # [ {C and, } # + {C and }  ] I even did once when I was a child, /  
+
+ba          A.117 utt1:  # {F Oh, } for heaven's sake. # /  
+
+%          B.118 utt1:  # {D you know, } {C so, } # -/  
+
+sd          A.119 utt1:  {D Well, } we only live probably about fifteen, twenty miles from Knox. /  
+
+bh          B.120 utt1:  {F Oh, } really? /  
+
+ny          A.121 utt1:  Yeah,  /
+ny          A.121 utt2: uh-huh. /  
+
+b          B.122 utt1:  Yeah,  /
+%          B.122 utt2: we, - /
+sd          B.122 utt3: I was looking through our photo album not long ago  /
+sd          B.122 utt4: {C and } they [ had, +   
+
+x          A.123 utt1:  # <Laughter>.  #   
+
++          B.124 utt1:  # had # ] some pictures and things in there of Knox. /  
+
+ba          A.125 utt1:  I'll be darn,  /
+b          A.125 utt2: yeah. /  
+
+sd          B.126 utt1:  {C But, } {F uh, } I guess that's about it, {D you know, } as far as what goes on that I know about. /  
+
+b          A.127 utt1:  Uh-huh,  /
+b^r          A.127 utt2: uh-huh.  /
+sv          A.127 utt3:  I think people are getting more interested  /
+sv          A.127 utt4: {C and } they are more concerned.  /
+sv          A.127 utt5: {C And } [ we're just, + we're just  ] real concerned about this incinerator because [ we really, + ] they want to put it right [ in, + {F uh, } in  ] between two of our main water sheds that feed the Clarion [ Ri-, + River.  ] /  
+
+
+%          B.128 utt1:  {F Um. } /  
+
+sd          A.129 utt1:  {C And, } {F uh, } [ [ we, + we  ] just, + we just  ] don't want it anyplace <laughter>.  /
+sd          A.129 utt2: We feel [ that we, + that they  ] should give businesses more incentives to do more recycling and more reduction [ and, + and  ] more reuse and all those things that could be done. /  
+
+b          B.130 utt1:  Yeah. /  
+
+sv          A.131 utt1:  [ [ We, + we  ] just don't think, + we don't think  ] some of the politicians are really interested in our best interests. /  
+
+b          B.132 utt1:  Yeah  /
+ %         B.132 utt2: that's, -/  
+
+sv          A.133 utt1:  {C And, } {F uh, } [ it's, + it's  ] been a real struggle and a hardship for a lot of people in our area that we've,  [ have, + {D you know, } have  ]  been fighting against this thing in trying to have things changed,    
+
+b          B.134 utt1:  # Uh-huh. # /  
+
++          A.135 utt1:  # to # make them [ more, + more  ] right,  /
+%          A.135 utt2: {C but, } {F uh, } -/  
+
+sv          B.136 utt1:  {D Well, } I think probably more people, {D you know, } would participate if they just made it a little easier, /  
+
+b          A.137 utt1:  # Uh-huh. # /  
+
+sv          B.138 utt1:  # {C and } # like you say, make it, {F um, } better for companies to do these things,    
+
+b          A.139 utt1:  Uh-huh,  /
+b^r          A.139 utt2: uh-huh. /  
+
++          B.140 utt1:  and get involved in it without huge cost to them, /  
+
+b          A.141 utt1:  # Right. # /  
+
+sv          B.142 utt1:  # {C because } # obviously,   
+
+b          A.143 utt1:  # Right. # /  
+
++         B.144 utt1:  # no # one wants to spend a lot of money,   
+
+sv          A.145 utt1:  # {F Uh, } {D well, } #   
+
++          B.146 utt1:  # just to # deal with trash, {D you know. } /  
+
++          A.147 utt1:  [ We're, + we're  ] going to pay for [ that, + that  ] whether we pay industry or,    
+
+aa          B.148 utt1:  # Yeah,  /
+ba          B.148 utt2: that's true.  # /  
+
++          A.149 utt1:  # pay, - /
+sd          A.149 utt2: [ we, + we've  ] # already paid industry for {D like } these super  (( fund )) that's cleaning up.  /
+sd          A.149 utt3: We paid industry for it,  /
+sd          A.149 utt4: we [ pay, + all help to pay  ] to have them haul it away from their place,  /
+sd          A.149 utt5: {C and } where they put it now they found it's not a safe place.  /
+sd          A.149 utt6: It's leaked  /
+sd          A.149 utt7: {C and } now they have to clean those up,  /
+sd          A.149 utt8: {C and } it's our money that's cleaning this,   
+
+ba          B.150 utt1:  # That's right.  # /  
+
++          A.151 utt1:  # stuff up.  #  /
+sd          A.151 utt2: {C And } now they want to put it in,  /
+sd          A.151 utt3: they burn it  /
+sd          A.151 utt4: {C and } that will make another hazardous dump -- /  
+
+b          B.152 utt1:  Uh-huh. /  
+
+sd          A.153 utt1:  -- {C and } eventually they'll have to do something with that.  /
+sd          A.153 utt2:  We'll pay for it again, /  
+
+ba          B.154 utt1:  # That's true.  # /  
+
+qh          A.155 utt1:  # {C so } why # not pay industry.  /
+sd          A.155 utt2: This is my feeling.  /
+qh          A.155 utt3: Why not pay industry a little more,    
+
+b          B.156 utt1:  # Uh-huh. # /  
+
++@          A.157 utt1:  # and # reduce it, {D you know, }  [ and, + and  ] not have as much of it.   
+
+^2          B.158 utt1:  Also probably look at packaging and,    
+
++@          A.159 utt1:  # {F Oh, } # /  
+
++          B.160 utt1:  # that # sort of thing. /  
+
+aa          A.161 utt1:  {D definitely. } /  
+
+sv          B.162 utt1:  [ We don't, + we don't  ] need three quarters of,   
+
+b          A.163 utt1:  # Huh-uh,  /
+b^r          A.163 utt2: huh-uh.  # /  
+
++          B.164 utt1:  # what we # get. /  
+
+aa          A.165 utt1:  No,  /
+sv          A.165 utt2: {C but } they think, and probably they're right, people buy it  (( easier )) . /  
+
+%          B.166 utt1:  I, {F uh, } - /
+sv          B.166 utt2: that's their marketing. /  
+
+b          A.167 utt1:  Yeah,  /
+b^r          A.167 utt2: yeah. /  
+
+%          B.168 utt1:  {D Well, } /  
+
+sv          A.169 utt1:  {C And } I know people would be willing to do more, like saving their newspapers and that, if they had a place to take them.  /
+sd          A.169 utt2: We don't have anyplace right now that will take them. /  
+
+b          B.170 utt1:  Yeah.  /
+%          B.170 utt2:  [ I, + I'm,  ] - /
+sd          B.170 utt3: guess our city, {D you know, } in picking them up must take them somewhere else,    
+
+b          A.171 utt1:  # Uh-huh. # /  
+
++          B.172 utt1:  # and # get something for them. /  
+
+%          A.173 utt1:  Probably,  /
+b          A.173 utt2: yeah. /  
+
+sv          B.174 utt1:  {C But } I don't that it's a big money, -/ 

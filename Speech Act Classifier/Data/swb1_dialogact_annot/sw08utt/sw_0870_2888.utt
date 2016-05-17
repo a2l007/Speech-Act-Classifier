@@ -1,0 +1,490 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2888_1074_1059
+TOPIC#:		349
+DATE:		910515
+TRANSCRIBER:	LC
+UTT_CODER:      aabo
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	5
+ECHO_FROM_A:	5
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Piano playing in background was most intelligible on
+separate recording of Caller B
+
+============================================================================
+  
+
+o          A.1 utt1:  <Noise>  <<piano in background>> Okay. /  
+
+o          B.2 utt1:  Okay.  /
+sv          B.2 utt2:  I guess we're set. /  
+
+b          A.3 utt1:  {F Um, } /  
+
+sd^t          @B.4 utt1:  Current events. /  
+
+sd          A.5 utt1:  I get my current events basically from news, {F uh, } just because I watch,   
+
+^2          B.6 utt1:  # Television news? # /  
+
++          A.7 utt1:  # pretty much # a lot of television, {F um, } /  
+
+qr          B.8 utt1:  Is it, {F uh, } C N N or HEADLINE NEWS or just local,   
+
+b          A.9 utt1:  # {F Uh, } # /  
+
++          B.10 utt1:  # news #  /
+%          B.10 utt2: {C or, } -/  
+
+sd          A.11 utt1:  I watch a little bit of everything.  /
+sd          A.11 utt2:  I like to tune [ into, + to ] C N N because, {F uh, } {D you know, } you can tune in {D like } any time of day and pretty much get the update on,   
+
+b          B.12 utt1:  # Right. # /  
+
++          A.13 utt1:  # everything, #    
+
+b          B.14 utt1:  # Right. # /  
+
++          A.15 utt1:  # in # about five or ten minutes.  /
+sv          A.15 utt2:  I think news today, {F um, } it's kind of losing its importance.  /
+sd          A.15 utt3: {D Like } [ [ on, + in, ] + on ] radio, if you hear any news at all, it's like two seconds. /  
+
+b          B.16 utt1:  Right. /  
+
+sd          A.17 utt1:  {D You know, } really quickly,   
+
+%          B.18 utt1:  # {D Well, } # -/  
+
++          A.19 utt1:  # on # regular stations. /  
+
+sd          B.20 utt1:  on commercial radio, I guess, [ I, + I ] tend to get more of my news from national public radio of the morning on the way to work,   
+
+b          A.21 utt1:  # Yeah,  /
+ba          A.21 utt2: that's good, too,  /
+b          A.21 utt3: uh-huh. # /  
+
++          B.22 utt1:  # or evening on the way # to school  /
+sd          B.22 utt2: [ {C so, } +   
+
+sd          A.23 utt1:  I like K R L D. /  
+
++          B.24 utt1:  {C So, } ] [ I don't, + {F uh, }   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  I don't ] see much T V mostly when I'm in school,  /
+sd          B.26 utt2: {C but } I do here. /  
+
+b          A.27 utt1:  Yeah,  /
+qw          A.27 utt2: where do you go to school? /  
+
+sd          B.28 utt1:  {F Uh, } University of Texas at Dallas. /  
+
+bk          A.29 utt1:  {F Oh, } Okay.  /
+sd          A.29 utt2: I went to U T at Austin. /  
+
+b          B.30 utt1:  Right. /  
+
+sd          A.31 utt1:  {C But, } {F uh, } I'm a news reporter  /
+sd          A.31 utt2: {C so } [ I, + <laughter>  I ] should get all [ I  (( can )) + ] , my news [ from the new-, + from the ] T V. /  
+
+b          B.32 utt1:  Really. /  
+
+%          A.33 utt1:  {C But, } {F um, } -/  
+
+sd          B.34 utt1:  I do tend to throw on HEADLINE NEWS when I'm doing things around the house and just let it play,   
+
+b          A.35 utt1:  # Yeah, # /  
+
++          B.36 utt1:  # and # listen,  /
+%          B.36 utt2: {C but, } {F uh, } -/  
+
+sd          A.37 utt1:  I usually don't intentionally.  Although [ I should, + I don't ] intentionally turn on the television to watch news. /  
+
+b          B.38 utt1:  Right. /  
+
+sd          A.39 utt1:  {C Or } I don't intentionally turn on the radio to listen to the news.  /
+sd          A.39 utt2:  If it comes on, I just happen to hear it.  /
+sd          A.39 utt3:  {D Now, } I will intentionally buy a newspaper [ [ to wa-, + to, ] + <noise>  <<piano in background>> to ] look at the news.  /
+%          A.39 utt4: {C But } # other, # -/  
+
+b          B.40 utt1:  # Yeah,  /
+sd          B.40 utt2: # all I ever get out of the paper is a Sunday paper  /
+o@          B.40 utt3: {C so, }   
+
+aa          A.41 utt1:  Yeah,  /
+aa          A.41 utt2: that's true. /  
+
++@          B.42 utt1:  I read the comics. /  
+
+sd          A.43 utt1:  <Laughter>  # That's about it. # /  
+
+sd^m          B.44 utt1:  # That's about it,  /
+%          B.44 utt2: # yeah. /  
+
+sd          A.45 utt1:  The Sunday paper, it's so full of stuff,  /
+sv          A.45 utt2: {C but } you pick your favorite section,  /
+sv          A.45 utt3: {C and } the rest,   
+
+b          B.46 utt1:  # Right. # /  
+
++          A.47 utt1:  # you # throw away. /  
+
+b          B.48 utt1:  Right. /  
+
+sd          A.49 utt1:  Although you paid, what, almost two dollars now to get it  /
+%          A.49 utt2: {C but, } -/  
+
+sd          B.50 utt1:  I like to listen to, {F uh, } national public radio on the way to work because [ it's, + I don't know, it's ] variety,  /
+o@          B.50 utt2: {C and } now,   
+
+b          A.51 utt1:  # Uh-huh. # /  
+
++@          B.52 utt1:  # they're # throwing in a little news and a little bit of other stuff.  /
+sd          B.52 utt2:  It --   
+
+b          A.53 utt1:  Yeah. /  
+
++          B.54 utt1:  -- tends to get like HEADLINE NEWS if you listen to it for an hour  ((   )) . /  
+
+qy          A.55 utt1:  [ Is it, + is it ] pretty good coverage on there? /  
+
+ny          B.56 utt1:  Yeah,  /
+sd^e          B.56 utt2: it usually is.  /
+sd          B.56 utt3:  They throw in [ a lot of, + {D you know, } a lot of ] interviews and commentaries.  /
+sv          B.56 utt4:  It's kind of like getting a newspaper.  /
+sd          B.56 utt5: There's a lot of --   
+
+b          A.57 utt1:  Yeah,  /
+b^r          A.57 utt2: yeah. /  
+
++          B.58 utt1:  -- sections to it  /
+sd          B.58 utt2: {C and } --   
+
+b          A.59 utt1:  {F Um. } /  
+
++          B.60 utt1:  -- [ they, + they ] present different sides of things. /  
+
+sd          A.61 utt1:  {C Because } I find like on K R L D, - /
+sd          A.61 utt2: I like to listen to that,  /
+sd          A.61 utt3: {C but } each story is {D like } no more than two or three lines, {D you know. } /  
+
+sd          B.62 utt1:  {F Oh, } {D well } they spend a little more time, {D you know, }  /
+sd          B.62 utt2: they cover the headlines, /  
+
+b          A.63 utt1:  # Yeah. # /  
+
+sd          B.64 utt1:  # {C and # then } they go into a lot of the issues and --   
+
+b          A.65 utt1:  Uh-huh. /  
+
++          B.66 utt1:  -- things where [ they, + they ] spend five or ten minutes discussing something  and,    
+
+b          A.67 utt1:  # Yeah,  /
+sd          A.67 utt2: that would probably be better. # /  
+
++          B.68 utt1:  # interviewing people.  /
+%          B.68 utt2: {C And } it's, # -/  
+
+sv          A.69 utt1:  Especially when you look for the, {D like, } popular radio stations like mostly the music stations, news [ is, + is ] pretty much nonexistent. /  
+
+b          B.70 utt1:  Yeah. /  
+
+sv          A.71 utt1:  They have [ little, + little, ] teeny-weeny news,   
+
+x          B.72 utt1:  <Laughter>.   
+
++          A.73 utt1:  breaks, {D you know. } /  
+
+b          B.74 utt1:  Yeah,  /
+sd          B.74 utt2: {C and } only in the morning, I guess, there's a little bit. /  
+
+b          A.75 utt1:  Yeah,  /
+b^r          A.75 utt2: yeah,  /
+sd         A.75 utt3: basically. /  
+
+sd          B.76 utt1:  I haven't listened to a <breathing>  top forty radio station in so long I wouldn't know. /  
+
+b          A.77 utt1:  Yeah. /  
+
+%          B.78 utt1:  {D So, } -/  
+
+^h          A.79 utt1:  {C So } let's see, {F um, } /  
+
+sd          B.80 utt1:  {C And } I guess I get some kinds of other, {D you know, } business related news through trade journals and things  /
+%          B.80 utt2: {C but, } -/  
+
+b          A.81 utt1:  Uh-huh. /  
+
+b          B.82 utt1:  {F Uh, } /  
+
+sd@          A.83 utt1:  The only reason I get trade journals is {D like } if I'm looking for a job or  something <laughter>.    
+
+b          B.84 utt1:  Right <laughter>. /  
+
++@          A.85 utt1:  Which is what I'm doing now. /  
+
+b          B.86 utt1:  Yeah, /  
+
+%          A.87 utt1:  # {C But, } {F um, } # -/  
+
+sv          B.88 utt1:  # a lot # of people are. /  
+
+b          A.89 utt1:  Yeah,  /
+sv          A.89 utt2: <laughter> trying to get out of wherever they are  /
+sv          A.89 utt3: {C but, } {F um, } [ I think, + I think ] news is, - /
+sd          A.89 utt4: I'm wondering where it's going.  /
+%          A.89 utt5:  You know how, - /
+sv          A.89 utt6: I think it will be [ nonex-, + pretty much <breathing> nonexistent ] except maybe through the paper.  /
+sd          A.89 utt7: I know the newspaper used to be kind of the only source for news.  /
+sv          A.89 utt8:  {C And } now, [ it's, +  it's ] kind of your final choice.  /
+sv          A.89 utt9: You watch, - /
+sv          A.89 utt10: first you go to C N N, then you go to radio or something like that. /  
+
+b          B.90 utt1:  Yeah,  /
+sv          B.90 utt2: where nobody wants,   
+
+%          A.91 utt1:  # {C And } I think it, # -/  
+
++          B.92 utt1:  # to sit down and # read. /  
+
+b          A.93 utt1:  Yeah,  /
+b^r          A.93 utt2: yeah. /  
+
+sd          B.94 utt1:  [ It's, + it ] takes a lot more time to read something, /  
+
+b          A.95 utt1:  # Yeah. # /  
+
+sd          B.96 utt1:  # {C and } # you've got news,   
+
+sv          A.97 utt1:  # So much more effort.  # /  
+
++          B.98 utt1:  # bombarding you from everywhere # now. /  
+
+b          A.99 utt1:  # Yeah. # /  
+
+sd          B.100 utt1:  # {D You # know } you,   
+
+b          A.101 utt1:  # Yeah. # /  
+
++          B.102 utt1:  # turn # on the T V, turn on the radio. -/  
+
+sv          A.103 utt1:  {C But } I think that soon the paper may be kind of the only source again. /  
+
+qw          B.104 utt1:  Why is that? /  
+
+%          A.105 utt1:  I don't, - /
+sv          A.105 utt2: {D well, } just because [ I'm, + I'm ] thinking that [ it, + it's ] getting so  short on radio.  /
+sd          A.105 utt3: [ You still, + you ] have two or three, - /
+sd          A.105 utt4: I know in Dallas you can probably get [ two, + two ] all news radio stations out of I don't how many popular radio stations.  /
+sd          A.105 utt5:  {C And then } on television, you have just the news at six and  ten. /  
+
+b          B.106 utt1:  Yeah,  /
+%          B.106 utt2: I just, -/  
+
+sv          A.107 utt1:  {C And } [ I just, + I just ] see that dwindling [ in, + in, ] -/  
+
+sv          B.108 utt1:  I find it hard to believe that people will go back to reading over television, {E I mean, } just given the way society is.  /
+sd          B.108 utt2:  {C And } I enjoy reading,  /
+sv          B.108 utt3: {C but } most --   
+
+aa          A.109 utt1:  True,  /
+aa          A.109 utt2: yeah. /  
+
++          B.110 utt1:  -- people would rather turn on the tube [ [ and, + and, ] + and, ]    
+
+aa          A.111 utt1:  # True.  /
+aa          A.111 utt2: That's true, too,  /
+aa          A.111 utt3: yeah. # /  
+
++          B.112 utt1:  # flip through the channels, {D you # know, }  and get the headline news at thirty minutes of, /  
+
+^2          A.113 utt1:  Than sit down and take the effort to read --   
+
+aa          B.114 utt1:  Right. /  
+
++          A.115 utt1:  -- the paper. /  
+
+sv          B.116 utt1:  {C And } they don't have to go get one, {D you know. } /  
+
+sv          A.117 utt1:  One thing I like about the paper, {F um, } as opposed <noise>  <<piano in background>> to television is that, {F uh, } [ when I, + like when I ] report, because I'm in television, I have to get the basic, the main facts and that's it.  /
+sv          A.117 utt2:  That's all you have time for. /  
+
+b          B.118 utt1:  Right.  /
+b^r          B.118 utt2:  Right. /  
+
+sv          A.119 utt1:  Whereas in the paper, I like to read the articles because they get every side, every single side,  /
+sd@          A.119 utt2: [ {C and, } + {C and } ] every point they make, {D you know. }   
+
+b          B.120 utt1:  Right. /  
+
++@          A.121 utt1:  [ [ And, + and ] + ] it's all there. /  
+
+sd          B.122 utt1:  {D Well, } that's why I like, {F uh, } national public radio --   
+
+b          A.123 utt1:  Uh-huh. /  
+
++          B.124 utt1:  -- because they get on one of these little things,  /
+sd          B.124 utt2: they give you headlines that are brief,  /
+%          B.124 utt3: just, - /
+sd          B.124 utt4: they touch on what's going on.  /
+sd          B.124 utt5: {C And then } they'll get into something and really explore it. /  
+
+b          A.125 utt1:  Uh-huh,  /
+b^r          A.125 utt2: uh-huh. /  
+
+sv          B.126 utt1:  {C And } [ it's, + it's ] informative.  /
+sv          B.126 utt2:  It's a lot more informative than, {D you know, } quick, half hour news shows that --   
+
+b          A.127 utt1:  Yeah. /  
+
++          B.128 utt1:  -- they tell you what they want you to hear. /  
+
+b          A.129 utt1:  Yeah,  /
+sd          A.129 utt2: {C because } that's what we do.  /
+sd          A.129 utt3:   {E I mean } it's like each story is thirty seconds, {D you know. } /  
+
+b          B.130 utt1:  Right. /  
+
+sd          A.131 utt1:  {C So } it's like you really have to tell as much as you can which is not much in that amount of time.  /
+sv          A.131 utt2:  [ {C So, } + {C and } ] it will probably get shorter and shorter as the years go by I think.  /
+h          A.131 utt3:  I don't know. /  
+
+b          B.132 utt1:  Yeah,  /
+sd          B.132 utt2: there's so much going on in the world. /  
+
+b          A.133 utt1:  Uh-huh. /  
+
+sv          B.134 utt1:  Communication, {D you know, } expands the world now. /  
+
+b          A.135 utt1:  {F Oh, } yeah. /  
+
+sv          B.136 utt1:  There's too much going on.  /
+sv          B.136 utt2:  You can't afford to give more than a couple of seconds here and there. /  
+
+sv          A.137 utt1:  I think that is one good thing, one great thing, about news,  /
+sd          A.137 utt2: {C and } we saw it during the war just now, is that we got all the information within minutes, {D you know. } /  
+
+b          B.138 utt1:  Yeah. /  
+
+sd          A.139 utt1:  Whatever happened, we knew about it about the same time that they knew about it. /  
+
+qh          B.140 utt1:  {C And } the question is, [ how much of it + {E or } how, some of it, ] - /
+sv          B.140 utt2: I guess, there's a lot of debate about censorship [ and -- +   
+
+b          A.141 utt1:  Yeah,  /
+b^r          A.141 utt2: yeah. /  
+
++          B.142 utt1:  -- and ] what we're really seeing. /  
+
+b          A.143 utt1:  Uh-huh. /  
+
+qh          B.144 utt1:  [ Is it, + is it ] the true story  /
+qrr          B.144 utt2: {C or } is it a --   
+
+b          A.145 utt1:  Yeah. /  
+
++          B.146 utt1:  -- little bit biased. /  
+
+sv          A.147 utt1:  {C Because } even though we do get the story right away, they were censored as to what they --   
+
+b          B.148 utt1:  Right. /  
+
++          A.149 utt1:  -- could tell us.  /
+qh          A.149 utt2:  {C So } all we had to sit here [ and, + and ] ask is {D well, } what aren't they telling us, {D you know. }  /
+sd          A.149 utt3:  {C So } [ that, + that ] was pretty scary.  /
+%          A.149 utt4: {C But } we, - /
+sd          A.149 utt5: I talked to one woman,  /
+sd          A.149 utt6: {C and } she said that she didn't want to know what was going on because if she had a son over in Saudi Arabia, she wouldn't want to know, {D you know, } that they're bombing [ or, + or ] this and that's going on.  /
+sd          A.149 utt7:  {C And } at the same time, I talked to another woman,  /
+sd          A.149 utt8: {C and } she was so happy to know because she lived through Vietnam.  /
+sd          A.149 utt9: {C And } she didn't know what was happening at that time. /  
+
+b          B.150 utt1:  Right. /  
+
+sd          A.151 utt1:  {C And } she was so happy to get the information, {D you know. }  /
+sd          A.151 utt2: {C So } there's just a lot of different opinions on that.  /
+%          A.151 utt3:  {C But, } -/  
+
+sd          B.152 utt1: [ [ I, + I, ] + {D you know, }  I ] like [ to, + to ] know what's going on.  /
+sv          B.152 utt2:  Sometimes I think there's just a little bit too much. /  
+
+b          A.153 utt1:  Yeah. /  
+
+sv          B.154 utt1:  {D You know } you get in the habit of, like I say, turn on Headline News  /
+sd          B.154 utt2: {C and } it will play over and over <laughter>, /  
+
+x          A.155 utt1:  <Laughter>.   
+
+sv          B.156 utt1:  {C and } you just tune it out because it's the same thing  /
+%          B.156 utt2: {C but, } -/  
+
+sv          A.157 utt1:  {C And then, } too, a lot of times I think, {F uh, } especially on television they blow things completely out of proportion. /  
+
+aa          B.158 utt1:  Yeah,  /
+sv          B.158 utt2: they tend to,   
+
+%          A.159 utt1:  # {D Like, } # -/  
+
++          B.160 utt1:  # dramatize # things. /  
+
+sd          A.161 utt1:  {D You know, } {D like } this Kennedy thing. /  
+
+b          B.162 utt1:  Yeah. /  
+
+sv          A.163 utt1:  <Clicking>  <<sounds like a keyboard>> It's just, {E I mean, } everywhere you turn.  /
+sd          A.163 utt2: Kennedy,  /
+sd^r          A.163 utt3: Kennedy,  /
+sd^r          A.163 utt4: Kennedy.  /
+sd(^q)          A.163 utt5:  {D You know, } what kind of shoes did he wear on the night?  /
+sd          A.163 utt6: {C And } {D you know, } it's just like, okay, this is # ridiculous. # /  
+
+qh          B.164 utt1:  # {D Like } who cares?  /
+b          B.164 utt2: # Really. /  
+
+%          @@A.165 utt1:  {D So, } -/  
+
+%          B.166 utt1:  {D Well, } -/  
+
+qw          A.167 utt1:  {C But } what are you doing?  /
+qy          A.167 utt2: Sitting on a computer? /  
+
+ny          B.168 utt1:  Yeah. /  
+
+sd          A.169 utt1:  <Laughter>  I heard the little clicking. /  
+
+sd^e          B.170 utt1:  Trying to do some C programming. /  
+
+bk          A.171 utt1:  {F Oh, } okay.  /
+fc          A.171 utt2: {D Well, } it was nice talking to you. /  
+
+fc          B.172 utt1:  Okay <breathing>. /  
+
+fc^m          A.173 utt1:  Okay. /  
+
+fc          B.174 utt1:  Take # care. # /  
+
+fc^m          A.175 utt1:  # Take #  care. /  
+
+fc          B.176 utt1:  Bye-bye. /  
+
+fc          A.177 utt1:  Uh-huh,  /
+fc^m          A.177 utt2: bye. / 

@@ -1,0 +1,576 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2716_1231_1028
+TOPIC#:		342
+DATE:		910428
+TRANSCRIBER:	PMC
+UTT_CODER:      aabo
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        Good tape.
+
+==========================================================================
+  
+
+o          @A.1 utt1:  Okay,  /
+qo          @A.1 utt2: do you have any, {F uh, } ideas on universal health insurance?  /
+qy          @A.1 utt3: Do you have any strong opinions? /  
+
+ny          B.2 utt1:  Yeah,  /
+sv^e          B.2 utt2: I think it's probably a good ideal, /  
+
+qy          A.3 utt1:  # You do? # /  
+
+sv          B.4 utt1:  # {F uh, } I # think, [ [ given, + {F uh, } given, ] + {D well } given ] that there are so many people who don't have health insurance.  It's probably a real smart thing,   
+
+b          A.5 utt1:  # Uh-huh. # /  
+
++          B.6 utt1:  # at # least to have some basic coverage for everyone.  /
+sv         B.6 utt2:  {E I mean, } you hear these horror stories of people, homeless people going to the hospital [ and, +    
+
+b          A.7 utt1:  # Yeah. # /  
+
++          B.8 utt1:  # and # being thrown out because they have no insurance,   
+
+b          A.9 utt1:  # Right. # /  
+
++          B.10 utt1:  # and # having to go to someplace else.  /
+sv(^q)          B.10 utt2:  {D You know, } it would be nice if, no matter where you are, or who you are, what happened, {D you know, } what happened to you, you just go to the hospital and they say, {D Okay, } [ just, + just ] take him,  /
+^q          B.10 utt3: {C and } we will worry about who he is later  /
+o@          B.10 utt4: {C so. }   
+
+b          A.11 utt1:  Yeah. /  
+
++@          B.12 utt1:  That would be a nice thing. /  
+
+b          A.13 utt1:  Yeah,  /
+sv          A.13 utt2: I feel like there should be some kind of coverage made,  /
+sv          A.13 utt3: {C but } [ I, + I'm ] really leery of a, kind of a government administrative health insurance or  medical plan, because I just feel like everything that the government takes over is just going to be run much poorly  /
+sv          A.13 utt4: {C and } it is going to be about six times more expensive. /  
+
+aa          B.14 utt1:  Yeah,  /
+aa          B.14 utt2: I know, [ that, + that's ] certainly true.  /
+sd          B.14 utt3:  {C But, } I wonder about [ like, + like ] in Canada. /  
+
+b          A.15 utt1:  Uh-huh. /  
+
+sd          B.16 utt1:  In Canada, where everybody, {F uh, } everybody automatically has insurance in Canada. /  
+
+b          A.17 utt1:  Right,  /
+sd          A.17 utt2: {C and } they have that in England too,  /
+sv          A.17 utt3: {C but } I think that it's a pretty poor,  /
+sv          A.17 utt4: they get a lot lower quality care than we  do.  /
+sd          A.17 utt5: {D Now, } I know some people don't agree with me,  /
+sv          A.17 utt6: {C but, } {F uh, } I know you have to wait real long time to get, [ for + ] certain surgeries that aren't emergency,  /
+sv          A.17 utt7: {C and } you don't have the kind of choices that we have here, /  
+
+b          B.18 utt1:  # Yeah. # /  
+
+sd          A.19 utt1:  # {C And, } # {F uh, } I've worked a lot in doctor's offices and hospitals  /
+sv          A.19 utt2: {C and } I really don't want to give up having those choices. /  
+
+aa          B.20 utt1:  That's true.  /
+aa^r          B.20 utt2: [ That's, + that's ] true. /  
+
+%          A.21 utt1:  I think, - /
+sv          A.21 utt2: {E I mean, } there is a night and day difference between good doctors and bad doctors, and good hospitals and bad [ doc-, + ] hospitals. /  
+
+aa          B.22 utt1:  That's true,  /
+aa^r          B.22 utt2: that's true. /  
+
+sd          A.23 utt1:  {C And } in England, at least at the time when I was familiar with it, about ten years ago, they just told you what day you had to show up and where you had to show up and who your doctor was going to be. /  
+
+%          B.24 utt1:  {F Oh, } you - /
+qy          B.24 utt2: {C so } didn't get any choices at all? /  
+
+nn          A.25 utt1:  No,  /
+nn^r          A.25 utt2: no.  /
+sd^e          A.25 utt3: I mean that. /  
+
+ba          B.26 utt1:  {F Oh, } that's a problem. /  
+
+b          A.27 utt1:  Yeah. /  
+
+b          B.28 utt1:  Yeah,  /
+sd          B.28 utt2: because [ I know, + I know ] even among, - /
+sd          B.28 utt3: even now, the way we have it now, there are still. -/  
+
+sv          A.29 utt1:  It's getting worse,  /
+^g          A.29 utt2: isn't it? /  
+
+ny          B.30 utt1:  Yeah,  /
+sd^e          B.30 utt2: {E I mean } {D like } we have,   
+
+b          A.31 utt1:  # Yeah. # /  
+
++          B.32 utt1:  # an # H M O allows us to pick our own physicians. /  
+
+b          A.33 utt1:  Right,  /
+b^r          A.33 utt2: right. /  
+
+sd          B.34 utt1:  {E I mean } I picked a primary care physician and just didn't like him, {D you know. } /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sd          B.36 utt1:  I had to switch because I just thought he was a quack.  /
+o@          B.36 utt2:  {C So, }   
+
+aa          A.37 utt1:  Right.  /
+aa          A.37 utt2:  That's exactly the problem,  /
+sv          A.37 utt3: there's just so many, such variation  /
+%          A.37 utt4: {C and } it's, - /
+sv          A.37 utt5: {C but } {D see, } I guess, what they had in England, and I guess in Canada is socialized medicine. /  
+
++@          B.38 utt1:  Yeah. /  
+
+sv          A.39 utt1:  {C So } maybe, that's {D like } the extreme of it.  /
+qy          A.39 utt2:  Do you think? /  
+
+aa          B.40 utt1:  Yeah,  /
+aa^r          B.40 utt2: yeah,  /
+sv^m          B.40 utt3: that is the extreme,  /
+sv          B.40 utt4: {C and } [ what that, + what that ]  I think that tends to do though is I think that tends to, - /
+sv          B.40 utt5: it probably has two, a good and a bad side,   
+
+b          A.41 utt1:  # Uh-huh. # /  
+
++          B.42 utt1:  # for # young people wanting to become doctors.  Which again a lot of people who are motivated, because the money isn't, I guess, as much,   
+
+b          A.43 utt1:  # Right. # /  
+
++          B.44 utt1:  # for # doctors anymore, /  
+
+b          A.45 utt1:  # Right. # /  
+
+sv          B.46 utt1:  # {C so } [ # you wind, + you wind ] up getting the people who really want to be doctors, being doctors, /  
+
+^2          A.47 utt1:  Really want to. -/  
+
+sv(^q)          B.48 utt1:  {C but } then again, {D you know, } you don't get those people who would be good,   
+
+b          A.49 utt1:  # Right. # /  
+
++          B.50 utt1:  # and # are real smart and decided, {D Hey, } I want to make a lot of money,  /
+^q          B.50 utt2: {C so } I will go into medicine.  /
+sv          B.50 utt3:  You don't get those. /  
+
+aa          A.51 utt1:  Right,  /
+%          A.51 utt2: {C or } that, - /
+aa          A.51 utt3: yeah,  /
+aa          A.51 utt4: exactly,  /
+sv          A.51 utt5: {C or } people also get the feeling that, {D well } {D jeez, } {D you know, } [ you don't have to worry about, + ] you have a lot of job security there,  /
+sv          A.51 utt6: {C and } it's more of, {F uh, } seniority, I would imagine kind of thing, instead of having a skill [ or, + or ] whatever to advance, /  
+
+aa          B.52 utt1:  # Yeah.  /
+aa          B.52 utt2:  That's true.  # /  
+
+sv          A.53 utt1:  # {C so } you don't # necessarily get the kind of quality control or the kind of, - /
+h          A.53 utt2: I don't know. /  
+
+b          B.54 utt1:  Yeah,  /
+sd          B.54 utt2: it would be nice to see something where at least, -/  
+
+sv          A.55 utt1:  I think we have to have something.  /
+sv          A.55 utt2:  We really do. /  
+
+sv(^q)          B.56 utt1:  {E I mean, } even something that says {D you know } look, free major medical for all, {D you know, } everyone  /
+sd          B.56 utt2: {C and then, }   
+
+b          A.57 utt1:  # Yeah. # /  
+
++          B.58 utt1:  # beyond # that, you could work out on your own if you want. /  
+
+b          A.59 utt1:  Yeah,  /
+ba          A.59 utt2: I know,  /
+h          A.59 utt3: [ I, + I ] don't know,  /
+%          A.59 utt4: I, - /
+sd          A.59 utt5: having worked in doctor's offices and  stuff I see it from a physician's point of view.  /
+sv          A.59 utt6: {C And } [ I, +   
+
+b          B.60 utt1:  Uh-huh. /  
+
++          A.61 utt1:  I ] think the problem with the skyrocketing cost right now is the insurance companies because,   
+
+b          B.62 utt1:  # {F Oh, } yeah. # /  
+
++          A.63 utt1:  # I don't # see doctors getting real rich,  /
+sv          A.63 utt2: {C and } I think hospitals do make money,  but not nearly as much as insurance companies. /  
+
+b          B.64 utt1:  {F Oh, } right.  /
+nn          B.64 utt2:  No. /  
+
+sv          A.65 utt1:  I think they are really making a killing and nobody is talking about it.  /
+%          A.65 utt2: Nobody's, -/  
+
+b          B.66 utt1:  Yeah,  /
+sv          B.66 utt2: they are the ones who make, - /
+sv          B.66 utt3: {E I mean } they are the ones, - /
+sv          B.66 utt4: they have, {D you know, } the  ((   ))  although, - /
+%          B.66 utt5: {E I mean, } it's - /
+sv          B.66 utt6: the unfortunate part of that is that the people, I think, tend to forget that doctors are humans as well. /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+%          B.68 utt1:  {C So } that - /
+sd         B.68 utt2: insurance companies have to charge a substantial amount for certain people, or certain types [ of, + of ] doctors, given that, {D you know, } someone decides to have a malpractice suit against them, {D well, } [ they could take, + ] {D you know, } it could be millions, {E I mean, } unfortunately. /  
+
+b          A.69 utt1:  Right. /  
+
+%          B.70 utt1:  {C And } if the doctor, whether, it was, {D you know, } - /
+sd          B.70 utt2: {E I mean } I'm sure there are those cases [ [ where, +  where ] the doctor is wrong or malicious or something. /  
+
+b          A.71 utt1:  Right,  /
+b^r          A.71 utt2: right. /  
+
+sv          B.72 utt1:  {C But } you know their, {D you know. }   
+
+^2          A.73 utt1:  Their mistakes are made. /  
+
++          B.74 utt1:  Mistakes, {D you know. } -/  
+
+b          A.75 utt1:  Right. /  
+
+sv          B.76 utt1:  Everybody makes mistakes, unfortunately. /  
+
+aa          A.77 utt1:  Sure. /  
+
+sv          B.78 utt1:  It shouldn't be a billion dollar, {D you know, } industry.  /
+sv@          B.78 utt2:  It should be.     
+
+b          A.79 utt1:  Yeah. /  
+
++@          B.80 utt1:  I made a mistake  /
+sv          B.80 utt2: {C and } [ this is, + this is ] their compensation.  /
+%          B.80 utt3:  Not, -/  
+
+b          A.81 utt1:  {C So, } yeah,  /
+sv          A.81 utt2: I think that's the legal part of it coming into it to. /  
+
+b          B.82 utt1:  Yeah,  /
+sv          B.82 utt2: that is a big problem. /  
+
+sv          A.83 utt1:  I wonder if we should have a limit on how much people can sue for. /  
+
+aa          B.84 utt1:  That would be nice. /  
+
+sd          A.85 utt1: [ {C Or, } + {C or, ] } <laughter>,  I don't know because then that's where the insurance company, - /
+sd@          A.85 utt2: then if people weren't having to spend these huge amounts of money on getting insurance coverage.     
+
+b          B.86 utt1:  Uh-huh. /  
+
++@          A.87 utt1:  {D You know. } -/  
+
+sv          B.88 utt1:  It would be a lot better.  /
+%          B.88 utt2:  Yeah, /  
+
+b          A.89 utt1:  # Yeah. # /  
+
+sd          B.90 utt1:  # {E I # mean } I'm sort of [ in a, + in a ] government run medicine program.  /
+%          B.90 utt2:  Sort of. - /
+%          B.90 utt3: I'm in a, -/  
+
+^g          A.91 utt1:  Are you? /  
+
+sd          B.92 utt1:  {D Well, } {D well } I'm a graduate student. /  
+
+bk          A.93 utt1:  Okay. /  
+
+%          B.94 utt1:  {C And, } {F uh. } -/  
+
+qw          A.95 utt1:  At where? /  
+
+sd@          B.96 utt1:  At University of Rochester.   
+
+bk          A.97 utt1:  # {F Oh, } okay.  # /  
+
++@          B.98 utt1:  # In Rochester, # New York. /  
+
+b          A.99 utt1:  # Uh-huh. # /  
+
+sv          B.100 utt1:  # I'll # bet you are in Texas. /  
+
+%          A.101 utt1:  I - /
+br          A.101 utt2: what?  /
+sd          A.101 utt3: I'm in Texas  /
+%          A.101 utt4: yeah,  /
+%          A.101 utt5: yeah. /  
+
+sd          B.102 utt1:  I was going to bet that,  /
+b          B.102 utt2: okay.  /
+%          B.102 utt3:  {F Uh, } yeah,  /
+sd@          B.102 utt4: {C and } [ as it, + as it ] turns out, my wife has pretty decent coverage through her company.   
+
+b          A.103 utt1:  # Uh-huh. # /  
+
++@          B.104 utt1:  # and # can get me coverage as well.    
+
+ba          A.105 utt1:  {F Oh, } great. /  
+
++@          B.106 utt1:  {C But } [ I, + ]  {D yeah, }  which is great. /  
+
+b          A.107 utt1:  Yeah. /  
+
+sd          B.108 utt1:  {C And } {C because } [ the university, + the university ] offers me two plans.  /
+sd          B.108 utt2:  They offer what they call the mandatory version,   
+
+b          A.109 utt1:  # Oh.  # /  
+
++          B.110 utt1:  # which # is basically major medical  /
+sd@          B.110 utt2: {C and } they offer the  ((   ))  portion. [ Which is, +   
+
+b          A.111 utt1:  # Uh-huh. # /  
+
++@         B.112 utt1:  # which # is, ] {D you know, } sort of everything else you need.  Sort of [ [ your, + your, ] + your ] basic care.    
+
+b          A.113 utt1:  Uh-huh. /  
+
++@          B.114 utt1:  Beyond major medical and stuff. /  
+
+b          A.115 utt1:  Okay. /  
+
+%          B.116 utt1:  {C And, } they don't, - /
+sd          B.116 utt2: {C and } even though [ my, + my ] wife's insurance covers me,   
+
+b          A.117 utt1:  # Yeah. # /  
+
++          B.118 utt1:  # for # everything,   
+
+b          A.119 utt1:  Uh-huh. /  
+
++          B.120 utt1:  I still have to pay them a hundred and some odd dollars a semester. /  
+
+ba          A.121 utt1:  {F Oh, } no. /  
+
+sd          B.122 utt1:  {C And } that's for the mandatory portion of the insurance. /  
+
+sv          A.123 utt1:  [ [ That, + that, ] + that ] can't be legal. /  
+
+b          B.124 utt1:  Yeah,  /
+sd          B.124 utt2: I'm not actually sure if it is or not  /
+sv          B.124 utt3: {C but, } people sort of keep fighting it  /
+%          B.124 utt4: {C and } I'm, - /
+sd          B.124 utt5: {C and } I mean to keep fighting it, /  
+
+ba          A.125 utt1:  # {F Oh, } my gosh.  # /  
+
+sd          B.126 utt1:  # {C but } {D you know, } # it's just one of these things where I just don't want to spend my time. /  
+
+qw          A.127 utt1:  [ How can they, + how can they ] make you pay for insurance coverage? /  
+
+%          B.128 utt1:  {D Well, } the reason, - /
+sd          B.128 utt2: their rational [ is, + is ] they make everyone pay for it so  that [ it, + it ] keeps the cost of university health services down,  /
+sd          B.128 utt3: {C and } everyone can use it.  /
+sd          B.128 utt4:  You know it. -/  
+
+qw          A.129 utt1: [ How, + how ] does it keep the cost down? /  
+
+sd          B.130 utt1:  {C Because } everyone is now forced to pay for this.  /
+%          B.130 utt2:  {C And } there is {D like } an, -/  
+
+qy          A.131 utt1:  {F Oh, } {C so } they just use the money for something else besides your insurance policy? /  
+
+nn          B.132 utt1:  {D Well, } no,  /
+ny          B.132 utt2: {D well, } yeah,  /
+sd^e          B.132 utt3: {D well } what they use it - /
+nn          B.132 utt4: no,  /
+sd^e          B.132 utt5: what they use it for [  [ is, +  is, ] + is ] university health services.  /
+sd          B.132 utt6: [ We have a, +   
+
+bk@          A.133 utt1:  # Okay.  # ]   
+
++          B.134 utt1:  # we # have  a ] hospital here, and a subportion of the hospital. /  
+
++@          A.135 utt1:  Okay.  /
+qy^d          A.135 utt2:  {C So } you're subsidizing the hospital. /  
+
+na          B.136 utt1:  Right  /
+sd          B.136 utt2: obviously, we're paying for the welfare state.  /
+sd          B.136 utt3:  {D Now, } [ as it turns out, + as it turns out, ] {F uh, } my wife and I have chosen to use the university [ as, + ]   
+
+b          A.137 utt1:  # Uh-huh. # /  
+
++          B.138 utt1:  # health # services as our primary care facility.  /
+sd          B.138 utt2:  We can do that. /  
+
+ba          A.139 utt1:  {F Oh, } good. /  
+
+%          B.140 utt1:  {C So, } [ in, + in, ] - /
+sd          B.140 utt2: {C but } in effect, I'm paying twice for one service.  /
+%          B.140 utt3: {C So, } -/  
+
+aa          A.141 utt1: [ You are, + you are ] - /
+ba          A.141 utt2: I know.  /
+sd          A.141 utt3: {C And } {D see } that's the thing,  /
+sd^r          A.141 utt4: that is the thing,  /
+sd          A.141 utt5: now that I'm in my thirties now, and I have three kids - /
+sd          A.141 utt6: {C and } {E I mean, } I'm very liberal.  /
+sd          A.141 utt7: I'm extremely liberal,  /
+%          A.141 utt8: {C and, } {F uh, } I, - /
+sd          A.141 utt9: {C but } now I just in the last couple of years.  I have gotten to the point where I am saying I just cannot afford to pay anymore,   
+
+b          B.142 utt1:  # Uh-huh. # /  
+
++          A.143 utt1:  # to # help people out.  /
+sd          A.143 utt2: [  I, + I ] want to keep helping people out  /
+sv          A.143 utt3: {C but } I need for the government or the agencies, to find a way to do it on the amount of money, {D you know, } that I can afford. /  
+
+b          B.144 utt1:  Yeah. /  
+
+sd          A.145 utt1:  I just can't afford anymore. /  
+
+b          B.146 utt1:  Yeah. /  
+
+sv          A.147 utt1: [ It's, + it's ] just outrageously. - /
+sd          A.147 utt2: It's just starting to get me angry,  /
+sd          A.147 utt3: {C and } for the first time in my life.  I am starting to feel like [ I, + I. ] - /
+sd@          A.147 utt4: Well, I guess, it has to do with a lot of the stuff that I find out I am paying for now.    
+
+b          B.148 utt1:  Yeah. /  
+
++@          A.149 utt1:  {D You know? } /  
+
+na          B.150 utt1:  {D Well } [ that's, + that's ] certainly true, /  
+
+sd          A.151 utt1:  {E I mean, } if I can't afford to have some kind of [ volun-, + ] optional operation for myself. - /
+sd          A.151 utt2: {C Because } [ our, + our ] medical coverage has gotten increasingly worse over, let's see, the past five years, to the point now where even if we need surgery, our insurance only covers eighty percent of it. /  
+
+b          B.152 utt1:  Right,  /
+ba          B.152 utt2: which is ridiculous. /  
+
+b          A.153 utt1:  {C And, } right  /
+sd          A.153 utt2: {C and so } no matter what happens to me, if I get in a car accident this afternoon, I have [ no way of, + {D you know, } no way of ] being able to afford the outrageous medical costs,   
+
+b          B.154 utt1:  # Yeah. # /  
+
++          A.155 utt1:  # because # my insurance is now only eighty percent of whatever it's going to be.  /
+sd          A.155 utt2: [ {C And, } + {F uh, } {C so } ] on top of that, {F uh, } then, [ what if I, + what if we ] decide to have universal health insurance,  /
+sd          A.155 utt3: I'm subsidizing, -/  
+
+^2          B.156 utt1:  Everybody else. /  
+
+sd(^q)         A.157 utt1:  {C And } what if they are lucky enough to get into a doctor and a program that's going to say, {D Okay, } {D well, } you really need to have those varicose veins fixed, or your teeth fixed or something like that. /  
+
+b          B.158 utt1:  Right. /  
+
+sd          A.159 utt1:  {C And } I am paying for it.  /
+sv          A.159 utt2: {D You know, } stuff like that has happened with education and with other things that you hear about  /
+t1          A.159 utt3: {C and } it's just,  Wait a minute <laughter>.  /
+sd          A.159 utt4:  {D You know, } my kids aren't getting that.  /
+qw          A.159 utt5:  How come [ their, + their ] kids are getting that? /  
+
+aa          B.160 utt1:  Yeah.  /
+aa          B.160 utt2:  Exactly,  /
+%          B.160 utt3: [ I don't, + I don't, ] {F uh. } -/  
+
+sd          A.161 utt1:  {C And } I know it's only in a few cases  /
+sd          A.161 utt2: {C and } I don't want them [ to, + {F uh, } to ] cut funding for welfare programs or anything.  /
+sd          A.161 utt3:  I don't want them to do that, because I know a lot of people, they live right on the edge  /
+sv          A.161 utt4: {C and } they need that. /  
+
+b          B.162 utt1:  Uh-huh. /  
+
+%          A.163 utt1: [ {C But, } + {C but. } ] -/  
+
+b          B.164 utt1:  Yeah,  /
+sd          B.164 utt2: [ it's, + it's ] one of the strange, - /
+sv          B.164 utt3: I think it's strange that as you get older. -/  
+
+b          A.165 utt1:  Uh-huh. /  
+
+sv          B.166 utt1: [ I think, + I think ] the tendency is that as people get older,   
+
+b          A.167 utt1:  # Uh-huh. # /  
+
++          B.168 utt1:  # and # gain, [ I don't want, + I don't want ] to say more responsibility, but  {D you know, } things like homes and kids,   
+
+b          A.169 utt1:  # Uh-huh. # /  
+
++@          B.170 utt1:  # and # so forth.   
+
+b          A.171 utt1:  Right. /  
+
++@          B.172 utt1:  They tend to lose that liberalism they had when they were younger. /  
+
+b          A.173 utt1:  {D Well, } yeah,  /
+%          A.173 utt2: that's, - /
+sd          A.173 utt3: {C and } [ it's, + {F uh, } it's ] funny because a couple of years ago, I heard a quote from Winston Churchill.  /
+^h          A.173 utt4:  Let's see if I can remember it,  /
+^q          A.173 utt5: anybody who's not a liberal in his twenties has no heart,  /
+^q          A.173 utt6: {C and } a person who is not a conservative in his fifties has no brain.  /
+h          A.173 utt7:  It was something like that <laughter>. /  
+
+aa          B.174 utt1:  That's probably very true. /  
+
+b          A.175 utt1:  <Laughter> Yeah,  /
+h          A.175 utt2: {C and } I don't know,  /
+sd          A.175 utt3: I guess that's what's happening to me,  /
+sd          A.175 utt4: {C but } [ I, + I ] think it's just starting, {F uh, }  /
+%          A.175 utt5: [ it's, + it's, ] - /
+sd          A.175 utt6: [ I, + I ] don't know maybe other people, - /
+%          A.175 utt7: I, - /
+qy(^q)          A.175 utt8: do you think it's a sign of the times, that people are starting to say, {D All right, } we really mean it, no more taxes <laughter>,  /
+sd          A.175 utt9: {C or } maybe this is just my own personal. -/  
+
+nn          B.176 utt1:  No,  /
+sv^e          B.176 utt2: [ I think, + I think ] people are starting to really mean it,  /
+sv          B.176 utt3:  {E I mean } everywhere [ you, + you ] look, you are getting something new.  /
+sv          B.176 utt4:  {E I mean, } you start off,   
+
+b          A.177 utt1:  # Yeah. # /  
+
++          B.178 utt1:  # {D you # know, } especially, {F uh, } - /
+qy^g          B.178 utt2: you guys I believe in Texas you don't have state tax, do you? /  
+
+nn          A.179 utt1:  No,  /
+sd^e          A.179 utt2: no income tax. /  
+
+b          B.180 utt1:  Right,  /
+sd          B.180 utt2: [ we have, + we have ] federal income tax.    
+
+b          A.181 utt1:  Yeah. /  
+
++          B.182 utt1:  State income tax, local income tax. /  
+
+b          A.183 utt1:  Oh. /  
+
+sd@          B.184 utt1:  We have state tax on gasoline.    
+
+b          A.185 utt1:  Oh. /  
+
++@          B.186 utt1:  {F Uh, } {D you know, } because [ our, + our. ] -/  
+
+ba          A.187 utt1:  Wow. /  
+
+sd          B.188 utt1:  {C So } on top of the federal tax on gasoline,   
+
+b          A.189 utt1:  # Yeah. # /  
+
++          B.190 utt1:  # we # have state tax on gasoline,  /
+%          B.190 utt2: {C so } we are just. -/  
+
+b          A.191 utt1:  Yeah,  /
+sd          A.191 utt2: {C but } I tell you, {F uh, } we have incredible property taxes down here. /  
+
+sv          B.192 utt1:  {F Oh, } that could be, {F uh, } making up for the difference. /  
+
+b          A.193 utt1:  Yeah,  /
+sd          A.193 utt2: {C and } we don't have the services either that other states have. / 

@@ -1,0 +1,272 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3457_1423_1315
+TOPIC#:		358
+DATE:		911205
+TRANSCRIBER:	glp
+UTT_CODER:      mmab
+DIFFICULTY:	3
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:        None.
+
+========================================================================
+  
+
+o          A.1 utt1:   Okay,  /
+sd          A.1 utt2: {F uh, } <breathing> <lipsmack> let me see, I've got two children.  /
+%          A.1 utt3:  One is, {F uh, } - /
+sd          A.1 utt4: both preschoolers,  /
+sd          A.1 utt5: one is two  /
+sd          A.1 utt6: {C and } one is, {F uh, } four. /  
+
+b          B.2 utt1:   Uh-huh. /  
+
+sd          A.3 utt1:   [ {C So, } + {C and, } ] {F uh, } <lipsmack> this is my first year off,  /
+sd          A.3 utt2: {C and } I've always worked, {F uh, } from the time that they were little  /
+sd          A.3 utt3: {C and so } I decided to <breathing> hold off on my job for a while and stay home with them and <breathing> spend some more time with them <laughter> which I hadn't been doing. /  
+
+sv          B.4 utt1:   {D Well, } I think that's wonderful. /  
+
+%          A.5 utt1:   {D So, } -/  
+
+sd          B.6 utt1:   My children are in college. /  
+
+b          A.7 utt1:   Oh. /  
+
+sd          B.8 utt1:   {C But } I teach school  /
+sd          B.8 utt2: {C and } I teach, {F uh, } middle school age children. /  
+
+b          A.9 utt1:   Oh. /  
+
+sd          B.10 utt1:   {C And so } I see a lot of, {F uh, } variation in what happens when kids are at home. /  
+
+b          A.11 utt1:   Yeah. /  
+
+sd          B.12 utt1:   {F Uh, } I have taught school ever since my children were little. /  
+
+b          A.13 utt1:   Uh-huh. /  
+
+sd          B.14 utt1:   {C But } the advantage of teaching school is your hours are closer to your children's  /
+sd          B.14 utt2: {C and } your holidays are, too. /  
+
+b          A.15 utt1:   Yeah. /  
+
+sv          B.16 utt1:   {C So } teaching, I think is [ a, + a ] good career to have and still be able to spend a lot of quality time with kids. /  
+
+sd          A.17 utt1:   {D Well, } that's what I was doing before,  /
+sd          A.17 utt2: I was teaching for Richardson School District. /  
+
+b          B.18 utt1:   Uh-huh. /  
+
+sd          A.19 utt1:   {C And, } {F uh, } it just seemed like it took a lot of my time with them being so little. /  
+
+b          B.20 utt1:   Right. /  
+
+sv          A.21 utt1:   {C And } it's really hard. /  
+
+sv          B.22 utt1:   {D Well, } with them being as young.  /
+sv          B.22 utt2: It was much, much harder when mine were young. /  
+
+b          A.23 utt1:   Yeah. /  
+
+sd          B.24 utt1:   {C And, } {F uh, } I really didn't have that much of a choice because my husband was trying to finish his, {F uh, } college work --   
+
+b          A.25 utt1:   Yeah. /  
+
++          B.26 utt1:   -- and his Master's degree --   
+
+b          A.27 utt1:   Yeah. /  
+
++          B.28 utt1:   -- and so forth,  /
+sd          B.28 utt2: {C and so } it was a matter of somebody had to have a  ((   ))  <laughter> job. /  
+
+aa          A.29 utt1:   That's right,  /
+aa^r          A.29 utt2: that's right.   /
+sd          A.29 utt3: {C And } that's what was kind of [ what, + where ] we were, {D you know, }  /
+sd          A.29 utt4: [ we, + I ] really didn't have to work,  /
+sd          A.29 utt5: {C but } I felt like I really wanted to work. /  
+
+b          B.30 utt1:   Uh-huh. /  
+
+sd          A.31 utt1:   {C And } [ I felt, + I also felt ] like, boy, I was sure missing a lot  /
+sd          A.31 utt2: {C and } they were growing so fast  /
+sd(^q)          A.31 utt3: {C and } <breathing>, {D you know, } it's like, do I really need to work, {D you know? } /  
+
+b          B.32 utt1:   Uh-huh. /  
+
+sd          A.33 utt1:   [ {C And } I, + {C and } [ it, + that ] ] choice was there,  /
+sd          A.33 utt2: I really didn't have to  /
+sd          A.33 utt3: {C and, } <breathing> {D you know } <lipsmack>, so I did have that advantage there,  /
+sv          A.33 utt4: {C but } it's different staying home <laughter> too, {D you know. } /  
+
+aa          B.34 utt1:   Yes,  /
+aa          B.34 utt2: it certainly is.  /
+%          B.34 utt3: We, -/  
+
+sv          A.35 utt1:   It's an adjustment to make, also. /  
+
+sv          B.36 utt1:   {D Well, } I think that, {F uh, } we need to spend more family time together [ with, + with ] children today.  /
+sd          B.36 utt2: {F Uh, } we made a point to spend a lot of quality time  /
+sd          B.36 utt3: {C and } the activities that we were involved in were the activities the kids were --   
+
+b          A.37 utt1:   Uh-huh. /  
+
++          B.38 utt1:   -- involved in, {D you know, } {D like, } {F uh, } through scouting or --   
+
+b          A.39 utt1:   Yeah. /  
+
++          B.40 utt1:   -- {D you know, } anything like that  /
+sd          B.40 utt2: we participated.  /
+sd          B.40 utt3: {C And, } {F uh, } we always made a point to have breakfast together and supper together now. /  
+
+ba          A.41 utt1:   Wow, that's great. /  
+
+%          B.42 utt1:   When, - /
+%          B.42 utt2: yeah,  /
+sd          B.42 utt3: when, {F uh, } the kids were in high school, it was harder to always have supper together,  /
+sd          B.42 utt4: {C but } we did always have breakfast together. /  
+
+b          A.43 utt1:   Uh-huh. /  
+
+sd          B.44 utt1:   {C So, } [ we, + we ] had supper together as much as possible,  /
+sd          B.44 utt2: [ {C but } when it wasn't feasible, + {D you know, } {A we kind of kept a master calendar } --   
+
+b          A.45 utt1:   Uh-huh. /  
+
++          B.46 utt1:   -- {C and } when it wasn't feasible, ] {D well, } that was understandable,  /
+sd          B.46 utt2: {C but } --   
+
+b          A.47 utt1:   Yeah. /  
+
++          B.48 utt1:   -- {F uh, } we've always tried to spend time to talk and, {F uh, } have some [ time, + together time ] <noise>  /
+sd          B.48 utt2: {C and } we sat around the table,  /
+sd          B.48 utt3: we didn't sit in front of a T V or --   
+
+ba          A.49 utt1:   Wow, that's great. /  
+
++          B.50 utt1:   -- that kind of thing.  /
+sd          B.50 utt2:  {C So } I think that's been important, because we do have a close family -- /  
+
+b          A.51 utt1:   Uh-huh. /  
+
+sd          B.52 utt1:   -- {C and } even though the kids are basically, {F uh, } grown, {F uh, } they still like to sit down at the table and us all eat together when they're here and --   
+
+b          A.53 utt1:   Uh-huh. /  
+
++          B.54 utt1:   -- {F uh, } have spoken before of, they want that kind of, {D you know, } situation for them [ [ when, + {D you know, } {C and } their children ] + when ] they marry and have children. /  
+
+b          A.55 utt1:   Yeah,  /
+sv          A.55 utt2: kind of goes on. /  
+
+b          B.56 utt1:   Uh-huh. /  
+
+sv          A.57 utt1:   They do what they see, {D you know. } /  
+
+aa          B.58 utt1:   That's right.  /
+aa          B.58 utt2:  They model  /
+qy^d          B.58 utt3: {C and, } with the dysfunctional families today, I'm sure, [ with a, + as a ] schoolteacher also, you see --   
+
+b          A.59 utt1:   Uh-huh. /  
+
++          B.60 utt1:   -- what happens to these kids --   
+
+b          A.61 utt1:   Yeah. /  
+
++          B.62 utt1:   -- when these families never communicate  or they're dysfunctional as far as the, [ between, + ] {F uh, } {F oh, } second families, {F uh, } one parent families or --   
+
+b          A.63 utt1:   Uh-huh,  /
+b          A.63 utt2: yeah. /  
+
++          B.64 utt1:   -- all those kinds of problems that they have  /
+qy^d          B.64 utt2: {C and then } you see them magnified in the children. /  
+
+ny          A.65 utt1:   Yeah.  /
+sd          A.65 utt2:  Plus, you teach middle school,  /
+%          A.65 utt3: {C so } I'm sure that, -/  
+
+ba          B.66 utt1:   {F Oh, } boy,  /
+aa          B.66 utt2: yes. /  
+
+%          A.67 utt1:   [ You are really, + you really, ] - /
+ba          A.67 utt2: boy, {F oh, } boy.  /
+sd          A.67 utt3:  I taught early childhood -- /  
+
+b          B.68 utt1:   Uh-huh. /  
+
+sd          A.69 utt1:   -- {C so } I had the little ones. /  
+
+b          B.70 utt1:   Yes. /  
+
+sd          A.71 utt1:   {C And, } {F uh, } {D you know, } I saw it there, too,  /
+sv          A.71 utt2: {C and } [ [ [ you, + {D you know, } you just ] + <breathing> {F oh, } it's, ] + it's, ] kind of an eye-opener. /  
+
+aa          B.72 utt1:   It is. /  
+
+%          A.73 utt1:   {D So, } -/  
+
+aa^r          B.74 utt1:   It is.  /
+sv          B.74 utt2: {C And } [ m-, + I think most ] teachers realize the value of quality time with children -- /  
+
+b          A.75 utt1:   Uh-huh. /  
+
+sv          B.76 utt1:   -- {C and } I think we make a point to do that. /  
+
+aa          A.77 utt1:   Yeah,  /
+aa          A.77 utt2: I think you're right. /  
+
+sv          B.78 utt1:   {C Because } [ we see + <laughter>, we see ] all the time, the outcome of not doing that -- /  
+
+b          A.79 utt1:   Yeah. /  
+
+sv          B.80 utt1:   -- {C and } I think if we weren't so interested [ [ i-, + in children, ] + in child ] care, then we wouldn't be teaching anyway. /  
+
+b          A.81 utt1:   Right. /  
+
+%          B.82 utt1:   {D So, } -/  
+
+b          A.83 utt1:   Right. /  
+
+sd          B.84 utt1:   {F Uh, } I wish we could reach more of the rest of the world <laughter>. /  
+
+aa          A.85 utt1:   Yeah,  /
+aa^r          A.85 utt2: yeah. /  
+
+sv          B.86 utt1:   I think, {F uh, } the major problems in education are not what's happening in the schools,  /
+sv          B.86 utt2: it's what's happening in the families. /  
+
+aa          A.87 utt1:   I agree,  /
+aa          A.87 utt2: yeah. /  
+
+sv          B.88 utt1:   {C And, } {F uh, } they expect us to, {D you know, } [ have, + create ] miracles at school and fix all the problems and take over the roles of the parents as well as that of the teachers -- /  
+
+b          A.89 utt1:   Yeah. /  
+
+sv          B.90 utt1:   -- {C and } you get to a point where it's completely impossible. /  
+
+aa          A.91 utt1:   Yeah,  /
+aa          A.91 utt2: I agree.  /
+ba          A.91 utt3: [ I, + I ] know exactly what you're saying <laughter>. /  
+
+sv          B.92 utt1:   {C And } you just get more and more frustrated  /
+sv          B.92 utt2: {C and } yet, you feel for [ the, + the ] kids.  /
+sv          B.92 utt3:  You do the best you can  /
+%          B.92 utt4: {C but, } -/ 

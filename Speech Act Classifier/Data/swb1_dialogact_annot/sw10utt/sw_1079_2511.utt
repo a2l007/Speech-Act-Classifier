@@ -1,0 +1,277 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2511_1148_1117
+TOPIC#:		318
+DATE:		910409
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	3
+STATIC_ON_B:	3
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:        I had a very difficult time transcribing because the
+conversation kept cutting in and out in several stops.  It happened in the
+first conversation with both speakers speaking, and then again in speaker
+A's conversation by herself.
+
+============================================================================
+  
+
+sd          A.1 utt1:  {D Well, } Wayne, I've never done any, {F uh, }  auto repairs myself at all. /  
+
+b         B.2 utt1:  Uh-huh. /  
+
+sd          A.3 utt1:  {E I mean, } I may have screwed in a  little <laughter>, screw that looked like  it was falling out on the door or something  /
+sd          A.3 utt2:  {C but, } {F uh, } I personally haven't done anything.  /
+sd          A.3 utt3: Maybe I've, {F uh, } changed [ win-, + wiper ]  blades or something  /
+sd          A.3 utt4: {C but } I have noticed since, {F uh, } I got married that my husband,  he hates to do auto repairs,  /
+sd         A.3 utt5: {C but } he would rather do them himself [ than, + than ]  to pay someone else.  /
+sd          A.3 utt6: I guess, he can't make himself pay someone to do the repairs  when [ he knows, + he knows ] how to do it,  /
+sd          A.3 utt7: {C and } he'll do it.  /
+sd          A.3 utt8: {C So, } [ he, + he ]  hates the time that he takes,  /
+sd          A.3 utt9: {C but } he has changed, {F um, } the brakes  /
+sd          A.3 utt10: {C and } he has done  all of the tune-ups  /
+sd          A.3 utt11: {C and } the  (( ))  like that <throat_clearing> - /
+sd          A.3 utt12: {C and } recently he changed the steering mechanism in  (( the ))  car.  /
+sd          A.3 utt13:  I was really impressed  with that <laughter>.  /
+sd          A.3 utt14:  We had to have it to get the car inspected,  /
+sd          A.3 utt15:  it wouldn't pass inspection  /
+sd          A.3 utt16: [ {C and, } + {C and } ] {C so, } he priced around  /
+sd          A.3 utt17: {C and } everyone wanted several  hundred dollars for it  /
+sd          A.3 utt18: {C so, } he thought, {D well, } I can get one in a  junkyard <laughter>, for like fifty dollars, which he did  /
+sd          A.3 utt19: {C and then, } he did it  /
+sd          A.3 utt20: {C and, so, }  I guess, {F uh, } he's been pretty good about keeping our cars up,  /
+qo          A.3 utt21: [ what, + {F uh, } what's ]  your experience been like? /  
+
+sd          B.4 utt1:  {D Well, } [ I, + {F uh, } I ]  have a long experience with cars.  /
+sd          B.4 utt2:  [ I, + {F uh, } when I ] was younger, {F uh, } my brother had a Corvette  /
+sd          B.4 utt3:  {C and } I bought a Corvette  /
+sd          B.4 utt4: {C and } when you have a Corvette you more or less do all the work  /
+sd          B.4 utt5: {C and }  I've done everything from build the motor from [ the, + {F uh, }  {D you know, } the ] bare block on up.  /
+sd          B.4 utt6: {C And, } [ I, + I'm ] the same way as your husband is when it comes to my car,  I hate to go pay somebody good money, {D you know, }  /
+sd          B.4 utt7:  I hate to pay somebody twenty-five dollars on hour for something I can do myself. /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+ sv         B.6 utt1:  It just, to me it makes absolutely no  economic sense to do that. /  
+
+ b         A.7 utt1:  Right. /  
+
+ sd         B.8 utt1:  In fact, I, {F um, } just this past weekend put  new plugs in both, {F uh, } my car an my wife's car. /  
+
+ b         A.9 utt1:  Uh-huh. /  
+
+ sd         B.10 utt1:  {C And so, } [ I, + {F uh, } I ]  pretty much try to troubleshoot and do everything I can do myself  /
+ sd         B.10 utt2: {C but } [ I've, + I've ]  gotten to the point in my life, {F um, } {D you know, }  {A I just crept over forty years old, } where I don't  want to crawl underneath the car anymore <laughter>. /  
+
+ba          A.11 utt1:  That makes sense. /  
+
+sd          B.12 utt1:  {E I mean } [ it's, + ] {F um, } I don't know  whether [ I've, + I've ] just reached a point, {D you know, } - /
+ sd         B.12 utt2:  [ it's, + it's ] real rough in the winter time. /  
+
+b          A.13 utt1:  {F Huh, } yes. /  
+
+ sd         B.14 utt1:  {C And, } {F uh, } {C so, } I try to make sure  that, {F uh, } by the time fall runs around, {A because we actually have winters here on the east coast, } {F um, }   
+
+b          A.15 utt1:  Right <laughter>. /  
+
+ +         B.16 utt1:  that, {F uh, } [ I have, + ] {D you know, }  the car's in pretty good shape enough to last through the winter  /
+ sd         B.16 utt2: {C and, } {F uh, } {C then } springtime  I usually end up giving them, [ the, + {F uh, } a ] tune-up and make sure that they're  running well,  /
+ sd         B.16 utt3: {C and, } {F uh, } {D you know, } it's like I had the muffler go out [ on my, + on my ]  car, shortly before it was required to go, - /
+ sd         B.16 utt4: in Maryland they have, {F uh, } emission tests. /  
+
+ b         A.17 utt1:  Uh-huh. /  
+
+ sd         B.18 utt1:  {C And } you're required to get your car and go through  the emission test,  /
+ sd         B.18 utt2: {D well, } my muffler, of course, starting going bad right  before I was supposed to go to the emission test,  /
+ sd         B.18 utt3: {C so. } {D You know, }  I had to do that job,  /
+ sd         B.18 utt4: {C and } of course, that was back in December when it's nice and cold outside <laughter>. /  
+
+b          A.19 utt1:  Yes,  /
+ba          A.19 utt2: I'm sure it was. /  
+
+sd          B.20 utt1:  {C But } the thing was that I could do the  job myself,  /
+sd          B.20 utt2: {E I mean, } the parts cost me, {F oh, } roughly a hundred dollars. /  
+
+b          A.21 utt1:  Uh-huh. /  
+
+sd          B.22 utt1:  {F Um, } if I'd taken it someplace and have it done it  was going to be three hundred twenty-five. /  
+
+b          A.23 utt1:  Right. /  
+
+qh          B.24 utt1:   (( {D Now } ))   (( {D like } ))   who's got that extra two and a quarter <laughter>,  /
+ sd         B.24 utt2: I know I don't. /  
+
+b          A.25 utt1:  Yeah.  /
+sd          A.25 utt2:  {D Well, } that's exactly the way  he feels is that, he really hates to spend the time,  /
+sd          A.25 utt3: it takes a lot of time  /
+sd          A.25 utt4: [ if he, + if he ]  thinks it's going to be two hours, it's four if, {D you know, } whatever,  it always takes him twice as long.  /
+ sd         A.25 utt5: {C But } then when he's finished [ he's, + he ]  always says, {D well, } now you owe me three hundred dollars <laughter>.  /
+  sd        A.25 utt6:  {C And then } he thinks  that he has the money [ that, + that ] he can spend on something  /
+ sd         A.25 utt7:  {C and } he hasn't given it to someone else. /  
+
+ b         B.26 utt1:  Yeah. /  
+
+sd          A.27 utt1:  {C So, } he gets some satisfaction out of  that although, generally I think [ he, + he ] does not look forward to or anticipate,  /
+ sd         A.27 utt2:  there's some people that enjoy tinkering around on cars.  /
+sd          A.27 utt3: There's a lot of people  /
+sd          A.27 utt4:  {C and } he just isn't one of them. /  
+
+b          B.28 utt1:  Yeah.  /
+sd          B.28 utt2: [ I, + {F uh, } I ] don't mind it,  /
+ sd         B.28 utt3:  {F um, } there was a time when I had my Corvette,  /
+sd          B.28 utt4: {E I mean, } of course, I loved it, {F um, }  /
+%          B.28 utt5:  {C but } if, {D you know, } - /
+sd          B.28 utt6: I've got other interests now  /
+sd          B.28 utt7: {C and } there's a  lot, [ lo-, + ]  other more important things I think I should be doing with my time.  /
+ sd         B.28 utt8: {C And } I have the same problem,  /
+ ad         B.28 utt9:  {E I mean, } you can tell him from me  /
+sd          B.28 utt10: {C but } it doesn't matter,  /
+sd          B.28 utt11: {E I mean, } [ I've, + I've ]  had greasy fingernails for years <laughter>.  /
+ sd         B.28 utt12: {C And } it still takes me twice as  long as I think it's going to take to do the job, /  
+
+b          A.29 utt1:  Yeah. /  
+
+ sd         B.30 utt1:   {C so, } {C but, } [ th-, + ]  I think the difference is that, {F uh, } when you own the car you take more care in what you're doing, /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  {C and } you want to make sure that  it's done right and put back together right,  /
+sd          B.32 utt2: {C and, } {D you know, } [ I've, + I've ]  in the past I've had brake jobs done by someone that when I went back and looked at it some months  later I'd find something drastically wrong with it,   
+
+ b         A.33 utt1:  Right. /  
+
++          B.34 utt1:  {D you know, } like a spring that was put in  incorrectly which could have resulted in brakes failing and me having an accident.    
+
+ b         A.35 utt1:  Right. /  
+
+ +         B.36 utt1:  {D You know, } those kind of things,  /
+sd             B.36 utt2: {C and } when you  have a vehicle that's being used by, {D you know, } other members of your family, {D you know, }  you don't want that kind of a situation to come up. /  
+
+b          A.37 utt1:  No. /  
+
+sv          B.38 utt1:  {C And } it's very, very difficult to find a  mechanic these days that you can trust.  /
+sd          B.38 utt2: I only have one guy that I know  that I trust to work on my car. /  
+
+b          A.39 utt1:  Uh-huh. /  
+
+sd          B.40 utt1:  {C And, } {F uh, } he's about sixty miles from here.  /
+%          B.40 utt2:   {C And so, } it, - /
+sd          B.40 utt3: {C and } if I have something that's really major that I can't handle or feel  I don't have the time to handle, I'll take it to him to do it. /  
+
+b          A.41 utt1:  Right,  /
+sd          A.41 utt2: you know, that  (( it's, {F uh } )) ,  really has a bad reputation is to feel [ that, + that ] people in general feel and [ have, + have ]  rightly so, I think been cheated many times, /  
+
+ b@         B.42 utt1:   (( Uh-huh  /
+ b@         B.42 utt2: ))  Yes. /  
+
+sd          A.43 utt1:  [ {C and, } + {F um, } {C and } ] {D well, } I know  once when we had a, - /
+sd          A.43 utt2: we usually  ((   ))  inspection time we find out there's something wrong with our car - /
+sd          A.43 utt3:  {C but, } {F um, } once the muffler needed to be changed  /
+sd          A.43 utt4: {C and, } {F uh, }  he had looked at him himself  /
+sd          A.43 utt5: {C and, } {C but } we saw a commercial for {D like } fourteen or  twenty dollars or something for a change  /
+sd(^q)          A.43 utt6: he said, that's really, really good  /
+sd          A.43 utt7: {C so, }  he went in  /
+sd          A.43 utt8: {C and, } {F uh, } {C but } when they quoted him a price they really wanted fifty or something.  /
+ sd         A.43 utt9:   {D Anyway, } {C but } the car that the muffler people had, {F um, } [ my, + at least my ]  husband felt that they had damaged the muffler further, {D you know, }  /
+sd          A.43 utt10:  they had punctured a big hole in it when it really could have just been patched or whatever, /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+ sd         A.45 utt1:  {C and so, } since then, I don't think he's ever  even seriously considered [ a, + {D you know, } any ] kind of job he thought he could do himself.  /
+sd          A.45 utt2:  {C But, } I know from his childhood, he says that his father always  buys and restores cars just as entertainment, I guess.  /
+sd          A.45 utt3: {C And, } {F um, } {C so, }  Kelly growing up, [ he, + he ] felt like [ that, + that ] was a good way on Saturday's that he  developed a good relationship with his father. /  
+
+b          B.46 utt1:  Uh-huh. /  
+
+sd          A.47 utt1:  {C And so, } [ he used, + they used ]  car repairs kind of as a way to have [ a, + ] {D you know, }  something that they did together, /  
+
+b          B.48 utt1:  Uh-huh.  /
+ b         B.48 utt2:  Yeah. /  
+
+sd          A.49 utt1:  {C and } he thought that turned out pretty  good because [ it, + {D you know, } it ] helped him to understand and be functional now,  /
+ sd         A.49 utt2: {C and }  it helped him to have a close relationship,  /
+sd          A.49 utt3: {C so, } that's [ one, + one ]  way he looked at it. /  
+
+b          B.50 utt1:  Yeah.  /
+sd          B.50 utt2: that's probably, {F uh, } {F uh, }  something that, {F uh, } [ [ is, + is ] + {D you know, } is ] good for both of them.  /
+ sd         B.50 utt3:  I know that, {F uh, } my older  son I could never get him interested in cars  /
+ sd         B.50 utt4: {C and } I couldn't, {D you know, } - /
+ sd         B.50 utt5:   I just like, {D you know, } - /
+^q          B.50 utt6: you sure you're a boy,  /
+^q          B.50 utt7: {E I mean, } your not interested in cars, /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+sd          B.52 utt1:   {E I mean } [ he, + he ] just would not have  anything to do with them.   /
+sd          B.52 utt2: {C And, } {F uh, } later on and like when he, {D you know, } grew up,  got out of the house, got his own car, {F um, } he didn't know how to do anything to it.    {E I mean, } absolutely nothing.  /
+sd          B.52 utt3: {E I mean, } he couldn't even check the oil.  /
+sd          B.52 utt4:   {E I mean, } [ that's, + that's ] how uninformed he was and disinterested. /  
+
+b          A.53 utt1:  Uh-huh. /  
+
+sd          B.54 utt1:  {C And, } I guess there are some people  out there like that, {F um, } {D you know, }  /
+ sd         B.54 utt2: I always thought maybe, {D you know, } if he took more  of an interest and, {D you know, } what I was doing  /
+sd          B.54 utt3: {C and } maybe we could have communicated better. /  
+
+b          A.55 utt1:  Uh-huh. /  
+
+b          B.56 utt1:  {C But, } {F uh, } yeah,  /
+ba          B.56 utt2: [ I, + I ] think that's great. /  
+
+b          A.57 utt1:  <Whispering> Yeah,  /
+sd          A.57 utt2: it didn't always work.  /
+sd          A.57 utt3:   {D Well, } [ I felt, + {F um, } I feel ] like I could myself, do some things but, that I have enough  responsibility that if I have someone like my father when I was living at  home, and my husband, that's willing to do it, I go ahead and let them do it.  /
+sd          A.57 utt4:  I don't feel the need to, {F um, } {D you know, } be a feminist on that issue and  say I can take care of my own things.  /
+sd          A.57 utt5: [ I'm, + I'm ] happy to let them [ ru-, + run ]  the cars because I have so, many other responsibilities [ that, + ] {F um, }  /
+sd          A.57 utt6: {C so, }  I haven't tried to do a lot myself. /  
+
+sd          B.58 utt1:  {F Uh, } I trained [ my, + {F uh, } my ]  wife in the hou-, [ in, + in ] doing things,  /
+sd          B.58 utt2: in fact, {F uh, } when I, {F uh, } first transferred down  to, {F uh, } Texas Instruments back in nineteen eighty-seven,   
+
+b          A.59 utt1:  Uh-huh. /  
+
++          B.60 utt1:  {F um, } {F uh, } when I left here, {F uh, }  she had to change a set of plugs on the car <laughter>,   
+
+b          A.61 utt1:  Uh-huh. /  
+
++          B.62 utt1:  because she was up here for a month or so,  after I was  /
+sd          B.62 utt2: {C and, } {F uh, } it was an interesting experience for her.  /
+sd          B.62 utt3:  {E I mean, }  she'd always assisted me and done some other things  /
+ sd         B.62 utt4: {C but } for her to actually  get in there and do it herself [ it was, + {F uh, } it was ] something, [ t-, + ] a little different. /  
+
+ba          A.63 utt1:  It's a good experience,  /
+ sv(^q)         A.63 utt2: it helps you feel,  I think comfortable with your car and feel like, it's not so, scary if, {F um, }  your driving it and you might get stranded somewhere that you might, [ you + ] think, {D well, }  [ I've, + I've ] been under that hood  /
+^q          A.63 utt3: {C and } I know what's going on  /
+%          A.63 utt4: {C but, } -/  
+
+b          B.64 utt1:  Yeah,  /
+ b^r         B.64 utt2: yeah,  /
+sv          B.64 utt3: I think it's important that  everyone know, {D you know, } basically [ how, + how ] the darn engine works, /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+sd          B.66 utt1:  it helps you figure out what's wrong with it,   
+
+b          A.67 utt1:  Uh-huh. /  
+
+ +         B.68 utt1:  {D you know, }  /
+ sd         B.68 utt2: [ I've, + I've ]  been out with my sister before when, {D you know, } her car died on the highway  /
+ sd         B.68 utt3: {C and } I happened to be  with her and managed to get her to the other side of the road because  it was dark and all, / 

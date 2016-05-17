@@ -1,0 +1,390 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2690_1031_1117
+TOPIC#:		339
+DATE:		910426
+TRANSCRIBER:	JKP
+UTT_CODER:      lsh
+DIFFICULTY:	1
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+qw          A.1 utt1:  What are your favorite programs? /  
+
+sd          B.2 utt1:  {F Uh, } it's kind of hard to put my finger [ on a, + on a ]   favorite T V program,  /
+sd           B.2 utt2: {C however, } {F uh, } one that I've been watching for a  number of years is DALLAS.  /
+sd          B.2 utt3:  [ {C And, } + {F uh, }   
+
+ba          A.3 utt1:  {F Oh, } how funny. /  
+
++           B.4 utt1:  <Laughter>  {C And, } ] {F uh, } it's going to be going off the air, {F uh, } let's see, [ a week from Fri-, + a week from tonight. ]  /
+sd          B.4 utt2:  It's going to be its  last show.  /
+sd           B.4 utt3:  {C So } I've, I've kind of enjoyed watching over the years.  /
+sd          B.4 utt4:  I've been  disappointed in it and  also pleased in it.  /
+sd           B.4 utt5: {C And, } {F uh, } I was, {F uh, }  greatly disappointed, {F uh, } when I did move down to Plano to, {F uh, } find out that  [ the, + {F uh, } the, ] {F uh, } great South Fork Ranch was really only a one bedroom house. /  
+
+x          A.5 utt1:  <Laughter>.   
+
+x          B.6 utt1:  <Laughter>.   
+
+sd          A.7 utt1:  I've seen the sign that goes to there.  /
+%          A.7 utt2:  I've, - /
+sd          A.7 utt3: {D well }  I think I've seen it in the distance. /  
+
+b          B.8 utt1:  Uh-huh. /  
+
+sd          A.9 utt1:  {C But } I have not even seen it.  /
+sd          A.9 utt2: {C And } I have not  seen the program. /  
+
+by          B.10 utt1:  {F Oh } {D well, }   
+
+%          A.11 utt1:  {C So } <laughter>, -/  
+
++          B.12 utt1:  That's a shame. /  
+
+sd           A.13 utt1:  [ {C And, } + {C and, } ] {F uh, } I know when we went to London, it was really funny.  /
+sd           A.13 utt2:  {F Uh, } people recognized Dallas, Texas, by  [ [ the, + the ] Texas, + ] {F uh, } [ the, + the ] cowboys --   
+
+b          B.14 utt1:  Uh-huh. /  
+
++          A.15 utt1:  -- and by that program. /  
+
+b          B.16 utt1:  Yes. /  
+
+sd           A.17 utt1:  {C And } [ that's, + that's ] the two things they associate with Dallas, Texas.  /
+%          A.17 utt2:  {C So, } -/  
+
+x          B.18 utt1:  <Laughter>.   
+
+%          A.19 utt1:  I, - /
+%          A.19 utt2: {C and } I, - /
+sd          A.19 utt3: they asked me, {F uh, } - /
+sd(^q)          A.19 utt4:  [ several times, + several times ] they ask me, why are there two bridges?  /
+sd          A.19 utt5: {C And } I didn't know what  they were talking about.  /
+sd           A.19 utt6: It took me a long time, they're talking about the viaducts. /  
+
+b          B.20 utt1:  Uh-huh. /  
+
+qy          A.21 utt1:  Is that, - /
+qy^g          A.21 utt2: that is right, isn't it? /  
+
+ny          B.22 utt1:  Yeah. /  
+
+sd(^q)^r           A.23 utt1:  {C Because } they ask me, why are there two bridges going into Dallas? /  
+
+x          B.24 utt1:  <Laughter>.   
+
+sd          A.25 utt1:  Darned if I know <laughter>.  /
+sd          A.25 utt2: I was blank looking,  {D you know. }  /
+sd          A.25 utt3:  I felt really dumb. /  
+
+sd          B.26 utt1:  {D Well, } it's, it's, {F uh, } - /
+sd           B.26 utt2: when you look at  the, {F uh, } {D you know, } route seventy-five, coming down there.  {E I mean, } it's actually a  bridge, /
+sd          B.26 utt3: {C but } it's a bridge over top of roadway.  /
+sd          B.26 utt4:  There's no water there.  {E I mean, }  {F uh, } -/  
+
+sd          A.27 utt1:  {D Well, } there's water in the Trinity.  /
+sd           A.27 utt2:  I thought it  was [ to, + ] going to Oak Cliff over the Trinity. /  
+
+b          B.28 utt1:  Yeah.  /
+%          B.28 utt2:   {D Well }  [ there's, + there, ]  {F uh, } - /
+%          B.28 utt3: {D well } they, - /
+sd           B.28 utt4: I think when they open the show up they give you two different views of Dallas. /  
+
+bh          A.29 utt1:  {F Oh, } do they? /  
+
+sd          B.30 utt1:  One from the east and one from the west. /  
+
+b          A.31 utt1:  {F Uh. } /  
+
+sd          B.32 utt1:  {C And } that's why. /  
+
+bk          A.33 utt1:  {F Oh, } I see. /  
+
+sd          B.34 utt1:  {C But } it kind of confuses people.  /
+sd           B.34 utt2:  {C But, } {F uh, }  {F uh, } I enjoy, {F uh, } {F uh, } a lot of different comedies.  /
+sd           B.34 utt3: {F Um, } I think it's mainly for an  escape, {F um, } {D you know, } [ you, + ] {F uh, } my job is not the most thrilling in the world  /
+sd,sv           B.34 utt4:  {C and, } {F uh, } I enjoy laughing and, {F uh, } some of the shows that, {F uh, } are on the air,  some are just purely, {D you know, } brain drainers. /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sv           B.36 utt1:  {C And then } there's other ones that, {F uh, } deal with, {F uh, } in a funny manner, {F uh, } socially relevant things. /
+sd           B.36 utt2: {C And, } {F uh, } one show that  comes to mind is {D like } DESIGNING WOMEN.   {F Uh, } /  
+
+sv          A.37 utt1:  I think that is just a hoot.  /
+sd           A.37 utt2:  That's one of those few  that I do watch when the television is on.  /
+sd          A.37 utt3:  My husband likes to watch T V.  /
+sd          A.37 utt4:  It's on.  /
+sd          A.37 utt5:  I usually read and watch T V. /  
+
+b          B.38 utt1:  Uh-huh. /  
+ 
+o@          A.39 utt1:  {C And } usually I can handle both at the same time, {D you know. }   *[[slash error]]
+
+b          B.40 utt1:  Yeah. /  
+
++@          A.41 utt1:  Because I am pretty sure where the T V plot's going. /   *[[slash segmentation error, should be independent slash unit]]
+
+b          B.42 utt1:  Uh-huh. /  
+
+sd           A.43 utt1:  {C But } that's one of the few that I just actually watch.  /
+sd          A.43 utt2: {C Because } --   
+
+aa          B.44 utt1:  Yes. /  
+
++          A.45 utt1:  -- it's funny.  /
+sd          A.45 utt2: I really enjoy that one. /  
+
+aa          B.46 utt1:  Yes.  /
+sv          B.46 utt2:  [ It, + {F uh, } it ] has been very  entertaining  /
+sv           B.46 utt3: [ {C and, } + {C and } ] also, {F uh, } [ the, + the ] issues they deal with, {F uh, } really tends to [ open, + open ] your eyes as well as your mind to some of the problems.  /
+sd           B.46 utt4:  {C And, } {F uh, } [ I've, + I've ]  really enjoyed that one since it came on.  /
+sd           B.46 utt5:  {F Um, } I don't like the politics  surrounding the program though,  /
+sd           B.46 utt6: {C but, } {E I mean, } other than that, {D you know, }  there seems to be a little in fighting going on between the producers and one of the actresses.  /
+%          B.46 utt7:  {C But, } {F uh, } - /
+sd           B.46 utt8:  {C and then, } {F uh, } I've kind of gotten hooked on P B S  stuff, {F uh, } public, {F uh, } T V.  /
+sd           B.46 utt9: {F Uh, } I like things like NOVA and, {F uh, } some of [ the, + the ]  special programs they come up with on nature and stuff.  /
+sd          B.46 utt10:  I just enjoy watching that stuff. /  
+
+sd          A.47 utt1:  Now, we watch a lot of those.  /
+sd           A.47 utt2: {F Uh, } {C and } the ones  that sometimes will hook me, to put down my book, will be the one,  there was one, {F uh, } recently about the Gettysburg Address. /  
+
+b          B.48 utt1:  Uh-huh. /  
+
+sd          A.49 utt1:  {C And } they wrapped a fictional story around it. /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+sd          A.51 utt1:  {C And } I thought that was well done. /  
+
+b          B.52 utt1:  Uh-huh. /  
+
+sd          A.53 utt1:  [ {C And, } + {C and } ] it, it caught my attention.  /
+sd          A.53 utt2:   I wound up watching the whole thing.  /
+sd           A.53 utt3: {F Uh, } I guess the awards ceremonies, and there seems to be  dozens of them per year. - /
+sd           A.53 utt4: Maybe I've spent two minutes watching to see what they on and if they make a fool of themselves or not <laughter>. /  
+
+x          B.54 utt1:  <Laughter>.   
+
+sd          A.55 utt1:  {C But } they could take that whole  collection  /
+sd          A.55 utt2: {C and } it would disappear  /
+o@          A.55 utt3: {C and } I'd never miss it for a minute.    *[[slash error]]
+
+b          B.56 utt1:  Yeah. /  
+
++@          A.57 utt1:  Especially the beauty pageants.  / *[[slash problem]]
+sv          A.57 utt2: [ I, + I, ] particularly  take issue with those.  /
+sv          A.57 utt3: [ I, + I ] really dislike those. /  
+
+sd           B.58 utt1:  {D Well } I'm one of those rare guys, who, [  I, + I ]  rarely ever sit down and watch a whole sporting event, {F um, } if ever watch one.  /
+sd           B.58 utt2:  {F Uh, }  there's just not that much [ I'm, + I'm ] interested in.  /
+sd            B.58 utt3:  {F Um, } for a while, [ [ I, + I, ] +  I ] watched some football,  /
+sd           B.58 utt4: {C but } I've just got too many more important things in my life now than to sit  around [ and, + and ] watch a baseball game. /  
+
+sd           A.59 utt1:  {D You know, } my husband used to just be riveted to  the Dallas Cowboys.  /
+sd          A.59 utt2: {C And } now, we're out running around,  /
+sd           A.59 utt3: {C and } [ if they're, + if they're ]  playing, he'll turn it on while we're in the car to see what the score is,  /
+sd          A.59 utt4: {C and }  he'll listen.  /
+sd(^q)           A.59 utt5:  {C But, } even I've said, {D hey look, } you're fascinated with this,  you sit and listen to the Cowboys.  /
+^q          A.59 utt6:  Let me run in here,  /
+^q          A.59 utt7: {C and } I'll do some  things  /
+^q          A.59 utt8: {C and } I'll come back  /
+sd(^q)       A.59 utt9: {C and } you don't have to miss, he'll say, na, na, na.  /
+sd          A.59 utt10:   {C And } he doesn't, he doesn't watch it.  /
+sd          A.59 utt11: He list-, like I say, - /
+"          A.59 utt12:  if it's convenient he'll listen to it. /  
+
+b          B.60 utt1:  Uh-huh. /  
+
+sd           A.61 utt1:  {C But } he just doesn't watch them on  T V like he used to. /  
+
+sv           B.62 utt1:  {D Well } I think it was great when they  were, {D you know, } {D like } world champs and  they were doing real well.  /
+%          B.62 utt2:  [ I, + {F uh, } I ] - /
+sd           B.62 utt3:   {D personally, } [ I, + I ] came from the Washington area.  /
+sd          B.62 utt4: {C And so } --   
+
+b          A.63 utt1:  {F Uh. } /  
+
++          B.64 utt1:  -- I was a big Washington Redskins fan. /  
+
+ba          A.65 utt1:  {F Oh, } those people.  /
+b          A.65 utt2:  Yeah  /
+x          A.65 utt3: <laughter>.   
+
+sd           B.66 utt1:  {C And, } {F uh, } when I came down to Dallas,  [ it was, + ] {F uh, } {D you know, } I found myself rooting for the home team.  /
+%          B.66 utt2:  I, {F uh, } - /
+sd           B.66 utt3: in fact I  have [ a, + {F uh, } a ] baseball hat that was signed by Tony Dorsett and Hershel Walker --   
+
+ba          A.67 utt1:  {F Oh, } how neat. /  
+
++           B.68 utt1:  -- the only year they played together on the Dallas Cowboys. /  
+
+sd           A.69 utt1:  {D Well, } I actually got to go see them win in the  Super Bowl when they went down to New Orleans. /  
+
+ba          B.70 utt1:  {F Oh, } wow. /  
+
+sd           A.71 utt1:  {C And, } [ [ I, + I, ] + I ] make the trip and did the  whole New Orleans before the game [ and the game + ] and everything/
+sd          A.71 utt2: {C and, }   
+
+o@         B.72 utt1:  # Huh.  #   *[[slash error]]
+
++          A.73 utt1:  # {F uh, } # [ that was, + that was ] a lot of fun. /  
+
++@          B.74 utt1:  Yeah. /  *[[should be independent slash unit]]
+
+sd          A.75 utt1:  {C But, } I don't know, I haven't been as, - /
+sd           A.75 utt2:  I'll tell you what I love to watch. And this is not, this is rarely on television.  /
+sd           A.75 utt3: {C But } what is a  lot of fun to go attend, is this arena football. /  
+
+b          B.76 utt1:  Huh. /  
+
+b          A.77 utt1:  Yeah,  /
+sd          A.77 utt2: I like it so much better than straight football. /  
+
+b          B.78 utt1:  No,  /
+sd          B.78 utt2: I haven't seen that. /  
+
+%          A.79 utt1:  [ It, + it ] doesn't, - /
+sd          A.79 utt2: it has a lot of different rules. /  
+
+b          B.80 utt1:  Uh-huh. /  
+
+sd          A.81 utt1:  The field is half the size -- /  
+
+b          B.82 utt1:  Uh-huh. /  
+
+sd          A.83 utt1:  -- {C and } there's no, - /
+"          A.83 utt2: they can't call time and things like  that.  /
+sd          A.83 utt3:  It moves a lot faster. /  
+
+sd           B.84 utt1:  {F uh. }   {D Gee, } I'll have to try to catch that sometime.  /
+%          B.84 utt2:  It's, -/  
+
+sd           A.85 utt1:  {F Uh, } again I think it may be on cable more than anything else. /  
+
+b          B.86 utt1:  Yeah, /  
+
+sd          A.87 utt1:  # We # --   
+
+aap          B.88 utt1:  # that's probably # true. /  
+
++          A.89 utt1:  -- don't have cable. /  
+
+aa          B.90 utt1:  Yeah,  /
+sd          B.90 utt2: we don't either.  /
+sd           B.90 utt3: [ I, + {F uh, } I ]  couldn't rationalize paying,  {D you know, } - /
+sd           B.90 utt4:  it's like if I pay for a movie channel, then I have watch  what movies they want me to watch when they want me to watch them.  /
+sd           B.90 utt5: {C And } [ if I, + {D you know, } if I ] didn't use cable for anything else other than the basic,  {D well } I can get that for free.  /
+sd           B.90 utt6: {C And } {D well, } I really don't need C N N,  I see enough bad news all the time.  /
+sd          B.90 utt7:  <laughter> I don't need to see more of it.  /
+sd           B.90 utt8:  {C So }  [ I, + I've ]  kind of, {F uh, } rationalized that [ it's, + it's ] probably a lot more  economical for us to just go rent the movies we want to see. /  
+
+%          A.91 utt1:  {D Well, } -/  
+
+sd           B.92 utt1:  {C And } of course when we were living in Texas, it was real convenient with Tom Thumb. /  
+
+b          A.93 utt1:  Oh. /  
+
+sd           B.94 utt1:  {D You know, } having movies, {F uh, } back then it was ninety-nine cents.  /
+%          B.94 utt2:  {E I mean, } go, -/  
+
+sd          A.95 utt1:  They're everywhere, they're --   
+
+aa          B.96 utt1:  Yeah. /  
+
++          A.97 utt1:  -- on every corner.  /
+sd;sv          A.97 utt2:  Everything you've ever wanted to see. /  
+
+sd           B.98 utt1:  {F Um. }  You can see them a lot sooner than you can  see them on any of the stations like H B O or Cinemax. /  
+
+sd           A.99 utt1:  {D Well, } {C and } I like to rent tapes because you  can put the thing on hold if you get a telephone call or something like that. /  
+
+b          B.100 utt1:  Uh-huh. /  
+
+sd          A.101 utt1:  {C Or } it becomes snack time for various reasons.  /
+sd          A.101 utt2:  You can put, {D you know, } - /
+sd           A.101 utt3: the only thing, this DANCE WITH WOLVES, I want to see it in a theater. /  
+
+aa          B.102 utt1:  {F Oh, } yes.  /
+aa          B.102 utt2: I do too. /  
+
+sd           A.103 utt1:  {C Because } I understand that, [ that your, + ]   you'll lose fifty percent of it if you don't. /  
+
+aa          B.104 utt1:  Yeah.  /
+sd           B.104 utt2:  {C And } [ I, + {F uh, } I've ] been trying to get my wife to go with me to go see it.  /
+sd           B.104 utt3:  [ She, + she ] doesn't like going to movie   theaters  because usually they're dirty, <laughter>  /
+sd           B.104 utt4: {C and, } {F uh, } {D you know, } she just doesn't like them.  /
+sd           B.104 utt5:  {C And, } {F um, } she doesn't think that she  could sit still for three hours and watch  the movie.  /
+sd           B.104 utt6: {C And } I've told her, {D you know, } everybody I know that  has seen it has said that the three hours go really quick. /  
+
+aa          A.105 utt1:  That's what I hear too. /  
+
+sd           B.106 utt1:  {C And, } {F uh, } {C so } [ I'm, + I'm ] hoping I can  get her talked into it soon. /  
+
+sd          A.107 utt1:  {D Well, } my husband smokes.  /
+sd          A.107 utt2: He's one of the dinosaurs  that still smokes. /  
+
+b          B.108 utt1:  {F Um. } /  
+
+sd          A.109 utt1:  {C And } you can't smoke in movie theaters.  /
+sd           A.109 utt2:  {C And } that has really slowed down the forward progress of going to movies.  /
+sd          A.109 utt3:  {C But } I haven't really  cared up until this point.   /
+%          A.109 utt4: {C But } I, - /
+sd          A.109 utt5: we are this weekend going to go see  DANCE WITH WOLVES.  /
+%          A.109 utt6:  It's, - /
+sd          A.109 utt7:  that's it.  /
+sd          A.109 utt8:  We will do it. /  
+
+b          B.110 utt1:  {F Um. } /  
+
+%          A.111 utt1:  {C So, } -/  
+
+ba          B.112 utt1:  That's great. /  
+
+aa          A.113 utt1:  Yeah,  /
+o          A.113 utt2: finally. /  
+
+b          B.114 utt1:  Yeah.  /
+sd           B.114 utt2:  {C But } [ as, + as ] far as, {F uh, }  regular T V  shows, {E I mean, } I've got [ some, + some ] shows [ [ that, + that,] + that ] I would be afraid  to admit to you that I've actually sat down and watched <laughter>. /  
+
+x          A.115 utt1:  <Laughter>.   
+
+sd           B.116 utt1:  {C And then } [ there's, + there's ]  others that, {F uh, } {F uh, } I wish I had time to see.  /
+sd          B.116 utt2: It's like I enjoy watching CHEERS.  /
+sv          B.116 utt3:  It's very funny.  /
+sv          B.116 utt4:  Some of  the things in it are mindless,  /
+sd          B.116 utt5: {C but } [ I, + I ] just don't have time to  watch it.  /
+sd           B.116 utt6:  {F Um, } I think about the only night that I really sit in front of the T V set all  night long probably is on Monday night.  /
+sd           B.116 utt7:   {C Because, }  {F um, } I work so hard over the weekend, doing other things with the kids and stuff and going to work on Monday.  /
+sd          B.116 utt8:   Monday night I'm just worn out.  /
+sd           B.116 utt9:  {C So } I kind of use it as the time to  catch up on correspondence [ and, + and ] look over things.  /
+sd           B.116 utt10:  {C And } I can sit in  front of the T V set and look at, {D you know, } [ do, + ] go through my mail [ and, + and ] watch T V  at the same time. /  
+
+sd          A.117 utt1:  {D Well, } I tend, - /
+"          A.117 utt2: my job tends to be very demanding. /  
+
+b          B.118 utt1:  Uh-huh. /  
+
+sd          A.119 utt1:  And to sit down and to mindlessly either read or just mindlessly stare in absolute comfort isn't as bad as it used to, -/ 

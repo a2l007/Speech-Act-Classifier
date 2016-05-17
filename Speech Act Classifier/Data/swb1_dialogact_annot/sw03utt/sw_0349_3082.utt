@@ -1,0 +1,386 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3082_1279_1327
+TOPIC#:		331
+DATE:		910618
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+=======================================================================
+  
+
+qy          A.1 utt1:  Okay? /  
+
+ny          B.2 utt1:  Yes. /  
+
+sd          A.3 utt1:  {D Well, } this is a very timely topic  inasmuch as we're going to a family reunion this weekend. /  
+
+bh          B.4 utt1:  {F Oh } are you really? /  
+
+ny          A.5 utt1:  Yeah. /  
+
+qw          B.6 utt1:  Where is it going to be? /  
+
+sd          A.7 utt1:  Down at Lake Texoma lodge. /  
+
+bk          B.8 utt1:  Oh. /  
+
+b          A.9 utt1:  Yes,  /
+sd          A.9 utt2: this is one that's, {F uh, } the  Baker family reunion -- /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+sd          A.11 utt1:  -- {C and } this has been going on [ at  least, + {F uh, } {A I would say, } at least ] twenty-five years or thirty,   
+
+ba          B.12 utt1:  {F Oh, } that's   
+
++          A.13 utt1:  # something like that. # /  
+
++          B.14 utt1:  # marvelous. # /  
+
+sd          A.15 utt1:  Maybe longer than that, I'm going to get back  into the fifties sometime. /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  First time, [ I, + I ] married into the family,  /
+sd          A.17 utt2: {C and }  the first time I went was about fifty-seven, I think. /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+sd          A.19 utt1:  {C But, }  {F uh, } this one has been well  organized  /
+sd          A.19 utt2: {C and } in fact it used to be at Lake Brownwood,  /
+sd          A.19 utt3: {C and } now it's Lake Texoma, because that's  more central location --   
+
+b          B.20 utt1:  Uh-huh. /  
+
++          A.21 utt1:  -- for people from Oklahoma and Texas to come to. /  
+
+sv          B.22 utt1:  I'm sure location's really important as far as  figuring out where one ought to be. /  
+
+aa          A.23 utt1:  Very important, because, {F uh, } you'll start losing  people if it's too far to go. /  
+
+aa          B.24 utt1:  Uh-huh.  /
+sd          B.24 utt2:  We have factions, when it's one part,  /
+sd          B.24 utt3: [ we, +   I ] have one reunion on my mother's side,  /
+sd          B.24 utt4: {C and } we found that if it's in a certain  part of Texas, some people come,  /
+sd          B.24 utt5: {C and } if it's elsewhere, other people come -- /  
+
+b          A.25 utt1:  Yeah. /  
+
+sd          B.26 utt1:  -- we never get them at both of them -- /  
+
+bf          A.27 utt1:  Never get them at both places, /  
+
+aa          B.28 utt1:  -- it seems like,  /
+sv          B.28 utt2: {C so } I think we need to find a  new place <laughter>. /  
+
+aa          A.29 utt1:  Right.  /
+ad          A.29 utt2: {D Well, } listen, [ they've, + {F uh, } they've ]  had this one,  /
+%          A.29 utt3: {D well } it just, - /
+sd          A.29 utt4: of course, over the years it has, {F uh, } built up as far as  the organization is concerned -- /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd          A.31 utt1:  -- {C but } now they, {F uh, } have a golf tournament  on the Saturday. /  
+
+b          B.32 utt1:  {F Um. } /  
+
+sd          A.33 utt1:  {C And then } they have generally a show or an  auction or something on Saturday night to help raise funds to cover the costs of such. /  
+
+ba          B.34 utt1:  {F Oh, } that's a neat idea. /  
+
+aa          A.35 utt1:  Yeah,  /
+sd          A.35 utt2: {C  and, }  {F uh, } [ everyone, +  {F uh, }  they ] get the community building there at Lake Texoma lodge,  /
+sd          A.35 utt3: {C and } everyone brings in food -- /  
+
+b          B.36 utt1:  Uh-huh. /  
+
+sd          A.37 utt1:  -- {C and then } for the Saturday night dinner they  bring in {D like } Kentucky Fried Chicken from Durant,  /
+sd          A.37 utt2: {C and } {F uh } --   
+
+b          B.38 utt1:  Uh-huh. /  
+
++          A.39 utt1:  -- it really, {F uh, } has worked out. /  
+
+qw          B.40 utt1:  How many people, Jim, are involved? /  
+
+sd          A.41 utt1:  {F Uh, } generally, {F uh, } I think it's been as  high as about a hundred and twenty people. /  
+
+ba          B.42 utt1:  Wow. /  
+
+sd          A.43 utt1:  I think normal's about sixty or seventy. /  
+
+b          B.44 utt1:  Yeah,  /
+sv          B.44 utt2: {D well, } I guess, {F um, } ours probably  isn't that big.  /
+sd          B.44 utt3:  Our family is dwindling, for one thing. /  
+
+b          A.45 utt1:  Oh <laughter>. /  
+
+sd          B.46 utt1:  {C And } I often feel funny because I'm in a branch  that's all  but died -- /  
+
+b          A.47 utt1:  Oh. /  
+
+sd          B.48 utt1:  -- I just have one aunt  and my family.  /
+sd          B.48 utt2:  {C So } sometimes  when these other families get together, they're really pulling in  aunts and uncles and --   
+
+b          A.49 utt1:  Yeah. /  
+
++          B.50 utt1:  -- grandkids,  /
+sd          B.50 utt2: {C and } we're kind of off on the  sidelines.  /
+sd          B.50 utt3: {C But } it does remind us that we have family and roots. /  
+
+b          A.51 utt1:  Right. /  
+
+sd          B.52 utt1:  {C So } we keep going even though we're not a  real big part of it. /  
+
+b          A.53 utt1:  Yeah,  /
+sd          A.53 utt2: {D well, } our family [ start-, +   reunion started ] out my wife  /
+sd          A.53 utt3: {C and } I were the kids, the newlyweds, so to speak -- /  
+
+b          B.54 utt1:  Uh-huh. /  
+
+sd          A.55 utt1:  -- {C and } now [ we go, +   our children go, ]  /
+sd          A.55 utt2: {C and }  our grandchildren are going now. /  
+
+ba          B.56 utt1:  {F Oh } that's great. /  
+
+sd          A.57 utt1:  {C So } it's, {F uh, } wound up that, {F uh, }  we're the old folks now. /  
+
+b          B.58 utt1:  Uh-huh,  /
+b^r          B.58 utt2: uh-huh. /  
+
+sd          A.59 utt1:  {C But, }  {F um, } they have various organized, - /
+sd          A.59 utt2:  they have generally a volleyball net set up and horseshoes, {F uh, } to pitch,  /
+sd          A.59 utt3: {C and } they organize  a baseball game for the kids -- /  
+
+b          B.60 utt1:  Uh-huh. /  
+
+sd          A.61 utt1:  -- {C and } several people bring boats,  /
+sd          A.61 utt2: {C and } there's  a place [ they, + they ] take the kids up to the lodge and go swimming up there  in the afternoon,  /
+sd          A.61 utt3: {C so } [ it + --   
+
+bf          B.62 utt1:  {C So } there's lots to do. /  
+
++          A.63 utt1:  -- it's ] a full day.  /
+sd          A.63 utt2:  Some of the people --   
+
+b          B.64 utt1:  Uh-huh. /  
+
++          A.65 utt1:  -- come down on Friday afternoon and spend the whole  weekend,  /
+sd          A.65 utt2: {C and } some just come in for Saturday -- /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+sd          A.67 utt1:  -- {C so, } it, {F uh, } has worked out quite  well,  /
+sd          A.67 utt2: {C and } it's a chance to see some of the relatives you don't see all year long --   
+
+b          B.68 utt1:  Uh-huh -- /  
+
++          A.69 utt1:  -- except that once a year. /  
+
+aa          B.70 utt1:  -- that's true.  /
+ba          B.70 utt2: {D Well, } that's neat.  /
+sv          B.70 utt3:  I [ think, + think ]  they're really fun.  /
+sd          B.70 utt4:  We go to mine regularly,  /
+sd          B.70 utt5: {C and then } we go to my husband's  occasionally down in Temple,  /
+sd          B.70 utt6: {C and } he has a large family,  /
+sd          B.70 utt7:  {C so } [ it's, + it's ] fun when we go to that one. /  
+
+b          A.71 utt1:  Yeah,  /
+sd          A.71 utt2: my side of the family is from back in Ohio and  West Virginia,  /
+sd          A.71 utt3: {C and } I think we've been to one in thirty-five years <laughter> or  something like  that,  /
+sd          A.71 utt4: {C so, }     
+
+b          B.72 utt1:  Oh. /  
+
++          A.73 utt1:  That's just too far away. /  
+
+b          B.74 utt1:  Yeah,  /
+b^r          B.74 utt2: yeah  /
+sv          B.74 utt3: [ that, +  that ] is a problem with  the distance.   /
+sd          B.74 utt4: The people that we have that don't come are out El Paso way -- /  
+
+b          A.75 utt1:  Yeah. /  
+
+sd          B.76 utt1:  -- {C and } it's just too much for all of them,   
+
+sv          A.77 utt1:  It's an,   
+
++          B.78 utt1:  # all of that group to travel. # /  
+
++          A.79 utt1:  # all day drive just to # get to this area. /  
+
+aa          B.80 utt1:  Right.  /
+sd          B.80 utt2:  {C But } then we have the same  attitude when it's out,   
+
+x          A.81 utt1:  <Sneezing>.   
+
++          B.82 utt1:  there, although this year we're going out.  /
+sd          B.82 utt2:  They're going  to have it at Fort Davis -- /  
+
+b          A.83 utt1:  Yeah. /  
+
+sd          B.84 utt1:  -- {C and } we thought that would be fun to  kind of tie it in as a vacation time --   
+
+b          A.85 utt1:  Yeah. /  
+
++          B.86 utt1:  -- as well as reunion. /  
+
+b          A.87 utt1:  Yeah,  /
+%          A.87 utt2: we have, - /
+sd          A.87 utt3: each year, of course, they elect  officers of the family reunion -- /  
+
+b          B.88 utt1:  Uh-huh. /  
+
+sd          A.89 utt1:  -- {C and } a number of years ago, back in the early eighties,  my wife was president.  /
+sd          A.89 utt2:  We discovered how much work it is just to organize  and get it together.    
+
+b          B.90 utt1:  Uh-huh. /  
+
++          A.91 utt1:  {C And } it takes a lot of planning,   
+
+sv          B.92 utt1:  And choose,   
+
++          A.93 utt1:  # and assembling of stuff. # /  
+
++          B.94 utt1:  # some place that everybody's # going to like --   
+
+b          A.95 utt1:  Right. /  
+
++          B.96 utt1:  -- as far as food and all that <laughter>. /  
+
+ba          A.97 utt1:  That's correct. /  
+
+sv          B.98 utt1:  That's a heavy burden. /  
+
+aa          A.99 utt1:  Yes,  /
+aa          A.99 utt2: it is,  /
+aa          A.99 utt3: I tell you. /  
+
+x          B.100 utt1:  <Laughter>.   
+
+sd          A.101 utt1:  <Laughter> I don't really care for her to be president again. /  
+
+b          B.102 utt1:  No <laughter>. /  
+
+sd          A.103 utt1:  <Laughter> {C But } [ that is, +  {F uh, } [ it's, + it's ] ] a  lot of work,  /
+sd          A.103 utt2: {C but } it's a lot of fun. /  
+
+b          B.104 utt1:  Uh-huh. /  
+
+sd          A.105 utt1:  We've enjoyed it,  /
+sd          A.105 utt2: {C and } --   
+
+%          B.106 utt1:  {D Well, } I think, -/  
+
++          A.107 utt1:  -- the grandkids really enjoy it because it's the  only time of the year they see all their cousins from Oklahoma. /  
+
+b          B.108 utt1:  Yeah,  /
+sv          B.108 utt2: {C and } [ it's, + it's ] good for kids to know  that they have other family. /  
+
+aa          A.109 utt1:  Yeah,  /
+sd          A.109 utt2: {C and } this year they're all excited.  /
+%          A.109 utt3: The show  this weekend, - /
+sd          A.109 utt4: this weekend's going to be a rock and roll show -- /  
+
+ba          B.110 utt1:  {F Oh, } boy. /  
+
+sd          A.111 utt1:  -- my two grandsons and one of their cousins [ are, + are ]  going to dress up and  lip sing to a rock song --   
+
+ba          B.112 utt1:  {F Oh, } what fun. /  
+
++          A.113 utt1:  -- {D you know, } in jeans and t-shirts and such. /  
+
+b          B.114 utt1:  Uh-huh. /  
+
+sv          A.115 utt1:  {C So, } [ it's, + {F uh, } it's ] going to be  exciting for them, and for us too. /  
+
+aa          B.116 utt1:  Uh-huh.  /
+sv          B.116 utt2: Probably lots of laughs. /  
+
+aa          A.117 utt1:  {F Oh, } yes, /  
+
+x          B.118 utt1:  <Laughter>.   
+
+sd          A.119 utt1:  there have been some really wild shows put on there.  /
+sd          A.119 utt2:   They, {F uh, } really get, {F uh, } into it. /  
+
+b          B.120 utt1:  Uh-huh.  /
+sv          B.120 utt2:  {D Well, } it sounds like you really have  a good structure and have it going along.  /
+sd          B.120 utt3:  [ Ours, + ours ] is still kind of loosely  organized,  /
+sd          B.120 utt4: {C and } --   
+
+b          A.121 utt1:  Yeah,  /
+sv          A.121 utt2: {D well, }   
+
++          B.122 utt1:  -- the same people usually get stuck with doing it.  /
+sd          B.122 utt2: {C And, }   
+
++          A.123 utt1:  # {F Oh, } that generally happens. # /  
+
++          B.124 utt1:  # they do it as a labor of love. # /  
+
+b          A.125 utt1:  Yeah. /  
+
+sv          B.126 utt1:  {C So, } the officer idea is a good idea. /  
+
+aa          A.127 utt1:  Yeah,  /
+sd          A.127 utt2: {D well } we've, {F uh, } had various things  over the years, {F uh, } to raise funds for it -- /  
+
+b          B.128 utt1:  Uh-huh. /  
+
+sd          A.129 utt1:  -- {C and } again, [ it's not, + it's not ] cheap to rent  the lodge up there --   
+
+b          B.130 utt1:  Yeah. /  
+
++          A.131 utt1:  -- or the meeting room down in the cabins and such,  /
+sd          A.131 utt2:  {C but, }  {F uh } --   
+
+b          B.132 utt1:  Uh-huh <throat_clearing>. /  
+
++          A.133 utt1:  -- they've come up with, - /
+sd          A.133 utt2: they've tried passing the  hat,  /
+sd          A.133 utt3: {C and } they've had auctions and various things to raise funds,  /
+sd          A.133 utt4: {C and, }  {F uh } --   
+
+b          B.134 utt1:  Uh-huh. /  
+
++          A.135 utt1:  -- some people do  /
+sd          A.135 utt2: {C and } some people don't <laughter>. /  
+
+b          B.136 utt1:  Yeah,  /
+sv          B.136 utt2: {C and } it's not fair that everybody  not contribute, /  
+
+fc          A.137 utt1:  <Cough> {E Excuse me. }  {C But, }  {F um, } anyway,  that's the family reunion story. /  
+
+fc          B.138 utt1:  Uh-huh. /  
+
+fc          A.139 utt1:  Okay. /  
+
+fc          B.140 utt1:  {D Well, } thanks a lot I enjoyed # talking to you.  /
+fc          B.140 utt2:  Bye. # /  
+
+fc          A.141 utt1:  # Been nice talking # to you.  /
+fc^m          A.141 utt2:  Bye. / 

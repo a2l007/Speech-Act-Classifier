@@ -1,0 +1,269 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3646_1455_1459
+TOPIC#:		353
+DATE:		911231
+TRANSCRIBER:	glp
+UTT_CODER:      mmab
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	1
+REMARKS:        None.
+
+======================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qo          A.1 utt2: {F uh, } {D so } what do you think about the school system? /  
+
+sv          @B.2 utt1:  {D Well, } I think [ they're, + they're ] having a lot of  trouble right now.  /
+sd          @B.2 utt2:  I know my son goes to a private school,  /
+sv          @B.2 utt3: {C but, }  {F uh, }  I think [ they're, +  big city public schools by definition are ] having [ a, + a ] tough time right now  [ just from, + {F uh, } probably from ] budget cuts [ and, + and ]  everything else going on. /  
+
+qw          A.3 utt1:  {F Uh, } why did you choose a private school? /  
+
+sd          B.4 utt1:  {D Well, } I had one that was needed to be able to be  moved along [ at a, + at a ] pace a little faster than he was going to be able to be moved in public school,  /
+sd          B.4 utt2: {C so } --   
+
+b          A.5 utt1:  Public school. /  
+
++          B.6 utt1:  -- [ he's, + he ] has been going to private since  kindergarten <laughter>. /  
+
+bh          A.7 utt1:  {F Oh, } has he? /  
+
+%          B.8 utt1:  {D So, } -/  
+
+qo          A.9 utt1:  Then how does he like it? /  
+
+sd          B.10 utt1:  {F Oh, } he's loved it.  /
+sd          B.10 utt2:  He is a senior in high school  this year  /
+%          B.10 utt3: {C so } --   
+
+qy^d          A.11 utt1:  {C So } --   
+
++          B.12 utt1:  -- he's, -/  
+
++          A.13 utt1:  -- he's been there all the time. /  
+
+ny          B.14 utt1:  Yeah,  /
+sd^e          B.14 utt2: he's done it the whole twelve  and, {F uh, }  so many years  /
+sd          B.14 utt3: {C and } [ it's been, + {F uh, } it's been ] really good for him. /  
+
+qw          A.15 utt1:  How big of a school is it? /  
+
+sd          B.16 utt1:  {F Uh, } overall on campus about twelve hundred,  but in the [ upper school, + upper four grades, ]  {F uh, } about four hundred and something  /
+sd          B.16 utt2: {C so }  it's maybe a hundred per grade. /  
+
+sv          A.17 utt1:  A hundred per grade, that's a good size. /  
+
+aa          B.18 utt1:  Yeah,  /
+aa          B.18 utt2: it really is. /  
+
+sv          A.19 utt1:  Kind of gives them the, {D you know, } - /
+sv          A.19 utt2: I get a little  leery of the real small ones <noise> that they don't get much interaction with  kids  /
+%          A.19 utt3: {C but, }  {F uh, } -/  
+
+aa          B.20 utt1:  Yeah,  /
+sd          B.20 utt2: [ that was, + we were ] kind of looking for one  that would be a mixture  /
+sd          B.20 utt3: {C and } --   
+
+%          A.21 utt1:  # {C So } they don't, # /  
+
++          B.22 utt1:  -- # [ he's done, + # # he's done # ] --    
+
+ba          A.23 utt1:  # That's good. # /  
+
++          B.24 utt1:  -- really well,  /
+sd          B.24 utt2: {C and } [ just, + he was just ] ahead  at an early age  /
+sd          B.24 utt3: {C and } I didn't feel like, {F uh, } [ in, +  what was available, particularly in ]  the first three grades -- /  
+
+b          A.25 utt1:  Uh-huh. /  
+
+sd          B.26 utt1:  -- {C and } even in the fourth grade where they started  what they called reach was still a pull out one day program. /  
+
+b          A.27 utt1:  {F Huh. } /  
+
+sd          B.28 utt1:  {C And } I just didn't think that was going get it.  /
+sd          B.28 utt2:   I thought he needed to be exposed to a situation where he could push ahead, {F uh, } every day.    
+
+b          A.29 utt1:  Right. /  
+
++          B.30 utt1:  But yet still be with his peers --   
+
+%          A.31 utt1:  Still # enjoy the, # -/  
+
++          B.32 utt1:  -- # age wise. # /  
+
+b          A.33 utt1:  Right.  /
+sd          A.33 utt2:  {F Uh, } one thing I think I've noticed  is, {F uh, } my oldest is in kindergarten,  /
+sv          A.33 utt3: {C so } I'm in a little different --   
+
+sv          B.34 utt1:  You're just --   
+
++          A.35 utt1:  -- # ballgame. # /  
+
++          B.36 utt1:  -- # getting # started. /  
+
+sd          A.37 utt1:  I'm just,   
+
+x          B.38 utt1:  <Laughter>.   
+
++          A.39 utt1:  starting her,  /
+sv          A.39 utt2: {C but, }  {F uh, } seems to me that, {F uh, }  kids these days, {F uh, } <throat_clearing> can really get away with murder  /
+sv          A.39 utt3: {C and }  the teachers [ don't have  as much, + aren't respected as much ]  /
+sv          A.39 utt4: {C and, }  {F uh, }  they have to be so careful of the things they do and say. /  
+
+aa          B.40 utt1:  Yeah,  /
+aa          B.40 utt2: I know.  /
+sv          B.40 utt3:   That's --   
+
+sd          A.41 utt1:  {C And, }  {F uh, } # makes me # --   
+
++          B.42 utt1:  -- # a big problem. # /  
+
++          A.43 utt1:  -- a little nervous that, {F uh, } students don't seem to  show that respect  /
+%          A.43 utt2: {C and, } -/  
+
+sv          B.44 utt1:  We wouldn't have thought of crossing a teacher when we --   
+
+aa          A.45 utt1:  No! /  
+
++          B.46 utt1:  -- were in school. /  
+
+ba          A.47 utt1:  Heavens,  /
+aa          A.47 utt2: no. /  
+
+sv          B.48 utt1:  Wouldn't have thought of it  /
+sv          B.48 utt2: [ {C and } + --   
+
+aa          A.49 utt1:  No,  /
+aa          A.49 utt2: you wouldn't. /  
+
++          B.50 utt1:  -- {C and } ] they'll stand there now with them  toe to toe  /
+%          B.50 utt2: {C and, } -/  
+
+sv          A.51 utt1:  {C And, }  {F uh, } the things they can say and do to a teacher [ and + ] they do from what I <laughter> understand, {F uh, }  /
+sv          A.51 utt2: I think that's wrong.  /
+sv          A.51 utt3:   I think we need to get back to [ the, + ] <breathing>  show some respect  /
+sv          A.51 utt4: {C and, }  course, I guess the teacher used to warrant that  /
+%          A.51 utt5: {C but, } -/  
+
+aa          B.52 utt1:  Yeah,  /
+sv          B.52 utt2: {C but } a lot of times it's not being taught  in the home --   
+
+b          A.53 utt1:  Right. /  
+
++          B.54 utt1:  -- anymore like it used to be, basic respect for --   
+
+^2          A.55 utt1:  # For other people # -- /  
+
++          B.56 utt1:  -- # for elders # --   
+
+%          A.57 utt1:  -- # {C and, } # -/  
+
++          B.58 utt1:  -- # and # adults and particularly [ in, + in ] responsible  positions <noise>, [ have not, + {F uh, } I don't think have,  <breathing> had ] that basic <breathing> upbringing in a lot of cases  /
+sv          B.58 utt2: {C and  so } then you wind up with little  brats on your hands. /  
+
+qo          A.59 utt1:  {D Well, } how do you think that that's happened?  /
+sv          A.59 utt2:   You think our society's just, {F uh, } stopped talking out,  /
+sv          A.59 utt3: {C or } this, {F uh } --   
+
+%          B.60 utt1:  I guess, I, -/  
+
++          A.61 utt1:  -- generation's just kind of changed a little bit, {F uh, } /  
+
+sv          B.62 utt1:  {D Well, } the world changes,  /
+sv          B.62 utt2: {C so } {E I mean, }  obviously, kids are not the same now as they used to be. /  
+
+b          A.63 utt1:  Right. /  
+
+sv          B.64 utt1:  {E I mean } they're exposed to a whole lot more things.  /
+sv          B.64 utt2:   They have a whole lot more, {F uh, } variety of things [ [ they + they're, ] + that they ]  see and do at an earlier age,  /
+sv          B.64 utt3: {C so } life is not maybe as simple as it was at one time,  /
+sv          B.64 utt4:  [ {C but, }  + {C but } ] still, I think it goes back to a commitment by the parents [ to, + to ]  teach, {F uh, } basic values and basic, {F uh, } respectful [ of, + {F uh, } -ness ]  of authority. /  
+
+b          A.65 utt1:  Right. /  
+
+sv          B.66 utt1:  {C And } I just don't think that this --   
+
+^2          A.67 utt1:  # That just isn't coming through # --   
+
++          B.68 utt1:  -- # doesn't always get emphasized # --   
+
++          A.69 utt1:  -- is it. /  
+
++          B.70 utt1:  -- anymore, {F uh, } /  
+
+aa          A.71 utt1:  No.  /
+sd          A.71 utt2:  {E I mean, } I remember, {F uh, } {D well, } it was a  big thing when they let girls wear Levi's.  /
+sd          A.71 utt3:  We used to have to wear --   
+
+aa          B.72 utt1:  Yeah,  /
+qy^g          B.72 utt2: had to wear --   
+
++          A.73 utt1:  -- dresses -- /  
+
++          B.74 utt1:  -- dresses, didn't you? /  
+
+sd          A.75 utt1:  -- {C and  then } you had to, [ a-, + go ] to dresses,  /
+sd          A.75 utt2:  they had to be a pantsuit  /
+sd          A.75 utt3: {C and } it was polyester  /
+sd          A.75 utt4: {C and } it had to be matching  /
+%          A.75 utt5: {C and, } -/  
+
+sd          B.76 utt1:  {C And } when it was skirts, it was {D like, }   get down on the floor  /
+sd          B.76 utt2: {C and } we hold the ruler up here -- /  
+
+aa          A.77 utt1:  Yes. /  
+
+sd          B.78 utt1:  -- {C and } it's no --   
+
+aa          A.79 utt1:  Exactly. /  
+
++          B.80 utt1:  -- more than so many inches above the knee <laughter>. /  
+
+aa          A.81 utt1:  Yes. /  
+
+sd          B.82 utt1:  {C Because } it was mini skirt time back there at one time. /  
+
+aa          A.83 utt1:  Yes,  /
+sv          A.83 utt2: {C so } it's really changed.  /
+sv          A.83 utt3:   It's, {F uh, } really kind of <throat_clearing> gone the rounds,  /
+sv          A.83 utt4: {C so } I think that maybe that's effected  it to some degree.  /
+sd          A.83 utt5: They say you kind of act how you're dressed a little bit,  /
+%          A.83 utt6: {C so } I, -/  
+
+aa          B.84 utt1:  Yeah,  /
+aa          B.84 utt2: I think that probably does [  have, + have ] something  to do with it,  /
+%          B.84 utt3: {C and } it's also, -/  
+
+qy          A.85 utt1:  [ Do, + {F uh, } does ] this school your son  goes to, do they, {F uh, } [ re-, + require ] to wear a uniform  /
+%          A.85 utt2: {C or, } -/  
+
+nn          B.86 utt1:  No,  /
+sd^e          B.86 utt2: they do not do uniforms, although one,  where he was between {D like } second and eighth grade --   
+
+b          A.87 utt1:  Uh-huh. /  
+
++          B.88 utt1:  -- did. /  
+
+b          A.89 utt1:  Yeah,  /
+%          A.89 utt2: there are quite a few of your s-, -/ 

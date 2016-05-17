@@ -1,0 +1,540 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2526_1093_1024
+TOPIC#:		320
+DATE:		910409
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        A lot of background noise in certain areas.  It sounded like
+the phone was acting up.  
+
+=============================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: what kind of car are you thinking about buying next? /  
+
+t1          B.2 utt1:  {D Well, } [ what a wh-, + what ] do we currently have,  /
+sd          B.2 utt2:   I have a Subaru, {F uh, } G O X T. /  
+
+qw          A.3 utt1:  What year? /  
+
+sd          B.4 utt1:  Eighty-eight. /  
+
+bk          A.5 utt1:  {F Oh, } okay.  /
+sd          A.5 utt2: {D Well, } I have a ninety Honda Civic,  /
+sd          A.5 utt3:  {C and } I'm ready to get rid of it <laughter>.  /
+%          A.5 utt4: {D Actually, } -/  
+
+sv          B.6 utt1:   (( {F Oh, } it's not ))  pretty old. /  
+
+aa          A.7 utt1:  No,  /
+sd          A.7 utt2: {F uh, } {D well, } [ I ha-, + I had ] an eighty-eight  that I really liked  /
+sd          A.7 utt3: {C and } it got  wrecked,  /
+sd          A.7 utt4: {C and so } I bought a ninety, {F um, }  because [ I, + I ] really liked my eighty-eight  /
+sd          A.7 utt5: {C and } I've had a lot of problems with  this one, <laughter>  /
+%          A.7 utt6: {C so, } -/  
+
+qy          B.8 utt1:  {D So, } you think their quality control's going  down over there,  (( kind of )) ? /  
+
+%          A.9 utt1:  {D Well, } you, - /
+^h          A.9 utt2: [ it's, + it's ] kind of  funny, {F um, }  /
+sv          A.9 utt3: I know a lot, /  
+
+sv          B.10 utt1:  {D Well, } [ [ I, + I, ] + I ] think we're going to see  that I think, {F uh, } that the quality that the Japan carmakers had is slipping a little bit,   
+
+b          A.11 utt1:  Oh. /  
+
++          B.12 utt1:  while American carmakers are trying to get their,   
+
+b          A.13 utt1:  Yeah. /  
+
++          B.14 utt1:  put together,  /
+%          B.14 utt2: {C so. } -/  
+
+aa          A.15 utt1:   [ It's, +  it's ] true,  /
+aa^r          A.15 utt2: it's definitely true because, -/  
+
+%          B.16 utt1:  [ {C But, } + {C but } ] that's one reason - /
+sd          B.16 utt2:  [ I, + {F uh, } I've ] had no problems with my Subaru,  /
+sv          B.16 utt3: that's one reason I went with it because [ I, + ] Subaru  had a good reputation, {F uh, } for, {D you know, } low maintenance,  /
+%          B.16 utt4: {C so. } -/  
+
+aa          A.17 utt1:  Yeah,  /
+sv          A.17 utt2: {D well, } Honda does too <laughter>,  that's why I was really, -/  
+
+b          B.18 utt1:  {D Well, } really,  /
+sv          B.18 utt2: [ there's, + there's ] no question  /
+%          B.18 utt3:  {C but } you have a nineteen, - /
+%          B.18 utt4: {E I mean, }   (( I've got to see if )) , - /
+sd          B.18 utt5: {E I mean, } I've seen and I've  had friends that have, {F uh, } {D like, }  {F uh, } eighty-one or eighty, {F uh, } Celicas, /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sd          B.20 utt1:  {C and } those things just keep ticking. /  
+
+b          A.21 utt1:  Yeah. /  
+
+sd          B.22 utt1:  {E I mean, } [ they just, +   they ] can rack up [ a, + a ] hundred fifty K on them, /  
+
+aa          A.23 utt1:  That's true. /  
+
+sd          B.24 utt1:  {C and } they're still beating on them, /  
+
+aa          A.25 utt1:  That's true. /  
+
+sv          B.26 utt1:  {C and } it's just amazing  /
+%          B.26 utt2: {C and then } they got, - /
+sv          B.26 utt3:  {C and } {D you know } they're not making them like that now, [ d-, d-, + ] {D you know, } /  
+
+aa          A.27 utt1:  No, /  
+
+%          B.28 utt1:  {D so, } -/  
+
+aa          A.29 utt1:  not at all. /  
+
+sv          B.30 utt1:  {C but } [ they're still, + they're still ] a lot,  I think, definitely better than the American carmaker  (( system )) . /  
+
+aa          A.31 utt1:  {F Oh, } [ I, + I ] definitely agree with you  there, <laughter>, because I had, {F uh, } {F uh, } {F uh, } Ford T Bird before I got my Honda,  /
+sd          A.31 utt2:  {C and } it was the worst car I've ever owned <laughter>, /  
+
+b          B.32 utt1:  Yeah. /  
+
+sd          A.33 utt1:  {C and, }  {F um, } that's why, {E I mean, } I was so tickled  with my Honda  /
+sd          A.33 utt2: it was just a wonderful car  /
+sd          A.33 utt3: {C and then } it got wrecked  /
+sd          A.33 utt4:  {C and, } {D you know, } I wouldn't even look at another car <laughter>, /  
+
+b          B.34 utt1:  Yeah. /  
+
+sd          A.35 utt1:  I just went and bought a Honda, {E I mean, } [ I didn't even, +  I didn't ] look around or anything I just said that this is what I  want, <laughter>,  /
+sd          A.35 utt2: {C and } I really have had a lot of problems with it, <laughter>  /
+h          A.35 utt3:  {C but } I don't know. /  
+
+sv          B.36 utt1:  {D Well, } maybe you need to unload it on  somebody el-, <laughter>. /  
+
+sd          A.37 utt1:  <Laughter> {D Well, } I'll probably hold on to it  since it's still under warranty  /
+sd          A.37 utt2: {C but } in the first twelve months that I  owned it, it was in the shop an average of about once a month, <laughter>,  /
+sd          A.37 utt3: it was in the shop  about twelve times the first twelve months <laughter>. /  
+
+b          B.38 utt1:  Yeah,  /
+ba          B.38 utt2: that's a lot. /  
+
+aa          A.39 utt1:  Yeah,  /
+aa          A.39 utt2: it was,  /
+sd          A.39 utt3: I was really disappointed because  I was, {D you know, } so, hyped up on Honda,  /
+%          A.39 utt4: {C so. } -/  
+
+b          B.40 utt1:  {F Oh, } well. /  
+
+b          A.41 utt1:  Yeah. /  
+
+b          B.42 utt1:  Anyway,  /
+qw          B.42 utt2: {C so, } what's your next purchase supposed to be? /  
+
+%          A.43 utt1:  {D Well, } I know this, -/  
+
+b          B.44 utt1:   (( {F Oh, } really )) ,  /
+qw          B.44 utt2: if you had a choice of your  car, what would you get? /  
+
+nd          A.45 utt1:  {D Well, } [ it's, + this is ] going to sound really  strange, <laughter>,  /
+nd          A.45 utt2: {C but } I really like to have a Mazda M P V van, <laughter>,  /
+sd          A.45 utt3: I really like  those  /
+sd          A.45 utt4: {C and } I have kids, <laughter>  /
+%          A.45 utt5: {C so. } -/  
+
+qw^d          B.46 utt1:  I'm not sure I'm real familiar with the body style on  that. /  
+
+%          A.47 utt1:  They're a lot, - /
+sd          A.47 utt2: I don't like the new style, like of the  Toyota van,   
+
+b          B.48 utt1:  Uh-huh. /  
+
++          A.49 utt1:  and [ the, +  the ] new Chevy Lumina van, /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+sd          A.51 utt1:  I don't like those styles, {F um, } the M P V is more  of, {F uh, } {F uh, } just, {F uh, } {A I don't know what you, }  normal, <laughter>,  /
+sd          A.51 utt2: I don't know how to explain, more of an old fashioned type.  /
+sd          A.51 utt3:  [ I, + I'm ] not sure how to explain it, /  
+
+b          B.52 utt1:  Yeah. /  
+
+sd          A.53 utt1:  {E I mean } it looks, I guess, kind of like, {F uh, }  the Chevy Aerostar or Arrow, /  
+
+b          B.54 utt1:  Yeah. /  
+
+ar          A.55 utt1:   (( no,  /
+%          A.55 utt2: what )) - /
+sd          A.55 utt3: [ Astro, + Astro, ] I guess,   
+
+bk          B.56 utt1:   (( {F Oh, } okay,  /
+%          B.56 utt2: yeah )) . /  
+
++          A.57 utt1:  is what it, something like that,  /
+sd          A.57 utt2: {C but } I used to  really like the looks of the M P V because it looks more like a mini van rather than I think, -/  
+
+qy          B.58 utt1:  [ Do you have, + {F uh, } do you have ] a family? /  
+
+ny          A.59 utt1:  Yeah,  /
+sd^e          A.59 utt2: I have a couple kids <laughter>. /  
+
+bk          B.60 utt1:  Okay,  /
+sv          B.60 utt2:  {D well, } that's probably influenced  maybe  (( a little bit )) . /  
+
+aa          A.61 utt1:  {F Oh, } yeah, <laughter>,  /
+aa          A.61 utt2: definitely.  /
+sd          A.61 utt3: {C But, }   I know that it's got to have a radio, it's got to have air conditioning, <laughter>,  /
+qy^d          A.61 utt4: I'm sure you can, {F uh, } relate to air conditioning <laughter>.    
+
+ny          B.62 utt1:  {F Oh, } yeah. /  
+
++          A.63 utt1:  {F Um, } living in Arizona,  /
+sd          A.63 utt2:  {C but, } {C and }  cruise control and tinted windows, that's about it, <laughter>.  /
+sd          A.63 utt3: {E I mean, } it's got to have those  things, otherwise, I don't care. /  
+
+b          B.64 utt1:  Yeah,  /
+sd          B.64 utt2: {D well, } when I bought my car, it was right  out of college  /
+sd          B.64 utt3: {C and, }  {F uh, } {D you know, }   (( I always been ))  looking for something sporty  /
+sd          B.64 utt4:  {C and } I ended up getting, {D you know, } basically something that I could, {D you know, } afford. /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+sd          B.66 utt1:  The only gripe I have is performance.  /
+%          B.66 utt2:   I probably, {F uh, } - /
+sd          B.66 utt3: a few girls that I've gone out with, I've had, {F uh, } {D like }  Mazda R X seven's and stuff  /
+sd          B.66 utt4: {C and } [ they're, + they're ] pretty fun to drive,  /
+sd          B.66 utt5: [ {C so, } +   
+
+b          A.67 utt1:  Yeah. /  
+
++          B.68 utt1:  {C so, } ] I think that's what, {F uh, } [ I, + I'm ]  going to have to get next time around,   
+
+bh          A.69 utt1:  {F Oh, } really? /  
+
++          B.70 utt1:  [ I keep, + I keep ] [ hold-, + holding ]  off  /
+sd          B.70 utt2: {C and then } [ I could, + I could ] upgrade now if I wanted to  /
+%          B.70 utt3: {C but } [ I just, + I, ] - /
+sv          B.70 utt4: it's just such  a huge expense  /
+sd          B.70 utt5: [ {C and, } + {C and, } ]  {F uh, } [ I, + I'm ] just going to keep holding off  /
+sd          B.70 utt6:  {C but }  (( I'm ))  definitely going to look for something, {F uh, } in the, {D you know, } nice, perpor-,     
+
+^2          A.71 utt1:  Sports car <laughter>. /  
+
++          B.72 utt1:  {D you know, } -/  
+
+sd          A.73 utt1:  I'd like to have a sports car too,  /
+sd          A.73 utt2:  {C but } it's not practical for me,  /
+%          A.73 utt3: <laughter> {C but, } -/  
+
+b          B.74 utt1:  Yeah <noise>.  /
+%          B.74 utt2:  I'm in, - /
+qy^c          B.74 utt3: are you still there? /  
+
+ny          A.75 utt1:  Yeah.  /
+ba          A.75 utt2:  Whoops.  /
+sv^c          A.75 utt3:  There's some kind of problems.  /
+qy^c          A.75 utt4:  Hello, /  
+
+qy^c^r          B.76 utt1:  <Noise>  Hello. /  
+
+qy^c          A.77 utt1:  are you still there? /  
+
+na          B.78 utt1:  Okay. /  
+
+%          A.79 utt1:  This is, - /
+sv^c          A.79 utt2: something's wrong. /  
+
+qw^d^c          B.80 utt1:  Wonder what happened. /  
+
+no          A.81 utt1:  I don't know,  /
+qy^g^c          A.81 utt2: it sounds funny though, doesn't it? /  
+
+b          B.82 utt1:  {F Huh, }  /
+%          B.82 utt2: anyway,   
+
+b          A.83 utt1:  {F Huh. } /  
+
++          B.84 utt1:  {F um, } {C but } I'll probably, {F um, } - /
+sd          B.84 utt2:  it just depends,  /
+sd          B.84 utt3: I know that's what I want,  /
+sd          B.84 utt4: {C but } I don't know if I'll get myself to spend that  kind of money,  /
+sv          B.84 utt5: you're looking [ at, +  {D you know, } for ] a new R X seven or, a  Supra or something,  /
+sv          B.84 utt6: you're looking at twenty-five K or something,   
+
+aa          A.85 utt1:  {F Oh, } at least,  /
+aa          A.85 utt2: yeah, /  
+
++          B.86 utt1:  <<Very faint>> that like  /
+sd          B.86 utt2: {C and so, }    
+
+sv          A.87 utt1:  I know,   
+
++          B.88 utt1:  [ anyway + {C but, }   
+
++          A.89 utt1:  {D well, } new cars aren't cheap  anyway, <laughter>  /
+%          A.89 utt2: {C but, } -/  
+
++          B.90 utt1:  Anyway ] my ultimate car though, [ the, + the ]  one that I really want is, {F uh, } five sixty or so, Mercedes,  /
+%          B.90 utt2: {C so, } -/  
+
+b          A.91 utt1:  {F Huh. } /  
+
+sv          B.92 utt1:  maybe someday <laughter>. /  
+
+aa          A.93 utt1:  <Laughter> Yeah,  /
+qy^g          A.93 utt2: [ we have, + we all have ]  those kind of dreams too, don't we? /  
+
+ny          B.94 utt1:  Yeah. /  
+
+%          A.95 utt1:  <Laughter> What I'd really like to have <laughter>, -/  
+
+sd          B.96 utt1:  That's the only one that I, {D you know, } - /
+qy^c          B.96 utt2:  [ I se-, +  {D you know, } I see, ] {F uh, } {D you know, } early on [ [ [ that, +  that,  ] + that ]  says, +  <noise>, it says, ] you there? /  
+
+ny          A.97 utt1:  Yeah.  /
+sv^e          A.97 utt2: This is strange. /  
+
+qy^c          B.98 utt1:  <Noise> Hello. /  
+
+qy^c^r          A.99 utt1:  Hello,  /
+sv^c          A.99 utt2: I think,   
+
+b          B.100 utt1:  Okay. /  
+
++          A.101 utt1:  something's wrong with this.  /
+sd^t          A.101 utt2: I hope it's  recording <laughter>. /  
+
+sd          B.102 utt1:  I hope it's not my  ((   )) , - /
+qy          B.102 utt2: <noise>, you there? /  
+
+ny          A.103 utt1:  Yeah <laughter>. /  
+
+sv          B.104 utt1:  It may be my phone, {F um, }  /
+sv(^q)          B.104 utt2: anyway it's the only car  that says, {D you know, } sporty and class, {F uh, }  /
+%          B.104 utt3: {C so, } -/  
+
+aa          A.105 utt1:  Yeah,  /
+aa          A.105 utt2: you're right <laughter>.  /
+aa^r          A.105 utt3:  Yeah. /  
+
+%          B.106 utt1:  {F uh, } kind of what I'm, - /
+%          B.106 utt2: {C but } it's, - /
+sd          B.106 utt3: at the  other one my brother's got a Miata  /
+sv          B.106 utt4: {C and } those are fun. /  
+
+sv          A.107 utt1:  {F Oh, } those are nice, /  
+
+%          B.108 utt1:  {C And, }  {F uh, } [ i-, + ] -/  
+
+b          A.109 utt1:  yeah,  /
+sv          A.109 utt2: [ they're, + they're ]  cute cars <laughter>. /  
+
+aa          B.110 utt1:  Yeah,  /
+sd          B.110 utt2: {D well, } [ he did, +   he had ] [ a, + a ] red <beep> Miata, /  
+
+b          A.111 utt1:  Uh-huh. /  
+
+%          B.112 utt1:  {C and, }  {F uh, } he actually, - /
+sd          B.112 utt2: they came out with  a European racing, green, {F uh, } Miata that's a limited edition, /  
+
+b          A.113 utt1:  Oh. /  
+
+sd          B.114 utt1:  they're only going to make {D like }  three or four thousand.  /
+sd          B.114 utt2:  {C So, } he went out  /
+sd          B.114 utt3: {C and } he traded the other one in and got this one, /  
+
+sd          A.115 utt1:  {D Wow, }  I haven't seen those. /  
+
+sd          B.116 utt1:   (( {C and } I'm like, {F um } )) , {C but, } {F uh, }  I haven't seen one  (( yet ))  either  /
+sd          B.116 utt2: {C but } supposedly they have some real wood built in to {D like }  the clutch and all this and the steering wheel, /  
+
+ba          A.117 utt1:  Wow. /  
+
+sd          B.118 utt1:  {C so, } [ it's, + it's ] very authentic  /
+sv          B.118 utt2:  {C and } there only is supposed to be limited edition so it [ may be, + may be ] a good investment.  /
+%          B.118 utt3:   If it, -/  
+
+aa          A.119 utt1:  {F Oh, } yeah,  /
+aa          A.119 utt2: definitely. /  
+
+b          B.120 utt1:  Yeah. /  
+
+sv          A.121 utt1:  [ If it's a limited edition usually, +  no matter what it is, if it's a limited edition, it's usually ] worth something later on. /  
+
+aa          B.122 utt1:  Uh-huh.  /
+%          B.122 utt2: {C But, }  {F uh, } I think <noise> - /
+qy^c          B.122 utt3:  hello, /  
+
+ny          A.123 utt1:  Yeah. /  
+
+bk          B.124 utt1:  okay,  /
+%          B.124 utt2: yeah,  /
+sd          B.124 utt3: I got off my pace or my cordless phone,   
+
+b          A.125 utt1:  Oh. /  
+
++          B.126 utt1:  {D anyway, } {F uh, } hope it's not going  bad, <<very faint>>,  /
+sd          B.126 utt2: it's going to  (( bump )) me out.  /
+sd          B.126 utt3:  {F Um, } {C but } [ he, + I think [ he, + he ] ]  only spent, {D you know, } the low twenty's  /
+h          B.126 utt4: {C so, }    
+
+bh          A.127 utt1:  Really? /  
+
++          B.128 utt1:  I don't know. /  
+
+sv          A.129 utt1:  {D Now, }  {D see, } [ I would have never figured  that, + I would have figured that ] to be a lot more than that <laughter> for something that's limited edition. /  
+
+h          B.130 utt1:  {D Well, } I don't know,  /
+sd          B.130 utt2: I think the demands  gone all, down a little bit.  /
+sd          B.130 utt3:  I think you can,  /
+sd          B.130 utt4: the prices aren't as high, {D you know, }  /
+sd          B.130 utt5:  {C and } [ the, + the ] [ mu-, + ] Miata was first introduced, {F uh, } -/  
+
+qy^g          A.131 utt1:  {C And, }   (( {D well } )) , they weren't really  that bad though when they were introduced were they? /  
+
+%          B.132 utt1:  Wh-, - /
+ny          B.132 utt2: yeah,  /
+sd^e          B.132 utt3: the demand is so, high that, {F uh, }  {D you know, } they were going to retail them around {D like } [ thir-, + {D you know, }  thirteen ] standard, {D you know, }  /
+sd          B.132 utt4: {C and } you get your options,   
+
+aa          A.133 utt1:  Yeah. /  
+
++          B.134 utt1:  your looking at fifteen or [ si-, +    
+
+aa          A.135 utt1:  That's true. /  
+
++          B.136 utt1:  fifteen ]  /
+sd          B.136 utt2: {C but } there were, {D you know, }  people were buying them for nineteen and twenty, /  
+
+b          A.137 utt1:  Uh-huh. /  
+
+sd          B.138 utt1:  {C and, }  {F um, }   
+
+%          A.139 utt1:  {F Huh. } /  
+
++          B.140 utt1:  [ they, + they ] may have gone down a little  bit  /
+%          B.140 utt2: {C but } I, - /
+sd          B.140 utt3: they're still pretty much in demand.  /
+sd          B.140 utt4: I think there's another car coming in,  /
+sd          B.140 utt5: it's supposed to come out and compete with that Miata, /  
+
+b          A.141 utt1:  {F Huh. } /  
+
+sd          B.142 utt1:  {C and } I can't remember what I read about  that  /
+%          B.142 utt2: {C but } so, that's  ((   )) , - /
+sv          B.142 utt3: {E I mean, }   I would think somebody would try to compete with that  because it is very popular,  /
+%          B.142 utt4: {C so. } -/  
+
+aa          A.143 utt1:  Yeah,  /
+aa          A.143 utt2: it really is. /  
+
+%          B.144 utt1:  {C But, } -/  
+
+qy          A.145 utt1:  Have you seen the new, {F uh, } Dodge Stealth?    
+
+ny          B.146 utt1:  {F Oh, } yeah. /  
+
++          A.147 utt1:  [ The, + the, ]   
+
+ny          B.148 utt1:  yeah, #  /
+sv^e          B.148 utt2: {C and } the Mitsubishi, #   
+
++          A.149 utt1:  # real nice one # <laughter>. /  
+
++          B.150 utt1:  three thousand  (( G T )) ,   
+
+b          A.151 utt1:  Yeah. /  
+
++          B.152 utt1:  is the [ same, + same. ] /  
+
+aa          A.153 utt1:  Yeah,  /
+sv          A.153 utt2: the Mitsubishi is real nice looking too, /  
+
+aa          B.154 utt1:  Yeah,  /
+sd          B.154 utt2: {D well, } [ [ that's, + that's, ] +   
+
+sv          A.155 utt1:  {D now } those are nice <laughter>. /  
+
++          B.156 utt1:  that's ] the same manufacturer  /
+sd          B.156 utt2: [ {C and } + [ st-, + ]   
+
+b          A.157 utt1:  Right. /  
+
++          B.158 utt1:   (( {C so } )) ] , they just market them. /  
+
+b          A.159 utt1:  Right. /  
+
+b          B.160 utt1:  {C But, }  {F uh, } yeah,  /
+sd          B.160 utt2: [ those are + {C and } those  are ] supposed to be very performance power, {E I mean, } [ they're, +   
+
+sd          A.161 utt1:  The expensive ones,   
+
++          B.162 utt1:  there is, ] {D yeah, } big time. /  
+
++          A.163 utt1:  they have a cheaper model too that you can get for about seventeen thousand,  /
+sd          A.163 utt2: {C but } those are pretty stripped,  /
+sd          A.163 utt3: {C and } there's  nothing,  /
+%          A.163 utt4: there's really, - /
+sd          A.163 utt5:  that one's just more for looks, {D you know, }  /
+sd          A.163 utt6: it doesn't have  [ any, + ] really the performance that the expensive one does. /  
+
+b          B.164 utt1:  Yeah. /  
+
+sd          A.165 utt1:  {D You know, } {C but } I've seen one of  those,  /
+sd          A.165 utt2: {C and } it's not that great, {E I mean, } because they really, -/  
+
+sd          B.166 utt1:  I think [ the-, +  they're ] only  around, {F uh, } twenty-nine K. /  
+
+b          A.167 utt1:  Yeah,  /
+%          A.167 utt2: the-, - /
+sd          A.167 utt3: {D like, } {E I mean } they  have, {F um, }  (( better )) , - /
+sd          A.167 utt4: it's not quite as nice for a little bit less. /  
+
+b          B.168 utt1: Yeah. /  
+
+b^m          A.169 utt1:  Yeah,  /
+sd          A.169 utt2: they're not really that bad  /
+h          A.169 utt3: {C but } I don't  know, <laughter>  /
+sd          A.169 utt4: like I said [ it's, + it's ] still not practical for me <laughter>.  /
+sd(^q)          A.169 utt5:   I have a hard time looking at cars like that because I think, now, there's no way I can do that <laughter>. /  
+
+b          B.170 utt1:  Yeah,  /
+sd          B.170 utt2: I'm being single  /
+sd          B.170 utt3: {C and } no other  responsibilities for yourself, I guess, {D you know, }  it's, [ [ I can,   
+
+b          A.171 utt1:  Right. /  
+
++          B.172 utt1:  I can, + ] + I've ] been pretty happy,  /
+sd          B.172 utt2: [ I've, + I've, ] haven't tried to upgrade myself right now,  /
+sd          B.172 utt3: that's, {F uh, } {D you know, }  [ I could, + I could ] have, {D you know, } get something nice and upgrade  /
+sd          B.172 utt4: {C but } [ I just, +  {F uh, }  I'm ] consulting right now,  /
+%          B.172 utt5: {C so, } -/  
+
+bh          A.173 utt1:  {F Oh, } really? /  
+
+sd          B.174 utt1:  I just made my first job  (( hop ))   about eight months ago,  /
+%          B.174 utt2: {C so. } -/  
+
+%          @@A.175 utt1:  {F uh } ... / 

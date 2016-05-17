@@ -1,0 +1,494 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2570_1156_1005
+TOPIC#:		364
+DATE:		910411
+TRANSCRIBER:	csw
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	5
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Speaker B distorts quite a bit.
+
+=============================================================================
+  
+
+ad^t          B.1 utt1:  Why don't you go ahead and start. /  
+
+aa          @A.2 utt1:  Okay,  /
+sd          @A.2 utt2: my hobby is, {F uh, } sewing.  /
+sd          @A.2 utt3: [  I, + I've ] just, {F uh, } started learning how to sew  /
+sd          @A.2 utt4: {C and, } {F uh, } I've taken some  classes  /
+sd          @A.2 utt5: {C and } I've made a [ few, + few ] garments.  /
+qy          @A.2 utt6:  Do you sew at all? /  
+
+ng          B.3 utt1:  I used to, {F uh, } -/  
+
+bh          A.4 utt1:  Did you? /  
+
+sd          B.5 utt1:  [ I, + I ] sewed, {D you know, }  in high school  /
+sd          B.5 utt2: {C and } when I went to college I think everything in my closet, I had made.  /
+sd          B.5 utt3:  {C But } I haven't  sewed since then  /
+sd          B.5 utt4: {C and } that's been fifteen years.  /
+sd          B.5 utt5:  {C So, } {F uh, } {D you know, }  I didn't have access to a machine the whole time I was in college. /  
+
+b          A.6 utt1:  Oh. /  
+
+sd          B.7 utt1:  {C And, } {F uh, } my sister sewed  /
+sd          B.7 utt2: {C and }  she needed the money so I would pay her  /
+sd          B.7 utt3: {C and } she'd make my clothes <laughter>. /  
+
+b          A.8 utt1:  Oh. /  
+
+sd          B.9 utt1:  [ {C And, } + {F uh, } {C and then } ]  just in the last, {D you know, } ten or twe-, I just haven't sewn anything.  /
+sd          B.9 utt2: [ I would love to, + I would like to ] get back to it. /  
+
+b          A.10 utt1:  Yeah,  /
+b          A.10 utt2: uh-huh.  /
+sv          A.10 utt3:  {F Uh, } clothes are getting  so expensive now [ in, + in ] the stores  /
+sv          A.10 utt4: {C and } [ the, + the ] quality [  is, + is ]  sometimes so poor that,   
+
+b          B.11 utt1:  Yeah. /  
+
++          A.12 utt1:  {F uh, } [ it, + it ] really is worth while to sew. /  
+
+sv          B.13 utt1:  It is, {D you know, } an even back  then,  /
+sd          B.13 utt2: I remember you could make something for, {D you know, } half what it cost to buy  /
+sd          B.13 utt3:  {C and, } of course, the quality was just exceptional. /  
+
+aa          A.14 utt1:  Right an, -/  
+
+sv          B.15 utt1:  {F Uh, } now it's a little more expensive  to make it, because, [ y-, + ] {D you know, } you start paying the price for the patterns and the material, /  
+
+b          A.16 utt1:  Yeah. /  
+
+sv          B.17 utt1:  {C but } it's still such better quality that  I think it's worth it. /  
+
+aa          A.18 utt1:  It certainly is,  /
+sd          A.18 utt2: {C and } the patterns have gone up  tremendously, too, the prices for them, you used to could get, {D you know, }  a pattern for two or three dollars, now, they're {D like, } {D you know, }  five, six, seven, eight. /  
+
+bh          B.19 utt1:  You're kidding me. /  
+
+nn          A.20 utt1:  {F Oh, } no,  /
+sd^e          A.20 utt2: I'm not. /  
+
+sd          B.21 utt1:  {D See } I can remember paying seventy-five  cents for a pattern <laughter>. /  
+
+b          A.22 utt1:  Huh-uh,  /
+%          A.22 utt2: no,  /
+sd          A.22 utt3: [ the, + the ]  cheapest ones now are {D like } maybe, [ f-, + {F uh, } four ]  or  [ fiv-, + five ] dollars,   
+
+b          B.23 utt1:  Uh-huh. /  
+
++          A.24 utt1:  six, seven  /
+sd          A.24 utt2: {C and then } you get into the   Vogues,  /
+sd          A.24 utt3: they get up [ t-, + ] into twelve and fifteen and,    
+
+ba          B.25 utt1:  Good night. /  
+
++          A.26 utt1:  on like that. /  
+
+qy          B.27 utt1:  {D Well } do you have kids and a husband,  /
+qy          B.27 utt2:  are you sewing for a whole family  /
+%          B.27 utt3: {C or, } -/  
+
+sd          A.28 utt1:  {F Uh, } right now I'm just sewing for myself.  /
+sd          A.28 utt2: [ I, + I ] do have two daughters that, {D you know, } [ out, + ] [ they're, + they're ] grown now though.  /
+sd          A.28 utt3: I wish that I had started sewing, {D you know, } when they were younger. /  
+
+b          B.29 utt1:  Uh-huh. /  
+
+sd          A.30 utt1:  {C And, } {F uh, } it would have helped me out  tremendously <laughter>. /  
+
+x          B.31 utt1:  <Laughter>.   
+
+sd           A.32 utt1:  {C But, } {F um, } {F oh, } I guess,  [ [ [ I, + I ]  just, + {D you know, } I always, ] + I have always ] tried to sew  /
+sd          A.32 utt2: {C and, } {F uh, } I didn't like the way it  looked so I'd never wear anything. /  
+
+b          B.33 utt1:  Yeah. /  
+
+sd          A.34 utt1:  {C But } now [ I, + I ] [ r-, + ]  have bought some, {F uh, } new, sewing equipment.  /
+sd          A.34 utt2:   I bought the Singer machine  /
+sd          A.34 utt3: {C and, }   
+
+b          B.35 utt1:  Uh-huh. /  
+
++          A.36 utt1:  {F uh, } it really makes it look professional  /
+sd          A.36 utt2:  {C and } I've taken some classes here [ in, + in, ] {F uh, } Dallas. /  
+
+sv          B.37 utt1:  {D Well } {C and } that always is helpful for starters. /  
+
+b          A.38 utt1:  Yeah. /  
+
+sv          B.39 utt1:  You know you have to have something that  kind of gets you on the right track of where you're going. /  
+
+b          A.40 utt1:  Right.  /
+sd          A.40 utt2:  I know a lot of people where I work  make their clothes.  /
+sv          A.40 utt3:  [ It's just, + there's just ] so many people sewing now days. /  
+
+aa          B.41 utt1:  That's true. /  
+
+b          A.42 utt1:  Uh-huh. /  
+
+qy          B.43 utt1:  {D Well } do you do anything el-, - /
+qy          B.43 utt2:  do you knit or crochet {D like } for sweaters or  anything like that? /  
+
+nn          A.44 utt1:  No,  /
+sd^e          A.44 utt2: I'm not that talented. /  
+
+%          B.45 utt1:  N-, - /
+sd          B.45 utt2: {D see, } [ I'm n-, + I've not ]  ever been a real craft type person.  /
+sd          B.45 utt3:  I have a sister-in-law that, {E I mean, } if it can be done  with your hands, she does it. /
+sd          B.45 utt4: She makes things for the kids for Christmas and  nephews and nieces  /
+sd          B.45 utt5: {C and } I look at them  /
+sd(^q)       B.45 utt6: {C and } I think, God, {D you know, }  [ I, + I ] should be able to do things like this <laughter>. /  
+
+b          A.46 utt1:  Right.  /
+sd          A.46 utt2:  I have a sister that  [ can, + can, ] {F uh, } crochet real well,   
+
+b          B.47 utt1:  Yeah. /  
+
++          A.48 utt1:  [ or, + or ] knit, [ I, + I ] guess I mean knit.  /
+sd          A.48 utt2:   {C And } she knits things {D like } hats,   
+
+b          B.49 utt1:  Yeah. /  
+
++          A.50 utt1:  and, {F uh, } sweaters, [ an, + ] {D you know }  ((   )) . /  
+
+sd          B.51 utt1:  {D Well, } [ when my sister, + {F oh, } when my sister ]  had her first, {F uh, } child, my niece,   
+
+b          A.52 utt1:  Uh-huh. /  
+
++          B.53 utt1:  [ and this is, + ] {A we're talking fifteen years ago. }   [ I was, + it was ] my last year of college, /  
+
+b          A.54 utt1:  Uh-huh. /  
+
+sd          B.55 utt1:  {C and }  I asked my roommate if she would  teach me how to crochet granny squares.  /
+sd          B.55 utt2:  {C So } she did,  /
+sd          B.55 utt3: {C and } I crocheted a  blanket for my sister's baby, /  
+
+b          A.56 utt1:  Oh. /  
+
+sd          B.57 utt1:  {C and }  I started crocheting a king size  bedspread for a guy that I was dating at the time. /  
+
+b          A.58 utt1:  Uh-huh. /  
+
+sd          B.59 utt1:  {C And } when we broke things off,  /
+sd          B.59 utt2: {D actually } we were  supposed to get married when I got out of college.  /
+sd          B.59 utt3: {C So } when we broke things off,  I quit crocheting it  /
+sd          B.59 utt4: {C and } I've never picked up a needle since then,  /
+sd          B.59 utt5:  in fact, I think it's still sitting in the top of the closet <laughter>. /  
+
+ba          A.60 utt1:  {F Oh, } my goodness. /  
+
+sd          B.61 utt1:  One of these days I keep thinking I'm going  to finish it because it would make a really pretty bedspread <laughter>.  /
+%          B.61 utt2:  {C But, } -/  
+
+b          A.62 utt1:  Yeah,  /
+sd          A.62 utt2: [ now, + now ]  they have the, {F uh, } knitting machines that will do it for you. /  
+
+bf          B.63 utt1:  Fast <laughter>. /  
+
+x          A.64 utt1:  <Laughter>.   
+
+sd          B.65 utt1:  My problem, I guess is time, {D you know, }  /
+sd          B.65 utt2: [ I, + I ] talk to my husband,  /
+sd          B.65 utt3: we kind of planning for the time eventually when, {D you know, }  maybe I can quit work, [ while my + kids, because, [ I, + my ] kids are young.  /
+sd          B.65 utt4:   I have a three and a half and a two year old. /  
+
+%          A.66 utt1:  {F Um. } /  
+
+sd          B.67 utt1:  {C And } he says  /
+^q          B.67 utt2: {C but } Bev, I think you'll  be so bored, because, {D you know, } all you've ever done is work.  /
+sd(^q)       B.67 utt3: {C And } I said, but  there's so many things I want to do,  /
+sd          B.67 utt4: I'd like to start sewing again,  /
+sd          B.67 utt5:  I'd like to learn how to do this cross stitch  {C and } these, {D you know, } knit these things  /
+sd          B.67 utt6:  {C and } I think that would be fascinating.  /
+sd          B.67 utt7: He kind of laughs <laughter>. /  
+
+qy          A.68 utt1:  Are you familiar with what a  Serger is, {F uh, } the Serger Sewing Machine? /  
+
+ng          B.69 utt1:  I don't think so. /  
+
+sd          A.70 utt1:  {D Well } {D you know, } [ in, + ]  when we used to sew, we'd sew the seam  /
+sd          A.70 utt2: {C and then } we'd finish the edges, /  
+
+b          B.71 utt1:  Sure. /  
+
+sd          A.72 utt1:  {C and }  [ we, + we ]  would, {F uh, } trim the seams and finish the edges. /  
+
+b          B.73 utt1:  Uh-huh. /  
+
+sd          A.74 utt1:  {D Well, } this machine does it all in one step. /  
+
+bh          B.75 utt1:  You're kidding,  /
+bf          B.75 utt2: {C so } {D like } as you're  sewing the seam, it's finishing off the inside edge. /  
+
+aa          A.76 utt1:  Right,  /
+sd          A.76 utt2: {C and } it's cutting off the, {F uh, } - /
+sd          A.76 utt3:   [ [ the, + there, ] + there ] are two knives  /
+sd          A.76 utt4: {C and } it cuts off the, {F uh, } {D you know } excess seam allowance. /  
+
+sv          B.77 utt1:  {D Well } that takes all the work out of it. /  
+
+aa          A.78 utt1:  Right. /  
+
+x          B.79 utt1:  <Laughter>.   
+
+sv          A.80 utt1:  <Laughter>  {C And, } {F uh, } [ it, + it ]  really makes it look professional. /  
+
+ba          B.81 utt1:  {D Well, } how neat. /  
+
+sd          A.82 utt1:  Especially, on, {D you know, } {E I mean }  from the inside, {D you know } how you look under, under something that you've made  /
+sd          A.82 utt2: {C and } it doesn't really, /  
+
+b          B.83 utt1:  Uh-huh. /  
+
+sv^r          A.84 utt1:  {C But, } {F uh, } the Serger really makes it  look professional. /  
+
+ba          B.85 utt1:  {D Well } that's neat. /  
+
+sd          A.86 utt1:  They're pretty expensive.  /
+%          A.86 utt2: I like, - /
+sd          A.86 utt3: I paid {D like }  about eight hundred dollars for mine, /  
+
+b^m          B.87 utt1:  For the machine, /  
+
+aa          A.88 utt1:  Uh-huh. /  
+
+b          B.89 utt1:  Yeah. /  
+
+sd          A.90 utt1:  {C So, } since I bought it and  paid that much for it, I guess I'd [ be-, + ] might as well get some use out of it. /  
+
+bf          B.91 utt1:  <Breathing>  <laughter>  You have to learn how to  do it.  /
+aa          B.91 utt2: That's right. /  
+
+aa          A.92 utt1:  Yes,  /
+sd          A.92 utt2: I'm going to have to do it. /  
+
+qy^g          B.93 utt1:  Otherwise, they hold it over your head  forever, right <laughter>. /  
+
+na          A.94 utt1:  Right. /  
+
+^q          B.95 utt1:  Now I bought you that machine <laughter>. /  
+
+x          A.96 utt1:  <Laughter>.   
+
+sv          B.97 utt1:  {D Well } that sounds really good. /  
+
+b          A.98 utt1:  Yeah. /  
+
+qy          B.99 utt1:  Do you paint or anything like that? /  
+
+nn          A.100 utt1:  No. /  
+
+bf          B.101 utt1:  Never. /  
+
+aa          A.102 utt1:  No,  /
+sd          A.102 utt2: [ I, + I ] play the piano. /  
+
+sd          B.103 utt1:  {F Oh, } so do I. /  
+
+bf          A.104 utt1:  {F Oh, } you do. /  
+
+%          B.105 utt1:  Exc-, - /
+%          B.105 utt2: be-, - /
+sd          B.105 utt3: {D well } I have one here,  /
+sd          B.105 utt4:  it's the one that I grew up with, /  
+
+b          A.106 utt1:  Uh-huh. /  
+
+sd          B.107 utt1:  {C and } my folks gave it to me,  /
+sd          B.107 utt2:  {C and, } {F uh, } a couple years ago when [ they, + they ] sail, - /
+sd          B.107 utt3: {C and so } they sold their home  /
+sd          B.107 utt4: {C and } [ they, + they've ]  been sailing,  /
+sd          B.107 utt5: {C and, } {F uh, } {C so }  it's here  /
+sd          B.107 utt6: {C but } I haven't touched one {D like }  since college, so I kind of am picking it all out again and trying to remember how to do  it again.  /
+sd          B.107 utt7: {C And } of course, my kids jump in the middle of it and want to pound on  it  /
+sd          B.107 utt8: {C and } I'd love to teach them to play, too. /  
+
+b          A.108 utt1:  Yeah. /  
+
+sd          B.109 utt1:  {C So, } I'm not great,  /
+sd          B.109 utt2: {C but } I remember it. /  
+
+b          A.110 utt1:  Uh-huh,  /
+sd          A.110 utt2: {D well } I'm not that great either.  /
+sd          A.110 utt3:  I used to be a lot better than I am now.  /
+sd          A.110 utt4: [ I, + I ]  have played for, {F uh, } the church choir,  /
+sd          A.110 utt5: {C and, } {F uh, }   
+
+b          B.111 utt1:  Yeah. /  
+
++          A.112 utt1:  I played for the choral club in high  school  /
+sd          A.112 utt2: {C and, } {C but, } [ I, + {D you know, } I ] don't practice a lot anymore,  /
+sv          A.112 utt3: {C and, } {F uh, } {D you know, }  you get rusty.  /
+%          A.112 utt4: You really, -/  
+
+aa          B.113 utt1:  You do,  /
+aa^r          B.113 utt2: you do. /  
+
+sd          A.114 utt1:  I never thought I would get rusty,  /
+sd          A.114 utt2: {C but } I'm rusty now. /  
+
+sd          B.115 utt1:  {D Well, } [ I, + I ]  figure it takes practice  /
+sd          B.115 utt2: {C and } [ [ I, + I ]  don't, + I say I don't ] have the time,  /
+sd          B.115 utt3: that's not true. /  
+
+b          A.116 utt1:  Uh-huh. /  
+
+sd          B.117 utt1:  By the time I put my kids in bed at night,  I don't want to do anything. /  
+
+b          A.118 utt1:  Yeah. /  
+
+sd          B.119 utt1:  [ I, + {D you know, } I've ]  worked all day  /
+sd          B.119 utt2: {C and } I come home  /
+sd          B.119 utt3:  {C and } I do that,  /
+sd(^q)       B.119 utt4: [ I, + ] and, {D you know, }  even hobbies and crafts and sewing things like  that, [ I, + I ] think gee, I could do this or that,  /
+^q          B.119 utt5: I have an hour here. /  
+
+b          A.120 utt1:  Uh-huh. /  
+
+sd          B.121 utt1:  I  don't want to do them sometimes,  /
+sd          B.121 utt2: I'm too tired. /  
+
+b          A.122 utt1:  Yeah,  /
+b          A.122 utt2: right. /  
+
+sd          B.123 utt1:  {C So, } I try to save that for the  weekend.  /
+sd          B.123 utt2:  I need to get better at it though <laughter>. /  
+
+sv          A.124 utt1:  {D Well, } sewing does [ [ take up, + take an ]  awful lot of time, + takes an awful lot of time. ] /  
+
+sd          B.125 utt1:  Now the part about sewing that  I never liked was laying out the material and the pattern and cutting it out.  /
+sd          B.125 utt2:  [ If, + if ]  somebody would lay it out for me, then I didn't mind cutting it out and sewing it. /  
+
+x          A.126 utt1:  <Laughter>.   
+
+sd          B.127 utt1:  I  could do that all day long  /
+sd          B.127 utt2: {C and } [ I, + I ]  can remember once in high school, I wanted some extra money, /  
+
+b          A.128 utt1:  Yeah. /  
+
+sd          B.129 utt1:  {C and } my mom wanted some pants,  /
+sd          B.129 utt2: {C so }  she laid out the material  /
+sd          B.129 utt3: {C and } I cut it  and  sewed it  /
+sd          B.129 utt4: {C and } she paid me I  think {D like } two dollars a pair <laughter> to make her some pants. /  
+
+b          A.130 utt1:  Yeah. /  
+
+sd          B.131 utt1:  {C But } [ I, + I ] hate laying out  material and trying to get the most out of the material and,    
+
+b          A.132 utt1:  Yeah,  /
+^2          A.132 utt2: [ [ on the, + on the, ] +   
+
++          B.133 utt1:  make sure it's on the  right lines and not on the bias. /  
+
++          A.134 utt1:  right on the ] straight grain,   
+
+aa          B.135 utt1:  Yes,  /
+sd          B.135 utt2: on the grain of the fabric. /  
+
++          A.136 utt1:  and all that stuff,  /
+%          A.136 utt2: uh-huh. /  
+
+sd          B.137 utt1:  It drives me crazy <laughter>. /  
+
+b          A.138 utt1:  Yeah  /
+sd          A.138 utt2: [ [ that, + that's, ] + that's ]  the part that I don't like, too. /  
+
+b          B.139 utt1:  Yeah. /  
+
+b          A.140 utt1:  Yeah,  /
+sd          A.140 utt2: [ I, + I ] like [ sewing, + sewing ]  up the garment itself.  /
+sd          A.140 utt3:  I really like to do that,  /
+sd          A.140 utt4: {C but } [ the, + the ]  cutting and [ the, + all the, ] - /
+sd          A.140 utt5:   even the cutting I don't like. /  
+
+qw          B.141 utt1:  {D Well } what are some of the other  features on this machine?  /
+sv          B.141 utt2: It sounds wonderful. /  
+
+sd          A.142 utt1:  {D Well } that's about it really.  /
+sd          A.142 utt2:  [ It's, +  it ] has [ four, + {F uh, } four ] threads instead of, [ the, + the ] regular basic two threads. /  
+
+bk          B.143 utt1:  {F Oh, } okay. /  
+
+%          A.144 utt1:  {C And, } {F uh, } it, -/  
+
+qy          B.145 utt1:  Is that for designs,  /
+qrr          B.145 utt2: {C or } is that for  the regular seam in the fabric  /
+%          B.145 utt3: {C or, } -/  
+
+nn          A.146 utt1:  No,  /
+sd^e          A.146 utt2: [ you, + you ] can either use three or  four of the threads. /  
+
+bk          B.147 utt1:  {F Oh, } okay. /  
+
+sd          A.148 utt1:  {F Uh, } [ it's kind of, [ it + ] the stitch is kind of ]  like a knitting machine, {D like } [ the, + they're ] loopers under the bottom  /
+sd          A.148 utt2:  {C and then } [ the, + there's ]  a seam stitch  /
+sd          A.148 utt3: {C and } it's the loopers that form [ [ the, + the ]  edge, + {D you know } that edge ] finish. /  
+
+b          B.149 utt1:  Uh-huh. /  
+
+sd          A.150 utt1:  {C And, } {F uh, } that's what really makes it  look professional.  /
+sd          A.150 utt2: You can do a lot with the Serger though.  /
+sd          A.150 utt3: You can make, {F uh, }   piping and cording  /
+sd          A.150 utt4: {C and, } {F uh, } you can use all kinds of different, {F uh, } textures of thread. /  
+
+bf          B.151 utt1:  {C So } it has the ability to do just  about any type of sewing you want to do. /  
+
+aa          A.152 utt1:  {D Well, } <breathing> yes,  /
+sd          A.152 utt2: {C but } [ you, + you ]  have to use it in combination with a sewing machine.  /
+sd          A.152 utt3: You can't throw your sewing machine away.  /
+sd          A.152 utt4: [ [  Y-, + you, ] + you ] need it to do things like button holes,   
+
+b          B.153 utt1:  Uh-huh. /  
+
++          A.154 utt1:  and, {F uh, } seams that [ need  to be really strong, + need to be done ] on the sewing machine. /  
+
+qy^d          B.155 utt1:  {C So } the Serger is not a sewing  machine, itself.  /
+qy^d          B.155 utt2:  It's something that goes with it? /  
+
+%          A.156 utt1:  It's, {F uh, } -/  
+
+qy^d          B.157 utt1:  Like an attachment  /
+%          B.157 utt2: {C or, } -/  
+
+nn          A.158 utt1:  No,  /
+sd^e          A.158 utt2: [ [ [ it's, + it's a, ] + it's a, ] + it's a ]  machine,  /
+sd          A.158 utt3: it's not exactly a sewing machine  /
+sd          A.158 utt4: {C but } [ it do-, + it does ] sew the seam and trim the  edges and all that stuff,  /
+sd          A.158 utt5: {C but } there [ are oth-, + are other ] things that a  regular sewing machine does that it doesn't do.   {D Like } you can't top stitch with it. /  
+
+bk          B.159 utt1:  {F Oh, } okay. /  
+
+sd^r          A.160 utt1:  {D You know, } you can't do top stitching,  /
+sd          A.160 utt2:  {C or, } {F um, } <clicking> [ there's, + there's ] a [ f-, + few ] things that you just can't do with it.  /
+sd          A.160 utt3:  It will also do a rolled edge, {F um, } /  
+
+b          B.161 utt1:  Uh-huh. /  
+
+sd          A.162 utt1:  {D Gee, } it's just so versatile,  /
+%          A.162 utt2: I rem-, {F uh. } -/  
+
+sd          B.163 utt1:  {D Well } I'm going to have to go check it out.  /
+sd          B.163 utt2:   That's just something I hadn't heard of  /
+%          B.163 utt3: {C but } it, -/ 

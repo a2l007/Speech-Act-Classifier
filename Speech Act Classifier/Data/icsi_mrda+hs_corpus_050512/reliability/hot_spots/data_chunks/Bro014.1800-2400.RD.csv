@@ -1,0 +1,295 @@
+1800.44,1800.64,Bro014-c0,s^bk,,,,yeah .
+1800.64,1802.23,Bro014-c0,s,,,,so we have the mel f- - filter bank .
+1802.23,1802.94,Bro014-c0,s,,,,we have the f_f_t .
+1802.94,1803.96,Bro014-c0,s.%-,,,,so we just ==
+1803.06,1804.65,Bro014-c1,s,1a,,,so it's - it's not really an excitation .
+1804.65,1807.5,Bro014-c1,s,2a,,,but it's something that hopefully tells you something about the excitation .
+1804.74,1804.97,Bro014-c0,s^aa,1b,,,no .
+1807.66,1808.2,Bro014-c0,s^aa,2b,,,yeah that's right .
+1808.07,1808.34,Bro014-c1,b,,,,yeah .
+1808.48,1808.68,Bro014-c1,b,,,,yeah .
+1809.11,1810.05,Bro014-c0,fh,,,,um ==
+1811.44,1811.62,Bro014-c0,fh,,,,yeah .
+1812.43,1814.06,Bro014-c5,s,3a,,,we have here some histogram .
+1814.83,1816.81,Bro014-c5,s,,,,but they have a lot of overlap .
+1814.95,1815.99,Bro014-c0,s^bk,3b,,,e- - yeah .
+1815.99,1817.38,Bro014-c0,s.%--,,,,but it's - it's still ==
+1818.33,1818.57,Bro014-c0,fg,,,,yeah .
+1818.57,1818.89,Bro014-c0,fg,,,,so ==
+1819.19,1819.4,Bro014-c0,fg,,,,well .
+1819.73,1825.38,Bro014-c0,s,,,,for unvoiced portion we have something tha- - that has a mean around o_ point three .
+1826.3,1830.15,Bro014-c0,s,,,,and for voiced portion the mean is o_ point fifty-nine .
+1831.09,1833.51,Bro014-c0,s^rt,,,,but the variance seem quite high .
+1833.75,1834.51,Bro014-c2,qw.%--,,,,how do you know ?==
+1834.3,1834.45,Bro014-c0,%--,,,,so ==
+1834.56,1834.75,Bro014-c0,fh,,,,mmm ==
+1835.05,1838.67,Bro014-c2,qw,4a,,,how did you get your voiced and unvoiced truth data ?
+1838.73,1840.98,Bro014-c0,s,4b-1.5a,,,we used uh timit .
+1841.13,1845.27,Bro014-c0,s,4b-1+,,,and we used canonical mappings between the phones .
+1841.51,1841.78,Bro014-c5,s^aa,5b,,,yeah .
+1841.92,1844.78,Bro014-c5,s,4b-2,,,we uh use timit on this .
+1845.27,1845.54,Bro014-c0,fh,,,,and ==
+1845.7,1845.82,Bro014-c5,%--,,,,for ==
+1846.7,1847.57,Bro014-c0,fh,,,,th- - yeah .
+1848.44,1852.1,Bro014-c5,s,6a,,,but if we look at it in one sentence it - apparently it's good .
+1852.69,1853.12,Bro014-c5,s,6a+,,,i think .
+1854.62,1854.87,Bro014-c0,s^aa,6b,,,yeah .
+1854.97,1855.14,Bro014-c0,%--,,,,but ==
+1855.29,1855.47,Bro014-c0,s^aa^r,6b+,,,yeah .
+1857.78,1859.85,Bro014-c0,s,7a,,,uh so it's noisy timit .
+1859.85,1860.35,Bro014-c0,s^aa,,,,that's right .
+1860.91,1861.35,Bro014-c4,s^t1,,,,it's noisy timit .
+1860.93,1861.13,Bro014-c5,s^aa,7b,,,yeah .
+1861.08,1861.27,Bro014-c0,fh,,,,yeah .
+1864.48,1866.03,Bro014-c0,s,,,,it seems quite robust to noise .
+1866.03,1874.19,Bro014-c0,s,,,,so when we take - we draw its parameters across time for a clean sentence and then nois- - the same noisy sentence it's very close .
+1870.86,1871.39,Bro014-c1,b,,,,mm-hmm .
+1875.77,1877.52,Bro014-c0,s^bk|s,,,,yeah | so there are - there is this .
+1877.7,1884,Bro014-c0,s,,,,there could be also the um - something like the maximum of the auto-correlation function .
+1884,1884.24,Bro014-c0,fh,,,,or ==
+1884.97,1887.17,Bro014-c2,qy^rt,,,,is this a - a s- - a trained system ?
+1885.31,1885.52,Bro014-c0,%-,,,,which ==
+1887.49,1889.81,Bro014-c2,qrr,,,,or is it a system where you just pick some thresholds ?
+1889.81,1891.07,Bro014-c2,qw^rt,8a,,,ho- - how does it work ?
+1891.38,1894.18,Bro014-c0,s,8b.9a,,,right now we just are trying to find some features .
+1894.4,1894.71,Bro014-c2,s^bk,9b,,,mm-hmm .
+1894.81,1895.27,Bro014-c0,fh,,,,and ==
+1896.27,1897.66,Bro014-c0,fh,,,,uh ==
+1897.7,1904.02,Bro014-c0,s^bk|s.%--,9b+,,,yeah | hopefully i think what we want to have is to put these features in s- - some kind of ==
+1905.57,1906.2,Bro014-c0,fh,,,,um ==
+1906.2,1909.23,Bro014-c0,fh|s,9b++,,,well | to - to obtain a statistical model on these features .
+1909.23,1911.2,Bro014-c0,s^rt,9b+++,,,and to - or just to use a neural network .
+1911.9,1914.49,Bro014-c0,s,9b++++,,,and hopefully these features w- - would help .
+1914.78,1921.6,Bro014-c2,s^bu,10a,,,because it seems like what you said about the mean of the - the voiced and the unvoiced that seemed pretty encouraging .
+1918.22,1918.51,Bro014-c0,b,,,,mm-hmm .
+1921.78,1923.18,Bro014-c1,s^aa|s^arp,20b.21a,,,well yeah | except the variance was big .
+1921.85,1922.14,Bro014-c2,qy^d^g^rt,10a+,,,right ?
+1922.37,1922.52,Bro014-c0,b,,,,yeah .
+1923,1924.43,Bro014-c0,s^ba^m,21b-1,,,except the variance is quite high .
+1923.18,1923.46,Bro014-c1,qy^d^g^rt,21a+,,,right ?
+1923.74,1924.07,Bro014-c2,fg,,,,well y- ==
+1924.23,1926.07,Bro014-c2,s^nd,21b-2,,,well y- - i - i don't know that i would trust that so much .
+1924.43,1924.56,Bro014-c0,s^aa,21b-1+,,,yeah .
+1926.07,1928.77,Bro014-c2,s^df,21b-2+,,,because you're doing these canonical mappings from timit labellings .
+1928.77,1929.1,Bro014-c2,qy^d^f^g^rt,21b-2++,,,right ?
+1928.93,1929.2,Bro014-c0,b,,,,uh-huh .
+1929.1,1929.45,Bro014-c2,fh,,,,so ==
+1930.32,1933.89,Bro014-c2,s^df,21b-2+++,,,really that's sort of a cartoon picture about what's voiced and unvoiced .
+1933.89,1935.91,Bro014-c2,s,21b-2++++,,,so that could be giving you a lot of variance .
+1936.52,1936.84,Bro014-c2,fh,,,,i mean ==
+1936.53,1936.78,Bro014-c0,b,,,,yeah .
+1937.95,1940.67,Bro014-c2,s,21b-2+++++,,,i- - it - it may be that - that you're finding something good .
+1940.67,1944.12,Bro014-c2,s,21b-2++++++.22a,,,and that the variance is sort of artificial because of how you're getting your truth .
+1944.6,1944.94,Bro014-c0,b,,,,mm-hmm .
+1945.06,1945.3,Bro014-c1,s^bk,22b,,,yeah .
+1945.42,1947.85,Bro014-c1,s.%--,,,,but another way of looking at it might be that ==
+1947.97,1950.65,Bro014-c1,s^df,,,,i mean what w- - we- - we are coming up with feature sets after all .
+1951.24,1961.52,Bro014-c1,s,,,,so another way of looking at it is that um the mel cepstru- - mel spectrum mel cepstrum any of these variants um give you the smooth spectrum .
+1961.52,1962.7,Bro014-c1,s^e,,,,it's the spectral envelope .
+1963.25,1969.95,Bro014-c1,s,,,,by going back to the f_f_t you're getting something that is more like the raw data .
+1970.67,1973.62,Bro014-c1,s.%--,,,,so the question is what characterization ==
+1973.62,1974.79,Bro014-c1,s,,,,and you're playing around with this .
+1974.8,1986.23,Bro014-c1,qw,,,,another way of looking at it is what characterization of the difference between the raw data and this smooth version is something that you're missing that could help ?
+1987.2,1990.63,Bro014-c1,s,,,,so i mean looking at different statistical measures of that difference .
+1991.03,1993.23,Bro014-c1,s,,,,coming up with some things and just trying them out .
+1993.23,1997.13,Bro014-c1,s,,,,and seeing if you add them onto the feature vector does that make things better or worse in noise .
+1997.75,1998.8,Bro014-c1,s.%--,,,,where you're really just i- - i- ==
+1998.8,2004.31,Bro014-c1,s,,,,the way i'm looking at it is not so much you're trying to f- - find the best - the world's best voiced-unvoiced uh uh classifier .
+2003.44,2003.9,Bro014-c2,b,,,,mm-hmm .
+2004.17,2006.81,Bro014-c0,b,,,,mmm .
+2004.31,2010.08,Bro014-c1,s,23a,,,but it's more that you know uh uh try some different statistical characterizations of that difference back to the raw data .
+2008.07,2008.49,Bro014-c2,s^aa,23b,,,right .
+2010.08,2010.69,Bro014-c1,fh,,,,and - and ==
+2011.04,2011.43,Bro014-c2,s^aa^r,23b+,,,right .
+2011.16,2013.59,Bro014-c1,s,24a,,,m- - maybe there's something there that the system can use .
+2013.85,2014.07,Bro014-c0,s^aa,24b,,,yeah .
+2015.33,2016.65,Bro014-c0,fg|s.%--,,,,yeah | but ther- - more obvious is that ==
+2016.86,2017.01,Bro014-c0,fh,,,,yeah .
+2017.57,2020.01,Bro014-c0,s^r.%--,,,,the - the more obvious is that - that ==
+2020.56,2031,Bro014-c0,fh|s,25a,,,well | using the - th- - the f_f_t um you just - it gives you just information about if it's voiced or not voiced ma- - mainly i mean .
+2031.24,2031.82,Bro014-c0,fh,,,,but - so ==
+2031.61,2031.86,Bro014-c1,s^bk,25b,,,yeah .
+2034.01,2040.04,Bro014-c0,s,26a,,,this is why we - we started to look by having sort of voiced phonemes .
+2036.28,2036.9,Bro014-c1,s.%--,,r,,well that's the rea- ==
+2036.9,2038.19,Bro014-c1,s.%-,,,,w- - w- - what i'm arguing is that's- ==
+2039.33,2039.53,Bro014-c1,s^bk,26b,,,yeah .
+2039.53,2043.41,Bro014-c1,s,,,,i mean uh what i'm arguing is that that - that's givi- - you - gives you your intuition .
+2040.04,2040.31,Bro014-c0,fh,,,,and ==
+2044.31,2044.68,Bro014-c0,b,,,,mm-hmm .
+2044.4,2048.8,Bro014-c1,s,,,,but in - in reality it's - you know there's all of this - this overlap and so forth .
+2048.71,2049.13,Bro014-c4,s^fa^t3,,,,oh sorry .
+2049.29,2051.72,Bro014-c1,s,,,,and - but what i'm saying is that may be o_k .
+2052.34,2055.46,Bro014-c1,s^df,,,,because what you're really getting is not actually voiced versus unvoiced .
+2055.46,2060.2,Bro014-c1,s^df,,,,both for the fac- - the reason of the overlap and - and then uh th- - you know structural reasons .
+2060.86,2062.39,Bro014-c1,s^e,,,,uh uh like the one that chuck said .
+2062.81,2066.58,Bro014-c1,s^e,,,,that - that in fact well the data itself is - that you're working with is not perfect .
+2064.08,2064.32,Bro014-c0,b,,,,yeah .
+2064.9,2065.05,Bro014-c0,b,,,,mm-hmm .
+2066.58,2069.44,Bro014-c1,fh|s,,,,so | what i'm saying is maybe that's not a killer .
+2069.61,2072.27,Bro014-c1,s^df,,,,because you're just getting some characterization .
+2072.27,2075.1,Bro014-c1,s^e,,,,one that's driven by your intuition about voiced-unvoiced certainly .
+2073.96,2075.26,Bro014-c0,b,,,,mm-hmm .
+2075.34,2082.97,Bro014-c1,s,,,,but it's just some characterization of something back in the - in the - in the almost raw data rather than the smooth version .
+2082.06,2082.62,Bro014-c0,b,,,,mm-hmm .
+2083.43,2094.55,Bro014-c1,s,,,,and your intuition is driving you towards particular kinds of uh statistical characterizations of um what's missing from the spectral envelope .
+2094.77,2095.22,Bro014-c0,b,,,,mm-hmm .
+2095.3,2097.95,Bro014-c1,fh|s,,,,um | obviously you have something about the excitation .
+2098.5,2098.9,Bro014-c1,fh,,,,um ==
+2099.92,2101.56,Bro014-c1,s,,,,and what is it about the excitation .
+2102.31,2104.74,Bro014-c1,s,,10=l=a.n.b,,and you know - and you're not getting the excitation anyway you know .
+2104.8,2105.01,Bro014-c1,fh,,c,,so ==
+2105.61,2107.52,Bro014-c1,s.%--,,,,so i - i would almost take a ==
+2108.47,2118.2,Bro014-c1,fh|s^cs^r,,,,uh | especially if - if these trainings and so forth are faster i would almost just take a uh a scattershot at a few different ways of look- - of characterizing that difference .
+2118.45,2121.77,Bro014-c1,fh|s^cs,,,,and uh | you could have one of them but - and - and see you know which of them helps .
+2121.95,2122.54,Bro014-c0,b,,,,mm-hmm .
+2122.59,2128.43,Bro014-c2,qy^bu^rt,,,,so i- - is the idea that you're going to take whatever features you develop and - and just add them onto the future vector ?
+2123.02,2123.11,Bro014-c0,b,,,,o_k .
+2129.02,2132.12,Bro014-c2,qw,27a,,,or what's the use of the - the voiced-unvoiced detector ?
+2133.56,2135.6,Bro014-c0,h|s^no,27b,,,uh | i guess we don't know exactly yet .
+2135.6,2137.39,Bro014-c0,fh,,,,but um ==
+2139.48,2139.7,Bro014-c0,fh,,,,yeah .
+2141.99,2144.38,Bro014-c2,qy^rt,28a,,,it's not part of a v_a_d system that you're doing ?
+2142.23,2142.58,Bro014-c0,%--,,,,th- ==
+2144.35,2144.62,Bro014-c5,s^aa,28b-1,,,no .
+2145.22,2146.17,Bro014-c0,h|s^aa,28b-2.29a,,,uh | no .
+2146.43,2146.72,Bro014-c2,s^bk,29b,,,oh .
+2146.72,2147.04,Bro014-c2,s^bk,29b+,,,o_k .
+2146.8,2146.94,Bro014-c0,s^aa^r,28b-2+,,,no .
+2147.48,2150.56,Bro014-c0,s^df^rt,28b-2++.30a,,,no the idea was i guess to - to use them as - as features .
+2150.43,2150.85,Bro014-c2,s^bk^m,30b,,,features .
+2150.85,2151.16,Bro014-c2,s^bk,30b+,,,i see .
+2151.46,2152.45,Bro014-c0,fh,,,,uh ==
+2154.93,2160.17,Bro014-c0,s^rt,,,,yeah it could be uh - it could be a neural network that does voiced and unvoiced detection .
+2160.45,2160.76,Bro014-c2,b,,,,mm-hmm .
+2161.26,2165.68,Bro014-c0,s^rt,,,,but it could be in the - also the big neural network that does phoneme classification .
+2164.27,2164.62,Bro014-c2,b,,,,mm-hmm .
+2166.47,2167.9,Bro014-c0,fh,,,,mmm ==
+2167.82,2169.5,Bro014-c1,s.%--,,,,but each one of the mixture components ==
+2167.9,2168.06,Bro014-c0,fh,,,,yeah .
+2169.5,2172.18,Bro014-c1,s,,,,i mean you have uh uh variance only .
+2172.81,2181.43,Bro014-c1,s,,,,so it's kind of like you're just multiplying together these um probabilities from the individual features within each mixture .
+2181.43,2182.09,Bro014-c1,s.%--,,,,so it's ==
+2182.25,2182.69,Bro014-c1,fh,,,,so ==
+2184.43,2185.07,Bro014-c1,fh,,,,uh ==
+2185.05,2186.01,Bro014-c2,s^ba,,,,i think it's a neat thing .
+2185.32,2186.58,Bro014-c1,s.%--,,,,it seems l- - you know ==
+2186.14,2187.45,Bro014-c2,s^ba,31a,,,uh it seems like a good idea .
+2188.69,2188.95,Bro014-c1,s^bk,31b,,,yeah .
+2189.82,2190.22,Bro014-c1,fh,,,,um ==
+2196.32,2196.57,Bro014-c1,fh,,,,yeah .
+2196.57,2206,Bro014-c1,s,,,,i mean i know that um people doing some robustness things a ways back were - were just doing - just being gross and just throwing in the f_f_t .
+2206,2208.28,Bro014-c1,s,,,,and actually it wasn't - wasn't - wasn't so bad .
+2209.16,2210.31,Bro014-c1,fh|s.%--,,,,uh | so it would s- ==
+2210.31,2216.88,Bro014-c1,s,,,,and - and you know that i- - it's gotta hurt you a little bit to not have a - a spectral uh - a s- - a smooth spectral envelope .
+2216.88,2219.64,Bro014-c1,s,,,,so there must be something else that you get in return for that .
+2220.41,2220.91,Bro014-c1,s.%--,,,,that uh ==
+2220.85,2221.17,Bro014-c0,b,,,,mm-hmm .
+2221.86,2222.32,Bro014-c1,fh,,,,uh ==
+2223.03,2223.33,Bro014-c1,fh,,,,so ==
+2223.12,2223.92,Bro014-c2,qw.%--,,,,so how does ?==
+2223.92,2225.92,Bro014-c2,s,,,,uh maybe i'm going in too much detail .
+2225.92,2232.66,Bro014-c2,qw,32a,,,but how exactly do you make the difference between the f_f_t and the smoothed spectral envelope ?
+2233.17,2235.66,Bro014-c2,qw.%--,,,,wha- - wh- - i- - i- - uh how is that uh ?==
+2237.97,2239.9,Bro014-c0,h|s.%--,32b,,,um | we just ==
+2239.9,2241.25,Bro014-c0,qw^t3,33a,,,how did we do it up again ?
+2241.8,2248.69,Bro014-c5,h|s^rt,33b,,,uh | we distend the - we have the twenty-three coefficient af- - after the mel f- - filter .
+2247.13,2248.16,Bro014-c0,b,,,,mm-hmm .
+2249.01,2254.94,Bro014-c5,s^rt,33b+,,,and we extend these coefficient between the - all the frequency range .
+2255.42,2255.76,Bro014-c2,b,,,,mm-hmm .
+2256,2265.64,Bro014-c5,s,33b++.34a,,,and i- - the interpolation i- - between the point is - give for the triang- - triangular filter - the value of the triangular filter .
+2266.22,2271.14,Bro014-c5,s,33b+++,,,and of this way we obtained this mode- - this model speech .
+2270.36,2274.93,Bro014-c1,s^bu,34b.35a,,,so you essentially take the values that - th- - that you get from the triangular filter and extend them .
+2270.53,2270.79,Bro014-c0,%--,,,,s- ==
+2275.46,2279.13,Bro014-c1,s^bu,34b+.36a,,,to sor- - sort of like a rectangle that's at that m- - value .
+2275.75,2276.11,Bro014-c5,s^aa,35b,,,yeah .
+2278.31,2278.64,Bro014-c5,s^aa,36b,,,mm-hmm .
+2278.76,2280.42,Bro014-c0,s,37a,,,yeah i think we have linear interpolation .
+2280.42,2284.54,Bro014-c0,s^rt,,,,so we have - we have one point for one energy for each filter bank .
+2280.54,2281.74,Bro014-c5,s^aa|s^na,37b,,,mmm yeah | it's linear .
+2281.86,2282.26,Bro014-c2,b,,,,mmm .
+2283.69,2283.91,Bro014-c1,b,,,,oh .
+2284.26,2284.54,Bro014-c5,b,,,,yeah .
+2284.54,2288.61,Bro014-c0,s^e^rt,38a,,,which is the energy that's centered on - on - on the triangle .
+2286.2,2286.58,Bro014-c5,s^2.%--,38b,,,at the n- ==
+2287.1,2288.44,Bro014-c5,s^2,38b+,,,at the center of the filter .
+2287.65,2291.43,Bro014-c2,s^bu,39a,,,so you - you end up with a vector that's the same length as the f_f_t vector .
+2290.76,2290.97,Bro014-c0,s^aa,39b-1,,,yeah .
+2291.03,2291.34,Bro014-c5,s^aa,39b-2,,,yeah .
+2291.16,2291.77,Bro014-c0,s^aa,39b-1+,,,that's right .
+2291.68,2294.68,Bro014-c2,s^bu,40a,,,and then you just uh compute differences .
+2292.85,2293.13,Bro014-c5,b,,,,yeah .
+2293.58,2297.84,Bro014-c5,s,41a,,,i have here one example if you - if you want see something like that .
+2294.68,2294.95,Bro014-c2,%--,,,,and ==
+2294.79,2295.88,Bro014-c0,s^m^na,40b,,,then we compute the difference .
+2295.88,2295.94,Bro014-c0,s^aa,40b+,,,yeah .
+2296.02,2296.11,Bro014-c0,b,,,,uh-huh .
+2296.19,2297.35,Bro014-c2,qy^bu^d,,,,uh sum the differences ?
+2296.35,2296.64,Bro014-c1,b,,,,o_k .
+2297.54,2297.74,Bro014-c0,%,,,,so ==
+2298.78,2308.8,Bro014-c0,s,42a,,,and i think the variance is computed only from like two hundred hertz to one - to fifteen hundred .
+2300.07,2301.03,Bro014-c2,s^bk,41b,,,oh o_k .
+2303.99,2304.39,Bro014-c1,b,,,,mm-hmm .
+2307.1,2309.86,Bro014-c5,s^2,42b,,,two thou- - two - fifteen hundred .
+2309.31,2309.91,Bro014-c1,b,,,,mm-hmm .
+2309.93,2310.13,Bro014-c5,s^ar,42b+,,,no .
+2310.18,2310.63,Bro014-c0,s.%--,,,,because ==
+2311.07,2311.35,Bro014-c1,b,,,,right .
+2311.15,2312.43,Bro014-c5,s,42b++.43a,,,two hundred and fifty thousand .
+2312.14,2312.79,Bro014-c0,s^nd,43b.44a,,,fifteen hundred .
+2312.79,2313.11,Bro014-c0,s^df.%--,,,,because ==
+2313.04,2313.23,Bro014-c5,b,,,,yeah .
+2313.11,2313.33,Bro014-c0,fh,,,,yeah .
+2313.78,2315.1,Bro014-c5,s,44b,,,two thousand and fifteen hundred .
+2314.54,2317.5,Bro014-c0,s^df.%--,,,,above um - it seems that ==
+2318.2,2326.39,Bro014-c0,s^df,45a,,,well some voiced sound can have also like a noisy part on high frequencies .
+2326.39,2326.58,Bro014-c0,fh,,,,and ==
+2327.62,2327.77,Bro014-c1,s^bk,45b,,,yeah .
+2328.06,2328.22,Bro014-c0,%--,,,,but ==
+2328.16,2330.62,Bro014-c1,s,45b+,,,no it's - makes sense to look at low frequencies .
+2328.46,2329.28,Bro014-c0,s.%--,,,,well it's just ==
+2329.31,2336.08,Bro014-c2,qy^bu^d^rt,46a,,,so this is - uh basically this is comparing an original version of the signal to a smoothed version of the same signal ?
+2335.33,2335.65,Bro014-c5,s^aa,46b-1,,,yeah .
+2336.3,2336.51,Bro014-c1,s^aa,46b-2,,,right .
+2336.51,2338.5,Bro014-c1,s.%--,46b-2+,,,so i- - so i- - i- - this is ==
+2338.72,2343.24,Bro014-c1,fh|s,46b-2++.47a,,,i mean | i- - you could argue about whether it should be linear interpolation or - or - or - or zeroeth order .
+2343.24,2343.85,Bro014-c1,fh,,,,but - but ==
+2343.68,2344.01,Bro014-c2,s^bk,47b,,,uh-huh .
+2344.22,2348.74,Bro014-c1,s,46b-2+++.48a,,,at any rate something like this is what you're feeding your recognizer typically .
+2348.97,2349.95,Bro014-c2,qw^d.%--,48b.49a,,,like which of the ?==
+2349.82,2350.11,Bro014-c1,s^ar,49b,,,no .
+2350.11,2355.9,Bro014-c1,s,49b+.50a,,,uh so the mel cepstrum is the - is the - is the cepstrum of this - this uh spectrum or log spectrum .
+2351.15,2351.87,Bro014-c0,s^t3.%--,,,,so this is ==
+2351.87,2352.1,Bro014-c0,fh,,,,yeah .
+2352.02,2352.25,Bro014-c2,b,,,,yeah .
+2355.14,2355.57,Bro014-c2,s^bk,50b,,,right right .
+2355.9,2356.23,Bro014-c1,s^e.%--,,,,whatever it ==
+2356.23,2359.83,Bro014-c1,qr,51a,,,you- - you're subtracting in - in - in power domain or log domain ?
+2359.69,2360.36,Bro014-c0,s,51b-1.52a,,,in log domain .
+2360.23,2360.88,Bro014-c5,s,51b-2,,,log domain .
+2360.4,2360.49,Bro014-c0,fh,,,,yeah .
+2361.1,2361.37,Bro014-c1,s^bk,52b,,,o_k .
+2361.37,2364.36,Bro014-c1,s,53a,,,so it's sort of like division when you do the yeah the spectra .
+2363.12,2363.39,Bro014-c5,b,,,,yeah .
+2363.86,2364.79,Bro014-c0,b,,,,uh yeah .
+2364.56,2365.35,Bro014-c2,qy^bu^d^rt,53b.54a,,,it's the ratio ?
+2365.41,2365.97,Bro014-c1,h,54b,,,um ==
+2366.98,2367.28,Bro014-c1,s^aa,54b+,,,yeah .
+2367.76,2368.63,Bro014-c1,fg,,,,but anyway .
+2368.71,2369.36,Bro014-c1,fg,,,,um ==
+2370.96,2371.65,Bro014-c1,s.%-,,,,and that's ==
+2371.7,2374.81,Bro014-c2,qw,55a,,,so what's th- - uh what's the intuition behind this kind of a thing ?
+2374.81,2379.05,Bro014-c2,s^df,55a+,,,i - i don't know really know the signal-processing well enough to understand what - what is that doing .
+2378.1,2378.51,Bro014-c0,fg,,,,so ==
+2380.27,2380.47,Bro014-c0,s^bk,55b,,,yeah .
+2380.64,2380.73,Bro014-c1,s^aa^t3,,,,yeah .
+2380.73,2381.62,Bro014-c1,s^na^t3,,,,i guess that makes sense .
+2380.81,2387.71,Bro014-c0,s,55b+,,,what happen if - what we have - have - what we would like to have is some spectrum of the excitation signal .
+2381.62,2381.77,Bro014-c1,s^aa^t3,,,,yeah .
+2388.16,2390.09,Bro014-c0,s^e,55b++,,,which is for voiced sound ideally .
+2390.09,2391.24,Bro014-c0,s^e,55b+++.56a,,,a - a pulse train .
+2391.79,2392.18,Bro014-c2,s^bk,56b,,,uh-huh .
+2393.02,2395.65,Bro014-c0,s,55b++++.57a,,,and for unvoiced it's something that's more flat .
+2395.78,2396.15,Bro014-c2,s^bk,57b,,,uh-huh .
+2396.43,2396.69,Bro014-c2,s^bk,57b+,,,right .
+2397.23,2399.07,Bro014-c0,s.%--,55b+++++,,,and the way to do this is that ==
+2399.07,2402.65,Bro014-c0,s,55b++++++,,,well we have the - we have the f_f_t because it's computed in - in the - in the system .

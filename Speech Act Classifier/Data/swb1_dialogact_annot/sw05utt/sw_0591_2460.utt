@@ -1,0 +1,378 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2460_1115_1039
+TOPIC#:		365
+DATE:		910405
+TRANSCRIBER:	csw
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Caller B has radio T V on in background, very faintly.
+
+==============================================================================
+  
+
+o          A.1 utt1:  All right,  /
+sd          A.1 utt2: {D well } I have a lot of  different teams that I like [ to, + to ] keep in touch with,  /
+sd          A.1 utt3: of course, Texas Rangers being  one of them,  /
+sv          A.1 utt4: {E I mean, } {F uh, } {D you know, }  you can't live in Dallas without, {D you know, } -/  
+
+qo          B.2 utt1:  Well what are the others? /  
+
+sd          A.3 utt1:  {D Well, } {F uh, } I originally  came from Saint Louis,  /
+sd          A.3 utt2: {C so, } {F uh, } the Saint Louis Cardinals are one, {F uh, }  /
+sd          A.3 utt3:  I moved to Kansas City,  /
+sd          A.3 utt4: {D see } [ I have, +  I have ] a tendency to, [ a, +  adopt ] teams when I [ [ wen-, +  go to a tea-, ] +  {F uh, } go to a town. ] /  
+
+ba          B.4 utt1:  {D Well } it's helpful. /  
+
+aa          A.5 utt1:  Yeah,  /
+sd          A.5 utt2: {C so, } {F uh, } I lived in Kansas  City for a couple years  /
+sd          A.5 utt3: {C and } I adopted the Royals,  /
+sd          A.5 utt4: I lived in Houston for two and a half years  /
+sd          A.5 utt5: {C  so } I adopted [ the, +  {F uh, } {F uh, } the ] Houston Astros,  /
+sd          A.5 utt6: {C so } {E I mean, }  {D you know, } I've got quite a few. /  
+
+qy          B.6 utt1:  {D Well } do you keep up with the statistical stuff? /  
+
+nn          A.7 utt1:  No,  /
+sd^e          A.7 utt2: [ I don't, +  I don't ]  get into that too much,  /
+sd          A.7 utt3:  [ eve-, +  every ] once in a while, I will keep [ in, +  in ] touch, with maybe,  {D like } who's in the top five of hitting, or something like that  /
+sd          A.7 utt4: {C but } I don't get into,  {D you know, } how many errors somebody has or things like that. /  
+
+sd          B.8 utt1:  {D Well } [ there's, +  there's ] a guy [ on, +   that was on ]  ((   ))  show that I listen to going to work in the morning --   
+
+b          A.9 utt1:  Uh-huh. /  
+
++          B.10 utt1:  -- who does, {F uh, } {F uh, } - /
+sd          B.10 utt2:  it's essentially trivial statistics -- /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+%          B.12 utt1:  -- {C but } they've got  a st-, - /
+sd          B.12 utt2: it's a statistic  that has to do with winning and  losing one run games. /  
+
+ba          A.13 utt1:  I've heard of that one. /  
+
+sd          B.14 utt1:  {C And } apparently the Rangers  last year, won a lot of one run games. /  
+
+ba          A.15 utt1:  {D Well } I didn't know that,  /
+ba          A.15 utt2:  that's supposed to be a real good statistic, {F uh. } /  
+
+aa          B.16 utt1:  {D Well, } [ [ it, + it, ] + it ]  is  /
+sd          B.16 utt2: {C but }   [ it's the, +  [ it's, +  it's   a ] ] reverse indicator. /  
+
+aa          A.17 utt1:  {D Well } that's true,  /
+sv          A.17 utt2:  they don't have the offense [ to, + {F uh, } to ]  get out, or to have [ the, +  the ] more runs,  /
+%          A.17 utt3: {C so. } -/  
+
+%          B.18 utt1:  {D Well } [ what the, + what the ]  argument is  /
+%          B.18 utt2: {C and } [ [ [ it, + it, ] +  it, ] +  it's ] one of these statistical, - /
+qw          B.18 utt3: gee,   how can you draw a conclusion from it,  /
+sd          B.18 utt4: {C but } they find    that,  [ [ tha-, +  tha-, ] +  there's ] a connection  between that and how they do in Spring training the following year. /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sv          B.20 utt1:  {C And, } {F uh, } [ it's +  strangely enough,   it's ] almost like the law of averages catches you on the following year. /  
+
+b          A.21 utt1:  {F Huh. } /  
+
+sv          B.22 utt1:  Which means that if you have a  good year winning [ one ru-, +  one run ] games that the following year, you'll have a bad year.  /
+sd          B.22 utt2:  {C And } [ [ they, +  they've  got, ] +  {F um, } they've ] looked at I think twenty-three teams, {F uh, }  /
+sd          B.22 utt3:  [ {C and, } +  {C and, } ] the, {F uh, } statistics are something like twenty-one out  of twenty-three.  /
+%          B.22 utt4: It was,  /
+sv          B.22 utt5: which means the Rangers are going to have a terrible year,  /
+%          B.22 utt6:   I, {F uh, } -/  
+
+aap          A.23 utt1:  Which I was kind of leaning toward anyway,  to tell you the truth. /  
+
+%         B.24 utt1:  {D Well, } {E I  mean, }  {C and } it's, {F uh, } {F uh, } - /
+h          B.24 utt2: I don't know,  /
+qw          B.24 utt3:  [ what do you, +  what do you ] think of Incaviglia's loss. /  
+
+sv          A.25 utt1:  I kind [ of + ] think it was necessary,  /
+sd          A.25 utt2:  {E I mean, } [ [ [ [ I, +  i-, ] +  i-, ] +  I ]  don't, +  I'm not ] [ a, +  a ] big, {F um, } pure power hitter anyway.  /
+sd          A.25 utt3:   {E I mean, } I don't like these guys that get up there and swing for the downs every time.  /
+sv          A.25 utt4:   {E I mean, } {F uh, } I think [ that, + {F uh, } that ] a player ought to hit a home run if he's  got the pitch to do it,  /
+sv          A.25 utt5: {C but } when you get two strikes on you, [ you have a tend-, +   {D you know, } you should, {D you know, } shorten ] your swing a little bit, {D you know, }  /
+sv          A.25 utt6:  if it's a perfect shot, go for it,  /
+sv          A.25 utt7: {C but } {E I mean, } {D you know, } the  strike outs were a big problem for him,  /
+sd          A.25 utt8: [ {C and, } +  {F uh, } {C plus } ] supposedly what I heard, he was not  much of a team player anyway,  /
+%          A.25 utt9: {C so. } -/  
+
+sv          B.26 utt1:  {D Well } [ it, +  it's ] an interesting  concept, though, when you look at, {F uh, } [ of, +  of ] [ how baseball, +  how apparently, ] - /
+sd          B.26 utt2: I was  reading in the paper tonight that the Detroit Tigers are going to sign him.  /
+%          B.26 utt3:  [ {C And, } +  {F uh, } {C and } ] the point [ of, +  of, ] I guess, - /
+h          B.26 utt4:  I don't understand [ the, +  the ] strategy of how   baseball works,  /
+sd          B.26 utt5: {C but } it seems that, {D you know, } they can sign him tomorrow, /  
+
+b         A.27 utt1:  Uh-huh. /  
+
+sd          B.28 utt1:  {C and } he could go in the team the next day,  /
+sd          B.28 utt2:  [ [ {C and, } +  {C and, } ] +  {C and  } ] they put him in the lineup  /
+sd          B.28 utt3: {C and } he hits a home run  /
+sv          B.28 utt4:  {C and } all of a sudden he becomes a hero. /  
+
+aa          A.29 utt1:  Yeah,  /
+aa          A.29 utt2: {D well } that's true. /  
+
+sv          B.30 utt1:  [ {C And, } + {C and } ] all he has to  do is hit the ball,  /
+%          B.30 utt2: {E I mean, } you're not, a-, - /
+sv          B.30 utt3: {C and } all he has to do is one, {D you know, } hit it once.  /
+%          B.30 utt4:   It doesn't, - /
+sd          B.30 utt5: [ [ he can, +  he can  stri-, ] +  he can swing ] a couple times,  ((   ))  /
+sd          B.30 utt6:  if he  fouls it up he can swing as much as he can. /  
+
+b          A.31 utt1:  Right. /  
+
+sv          B.32 utt1:  It's [ an interesting, + {F uh, } an interesting ]  concept [ of, +  of ] how they do it.  /
+aa          B.32 utt2:  {C But } I agree with you  /
+sv          B.32 utt3: [ I think that, +  I think that's ]  part of what, {F uh, } baseball needs more of.  /
+sd          B.32 utt4: [ [ I, +  {F uh, } I, ] + I ]  guess what bothers me [ is, +  is ] that when you go, {F um, } you wait and wait and wait  /
+sd          B.32 utt5:  {C and } finally a guy gets up there and blasts a home run  /
+sv          B.32 utt6: {C and } that's all the game is.  /
+sv          B.32 utt7:  I'd rather see the ball hit around and have the people, -/  
+
+b          A.33 utt1:  Yeah,  /
+sd          A.33 utt2: {D well } [ there's, + there's ]  another point to that too.  /
+sd          A.33 utt3: They said [ [ the, + that ] +  {F um, } that ] he was horrible [ at, +   {F uh, } at ] batting [ with, +  with ] men on base.  /
+sd          A.33 utt4:  {D Now } having somebody get up and hit a solo home run  [ does you, +  {D you know, } gives you ]  run, obviously. /  
+
+aa          B.34 utt1:  Yes. /  
+
+sv          A.35 utt1:  {C But } {E I mean } if you can't do  it with men on base, there's something definitely wrong, {F um, } {D you know, }  /
+sv          A.35 utt2:  [ you, +  you've ] got to be able to get the two and  three run home runs, {D you know, } [ to, +  to ]  be able to, {F uh, } score enough runs to be able to win [ in these, +  {F uh, } in this ] day and age,  /
+%          A.35 utt3: {C so. } -/  
+
+b          B.36 utt1:  Yeah,  /
+qw          B.36 utt2: well how do you think the Royals are going to do? /  
+
+sv          A.37 utt1:  I think the Royals will do okay.  /
+sd          A.37 utt2:  [ They have, +  they have ] several pitchers that had badly years last year  /
+sd          A.37 utt3: {C and } [ they are, +   they're ] these, {F uh, } cycle pitchers,  /
+sd          A.37 utt4: [ they, +  they ] pitch one year bad,  one year good, one beer bad, one year good.  /
+sd          A.37 utt5:  Saberhagen has won, {F uh, } supposedly the Cy,  /
+sd          A.37 utt6:  I think he won Cy [ year, +  {F uh, } two out of three years, ]  /
+sv          A.37 utt7: [ {C and, } +  {F uh, } {D you know, } {C so } ]  he's very much due for a good year. /  
+
+qy          B.38 utt1:  {D Well } [ are they going to beat, +   are they going to beat ] Oakland? /  
+
+^h          A.39 utt1:  {D Well } {D now } {D see } that's a good question,  /
+no          A.39 utt2:   [ [ I, +  that's, ] +  I  don't ] know how Oakland's going to react to being, {F uh, } swept in  the World Series last year.  /
+sd          A.39 utt3:  They could very easily, {F uh, } take that as a challenge.    Which is the way most teams [ nat-, +  {D you know, } naturally ] do.    
+
+b          B.40 utt1:  Yeah. /  
+
++          A.41 utt1:  {F Uh, } [ and, +  and, ]  just go out and not give anybody a chance to beat them,  /
+%          A.41 utt2: {C so, } -/  
+
+sd          B.42 utt1:  {D Well } I go to Saint Louis from  time to time  /
+sd          B.42 utt2: {C and } [ I watch, +  [ I, +  I ] watch ] their sports up there  /
+sv          B.42 utt3: {C and } [ they're, +    
+
+b          A.43 utt1:  Uh-huh. /  
+
++          B.44 utt1:  {F uh, } they're ] certainly intense  about the Cardinals they, -/  
+
+aa          A.45 utt1:  {F Oh } yeah,  /
+sv          A.45 utt2: baseball [ is there, +  is there ]    life up there like football is down here I think. /  
+
+qy          B.46 utt1:  [ Y-, +  did you ] actually live in Saint Louis? /  
+
+sd          A.47 utt1:  I lived in the suburbs of Saint Louis,  /
+ny          A.47 utt2: yeah. /  
+
+qy^g          B.48 utt1:   [ Ye-, + ] everybody does, right. /  
+
+ny          A.49 utt1:  Yeah,  /
+aa          A.49 utt2: that's true too, <laughter>.  /
+sv          A.49 utt3:  I think that's all that they have. /  
+
+sd          B.50 utt1:  I had a friend from college that lives in, {F uh, } - /
+sd          B.50 utt2:  ((   ))  it's {D well, }  I should say on the west side,  /
+sv          B.50 utt3: {E I mean } everything's  on the west side.  /
+^h          B.50 utt4: Manchester? /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+sd          B.52 utt1:  {F Uh, } out that way, /  
+
+b          A.53 utt1:  {F Um. } /  
+
+sd          B.54 utt1:   {C and } I went and visited him,  /
+sv          B.54 utt2:  {C but } anyway, it is interesting.  /
+qw          B.54 utt3: {D Well } how are the Cardinals?  /
+qr          B.54 utt4: Do you still keep up with them,  or someth-, /  
+
+ny          A.55 utt1:  Yeah,  /
+ny          A.55 utt2: {F oh } yeah,  /
+sd^e          A.55 utt3: [ I, +  I ]  definitely do,  /
+sd          A.55 utt4: in fact I've got family that still lives up there.  /
+sd          A.55 utt5:  {F Um, } [ from +  what I hear from ]  everybody up there, they're not going to have a good year because they let too many people go.  /
+sd          A.55 utt6:   {C But } I've been following Spring training  /
+sd          A.55 utt7: {C and } they're {D like }  one of the best teams in spring training so far. /  
+
+qy          B.56 utt1:  {D Well } is that a good indicator? /  
+
+no          A.57 utt1:  [ That, +  {D well } it ] can be.  /
+sv          A.57 utt2:   [ It, +  it ] really kind of depends [ on, +  on, ] {F um, }  [ what they were, +  {D you know, } what they were ] looking for.  /
+sd          A.57 utt3:   In other words, [ if, +  if ] in Spring [ cra-, +  training ] they were looking at all  their kids, like a lot of them do, {F um, } then it really doesn't give you any indication.  /
+sd          A.57 utt4:   {C But } if they were, {F uh, } playing the people that they're going to play, then that might be pretty good indication,  /
+sd          A.57 utt5: {C so, } {D you know, } [ it's, +  it's ]  not a great indication because there have been teams that have just, {D you know, } come out  and just won all kinds of games in Spring [ crani-, +  training ] and  then gone on a, {D you know, } fourteen game losing streak in the first of the season  /
+%          A.57 utt6: {C so, } -/  
+
+%          B.58 utt1:  {D You know } what I think is remarkable is, {F uh, } - /
+sv          B.58 utt2:   it seems that what you really need to do to win though, is to have a team  that has reasonable talent and has some people that [ [ have, +  have, ] +  have ]  real breakthrough years. /  
+
+aa          A.59 utt1:  Exactly,  /
+aa          A.59 utt2: yeah. /  
+
+sv          B.60 utt1:  [ {C And, } + {C and } ]  the question is how do you forecast that, /  
+
+sv          A.61 utt1:  You can't. /  
+
+sv          B.62 utt1:  [ if you had to, +  if you had to ]  bet on who would be in the World Series, {E I mean } it would be really tough. /  
+
+aa          A.63 utt1:  Right,  /
+sv          A.63 utt2: [ th-, +  I think the ]  best thing that you can do is go with, {F um, } the players [ that are, +  that have ]  the talent to do the best years. And, {F um, } that they hadn't had these, {F uh, } gigantic,  {F uh, } career years yet [ and, +     
+
+b          B.64 utt1:  Yeah. /  
+
++          A.65 utt1:  and ] just kind of assume that, {D you know, }  [ so-, +  one ] of them is going to break through eventually,  /
+%          A.65 utt2: [ {C so. } + {C And } ]  [ I, +  I ] think they said the Reds, {F um, } - /
+sv          A.65 utt3: this last year, I'm not sure that they said that they had that many people having career years. /  
+
+b          B.66 utt1:  Yeah. /  
+
+sv          A.67 utt1:  {D You know, } [ {C and, } + {C and so } ]  they may be even [ be-, +  better ] this year. /  
+
+qw          B.68 utt1:  [ {D Well, } +  {D well } ] when are the  Rangers going to come through th-, -/  
+
+sd          A.69 utt1:  {F Uh, } that's a good question.  /
+%          A.69 utt2:   I, - /
+sv          A.69 utt3: the Rangers [ have a, +  have a ] pitching problem  /
+sv          A.69 utt4: {C and } whether or not they can fix that  or not is going to be an interesting question.  /
+sv          A.69 utt5:  They're doing the  right thing, though, {F uh, }  /
+sv          A.69 utt6: they are going with their farm system.  /
+sv          A.69 utt7:   They're letting their farm system, {F uh, } build up and stuff like that  /
+%          A.69 utt8: {C and, } -/  
+
+sd          B.70 utt1:  {D Well } is there enough money,  /
+sd          B.70 utt2:  that's part of it,  /
+%          B.70 utt3: I, {F uh, } - /
+sd          B.70 utt4: that was part of Skip Bayless' argument. /  
+
+b          A.71 utt1:  Uh-huh. /  
+
+qy^d          B.72 utt1:  I don't know if you read Skip Bayless, [ but -- + ]   
+
+nn          A.73 utt1:  No. /  
+
++          B.74 utt1:  -- [ a, +  a ] local commentary  /
+sd          B.74 utt2: {C and, }   
+
+b          A.75 utt1:  Uh-huh. /  
+
++          B.76 utt1:  his argument is that {F uh, } the  ownership is not inclined to lose big money long enough [ to, +  to ] bring in the big dollars. /  
+
+aap          A.77 utt1:  {F Um, } that's probably true. /  
+
+qy          B.78 utt1:  [ Would you, +  would you ] agree with that? /  
+
+na          A.79 utt1:  {D Well } considering what I've  seen in the last, {F uh, } {D you know, } two seasons, I'm beginning to agree with that,  /
+ny          A.79 utt2: yeah.  /
+sv          A.79 utt3:   {C But } {E I mean, } you don't have to spend the big money, as far as I'm concerned [ to, +   {F uh, } to ] win.  /
+sv          A.79 utt4:  You just have to spend it if it's necessary. /  
+
+b          B.80 utt1:  {F Uh. } /  
+
+sv          A.81 utt1:  In other words if you've got a  player on your team who's helping your team, then keep him there.  /
+sv          A.81 utt2:  Don't let him go away. /  
+
+b          B.82 utt1:  Yeah. /  
+
+sv          A.83 utt1:  {C And } I think that's really what's  been hurting, {F uh, } the, {F uh, } Rangers. /  
+
+qy          B.84 utt1:  {D Well } didn't Kansas City put up  quite a bit of money for their --   
+
+ny          A.85 utt1:  {F Oh } yeah,  /
+sd^e          A.85 utt2: [ they, +  they ] spent more money,   
+
++          B.86 utt1:  -- pitching  (( staff )) . /  
+
++          A.87 utt1:  last year than any other team [ in the, +   in the ] league  /
+sd          A.87 utt2: {C and } they were, {D you know, } toward the bottom of the league.  /
+sv          A.87 utt3: {F Uh, } {C  so } it's like I said spending money doesn't guarantee you, {F uh, } winning a pennant. /  
+
+b          B.88 utt1:  Yeah. /  
+
+sv          A.89 utt1:  It really doesn't,  /
+%          A.89 utt2: {C so. } -/  
+
+sv          B.90 utt1:  {D Well } {C and } [ that, +  I think that's ]  maybe part of it [ that, +  that ] the, {F um, } - /
+%          B.90 utt2: {C and } it, {D you know, } - /
+sv          B.90 utt3: if I owned the team.   I think you'd like them to do well  /
+sv          B.90 utt4: {C but } the question of losing [ big, +  big ] money that what,  [ [ did, +  did, ] +  did ] Steinbrenner actually make money on the, -/  
+
+o          A.91 utt1:  {F Uh, } you got me.  /
+sv          A.91 utt2:  [ I, +  {D you know, } I ]  think that there's coming to a point real soon when ticket prices are going to be to the point where the average fan can't go  /
+sv          A.91 utt3: {C and } once you do that,  you lose everything,  /
+%          A.91 utt4: {E I mean. } -/  
+
+sv          B.92 utt1:  {D Well } [ [ [ it's, + it, ] +  it, ] +    {D yeah, } it's ] a little bit like any other sport, {D you know. }  /
+sv          B.92 utt2:  When it starts costing you fifty  or a hundred dollars to go to a game -- -/  
+
+b          A.93 utt1:  Uh-huh. /  
+
+%          B.94 utt1:  -- {C and, } {F uh, } {D you know, } {E I mean, }  [ I, +  I ] guess as we get older, [ i-, +  you're ]  probably going, - /
+sd          B.94 utt2: [ [ if, +  if you, ] +  if you ]  compare to go to [ a, +  a ] sport,  [ a, +  a ] - /
+sd          B.94 utt3: {D say } you go to a rock concert,   
+
+b          A.95 utt1:  Uh-huh. /  
+
++          B.96 utt1:  [ or, +  or ] even a performance, [ a, +  an ]  opera or the symphony or something, {F uh, }  /
+%          B.96 utt2:  if, {D you know, } i-, - /
+qh          B.96 utt3: {C but } [ how, +  how ] often do you do that. /  
+
+b          A.97 utt1:  Right. /  
+
+%          B.98 utt1:  An - /
+sv          B.98 utt2: [ [ [ I, +  I, ] +  I would, ] +  I would ]  think baseball probably feeds on a number of people that can go out there, {D you know, } several times a, -/  
+
+aa          A.99 utt1:  [ That, + that's ] the whole point.  /
+sd          A.99 utt2:   There are so many games [ in, +  in ] a year that they've got to have repeat customers. /  
+
+b          B.100 utt1:  Yeah. /  
+
+sv          A.101 utt1:  They can't afford not to,  /
+sv          A.101 utt2:  {C and, } {D you know, } that's one of the things that I think Saint Louis has done, {F um, }  /
+%          A.101 utt3: {E I mean, }  /
+sv          A.101 utt4:  [ their, +  {D you know, } their ] ticket prices are, {D you know, } [ kin-, + ] I guess as high  as anybody else's  /
+%          A.101 utt5: {C but } [ what, +  somehow ] or  another they, attract, {F uh, } so many people  from, [ som-, + ] - /
+sd          A.101 utt6: {E I mean } [ they're a, +  it's a ] small market  /
+sd          A.101 utt7: {C and } yet they attract as  many if not more than [ most, +  {F uh, } {F uh, } most, ] other cities,  /
+%          A.101 utt8: {C so. } -/  
+
+b          B.102 utt1:  Yeah,  /
+qy          B.102 utt2: {C but } don't you think     [ there's a, +  [ there, +  there ] are ] older fans there.  /
+sd          B.102 utt3: [ I, +  I ] don't mean older, {F um, } {D you know, }  /
+%          B.102 utt4:  the fact [ that, +  that ] [ it's, +  it's ] a better established and that [ the, +  the ]  city [ [ is, +  is, ] +  is ] more, of a ... -/ 

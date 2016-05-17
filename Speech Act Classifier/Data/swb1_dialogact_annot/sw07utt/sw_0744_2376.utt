@@ -1,0 +1,550 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2376_1133_1064
+TOPIC#:		335
+DATE:		910402
+TRANSCRIBER:	CLC
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	5
+ECHO_FROM_A:	5
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.  
+
+============================================================================
+  
+
+%          A.1 utt1:  Now.  /
+fa          A.1 utt2: I'm sorry, /  
+
+sd          B.2 utt1:  Ready to go.  /
+%          B.2 utt2:  Okay. /  
+
+sd          A.3 utt1:  {E excuse me. }  {C And, } {F uh, } I do that,  /
+sd          A.3 utt2: we recycle, {F uh, } newspapers.  /
+sd          A.3 utt3:  We take, {D you know, }  the DALLAS MORNING NEWS daily,   
+
+b          B.4 utt1:  Right. /  
+
++          A.5 utt1:  and the Plano paper daily  /
+sd          A.5 utt2: {C and, } {D you know, }  after a month of that you got a ton,   
+
+b          B.6 utt1:  {F Oh, } /  
+
++          A.7 utt1:  of newspapers. /  
+
+sd          B.8 utt1:  I know it builds up really fast. /  
+
+aa          A.9 utt1:  It really does, /  
+
+b          B.10 utt1:  Yeah. /  
+
+sd          A.11 utt1:  I do recycle,    
+
+b          B.12 utt1:  Yeah. /  
+
++          A.13 utt1:  newspapers and, {F uh, } glass. /  
+
+b          B.14 utt1:  Uh-huh. /  
+
+sd          A.15 utt1:  We don't really have enough plastic to mess with,  /
+sd          A.15 utt2: [ we don't, + {D you know, } {D like } we don't ] drink milk  /
+sd          A.15 utt3: {C and } we don't have children  /
+sd          A.15 utt4: {C so } we don't have, {D you know, } six thousand plastic milk jugs,    
+
+b          B.16 utt1:  # Yeah,  /
+sd          B.16 utt2: we do, <laughter>. # /  
+
++          A.17 utt1:  # a month, {D you know. } # /  
+
+sd          B.18 utt1:  With [ two, + a two ] year old and a,   
+
+b          A.19 utt1:  Yeah. /  
+
++          B.20 utt1:  three year old  /
+sd          B.20 utt2: {C and, }   
+
+b          A.21 utt1:  Right. /  
+
++          B.22 utt1:  {C so } it really builds up with us. /  
+
+sd          A.23 utt1:  {C But } [ there is, + {D you know } there is ]  a place you can take those also {D you know } at the same place just put them in a different, {F uh, } container. /  
+
+b          B.24 utt1:  Yeah. /  
+
+sd          A.25 utt1:  {C And, } {F uh, } Plano has plans - /
+sd          A.25 utt2: I believe it's  tentatively scheduled for sometime in May of this year,  /
+sd           A.25 utt3: the city is going to leave, {F uh, }  receptacles at people's home. /  
+
+b          B.26 utt1:  # {F Oh, } yeah, # /  
+
+%          A.27 utt1:  # {C and } they ca-, # -/  
+
+sv          B.28 utt1:  That would be much more convenient. /  
+
+aa          A.29 utt1:  It,   
+
+b          B.30 utt1:  Yeah. /  
+
++          A.31 utt1:  certainly would  /
+sd          A.31 utt2: {C and } they can separate it  /
+sd           A.31 utt3: {C and then } the, {D you know, } trash guys will pick it up.    
+
+b          B.32 utt1:  Yeah. /  
+
++          A.33 utt1:  Which would really be handy, {D you know, }  for people like shut ins, or,    
+
+b          B.34 utt1:  Yeah. /  
+
++          A.35 utt1:  people who can't or don't drive, {D you know, } /  
+
+bf          B.36 utt1:  {C Or } it just builds up so often, /  
+
+sd          A.37 utt1:  they can't get to the these centers. /  
+
+aa          B.38 utt1:  Yeah. /  
+
+sv           A.39 utt1:  {C And } I'm sure rather than try to, {F uh, }  ask someone to take them for them they probably just pitch them, {D you know? } /  
+
+b          B.40 utt1:  Yeah,  /
+b^r          B.40 utt2: yeah. /  
+
+sv          A.41 utt1:  {C But } I think that's probably a good idea. /  
+
+sd          B.42 utt1:  They used to have several places, {F um, }  that were a little ways out in the community that did the paper and all, /  
+
+b          A.43 utt1:  # Uh-huh. # /  
+
+sd           B.44 utt1:  # {C and } they # stopped doing it because they said it wasn't profitable./  
+
+b          A.45 utt1:  Right. /  
+
+sd          B.46 utt1:  {C So } finally, {F um, } [ they, + ]  the people put so much pressure on the city, /  
+
+b          A.47 utt1:  Uh-huh. /  
+
+sd          B.48 utt1:  they did a survey of everybody, /  
+
+b          A.49 utt1:  Uh-huh. /  
+
+sd          B.50 utt1:  {C and } they took a big huge bin that has paper and plastic, {F um, }   
+
+x          A.51 utt1:  <Noise>.   
+
++          B.52 utt1:  and put it in front of the Wal-Mart store in town, /  
+
+b          A.53 utt1:  Uh-huh. /  
+
+sd          B.54 utt1:  {C and } [ [ th-, + they, ] + it ]  just really, - /
+sd          B.54 utt2: [ [ e-, + e-, ] + every ]  time you went by there it was just over flowing,/  
+
+aa          A.55 utt1:  # That's right. # /  
+
+sd          B.56 utt1:  # {C and so } Wal-Mart # complained <laughter>, /  
+
+b          A.57 utt1:  Uh-huh,  /
+b          A.57 utt2: yes. /  
+
+sd          B.58 utt1:  {C so } they moved it behind the store  /
+sd          B.58 utt2: {C and }  nobody knew where it was, /  
+
+b          A.59 utt1:  Yeah. /  
+
+sd           B.60 utt1:  {C and so } people kept piling stuff in the same place,   
+
+b          A.61 utt1:  Uh-huh. /  
+
++          B.62 utt1:  where it used to be. /  
+
+ba          A.63 utt1:  Great <laughter>. /  
+
+sd          B.64 utt1:  {F Oh, } it was just like a dump there, /  
+
+ba          A.65 utt1:  I # bet it was. # /  
+
+sd          B.66 utt1:  # {C and so } finally, # {D you know, }  I called  /
+sd          B.66 utt2: {C and } [ the-, + they ] said, {D you know, } it was behind there  /
+sd          B.66 utt3: {C and } I started taking my things behind there. /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sd          B.68 utt1:  {C So } we do that [ with, + ]  because we have milk cartons, {D you know, } constantly,   
+
+b          A.69 utt1:  Uh-huh. /  
+
++          B.70 utt1:  with two little kids,   
+
+b          A.71 utt1:  Sure. /  
+
++          B.72 utt1:  and the paper,  /
+sd          B.72 utt2: {C but } it just builds up, /  
+
+b          A.73 utt1:  # Uh-huh. # /  
+
+sd          B.74 utt1:  # it would be # so nice if they had it,  {D you know } at your home,   
+
+b          A.75 utt1:  Uh-huh. /  
+
++           B.76 utt1:  where you could just turn it in so [ they, + they ]  final had enough of a response that they decided to try a small target area <lipsmack>,   
+
+b          A.77 utt1:  Uh-huh. /  
+
++          B.78 utt1:  in one neighborhood, /  
+
+b          A.79 utt1:  Right. /  
+
+sd          B.80 utt1:  {C and } they have pickup there,  /
+sd          B.80 utt2: it's,  {F uh, } I think once or twice a week. /  
+
+b          A.81 utt1:  Uh-huh. /  
+
+sd          B.82 utt1:  {C And } the first couple weeks they did it nobody got their stuff out  /
+sd          B.82 utt2: {C so } they had not much participation,  /
+sd          B.82 utt3: {C and } they were going to cancel it, /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  {C but } then finally people started getting the message. /  
+
+b          A.85 utt1:  Yeah.  /
+sv          A.85 utt2:  It's just a matter of education, I think. /  
+
+aa          B.86 utt1:  Yeah,  /
+sd          B.86 utt2: {C and } I think that, {D you know, } if they can get enough going,   
+
+b          A.87 utt1:  Uh-huh. /  
+
++          B.88 utt1:  they'll continue it, {D you know, } throughout the rest of  the city  /
+%          B.88 utt2: {C but } it's not, - /
+sv          B.88 utt3: I think originally people thought it would be profitable for cities to do this, /  
+
+b          A.89 utt1:  Uh-huh. /  
+
+sv          B.90 utt1:  {C and } it's not going to be, /  
+
+b          A.91 utt1:  Yeah, /  
+
+sv          B.92 utt1:  I don't think <laughter>. /  
+
+aa          A.93 utt1:  yeah,  /
+aa          A.93 utt2: that's right. /  
+
+b          B.94 utt1:  Yeah. /  
+
+sv          A.95 utt1:  I think basically it's a good idea, {D you know, }  /
+sd          A.95 utt2:  I hope it works. /  
+
+aa          B.96 utt1:  Yeah,  /
+sv           B.96 utt2: I do to because it's amazing, how much, {D you know, } trash,   
+
+aa          A.97 utt1:  # Absolutely. # /  
+
++          B.98 utt1:  # we can generate, # /  
+
+aa^r          A.99 utt1:  absolutely. /  
+
+sd          B.100 utt1:  I know this year we took our Christmas tree - /
+sd          B.100 utt2: they had a place,   
+
+b          A.101 utt1:  Right. /  
+
++          B.102 utt1:  in the park where you could go have your tree shredded  /
+sd           B.102 utt2: {C and } they gave you a little, {F um, } seedling to plant,   
+
+b          A.103 utt1:  Uh-huh. /  
+
++          B.104 utt1:  {D you know } <laughter>, /  
+
+b          A.105 utt1:  Right. /  
+
+sd          B.106 utt1:  you could take [ the, + the ]  mulch home with you, {D you know, } and take buckets of that home, /  
+
+b          A.107 utt1:  Uh-huh. /  
+
+sv          B.108 utt1:  {C so } that was really good idea, /  
+
+b          A.109 utt1:  Sure. /  
+
+sd          B.110 utt1:  I thought. /  
+
+aa          A.111 utt1:  Absolutely.  /
+sd          A.111 utt2: {C And } there's just, {D you know, }  the two of us my wife and I  /
+sd          A.111 utt3: {C and } it's amazing how much stuff [ j-, + just ]  the two of us generate, /  
+
+b          B.112 utt1:  Yeah  /
+x          B.112 utt2: <noise>.   
+
+sd           A.113 utt1:  {D you know, } I can imagine a family of, {D you know, }  four or five. /  
+
+aa          B.114 utt1:  {F Oh, } yeah  /
+%          B.114 utt2: it's really, - /
+sv          B.114 utt3: it adds up so fast. /  
+
+aa          A.115 utt1:  It really does. /  
+
+b          B.116 utt1:  Yeah. /  
+
+sd          A.117 utt1:  As far as new stuff to recycle, {D you know, }  [ I don't really, + I don't really ] know,  /
+sd          A.117 utt2: I really hadn't thought about it to tell you the truth. /  
+
+b          B.118 utt1:  Yeah.  /
+sd          B.118 utt2:  {D Well, } <lipsmack> they're working on diapers,    
+
+aa          A.119 utt1:  That's right,  /
+%          A.119 utt2: I was, -/  
+
++          B.120 utt1:  which would be great, /  
+
+b          A.121 utt1:  Uh-huh. /  
+
+sd          B.122 utt1:  I've read so many different things about  diapers  /
+sd          B.122 utt2: {C and } now their saying that [ e-, + ]  originally they thought the disposables were just awful, /  
+
+b          A.123 utt1:  Uh-huh. /  
+
+sd           B.124 utt1:  {C but } now their saying that they're, [ ther-, + ] really not that much in comparison to the others because you don't have to use the  water to wash them,    
+
+aa          A.125 utt1:  That's right. /  
+
++          B.126 utt1:  and, {D you know, } all different kinds of things too,  /
+sd          B.126 utt2:  {C so } <lipsmack> [ th-, + the ] diaper service,  trucks - /
+sd          B.126 utt3: apparently the fuel that they use and the fumes that they produce to deliver,   
+
+b          A.127 utt1:  Uh-huh. /  
+
++          B.128 utt1:  and drop those off <laughter>. /  
+
+b          A.129 utt1:  Yeah. /  
+
+sd          B.130 utt1:  {C So } I don't know what's the, {D you know, }  right thing to do  /
+sd          B.130 utt2: {C but } I really would hope that they would come up.  /
+sd          B.130 utt3:   I know there was a brand just briefly on the market that was recyclable <noise>, /  
+
+b          A.131 utt1:  Uh-huh. /  
+
+sd          B.132 utt1:  {C but } the landfill have to do something  special, {D you know, } for those, /  
+
+b          A.133 utt1:  I see. /  
+
+sd          B.134 utt1:  {C but } that just generates a tremendous of #  volume <noise> of trash too,  /
+%          B.134 utt2: {C so, } # -/  
+
+aa          A.135 utt1:  # {F Oh, } I'm sure it must. #  /
+%          A.135 utt2: Yes,  /
+sd          A.135 utt3: {D you know }  I'm not personally involved because [ I don't, + {D you know, } I don't ]  have any [ s-, + ] children that wear diapers, /  
+
+b          B.136 utt1:  Yeah. /  
+
+sd          A.137 utt1:  {C but } I'm sure it creates a large amount of, {D you know, }   
+
+aa          B.138 utt1:  # It does, # /  
+
++          A.139 utt1:  # {F uh, } refuse. # /  
+
+sv          B.140 utt1:  {C and } you just feel guilty if you don't <laughter> do,   
+
+aa          A.141 utt1:  That's right . /  
+
++          B.142 utt1:  something with them, {D you know, } /  
+
+aa          A.143 utt1:  That's right. /  
+
+sv          B.144 utt1:   because you hate to contribute to the problem, /  
+
+aa          A.145 utt1:  Absolutely. /  
+
+sv          B.146 utt1:  {C but } on the on the other hand the alternatives aren't to great either <laughter>. /  
+
+aa          A.147 utt1:  That's right,  /
+aa          A.147 utt2: absolutely, /  
+
+x          B.148 utt1:  <Laughter>.   
+
+aa^r          A.149 utt1:  absolutely. /  
+
+b          B.150 utt1:  Yeah,  /
+sd          B.150 utt2: I don't know what else they could recycle more of./
+sd          B.150 utt3:  I guess we don't really use that many tin cans.  /
+sd          B.150 utt4:  I guess there's some  places where you can recycle aluminum  /
+sd          B.150 utt5: {C but } I don't know about  {D like } cans that you keep vegetables and stuff,   
+
+b          A.151 utt1:  Uh-huh. /  
+
++          B.152 utt1:  in,  /
+sd          B.152 utt2: I don't know if those are recyclable  /
+%          B.152 utt3: {C or, } -/  
+
+sd          A.153 utt1:  I think they're made out of aluminum, /  
+
+%          B.154 utt1:  {F Um. } /  
+
+aa          A.155 utt1:  Yes.  /
+sd          A.155 utt2:  [ There are, + there is ]  a receptacle, {D you know, } at the centers also for aluminum, /  
+
+b          B.156 utt1:  Yeah. /  
+
+sd          A.157 utt1:  {C but } again [ we don't, + we don't ]  generate that much  /
+%          A.157 utt2: {C so, } -/  
+
+b          B.158 utt1:  Yeah, /  
+
+sd          A.159 utt1:  we don't, /  
+
+sd          B.160 utt1:  we don't either, /  
+
+b          A.161 utt1:  Yeah. /  
+
+sd          B.162 utt1:  we usually use frozen vegetables and things  /
+sd          B.162 utt2:  {C so } we don't really have,   
+
+aa          A.163 utt1:  That's right. /  
+
++          B.164 utt1:  much of that. /  
+
+b^m          A.165 utt1:  that, - /
+sd          A.165 utt2:  ninety-nine percent of ours is newspaper   {C and, } {F uh, } {D you know, } {F uh, } glass. /  
+
+b          B.166 utt1:  Yeah.  /
+sd          B.166 utt2:  {D Well, } now when we lived out in California they actually had places where you could recycle if you change the oil in your car,   
+
+b          A.167 utt1:  Uh-huh. /  
+
++          B.168 utt1:  or for aerosol cans and things,   
+
+b          A.169 utt1:  Uh-huh. /  
+
++          B.170 utt1:  like that because they say it's not safe to put those things,   
+
+aa          A.171 utt1:  That's right. /  
+
++          B.172 utt1:  in the regular trash <noise>. /  
+
+sd          A.173 utt1:  Car batteries. /  
+
+b          B.174 utt1:  Yeah  /
+x          B.174 utt2: <noise>.   
+
+b          A.175 utt1:  Uh-huh. /  
+
+b          B.176 utt1:  Yeah. /  
+
+sd          A.177 utt1:  [ I don't, + {D you know } I don't ] change my own oil, /  
+
+x          B.178 utt1:  <Noise>.    
+
+sd          A.179 utt1:  {C so } [ I don't, + I don't, ] {F uh, }   don't have that problem. /  
+
+b          B.180 utt1:  Yeah.  /
+b^r          B.180 utt2:  Yeah,  /
+sd          B.180 utt3: {D well } other than that I'm not really sure, /  
+
+b          A.181 utt1:  Yeah. /  
+
+sd          B.182 utt1:  [ we, + we ] try to recycle old clothes <laughter>. /  
+
+b          A.183 utt1:  Uh-huh.  /
+b          A.183 utt2:  Yeah,  /
+sd*         A.183 utt3: {D well } we do to as a matter of fact. /   *[[typo too]]
+
+sd          B.184 utt1:  Our church has a # place, #   
+
+b          A.185 utt1:  # Right. # /  
+
++          B.186 utt1:  where you can take them  /
+sd          B.186 utt2: {C and } they, {D you know, }  pass them on to,   
+
+b          A.187 utt1:  Yeah. /  
+
++          B.188 utt1:  other families,  /
+%          B.188 utt2: {C so. } -/  
+
+b          A.189 utt1:  Yes  /
+sd          A.189 utt2: we have one of those in town.  /
+%          A.189 utt3:  Uh-huh. /  
+
+b          B.190 utt1:  Yeah,  /
+b^r          B.190 utt2: yeah. /  
+
+sd          A.191 utt1:  {D You know, } our church each year has a, - /
+sd          A.191 utt2: one of their major fund raisers is, {D you know, } a garage sale. /  
+
+b          B.192 utt1:  Oh. /  
+
+sd          A.193 utt1:  {C And } there's a ton of clothes always,  {D you know } left over  /
+sd          A.193 utt2: {C and } I take those down to the, - /
+sd          A.193 utt3: <lipsmack> {F uh, } it's called the Clothes Closet, /  
+
+b          B.194 utt1:  Uh-huh. /  
+
+sd          A.195 utt1:  that's what it's called here in Plano. /  
+
+bf@         B.196 utt1:  Kind of like a Goodwill, / *[[should this really be the end of a slash unit?  B's next utterance is left hanging as a result]] 
+
+aa          A.197 utt1:  Right. /  
+
+bf@          B.198 utt1:  kind of place. /  *[[or is just a '+' if previous B utterance is "de-slashed"]]
+
+aa          A.199 utt1:  Uh-huh. /  
+
+b          B.200 utt1:  Yeah. /  
+
+sd          A.201 utt1:  {C And } they distribute them to the people,   
+
+b          B.202 utt1:  Yeah. /  
+
++          A.203 utt1:  that need them. /  
+
+b          B.204 utt1:  Yeah.  /
+b^r          B.204 utt2:  Yeah  /
+sv          B.204 utt3: [ that's, + that's ] real helpful,   
+
+b          A.205 utt1:  Uh-huh. /  
+
++          B.206 utt1:  too. /  
+
+b          A.207 utt1:  Yeah. /  
+
+sd          B.208 utt1:  {D Well, } I'm not sure I can't really think of anything else that we could recycle. /  
+
+aa          A.209 utt1:  No,  /
+sd          A.209 utt2: I can't either <breathing>, /  
+
+b          B.210 utt1:  Yeah. /  
+
+sd^r          A.211 utt1:  I really can't,  /
+%          A.211 utt2: {F um, } no,  /
+sd^r          A.211 utt3: [ I, + I ]  really can't either. /  
+
+b          B.212 utt1:  Okay. /  
+
+b          A.213 utt1:  Okay,  /
+fc          A.213 utt2: {D well, } it was nice talking to you. /  
+
+fc          B.214 utt1:  You to.  /
+fc          B.214 utt2: Take,   
+
+fc          A.215 utt1:  Okay. /  
+
++          B.216 utt1:  care. /  
+
+fc          A.217 utt1:  All right.  /
+fc          A.217 utt2: # Bye-bye. # /  
+
+fc          B.218 utt1:  # Bye-bye. # <Noise> <<phone receiver>> <noise> <<water running>>. / 

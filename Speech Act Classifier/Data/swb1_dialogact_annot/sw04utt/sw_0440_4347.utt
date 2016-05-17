@@ -1,0 +1,273 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4347_1533_1567
+TOPIC#:		366
+DATE:		920323
+TRANSCRIBER:	glp
+UTT_CODER:		AEE
+DIFFICULTY:	3
+TOPICALITY:	4
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+o          B.1 utt1:  Okay,  /
+qw          B.1 utt2: {C so } what kind of luck you been having with buying and returning products? /  
+
+sd          @A.2 utt1:  {F Uh, } not too bad really.  /
+sd          @A.2 utt2:  {F Uh, } I had a razor that I got from Christmas that [ I just, + I really ] didn't want it,  /
+sd          @A.2 utt3: {C but } I got it anyway  /
+sd          @A.2 utt4: {C and, }  {F uh, } it was a Braun  /
+sd          @A.2 utt5: {C and } they were real good about taking it back.  /
+sd          @A.2 utt6: It wasn't a problem at all,  /
+sd          @A.2 utt7: {C so, } {F uh, } I was able to get that back pretty easily. /  
+
+b          B.3 utt1:  Uh-huh. /  
+
+h          A.4 utt1:  {C But, }  {F uh, } I don't know,  /
+sd          A.4 utt2: I really haven't returned a whole lot lately.  /
+qy          A.4 utt3:  Have you? /  
+
+ng          B.5 utt1:  I haven't had to.   /
+%          B.5 utt2: It's, {F uh, } the, - /
+%          B.5 utt3: every so often, - /
+sd          B.5 utt4: {E I mean, } [ [ I, + I, ] + I'm ] almost pushing it myself.  /
+sd          B.5 utt5: Maybe I'll buy a shirt from G I Joe's  /
+sd          B.5 utt6: {C and } it shrinks too much  /
+sd(^q)          B.5 utt7: {C and } {D say, } {D well, } I should have known better,  /
+sd          B.5 utt8: {E I mean, } I bought it from G I Joe's -- /  
+
+b          A.6 utt1:  {F Um. } /  
+
+sv          B.7 utt1:  -- {C and } it was probably made in China by slaves. /  
+
+b          A.8 utt1:  Right <laughter>. /  
+
+%          B.9 utt1:  {C But, }  {F uh, } they, {F uh, } - /
+sd          B.9 utt2: most of the time  ((   ))  {A pretty careful shopping anyway, }  I get pretty good stuff. /  
+
+b          A.10 utt1:  Yeah. /  
+
+sv          B.11 utt1:  I think that, {F uh, } aside from the fact  (( all ))  markets being internationalized -- /  
+
+aa          A.12 utt1:  Right  /
+%          A.12 utt2: like, -/  
+
+sv          B.13 utt1:  -- {C and } if you want to buy American <laughter>, it takes real extra work to find. /  
+
+aa          A.14 utt1:  Exactly. /  
+
+sv          B.15 utt1:  It's probably --   
+
+%          A.16 utt1:  I was reading, -/  
+
++          B.17 utt1:  -- a Japanese  or a Burmese company owning and hiring people in the U S <laughter>. /  
+
+aa          A.18 utt1:  Right,  /
+sd          A.18 utt2: I was reading something in, {F uh, } CONSUMER REPORTS tonight about that as a matter of fact.  /
+sd          A.18 utt3:  They were talking about cars, {F uh, }  {A the car issue just came out. }    
+
+b          B.19 utt1:  Uh-huh. /  
+
++          A.20 utt1:  And about how, {D yeah, } you'd like to buy an American car maybe  /
+sd          A.20 utt2: {C but, }  {F uh, } {D you know, } the transmission may be made in Japan or whatever. /  
+
+b          B.21 utt1:  Yeah. /  
+
+sd          A.22 utt1:  {F Uh, } {D like } I've got an eighty-six Ford Ranger  /
+sd          A.22 utt2: [ {C and, } +  {C and } ]  I know for a fact that the transmission is made by Mitsubishi. /  
+
+b          B.23 utt1:  {F Huh. } /  
+
+qh          A.24 utt1:  {D You know, } {C so } it's like, what are you going to do, {D you know? } /  
+
+aa          B.25 utt1:  Yeah,  /
+aa          B.25 utt2: really. /  
+
+sv          A.26 utt1:  {C But, }  {F uh, } that's the way it is.  /
+h          A.26 utt2: I don't know,  /
+sv          A.26 utt3: [ I, + I ] personally feel that, {F uh, } {F uh, } if the Japanese cars are better  and Americans buy them, {D you know, } that's the way it goes  /
+sv          A.26 utt4: {C and, } {D you know, } people, [ man-, + ] more than manufacturers should get a clue  /
+sv          A.26 utt5: {C and, } {D you know, } they should start making quality products. /  
+
+aa          B.27 utt1:  Yeah,  /
+sv          B.27 utt2: I think they're beginning to.  /
+sv          B.27 utt3: [  The, + the ] days of don't buy a car made on a Monday or a Friday are pretty much going away  /
+%          B.27 utt4: {C and, } -/  
+
+sd          A.28 utt1:  That's what I thought, too, until I saw the CONSUMER REPORTS issue. /  
+
+b          B.29 utt1:  Uh-huh. /  
+
+sd          A.30 utt1:  {F Uh, } they've got [  all  the American, + {D well, } [ all the,  + all the ] cars ] rated, {D you know, }  /
+sv          A.30 utt2: {C and, }  {F uh, } essentially, [ I h-, + I don't ]  see much of a trend.  /
+sv          A.30 utt3:  {E I mean, } just like every other time that you look at  it, the Honda Accords  and the Civics are right up there.   /
+sv          A.30 utt4: There's nothing wrong with them.  {F Uh, }  and the same thing with most of the other Japanese cars.  /
+sv          A.30 utt5:  {C But then } again you look at a Ford or  especially a Chevy  /
+sv          A.30 utt6: {C and } they're pieces of junk. /  
+
+aa          B.31 utt1:  I know.  /
+aa          B.31 utt2: Still at it, hey. /  
+
+b          A.32 utt1:  Yeah,  /
+sd          A.32 utt2: [ that's ninety, + that's eighty-six ] through ninety-one. /  
+
+ba          B.33 utt1:  Wow. /  
+
+h          A.34 utt1:  {C But, }  {F uh, } I don't know,  /
+sv          A.34 utt2: [ may-, + maybe ] they're getting better,  /
+sv          A.34 utt3: maybe they're starting to get a clue.  {F Uh, } /  
+
+sd          B.35 utt1:  {D Well, } they got a three year lead time.  /
+sv          B.35 utt2:  It probably won't start really showing up until ninety-four or so <laughter>. /  
+
+aa          A.36 utt1:  Yeah,  /
+aa          A.36 utt2: that's just it.  /
+sv          A.36 utt3: Technology that comes in right now [ is, + is ] probably not going to be [ imple-, + implemented ] until, {D you know, } quite a few years down the road.  /
+%          A.36 utt4: {C But, }  {F uh, } -/  
+
+sv          B.37 utt1:  The computer industry's where it's really dynamic especially for the consumer. /  
+
+aa          A.38 utt1:  {F Oh, } yeah.  /
+aa^r          A.38 utt2:  Yeah,  /
+sv          A.38 utt3: because technology is so, {F uh, } {D you know, } volatile and  changing all the time. /  
+
+qh          B.39 utt1:  {C And } can you --   
+
+b          A.40 utt1:  {F Uh, } /  
+
++          B.41 utt1:  -- think of any other industry where in software they, - /
+sv          B.41 utt2: if the product is upgraded and a better version is put out, you'll get a free version in the mail s-,  ((   )) . -/  
+
+b          A.42 utt1:  Yeah. /  
+
+sv(^q)          B.43 utt1:  {C Or, }  {F uh, } maybe I say, {D well, } {D you know, } you paid five hundred bucks for this program, so send us twenty  and we'll give you a really great upgrade. /  
+
+b          A.44 utt1:  <Laughter> Yeah. /  
+
+x          B.45 utt1:  <Laughter>.   
+
+%          A.46 utt1:  It, - /
+sv          A.46 utt2: {D uh, } [ th-, + they  ] keep up [ c-, + ] with it pretty quickly  /
+sv          A.46 utt3: {C and } [ that's, + that's ] a real good thing, I guess. /  
+
+b          B.47 utt1:  Yeah. /  
+
+h          A.48 utt1:  {F Uh, } I don't know. /  
+
+sv          B.49 utt1:  {C And } [ the hardware, + {D well, } {E I mean, } all the chips that make up the hardware ] are a commodity  /
+sv          B.49 utt2: {C and } the MacIntosh is about the only one that's going right --   
+
+b          A.50 utt1:  Yeah. /  
+
++          B.51 utt1:  -- forcing I B M and the rest of the D O S world to follow along. /  
+
+aa          A.52 utt1:  Right,  /
+sv          A.52 utt2: they're kind of the leaders right now, {D you know. }  /
+sd          A.52 utt3: I used to see all those commercials for Windows, {D you know, }  /
+sv(^q)          A.52 utt4: {C and } you're like,    
+
+x          B.53 utt1:  <Laughter>.   
+
++          A.54 utt1:  {F oh, } gee, they're reselling a MacIntosh under a different name. /  
+
+aa          B.55 utt1:  Really,  /
+qh          B.55 utt2: why don't they just say, almost a Mac for half the price. /  
+
+b          A.56 utt1:  Yeah, {D you know. } /  
+
+sv          B.57 utt1:  They'd sell more if they were honest. /  
+
+aa          A.58 utt1:  Exactly,  /
+sv          A.58 utt2: almost is the key word, there, too, {D you know, } because [ [ I, + I ] really, + I've ] used both  /
+sv          A.58 utt3: {C and } I really don't see an advantage of Windows at all. /  
+
+sv          B.59 utt1:  Yeah, [ it -- +   
+
+b          A.60 utt1:  {F Uh, } /  
+
++          B.61 utt1:  -- it's ] only an advantage for people who had to use pure D O S.    
+
+aa          A.62 utt1: [ Yeah, + yeah ] that's true, too. /  
+
++          B.63 utt1:   ((   ))  base. /  
+
+h          A.64 utt1:  {C But, }  {F uh, } I don't know,  /
+sd          A.64 utt2: [ I'm really, + I've ] gotten a little bit out of [ the, + the ] personal computer business just because I don't have one at home.  /
+sd          A.64 utt3: [  I, + I ] do use a Mac at work  /
+sd          A.64 utt4: {C but, }  {F uh } --   
+
+b          B.65 utt1:  Uh-huh. /  
+
++          A.66 utt1: -- {F uh, } I really [ don't, + don't ] do much with it at home  /
+%          A.66 utt2: {C but, }  {F uh, } -/  
+
+sv          B.67 utt1:  Apple's sort of making a s-, - /
+sv          B.67 utt2: (( {C and } they're ones were )) - /
+sv          B.67 utt3: growling consumer, {F uh, } need to worry about the Mac they're getting, - /
+sd          B.67 utt4: {D like } if you bought a power book straight off, a lot of them had to go back.  /
+sd          B.67 utt5:  They issued a recall because of improper shielding or possibly other problems with --   
+
+b          A.68 utt1:  Right. /  
+
++          B.69 utt1:  -- floppy drive. /  
+
+aa          A.70 utt1:  Uh-huh.  /
+aa          A.70 utt2: Yeah,  /
+qy^d          A.70 utt3: you sound like you must, {F uh, } work in the computer business. /  
+
+ny          B.71 utt1:  Yeah,  /
+sd^e          B.71 utt2: I have one,  /
+sd          B.71 utt3: I do desktop publishing at work  /
+sd          B.71 utt4: {C and } I have a machine at home  /
+sd          B.71 utt5: {C and } I belong to the user's group  /
+sd          B.71 utt6: {C and } [ I, + I've ] been a Mac fanatic since they came out. /  
+
+bh          A.72 utt1:  Yeah?  /
+%          A.72 utt2: All right. /  
+
+sd          B.73 utt1:  {C But, }  {F uh, } technically, I'm not actually in the  industry.  /
+sd          B.73 utt2: I don't work a computer company. /  
+
+bh          A.74 utt1:  No? /  
+
+sd          B.75 utt1:  I'm an abuser. /  
+
+ba          A.76 utt1:  {D Well, } [ that's, + that's ] all right. /  
+
+sv          B.77 utt1:  {C But } it's sort of like surfing on the wave of future shock to --   
+
+aa          A.78 utt1:  Yeah,  /
+aa          A.78 utt2: that's true. /  
+
++          B.79 utt1:  -- {D you know, } keep up with the changes as they happen. /  
+
+sv          A.80 utt1:  Something that I find uncomfortable is, {D you know, } [ you, + you ] want to buy something,  say you want to buy a personal computer  /
+sv          A.80 utt2: {C and } you got to think about what kind of memory you want to get and what kind of technology that you want to go for, {D you know, }  /
+sd          A.80 utt3: [ let, + let's ] take the example, the modem for, {D you know, } -/  
+
+b          B.81 utt1:  Yeah. /  
+
+b          A.82 utt1:  Okay,  /
+qh          A.82 utt2: [ [ w-, + w-, ] + what ] baud rate do you get?  /
+sd          A.82 utt3: {D Well, } {D you know, } it used to be that you get a twelve hundred ba-, -/ 

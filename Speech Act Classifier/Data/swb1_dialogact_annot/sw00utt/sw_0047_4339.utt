@@ -1,0 +1,204 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4339_1539_1558
+TOPIC#:		320
+DATE:		920323
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	3
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+o          A.1 utt1: Yeah,  /
+sd          A.1 utt2: Jonathan, {F uh, } [ you s-, + you say ] it's near and dear to your heart.  /
+qy^d          A.1 utt3: Buying a car is, {F uh, } something you're contemplating, I take it. /  
+
+na          @B.2 utt1: {F Uh, } fantasizing about. /  
+
+%          A.3 utt1:  {F Uh. }  /  
+
+sd          B.4 utt1: Can't do it right now.  /
+sd          B.4 utt2: Our situation is that we're a two car family -- /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1: -- {C and } I have a mini van we bought a few years ago. /  
+
+%          A.7 utt1:  {F Uh } <<faint>>. /  
+
+sd          B.8 utt1: It's got a, {F uh, } five year loan,  /
+sd          B.8 utt2: {C so } that's still got a couple years to run -- /  
+
+b          A.9 utt1:  Uh-huh.  /  
+
+sd          B.10 utt1: -- {C and } the car I get to drive is a, {F uh, } Nissan Sentra that's going to be ten years old next month  /
+sd          B.10 utt2: {C so, }   
+
+ba@          A.11 utt1:  {F Wow } <laughter>.     
+
++          B.12 utt1:  I think --   
+
++@          A.13 utt1:  ((They get)), -/  
+
++          B.14 utt1:  -- about, {F uh, } sprucing that up in a couple years if I can. /  
+
+b          A.15 utt1: Uh-huh.  /
+qw          A.15 utt2: [ What do you think you'll, + {F uh, } what kind of a car do you think you'll ] buy next? /  
+
+sd          B.16 utt1: {D Well } <breathing>, since I just turned forty, I'm thinking about <laughter> a forty year old man's car, [ something, + {F uh, } something ] real sporty -- /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd*          B.18 utt1: -- {C but, } {F uh, } realistically with, {F uh, } the need to take the kids to school, probably have to have something that, {F uh, } wouldn't wined up putting their knees this their throat when they sat in the back seat. / *[[spelling - wined should be wind]] 
+
+b          A.19 utt1:  Uh-huh. /  
+
+sd          B.20 utt1:  ((Something a little)) seating room.  /
+qo          B.20 utt2:  How about you? /  
+
+sd          A.21 utt1: {D Well, } I think the next car we get will probably be a <breathing>, {D well } - /
+sd          A.21 utt2: [ I, + I ] like Buicks.  /
+sd          A.21 utt3: We have a Buick Century now,  /
+sd        A.21 utt4: it's a nineteen eighty-seven -- /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sv          A.23 utt1: -- {C and, } {F uh, } whatever I get, I want to have, {F uh, } air bags, {F uh, } both driver's and passenger side and four door because it's much more convenient if you're carrying anybody [ to, + ] {D you know, } rather than have them stoop down to get over,  /
+sd          A.23 utt2: {C so } --   
+
+b          B.24 utt1:  Sure. /  
+
++          A.25 utt1: -- I think the four door is probably a major requirement  /
+sd          A.25 utt2: {C and, } other than that, {F uh, } {D you know, } reasonable cost and safety and, {F uh, } as much economy as you can get out of a car.  /
+sd          A.25 utt3: {F Uh, } {D you know, } I'm not looking for one with a great big engine, {F uh } -- /  
+
+b^r          B.26 utt1:  Sure. /  
+
+sv          A.27 utt1: -- something that will carry it around careful, I guess is [ best, + best ] way to describe it.  /
+sd          A.27 utt2: Right now, we've got a V six  /
+sv          A.27 utt3: {C and } [ it, + that ] seems to be just fine.  /
+sd          A.27 utt4: I know [ they s-, + they're coming ] out with some V eight now  /
+sv          A.27 utt5: {C and } I think that's probably a little over kill for this day and age. /  
+
+aa          B.28 utt1: Yeah,  /
+sd          B.28 utt2: I was surprised to hear that the V eights are coming back,  /
+sv          B.28 utt3: {C so, } they've got some pretty powerful sixes. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sv          B.30 utt1: {C And, } {F uh, } {D you know, } V eights seem to be a return to the days of, {D you know, } ten or twelve miles a gallon. /  
+
+b          A.31 utt1: Right.  /
+sd          A.31 utt2: [ I, + {F uh, } I ] drive [ [ a, + a truck, ] + a Ford truck. ]  /
+sd          A.31 utt3: [ I, + I ] like trucks because they're spacious,  /
+sd          A.31 utt4: {C and } it's handy to haul things.  /
+sd          A.31 utt5: {F Uh, } it's not related to my business,  /
+sd          A.31 utt6: I just really use it, basically, for transportation,  /
+sd          A.31 utt7: {C but } there's so many occasions when I've had to move some members of the family or do this or that,  /
+sv          A.31 utt8: {C and } [ it's + --   
+
+b          B.32 utt1:  Sure. /  
+
++          A.33 utt1:  -- it's ] handy to have a truck and not have to borrow one. /  
+
+qy          B.34 utt1: Is, {F uh, } traction much of an issue for you up there. /  
+
+br^m          A.35 utt1:  Traction? /  
+
+x          B.36 utt1:  (( )).   
+
+ng          A.37 utt1: {F Uh, } not really, {F uh, } {D you know, }  /
+sd          A.37 utt2: it's a two wheel drive truck  /
+sv          A.37 utt3: {C and } I figure if it's so bad that I need a four wheel drive, I probably ought to be home anyway <laughter>. /  
+
+sv          B.38 utt1: Actually, {F uh, } pretty good way of looking at it,  /
+%          B.38 utt2: yeah.  /
+sd          B.38 utt3: [ We, + {F uh, } we ] had a small accident with our mini van --   
+
+ba          A.39 utt1:  Wow. /  
+
++          B.40 utt1: -- a few years ago.  /
+sd          B.40 utt2: A case where there was a, sort of freak ice storm  /
+sd          B.40 utt3: {C and } we weren't aware of it, and just slipped on some black ice and went into another car,  /
+sd          B.40 utt4: {C and, } this is a rear wheel drive model.  /
+sd          B.40 utt5: {C So, } we got some monster studded snow tires after that. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+sd          B.42 utt1:  Haven't had any problems since. /  
+
+qw          A.43 utt1: [ What kind of, + what make ] is the mini van? /  
+
+sd          B.44 utt1:  It's a Mazda. /  
+
+b^m          A.45 utt1:  Mazda,  /
+bk          A.45 utt2: I see. /  
+
+sd          B.46 utt1: {C And, } {F uh, } we're pleased with it in terms of comfort, and, {F uh, } driveability.  /
+sd          B.46 utt2: Fuel economy isn't great, being a mini van,  /
+sv          B.46 utt3: {C but, } {F uh } it's real nice for carrying around our kids and others  /
+sd          B.46 utt4: {C and } --   
+
+b          A.47 utt1:  Right. /  
+
++          B.48 utt1: -- it's, {F uh, } got some nice features in terms of being able to remove seats and flip them around  /
+sd          B.48 utt2: {C so } we've been able to do some real creative, {F uh, } load hauling when called upon. /  
+
+sd          A.49 utt1: One of my sons has [ a, + a ] Plymouth, {F uh, } van --   
+
+b          B.50 utt1:  Uh-huh. /  
+
++          A.51 utt1: -- or, {D you know, } {F uh, } {F uh, } that same type of thing, the Voyager, I guess -- /  
+
+b          B.52 utt1:  Right. /  
+
+sd          A.53 utt1: -- {C and, } {F uh, } they have [ a, + a ] child that's five years old  /
+sd          A.53 utt2: {C and } it's really handy for hauling him around [ and, + and ] their stuff,  /
+sv          A.53 utt3: {C and, } of course, as he gets friends, I'm sure that will be even handier.  /
+sd          A.53 utt4: {C So, } I know [ [ if we were, + if we had kids still at home, ] + {A we're in our fifties now, } {C but, } if we had kids still at home, ] we'd certainly have to seriously consider a van just for their functional value. /  
+
+b          B.54 utt1: Yeah,  /
+sv          B.54 utt2: I think that we're going to be, {F uh, } owning a mini van for some years to come.  /
+sv          B.54 utt3: Probably till the kids are out of, {F uh, } high school anyway. /  
+
+qw          A.55 utt1: What about, {F uh, } all wheel drive?  /
+qy          A.55 utt2: Is that something that you'd be interested in  /
+%          A.55 utt3: {C or } is that, -/  
+
+sd          B.56 utt1: {F Uh } <breathing> I'd be satisfied with [ a, + a ] good front wheel drive car when it comes time to replace the Sentra. /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+sv          B.58 utt1: {C And } even [ as, + as ] light as that is with, {F uh, } the small tires [ it's, + it's ] done pretty well --   
+
+b          A.59 utt1:  Uh-huh. /  
+
++          B.60 utt1:  -- in winter,  /
+sv          B.60 utt2: {F uh, } again, like you, if conditions [ are, + are ] that bad, I probably don't want to be driving anyway. /  
+
+b          A.61 utt1:  Right. /  
+
+sd          B.62 utt1: {C So } I know I'd be happy with [ a, + a ] reasonable, {F uh, } four door.  /
+sd          B.62 utt2: {D You know, } again, [ we've, + we've ] got the same issue with getting kids into the, -/ 

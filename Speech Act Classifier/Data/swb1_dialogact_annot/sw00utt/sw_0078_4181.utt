@@ -1,0 +1,298 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4181_1577_1530
+TOPIC#:		340
+DATE:		920313
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	5
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	4
+REMARKS:        Speaker B sounded like he was on a mobile phone. 
+Speaker A spoke very fast and stammered severely, extremely
+difficult to transcribe.
+
+=============================================================================
+  
+
+sv          A.1 utt1:  I don't think anybody pays too little. /  
+
+aa          B.2 utt1: No,  /
+aa          B.2 utt2: I would tend to agree very highly.  /
+sv          B.2 utt3: I think that we're all paying a little bit too much taxes and not seeing too much good come out of it. /  
+
+qy          A.3 utt1: Do you get hit up for local taxes there? /  
+
+ny          B.4 utt1: Yeah,  /
+sd^e          B.4 utt2: we sure do.  /
+sd          B.4 utt3: Here in Indiana [ we pay, + {F uh, } we pay ] county income tax, state income tax,  /
+sd          B.4 utt4: we pay five percent sales tax,  /
+sd          B.4 utt5: {F uh, } you name it, they tax it. /  
+
+bf          A.5 utt1: {F Oh, } {C so } [ [ y-, + y-, ] + you ] get the whole smorgasbord. /  
+
+aa          B.6 utt1:  That's right  /
+%          B.6 utt2: we, -/  
+
+sd          A.7 utt1: {D Well, } [ I, + I ] actually live in New Hampshire --    
+
+b          B.8 utt1:  Uh-huh. /  
+
++          A.9 utt1:  -- tax free or die.      
+
+b          B.10 utt1:  Right. /  
+
++          A.11 utt1:  Uh-huh <laughter>. /  
+
+sv          B.12 utt1: Which is probably pretty nice,  /
+qy^d          B.12 utt2: {C but } I'll bet that means your state sales tax is pretty high. /  
+
+nn          A.13 utt1: No,  /
+sd^e          A.13 utt2: actually there's no sales tax in New Hampshire either. /  
+
+br^m          B.14 utt1:  There's no <laughter> sales tax either? /  
+
+nn          A.15 utt1: No,  /
+sd^e          A.15 utt2: what there is, is very high property taxes because that's how they fund schools and everything. /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1: The only problem is I work in Massachusetts,  /
+sd          A.17 utt2: {C so } [ they -- +   
+
+b          B.18 utt1:  Right. /  
+
++          A.19 utt1: -- they ] hit me up for the five percent there. /  
+
+sd          B.20 utt1:  Taxachusetts /  
+
+b          A.21 utt1: Yep,  /
+%          A.21 utt2: {C but, } it, - /
+%          A.21 utt3: {D well, } {D you know, } we, - /
+sd          A.21 utt4: it's only a state tax here, no local. /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sd          A.23 utt1:  ((We've)) got a five percent sales tax. /  
+
+b          B.24 utt1:  Right. /  
+
+sd          A.25 utt1: {C But, } {F uh, } the problem is that [ so + ] I'm paying state tax even if I don't live here. /  
+
+b^r          B.26 utt1:  Right. /  
+
+sd          A.27 utt1: {C But, } at least on things like stock options and things like that, they don't tax me. /  
+
+b          B.28 utt1:  Uh-huh. /  
+
+sv          A.29 utt1:  {C So } that's not too bad. /  
+
+aa          B.30 utt1: No,  /
+sv          B.30 utt2: [ I, + {F uh, } I ] really think that, here in Indiana at least we pay [ [ a, + a whole, ] + {F uh, } just too much ] tax.  /
+sd          B.30 utt3: I worked in a factory, {F uh, } last summer  /
+sd          B.30 utt4: {C and, } on the average, I was losing twenty percent of every paycheck to taxes  /
+sv          B.30 utt5: {C and } I don't feel that I really get a whole lot of return from that.  /
+sd          B.30 utt6: {E I mean, } I don't utilize [ all, + {D you know, } {A it really, } any ] government welfare services.  /
+sd          B.30 utt7: Of course, I drive on the roads  /
+sd          B.30 utt8: {C and } I, {D you know, } went to the schools and stuff,  /
+sv          B.30 utt9: {C but } I really feel [ that, + that ] I'm just getting overtaxed. /  
+
+sd          A.31 utt1: {F Oh, } [ [ I, + {E I mean, } I, ] + I'd ] consider twenty percent lucky because [ just on, + {E I mean, } {D you know, } when you figure out just on ] feds, {D you know, } I actually hit the thirty-one bracket --   
+
+b          B.32 utt1:  # Uh-huh. # /  
+
++          A.33 utt1:  -- # this year, # which was no fun. /  
+
+aa          B.34 utt1:  No  /
+aa          B.34 utt2: [ that's, +   
+
+x          A.35 utt1:  <Laughter>.    
+
++          B.36 utt1:  that's ] not any fun. /  
+
+b          A.37 utt1: Right,  /
+sd          A.37 utt2: {C and } also, {D you know, } then you figure out seven or eight percent for F I C A --   
+
+b          B.38 utt1:  Uh-huh. /  
+
++          A.39 utt1:  -- which is taxes --    
+
+b          B.40 utt1:  Right. /  
+
++          A.41 utt1: -- where ((you)), - /
+sv          A.41 utt2: most people forget about them, because [ you've g-, + {D you know, } you can't ] always get your F I C A back at the # end of the year. # /  
+
+b^r          B.42 utt1:  # Right. # /  
+
+sd          A.43 utt1: [ [ {C But, } + {C so, } ] + {D you know, } {C and then, } ] {D you know, } {D like } a five percent surtax, I'm paying forty percent tax. /  
+
+b          B.44 utt1: Yeah,  /
+sv          B.44 utt2: which is just outrageous  /
+%          B.44 utt3: {C and } a lot of it, - /
+sv          B.44 utt4: {C and } if you look at the way the government is run these days, it just seems like a lot of it's going to waste. /  
+
+b          A.45 utt1: Yeah,  /
+sv          A.45 utt2: {D well, } [ [ I, + I mean, ] + I think ] [ there's some people, + there, [ y-, + ] certainly are some things ] where you need infrastructure  /
+sv          A.45 utt3: {C and } [ you need -- +     
+
+b          B.46 utt1:  Right. /  
+
++          A.47 utt1: -- you n-, ] {D you know, }  /
+sv          A.47 utt2: ((there are)) things government does better, {D you know, }  /
+sv          A.47 utt3: I ((think)) government does a better space program --   
+
+b^r          B.48 utt1:  Right. /  
+
++          A.49 utt1: -- than you're going to get out of private individuals,  /
+sv          A.49 utt2: {C but, } {D you know, } I think, {D you know, } you look at things like, {D you know, } tax subsidies to tobacco farmers --   
+
+b^r          B.50 utt1:  Right <laughter>. /  
+
++          A.51 utt1:  -- because Jesse Helms wants it that way  /
+sv          A.51 utt2: [ [ {C or, } +   
+
+aa          B.52 utt1:  That's right,  /
+sv          B.52 utt2: got to keep those farmers happy.  /  
+
++          A.53 utt1: {D You know, } {C and, } ] + {C and } ] just tremendous amounts of, {D you know, } - /
+sv          A.53 utt2: so much of it, is now just going to service debt or --   
+
+b          B.54 utt1:  Uh-huh. /  
+
++          A.55 utt1: -- {D you know, } is going [ [ in, + into, ] + into ] programs that, {D you know, } - /
+%          A.55 utt2: yeah,  /
+sv          A.55 utt3: [ they are, + they are ] a fat.  /
+sv          A.55 utt4: {D You know, } I think the military is really fat.  /
+sv          A.55 utt5: I think that a lot of [ the, + the ] H E W services, although they're providing necessary services, have too much fat in them. /  
+
+aa          B.56 utt1: Right.  /
+sv          B.56 utt2: [ The-, + there ] is just way too much bureaucracy  /
+sv          B.56 utt3: {C and } so much of that tax money is going just to keep that bureaucracy running, keep the paper shuffling around --   
+
+%          A.57 utt1:  {D You know, } {D like } we, -/  
+
++          B.58 utt1:  -- instead of real, {D you know, } good programs. /  
+
+aa          A.59 utt1: Yeah,  /
+sv          A.59 utt2: {E I mean, } [ we, + we ] spend a fortune for things like V A hospitals  /
+sd          A.59 utt3: {C and, } {D you know, } then you look at how well they're managed, {D you know, }  /
+sv          A.59 utt4: I don't think we're getting our money's [ work out, + worth out ] of there.  /
+sv         A.59 utt5: I think it's all going [ into, + into ] bureaucrats. /  
+
+aa          B.60 utt1: Right,  /
+sv          B.60 utt2: {C and } a lot of it's feeding that.  /
+sd          B.60 utt3: [ [ [ Just, + I just, ] + I really, ] + {A especially in the election year, } {E I mean, } I'm really ] thinking a lot <laughter> about this, the economy and questions like that [ and, + and ] just the whole, - /
+sv          B.60 utt4: it seems like everything is really screwy right now as far as [ the economy, + {F uh, } the government ] goes and [ our, + our ] whole economy in general  /
+sv          B.60 utt5: {C and } our taxes just are going to keep rising no matter what happens  /
+sd          B.60 utt6: {C and } especially when you've got the Bush administration who has increased government expenditures, {F uh, } beyond what any other President since World War Two has done  /
+sd          B.60 utt7: {C and } yet --   
+
+aa          A.61 utt1:  {D Well, } [ be-, -- +   
+
++          B.62 utt1:  -- he supposedly, -/  
+
++          A.63 utt1: -- between ] him and Reagan,  /
+aa          A.63 utt2: yeah. /  
+
+aa          B.64 utt1:  Right <laughter>,  /
+aa^r          B.64 utt2: right,  /
+aa          B.64 utt3: yeah. /  
+
+sd          A.65 utt1:  # ((The great communicator)), # /  
+
+sd          B.66 utt1: # {E I mean, } I just read # something that, two thirds or three quarters, I'm not exactly sure of our national <inhaling> debt [ are, + was ] created during the Reagan Bush era --   
+
+aa          A.67 utt1: # {F Oh, } {F oh, } yeah,  /
+sv          A.67 utt2: they think, # -/  
+
++          B.68 utt1: -- # who are [ suppo-, + supposedly ] # fiscally conservative. /  
+
+aa          A.69 utt1: {F Oh, } yeah,  /
+sd(^q)          A.69 utt2: {C and then } they go ((and say)), I'm not c-, - /
+^q          A.69 utt3: Congress, they're the fault for it. /  
+
+b          B.70 utt1:  Right <laughter>. /  
+
+sv          A.71 utt1: {C But, } {D you know, } the other thing is, it's tricky, though,  /
+sd(^q)          A.71 utt2: {D because } like in New Hampshire, they say, {F oh, } all right, let's cut the military budget. /  
+
+b^r          B.72 utt1:  Right. /  
+
+b          A.73 utt1:  {D Well, } yeah,  /
+sd          A.73 utt2: then, you lose half your jobs in New Hampshire -- /  
+
+b          B.74 utt1:  Uh-huh. /  
+
+sd          A.75 utt1: -- you lose, - /
+sd          A.75 utt2: ((Grotten)) Connecticut goes,  /
+sv          A.75 utt3: {D so, } {D you know, } [ it's like, + {D you know, } it's very ] tricky to balance ((that stuff)) off, because then you hurt, {D you know, } - /
+sd          A.75 utt4: [ [ if the, + if the, ] + if ] people lose their jobs, then they become a load  /
+sd          A.75 utt5: {C and } they're not contributing taxes. /  
+
+aa          B.76 utt1:  That's right. /  
+
+sv          A.77 utt1: {D So, } {D you know, } [ it's, + it's ] very hard to say, {D you know, } this is what we should cut. /  
+
+aa          B.78 utt1: Yeah,  /
+%          B.78 utt2: it's really, - /
+%          B.78 utt3: that is the, - /
+sv          B.78 utt4: especially [ that defense, + cuts in the defense ] is really a Catch twenty-two --   
+
+x          A.79 utt1:  (( )).      
+
++          B.80 utt1: -- double whammy, because like you say, if you cut defense, {D well, } that's great,  /
+sd          B.80 utt2: that's going to lower our national expenditures,  /
+sd          B.80 utt3: {C but } then you're going to have people on welfare  /
+sd          B.80 utt4: {C and } they're not --   
+
+^2          A.81 utt1:  # Who aren't contributing. # /  
+
++          B.82 utt1:  -- # putting taxes in. # /  
+
+aa          A.83 utt1:  Right,  /
+aa          A.83 utt2: yeah. /  
+
+sv          B.84 utt1: {C So } [ that's, + that's ] really, - /
+%          B.84 utt2: it's, -/  
+
+%          A.85 utt1:  {C And, } {F uh, } in our, -/  
+
+sd          B.86 utt1: I'm glad I'm not the one who has to come up with these policies. /  
+
+b          A.87 utt1:  Right. /  
+
+x          B.88 utt1:  <Laughter>.    
+
+sd          A.89 utt1: {C But, } what's very funny is in our town meeting they were v-, - /
+sd          A.89 utt2: [ [ th-, + this, ] + this ] guy [ had, + both for our school district meeting and our town meeting had ] this proposal which, unfortunately violates New Hampshire constitution --   
+
+b          B.90 utt1:  Uh-huh. /  
+
++          A.91 utt1: -- [ d-, + ] for our local town to [ do it to, + ] {F uh, } [ have you, + have people ] line item their taxes. /  
+
+b          B.92 utt1:  Right. /  
+
+sd(^q)          A.93 utt1: They say I want to pay for this and this and this and this and this.  /
+sv          A.93 utt2: Course, the only problem with that is then nobody paying for the necessary services they don't use. /  
+
+aa          B.94 utt1:   That's right. /  
+
+b          A.95 utt1:   Yeah. / 

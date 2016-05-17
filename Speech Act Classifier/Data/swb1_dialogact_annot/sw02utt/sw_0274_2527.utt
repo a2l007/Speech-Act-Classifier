@@ -1,0 +1,268 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2527_1232_1056
+TOPIC#:		321
+DATE:		910409
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	4
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.
+
+============================================================================
+  
+
+o          A.1 utt1:  Okay. /  
+
+o          @B.2 utt1:  All right.  /
+qo          @B.2 utt2: [  What, + {F uh, } what ] kind of camping is there in Texas? /  
+
+sd          A.3 utt1:  {D Well, } [ there, + there ] are quite a few, {F um, } [ parks, + I guess, state parks, ]  /
+sd          A.3 utt2: {C and } there's a couple of national parks, I guess, that you can camp at. /  
+
+b          B.4 utt1:  Uh-huh. /  
+
+sd          A.5 utt1:  {F Um, } most of them have pretty good facilities.  /
+sd          A.5 utt2:  I don't know if the camping that I've done is really roughing it without [ a, + a ] whole lot of stuff. /  
+
+b          B.6 utt1:  Yeah.  /
+bf          B.6 utt2:  {D So, }  you do, {F uh, } {D like } backpacking and the like? /  
+
+na          A.7 utt1:  {F Uh, } done a little bit of that, mainly just, {F um, } {D like } camping out at the state parks,  /
+sd          A.7 utt2: I've been to a couple in Texas  /
+sd          A.7 utt3: {C and } there's some real nice ones in Arkansas. /  
+
+b          B.8 utt1:  Uh-huh. /  
+
+sv          A.9 utt1:  {F Um, } I think Arkansas has one of the best parks departments around. /  
+
+b          B.10 utt1:  Huh.  /
+qy          B.10 utt2:  Is the Ozarks in Arkansas? /  
+
+ny          A.11 utt1:  Uh-huh.  /
+ny          A.11 utt2:  Yeah,  /
+sd^e          A.11 utt3: part of them are. /  
+
+b          B.12 utt1:  Yeah,  /
+qy^d          B.12 utt2: {C so, }  that's probably a pretty nice place to go <<pause>>. /  
+
+ny          A.13 utt1:  Yeah,  /
+sd^e          A.13 utt2: they've got, {F uh, } real nice lake system,  [ and, + ] around their parks.  /
+sd          A.13 utt3:  One of them, {F uh, }  (( the gray )) , {A I think that's one of the ones we've been to, } it's real nice there, a bunch of lakes around it,  /
+sd          A.13 utt4: there's a golf course and, {F um, } just a whole bunch of camping sites. /  
+
+b          B.14 utt1:  Yeah. /  
+
+qo          A.15 utt1:  What about you,  /
+qw          A.15 utt2: where have you, {F uh, } -/  
+
+ sd         B.16 utt1:  {F Oh, } I've been camping for years, not on a regular basis  /
+sd          B.16 utt2: {C but, }  {F uh, } I first started camping out in the desert in California.    
+
+b          A.17 utt1:  Uh-huh. /  
+
++          B.18 utt1:  And then sometimes in the mountains also in California  /
+sd          B.18 utt2: {C and, } {F uh, } then I moved to North Carolina  /
+sd          B.18 utt3: {C and } [ I, + I ] didn't camp for a long time,  /
+sd          B.18 utt4:   {C and then } I started to, {F uh, } go camping again kind of in conjunction with white water rafting,  /
+sd          B.18 utt5: {C so, }  I'd go up somewhere and camp overnight and then do some rafting. /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+ sd         B.20 utt1:  {C And then } maybe camp another night and drive home.  /
+sd          B.20 utt2:  {C And } [ that was, + {F uh, } that was ] pretty good  /
+sd          B.20 utt3: {C so, }  I went out and bought a whole bunch of camping gear  /
+sd          B.20 utt4: {C and, } {F uh, } {D you know, } I still do it once in a while. /  
+
+b          A.21 utt1:  Yeah,  /
+sd          A.21 utt2: I think we've collected stuff off and on over the years.  /
+sd          A.21 utt3:  The more times we did it, the more serious we get about it. /  
+
+b          B.22 utt1:  Uh-huh.  /
+b          B.22 utt2:  Yeah. /  
+
+qw          A.23 utt1: [ Where, + where ] is Raleigh, in North Carolina? /  
+
+sd          B.24 utt1:  {F Uh, } {D well, } [ [ it's, + it's, ] + {F uh, } in terms of north, south I would say it's,  ] {F uh, } [ a little, + a little ] more towards the northern border of the state and pretty much in the eastern half of  it. /  
+
+bk          A.25 utt1:  Okay. /  
+
+%          B.26 utt1:  {C So } what i-, -/  
+
+qy          A.27 utt1:   (( Are ))  you kind of away from the Blue Ridge Mountains, /  
+
+no          B.28 utt1:  {D Well, } [ it, +   
+
+%          A.29 utt1:  an area. -/  
+
++          B.30 utt1:  it's, ] {F uh, } - /
+sd          B.30 utt2: actually [ the, + the ] Blue Ridge in Virginia are closer to Raleigh.  /
+sd          B.30 utt3: They're about three hours away if you go due north. /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+%          B.32 utt1:  {F Um, }  (( of )) - /
+sd          B.32 utt2: the Blue Ridge in North Carolina I think are much nicer  /
+sd          B.32 utt3: {C and } you can pick those up going west,  /
+sd          B.32 utt4: {C but } then you're talking about six to eight hours. /  
+
+b          A.33 utt1:  Yeah. /  
+
+sd          B.34 utt1:  The way it works.  /
+sd          B.34 utt2:  {C But, }  {F um, } [ it's a real, + it's a real ] nice place to go and  camp,  /
+sd          B.34 utt3: {C and } there's some pretty decent campgrounds  (( although )) , [ I don't think Raleigh, + I don't think the state ] of North Carolina takes, - /
+sv          B.34 utt4: they probably just don't spend as much money as a lot of other states might. /  
+
+b          A.35 utt1:  Uh-huh.  /
+b          A.35 utt2:  Yeah,  /
+sd          A.35 utt3: my wife's from the western part of Virginia,  /
+sd          A.35 utt4: we've been down the parkway a lot,  /
+sd          A.35 utt5: {C but } I didn't know [ how much, + how much ] camping areas there were along there. /  
+
+sd          B.36 utt1:  I think there's quite a few.  /
+sd          B.36 utt2: I can't say I've checked them all out though. /  
+
+qo          A.37 utt1:  [ What, + what's ] it like camping in the desert and California,  /
+sv          A.37 utt2: that seems,   
+
+sd          B.38 utt1: [ It's, + {F uh, }   
+
++          A.39 utt1:  like a challenge. /  
+
++          B.40 utt1:  it's ] {D actually } kind of incredible,  /
+sd          B.40 utt2: it's really, really nice.  /
+sd          B.40 utt3:  {F Um, } I like  it better than almost anything I've ever done.  /
+sd          B.40 utt4: Just the sky is so amazing.  /
+sd          B.40 utt5: {D You know, } you really can probably count thousands of stars, /  
+
+ b         A.41 utt1:  Uh-huh. /  
+
+ sd         B.42 utt1:  {C and, }  {F uh, } [ it's, + it's ] just kind of nice.  /
+sd          B.42 utt2:  I like the, {F uh, } - /
+sd          B.42 utt3: I think the desert has a rare kind of beauty which, {F uh, } a lot of people don't realize,  /
+sd          B.42 utt4: {D you know, } they hear desert  /
+sd          B.42 utt5: {C and } they think of scorpions and snakes and sand and  being real dry, and lack of water,  /
+sd          B.42 utt6: course it, it has all of those qualities  /
+sd          B.42 utt7: {C but } it also has a certain quality of beauty that you just don't find anyway else except in a desert. /  
+
+b          A.43 utt1:  Uh-huh. /  
+
+sd          B.44 utt1:  {C So, }  it's pretty nice.  /
+sd          B.44 utt2: [  The, + {F uh, } the ] movie, THE DOORS, has [ so-, + some ] nice desert scenes,  /
+sd          B.44 utt3: those guys all go camping out in the desert. /  
+
+b          A.45 utt1:  Yeah. /  
+
+sd          B.46 utt1:  Of course, they drag a lot of drugs with them  /
+sd          B.46 utt2: {C but, }  {F um, } [ the, + {F uh, } the ] shots [ are, + are ] pretty nice  /
+sd          B.46 utt3: {C and } it's sort of like that, - /
+sd          B.46 utt4: {E I mean, } it's just almost surreal, in some places. /  
+
+b          A.47 utt1:  {F Huh. } /  
+
+sd          B.48 utt1:  It's very pleasant. /  
+
+qy^d          A.49 utt1:  Are the temperatures real extreme there  /
+%          A.49 utt2: {C or } [ the, + the, ] -/  
+
+na          B.50 utt1:  They can be,  /
+ny          B.50 utt2: yeah.  /
+sd          B.50 utt3: {E I mean, } [ you got to, + you sort of have to ] choose your season carefully and know what's going to happen. /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+sd          B.52 utt1:   (( I've been ))  camping in Death Valley,  /
+sd          B.52 utt2: one doesn't go in July <laughter>. /  
+
+aa          A.53 utt1:  Yeah,  /
+ ba         A.53 utt2: <laughter> true. /  
+
+sd          B.54 utt1:  {C But } it's beautiful in February. /  
+
+b          A.55 utt1:  Yeah. /  
+
+sd          B.56 utt1:  {E I mean, } it's just beautiful.  /
+sd          B.56 utt2:  The days, get up into the high eighties, {F uh, } maybe the nineties  /
+sd          B.56 utt3: {C but } [ it's, + it's ] quite bearable  /
+sd          B.56 utt4: {C and then } the nights are reasonably warm, {D you know, } sixties or seventies.  /
+sd          B.56 utt5:  It's just great.  /
+sd          B.56 utt6: It's really very nice. /  
+
+b          A.57 utt1:  Yeah,  /
+sd          A.57 utt2: we've talked about planning a trip up through,  {F um, } - /
+sd          A.57 utt3: I have a sister-in-law that lives [ in New Mexico, + up through New Mexico ] and into Colorado and the Grand Canyon area.  /
+sd          A.57 utt4:  <<Very faint>> I [ don't know, + don't know ] when I'm going to get a chance to do that  /
+%          A.57 utt5: {C but, } -/  
+
+b          B.58 utt1:  Yeah.  /
+sd          B.58 utt2: {D Well, } [ that would be, + that would be ] pretty nice.  /
+sd          B.58 utt3: [  I've been, + I have been ] camping on the south rim the Grand Canyon.  /
+sd          B.58 utt4:  That's okay.  /
+sd          B.58 utt5:  A lot of people like to go down and camp down inside,  /
+sd          B.58 utt6: I was just too lazy that trip to do all that walking,    
+
+b          A.59 utt1:  Uh-huh. /  
+
++          B.60 utt1:  especially with my gear. /  
+
+ba          A.61 utt1:   (( I'll bet )) .  /
+sd          A.61 utt2:  (( That )) [ one, + one ] thing you said about the stars is really true  /
+%          A.61 utt3: it's, - /
+sd          A.61 utt4: when you're close to a big city like Dallas, [ the, + the ] lights kind of [ wash, +   
+
+b          B.62 utt1:  {F Oh, } yeah. /  
+
++          A.63 utt1:  wash ] off the star  /
+sd          A.63 utt2: {C so } it's nice [ to, + to ] get away.  /
+sd          A.63 utt3:  It's just amazing,   
+
+b          B.64 utt1:  Yeah,  /
+%          B.64 utt2: it, -/  
+
++          A.65 utt1:  [ how, + how ] much you miss. /  
+
+b          B.66 utt1:  Yeah,  /
+%          B.66 utt2: it, - /
+b^r          B.66 utt3: yeah,  /
+sd          B.66 utt4: it really is.  /
+sd          B.66 utt5: {E I mean, } I don't think I ever see the Little Dipper,  /
+sd          B.66 utt6: you hear people talk about the Little Dipper. /  
+
+b          A.67 utt1:  {F Huh } <<very faint>>.  Uh-huh. /  
+
+sd          B.68 utt1:  {C But } I don't think I ever see it except when I go get out of the city and go camping in the desert or [ in, + in ] the mountains.  /
+sd          B.68 utt2:  Otherwise it's just too faint <<pause>>. /  
+
+sv^t          A.69 utt1:  {D Well, } I guess we've talked as much as we need to on the subject. /  
+
+ aa         B.70 utt1:  Yeah,  /
+sv^t          B.70 utt2: I think we fulfilled our obligation.  /
+fc          B.70 utt3:  {D Well, } thanks for calling,  /
+fc          B.70 utt4: nice talking to you. /  
+
+fc          A.71 utt1:  Yeah,  /
+fc          A.71 utt2: it was good talking to you  (( Robert )) . /  
+
+fc          B.72 utt1:  Okay,  /
+fc          B.72 utt2: bye-bye. /  
+
+fc          A.73 utt1:  Bye-bye. / 

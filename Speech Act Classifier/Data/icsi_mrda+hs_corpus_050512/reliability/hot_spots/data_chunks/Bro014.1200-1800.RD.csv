@@ -1,0 +1,277 @@
+1201.5,1201.89,Bro014-c1,s^aa,27b,,,yeah .
+1202.08,1202.29,Bro014-c0,%--,,,,so i- ==
+1203.72,1204.19,Bro014-c1,fh,,,,um ==
+1204.22,1204.71,Bro014-c0,%--,,,,s- ==
+1206.22,1206.67,Bro014-c1,s^aa,27b+,,,sure .
+1206.88,1207.4,Bro014-c2,s^co,,,,wait a minute .
+1206.97,1207.27,Bro014-c1,%-,,,,but i- ==
+1207.36,1207.81,Bro014-c1,%-,,,,bu- ==
+1207.4,1208.16,Bro014-c2,s,,,,i - i'm confused .
+1208.16,1208.37,Bro014-c0,b,,,,yeah .
+1208.16,1208.98,Bro014-c2,qw^rt,,,,wha- - what do you mean ?
+1209.67,1210.05,Bro014-c0,fg,,,,yeah .
+1209.87,1210.48,Bro014-c1,s.%--,,r-,,so y- - so you ==
+1210.05,1210.42,Bro014-c0,s.%-,,,,if i- ==
+1210.48,1211.3,Bro014-c1,s^bk,,,,m- - s- - yeah .
+1211.3,1211.65,Bro014-c1,%--,,,,but ==
+1212.31,1212.96,Bro014-c1,s.%--,,,,well let's say for ins- ==
+1212.96,1217.31,Bro014-c1,s,,,,see m_f_c_c for instance doesn't have anything in it uh related to the pitch .
+1218.23,1219.49,Bro014-c1,s,,,,so just - just for example .
+1219.49,1223.53,Bro014-c1,s,1a,,,so suppose you've - that what you really wanna do is put a good pitch detector on there .
+1223.53,1225,Bro014-c1,s.%--,,,,and if it gets an unambiguous ==
+1224.43,1224.85,Bro014-c2,s^bk,,,,oh .
+1224.85,1225.59,Bro014-c2,s^bk,1b,,,oh i see .
+1225.35,1226.08,Bro014-c0,b,,,,mm-hmm .
+1225.64,1231.19,Bro014-c1,s^r,,,,if it gets an unambiguous result then you're definitely in a - in a - in a voice- - in a uh s- - region with speech .
+1231.33,1235.5,Bro014-c2,qy^bu^d^rt,2a,,,so there's this assumption that the v- - the voice activity detector can only use the m_f_c_c ?
+1231.82,1232.31,Bro014-c1,fh,,,,uh ==
+1236.26,1237.04,Bro014-c0,s^ng,2b-1,,,that's not clear .
+1237.04,1238.75,Bro014-c0,s.%--,,,,but this - e- ==
+1238.11,1238.88,Bro014-c1,s,2b-2.3a,,,well for the baseline .
+1239.42,1239.68,Bro014-c2,s^bk,3b,,,yeah .
+1240.42,1242.38,Bro014-c1,s.%--,,,,so - so if you use other features then y- ==
+1242.38,1244.12,Bro014-c1,s,,,,but it's just a question of what is your baseline .
+1245.01,1245.18,Bro014-c1,qy^d^f^g,,,,right ?
+1245.03,1245.37,Bro014-c2,s.%--,,,,i g- ==
+1245.18,1246.87,Bro014-c1,s^e,,,,what is it that you're supposed to do better than .
+1245.37,1245.78,Bro014-c2,b,,,,yeah .
+1246.87,1247.63,Bro014-c1,fh,,,,and so ==
+1248.04,1248.55,Bro014-c2,s.%-,,,,i don't s- ==
+1248.11,1256.19,Bro014-c1,s,,,,having the baseline be the m_f_c_c's means that people could choose to pour their ener- - their effort into trying to do a really good v_a_d .
+1256.12,1258.31,Bro014-c2,s,4a,,,but they seem like two separate issues .
+1256.74,1257.06,Bro014-c1,s.%-,,,,or tryi- ==
+1258.31,1258.66,Bro014-c2,qy^d^f^g^rt,4a+,,,right ?
+1258.66,1258.95,Bro014-c2,s.%--,,,,i mean ==
+1258.71,1259.58,Bro014-c1,s^aap,4b,,,they're sort of separate .
+1259.58,1261.09,Bro014-c1,s^arp,4b+,,,unfortunately there's coupling between them .
+1261.36,1267.39,Bro014-c1,s^e,4b++.5a.6a,,,which is part of what i think stephane is getting to is that you can choose your features in such a way as to improve the v_a_d .
+1268.11,1268.28,Bro014-c0,s^aa,5b,,,yeah .
+1268.13,1271.85,Bro014-c1,s,4b+++.6a+,,,and you also can choose your features in such a way as to prove - improve recognition .
+1271.81,1272.91,Bro014-c2,s^bu,6b.7a,,,but it seems like you should do both .
+1271.85,1272.91,Bro014-c1,s,4b++++,,,they may not be the same thing .
+1273.11,1273.53,Bro014-c2,qy^d^g^rt,7a+,,,right ?
+1273.43,1274.21,Bro014-c1,s^m^na,7b,,,you should do both .
+1274.21,1277.79,Bro014-c1,s,,,,and - and i - i think that this still makes - i still think this makes sense as a baseline .
+1278.58,1280.45,Bro014-c1,s^df.%--,,,,it's just saying as a baseline we know ==
+1279.2,1280.15,Bro014-c0,b,,,,mmm .
+1281.05,1282.69,Bro014-c1,s^df,,,,you know we had the m_f_c_c's before .
+1282.69,1284.87,Bro014-c1,s^df,,,,lots of people have done voice activity detectors .
+1285.13,1285.5,Bro014-c0,b,,,,mm-hmm .
+1285.77,1288.78,Bro014-c1,s,8a,,,you might as well pick some voice activity detector and make that the baseline .
+1288.78,1291.84,Bro014-c1,s,8a+,,,just like you picked some version of h_t_k and made that the baseline .
+1291.73,1291.95,Bro014-c0,s^aa,8b,,,yeah .
+1292.66,1292.93,Bro014-c0,s^aa,8b+,,,right .
+1292.73,1295.09,Bro014-c1,s,,,,and then let's try and make everything better .
+1295.68,1296.24,Bro014-c1,fh,,,,um ==
+1297.39,1304.19,Bro014-c1,s,,,,and if one of the ways you make it better is by having your features be better features for the v_a_d then that's - so be it .
+1304.19,1304.34,Bro014-c1,%--,,,,but ==
+1304.28,1304.75,Bro014-c0,b,,,,mm-hmm .
+1304.95,1307.33,Bro014-c1,s.%--,,,,uh uh uh at least you have a starting point that's ==
+1308.23,1308.7,Bro014-c1,fh,,,,um ==
+1308.93,1312.36,Bro014-c1,s^bu^df,9a,,,cuz i- - i- - some of - the some of the people didn't have a v_a_d at all i guess .
+1312.36,1312.7,Bro014-c1,qy^d^g^rt,9a+,,,right ?
+1312.69,1313.31,Bro014-c1,fh,,,,and - and ==
+1313.78,1313.94,Bro014-c0,s^aa,9b,,,yeah .
+1313.89,1315.2,Bro014-c1,s,,,,then they - they looked pretty bad .
+1315.2,1317.83,Bro014-c1,s,,,,and - and in fact what they were doing wasn't so bad at all .
+1315.72,1316.07,Bro014-c0,b,,,,mm-hmm .
+1317.83,1318.04,Bro014-c1,fh,,,,but ==
+1318.08,1318.42,Bro014-c0,b,,,,mm-hmm .
+1318.67,1322.39,Bro014-c2,fg|s^cs,10a,,,yeah | it seems like you should try to make your baseline as good as possible .
+1318.7,1319.1,Bro014-c1,fh,,,,um ==
+1322.82,1328.67,Bro014-c2,s^cs,10a+,,,and if it turns out that you can't improve on that well i mean then you know nobody wins and you just use m_f_c_c .
+1328.77,1329.05,Bro014-c2,qy^d^f^g^rt,10a++,,,right ?
+1329.69,1329.87,Bro014-c1,s^bk,10b,,,yeah .
+1329.87,1330.52,Bro014-c1,s.%--,,,,i mean it seems like ==
+1331.21,1331.69,Bro014-c1,fh,,,,uh ==
+1332.67,1337.99,Bro014-c1,s,10b+,,,it should include sort of the current state of the art that you want - are trying to improve .
+1337.99,1344.18,Bro014-c1,s^na,10b++,,,and m_f_c_c's you know or p_l_p or something - it seems like reasonable baseline for the features .
+1344.18,1349.95,Bro014-c1,s^df,,,,and anybody doing this task uh is gonna have some sort of voice activity detection at some level in some way .
+1349.95,1354.15,Bro014-c1,s,,,,they might use the whole recognizer to do it but - rather than a separate thing .
+1354.15,1356.48,Bro014-c1,s,,,,but - but they'll have it on some level .
+1356.64,1356.92,Bro014-c1,fh,,,,so ==
+1358.22,1359.35,Bro014-c1,fh,,,,um ==
+1359.08,1367.16,Bro014-c2,s,11a,,,it seems like whatever they choose they shouldn't you know purposefully brain-damage a part of the system to make a worse baseline .
+1367.16,1367.43,Bro014-c2,%--,,,,or ==
+1367.58,1368.03,Bro014-c2,qy^d^f^g,11a+,,,you know ?
+1367.7,1368.82,Bro014-c1,s.%--,11b,,,well i think people just had- ==
+1368.82,1370.42,Bro014-c1,s^nd,11b+,,,it wasn't that they purposely brain-damaged it .
+1370.42,1374.81,Bro014-c1,s^df^nd,11b++,,,i think people hadn't really thought through about the uh - the v_a_d issue .
+1374.98,1375.54,Bro014-c2,b,,,,mmm .
+1376.78,1377.43,Bro014-c0,b,,,,mm-hmm .
+1376.81,1382.18,Bro014-c1,s,,,,and - and then when the - the - the proposals actually came in and half of them had v_a_ds and half of them didn't .
+1382.18,1383.52,Bro014-c1,s^e,,,,and the half that did did well .
+1383.52,1385.45,Bro014-c1,s^e,,,,and the half that didn't did poorly .
+1383.74,1384.28,Bro014-c2,b,,,,mm-hmm .
+1385.45,1386.09,Bro014-c1,s.%--,,,,so it's ==
+1386.06,1386.73,Bro014-c0,b,,,,mm-hmm .
+1390.44,1391.81,Bro014-c0,fg,,,,um ==
+1390.72,1391.06,Bro014-c1,fh,,,,uh ==
+1392.68,1392.96,Bro014-c0,fg,,,,yeah .
+1392.96,1393.44,Bro014-c0,fg,,,,so ==
+1393.44,1394.65,Bro014-c0,s^co^tc,,,,we'll see what happen with this .
+1396.68,1397.71,Bro014-c0,fh,,,,and ==
+1400.04,1400.26,Bro014-c0,s^bk,,,,yeah .
+1400.26,1404.12,Bro014-c0,s.%--,,,,so what happened since um last week is ==
+1405.02,1409.85,Bro014-c0,s^rt,,,,well from o_g_i these experiments on putting v_a_d on the baseline .
+1411.29,1418.22,Bro014-c0,s,,,,and these experiments also are using uh some kind of noise compensation .
+1418.22,1419.36,Bro014-c0,s,,,,so spectral subtraction .
+1420.43,1425.59,Bro014-c0,s,,,,and putting on-line normalization um just after this .
+1426.01,1429.66,Bro014-c0,s,,,,so i think spectral subtraction l_d_a filtering and on-line normalization .
+1429.66,1435.85,Bro014-c0,s^e,,,,so which is similar to the pro- - proposal-one but with spectral subtraction in addition .
+1436.38,1441.56,Bro014-c0,s,,,,and it seems that on-line normalization doesn't help further when you have spectral subtraction .
+1444.17,1449.23,Bro014-c2,qy^rt,12a,,,is this related to the issue that you brought up a couple of meetings ago with the - the musical tones ?
+1448.11,1448.33,Bro014-c0,%-,,,,<um> i ==
+1449.23,1449.44,Bro014-c2,fh,,,,and ==
+1449.98,1450.68,Bro014-c0,s^no,12b,,,i have no idea .
+1450.68,1455.55,Bro014-c0,s^df,12b+,,,because the issue i brought up was with a very simple spectral subtraction approach .
+1454.77,1455.09,Bro014-c2,b,,,,mmm .
+1456.55,1464.7,Bro014-c0,s^rt,12b++,,,and the one that they use at o_g_i is one from - from the proposed - the - the - the aurora prop- - uh proposals .
+1465.32,1467.15,Bro014-c0,s^e,12b+++,,,which might be much better .
+1468.26,1468.71,Bro014-c0,fh,,,,so yeah .
+1468.81,1471.59,Bro014-c0,s,,,,i asked sunil for more information about that .
+1472.76,1473.45,Bro014-c0,fh,,,,but uh ==
+1474.09,1474.72,Bro014-c0,s^no,,,,i don't know yet .
+1476.04,1477.03,Bro014-c0,fh,,,,um ==
+1479.1,1481.05,Bro014-c0,s.%--,,,,and what's happened here is that we ==
+1481.05,1490.29,Bro014-c0,s^rt,13a,,,so we have this kind of new um reference system which use a nice - a - a clean downsampling-upsampling .
+1490.92,1494.51,Bro014-c0,s^e,,,,which use a new filter that's much shorter .
+1495.09,1499.18,Bro014-c0,s^e,,,,and which also cuts the frequency below sixty-four hertz .
+1495.52,1495.68,Bro014-c1,b,,,,right .
+1499.57,1502.4,Bro014-c0,s^e^rt,,,,which was not done on our first proposal .
+1502.53,1504.92,Bro014-c1,qy^bu^rt,13b.14a,,,when you say we have that does sunil have it now too ?
+1503.98,1504.15,Bro014-c0,%--,,,,i- ==
+1504.92,1505.11,Bro014-c1,qrr.%--,,,,or ?==
+1505.38,1505.57,Bro014-c0,s^ar,14b.15a,,,no .
+1505.99,1506.18,Bro014-c0,s^ar^r,14b+.15a+,,,no .
+1506.13,1506.48,Bro014-c1,s^bk,15b,,,o_k .
+1506.82,1507.93,Bro014-c0,s^df^rt,14b++,,,because we're still testing .
+1507.93,1513.04,Bro014-c0,s,14b+++,,,so we have the result for uh just the features .
+1508.37,1508.6,Bro014-c1,b,,,,o_k .
+1513.77,1517.87,Bro014-c0,s^rt,,,,and we are currently testing with putting the neural network in the k_l_t .
+1519.4,1522.97,Bro014-c0,fh|s^rt,,,,um | it seems to improve on the well-matched case .
+1524.79,1530.85,Bro014-c0,fh|s^rt,16a,,,um | but it's a little bit worse on the mismatch and highly-mismatched .
+1531.74,1533.22,Bro014-c0,s^df,,,,i mean when we put the neural network .
+1533.8,1537.62,Bro014-c0,s,,,,and with the current weighting i think it's sh- - it will be better .
+1538.03,1539.69,Bro014-c0,s^df,,,,because the well-matched case is better .
+1541.11,1541.76,Bro014-c0,b,,,,mmm .
+1541.94,1544.1,Bro014-c1,qw,16b.17a,,,but how much worse since the weighting might change ?
+1544.1,1546.61,Bro014-c1,qw,16b+.17a+,,,how - how much worse is it on the other conditions ?
+1546.61,1547.83,Bro014-c1,s^e,16b++.17a++,,,when you say it's a little worse .
+1548.47,1556.43,Bro014-c0,s,17b.18a,,,it's like uh fff fff um ten percent relative .
+1558.81,1559.11,Bro014-c0,fh,,,,yeah .
+1560.12,1560.43,Bro014-c1,s^bk,18b,,,o_k .
+1561.42,1561.92,Bro014-c1,fg,,,,um ==
+1562.34,1562.67,Bro014-c0,b,,,,mm-hmm .
+1562.78,1563.96,Bro014-c1,s.%--,,,,but it has the uh ==
+1565.24,1566.46,Bro014-c1,s,,,,the latencies are much shorter .
+1566.7,1567.02,Bro014-c1,s.%--,,,,that's ==
+1569.2,1574.57,Bro014-c0,s,,,,uh- - y- - w- - when i say it's worse it's not - it's when i - i - uh compare proposal-two to proposal-one .
+1574.67,1574.86,Bro014-c0,fh,,,,so ==
+1577.27,1577.38,Bro014-c0,x,,,,r- ==
+1577.38,1582.79,Bro014-c0,fh|s,19a,,,uh | y- - putting neural network compared to n- - not having any neural network .
+1584.86,1585.31,Bro014-c1,s^bk,19b,,,uh-huh .
+1585.03,1586.86,Bro014-c0,s,,,,i mean this new system is - is - is better .
+1587.23,1592,Bro014-c0,s^df^rt,,,,because it has um this sixty-four hertz cut-off .
+1592.88,1595.21,Bro014-c0,fh|s^df^rt,,,,uh | clean downsampling .
+1595.78,1596.39,Bro014-c0,fh,,,,and ==
+1596.75,1598.27,Bro014-c0,fh|qw,,,,um - | what else ?
+1599.24,1600.43,Bro014-c0,s^bk|s,,,,uh yeah | a good v_a_d .
+1600.86,1601.8,Bro014-c0,s,,,,we put the good v_a_d .
+1602.89,1603.03,Bro014-c0,fh,,,,so ==
+1603.9,1605.81,Bro014-c0,fh|%--,,,,yeah i don't know | i - i - j- - uh uh - pr- ==
+1605.26,1606.09,Bro014-c1,s.%--,,,,but the latencies ==
+1606.09,1607.58,Bro014-c1,s^bu,20a,,,but you've got the latency shorter now .
+1607.07,1607.77,Bro014-c0,s^m^na,20b.21a,,,latency is short .
+1607.7,1608,Bro014-c5,qy^g^t1,,,,isn't it ?
+1607.77,1608.04,Bro014-c0,%--,,,,is ==
+1608.13,1608.32,Bro014-c0,fh,,,,yeah .
+1608.16,1608.37,Bro014-c1,s^bk,21b,,,yeah .
+1609.38,1610.41,Bro014-c0,s.%-,,,,and so- ==
+1609.95,1612.55,Bro014-c1,s,22a,,,so it's better than the system that we had before .
+1612.72,1612.92,Bro014-c0,s^aa,22b,,,yeah .
+1613.15,1617.96,Bro014-c0,s^df^na,22b+,,,mainly because of the sixty-four hertz and the good v_a_d .
+1613.33,1613.56,Bro014-c1,b,,,,o_k .
+1624.08,1628.99,Bro014-c0,s,,,,and then i took this system and mmm w- - uh i p- - we put the old filters also .
+1629.38,1631.52,Bro014-c0,s^rt,,,,so we have this good system with good v_a_d .
+1632.53,1634.8,Bro014-c0,s,,,,with the short filter and with the long filter .
+1635.26,1636.11,Bro014-c0,fh,,,,and ==
+1637.4,1638.42,Bro014-c0,fh,,,,um ==
+1639.51,1641.08,Bro014-c0,s,23a,,,with the short filter it's not worse .
+1641.08,1641.38,Bro014-c0,fh,,,,so ==
+1641.38,1641.82,Bro014-c0,qy^g,,,,well is it ?
+1644.33,1644.7,Bro014-c1,s^bk,23b,,,o_k .
+1644.7,1645.93,Bro014-c1,s,,,,so that's - that's all fine .
+1645.1,1645.42,Bro014-c0,%-,,,,it's in ==
+1646.19,1647.8,Bro014-c1,s^bu.%--,,,,but what you're saying is that when you do these ==
+1646.37,1646.66,Bro014-c0,fg,,,,yes uh ==
+1647.99,1649.06,Bro014-c1,s^co,,,,so let me try to understand .
+1649.06,1652.6,Bro014-c1,s^bu.%--,24a,,,when - when you do these same improvements to proposal-one ==
+1654.23,1654.66,Bro014-c0,s^bk,24b,,,mm-hmm .
+1655.03,1657.59,Bro014-c1,s^bu.%--,,,,that uh on the - i- ==
+1657.59,1662.47,Bro014-c1,s^bu,25a,,,things are somewhat better uh in proposal-two for the well-matched case .
+1662.46,1664.91,Bro014-c1,s^bu,25a+,,,and somewhat worse for the other two cases .
+1665.14,1665.28,Bro014-c0,s^aa,25b,,,yeah .
+1666.26,1666.93,Bro014-c1,qy.%--,,,,so does uh ?==
+1667.09,1667.85,Bro014-c1,s^bu.%--,,,,when you say uh ==
+1667.85,1668.24,Bro014-c1,fh,,,,so ==
+1669.41,1679.23,Bro014-c1,qy,26a,,,the th- - now that these other things are in there is it the case maybe that the additions of proposal-two over proposal-one are less im- - important ?
+1679.42,1679.58,Bro014-c0,s^aa,26b,,,yeah .
+1680.17,1680.73,Bro014-c0,s^na,26b+.27a,,,probably yeah .
+1681.17,1681.46,Bro014-c1,s^t1,27b,,,i get it .
+1682.46,1683.51,Bro014-c0,fg,,,,um ==
+1687.3,1687.65,Bro014-c0,fg,,,,so yeah .
+1688.07,1688.57,Bro014-c0,fh,,,,uh ==
+1689.05,1692.29,Bro014-c0,s^bk|s^rt^tc,,,,yeah | but it's a good thing anyway to have shorter delay .
+1692.83,1696.04,Bro014-c0,s,,,,then we tried um to do something like proposal-two .
+1696.11,1700.58,Bro014-c0,s,,,,but having um e- - using also m_s_g features .
+1701.71,1705.91,Bro014-c0,s,,,,so there is this k_l_t part which use just the standard features .
+1702.38,1702.72,Bro014-c1,b,,,,mm-hmm .
+1703.56,1703.85,Bro014-c1,b,,,,right .
+1707.01,1709.71,Bro014-c0,s,,,,and then two neura- - two neural networks .
+1709.88,1710.25,Bro014-c1,b,,,,mm-hmm .
+1711.17,1711.23,Bro014-c0,fh,,,,mmm ==
+1711.29,1714.64,Bro014-c0,fh|s,,,,and | it doesn't seem to help .
+1715.74,1718.9,Bro014-c0,fh|s,,,,um | however we just have one result .
+1718.93,1720.7,Bro014-c0,s^e,,,,which is the italian mismatch .
+1720.7,1721.1,Bro014-c0,fh,,,,so ==
+1722.71,1723.22,Bro014-c0,fh,,,,uh ==
+1724.61,1726.75,Bro014-c0,s,28a,,,we have to wait for that to fill the whole table .
+1726.8,1726.89,Bro014-c0,fh,,,,but ==
+1728.36,1728.66,Bro014-c1,s^bk,28b,,,o_k .
+1730.2,1735.02,Bro014-c1,qy^bu^rt,29a,,,there was a start of some effort on something related to voicing or something ?
+1735.08,1735.38,Bro014-c1,qy.%--,,,,is that ?==
+1735.82,1736.06,Bro014-c0,s^aa,29b,,,yeah .
+1736.73,1738.32,Bro014-c0,fh|s^aa^r,29b+,,,um | yeah .
+1738.49,1745.28,Bro014-c0,s,30a,,,so basically we try to uh find good features that could be used for voicing detection .
+1746.26,1749.17,Bro014-c0,fh|s.%--,,,,uh | but it's still uh - on the ==
+1749.17,1750.04,Bro014-c0,fh,,,,um ==
+1751.19,1752.1,Bro014-c5,s,30b,,,oh well i have the picture .
+1751.44,1751.56,Bro014-c0,x,,,,t- ==
+1752.23,1756.67,Bro014-c0,s,,,,we - w- - basically we are still playing with matlab to - to look at - at what happened .
+1755.42,1755.95,Bro014-c2,qw.%-,,,,what sorts of ?==
+1755.64,1755.83,Bro014-c5,b,,,,yeah .
+1756.67,1756.89,Bro014-c0,fh,,,,and ==
+1757.21,1758.83,Bro014-c2,qw^rt,31a,,,what sorts of features are you looking at ?
+1757.67,1758.59,Bro014-c5,s.%-,,,,we have some ==
+1759,1767.79,Bro014-c0,s^rt,31b,,,so we would be looking at um the variance of the spectrum of the excitation .
+1761.08,1764.01,Bro014-c5,s^t3,,,,uh um this this and this .
+1767.79,1768.53,Bro014-c0,s^rt,31b+,,,something like this .
+1769.86,1772,Bro014-c0,s^e^rt,31b++,,,which is - should be high for voiced sounds .
+1773,1773.83,Bro014-c0,fh,,,,uh ==
+1773.35,1773.68,Bro014-c2,s^co,,,,wait a minute .
+1773.68,1774.45,Bro014-c2,qw^rt,32a,,,i - what does that mean ?
+1773.83,1774.13,Bro014-c0,%-,,,,we ==
+1774.45,1778.28,Bro014-c2,s^e,32a+,,,the variance of the spectrum of excitation .
+1779.11,1779.45,Bro014-c0,s^bk,32b,,,yeah .
+1779.45,1779.85,Bro014-c0,s.%--,32b+,,,so the ==
+1782.74,1788.15,Bro014-c0,s.%-,32b++.33a,,,so basically the spectrum of the excitation for a purely periodic sig- - signal shou- - sh- ==
+1786.15,1786.51,Bro014-c1,fg,,,,o_k .
+1786.51,1786.8,Bro014-c1,s^bk.%--,33b,,,yeah w- ==
+1787.52,1799.48,Bro014-c1,s,33b+.34a,,,what yo- - what you're calling the excitation as i recall is you're subtracting the - the um - the mel - mel - mel filter uh spectrum from the f_f_t spectrum .
+1789.24,1789.38,Bro014-c0,%,,,,e- ==
+1798.97,1799.44,Bro014-c0,s^aa,34b.35a,,,that's right .
+1799.44,1799.58,Bro014-c0,s^aa,34b+,,,yeah .
+1799.68,1800,Bro014-c1,s^bk,35b,,,right .
+1799.85,1800.02,Bro014-c0,fg,,,,so ==
+1799.95,1800.26,Bro014-c5,b,,,,mm-hmm .

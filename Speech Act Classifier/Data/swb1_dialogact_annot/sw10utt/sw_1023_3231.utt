@@ -1,0 +1,409 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3231_1171_1415
+TOPIC#:		348
+DATE:		911009
+TRANSCRIBER:	GL
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+qy          A.1 utt1:  Do you or your husband work for T I,  /
+%          A.1 utt2: {C or } -/  
+
+na          B.2 utt1:  I'm a contract person at T I --   
+
+bk          A.3 utt1:  {F Oh, } are you, -/  
+
++          B.4 utt1:  -- in fact involved with, {F uh, } Data Switchboard -- /  
+
+bk          A.5 utt1:  {F Oh, } I see.  /
+ba          A.5 utt2:  {D Well, } that's neat. /  
+
+qy          B.6 utt1:  -- {C and, } {F uh, } do you work for T I? /  
+
+ny          A.7 utt1:  Uh-huh. /  
+
+bk          B.8 utt1:  Uh-huh. /  
+
+sd          A.9 utt1:  {C So, } I've worked for them for several years, {D like } twelve now, I guess. /  
+
+sd          B.10 utt1:  {F Oh, } you sound very young --    
+
+b          A.11 utt1:  <Laughter> Right,  /
+sd          A.11 utt2: I try to, /  
+
++         B.12 utt1:  -- <Laughter> like just out of college <laughter>. /  
+
+sd          @A.13 utt1:  I try to think of myself as young,  /
+sd          @A.13 utt2: {C but, } {F uh, } {D well, } have you seen any movies recently? /  
+
+^h          B.14 utt1:  {F Uh, } I'm trying to think,  /
+sd          B.14 utt2: we saw, {F uh, } DANCES WITH WOLVES -- /  
+
+bh          A.15 utt1:  {F Oh, } did you? /  
+
+qy          B.16 utt1:  -- {C and, } {F uh, } have you seen that one? /  
+
+nn          A.17 utt1:  No,  /
+sd^e          A.17 utt2: I  haven't,   /
+sd          A.17 utt3: I --   
+
+sv          B.18 utt1:  That was excellent. /  
+
++          A.19 utt1:  -- [ have, + have  ] a hard time with movies that are real long.  /
+%          A.19 utt2:  I don't know. /  
+
+sd          B.20 utt1:  {D Well, } {C so } oddly enough, I do too,  /
+sd          B.20 utt2: I get tired of sitting there,  and --   
+
+b          A.21 utt1:  Yeah. /  
+
++          B.22 utt1:  -- so does my husband,  /
+sd          B.22 utt2: {C but } we both just thoroughly,  {D you know } --   
+
+b          A.23 utt1:  Yeah. /  
+
++          B.24 utt1:  -- enjoyed it, just really liked it -- /  
+
+sd          A.25 utt1:  {D Well, } I've heard a lot of good things about it. /  
+
+^h          B.26 utt1:  -- {C and, } {F uh, } I'm trying to think,  /
+sd          B.26 utt2: we went to see [ a, + {F uh, } a  ] real funny one,  /
+sd          B.26 utt3: I can't think now what the name of it was -- /  
+
+o@          A.27 utt1:  Was it,   
+
+sd          B.28 utt1:  -- I've gone blank. /  
+
++@          A.29 utt1:  {F Uh, } [ we, + my wife and I  ] went and saw a couple of funny ones.  /
+sd          A.29 utt2: We saw THE NAKED GUN, TWO AND A HALF -- /  
+
+sd          B.30 utt1:  {F Oh, } we have not seen that,  /
+sd          B.30 utt2: we want to see that one.  /
+
+sv          A.31 utt1:  -- {C and } [ that was, + that was  ] pretty funny,  /
+sd          A.31 utt2: {C and then } we saw, - /
+o          A.31 utt3: what was the spoof on TOP GUN,  /
+%          A.31 utt4: it's -- -/  
+
+sd          B.32 utt1:  {F Oh, } I haven't seen that one. /  
+
+sd          A.33 utt1:   -- {F oh, } I can't think of what that was called.  /
+sd          A.33 utt2:  We saw that too,  /
+%          A.33 utt3: tha-, - /
+sd          A.33 utt4: I was pretty disappointed in that one. /  
+
+ bh         B.34 utt1:  Were you. /  
+
+aa          A.35 utt1:  <Printer> Yeah,  /
+%          A.35 utt2: [ {C but, } + {F uh, } {C so, } ] {D you know, } through the summer, - /
+sd          A.35 utt3: we have small children, so we don't get to see too many, but we've seen I guess two or three movies this past summer. /  
+
+sd          B.36 utt1:  My husband doesn't enjoy the shows as much going to them,  /
+sd          B.36 utt2: [ he + ] likes to rent them -- /  
+
+b          A.37 utt1:  Uh-huh. /  
+
+sd          B.38 utt1:  --  {C and so }  we watch a lot of them, {D you know, } at home --   
+
+b          A.39 utt1:  Right. /  
+
++          B.40 utt1:  -- as they come out,  /
+%          B.40 utt2: {C and, } {F uh, } -/  
+
+qy          A.41 utt1:  Have you seen GHOSTS yet? /  
+
+ny          B.42 utt1:  Yes,  /
+ny^r          B.42 utt2: yes. /  
+
+sd          A.43 utt1:  [ I really, + I  ] enjoyed that movie, /  
+
+bh          B.44 utt1:  Did you?  /
+sd          B.44 utt2: {D Now } [ I, + I  ] was real disappointed -- /  
+
+b          A.45 utt1:  Really. /  
+
+sd          B.46 utt1:  -- I'm a real big Patrick Swayze fan -- /  
+
+b          A.47 utt1:  Uh-huh. /  
+
+sd          B.48 utt1:  -- {C and, } {F uh, } I was really disappointed in it,  /
+%          B.48 utt2: it was-, - /
+%          B.48 utt3: one, - /
+sv          B.48 utt4: I don't think it was as funny as what I was [ an-, + anticipating,  ]  /
+sd          B.48 utt5: {C and } I guess I was expecting it to be kind of funny --   
+
+b          A.49 utt1:  {F Oh, } yeah,  /
+%          A.49 utt2: {D well, } -/  
+
++          B.50 utt1:  -- [ and, + {F uh, } and  ] it wasn't --   
+
+b          A.51 utt1:  Yeah. /  
+
++          B.52 utt1:  -- {D you know, } at all,  /
+sv          B.52 utt2: [ it was, + it was  ] </printer> more of a love story -- /
+
+b          A.53 utt1:  Yeah, /  
+
+sd          B.54 utt1:  -- {C and, } {F uh, } {C so } I was really disappointed in that because I like him --   
+
+b          A.55 utt1:  Uh-huh. /  
+
++          B.56 utt1:  -- real well.  /
+sd          B.56 utt2:  We just got through watching one with, {F uh, } {F uh, } is it Claude Van Damme --    
+
+^2          A.57 utt1:  {F Uh, } Van Damme,  /
+aa          A.57 utt2: yeah,  /
+sd          A.57 utt3: I think, /  
+
++          B.58 utt1:  -- {D yeah, }  and, {F uh, } enjoyed it,  /
+sd          B.58 utt2: I can't think what the name of - /
+sv          B.58 utt3:  it was  [ a, + ] {F uh, }  of course, one of the typical --     
+
+b          A.59 utt1:  Right. /  
+
++          B.60 utt1:  -- {D you know, } kicking, fighting --   
+
+b          A.61 utt1:  Right. /  
+
++          B.62 utt1:  -- lots of blood <laughter> and guts and all that --   
+
+b          A.63 utt1:  Uh-huh. /  
+
++          B.64 utt1:  -- <Laughter> type movie,  /
+sd          B.64 utt2: [ {C and, } + {C and }  ] we enjoyed that,  /
+qy          B.64 utt3: {C and, } {F uh, } [ the, + {F uh, } {F uh, } the  ] one with Jody Foster, did you see it? /  
+
+qy          A.65 utt1:  {F Oh, } SILENCE OF THE LAMBS? /  
+
+ny          B.66 utt1:  Yes. /  
+
+ny         A.67 utt1:  Yes,  /
+sd^e          A.67 utt2:  I did. /  
+
+qy          B.68 utt1:  Wasn't that excellent? /  
+
+ny          A.69 utt1:  Yeah,  /
+sd^e          A.69 utt2: I really enjoyed that a lot. /  
+
+b          B.70 utt1:  Yeah,  /
+sd          B.70 utt2: that was one [ that, + that  ] stayed with me --   
+
+b          A.71 utt1:  Uh-huh. /  
+
++          B.72 utt1:  -- {D you know, } for a month,  /
+%          B.72 utt2: I just, - /
+sd          B.72 utt3: I kept thinking about it, {D you know, } /  
+
+b          A.73 utt1:  Yeah,  /
+sv          A.73 utt2: {D well, } it's amazing,  /
+sv          A.73 utt3: {C but } really, {E I mean, } when you stop and think about it, Anthony Perkins didn't have that big a role in the movie -- /  
+
+aa          B.74 utt1:  No. /  
+
+sv          A.75 utt1:  -- and yet it was his character that was so intriguing, /  
+
+sv          B.76 utt1:  {F Oh, } it was excellent,  /
+sv          B.76 utt2: [ {C and, } + {C and, }  ] of course, he's such a, {F uh, } very good actor anyway -- /  
+
+b          A.77 utt1:  Yeah. /  
+
+sv          B.78 utt1:  -- {C and, } I think he made the movie, /  
+
+aa          A.79 utt1:  Yeah,  /
+aa          A.79 utt2: I do too,  /
+sd          A.79 utt3: I really did -- /  
+
+b          B.80 utt1:  Yeah, /  
+
+sv          A.81 utt1:  -- {D you know, } Jody Foster was good, too, but [ I think, + I think  ] Anthony Perkins was the one [ that, + that  ] really made the movie,  /
+aa          A.81 utt2: I agree with you. /  
+
+qr          B.82 utt1:  Is it Anthony Perkins or Anthony Hopkins? /  
+
+sd          A.83 utt1:  {F Oh, } Hopkins,  /
+fa          A.83 utt2: I'm sorry -- /  
+
+b^m          B.84 utt1:  Hopkins,  /
+b          B.84 utt2: uh-huh. /  
+
+b^r          A.85 utt1:  -- Hopkins,  /
+b          A.85 utt2:  yeah.  /
+sd          A.85 utt3:  I always get those --   
+
+b          B.86 utt1:  I know -- /  
+
++          A.87 utt1:  --  ((   ))  mixed up. /  
+
+b          B.88 utt1:  -- I know.  /
+%          B.88 utt2: It, {F uh, } {D well, } - /
+sd          B.88 utt3: I'm not a real big Jody Foster fan,  /
+sd          B.88 utt4: {C but } I thought she was good in that. /  
+
+%          A.89 utt1:  {D Well, } I agr-,  /
+%          A.89 utt2: {D well, } I haven't been, - /
+sd          A.89 utt3: [ I'm, + I  ] saw her in THE KEYS,  /
+sd          A.89 utt4: {C and } I thought that was a pretty good movie,  /
+sv          A.89 utt5: {C but } I thought she, -/  
+
+%          B.90 utt1:  {D Now, } I didn't see that one. /  
+
+sv          A.91 utt1:  [ That was, + that was  ] pretty interesting movie,  /
+%          A.91 utt2: [ {C and, } + {F uh, } {C but, }  ] {D you know, } [ I, + I  ] did,  /
+sd          A.91 utt3: I really liked the SILENCE OF THE LAMBS,  /
+sv          A.91 utt4: that was really intriguing,  /
+sd          A.91 utt5: {C and } [ it, + it  ] didn't scare me all that much, {D you know, }  /
+sd          A.91 utt6: {C and } [ I, + I  ] don't like to go to movies to be scared,  /
+sd          A.91 utt7: that's not why I go --  /
+
+aa          B.92 utt1:  No,  /
+aa^r          B.92 utt2: no -- /  
+
+%          A.93 utt1:  -- {D so, } -/  
+
+sd          B.94 utt1:  -- I like a good suspenseful --   
+
+b          A.95 utt1:  Right,  /
+sv          A.95 utt2: {C and } that one was. /  
+
++          B.96 utt1:  -- story,  /
+sv          B.96 utt2: {C and } that one very definitely kept you on the edge of the seats,  /
+sd          B.96 utt3: in fact, I want to, {F uh, } rent it when it comes out for my husband to see,  /
+%          B.96 utt4: {C because, } he didn't -- -/  
+
+qy          A.97 utt1:  {F Oh, } he didn't see it? /  
+
+ng          B.98 utt1:  -- he won't go see that,  /
+nn          B.98 utt2: no, -- /  
+
+bk          A.99 utt1:  Oh. /  
+
+sd          B.100 utt1:  -- I went with, {F uh, } our daughter --    
+
+b          A.101 utt1:  Uh-huh. /  
+
++          B.102 utt1:  -- [ {C and, } + {F uh, } {C so, }  ] {D you know, } saw it with her, and, {F uh, } enjoyed it.  /
+sd          B.102 utt2:  My all time favorite is WEEKEND AT BERNIE'S. /  
+
+bh          A.103 utt1:  {F Oh, } really? /  
+
+qy          B.104 utt1:  Did you see it? /  
+
+ny          A.105 utt1:  Yeah,  /
+sd^e          A.105 utt2: I've seen it. /  
+
+sd          B.106 utt1:  {F Oh, } I've seen it,  {D you know, }  /
+sd          B.106 utt2: we saw it at the movies,  /
+sd          B.106 utt3: {C and then } we've rented it several times -- /  
+
+b          A.107 utt1:  Uh-huh. /  
+
+sd          B.108 utt1:  -- {C and, } we just love it,  /
+sd          B.108 utt2: in fact we have a ten year old grandson  [ that, + ]  /
+sd          B.108 utt3: he and my husband and I, we just sit there and  cackle --    
+
+b          A.109 utt1:  Uh-huh.  /
+b          A.109 utt2:  Yeah,  /
+sd          A.109 utt3: I've seen that. /  
+
++          B.110 utt1:  -- <Laughter> {D you know, } just get hysterical. /  
+
+sv          A.111 utt1:  [ It's pretty, + it's pretty  ] cute.  /
+sd          A.111 utt2: I guess, {D you know, } as far as comedies go, probably my favorite is YOUNG FRANKENSTEIN. /  
+
+b          B.112 utt1:  {F Uh, } yes,  /
+b^r          B.112 utt2: yes, /  
+
+sd          A.113 utt1:  I love that movie, /  
+
+sd          B.114 utt1:  My husband liked that -- /  
+
+b          A.115 utt1:  Yeah,  /
+%          A.115 utt2: {C so, } -/  
+
+sd          B.116 utt1:  -- {F uh, } he's a big Gene Wilder fan, /  
+
+b          A.117 utt1:  Yeah,  /
+sd          A.117 utt2: {D well, } Gene Wilder doesn't do that much for me,  /
+sd          A.117 utt3: {C but } I'm a big, {F uh, } Mel Brooks fan -- /  
+
+b          B.118 utt1:  Uh-huh,  /
+b^r          B.118 utt2: uh-huh. /  
+
+%          A.119 utt1:  -- all his movies, I [ really, + really  ]  ((   )) . -/  
+
+sd          B.120 utt1:  He has a new one out. /  
+
+qy          A.121 utt1:  He does? /  
+
+ny          B.122 utt1:  Yeah,  /
+ny          B.122 utt2: uh-huh.  /
+sd          B.122 utt3:  {F Uh, } I have seen it advertised.  /
+sd          B.122 utt4: I don't know what the name of it is. /  
+
+qy          A.123 utt1:  {F Oh, } is that the one [ with, + ] that's he's starring in? /  
+
+ny          B.124 utt1:  Uh-huh,  /
+ny^r          B.124 utt2: uh-huh. /  
+
+b          A.125 utt1:  {F Oh, } yeah,  /
+sd          A.125 utt2: that came out,  {D like } early in the summer or  something like that. /  
+
+b          B.126 utt1:  Yes,  /
+b^r          B.126 utt2: yes. /  
+
+b          A.127 utt1:  Yeah,  /
+sd          A.127 utt2: I haven't seen that one either. /  
+
+b          B.128 utt1:  Yeah,  /
+ sd         B.128 utt2: my husband wants to see that one,  /
+qy          B.128 utt3: {C and, } {F uh, } did you see that one that he made years and years ago about [ the, + {F uh, } the  ] sheriff -- /  
+
+qy^d          A.129 utt1:  {F Oh, } BLAZING SADDLES. / 
+
+na        B.130 utt1: -- BLAZING SADDLES. /  
+
+ ny         A.131 utt1:  Yeah,  /
+ ny         A.131 utt2: uh-huh. /  
+
+sd          B.132 utt1:  {F Oh, } that's my husband's all time favorite, I think. /  
+
+bk          A.133 utt1:  {F Oh, } uh-huh.  /
+sd          A.133 utt2:  [ I like, + I like  ] that one too, but I thought YOUNG FRANKENSTEIN was better. /  
+
+qy          B.134 utt1:  Did you? /  
+
+ny          A.135 utt1:  Yeah,  /
+sv^e          A.135 utt2: [ that, + that  ] [ was just, + {D you know, } had  ] all kinds of things throughout the whole movie, /  
+
+x          B.136 utt1:  <Laughter>.   
+
+sd          A.137 utt1:  I just really enjoyed it,  /
+^h          A.137 utt2: {C and, } {F uh, } {F um, } I'm trying to think,  /
+sd          A.137 utt3: {C because } we saw another one that we thought was really good, early this summer, that was a suspenseful movie.  /
+^h          A.137 utt4: I'm trying to remember what it was,  /
+%          A.137 utt5: {C because } [ it, + {D you know, } it's,  ] -/ 

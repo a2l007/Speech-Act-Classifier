@@ -1,0 +1,35 @@
+Segmentation Agreement by Meeting Chunk
+
+Statistics per meeting are calculated by equally weighting the values
+for each REFERENCE/LABELER combination, and then averaging them.
+
+
+---------------------------------------------
+RELIABILITY CHUNK    # of LABELERS  PERCENT
+---------------------------------------------
+Bed003.300-420.csv	   2        58.1%
+Bed006.1900-2020.csv	   3	    67.1%
+Bed011.3100-3220.csv	   2	    76.5%
+Bed015.2401-2706.csv	   2	    66.6%
+Bmr005.2670-2790.csv	   2	    58.1%
+Bmr006.3050-3170.csv	   3	    66.8%
+Bmr007.100-220.csv	   3	    62.8%
+Bmr014.2000-2300.csv	   3	    69.6%
+Bmr018.400-520.csv	   3	    59.5%
+Bmr027.1464-1773.csv	   2	    64.7%
+Bro004.3600-3900.csv	   3	    73.5%
+Bro007.700-820.csv	   3	    62.9%
+Bro015.400-520.csv	   2	    83.6%
+Bro028.2442-2918.csv	   2	    63.3%
+---------------------------------------------
+Mean*				    66.65%
+Standard Deviation**		     6.98
+---------------------------------------------
+
+
+* Mean Segmentation Percentage is a linear average of the
+14 meetings above, each of which given an equal weighting.
+
+** Standard Deviation is the linear standard deviation of
+the 14 meetings above.
+

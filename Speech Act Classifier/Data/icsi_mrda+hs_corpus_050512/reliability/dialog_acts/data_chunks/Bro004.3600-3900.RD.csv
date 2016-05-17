@@ -1,0 +1,64 @@
+3597.12,3597.36,Bro004-c3,s^aa,1b.2a,,{yeah} .
+3598.86,3601.29,Bro004-c1,s^bu^rt,1a,,i mean - i think they're both - it sounded like they were roughly equal .
+3601.63,3602.22,Bro004-c1,qy^bu,1a+,,is that about right ?
+3602.86,3603.05,Bro004-c3,,,,yeah .
+3603.59,3603.94,Bro004-c1,s^bk,2b,,yeah .
+3605.31,3608.02,Bro004-cB,s,,added i,because um - i think that'll be running linux .
+3608.02,3609.93,Bro004-cB,s,,,and sw- - swede and fudge are already running linux .
+3609.93,3616.6,Bro004-cB,fh|s^cs,,added i,so um - | i could try to get um - train- - the neural network trainings or the h_t_k stuff running under linux .
+3616.65,3619.39,Bro004-cB,s,3a,,and to start with i'm wondering which one i should pick first .
+3620.18,3621.16,Bro004-c1,h|s,3b,,uh - | probably the neural net .
+3621.16,3624.13,Bro004-c1,s^df.%--,3b+,,cuz it's probably - it - it's - it's um ==
+3624.75,3625.47,Bro004-c1,s^no,3b++,,well i - i don't know .
+3625.89,3626.2,Bro004-c1,%--,,,they both ==
+3627.49,3631.93,Bro004-c1,s^rt,,,h_t_k we use for {uh} - um this aurora stuff .
+3632.39,3639.5,Bro004-c1,fh|s,,,um - um - | i think it's not clear yet what we're gonna use for trainings .
+3639.6,3642.52,Bro004-c1,fh|s,,,uh - | well there's the trainings .
+3642.52,3645.3,Bro004-c1,fh|qr,,,uh - is it the training that takes the time or the decoding ?
+3645.67,3647.88,Bro004-c1,fh|qy,,,uh - is it about equal between the two ?
+3648.42,3649.55,Bro004-c1,,,,for - for aurora ?
+3649.21,3649.37,Bro004-c3,,,,{at} {least} - {at} {least} for {the} {first} - {for} {the} {well} {matched} ==
+3649.37,3649.95,Bro004-c3,,,,{for} h_t_k ?
+3650.66,3651.29,Bro004-c1,,,,for - yeah for .
+3651.29,3651.79,Bro004-c1,,,,the aurora ?
+3652.76,3654.48,Bro004-c3,,,,uh - training is longer .
+3655.15,3655.5,Bro004-c1,,,,o_k .
+3655.45,3655.68,Bro004-c3,,,,yeah .
+3657.34,3657.81,Bro004-c1,,,,o_k .
+3658.92,3660.16,Bro004-c1,,,,well i don't know how we can ==
+3661.14,3661.85,Bro004-c1,,,,i don't know how to ==
+3662.66,3663.84,Bro004-c1,,,,do we have h_t_k source ?
+3663.84,3664.17,Bro004-c1,,,,is that ?==
+3665.08,3665.55,Bro004-c3,,,,mmm .
+3665.55,3665.84,Bro004-c1,,,,yeah .
+3668.09,3669.78,Bro004-c1,,,,you would think that would fairly trivially ==
+3670.96,3671.95,Bro004-c1,,,,the training would anyway .
+3671.95,3677.18,Bro004-c1,,,,th- - the testing uh - i don't - i don't think would parallelize all that well .
+3677.18,3683.79,Bro004-c1,,,,but i think that you could certainly do um - distributed sort of ah ==
+3683.79,3686.3,Bro004-c1,,,,no it's the - each individual sentence .
+3687.22,3689.16,Bro004-c1,,,,is pretty tricky to parallelize .
+3689.62,3691.83,Bro004-c1,,,,but you could split up the sentences in a test set .
+3691.11,3693.21,Bro004-c0,,,,they have a - they have a thing for doing that .
+3693.21,3695.13,Bro004-c0,,,,and th- - they have for awhile in h_t_k .
+3695.52,3695.76,Bro004-c1,,,,yeah .
+3695.77,3697.85,Bro004-c0,,,,and you can parallelize the training .
+3698.49,3699.86,Bro004-c0,,,,and run it on several machines .
+3698.63,3698.95,Bro004-c1,,,,aha !
+3699.86,3701.37,Bro004-c0,,,,and it just basically keeps counts .
+3701.43,3703.85,Bro004-c0,,,,and there's something - a final thing that you run .
+3703.85,3705.63,Bro004-c0,,,,and it accumulates all the counts together .
+3705.7,3706.27,Bro004-c3,,,,mmm .
+3705.82,3706.22,Bro004-c1,,,,i see .
+3706.68,3709.82,Bro004-c0,,,,i don't what their scripts are set up to do for the aurora stuff .
+3710.98,3721.91,Bro004-c1,,,,something that we haven't really settled on yet is other than this aurora stuff uh - what do we do large vocabulary training slash testing for uh - tandem systems ?
+3721.91,3724.67,Bro004-c1,,,,cuz we hadn't really done much with tandem systems for larger stuff .
+3724.93,3727.67,Bro004-c1,,,,cuz we had this one collaboration with c_m_u and we used sphinx .
+3728.33,3730.29,Bro004-c1,,,,uh - we're also gonna be collaborating with s_r_i .
+3730.29,3731.62,Bro004-c1,,,,and we have their - have theirs .
+3732.24,3735.31,Bro004-c1,,,,um - so i don't know .
+3736.26,3743.91,Bro004-c1,,,,um - so i - i think the - the advantage of going with the neural net thing is that we're gonna use the neural net trainings no matter what .
+3744.27,3745.37,Bro004-c1,,,,for a lot of the things we're doing .
+3746.14,3766.43,Bro004-c1,,,,whereas exactly which h_m_m - {gaussian} {mixture} {based} h_m_m thing we use is gonna depend uh - so with that maybe we should uh - go to our digit recitation task .
+3773.79,3776.28,Bro004-c1,,,,and it's about eleven fifty .
+3779.4,3779.94,Bro004-c1,,,,canned .
+3786.7,3788.21,Bro004-c1,,,,uh - i can - i can start over here .

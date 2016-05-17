@@ -1,0 +1,331 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3821_1476_1438
+TOPIC#:		304
+DATE:		920122
+TRANSCRIBER:	glp
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Speaker A came in very loud, but Speaker B was hard
+to hear either because he was soft-spoken or the tape just did not
+pick him up very well.
+
+===========================================================================
+  
+
+o          @A.1 utt1:  {D Well, } credit cards <laughter>. /  
+
+b          B.2 utt1:  Yeah. /  
+
+sd          A.3 utt1:  I'll tell you what, [ I, + I ] can't say a whole lot about credit cards because I, {F uh, } tore mine up. /  
+
+bh          B.4 utt1:  Is that right?  /
+sd          B.4 utt2:  [ [ I, + I ] know pe-,  + I know some other people ] that have done that. /  
+
+b          A.5 utt1:  Yeah,  /
+sd          A.5 utt2: {F uh, } I got in some [ problems with, + {F uh, } <sniffing> financial problems because  of ] credit cards  /
+sd          A.5 utt3: {C so } I, {F uh, } basically just got rid of all of them. /  
+
+%          B.6 utt1:  {F Um. } /  
+
+sd          A.7 utt1:  [ I, + I ] have [ a, + a ] couple.  /
+sd          A.7 utt2:  I have a, {F uh, } gas card [ that I, + that I ] use just for gas and --   
+
+b          B.8 utt1:  Uh-huh <<faint>>. /  
+
++          A.9 utt1:  -- {D you know, } {F uh, } one that I use just for <sniffing> emergencies  /
+%          A.9 utt2: {C but, } -/  
+
+b          B.10 utt1:  Uh-huh,  /
+b          B.10 utt2: yeah,  /
+sd          B.10 utt3: [ [ I h-, + I have, ] + we have ] [ some, + some ] friends that did [ the, + exactly the ] same thing. /
+sd          B.10 utt4:  [ They, + {F uh, } {D you know, } they ] kind of overextended and  borrowed and borrowed  /
+sd          B.10 utt5: {C and } finally they realized that [ they were, + they were ] abusing them and weren't going to get out of the hole  /
+sd          B.10 utt6: {C and } they just cut them all up except [ for, + for ] one they kept for emergencies  /
+sd          B.10 utt7: {C and } --   
+
+b          A.11 utt1:  Yeah. /  
+
++          B.12 utt1:  -- they're still paying away to get out of debt. /  
+
+aa          A.13 utt1:  I know it. /  
+
+o          B.14 utt1:  {C But, }  no,  /
+sd          B.14 utt2: I did just the opposite.  /
+sd          B.14 utt3:   [ I, + I ] guess [ I,  + I ] sort of followed in my, {F uh, } parents' footsteps.  /
+sd          B.14 utt4:  I have quite a few of them.  /
+sd          B.14 utt5:  I --   
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  -- use them continually, /  
+
+x          A.17 utt1:  <Sniffing>.   
+
+sd          B.18 utt1:  {C but } [ I, + {F uh, } I ] basically never charge anything I don't have the money in the bank to pay for.   /
+sd          B.18 utt2: [ {C And, } + {F uh, } {C and } ] I always pay them off totally every # month. # /  
+
+bh          A.19 utt1:  # {F Oh, } # is that right? /  
+
+b          B.20 utt1:  Yeah. /  
+
+sv          A.21 utt1:  [ That's a, + that's a ] good policy. /  
+
+aa          B.22 utt1:  Yeah,  /
+sd          B.22 utt2: {C and } [ [ it, + {D you know, } {E I mean, } they, ] + they're ] just a convenience for me.  /
+sd          B.22 utt3:  I don't have to get cash out of the bank,  /
+sd          B.22 utt4: {C and } I don't have [ to + <laughter> to ] be writing checks  /
+%          B.22 utt5: [ {C and } -- +   
+
+b          A.23 utt1:  Yeah. /  
+
++          B.24 utt1:  -- {C and, }  ]  {F uh, } -/  
+
+b          A.25 utt1:  Yeah,  /
+sd          A.25 utt2: {F uh, } sometimes I wish I had them,  /
+sd          A.25 utt3: {C but } in most cases, I'm glad I don't --   
+
+b          B.26 utt1:  # Uh-huh. # /  
+
++          A.27 utt1:  -- # because  [ I, + # {D you know, } unfortunately [ [ I, + I,  ] + I ]  ] don't have the control you have <laughter>. /  
+
+x          B.28 utt1:  <Laughter>.   
+
+sd          A.29 utt1:  I wish I did,  /
+sd          A.29 utt2: [ {C but } -- +   
+
+b          B.30 utt1:  Yeah. /  
+
++          A.31 utt1:  -- {C but } ] I don't.  /
+%          A.31 utt2:  {F Uh, } {C and }  [ it, + {D you know, } it, ] - /
+sd          A.31 utt3: I just don't want to get into that situation again,  /
+%          A.31 utt4: {C so } --   
+
+b          B.32 utt1:  Uh-huh. /  
+
++          A.33 utt1:  -- we'll, -/  
+
+b          B.34 utt1:  Yeah,  /
+sv          B.34 utt2: {E I mean, } [ it, + it's ] easy,  /
+sd          B.34 utt3: {E I mean, } you don't have anything transferring, just a little signature,  /
+o          B.34 utt4: so what,  (( {D you know } ))  <laughter>. /  
+
+aa          A.35 utt1:  {F Oh, } that's it.  /
+%          A.35 utt2:  {D See, } {C and } that's, - /
+sd          A.35 utt3: even with my gas card --   
+
+b          B.36 utt1:  Uh-huh. /  
+
++          A.37 utt1:  -- {D you know, } I find that I'll go in to get some gas  /
+sd          A.37 utt2: {C and } I'll end up buying, {D you know, } <sniffing> candy and drinks and --   
+
+b          B.38 utt1:  Right. /  
+
++          A.39 utt1:  -- {D you know, } sweets and whatever,  /
+sd          A.39 utt2: {C and then } at the end of the month [ I, + {D you know, } I ] get a bill  /
+sd(^q)       A.39 utt3: {C and } I'm thinking --   
+
+bf          B.40 utt1:  Surprising. /  
+
++          A.41 utt1:  -- what did I get,   
+
+x          B.42 utt1:  <Laughter>.   
+
++          A.43 utt1:  that costs so much. /  
+
+b          B.44 utt1:  Yeah. /  
+
+%          A.45 utt1:  {C And, } -/  
+
+%          B.46 utt1:  {D Well, } {D you know, } {C but } the, -/  
+
+x          A.47 utt1:  <Sniffing>.   
+
+sv          B.48 utt1:  {E I mean, } there are [ sort + some ] inherent limits there,  /
+sv          B.48 utt2: [ you're not going to, + you're not going to ] run up a few thousand dollars for that,  /
+^g          B.48 utt3: right. /  
+
+ny          A.49 utt1:  Yeah,  /
+aa          A.49 utt2: [ that, + that's ] true,  /
+sd          A.49 utt3: {C but } [ I can, + I can ] [ under-, + certainly understand ] where <sniffing>, -/  
+
+%          B.50 utt1:  {D Now }  I, -/  
+
+%          A.51 utt1:  {D You know, } -/  
+
+%          B.52 utt1:  W-,  - /
+sd          B.52 utt2: the thing that probably helps me most doing that is really, {D you know, } <laughter> {F uh, } not so much discipline,  /
+sd          B.52 utt3: {E I mean, } {D well, } {E I mean, } you have sort of a discipline in general about finances,  /
+sd          B.52 utt4: [ {C but, } +  {C but } ] I hate [ [ their, + their ] rates so  badly,  + {E I mean } --   
+
+aa          A.53 utt1:  {F Oh, } yeah. /  
+
++          B.54 utt1:  -- their interest rates so badly ] --   
+
+%          A.55 utt1:   Isn't it, - /
+sv          A.55 utt2: # that's  unbelievable. # /  
+
++          B.56 utt1:  -- # that I, # -/  
+
+%          A.57 utt1:  How, - /
+^h          A.57 utt2: let me ask you this.  /
+qw          A.57 utt3:  How, how old are you? /  
+
+sd          B.58 utt1:  I'm, {F uh, } thirty-three. /  
+
+b^m          A.59 utt1:  Thirty-three? /  
+
+ar          B.60 utt1:  Thirty-two,  /
+fa          B.60 utt2: excuse me. /  
+
+bk          A.61 utt1:  Okay. /  
+
+x          B.62 utt1:  <Laughter>.   
+
+qy^d          A.63 utt1:  <Sniffing> You'll be thirty-three this year? /  
+
+ny          B.64 utt1:  Yeah. /  
+
+sv          A.65 utt1:  <Laughter> You want to be thirty-two as long as you can, {F huh. } /  
+
+x          B.66 utt1:  <Laughter>.   
+
+sd          A.67 utt1:  <Laughter> It's coming. /  
+
+b          B.68 utt1:  Uh-huh. /  
+
+b          A.69 utt1:  Yeah,  /
+sd          A.69 utt2: [ I, + I ] know what you mean about the interest rates.  [ It's, + {F uh, } it's ] unbelievable. /  
+
+sd          B.70 utt1:  {D You know, } [ I just, + that just ] irritates me so much [ that, + that ] I refuse to pay them interest   /
+sd          B.70 utt2: [ {C and, } + {C and } ] my wife recently, {F uh, } decided she had to go to Brazil and was going to take off  /
+sd          B.70 utt3: {C and, }  she's from there [ and -- +   
+
+b          A.71 utt1:  Uh-huh. /  
+
++          B.72 utt1:  -- and,  ] {F uh, } didn't really have the money,  /
+sd          B.72 utt2: {C but, } {D you know, } she could pay it off,  /
+sd          B.72 utt3: {C and so } I,   
+
+x          A.73 utt1:  <Sniffing>.   
+
++          B.74 utt1:  sort of reluctantly let her put it on credit cards,  /
+sd          B.74 utt2: {C but } she's paying it,  /
+sd          B.74 utt3: {C and, }  {F uh, } I just won't do it.  /
+sd          B.74 utt4: {E I mean, } she's paying, [ I don't know, + I don't know ] what per month, {D you know, } forty, fifty dollars per month in interest -- /  
+
+ba          A.75 utt1:  {F Oh, } jeez. /  
+
+sd          B.76 utt1:  --  {C and } [ I just, +   
+
+x          A.77 utt1:  <Sniffing>.   
+
++          B.78 utt1:  {D you know, } I just  ] refuse to give it to them.  /
+sd          B.78 utt2:  If I need to borrow that kind of money, I'll go to the bank  /
+%          B.78 utt3: {C and, }  {F uh, } -/  
+
+aa          A.79 utt1:  Yeah,  /
+aa          A.79 utt2: {C and then, }  you bet. /  
+
+%          B.80 utt1:  {D You know. } -/  
+
+%          A.81 utt1:  That's, - /
+b          A.81 utt2: {F uh, } yeah,  /
+sd          A.81 utt3:  [ I, + in fact, [ I've,  + I've ] ] even, {F uh, } heard some people that have applied for credit cards with much less, {F uh } --   
+
+^2          B.82 utt1:  Income. -/  
+
++          A.83 utt1:  -- rates --   
+
+aa          B.84 utt1:  {F Oh, } yeah. /  
+
++          A.85 utt1:  -- and have paid off their, {D you know } --   
+
+b          B.86 utt1:  Right. /  
+
++          A.87 utt1:  -- higher interest rate, {F uh } --   
+
+b          B.88 utt1:  Right. /  
+
++          A.89 utt1:  -- cards and just sent them back, # {D you know. } # /  
+
+b          B.90 utt1:  # Yeah. # /  
+
+sd          A.91 utt1: {C And } [ I, + I ] guess [ there's some, + there's, {F uh, } {F uh, } some ] negotiating there, too, /
+sd          A.91 utt2: {C because } I heard, {F uh, } - /
+sd          A.91 utt3: on one of the local talk shows here, they had somebody on [ and, + and ] said, what you can do is, {F uh, } call, {D you know, }  /
+sd(^q)       A.91 utt4: if you've got a pretty good [ rating, + {F uh, } credit rating ] --    
+
+b          B.92 utt1:  Uh-huh. /  
+
++          A.93 utt1: -- you can call [ [ your in-, + {D you know, } [ your, + your ] card, ] + wherever you got your card from ] and tell them, hey,  either drop my rates --    
+
+b          B.94 utt1:  Right. /  
+
++          A.95 utt1:  -- or drop my, {D you know, } {F uh } --   
+
+^2          B.96 utt1:  High, -/  
+
++          A.97 utt1:  -- annual fees or I'll just go to somewhere else. /  
+
+sd          B.98 utt1:  # I might, # -/  
+
+sd          A.99 utt1:  # {D You know, } # {C and } [ if you've got, + if you've got ] a pretty good --   
+
+%          B.100 utt1:  {F Um. } /  
+
++          A.101 utt1:  -- {F uh, } {F uh, } history with them --   
+
+b          B.102 utt1:  Right. /  
+
++          A.103 utt1:  -- they're more than willing to do that. /  
+
+sd          B.104 utt1:  {F Um, } I might try that because [ I, + I ] have one card that I've had for about, {F uh, } I don't know, nine or ten years. /  
+
+b          A.105 utt1:  Yeah,  /
+sd          A.105 utt2: in fact, [ that's, + that's ] what this guy, - /
+sd          A.105 utt3: {D you know, } he wrote a book on it  /
+sd          A.105 utt4: {C and } he says [ that's, + {D you know, } he's ] tried it [ sev-, + with several ] of his cards -- /  
+
+b          B.106 utt1:  Uh-huh. /  
+
+sd(^q)       A.107 utt1:  -- {C and } he's just told them, {D you know, } [ I, + I ] can get this card from this bank at this rate  /
+^q          A.107 utt2: {C and } yours is at, {D you know, } eighteen or nineteen percent. /  
+
+b          B.108 utt1:  Right. /  
+
+^q          A.109 utt1:  It does not make sense for me to do that  /
+^q          A.109 utt2: {C and } if you won't drop my rates, I'll just go ahead and send you back your card  /
+^q          A.109 utt3: {C and } I'll go somewhere else and  get it. /  
+
+b          B.110 utt1: Yeah,  /
+sd          B.110 utt2: for me the big thing, {D you know, } [ is the, + {F uh, } {F uh, } is the ] annual fee  /
+sd          B.110 utt3: {C and } I just refuse,  /
+sd          B.110 utt4: I won't get any card now,  /
+sd          B.110 utt5: [ I've, + I've ] got a good rating  /
+sd          B.110 utt6: {C and } I've got, <laughter> {D you know, } -/  
+
+b          A.111 utt1:  Uh-huh. /  
+
+sd          B.112 utt1: {C And } [ I'm not going, + I'm not going ] to pay an annual fee.  /
+sd          B.112 utt2: The only one I actually pay on is this one [ that I, + that, the very first, ] -/ 

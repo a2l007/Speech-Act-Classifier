@@ -1,0 +1,433 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2064_1148_1133
+TOPIC#:		322
+DATE:		910308
+TRANSCRIBER:	PMC
+UTT_CODER:	mlg
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Difficult to hear at times.
+
+=========================================================================
+  
+
+sd          A.1 utt1:  {D Well, } I am new to Texas,  /
+sd          A.1 utt2: {C so } I don't even know what the law is,    
+
+bh          B.2 utt1:  Uh-huh? /  
+
++          A.3 utt1:  in the state,  /
+bh         A.3 utt2: do you? /  
+
+ ny         B.4 utt1:  {D Well, } yes,  /
+sd          B.4 utt2: of course, we do have capital punishment.  /
+sd          B.4 utt3: {C And } we've,  {D you know, } done away with our, quote, fair share number. /  
+
+ba          A.5 utt1:  {F Oh, } that's right,  /
+sd          A.5 utt2: I think now, that I recall, reading about it in the paper. /  
+
+b          B.6 utt1:  Yes. /  
+
+%          A.7 utt1:  {F Um, } {D you know, } different things, - /
+qy          A.7 utt2: is it restricted to certain crimes?  /
+%          A.7 utt3: {C Or } just, -/  
+
+ ny         B.8 utt1:  Yes,  /
+sd^e          B.8 utt2: it's certain crimes, {F uh, }  capital crimes,  murder, of course, {F uh, } rape,   
+
+b          A.9 utt1:  Uh-huh. /  
+
++          B.10 utt1:  this sort of thing. /  
+
+%          A.11 utt1:  {F Um. }  {D Well. } -/  
+
+sv          B.12 utt1:  It seems to be a disproportionate number of blacks, {D you know, } that get into the system. /  
+
+b          A.13 utt1:  Yes,  /
+sv          A.13 utt2: I know,  /
+sv          A.13 utt3: the one thing that I think is really sad about it, as I recall, from the articles that I've read, is that [ if, + if  ] people who have been there, <throat_clearing> are going to be killed.  {F Um, } there's people that come to the prisons and they're very violent  /
+%          A.13 utt4: {C and, } they want, - /
+sv          A.13 utt5: {E I mean }  they're anxious for someone to be killed <child>. /  
+
+b          B.14 utt1:  Uh-huh.  /
+b         B.14 utt2:  Yes. /  
+
+ %         A.15 utt1:  I just, - /
+sd          A.15 utt2: I can't see that. /  
+
+sv          B.16 utt1:  That happens on occasion,  /
+sv          B.16 utt2: it sure does, /  
+
+x          A.17 utt1:  <Throat_clearing>.   
+
+sv          B.18 utt1:  maybe it just depends on, {D you know, } how closely the crime, {D you know, }   
+
+b          A.19 utt1:  Uh-huh. /  
+
++          B.20 utt1:  has affected you personally.  /
+h          B.20 utt2: {D You know, } I don't know,  /
+sv          B.20 utt3: {C or } a person personally. -/  
+
+ar          A.21 utt1:  No. /  
+
+sv          B.22 utt1:  I think I would be, {D you know, } - /
+sd          B.22 utt2: [ I guess, + really if I had to say yes or no, I guess  ] I would say, {D you know, } that I am in certain cases, in favor of the death penalty,  /
+sv          B.22 utt3: I don't know that it's a big deterrent really.  /
+sv          B.22 utt4: I don't know that it is.  /
+sv          B.22 utt5:  I don't know how we'd ever find out, {D you know, } really whether it is or  not. /  
+
+sv          A.23 utt1:  {D Well, } there is so many chances for appeal, that it kee-, -/  
+
+aa          B.24 utt1:  {F Oh, } yeah,  /
+aa          B.24 utt2: {F oh, } absolutely,  /
+aa^r          B.24 utt3: yeah,  /
+sv          B.24 utt4: it goes on for years and years, and costs hundreds of thousands of dollars, taxpayer money. /  
+
+%          A.25 utt1:  Ye-,  /
+sv          A.25 utt2: it's really sad. /  
+
+b          B.26 utt1:  Yeah. /  
+
+sd          A.27 utt1:  I don't know,  /
+sv          A.27 utt2: I just think, {F um, } - /
+sd          A.27 utt3: somehow I hoped that as a people we could be better [ than, + than, ] {F um, } expecting,   
+
+b          B.28 utt1:  Yes. /  
+
++          A.29 utt1:  the feeling that it  ((   )) - /
+%          A.29 utt2: with, - /
+sv          A.29 utt3: someone is calling for someone else to be killed, {D you know. } /  
+
+b@          B.30 utt1:  Yes, uh-huh. /  
+
+sv          A.31 utt1:  Is really kind of bad <child>. /  
+
+aa          B.32 utt1:  Yes  /
+sv          B.32 utt2: it is.  /
+sv          B.32 utt3:  It's a tough, tough question.  /
+sv          B.32 utt4: It really is. /  
+
+%@          A.33 utt1:  {F Um. }   
+
+sv          B.34 utt1:  I suspect I would be, {F uh, } {D you know, } a lot more favor of it if, {D you know, } one of my children were, {D you know, } brutally killed, or something like that.  /
+sv          B.34 utt2: Like I say, I think it depends on how personally affected, {D you know, } you might be by it. /  
+
++@          A.35 utt1:  That's true  /
+sv          A.35 utt2: {C and } there really are criminals that are hard-core and,    
+
+aa          B.36 utt1:  {F Oh, } absolutely. /  
+
++          A.37 utt1:  repeat,  ((   ))  and never have any chance for, -/  
+
+ba          B.38 utt1:  [ Tha-, + that's  ] right. /  
+
+h          A.39 utt1:   ((   ))  {F Oh, } I don't know,  /
+%          A.39 utt2: is it, - /
+qy          A.39 utt3: do you feel at all like, it's a religious issue? /  
+
+ng          B.40 utt1:  Not with me personally.  /
+sv          B.40 utt2: It is with a lot of other people. /  
+
+b          A.41 utt1:  <Throat_clearing> Uh-huh. /  
+
+sd          B.42 utt1:  It's [ not, + not  ] to me personally,  /
+ny          B.42 utt2: no. /  
+
+%          A.43 utt1:  {F Um. } /  
+
+ny^r          B.44 utt1:  No. /  
+
+h          A.45 utt1:  I don't know,  /
+%          A.45 utt2: sometimes I feel, - /
+sd          A.45 utt3: {E I mean } I do go to church and things.  /
+sd          A.45 utt4:  I don't know how I would feel about it.  /
+sv          A.45 utt5: {C But } like you say, if it hit you personally,   
+
+b          B.46 utt1:  Uh-huh. /  
+
++          A.47 utt1:  closer at home you would [ feel, +   
+
+b          B.48 utt1:  Yes. /  
+
++          A.49 utt1:  feel  ] differently. /  
+
+sv          B.50 utt1:  [ That's a, + it's a ] tough, tough question,  /
+sv          B.50 utt2: it really is. /  
+
+qy          A.51 utt1:  Do you think most states have that  /
+%          A.51 utt2: or? <child>. -/  
+
+ny          B.52 utt1:  Yes,  /
+sd^e          B.52 utt2: I think most states do have capital punishment.  /
+ny^r          B.52 utt3: Yes. /  
+
+b@          A.53 utt1:  Uh-huh,  {F huh. } /  
+
+sv          B.54 utt1:  {C But, } I think the U S is one of the few countries that still do. /  
+
+bf          A.55 utt1:  That still does it,  /
+ba          A.55 utt2: that's right. /  
+
+aa          B.56 utt1:  Yes,  /
+%          B.56 utt2: they're only, - /
+sd          B.56 utt3: I was reading something about it the other day,  /
+sv          B.56 utt4: I ((   )) think there was only {D like } six or eight countries in the world, that have capital punishment still. /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+ sv         B.58 utt1:  A lot of them had to have [ el-, + elected  ] not to do so.  /
+sd          B.58 utt2: {D Now } I don't know, what they do in place of it.  /
+sv          B.58 utt3:  {D You know, } maybe it's life in prisonment or,  {D you know, } something,  /
+sd          B.58 utt4: [ I don-, + I don't  ] know how they handle it  /
+sd          B.58 utt5:  {C bu-, } I was surprised to learn that so few countries have capital punishment. /  
+
+bf          A.59 utt1:  Have that. - /
+sv          A.59 utt2: {D Well, } {C and } it doesn't seem like very many people, {F uh, } are really, {E I mean, } - /
+sv          A.59 utt3: there's a lot of people that are on death row.    
+
+b          B.60 utt1:  {F Oh, } yes. /  
+
++          A.61 utt1:  But there's not very many people that actually, {F um. } do get killed. /  
+
+aa         B.62 utt1:  Yes,  /
+sv          B.62 utt2: a lot of them do get their sentences commuted to something else. /  
+
+b          A.63 utt1:  Uh-huh.  /
+sv          A.63 utt2:  {C So, } it seems like a of people live there,  /
+sv          A.63 utt3: {C and } then through appeals. -/  
+
+b          B.64 utt1:  Yes. /  
+
+sv          A.65 utt1:  {C Because } I know they do frequently, - /
+sd          A.65 utt2: {E I mean } they [ cover, + cover  ] it pretty heavily on television and the newspaper. /  
+
+b          B.66 utt1:  Uh-huh.  /
+b          B.66 utt2: Yes. /  
+
+sd          A.67 utt1:  If it finally gets to that point. /  
+
+b          B.68 utt1:  Right,  /
+sv          B.68 utt2: the first appeal is automatic,  /
+sv          B.68 utt3: {C so } that delays it for a few years just right off the bat. /  
+
+b          A.69 utt1:  Yeah. /  
+
+sv          B.70 utt1:  [ There's, + there's  ] a lot of, {D you know, } last minute, {F uh, } <sniffing> things that happen cause a person not to,   
+
+b          A.71 utt1:  Uh-huh. /  
+
++          B.72 utt1:  have to go through the whole thing. /  
+
+b          A.73 utt1:  Uh-huh.  /
+%          A.73 utt2:  {C So } is it, {F uh, } - /
+qy          A.73 utt3: are we doing lethal injection now? /  
+
+ny          B.74 utt1:  Yes,  /
+ny          B.74 utt2: uh-huh.  /
+sd^e          B.74 utt3:  [ That's, + that's  ] fairly recent,  I don't know, how recent,  but  fairly recent, in the state of Texas.  /
+ sd         B.74 utt4: Before that, it was, {F uh, } death by electrocution. /  
+
+b          A.75 utt1:  Uh-huh,  /
+sv          A.75 utt2: [ wh-, + which  ] seems so awful. /  
+
+aa          B.76 utt1:  Yes,  /
+sd          B.76 utt2: it certainly does. /  
+
+sv          A.77 utt1:  {C So, } it's a little bit more humane,  /
+sv          A.77 utt2: I guess, it is, -/  
+
+aa          B.78 utt1:  Yes,  /
+sv          B.78 utt2: it would almost have to be, I suppose.  /
+sv          B.78 utt3: [ If you, + if you  ] had to chose, [ I guess I would, +  I am sure I would  ] take the lethal injection. /  
+
+aa          A.79 utt1:  <Laughter> Yes,  /
+sv          A.79 utt2: the other one just seems so terrible. /  
+
+aa          B.80 utt1:  Yes,  /
+aa          B.80 utt2: absolutely. /  
+
+%          A.81 utt1:  {F Um. } /  
+
+sv          B.82 utt1:  [ It's a, + it's a  ] tough question.  /
+sv          B.82 utt2:  It really is.  /
+sd          B.82 utt3:  I guess, if I had to say yes or no, I would say, {D you know, } yes.  /
+sd          B.82 utt4:  [ I, + I  ] would have to lean toward capital punishment, {D you know, } for certain crimes. /  
+
+qy          A.83 utt1:  {D Well, } do you think that we do it because we want it to deter crime  /
+qrr          A.83 utt2: {C or, } it's not because we don't want to pay for inmates to stay in prison? /  
+
+nn          B.84 utt1:  No,  /
+sv^e          B.84 utt2: I don't think it's a monetary thing. /  
+
+b          A.85 utt1:  Uh-huh. /  
+
+%          B.86 utt1:  I think, - /
+sv          B.86 utt2: we hope that it will be, {D you know, } some sort of [ determ-, + deterrent  ] or, you know, an eye for an eye type thing, or something like  that. /  
+
+%          A.87 utt1:  {F Um. } /  
+
+sv          B.88 utt1:  Some of the crimes are just so brutal and so, {D you know, } useless.  /
+sv          B.88 utt2:  This may seem to be the best way out.  /
+h          B.88 utt3: I don't know. /  
+
+b          A.89 utt1:  Yes. /  
+
+bf          B.90 utt1:  Easiest way out maybe.  /
+nn^r          B.90 utt2: No,  /
+sv^e^r          B.90 utt3: I don't think it's a monetary thing. /  
+
+sd          A.91 utt1:  {F Um. }  {D Well, } {F um, } {C and } I notice that the crime  (( rate ))  was  up in the Dallas area <throat_clearing>.  /
+sv          A.91 utt2: [ It's, +   
+
+b          B.92 utt1:  Yes,  /
+sd          B.92 utt2: especially the murder rate,  its just gone crazy. /  
+
++          A.93 utt1:  It's ] kind of been scary,   
+
+b          B.94 utt1:  Yes. /  
+
++          A.95 utt1:  to think about it  /
+sd          A.95 utt2: [ {C and, } +   
+
+aa          B.96 utt1:  Absolutely. /  
+
++          A.97 utt1:  {C And } ] you're hoping there is something that will cut down on that. /  
+
+aa          B.98 utt1:  Yes,  /
+sd          B.98 utt2: I wish I had the answer for that,  /
+sv          B.98 utt3: everybody does. /  
+
+sv          A.99 utt1:  You hate to have the dubious honor of being, {D you know, } so high [ in the, +   
+
+aa          B.100 utt1:  Yes,  /
+sv          B.100 utt2: it's nothing to be proud of, /  
+
++          A.101 utt1:  in ] statistics, /  
+
+sv          B.102 utt1:  certainly not. /  
+
+%          A.103 utt1:  {C But } I, {D you know, } - /
+sd          A.103 utt2: we have been really fortunate  /
+sd          A.103 utt3: our family,    
+
+b          B.104 utt1:  Yes. /  
+
++          A.105 utt1:  hasn't had any crime. /  
+
+b          B.106 utt1:  Yes,  /
+sd          B.106 utt2:  {C so } have we been very, very fortunate. /  
+
+%          A.107 utt1:  {C And, } {C so } we don't, - /
+sv          A.107 utt2: it's harder to think about the poor people that have suffered that way. /  
+
+ba          B.108 utt1:  That's right.  /
+aa          B.108 utt2:  Absolutely. /  
+
+sv          A.109 utt1:  {C And } how they would expect,   
+
+b          B.110 utt1:  Uh-huh. /  
+
++          A.111 utt1:  how they would hope, - /
+sv          A.111 utt2: {E I mean } [ you, + you  ] hear of people who have, {F um, } committed crimes,  and then they get out of jail and they go, and they do the same thing again. /  
+
+b          B.112 utt1:  Absolutely. /  
+
+sv          A.113 utt1:  {C And } you wonder why they can't just stop it. /  
+
+b          B.114 utt1:  Uh-huh.  /
+ba          B.114 utt2:  That's right. /  
+
+sv          A.115 utt1:  {C So, } maybe you would, -/  
+
+ b         B.116 utt1:  Uh-huh. /  
+
+sd          A.117 utt1:  {C but } still I would hate to be on the jury that sentenced someone. /  
+
+aa          B.118 utt1:  {C So } would I, - /
+sd          B.118 utt2: [ I + fortunately, I  ] have never been in that circumstance,  /
+ sd         B.118 utt3: I hope I never am,  [ like, + like  ] everybody else. /  
+
+aa          A.119 utt1:  No, <laughter>  /
+%          A.119 utt2: I know when, {F um, } - /
+sd          A.119 utt3: [ we  just, + we  ] moved here, {F uh, } [ I + ] [ from the, + ]  I got a [ summons, + jury summons,  ] /  
+
+b          B.120 utt1:  Uh-huh. /  
+
+sv          A.121 utt1:  just {D like } constantly, it seemed {D like, } /  
+
+b          B.122 utt1:  Uh-huh. /  
+
+sd          A.123 utt1:  {C but } fortunately I had small children  /
+sd          A.123 utt2: {C and } I didn't have to go. /  
+
+b          B.124 utt1:  Right. /  
+
+sv          A.125 utt1:  {C And } it's not that,  /
+sv          A.125 utt2: {E I mean, } I think everyone should have to serve on the jury, /  
+
+b          B.126 utt1:  Uh-huh. /  
+
+sd          A.127 utt1:  it's just that, I didn't, - /
+sd          A.127 utt2: I hate having to be in charge of someone else's life. /  
+
+aa          B.128 utt1:  Sure,  /
+sv          B.128 utt2: [ it's, + it's  ] a big responsibility,  /
+sv          B.128 utt3: it really is. /  
+
+sd          A.129 utt1:  {C And } I would hate to have to hear any kind of case,   
+
+b          B.130 utt1:  Yes. /  
+
++          A.131 utt1:  involving a violent crime or anything. /  
+
+sd          B.132 utt1:  So would I. /  
+
+ba          A.133 utt1:  That would be really awful. /  
+
+aa          B.134 utt1:  Yes.  /
+aa          B.134 utt2: Absolutely. /  
+
+sd          A.135 utt1:  {D Well, } anyway, I sure have enjoyed, {F uh, } talking to you about this. Although it has been difficult  /
+%          A.135 utt2: {C but, } {F uh. } -/  
+
+sv          B.136 utt1:  [ It is, + it's  ] a tough subject,  /
+sv          B.136 utt2: it really is. /  
+
+sv          A.137 utt1:  I'd hate to decide it,  but I [ guess, + {F uh, } guess  ] it's important,    
+
+b          B.138 utt1:  Right. /  
+
++          A.139 utt1:  that we decide as a people [ what, + what  ] we're going to do. /  
+
+ba          B.140 utt1:  That's right. /  
+
+fc          A.141 utt1:  Anyway, {D well, } you have a good day. /  
+
+fc          B.142 utt1:  {D Well, } thank you,  /
+fc          B.142 utt2: it's nice talking to you. /  
+
+fc          A.143 utt1:  Thank you,  /
+fc          A.143 utt2: bye-bye. /  
+
+fc          B.144 utt1:  Uh-huh.  /
+fc          B.144 utt2:  Bye-bye. / 

@@ -1,0 +1,383 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2342_1168_1028
+TOPIC#:		315
+DATE:		910328
+TRANSCRIBER:	GL
+UTT_CODER:      aabo
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+qw          B.1 utt1:  {D So, } {F uh, } what do you think about our involvement in the Middle East? /  
+
+sv          A.2 utt1:  <Laughter> {D Well, } {D actually, } I think it's good.  /
+sv          A.2 utt2: [ [  I, + I, ] + I ] hope that we, {F uh, } {F uh, } get a chance to, {F uh, } promote peace out there, {F uh, } because I think without peace we're not going to get stable oil prices,  /
+sv          A.2 utt3: [ {C and, } + {C and,  } ] {F uh, } [ I'd, + I'd ] really like to see stability in that area, because I'm always afraid that's where another big war is going to start. Not that Desert Storm was a small one. /  
+
+aa          B.3 utt1:  Yeah  /
+aa^r          B.3 utt2: <laughter>.  {D Well, } yeah  /
+aa          B.3 utt3: that's probably true.  /
+sv          B.3 utt4: [  I,   +  I ] suspect that if any world war is coming at this point in time, they're going to come from there, {F uh, } I would think, anyway.  /
+sv          B.3 utt5: Just seems to be that that's the most unstable part of the world, as far as I can tell. /  
+
+sd          A.4 utt1:  I saw, {F um, } just recently, where, {F uh, } {F uh, } the U S is supposedly going to be, {F uh, } putting pressure on all the, {D you know, } the Israelis, supposedly, to come to a bargaining table to, - /
+sd          A.4 utt2: {D actually } I heard that the Israelis [ were even talk-, + ] at least mentioned about giving up some of the Golan Heights. /  
+
+b          B.5 utt1:  Really. /  
+
+ny          A.6 utt1:  Yeah. /  
+
+sd          B.7 utt1:  That would be interesting because [ [ [ I am, + {D actually, } {F um, } {F um, } I'm, ] + I'm ] + I'm ] Jewish  /
+sd          B.7 utt2: {C and } I'm actually sort of [ [ not, + not, ] + not ] really a Zionist per se, {D you know. } /  
+
+b          A.8 utt1:  Okay. /  
+
+sd          B.9 utt1:  {C But } [ I have a, + {F um, } I have a ] lot of friends, {D you know, } who are sort of adamant, {D you know, } Israel,  /
+^q          B.9 utt2: it's his right,  /
+sv          B.9 utt3: {C and } do whatever they want. - /
+sv          B.9 utt4: {C And } I think they've been sort of hard nosed about the entire thing.  /
+sv          B.9 utt5: {C And, } {D you know, } in some sense, [ m-, + the moderates ] may be right.  /
+sv          B.9 utt6:  They [ may, + {D you know, } may ] be better if they give up just a little bit to settle things down. /  
+
+sv          A.10 utt1:  {D Well, } {F uh, } I guess it's one of those things that, {F uh, } if it's going to really promote a lasting peace, if there is not going to be a peace, -/  
+
+b          B.11 utt1:  Right,  /
+qh          B.11 utt2: [ [ [ then, + then, ] + then, ] + then ] is it worth it at all. /  
+
+b          A.12 utt1:  Yeah. /  
+
+%          B.13 utt1:  {E I mean, } I could the way, - /
+sv          B.13 utt2: {E I mean, } the only way to think about it is {D Well, } they won, {D you know, } - /
+sv          B.13 utt3: they sort of took over the, {F um, } - /
+sv          B.13 utt4: they're one of the only countries in history that has been told that they have to give back what they took in a war, which they didn't start, basically,  /
+%          B.13 utt5: {C so. } -/  
+
+b          A.14 utt1:  Oh.  /
+b          A.14 utt2:  Yeah  /
+x          A.14 utt3: <laughter>.   
+
+sd          B.15 utt1:  {C So, } [ [ I don't, + I don't  know how to, ] + [ I don't, + I don't ] know what to ] do about it <noise>.  /
+sv          B.15 utt2: {C But } I think [ that, + that ] {D you know, } in general the region is really in bad shape <noise>. /  
+
+qy          A.16 utt1:  Do you think the U S is going to wind up keeping, {F uh, } military bases over there? /  
+
+na          B.17 utt1:  {F Um, } probably, {F oh, }  /
+qy          B.17 utt2: [ isn't, + isn't ] there a plan now to make a command center there or something? /  
+
+^h          A.18 utt1: [ I, + I ] haven't heard that.  /
+^h          A.18 utt2:  I watch C N N every once in a while,  /
+ng          A.18 utt3: {C but, } [ I, + I ] haven't specifically heard anything about that. /  
+
+sd          B.19 utt1:  I just heard something [ about moving, + recently, about moving, ] {F um }  /
+sd          B.19 utt2: [ [ there, + there, ] + there's ] some central command post in Tampa <<foreign location>>, I think that they now want to move to somewhere in the Middle East.  /
+sd          B.19 utt3:  {D Actually, } there was, {F um, } a small country or small city, I think, [ or even, + ] not actually in Saudi Arabia or anything, but a little bit off to the, {F um, } east of it, I think.  /
+%          B.19 utt4:  {C And } I, - /
+sv          B.19 utt5: they want to keep something over there, so that they don't have to, {F um, } - /
+sd          B.19 utt6: [ I guess it's, + I guess it's ] sort of so they don't have to move troops out so quickly or something.  /
+sd          B.19 utt7:  I'm not quite sure exactly why they want to do it.   /
+sv          B.19 utt8: {C But } they want to keep some sort of central command post there. /  
+
+sv          A.20 utt1:  What I thought was interesting is that, {F uh, } apparently the formal cease fire has not actually been signed yet. /  
+
+aa          B.21 utt1:  That's true. /  
+
+sv          A.22 utt1:  {C And, } {F uh, } <laughter> then I guess there's still the possibility that, {F uh, } hostilities with, {F uh, } U S troops could still break out. /  
+
+b          B.23 utt1:  Yeah,  /
+%          B.23 utt2: that's, - /
+sv          B.23 utt3: <noise> they claim that's why we're still there.  /
+%          B.23 utt4:   {E I mean, } {D you know, } why only, - /
+qy^d          B.23 utt5: you note it's [ only, + only ] a small number of people have actually come back yet. /  
+
+b          A.24 utt1:  Yeah. /  
+
+sv          B.25 utt1:  {C But } I think that's actually the scariest part, because [ when, in the way, + ]  [ what, + what's ] happening in Iraq right now, {D you know, } in itself, it being so  crazy there.  /
+h          B.25 utt2: I have no idea,  /
+%          B.25 utt3: {E I mean, } what do you know, - /
+sd(^q)          B.25 utt4: just to imagine that one day they're just going to turn around and someone is going to say, We don't like you, and start attacking again,  /
+sv          B.25 utt5: {C and } it's going to be worse.  /
+h          B.25 utt6:  I don't know.  {F Um. } /  
+
+qy          A.26 utt1:  Do you have relatives over in Israel? /  
+
+nn          B.27 utt1:  No,  /
+sd^e          B.27 utt2: I don't.  /
+sd          B.27 utt3: [ I ha-, + [ [ I, + I, ] + I ] have ] some friends in Israel,  /
+sd          B.27 utt4: {C and } coincidently {D actually } my wife is Syrian.  {F Um. } /  
+
+b          A.28 utt1:  {F Oh, } really. /  
+
+ny          B.29 utt1:  Yeah,  /
+%          B.29 utt2: {C so } I am, - /
+sd^e          B.29 utt3: [ we are sort of, + we are ] the Middle East peace talks at home. {F Um. } /  
+x          A.30 utt1:  <Laughter>.   
+
+sd          B.31 utt1:  {C And, } {F uh, } <noise> <<water sound>> {E pardon me, } I'm just sort of putting away some things from dinner now --   
+
+b          A.32 utt1:  Yeah. /  
+
++          B.33 utt1:  -- in the background.  /
+%          B.33 utt2: {C But } [ we, + {F um, } we, ] - /
+sd          B.33 utt3: she has sort of friends and family in Saudi Arabia, who are some friends in Saudi Arabia.  /
+sd          B.33 utt4:  {C And, } {F um, } I have some friends in Israel.  /
+sd          B.33 utt5:  {C And }  [ we, +  we ] talk a bit about it,  /
+sd          B.33 utt6: {C but } we try and keep it out of the home life. /  
+
+qy          A.34 utt1:  Do you, {F uh, } - /
+qy          A.34 utt2: does she ever want to go back to Syria? /  
+
+nn          B.35 utt1:  <Noise> <<water sound>>.  No,  /
+%          B.35 utt2: [ she was, + she is ] {D actually, } {F um, } - /
+sv^e          B.35 utt3: I think it's, {F um, } for her not really relevant, because she is second generation American, {D actually. } /  
+
+bk          A.36 utt1:  {F Oh, } okay. /  
+
+sd          B.37 utt1:  Her parents who were born here would like to go see it, though, I think.  /
+sd          B.37 utt2: They would like to go to Syria,  /
+sd          B.37 utt3: {C but } they recognize that Syria's not the place that one wants to visit --   
+
+nn          A.38 utt1:  No. /  
+
++          B.39 utt1:  -- right about now. /  
+
+nn^r          A.40 utt1:  No <laughter>. /  
+
+sd          B.41 utt1:  {D You know, } something about the place makes it [ not, + not ] quite enjoyable. /  
+
+qy          A.42 utt1:  Do you ever want to go over to Israel? /  
+
+ny          B.43 utt1:  Yeah,  /
+sd^e          B.43 utt2: [ I, + I've ] actually been there. /  
+
+bk          A.44 utt1:  {F Oh, } okay. /  
+
+sd          B.45 utt1:  I was there a couple of years ago, when it wasn't, {D you know, } sort of dangerous to be out there, I guess. /  
+
+b          A.46 utt1:  Yeah. /  
+
+sd          B.47 utt1:  {C And, } [ I do, + I [ d-, + do ] ] like it {D actually. }  /
+sd          B.47 utt2:  I would never live there.  /
+sv          B.47 utt3:  I think I'm too Americanized  and, {F um } <noise> sort of have [ too much, + {D you know, } too much ] invested in sort of, the easy life. /  
+
+b          A.48 utt1:  Yeah. /  
+
+sd@          B.49 utt1:  {C But } I do like the food.    
+
+b          A.50 utt1:  Yeah  /
+x          A.50 utt2: <laughter>.   
+
++@          B.51 utt1:  [ [ If that, + [ so, + ] if that, ] + if that ] amounts for anything. /  
+
+b          A.52 utt1:  <Laughter> Okay,  /
+%          A.52 utt2: {D well } who-, {D you know, } - /
+qy          A.52 utt3: do you have a lot of Kosher foods there at your house? /  
+
+b          B.53 utt1:  Yeah,  /
+sd          B.53 utt2: {D actually } my house is Kosher,  /
+sv         B.53 utt3: {C but } it turns out that one of the strangest things [ about, + about ] Israel is that [ no-, + ] {F um, } most folks don't realize that for all the food people think of as sort of, {D you know, } Jewish food and so  forth.  /
+sv          B.53 utt4:  {F Um, } {C and, } {D you know, } {F um, } in general it really isn't the food that is eaten in Israel.  /
+sv          B.53 utt5:  {C So } you typically think of it, like bagels,  /
+^g          B.53 utt6: right,  {D you know, }  /
+sd          B.53 utt7: bagels and lox. /  
+
+ny          A.54 utt1:  Yeah  /
+x          A.54 utt2: <noise>.   
+
+sd          B.55 utt1:  Turns out, [ [ you don't, + you don't, ] + you don't ] really find bagels in Israel.  /
+sd          B.55 utt2: What you find is sort of Middle Eastern foods.  /
+sd          B.55 utt3: The same foods that you find in, {F um, } Syria and Egypt and everything else.   /
+qy          B.55 utt4: ((   ))  <<Middle Eastern Food>> Have you ever had those? /  
+
+nn          A.56 utt1:  No,  /
+sd^e          A.56 utt2: Kish ki's, or knishes <<Jewish foods>>. /  
+
+b^m         B.57 utt1:  {F Oh, } knishes,  /
+nn          B.57 utt2: no  /
+sd          B.57 utt3: [ you don't, + you don't ] see a lot of, - /
+sd          B.57 utt4: that's basically Eastern European Jewish food. /  
+
+b          A.58 utt1:  Oh. /  
+
+sd          B.59 utt1: [ It's, + it's ] very different.  /
+sd          B.59 utt2: I was {D actually } very amazed when I sort of figured out for myself.   That everything I grew up with really wasn't Israeli.  /
+sd          B.59 utt3: It was more Jewish, {D you know. } /  
+
+ba          A.60 utt1:  I got you. /  
+
+ba          B.61 utt1: [ [   It, + it, ] + it ] is very strange. /  
+
+sd          A.62 utt1:  Still get your Passover Matzi and all that,  /
+^g          A.62 utt2: right. /  
+
+na          B.63 utt1: [ That, + that ] starts tomorrow night. /  
+
+x          A.64 utt1:  <Laughter>.   
+
+sd          B.65 utt1:  That's what I'm making,  /
+sd          B.65 utt2: that's what I'm doing now.  /
+sd          B.65 utt3:  I'm making dinner. /  
+
+b          A.66 utt1:  {F Oh } really.  /
+sd          A.66 utt2: [  I dated, + {F uh, } I ] [ dated + ] a nice Jewish girl for many years up in Chicago,  /
+sd          A.66 utt3: {C and } I was the only Goyim [ at, + at ] all the Seder dinners and everything,  /
+sd          A.66 utt4: {C and } I used to have to go with [ rolls of, not, + ] pocketful of change to buy all this bread the kids would see me <laughter>. /  
+
+^2          B.67 utt1:  Bought up all the bread from <laughter>. /  
+
+x            A.68 utt1:   ((   ))  <<inserted by J J G, transcriber left a blank turn>>.   
+
+ba          B.69 utt1:  That's good.  /
+sv          B.69 utt2:  {D Well, } [ [ you've, + you've, ] + you've ] really got a handle on this stuff I've noticed. /  
+
+bd          A.70 utt1: [ [ Not, + not, ] +   
+
+sv          B.71 utt1:  Got the vocabulary down and everything. /  
+
++           A.72 utt1:  Not, ] {F uh, } - /
+bd          A.72 utt2: just, just enough to get by <laughter>. /  
+
+sv          B.73 utt1:  [ [ That, + that, ] + that ] makes you real good.  /
+%          B.73 utt2:  Yeah,  /
+sd          B.73 utt3: [ [ we, + {F um, } we ] + {D actually, } we ] have the reverse situation.  /
+sd          B.73 utt4: Turned out that, {F um, } {F um, } most of my friends aren't Jewish,  /
+sd          B.73 utt5: [ {C and, } + {C and } ] my wife's not. /  
+
+b          A.74 utt1:  Okay. /  
+
+sd          B.75 utt1:  {C But } [ I, + {F um, } I ] sort of, {D you know, } do a lot of these things,  /
+%          B.75 utt2: [ {C so, } + {C so } ] that, {F um, } - /
+sd          B.75 utt3:  [ Seder, + our first Seder ] is tomorrow  night.  /
+sd          B.75 utt4: {C And } this is a rare exception.  /
+sd          B.75 utt5: There are going to be sixteen people at my house tomorrow night,  which, - /
+sd          B.75 utt6: and  five of them will be Jewish. /  
+
+b          A.76 utt1:  Oh. /  
+
+sd          B.77 utt1: [ Two, + two ] years ago we had a Seder,  /
+sd          B.77 utt2: we had sixteen people each night.  /
+sd          B.77 utt3: Sixteen is the magic number for us. /  
+
+ba          A.78 utt1:  Wow <laughter>. /  
+
+sd          B.79 utt1:  {C And } I was the only Jew both nights. /  
+
+b          A.80 utt1:  {F Oh } really <laughter>. /  
+
+sv          B.81 utt1:  [ So, + ] which to me is wonderful, because it means that people who never would get to see this, {F um, } [ so + ] get to see it.  /
+sv          B.81 utt2: {C And } my view is, Passover [ is, + ] should sort of be, - /
+sv          B.81 utt3: [ [ [ in, + in, ] + in, ] + in ] my mind Passover is sort of a generic holiday anyway, because [ it, + it ] sort of predates Christ. /  
+
+b          A.82 utt1:  Yeah. /  
+
+%          B.83 utt1:  {D So. } -/  
+
+%          A.84 utt1:  {D Well, } they had the, - /
+sd          A.84 utt2: matter of fact I just watched Charles Heston [ this, + {F uh, } this ] weekend in the TEN COMMANDMENTS. /  
+
+b          B.85 utt1:  Yeah,  /
+sd          B.85 utt2: I caught the end of that. /  
+
+qy          A.86 utt1:  Did you? /  
+
+ny          B.87 utt1:  Yeah,  /
+sd^e          B.87 utt2: every year, I try and catch that.  /
+%          B.87 utt3: {C But } yeah.  /
+sd          B.87 utt4:  That's what always amazes me, {D actually, } [ is that, + {F um, } is that, ] {D you know, } - /
+sd          B.87 utt5: my wife and I always sort of bring this up about [ sh-, + ] her being Syrian, {D you know, } and my being Jewish, {D you know. }  /
+sd          B.87 utt6:  We look alike,  /
+sd          B.87 utt7: we act alike,  /
+sd          B.87 utt8: we sound alike,  /
+sd          B.87 utt9: {D well, } not totally alike  /
+sv          B.87 utt10: {C but } {D you know. }  {F Um, } {F um, } it's amazing to think that people in the Middle East sort of all hate each other. /  
+
+%          A.88 utt1:  {D Well, } that's, - /
+sv          A.88 utt2: to me it's really, {F um, } - /
+sv          A.88 utt3: [ I guess, + I guess I can ] intellectually kind of come to grips with all of that.  /
+sv          A.88 utt4:  {C But, } {D you know, } emotionally I have a real difficult time believing [ [ that, + {F uh } that, ] + that ] people that believe in God and love, not war and to forgive can't get together. /  
+
+b          B.89 utt1:  Right. /  
+
+%          A.90 utt1:  {D You know, } I mea-, - /
+sd          A.90 utt2: I know that the problems are so deep.  /
+sd          A.90 utt3:  {C But } {E I mean, } even within the Muslim, {F uh, } religions, different sects, they can't get together. /  
+
+b          B.91 utt1:  Right.  /
+sv          B.91 utt2:  [ That's, + that's ] {D actually } the part [ [ that, + that, ] + that ] I find really strange.  /
+sd          B.91 utt3:  {E I mean, } [ [ I, + I, ] + I ] sort of understand somewhat.  /
+%          B.91 utt4:    {E I mean, } [ I, + I, ] - /
+sd          B.91 utt5: knowing the history I understand that, the hatred of the Muslims for, {D you know, } the Israelis or whatever,  /
+sd          B.91 utt6: {C and } I can sort of handle that  /
+sv          B.91 utt7: [ {C and } +  ((   )) , {C but } ] I sort of think about the Muslims sort of running around have jihad against themselves. /  
+
+b          A.92 utt1:  Yeah. /  
+
+sv          B.93 utt1:  {D You know, } {E I mean, } [ {C and, } + {C and } ] that seems really weird. /  
+
+bf          A.94 utt1:  {C Or, } [ the, + {F uh, } {D you know, }  the ] Catholics and the Protestants up in Ireland. /  
+
+aa          B.95 utt1:  Right,  /
+aa          B.95 utt2: exactly. /  
+
+qy          A.96 utt1:  {D You know, } {E I mean, } -/  
+
+sv          B.97 utt1:  [ Same, + same ] thing. /  
+
+b          A.98 utt1:  Yeah. /  
+
+%          B.99 utt1:  I don't, - /
+sd          B.99 utt2: [ I'll, + I'll ] never understand it.  /
+qh          B.99 utt3:  My view is look, what did you ever do to me. /  
+
+b          A.100 utt1:  Yeah,  /
+b^r          A.100 utt2: yeah. /  
+
+sd          B.101 utt1:  Didn't hurt me, [ [ at, + at, ] +  at ] the moment.  /
+h          B.101 utt2: [ [ [ {C So, } + {F um, } {C and, } ] + {C and, } ] + {C and } ] [ I, + I ] don't know.  /
+%          B.101 utt3: [ There's a, + there's ] something about, - /
+sd          B.101 utt4: there's a poem somewhere.  /
+qy^d          B.101 utt5:  I don't know if you've ever seen it or not,  /
+sd          B.101 utt6: {C but } Everything I Ever Wanted to Know I Learned in Kindergarten. /  
+
+b          A.102 utt1:  Yeah. /  
+
+%          B.103 utt1:  In this, - /
+sd          B.103 utt2: {C and } it talks about how, {D you know, } if we could just all get toge-, {D you know, } - /
+sd          B.103 utt3: when we were young everything was great because we all went to class together,  /
+%          B.103 utt4: {C and } in the mi-, {D you know, } - /
+sd          B.103 utt5: we all had snack time together,  /
+sd          B.103 utt6: {C and then } we all took naps  /
+sd          B.103 utt7: {C and } we all held hands and hugged, {D you know, }  /
+sd          B.103 utt8: [ [ {C and, } +  {C and, } ] + {C and } ] that's what kindergarten was like,  /
+sv          B.103 utt9: {C and } wouldn't it be nice [ if, + if ] we could solve all our problems by just sort of getting together and everyone in the world sat down and took a nap together. /  
+
+x          A.104 utt1:  <Laughter>.   
+
+sd          B.105 utt1:  Woke up and had snack time, {D you know, }  and then hugged each other as we left. /  
+
+sv          A.106 utt1: [ It sounds like a, + it sounds like a ] John Lennon, {F uh, } type. -/  
+
+b          B.107 utt1:  Yeah  /
+sd          B.107 utt2: <laughter>.  I wonder if he secretly did that ... / 

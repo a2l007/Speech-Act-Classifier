@@ -1,0 +1,147 @@
+ -------------------------------------
+| DA AND AP ANNOTATION TRACKING CHART |
+ -------------------------------------
+
+
+ -----
+| Key |
+ -----
+
+Meeting:
+    Meeting name using 6 character convention
+	 
+Annotator:
+    - Initials of the individual who annotated the meeting
+    - A slash '/' indicates that two annotators labeled the meeting.
+	There are 2 ways that this may have been done:
+	1) 1 annotator labeled the 1st 10-min chunk and the 2nd annotator
+	   labeled the 2nd 10-min chunk.  Annotation of each chunk
+	   thereafter continues in this alternating fashion.
+	2) 1 annotator labeled the first half of the entire meeting and the
+	   2nd annotator labeled the second half of the entire meeting.
+
+Reliability Chunks:
+    Time stamps of meeting that was annotated for reliability followed by
+    the initials of the individual(s) who participated in reliability
+    annotation.  If no reliability is available for the meeting, it will
+    read "uncut."
+    Note: The time that the reliability chunks were completed does not
+          necessarily correspond to the time that the meeting was created for
+	  annotation or completed.
+    #: The reliability chunk is only partially complete by RD.
+
+Date:
+    Date that the meeting was created for annotation or completed.
+    Note: The date is of the form MM/DD/YY.
+
+Rel1:
+    Part of the first release? (Y = Yes)
+
+CSV:
+    Script used to Generate CSVs
+    CO	   Chris Oei's script using TRS files.
+    DB	   Don Baron's various scripts to generate CSVs based on TRS files.
+    JA1    Jeremy's script using MRT segments to generate utterance
+	   boundaries.  The start and end times of the utterances are taken
+	   directly from the MRT segment boundaries.
+    JA2    Jeremy's modified script using MRT data, but splitting at MRT
+	   segment boundaries AND punctuation marks (. ? !) to generate
+	   utterance boundaries.  The start and end times of the utterances
+	   are taken from the word times of a forced alignment.
+    **	   0-1200 with CO, rest with JA1 (except 2 minute portion).
+
+
+
+---------------------------------------------------------------------
+Meeting	     Annotator    Reliability chunks   Date	 Rel1	CSV
+---------------------------------------------------------------------
+Bdb001	      RD	  uncut		       01/07/04		JA2
+
+Bed002	      SB	  uncut		       01/06/04		JA2
+Bed003        SB	  300-420(HC,SB)       12/11/02	   Y	DB
+Bed004	      HC	  1850-1970(HC)	       01/02/03	   Y	DB
+Bed005	      SB	  uncut		       01/20/04	   	JA2
+Bed006	      RD	  1900-2020(HC,RD,SB)  06/04/03	   Y	DB
+Bed008        HC/SB	  uncut		       05/15/03	   Y	DB
+Bed009	      SB	  uncut		       09/18/03	   Y	DB
+Bed010	      HC	  uncut		       03/12/03	   Y	DB
+Bed011        SB	  3100-3220(HC,SB)     01/07/03	   Y	DB 
+Bed012	      HC	  uncut		       06/06/03	   Y	DB
+Bed013	      SB	  uncut		       12/19/03		JA2
+Bed014	      SB	  uncut		       12/15/03		JA1
+Bed015	      SB	  2401-2703(RD,SB)     01/26/04		JA2
+Bed016	      SB	  uncut		       06/25/03	   Y	CO	
+Bed017	      HC	  uncut		       06/04/03	   Y	CO
+
+Bmr001        SB          uncut		       02/01/03	   Y	DB
+Bmr002        HC	  uncut		       03/27/03	   Y	DB
+Bmr003	      RD	  uncut		       01/28/04		JA2
+Bmr005	      HC	  2670-2790(HC,SB)     01/06/03		DB
+Bmr006	      RD          3050-3170(HC,RD,SB)  12/23/02	   Y	DB
+Bmr007        RD	  100-220(HC,RD,SB)    12/20/02	   Y	DB
+Bmr008	      SB	  2700-2820(SB)	       01/09/03	   Y	DB
+Bmr009	      SB	  1500-1620(SB)	       12/11/02	   Y	DB
+Bmr010	      HC/SB	  uncut		       12/05/02	   Y	CO
+Bmr011	      HC/SB	  uncut		       05/01/03	   Y	CO
+Bmr012	      RD          uncut		       12/01/02	   Y	DB
+Bmr013	      HC/SB 	  uncut		       12/11/02	   Y	DB
+Bmr014	      SB	  2000-2300(HC,RD,SB)  02/03/03	   Y	DB
+Bmr015	      SB	  uncut		       07/15/03	   Y	CO
+Bmr016	      SB	  uncut		       01/09/04	  	JA2
+Bmr018	      HC	  400-520(HC,RD,SB)    12/11/02	   Y	DB
+Bmr019	      SB	  uncut		       12/23/03	  	JA2
+Bmr020	      RD	  uncut		       07/10/03	   Y	CO
+Bmr021	      SB	  uncut		       06/07/03	   Y	CO
+Bmr022	      SB	  uncut		       09/22/03	   	CO
+Bmr023        HC/SB	  uncut		       09/12/03	   Y	CO
+Bmr024	      RD	  uncut		       12/18/02	   Y	CO
+Bmr025	      HC	  uncut		       05/27/03	   Y	CO
+Bmr026        SB	  uncut		       12/11/02	   Y	DB
+Bmr027	      SB	  1464-1773(RD,SB)     07/23/03	   Y	CO
+Bmr028	      SB	  uncut		       07/23/03		CO
+Bmr029	      SB	  uncut		       06/13/03	   Y	CO
+Bmr030	      SB	  uncut		       05/13/03	   Y	CO
+Bmr031	      SB	  uncut		       08/25/03	   Y	CO
+
+Bns001	      RD/SB	  uncut		       01/30/04		JA2
+Bns002	      RD/SB	  uncut		       01/29/04		JA2
+Bns003	      RD	  uncut		       01/12/04		JA2
+
+Bro003	      RD	  uncut		       07/10/03	   Y	DB
+Bro004	      SB	  1300-1420(SB)			   	DB
+			  3500-3900(HC,RD,SB)# 12/18/02
+Bro005	      SB	  3100-3220(SB)	       08/21/03	   Y	DB
+			  3100-3280	       08/21/03
+Bro007	      RD	  700-820(HC,RD,SB)    01/06/03	   Y	DB
+Bro008	      HC	  uncut		       03/07/03	   Y	DB
+Bro010	      RD	  uncut		       08/06/03	   Y	CO
+Bro011        HC	  2100-2220(HC)	       04/18/03	   Y	DB
+Bro012	      SB	  uncut		       05/02/03	   Y	DB
+Bro013	      RD	  uncut		       01/10/03	   Y	DB
+Bro014	      RD	  uncut		       08/19/03	   Y	CO
+Bro015	      RD	  400-520(RD,SB)       01/06/03	   Y	DB
+Bro016	      RD	  uncut		       08/12/03	   Y	CO
+Bro017        HC	  2800-2920(HC)	       01/02/03	   Y	DB
+Bro018	      SB	  uncut		       03/19/03	   Y	DB
+Bro019	      RD	  uncut		       11/24/03		JA1
+Bro021        RD	  uncut		       09/05/03	   Y	CO
+Bro022	      RD	  uncut		       08/14/03	   Y	CO
+Bro023	      RD	  uncut		       12/08/03	   	CO
+Bro024	      RD	  uncut		       12/18/03		JA1
+Bro025	      HC	  uncut		       06/10/03	   Y	CO
+Bro026	      HC	  uncut		       03/17/03	   Y	DB
+Bro027	      RD	  uncut		       12/02/03		JA1
+Bro028	      SB	  2442-2918(RD,SB)     11/17/03		**
+
+Bsr001	      RD	  uncut		       01/22/04		JA2
+
+Btr001	      RD	  uncut		       11/17/03		CO
+Btr002	      SB	  uncut		       12/05/03		JA1
+
+Buw001	      SB	  uncut		       01/21/04		JA2
+
+
+
+
+
+

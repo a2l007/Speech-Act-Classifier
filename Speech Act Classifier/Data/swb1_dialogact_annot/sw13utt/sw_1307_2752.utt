@@ -1,0 +1,442 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+**************WARNING*********************
+In this file, the A and B speakers have been
+swapped from the original transcription, in
+order to correctly match the channels recorded!
+
+FILENAME:	2752_1032_1212
+TOPIC#:		302
+DATE:		910501
+TRANSCRIBER:	csw
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+o          B.1 utt1:  Okay,  /
+o          B.1 utt2: well yes,  /
+sd          B.1 utt3: we do have pollution in Houston  /
+%          B.1 utt4: and it, -/  
+
+qw          A.2 utt1:  How bad is it?  /
+qy          A.2 utt2:  Do you have smog like they do in California? /  
+
+%          B.3 utt1:  Well it, it - /
+no          B.3 utt2: some, - /
+sv          B.3 utt3: I think it depends on, uh, you know, what the, ho-, the cloud cover - /
+sd          B.3 utt4: and like right now, it's, uh, it's kind of overcast, you know,  /
+sd          B.3 utt5: just, it's hot, /  
+
+b          A.4 utt1:  Uh-huh. /  
+
+sd          B.5 utt1:  and the sun is trying, tries to shine through  /
+sv          B.5 utt2: but it's, it's holding in this, this pollution  /
+%          B.5 utt3: and I, -/  
+
+sv          A.6 utt1:  It depends on whether you have some sort of temperature inversion, I take it. /  
+
+aa          B.7 utt1:  I think so,  /
+%          B.7 utt2: and, uh, -/  
+
+b          A.8 utt1:  Yeah. /  
+
+sd          B.9 utt1:  and we have, uh, Pasadena, Texas which is sort of between here an, you know, heading toward Galveston,  /
+sd          B.9 utt2: I mean it's still part of, it's part of the Houston metroplex. /  
+
+b          A.10 utt1:  Uh-huh,  /
+b^r          A.10 utt2: uh-huh.  /
+qw          A.10 utt3:  What do you think is your primary cause of it. /  
+
+sv          B.11 utt1:  Well, I think it's industry  /
+sv          B.11 utt2: and I think it's cars. /  
+
+qy^d          A.12 utt1:  You do?  /
+qy          A.12 utt2:  You really think cars contribute a lot now that they've taken lead out of gas? /  
+
+%          B.13 utt1:  I don't, I, - /
+h          B.13 utt2: well maybe not,  /
+sv          B.13 utt3: but, it, it sure, it sure, se-, - /
+%          B.13 utt4: you know, it, - /
+sd          B.13 utt5: I, I know that when I'm, when I'm behind a car - /
+sd          B.13 utt6: and, uh, sometimes, uh, I can really smell especially diesel and things like that, /  
+
+b          A.14 utt1:  Uh-huh. /  
+
+sd          B.15 utt1:  you know, comes right into my air conditioner  /
+sd          B.15 utt2: and, you know, my head and my fa-, - /
+sd          B.15 utt3: I'm so stopped up right now, /  
+
+b          A.16 utt1:  Um,  /
+ba          A.16 utt2: my goodness. /  
+
+sd          B.17 utt1:  I don't know if it's, uh, if it's partly from what's blooming, you know, right now, pollen and stuff like that,  /
+sd          B.17 utt2: that's part of it,  /
+%          B.17 utt3: but, um. -/  
+
+b          A.18 utt1:  Uh-huh.  /
+sv          A.18 utt2:  I think a lot of it's industrial.  /
+sv          A.18 utt3:  I also think, uh, that, uh, there is a certain amount that comes from automobiles  /
+sv          A.18 utt4: but it's mostly from older automobiles.  /
+sv          A.18 utt5:  I don't think the newer automobiles are as polluting, uh, frankly. /  
+
+b          B.19 utt1:  Uh-huh. /  
+
+sv          A.20 utt1:  I think that, uh, I think that, uh, uh, - /
+%          A.20 utt2: if, uh, - /
+sd          A.20 utt3: I, I, I heard a story a while back  /
+sd          A.20 utt4: something to the effect that if they could just pay to get twenty percent, or, take all the cars off the road that have been, uh, manufactured say before nineteen seventy-five,   
+
+b^r          B.21 utt1:  Uh-huh. /  
+
++          A.22 utt1:  that they could cut the automobile pollution by over fifty percent just by getting rid of those cars that are still left remaining. /  
+
+qy          B.23 utt1:  You mean, uh, fifty percent pollution total --   
+
+ny          A.24 utt1:  Yeah. /  
+
++          B.25 utt1:  -- from that comes from, -/  
+
+^2          A.26 utt1:  From, from cars - /
+sd          A.26 utt2: that is, not, not total but just from cars, - /
+%          A.26 utt3: okay. /  
+
+bk          B.27 utt1:  Oh, uh-huh. /  
+
+sv          A.28 utt1:  So, that I think would be tremendous help.  /
+sd          A.28 utt2:  But I happen to drive an old model car because it's very economical  /
+sd          A.28 utt3: and it just keeps getting, uh, gives me good service  /
+sd          A.28 utt4: and I don't have an incentive to get rid of it as long as it keeps running good and not costing me any money. /  
+
+b          B.29 utt1:  Uh-huh. /  
+
+sv          A.30 utt1:  On the other hand I know it's a much more polluter than any of the newer model cars I have. /  
+
+b          B.31 utt1:  Uh-huh. /  
+
+sd          A.32 utt1:  But I don't have any incentive to get out of it until it dies. /  
+
+b          B.33 utt1:  Right. /  
+
+sv          A.34 utt1:  And, uh, that may be part of the problem.  /
+%          A.34 utt2:  Als-, -/  
+
+qy          B.35 utt1:  Do you all have pollution in your co-, part of the country, uh, from industry? /  
+
+ny          A.36 utt1:  Yeah, {pause}  /
+ny^r          A.36 utt2: yeah,  /
+ny^r          A.36 utt3: yeah,  /
+ny^r          A.36 utt4: oh, uh, yeah,  /
+sv          A.36 utt5: it's, it's, uh, pretty heavy up here I think  /
+sv          A.36 utt6: but I think it's mostly industrial, is what I really, uh, believe is the, the main problem.  /
+%          A.36 utt7:  And, and, uh, {pause} - /
+sv          A.36 utt8: and, uh, uh, people, uh, I don't think are paying as close attention to it in this area as they frankly should.  /
+sv          A.36 utt9:  I, I we, we seem to have a high, uh, cancer rate up here in Maryland. /  
+
+bh          B.37 utt1:  Really, /  
+
+ny          A.38 utt1:  Yeah,  /
+%          A.38 utt2: and, uh, -/  
+
+%          B.39 utt1:  like what ki-, - /
+qr          B.39 utt2: any particular kind or just all kinds? /  
+
+sv          A.40 utt1:  Well, for instance breast cancer seems to be pretty rampant  /
+%          A.40 utt2: and, uh, I think, - /
+sv          A.40 utt3: of course prostrate cancer's sort of bad for everybody,  /
+sd          A.40 utt4: but, uh, th-, this state was like the second, - /
+sd          A.40 utt5: my wife's a registered nurse,  /
+sv          A.40 utt6: and I think this state was like second this year from the top, in terms of, uh, cancer rate for just all kinds.  /
+sv          A.40 utt7:  And I can't help but believe that's not partially caused from pollution.  /
+sv          A.40 utt8:  I just don't know exactly what it necessarily is,  /
+sv          A.40 utt9: but I just can't believe it is. /  
+
+b          B.41 utt1:  Um. /  
+
+sd          A.42 utt1:  Now we have a lot of pollution being caused by cloruph-, uh, fluorocarbons which is the, like freon twelve and freon twenty-two.  /
+sd          A.42 utt2:  They use freon twenty-two in air conditioning systems in houses and the like and heat pumps, /  
+
+b          B.43 utt1:  Uh-huh. /  
+
+sd          A.44 utt1:  and they use freon twelve in car air conditioners  /
+sv          A.44 utt2: and that's also what's causing our atmosphere to lose it's ozone layer. /  
+
+b^r          B.45 utt1:  Uh-huh. /  
+
+sv          A.46 utt1:  And I can't help believe if it's sufficient enough to make the atmosphere lose it's ozone layer, that it's not acting as a pollutant in our lungs also,  /
+sv          A.46 utt2: and having all kinds of effects,  /
+%          A.46 utt3: and. -/  
+
+qw          B.47 utt1:  Well what can we do about the, the, the, the air conditioning problem? /  
+
+sd          A.48 utt1:  Well they're working now, - /
+sd          A.48 utt2: I know DuPont and Dow and several other chemical companies are working, uh, feverishly to try to come up with a substitute for fluorocarbons, /  
+
+b          B.49 utt1:  Uh-huh. /  
+
+sv          A.50 utt1:  and who ever does is going to make, uh, a mint.  /
+sd          A.50 utt2:  Because if they ever come up with a reasonable working agent in place of fluorocarbons, then, uh, -/  
+
+qy          B.51 utt1:  Is that also what's in, uh, hairsp-, aerosol? /  
+
+na          A.52 utt1:   Well they used to be,  /
+sd          A.52 utt2: but they made them take it out of that. /  
+
+qy^d          B.53 utt1:  Even, so, so the aerosol is still aerosol, /  
+
+na          A.54 utt1:  Right. /  
+
+qy^d          B.55 utt1:  but it doesn't have anything that's damaging. /  
+
+nn          A.56 utt1:  No,  /
+sd^e          A.56 utt2: they, they, they passed a law and made them take the fluorocarbons out of the aerosol containers, /  
+
+b          B.57 utt1:  Uh-huh,  /
+sv          B.57 utt2: well that's good. /  
+
+sv          A.58 utt1:  and that was a move in the right direction.  /
+sd          A.58 utt2:  We are doing some things to try to correct the problem.  /
+sv          A.58 utt3:  But there are more things we could do  /
+sv          A.58 utt4: and getting rid of old cars, like I said is one way to help correct the problem.  /
+sv          A.58 utt5:  Uh, uh, just trying to I think be careful, uh, with the way you handle garbage,  /
+sd          A.58 utt6: I notice in this state, - /
+sd          A.58 utt7: I don't know if you're doing it in Texas yet or not,  /
+sd          A.58 utt8: but in this state we have special containers now we have to put all our cans and bottles and plastic pieces, uh, you know, containers in,  /
+%         A.58 utt9: yeah. /  
+
+sd          B.59 utt1:  Here, they've just started, started doing that,  /
+%          B.59 utt2: it's, it's, you know, - /
+sd          B.59 utt3: you're not, you don't have to, - /
+%          B.59 utt4: but m-, you know, - /
+sd          B.59 utt5: I know I am.  /
+sd          B.59 utt6:  I save, -/  
+
+b          A.60 utt1:  Yeah,  /
+sd          A.60 utt2: well we are doing it pretty religiously in our group too.  /
+%          A.60 utt3:  But they, uh, - /
+sd          A.60 utt4: in one of the counties here, they're actually doing a trial program of having a trash police.  /
+sd          A.60 utt5:  They have a lady that goes around like a meter maid  /
+sd          A.60 utt6: and she spot checks people's trash. /  
+
+ba          B.61 utt1:  No kidding,  /
+b          B.61 utt2: really,  /
+b          B.61 utt3: oh. /  
+
+sd          A.62 utt1:  And if they find a bottle or a can or anything like that in your trash,   
+
+bh          B.63 utt1:  Is that right. /  
+
++          A.64 utt1:  they'll fine you fifty bucks I think the first time and two fifty the second time. /  
+
+sv          B.65 utt1:  Well, we need to do something,  /
+sv          B.65 utt2: we need to get serious about it. /  
+
+b          A.66 utt1:  Yeah,  /
+%          A.66 utt2: you, - /
+b          A.66 utt3: right,  /
+sv          A.66 utt4: you've got to get people to see i-, - /
+sv          A.66 utt5: and surprisingly enough just handling of trash, uh, can cut pollution, uh, from, uh, uh, from just throwing it in a dump, or, or, or, where ever else they used to do with it, maybe used to burn it.  /
+sd          A.66 utt6:  They've stopped that up here too. /  
+
+b          B.67 utt1:  Uh-huh. /  
+
+sv          A.68 utt1:  But that, that will cut pollution too.  /
+sv          A.68 utt2:  Because you get a lot of out gassing from these things, I think, decaying and tr-, and trying to, - /
+sd          A.68 utt3: for instance cans and bottles, they never go away at all. /  
+
+b          B.69 utt1:  Uh-huh. /  
+
+sv          A.70 utt1:  But on, on the other hand, I don't guess they're polluting.  /
+sv          A.70 utt2:  But plastic containers and the like, uh, they may be,  /
+sd          A.70 utt3: I'm not sure of that. /  
+
+qo          B.71 utt1:  How much does, uh, planting more trees and things like that help? /  
+
+sv          A.72 utt1:  Oh I think that's very important to do. /  
+
+%          B.73 utt1:  (( )) too. /  
+
+sv          A.74 utt1:  I, I really think that, uh, trying to get along with your environment and help it out is a very, very important thing. /  
+
+b          B.75 utt1:  Uh-huh. /  
+
+sv          A.76 utt1:  And, uh, that can help to cut pollution, I guess some.  /
+sv          A.76 utt2:  I, I don't know how much trees actually act as filtering agents in terms of pulling various pollutants or chemicals out of the air.  /
+sv          A.76 utt3:  I would hope that they would help some, though.  /
+sv          A.76 utt4:  That's for sure. /  
+
+sv          B.77 utt1:  I think, uh, it seems like there was something going on, around here, that, you know, -/  
+
+x          A.78 utt1:  <Throat_clearing>. /  
+
+sd          B.79 utt1:  we have all these chemical plants and oil refineries and those kind of things and that they burn off a lot of stuff, /  
+
+b          A.80 utt1:  Uh-huh. /  
+
+sd          B.81 utt1:  and some of the stuff that they weren't supposed to do that somebody found out, you know, like in the middle of the night, they would go ahead and do it anyway.  /
+sd          B.81 utt2:  I think they got caught. /  
+
+ba          A.82 utt1:  Oh good. /  
+
+sd          B.83 utt1:  But I wonder how much of that kind of stuff, you know, goes on. /  
+
+sv          A.84 utt1:  Well that, uh, that I think may go on a lot  /
+sv          A.84 utt2: and the primary reason I think it may go on a lot is just as you said, somebody happened to stay up late at night or something.  /
+sv          A.84 utt3:  I don't think we have a adequate policing, uh, particularly on industry.  /
+sv          A.84 utt4:  Uh, we have good policing, at least in this state  and, and several of the surrounding states and probably yours too, of car pollutants  /
+sd          A.84 utt5: because we have to go down, uh, once a year here in Maryland and get out car's exhaust systems checked for emission content. /  
+
+sd          B.85 utt1:  Uh, we have to, uh, we have to have a state inspection every year. /  
+
+b          A.86 utt1:  Uh-huh. /  
+
+qy          B.87 utt1:  Do you all have that? /  
+
+nn          A.88 utt1:  Uh, no,  /
+sd^e          A.88 utt2: we don't have a state inspection, /  
+
+%          B.89 utt1:  So, - /
+%          B.89 utt2: which I, - /
+%          B.89 utt3: I don-, - /
+%          B.89 utt4: I would assu-, -/  
+
+sd          A.90 utt1:  but any time you sell a car or buy a car it has to be inspected in this state. /  
+
+qy^d          B.91 utt1:  So I'm assu-, I'm assuming that, you know, they check, they check everything for safety  /
+%          B.91 utt2: or, -/  
+
+no          A.92 utt1:  I don't know,  /
+sd          A.92 utt2: uh, that's something that you'd have to just check with your authorities.  /
+sd          A.92 utt3:  But in this state we have to, uh, pay eight dollars and a half and go to a, an emission station once a year and get every one of our cars checked that are, have been made starting in nineteen seventy-three. /  
+
+qy^d          B.93 utt1:  But that's all they check for,  /
+qy^d          B.93 utt2: they don't check how good, - /
+qy^d          B.93 utt3: if your tires are good enough or your brakes are good enough. /  
+
+nn          A.94 utt1:  No,  /
+nn^r          A.94 utt2: no,  /
+sd^e          A.94 utt3: we don't have inspections like that.  /
+sd          A.94 utt4:  Now, I'm in Maryland,  /
+sv          A.94 utt5: in Virginia they check that every two years, I think. /  
+
+sd          B.95 utt1:  We do that ev-, every year. /  
+
+sv          A.96 utt1:  And I think that's a good idea too,  /
+sd          A.96 utt2: not, no-, not that it necessarily has anything to do with cutting pollution necessarily,  /
+sv          A.96 utt3: but I think it's a good idea.  /
+sd          A.96 utt4:  The emission check, though, is required in Maryland  /
+sd          A.96 utt5: and it's also required in Virginia, uh, a sister state to, to this one.  /
+sv          A.96 utt6:  And that's, that goes a long ways towards cutting pollutants. /  
+
+sd          B.97 utt1:  Well I'll have to check,  /
+sd          B.97 utt2: I'm not sure if, if our state inspection ever-, - /
+sd          B.97 utt3: once a year has to do, you know, - /
+sd          B.97 utt4: if they check the, uh, -/  
+
+b          A.98 utt1:  Uh-huh,  /
+sv          A.98 utt2: well if they don't I would imagine in time they'll get a law with. i-, get around to it,  /
+sv          A.98 utt3: and if they don't then that's something I would certainly, uh, uh, suggest you be willing to uh, uh, be for in terms of, uh, -/  
+
+sd          B.99 utt1:  Oh, I would <laughter>. /  
+
+b          A.100 utt1:  Yeah,  /
+b^r          A.100 utt2: yeah. /  
+
+sd          B.101 utt1:  I'm for anything that cleans up the air or the water or, or, or anything. /  
+
+aa          A.102 utt1:  Oh yeah,  /
+aa          A.102 utt2: I, I agree.  /
+sd          A.102 utt3:  Now that's another area we haven't even discussed  /
+sd          A.102 utt4: and that is water pollution and various of the other types of, uh, of, uh, like food pollution.  /
+sd          A.102 utt5:  I mean you, you hardly ever hear, hear anybody say anything about food pollution.  /
+sv          A.102 utt6:  But I think there we have a pretty good handle on inspection of foods in this countries,  /
+sd          A.102 utt7: so, uh, hopefully we're not ingesting too much in the way of, uh, pollutants in our food.  /
+%          A.102 utt8:  But water pollution, uh, - /
+sd          A.102 utt9: I've worried, especially the last few years about just how good the water supply we have in this country is for drinking and the like. /  
+
+b          B.103 utt1:  Uh-huh. /  
+
+sd          A.104 utt1:  I know a lot more people are going to bottled water. /  
+
+nd          B.105 utt1:  Well - /
+sv          B.105 utt2: and that's not necessarily the answer either  /
+sd          B.105 utt3: because they've found out that that's just comes out of somebody's tap. /  
+
+b          A.106 utt1:  Yeah,  /
+b^m          A.106 utt2: tap,  /
+%          A.106 utt3: yeah <laughter>. /  
+
+%          B.107 utt1:  So, - /
+%          B.107 utt2: but a lot of these, uh, - /
+%          B.107 utt3: some of this - /
+sv          B.107 utt4: well, you know, a lot of people have well water,  /
+sd          B.107 utt5: in fact in this area too  /
+%          B.107 utt6: and, an, you know, - /
+%          B.107 utt7: and, uh, -/  
+
+b          A.108 utt1:  Uh-huh. /  
+
+sd          B.109 utt1:  if you don't get it tested you don't necessarily know what you're, what you're drinking  /
+sd          B.109 utt2: and I, I know a lot of people, you know, have that  /
+sv          B.109 utt3: and, you know, you have to wonder if that, you know could have an adverse affect on them too,   
+
+b          A.110 utt1:  Yeah. /  
+
++          B.111 utt1:  if they don't, i-, they don't get it checked. /  
+
+b^r          A.112 utt1:  Yeah,  /
+sd          A.112 utt2: I'm absolutely for drinking water out of wells as long as you first of course, have it checked  /
+sv          A.112 utt3: because it seems, uh, - /
+sd          A.112 utt4: when I was a kid growing up down south, uh, I used to go out in the country where my grandparents were  /
+sd          A.112 utt5: and we had a well,  /
+sd          A.112 utt6: it was one of those draws that, - /
+sd          A.112 utt7: I forget what you call those things, /  
+
+b          B.113 utt1:  Uh-huh. /  
+
+sv          A.114 utt1:  and, and that was some of the best tasting water,  /
+sd          A.114 utt2: I mean, I can still to this day taste that water. /  
+
+%          B.115 utt1:  When we were, - /
+sd          B.115 utt2: when I was growing up I lived in Huntsville, Alabama, /  
+
+b          A.116 utt1:  Yeah. /  
+
+sd          B.117 utt1:  and their water supply came from, uh, spring. /  
+
+b          A.118 utt1:  Uh-huh. /  
+
+sd          B.119 utt1:  And it was like ice cold, spring water  /
+sd          B.119 utt2: and I guess parts of the, the city still ha-, you know, get that,  /
+sv          B.119 utt3: but, uh, that was, that was really wonderful. /  
+
+ba          A.120 utt1:  Oh, I bet it was. /  
+
+sv          B.121 utt1:  It was really, really good. /  
+
+b          A.122 utt1:  Yeah,  /
+%          A.122 utt2: the-, - /
+sv          A.122 utt3: once it's been filtered an if it's a deep enough well, filtered through all the earth and everything I think that, uh, - /
+sv          A.122 utt4: it depends of course where you are.  /
+sv          A.122 utt5:  A good well, though, I think is very healthy ... / 

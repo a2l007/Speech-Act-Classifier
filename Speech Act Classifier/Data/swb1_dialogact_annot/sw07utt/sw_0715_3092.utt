@@ -1,0 +1,448 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3092_1263_1320
+TOPIC#:		345
+DATE:		910619
+TRANSCRIBER:	MS
+UTT_CODER:      lsh
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	5
+REMARKS:	There appears to be a radio or television going
+constantly in the background of Speaker B
+
+=======================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qy          A.1 utt2: {F uh, } do you work outside the home? /  
+
+nn          B.2 utt1:  No,  /
+ng          B.2 utt2: I do not. /  
+
+b          A.3 utt1:  Okay,  /
+ba          A.3 utt2: wow <laughter>. /  
+
+qy          B.4 utt1:  Do you? /  
+
+qy          A.5 utt1:  Have you? /  
+
+br^m          B.6 utt1:  Have I? /  
+
+ny          A.7 utt1:  Yes,  /
+ny          A.7 utt2: uh-huh. /  
+
+nn          B.8 utt1:  {F Uh, } no,  /
+ng          B.8 utt2: not actually <laughter>. /  
+
+bk          A.9 utt1:  Okay,  /
+ny          A.9 utt2: {D well, } yes I do. /  
+
+bk          B.10 utt1:  Okay. /  
+
+sd          A.11 utt1:  In fact, I am at work right now.  /
+co           A.11 utt2: {F Uh, }  {C and so } let me take the lead, {F uh, } Angela.  /
+sv          A.11 utt3: {F Uh, } I think what is really important, {F uh, } - /
+sv           A.11 utt4:  <noise> of course, salary is very important, because that's why you are working  [ for your, + ] for the money, {C but, } job satisfaction to me is also, {F uh, }  very important in having a job.  /
+sd^t           A.11 utt5: {C And, } {F uh, } one of the things that, {F uh, } she asked us to  discuss was benefits.  /
+qy^d           A.11 utt6: {F Uh, } I'm assuming that you are married and have a husband that supports you. /  
+
+na          B.12 utt1:  Right. /  
+
+bk          A.13 utt1:  Okay.  /
+ad           A.13 utt2:  {C And so } [ we could, + we could ]  talk about, {F uh, } that path, {D you know, } how important you think his benefits are.    [ [ And, + and, ] + and, ] {F uh, } how important you think they are and [ if, + ] what would you like to see increased --   
+
+aa          B.14 utt1:  Okay. /  
+
++          A.15 utt1:  -- in his benefits.  /
+sd          A.15 utt2:   Like, {F uh, } <throat_clearing> perhaps, {F uh, } he has, {F uh, }   
+
+x          B.16 utt1:  <Noise>.   
+
++            A.17 utt1:  the benefit of having eyeglasses for the family, {F uh, } {F uh, } and how much coverage, {F uh, } it provides and also, your hospital coverage,  and, {F uh, } {F um, } probably dental.  /
+sd          A.17 utt2:  How important you think that would be. /  
+
+aa          B.18 utt1:  Right.  /
+sv           B.18 utt2:  [ I, + I ] think that job wise benefits  are [ import-, + ] just as important as salary is. /  
+
+bf           A.19 utt1:  {C Because } [ they, + ] of course, if you did not have them, you would be pulling from your salary, of course. /  
+
+aa          B.20 utt1:  Exactly, /  
+
+aa          A.21 utt1:  Right, /  
+
+aa^r          B.22 utt1:  exactly. /  
+
+aa^r          A.23 utt1:  right. /  
+
+sv           B.24 utt1:  Especially when you have a family, with children, and you are always going to the doctor for, -/  
+
+bf          A.25 utt1:  {C And } they always have surprises for you. /  
+
+aa          B.26 utt1:  Exactly, /  
+
+b^m          A.27 utt1:  With children, /  
+
+sv          B.28 utt1:  they always do. /  
+
+%           A.29 utt1:  {D You know, } {C and so, } [ it's, + it ]  is, {F uh, } - /
+sd           A.29 utt2: we could not do without the benefit package [ from, + from ] any company that we worked  [ for, + ] whether they be a conglomerate or just a small, <inhaling> {F uh, } {F uh, } business. /  
+
+aa          B.30 utt1:  Yeah,  /
+sv           B.30 utt2: I think [ any, any, + ]  even if your insurance policy is not the greatest. -/  
+
+^2          A.31 utt1:  You would still have something. /  
+
+aa          B.32 utt1:  Exactly.  /
+bf           B.32 utt2:  [ You  + ((   ))  you ]  would not be pulling it out of your account all of the time --   
+
+aa          A.33 utt1:  Right. /  
+
++          B.34 utt1:  -- just by yourself.  /
+sv          B.34 utt2: Also, <inhaling> for working women --   
+
+aa          A.35 utt1:  Yes. /  
+
++           B.36 utt1:  -- {F uh, } I think a lot of the companies should start providing for day-care [ [ in the, + in the, ] +   
+
+b          A.37 utt1:  Uh-huh. /  
+
++          B.38 utt1:  in the ] building. /  
+
+sd           A.39 utt1:  They are getting a handle on that, in fact, {F uh, }  my oldest daughter [ is, + {F uh, } is ] {F uh, } a nurse  /
+sd          A.39 utt2: {C and } she just received her masters  degree  /
+sd          A.39 utt3: {C and } she is now into consulting  /
+sd           A.39 utt4: {C and } that's one of the areas that she is working on.  To have, {F uh, } {F uh, } a day care center for [ the indiv-, + ]  the children [ of the, + of the ] nurses that are staffing the facility. /  
+
+b          B.40 utt1:  Right. /  
+
+sv           A.41 utt1:  {C And } that is true in many, many  areas of, {D you know, } {F uh, } job titles --   
+
+b          B.42 utt1:  Yeah. /  
+
++          A.43 utt1:  -- and professions. /  
+
+sd*          B.44 utt1:  {D Like } in may case, I have three children -- *[[spelling: 'may' should be 'my']]
+
+b          A.45 utt1:  Uh-huh. /  
+
++          B.46 utt1:  -- from ages nine to two.    
+
+b          A.47 utt1:  Sure. /  
+
++           B.48 utt1:  {C And, } it's just unfeasible for me to try to get a job because all the money that I would,   
+
+%          A.49 utt1:  Would, - /
+bf          A.49 utt2: [ it would, +   
+
++          B.50 utt1:  be making would be going to day care. /  
+
++          A.51 utt1:  It would ] be just futile. /  
+
+sd          B.52 utt1:  {C And } it would be just, -/  
+
+bf          A.53 utt1:  # {C And } they would not have the quality, # /  
+
+sd           B.54 utt1:  # basically be me working to pay # for them to be at a day care,   
+
+bf          A.55 utt1:  # {C And } they, #   
+
++          B.56 utt1:  # center. # /  
+
++          A.57 utt1:  would be deprived of their mother. /  
+
+aa          B.58 utt1:  Exactly. /  
+
+b          A.59 utt1:  Yeah.  /
+o          A.59 utt2:  No,  /
+ba          A.59 utt3: I understand that totally <throat_clearing>. /  
+
+sd           B.60 utt1:  Besides which, it would be easier, {F uh, } there's a lot of single mothers out there now, from divorces and a lot of,   
+
+b          A.61 utt1:  {F Oh, } I  (( hear )) , /  
+
++          B.62 utt1:  women are starting to have babies without a partner. /  
+
+aa          A.63 utt1:  Yes,  /
+aa          A.63 utt2: that's true. /  
+
+sv           B.64 utt1:  {C And } to go to work, you are worried about your child, besides which you have to get up earlier to take the child to day care. /  
+
+aa          A.65 utt1:  Right. /  
+
+sv          B.66 utt1:  {C And } if they were in the same building --   
+
+b          A.67 utt1:  Uh-huh. /  
+
++          B.68 utt1:  -- then you are going to the same place,  /
+sv           B.68 utt2: {C and }  you could go for your lunch hour down and visit with your child,   
+
+aa          A.69 utt1:  Yes.  /
+qy          A.69 utt2: [ Do you, +   
+
++           B.70 utt1:  [ or, + ] {D you know, } and take your breaks with your  children, or something. /  
+
++            A.71 utt1:  Do you ] think that you should fund that if they have that as a benefit, if you would fund that somewhat from your salary that you are getting? /  
+
+x          B.72 utt1:  <Inhaling>.   
+
+qy          A.73 utt1:  Do you think that would be,   
+
+sv          B.74 utt1:  I think tha-, - /
+na          B.74 utt2: I,     
+
++          A.75 utt1:  acceptable? /  
+
++          B.76 utt1:  think it would be fair. /  
+
+aa          A.77 utt1:  I do too. /  
+
+sv           B.78 utt1:  I think [ if, + if ] the company could not provide it all on their own,   
+
+aa         A.79 utt1:  Right,  /
+%         A.79 utt2: that you, -/  
+
++           B.80 utt1:  [ for the, + for the ]  people that would be using it, {D you know, }   
+
+aa          A.81 utt1:  Right. /  
+
++          B.82 utt1:  a certain amount of their salary would go to it. /  
+
+aa          A.83 utt1:  That's right. /  
+
+sv          B.84 utt1:  {C But } it would still probably be cheaper <sigh>,   
+
+^2          A.85 utt1:  With the company [ than, +   
+
++          B.86 utt1:  with the company helping,   
+
++          A.87 utt1:  # than ] having to go, # -/  
+
++           B.88 utt1:  # [ our + ] if everybody, # {D you know, }  pulled their own weight in it. /  
+
+%          A.89 utt1:  That's  ((   )) , - /
+aa          A.89 utt2: that's right.  /
+aa          A.89 utt3: Yes,  /
+aa          A.89 utt4: I,   
+
+sv          B.90 utt1:  I think it would be really.   
+
++          A.91 utt1:  agree with that. /  
+
++          B.92 utt1:  really great. /  
+
+sv          A.93 utt1:  That would be fair. /  
+
+b          B.94 utt1:  Yeah. /  
+
+b          A.95 utt1:  Yeah. /  
+
+aa          B.96 utt1:  I do. /  
+
+qo           A.97 utt1:  {F Uh, } {C and } [ how, + how ] do you feel about, {F uh, } let's see, eye care? /  
+
+sv          B.98 utt1:  Eye care is good.  /
+sd          B.98 utt2:  I do not, - /
+sd          B.98 utt3: I am not sur-, - /
+sd          B.98 utt4:  I do not think we have that on our policy. /  
+
+b          A.99 utt1:  Okay. /  
+
+%          B.100 utt1:  {C But, } {F uh, } we, -/  
+
+sd          A.101 utt1:  Vision, I guess it's called,   
+
+b          B.102 utt1:  Yeah. /  
+
++          A.103 utt1:  vision care. /  
+
+sv           B.104 utt1:  It would be great, {E I mean, } {F uh, } the glasses  that, - /
+sv           B.104 utt2: the exams themselves are not expensive, it's the glasses. /  
+
+arp           A.105 utt1:  It depends on who  [ (( ha-, )) + ]  examines your eyes. /  
+
+aa          B.106 utt1:  Yeah,  /
+aa          B.106 utt2: that's true. /  
+
+sv         A.107 utt1:  If you have [ an, + an ]   ((   ))  optometrist or an ophthalmologist,   
+
+aa          B.108 utt1:  Right,  /
+%          B.108 utt2: now like my ... -/  
+
++          A.109 utt1:  there's a vast difference in those two, {F uh, }   
+
+aa          B.110 utt1:  Right. /  
+
++          A.111 utt1:  professionals. /  
+
+sd            B.112 utt1:  {D Well, } like my mother, she has to go for testing  cause she has got, -/  
+
+^2          A.113 utt1:  Glaucoma. /  
+
+ar          B.114 utt1:  {D Well, } she does not have it,  /
+sd          B.114 utt2: {C but, }   
+
+b          A.115 utt1:  Oh. /  
+
++          B.116 utt1:  she is {D like, } on the verge of it or,    
+
+bk          A.117 utt1:  {F Oh, } okay,  /
+%          A.117 utt2: {C so, } -/  
+
++          B.118 utt1:  something.  /
+sd          B.118 utt2: Her eyes are changing, /  
+
+b          A.119 utt1:  Yes. /  
+
+sd          B.120 utt1:  {C and } she has to be tested  periodically.  /
+sv          B.120 utt2: [ {C And, } +   
+
+b          A.121 utt1:  Uh-huh. /  
+
++          B.122 utt1:  {C and } ] those are expensive tests. /  
+
+aa          A.123 utt1:  Yes,  /
+aa          A.123 utt2: they are. /  
+
+sd          B.124 utt1:  Now, I think your insurance covers her --   
+
+b          A.125 utt1:  Uh-huh. /  
+
++          B.126 utt1:  -- on that,  /
+sv            B.126 utt2: {C but } {D you know, } for something like that, [ it-, + ] that's just as bad as a medical, {D you know, }  /
+%          B.126 utt3: that's, -/  
+
+aa          A.127 utt1:  Right,  /
+bf          A.127 utt2: that's critical, because she's in need of it so often. /  
+
+aa          B.128 utt1:  Right. /  
+
+aa          A.129 utt1:  Yes,  /
+sv            A.129 utt2: {C and, } {D you know, } we have, {F uh, } needs in our life that are unique to us  /
+sv^r           A.129 utt3: {C and, } {F uh, } {D you know, } people have needs in their  life that unique to us, to them. /  
+
+aa          B.130 utt1:  Right. /  
+
+sv          A.131 utt1:  {E I mean, } we are all different  /
+%          A.131 utt2: {C so, } -/  
+
+sd           B.132 utt1:  Now, I would like to see [ betl-, + ]  better <noise> dental insurance to me.  /
+qy^c          B.132 utt2: </noise> Was that our beep? /  
+
+nn          A.133 utt1:  {D Well, } no  /
+sd^e          A.133 utt2: that's my other phone. /  
+
+b          B.134 utt1:  Oh.  /
+b          B.134 utt2:  Huh. /  
+
+sd         A.135 utt1:  {D So, } that's it - /
+sd          A.135 utt2: that's okay, - /
+%          A.135 utt3: my, - /
+sd          A.135 utt4:  that phone is ringing to an empty desk  /
+sd          A.135 utt5: {C and } she's on vacation, /  
+
+bk          B.136 utt1:  Okay. /  
+
+sd          A.137 utt1:  <Laughter> {C so, } it's okay. /  
+
+sd          B.138 utt1:  {C But, } with the three children --   
+
+b          A.139 utt1:  Uh-huh. /  
+
++           B.140 utt1:  -- {F um, } orthopedic care, {F um, }  not orthopedic, orthodontic care, -/  
+
+sv          A.141 utt1:  That's very expensive. /  
+
+sd            B.142 utt1:  because [ on, + on ] a lot of the dental insurance,  they do not cover that well.  /
+sd          B.142 utt2:  For [ the, + the ] orthodontia stuff. -/  
+
+aa          A.143 utt1:  Yes,  /
+aa          A.143 utt2: that's true.  /
+sv          A.143 utt3: Orthodontic work is terribly expensive. /  
+
+aa          B.144 utt1:  Yes,  /
+aa          B.144 utt2: it is. /  
+
+sv           A.145 utt1:  Especially when you have a lot of problems with the  children teeth,   
+
+b          B.146 utt1:  Uh-huh. /  
+
++           A.147 utt1:  [ and, + and ] you have to really get them when they  are young, in order to have, {F uh, } not, {F uh, } a decent smile when they  are fifteen, sixteen years old. /  
+
+aa          B.148 utt1:  Right. /  
+
+sd          A.149 utt1:  I know, two of my daughters had to have that  /
+sd           A.149 utt2: {C and } they started having extractions at age eight, {F uh, } because they just had too  many teeth for their size mouth. /  
+
+b          B.150 utt1:  Yeah. /  
+
+sd           A.151 utt1:  {C And } we footed the bill, because there was not any  such thing [ and + ] when they were young. /  
+
+aa          B.152 utt1:  Right.  /
+sd           B.152 utt2:  My middle child needs to have, {F uh, }  orthodontic, [ he's + ] because his, his pallet is squared, not rounded./  
+
+b          A.153 utt1:  {F Oh, } uh-huh. /  
+
+sd          B.154 utt1:  {C And } it affects his speech a little bit,  [ not, + not ] anything, {D you know, } -/  
+
+b          A.155 utt1:  Uh-huh,  /
+^2          A.155 utt2: major. /  
+
+aa          B.156 utt1:  Right. /  
+
+b          A.157 utt1:  Uh-huh. /  
+
+sd           B.158 utt1:  {C But } just enough that his bite is off a little bit  /
+sd          B.158 utt2: {C and } it's like four hundred dollars,  /
+sd           B.158 utt3: {C and } my insurance is only going to  cover {D like } fifty of it. /  
+
+sd            A.159 utt1:  {D Well, } I tell you [ I, + <throat_clearing> I ] just read an article in the paper about what they are doing, I think it was an ad [ in, + in ]  our publication at Texas Instruments, where they are breaking the jaw [ and, +   
+
+
+ 
+
+b          B.160 utt1:  Oh. /  
+
++          A.161 utt1:  and ] lining the jaw up with the teeth.  /
+sd           A.161 utt2: [  It's, + it's ] less painful and less expensive. /  
+
+bh          B.162 utt1:  Really. /  
+
+ny          A.163 utt1:  Yeah. /  
+
+sv          B.164 utt1:  That sounds like it would hurt more. /  
+
+aa          A.165 utt1:  [ I, + I ] know,  /
+sd           A.165 utt2: {C but } [ [ it, + it's, ] + it's, ]  {F uh, } easier on the patient in the long run,   
+
+ba          B.166 utt1:  {F Oh, } gosh. /  
+
++          A.167 utt1:  which amazed me. /  
+
+sd          B.168 utt1:  [ I, + I ] would much rather [ that, + ] do that,   
+
+x          A.169 utt1:  <Laughter>.   
+
++           B.170 utt1:  to myself than make my five year old <laughter> go in and do it. /  
+
+x          A.171 utt1:  <Laughter>.   
+
+sd          B.172 utt1:  That would kill me. / 

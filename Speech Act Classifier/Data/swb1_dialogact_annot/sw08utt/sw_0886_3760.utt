@@ -1,0 +1,323 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3760_1423_1095
+TOPIC#:		364
+DATE:		920115
+TRANSCRIBER:	SS
+UTT_CODER:      aabo
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS: 	Apparently, children in background of both A and B
+speakers.
+
+===========================================================================
+  
+
+sd^t          A.1 utt1:  Okay, {F uh, } I guess, we are just supposed to talk about things we do in our spare time. /  
+
+b          B.2 utt1:  Uh-huh. /  
+
+sd          @A.3 utt1:  {F Uh, } I basically read books. /  
+
+b          B.4 utt1:  Uh-huh. /  
+
+%          A.5 utt1:  It is, - /
+sd          A.5 utt2: I do. - /
+sd          A.5 utt3: Sometimes, when everybody's gone to bed, my kids are in bed and my husband in bed,  /
+sd          A.5 utt4: {C so } I will just stay up and finish a book that I am, - /
+sd          A.5 utt5: I have about three books that I am going on.  /
+sd          A.5 utt6:  {C And } I will work on one for a little  bit, {D you know, }  and then the next one.  /
+%          A.5 utt7: {C But } that's just kind of, -/  
+
+sv          B.6 utt1:  {D Well, } that is pretty impressive to have three books going. /  
+
+bd          A.7 utt1:  <Laughter> Not always,  /
+bd          A.7 utt2: just sometimes. /  
+
+b          B.8 utt1:  {F Oh, } yeah.  /
+qw          B.8 utt2:  {C And } what what kind of books do you read? /  
+
+sd          A.9 utt1:  {F Uh, } just really different ones.  /
+sd          A.9 utt2:  {F Uh, } I have one that I was reading on, {F uh, } raising your children and then another one on [ a, + an ] autobiography, and another one on, {F uh, } {F uh, } {F uh, } like a crime story <children>. /  
+
+b          B.10 utt1:  {F Oh } yeah  /
+x          B.10 utt2: <children>.   
+
+sd          A.11 utt1:  A true crime story. /  
+
+qy          B.12 utt1:  {F Oh, } do you like those detective stories?  /
+x          B.12 utt2:  <children>.   
+
+ny          A.13 utt1:  Yeah.  /
+%          A.13 utt2:  {C But } this, - /
+sd^e          A.13 utt3: it was a true one.  /
+sd          A.13 utt4:  It was just a little different though.  /
+sd          A.13 utt5: <children> Reading that one last night. /  
+
+ba          B.14 utt1:  {F Oh, } {D well } that is interesting.  /
+sd          B.14 utt2:  {D Actually, } I like to read also,  /
+sd          B.14 utt3: {C but, } {F uh, } usually fall into one or two categories, {C either } true science fiction {C or } fantasy on the one hand {C or } highly technical. /  
+
+b          A.15 utt1:  Yeah,  /
+sd          A.15 utt2: like my husband. /  
+
+b          B.16 utt1:  Yeah  /
+x          B.16 utt2: <children>.   
+
+b          A.17 utt1:  Yeah  /
+x          A.17 utt2: <children>.   
+
+b          B.18 utt1:  Yeah,  /
+sd          B.18 utt2: kind of one or the other.  /
+o@          B.18 utt3:  {F Uh, }   
+
+qy^d          A.19 utt1:  You must, {F uh, } work for T I? /  
+
++@          B.20 utt1:  I do.  /
+ny          B.20 utt2: Yes. /  
+
+b          A.21 utt1:  Yeah,  /
+sd          A.21 utt2: my husband does too. /  
+
+b          B.22 utt1:  Yeah,  /
+sd          B.22 utt2: {C and } I am a computer scientist. /  
+
+b          A.23 utt1:  Yeah. /  
+
+sd          B.24 utt1:  {C But, } I have a lot of other hobbies. /  
+
+b          A.25 utt1:  Uh-huh,  /
+b          A.25 utt2: really. /  
+
+b          B.26 utt1:  {D Well, } yeah,  /
+sd          B.26 utt2: I am kind of, {F uh, } I guess what you would call [ it, + ] a project person. /  
+
+b          A.27 utt1:  {F Oh, } really. /  
+
+b          B.28 utt1:  Yeah,  /
+sd          B.28 utt2: {C and } I love, - /
+sd          B.28 utt3: {D like } I have a shop  /
+sd          B.28 utt4: {C and } when things break around the house, I always try to fix them myself  /
+%          B.28 utt5: {C and so, } hobby, - /
+sd          B.28 utt6: [ it's, + its' ] funny, {F uh, }  /
+sd          B.28 utt7: from the one stand point, it is work.  /
+sd          B.28 utt8:  {C But } it is a hobby too, that I enjoy --   
+
+b          A.29 utt1:  Yeah. /  
+
++          B.30 utt1:  -- to do.  /
+sd          B.30 utt2:   # To find broken, # -/  
+
+b          A.31 utt1:  # Yeah,  /
+b^r          A.31 utt2: yeah.  /
+qw          A.31 utt3: #  What kinds of things do you fix? /  
+
+sd          B.32 utt1:  {D Well, } essentially anything you find in a house.  {F Uh, } a stove, or oven or a broken piece of porcelain or, {F uh, } chipped tile on the floor.  {E I mean } just anything. /  
+
+b          A.33 utt1:  Oh.  /
+qy          A.33 utt2:  {C And } you have a shop? /  
+
+na          B.34 utt1:  {D Well } [ it, + it ] is not anything elaborate.  /
+sd          B.34 utt2: It is just a work bench and a gazillion tools. /  
+
+b          A.35 utt1:  Yeah. /  
+
+sd          B.36 utt1:  {C But, } enough that, again for anything in the house I could # probably, # -/  
+
+b          A.37 utt1:  # Yeah,  /
+^2          A.37 utt2: #  you can fix just about everything and anything. /  
+
+aa          B.38 utt1:  Right. /  
+
+ba          A.39 utt1:  {D Well, } that is great. /  
+
+%          B.40 utt1:  {C And } in the car, - /
+sd          B.40 utt2: I guess the car too. /  
+
+b          A.41 utt1:  Yeah. /  
+
+sv          B.42 utt1:  {C And so, } {F uh, } I think I probably would consider that a hobby.  /
+sd          B.42 utt2:  Although, sometimes it gets to be excessive. /  
+
+b          A.43 utt1:  Yeah.  /
+sd          A.43 utt2:  That is pretty much like my husband.  /
+sd          A.43 utt3: [  He is, + he is ] pretty, {F uh, } mobile in that area too.  /
+sd          A.43 utt4: [  He, + he ] works on the cars.  /
+sd          A.43 utt5:  He rarely takes them in -- /  
+
+b          B.44 utt1:  Yeah  /
+%          B.44 utt2: I, -/  
+
+sd          A.45 utt1:  -- {C and, } {F uh, } he works on irons, and all T V -s and stuff too.  /
+sd          A.45 utt2:  We rarely have to take those things in too. /  
+
+b          B.46 utt1:  Right.  /
+b          B.46 utt2:  Yeah,  /
+%          B.46 utt3: I think [ it, + it, ] - /
+sv          B.46 utt4: not only can it be fun,  /
+sv          B.46 utt5: {C but } it can certainly help your finances. /  
+
+aa          A.47 utt1:  {F Oh, } yeah.  /
+aa          A.47 utt2:  Yeah,  /
+aa          A.47 utt3: definitely. /  
+
+qr          B.48 utt1:  {C So, } do you have any [ art, + ] {F uh, } {A how do I say it, } creative or artistic # hobbies? # /  
+
+ng          A.49 utt1:  # {F Uh. } # Not really.  /
+sd          A.49 utt2: {E I mean } during Christmas I work on, {D you know, } like, {F uh, } holiday sweat shirts and those kinds of things. /  
+
+b          B.50 utt1:  {F Oh } yeah,  /
+ba          B.50 utt2: {D well that's } good. /  
+
+bd          A.51 utt1: [ {C But, } + {C but, } ] {F uh, } not really <laughter>. /  
+
+b          B.52 utt1:  Yeah.  /
+sd          B.52 utt2:  {D Well, } I don't necessarily either.  /
+sd          B.52 utt3: I can plink out a song or two on a piano -- /  
+
+b          A.53 utt1:  Oh. /  
+
+%          B.54 utt1:  -- {C and } I can, {F uh, } - /
+sd          B.54 utt2: I don't necessarily draw or do any of that kind of art,  /
+sv          B.54 utt3: I guess --   
+
+b          A.55 utt1:  Yeah. /  
+
++          B.56 utt1:  -- {F uh, } graphic arts --   
+
+b          A.57 utt1:  Yeah. /  
+
++          B.58 utt1:  -- is that what they call it,  /
+sd          B.58 utt2: I can't do any of that,  /
+sd          B.58 utt3: {C but } sweat shirts is certainly impressive. /  
+
+b          A.59 utt1:  Uh-huh.  /
+sd          A.59 utt2:  {F Uh, } I belong to this organization [ for, + ] {F uh, }  [ if, + if ] you have preschool children -- /  
+
+b          B.60 utt1:  Uh-huh. /  
+
+sd          A.61 utt1:  -- {C and, } {F uh, } every once and a while they will have a craft, {F uh, } section for the moms -- /  
+
+b          B.62 utt1:  {F Oh, } yeah. /  
+
+sd          A.63 utt1:  -- {C and } those are really neat  /
+sd          A.63 utt2: {C  and } we learn to do the, {F uh, } transfer pictures <noise> on the sweatshirts --   
+
+b          B.64 utt1:  {F Oh, } yeah. /  
+
++          A.65 utt1:  -- transfer photos -- /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+sd          A.67 utt1:  -- {C and, } {F uh, } those are really neat.  /
+sd          A.67 utt2:  {C So } we learn different crafts like that --   
+
+ba          B.68 utt1:  I see. /  
+
++          A.69 utt1:  -- {F uh }  <noise>, /  
+
+ba          B.70 utt1:  {D Well, } that is neat <children>. /  
+
+b          A.71 utt1:  Yeah. /  
+
+sv          B.72 utt1:  I guess you could consider that a hobby.  /
+qy          B.72 utt2: [  Do you, + do you ] cook for a hobby  /
+qrr          B.72 utt3: {C or } do you, -/  
+
+nn          A.73 utt1:  No  /
+sd^e          A.73 utt2: <laughter> I cook dinner   <laughter>. /  
+
+sv          B.74 utt1:  <Laughter> That's not something you, -/  
+
+sv          A.75 utt1:  I don't consider it a hobby <laughter>. /  
+
+ba          B.76 utt1:  I understand that. /  
+
+%          A.77 utt1:  {C But, } {F uh, } {D you know, } I - /
+nn          A.77 utt2:  no  /
+sd          A.77 utt3: I am not a real  elaborate cook or anything like  that unfortunately. /  
+
+b          B.78 utt1:  Yeah. /  
+
+sd          A.79 utt1:  I like to bake off and on.  /
+sd          A.79 utt2:  {C And } usually once a week I will bake something,  /
+sd          A.79 utt3: {C but } it's not anything elaborate, {D you know } <laughter>. /  
+
+b          B.80 utt1:  Right. /  
+
+sd          A.81 utt1:  At least, I don't think it is. /  
+
+b          B.82 utt1:  Yeah. /  
+
+%          A.83 utt1:  {D So, } -/  
+
+sv          B.84 utt1:  {C But, } I think that still borders on hobby. /  
+
+b          A.85 utt1:  Yeah. /  
+
+sd          B.86 utt1:  Probably the other thing I do which <noise> I am sure will sound horrible to you, [ but + ] is I program for fun.  {F Uh, } on the computer. /  
+
+b          A.87 utt1:  Uh-huh. /  
+
+sd          B.88 utt1:  {C So, } I have [ little projects + <children> little computer projects ] going on that I consider hobbies. /  
+
+b          A.89 utt1:  Uh-huh. /  
+
+sd          B.90 utt1:  {C But, } drive my wife crazy. /  
+
+b          A.91 utt1:  Oh.  /
+ba          A.91 utt2: {D Well } good.  /
+qy^d          A.91 utt3:  You have a computer at home? /  
+
+na          B.92 utt1:  I do,  /
+ny          B.92 utt2: yes. /  
+
+ba          A.93 utt1:  {F Oh, } good.  /
+%          A.93 utt2:  Yeah. /  
+
+sd          B.94 utt1:  In fact, there is actually several of them here right now. /  
+
+b          A.95 utt1:  {F Oh, } # really. # /  
+
+sd          B.96 utt1:  # Not all of them # being mine. /  
+
+ba          A.97 utt1:  Wow.  /
+qy^d          A.97 utt2: Then you are busy <children>. /  
+
+ny          B.98 utt1:  Yeah. /  
+
+b          A.99 utt1:  Uh-huh,  /
+ba          A.99 utt2: that is very good. /  
+
+qy          B.100 utt1:  {F Uh, } I wonder if you can construe raising children <children> as being a hobby?  /
+x          B.100 utt2: <laughter>.   
+
+sd          A.101 utt1:  <Laughter> {D Well, } you know one of the books  [ that I did, + that I was ] reading, - /
+sd          A.101 utt2:  {C and } I stopped because it was so, - /
+%          A.101 utt3: it's - /
+sd          A.101 utt4: the book is so detailed -- /  
+
+b          B.102 utt1:  Uh-huh. /  
+
+sd          A.103 utt1:  -- {C and } you have to, - /
+sd          A.103 utt2: sometimes I have to go back and read the page over again cause I didn't quite get it all.  /
+sd          A.103 utt3:  {C And, } {F uh, } it is so detailed, / 

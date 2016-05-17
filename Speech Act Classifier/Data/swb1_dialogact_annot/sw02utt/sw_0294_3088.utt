@@ -1,0 +1,342 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3088_1285_1002
+TOPIC#:		354
+DATE:		910618
+TRANSCRIBER:	GL
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+=======================================================================
+  
+
+qo          B.1 utt1:  What do you think about it? /  
+
+sv          A.2 utt1:  {D Well, } [ I, + I ] feel in light of some of the accidents and so forth that have happened lately, that I think there are some occupations [ that they should, + ] such as the health field, the transportation field, {F uh, } - /
+sd          A.2 utt2: they're already doing it in the armed forces, where they handle weapons and so forth, {F uh, }  /
+sd          A.2 utt3: they do it to prisoners -- /  
+
+b          B.3 utt1:  Yeah. /  
+
+sv          A.4 utt1:  -- {C so, } [ [ [ [  I, + I, ] + {F uh, } I, ] + I, ] + I ] feel like it should be mandatory in some professions,  /
+sv          A.4 utt2: {C and } I think [ if, + if, ] {F uh, } an employer feels that he wants [ to, + to ] drug test employees and they don't like it, then they should not be employed there <laughter>.  /
+%          A.4 utt3:  That was, - /
+sd          A.4 utt4: {D you know, } I would not mind it. /  
+
+b          B.5 utt1:  Yeah,  /
+sv          B.5 utt2: [ I, + I ] especially agree that if it's an area where they could cause somebody else, {D you know } --   
+
+b          A.6 utt1:  Right. /  
+
++          B.7 utt1:  -- harm or injury,  absolutely.  /
+sd          B.7 utt2:  {C And } I don't have a problem at all with employers, {F uh, } testing in the hiring <noise> process,  /
+sd          B.7 utt3: {C but } [ [ [  I, + I, ] + I  don't, ] + </noise> I don't ] have a problem with them too much, testing even after the fact,  /
+sd          B.7 utt4: {C but } <noise> I do a little bit [ where it, + where it ] wouldn't hurt anybody.  /
+h          B.7 utt5: I don't know,  /
+sv          B.7 utt6: sometimes I think they carry it a little bit too far. /  
+
+b          A.8 utt1:  Uh-huh -- /  
+
+%          B.9 utt1:  {C But, } -/  
+
+bf          A.10 utt1:  -- unless an employer has a reason to --   
+
+aa          B.11 utt1:  Yeah. /  
+
++          A.12 utt1:  -- believe that [ his, + ] {F uh, } the work competency [ of, + of ] the [ employ-, + employee ] [ is, + is ] hurting the business. /  
+
+aa          B.13 utt1:  Right -- /  
+
+%          A.14 utt1:  {E I mean } maybe it's, {F uh, } -/  
+
+sv          B.15 utt1:  -- {C and then } it's not a problem. /  
+
+sv          A.16 utt1:  Number one because generally [ if, + if ] they are involved in that type of thing they are into theft -- /  
+
+b          B.17 utt1:  Yeah. /  
+
+%          A.18 utt1:  -- {C and } as an employer, </noise> I would think that would be, - /
+%          A.18 utt2: {C and } the first, - /
+sv          A.18 utt3:  it's not going to be wholesale because of the cost. /  
+
+aa          B.19 utt1:  {F Oh, } absolutely. /  
+
+sv          A.20 utt1:  There's no way.  /
+sd          A.20 utt2: [ {C But, } +  {C but  } ] my concern is, {F uh, } <noise> school bus drivers. /  
+
+b          B.21 utt1:  {F Oh, } yeah.  /
+%          B.21 utt2:  Tr-, - /
+%          B.21 utt3: the train drivers, -/  
+
+%          A.22 utt1:  {F Um, } I'm not even, - /
+sd          A.22 utt2: I'm in education,  /
+sd          A.22 utt3: I'm not even opposed to it for that.  /
+sd          A.22 utt4: {F Uh, } I'm concerned in the medical field. /  
+
+b          B.23 utt1:  Yeah. /  
+
+sv          A.24 utt1: [ [ I, + I, ] + I ] think they should screen for alcohol in these areas, too --   
+
+aa          B.25 utt1:  I wish they would. /  
+
++          A.26 utt1:  -- because I consider that a drug. /  
+
+aa          B.27 utt1:  I wish they would,  /
+sv          B.27 utt2: {C and } that, I think, is even probably more widely abused --   
+
+aa          A.28 utt1:  Right. /  
+
++          B.29 utt1:  -- by, {D you know, } the masses --   
+
+aa          A.30 utt1:  Right. /  
+
++          B.31 utt1:  -- [ than, +  than ] drugs, so to speak. /  
+
+aa          A.32 utt1:  Right. /  
+
+%          B.33 utt1:  {D So. } -/  
+
+sv          A.34 utt1:  {C But } when you consider they could be driving an airplane --   
+
+aa          B.35 utt1:  {F Oh, } I know. /  
+
++          A.36 utt1:  -- or driving a bus, or a train, {F um } -- /  
+
+%          B.37 utt1:  {C And, } -/  
+
+sv          A.38 utt1:  -- {C and } it doesn't take that long.  /
+sv          A.38 utt2:  They don't have to be totally roaring drunk -- /  
+
+aa          B.39 utt1:  No. /  
+
+sv          A.40 utt1:  -- just a little --   
+
+%         B.41 utt1:  Just, {F uh, } -/  
+
++         A.42 utt1:  -- off on their timing --   
+
+b         B.43 utt1:  Yeah,  /
+%         B.43 utt2: {C and, } -/  
+
++         A.44 utt1:  -- [ could, + could ] mean life. /  
+
+sd          B.45 utt1:  Now T I has the random testing policy -- /  
+
+b          A.46 utt1:  {F Oh, } okay. /  
+
+sd          B.47 utt1:  -- [ {C and, } +  {C and, } ] {D you know, } our names or our employee numbers or whatever are [ in a, + in a ] pool -- /  
+
+b          A.48 utt1:  Uh-huh. /  
+
+sd          B.49 utt1:  -- {C so } I've already been tested once when I was hired  [ and, + and ] once since they initiated this random testing program. /  
+
+b          A.50 utt1:  Uh-huh,  /
+b^r          A.50 utt2: uh-huh. /  
+
+sd          B.51 utt1:  {C But } I work with one girl who was tested, her name [ got, + got ] randomly selected three times in six months -- /  
+
+ba          A.52 utt1:  {F Oh, } my word. /  
+
+sv          B.53 utt1:  -- {C and } I think that's the only reason I have a problem with it, when [ there's no, + {D you know, } there's no ] reason --   
+
+bf          A.54 utt1:  Control. /  
+
++          B.55 utt1:  -- to suspect someone, {D you know. }  /
+sv          B.55 utt2: [  That, + that's ] getting a little bit, - /
+sv          B.55 utt3: that's enough to make anybody paranoid <laughter>. /  
+
+aa          A.56 utt1:  Right.  /
+sv          A.56 utt2:  {D Well, } as long as you accept that it is [ a random, + a random ] testing --   
+
+b          B.57 utt1:  Yeah. /  
+
++          A.58 utt1:  -- {F uh, } {D you know, } [ to, + to ] alleviate, - /
+sv          A.58 utt2: that way you can't feel like somebody's out to get me. /  
+
+b          B.59 utt1:  Right. /  
+
+%          A.60 utt1:  If, - /
+sv          A.60 utt2: it's almost like being selected for jury duty <laughter>. /  
+
+b          B.61 utt1:  Yeah. /  
+
+sd          A.62 utt1:  {D You know, } {C so } your name came out of pot when they spun the wheel,  /
+sv          A.62 utt2: [ that's, + that's ] just the way it is. /  
+
+sv          B.63 utt1:  Either just the lucky or the unlucky one, depending on how you look at it. /  
+
+sv          A.64 utt1: [ I would, + I would ] rather have it that way, to know that I was chosen at random by a computer than to think that somebody turned me in --   
+
+aa          B.65 utt1:  {F Oh, } absolutely, /  
+
++          A.66 utt1:  -- because [ I, +   I ] think [ there's, + ] when you let other employees turn in people, -/  
+
+sv          B.67 utt1:  There are so many people [ with, + with ] their petty axes to grind -- /  
+
+aa          A.68 utt1:  Right. /  
+
+sv          B.69 utt1:  -- it could really get --   
+
+aa          A.70 utt1:  Right. /  
+
++          B.71 utt1:  -- out of hand. /  
+
+sd          A.72 utt1:  {C So, }  [ [ I, + I, ] +  I ] would really rather know, however,  /
+%          A.72 utt2: there's got to be some backup to say that - /
+sv          A.72 utt3: [ if, + if ] somebody does observe you [ at, + {D say } at ] a party, {F uh, } using drugs --   
+
+b          B.73 utt1:  Yeah. /  
+
++          A.74 utt1:  -- I would think that it would be their obligation to report that. /  
+
+bf          B.75 utt1:  To report it, - /
+sd          B.75 utt2: {C and } I guess you'd report that to a supervisor, maybe --   
+
+^2          A.76 utt1:  Personnel, or something, /  
+
++          B.77 utt1:  -- anonymously or something --   
+
+aa          A.78 utt1:  Right. /  
+
++          B.79 utt1:  -- because [ I, + I ] would feel very uncomfortable working with someone I knew was using either illegal drugs or abusing alcohol,  /
+sd          B.79 utt2: [ I'd just -- +   
+
+aa          A.80 utt1:  Right. /  
+
++          B.81 utt1:  -- I'd ] feel really uncomfortable. /  
+
+aa          A.82 utt1:  Right.  /
+sd          A.82 utt2:  I don't know what kind of work you do,  /
+sv          A.82 utt3: {C but } [ there, + there ] would be, even be a situation where you were at a machine and working with somebody that was that way. /  
+
+b          B.83 utt1:  Yeah,  /
+sd          B.83 utt2: [ we have, + we have ] a lot of people who work on the line.  /
+sd          B.83 utt3:  I'm in accounting,  /
+%          B.83 utt4: {C so } it wouldn't, - /
+sd          B.83 utt5: {D you know } --   
+
+b          A.84 utt1:  Right. /  
+
++          B.85 utt1:  -- they couldn't hurt me with their ten key or something,  /
+sd          B.85 utt2: {C but } out on the line, they've got people working some --   
+
+b          A.86 utt1:  Right. /  
+
++          B.87 utt1:  -- serious equipment. /  
+
+b          A.88 utt1:  Right. /  
+
+%          B.89 utt1:  {D So. } -/  
+
+%          A.90 utt1:  [ It's, + it's, ] - /
+sv          A.90 utt2: [ [ I, + I ] just think employers have to have, + especially given today, the drug abuse that goes on, I just think employers have to have  ] some kind of way to see that they're not being put at --   
+
+^2          B.91 utt1:  Put at # risk. # /  
+
++@          A.92 utt1:  -- # risk. #    *[[slash error]]
+
+aa          B.93 utt1:  I agree --   
+
++          A.94 utt1:  Because --   
+
++          B.95 utt1:  -- totally. /  
+
++          A.96 utt1:  -- they're the ones who are going to have the lawsuits, the insurance claims, et cetera,  /
+sv          A.96 utt2: [ {C and, } +  {C and } ] I'm not sure  but what some of the insurance claims aren't due to, {F uh, } illnesses brought on by drug abuse or alcohol abuse. /  
+
+sv          B.97 utt1:  {C And } in the long run, we're all paying for that -- /  
+
+b          A.98 utt1:  Right. /  
+
+sv          B.99 utt1:  -- {C so } [ it, + {E I mean, }  it ] protects us in the long run hopefully --   
+
+b          A.100 utt1:  Right. /  
+
++          B.101 utt1:  -- when they do that.  /
+sd          B.101 utt2: [ I, + I ] was trying to remember, there was a court case, {F uh, } here where I live, just a few months ago.  /
+%          B.101 utt3:  The city workers, they wanted to, {F um, } - /
+sd          B.101 utt4: the city government wanted to institute the random drug testing -- /  
+
+b          A.102 utt1:  {F Uh. } /  
+
+sd          B.103 utt1:  -- {C and } the city workers, {F uh, } took them to court to protest, saying that it invaded [ their, + I guess, [ first a-, + ] [ the, + the ]  ] search and seizure amendment -- /  
+
+b          A.104 utt1:  Uh-huh,  /
+b^r          A.104 utt2: uh-huh. /  
+
+sd          B.105 utt1:  -- {C and } it's still tied up in the legal channels.  /
+sd          B.105 utt2:  They haven't ruled on whether they can test them or not. /  
+
+b          A.106 utt1:  {F Huh. } /  
+
+sd          B.107 utt1:  {C So } I'm curious especially since T I -s --   
+
+%          A.108 utt1:  To see how that's, -/  
+
++          B.109 utt1:  -- a local, {D you know, } employer is also already doing it, seeing what they'll say about it especially since, -/  
+
+qy          A.110 utt1: [ Is it, + is it, ] {F uh, } just a small group of the employees that are concerned? /  
+
+ng          B.111 utt1:  {D Well, } [ it's the whole, + it's the whole ] city,  /
+sd          B.111 utt2: seems like the whole group of city employees that's raising a stink over it. -/  
+
+bf          A.112 utt1: [ They, + they ] just don't want to be drug tested. /  
+
+aa          B.113 utt1:  Yeah.  /
+%          B.113 utt2:  {C So. } -/  
+
+sd          A.114 utt1:  {D You know, } [ we've never, +  my husband and I have never  ] been in a situation where somebody said you have to be drug tested. /  
+
+b          B.115 utt1:  Yeah. /  
+
+sd          A.116 utt1:  {F Uh, } my husband's retired from I R S agents. /  
+
+b          B.117 utt1:  Uh-huh. /  
+
+sd          A.118 utt1:  However, this isn't a problem that we have --   
+
+b          B.119 utt1:  Right. /  
+
++          A.120 utt1:  -- either alcohol or drug,  /
+sd          A.120 utt2: {C and so, } [ [ we, + we, ] + in our minds we're ] thinking what's the big deal. /  
+
+aa          B.121 utt1:  Yeah,  /
+aa         B.121 utt2: that's the way I looked at it.  /
+sd          B.121 utt3: If I had something to hide, it's one thing,  /
+%          B.121 utt4: {C but } I'm, - /
+%          B.121 utt5: {D you know, } {D you know } you don't, - /
+sv          B.121 utt6: {C so } it's not as big a deal,  /
+sv          B.121 utt7: {C and } you sometimes wonder when these people protest so much <laughter> whether they're really concerned --   
+
+b          A.122 utt1:  Right. /  
+
++          B.123 utt1:  -- about their rights, or whether they're really concerned about something else. /  
+
+sd          A.124 utt1:  [ {C And, } +  {C and then ] } they say, {D well, } if you give them the right to do this, then they're going to take some other right away from you,  /
+%          A.124 utt2: {C but } [ I, + I ] firm-, -- -/  
+
+sd          B.125 utt1:  I don't believe that. /  
+
+sv          A.126 utt1:  -- I think that an employer has the right to ask you to do anything,  /
+sd          A.126 utt2: {C and, } of course, [ the big deal, + one of the big deals ] now, too, is [ to, + ] that when you, come into a company, [ as + ] you sign a paper saying that I will go take a, -/ 

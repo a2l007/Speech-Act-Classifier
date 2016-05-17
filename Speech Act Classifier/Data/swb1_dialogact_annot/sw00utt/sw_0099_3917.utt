@@ -1,0 +1,306 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3917_1498_1371
+TOPIC#:		329
+DATE:		920205
+TRANSCRIBER:	nk
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+======================================================================== 
+  
+
+o          A.1 utt1: Okay.  /
+qy          A.1 utt2: {F Uh, } do you want to go ahead  /
+%          A.1 utt3: {C or, } -/  
+
+na          B.2 utt1: {F Oh, } sure.  /
+sd          B.2 utt2: {F Uh, } <lipsmack> {D well } <laughter>.  I, {F uh, } went to school at Madison for two years  /
+sd          B.2 utt3: {C and } they are really big on women's rights.   
+
+b          A.3 utt1:  Uh-huh. /  
+
++          B.4 utt1: [ And, + and ] equal treatment. /  
+
+b^r          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1: {C And so } [ I, + I've ] seen a lot of {D like } rallies and things like that.  /
+sd          B.6 utt2: {C But, } {F uh, } I'm not that liberated.  /
+sd          B.6 utt3: I mean my mom is kind of old-fashioned, # {D you know. } # /  
+
+b^r          A.7 utt1:  # Uh-huh. # /  
+
+sd          B.8 utt1: {D So, } [ I, + {D you know, } you ] pick up some traits from her and stuff.  /
+sv          B.8 utt2: {C But, } {F uh, } [ I think it's, + I think it's ] interesting and better for women to see that there's [ more, + more ] of them doing men's fields.  /
+sd          B.8 utt3: I like to see that.  /
+sd          B.8 utt4: # {C And } # --   
+
+b          A.9 utt1:  # Right. # /  
+
++          B.10 utt1: -- I don't like to see women, {D you know, } {D like } waiting on men hand and foot  /
+sd          B.10 utt2: {C but, } {D you know, } [ I, + I ] believe in {D like } sharing and doing things for each other. /  
+
+sd          A.11 utt1: I do too.  /
+sd          A.11 utt2: I like the idea.  /
+sd          A.11 utt3: I see a lot more, {F uh, } - /
+sd          A.11 utt4: my children, I have five children  /
+sd          A.11 utt5: {C and } they're all married. /  
+
+b          B.12 utt1:  Uh-huh. /  
+
+sd          A.13 utt1:  {C And, } {F uh, } I love seeing the men help the women # so much. # /  
+
+b          B.14 utt1:  # Right. # /  
+
+sd          A.15 utt1: {C And } they both cooperate together on, - /
+sv          A.15 utt2: I think it's great. /  
+
+aa          B.16 utt1: {F Oh, } me too <laughter>.  /
+sd          B.16 utt2: I hope that happens to me someday. #  /
+sd          B.16 utt3: {E I mean, } [ I, + I ] don't mind # --   
+
+x          A.17 utt1:  # (( )) <laughter>. #   
+
++          B.18 utt1: -- doing stuff.  /
+sd          B.18 utt2: {F Uh, } I have a boyfriend  /
+sd          B.18 utt3: {C and } I got to make him dinner and stuff  /
+sd          B.18 utt4: {C but, } {D you know, } [ I, + he'll ] help me do the dishes.  /
+sd          B.18 utt5: I don't want to, {D you know } --   
+
+b          A.19 utt1:  Right. /  
+
++          B.20 utt1: -- expect to help to clean up then # after (( )) <laughter>.  /
+%          B.20 utt2: Yeah. # /  
+
+aa          A.21 utt1: # That's right. #  /
+aa^r          A.21 utt2: That's right. /  
+
+b          B.22 utt1: Yeah.  /
+%          B.22 utt2: # {D So } <laughter>. # -/  
+
+sd          A.23 utt1: # I've # always taught my men that.  /
+sd          A.23 utt2: They better clean up with their women and help them.  /
+sd          A.23 utt3:  If they did that, {D you know. } -/  
+
+b          B.24 utt1:  Right. /  
+
+sd          A.25 utt1: {C And } [ they're, + they're ] good about it.  /
+sv          A.25 utt2: {C But } it is neat to see them all work together.  /
+sv          A.25 utt3: # {C And } # --   
+
+b          B.26 utt1:  # Uh-huh. # /  
+
++          A.27 utt1: -- a big thing that I see.  [ All that, + ] [ most of the, + most of the ] women getting married now, {F uh, } [ go back, + have gone back to, ] {D you know, } - /
+sd          A.27 utt2: [ they, + they stay ] at work or go back to work.  # Or whatever. # /  
+
+b          B.28 utt1:  # Right. # /  
+
+sv          A.29 utt1:  {C And } they're well educated. /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sv          A.31 utt1: {C And } I believe we'll see a lot more C E O -s in companies.  /
+sd          A.31 utt2: They're having a fit about how little there are. /  
+
+b          B.32 utt1:  Oh. /  
+
+qy^g          A.33 utt1: {C And } I think we'll see a lot more.  Don't you?  Of upper management?    
+
+ny          B.34 utt1: {F Oh, } yeah.  /
+ny          B.34 utt2: Uh-huh. /  
+
++          A.35 utt1: <Swallowing> Then we do now, even. /  
+
+b          B.36 utt1:  Right. /  
+
+sv          A.37 utt1:  I think it'll escalate. /  
+
+b          B.38 utt1:  Yeah. /  
+
+sv          A.39 utt1: [ {C And, } + {F uh, } {C and } ] I think black women now - /
+sd          A.39 utt2: [ i-, + in fact ] I work at a high school. /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+sd          A.41 utt1: {C And } [ my + ] boss is a black woman and has only been there a couple of months and already promoted  /
+sd          A.41 utt2: {C and } she's very sharp.  /
+sv          A.41 utt3: {C And } I think that th-, - /
+sv          A.41 utt4: and the ethnic thing [ will be, + {D you know, } is ] a good thing now. /  
+
+aa          B.42 utt1:  {F Oh, } me too. /  
+
+sd          A.43 utt1: They're moving them up  /
+sd          A.43 utt2: {C and } they're sharp  /
+%          A.43 utt3: {C and } they, - /
+sv          A.43 utt4: {C so } you're going to see [ a lot, + a lot ] more of that in leadership I believe. /  
+
+b          B.44 utt1: Yeah.  /
+sd          B.44 utt2: I like to see that.  /
+sd          B.44 utt3: I <clicking> think it's, {F uh, } really neat to see and all that educated minority, {F uh, } # person # --   
+
+b          A.45 utt1:  # Uh-huh. #   
+
++          B.46 utt1:  -- who really knows what they're talking about.  /
+sd          B.46 utt2:  {C And } --   
+
++          A.47 utt1:  Right. /  
+
++          B.48 utt1: -- it's just too bad that some people, {D you know, } still look down on them just because of their color.  {D You know. } /  
+
+b^r          A.49 utt1:  Right.  /
+sv          A.49 utt2: That's # ((a shame)). # /  
+
+sv          B.50 utt1: # Especially # black women. /  
+
+aa          A.51 utt1:  Yes. /  
+
+%          B.52 utt1:  {D So. } -/  
+
+b          A.53 utt1: Yeah.  /
+^q          A.53 utt2: {C But } they ((wouldn't)) know what they're doing. /  
+
+b          B.54 utt1:  Right. /  
+
+sd          A.55 utt1: {C But } I'm not big on subserving as far as # <laughter> # --   
+
+b          B.56 utt1:  # Uh-huh. # /  
+
++          A.57 utt1: -- to the men at all. /  
+
+b          B.58 utt1:  # Right. # /  
+
+sd          A.59 utt1: # {C But } I # never have gone along with that, {D you know. } Even far back.  /
+sd          A.59 utt2: {C But } I was brought up pretty good in a home that, - /
+sd          A.59 utt3: years ago my mother was that way.  /
+sd          A.59 utt4: The same. - /
+%          A.59 utt5: I, - /
+%          A.59 utt6: my bo-, - /
+%          A.59 utt7: ther-, {D you know, } - /
+sv(^q)          A.59 utt8: some people say {F oh } the boys shouldn't have to do those jobs.  The inside jobs.  /
+sd          A.59 utt9: {C But } we never were taught, - /
+sd          A.59 utt10: they had to do as much as we did.  /
+sv          A.59 utt11: {C So } # that was good. # /  
+
+aa          B.60 utt1:  # Right,  /
+aa          B.60 utt2: same here. #  /
+%          B.60 utt3:  Yeah. /  
+
+sv          A.61 utt1: {C So } [ that's, + I think that's ] good.  To keep the equal as far [ as, + as, ] {F uh, } not, [ [ nex-, + nex-, ] + {F uh, } necessarily ] by sex type thing.    
+
+aa          B.62 utt1:  Right.  /
+aa          B.62 utt2:  # Same here. # /  
+
++          A.63 utt1: # {D You know. } #  /
+sv          A.63 utt2: You should be able to accomplish as much.  /
+sv          A.63 utt3: {C And } I think the, {F uh, } attitude is a lot better towards the parents raising the younger ones now. /  
+
+b          B.64 utt1:  Uh-huh. /  
+
+sv(^q)          A.65 utt1: You see a lot more of the mothers and all saying to the young girls, # {D you know } # --   
+
+b          B.66 utt1:  # Yeah. # /  
+
++         A.67 utt1:  -- you can do it.  /
+sd(^q)          A.67 utt2:  # If he # --   
+
+b          B.68 utt1:  # Yeah. # /  
+
++          A.69 utt1: -- can do it, you can do it type thing. /  
+
+aa          B.70 utt1: Exactly.  /
+sd          B.70 utt2: [ I, + I ] see more men, {F uh, } {D like } participating in {D like } the family things with children.   
+
+b          A.71 utt1:  Uh-huh. /  
+
++          B.72 utt1: {D Like, } {D you know, } helping to take care of them more.  [ And -- +   
+
+b^r          A.73 utt1:  Uh-huh. /  
+
++          B.74 utt1:  -- and, ] {F uh, } {F uh, } doing the jobs equally, {D you know, } /  
+
+b          A.75 utt1: Right.  /
+qo          A.75 utt2: What about politics on it? /  
+
+b          B.76 utt1:  Oh. /  
+
+qy          A.77 utt1: Do you think the political scene? -/  
+
+^h          B.78 utt1: I'm <laughter> not that big on politics.  /
+sd          B.78 utt2: I'm not <laughter> --   
+
+b          A.79 utt1:  Yeah. /  
+
++          B.80 utt1: -- that educated on it.  /
+%          B.80 utt2: I'm, -/  
+
+sd          A.81 utt1: [ I'm real dis-, + I'm kind of disgusted ] this year because I don't see many women into the political scene  /
+sv          A.81 utt2: {C and } I really think we should have more --   
+
+aa          B.82 utt1: {F Oh, } yeah.  /
+aa          B.82 utt2: I agree with that. /  
+
++          A.83 utt1: -- political leaders in the women than we do [ up for, + and even for ] President and Vice President this year,  /
+sd          A.83 utt2: there's nobody again.  /
+sd          A.83 utt3: I think they're all scared out [ after tha-, + <laughter> after, ] {F uh, } <swallowing> - /
+qw          A.83 utt4: {F oh, } what was the lady's name that ran a couple of, - /
+%          A.83 utt5:  Fitz-, - /
+sd          A.83 utt6: I forget her name now. /  
+
+sd          B.84 utt1:  {F Oh, } # I don't know <static>. # /  
+
+qy          A.85 utt1:  # {C But } you know # who I mean? /  
+
+ny          B.86 utt1:  Yeah,  /
+sd^e          B.86 utt2: I know who you're talking # about. # /  
+
+b          A.87 utt1: # Yeah. #  /
+sv          A.87 utt2: She took such a rough go of it.  /
+sd          A.87 utt3: {C And } [ they t-, + their tax ] deal and, -/  
+
+b          B.88 utt1: Yeah.  /
+sd          B.88 utt2: At least she was strong to {D like } try it and # {D you know. } # /  
+
+b          A.89 utt1:  # Right. #  /
+b^r          A.89 utt2:  Right. /  
+
+sv          B.90 utt1:  # {C So } that's good. # /  
+
+sd          A.91 utt1: # {C But } I wish # they would get some more on that.  /
+sd          A.91 utt2: I really was disappointed this year when I see any of the candidates talking that they're talking about.  /
+sd          A.91 utt3: {F Uh, } <lipsmack> [ they, + I ] didn't see any of the women in there. /  
+
+b          B.92 utt1:  Uh-huh. /  
+
+sd          A.93 utt1:  {C And } that disappoints me. /  
+
+b          B.94 utt1:  Oh. /  
+
+sd          A.95 utt1: {C And } right now I don't think we have too many. {F Uh, } [ th-, + in the ] forefront.  /
+sv          A.95 utt2: Schroeder's about the biggest one in Washington. /  
+
+b          B.96 utt1:  Uh-huh. /  
+
+sd          A.97 utt1: Congress woman.  /
+%          A.97 utt2: {C And, } {F uh, } other th-, {F uh, } - /
+%          A.97 utt3: we really, -/ 

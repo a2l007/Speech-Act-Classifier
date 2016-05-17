@@ -1,0 +1,394 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2669_1140_1059
+TOPIC#:		347
+DATE:		910424
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	5
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+============================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+sd^t          A.1 utt2: the topic was, should the United States  adopt the metric system, and  if so, should, {F uh. } -/  
+
+qw^t          @B.2 utt1:  <Breathing>  How should they do it?  /
+qw^t          @B.2 utt2:  Why didn't it work last time? /  
+
+b^m          A.3 utt1:  {C And } why didn't it work last time? <laughter>. /  
+
+sd          B.4 utt1:  {D Well, } I'm all for it. /  
+
+b          A.5 utt1:  Yeah,  /
+sd          A.5 utt2: {D well, } [ I, + I ] am too.  /
+sv          A.5 utt3:   I wish, {F uh, } it had started a long time ago, is the problem, because we're so wound up [ in the + --   
+
+b          B.6 utt1:  Yeah. /  
+
++          A.7 utt1:  -- in the ] system that we've got that,  {D you know, } trying to convert over,  /
+sd          A.7 utt2: {C and } I guess, [ what'd they try, + they tried ]  what'd the call it, soft conversion and  hard conversion -- -/  
+
+aa          B.8 utt1:  Yeah,  /
+%          B.8 utt2: they tried the, -/  
+
+sd          A.9 utt1:  -- one of them is where you just take  whatever's already standard  /
+sd          A.9 utt2: {C and } you give it some sort of a weird metric number like  six point two eight seven instead of six millimeter. /  
+
+aa          B.10 utt1:  Yeah,  /
+aa          B.10 utt2: yeah,  /
+sd          B.10 utt3: direct conversion. /  
+
+h          A.11 utt1:  [ I, + I ] don't know.  {F Uh. } /  
+
+sv          B.12 utt1:  I think they [ [ just ought to, +  {D you know, } start, ] +   {F uh, } just go ] all the way on new products introduced or whatever, {D you know, }  start your packaging, go to liters instead of quarts,  /
+sv          B.12 utt2: {C and } {D you know, }  people if they have to are going to learn to  think that way. /  
+
+qy^d          A.13 utt1:  {D Well } [ don't most of them, + doesn't just ]  about everything now have both metric and English. /  
+
+na          B.14 utt1:  They do,  /
+sv          B.14 utt2: {C but } things are generally packaged  in the English sized packages, {D you know. }  /
+sv          B.14 utt3: You buy a quart of milk,  /
+sv          B.14 utt4: {C and } sure it  [ has, + has ] the metric equivalent written on there,  /
+sv          B.14 utt5: {C but } it still a quart. /  
+
+aa          A.15 utt1:  {F Oh, } yeah,  /
+aa^r          A.15 utt2: yeah. /  
+
+sv          B.16 utt1:  {C But } if they started putting it in  liters, [ liter + ] of oil, and {D you know, } liters of gasoline, people are going to learn to think in  metric.  /
+sv          B.16 utt2:  As long as you can still buy a product in the English units,  that's how you're going to think of it. /  
+
+sd          A.17 utt1:  I kind of remember back when gas prices  started up, {D you know, } pretty dramatically when they started getting toward  a dollar a gallon range,  /
+sd          A.17 utt2: somebody had, {F uh, }  /
+sd          A.17 utt3: I believe it was Exxon -- /  
+
+ba          B.18 utt1:  It figures. /  
+
+sd          A.19 utt1:  -- we were living in Lubbock at the time,  /
+sd          A.19 utt2:  they started marketing it in liters,  /
+sd          A.19 utt3: {C and } it was only {D like } twenty-nine and  thirty cents a liter.   /
+sd(^q)          A.19 utt4: {C So } they could put this sign out front that said, {D you know, }  thirty-nine cents a liter. /  
+
+b      B.20 utt1:  Right. /  
+
+sd          A.21 utt1:  {C And } nobody had any idea what a liter was,  /
+%          A.21 utt2: {C so, }   {F uh. } -/  
+
+ba          B.22 utt1:  [ That, + that's ] the problem. /  
+
+sd          A.23 utt1:  When we finally out that liters was about  a quart, there's about four liters in a gallon  /
+sv          A.23 utt2: {C so } you can figure out what  you're actually paying for it. /  
+
+aa          B.24 utt1:  Right.  /
+sd          B.24 utt2:  It's kind of hard for me to believe that  this day and age, - /
+h          B.24 utt3: I don't know,  /
+sd          B.24 utt4: when I was growing up, we were talking metric system in school.    
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  {E I mean, } [ not, + not ] at first,  /
+sd          B.26 utt2: {C but }  by the time I was in fifth or sixth grade anyway. /  
+
+b          A.27 utt1:  Yeah.  /
+b          A.27 utt2:  Oh. /  
+
+sv          B.28 utt1:  I would expect people with any kind of buying  power [ over the age, + {D you know, } under the age ] of thirty or so, to have some idea  what it is, anyway.  /
+sd          B.28 utt2:  A liter's about a quart. /  
+
+sv          A.29 utt1:  [ The, +  {F uh, }   I think maybe there's where the ] problem came in, {D you know. }  /
+sv          A.29 utt2: We've tried to, instead of learning,  /
+sv          A.29 utt3: it's kind of like  learning a language, {D you know, }  /
+sv          A.29 utt4: when you learn one from the other,  you always end up in this conversion thing all the time. /  
+
+b          B.30 utt1:  Yeah. /  
+
+%          A.31 utt1:  {C So, } you, - /
+%          A.31 utt2: it's almost like, {F uh, } - /
+sv          A.31 utt3:  course this country isn't a dictatorship,  /
+sv(^q)          A.31 utt4: {C but, } {D you know, } it's like somebody said,  {D okay } as of such and such a date, {D you know, }  anybody caught talking in the English, {D you know, }   
+
+x          B.32 utt1:  <Laughter>.   
+
++          A.33 utt1:  will be shot or something like that, {D you know. }   /
+%          A.33 utt2:  {C But, } {F uh, } -/  
+
+sv          B.34 utt1:  {D Well, } thing is, it's a [ global, + global ]  market place these days,  /
+sv          B.34 utt2: {C and, } {D you know, } we're like,   {D what, } one of two backwards countries  in the world, as far as, -/  
+
+aa          A.35 utt1:  Yeah,  /
+sd          A.35 utt2: I read that, what Uganda and, -/  
+
+^2          B.36 utt1:  Something.  /
+sd          B.36 utt2: I don't remember what the other one is  /
+%          B.36 utt3: {C but, } -/  
+
+%          A.37 utt1:  There's one or two others that just, -/  
+
+sv          B.38 utt1:  It's just time I think [ for, +  for ] us to go over.  /
+sv          B.38 utt2:   {C Because } all you end up doing is if you're in business or you're in any kind of  international <<pause>>, -/  
+
+b          A.39 utt1:  Uh-huh. /  
+
+h          B.40 utt1:  I don't, {D you know, } - /
+sd          B.40 utt2:  I work for T I,  /
+sd          B.40 utt3: we're all around the world,  /
+sv          B.40 utt4: you have to --   
+
+sd          A.41 utt1:  [ Yeah,  {F uh, } I, +    
+
++          B.42 utt1:  -- perform this conversion anyway. /  
+
++          A.43 utt1:  Yeah, I ] do, too. /  
+
+%          B.44 utt1:  {C And. } -/  
+
+%          A.45 utt1:  {C And } one of the things that we've  run into a problem, - /
+qy^d          A.45 utt2: course you're familiar [ with the T I drawing, {D well, } + with any drawing ] system --    
+
+na          B.46 utt1:  Right.  /
+sd          B.46 utt2:  Mils and microns. /  
+
++          A.47 utt1:  -- [ you end up with, + you end up with ] things [ in inches + --   
+
+b          B.48 utt1:  Right. /  
+
++          A.49 utt1:  -- in parts of inches, ]  {D you know, } half, fourth, {D you know, } this sort of thing. /  
+
+b          B.50 utt1:  Right. /  
+
+sd          A.51 utt1:  {C And then } you end up with a decimal,  where you start getting into mils, and  that sort of thing. /  
+
+b          B.52 utt1:  Right. /  
+
+sd          A.53 utt1:  {C And then } some of them are done  in, {D you know, } purely metric. /  
+
+b          B.54 utt1:  Yeah,  /
+sd          B.54 utt2: I remember that stink came around   in the design area a few years back when it was all overseas designs were in microns  /
+sd          B.54 utt3:  {C and } ours were in mils. /  
+
+b          A.55 utt1:  Uh-huh. /  
+
+sd          B.56 utt1:  {C And } it got to, {D you know, } - /
+sd          B.56 utt2: somewhere down  the line  they went standardized,  /
+sd          B.56 utt3: they went microns,  /
+sv          B.56 utt4: {C but, } {F uh, } [ you just, +  {D you know, } you ] end up with all kinds of problems with converting your designs. /  
+
+aa          A.57 utt1:  Yeah.  /
+ba          A.57 utt2:  {F Oh, } I can imagine. /  
+
+%          B.58 utt1:  {D So. } -/  
+
+%          A.59 utt1:  [ The, + {F uh, } the ]  one that, {F uh, } {F uh, } - /
+qy          A.59 utt2: have you ever lived in a country where they use metric. /  
+
+nn          B.60 utt1:  No. /  
+
+sd          A.61 utt1:  I was with T I in El Salvador for a while,  /
+sd          A.61 utt2:  {C and } I had to get used to, {D you know, }  purely metric system down there, because they didn't understand anything else.  /
+sd(^q)          A.61 utt3:  {D You know, } if you start talking about miles,  they'd look at you like,  what. /  
+
+b          B.62 utt1:  Yeah. /  
+
+sd          A.63 utt1:  {C So, } I had a little bit of experience  with it,  /
+sd          A.63 utt2: {C and } also I noticed in Canada [ they, + {F uh, } you ] drop a quarter,  fifty cents, whatever, in a coke machine up there,  /
+sd          A.63 utt3: {C and } you get this funny looking coke, {D you know, }  /
+sd          A.63 utt4:  it's in a can [ that's + that's ] taller but not as big around. /  
+
+b          B.64 utt1:  Yeah. /  
+
+%          A.65 utt1:  {D You know, } I guess that's some -- -/  
+
+qy^d          B.66 utt1:  About half a liter. /  
+
+aa          A.67 utt1:  -- it's not a liter,  /
+aa          A.67 utt2: it's like a half a liter or  something like that.  /
+sd          A.67 utt3: It's a strange looking can.  /
+sd          A.67 utt4: {C But } my daughter in law's  from Panama,  /
+sv          A.67 utt5: {C and } [ she has, + they have had ] Americans down there for so long, {D you know, }  that they're kind of into both systems,  /
+sd          A.67 utt6: {C but, } {F uh, } she gets real  confused on distances  /
+sd          A.67 utt7: {C and } temperature is the big thing --   
+
+b          B.68 utt1:  Yeah. /  
+
++          A.69 utt1:  -- the Centigrade --   
+
+sd          B.70 utt1:  I would have [ more problem + --   
+
++          A.71 utt1:  -- for which she says Celsius. /  
+
++          B.72 utt1:  -- more problem ] with the temperature,  except that, {D you know, } working in engineering,  we do everything in Centigrade, or Celsius. /  
+
+sd          A.73 utt1:  {D Well, } I had kind of gotten used to centigrade  temperature, {D you know, }  /
+sv          A.73 utt2: if it's between zero and ten, it's cold,  /
+sv          A.73 utt3: {C and } if it's ten and  twenty it's not too bad,  /
+sv          A.73 utt4: if it's between twenty and thirty it's pretty warm, /  
+
+aa          B.74 utt1:  # It's getting warm, right.  # /  
+
+sv          A.75 utt1:  # if it's more than # thirty it's just  hotter than all get out.  /
+sv          A.75 utt2: [ {C So, } + {C but, } ] {F uh. }  The big problem is not having [ the, + {F uh, }  the ] resolution [ between temperature, + {D you know, } between a hundred, ]  if you're talking about a hundred degrees or what, thirty, zero, {D you know } thirty four degrees,  whatever that is.  /
+sv          A.75 utt3: {D You know, } you don't get all the little differences -- /  
+
+aa          B.76 utt1:  Yeah,  /
+%          B.76 utt2: it's about. -/  
+
+sd          A.77 utt1:  -- {D you know, } the differences between  seventy and seventy-two or  seventy-five degrees isn't much,  /
+sd          A.77 utt2: {C but } the difference thirty and  thirty-five degrees is, quite a bit. /  
+
+sd          B.78 utt1:  Is about twice as much, what it works out to. /  
+
+aa          A.79 utt1:  Yeah,  /
+sd          A.79 utt2: five <laughter>. /  
+
+sd          B.80 utt1:  One point eight times as many --   
+
+aa          A.81 utt1:  Yeah,  /
+aa          A.81 utt2: something like that. /  
+
++          B.82 utt1:  -- points.  /
+%          B.82 utt2: Yeah,  /
+sv          B.82 utt3: {C so. } [ I, + I ] think as long as  people have a choice, they're going to stick with the American way. /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sv          B.84 utt1:  {C And } until we [ have to, + have to ]  learn to think that way, we won't. /  
+
+aa          A.85 utt1:  Yeah.  /
+sd          A.85 utt2:  Though we call it the English system,  /
+sd          A.85 utt3:  {C but } I'm not sure what they do in England now.  /
+qy^g          A.85 utt4:  [ They're, + they're ] on metric, aren't they? /  
+
+ny          B.86 utt1:  Yeah,  /
+sd^e          B.86 utt2: for the most part, I think so. /  
+
+b          A.87 utt1:  Yeah,  /
+%          A.87 utt2: except they've got a, - /
+sd          A.87 utt3: {D now, } {D okay, }   we run into some problems once,  /
+sd          A.87 utt4: I remember, they've got a nut and bolts system called Wentworth.  /
+sd          A.87 utt5:  {C And } this thing [ was, + was ] even different than, {D you know, }  S A E standards and stuff.  /
+%          A.87 utt6:  {C So, } -/  
+
+b          B.88 utt1:  Right. /  
+
+%          A.89 utt1:  [ This, + this, ] ca-, - /
+%          A.89 utt2: okay,  /
+sd          A.89 utt3:  my dad bought one of these little Nash Metropolitans here [ a few years ba-, + quite a few years back, ]  /
+sd          A.89 utt4:  {C and } the thing had a Austin Heeley type engine, {D you know, }  /
+sd          A.89 utt5:  it was Austin motors engine and running gear. /  
+
+b          B.90 utt1:  Right. /  
+
+sd          A.91 utt1:  {C And } the body was built by Nash,  /
+%          A.91 utt2:  {C or } who, {D you know, } - /
+sd          A.91 utt3: [ Ameri-, +  that was even before American ] Motors,  /
+sd          A.91 utt4: {C but } Nash, essentially,  in the U S somewhere. - /
+sd          A.91 utt5: {C And } that thing had the darndest combination of metric and Wentworth  and, {F uh, } S A E.  /
+sd          A.91 utt6:  He ended up with about three sets of tools --   
+
+%          B.92 utt1:  He just get one more  ((   )) . /  
+
++          A.93 utt1:  -- in order to work on that fool thing.  /
+sd          A.93 utt2:  {C Because }  I think the Wentworth and  the S A E bolt sizes were the same,  /
+sd          A.93 utt3:  {C but } the threads were different,  /
+sd          A.93 utt4: {C and, } {F uh } --   
+
+ba          B.94 utt1:  {F Oh, } that would be a mess. /  
+
++          A.95 utt1:  -- it was a total mess.  /
+sd          A.95 utt2: {C And } on my Chevy van  that's a couple of years old.  /
+sd          A.95 utt3: Part of it's built in Canada.  /
+sd          A.95 utt4: Matter of fact, the thing is,   I always say it's built off shore, <laughter> {D you know, } because it was  assembled in Canada.  /
+sd          A.95 utt5: The only thing that was in it [ was +   built in the U S was ] the, {F uh, } differential,  /
+sd          A.95 utt6: {C and } it was built in Buffalo, New York.  /
+sd          A.95 utt7:  {C But } it's got the  hardest combination of, {F uh, } metric  /
+sd          A.95 utt8: {C and, } most of the body parts seem  to be metric,  /
+sd          A.95 utt9: {C and } most of the engine parts seem to be S A E,  /
+sd          A.95 utt10: {C so. } It's just crazy. /  
+
+aa          B.96 utt1:  Right.  /
+sv          B.96 utt2:  It just gets bad,  /
+sv          B.96 utt3: {D now, } [ you got to, +  you got to ] have one, and not mix them up. /  
+
+b          A.97 utt1:  Yeah. /  
+
+sv          B.98 utt1:  {C Because } you're never going to get to [ one, + one ]  system if you still [ got a, + got a ] mix.  /
+sv          B.98 utt2:  {C And } of course, here  [ that, +   that ] would involve changing road signs all across the country, {D you know, } miles per hour to  kilometers per hour, and  the whole nine yards.  /
+sv          B.98 utt3:  Kind of hard to do gradually. /  
+
+sd          A.99 utt1:  I thought maybe they would convert to, {F uh, }  metric back when they went to the fifty-five mile an hour speed limit, because what is it --   
+
+b          B.100 utt1:  Yeah. /  
+
++          A.101 utt1:  -- fifty-six or fifty-seven's [ a hundred, + {F uh, }  [ qua-, + ] a hundred ] kilometers,  /
+%          A.101 utt2: {C and } {D you know } -- -/  
+
+sv          B.102 utt1:  {D Hell, } you'd have people doing a hundred miles an hour. /  
+
+aa          A.103 utt1:  -- yeah,  /
+sv          A.103 utt2: you'd have,  /
+sv          A.103 utt3: hundreds on the sign  looks lot better than fifty five,  /
+aa          A.103 utt4: you'd have people going, {A you're right, } a hundred miles an hour. /  
+
+b          B.104 utt1:  Yeah. /  
+
+h          A.105 utt1:  {C And, so. } I don't know,  /
+%          A.105 utt2: I'd kind of, - /
+sd          A.105 utt3:  {C and } the other thing, too, is, {D you know, }  between here and El Paso's, what, five hundred miles,  /
+sd          A.105 utt4:  {C but } it's almost eight hundred kilometers, {D you know. }  /
+sv          A.105 utt5:  That'd sure seems like a long way. /  
+
+aa          B.106 utt1:  Yeah,  /
+sv          B.106 utt2: {C but } [ they'd need, + they'd seem ]  to be ticking off faster, too. /  
+
+aa          A.107 utt1:  Yeah,  /
+aa          A.107 utt2: I guess that's it. /  
+
+sv(^q)          B.108 utt1:  Every road sign you come to, is like, {D well }  I don't know it that far. /  
+
+sd          A.109 utt1:  {D Well } they converted all the road signs to  fifty-five miles an hour, {D you know, }  /
+sv          A.109 utt2:  they could've converted it to metric just about as easy. /  
+
+aa          B.110 utt1:  Yeah,  /
+%          B.110 utt2: I think they, - /
+sv          B.110 utt3:  you got the problem with all your cars are still, - /
+%          B.110 utt4: yeah,  /
+sv          B.110 utt5:  you still got cars on the road that don't have both. /  
+
+b          A.111 utt1:  Yeah. /  
+
+sv          B.112 utt1:  At that time, {D anyway, } that was still when  things were, - /
+sv          B.112 utt2: the metric system was still not, -/  
+
+^2          A.113 utt1:  Not all that common. /  
+
+sv          B.114 utt1:  {D You know, } now cars, they have both.  /
+sv          B.114 utt2:   Sooner or later they'll start putting the miles on the inside and the kilometers in big numbers so  people start thinking that way. /  
+
+sd          A.115 utt1:  I know the only other place that I was ever at  where they really had it mixed [ was, + was ] in Panama, where's a lot of the road  signs and everything are [ in, + in ] miles per hour  /
+sd          A.115 utt2: {C and } some are in kilometers.  /
+sd          A.115 utt3:   {C And } you got to know where you are --   
+
+b          B.116 utt1:  Yeah. /  
+
++          A.117 utt1:  -- because anything that was the old  canal zone is going to be miles per hour, / 

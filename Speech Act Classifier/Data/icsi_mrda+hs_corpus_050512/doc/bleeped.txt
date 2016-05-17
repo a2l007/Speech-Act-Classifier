@@ -1,0 +1,20 @@
+Bleeped Regions:
+
+The ICSI Meeting Corpus contains regions where participants requested
+censorship.  In each of these regions, the audio on all channels has been
+replaced with a pure tone, and the transcript has been replaced with a tag
+marking the censorship of that region.
+
+In this release, all transcript information that occurs in bleeped regions
+is replaced with a single line for each channel.  This line is of the form:
+
+<StartTime>,<EndTime>,B,,,<Meeting/ChannelInfo>,,,,BLEEPED,BLEEPED
+
+where:
+	<StartTime> is the beginning of the bleeped region.
+	<EndTime> is the end of the bleeped region.
+	<Meeting/ChannelInfo> is of the form described in the database format
+			      description file database-format.txt.
+
+Please note that bleeped lines have no DA label.
+

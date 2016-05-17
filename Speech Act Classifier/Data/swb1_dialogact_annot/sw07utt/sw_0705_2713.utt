@@ -1,0 +1,428 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2713_1104_1224
+TOPIC#:		336
+DATE:		910428
+TRANSCRIBER:	LAB
+UTT_CODER:      lsh
+DIFFICULTY:	3
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        The conversation was very disjointed.  It strayed from
+the topic a little.  Some background noise.   
+
+=========================================================================
+  
+
+sd          A.1 utt1:  I'm actually at work. /  
+
+b          B.2 utt1:  {F Oh, } o-, <laughter>. -/  
+
+%          A.3 utt1:  I-, - /
+sd           A.3 utt2: I'm in facilities and happen to have, {F uh, } weekend duty here. /  
+
+bk          B.4 utt1:  {F Oh, } okay.  /
+qw          B.4 utt2: What building do you work in? /  
+
+sd          A.5 utt1:  I'm in the South Building. /  
+
+bk          B.6 utt1:  {F Oh, } okay.  /
+bk^r          B.6 utt2:  Okay. /  
+
+sd          A.7 utt1:  [ We, + we ] pull mostly evenings.  /
+sd          A.7 utt2: We are having, - /
+sd           A.7 utt3:  there's three of us, {F uh, } facilities' managers are covering the off shifts.  Just to have somebody here, {F uh, } from management to, {F uh, } see if they need anything. /  
+
+bk          B.8 utt1:  {F Oh, } okay.  /
+bk^r          B.8 utt2: Okay. /  
+
+%          A.9 utt1:  {F Oh, } the, - /
+qw^t          A.9 utt2: how many calls have you made? /  
+
+sd^t          B.10 utt1:  I've only made a few. /  
+
+bk          A.11 utt1:  Okay. /  
+
+%          B.12 utt1:  {F Um, } /  
+
+sd^t          A.13 utt1:  I'm, {F uh, } getting close to twenty.  /
+%          A.13 utt2: This is the, - /
+sd^t           A.13 utt3:  {D yeah, }  hopefully you have a lot to talk about in this one,  /
+sd^t          A.13 utt4: {C but } I don't really have a lot  in this one./
+sd^t           A.13 utt5: Usually I can talk for hours on most of the subjects (( they pick )) . /  
+
+x          B.14 utt1:  <Laughter>.   
+
+ad          A.15 utt1:  Go ahead, you first <laughter>. /  
+
+aa          @B.16 utt1:  Okay,  /
+sd^t          @B.16 utt2: our topic for today is invasion of privacy.  /
+sd^t          @B.16 utt3:   {C So, } I got a good one. /  
+
+b          A.17 utt1:  Okay,  /
+ba          A.17 utt2: good. /  
+
+sd           B.18 utt1:  When the phone rings and you've got a recording, and this  always happens {D like } around five or six o'clock,   
+
+b          A.19 utt1:  # Okay, yeah. # /  
+ 
++          B.20 utt1:  # at night.  # It rings and you get this  recording  /
+sd          B.20 utt2: {C and then } it won't go away  /
+sd          B.20 utt3: {C and } [ any, + any ] of the type of solicitation [ that, + ] where they call all the time, {D you know. }  /
+sd           B.20 utt4: There are evenings especially  Friday nights, Thursday and  Friday nights.  /
+sd           B.20 utt5: {D Well, } we must get in the neighborhood  of anywhere from three to six calls about that time of night.  /
+sd           B.20 utt6:   More people call, that's where you want to jerk the phone out of the wall, {D you know, }  your sitting down to eat and the phone rings  /
+sd(^q)         B.20 utt7: {C and, }   
+
+aa          A.21 utt1:  # Right. # /  
+
++           B.22 utt1:  # it's # like, I don't want anything, thank you very  much <laughter>. /  
+
+aa          A.23 utt1:  Yeah,  /
+%          A.23 utt2: I, - /
+sd            A.23 utt3: the worst one, I guess, is like you,  when it's a recording.  [ I thin-, + ] I don't mind so much someone calls  /
+sd           A.23 utt4:  [ {C and } it's a, + {C and } it's ] a salesperson,  at least you can chat or whatever and say, okay, now,  we want to go <noise>,  /
+sd           A.23 utt5: {C and then } [ [ when, +  when ] they actually start off  with [ a, + a ] computer,   
+
+b          B.24 utt1:  # Uh-huh. # /  
+
++           A.25 utt1:  # and # expect you to talk to a computer, {F uh, } that's where I draw the lin-, I just hang up immediately, {D you know. }/  
+
+aa          B.26 utt1:  Uh-huh.  /
+aa          B.26 utt2:  {F Oh, } yeah. /  
+
+^h          A.27 utt1:  {F Uh, } shut my other radio off here </noise>. /  
+
+b          B.28 utt1:  Yeah,  /
+sd          B.28 utt2: [ that's, + that's ] real irritating to me. /  
+
+sd          A.29 utt1:  {F Uh, } I guess they get their name-, - /
+sd            A.29 utt2:  [ I'm, + I'm ] amazed the  ((   ))  question about that the, - / 
+sd           A.29 utt3: my concern would be everyone seems to have an answering  machine  /
+sd          A.29 utt4: {C and } I have one too, /  
+
+b          B.30 utt1:  # Uh-huh. # /  
+
+sd           A.31 utt1:  # {C and } # they say that they can tie up your answering machine and just have a big long, if they catch your answering machine, /  
+
+bf          B.32 utt1:  They can leave their whole spiel on it. /  
+
+aa          A.33 utt1:  Yeah,  /
+sd           A.33 utt2: [ they, + they ] can erase all your others,  {D you know, } because if you have, - /
+sd           A.33 utt3:  I think that's the way it is, {D no, } mine, I guess,  if it's full, it will not take it, I'm not sure.  /
+sd           A.33 utt4: {C But } they can  certainly, {F uh, } block your answering machine so someone else calls you, {F uh, } and your answering machine is full, {D you know, }   
+
+b          B.34 utt1:  # Huh.  # /  
+
++          A.35 utt1:  # it # won't erase. /  
+
+b          B.36 utt1:  Yeah  /
+%          B.36 utt2: I, -/  
+
+aa          A.37 utt1:  {C But } your right.  / *[[your -> you're]]
+sv          A.37 utt2:  That was a good one. /  
+
+aa          B.38 utt1:  <Laughter>  yeah,  /
+sd          B.38 utt2: [ that's, + that's ] a high irritant for me.  /
+sd          B.38 utt3:   Drives me crazy.  /
+sd           B.38 utt4: {C And } it doesn't matter if you have an unlisted number or not  because a lot of times  (( these ))  computer things will just make up numbers  at random and just call them. /  
+
+b          A.39 utt1:  Uh-huh. /  
+
+sd           B.40 utt1:  {C And so } it [ really, + really ] doesn't make much  difference as to whether or not, {D you know, } you have a unlisted number or not.  /
+sd           B.40 utt2:  {C And }  they pass around, {F uh, } cards that have everybody's name on it.  /
+sd           B.40 utt3: Like if you order something  through a mail order catalog,   
+
+b          A.41 utt1:  # Uh-huh. # /  
+
++           B.42 utt1:  # {D you # know, } then you'll start getting a bunch of  stuff in.  [ And a bunch of stuff + and a bunch of stuff ] because they sell their  customer list,  /
+sd          B.42 utt2: {C or } they sell their catalog list of people,   
+
+b          A.43 utt1:  # Yeah. # /  
+
++          B.44 utt1:  # to # different companies and everything. /  
+
+sd,o@          A.45 utt1:  I've got one, it's not really an invasion of privacy  /  *[[ 2 slash units? ]]
+sd           A.45 utt2:  {C but } it's, {F uh, } annoyance for me in the office with, {F uh, } speaker phones.  /
+%          A.45 utt3:  {D You know, } I, - /
+%          A.45 utt4: the-, - /
+sv          A.45 utt5:  they're great for an office  /
+sd           A.45 utt6: {C but } this one guy next to me,  who's not here just so I could talk about him,   
+
+x          B.46 utt1:  # <Laughter>.  #   
+
++          A.47 utt1:  # he # uses his speaker phone all the time,  /
+sd          A.47 utt2: {C and } it carries over  /
+sd          A.47 utt3: {C and so } not only would you hear, - /
+sv            A.47 utt4: it seems to me that you [ talk  longer from wh-, + ] you kind of yell into it. /  
+
+aa          B.48 utt1:  Right.  /
+aa^r          B.48 utt2:  Right. /  
+
+sd          A.49 utt1:  {F Uh, } {C and so } he yells into it,  /
+sd          A.49 utt2: {C and }  you hear the other person too,  /
+sd          A.49 utt3: {C so } it's kind of a double annoyance.  /
+sd           A.49 utt4: He actually, {F uh, } ruins  my privacy you might say because the, the T I offices are so open anyway.    
+
+b          B.50 utt1:  Uh-huh,  /
+b^r          B.50 utt2: uh-huh. /  
+
++           A.51 utt1:  {F Uh, } that I'm amazed that, the fact that I'm about  ready to say something, {F uh, } if he's  (( even thought of )) that that's a  real uncourteous thing, [ an, + an ] invasion of everyone else's time [ and, + and ] concentration to just be loud.  /
+sd           A.51 utt2:  I don't know whether that's an invasion of privacy just being  loud [ and, + and ] annoying, {D you know. }  /
+sd          A.51 utt3:  {F Uh, } that's,   
+
+b          B.52 utt1:  # Uh-huh. # /  
+
++          A.53 utt1:  # perhaps # not quite an invasion of privacy  /
+sv          A.53 utt2: {C but }  I think it is,  /
+%          A.53 utt3: {C and } yo-, - /
+sd          A.53 utt4: we both picked phone items there. /  
+
+aa          B.54 utt1:  {F Oh, } yeah.  /
+aa^r          B.54 utt2:  {F Oh, } yeah. /  
+
+ad,qy@        A.55 utt1:  Go ahead, do you have any more? /  *[[ Seems to be 2 slash units ]]
+
+^h          B.56 utt1:  Let's see, I'm trying to think.   /
+qy         B.56 utt2: {F Oh, } have you heard  [ that, + that, ] I'm trying to think of what company it was, there was a company that was going to, {F uh, } be giving out information about your financial status. /  
+
+ny          A.57 utt1:  {F Oh, } yeah,  /
+sv,o@          A.57 utt2: [ that's, + that's ]  a good one too.  Yeah, / *[[ Shouldn't that "yeah" be an indep. slash unit? ]]
+
+x          B.58 utt1:  # <Laughter>.  #   
+
+sd          A.59 utt1:  # I # heard something about, not that exactly,  /
+ad          A.59 utt2:  {C but } go ahead. /  
+
+sd           B.60 utt1:  {D Well, } {F um, } I work in the computer science center  /
+sd           B.60 utt2: {C and so } we hear a lot about things [ that are, + that computers are ] capable of doing. /  
+
+b          A.61 utt1:  Yeah. /  
+
+sd           B.62 utt1:  {C And, } {F uh, } this was a software program that a company was developing that was going to have X amount of million peoples financial history and  information on it.  /
+sd           B.62 utt2: {C And } they were going to sell it to companies who would up in turn solicit you for business et cetera, et cetera. /  
+
+b          A.63 utt1:  Uh-huh. /  
+
+sd           B.64 utt1:  {C And, } {F uh, } they finally, {F uh, } stopped production of it because of all the hullabaloo it caused,   
+
+b          A.65 utt1:  # Uh-huh. # /  
+
++          B.66 utt1:  # because # it was such a big deal.  /
+sd           B.66 utt2:  {C And } I wouldn't have been too thrilled about it either.  /
+sd           B.66 utt3: {E I mean, } there was a lot of stuff going on about it. /  
+
+sd          A.67 utt1:  {D Well, } I, {F uh, } heard something similar to that.  /
+sd          A.67 utt2:   I listen to, - /
+sd          A.67 utt3: I'm a, {F uh, } {F uh, } talk show person.  /
+%          A.67 utt4:  {C And } there was, -/  
+
+b          B.68 utt1:  # Okay.  # /  
+
+sd          A.69 utt1:  # [ when # I, + when I ] do my chores up at  the rad-, - /
+sd          A.69 utt2: I'm a radio person I guess is what I mean. /  
+
+b          B.70 utt1:  Uh-huh. /  
+
+sd           A.71 utt1:  {C And so } I listened to, was it five seventy, which has continuous talk on the weekends,   
+
+b          B.72 utt1:  # Uh-huh. # /  
+
++           A.73 utt1:  # and # Neil Sperry and everybody, {E I mean, } the lawyers and  veterinarians and all that.  /
+sd           A.73 utt2:  {C And, } {F uh, } I don't know if it was a lawyer or whatever it was talking about when you make out [ a fin-, + a financial ]  application, all that information on there is really not necessarily, - /
+sd           A.73 utt3:  even [ a, + ] your Social Security number, {D you know, } [ they, + ]   
+
+b          B.74 utt1:  # Huh.  # /  
+
++           A.75 utt1:  # you # should just put down the basics and put N A, where you don't want to answer. /  
+
+b          B.76 utt1:  Uh-huh. /  
+
+sd          A.77 utt1:  Whether it's your personal salary or whatever.  /
+sd           A.77 utt2:  {F Uh, } if your just making out a credit card application you don't need to put  down  /
+sd           A.77 utt3: {C and } I was curious as to [ w-, + ]  {D you know, } what specific things [ you, + you ]  did have to put down. /  
+
+b          B.78 utt1:  Huh. /  
+
+sd           A.79 utt1:  {C But } he says Social Security, you don't need to put that down there.  Which I thought was surprising.  /
+sd           A.79 utt2:  {C So } maybe there's  something along that same line where, {D you know, } in all these financial, {F uh, } applications that you make out, you don't have to put all that stuff down there.  /
+sd          A.79 utt3:   It would be nice to know [ what's, + what was, ] - /
+sd(^q)        A.79 utt4: [ of course, of + course, ]  they could say, {D well, } I can't give you a card,  /
+sd(^q)        A.79 utt5: {C and } you could say, fine,  /
+sd           A.79 utt6: {C but, } {D you know, }  some things will be private, {D you know, }  /
+sd(^q)        A.79 utt7: {C but } he said just put  N A  /
+sd(^q)         A.79 utt8: {C and } he said usually you'll get approved anyway because they just want your money <laughter>, they want your card. /  
+
+x          B.80 utt1:  <Laughter>.   
+
+sd(^q)      A.81 utt1:  {C But } if you don't feel like putting it down, just put N A, {D you know. } /  
+
+b          B.82 utt1:  Uh-huh.  /
+ba          B.82 utt2:  {D Well, } that's real interesting.  /
+sd           B.82 utt3:   I know that a lot of times they ask for information that they don't really need,   
+
+b          A.83 utt1:  # Yeah,  /
+b^r          A.83 utt2: yeah. # /  
+
++           B.84 utt1:  # on several # things  and, {D you know, } your credit ap {C and } [ th-, + ] [ all, + all ] they ever need you to do is give them permission [ to, + to ]  pull a credit thing [ on, + on ] yourself  /
+sd          B.84 utt2: {C and } there it is.  /
+sd          B.84 utt3:  That's all they  really care about. /  
+
+b          A.85 utt1:  Yeah. /  
+
+sd           B.86 utt1:  They just want that credit history to see if you're a  ((   ))  person.  /
+sd           B.86 utt2:  If you're going to go ahead and pay your bills on time and things like  that. /  
+
+sd          A.87 utt1:  I haven't, - /
+sd           A.87 utt2: I don't have any friends down at  [ the, + the ] Austin plant,  /
+sd           A.87 utt3: {C but } I heard that they were really upset about the drug thing,  /
+sd           A.87 utt4: {C and }  we seem to up here have just breezed through that  /
+sd           A.87 utt5: {C and } apparently some other  companies are having trouble  /
+sd          A.87 utt6: [ that, + ] I don't have any trouble with it.  /
+sd           A.87 utt7:  {F Uh, }  it's kind of unusual here we are in Dallas, {D you know, } the biggest location [ and, + and ]  it just breezed through  /
+sd           A.87 utt8: {C and } [ wasn't really, + ] no one was,  I guess, [ was + ] really too concerned about it, {F uh, } yet in Austin, [ there, + there ] were,  whether it was a class action or how far it got, I don't really know because T I only had a few things on T I NEWS I think about it,   
+
+b          B.88 utt1:  # Uh-huh. # /  
+
++          A.89 utt1:  # that # they were objecting to  /
+%          A.89 utt2: {C but } the, - /
+sd           A.89 utt3:  some people object to that which I don't mind, (( no ))  problem at all, {D you know. } /  
+
+sd           B.90 utt1:  {F Oh, } I know that there's several people I've talked to that really have a problem with it  /
+sd          B.90 utt2: {C and, }   
+
+b          A.91 utt1:  # Huh.  # /  
+
++          B.92 utt1:  # I'm # former military  /
+sd          B.92 utt2: {C so } you get kind of used [ to, +   
+
+b          A.93 utt1:  # Yeah,  /
+b          A.93 utt2: right.  # /  
+
++          B.94 utt1:  # to ] going # through stuff like that.   /
+sd           B.94 utt2: {D You know, }  you don't pay any attention to it. {E I mean, } /  
+
+b          A.95 utt1:  # Right. # /  
+
+sd          B.96 utt1:  # once # you sign over your soul to Uncle Sam,   
+
+x          A.97 utt1:  # <Laughter>.  #   
+
++          B.98 utt1:  # <Laughter>  #  ((   )) , {D you know, } you just [ kind of, +   
+
+aa          A.99 utt1:  # I know.  # /  
+
++          B.100 utt1:  # kind of ] # blow it off  /
+%          B.100 utt2: {C but } <laughter>, -/  
+
+aa          A.101 utt1:  I know,  {D yeah. }  /
+sd          A.101 utt2:  I served my time too,  {D yeah. } /  
+
+sd           B.102 utt1:  {C So, } [ I think, + I think ] the people [ who have, + who have ]  been down that route or  have had [ it, + ] to deal with anything like that have  learned, {D you know, } it's just one of those things.  /
+sd           B.102 utt2: You just do it and be done with it and  don't worry about it. /  
+
+b          A.103 utt1:  Yeah. /  
+
+sd           B.104 utt1:  {C But } I do know that there are several   (( sites )) .  /
+%          B.104 utt2: I didn't, - /
+sd          B.104 utt3: I wasn't aware that Austin was one of them,  /
+sd          B.104 utt4: {C but } I think Johnson City was one. /  
+
+qy          A.105 utt1:  {F Oh, } did they object too? /  
+
+ny          B.106 utt1:  Yeah,  /
+sd^e           B.106 utt2: [ there's, + there's ] several of the cities that have been having real trouble with the issue.    
+
+b          A.107 utt1:  Uh-huh. /  
+
++           B.108 utt1:  [ And the, + ]  but also on things that I'd heard too  from a stockholders meeting was that [ there were people, + {F uh, } there were, ]  the same places where they had a real bad problem with people fighting it were also  places they had a big bad problem with the drug usage too. /  
+
+b          A.109 utt1:  Yeah,  /
+sd          A.109 utt2: {D well, } [ I'm, + I'm ] all for it.  /
+%          A.109 utt3:   I, - /
+sd           A.109 utt4: {F uh, } it doesn't bother me that whether they do it in high schools or, {D you know, } carry it to  wherever you want to carry it really, {F uh, }   
+
+b          B.110 utt1:  # Uh-huh. # /  
+
++           A.111 utt1:  # {F uh, } # of course, that would really be a big thing in a public school  /
+sd           A.111 utt2: {C but, } {F uh, } I'm saying certainly at work I have no problem with it.  /
+sd            A.111 utt3:   {F Uh, } {F uh, } {C and } I think it is, [ they, + they ]  found that it's been very low really. /  
+
+b          B.112 utt1:  Uh-huh. /  
+
+sd           A.113 utt1:  I guess maybe at the locations though, I don't know if they have it done but, done it by location.  /
+sv           A.113 utt2:  I don't really know if, {F uh, } they need to publish that really. /  
+
+sv           B.114 utt1:  {F Oh, } I don't think it's a necessary thing to publish it they just need to deal with it and, ((   )) , on an individual basis. /  
+
+aa          A.115 utt1:  Right. /  
+
+sv          B.116 utt1:  {E I mean, }   
+
+aa          A.117 utt1:  # Right. # /  
+
++          B.118 utt1:  # if # they're going to do it, just deal with it and,    
+
+aa          A.119 utt1:  # Right. # /  
+
++          B.120 utt1:  # be # done with it. /  
+
+sv           A.121 utt1:  {C But } I think that was [ an actu-, + ] actually a good thing that happened, {F uh, } I never considered it, I guess, it's an invasion of your privacy  /
+sv           A.121 utt2:  {C but } it's something that is for the good of so many people, {D you know, } to,   
+
+b          B.122 utt1:  # Uh-huh. # /  
+
++          A.123 utt1:  # have # everyone, {F uh, } take the test  right away  /
+sd(^q)     A.123 utt2: [ {C and, } + {F uh, } {C and } ] hopefully, maybe some people will convince other people that are on drugs  that, {D well, } {F uh, } I might as well get off, {D you know, } if I want to stay so, {D you know, }   
+
+sv          B.124 utt1:  # {F Oh, } [ I, + #     
+
++           A.125 utt1:  # if that # was an invasion of privacy maybe it was good. /  
+
++           B.126 utt1:  {F Oh, } I ] think it's a safety factor too because, {D you know, } when people are inebriated, whether it's alcohol or drugs or whatever,  they are very unsafe for [ the, + ] their co-workers, {D you know, }   
+
+aa          A.127 utt1:  # {F Oh, } sure.  # /  
+
++          B.128 utt1:  # it's like, # {D you know, } my father was a fireman  /
+sd           B.128 utt2: {C and } I can just imagine if, {D you know, } <laughter>, {D you know, } some guy being  on drugs they go there  /
+sd          B.128 utt3: [ {C and, } +   
+
+b          A.129 utt1:  # Right. # /  
+
++           B.130 utt1:  # {C and, } ] # {D you know, } you've got somebody that's supposed to take care of you  /
+sd           B.130 utt2: {C and } [ they fall, + they fall ] out because of the drug issue,   
+
+b          A.131 utt1:  # Uh-huh. # /  
+
++@            B.132 utt1:  # {D you # know. }  {E I mean } you can forgive somebody because all of a sudden they maybe get hurt or whatever [ that, + that ]  you can understand  / *[[ Seems that there should be a slash after 'you know' ]]
+sv           B.132 utt2: {C but } the  ((   ))  use of drugs or anything like that,   
+
+b          A.133 utt1:  # Right. # /  
+
++          B.134 utt1:  # will, # {F uh, } be a problem. /  
+
+ad,o@       A.135 utt1:  Go ahead, you got me more, I, - / *[[ 2 slash units? ]]
+sd           A.135 utt2: [ this is, +  this is ] a tough one, I [ don't, + ] really haven't thought about any of this. /  
+
+x        B.136 utt1:  <Laughter>.  
+
+sd          @@A.137 utt1:  They had gardening yesterday and all the  repairs,  /
+%          A.137 utt2: {C and, }  {D boy, } I could, -/ 

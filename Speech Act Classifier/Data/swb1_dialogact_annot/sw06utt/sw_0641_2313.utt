@@ -1,0 +1,364 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2313_1039_1024
+TOPIC#:		304
+DATE:		910327
+TRANSCRIBER:	GL
+UTT_CODER:	TC
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	4
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+qw          A.1 utt1:  {D Well, } how many credit cards do you have? /  
+
+sd          B.2 utt1:  {F Um, } [ I've only, +  I've got about ]  four maybe.  /
+sd          B.2 utt2: I try to limit them because [ [ I, +  {D well } one, ] +  I ] don't use them too much.  /
+sd          B.2 utt3:   {C And } I use my Visa just [ for abou-, +  for about ] everything,  /
+sd          B.2 utt4: {C and } I pay it all off.  /
+sd          B.2 utt5:  {C So } I try not to, - /
+sd          B.2 utt6: I just use it for free money for thirty days basically. /  
+
+sv          A.3 utt1:  Sounds like we have no conflict.  /
+%          A.3 utt2:   We had,  /
+sd          A.3 utt3: for a while I was carrying one card  /
+sd         A.3 utt4: {C and } my wife was carrying a different one.  /
+sd          A.3 utt5:   {C And } since the slips all look alike, {F uh, } you commingle them  /
+sd          A.3 utt6: {C and then }  you get the statement  /
+sd          A.3 utt7: {C and } you try to sort them out, {F uh, }  /
+sv          A.3 utt8: {C and } [ it, +   {F uh, } <laughter> it ] caused more confusion about it.  /
+sd(^q)          A.3 utt9: I finally said, Gee, this is kind of a waste of time.  /
+sd          A.3 utt10:   {C And then } when A T and T came along and offered a free one, {F uh, }  I accepted that,  /
+sd          A.3 utt11: {C and } we've been using that one.  /
+sv          A.3 utt12:  {F Uh, } the interesting thing [ is, +   is ] [ that, + ]  {F uh, } the amount of money you [ can +  can ] run up on them.  /
+h          A.3 utt13: I don't know,  /
+qy          A.3 utt14:  do you know any people that run up [ big, +  big ] bills? /  
+
+^h          B.4 utt1:  [ [ I'm, +  I'm ] + {D you know, } I'm ]  in the age group you get out of college,  /
+sv          B.4 utt2: {C and } I think a lot of these people have them maxed out. /  
+
+qy          A.5 utt1:  {D Well, } [ did, +  {F um, } were ]  you able to get one while you're in college? /  
+
+ng          B.6 utt1:  {F Um, } I don't think I ever tried. /  
+
+sd          A.7 utt1:  Just curious, because I have a son that's  a senior this year,  /
+sd          A.7 utt2: {C and } he's heading off, with any kind of luck,  /
+%          A.7 utt3:  {C but } there has been, - /
+sd          A.7 utt4: I've had a couple of ads [ [ [ for, +  for, ] +  for ] +  to ]  provide a card for a college student.  /
+qo          A.7 utt5:  {F Uh, } what do you think about the idea of providing one for somebody like that? /  
+
+nd          B.8 utt1:  {F Um, } {D well, } - /
+%          B.8 utt2:  <throat_clearing> yeah,  /
+%          B.8 utt3: [ I, + I, ] {D you know, } - /
+sv          B.8 utt4:  it's, {D you know, } feasible,  /
+sd          B.8 utt5: {E I mean, } I know a lot of college kids [ who  have them, +  {D you know, } who had them, ] but just depends. /  
+
+%          A.9 utt1:  {D Well, } [ [ [ that, + that, ] +  that, ] +   I guess [ from the, +  from the ] card issuer, {F uh, } that ] - /
+sd          A.9 utt2:  [ since, +  since ] [ [ it's, +  it's ] in, mo-, + ]  the parent gets it for them,   that  really the  parent becomes the one that's responsible,  /
+%          A.9 utt3: {C but } it's, -/  
+
+b          B.10 utt1:  Yeah,  /
+qy^d          B.10 utt2: {C so } basically if you want  to take the risk <laughter>. /  
+
+ny          A.11 utt1:  Yes,  /
+bf          A.11 utt2: it's whether the parent wants to take the risk. /  
+
+sd          B.12 utt1:  It's your risk,  /
+qh          B.12 utt2: do you trust, [ your, +  your ] son, /  
+
+b          A.13 utt1:  Yeah,  /
+^2          A.13 utt2: [ to, +  to ] go run up a big  bill - /
+sv          A.13 utt3: {C and, } the thing is, there some advantages,  if he got off --   
+
+b          B.14 utt1:  Uh-huh. /  
+
++          A.15 utt1:  -- some place and stranded.  /
+sd          A.15 utt2: [ [ I, +  I'm, ] +    I'm ] leaning towards doing it --    
+
+b          B.16 utt1:  Uh-huh. /  
+
++          A.17 utt1:  -- [ for, +  for ] [ conven-, +    
+
+sv          B.18 utt1:  I'd say, [ do-, + ] {D you know, }  have one with, {D you know } --   
+
++          A.19 utt1:  a convenience, ] /  
+
++          B.20 utt1:  -- at least a thousand dollar credit limit or something. /  
+
+b          A.21 utt1:  Yeah,  /
+bf          A.21 utt2: {C and } the idea that, {D you know, }  if he got in trouble, there's [ some, +  some ] ways of getting out, and that he doesn't  have to carry cash. - /
+%          A.21 utt3: The, {F uh, } - /
+sd          A.21 utt4: [ I, +  I ] like the idea of credit cards that, {F uh, }  [ [ I don't, +  I don't, ] +  I don't ] carry cash around,  [ and, +  and, ] {F uh, } I don't  even carry checks around.  /
+sd          A.21 utt5: I let my wife take the checkbook,  /
+sd          A.21 utt6: {C and } she writes the checks,  /
+sd          A.21 utt7:  {C and } I record them.  /
+sv          A.21 utt8:  {D So } [ [ [ it's, +  {F uh, } it's, ] + {F uh, } it's, ] +  {C but } it's ]  interesting that, {F uh, } [ the people [ that can, +  that can, ] + {F uh, }  the amounts of money you can ] run up [ [ wi-, +  on, ] +  on ] credit cards, - /
+sd          A.21 utt9:  {C and, } {F uh, } [ I, +  I ] had recently had some dealings with a  fellow that - /
+sd          A.21 utt10: [ they had run up, +  he was making, ] {F oh, } considered a modest salary  for an engineer,  /
+sd          A.21 utt11: {C and } he had run up, {F uh, } more than a years salary [ in, +  in ] various  debts to,  /
+sd          A.21 utt12: {C and } he wound up declaring  bankruptcy  /
+%          A.21 utt13: {C but } there, - /
+sv          A.21 utt14:  [ it, +  it's ] hard to believe that you'd run up twenty, thirty thousand dollars of, {F uh, } - /
+sd          A.21 utt15:  {D well, } it was a combination of things --   
+
+b          B.22 utt1:  Uh-huh. /  
+
++          A.23 utt1:  -- he had,  /
+sd          A.23 utt2: [ there were, +  there were ]  several credit cards,  /
+sd          A.23 utt3: {C and then } there were several other businesses,  /
+qy^d@          A.23 utt4: {C but, } {F uh. }   [ I, +  I ] guess what's interesting, have you seen [ [ [ the, +  the, ] +  the, ] +  the ]  ads where they're offering to extend payments from, {F uh, } things [ like, +  {F uh, } like ]  the credit union's offering, /*[[should be more than 1 slash unit]]  
+
+^2          B.24 utt1:  [ The, +  the ] extended loan payment for your car. /  
+
+aa          A.25 utt1:  Yes,  /
+aa          A.25 utt2: yeah. /  
+
+ny          B.26 utt1:  Yeah.  /
+sd^e          B.26 utt2:  I saw that. /  
+
+sv          A.27 utt1:  The interesting thing about that [ is, +   is ] [ [ that, +  {F uh, } that, ] +  that ] they're encouraging you to [ incur more, +  incur more ] debt,  /
+%          A.27 utt2: {C and, } -/  
+
+sd          B.28 utt1:  {D Well, } [ [ it's, +  it's, ] +  it's ]  business,  /
+sd          B.28 utt2: {C and } they're making money off that. /  
+
+sd          A.29 utt1:  {C And } they make more money if you extend your loan. /  
+
+b          B.30 utt1:  Yeah,  /
+sd          B.30 utt2: [ [ {C and, } +  {C and }      it's, ] + {C so } it's ] business,  /
+qy^d          B.30 utt3: [ {C so, } +  {C and ] } you notice that [ they're, +  they're ] only going to do it to {D like }  cars that are one or two years old. /  
+
+ny          A.31 utt1:  Yes. /  
+
+sd          B.32 utt1:  {C And so } they've already shifted the risk.  /
+sd          B.32 utt2:  If they assume that car, then they just have to sell it themselves,  /
+sd          B.32 utt3:  {C and } they'll recover the loan, /  
+
+sd*          A.33 utt1:  {C And } they know that people own a  car that new unless absolutely die of service  /*[[listen; can't be right transcription]]
+sv          A.33 utt2: ((   ))   they're not going to keep on if the car were older. /  
+
+b          B.34 utt1:  Uh-huh. /  
+
+sv          A.35 utt1:  The interesting thing about it [ is +  is ]  that [ from [ a, +  {F uh, } {F uh, } an ] economy standpoint +  {E or } in economics, ] - /
+sv          A.35 utt2: [ [ I, +  I ]  thinks it's, +  I think it's ] [ poor, +  poor, ] {F uh, } economics [ to, +  to ] carry all that consumer debt --   
+
+b          B.36 utt1:  Yeah. /  
+
++          A.37 utt1:  -- at least from a tax standpoint,  /
+sv          A.37 utt2:  {C so. }  It's interesting [ that, +  that ] the American public is encouraged to incur all  that debt and then next year none of it will be deductible,  /
+sd          A.37 utt3: {C and } this  year it's ten percent or so. /  
+
+b          B.38 utt1:  Yeah,  /
+%          B.38 utt2: {F uh. } /  
+
+sv          A.39 utt1:  [ It's, +  {F uh, } it's ] interesting  [ that, +  that, ] {F uh, } they encourage us to do things, -/  
+
+br          B.40 utt1:  [ What, +  {D now } what's ] ten percent,  we can deduct, /  
+
+sd          A.41 utt1:  I think ten percent,  /
+o          A.41 utt2: yes. /  
+
+sd          B.42 utt1:  I didn't know that. /  
+
+sd          A.43 utt1:  [ Of your, +  of your ] consumer credit.  /
+sd         A.43 utt2:   {F Oh, } if you had a thousand dollars, that means there's another hundred dollar deduction I've given you. /  
+
+qy^d          B.44 utt1:  I didn't think you could,  /
+sd          B.44 utt2: any thing on [ a loan +  {E or, }   
+
+ny          A.45 utt1:  Yeah,  /
+sd^e          A.45 utt2: it's on, {F uh, } yeah. /  
+
++          B.46 utt1:  {E I mean } a mortgage ] I know you can, /  
+
+b          A.47 utt1:  Yeah,  /
+%          A.47 utt2: on [ the, +  the, ] - /
+sd          A.47 utt3:  [ [ there's, +  there's, ] +  there's ]  a place for consumer debt  /
+ad          A.47 utt4: {C and  then } you take ten percent of it,  /
+%          A.47 utt5: on the, -/  
+
+sd          B.48 utt1:  {F Oh, } I've never itemized yet. /  
+
+b          A.49 utt1:  {F Oh, } okay, /  
+
+h          B.50 utt1:  {D So } maybe that's.   
+
+sd          A.51 utt1:  It's on [ schedule, +  {F um, }   
+
++          B.52 utt1:  Schedule A or, -/  
+
++          A.53 utt1:  Schedule A ] under, {F uh, } - /
+sd          A.53 utt2:  {D well, } [ it's  the same place, +  it's the same place ] you put, {F uh, } interest.  /
+sv          A.53 utt3: [ {C But, } + {C but } ]  see [ that's what, + that's what ] makes Texas squirrelly laws that [ you can't, +  you can't ]  take out [ a, + a ] second mortgage, like  some states where you can take out the mortgage and  declare that,  /
+sd          A.53 utt4: {C and so, } {F uh, } it's fully deductible.  /
+sv          A.53 utt5:  The laws are a little  squirrelly,  /
+sd          A.53 utt6: {C but } it basically comes down to - /
+sv          A.53 utt7: it's not in your best  interest to borrow money from a tax standpoint. /  
+
+b          B.54 utt1:  Yeah. /  
+
+%          A.55 utt1:  {C But, } {F uh, } anyway, -/  
+
+b          B.56 utt1:  Yeah,  /
+sd          B.56 utt2: [ [ I try, +  [ I, +  I ]  really do, ] +  I just try ] to stay out of  debt,  /
+sd          B.56 utt3:  [ {C and } I, +  {C and } I ] use my Visa [ for, +  for ] as much as I can,  /
+sd          B.56 utt4:  {C and } I pay it all off,  /
+%          B.56 utt5: {C and, } -/  
+
+qy^d          A.57 utt1:  Sounds like [ you're, +  you're ]  [ very respon-, +  very financially responsible. ]  /
+%          A.57 utt2: [ It's, +  {F uh, }   
+
+ny          B.58 utt1:  Uh-huh. /  
+
++          A.59 utt1:  That's, ]  {F uh, } - /
+sv          A.59 utt2:  there're a lot of people who really run, - /
+sd          A.59 utt3:  my boss drives quite a ways to work,  /
+sd          A.59 utt4: {C and } he's got just enormous  debts,  /
+%          A.59 utt5: {C and } he's, - /
+qh(^q)          A.59 utt6: {C but, } {E I mean, } what do you say, it's {D like, } Shucks, <laughter>  Boss, I'm sure sorry you've got all that debt.  /
+sd          A.59 utt7: {D Well, } he's [ had, +  had ] two  kids in college  [ and, +  and ] this kind of thing,  /
+%          A.59 utt8: {C and } that -- -/  
+
+b          B.60 utt1:  Uh-huh. /  
+
+sv          A.61 utt1:  --  I think that the whole credit  card issue, I think they certainly encourage people to run up the debts  /
+sd          A.61 utt2:  [ {C and, } + {C but } ] I agree with you -- /  
+
+b          B.62 utt1:  Yeah. /  
+
+%          A.63 utt1:  -- [ I don't, +  I  ((   )) ]  my debts. - /
+sd          A.63 utt2:  {D Well, } I did buy a new house last summer. /  
+
+sd          B.64 utt1:  <Throat_clearing> Hell, I took a five year  note out on my car [ when I, +  {D right } when I ] got out of college,  /
+sd          B.64 utt2:  {C and, } {F uh, } I'll never do that again.  /
+sd          B.64 utt3: I still got a couple of years on it to go,  /
+%          B.64 utt4: {C and } I'm, -/  
+
+sv          A.65 utt1:  [ It's, +  it's ] remarkable how many  people as soon as they get out of college buy a new car,  /
+sv          A.65 utt2: {C and } [ that, +  {F uh, }  apparently that's ] been going on for a really long time.  /
+sd          A.65 utt3: I didn't do it.  /
+sd          A.65 utt4:  [ I, +  I ] bought a  second hand car when I was, the middle of my senior year. /  
+
+sv          B.66 utt1:  {D Well, } [ you, + you ] think you're  starting out well, until you start paying all those bills.    
+
+b          A.67 utt1:  Yep. /  
+
++          B.68 utt1:  {F Uh, } apartment rent,  /
+%          B.68 utt2: {C and, } -/  
+
+^2          A.69 utt1:  Miscellaneous things like food and --   
+
+b          B.70 utt1:  Yeah. /  
+
++          A.71 utt1:  -- other things,  /
+sd          A.71 utt2: these habits you  get into, eating  /
+sv          A.71 utt3: [ {C and, } + {C and, } ] {F uh, } [ [ it's, +  it's, ] +  it's ] amazing [ how it, +  what you ] learn. /  
+
+b          B.72 utt1:  Yeah,  /
+%          B.72 utt2: {C so. } -/  
+
+qy          A.73 utt1:  {D Well, } anything else good to say about credit cards? /  
+
+%          B.74 utt1:  {F Um } -- /  
+
+%          A.75 utt1:  I might just, -/  
+
+sv          B.76 utt1:  -- {D you know, } they're convenient,  {D you know, }  /
+sv          B.76 utt2: that's probably one big thing about them,  /
+%          B.76 utt3: {C and, } {F uh, } -/  
+
+bf          A.77 utt1:  You don't have to carry the cash,  /
+sd          A.77 utt2:  [ [ {C and, } + {C and, } ] +  {F uh, } {C and } ]  [ [ it's, +  it's, ] +  it's ] certainly accepted [ more places than, +  the places, ]   {D you know, } - /
+sd          A.77 utt3: it's hard to cash a check if you're out of state,  /
+%          A.77 utt4: {C and, } -/  
+
+b          B.78 utt1:  Yeah,  /
+sd          B.78 utt2: {D well, } I was used to using  my credit card, {D like } at Skaggs Alpha Beta in Dallas, and stuff -- /  
+
+b          A.79 utt1:  Yeah. /  
+
+sd          B.80 utt1:  -- {C and } now I'm out here in Phoenix. /  
+
+sd          A.81 utt1:  [ They don't allow, +  they don't do ] tha-, -/  
+
+%          B.82 utt1:  [ They, +  they, ] - /
+sd          B.82 utt2: none of these grocery  stores take any credit cards,  /
+sd          B.82 utt3: {C so } now I have to carry cash when I go to the grocery store,  which is new to me, {D you know, }  /
+sd          B.82 utt4: I got to have sixty bucks on me or something. /  
+
+b          A.83 utt1:  Yeah. /  
+
+sv          B.84 utt1:  {C So, } {F uh } --   
+
+bf          A.85 utt1:  Carry all that cash with you. /  
+
++          B.86 utt1:  -- that was interesting, cause I  always, {D you know, } - /
+sd          B.86 utt2: you --   
+
+sd          A.87 utt1:  {D Well, } {D you know } [ [ they, +  they -- ] +    
+
++          B.88 utt1:  -- didn't have to worry about  carrying that much unless I knew I, -/  
+
++          A.89 utt1:  -- they've ] started towards a little  bit of the debit card,  /
+qy          A.89 utt2: have you seen the debit cards where they actually debit your account when you, -/  
+
+ny          B.90 utt1:  Yeah,  /
+sd^e          B.90 utt2: I've heard about them. /  
+
+b          A.91 utt1:  Yeah,  /
+sv          A.91 utt2: {C and } I think that's where, -/  
+
+sd          B.92 utt1:  That's mostly locally,  /
+sd          B.92 utt2:  the banks will line up with, {F uh. } -/  
+
+b          A.93 utt1:  Yeah,  /
+sd          A.93 utt2: I've seen a couple, - /
+%          A.93 utt3: although the, - /
+sv          A.93 utt4: so  many of the grocery stores don't do that because of [ the, +  the ] time frame  which they get paid, in general,  /
+%          A.93 utt5: that, {F uh, } - /
+%          A.93 utt6: they, - /
+sd          A.93 utt7: I've seen checks [ deposited  the very next day, +  {E I mean, } cleared my account the next day. ]  /
+sd          A.93 utt8:  My wife will write  a check for groceries  /
+%          A.93 utt9: {C and, } {D you know, } almost, - /
+sd          A.93 utt10: {D well } I guess it's the day after,  {F uh, }  /
+sd          A.93 utt11: technically it's two days,  /
+sd          A.93 utt12: {C but } [ [ the-, +  the-, ] +  they ] took that check  and scurried it to the bank  /
+sd          A.93 utt13: {C and } the bank scurried it back to my account,  /
+sd          A.93 utt14:  {C and } you thought there'd be just a little bit of float,  /
+sv          A.93 utt15: {C but } apparently that's why [ [ the, +   {F uh, } the, ] + {F uh, } the, ] {F uh, } grocery stores are reluctant to do that, because their volume,  that is quite high,  /
+%          A.93 utt16: {C and } they have, {F uh, } - /
+sv          A.93 utt17: the costability of the  cash flow is a big issue for them. /  
+
+b          B.94 utt1:  Yeah. /  
+
+fc          A.95 utt1:  Anyway.  /
+fc          A.95 utt2: {D Well, } it's good talking to you. /  
+
+fc          B.96 utt1:  All righty. /  
+
+fc          A.97 utt1:  Maybe [ we'll get across, +  we'll cross ]  paths again.  /
+fc          A.97 utt2: Good night. /  
+
+fc          B.98 utt1:  All righty.  /
+fc          B.98 utt2: Take it easy. / 

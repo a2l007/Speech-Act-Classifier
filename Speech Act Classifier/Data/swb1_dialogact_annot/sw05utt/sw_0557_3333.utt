@@ -1,0 +1,328 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3333_1400_1417
+TOPIC#:		312
+DATE:		911030
+TRANSCRIBER:	GL
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+======================================================================
+  
+
+o          A.1 utt1:  All right.  /
+sd^t          A.1 utt2: I've never done it before,  /
+qy^g^t          A.1 utt3: {C so } I guess that's all I have to do, right <laughter>. /  
+
+no^t          B.2 utt1:  <Laughter>  I guess so. /  
+
+sd^t          A.3 utt1:  I've been called several times,  /
+sd^t          A.3 utt2: {C and } I [ push in, + pushed in  ] my number,  /
+sd^t          A.3 utt3: they kept saying you have the invalid code -- /  
+
+b          B.4 utt1:  {F Oh, } really. /  
+
+sd^t          A.5 utt1:  -- {C and then } I found out that my new phone wasn't working right. /  
+
+b          B.6 utt1:  Oh <laughter>. /  
+
+sd^t          A.7 utt1:  {F Oh, } {C so } this is the first time I've even done it. /  
+
+b          B.8 utt1:  Yeah. /  
+
+qw^t          A.9 utt1:  I wonder how long it's going to be on for. /  
+
+sd^t          B.10 utt1:  I think five minutes is the max. /  
+
+ba          A.11 utt1:  {F Oh, } no,  /
+sd^t          A.11 utt2: {E I mean, } this whole thing, like for two months or something,  /
+qy^t          A.11 utt3: do you know? /  
+
+no^t          B.12 utt1:  {F Oh, } I don't know. /  
+
+b          A.13 utt1:  Yeah,  /
+%          A.13 utt2: okay,  /
+sd^t          A.13 utt3: {D well } back to  crime,  /
+sv^t          A.13 utt4: I guess we're supposed to talk about that. /  
+
+x          B.14 utt1:  <Laughter>.  
+
+o^t          A.15 utt1:  They say what aspect are you worried about,  /
+sd          A.15 utt2: {D well, } I think at this point, I for one am worried about every aspect <laughter>. /  
+
+aa          @B.16 utt1:  Right,  /
+sd          @B.16 utt2: especially, {F uh, } you, since you're in the same metroplex,  /
+sv          @B.16 utt3: {D you know, } there's so much going on here. /  
+
+sd          A.17 utt1:  I think the drive by shootings are getting to be so common, that's really [ a, + ] something you got to protect yourself from. /  
+
+sv          B.18 utt1:  {D Well, } that, and in the schools, too --   
+
+b          A.19 utt1:  Uh-huh,  /
+fe          A.19 utt2: golly  /
+aa          A.19 utt3: I know. /  
+
++          B.20 utt1:  -- starting to put metal detectors in,  /
+%          B.20 utt2: {C and, } -/  
+
+qy          A.21 utt1:  Have they done that in Garland? /  
+
+nn          B.22 utt1:  No,  /
+%          B.22 utt2: I, - /
+sd^e          B.22 utt3: not that I'm aware of. /  
+
+%          A.23 utt1:  Now, {F um, } -/  
+
+sd          B.24 utt1:  I just heard, {D you know, } <throat_clearing> last week at that one school, they started putting them in because there was that one shooting -- /  
+
+b          A.25 utt1:  Right. /  
+
+%          B.26 utt1:  -- {C so, } {F um, } -/  
+
+sd          A.27 utt1:  {D Well, } we had a vice principal shot at here --   
+
+bh          B.28 utt1:  Is that right? /  
+
++          A.29 utt1:  -- last year [ on the, + {D you know, } on the ] school grounds after school.  /
+sd          A.29 utt2: {C And } the one boy killed himself a few years ago, [ in the, + in a  ] grade school,  /
+sv          A.29 utt3: {C so } --   
+
+b          B.30 utt1:  Uh-huh. /  
+
++          A.31 utt1:  -- {D you know, } these kids don't have any trouble getting a hold of guns  [ in any -- +   
+
+aa@          B.32 utt1:  Not at all.   *[[slash error]]
+
++          A.33 utt1:  --  in any  ] neighborhood, doesn't seem like. /  
+
++          B.34 utt1:  Yeah,  /
+b^r          B.34 utt2: yeah. /  
+
+b          A.35 utt1:  {C So. }  Yeah,  /
+sd          A.35 utt2: it's kind of scary to think, you send your child to school  /
+sd          A.35 utt3: {C and } you wonder if he's going to get shot.  /
+sd          A.35 utt4:  {E I mean, } we didn't have to <laughter> worry about that before. /  
+
+aa          B.36 utt1:  I know <laughter>. /  
+
+qh          A.37 utt1:  What next? /  
+
+aa          B.38 utt1:  I know,  /
+sv          B.38 utt2: [ [ it's, + it's, ] + it's ] getting, - /
+sv          B.38 utt3: it's been out of hand, I think, for a while,  /
+sv          B.38 utt4: {C and } it just continues to get worse. /  
+
+aa          A.39 utt1:  Right,  /
+sv          A.39 utt2: {C and, } {D you know, } we can't really depend on the police to solve all this,  /
+sv          A.39 utt3: they just can't do it. /  
+
+b          B.40 utt1:  Yeah. /  
+
+sv          A.41 utt1:  I think it goes all the way back to the break up of the family --   
+
+b          B.42 utt1:  Right. /  
+
++          A.43 utt1:  -- to a certain extent  /
+sv          A.43 utt2: [ {C and, } + {F uh, } {C and }  ] how we going to bring that back together.  /
+
+aa          B.44 utt1:  Yeah,  /
+%          B.44 utt2: that's, - /
+%          B.44 utt3: I thi-, - /
+aa          B.44 utt4: I agree,  /
+sv          B.44 utt5: I think that's where it stems from, is that and, {F um, } {D you know, } you've got [ a lot of, + a lot   more ] women that are working nowadays --   
+
+b          A.45 utt1:  Uh-huh. /  
+
++          B.46 utt1:  -- that aren't home with the children -- /  
+
+b          A.47 utt1:  Right  /
+%          A.47 utt2: {C and, } -/  
+
+sv          B.48 utt1:  -- {C and } that may impact it as well. /  
+
+aa          A.49 utt1:  I think so,  /
+sv          A.49 utt2:  [ {C and, } + {C and }  ] then there's a drop in, {F uh, } the training of morals, really, {D you know. } /  
+
+aa          B.50 utt1:  Right,  /
+aa^r          B.50 utt2: right. /  
+
+sv          A.51 utt1:  [ These, + some of these  ] young kids you read about, just doesn't bother them to kill someone at all -- /  
+
+aa          B.52 utt1:  Yeah -- /  
+
+sv          A.53 utt1:  -- [ I think -- +   
+
+sv          B.54 utt1:  -- they don't think twice about it. /  
+
++          A.55 utt1:  -- I think  ] years past maybe our criminals had a little more <laughter> morals, {D you know } --    
+
+b          B.56 utt1:  <Laughter> Yeah. /  
+
++          A.57 utt1:  -- wouldn't kill somebody in cold blood. /  
+
+h          B.58 utt1:  Either that or I don't know if it happened and it wasn't as highly publicized as it is now, or [ what the, + what the,  ] -/  
+
+sv          A.59 utt1:  I think it was just rare,  /
+sv          A.59 utt2: I really do. /  
+
+b          B.60 utt1:  Uh-huh. /  
+
+sd          A.61 utt1:  My mother, {D well, } she's {D like } seventy-four now.  /
+sd          A.61 utt2: [ She, + when she  ] was a young girl, she had a beautiful, beautiful cousin that lived in California,  /
+sd          A.61 utt3: {C and } she was dating this millionaire's son  /
+sd          A.61 utt4: {C and } he wanted to marry her,  /
+sd          A.61 utt5: {C and } she wouldn't marry him  /
+sd          A.61 utt6:  {C and so } he drove out in the country one day  and shot them both,  /
+%          A.61 utt7: {C and, } {F uh, } -/  
+
+ba          B.62 utt1:  You're kidding. /  
+
+aa          A.63 utt1:  No,  /
+%          A.63 utt2: I'm the one, -/  
+
+qy          B.64 utt1:  Himself and her? /  
+
+by          A.65 utt1:  Yeah,  /
+sd^e          A.65 utt2: that must have been at least fifty years ago or more,  /
+sd          A.65 utt3: {C but } --   
+
+ba          B.66 utt1:  {F Oh, } wow, /  
+
++          A.67 utt1:  -- the point of the story is that, that was so unbelievable a thing in those days that it was in all the papers, all over the country for weeks -- /  
+
+ba          B.68 utt1:  I bet. /  
+
+sv          A.69 utt1:  -- {C but } now, {D you know, } you wouldn't probably read about it here in Texas -- /  
+
+aa          B.70 utt1:  {F Oh, } I know, /  
+
+sv          A.71 utt1:  -- it's just, {D you know, } another killing. /  
+
+%          B.72 utt1:  {D Well, } they were, - /
+sd          B.72 utt2: I was watching some show the other day,  /
+sd         B.72 utt3: {C and } they were talking about, {F uh, } mass murderers -- /  
+
+b          A.73 utt1:  Uh-huh. /  
+
+sd          B.74 utt1:  -- {C and } they brought up what happened in Killeen here recently,  /
+sd          B.74 utt2: {C and } --   
+
+b          A.75 utt1:  {F Um. } /  
+
++          B.76 utt1:  -- they were saying, {D you know, } that these guys want attention, and that when it happens they're glorified because [ all the newspaper, +  it's on --   
+
+b          A.77 utt1:  Uh-huh. /  
+
++          B.78 utt1:  -- all the newspapers ] --   
+
+b          A.79 utt1:  Uh-huh. /  
+
++          B.80 utt1:  -- and T V -s and everything, /  
+
+aa          A.81 utt1:  Right,  /
+sd          A.81 utt2: lots of their picture and life story and everything. /  
+
+aa          B.82 utt1:  Right,  /
+sd          B.82 utt2: {C and then } you get to their life story,  /
+sd          B.82 utt3: {F Oh, } they came from a broken family -- /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  -- {F oh } this person had mental problems -- /  
+
+b          A.85 utt1:  Right. /  
+
+^q          B.86 utt1:  -- {F oh } {F duh, } {F duh, } {F duh } --    
+
+b          A.87 utt1:  Right. /  
+
++          B.88 utt1:  -- {D you know, } /  
+
+qh          A.89 utt1:  I know, how we  ((   )) [ and + ] straighten up all these twisted people before they do something terrible, /  
+
+b          B.90 utt1:  Yeah. /  
+
+sd          A.91 utt1:  {C So, } {F uh, } that story I just told you about my mother's beautiful cousin,  {D well, } the same thing happened here in Arlington,  when was it, I think  [ it was, + {F oh, } it was ] almost a year ago in December to a girl that my daughter had graduated from high school with. /  
+
+bh          B.92 utt1:  Is that right? /  
+
+ny          A.93 utt1:  Yeah,  /
+sd^e          A.93 utt2: I think it was on a Hard Copy,  /
+sd          A.93 utt3: she was a real attractive blond girl, [ in, + in ] her freshman year of college -- /  
+
+b          B.94 utt1:  Uh-huh. /  
+
+sd          A.95 utt1:  -- {C and } some boy she tried to get rid of, he was like in his twenties, -/  
+
+sd          B.96 utt1:  {F Uh, } I remember seeing that, /  
+
+qy          A.97 utt1:  Remember that? /  
+
+na          B.98 utt1:  I saw that on Hard Copy <laughter>. /  
+
+aa          A.99 utt1:  Right,  /
+aa^r          A.99 utt2: right, <laughter>  /
+%          A.99 utt3: that's, {F uh, } -/  
+
+aa          B.100 utt1:  Yes. /  
+
+sd          A.101 utt1:  My daughter graduated with her from Arlington High School. /  
+
+bh          B.102 utt1:  Is that right? /  
+
+ny          A.103 utt1:  Yeah,  /
+qh          A.103 utt2: can you believe it,  /
+%          A.103 utt3: that's just, {F uh, } -/  
+
+^h          B.104 utt1:  I'm trying to remember,  /
+sd          B.104 utt2: he, {F um, } had her in the car in front of a Taco  ((   )) or something -- /  
+
+sd          A.105 utt1:  Taco Bueno,  /
+aa          A.105 utt2: right,  /
+b          A.105 utt3: uh-huh. /  
+
+sd          B.106 utt1:  -- {C and } he just shot them --   
+
+b          A.107 utt1:  Uh-huh. /  
+
++          B.108 utt1:  -- himself and her. /  
+
+aa          A.109 utt1:  Right. /  
+
+sd          B.110 utt1:  I remember seeing that. /  
+
+b          A.111 utt1:  Yeah, {F uh, } {F uh, }  /
+qy          A.111 utt2: isn't that weird? /  
+
+ny          B.112 utt1:  Yeah,  /
+sv^e          B.112 utt2: there's just too many crazy people out there these days. /  
+
+aa          A.113 utt1:  I know,  /
+sv          A.113 utt2: {C and, } {F uh, } the police are not going to do anything until  [ they, +  they've ] committed some sort of a crime.  /
+sv          A.113 utt3: {D You know, } he was just begging   her on the phone,  /
+sv          A.113 utt4: that's not doing anything. /  
+
+b          B.114 utt1:  Yeah. /  
+
+sd          A.115 utt1:  {C And } there are times I think, gee, I  ((   ))  should give my kids gu-, -/ 

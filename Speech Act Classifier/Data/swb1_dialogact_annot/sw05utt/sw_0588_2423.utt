@@ -1,0 +1,543 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2423_1214_1140
+TOPIC#:		364
+DATE:		910403
+TRANSCRIBER:	AM
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Echo on A in combined.
+
+===========================================================================
+  
+
+qo          A.1 utt1:  {D So, } do you have any hobbies? /  
+
+sd          B.2 utt1:  {D Well, } right at the present time  nothing real special.  /
+sd          B.2 utt2: I kind of like  gardening  /
+sd          B.2 utt3: {C and } I'm kind of into camping   and, {D you know, } vacationing, that sort of thing. /  
+
+b          A.3 utt1:  Yeah, {F uh, } /  
+
+sd          B.4 utt1:  I don't have any real serious, -/  
+
+sd          A.5 utt1:  I'm an avid gardener, {F oh, } /  
+
+ba          B.6 utt1:  {F Oh, } okay.  /
+%          B.6 utt2:  (( I think you're )) , -/  
+
+sd          A.7 utt1:  {F Um, } I consider that a hobby.  /
+h          A.7 utt2:   I don't know,  /
+sd^t          A.7 utt3: they were {D like } suggesting, {D like } handcraft things  which, -/  
+
+b          B.8 utt1:  Uh-huh. /  
+
+sd          A.9 utt1:  I guess that's a really [ true, +  true ] hobby,  /
+sv          A.9 utt2:  {C but } [ I, +    
+
+b          B.10 utt1:  Yeah. /  
+
++          A.11 utt1:  I ] think anything that you enjoy, -/  
+
+b          B.12 utt1:  Yeah. /  
+
+sv          A.13 utt1:  {F um, } it doesn't really have to matter,  /
+sv          A.13 utt2:  {E I mean, } it could be working on cars could be your hobby really. /  
+
+aa          B.14 utt1:   (( Really ))  /
+aa          B.14 utt2: yeah,  /
+sd          B.14 utt3: I kind of  enjoy doing that a little bit, too. /  
+
+o@          A.15 utt1:   ((   )) .    *[[slash error]]
+
+nn          B.16 utt1:  No,  /
+sv^e          B.16 utt2: [ I, +  I ] guess if you make money at   it, it  becomes a vocation <laughter>. /  
+
++@          A.17 utt1:  Yeah,  / *[[slash error should be 'b']]
+h          A.17 utt2: {D well, } I don't know,  /
+sd(^q)          A.17 utt3:  I told my husband, I said, you go out some to work on the car,  /
+sv          A.17 utt4: it's not worth getting all mad  and fighting and hollering at each other when it goes wrong.  /
+sd(^q)          A.17 utt5:  I says, you go pay to have someone do it. /  
+
+b          B.18 utt1:  Yeah  <laughter>. /  
+
+^q          A.19 utt1:  {C Because } it always seems it goes  wrong when you try to do something. /  
+
+qy^g          B.20 utt1:  I guess as far north as you are if you like  gardening, you've still got a couple months to go, haven't you? /  
+
+ny          A.21 utt1:  {F Oh, } yeah.  /
+sd^e          A.21 utt2:  {F Um, }  {D well, } right now we, {F um, } start our seeds inside. /  
+
+b          B.22 utt1:  Uh-huh.  /
+b          B.22 utt2:  {F Oh, } yeah,  /
+ba          B.22 utt3: that's right,  /
+bf          B.22 utt4:  you would,  /
+%          B.22 utt5: yeah. /  
+
+sd          A.23 utt1:  We'll start them inside  /
+%          A.23 utt2: {C and, } {F uh, } -/  
+
+qr^d          B.24 utt1:  In cold frames or whatever the, -/  
+
+ny          A.25 utt1:  Yeah,  /
+sd^e          A.25 utt2: {D well, } we usually start them right in the house. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sd          A.27 utt1:  My sister tries to set up a greenhouse  on her back deck  /
+sd          A.27 utt2:   [ [ {C and, } +  {C and }    the wi-, ] +   {C and } a wind ] storm come and knock it down. /  
+
+b          B.28 utt1:  {F Huh. } /  
+
+sd          A.29 utt1:  {C But } she's had really good luck.  /
+%          A.29 utt2:  {E I mean, }  [ i-, +  ca-, ] - /
+%          A.29 utt3: next month, - /
+sd          A.29 utt4: {D well, }  actually, [ it, +  [ if you, +  if you ] start it ]  in a couple weeks and you can get your plants outside, pretty much the end of May,  /
+sd          A.29 utt5:   you can leave them outside. /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd          A.31 utt1:  You might put them in the ground just the first week of June -- /  
+
+b          B.32 utt1:  Yeah. /  
+
+sd          A.33 utt1:  -- {C but } we can put potatoes in the ground in the middle of May. /  
+
+b          B.34 utt1:  Yeah,  /
+sd          B.34 utt2: [ I've, + I've ] lived [ in, +  in ]  Texas and New Mexico most of my life,  /
+%          B.34 utt3: {C but } I did once, - /
+sd          B.34 utt4: I spent one winter in North Dakota, /  
+
+b          A.35 utt1:  Oh. /  
+
+sd          B.36 utt1:  {C and } [ I, + I ] remember that it  was on into May before it really started warming up,  /
+%          B.36 utt2: {C and, } {F uh } <breathing>, -/  
+
+b          A.37 utt1:  Yeah,  /
+sd          A.37 utt2: [ {D well, } +  {D well, } ] [ we live, +   we live ]  really close to Lake Champlain, which is in the Champlain Valley, /  
+
+b          B.38 utt1:  {F Oh, } yeah. /  
+
+sd          A.39 utt1:  {C so } [ we're a little, +   we're about ] two weeks ahead of everyone else out on the outskirts  /
+%          A.39 utt2: {C so, } -/  
+
+bk          B.40 utt1:  Okay,  /
+qy^d          B.40 utt2: {C because } that kind of  moderates the weather a little bit? /  
+
+ny          A.41 utt1:  Yeah. /  
+
+b          B.42 utt1:  Yeah. /  
+
+sd          A.43 utt1:  We are a little lucky.  /
+sd          A.43 utt2: {D Well, }    
+
+%          B.44 utt1:  You're at, -/  
+
++          A.45 utt1:  my brother lives ten miles from here  /
+sd          A.45 utt2:  {C and } he gets frost  /
+sd          A.45 utt3: {C and, }     
+
+b         B.46 utt1:  Yeah. /  
+
++          A.47 utt1:  his crop gets killed. /  
+
+qy^d          B.48 utt1:  You're right across the, {F uh, } lake  from, what, Plattsburgh? /  
+
+ny          A.49 utt1:  Yeah,  /
+sd^e          A.49 utt2: from Plattsburgh Air Force Base. /  
+
+b          B.50 utt1:  Yeah,  /
+b^r          B.50 utt2: yeah. /  
+
+%          A.51 utt1:  <Laughter> {C But, } {F um, } -/  
+
+b          B.52 utt1:  Yeah,  /
+sd          B.52 utt2: [ I had, +  I had ]  a cousin that was stationed there, Plattsburgh for a while.  /
+sd          B.52 utt3: [ He, + he ] remembers lots of snow <laughter>. /  
+
+b          A.53 utt1:  Yeah,  /
+sd          A.53 utt2: Plattsburgh's kind of a, - /
+sd          A.53 utt3: [ it's, +   {F uh, } it's, ] {F uh, } depressed economically. /  
+
+b          B.54 utt1:  {F Oh, } really, {F oh. } /  
+
+%          A.55 utt1:  When you go across the lake, {F um, } - /
+sd          A.55 utt2:  I don't know why we have so much going for us,  /
+sd          A.55 utt3: I really don't. /  
+
+o@         B.56 utt1:  <Laughter>.   *[[slash error]]
+
+sd          A.57 utt1:  I'm, just wrote my resume up  because  told we might be facing layoff over at Digital  /
+sd          A.57 utt2: {C and } [ they've never had, +   {D well, } they've had ] layoffs recently,  /
+sd          A.57 utt3: {C but } when we got hired here,  no, no, never any layoffs, never, never, /  
+
++@         B.58 utt1:  Yeah. /   *[[slash error should be 'b']]
+
+%          A.59 utt1:  {C and } now we're looking at serious, - /
+sd          A.59 utt2:   [ I, +  {E I  mean, } I'm ] a technician. /  
+
+b          B.60 utt1:  Yeah. /  
+
+sv          A.61 utt1:  When they start getting rid of technicians, -/  
+
+b          B.62 utt1:  Yeah,  /
+sd          B.62 utt2: {D well, } [ I'm, + I'm ]  working for T I, Texas Instruments, down here. /  
+
+sd          A.63 utt1:  {D Well, } I interviewed with them. /  
+
+bh          B.64 utt1:  {F Oh, } yeah? /  
+
+sd          A.65 utt1:  {C But } I didn't want to go to Texas. /  
+
+b          B.66 utt1:  {F Oh, } <laughter>. /  
+
+sd          A.67 utt1:  Even though my, {F um, } mother's people are from Georgia. /  
+
+b          B.68 utt1:  Oh, /  
+
+b          A.69 utt1:  Yeah. /  
+
+b          B.70 utt1:  yeah. /  
+
+ad^t          A.71 utt1:  {D Well, } I guess we have to get back to hobbies since, -/  
+
+aa          B.72 utt1:  Yeah,  /
+sv          B.72 utt2: we're getting to where,   
+
+ad          A.73 utt1:  Stick on the subject. /  
+
++          B.74 utt1:  we're straying, I guess,  /
+%          B.74 utt2: yeah. /  
+
+sd          A.75 utt1:  {D Well, } interesting thing that  I do is with, gardening, {F uh, }  /
+sd          A.75 utt2: my sister grows flowers that you can dry, /  
+
+b          B.76 utt1:  Uh-huh. /  
+
+sd          A.77 utt1:  {C and } you can make [ fl-, +  {F uh, } dried flower ]  arrangements  /
+sd          A.77 utt2: {C and } you can get real handy with the hot glue gun.  /
+sd          A.77 utt3:   {C And } we made some really nice Christmas wreaths with, {F uh, } dried red flowers and dried white  flowers and, {F uh, } eucalyptus. /  
+
+b          B.78 utt1:  {F Huh, } yeah. /  
+
+qy          A.79 utt1:  {D [ Yo-, +  you ] know } what eucalyptus is?  /
+%          A.79 utt2: It's, -/  
+
+ny          B.80 utt1:  Yeah,  /
+ny^r          B.80 utt2: yeah,  /
+sd^e          B.80 utt3: [ [ the, +  they   s-, ] +  {F uh, } it's sold ] in the hobby stores and nurseries. /  
+
+aa          A.81 utt1:  Yeah,  /
+%          A.81 utt2: it's got a s-, -/  
+
+sd          B.82 utt1:  It's got a kind of a peculiar smell to it  /
+%          B.82 utt2: {C but, } -/  
+
+aa          A.83 utt1:  Yeah,  /
+sd(^q)          A.83 utt2: at first I'm {D like, } {F oh, }   [ how, +  why ] do people like this,  /
+sv          A.83 utt3: {C but } [ it, +  it ] is kind of a nice smell after a while.  /
+%          A.83 utt4: People put them in, -/  
+
+aa          B.84 utt1:  Yeah,  /
+sd          B.84 utt2: I didn't realize what it was for a while.  /
+sd          B.84 utt3:   I'd walk into a room where some of that, - /
+sd(^q)          B.84 utt4: {C and } I'd wonder what is that,   
+
+o@         A.85 utt1:  <Laughter>.   *[[slash error]]
+
++          B.86 utt1:  {D you know, }  /
+sd          B.86 utt2: {C and then } one day  [ I, + I ] realized that it was eucalyptus. /  
+
++@         A.87 utt1:  Yeah,  / *[[slash error should be 'b']]
+sd          A.87 utt2: [ [ it's, +  it's, ] + it's, ] {F uh, }  like a fad thing.  /
+h          A.87 utt3:  [ I, +  I ] don't know.  /
+sd          A.87 utt4:  [ It's, +  I've ]  never heard of it,  /
+sd          A.87 utt5: in the last five years I've used so  much of it that, /  
+
+b          B.88 utt1:  Yeah. /  
+
+%          A.89 utt1:  I hate, -/  
+
+qy          B.90 utt1:  Is that the stuff that koala bears  eat in Australia or something? /  
+
+ny          A.91 utt1:  Yeah,  /
+sd^e          A.91 utt2: it is. /  
+
+sd          B.92 utt1:  Maybe that's why they're <laughter> so slow.  /
+sv          B.92 utt2:   I guess they're stoned on the stuff or something. /  
+
+b          A.93 utt1:  Yeah,  /
+sv          A.93 utt2: [ it, +  it ] looks really [ po-, + potent ] stuff. /  
+
+b          B.94 utt1:  Yeah  /
+b^r          B.94 utt2: <laughter>, yeah. /  
+
+sv          A.95 utt1:  {C But, } {F uh, } [ it's, +  {D yeah, }  I think it's ] the greatest stuff in the world, though.  /
+%          A.95 utt2: It's, jeez, - /
+sd          A.95 utt3: [ they, +  I ] make all kinds of things with it.  /
+sd          A.95 utt4:   We make all kinds of things just with dried flowers.  /
+sd          A.95 utt5:  [ I, +  I ]  almost want to start a business doing it,  /
+sd          A.95 utt6: {C but } [ [ I don't, +  I, ] + I'm ] so,  {F uh, } timid when it comes to starting a business. /  
+
+b          B.96 utt1:  <Laughter> Yeah,  /
+sv          B.96 utt2: [ that's, +  that's ]  a big step,  /
+%          B.96 utt3: yeah. /  
+
+aa          A.97 utt1:  Yeah,  /
+sv          A.97 utt2: it is,   
+
+b          B.98 utt1:  Yeah, {F uh, } /  
+
++          A.99 utt1:  especially with [ the, +  being in on the ] creative  [ a-, + aspect ] and the crafty end.  /
+sd          A.99 utt2:  {D You know, } after a while you make  some stuff,  /
+sd          A.99 utt3: then you start looking at  it,  /
+sv          A.99 utt4: go, boy, [ this, +  this ] is kind of ugly <laughter>. /  
+
+o@         B.100 utt1:  <Laughter>.   *[[slash error]]
+
+sd          A.101 utt1:  {C But } I know someone who does  a lot of woodworking for a hobby.  /
+sd          A.101 utt2: {F Um, } he does it, believe it or not, {A I wouldn't imagine why,  but } to get out of the house, away from his wife,  /
+sd          A.101 utt3:   {C because } he's a seasonal worker,  /
+sd          A.101 utt4: he works in the construction.  /
+sd          A.101 utt5: {C And } up here it's almost a pattern,  /
+sd          A.101 utt6:  {C and } you see your fathers do it,  /
+sd          A.101 utt7: then their sons do it.  /
+sd          A.101 utt8:  What they do is they work construction, /  
+
++@         B.102 utt1:  Yeah. /   *[[slash error should be 'b']]
+
+sd          A.103 utt1:  then they get laid off for  like twelve weeks in the winter.  /
+sd          A.103 utt2: {C And, } {F uh, } this guy was going nuts,  /
+sd          A.103 utt3:  {C and } his, {F uh, } son built him a garage  and got him some, {F uh, } {F oh, } I don't know what the equipment's  called, but planers and things --   
+
+b          B.104 utt1:  Uh-huh, /  
+
++          A.105 utt1:  -- and --   
+
+bc          B.106 utt1:  shapers and planers and --   
+
++          A.107 utt1:  -- [ s-, +  set ] him up,  /
+sd          A.107 utt2: {C and } [ h-, +  he ] makes,   
+
++          B.108 utt1:  -- routers. /  
+
++          A.109 utt1:  all kinds of furniture for, {F um, }  his kids,  /
+sd          A.109 utt2: {C and } he makes, {F uh, } {F uh, } {D like } little kids' furniture.  /
+sd          A.109 utt3:   He gets right into it  /
+%          A.109 utt4: {C and, } {F uh, } -/  
+
+sd          B.110 utt1:  There was a program on T V down here  on the educational channel here a while back about a lot of [ little, +  little ]  companies of one and two guys, {D you know, } up there,  /
+sd          B.110 utt2: [ espec-, + ] this particular one,  I think, was in Maine and New Hampshire,  [ where + ] [ out in the, +  just kind of out   in these ] little towns  they'd be in,  /
+sd          B.110 utt3: they may be  the same kind of people  you're talking about.  /
+sd          B.110 utt4: {D You know, } [ they've, + they've ] got twelve weeks to  do something,  /
+sd          B.110 utt5: {C and } [ they, + they're ]  making furniture and just, {D you know, } things like  that during the winter  /
+sd          B.110 utt6: {C and then } they go off and do other things during the summer. /  
+
+b          A.111 utt1:  Yeah,  /
+sd          A.111 utt2: [ it's a, +    
+
+b          B.112 utt1:  {D So, } yeah, /  
+
++          A.113 utt1:  it's a ] really,   
+
+b          B.114 utt1:  Yeah,  /
+b^r          B.114 utt2: yeah. /  
+
++         A.115 utt1:  good thing because it's keeping him sane, /  
+
+b          B.116 utt1:  Yeah. /  
+
+sd          A.117 utt1:  [ {C and } + {C plus } ]  it's keeping his marriage <laughter>, /  
+
+b          B.118 utt1:  <Laughter> Yeah. /  
+
+sd          A.119 utt1:  {D so, } [ [ {C and, } + {C and } ] +   {C plus } ] he's getting on in his years now.  /
+sd          A.119 utt2:   [ He's, + he's ] not that old,  /
+sd          A.119 utt3: {C but } he's getting to the point  where he needed an extra boost,   
+
+b          B.120 utt1:  Yeah. /  
+
++          A.121 utt1:  [ to, +  to ] do something like that.  /
+sd          A.121 utt2:   {C And, } {F uh, } [ [ it's   really, + it's, ] +  it's, ] {F uh, } hard work.  /
+sd          A.121 utt3:  I couldn't imagine taking [ lumber, +   raw lumber ] and trying to make something out of it.  /
+sd          A.121 utt4: [ He d-, +    
+
+ba          B.122 utt1:  That would be really t-, {D you know, } - /
+%          B.122 utt2: {D like } {D say } the, -/  
+
++          A.123 utt1:  He dowels ] everything. /  
+
+ba          B.124 utt1:  {F Oh, } man,  /
+b          B.124 utt2: yeah. /  
+
+sd          A.125 utt1:  {C And } it's all got to line up.  /
+%          A.125 utt2:   It's, <laughter> - /
+sd          A.125 utt3: {C and, } {F uh, } I don't think he goofs too much,  /
+sd          A.125 utt4: I don't [ to, +  see too ] much scrap around. /  
+
+b          B.126 utt1:  Yeah,  /
+b^r          B.126 utt2: yeah,  /
+ba          B.126 utt3: [ that's, +  that's ]  something.  /
+sd          B.126 utt4: Now our temperatures down here, we're starting to get pretty consistently  in the seventies and eighties -- /  
+
+ba          A.127 utt1:   (( God )) , I'm envious <laughter>. /  
+
+sd          B.128 utt1:  --  [ [ [ {C and, } +  {F uh, } {C so, } ] +    {C and, } ] +  {F uh, } {C so } ] as far as, {D you know, }  planting outdoor stuff, matter of fact, tonight [ I just got through, +    I was planting ] [ some, +  some ] trees out back tonight,  /
+sd          B.128 utt2: {C and, } {F uh, } [ this is, +   {F uh, } it's ] really nice,   
+
+qy          A.129 utt1:  [ Is it going to be, +    
+
++          B.130 utt1:  <Laughter> out tonight.  /
+sd          B.130 utt2:  Almost hated to come, {D you know. } /  
+
++          A.131 utt1:  Is it going to be ] really dry?  /
+%          A.131 utt2: {F Uh, }   [ are you pl-, +  are you, ] - /
+sd          A.131 utt3: now I always plant trees in the fall.  /
+h          A.131 utt4: I don't know why  /
+sd          A.131 utt5: {D so } [ the, +   the ] cold weather can kill them -- /  
+
+b          B.132 utt1:  Yeah,  /
+sd          B.132 utt2: these were, {F uh, }   
+
+%          A.133 utt1:  -- {C but } I guess, -/  
+
++          B.134 utt1:  trees [ that, + that ] wintered.  /
+sd          B.134 utt2:  I  [ do-, +  don't ] know where they came from.  /
+sd          B.134 utt3:  They come out of nurseries mostly in Missouri  and places like that.  /
+sd          B.134 utt4: {C And } they come down here  /
+sd          B.134 utt5: {C and } they'll sit in the nurseries  here  /
+sd          B.134 utt6: {C and } they'll go ahead  [ and, + and, ] {F uh, } leaf out.  /
+sd          B.134 utt7:  {C So } what I'm planting  or actually transplanting is [ a tree that's, +  {E or } trees that are ] already leafed out. /  
+
+ba          A.135 utt1:  {F Oh, } that's good.  /
+sd          A.135 utt2:  I guess [ they, + they ] say you can plant them in the spring or the fall,  (( all )) . /  
+
+b          B.136 utt1:  Yeah.  /
+sd          B.136 utt2:  Mostly, I think in a place where  it's really cold they do it in the fall,  /
+sd          B.136 utt3: let them winter --   
+
+b          A.137 utt1:  Yeah. /  
+
++          B.138 utt1:  -- {D you know, } through the fall,  /
+sd          B.138 utt2:  {C but, } {F uh, } down here, {D well, } it's done both ways.  /
+sd          B.138 utt3:  [ It, +  it ] just kind of depends  on [ what you're, +  what you're ] planting,  /
+%          B.138 utt4: {C but, } {F uh } --    
+
+b          A.139 utt1:  Yeah,  /
+sd          A.139 utt2: {C and, } {F uh, }    
+
++          B.140 utt1:  -- all the shrubs and, -/  
+
++          A.141 utt1:  when you have time to do it <laughter>. /  
+
+b          B.142 utt1:  Yeah. /  
+
+sd          A.143 utt1:  My sister does, {F uh, } flower gardens.  /
+sd          A.143 utt2:   She gets right into it. /  
+
+b          B.144 utt1:  Uh-huh. /  
+
+sd          A.145 utt1:  She spends lots of money on them.  /
+sd          A.145 utt2:  {C And } I guess a lot of people [ do, +  do ] do that.  /
+sd          A.145 utt3: They landscape their whole house with flower gardens. /  
+
+b          B.146 utt1:   (( Yeah )) . /  
+
+sd          A.147 utt1:  She's got {D like, } just a small patch  of lawn and just flowers and (( mulch )) [ ba-, +  tree bark ] all over her lawn <laughter>. /  
+
+b          B.148 utt1:  Yeah.  /
+sd          B.148 utt2:  [ Flowers, +  during the summer down here,  [ the, +    the  ] normal kind of flowers, ] there's very few of them that will really do well.  /
+sd          B.148 utt3:   Everything does real well here in the spring until about, {F oh, }  first part of June  /
+sd          B.148 utt4: {C and then } [ the re-, +  the heat ] sets in. /  
+
+ %         A.149 utt1:  It gets, ya-, -/  
+
+sd          B.150 utt1:  {C And } June, July, August are,  {D you know, } - /
+sd          B.150 utt2:    most of [ the, +  those ] kind of plants [ just, +  are just ] barely staying alive, let alone make flowers. /  
+
+qy          A.151 utt1:  Do you have a lot of shade trees  around your house  /
+qrr          A.151 utt2: {C or } is it, -/  
+
+no          B.152 utt1:  {F Uh, } we're in a relatively new area.  /
+sd          B.152 utt2:   We're kind of out of, {F uh, } the natural tree area.  /
+sd          B.152 utt3:  We're kind of up [ [ on a, +  on a higher, ] +    
+
+qy          A.153 utt1:  {D So } you don't have a lot of tree coverage? /  
+
++          B.154 utt1:  on a ] slope.  /
+ng          B.154 utt2: {C  So } we don't have, - /
+sd^e          B.154 utt3:  where we are right now there are very few trees. /  
+
+%          A.155 utt1:  {C Because } [ goi-, +  going ] to make, -/  
+
+sd          B.156 utt1:  [ [ This was, +  this was, ] +  this was ]  pasture land,  /
+sd          B.156 utt2: {C but } [ down the, +  down the ] hill here a little ways there are parks that  [ are, +  look ] like jungles, {D you know. }  /
+%          B.156 utt3: They're really, -/  
+
+b          A.157 utt1:  Yeah.  /
+sd          A.157 utt2:  {D See, } {F um, } {F uh, }  [ where +  {A [ my, +  {F uh, } {D well, } my ]  grandmother passed away, but }  where ] aunts are they have these huge pecan trees, /  
+
+b          B.158 utt1:  Uh-huh. /  
+
+sd          A.159 utt1:  {C and } they just shade everything. /  
+
+qw          B.160 utt1:  Now where is this? /  
+
+sd          A.161 utt1:  {F Uh, } it's in Georgia. /  
+
+b^m          B.162 utt1:  In Georgia,  /
+b          B.162 utt2: yeah,  /
+b^r          B.162 utt3: yeah. /  
+
+sd          A.163 utt1:  [ It's, +  {D yeah, }  it's ]  right outside of Macon,  /
+%          A.163 utt2: [ {C and, } + {C and } ]  it's just a, - /
+sd          A.163 utt3: [ I like the way that, +  I like the way that ]  idea of the south is,  /
+sv          A.163 utt4: {C but } when I think of Texas, I think of nothing but, no trees and just grass <laughter>. /  
+
+o          B.164 utt1:  {D Well, } I tell you what,  /
+%          B.164 utt2:  {D now, } {D see, } East Texas, - /
+sd          B.164 utt3: there's two parts of Texas, East Texas and North Texas.  /
+sd          B.164 utt4: Atlanta and  Dallas are almost identical in every way, weather and everything. /  
+
+b          A.165 utt1:  Yeah. /  
+
+sd          B.166 utt1:  The two cities are [ very, +  very ]  identical,  /
+sd          B.166 utt2: {C so } if you were familiar with Atlanta, {F uh, } -/  
+
+qy          A.167 utt1:  {D So } it's that dry heat? /  
+
+nn          B.168 utt1:  {F Uh, } {D well, } no,  /
+sd^e          B.168 utt2: [ it's, +  it's, ]  {F uh, } not dry at all.  /
+sd          B.168 utt3: [ It, +  it's ] humid. /  
+
+%          A.169 utt1:  {D Well, } where is it,  /
+qy          A.169 utt2: [ is it Hous-, +    (( wasn't ))  it Houston's ] humid? /  
+
+na          B.170 utt1:  [ Hu-, +  Houston ] is awful <laughter>. /  
+
+b          A.171 utt1:  Yeah. /  
+
+na          B.172 utt1:  Houston is really humid.  /
+nn          B.172 utt2:  No, /  
+
+sd^e          A.173 utt1:  It's humid. / 

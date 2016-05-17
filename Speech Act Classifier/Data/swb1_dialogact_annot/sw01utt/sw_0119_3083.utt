@@ -1,0 +1,188 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3083_1278_1270
+TOPIC#:		353
+DATE:		910618
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: what do you think is the biggest problem? /  
+
+sd          B.2 utt1:  The biggest problem, {D well, } {D like }  in this part of town seems to be the attitude and the atmosphere in the schools --   
+
+b          A.3 utt1:  Uh-huh. /  
+
++          B.4 utt1:  -- that, {F uh, } {D you know, } you can throw  money at it,  /
+%          B.4 utt2: {C but } it's, - /
+h          B.4 utt3: I don't know,  /
+sv          B.4 utt4: to me it seems like the schools are reflecting society in a bigger way --   
+
+b          A.5 utt1:  Uh-huh. /  
+
++          B.6 utt1:  -- {D you know, }  because,  {E I mean, } the general values that we're teaching --   
+
+b          A.7 utt1:  Yeah. /  
+
++          B.8 utt1:  -- kind of conflict with what we expect  out of people in school, {E I mean, } /  
+
+qr          A.9 utt1:  [ Is it the, + do you think it's the ]  values that they're teaching in school or  the values they get from home. /  
+
+sv          B.10 utt1: {F Uh, } {D well, } the values, more or less at home and the T V, just a general, - /
+sv          B.10 utt2: {E I mean, } learning is not a revered endeavor, really,  /
+sv          B.10 utt3: {E I mean, } it's a lot more,  /
+sv          B.10 utt4: it's [ socially, + {D well } I won't say socially ] unacceptable,  /
+sv          B.10 utt5: {C but } whereas like in, {F uh, } a person that, {F uh, } stud-, - /
+sv          B.10 utt6: they put a lot more emphasis on athletics  /
+sv          B.10 utt7: {C and } things like that are a lot more glorified generally in society,  /
+sv          B.10 utt8: {C and } I think that carries over to school --   
+
+b          A.11 utt1:  Right. /  
+
++          B.12 utt1:  -- a lot.  /
+%          B.12 utt2: {C So. } -/  
+
+b         A.13 utt1:  Yeah,  /
+sv           A.13 utt2: [ [ [ I, + I, ] + I, ] + I ]  think that the biggest problem is, {F uh, }  [ with the, + {F uh, } with the ] home environment being part of it.  /
+%          A.13 utt3:   {D You know, } if, - /
+sv          A.13 utt4: I think too many parents expect, {F uh, } the school to teach, {F uh, }  the moral aspects [ of, + of ] things [ to the st-, + to  the kids ] [ and, + ] {D you know, }  while we're not going to worry about, {F uh, } teaching you manners or teaching you  respect for anyone or anything like that, {D you know, } and then expect them to pick  it up at school,  /
+sv          A.13 utt5: you're not going to do that,  {D you know, }  /
+sv          A.13 utt6: you're going to [ [ carry, +  carry with, ] + carry to ] school, {F uh, } out into the world, {D you know, } what you  learned at home,  /
+sv          A.13 utt7: {C and, }  {F uh } --    
+
+b          B.14 utt1:  Yeah. /  
+
++          A.15 utt1:  -- {F uh, } I think that that part of that  showing up now, {D you know, } [ with, + with ] things because  kids I think have probably less  respect [ than + ] [ for, + for ] people [ than + ] [ in, + in ] other things,  than we may have seen in the past, {F uh, }  /
+sv          A.15 utt2:  {C and } part of it's [ the, + the ] family, I think,  /
+sv          A.15 utt3:  {C and } part of it's, {F uh, } the living conditions [ of + ] certain people are subjected too,  /
+sv          A.15 utt4:  drugs is a big problem now,  /
+sv          A.15 utt5: {C and } I think [ [ that's, + that's, ] + that's ] another root problem. /  
+
+b          B.16 utt1:  Yeah,  /
+b^r          B.16 utt2: yeah,  /
+sd          B.16 utt3: {D you know, } I wonder  if that's a root problem or not,  /
+sd          B.16 utt4: {C because } I think about that a lot,  /
+sv          B.16 utt5: {C and } it's just  {D like, } everybody likes to blame everything on drugs now,  /
+sd          B.16 utt6: {C but } I wonder,  {D you know, }  /
+qy          B.16 utt7: do you get the, - /
+h          B.16 utt8: {F oh, } that's kind of side tracked,  /
+sd          B.16 utt9: {C but, }  {F uh, }  I just remember seeing on the news the other night, they had the thing about how Catholic schools are doing so much better -- /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd(^q)       B.18 utt1:  -- I thought, {D well, } {D you know, }  of course they're doing better, and not so  much when I was growing up,  /
+sv          B.18 utt2: Catholic schools  are generally considered a little bit easier than the public schools,  /
+sd          B.18 utt3: {C but, }   {F uh, } they still had [ a, + a ] better success rate, simply because they started with a lot better raw material.  /
+sd          B.18 utt4:  {E I mean } everybody that went to a Catholic school [ had, +   {F uh, }  {A at least the parents did, } at least, had ] education as a priority --   
+
+b          A.19 utt1:  Right, /  
+
++          B.20 utt1:  -- like you said --    
+
+b          A.21 utt1:  Right. /  
+
++          B.22 utt1:  -- and kind of had a whole conducive atmosphere to it.  /
+sd          B.22 utt2:   {C And } I wonder if, not so much that, {F uh, } -/  
+
+sv         A.23 utt1:  {D Well, } I think [ it's, + like you say,  [  it's, + it's ] ] the socioeconomic mix  /
+%          A.23 utt2: [ [ there, + {D you know, } the, ] + they're, ] - /
+sd          A.23 utt3:  you look at the schools like that where you've got a lot of kids [ who are basically, + {F uh, } that might be ]  more [ well to-, + well off, ] {D you know, } going to a private Catholic school or whatever, {F uh, }  /
+sv          A.23 utt4:  [ {C and, } +  {C and } ] they're not all that way,  /
+sv          A.23 utt5: {C but, } {D you know, } some that are --   
+
+b          B.24 utt1:  Yeah. /  
+
++          A.25 utt1:  -- {F um, } [ [ that, + they're, ] + they're ]  not quite the same as the kids that are going to the inner city, {F uh, } {D you know, } public schools. /  
+
+b          B.26 utt1:  Yeah,  /
+sd          B.26 utt2: this is interesting because   in my mind I don't have the stereotype of a Catholic school being a suburban kind of environment,  /
+sd          B.26 utt3:  {C but, }  {F uh, } [ this, + this ] was actually inner city -- /  
+
+b          A.27 utt1:  Yeah. /  
+
+sd          B.28 utt1:  -- people were sending, - /
+sd          B.28 utt2: {E I mean, }   just because their kids had the ability [ and  the, + and the ] drive to [ do, + try ] and get an education,   they didn't send him to a public school, {D you know, }  /
+sv          B.28 utt3: like you said,  you have the drug problem and just the general atmosphere where you're pressured not to learn in instance, /  
+
+b          A.29 utt1:  Yeah,  /
+sv           A.29 utt2: {D well, } {D you know, } in a lot of cases  like that, where, {D you know, } if kids are going to a public parochial school like that,  [ it's, + it's ] because the parents are more interested in them receiving an education.    [ It shows, + I think it shows ] that the parents have some, {F uh, } desire  [ for, + for ] the kid to [ do, + do ] well, {D you know, }  /
+sv          A.29 utt3: {C and } that may be passed  on down to the kid as well,  /
+sv          A.29 utt4: {C and, }  {F uh, } maybe they pick up on that. /  
+
+b          B.30 utt1:  Yeah. /  
+
+sv          A.31 utt1:  {C And then } from the other aspect,  {F um, } maybe the, {F uh, } school itself [ [ has, + has, ] + has ] more emphasis on, {F uh, } trying to do a  good job because the classes may be smaller, {F uh, }  /
+sv          A.31 utt2: they may be able  [ to, + to ] give the resources that's needed [ to, + {F uh, } to ] do a good job. /  
+
+aa          B.32 utt1:  Yeah,  /
+%          B.32 utt2: {E I mean, } - /
+qy          B.32 utt3: {C and } [ what do you, +  what would you do ] to fix the school systems? /  
+
+sd          A.33 utt1:  <Laughter> {F Uh, } that's a tough question --   
+
+b          B.34 utt1:  Yeah, /  
+
++          A.35 utt1:  -- how to fix the school system.  /
+%          A.35 utt2:   {F Uh, } with, {F uh, } - /
+sd          A.35 utt3: I would try [ to, + I guess, to ] see about getting parents more involved,  [ with, + ]   try [ to, + to ] come up with  more ways to do that.  {F Uh, } {F uh, } {F uh, }  stress the importance of education to [ both + both ] the parents and the students, and,  {F uh, } [ more, + more ] classes [ that + I think that ] are, - /
+sv          A.35 utt4: {C and } I think this is happening some  around the country in terms of, {F um, } morals, trying to teach the kinds of things [ that, + that ] aren't getting taught at home, [ [ and, + {F uh, } and, ] + and ]  respect for other people.  /
+sv          A.35 utt5: {F Uh, } I think that's a big part of it.  /
+%          A.35 utt6: {D You know, } people, {D you know, } - /
+sv          A.35 utt7:  if you don't care about property and  people, {D you know, } you're not going to care  [ about, + {F uh, } about ] learning, I think.    
+
+b          B.36 utt1:  Yeah. /  
+
++          A.37 utt1:  {D You know, }  /
+sv          A.37 utt2: you're not going to really care about yourself. /  
+
+aa          B.38 utt1:  Yeah.  /
+sd          B.38 utt2: That's what I was going to say.  /
+sv          B.38 utt3:  It's the chicken and the egg thing.  /
+sd          B.38 utt4: I wonder, [ a lot of times, {D you know, } people, +  {E I mean, } a lot of times people ] literally tear apart their own schools --   
+
+b          A.39 utt1:  Right. /  
+
++          B.40 utt1:  -- vandalism wise,  /
+%          B.40 utt2: {C and } you get, - /
+sd          B.40 utt3:  {E I mean, }  it's been a while since I been in high school.  /
+sd          B.40 utt4:  They're even in grade school when they do that.  /
+sd          B.40 utt5:  {C But } I can't remember exactly what goes through their head when they're doing that.  /
+sv          B.40 utt6:   {C But } you got to think in a way it's kind of a outward showing of that they don't think they have a chance of doing anything, and take it out on the school. /  
+
+%          A.41 utt1:  {D Well, } {D you know, } {C and } I, - /
+sv          A.41 utt2: [ that's  not an ea-, + {C but } that's not an easy ] task, {D you know, }  /
+sd          A.41 utt3: that's why I say, [ it's, + it's ]  a tough question what would you do,   /
+sv          A.41 utt4: + ] because, {D you know, } even trying to instill  those values is kind of hard [ [ when, + {F uh, } when, ] + when ] you're growing up [ in, +  {D you know, } in ]  a home which may be, {F uh, } just the pits,  /
+sv          A.41 utt5: {C and } {F uh, } you don't have  [ any, + any ] kind of a good environment to live in, {D you know, } /
+sv(^q)       A.41 utt6: it's kind of hard to say,  {D well, } you need to take care of other people's stuff as well, [ when you're, +  when you barely have ] anything yourself.  /
+%          A.41 utt7: {C So. } -/  
+
+b          B.42 utt1:  Yeah. /  
+
+sd          A.43 utt1:  I could see where that would be a problem,  /
+sv          A.43 utt2:  {C and } [ I think that's, + I think it's ... ] -/ 

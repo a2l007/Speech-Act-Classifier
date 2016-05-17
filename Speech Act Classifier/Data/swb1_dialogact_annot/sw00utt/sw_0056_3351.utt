@@ -1,0 +1,279 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3351_1370_1362
+TOPIC#:		351
+DATE:		911103
+TRANSCRIBER:	GL
+UTT_CODER:	TC
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	3
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+======================================================================
+  
+
+fp          A.1 utt1:  Hello, Lynn. /  
+
+b          B.2 utt1:  Yes. /  
+
+b          A.3 utt1:  Okay.  /
+qy          A.3 utt2:  Do you have any pets? /  
+
+ny          @B.4 utt1:  Yes,  /
+sd^e          @B.4 utt2: I have a dog and cat now. /  
+
+qw          A.5 utt1:  {F Oh, } what are their names? /  
+
+sd          B.6 utt1:  Tibby and  Liberty. /  
+
+qw          A.7 utt1:  Which is the dog and which is the cat? /  
+
+sd          B.8 utt1:  Tibby is the dog  /
+sd          B.8 utt2: {C and } Liberty is the cat. /  
+
+sd          A.9 utt1:  {F Uh, } wife and I, [ we have, + we have ] two cats. /  
+
+b          B.10 utt1:  Oh. /  
+
+sd          A.11 utt1: {F Uh, } one's real nice,  /
+sd          A.11 utt2: {C but } the other one is a, {D well, } - /
+sd          A.11 utt3: she's pretty wild. /  
+
+sd          B.12 utt1:  {F Oh } <laughter>.  Ours are pretty calm. /  
+
+b          A.13 utt1:  Yeah,  /
+qy          A.13 utt2: are they, {F um, } just house pets? /  
+
+b          B.14 utt1:  Uh-huh. /  
+
+b          A.15 utt1:  Yeah,  /
+sd          A.15 utt2: [ that's, + that's ] what ours are too. /  
+
+b          B.16 utt1: Yeah.  /
+sd          B.16 utt2: Our cat we got from the pound [ the day bef-, + the night ] she was going to be put to sleep.  /
+sd          B.16 utt3: {C So } --   
+
+bh          A.17 utt1:  {F Oh, } really. /  
+
++          B.18 utt1:  -- that's why we call her Liberty. /  
+
+sv          A.19 utt1:  {F Oh, } {D well, } that's a [ nice, + nice ] story.   {F Um. } /  
+
+qy          B.20 utt1:  Do you want to hear about my other animals I've had? /  
+
+na          A.21 utt1:  Sure,  /
+na^r          A.21 utt2: sure. /  
+
+sd          B.22 utt1:  I've had a skunk -- /  
+
+b          A.23 utt1:  Yeah. /  
+
+sd          B.24 utt1:  -- I've had a Burmese python,  /
+sd          B.24 utt2: I've had rats,  /
+sd          B.24 utt3: I've had mice -- /  
+
+ba          A.25 utt1:  Wow. /  
+
+^h          B.26 utt1: -- {F uh, } let's see,  /
+sd          B.26 utt2: I've had gerbils,  /
+sd          B.26 utt3: [ I have, + I had ] a son, {A he's now gone from the home, } that was an animal lover. /  
+
+b          A.27 utt1:  Uh-huh. /  
+
+sd          B.28 utt1: {C So } at one point I had a snake, skunk, dog and cat running loose in the house. /  
+
+ba          A.29 utt1:  Wow. /  
+
+x          B.30 utt1:  <Laughter>.   
+
+qy          A.31 utt1: {F Um, } [ do + ] the skunk, {F uh, } was it kind of like a cat to have around the house? /  
+
+ny          B.32 utt1:  Yes -- /  
+
+b          A.33 utt1:  Yeah. /  
+
+sd^e          B.34 utt1:  -- it was litter trained -- /  
+
+b^r          A.35 utt1:  Yeah. /  
+
+sd          B.36 utt1:  -- {C and } we had it perfumed -- /  
+
+b          A.37 utt1:  Uh-huh. /  
+
+sd          B.38 utt1:  -- {C and, } {F uh, } it was very aggressive. /  
+
+b          A.39 utt1:  Right. /  
+
+sd          B.40 utt1: {C But } [ all the, + all three ] of them, dog, cat and skunk, used to chase each other all through the house. /  
+
+b          A.41 utt1:  Uh-huh,  /
+b^m          A.41 utt2: {C and } the skunk. -/  
+
+sd          B.42 utt1: {C And } the only thing we have with the skunk, he was very, very protective of his territory --   
+
+b          A.43 utt1:  {F Oh, } yeah. /  
+
++          B.44 utt1:  -- being the sofa and the blanket on the sofa. /  
+
+%          A.45 utt1:  {F Um. } /  
+
+sd          B.46 utt1:  Nobody came near it when he was there. /  
+
+b          A.47 utt1: Oh.  /
+sd          A.47 utt2: {F Uh, } [ I had, + I had ] a dog one time,  /
+sd          A.47 utt3: {C and, } {F uh, } he chased [ after a, + after a ] skunk and got sprayed -- /  
+
+b          B.48 utt1:  Oh. /  
+
+sd          A.49 utt1: -- {C so } [ we had to, + we had to ] give him a [ tomato, + tomato ] juice bath, and, {F uh, } get him cleaned up, /  
+
+b          B.50 utt1: Yeah,  /
+sd          B.50 utt2: [ they {F um, } + ours ] would still back up to the dog or cat when he got mad and try to perfume them,  /
+sd          B.50 utt3: {C but } --   
+
+b          A.51 utt1:  Uh-huh. /  
+
++          B.52 utt1:  -- the glands had been removed  /
+%          B.52 utt2: {D so, } -/  
+
+b          A.53 utt1: Right,  /
+sv          A.53 utt2: {C but } I suppose it was still in the instinct of them [ to +  --   
+
+b          B.54 utt1:  Right. /  
+
++          A.55 utt1:  -- to ] back up and get ready. /  
+
+sd@          B.56 utt1:  One other question we had is, Why do you have pets? /*[[should be 2 slash units b/c A answers the question]]  
+
+b          A.57 utt1: Yeah,  /
+sd          A.57 utt2: why, I don't know,  /
+sv          A.57 utt3: [ I, + I ] think they're kind of nice to have,  /
+sv          A.57 utt4: they're kind of, {D you know, } just relaxing [ to, + {E I don't know, } to ] pet and to, - /
+h          A.57 utt5: I don't know,  /
+sv          A.57 utt6: when they {D like } sit up on your lap and stuff like that, just kind of enjoyable to, {D you know, } have {D like, }  /
+h          A.57 utt7: I don't know,  /
+sv          A.57 utt8: something giving you some affection as well. /  
+
+b          B.58 utt1:  Yeah,  /
+sd          B.58 utt2: [ I always said if I di-, +   
+
+qo          A.59 utt1: [ What, + what ] do you think? /  
+
++          B.60 utt1: {D Well, } I always said if I died ] I'd come back as a dog <laughter>. /  
+
+b          A.61 utt1:  {F Oh, } yeah.  /
+b^r          A.61 utt2: Yeah. /  
+
+sv          B.62 utt1: That'd be the best way to be. /  
+
+b^r          A.63 utt1: Yeah.  /
+qr          A.63 utt2: {F Um, } do you like big dogs [ or -- +   
+
+sd          B.64 utt1:  {D Well } --   
+
++          A.65 utt1:  -- or ] little dogs? /  
+
++          B.66 utt1:  -- we had a German Shepherd  /
+sd          B.66 utt2: {C and } he had dysplasia -- /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sd          B.68 utt1: -- {C and } he had it for about three or four years where we just about had to lift him and carry him every place he went. /  
+
+b          A.69 utt1:  Really. /  
+
+sd          B.70 utt1:  {D So, } when he died, we got a little one. /  
+
+b          A.71 utt1:  Yeah. /  
+
+sd          B.72 utt1: {C But } our shepherd was almost thirteen years old,  /
+sv          B.72 utt2: {C and } it just, {D you know, } was almost cruel --    
+
+b          A.73 utt1:  Uh-huh -- /  
+
++          B.74 utt1:  -- because, -/  
+
+^2          A.75 utt1:  -- almost cruel for him [ to, + to ] walk. /  
+
+aa          B.76 utt1: Yeah,  /
+sd          B.76 utt2: [ he just, + he ] couldn't get up,  /
+sd          B.76 utt3: he couldn't walk,  /
+sd          B.76 utt4: {D so, } he was a hundred and twenty pounds,  /
+sd          B.76 utt5: {C so } it was a chore. /  
+
+ba          A.77 utt1:  {F Wow, } yeah. /  
+
+sd          B.78 utt1: {C So } we said the next time around we'd get <laughter> something little that if --   
+
+b          A.79 utt1:  Sure. /  
+
++          B.80 utt1:  -- something happened, it would be easier to carry. /  
+
+b          A.81 utt1:  Yeah. /  
+
+sd          B.82 utt1: {C And then } we've had three cats in our married life,  /
+sd          B.82 utt2: {C and } we've got a calico now. /  
+
+b          A.83 utt1: Yeah,  /
+sd          A.83 utt2: we've got a calico cat too. /  
+
+qy          B.84 utt1:  Do you? /  
+
+ny          A.85 utt1: Yeah,  /
+ny^r          A.85 utt2: yeah,  /
+sd^e          A.85 utt3: [ she's the, + she's the ] nice one.  /
+sd          A.85 utt4: [ We, + {F uh, } we ] used to live in an apartment  /
+sd          A.85 utt5: {C and } {D like, } our cats never went outside,  /
+sd          A.85 utt6: {C but, } {F um, } the neighbors used to let their dogs out,  /
+sd          A.85 utt7: {C and } our neighbors were, I don't know, kind of slimy,  /
+sd          A.85 utt8: {C and, } {F uh, } our cats wound up getting fleas, {F uh, } from the apartment that we were in -- /  
+
+%          B.86 utt1:  {F Um. } /  
+
+sd          A.87 utt1: -- {C so, } [ we had to, + we had to ] flea bath them  /
+sd          A.87 utt2: {C and } [ it was, + {F uh, } it was ] an experience that they didn't enjoy at all. /  
+
+b          B.88 utt1: Yeah,  /
+ba          B.88 utt2: {D well, } don't even talk to me,  /
+sd          B.88 utt3: [ I, + when I ] was single --   
+
+b          A.89 utt1:  Yeah. /  
+
++          B.90 utt1: -- I had gone away for the weekend,  /
+sd          B.90 utt2: {C and } my husband, {A then fianc3e, } was to keep my cat,  /
+sd          B.90 utt3: {C and } he let her out,  /
+sd          B.90 utt4: {C and } my house was loaded with fleas,  /
+sd          B.90 utt5: {E I mean, } you walked in  /
+sd          B.90 utt6: {C and } your legs were just black. /  
+
+bh          A.91 utt1:  Really. /  
+
+sd          B.92 utt1:  {C And } we had such a time, and never got the cat back. /  
+
+bh^r          A.93 utt1:  Really. /  
+
+ny          B.94 utt1:  Yeah,  /
+sd^e          B.94 utt2: I found it, {D you know, } in the street. /  
+
+b          A.95 utt1:  Oh. /  
+
+sd          B.96 utt1:  I was a social worker at the time, and found it, -/ 

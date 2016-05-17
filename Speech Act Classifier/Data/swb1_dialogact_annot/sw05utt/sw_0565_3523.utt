@@ -1,0 +1,307 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3523_1455_1417
+TOPIC#:		329
+DATE:		911212
+TRANSCRIBER:	glp
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	4
+BACKGROUND_B:	4
+REMARKS:        Water running in the background on Speaker A  Rather loud 
+background high pitch ringing throughout the conversation. 
+
+========================================================================
+  
+
+sd          A.1 utt1:  We're set. /  
+
+bk          B.2 utt1:  Okay. /  
+
+qw          @A.3 utt1:  What changes do you feel have happened? /  
+
+sv          B.4 utt1:  {F Oh, } I guess the first thing has been [ the, + {F uh, } for the  ] right, for women to vote.   /
+sv          B.4 utt2: I think that has been a major change and also the fact that, {F uh, } there are so [ mu-, + many ] more women in the work force nowadays than there were  /
+sv          B.4 utt3: {C and } that's probably going to increase.    
+
+b          A.5 utt1:  Right. /  
+
++          B.6 utt1:  {D You know. } /  
+
+qy^g          A.7 utt1:  Increases each year, doesn't it? /  
+
+br          B.8 utt1:  I'm sorry? /  
+
+sv          A.9 utt1:  It increases each year I think. /  
+
+aa          B.10 utt1:  It sure does.  /
+aa          B.10 utt2: Yeah,  /
+sv          B.10 utt3: there is a lot more women in the work place nowadays. /  
+
+sv          A.11 utt1:  {D Well, } {C and } I think women have kind of had, {F uh, } in the past the real subservient --   
+
+^2          B.12 utt1:  Role? /  
+
++          A.13 utt1:  -- role. /  
+
+aa          B.14 utt1:  Right. /  
+
+%          A.15 utt1:  {C And, } {F uh, } -/  
+
+sv          B.16 utt1:  That's changing <laughter>. /  
+
+sv          A.17 utt1:  {D Well, } we do to some degree -- /  
+
+b          B.18 utt1:  Right. /  
+
+sv          A.19 utt1:  -- {C but, } {F uh, } {F uh, } I think it's not as much as it was. /  
+
+aa          B.20 utt1:  Right,  /
+aa          B.20 utt2: yeah,  /
+aa          B.20 utt3: [ I, + I  ] agree.   /
+sv          B.20 utt4: It definitely --   
+
+sv          A.21 utt1:  [ I, +   
+
++          B.22 utt1:  -- has changed. /  
+
++          A.23 utt1:  {C And } especially, I  ] think with women increasingly working, they're going to have to demand more <laughter> from men. /  
+
+b          B.24 utt1:  Uh-huh. /  
+
+sv          A.25 utt1:  {C Because } there is just, [ i-, + impossible ] to keep up on everything else. /  
+
+b          B.26 utt1:  Yeah,  /
+b^r          B.26 utt2: yeah. /  
+
+sv          A.27 utt1:  Have more of an active role in taking care of children, more of an active role in taking care of the home. /  
+
+%          B.28 utt1: {D Well, } {D you know, } they've been talking about - /
+h          B.28 utt2: {C and } I don't know, {F uh, } what the status is on it,  /
+sd          B.28 utt3: {C but, } {D you know, }  women get maternity leave and stuff like that  /
+sd          B.28 utt4: {C and } I know that [ they've, +  there ] has been discussion about men also getting maternity leave --   
+
+b          A.29 utt1:  Right. /  
+
++          B.30 utt1:  -- to help out,  /
+h          B.30 utt2: {C but } {D you know, } I haven't really heard much about that recently. /  
+
+sv          A.31 utt1:  {D Well, } {D you know, } there is a lot of companies that won't give [ mat-, +  women  maternity ] leave for that very reason. /  
+
+b          B.32 utt1:  Uh-huh. /  
+
+sd          A.33 utt1:  {F Uh, } in fact, I know the school districts down here, [ you, +  they ] don't have maternity leave.  /
+sd          A.33 utt2: {F Uh } --    
+
+bh          B.34 utt1:  {F Oh, } is that right? /  
+
++          A.35 utt1:  -- you simply have to [ take, + accumulate  ] your sick leave.    
+
+b          B.36 utt1:  Oh. /  
+
++          A.37 utt1:  And take your sick leave. /  
+
+b          B.38 utt1:  Uh-huh. /  
+
+h          A.39 utt1:  {C And } I don't know, {F uh, } if bigger company companies do,  /
+sd          A.39 utt2: {C but } when I was employed with the school district, I didn't have maternity leave either  /
+sd          A.39 utt3: {C and } that was the reason  /
+sd          A.39 utt4: {C because } they thought was showing  (( prejisim ))    to women and  not to men  /
+%          A.39 utt5: [ {C but, } +     
+
+ba          B.40 utt1:  {F Huh, } that's interesting. /  
+
++          A.41 utt1:  {C So, } ] {F uh, } -/  
+
+sv          B.42 utt1:  That's a bummer, though <laughter>. /  
+
+aa          A.43 utt1:  Yeah  /
+aa          A.43 utt2: <laughter>, it is. /  
+
+sd          B.44 utt1:  {E I mean, }   
+
+sd          A.45 utt1:  You have to save all of your, {F uh, } vacation time. /  
+
++          B.46 utt1:  You got to take the time off <laughter>. /  
+
+aa          A.47 utt1:  You do.  /
+sd          A.47 utt2:  You have to save all your vacation time  /
+sv          A.47 utt3: {C and } --   
+
+b          B.48 utt1:  Yeah. /  
+
++          A.49 utt1:  -- that's usually how it's, {F uh, } happened,  /
+%          A.49 utt2: {C but, } {F uh, } -/  
+
+b          B.50 utt1:  Uh-huh. /  
+
+qw          A.51 utt1:  What do you see, {F uh, } changing in the future? /  
+
+sv          B.52 utt1:  <Breathing> I think that we're probably going to see a lot more companies, {F uh, } run by females. /  
+
+aa          A.53 utt1:  Right,  /
+%          A.53 utt2: [ {C and, } + {C and }  ] --   
+
+%          B.54 utt1:  # {C And } we'll prob-, # -/  
+
++          A.55 utt1:  -- # top level. # /  
+
+br          B.56 utt1:  I'm sorry? /  
+
+sv          A.57 utt1:  Maybe top level. /  
+
+aa          B.58 utt1:  Right,  /
+aa          B.58 utt2: right,  /
+sv         B.58 utt3: upper management,  /
+sv         B.58 utt4: more women in upper management  /
+sv         B.58 utt5: {C and } probably, {F uh, } we'll see more females in political roles.  /
+sv         B.58 utt6:  More governors and,  I think, {D you know, } roles like that. /  
+
+ba          A.59 utt1:  That would be kind of nice <laughter>. /  
+
+sd          B.60 utt1:  {D Well, } [ we've got, + in Texas, we have  ] a female governor. /  
+
+aa          A.61 utt1:  That's right,  /
+aa^r          A.61 utt2: that's right.   /
+
+sd          B.62 utt1:  {C And } we had a female mayor here in Dallas,  /
+sd          B.62 utt2: {C and } [ she just, + her term just  ] ended  /
+sv         B.62 utt3: [ {C and, } +  {F uh, } {C so } ] I think we're probably going to see more of that --    
+
+b          A.63 utt1:  Yeah -- /  
+
++          B.64 utt1:  -- in the future <<faint>>.  /
+
+sv          A.65 utt1:  -- I think that's probably good.  /
+sv          A.65 utt2: A little more integration. /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+sv          A.67 utt1:  {C And, } {F uh, } maybe not so much that we sit on the back burners  /
+%          A.67 utt2: {C and, } -/  
+
+b          B.68 utt1:  Right, {D you know, }  /
+ba          B.68 utt2: {E I mean, } {C and } that's fine with me -- /  
+
+%          A.69 utt1:  I think, -/  
+
+%          B.70 utt1:  -- {C but } sometimes, - /
+sd          B.70 utt2: {E I mean } I'm not a women's libber by any means,  /
+%          B.70 utt3: {C but } --   
+
+b          A.71 utt1:  Right. /  
+
++          B.72 utt1:  -- I do, - /
+sv          B.72 utt2: there are issues that, {D you know, } as far as, {D like, } equal pay for men and women and that kind of stuff, I totally am for. /  
+
+b          A.73 utt1:  Right. /  
+
+sd          B.74 utt1:  {C But, } I don't get into [ the, + {F uh, } the  ] real <laughter> --   
+
+aa          A.75 utt1:  # No,  /
+aa          A.75 utt2: I don't either. # /  
+
++          B.76 utt1:  -- # women libber # movement, {D you know. } /  
+
+sv          A.77 utt1:  I don't think they're ever going to prove that men and women are equal <laughter>. /  
+
+b          B.78 utt1:  Yeah. /  
+
+sv          A.79 utt1:  We just function differently <laughter>. /  
+
+aa          B.80 utt1:  Right,  /
+aa^r          B.80 utt2: right. /  
+
+sd          A.81 utt1:  {C And, } {F uh, } I'm not capable of lifting what, {F uh, } a man can lift and --   
+
+b          B.82 utt1:  Yeah. /  
+
++          A.83 utt1:  -- {D you know, } [ that type of, + that type of  ] thing,  /
+%          A.83 utt2: {C but, } {F uh } --   
+
+b          B.84 utt1:  Right. /  
+
++          A.85 utt1:  -- one of the big changes, {F uh, } they're doing in Salt Lake is, {F uh, } - /
+%          A.85 utt2: {C and } they're probably, - /
+sv          A.85 utt3: I'm sure, in Dallas since you're big places, a lot more women are, {F uh, } working right out of their home with their P C's or with their lap computers or whatever. /  
+
+aa          B.86 utt1:  Yeah,  /
+aa          B.86 utt2: [ I, + I've ] heard of that.  /
+sd          B.86 utt3:  {F Uh, } I haven't really talked to anybody that's, {D you know, } too involved with that.  /
+%          B.86 utt4:  {C But, } {E I mean, } I think that is a, -/  
+
+%          A.87 utt1:  # I think that, # -/  
+
+sv          B.88 utt1:  # Like the # cottage industry.  /
+qy          B.88 utt2: [ Is, + is ] that what you're talking about, women working out of their homes? /  
+
+na          A.89 utt1:  Right. /  
+
+bk          B.90 utt1:  Yeah,  /
+sv          B.90 utt2: {F uh, } I think it's wonderful <laughter>. /  
+
+b          A.91 utt1:  Right.  /
+sd          A.91 utt2:  You only have to check in with the office once or twice a week  /
+%          A.91 utt3: {C and, } -/  
+
+b          B.92 utt1:  Yeah. /  
+
+sd          A.93 utt1:  Course, they're talking about, {F uh, } that we're going to be able to do our grocery shopping  and <laughter> --   
+
+%          B.94 utt1:  {F Oh, } I kn-, -/  
+
++          A.95 utt1:  -- banking and --   
+
+^2          B.96 utt1:  By the phone and all that. /  
+
++         A.97 utt1:  -- everything like that,  /
+sv         A.97 utt2: {C so, } {F uh, } it would be kind of exciting in some ways [ to, +  to ] see a little bit more of that  /
+sv         A.97 utt3: {C and } some ways, it might be kind of <laughter> scary. /  
+
+b          B.98 utt1:  Right. /  
+
+sv          A.99 utt1:  Think anybody could do it,  /
+%          A.99 utt2: {C but, }   
+
+b          B.100 utt1:  Right. /  
+
++          A.101 utt1:  Anyway, -/  
+
+b          B.102 utt1:  Yeah,  /
+sv          B.102 utt2: I wouldn't mind just calling up the grocery store and giving them my order and --   
+
+b          A.103 utt1:  Right. /  
+
++          B.104 utt1:  -- going an hour later and picking it up <laughter>. /  
+
+b          A.105 utt1:  Right,  /
+sv          A.105 utt2: {C but then } {D you know, } there is the process of selection.  /
+qh          A.105 utt3:  Would you have to give them <breathing> --   
+
+b          B.106 utt1:  Right. /  
+
++          A.107 utt1:  -- the brand  /
+%@          A.107 utt2: {C and, } {F uh, }   *[[slash error]]
+
+b          B.108 utt1:  Right. /  
+
++          A.109 utt1:  {D You know, } when you shop, you usually compare the prices  /
+sv          A.109 utt2: {C and, } would be nice, though. / 

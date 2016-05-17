@@ -1,0 +1,280 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4697_1112_1594
+TOPIC#:		341
+DATE:		920414
+TRANSCRIBER:	nk
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:        There is a noise like a dryer going off and a child
+talking off and on through out A's dialogue.  You can also hear her breath.
+
+==============================================================================
+  
+
+sd^t          A.1 utt1:  <Breathing> {D Well, } [ th-, + the ]  question was talking about the juries  /
+sd          A.1 utt2: {C and, }  {F uh, } one of the things I thought about was a lot of the drunk cases that they were having, [ that, + especially for repeat offenders that, ] {F uh, } - /
+sv          A.1 utt3: maybe there should be stiffer penalties for those people who come back again and again.  /
+sv          A.1 utt4:  {F Uh, }   {C so  that, } {F uh, } a judge, I think, would be the most appropriate person [ to, + {F uh, } to ] be able to sentence somebody since they do it over and over again every day. /  
+
+aa          @B.2 utt1:  Right.  /
+sv         @B.2 utt2: [  I, + I ] kind of agree with that,    
+
+o@         A.3 utt1:  <Buzz> <noise>.   *[[slash error]]
+
++          B.4 utt1:  because I think in some cases, {F uh, } the jury may not even have,   
+
++@         A.5 utt1:  <Child_talking>.   *[[slash error]]
+
++          B.6 utt1:  the information about other crimes the person has committed. /  
+
++           A.7 utt1:  Right. /   *[[slash error should be 'aa']]
+
+sv          B.8 utt1:  {F Uh, } [ I, + I ] think that in some cases that's considered to prejudice the current case -- /  
+
+aa          A.9 utt1:  Right <<very faint>>. /  
+
+sv          B.10 utt1:  -- {C so } a judge, you're right, should have the whole dossier of the criminal <laughter> --   
+
+b          A.11 utt1:  <Child_talking> Uh-huh. /  
+
++          B.12 utt1:  -- there  /
+sv          B.12 utt2: {C and } if they're judged guilty would probably be in a better [ pri-, + position ] to give an appropriate, {F uh, } sentencing. /  
+
+aa          A.13 utt1:  Yeah.  /
+aa          A.13 utt2:  {D See } I agree with you.  /
+sd          A.13 utt3: {F Uh, }  one thing I heard was this,  where [ they  have, +  instead of going to the regular court, they have ] [ a, + a ] mock court.  /
+sd          A.13 utt4:  {E I mean, } it's supposed to be all legal and everything.  /
+sd          A.13 utt5: {F Uh, }  you go  /
+sd         A.13 utt6: {C and } you present your case,  /
+sd         A.13 utt7: the other side presents their case  /
+sd         A.13 utt8: {C and } you're done with it.  /
+sd         A.13 utt9: It's almost like the NIGHT COURT we see on T V. /  
+
+b          B.14 utt1:  Uh-huh. /  
+
+%          A.15 utt1:  {F Uh, } [ {C and, } +  {F uh, } {C but } ] it's not that we have, {F uh, } such, - /
+sd          A.15 utt2: it didn't backlog   [ or + ] all of [ the, + {F uh, } the ] cases that are, {F uh, } all ready pending.  /
+%          A.15 utt3: {F Uh, }  {C so }  I, - /
+sv          A.15 utt4: that was one thing I thought about that would be really neat if we could do it that way. /  
+
+%          B.16 utt1:  In other words, [ not, +   
+
+o@          A.17 utt1:  <Buzz>.  
+
++          B.18 utt1:   not, ] - /
+qy          B.18 utt2: there would be some types of crimes for which you're not guaranteed a jury trial? /  
+
++@          A.19 utt1:  Yes.  /
+ny^r          A.19 utt2:  Yes.  /
+%          A.19 utt3:  # Now, # -/  
+
+nd          B.20 utt1:   # [ [ I, + I, ] + # I ] don't, - /
+ar          B.20 utt2: [ th-, + there's ] a point on which we don't agree. /  
+
+b          A.21 utt1:  Uh-huh. /  
+
+sv          B.22 utt1:  I would tend, myself, to say that <sigh> we should continue to guarantee a jury trial for criminal cases [ anytime a, + anytime [ a, + one ] ] of the parties wants one. /  
+
+b          A.23 utt1:  Uh-huh. /  
+
+sv          B.24 utt1:  {C And } [ I, + usually it is the defendant, I ] guess, that wants to have the jury hear the case. /  
+
+b          A.25 utt1: Sure. /  
+
+sv          B.26 utt1:  {C So } I'm not out for streamlining things to the point where we, {F uh, }   
+
+x@         A.27 utt1:  <Breathing>.   *[[slash error]]
+
++          B.28 utt1:  take  that, {D you know, } - /
+sv          B.28 utt2: that would require a change in the Bill of Rights, I believe #  /
+%          B.28 utt3: {C and so, } # -/  
+
++@          A.29 utt1:  # {F Oh, } yes  / *[[slash error should be aa]]
+sd          A.29 utt2: [ {C and, } +  {C and } ] # [ I wasn't, + I didn't ] mean that # <laughter>. # /  
+
+bk          B.30 utt1:  # {F Oh, } {F oh, } okay. # /  
+
+sd          A.31 utt1: [ I, + I ] didn't mean that, no.  /
+sv          A.31 utt2:  {C Because, } {E I mean, } gee whiz, if I [ was, + ] {F uh, } {F uh, } didn't have that right, {D you know, } not to have a jury that, {F oh } - /
+sv          A.31 utt3: yes, I would feel, {F uh, } you're right, that my civil rights had been violated.  /
+sv          A.31 utt4:  {C But } I meant for some, when both parties agreed that yes, we're going to have a judge here.  /
+sv          A.31 utt5: We're not going to have a jury, {D you know, }  /
+sv          A.31 utt6: let's get it over with.  /
+sv          A.31 utt7: Sort of like car accidents, # {D you know, } # -/  
+
+aa          B.32 utt1:  # Right. #  /
+sv          B.32 utt2: {D Well } I think that's all ready possible. /  
+
+b          A.33 utt1:  Yeah. /  
+
+sv          B.34 utt1:  I think,   
+
+x@         A.35 utt1:  <Buzz>.   *[[slash error]]
+
++          B.36 utt1:  that you can waive the right to a,   
+
++@         A.37 utt1:  <Buzz>.   *[[slash error]]
+
++          B.38 utt1:  jury trial # {F uh, }  /
+%          B.38 utt2: yeah # -- /  
+
++@          A.39 utt1:  # Right,  / *[[slash error should be 'aa']]
+aa^r          A.39 utt2: right <child_talking>. # /  
+
+aa          B.40 utt1:  -- {C so. }   I agree that that should be encouraged. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+sv          B.42 utt1:  People should know that that's an option just in case they feel they have to have a jury trial.  /
+sv          B.42 utt2: {C But } I think most lawyers do a pretty good job of making that evident [ to, + to ] clients unless they feel they can, {D you know, } tweak a jury into # <laughter> # --   
+
+aa          A.43 utt1:  # Right.  /
+^2          A.43 utt2: Giving a different sentence. # /  
+
++          B.44 utt1:  [ -- per-, + ] giving a different sentence or possibly, if it's a civil case, giving higher, {F uh, } {D you know, } awards of money or something --   
+
+b          A.45 utt1:  Uh-huh. /  
+
++          B.46 utt1:  -- since usually the lawyers get a percentage of [ the, +  # the ] award. # /  
+
+sv          A.47 utt1:  # The take. #  /
+aa          A.47 utt2:  Right. /  
+
+aa          B.48 utt1:  Yeah.  /
+%          B.48 utt2: {C And } I suspect it, in cases like, - /
+sd^t          B.48 utt3: I guess we were supposed to be doing criminals though, rather than civil.  /
+qy          B.48 utt4:  Is that right? /  
+
+no^t         A.49 utt1:  {D Well, } [ [ [ I, + I, ] + i-, ] + we're ] at liberty [ to, + to ] talk [ and, + and ]  meander as long as it's all on the same theme. /  
+
+b          B.50 utt1:  Yeah. /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+sv          B.52 utt1:  {D Well, } {F uh, } in the case of,   
+
+x@         A.53 utt1:  <Noise>.   *[[slash error]]
+
++          B.54 utt1:  civil, {F uh, } things, I think maybe [ the, + the ] use of the jury is very,   
+
++@         A.55 utt1:  <Talking>.   *[[slash error]]
+
++          B.56 utt1:  often to the lawyer's advantage  /
+sv          B.56 utt2: {C and } I think that may be where jury use is overdone, /  
+
++@         A.57 utt1:  <Buzz>.   *[[slash error]]
+
+sv          B.58 utt1:  {E I mean } there are cases where they could be settled,    
+
++@          A.59 utt1:  <Buzz>.   *[[slash error]]
+
++          B.60 utt1:  # maybe # --   
+
++@          A.61 utt1:  # Right. # /   *[[slash error should be 'aa']]
+
++          B.62 utt1:  -- out of court a little more # efficiently. # /  
+
+aa          A.63 utt1:  # Right. # /  
+
+%          B.64 utt1:  {C But } the lawyers are really, {F uh, } - /
+sv          B.64 utt2: it's to their advantage to play to as big an audience <laughter>,   
+
+x@          A.65 utt1:  <Child_talking>.   *[[slash error]]
+
++          B.66 utt1:  as possible -- /  
+
++@         A.67 utt1:  Uh-huh. /   *[[slash error should be 'b']]
+
+sd          B.68 utt1:  -- {C so. }   {F Uh, } I was wondering too, if they were thinking [ of + about ] the judge making awards in civil cases --    
+
+b          A.69 utt1:  Uh-huh. /  
+
++          B.70 utt1:  -- not just sentencing [ in, + in ] a criminal cases. /  
+
+b          A.71 utt1:  Uh-huh. /  
+
+sv          B.72 utt1:  {F Uh, } I'm not so sure I'm in favor of that.   /
+sv          B.72 utt2: {C But } I am in favor of it for criminal cases #  /
+sd          B.72 utt3: {C so } there's a difference of my view there for those two. # /  
+
+aa          A.73 utt1:  # Right.  /
+aa^r          A.73 utt2:  Right.  /
+aa          A.73 utt3:  Yeah,  /
+sd          A.73 utt4: {C bu-, } {D well }  you can tell I # haven't been in too many [ juries <laughter>, + judges ] chambers or anything like that <laughter>. /  
+
+qy          B.74 utt1:  <Laughter> Have you ever had to serve jury duty? /  
+
+nn          A.75 utt1:   N-, - /
+no          A.75 utt2: {D well } I was called once when I was nineteen -- /  
+
+b          B.76 utt1:  Uh-huh. /  
+
+sd          A.77 utt1:  -- [ {C and, } +  {F uh, } {C but  } ] I was doing so many other things that they took pity on me  /
+sd          A.77 utt2: {C and, }  I was doing school and things like - /
+sd          A.77 utt3: [ they, + they ] let me out. /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+sd          A.79 utt1:  {C An-, } I've never had to it since  /
+sd          A.79 utt2: {C and } that was almost twenty years ago # <laughter>. # /  
+
+b          B.80 utt1:  # Uh-huh. #  /
+%          B.80 utt2: It isn't, - /
+sd          B.80 utt3: sort of amazed me they first caught up with me for the first time,   
+
+x@         A.81 utt1:  <Buzz>.   *[[slash error]]
+
++          B.82 utt1:  in, {F uh, } - /
+sd          B.82 utt2: that would have been about, {F uh, } twenty years too -- -/  
+
++@         A.83 utt1:  Uh-huh. /   *[[slash error]]
+
+sd          B.84 utt1:  -- {F uh, } {F uh, } just last year - /
+sd          B.84 utt2: {C and, }  {F uh, } the case I heard was a criminal case  /
+sd          B.84 utt3: {C and } it seemed it really,   
+
+o@          A.85 utt1:  <Child_talking>.  
+
++          B.86 utt1:   trivial.  /
+sd          B.86 utt2: It involved two bicycles. /  
+
++@          A.87 utt1:  Uh-huh. /  
+
+sd          B.88 utt1:  We didn't do the sentencing.  /
+sd          B.88 utt2: The judge did. /  
+
+b          A.89 utt1:  {F Huh. } /  
+
+%          B.90 utt1:  {D So } -- -/  
+
+ba          A.91 utt1:  How interesting. /  
+
+sd          B.92 utt1:  -- [ we, + we ] [ a-, + ] rendered a verdict  /
+sd          B.92 utt2: {C and then } the judge was the one to do the sentencing. /  
+
+b          A.93 utt1:  Uh-huh,  /
+b^r          A.93 utt2: Uh-huh </breathing>. /  
+
+sd          B.94 utt1:  <Swallowing> <lipsmack> {C And } that was here in Wisconsin.  /
+sd          B.94 utt2: {C So } [ I, +  I ] don't know if that varies from state to state  or if it, -/ 

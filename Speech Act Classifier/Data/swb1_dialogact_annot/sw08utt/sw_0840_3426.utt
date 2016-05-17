@@ -1,0 +1,438 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3426_1400_1437
+TOPIC#:		348
+DATE:		911122
+TRANSCRIBER:	GL
+UTT_CODER:      aabo
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=======================================================================
+  
+
+o          A.1 utt1:  All right.  /
+sd^t          A.1 utt2: [  I, + I ] {D like } keep forgetting to make these calls.  /
+sd^t          A.1 utt3:  I've been on this list for two months. /  
+
+b          B.2 utt1:  {F Oh, } really,  /
+sd^t          B.2 utt2: [ I just, +   
+
+sd^t          A.3 utt1:  I think I've made four calls <laughter>. /  
+
++          B.4 utt1:  {F Oh, } I just ] got mine last week,  /
+sd^t          B.4 utt2: {C and } I haven't started yet because I wanted to get one first --   
+
+b          A.5 utt1:  Right. /  
+
++          B.6 utt1:  -- see how it worked. /  
+
+sd^t          A.7 utt1:  {D Well } there are some kind of nice prizes,  /
+sv^t          A.7 utt2: {C and } it's worth doing it.  /
+sd^t          A.7 utt3: I so mad I think I've had this for two months  /
+sd^t          A.7 utt4: {C and, } {D like } [ I've said, + I've ] made four calls,  /
+sd^t          A.7 utt5: {C and } lot of times we don't answer the phone, probably when I get mine --   
+
+b          B.8 utt1:  Really. /  
+
++          A.9 utt1:  -- early in the evening <laughter>. /  
+
+b          B.10 utt1:  Yeah. /  
+
+ad^t         A.11 utt1:  {D Well, } we're supposed to talk about movies.  /
+qy          A.11 utt2:  Have you been to any lately? /  
+
+sd          @B.12 utt1: [ I have, + I ] was trying to think of the one I went to a couple of weeks ago,  /
+sd          @B.12 utt2: {C but } I forgot it already. /  
+
+sd          A.13 utt1:  {F Uh, } I haven't really seen one since probably August because, {F uh, } every weekend [ in, + in ] the Fall we go to our high school football game on Friday --   
+
+b          B.14 utt1:  Oh. /  
+
++          A.15 utt1:  -- then we go out with friends after,  /
+sd          A.15 utt2: {C and } that's kind of the --   
+
+^2          B.16 utt1:  That's your weekend. /  
+
++          A.17 utt1:  -- our social --   
+
+b          B.18 utt1:  Yeah -- /  
+
++          A.19 utt1:  -- for the, -/  
+
+b          B.20 utt1:  -- really. /  
+
+sd          A.21 utt1:  {C But, } {F oh, } I saw, {F uh, } ROBIN HOOD, which I didn't care for. /  
+
+b          B.22 utt1:  Really.  /
+sv          B.22 utt2:  I didn't see that, because I didn't think I would care for it. /  
+
+aa          A.23 utt1:  No,  /
+sd          A.23 utt2: {C and } my husband dragged me to it. /  
+
+b          B.24 utt1:  Oh. /  
+
+sd          A.25 utt1: [ I + {D like, } I ] think Kevin Costner's a nice fellow,  /
+sd          A.25 utt2: {C and } he's nice looking,  /
+sd          A.25 utt3: {C but } he just, to me, is not a very dynamic actor. /  
+
+b          B.26 utt1:  Yeah,  /
+sv          B.26 utt2: I think that's why a lot of people go to see him, though <laughter>. /  
+
+sv          A.27 utt1:  <Laughter> I guess because he is good looking.  /
+h          A.27 utt2:  I don't know <laughter>. /  
+
+b          B.28 utt1:  Right <laughter>. /  
+
+h          A.29 utt1:  I don't know <laughter>.  /
+b          A.29 utt2:  Oh.  /
+sd          A.29 utt3: I saw CITY SLICKERS.  /
+qy          A.29 utt4:  Did you see, - /
+%          A.29 utt5: that was a, -/  
+
+ny          B.30 utt1:  Yes  /
+sd^e          B.30 utt2: I did see that -- /  
+
+sd          A.31 utt1:  That's the last one I saw, I think. /  
+
+sd          B.32 utt1:  -- {C and } I really enjoyed that. /  
+
+aa          A.33 utt1:  I did too.  /
+sd          A.33 utt2:  I thought that was so cute,  /
+o@          A.33 utt3: {C and. }   
+
+aa          B.34 utt1:  Yeah.  /
+sv          B.34 utt2:  I thought that was appropriate just for everyone. /  
+
++@          A.35 utt1:  {F Oh, } I do too. /  
+
+aa          B.36 utt1:  Yeah.  /
+sd          B.36 utt2:  It was great. /  
+
+sd          A.37 utt1:  {F Oh, } [ I, + I ] really enjoyed that. /  
+
+b          B.38 utt1:  Yeah,  /
+sd          B.38 utt2: {C and } my daughter went to see that one too.  /
+sd          B.38 utt3:  {C So, } it was fine for her -- /  
+
+b          A.39 utt1:  Right. /  
+
+b          B.40 utt1:  -- {C so, } yeah. /  
+
+sv          A.41 utt1:  Which most of them probably aren't <laughter>. /  
+
+aa          B.42 utt1:  Right,  /
+aa          B.42 utt2: {D well } that's right. /  
+
+sd          A.43 utt1:  I don't know what my kids see any more.  /
+sd          A.43 utt2:  My kids are twenty and sixteen,  /
+sv          A.43 utt3: {C so } they've probably seen about everything at this point <laughter>. /  
+
+aa          B.44 utt1:  Probably they have.  /
+sd          B.44 utt2:  {D Well, } my daughter is twelve -- /  
+
+b          A.45 utt1:  Oh. /  
+
+sd          B.46 utt1:  -- {C and } we had a sleep over one night.  /
+sd          B.46 utt2:  They wanted to watch PRETTY WOMAN, which I have -- /  
+
+b          A.47 utt1:  Uh-huh. /  
+
+sd          B.48 utt1:  -- {C and } I was hesitant,  /
+sd          B.48 utt2: {C and } they all had seen it anyway. /  
+
+ba          A.49 utt1:  <Laughter> {F Oh, } I know it. /  
+
+sd          B.50 utt1:   ((   ))  all twelve, - /
+%          B.50 utt2: {C so. } -/  
+
+bd          A.51 utt1:  That's the way it is.  /
+sv@          A.51 utt2:  We can see some pretty raunchy stuff [ on, + on ] just regular T V without cable or anything.    
+
+aa          B.52 utt1:  Yes,  /
+sd          B.52 utt2: they do -- /  
+
++@          A.53 utt1:  {D You know } -- /  
+
+aa^r          B.54 utt1:  -- yes,  /
+sd^r          B.54 utt2: they do. /  
+
+sv          A.55 utt1:  -- there's no way to protect them any more. /  
+
+b          B.56 utt1:  Right,  /
+o@          B.56 utt2: {C but, }   
+
+%          A.57 utt1:  {D So. } -/  
+
++@          B.58 utt1: [ I, + I ] love Julia Roberts movies,  /
+sv          B.58 utt2: {C but } I didn't think they were great for my daughter <laughter>. /  
+
+aa          A.59 utt1:  No,  /
+sv          A.59 utt2: <laughter> it'll teach a great lesson, because she ended --   
+
+aa          B.60 utt1:  No. /  
+
++          A.61 utt1:  -- up [ so, + in so ] - /
+x          A.61 utt2: ((   ))  <laughter>.   
+
+b          B.62 utt1:  Really,  /
+b^r          B.62 utt2: really. /  
+
+sd          A.63 utt1:  {C But } it was a fun movie to watch. /  
+
+sd          B.64 utt1:  {F Oh, } I love PRETTY WOMAN,  /
+sd          B.64 utt2: {C and then } I like that one after that where, {F oh, } - /
+t1          B.64 utt3:  what was it?  /
+sd          B.64 utt4: It was like a FATAL ATTRACTION thing. /  
+
+qy          A.65 utt1:  {F Oh, } the scary one? /  
+
+ny          B.66 utt1:  Yeah. /  
+
+sd          A.67 utt1:  {F Oh, } I didn't see that,  /
+%          A.67 utt2: {C but } the, -/  
+
+sd          B.68 utt1:  I don't remember the name of it  /
+sd          B.68 utt2: {C but } that was so good. /  
+
+b          A.69 utt1:  {F Oh, } really. /  
+
+sd          B.70 utt1:  That was really excellent. /  
+
+sd          A.71 utt1:  {F Oh, } I like scary ones that are realistic. /  
+
+b          B.72 utt1:  Yeah,  /
+%          B.72 utt2: [ [ that, + that was, ] + <laughter> that was. ] -/  
+
+sv          A.73 utt1:  <Laughter> They say  ((   ))  is really frightening, too. /  
+
+br          B.74 utt1:  What was? /  
+
+sd          A.75 utt1:   ((   )) , the new one that came out. /  
+
+h          B.76 utt1:  {F Oh, } I don't know. /  
+
+sv          A.77 utt1:  They say it's really horrifyingly scary -- /  
+
+b          B.78 utt1:  Really. /  
+
+sd          A.79 utt1:  -- {C but, } {F uh, } I'd never get my husband to that.  /
+sd          A.79 utt2:  He doesn't like to be scared <laughter>. /  
+
+b          B.80 utt1:  Oh.  /
+sd          B.80 utt2:  The last scary thing I saw was MISERY. /  
+
+sd          A.81 utt1:  {F Oh, } {C and } my kids both saw that.  /
+sd          A.81 utt2:  They liked it. /  
+
+sd          B.82 utt1:  That scared me to death,  /
+sd          B.82 utt2: {C and } I watched it at a friend's house on video  /
+%          B.82 utt3: {C and } I was just. -/  
+
+^2@          A.83 utt1:  {C And } it was still scary?   
+
+aa          B.84 utt1:  {F Oh, } yes. /  
+
++@          A.85 utt1:  {F Oh, } no.  /
+ba          A.85 utt2:  Gosh. /  
+
+sd          B.86 utt1:  It was horrible.  /
+sd          B.86 utt2:  It was so awful. /  
+
+ba          A.87 utt1:  {F Oh, } no,  /
+sd          A.87 utt2: that one sounded gross,  /
+sd          A.87 utt3: I know my husband wouldn't have stood for that. /  
+
+b          B.88 utt1:  Really. /  
+
+sd          A.89 utt1:  [ He, + he ] likes MARY POPPINS and things <laughter>. /  
+
+aa          B.90 utt1:  I like that, too. /  
+
+b          A.91 utt1:  Yeah  /
+x          A.91 utt2: <laughter>.   
+
+sd          B.92 utt1:  I like funny movies  /
+sd          B.92 utt2: {C and } I like scary movies. /  
+
+aa          A.93 utt1:  I do too,  /
+sd          A.93 utt2: [ I, + I ] really like a variety. /  
+
+b          B.94 utt1:  Yeah. /  
+
+qw          @@A.95 utt1:  Where are you from? /  
+
+sd          B.96 utt1:  I'm from New York. /  
+
+sd          A.97 utt1:  {F Oh, } I was going to s-, - /
+sd          A.97 utt2: {D well } my husband's from New Jersey,  /
+sd          A.97 utt3: {C and } --   
+
+b          B.98 utt1:  Is he really. /  
+
++          A.99 utt1:  -- we lived there for five years when we first got married -- /  
+
+b          B.100 utt1:  Oh. /  
+
+sd          A.101 utt1:  -- {C and so, } it sound kind of nice,  /
+sd          A.101 utt2: it was familiar <laughter> your accent. /  
+
+b          B.102 utt1:  Yeah,  /
+b          B.102 utt2: yes,  /
+sd          B.102 utt3: it's so close,  /
+sd          B.102 utt4: I'm from Long Island -- /  
+
+b          A.103 utt1:  Oh. /  
+
+sd          B.104 utt1:  -- {C so } that's close, {D you know, }  /
+sd          B.104 utt2: that's --   
+
+b          A.105 utt1:  Right. /  
+
++          B.106 utt1:  -- more related to New Jersey than it is to like Rochester, New York, [ those, + that ] kind of thing. /  
+
+sd          A.107 utt1:  I don't know  ((   ))  up there. /  
+
+b          B.108 utt1:  Yeah,  /
+^2          B.108 utt2: different,  /
+^2          B.108 utt3: [ it's + --   
+
+%          A.109 utt1:  Just, {F uh, } - /
+aa^m          A.109 utt2: different,  /
+aa          A.109 utt3: uh-huh. /  
+
++          B.110 utt1:  -- it's ] different,  /
+%          B.110 utt2: yeah,  /
+h          B.110 utt3: I guess. /  
+
+sd          A.111 utt1:  {D Well, } {D see } the accents up there fascinated me, because even in his family alone, there were several different accents --   
+
+b          B.112 utt1:  Oh. /  
+
++          A.113 utt1:  -- the way they would pronounce words differently. /  
+
+b          B.114 utt1:  Really. /  
+
+sd          A.115 utt1: [ {C And, } + {C and } ] his family, they lived in the same house there,  /
+sd          A.115 utt2: most of them were twenty or so <laughter> {D you know. } /  
+
+b          B.116 utt1:  Really,  /
+sd          B.116 utt2: {C and } they were all from New Jersey. /  
+
+b          A.117 utt1:  Yeah -- /  
+
+b          B.118 utt1:  {F Um. } /  
+
+b          A.119 utt1:  -- uh-huh,  /
+sd          A.119 utt2: {C and } they lived, {D you know, } - /
+sd          A.119 utt3: they never moved into apartments when they were young,  /
+sd          A.119 utt4: they always stayed at home until they got married,  /
+sd          A.119 utt5: it seemed to be the custom up there.  /
+sd          A.119 utt6:  {C Or } they went in the service,  /
+sd          A.119 utt7: {C and so } they were together for all that time <laughter>. /  
+
+b          B.120 utt1:  Really. /  
+
+%          A.121 utt1:  {C But } they still, - /
+sd          A.121 utt2: their accents differed a little in the family -- /  
+
+b          B.122 utt1:  {F Um. } /  
+
+%          A.123 utt1:  -- [ {C so, } + {C and } ] it. -/  
+
+qw          B.124 utt1:  When did you live there? /  
+
+sd          A.125 utt1:  {F Uh, } in the sixties. /  
+
+b          B.126 utt1:  {F Oh, } yeah. /  
+
+sd          A.127 utt1:   ((   ))  I finally. /  
+
+sd          B.128 utt1:  I was in New York in the sixties. /  
+
+b          A.129 utt1:  {F Oh, } yeah.  /
+sd          A.129 utt2:  I converted him to being a Texan.  /
+sv          A.129 utt3: [  I, + I ] just thought life would be,  /
+sd          A.129 utt4: I knew it was easier back here. /  
+
+qy          B.130 utt1:  Are you from Texas? /  
+
+na          A.131 utt1:  {D Well, } sort of.  /
+sd          A.131 utt2:  I'm an Air Force brat,  /
+sd          A.131 utt3: {C but } --   
+
+bk          B.132 utt1:  {F Oh, } yeah, /  
+
++          A.133 utt1:  -- I was real familiar with Texas.  /
+sd          A.133 utt2:  I went to college here  and everything. /  
+
+b          B.134 utt1:  {F Oh, } yeah. /  
+
+sd          A.135 utt1:  {C And } I just thought, {D you know, } we could probably get a better house,  /
+sv          A.135 utt2: {C and } life is a little slower, a little easier. /  
+
+aa          B.136 utt1: [ It is, + it is, ]  /
+aa          B.136 utt2: yeah. /  
+
+sd          A.137 utt1:  He loves it.  /
+sd          A.137 utt2: [  He, + he ] really, would never want to leave,  /
+sd          A.137 utt3: {C so } it worked out. /  
+
+sd          B.138 utt1:  I'm used to it now.  /
+%          B.138 utt2: {C So, } I like. -/  
+
+qy^d          A.139 utt1:  Not hard when you first came. /  
+
+br          B.140 utt1:  {F Um? } /  
+
+qy^r          A.141 utt1:  Was it hard when you first came? /  
+
+ny          B.142 utt1:  {F Oh, } yes  /
+sd^e          B.142 utt2: it was.  Because we're here eighteen years -- /  
+
+ba          A.143 utt1:  {F Oh, } my. /  
+
+sd          B.144 utt1:  -- {C and } you can imagine what Plano was like eighteen years ago. /  
+
+ba          A.145 utt1:  {F Oh, } I know, /  
+
+sd          B.146 utt1:  It was very difficult. /  
+
+^2          A.147 utt1:  {F Oh, } compared to New York, {F oh, }  /
+aa          A.147 utt2: yes. /  
+
+b          B.148 utt1:  Yeah,  /
+sd^r          B.148 utt2: it was very, very difficult.  /
+sd          B.148 utt3:  I didn't even want to talk. /  
+
+qy          A.149 utt1:  Were you all transferred? /  
+
+ny          B.150 utt1:  Yeah -- /  
+
+b          A.151 utt1:  {F Um. } /  
+
+b          B.152 utt1:  -- yeah. /  
+
+sd          A.153 utt1:  I have a friend down the street's from New Jersey  /
+sd          A.153 utt2: {C and } they were, - /
+sd          A.153 utt3: he got a, -/ 

@@ -1,0 +1,313 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2597_1055_1214
+TOPIC#:		315
+DATE:		910413
+TRANSCRIBER:	csw
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+qy^g^t          B.1 utt1:  {D Well, } this is a good subject, isn't it? /  
+
+ny          A.2 utt1:  Yeah. /  
+
+sv^t          B.3 utt1:  <Clicking>  [ It's,  + it's ]  something that you can really talk about. /  
+
+b          A.4 utt1:  Yeah. /  
+
+sd^t          B.5 utt1:  {F Um, } I don't know what we're  going to do about it,  /
+sv^t          B.5 utt2: [ {C but, } +    
+
+b          A.6 utt1:  # Uh-huh. # /  
+
++          B.7 utt1:  # {C but } ] # it's certainly something  that has a lot of things to talk about.  /
+sd          B.7 utt2: {F Um, } {D you know, } when they say the Middle East,   
+
+b          A.8 utt1:  # Uh-huh. # /  
+
++          B.9 utt1:  # it's # such a big area  /
+sd          B.9 utt2:  {C and } there's so many different problems there.  /
+qw          B.9 utt3: {F Uh, }  what do you want to concentrate on. /  
+
+sd          A.10 utt1:  It doesn't matter to me. /  
+
+o          B.11 utt1:  {D Well, } {F uh, } I'll tell you something,  /
+sd          B.11 utt2:  {F um, } [ I, +  I ] have a sister-in-law from Israel, /  
+
+b          A.12 utt1:  # Uh-huh. # /  
+
+sd          B.13 utt1:  # [ {C and, } # +  {C and } ]  they're really quite, {F uh, } arrogant about it all.  /
+sd          B.13 utt2:  [ They, +  they ] believe that [ they, +  they ] belong there  /
+sd          B.13 utt3:  {C and } they've belonged there forever,  /
+sd          B.13 utt4: {C and, } the Palestinians and the Arabs are, {F uh, } more or  less, - /
+sd          B.13 utt5: [ they, +  they ] consider them second class. /  
+
+b          A.14 utt1:  # Uh-huh. # /  
+
+sd          B.15 utt1:  # {D So, } # they're really quite arrogant  about it.  /
+sd          B.15 utt2: [ I don't, +  {F uh, } I don't ] know if that contributes to the problem. /  
+
+qw          A.16 utt1:  {D Well } how did they feel about [ the, +   {F uh, } the ] United States [ interven-, +  intervening ] <barking>  with Patriot missiles,  /
+%          A.16 utt2:  [ did, +  did ] they, -/  
+
+sv          B.17 utt1:  {F Oh, } {F uh, } [ I'm, +  I'm ]  sure this is the one time that the Israelis are really happy to have their big brothers, the Americans, /  
+
+b          A.18 utt1:  # Uh-huh <barking>. # /  
+
+sd          B.19 utt1:  # {C but, } I # didn't really talk about that with her.  /
+sd          B.19 utt2:  [ She, +  {F um, } {F um, } my sister-in-law ] now lives in, {F um, } Switzerland. /  
+
+b          A.20 utt1:  Oh. /  
+
+sd          B.21 utt1:  {C But, } {F um, } when they were living  in Israel, [ it was, +  it was, ] [ the, +  the ] Palestinians, [ they, +  they ] come in an, - /
+sd          B.21 utt2:  {C and } [ they're, +  they're ] nothing but really servants for them,  /
+sd          B.21 utt3: {C and } they really treat them  like second class citizens.  /
+sd          B.21 utt4: [ They, +  they ] don't really want them around  /
+sd          B.21 utt5:  {C but } they like them around because they do all the menial labor and such. /  
+
+b          A.22 utt1:  Uh-huh. /  
+
+sd          B.23 utt1:  {C But } [ they, + they  ] really do,  /
+sd          B.23 utt2:  they look down on them.  /
+%          B.23 utt3:  {C And, } I don't know, being, - /
+sd          B.23 utt4: [ I, +  I ] live in, {F uh, } Vermont  /
+sd          B.23 utt5:  {C and } being up here we pretty much treat everybody, {D you know, } as someone that has merit,  even if they're poor, or if they're Hispanic or if they're black.  /
+sd          B.23 utt6:  We give everybody pretty much the benefit of a doubt because we don't see all the crime  and, all the hurt in the big cities, {D you know. } /  
+
+b          A.24 utt1:  </Barking> Uh-huh. /  
+
+sd          B.25 utt1:  [ I-, + if  I ] lived in Washington, D C  I think I'd have a different attitude about Black people  /
+sd          B.25 utt2: {C because } I've heard that  [ [ [ it, +  it, ] +  the, ] +  they're ] terrible, {D you know, }  /
+sv          B.25 utt3: it's just like it's a dog eat dog world.  /
+sd          B.25 utt4:   {C And } here, {D you know, } [ all, +  all ] my black friends are professionals  /
+sd          B.25 utt5:  {C and } [ [ they're, + they don't, ] +  {D you know, } they don't ] go out and abuse drugs  /
+sd          B.25 utt6: {C and } [ they, +  they ]  send their kids to school  /
+sd          B.25 utt7: {C and } [ [ they, +  they, ] +  they ] {F uh, } {D you know }  really encourage them to go to college and  stuff. /  
+
+b          A.26 utt1:  <Barking>  Uh-huh. /  
+
+sv          B.27 utt1:  {C So } it's just a different world. /  
+
+sd          A.28 utt1:  {D Well } I live in San Antonio  /
+sd          A.28 utt2:  {C and } fifty percent of the population is minority. /  
+
+sd          B.29 utt1:  {F Oh, } {F um, } I talked to someone about San Antonio, /  
+
+b          A.30 utt1:  # Uh-huh. # /  
+
+sd          B.31 utt1:  # {C and, } # {F um, } they said that [ [ they, +   they have, ] +  you have ] quite the problem with, {F uh, } the ghettos,  /
+h          B.31 utt2:  I don't know,  /
+qy          B.31 utt3: do they call it the barrio down there. /  
+
+na          A.32 utt1:  That's the barrios  /
+sv          A.32 utt2: {C but } [ [ [ i-, +  it's, ] +  it's ] +   I don't think it's ] any different of a problem than any other major city.  /
+sv          A.32 utt3:   It's just Hispanics here instead of Blacks. /  
+
+b          B.33 utt1:  Yeah,  /
+sd          B.33 utt2: {C but } I heard that [ [ sa-, +  San ]  Antonio, +  [ [ unlike +  like, ] +  like ] a city like San Diego ] [ it se-, +  it ] just has a really bad problem. /  
+
+sd          A.34 utt1:  I grew up outside of Houston  /
+sv          A.34 utt2:  {C and } [ I don't think, +  {F uh, } as far as gang violence and things, I don't think ] it's any worse here than in Houston. /  
+
+b          B.35 utt1:  Yeah,  /
+o          B.35 utt2: like {D say } Houston.  /
+sv          B.35 utt3: [ {D Now }  I would, +    {D now } me  not even knowing anything about Houston, I would ] think that it's a pretty calm city. /  
+
+ar          A.36 utt1:  Houston is not at all. /  
+
+qy^g          B.37 utt1:  No, {F huh, }  /
+qy          B.37 utt2: there's a lot of crime? /  
+
+ny          A.38 utt1:  Yes  /
+sd^e          A.38 utt2: there's quite a bit of crime. /  
+
+ba          B.39 utt1:  {F Oh, } my, {F um, } - /
+b          B.39 utt2: yeah,  /
+sv          B.39 utt3:  {D like } [ [ I, +  wer-, ] +  we're ] so  protected up here,  /
+sv          B.39 utt4: [ it's, +  it's ] really strange.  /
+sd          B.39 utt5:  {E I mean } our red light district,  {E I mean, } {F uh, } you could go walking around down there and pretty much  not fear for your life, {D you know, } /  
+
+b          A.40 utt1:  # Uh-huh. # /  
+
+sv          B.41 utt1:  # {C and } # we're just so protected.  /
+sd          B.41 utt2:  {C But, } [ [ it's, +  it's, ] +  over in the Mid East,  especially Israel, it's ] just like Israelis have [ a +   {D like } a ] totalitarian system, when it comes to the Palestinians.  /
+sd          B.41 utt3:   {D You know, } the Israelis can do anything they want  /
+sd         B.41 utt4: {C but } when it comes to Palestinians,  if they're out in the street at night, [ it's, +  it's ] really looked on as odd.  /
+sd          B.41 utt5:  {F Um, } usually [ they're, +  they're ] bussed in to [ the, +  the, ] {F um, } Jewish  neighborhoods, and the Jewish cities  /
+sd          B.41 utt6: {C and } then at night they're bussed out to the occupied territories. /  
+
+b          A.42 utt1:  {F Huh. } /  
+
+sd          B.43 utt1:  {C So } they don't have that.  /
+qo          B.43 utt2:  {C But, } {F uh, } what do you think about the mess  [ that's, + ]  we've  created in Iraq? /  
+
+sd          A.44 utt1:  I think it's unfortunate, {F uh, }  as far as the Kurds are concerned,  /
+%          A.44 utt2: it, - /
+%          A.44 utt3:  <<pause>> I thi-, -/  
+
+sv          B.45 utt1:  It's just what do you do for them,  /
+sv          B.45 utt2:  you want to do something for them,  /
+sv          B.45 utt3: {C but } you don't want to get so directly involved  that you're occupying [ the, +  the ] country. /  
+
+aa          A.46 utt1:  Yeah,  /
+aa          A.46 utt2: yeah,  /
+sv          A.46 utt3: we can't get involved  in their civil war, {F um, } unfortunately,  /
+sv          A.46 utt4: {C but } we've kind of driven these people out. /  
+
+aa^2          B.47 utt1:  To do it,  /
+aa          B.47 utt2: yeah,  /
+sd          B.47 utt3: {C but } you see  President Bush is telling them rebel, {D you know, } {F uh, } uprise.  /
+sd          B.47 utt4:  {C And } that's what they did  /
+sd          B.47 utt5:  {C and } now they're {D like } asking him for help  /
+sd(^q)          B.47 utt6: {C and } he's like, no we can't get involved.  /
+sd          B.47 utt7:   What my husband had very strong feelings, - /
+sd          B.47 utt8: he, {F uh, } agreed with, {F um, }  the General Schwartzkopf,  /
+sd          B.47 utt9: he said, {F um, } [ he should have let, +  Bush should have let ] him finish his job. /  
+
+ba          A.48 utt1:  Sure. /  
+
+sd          B.49 utt1:  [ He should, +  he should ]  have let them, {F um, } corner the Republican Guards, /  
+
+sv          A.50 utt1:  {D Well } I think the war ended too soon. /  
+
+aa          B.51 utt1:  Yeah,  /
+aa          B.51 utt2: exactly,  /
+sd          B.51 utt3: that's what everyone says. /  
+
+b          A.52 utt1:  Yeah. /  
+
+sd          B.53 utt1:  [ E-, +  everyone ] I talk to, they says,  {D you know, } - /
+sv          B.53 utt2: it's real easy to say that. /  
+
+sv          A.54 utt1:  [ We, +  we ] didn't damage enough of their arsenal.  /
+sd          A.54 utt2:   We damaged most of it  /
+sv          A.54 utt3: {C but } [ we, +  we ] should have [ gotten, +   made ] sure we got everything. /  
+
+aa          B.55 utt1:  Yeah,  /
+sv          B.55 utt2: I don't think the higher ups  were thinking about [ wh-, +  what ] this guy's going to do with the rest of his war machine.  /
+sv(^q)          B.55 utt3:  They're going, {F oh, } {D well } it's not going to hurt us   /
+^q          B.55 utt4: {C so } we're just going to let them go,  /
+sv          B.55 utt5:  {C but } really we didn't think about the people that he was going, tr-, - /
+%          B.55 utt6:  {C and } {E I mean, } [ he, + he's ] just, -/  
+
+sd          A.56 utt1:  Unfortunately though, [ the, +  the ]  original goal of the mission was to drive them out of Kuwait.  /
+sd          A.56 utt2:   {C And } once that was accomplished <<pause>> it, -/  
+
+sd          B.57 utt1:  [ [ [ They, + {D yeah, }  they, ] +  they did, ] +   they stuck ] right to their goals, /  
+
+b          A.58 utt1:  # Yeah. # /  
+
+%          B.59 utt1:  # {C and } #  right,  /
+sd          B.59 utt2:  what they were going to say.  /
+sd          B.59 utt3:  {C And } the American people, when this first started, they were even reluctant to let them do that. /  
+
+b          A.60 utt1:  Yeah. /  
+
+sv          B.61 utt1:  {D So } [ they were, +  they were ]  playing it very safe,  /
+sv          B.61 utt2: {C but, } {D you know, } it, [ an ounce +  what do they say, an ounce ] of hind sight is worth, whatever. /  
+
+b          A.62 utt1:  # Yeah. # /  
+
+sd          B.63 utt1:  # [ [ [ [ [ Th-, +  # they, ] +  I don't know, they, ] +   it, ] +   Schwartz-, ] +  Schwartzkopf ] knew what had to be done  /
+sv          B.63 utt2: {C and } it's too bad that he  just didn't have the ability just to do it, [ to + ] {D you know, } [ the, +  {F uh, } the ] go ahead to do it. /  
+
+b          A.64 utt1:  Yeah. /  
+
+%          B.65 utt1:  {C Because } he had the fu-, - /
+sd          B.65 utt2:  he knew what was going to happen, more than any of us.  /
+sd@          B.65 utt3: {C Because } I didn't realize that, {F um, }  /  *[[slash error: utt3 and 4 as one]]
+sd          B.65 utt4:  it was going to make such a mess.  /
+sd          B.65 utt5:  {E I mean } I feel really sorry for these people,  /
+sd          B.65 utt6:  these people are middle class people, just like us.  /
+qh          B.65 utt7:   Can you imagine if someone started bombing your neighborhood, /  
+
+b          A.66 utt1:  # Yeah. # /  
+
+qh          B.67 utt1:  # {C and } # you knew this,  /
+sd          B.67 utt2:  these people are going to come  /
+sd          B.67 utt3: {C and } if you were in your house they were going to take you and beat   you.  /
+sv          B.67 utt4: Of course, you're [ going, +  just going ] pick everything up that you can carry  /
+sv          B.67 utt5:  {C and } you're going to run. /  
+
+b          A.68 utt1:  Uh-huh. /  
+
+sv          B.69 utt1:  {C And } [ it, + it's  ] just too bad  that we couldn't see that. /  
+
+sv          A.70 utt1:  I just have a feeling that the military  involvement isn't over yet. That [ I, +    I ] still feel like there's more to come.  /
+sv          A.70 utt2:   I don't think this whole issue is settled as far as we're concerned. /  
+
+qh          B.71 utt1:  {D Well } you know what I was hoping?  /
+sd          B.71 utt2:  I was hoping Iran was going to take a very, {F um, } dramatic stand and invade,  {D you know, }  /
+sd          B.71 utt3: {C and then } {D like } Iran's the big bad guy, {D you know, }  /
+%          B.71 utt4:  {C but, } really, [ if, +  if ]  they were going to save people's lives, -/  
+
+sd          A.72 utt1:  They've got sixty or so of Iraq's planes. /  
+
+aa          B.73 utt1:  Yeah,  /
+aa          B.73 utt2: I know,  /
+sv          B.73 utt3: it's like they were using  them as friends when we were having the conflict  /
+sd          B.73 utt4: {C but, } [ [ I, +  I, ] +   {D you know, } I ] almost swear,  I'm kind of disappointed with the Iranians,  /
+%          B.73 utt5: why they didn't go save, - /
+%          B.73 utt6: {E I mean, }   I don't know if the Kurdish, - /
+sd          B.73 utt7: I know the Shiite's are their people. /  
+
+b          A.74 utt1:  Uh-huh. /  
+
+h          B.75 utt1:  {C But, } I don't know,  /
+sv          B.75 utt2:  I think they have a bond with [ the, +  the ] Kurds. /  
+
+sd          A.76 utt1:  There are some Kurds living in Iran. /  
+
+b          B.77 utt1:  Yeah,  /
+sv          B.77 utt2: [ I, +  I ]  think they should have just done more, {F uh,  }  /
+sv          B.77 utt3:  {C and } maybe if the world could have given them some type of aid.  /
+sv          B.77 utt4:   [ It's,  + it's ] just so complicated. /  
+
+sd          A.78 utt1:  I was real surprised that Israel  stayed out of it [ as, +  as ] much as they did. /  
+
+b          B.79 utt1:  {F Oh, } yeah,  /
+%          B.79 utt2: {D well, } you, - /
+%          B.79 utt3: knowing them,  they're very, {F um, } {F oh, } - /
+h          B.79 utt4: I don't know,  /
+sd          B.79 utt5:  almost compare them to a very egotistical man. /  
+
+b          A.80 utt1:  Uh-huh. /  
+
+aa          B.81 utt1:  You're damn right,  /
+sd          B.81 utt2: I'm going to protect  my family, {D you know, }  /
+sd          B.81 utt3: {C so, } [ I, +  I ] was amazed too.  /
+sd          B.81 utt4: [ I was really, +  I was really, ]  {F um, } proud of them, though, that they stayed out of it.  /
+%          B.81 utt5:  {C But, } -/  
+
+b          A.82 utt1:  Yeah,  /
+sv          A.82 utt2: [ it +  {C and } [ from, +  from ]  what I can tell if they had gotten into it, it ]  would have started a whole new war. /  
+
+b          B.83 utt1:  {F Oh }  ((   ))  yeah,  /
+%          B.83 utt2: [ I  was, + I ] - /
+sd          B.83 utt3:   that part scared me.  /
+sd          B.83 utt4:  [ That, +  that, ]   {F um, } the  Egyptians would pull out  /
+sv          B.83 utt5: {C and } I just saw atomic bomb, / 

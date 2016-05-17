@@ -1,0 +1,460 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2275_1115_1026
+TOPIC#:		339
+DATE:		910326
+TRANSCRIBER:	GL
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	0
+BACKGROUND_B:	0
+REMARKS:        None.
+
+=======================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+sd          A.1 utt2: {D well, } I can tell you pretty much my two favorite shows -- /  
+
+b          B.2 utt1:  Okay. /  
+
+sd          A.3 utt1:  -- {C and } they kind of are in different spectrums, I think.  {F Um, }  /
+sd          A.3 utt2: one of them is QUANTUM LEAP -- /  
+
+b          B.4 utt1:  Okay. /  
+
+sd          A.5 utt1:  -- {C and } the other one is NIGHT COURT.  /
+sd          A.5 utt2:  {C And } [ I think, + I think ] they're real different, {E I mean, }  /
+sd          A.5 utt3: I don't think they have anything in common, /  
+
+x          B.6 utt1:  <Laughter>.   
+
+sd          A.7 utt1: {F um, } [ QUANTUM, LEAP has, + {E I mean } QUANTUM LEAP is ] kind of a comedy in its own way, I guess,  /
+sd          A.7 utt2: {C but, }  {F uh, } mostly [ it's, + it's ] kind of science fiction,  /
+sd          A.7 utt3: {C and, } [  it's, + {F um, } it's ] adventure and things like that -- /  
+
+b          B.8 utt1:  Uh-huh. /  
+
+sd          A.9 utt1:  -- {C and then } NIGHT COURT is just pure, {D you know, } weird fun, {D you know, }  /
+sd          A.9 utt2: [ just, it's, + it's ] nothing serious about it at all.  /
+sd          A.9 utt3:  {C So, }   I don't know why the two of them happen,   
+
+x          B.10 utt1:  <Laughter>.   
+
++          A.11 utt1:  to be my two favorite shows,  /
+sd          A.11 utt2: {C but } [ they, + that's ] the way it is,  /
+%          A.11 utt3: {C so. } -/  
+
+sv          B.12 utt1:  It's funny that those are [ my two, + my  husband's two ] favorite shows, too, /  
+
+x          A.13 utt1:  <Laughter>.   
+
+sd          B.14 utt1:  {C and } I enjoy [ both, + watching both ] of them,  /
+sd          B.14 utt2: {C but } I used to didn't like NIGHT COURT -- /  
+
+b          A.15 utt1:  Uh-huh. /  
+
+%          B.16 utt1:  -- {C and } I, - /
+sd          B.16 utt2: {C and } the only reason I think I like it now is because I've seen it so much  /
+sd          B.16 utt3: {C and } I'm involved with the characters,  /
+sd          B.16 utt4: {C but, }     
+
+x          A.17 utt1:  <Laughter>.   
+
++          B.18 utt1:  I used to think, {F um, } Dan Fielding was just [ too, + too ] vulgar and too crude for me. /  
+
+sd          A.19 utt1:  He is <laughter>. /  
+
+sd          B.20 utt1:  {C And } I told my husband, that's the whole point,  /
+%          B.20 utt2: {C but } <laughter> -- -/  
+
+b          A.21 utt1:  Yeah,  /
+ba          A.21 utt2: that's right,  /
+%          A.21 utt3: {E I mean, } -/  
+
+%          B.22 utt1:  -- [ I, + I ] just, - /
+%          B.22 utt2: it's, - /
+sd          B.22 utt3: I find him degrading at times.  /
+sd          B.22 utt4:  I guess that is the point,  /
+%          B.22 utt5: {C but } sometimes it just, -/  
+
+sd          A.23 utt1:  {D Well, } [ they, + they ] really have changed him though.  /
+sd          A.23 utt2: [ If, + If ] you've watched it this season, {F um, } [ he's becoming, + {E I mean, } he still is ] in his own way degrading and everything,  /
+sd          A.23 utt3: {C but, }  {F uh, } he's involved in that charity,  /
+sd          A.23 utt4: {C and, }  {F uh, } it's taking up so much of his time and so much of his thought, that he really has, - /
+sd          A.23 utt5: in fact, there was one show that he even turned down a date with some, {D you know, } beautiful woman just because the idea that [ he  was, +  his mind ] was on the ozone layer --    
+
+b          B.24 utt1:  Oh. /  
+
++          A.25 utt1:  -- and,  {D you know, } global warming and all this other kind of stuff.  /
+sd          A.25 utt2:  {C And } he, {D you know, } was too depressed, {D you know, } to, - /
+sd          A.25 utt3: {C so } that was part of, I guess, his character building or whatever,  /
+%          A.25 utt4: {C but, } -/  
+
+sv          B.26 utt1: I think it [ adds a, + probably adds a ] little bit of depth to his character.  /
+sd          B.26 utt2: I haven't watched, {F um } -- -/  
+
+sv          A.27 utt1:  Which of course he needed <laughter>. /  
+
+aa          B.28 utt1: -- yeah,  /
+sd          B.28 utt2: I think so,  /
+sv          B.28 utt3: which in QUANTUM LEAP you get - /
+sv          B.28 utt4: even though the person is involved in so many other people's lives,  you still see [ a, + a ] real person in those situations.  /
+sv          B.28 utt5: [ He gets, + {F um, } he's ] doing amazing things -- /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sv          B.30 utt1:  -- {C but } he's doing them within the bounds of what a normal person would do -- /  
+
+b          A.31 utt1:  Right,  /
+b^r          A.31 utt2: right,  /
+ba          A.31 utt3: that's a good point, /  
+
+%          B.32 utt1:  -- {C and } I think that's, - /
+sv          B.32 utt2: I like that. /  
+
+qw          A.33 utt1:  {D So } [ what do you, + what do you ] consider your favorite shows? /  
+
+sd          B.34 utt1:  {F Um, } I think my favorite show is HUNTER. /  
+
+b          A.35 utt1:  Okay. /  
+
+sd          B.36 utt1:  {C And, } [ I, + I ] like the old [ ser-, + series ] better when, {F um } --   
+
+^2          A.37 utt1:  Dede, /  
+
++          B.38 utt1:  -- Dede was in there.  /
+aa          B.38 utt2:  Yeah -- /  
+
+aa          A.39 utt1:  Yeah,  /
+aa          A.39 utt2: I agree. /  
+
+sd          B.40 utt1: -- [ [ {C and, } + {F um, } {C so, } ] + {F uh, } {F uh, } {C and then } ] the blond that they took out, the one that got killed -- /  
+
+b          A.41 utt1:  Yeah,  /
+sd          A.41 utt2: I can't remember what her name is,  /
+%          A.41 utt3: {C but } is, -/  
+
+b          B.42 utt1:  -- yeah,  /
+sd          B.42 utt2: I didn't enjoy her.  /
+%          B.42 utt3: [ I, + I, ] - /
+sv          B.42 utt4: she was too much of a opposite of Dede,  /
+sv          B.42 utt5: {C and } I think that's what they try to do,  /
+sv          B.42 utt6: {C but } I think we wanted to see Dede there --   
+
+b          A.43 utt1:  Uh-huh. /  
+
++          B.44 utt1:  -- or somebody like her. /  
+
+sd          A.45 utt1:  {D Well, } {C but, }  {D see } I read an article [  about, +  in T V GUIDE [ about, +  {F uh, } about ] ] HUNTER, and about [ his,  {D you know, }   latest, +  {D you know, } his ] three girls, whatever you want to call them -- /  
+
+b         B.46 utt1:  Uh-huh. /  
+
+sd          A.47 utt1:  -- {C and } they say that, {F uh, } [ that there was abso-, + that there was {D like } a conflict ] between her and him, {F uh, } that they never really could get her into, {F uh, } any character that they could use.  /
+%          A.47 utt2:  {E I mean, } {D you know, } {F uh } -- -/  
+
+qy^d          B.48 utt1:  The second lady? /  
+
+ny          A.49 utt1:  -- yeah,  /
+sd^e          A.49 utt2: the second one --   
+
+b          B.50 utt1:  Uh-huh. /  
+
++          A.51 utt1:  -- the blond -- /  
+
+b          B.52 utt1:  Yeah, /  
+
+sd          A.53 utt1:  -- {D you know, } if you think about it, they didn't really interact hardly at all -- /  
+
+aa          B.54 utt1:  They didn't. /  
+
+sd          A.55 utt1:  -- {E I mean, } they were never partners. /  
+
+b          B.56 utt1:  Yeah,  /
+sd          B.56 utt2: she would go her way,  /
+sd          B.56 utt3: {C and } --   
+
+b          A.57 utt1:  Yeah. /  
+
++          B.58 utt1:  -- he would do his, - /
+sd          B.58 utt2: {C and } I think that's what I didn't like. /  
+
+sd          A.59 utt1:  [ [ {C And, } +  {C and, } ] +  {C and } ] [ even, + even ] at the beginning Dede [ and, + and ] Hunter would decide that one of them would go do this, while the other one [ would do, + would go ] this,  /
+sv          A.59 utt2: {C but, }  {F uh, } it seemed like it was almost two different organizations --   
+
+b          B.60 utt1:  Uh-huh. /  
+
++          A.61 utt1:  -- {D you know, }  /
+ sd         A.61 utt2: {D like } Hunter was the boss,  /
+sd          A.61 utt3: {C and } this other girl was not,  /
+sv          A.61 utt4: {C and, } {D you know, } [ you kind of, + you're wondering, ] {D you know, } {D well } when did this happen? /  
+
+b          B.62 utt1:  Right. /  
+
+aa          A.63 utt1:  {C So, }  yeah,  /
+sv          A.63 utt2: [ I, + I ] kind of agree with that. /  
+
+sd          B.64 utt1:  {C And } I like the new lady better,  /
+sd          B.64 utt2: {C but } I'd just as soon that they didn't have the romance there.  /
+sd          B.64 utt3:  I'd just as soon have [ the, + the ] police story without all the romance. /  
+
+sv          A.65 utt1:  {D Well, } I'm afraid that's what [ they, + they ] really wanted to do, {F um, } /  
+
+b          B.66 utt1:  Yeah,  /
+sv          B.66 utt2: I think most shows were doing that,  /
+sv          B.66 utt3: {C and then } they went away from it -- /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sv          B.68 utt1:  -- {C and } now they're starting to go back to it,  /
+sv          B.68 utt2: {C and } maybe that's what the public wants,  /
+h          B.68 utt3: I don't know,  /
+sd          B.68 utt4: {C but } [ I just, + I like ] [ the, + the ] cut and dry solve the mystery,  /
+sd          B.68 utt5: {C and } that's what I always enjoyed about it. /  
+
+b          A.69 utt1:  Yeah,  /
+sd          A.69 utt2: {D well, } {D see, } there was that spark between Dede and Hunter for a while -- /  
+
+b          B.70 utt1:  Yeah. /  
+
+sd          A.71 utt1: -- {C but } [ they, + they ] {D like } started it,  /
+sd          A.71 utt2: {C and then } they'd pull it back,  /
+sd          A.71 utt3: {C and } they'd start it and pull it back.  /
+sv          A.71 utt4: {C And } that really made it a very interesting, {F uh, } show to where you never really knew [ which, + which ] one was going to show up.  {D You know, } whether it was going to, where they're going to be real close or whether they're just going to be partners, {D you know } -- /  
+
+b          B.72 utt1:  Uh-huh. /  
+
+sv          A.73 utt1:  -- {C And, } [ that, + that ] I kind of thought was good,  /
+%          A.73 utt2: {C but, }  {F um, } {D you know, } it's, I guess, {D you know, } - /
+sv          A.73 utt3: you always kind of sit there  /
+sd          A.73 utt4: {C and } you see these two people together,  /
+sv          A.73 utt5: {C and } you always wonder, why they don't, {D you know, } get together --   
+
+b          B.74 utt1:  Yeah. /  
+
++          A.75 utt1:  -- or whatever.  /
+sv          A.75 utt2:  {C And so } I guess that's what they decide to do -- /  
+
+^2          B.76 utt1:  Just go ahead and --   
+
+aa          A.77 utt1:  -- Yeah. /  
+
++          B.78 utt1:  -- quit the wondering  /
+%          B.78 utt2: [ {C and, } +  {C and, } ] -/  
+
+sv          A.79 utt1:  {C But } [ it's, + it's ] always been a formula, {F uh, } for T V [ that the minute that two people, + that the two main stars ] get married, that the show ends up, {D you know, } dying. /  
+
+b          B.80 utt1:  Yeah. /  
+
+sv          A.81 utt1: [ A, + a, ] good example of [ this, and, +  {D you know, } this ] is probabl-, - /
+h          A.81 utt2: maybe it's not a good example.  /
+sd          A.81 utt3:  I've been watching Nickelodeon all last week, because they had what they called MAXIMUM SMART.  /
+sd          A.81 utt4: They had GET SMART for, {F uh, } ten hours a day, from seven o'clock at night, until six or until five o'clock the next morning.    
+
+b          B.82 utt1:  Oh. /  
+
++          A.83 utt1:  All the GET SMART episodes you could ever see.  /
+sd          A.83 utt2:  {D Well, } [ the, + the ] last day, all they did was the last season, to where the two of them got married -- /  
+
+b          B.84 utt1:  Uh-huh. /  
+
+sd          A.85 utt1:  -- {C and } [ that was, + {E I mean, } that was ] the killer,  /
+sd          A.85 utt2: the series died right after that,    
+
+sd          B.86 utt1: [ I didn't, +   
+
++          A.87 utt1:  because, - /
+ad          A.87 utt2: {D well } go ahead. /  
+
++          B.88 utt1:  I was going to say, I didn't ] ever watch MOONLIGHTING,  /
+sd          B.88 utt2: {C but } I heard that's what killed it -- /  
+
+b          A.89 utt1:  Uh-huh,  /
+sv          A.89 utt2: same thing. /  
+
+sv          B.90 utt1:  -- that, {F uh, } interplay died when they got married,  /
+sv          B.90 utt2: {C and so } the show died. /  
+
+b          A.91 utt1:  Yeah,  /
+%          A.91 utt2: the, - /
+sv          A.91 utt3: it seems like you can do so much more of the subtle hints and  the subtle little plays on things [ [  before they, + they, ] + before they ] get married --   
+
+ b         B.92 utt1:  Uh-huh. /  
+
+  +        A.93 utt1:  -- {D you know, }  /
+  sv        A.93 utt2: the minute they get married, everything's supposed to be cut and dried  /
+  sv        A.93 utt3: [ {C and } -- +   
+
+  b        B.94 utt1:  Right. /  
+
+ +         A.95 utt1:  -- {C and, } ]  {D well, } of course, another one of their mistakes, I think, is they have a tendency to change characters, or to change the characters', {F uh, } {F uh, } personalities --   
+
+ ^2         B.96 utt1:  Halfway through, /  
+
+ +         A.97 utt1:  -- {D well, } especially after they get married. /  
+
+b          B.98 utt1:  Yeah. /  
+
+sd          A.99 utt1:  {F Um, } couple of examples would be, {F um, } {D well, } like I said, this one about [ Max S-, + {E or } Get Well Smart, ] the female character, Barbara Feldon -- /  
+
+b          B.100 utt1:  Uh-huh. /  
+
+ sd         A.101 utt1:  -- she had been at the beginning [ the, + the ] intelligent one, [ the, + the ] one who always solved the things [ and, + and ] figured out and kept Max from getting real messed up.  /
+sd          A.101 utt2: {D Well, } in short, whenever they got married, she got dingy. /  
+
+b          B.102 utt1:  Oh. /  
+
+bh          A.103 utt1:  {D You know, } why would they do that? /  
+
+b          B.104 utt1:  Yeah. /  
+
+sv          A.105 utt1:  It made no sense. /  
+
+sv          B.106 utt1: [ I, + I'm ] guess it's falling back into our traditional stereotype which a lot of shows -- -/  
+
+ba          A.107 utt1:  Unfortunately, that's probably true. /  
+
+b          B.108 utt1:  -- yeah,  /
+%          B.108 utt2: which kind of, - /
+sd          B.108 utt3: like in the big soap opera shows, which I don't enjoy because of that,  /
+%          B.108 utt4: {C but, } -/  
+
+qy          A.109 utt1:  {D Well, } do you you watch, {F um, } {A what is that show, } WHO'S THE BOSS?  /
+sd          A.109 utt2: [  That's, + {F uh, } that's ] on Tuesday nights I think. /  
+
+sd          B.110 utt1:  I've seen it before,  /
+sd          B.110 utt2: {C but } I don't watch it regularly. /  
+
+b          A.111 utt1:  Yeah,  /
+sd          A.111 utt2: {D well, } [ I -- +   
+
+sd          B.112 utt1:  Usually Tuesday nights I'm out,  /
+%          B.112 utt2: {C so. } -/  
+
++          A.113 utt1:  -- I ] hardly ever watch it,  /
+sd          A.113 utt2: {C but, } [ as, + as ] I've seen it, [ they've, + they've ] done sort of the same thing to where [ they've, + they ] started to let them get together,  /
+sd          A.113 utt3: {C and then } they pulled them apart -- /  
+
+b          B.114 utt1:  Uh-huh. /  
+
+sv          A.115 utt1:  -- {C and } I think they're thinking about that exact thing, about the idea that if the show lets them, {F uh, } get together, then you lose part of what the show's all about. /  
+
+b          B.116 utt1:  Uh-huh. /  
+
+sd          A.117 utt1:  {C So. }   I always thought that was kind of weird. /  
+
+b          B.118 utt1:  Yeah,  /
+sd          B.118 utt2: it's funny how [ [ we, + {F uh, } we, ] + we ] romanticize people -- /  
+
+b          A.119 utt1:  Uh-huh. /  
+
+sd          @@B.120 utt1:  -- {D like, }  for instance, where as the teenager, {D you know, } you [ romance a, + romanticize a ] rock star,  /
+sd          @@B.120 utt2: {C but } when he gets married, then you don't care any more --   
+
+b          A.121 utt1:  {F Um, } right. /  
+
++          B.122 utt1:  -- or something like that,  /
+sv          B.122 utt2: {C and } I think it's the same with your characters on T V. /  
+
+qy          A.123 utt1:  Do you think that's why most rock stars nowadays keep their marriages secret, or at least they keep it quiet. /  
+
+na          B.124 utt1:  Probably,  /
+ny          B.124 utt2: yeah -- /  
+
+%          A.125 utt1:  {E I mean, } -/  
+
+sd          B.126 utt1: -- I know it affected me when I was younger.  /
+sd          B.126 utt2:  I'm not into rock stars --   
+
+b          A.127 utt1:  Yeah. /  
+
++          B.128 utt1:  -- too much lately,  /
+%          B.128 utt2: {C but } <laughter>, -/  
+
+aa          A.129 utt1:  No,  /
+sd          A.129 utt2: like Madonna and Sean Penn.  /
+sd          A.129 utt3: {D Now } I don't particularly like either one of them -- /  
+
+b          B.130 utt1:  Uh-huh. /  
+
+sv          A.131 utt1:  -- {C but, }  {F um, } {F uh, } their marriage was so highly publicized that there was no way that they could stay together -- /  
+
+b          B.132 utt1:  Yeah. /  
+
+sd          A.133 utt1:  -- {C or } at least, that's the way I look at it. /  
+
+b          B.134 utt1:  Uh-huh -- /  
+
+ h         A.135 utt1:  {C So } I don't know, /  
+
+sv          B.136 utt1:  -- it would have been hard,  /
+qy^g          B.136 utt2: wouldn't it. /  
+
+ny          A.137 utt1:  Yeah,  /
+sd^e          A.137 utt2: I would think so. /  
+
+sd          B.138 utt1:  I just, [ the, + the ] publicity in and of itself, much less the, {E I mean, } - /
+sd          B.138 utt2: when you get married you've got relationship to develop in the first place,  /
+sd          B.138 utt3: {C so, } having twenty million people watch you do that <laughter>. -/  
+
+b          A.139 utt1:  Yeah,  /
+%          A.139 utt2: it's, - /
+sv          A.139 utt3: they wouldn't be easy. /  
+
+b          B.140 utt1:  Yeah. /  
+
+ba          A.141 utt1:  {D So, }  {F um, } {D well } that's kind of interesting. /  
+
+b          B.142 utt1:  Yeah. /  
+
+qy^g          A.143 utt1:  {D So, }  {F um, }  {D well } I guess that's about all we need to do, isn't it. /  
+
+ny          B.144 utt1:  Yeah,  /
+sv^e          B.144 utt2: I think we've covered our time. /  
+
+x          A.145 utt1:  <Laughter>.   
+
+fc          B.146 utt1:  It's been good talking to you. /  
+
+fc          A.147 utt1:  Yeah,  /
+fc          A.147 utt2: it has been, Becky,  /
+fc          A.147 utt3: I really appreciate it. /  
+
+sd^t          B.148 utt1:  You're the first man I've talked to,  /
+sd^t          B.148 utt2: everyone else has been a female,  /
+sd^t          B.148 utt3: {C so } this is a  change. /  
+
+ %         A.149 utt1:  {D Well, } I think I've, {F um, } - /
+sd^t          A.149 utt2: you're the second female I've talked  to. /  
+
+sv^t          B.150 utt1:  You've had a little bit of variety, {F huh. } /  
+
+aa          A.151 utt1:   Yeah,  /
+sd          A.151 utt2: it's kind of nice <laughter>. /  
+
+b          B.152 utt1:  Okay <laughter>,  /
+ft          B.152 utt2: {D well, } thanks so much. /  
+
+fw          A.153 utt1:  Uh-huh. /  
+
+fc          B.154 utt1:  Bye-bye. /  
+
+fc^m          A.155 utt1:  Bye-bye. / 

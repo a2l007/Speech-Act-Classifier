@@ -1,0 +1,388 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2617_1005_1027
+TOPIC#:		328
+DATE:		910416
+TRANSCRIBER:	csw
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	Very minor single dots of static on Caller A's part.
+
+=============================================================================
+  
+
+sd          A.1 utt1:  {F Uh, } I have, {F uh, } I guess a lot of  thoughts about the Vietnam War, {F um, }  /
+sd          A.1 utt2: [ I, +  I ] guess I feel like I was pretty young while it  was going on  /
+sd          A.1 utt3: {C and so } there's probably a lot of things I remember  and  a lot of things that I really didn't have a clue as to what was happening. /  
+
+b          B.2 utt1:  Yeah. /  
+
+sv          A.3 utt1:  {F Um, } looking back, {D like }  maybe some of the things that  I know now, [ I, + I'm ] not sure I do believe it was worth the cost  in dollars and lives.  /
+sd^t          A.3 utt2: That was one of the questions that she asked us to think about,  /
+sd          A.3 utt3:  [ {C because } I, + {C because } we ] never went to war.  /
+sv         A.3 utt4: I don't think we were committed  to winning it and getting out  /
+sv          A.3 utt5: {C and } [ I, +    
+
+b          B.4 utt1:  # Right. # /  
+
++          A.5 utt1:  # I ] # feel like it went on and on.  /
+sd          A.5 utt2:   {C And } [ I, +  I ] guess I see such a contrast like as opposed to the Middle East War we just had,  where President Bush went out and got worldwide support [ for, +  for ]  what was happening. /  
+
+b          B.6 utt1:  Right. /  
+
+sd          A.7 utt1:  {D You know, } I just feel like  maybe we went in to be policeman  /
+sv          A.7 utt2: {C and } I'm not sure that's our role,  /
+%          A.7 utt3: {C but. } -/  
+
+aa          B.8 utt1:  Yeah,  /
+aa         B.8 utt2: [ I, +  I ] agree with that,  /
+sd          B.8 utt3: [ I was, +   I was ] fairly young at the time too,  /
+sd          B.8 utt4: [ I, +  I ] really don't have very many memories about it at all, in fact. /  
+
+b          A.9 utt1:  # Uh-huh. # /  
+
+sd          B.10 utt1:  # {C And, } # {F uh, }  my husband is  a Vietnam veteran  /
+%          B.10 utt2: {C and } [ [ i-, +  {D you know, } he ] + in looking at the Persian Gulf war that just went on, he, ] - /
+sd          B.10 utt3:  [ i-, +  it ] frustrates him because of the support that they have and  the support that the Vietnam vets did not have, from the people or the administration, either one. /  
+
+qy          A.11 utt1:  <Static> <<dots of static throughout paragraph>>  Don't you think that maybe that's why we had it this time?  /
+sv          A.11 utt2:  {E I mean } I do think that, [ [ i-, +  i-, ] +  it's ] been too long in coming  /
+sv          A.11 utt3: {C but } I feel like maybe  the American people [ and, +  and ] the government are aware of the things that we  did wrong that we didn't support [ [ that </static>, +    
+
+b          B.12 utt1:  # Right. # /  
+
++          A.13 utt1:  # that # ] +  those, ]  /
+sd          A.13 utt2: so many people were  opposed to the war,  /
+sd          A.13 utt3: what it translated into was they were opposed to the folks  that were there fighting it  /
+sd          A.13 utt4: {C and } those guys were there doing their duty. /  
+
+aa          B.14 utt1:  That's right,  /
+sv          B.14 utt2: {E I mean, } they weren't  there by choice  /
+%          B.14 utt3: [ {C and, } +  {C and, } ] -/  
+
+b          A.15 utt1:  Yeah,  /
+sv          A.15 utt2: {C and } [ I, +  I ]  think that we learned from that  /
+sv          A.15 utt3:  {C and } I think [ it, +  it's ] one of those things that you learn the hard way.  /
+sv          A.15 utt4:   It was a tragic mistake, /  
+
+b          B.16 utt1:  # Right. # /  
+
+sv          A.17 utt1:  # the # way that they have been treated  over the years [ and + ] I believe that's just now turning around.  Just now, {D you know, }  trying to be rectified  /
+sv          A.17 utt2: [ {C and } I'm, +  {C and } I'm ] not sure you can undo the  damage that was done emotionally,   
+
+b          B.18 utt1:  # Right. # /  
+
++          A.19 utt1:  # on # so many of the people. /  
+
+aa          B.20 utt1:  No,  /
+aa          B.20 utt2: I don't think you can  /
+sv          B.20 utt3:  {C and } [ I, +  I ] agree with you that   [ I, + I ] think that [ the, +  the ] time difference between the two  wars has allowed a lot of people to see the mistakes that were made [ [ in, +  in, ] +  in ]  every aspect of it  /
+sv          B.20 utt4: {C and } [ I, +  I ] agree with you also, that I feel like it was not worth the  money spent or the lives lost to fight that war.  /
+sv          B.20 utt5:  {E I mean } they're still not settled over there. /  
+
+aa          A.21 utt1:  No,  /
+aa          A.21 utt2: they're not. /  
+
+sv          B.22 utt1:  {C And } I have a feeling that the Persian  Gulf crisis is going to be the same way. /  
+
+b          A.23 utt1:  Yeah. /  
+
+sv          B.24 utt1:  I think we're going to end up back there  in a few years [ or, + ] [ if, + if ] not sooner. /  
+
+%          A.25 utt1:  {D Well } [ I, + I ] appreciate the fa-, - /
+sv          A.25 utt2:  I feel {D like } President Bush is in a hard spot.  /
+sd          A.25 utt3: He went over there to get them out of Kuwait, which he did. /  
+
+b          B.26 utt1:  # Uh-huh. # /  
+
+sd          A.27 utt1:  # {C And # then } he has backed out,  /
+sd          A.27 utt2:  he has pulled out.  /
+sd(^q)          A.27 utt3:  {C And } I realize they're still saying, {D well } here you're encouraging  us to get rid of Saddam Hussein,  /
+^q          A.27 utt4: {C so } why aren't you helping us?  /
+sv          A.27 utt5: {C And } {D you see, }  I think him going in and doing that would be putting us in another Vietnam situation. /  
+
+aa          B.28 utt1:  I think it would too. /  
+
+sv          A.29 utt1:  {C And } I don't think the U S will  stand for it.  /
+sv          A.29 utt2: I don't think he would do that, /  
+
+aa          B.30 utt1:  # No, # /  
+
+sv          A.31 utt1:  # {F uh, } # I think we learned too much --   
+
+aa          B.32 utt1:  Yeah,  /
+aa          B.32 utt2: I agree with that. /  
+
++          A.33 utt1:  -- of the effects.  /
+sv          A.33 utt2: {F Uh, }  {D you know } whether it was justified or not, I know, that they probably felt like we were going  in for a good cause.  /
+sv          A.33 utt3: [ I, + I ] feel like  maybe they felt like we were doing the right  thing to try and help maintain the democracy over there [ and, +   
+
+b          B.34 utt1:  # Uh-huh. # /  
+
++          A.35 utt1:  # and ] # beat the communism,  /
+sv          A.35 utt2: [ {C but, } +   {C but } ] I think somewhere that got lost.    
+
+b          B.36 utt1:  # Yeah,  /
+b^r          B.36 utt2: yeah. # /  
+
++          A.37 utt1:  # {D You know, } # in the long term  effects [ of the, +  of the ] war  /
+%          A.37 utt2: {C and, } -/  
+
+sv          B.38 utt1:  [ We-, + ] [ you have to, +   [ i-, + ] {D you know, } you have to ] give Bush a lot of credit for [ he, + he ] said that's what we were  going there to do  /
+sd          B.38 utt2: {C and } he did [ what, +  what ] he said  /
+sd          B.38 utt3: {C and } he did pull out before it got any further than that [ where, +   
+
+b          A.39 utt1:  # Yeah. # /  
+
++          B.40 utt1:  # where ] # it would have turned  into more of a police action.  {F Uh, } or more of a political action I guess,  you getting  into their governmental affairs which you really can't do [ as, + as ] another country. /  
+
+b          A.41 utt1:  # Yeah. # /  
+
+sd          B.42 utt1:  {E # I # mean, } [ [ th-, +  my, ] +  my ]  biggest problem with all of these wars is we spend all of that money on all these other countries  /
+sv          B.42 utt2:  {C and } we have so many problems here at home that we don't address. /  
+
+bf          A.43 utt1:  That we don't get fixed. /  
+
+aa          B.44 utt1:  That's right. /  
+
+aa          A.45 utt1:  <Sigh> I know. /  
+
+sd          B.46 utt1:  [ {C And, } + {C and } ] [ tha-, +  that's ]  what frustrates me more than anything. /  
+
+sv          A.47 utt1:  {C And } [ I, +  I ] believe that we have to  have a military  /
+sv          A.47 utt2: {C and } I believe that we have to have a defense to keep anybody else from walking  in and doing it to us. /  
+
+b          B.48 utt1:  Right. /  
+
+sv          A.49 utt1:  {C But } I also believe that we need  to turn so much of that inward. /  
+
+sv          B.50 utt1:  I think there's a lot of waste  /
+sv          B.50 utt2:  [ {C and, } + {C and } ] they don't, [ i-, +  if ] they could just cut out all the fat [ and, + and ]  get it lean, and start addressing some of the other issues,  /
+sv          B.50 utt3: I think we could take care of everything.   And quit taking care of all these other countries all across the world,   
+
+b          A.51 utt1:  # Ye-, # -/  
+
++          B.52 utt1:  # {D you # know, } who just end up using  things against us later on anyway. /  
+
+aa          A.53 utt1:  I know,  /
+%          A.53 utt2:  I do think that in the Middle East  war, {F um, } - /
+sv          A.53 utt3: I think that  maybe a lot of the Arab countries that were so  hateful towards the United States have come away with, {F uh, } kind of a different attitude. /  
+
+b          B.54 utt1:  Uh-huh. /  
+
+sv          A.55 utt1:  {F Uh, } I think that maybe we're   not their big bad enemy any more. /  
+
+b          B.56 utt1:  Right. /  
+
+sv          A.57 utt1:  [ {C An, } +  {F uh, } {C and } ]  I think that's good, {D you know, } /  
+
+b          B.58 utt1:  # Yeah. # /  
+
+sv          A.59 utt1:  # I # think that's a good, /  
+
+aa          B.60 utt1:  Yeah,  /
+sv          B.60 utt2: a lot of good has come from this one. /  
+
+aa          A.61 utt1:  I think so too. /  
+
+sv         B.62 utt1:  {C And } [ I think, + I guess, ]  [ in, +  in, ] {F uh, }   ironic way a lot of good came from the Vietnam war toward this war  /
+sv          B.62 utt2: {C because } like  [ we, +  we ] said earlier, [ that, + ]   {D you know, } [ the +  a lot of ] eyes were opened after years  and years [ of,  + of ] that war  /
+%          B.62 utt3: [ {C and } + {C and, } ] -/  
+
+sv          A.63 utt1:  {C And } perhaps the reason that  good came out of the Mid East war is because we had the experience of Vietnam. /  
+
+aa          B.64 utt1:  Right,  /
+aa          B.64 utt2: exactly. /  
+
+sv          A.65 utt1:  {C So, } [ [ I, +  I, ] +  I ]  do think that, we've learned from it, /  
+
+b          B.66 utt1:  # Uh-huh. # /  
+
+sd          A.67 utt1:  {D # you # know, } [ [ I, +  I, ] +  I ]  wish there weren't war <laughter>. /  
+
+aa          B.68 utt1:  Yeah,  /
+aa          B.68 utt2: no kidding. /  
+
+sv          A.69 utt1:  {C But, } {F uh, } I do think we learned. /  
+
+sd          B.70 utt1:  {C And } [ I just, +  I just ]  hate the emotional price a lot of the Vietnam people paid,   
+
+aa          A.71 utt1:  # Yes. # /  
+
++          B.72 utt1:  # for, # {D you know, }  [ er-, +  nothing. ]  /
+sv          B.72 utt2:  {E I mean, } [ [ it was, +  they're, ] +  they still don't ] know what they were there for. /  
+
+aa          A.73 utt1:  No,  /
+sv          A.73 utt2: there was no feeling of accomplishment, no goal,  /
+aa          A.73 utt3: no, /  
+
+aa          B.74 utt1:  # No. # /  
+
+sd          A.75 utt1:  # we # went in  /
+qh          A.75 utt2: {C but } what did we do.  /
+sd          A.75 utt3:   We lost lives  /
+qh          A.75 utt4: [ {C and, } + {C and } ] what were we trying to do.  /
+qh          A.75 utt5: Who knows. /  
+
+aa          B.76 utt1:  Yeah,  /
+aa          B.76 utt2: that's true. /  
+
+aa          A.77 utt1:  {C And, } [ I, + I ] think you're right,  /
+aa          A.77 utt2: {F uh, } I think you're right there.  /
+sd          A.77 utt3: {F Um, } I do remember when it was over.  /
+sd          A.77 utt4:  I remember when they were coming home.  /
+sd          A.77 utt5: {F Uh, } {C but, } I remember the feeling back then, {D you know, }  /
+sd          A.77 utt6:  [ {D like }  I feel +  {D like } right now, I feel ]  like this country has been behind this war. /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+b          A.79 utt1:  {F Uh, } yeah,  /
+sd          A.79 utt2: there's a lot of people  that aren't for war.  /
+sd          A.79 utt3: I'm not for war, /  
+
+b          B.80 utt1:  Right. /  
+
+sv          A.81 utt1:  {C but } I believe that the way that  it was done and the way that was handled were right.  /
+sd          A.81 utt2: I don't remember that feeling back in Vietnam. /  
+
+b          B.82 utt1:  Right. /  
+
+%          A.83 utt1:  I just remember,  /
+^q          A.83 utt2: {F oh } yeah,  /
+^q         A.83 utt3: our guys  are over there  /
+^q         A.83 utt4: {C and } it's sad  /
+^q         A.83 utt5: {C and } we shouldn't be fighting a war  /
+sd(^q)          A.83 utt6:  {C but } there was no, let's support them, {D you know. } /  
+
+b          B.84 utt1:  Right,  /
+%          B.84 utt2:   we-, - /
+%          B.84 utt3: the,  - /
+sd          B.84 utt4: when   this war broke out it frustrated me  all [ thi-, +  the ] antiwar people  and, {D you know, }   
+
+b          A.85 utt1:  # Yeah. # /  
+
++          B.86 utt1:  # [ their, +  # all the ]  demonstrations that were going on.  /
+sv          B.86 utt2:  I felt like they got way too much media coverage and publicity  /
+sv          B.86 utt3: {C because } [ those kind of people,  +  {E I mean, } <breathing>  {D you know, } they're the kind   of people ] [ who are, +  who've ] always got to have a cause, whether it's good, bad of indifferent.  /
+sv          B.86 utt4:    They've got to have a cause  /
+sv          B.86 utt5: [ {C and, } +    
+
+aa@          A.87 utt1:  # That's right. #   *[[slash error]]
+
++          B.88 utt1:  # {C and, } ] [ I, +  # {D you know, }   nobody ] says because you're supporting the troops that [ you're, +  you're ] supporting the war. /  
+
++          A.89 utt1:  That's right. /  
+
+sv          B.90 utt1:  [ Yo-, +  you ] have to support the people that are there. /  
+
+aa          A.91 utt1:  That's right. /  
+
+sv          B.92 utt1:  {C And } [ som-, +  for some ]  reason those people don't see that. /  
+
+sv          A.93 utt1:  They don't see it as supporting the folks, the people. /  
+
+aa          B.94 utt1:  No,  /
+aa          B.94 utt2: no,  /
+aa          B.94 utt3: they don't  /
+sv          B.94 utt4:  {C and, } {D you know, } they're just real shallow people. /  
+
+aa          A.95 utt1:  I would agree with you there <laughter>. /  
+
+b          B.96 utt1:  Yeah. /  
+
+aa          A.97 utt1:  [ I, +  I ] agree.  /
+sd          A.97 utt2: {F Um, }  [ {C and } I, +  {C and } I ]  recall when President Bush said that, {D you know, }  /
+sd(^q)          A.97 utt3: he said look,  /
+^q          A.97 utt4: [ I, +  {D you know, } I'm ]  sorry that you're opposed to the war.  /
+^q          A.97 utt5:  There's a lot of us that are opposed to war  /
+^q          A.97 utt6:  {C but, } {F uh, } you're not helping the people that are over there by what you're doing.   /
+sd          A.97 utt7:  {C And } I remember a lot of it kind of stopped after that. /  
+
+b          B.98 utt1:  Yeah, /  
+
+%          A.99 utt1:  # {C But, } # -/  
+
+sv          B.100 utt1:  {E # I # mean } they're not helping anybody.  /
+sv          B.100 utt2:  [ That's the, + that's the ] whole point, /  
+
+%          A.101 utt1:  # [ Th-, + ] not. # /  
+
+sv          B.102 utt1:  # they're not # doing anything for anybody except themselves. /  
+
+aa          A.103 utt1:  That's true. /  
+
+sv          B.104 utt1:  {C And } I don't even know what they're doing for themselves.    
+
+b          A.105 utt1:  {F Uh. } /  
+
++          B.106 utt1:  {D You know. } /  
+
+sd          A.107 utt1:  Giving a soapbox to stand on <laughter>. /  
+
+b          B.108 utt1:  Yeah  <laughter>. /  
+
+sd          A.109 utt1:  {C But, } {D well, } [ [ I just, +  I, ] +  I'm ]  glad we've learned.  /
+sd          A.109 utt2:  I'm sorry we had the experience of Vietnam. /  
+
+b          B.110 utt1:  Yeah. /  
+
+sd          A.111 utt1:  [ {C And, } +  {F uh, } {C and } ] [ [ I'm, +   I'm, ] +  I'm ] especially sorry for the people that [ are, +  {D you know, } have ] spent all these years trying  to deal with it emotionally,  /
+sv          A.111 utt2: {C because, } {D you know } until the [ la-, +  past ]  four or five years, nobody ever really worried about that,   
+
+aa          B.112 utt1:  # That's true. # /  
+
++         A.113 utt1:  # for them. # /  
+
+b          B.114 utt1:  Yeah. /  
+
+sv          A.115 utt1:  [ {C And, } + {C and } ]  I think that's where we as American people really [ failed, +  {D you know, } failed ] them. /  
+
+b          B.116 utt1:  Uh-huh,  /
+b          B.116 utt2: yeah. /  
+
+h          A.117 utt1:  {D So, } I don't know.  /
+qy          A.117 utt2:  {D Well, } do you have anything else you want to say on this? /  
+
+nn          B.118 utt1:  No,  /
+sd^e          B.118 utt2: I guess not. /  
+
+sd^t          @@A.119 utt1:  I think this is the first time that  I haven't been cut off by the computer <laughter>. /  
+
+aa          B.120 utt1:  I know,  /
+sd^t          B.120 utt2: we get cut off all the time, too <laughter>. /  
+
+sd          A.121 utt1:  Usually I can talk all day  /
+sd          A.121 utt2:  {C but } this is something to me that's sad <laughter>. /  
+
+aa          B.122 utt1:  Yeah,  /
+aa          B.122 utt2: it is. /  
+
+fc          A.123 utt1:  {D So, } {D well } have a good day  /
+fc          A.123 utt2:  {C and } I appreciate the conversation. /  
+
+fc          B.124 utt1:  Thanks,  /
+fc          B.124 utt2: same here. /  
+
+fc          A.125 utt1:  Bye-bye. /  
+
+fc          B.126 utt1:  Bye-bye. / 

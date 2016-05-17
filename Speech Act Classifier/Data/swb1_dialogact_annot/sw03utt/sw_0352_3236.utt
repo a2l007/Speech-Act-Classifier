@@ -1,0 +1,297 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3236_1412_1410
+TOPIC#:		335
+DATE:		911010
+UTT_CODER:      MMAB
+TRANSCRIBER:	GL
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Children playing behind Speaker A
+
+==========================================================================
+  
+
+ad          A.1 utt1:  Why don't you go ahead and say what you feel,  /
+sd          A.1 utt2: {C and then }  I'll respond. /  
+
+aa          @B.2 utt1:  All right.  /
+sd          @B.2 utt2:  {D Well, } [ I'm, + {F uh, } I'm ] very  guilty [ of, + of ] not doing my part with recycling, I'm afraid.  /
+sd          @B.2 utt3:  We, {F um, } recently moved here from  North Carolina,  /
+sd          @B.2 utt4: {C and } <inhaling> they had curbside recycling,  /
+sd          @B.2 utt5: {C and } it was very  easy [ to, + {D you know, } to ] put everything out there,  /
+sd          @B.2 utt6: {C but } we don't have it [ in, +   at least in ] our neighborhood right now -- /  
+
+b          A.3 utt1:  Yeah. /  
+
+sd          B.4 utt1:  -- [ {C and, } + {F uh, } {C so, } ] I've been very guilty about  not making the effort [ to, + to ] [ take things where + take things where ] they belong. /  
+
+qw          A.5 utt1:  {D Well, } how long have you been here? /  
+
+sd          B.6 utt1:  {D Well, } we've been here since January,  /
+sd          B.6 utt2: {C so } --   
+
+%          A.7 utt1:  {D Well, } -/  
+
++          B.8 utt1:  -- [ we, + we ] still feel very new,  /
+sd          B.8 utt2: {C but, }  {F uh } --   
+
+b          A.9 utt1:  Yeah. /  
+
++          B.10 utt1:  -- it's working up to a year now,  /
+sv          B.10 utt2: {C so, } I guess we're  old timers compared to some people. /  
+
+b          A.11 utt1:  Yeah,  /
+sv          A.11 utt2: I think that's a good excuse.  /
+sv          A.11 utt3: You need to get  into [ the <laughter> + --   
+
+b          B.12 utt1:  Right. /  
+
++          A.13 utt1:  -- the ] system a little more and know where to take things. /  
+
+b          B.14 utt1:  Yeah. /  
+
+sd          A.15 utt1:  We've been here probably two and a half  years,  /
+sd          A.15 utt2: [ and, + and ] we didn't recycle at all before we came -- /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  -- {C so } I think we're doing well.  /
+sd          A.17 utt2:  [ We, + we ] save most  of our aluminum cans and  glass --   
+
+b          B.18 utt1:  Uh-huh. /  
+
++          A.19 utt1:  -- and newspaper right now. /  
+
+qw          B.20 utt1:  {D Well, } where do you take those things? /  
+
+sd          A.21 utt1:  {D Well, } the, {F um, } glass and the newspaper we  usually take to Walmart.  /
+sd          A.21 utt2:  [ They have, +  {F um, }  in behind Walmart they have ] bins -- /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sd          A.23 utt1:  -- {C and then } we usually save up our  cans [ and, + and ] change them in for money. /  
+
+qw          B.24 utt1:  {D Well, } where do you do that,  /
+sd          B.24 utt2: {C because } we've been saving cans for my daughter's choir --   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  -- {F um, }  /
+sd          B.26 utt2: {C but } I didn't know where to take them. /  
+
+sd          A.27 utt1:  {F Um, } there's a place on Parker Road, {F um, }  /
+sd          A.27 utt2: it's just over  the overpass before you get {D like } to K-Mart.  /
+sd          A.27 utt3:  I think there's [ a, + a ] service  station there.  /
+sd          A.27 utt4: There's usually a semi truck that has [ a, + a ] person there that will  weigh them  /
+sv          A.27 utt5: {C and, }   
+
+bk          B.28 utt1:  Oh. /  
+
++          A.29 utt1:  Now they aren't worth much right now,  /
+sv          A.29 utt2: {C but } <laughter> --   
+
+b          B.30 utt1:  Yeah. /  
+
++          A.31 utt1:  -- it's better than nothing <laughter>,  /
+%          A.31 utt2: {C so } -- -/  
+
+b^m          B.32 utt1:  Better than nothing,  /
+aa          B.32 utt2: right. /  
+
+sd          A.33 utt1:  -- {C and } what I hear a lot of neighborhoods  do have [ the, + the ] pickup now,  /
+sd          A.33 utt2: {C and } [ we, + hopefully we'll ] be getting them in the month of October. /  
+
+b          B.34 utt1:  Yeah,  /
+%          B.34 utt2: I, - /
+sd          B.34 utt3: it seems like ever since we've moved here  we've been hearing that, {D you know } --   
+
+b          A.35 utt1:  Yeah,  /
+sd          A.35 utt2: {C and, }   
+
++          B.36 utt1:  -- it's coming in a couple of months,  /
+%          B.36 utt2: {C but } <laughter>. -/  
+
++          A.37 utt1:  <Laughter> I think it's been delayed.  /
+sd          A.37 utt2:  I think it was originally scheduled for February,  /
+sd          A.37 utt3: {C but } the trucks that were  supposed to do it, there's been some problems with --   
+
+b          B.38 utt1:  Oh. /  
+
++          A.39 utt1:  -- from what I've read in, {D you know, } the mail that we get -- /  
+
+b          B.40 utt1:  Right. /  
+
+sd          A.41 utt1:  -- {C and } I can't wait for that,  /
+sv          A.41 utt2: that will be easy.  /
+sd          A.41 utt3:  I get tired of newspaper littering the garage <laughter>. /  
+
+b          B.42 utt1:  Yeah,  /
+sv          B.42 utt2: it gets to be a bit much to haul it off,  /
+%          B.42 utt3: {C but. } -/  
+
+sv          A.43 utt1:  I feel guilty we don't recycle [ our, + our ] milk containers  because they seem like a big waste. /  
+
+sv          B.44 utt1:  {D Well, } [ [ they, + {D yeah } they, ] + they're ]  a lot of bulk, anyway -- /  
+
+b          A.45 utt1:  Yeah -- /  
+
+b^r          B.46 utt1:  -- yeah. /  
+
+b^r          A.47 utt1:  -- yeah,  /
+sd          A.47 utt2: they fill up the whole kitchen <laughter>  garbage can -- /  
+
+b          B.48 utt1:  Right. /  
+
+sd          A.49 utt1:  -- {C so, } I'll be glad when the bins do come,  /
+sd          A.49 utt2: {C and } I  think that's when [ I'll, + I'll ] start doing the plastic, too. /  
+
+b          B.50 utt1:  Yeah,  /
+sd          B.50 utt2: it was real easy with the bins,  /
+sd          B.50 utt3: it really was,  /
+sd          B.50 utt4: it was just no effort at all, {F um, } no more trouble than taking out the  garbage,  /
+%          B.50 utt5: {C so, } {F um, } -/  
+
+b          A.51 utt1:  Yeah.  /
+sd          A.51 utt2: I've gotten used to washing [ the, + {D you know, } the, ] {F um, } salad dressing bottles and <laughter> --   
+
+b          B.52 utt1:  Right. /  
+
++          A.53 utt1:  -- things like that,  /
+sv          A.53 utt2: it's not that big of a deal,  /
+sv          A.53 utt3:  {C and } it's nicer to just throw them out,  /
+sv          A.53 utt4: {C but } we can do our part <laughter> --   
+
+b          B.54 utt1:  Yeah. /  
+
++          A.55 utt1:  -- take an extra minute or two. /  
+
+qw          B.56 utt1:  {D Well, } how much do you earn on the cans,  /
+sd          B.56 utt2:  [ I, + I ] didn't know [ ho-, +  what ] kind of an idea to give her for, -/  
+
+sd          A.57 utt1:  {F Oh, } when we first [ were, + were ] here, it was like  we'd take maybe [ a, + {F oh, } a ] grocery sack full or --   
+
+b          B.58 utt1:  Uh-huh. /  
+
++          A.59 utt1:  -- maybe two grocery sacks full,  /
+sd          A.59 utt2: {C and } it would be like  two dollars --   
+
+b          B.60 utt1:  Yeah. /  
+
++          A.61 utt1:  -- {C but } since last time we've gotten more like a dollar. /  
+
+bf          B.62 utt1:  {C So } it's gone down. /  
+
+aa          A.63 utt1:  Yeah -- /  
+
+b^m          B.64 utt1:  Yeah, /  
+
+sv          A.65 utt1:  -- which is understandable,  /
+sv          A.65 utt2: I think, more people [ are -- +    
+
+b          B.66 utt1:  Right. /  
+
++          A.67 utt1:  -- are ] recycling. /  
+
+b          B.68 utt1:  Yeah. /  
+
+sd          A.69 utt1:  That's something [ we, + we ] don't really make  any effort to,  /
+sd          A.69 utt2: {C and } whatever pop we drink, we used to take the boys out for a bike ride, and pick up the litter, {D you know, } [ the, + the ] cans -- /  
+
+b          B.70 utt1:  Uh-huh. /  
+
+sd          A.71 utt1:  -- {C and } that was kind of fun,  /
+sd          A.71 utt2: {C but } we haven't  done that for a long time -- /  
+
+b          B.72 utt1:  Yeah. /  
+
+%          A.73 utt1:  -- {D so. } -/  
+
+ba          B.74 utt1:  {D Well, } that sounds like a pretty good project. /  
+
+sd          A.75 utt1:  <Laughter> {D Well, } the boys think it's fun,  plus you get your exercise  /
+sd          A.75 utt2: {C and } <laughter>,   
+
+x          B.76 utt1:  <Laughter>.   
+
++          A.77 utt1:  you do get to stop once in a while when there  is a can to rest <laughter>, /  
+
+x          B.78 utt1:  <Laughter>.   
+
+%          A.79 utt1:  {D so } -- -/  
+
+b          B.80 utt1:  <Laughter> Oh. /  
+
+%          A.81 utt1:  -- {C but. } -/  
+
+sd          B.82 utt1:  {D Well, } I'll have to keep myself [ and, + and ] [ ge-, + get ] on it.  /
+sd          B.82 utt2: My neighbor across the street, {F um, } is so careful about recycling,  /
+sd          B.82 utt3:  {C and so } I keep telling myself, [ I'll, + I'll ] get it organized,  /
+sv          B.82 utt4: {C but, }  [ may, + maybe ]  they'll beat me [ and, + and ] do the city wide first. /  
+
+sd          A.83 utt1:  {D Well, } hopefully the bins will be here in this  month  /
+sv          A.83 utt2: {C and } that will spur you on,  /
+%          A.83 utt3: {C so } <laughter>. -/  
+
+aa          B.84 utt1:  Right,  /
+aa^r          B.84 utt2: right,  /
+sv          B.84 utt3: I won't have any excuse then,  /
+sv          B.84 utt4: that's for sure. /  
+
+sv          A.85 utt1:  <Laughter> All right, {D well, } it sounds like we're doing  our part and at least starting,   
+
+^2          B.86 utt1:  Thinking about it, anyway <laughter>. /  
+
++          A.87 utt1:  <Laughter> Trying <laughter>  /
+sv          A.87 utt2: that's all you can do -- /  
+
+b          B.88 utt1:  Yeah,  /
+%          B.88 utt2: {C but, }   
+
+%          A.89 utt1:  -- {D so. } -/  
+
++          @@B.90 utt1:  {D Well, } {F um, } have you, - /
+qy^t          @@B.90 utt2: do they time this  thing for us,  /
+qrr^t          @@B.90 utt3: {C or } do we, /  
+
+ny          A.91 utt1:  {F Um, } yeah,  /
+sd^e^t          A.91 utt2: you can do it as long as you want.  /
+%          A.91 utt3:  They, {D you know, } - /
+sd(^q)^t          A.91 utt4: if it's been long enough, five minutes [ is, + is ] when they cut in and  [ say, + say, ] we don't have any more room for recording <laughter>. /  
+
+qy^g          B.92 utt1:  You can't chat all day, {F huh } <laughter>. /  
+
+fc          A.93 utt1:  {C So } --   
+
+fc          B.94 utt1:  Okay. /  
+
++          A.95 utt1:  -- we can say good-bye now.  /
+fc          A.95 utt2:   It was good talking to you,  /
+fc          A.95 utt3: {C and } maybe we'll get on line again. /  
+
+fc          B.96 utt1:  Okay. /  
+
+fc          A.97 utt1:  Thanks,  Sherry. /  
+
+fc          B.98 utt1:  Bye-bye. /  
+
+fc^m          A.99 utt1:  Bye-bye. / 

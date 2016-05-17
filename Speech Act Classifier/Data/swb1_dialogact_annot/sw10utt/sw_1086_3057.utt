@@ -1,0 +1,603 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3057_1043_1264
+TOPIC#:		305
+DATE:		910612
+TRANSCRIBER:	MS
+UTT_CODER:	mlg
+DIFFICULTY:	4
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Sound on Speaker A was very faint and made transcribing
+very difficult.
+
+===============================================================================
+  
+
+fp          A.1 utt1:  Hi  /
+ad          A.1 utt2: you want to start first <laughter>? /  
+
+aa          B.2 utt1:  Of course.  /
+sd^t          B.2 utt2: We are talking about the elderly and,    
+
+b          A.3 utt1:  Right. /  
+
++          B.4 utt1:  {F uh, } whether or not [ we wo-, + we ]  like nursing homes  /
+sd          B.4 utt2: {C and, }   
+
+b          @A.5 utt1:  Uh-huh. /  
+
++          B.6 utt1:  as a matter of fact, I can tell you something about that. /  
+
+qy^d          A.7 utt1:  You apparently have somebody there, in one. /  
+
+nn          B.8 utt1:  No,  /
+sd^e          B.8 utt2: {D actually, } my grandmother owned and operated a nursing home for years  /
+sd          B.8 utt3: {C and } her mother, -/  
+
+qy         A.9 utt1:  {F Oh, } you are kidding? /  
+
+nn          B.10 utt1:  No,  /
+sd^e          B.10 utt2: she did. /  
+
+b          A.11 utt1:  Oh. /  
+
+sd          B.12 utt1:  {C And then } my mother also  owned and operated a nursing home,   
+
+b          A.13 utt1:  Uh-huh. /  
+
++          B.14 utt1:  for years.    
+
+ba          A.15 utt1:  I will be darned. /  
+
++          B.16 utt1:  And then, {F uh, } went on back to school and  became the director of nurses at a nursing home <sigh>. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  {C And, } {F uh, } my mother and my older sister  both are geriatric nurses. /  
+
+ba          A.19 utt1:  {F Oh, } for heaven's sake. /  
+
+sd          B.20 utt1:  {C So, } I do know something <laughter> about that. /  
+
+sv          A.21 utt1:  You are very, very much aware of what goes on. /  
+
+aa          B.22 utt1:  Absolutely. /  
+
+ba          A.23 utt1:  <Laughter> That is great. /  
+
+sd          B.24 utt1:  {D Actually, } the motivation for  Grandmother entering the business,   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  was that her mother was very old,   
+
+b          A.27 utt1:  Uh-huh. /  
+
++          B.28 utt1:  and couldn't seem to find companions. /  
+
+b          A.29 utt1:  Uh-huh,  /
+b^r          A.29 utt2: uh-huh. /  
+
+sd          B.30 utt1:  She was lonely. /  
+
+b          A.31 utt1:  Right. /  
+
+sd          B.32 utt1:  {C And } she needed company,   
+
+b          A.33 utt1:  Right. /  
+
++          B.34 utt1:  for her mother  /
+sd          B.34 utt2: {C and so she } opened a  nursing home and initially started with eight ladies. /  
+
+ba          A.35 utt1:  I will be darned. /  
+
+sd          B.36 utt1:  {C And then, } {F uh, } [ it, + it ] grew into a,   
+
+b          A.37 utt1:  Uh-huh,  /
+b^r          A.37 utt2: uh-huh,  /
+b^r          A.37 utt3: uh-huh. /  
+
++          B.38 utt1:  very prosperous business from that point.  /
+%          B.38 utt2:  {F Uh, } then they, -/  
+
+sv          A.39 utt1:  {D Now, } {D see } that is a nice attitude to go into. /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+sv          A.41 utt1:  {F Uh, } it seems like they must be waiting  until it is a necessity -- /  
+
+b          B.42 utt1:  Uh-huh. /  
+
+sv          A.43 utt1:  -- {C and } there is no chance of, {F uh, }  good companionship or doing anything. /  
+
+ad          B.44 utt1:  {D Well, } that is not really true, either, {F uh, }  /
+sv          B.44 utt2:  I think that is a stigma  [ and an  I, +     
+
+b          A.45 utt1:  Uh-huh. /  
+
++          B.46 utt1:  and an ] impression that has come  from some few bad experiences.  /
+sd          B.46 utt2:  {D You see, } those who had bad experiences talk about them. /  
+
+b          A.47 utt1:  {F Uh, } right,  /
+b^r          A.47 utt2: right. /  
+
+sd          B.48 utt1:  {C And } those who do not may write,   
+
+b          A.49 utt1:  Uh-huh. /  
+
++          B.50 utt1:  a letter to the nursing home and say you did good, /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+sd          B.52 utt1:  {C but } they do not talk a whole lot about that. /  
+
+ba          A.53 utt1:  That is true.  /
+sd          A.53 utt2: {C But } what I mean is instead of  maybe entering a nursing home,   
+
+b          B.54 utt1:  Uh-huh. /  
+
++          A.55 utt1:  when you are still able to have good,   
+
+b          B.56 utt1:  Uh-huh. /  
+
+ +         A.57 utt1:  relationships with,   
+
+b          B.58 utt1:  Uh-huh. /  
+
++          A.59 utt1:  maybe other friends --   
+
+b          B.60 utt1:  Sure.  /
+ba          B.60 utt2: {D Well } now,   
+
++          A.61 utt1:  -- they wait until they are, {D you know, } unable. /  
+
++          B.62 utt1:  That is right.  /
+sv          B.62 utt2: {D Well, } that is because  they wait until the children make those choices,   
+
+b          A.63 utt1:  Right. /  
+
++          B.64 utt1:  they choose to not make those,   
+
+b          A.65 utt1:  Right,  /
+b^r          A.65 utt2: right. /  
+
++          B.66 utt1:  choices themselves.   /
+sd          B.66 utt2: However, my daughter-in-law <sigh>  also is a nurse in a nursing home. /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sd          B.68 utt1:  {C And, } {F uh, } she works for one  here in Dallas, which is more a retirement village than it is a nursing home.  /
+%          B.68 utt2:  {C And } [ these, + these, ] -/  
+
+b          A.69 utt1:  {F Uh, } uh-huh. /  
+
+sd(^q)          B.70 utt1:  I love watching these elderly people  come,  they will come and tell her. {D "Well } I am going for my,   
+
+b          A.71 utt1:  Uh-huh. /  
+
++          B.72 utt1:  tennis lessons. /  
+
+x          A.73 utt1:  <Laughter>.   
+
+^q          B.74 utt1:  {C And, } {F uh, } [ would yo-, + would you, ]  {D you know, } call down and have the van come around and take,   
+
+b          A.75 utt1:  Uh-huh,  /
+b^r          A.75 utt2: uh-huh. /  
+
++          B.76 utt1:  us for our tennis lessons."  /
+sd          B.76 utt2: {C And } they are  very active and very enthusiastic  /
+sd          B.76 utt3: {C and } they have,   
+
+b          A.77 utt1:  Uh-huh. /  
+
++          B.78 utt1:  some excellent programs right there on site. /  
+
+b          A.79 utt1:  Yeah. /  
+
+sv          B.80 utt1:  <Sigh> Their dining room looks like, {D you know, }  Luby's Cafeteria. /  
+
+b          A.81 utt1:  Yeah.  /
+ba          A.81 utt2:  That is great. /  
+
+sd          B.82 utt1:  [ Or, + or ] one of the lovely  cafeterias.  /
+sd          B.82 utt2: {C And } they have, {D you know, } pink linen napkins for their dinners.     
+
+b          A.83 utt1:  Uh-huh,  /
+b^r          A.83 utt2: uh-huh. /  
+
++          B.84 utt1:  And, <sigh> a well equipped library. /  
+
+b          A.85 utt1:  Yeah,  /
+ba          A.85 utt2: that sounds great. /  
+
+sv          B.86 utt1:  {F Oh, } I am certainly very much for a  nursing home  /
+sd          B.86 utt2: {C and } I think when [ the, + the ] parent gets old enough,   
+
+b          A.87 utt1:  Yeah. /  
+
++          B.88 utt1:  to the extent where they just do not  want to be bothered with keeping house,   
+
+ b         A.89 utt1:  Uh-huh. /  
+
+  +        B.90 utt1:  and with taking care of themselves,   
+
+b          A.91 utt1:  Uh-huh. /  
+
++          B.92 utt1:  anymore.  That is a wonderful alternative. /  
+
+b          A.93 utt1:  Uh-huh. /  
+
+sv          B.94 utt1:  It is expensive.  /
+sv          B.94 utt2: It is costly. /  
+
+sv          A.95 utt1:  {D See } if they [ could, + could ]  get this idea across though, better than what it is,   
+
+b          B.96 utt1:  Uh-huh. /  
+
++          A.97 utt1:  {D you, know. } -/  
+
+sd          B.98 utt1:  {D Well, } now my daddy's mother, {F uh, }  lived in [ a, + a ] retirement village  /
+sd          B.98 utt2: {C and } she and her sister had side by side duplexes,   
+
+b          A.99 utt1:  Uh-huh. /  
+
++          B.100 utt1:  one bedroom duplex.  /
+sd          B.100 utt2:  <sigh> She still had her individuality, /  
+
+b          A.101 utt1:  Uh-huh. /  
+
+sd          B.102 utt1:  {C but } they were there close  /
+sd          B.102 utt2: {C and } they did  have, {F uh, } {D you know, } the button that you could push the central office  if you got into problems  /
+sd          B.102 utt3: {C and, }   
+
+b          A.103 utt1:  Uh-huh. /  
+
++          B.104 utt1:  there were lights that you could flip  on and so forth.  /
+sd          B.104 utt2: {C And } they  ((   )) have security. -/  
+
+b          A.105 utt1:  Uh-huh. /  
+
+b          B.106 utt1:  No,  /
+sd          B.106 utt2: I am very much in favor, - /
+sd          B.106 utt3:  I have heard horror stories, /  
+
+sd          A.107 utt1:  {F Oh, } {D well } you have that with anything. /  
+
+sd          B.108 utt1:  I know that the elderly can easily be abused, /  
+
+b          A.109 utt1:   {F Oh }  (( yeah  )) . /  
+
+sd          B.110 utt1:  {C but } I would be willing to bet they are  far less abused in a nursing home than [ are, + they are ] in,   
+
+ ^2         A.111 utt1:  In the homes, yeah. /  
+
++          B.112 utt1:  homes of their own children. /  
+
+sd          A.113 utt1:  {D Well, }   
+
+b          B.114 utt1:  Uh-huh. /  
+
+ +         A.115 utt1:  we used our nursing home as, {F uh, } - /
+sd          A.115 utt2: like  when my sister was real bad before she died --   
+
+b          B.116 utt1:  Uh-huh. /  
+
++          A.117 utt1:  -- {F uh, } we took her the last month and a half,   
+
+b          B.118 utt1:  Uh-huh. /  
+
++          A.119 utt1:  into a nursing home. /  
+
+b          B.120 utt1:  Uh-huh. /  
+
+sd          A.121 utt1:  {C And } they were super with her. /  
+
+aa          B.122 utt1:  Absolutely. /  
+
+sd          A.123 utt1:  They were, {F uh, } /  
+
+sd          B.124 utt1:  {D Well } now, my grandmother, - /
+sd          B.124 utt2: of course all of my  folks lived to be very old -- /  
+
+b          A.125 utt1:  Uh-huh. /  
+
+sd          B.126 utt1:  -- {C and } my grandmother developed Hodgkin's Disease,   
+
+b          A.127 utt1:  Uh-huh. /  
+
++          B.128 utt1:  when she was in her [ late eighties, +   
+
+b          A.129 utt1:  Uh-huh. /  
+
++          B.130 utt1:  {F uh, } late seventies, ] {E I mean. } /  
+
+b          A.131 utt1:  Uh-huh. /  
+
+sd          B.132 utt1:  <Sigh> She went to the doctor,  /
+sd          B.132 utt2: she had surgery,  /
+sd          B.132 utt3:   she got the treatments  /
+sd          B.132 utt4: {C and } during,   
+
+b          A.133 utt1:  Uh-huh,  /
+b^r          A.133 utt2: uh-huh. /  
+
++          B.134 utt1:  the period of time that she was undergoing  those treatments she was in a nursing home. /  
+
+b          A.135 utt1:  Uh-huh. /  
+
+sd          B.136 utt1:  She got better,  /
+sd          B.136 utt2: she got well,  /
+sd          B.136 utt3: she got out and  went dancing again. /  
+
+sd          A.137 utt1:  {D Well, } a lot of people do that.  /
+sd          A.137 utt2:   (( They )) ,   
+
+b          B.138 utt1:  Uh-huh. /  
+
++          A.139 utt1:   (( left them ))  temporally maybe they had a,   
+
+ba          B.140 utt1:  That is right. /  
+
++          A.141 utt1:  broken hip or something or, -/  
+
+b          B.142 utt1:  Uh-huh,  /
+b^r         B.142 utt2: uh-huh.  /
+sv          B.142 utt3:  I think it is a wonderful interim place, /  
+
+b          A.143 utt1:  Uh-huh. /  
+
+sv          B.144 utt1:  it is a place that you do not have to struggle with hospital,   
+
+b          A.145 utt1:  Uh-huh,  /
+b^r          A.145 utt2: uh-huh. /  
+
++          B.146 utt1:  problems <sigh>  /
+sv        B.146 utt2: {C and } yet it is not, {D you know, } - /
+%          B.146 utt3:  you have, -/  
+
+sd          A.147 utt1:  {C And } it can become home to them. /  
+
+b          B.148 utt1:  Uh-huh,  /
+b^r          B.148 utt2: uh-huh. /  
+
+sv          A.149 utt1:  [ It, +   
+
+ba          B.150 utt1:  It certainly is. /  
+
++          A.151 utt1:  It ] depends upon the individual. /  
+
+ba          B.152 utt1:  It certainly does,  /
+sd          B.152 utt2: {C but, } {D you see, }  we have had excellent experience with that.  /
+sd          B.152 utt3: {C And, } {F uh, } [ I, + I ]  did not put my husband in a nursing home when he became ill,  /
+sd          B.152 utt4: {C but, }   
+
+b          A.153 utt1:  Uh-huh,  /
+b^r          A.153 utt2: uh-huh. /  
+
++          B.154 utt1:  I would not object to going to one.  /
+sd          B.154 utt2: [ I might, +   
+
+b          A.155 utt1:  Uh-huh. /  
+
++          B.156 utt1:  I might ] like to be, <sigh> {F uh, }  coherent enough to make my own choice. /  
+
+b          A.157 utt1:  Uh-huh,  /
+b^r          A.157 utt2: uh-huh. /  
+
+sd(^q)          B.158 utt1:  <Sigh> {F Uh, } I would not particularly  think I would want my kids to say, {D "well, } I think this is what I need for Mom",  and,    
+
+%          A.159 utt1:  This is  ((   )) - /
+%          A.159 utt2: {C and, } -/  
+
++          B.160 utt1:  then dump me there. /  
+
+x          A.161 utt1:  <Laughter>.   
+
+%          B.162 utt1:  {C But, } I would # like, # -/  
+
+sv          A.163 utt1:  # There has to be #  consideration taken on everything. /  
+
+ba          B.164 utt1:  That is right.  /
+aa          B.164 utt2: Uh-huh,  /
+aa^r          B.164 utt3: uh-huh.  /
+sv          B.164 utt4:  {C And } I think  you would shop for a nursing home, just like you would shop for a church,   
+
+b          A.165 utt1:  Yeah. /  
+
+ +         B.166 utt1:  or a doctor or anything else. /  
+
+ba          A.167 utt1:  That is right,  /
+sv          A.167 utt2: you would look into it thoroughly and,    
+
+b          B.168 utt1:  Uh-huh,  /
+b          B.168 utt2: sure. /  
+
++          A.169 utt1:  [ do, + do ] the best job you  could in choosing one. /  
+
+b          B.170 utt1:  Uh-huh.  /
+sv          B.170 utt2:  When you get to the point where you are  in trouble,   
+
+b          A.171 utt1:  Uh-huh. /  
+
++          B.172 utt1:  and you have got to have that help,  you are in no position to make those choices. /  
+
+b          A.173 utt1:  No  /
+sv          A.173 utt2: {C and } you do not have the time to look,  /
+sd          A.173 utt3:  that is what,   
+
+ba          B.174 utt1:  That is right. /  
+
++          A.175 utt1:  I am saying, /  
+
+b          B.176 utt1:  Uh-huh. /  
+
+sv          A.177 utt1:  most people will not even look at that  until it becomes a necessity. /  
+
+ba          B.178 utt1:  Absolutely.  /
+sv          B.178 utt2: I think that one of the best ways  to do that is for families to realize they are going to be needing those facilities one day,   
+
+b          A.179 utt1:  Uh-huh. /  
+
++          B.180 utt1:  and to actually get involved and participate on a  community level with community service.  /
+ad          B.180 utt2: Go out to the nursing home,  help guide some craft programs, perhaps, work on some <sigh> music programs, #  whatever their talents are. #    
+
+ b^m         A.181 utt1:  # Whatever their talents, # yeah. /  
+
++          B.182 utt1:  And work with,   
+
+b          A.183 utt1:  Uh-huh. /  
+
++          B.184 utt1:  those senior citizens. /  
+
+aa          A.185 utt1:  Yeah,  /
+sd          A.185 utt2: I have a cousin who is, {F uh, } - /
+sd          A.185 utt3:  she had a son that was epileptic from birth,  /
+sd          A.185 utt4: {C and } he did fine,   
+
+b          B.186 utt1:  Uh-huh. /  
+
+ +         A.187 utt1:  at home,  /
+sd          A.187 utt2: they lived on a farm, /  
+
+b          B.188 utt1:  Uh-huh. /  
+
+sd          A.189 utt1:  {C but } she made arrangements, so that when  she was gone,   
+
+b          B.190 utt1:  Uh-huh. /  
+
++          A.191 utt1:  she did not want [ [ her, + her children, ] + --   
+
+b          B.192 utt1:  Uh-huh. /  
+
++          A.193 utt1:  -- her other children ] burdened with his care. /  
+
+ba          B.194 utt1:  That is right. /  
+
+sd          A.195 utt1:  {C So } [ [ he, + they, ] + she ]  has made arrangements that when [  she, + she ] was gone, that he would go into the nursing home. /  
+
+b          B.196 utt1:  Uh-huh. /  
+
+sd          A.197 utt1:  {C And } [ he has, + {A I would say, } he ]  adjusted very well  /
+sd          A.197 utt2: {C and, } {F uh, } [ [ he, + he, ] + he ]  has been there quite a long time. /  
+
+b          B.198 utt1:  Uh-huh. /  
+
+sd          A.199 utt1:  {C And, } {F uh, } he don't know me usually <laughter>. /  
+
+b          B.200 utt1:  Yeah. /  
+
+sd          A.201 utt1:  {C So, } he goes wheeling down, {F uh, }  the hall to bingo.  /
+sd          A.201 utt2:  Somebody else,  (( is helping ))  him out,   
+
+ba          B.202 utt1:  That is right. /  
+
++          A.203 utt1:  {D you know, } /  
+
+sv          B.204 utt1:  {F Uh. }   
+
+sd          A.205 utt1:  {C and, } {F uh, } he has adjusted very well. /  
+
++          B.206 utt1:  {D Well, } one of the things, I think that is  most desirable for the elderly [ and that + ] is routine. /  
+
+b          A.207 utt1:  Uh-huh,  /
+aa          A.207 utt2: {F oh } yes.  /
+aa          A.207 utt3:  Yes. /  
+
+sv          B.208 utt1:  Routine and,    
+
+b          A.209 utt1:  Uh-huh. /  
+
++          B.210 utt1:  {F uh, } constancy. /  
+
+b          A.211 utt1:  Uh-huh,  /
+b^r          A.211 utt2: uh-huh  /
+o@          A.211 utt3:  ((   )) .   
+
+sd          B.212 utt1:  {F Uh, } the only real problem with that in a  nursing home is that the staff turns over.  /
+sv          B.212 utt2: <laughter> I do not think they pay,   
+
+x          A.213 utt1:  <Laughter>.   
+
++          B.214 utt1:  the nursing home staff sufficiently,   
+
+b          A.215 utt1:  uh-huh. /  
+
++          B.216 utt1:  [ to, + to ] get the dedication <sigh>,   
+
+^2          A.217 utt1:  To keep them there, uh-huh. /  
+
++          B.218 utt1:  that they have in some other profession, /  
+
+ba          A.219 utt1:  True. /  
+
+sv          B.220 utt1:  {C and } that is sad, because, I think the health  profession is one of the most critical, /  
+
+b          A.221 utt1:  Yes.  /
+sv          A.221 utt2: {C But }  ((   )) ,   
+
+%          B.222 utt1:  {C And, } {F uh, } -/  
+
++          A.223 utt1:  for some reason people resist, {F uh, }  the fact that they should be paid as well as businesses and that type of thing, {D you know. } /  
+
+ba          B.224 utt1:  That is right. /  
+
+sv           A.225 utt1:  It seems to be a resistance. /  
+
+sv          B.226 utt1:  Care for the elderly and care for the children,   
+
+b          A.227 utt1:  Uh-huh. /  
+
++          B.228 utt1:  I cannot imagine a more costly and [ a more, +   
+
+b          A.229 utt1:  Uh-huh. /  
+
++          B.230 utt1:  a  more, ] {F uh, } better area to invest,   
+
+b          A.231 utt1:  Right,  /
+b^r          A.231 utt2: right. /  
+
+ +         B.232 utt1:  your money. /  
+
+sv          A.233 utt1:  # {C But } there seems to be a resistance. # /  
+
+sv          B.234 utt1:  # You are # preserving your heritage and your future there. /  
+
+b          A.235 utt1:  Yeah,  /
+b^r          A.235 utt2: yeah. /  
+
+x          B.236 utt1:  <Sniffing>.   
+
+%          A.237 utt1:  {C So, } {F uh, } -/  
+
+sv          B.238 utt1:  {C And, } as a matter of fact, I do not see why  they do not have children's programs in nursing homes. /  
+
+sd          A.239 utt1:  {D Well, } around here, we have some, {D you know, }  the churches,   
+
+b          B.240 utt1:  Uh-huh. /  
+
++          A.241 utt1:  take [ your, + the ]  children  /
+sd          A.241 utt2: {C and, }   
+
+b          B.242 utt1:  Uh-huh. /  
+
++          A.243 utt1:  I know our kids thoroughly, - /
+sd          A.243 utt2: the children thoroughly enjoy, -/ 

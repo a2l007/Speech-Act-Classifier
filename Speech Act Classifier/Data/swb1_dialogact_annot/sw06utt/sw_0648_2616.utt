@@ -1,0 +1,443 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2616_1133_1167
+TOPIC#:		352
+DATE:		910416
+TRANSCRIBER:	csw
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	4
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	Caller B dominated.  
+
+============================================================================
+  
+
+o          @B.1 utt1:  Okay,  /
+sv          @B.1 utt2: {D so } [ I think, + I think ]  what we should talk about is, {F uh, } the war. /  
+
+b          A.2 utt1:  Okay. /  
+
+sd          B.3 utt1:  The war that just went on.  /
+sv          B.3 utt2: {D See, }  [ I, + I ] don't agree with it.  /
+sv          B.3 utt3:  First of all I don't believe in war. /  
+
+b          A.4 utt1:  Uh-huh. /  
+
+sv(^q)          B.5 utt1:  {C And then, } the United States  has this attitude by saying, {D you know, } thank you for keeping us our freedom and stuff like that.  /
+sv          B.5 utt2:   {C And } I think it's all independent because, [ it's, +  it ]  [ has + ] nothing to do with the United States.  /
+sv          B.5 utt3:  You didn't gain anything from it. /  
+
+b          A.6 utt1:  Uh-huh. /  
+
+sv          B.7 utt1:  {C And } it wasn't our freedom that  you were saving.   /
+%          B.7 utt2: It was just, <<pause>> - /
+sd          B.7 utt3: [ the thing, + the thing ] [ [ that, + that, ] + that ]  I saw was okay,  /
+sd         B.7 utt4: Iraq wants to raise oil prices. /  
+
+b          A.8 utt1:  Uh-huh. /  
+
+sd          B.9 utt1:  Kuwait wants to take Iraq out of the whole system,   
+
+b          A.10 utt1:  # Uh-huh. # /  
+
++          B.11 utt1:  # by # leaving them independent. /  
+
+b          A.12 utt1:  Uh-huh. /  
+
+sd(^q)          B.13 utt1:  {C And so, } when Iraq, {D you know, }  saw this, they said let's take over the country, which is a good idea,  /
+^g          B.13 utt2: right? /  
+
+ny          A.14 utt1:  # Uh-huh. # /  
+
+sd(^q)          B.15 utt1:  # Then # the United States says, okay,  [ our, + our ] oil prices are going to go up.  /
+sd         B.15 utt2: {C And } {D like } for example, {D see, }  {D okay, } {D like } [ Lith-, + Lithuania ] {D right, } they declared themselves an independent country with a president,  /
+^g          B.15 utt3: right. /  
+
+ny          A.16 utt1:  Uh-huh. /  
+
+sd          B.17 utt1:  [ Russia goes in there, + {D well } the  main government in Moscow goes in there ]  /
+sd          B.17 utt2: {C and } they kick everybody's ass.  /
+sd          B.17 utt3: {C And } the United  States doesn't go in there  /
+sd(^q)          B.17 utt4: {C and } {D say, } listen, they were, {D you know, } named an  independent, {D you know, } state with a president and everything  /
+^q          B.17 utt5:  {C but } we're not going to go into your country. /  
+
+b          A.18 utt1:  Uh-huh. /  
+
+sv          B.19 utt1:  {C But } these countries here,  which, {D you know, } are, {D you know, } like in NINETEEN EIGHTY-FOUR, - /
+qy          B.19 utt2: have you ever read that book? /  
+
+nn          A.20 utt1:  No,  /
+nn          A.20 utt2: huh-uh. /  
+
+bk          B.21 utt1:  Okay,  /
+sd          B.21 utt2: NINETEEN EIGHTY-FOUR there are  {D like } three big continents  /
+sd          B.21 utt3: {C and, } {F uh, } there's just this area, {D like } around Egypt {C and } stuff,    
+
+b          A.22 utt1:  # Uh-huh. # /  
+
++          B.23 utt1:  # that # everybody's fighting over.  /
+sv          B.23 utt2:  {D Now } the problem [ is, +  is ] that nobody's going to invade anybody else's boundaries. /  
+
+b          A.24 utt1:  <Clink>  <squeak>  Uh-huh. /  
+
+b          B.25 utt1:  Right,  /
+sd          B.25 utt2: {D like } their immediate boundaries.  {D Like } [ you're not going to go, +  {D you know, } it's like the Army's not going to ]  go straight into Russia because there [ you're, +  you're ] invading their border,  /
+^g          B.25 utt3: right. /  
+
+ny          A.26 utt1:  Uh-huh. /  
+
+sd          B.27 utt1:  {C But } all the other countries, you can fight about. /  
+
+b          A.28 utt1:  Uh-huh. /  
+
+sv          B.29 utt1:  {C And so } the thing [ is, +  is ]  that you're wasting so much money to send, {D you know, } - /
+qh          B.29 utt2: it's like how much money did the  U S spend when they could have paid so  much money for each barrel of oil that was being, -/  
+
+sv          A.30 utt1:  We'll probably never know how much it actually cost. /  
+
+sv          B.31 utt1:  {C And } {D you know, } [ it's, +  it was ]  basically all based on oil because nobody - /
+sv          B.31 utt2:  actually, {D like } for example, [ if, +   {F uh, } let's say if, ] {D you know } Brazil took over {D you know, } Surinam.   
+
+b          A.32 utt1:  # Uh-huh. # /  
+
++          B.33 utt1:  # I # don't think anybody would care. /  
+
+b          A.34 utt1:  Yeah. /  
+
+sv          B.35 utt1:  {D You know, } {C and, } {F uh, } that's  something [ that, + that ] has been, {D you know, } very, - /
+sd          B.35 utt2:  {C because, } {D see } the thing [ is, +  is ]  {D like } every time that I see a war, I see myself on the front line, and on the other side I see myself  again, and I've got to shoot myself, {D you know. } /  
+
+b          A.36 utt1:  Uh-huh. /  
+
+sd          B.37 utt1:  <Throat_clearing> I got to shoot somebody  that's got the same family that I do.  {D You know, } the same relationships that I do. /  
+
+b          A.38 utt1:  Uh-huh. /  
+
+sd          B.39 utt1:  {C And } just because I was born  here I've got to shoot them down. /  
+
+b          A.40 utt1:  Uh-huh,  /
+sv          A.40 utt2: {F oh, } it's never a pleasant thing,  /
+aa          A.40 utt3:  that's true. /  
+
+sd          B.41 utt1:  [ {C And, } +  {F uh, } {C but } ]  at least [ it was, +  it was ] over quick  /
+sd          B.41 utt2:  {C and } there weren't that many deaths. /  
+
+aa          A.42 utt1:  # Yes  /
+%          A.42 utt2: that's, # -/  
+
+sv          B.43 utt1:  # {D Now } the # only problem [ is, +  is ] the aftermath,    
+
+aa          A.44 utt1:  # Yes.  # /  
+
++          B.45 utt1:  # that # you're having so many deaths in  the border with, {F uh, } Turkey. /  
+
+aa          A.46 utt1:  Yes,  /
+sv          A.46 utt2: that's really unfortunate,  /
+sv          A.46 utt3:  it really is.  /
+sd          A.46 utt4: I don't know if we stopped too soon,  /
+sd          A.46 utt5: [ [ I don't, +  I don't, ] + I really don't ]  know what we need to do about that. /  
+
+sd(^q)          B.47 utt1:  {D Well, } [ the-, +  there's ] something  [ that, +  that ] the U S did right which is  {D say, } {D say, } {D you know, } okay,  /
+^q          B.47 utt2:  let's kick him out of Kuwait, which was our basic goal. /  
+
+b          A.48 utt1:  Uh-huh. /  
+
+^q          B.49 utt1:  {C And, } {F uh, } {D now, } indirectly  let's try to overthrow him, {D you know. } /  
+
+b          A.50 utt1:  # Uh-huh. # /  
+
+sd          B.51 utt1:  # {C And } # they're not going to do  that directly.  /
+sd(^q)          B.51 utt2: {C But } the thing [ is, + is ] that, [ they, + they ] didn't go [ into, +  into ]  Iraq [ and + ] {D say, } {D you know, } because they have the force to go in there and say get out of the country. /  
+
+b          A.52 utt1:  # Uh-huh. # /  
+
+^q          B.53 utt1:  # {D You # know, } you can [ seek, + seek ] asylum here, /  
+
+b          A.54 utt1:  # Yeah. # /  
+
+^q          B.55 utt1:  # {C and } # you can go there,  /
+^q          B.55 utt2:  {C but } no way are you going to rule ever again. /  
+
+b          A.56 utt1:  Uh-huh.  /
+sd          A.56 utt2:  I've been hearing some talk  too of trying to bring Hussein up on, {D you know, } criminal charges.  /
+h          A.56 utt3:  I don't know if that will ever happen or not. /  
+
+sv          B.57 utt1:  {D Well } the thing [ is, + is ] that  first of all [ they got to, +  [ they go-, +  they have ] to ] get him. /  
+
+b          A.58 utt1:  Uh-huh,  /
+sv          A.58 utt2: which is very difficult to do. /  
+
+sv          B.59 utt1:  [ {C And, } + {C and } ] there's no way   that you can get them, unless it's by force. /  
+
+b          A.60 utt1:  Uh-huh. /  
+
+sd          B.61 utt1:  {D You know. }  {C And then } you can put him on trial. /  
+
+sv          A.62 utt1:  Obviously, he's not going to turn himself in. /  
+
+aa          B.63 utt1:  No,  /
+aa^r          B.63 utt2: no,  /
+sv          B.63 utt3: [ I think, + I think ]  he'd rather commit suicide than turn himself in,   
+
+b          A.64 utt1:  Uh-huh. /  
+
++          B.65 utt1: because [ [ [ there's, +  {E I mean } there's  {D like, } ] +  it's {D like } ] +  there's  no ] hope, {D you know, } like what Hitler did, {D you know. }  /
+sd          B.65 utt2:  {D You know, } {D like } if you were going to put on trial you get to live the rest of your life, but where. /  
+
+aa          A.66 utt1:  True,  /
+%          A.66 utt2: yeah,  /
+%          A.66 utt3: uh-huh. /  
+
+sv          B.67 utt1:  {D You know, } {C and so, } {F um, } the thing  [ is, + is ]  that <throat_clearing>  once you've done something wrong, which is [ natio-, +    
+
+x          A.68 utt1:  # <Door>.  #   
+
++          B.69 utt1:  # {D you # know, } internationally ]  recognized, then you're going to try to get out of it  /
+sv          B.69 utt2: {C and } [ the, +  there's ] no way, {D you know. }   
+
+aa          A.70 utt1:  Yeah,  /
+aa          A.70 utt2: true. /  
+
++          B.71 utt1:  {C And } especially since he's got inside  Iraq for using, {D you know, } chemical weapons and stuff. /  
+
+b          A.72 utt1:  Uh-huh. /  
+
+sd          B.73 utt1:  {C And } {D you know } {D like } he sent  planes over [ to, +  to ] shoot the people down [ that were on the border with, +  {F uh, } [ tha-, +  that ]  were on their way to ] Turkey. /  
+
+b          A.74 utt1:  Uh-huh. /  
+
+sd          B.75 utt1:  He had a couple of them bombarded. /  
+
+b          A.76 utt1:  Yeah,  /
+b^r          A.76 utt2: yeah,  /
+sv          A.76 utt3: obviously human life means nothing to him. /  
+
+b          B.77 utt1:  Huh-uh.  /
+sd          B.77 utt2: {C But, } {F uh, } {D you know, }  he's got, {F uh, } millions of dollars,  /
+sv          B.77 utt3: {D like, }   
+
+b          A.78 utt1:  # {F Oh } yeah. # /  
+
++          B.79 utt1:  [ # [ th-, +  I # think it was ] +   {D like, } I don't know if it was ] fifty billion or fifty million, which [ is really, +  doesn't ] make any difference <laughter>. /  
+
+aa          A.80 utt1:  That's true.  /
+bf          A.80 utt2:  Past a point it doesn't make any difference. /  
+
+aa          B.81 utt1:  Yeah. /  
+
+b          A.82 utt1:  Yeah,  /
+sv          A.82 utt2: that's really, really unfortunate.  /
+sv          A.82 utt3: It really is. /  
+
+%          B.83 utt1:  {C But } [ it's just, +  it's just ]  that, {F uh, } {D you know, } [ i-, +   {D you know, } {D like } the, ] - /
+sv          B.83 utt2: we just put our goals in different, {D you know, }  levels is  /
+%          B.83 utt3: {D like } saying, {D you know, } it's {D like } - /
+sv          B.83 utt4: yeah,  /
+sv          B.83 utt5: sure,  /
+sd          B.83 utt6: we need oil, {D you know, } /  
+
+b          A.84 utt1:  # Uh-huh. # /  
+
+sd          B.85 utt1:  # {C and } # we need it desperately. /  
+
+b          A.86 utt1:  # Yeah. # /  
+
+sd          B.87 utt1:  # {C But } # the other countries,  [ that, + {D you know, } that ] have oil but not as big, {D you know, } {D like } they say, {D you know, }  {D like } when the prices went up [ and + ] then they went down. /  
+
+b          A.88 utt1:  Uh-huh. /  
+
+sd          B.89 utt1:  When they took that big dip it was  because they discovered another big oil well somewhere in Saudi Arabia,   
+
+b          A.90 utt1:  # Uh-huh. # /  
+
++          B.91 utt1:  # or # something. /  
+
+sv          A.92 utt1:  Seems {D like } the prices never go  down to where they were originally, though, [ before, +  before ] the increase started. /  
+
+sv          B.93 utt1:  {D Well, } [ [ th-, +  it, ] +  its ] an advantage. /  
+
+b         A.94 utt1:  # Uh-huh. # /  
+
+sv(^q)          B.95 utt1:  # {D You # know, } it's like   you're saying, okay, I can bring my prices up to a dollar fifty a gallon and I'm not going to bring  them back down to, {D you know, } ninety-nine cents. /  
+
+b          A.96 utt1:  Uh-huh. /  
+
+qh          B.97 utt1:  Why,  /
+sv          B.97 utt2: because people are willing  to pay a dollar fifty a gallon,  /
+sv          B.97 utt3: {C so } if I [ di-, + leave ] it at a dollar ten, people are still going to pay. /  
+
+aa          A.98 utt1:  True. /  
+
+sd          B.99 utt1:  {D You know, } I went down forty cents, /  
+
+b          A.100 utt1:  # Uh-huh. # /  
+
+sv          B.101 utt1:  # {C but } # I went up ten cents. /  
+
+b          A.102 utt1:  Yeah. /  
+
+b^m          B.103 utt1:  Yeah. /  
+
+sd          A.104 utt1:  About the lowest I've seen gasoline  in the Dallas area is, {F uh, } I guess, about ninety-two point nine now. /  
+
+br          B.105 utt1:  Ninety-eight? /  
+
+sd          A.106 utt1:  Ninety-two. /  
+
+ba          B.107 utt1:  {F Oh, } God.  /
+sd          B.107 utt2:  Here [ it's like, +  it's like ] a dollar five. /  
+
+b          A.108 utt1:  {F Oh } really. /  
+
+b          B.109 utt1:  Yeah. /  
+
+sd          A.110 utt1:  {D Well } there's still a lot of  dollar five places here  /
+sd          A.110 utt2: {C but } you can find some that's under a dollar, but [ not, +  not ] a whole lot.  /
+sd          A.110 utt3:   That's the lowest I've seen. /  
+
+%          B.111 utt1:  {C But } still the, - /
+qy          B.111 utt2: {E I mean, }  have you ever checked, {D like, } {F uh, } the most money-makers [ in, +  {F uh, } in ] nineteen, {F uh, }  ninety.  /
+sd          B.111 utt3:  {F Uh, } you can see that, {F uh, }   
+
+ny          A.112 utt1:  # Uh-huh. # /  
+
++          B.113 utt1:  # Exxon # and Amaco and {F uh, } other companies,  {A {F oh } God, I forgot their names, } [ but, + ] {F uh, } Exxon was the number one money-maker, /  
+
+b          A.114 utt1:  # Uh-huh. # /  
+
+sd          B.115 utt1:  # {C and } # that was just because  [ of, +  of ] the last quarter. /  
+
+b          A.116 utt1:  Right,  /
+sd          A.116 utt2: I think Mobil was doing very well, too. /  
+
+b          B.117 utt1:  Yeah. /  
+
+sd          A.118 utt1:  {D Well } [ als-, + ] [ I, +  I ]  assume all the [ major, +  major ] brands are. /  
+
+%          B.119 utt1:  {C And, } {F uh, } that was, - /
+sd          B.119 utt2:  {E I mean } {C and } what other companies [ are, +  went up ] four hundred and some percent. /  
+
+b          A.120 utt1:  Uh-huh. /  
+
+sv          B.121 utt1:  {C And } that's practically impossible  to do now a days, for a company [ to, +    
+
+aa          A.122 utt1:  # That's true.  # /  
+
++          B.123 utt1:  # to ] shoot # up in that way. /  
+
+aa          A.124 utt1:  Yeah,  /
+aa^r          A.124 utt2: yeah,  /
+sv          A.124 utt3: that's true. /  
+
+sv          B.125 utt1:  {C And, } {F uh, } it's just that,  {D you know, } [ people, +  people ] take advantage of that.  /
+sd(^q)          B.125 utt2: {D You know, } {D like } [ the, +  the ]  companies are saying we're trying not to raise our prices but [ when, +  {D you know, } when ]  we get a barrel coming in at more than what we're selling it for, we've got to raise our prices. /  
+
+b         A.126 utt1:  Uh-huh. /  
+
+sd          B.127 utt1:  {D You know, } {C but } still if you  realize that, {F uh, } one barrel has {D {D like, } how much was it, {D like, } } {F um } forty gallons, /  
+
+aa          A.128 utt1:  # Yeah,  /
+h          A.128 utt2: something like, - /
+%          A.128 utt3: yeah. # /  
+
+sd          B.129 utt1:  # it's got forty gallons #  /
+sd          B.129 utt2:  {C and } they're selling, {D you know, } {D you know, } - /
+sd          B.129 utt3: you got to pay forty dollars at least and,    
+
+b          A.130 utt1:  # Yeah. # /  
+
++          B.131 utt1:  # {D you # know, } [ for, +  {F uh, } for ]  one gallon  /
+sd          B.131 utt2: {C and } [ it's, +  it was ] selling {D like } at twenty-five or something. /  
+
+b          A.132 utt1:  Uh-huh. /  
+
+sd          B.133 utt1:  {C So } you're making, {F uh, }  {D you know, } fifteen dollars profit, easily. /  
+
+b          A.134 utt1:  Yeah,  /
+b^r          A.134 utt2: yeah,  /
+b          A.134 utt3: sure. /  
+
+%          B.135 utt1:  {C And, } {F uh, } everything, - /
+sv          B.135 utt2:  {E I mean, } [ {C and, } + {C and, } ]  the expenses, {D you know, } of the war, {D you know, } [ it's  like, + {F uh, } it's like ]  who's gaining on this. /  
+
+b          A.136 utt1:  # Uh-huh. # /  
+
+b          B.137 utt1:  # Okay, #  /
+qh          B.137 utt2: because, {F uh, } [ i-, + ]  [ does, + does ] the U S government own any gas companies, [ like, +  like, ]  {D you know } gas stations and stuff? /  
+
+b          A.138 utt1:  Uh-huh. /  
+
+sd          B.139 utt1:  [ I, +  {C because, } {D see }  {D like } for example, I ] don't know if the British government owns Shell.  /
+sd          B.139 utt2:  I'm not sure about that. /  
+
+sd          A.140 utt1:  I'm not sure either. /  
+
+sv          B.141 utt1:  {C But } the thing is {D like } the  U S government got nothing out of it.    
+
+b          A.142 utt1:  Uh-huh. /  
+
++          B.143 utt1:  Because, {D well, } {D you know, }  it's {D like } [ oth-, +  the other ] independent companies, the gas stations, {D you know, } they did.  /
+sd          B.143 utt2:   {C And, } {F uh, } then the taxes go up  /
+sd          B.143 utt3: {C and } then everybody else loses. /  
+
+b          A.144 utt1:  Uh-huh. /  
+
+sv          B.145 utt1:  {C But, } {F um, } {D you know, } [ they're just, +   they're just ] some things that might not be worth it. /  
+
+aa          A.146 utt1:  Yeah,  /
+sv          A.146 utt2: that's true. /  
+
+qh          B.147 utt1:  {D You know, } [ {C and, } + {C and } ]  first of all [ how many, +  how many ] people [ had to, +  had to ] die before the war, {D you know, }  /
+sd          B.147 utt2:  it's like transporting stuff and things like  that,   
+
+b          A.148 utt1:  # Uh-huh,  /
+b          A.148 utt2: yeah. # /  
+
++          B.149 utt1:  # before, {D you # know, } it's {D like } - /
+%          B.149 utt2:  yeah  /
+sv          B.149 utt3: sure, {D you know, } {D like } [ to, +  to ] a couple people that died there, their families don't  feel it was necessary to do that. /  
+
+aa          A.150 utt1:  Sure,  /
+bf          A.150 utt2: dead's dead. /  
+
+aa          B.151 utt1:  Yeah,  /
+aa^r          B.151 utt2: yeah,  /
+sd          B.151 utt3: [ [ you, +  you could, ] +   you could ] never bring them back. /  
+
+aa          A.152 utt1:  That's true,  /
+%          A.152 utt2: {C so. } -/  
+
+b          B.153 utt1:  {F Oh } {D well. } -/  
+
+sv          A.154 utt1:  {D Well, } I don't guess we resolved  anything  /
+sv          A.154 utt2: {C but } it's interesting. /  
+
+b          B.155 utt1:  Yeah,  /
+%          B.155 utt2: {D so, } okay,  /
+fc          B.155 utt3: nice talking to you. /  
+
+fc          A.156 utt1:  To you too,  /
+fc          A.156 utt2: take care. /  
+
+fc          B.157 utt1:  Bye-bye. /  
+
+fc          A.158 utt1:  Bye-bye. / 

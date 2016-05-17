@@ -1,0 +1,372 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3070_1284_1264
+TOPIC#:		331
+DATE:		910614
+TRANSCRIBER:	RDL
+UTT_CODER:      MMAB
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	1
+STATIC_ON_A:	3
+STATIC_ON_B:	4
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        A is hard to hear because it is faint and because of the 
+pre-echo from B cutting in on A  There is a faint background conversation 
+on B side through most of conversation.  
+
+=========================================================================
+  
+
+qy          B.1 utt1:  Does your family normally have a reunion?  /
+qy          B.1 utt2: Do you have one, /  
+
+%          @A.2 utt1:  # {D Well, } # -/  
+
+%          B.3 utt1:  # that's # been, -/  
+
+%          A.4 utt1:  <Laughter>  on my father's side we've really there, {F uh, } -/  
+
+b          B.5 utt1:  Uh-huh. /  
+
+na          A.6 utt1:  On my mother's side we've had several,  /
+sd          A.6 utt2: [ not, +    
+
+b          B.7 utt1:  # Uh-huh.  # /  
+
++          A.8 utt1:  # it's # not ] really on a regular basis,  /
+sd          A.8 utt2: {C but } usually sometimes every few summers.   /
+sd          A.8 utt3: {D Well, } [ all, + {D see, } all ] the family lives in once place, except for a few of us are scattered about. /  
+
+b          B.9 utt1:  Right. /  
+
+sd          A.10 utt1:  {C So } they're pretty much just reunited always -- /  
+
+b          B.11 utt1:  Uh-huh. /  
+
+sd          A.12 utt1:  -- {C so } [ it's, + it's ] just once in a while we get the special gathering with everyone together. /  
+
+ad          B.13 utt1:  {D Well, } it might be a good time for you [ [ to be-, + to, ] + to start ] a tradition. /  
+
+aa          A.14 utt1:  I know,  /
+%          A.14 utt2: that's <laughter>, -/  
+
+ad          B.15 utt1:  You could be responsible for that yourself. /  
+
+%          A.16 utt1:   ((   ))  do that, - /
+aa          A.16 utt2: that's true. /  
+
+b          B.17 utt1:  Sure. /  
+
+qo          A.18 utt1:  How about your family? /  
+
+sd          B.19 utt1:  {D Well, } in my family, let's see, last October was the forty fifth annual --   
+
+ba          A.20 utt1:  # Wow,  /
+sv          A.20 utt2: you're, #   
+
++          B.21 utt1:  -- # {F uh, } # reunion. /  
+
++          A.22 utt1:  a pro at this. /  
+
+sd          B.23 utt1:  The first Sunday in October, the Jordan family gets together. /  
+
+ba          A.24 utt1:  {F Oh, } that's good. /  
+
+sd          B.25 utt1:  {C And } all of the descendants of [ the Civil War, + {E I mean, } [ yeah, + ] the Civil War ] veterans come together,  /
+sd          B.25 utt2: {C and } they come as far away  (( from ))  California,  /
+sd          B.25 utt3: {C and } there's usually <breathing> {F oh, } between a hundred and fifty and two hundred and fifty people. /  
+
+qw          A.26 utt1:  {C And then } where do you meet? /  
+
+sd          B.27 utt1:  {F Uh, } there's a big community hall in Vernon --   
+
+bk          A.28 utt1:  Okay. /  
+
++          B.29 utt1:  -- <Lipsmack> Texas,  /
+sd          B.29 utt2: {C and, }  {F uh, } that seems to be sort of a middle ground for all of the Texas family. /  
+
+bk          A.30 utt1:  Okay.  /
+qy          A.30 utt2:  Do you have relatives in Vernon --   
+
+ny          B.31 utt1:  Uh-huh. /  
+
++          A.32 utt1:  -- then?  /
+bk          A.32 utt2: Okay. /  
+
+na          B.33 utt1:  Right,  /
+ny          B.33 utt2: uh-huh.  /
+sd^e          B.33 utt3: A lot of the older family lives in Vernon. /  
+
+b          A.34 utt1:  Right. /  
+
+sd          B.35 utt1:  {F Um, } all of his direct [ descendants, + descendants ] have now died <breathing>  /
+sd          B.35 utt2: {C and } the grandchildren are in their seventies and eighties. /  
+
+bk          A.36 utt1:  {F Oh. } /  
+
+sd          B.37 utt1:  {C So } we're talking about second and third great children here. /  
+
+b          A.38 utt1:  Right. /  
+
+sd          B.39 utt1:  {F Uh, } [ I take my boys <breathing>, + {D well, } I took them ] up until this year,  /
+sd          B.39 utt2: they're grown and gone from home now -- /  
+
+b          A.40 utt1:  {F Oh. } /  
+
+sd          B.41 utt1:  -- {C so } [ they, + they ] take their family. /  
+
+b          A.42 utt1:  Right. /  
+
+^h          B.43 utt1:  {C But, }  {F uh, } <<faint>> let's see,  /
+sd          B.43 utt2: that would make them, grandfather, great grandfather, great great grandfather,  /
+%          B.43 utt3: okay,  /
+sd          B.43 utt4: {C so } it would be the second great grandchild.  <<Faint>>  /
+%          B.43 utt5: {C And so } they, -/  
+
+b          A.44 utt1:  Okay,  /
+qy          A.44 utt2: {C so } this town hall that you meet in, is that like a, {F um, } -/  
+
+nd          B.45 utt1:  {D Well, } [ it's a community center, + it's a community hall. ]  /
+sd          B.45 utt2:  It's,   
+
+bk          A.46 utt1:  # Okay.  # /  
+
++          B.47 utt1:  # a # great big open building that has a wonderful kitchen it in,  /
+sd          B.47 utt2: {C and, }  {F uh, } you just bring the covered dishes.  /
+sd          B.47 utt3:  [ Every, + every ] family brings [ a, + a ] dish of some kind,  /
+sd          B.47 utt4: {C and } you get all the wonderful old family recipes,    
+
+x          A.48 utt1:  #  ((   )) . #   
+
++          B.49 utt1:  # that have # been handed,   
+
+qy^d          A.50 utt1:  # Potato salad and, {F uh, } # -/  
+
++          B.51 utt1:  # down for years <breathing>.  /
+nd          B.51 utt2:  # {D Well, } we try to stay away from those things which might have, {F uh, } salmonella in them. /  
+
+ba          A.52 utt1:  {F Oh, } that's good. /  
+
+sd          B.53 utt1:  {C And } we choose to bring congealed salad.  /
+sd          B.53 utt2: You can bring a congealed vegetable salad,   
+
+b          A.54 utt1:  # Right.  # /  
+
++          B.55 utt1:  # as # opposed to potato salad.  /
+sd          B.55 utt2:  {C And } [ we are very conscious of, + most of us are very conscious [ of, + of, ] ] {F uh, } sanitation aspects,   
+
+b          A.56 utt1:  # Right.  # /  
+
++          B.57 utt1:  # whatever # you've got to carry for any distance.  /
+sd          B.57 utt2:  I always,   
+
+x          A.58 utt1:  <Laughter>.   
+
++          B.59 utt1:  take home baked bread. /  
+
+ba          A.60 utt1:  {F Oh, } that's nice. /  
+
+sd          B.61 utt1:  {F Uh, } that happens to be my specialty for that family.  /
+sd         B.61 utt2:  I do other things very well, /  
+
+b          A.62 utt1:  # Right.  # /  
+
+sd          B.63 utt1:  # {C but } # there are others in the family who do them better. /  
+
+qy          A.64 utt1:  Do they always have <laughter> [ the, + the ] one person in the family who [ knows, or + everyone thinks they know ] how to make this the best,   
+
+ny          B.65 utt1:  # Uh-huh.  # /  
+
++          A.66 utt1:  # so # that's what they get to cook.  /
+ba          A.66 utt2:  {D Well, } that's good.  /
+sd          A.66 utt3:   (( {D Well } )) , I had a professor in anthropology at school who studied family reunions,  /
+sd          A.66 utt4: {C so } I learned a lot about them.  /
+sd          A.66 utt5:  I haven't,   
+
+b          B.67 utt1:  # Uh-huh.  # /  
+
++          A.68 utt1:  # been # to a lot,  /
+sd          A.68 utt2: {C but } we talked,   
+
+b          B.69 utt1:  # Uh-huh.  # /  
+
++          A.70 utt1:  # a # lot about [ the, + the ] rituals,  /
+sv          A.70 utt2: you  (( all ))  equated the family reunions as,   
+
+b          B.71 utt1:  # Uh-huh.  # /  
+
++          A.72 utt1:  # with # the Protestant.  /
+sv          A.72 utt2:  It was the Protestant version of the Catholic pilgrimage. /  
+
+b          B.73 utt1:  Uh-huh. /  
+
+sd          A.74 utt1:  [ It was, + it was ] an interesting theory.  /
+sd          A.74 utt2:  She talked about [ the, + {F uh, } the ] Catholics  /
+sv          A.74 utt3: [ all, it's a home centered, + {D you know, } it's all family centered ] anyway,  /
+sv          A.74 utt4: {C so } you usually are living where your parents live  /
+%          A.74 utt5: {C and } it's all, - /
+sv          A.74 utt6: [ your, + you ] don't have to come home,  /
+sd          A.74 utt7: {C so } the Catholics would make a pilgrimage in older Europe,  /
+sd          A.74 utt8: {C but } when the Protestant ethic happened in America, there were people who ever went out and, {D you know, } went away from the family to seek their fortune, and then had to come back home for their reunion, so that,    
+
+b          B.75 utt1:  # Uh-huh.  # /  
+
++          A.76 utt1:  # became # their version of the pilgrimage. /  
+
+b          B.77 utt1:  Right. /  
+
+%          A.78 utt1:  {C But }  she had, - /
+sd          A.78 utt2: it was interesting, {D you know, }  /
+sd          A.78 utt3: I <laughter> don't know how valid it is,  /
+sd          A.78 utt4: {C but } she talked about that and how [ the, + the  ] big picnic table was the symbolic communion of the people gathering together, and, {F um, } {D you know, } about the bread and the ritual placement.  /
+qy          A.78 utt5:  Do you have [ a, + a ] certain way that everything is placed out on the table [ every, + every ] year?  /
+qy          A.78 utt6: Is there kind of a, {D you know, } - /
+qy          A.78 utt7: salads go first and things like that? /  
+
+%          B.79 utt1:  {D Well, }  it's,  {F uh, } - /
+nd          B.79 utt2: we have, {F uh, } {F uh, } kind of a core group [ that, + that ] serves as, quote, officers of the organization, /  
+
+b          A.80 utt1: # Right. # /  
+
+sd          B.81 utt1:  # {C and } # they plan the reunions,  /
+sd          B.81 utt2: the organize [ the, + ] {D you know, } who is going to see to it that the coffee pot gets there, who's going to rent the tables, who's going to see to it that the silverware gets turned back to the caterer.  /
+sd          B.81 utt3: {F Uh, } {C and } each year it's done a little bit differently, because different people serve in those roles. /  
+
+ba          A.82 utt1:  {D Well, } that's pretty  ((   )) . /  
+
+sd          B.83 utt1:  We have a biographer [ who, + who ] continues every year to save clippings on any family member,  /
+sd          B.83 utt2: {C and } they're entered into [ a, + a ] wonderful, {F uh, } scrap book.   And  pictures of new babies and new people who have been added and, and obituaries to those who are gone.   /
+sd          B.83 utt3: {C And } it keeps the family alive,   
+
+aa          A.84 utt1:  # Sure does.  /
+ba          A.84 utt2:  That's wonderful.  # /  
+
++          B.85 utt1:  # [ even, + {D you know, } even ] # though it's very fluid.   /
+sd          B.85 utt2: {C And } they're very dedicated to that,  /
+sd          B.85 utt3: {C and, }  {F uh, } it's been really wonderful.  /
+sv          B.85 utt4:  It helps you hang onto your roots. /  
+
+aa          A.86 utt1:  Yeah.  /
+sd          A.86 utt2:  I wish we'd, -/  
+
+sv          B.87 utt1:  {C And } it helps you feel a strong sense of belonging.  /
+sd          B.87 utt2:  My husband, on the other hand, was not very close to his family.  /
+sd          B.87 utt3: His family was very scattered and very diverse. /  
+
+b          A.88 utt1:  Right. /  
+
+sd          B.89 utt1:  {C And } [ I asked him, + I got to talking to him, ]  /
+sd          B.89 utt2: I said, {D well, } how is his nephew doing.  /
+^q          B.89 utt3:  {D "Well, } I don't know,  /
+^q          B.89 utt4: I haven't,   
+
+x          A.90 utt1:  # <Laughter>.  #   
+
++          B.91 utt1:  # talked # to my brother in three years."   /
+sd(^q)          B.91 utt2: (( I said )) , "Well, how's your brother doing?"  /
+^q          B.91 utt3: "I don't know."  /
+^q          B.91 utt4:  {F Uh, } {D you know, } my son keeps in touch with him, I think,  /
+^q          B.91 utt5: {C but } I don't. /  
+
+b          A.92 utt1:  Right. /  
+
+sd(^q)          B.93 utt1:  I said, "Hey, wouldn't you like to know what's happening with these people?"  /
+^q          B.93 utt2: "Yeah,  /
+^q          B.93 utt3: {C but }  I'm,  {D you know, } - /
+^q          B.93 utt4: it's too much trouble."   /
+sd          B.93 utt5: {C So } I got busy, got together, and put a reunion together for his family.    
+
+ba          A.94 utt1:  Wow.  /
+%          A.94 utt2:  <<Faint>> You're just, {F uh, } -/  
+
++          B.95 utt1:  And succeeded in getting all of his brothers and sisters and all of their offspring but one --   
+
+ba          A.96 utt1:  {F Oh, } that's incredible. /  
+
++          B.97 utt1:  -- to our place down at Lake Tawakoni.  /
+sd          B.97 utt2:  Liked to kill me, because [ I ha-, + ] [ it was, + ] I didn't have that group cooperation,  /
+sd          B.97 utt3: I did,   
+
+b          A.98 utt1:  # Right.  # /  
+
++          B.99 utt1:  # it # by myself.   /
+sd          B.99 utt2: {C And, }  {F uh, } nobody brought covered dishes.  /
+sd          B.99 utt3: We had a great big fish fry,  /
+sd          B.99 utt4: {C and, } {D you know, } I fixed a salad in a number three tub. /  
+
+b          A.100 utt1:  Right <laughter>. /  
+
+sd          B.101 utt1:  <Laughter> [ {C And, } + {C and, } ]  {F uh, } it was an enormous task to bring all of those people together with just one or two people helping.   /
+sd          B.101 utt2: {C And, }  {F uh, } we had to provide sleeping arrangements for all of them  /
+%          B.101 utt3: {C and } I told him, -/  
+
+qr          A.102 utt1:  [ Have you, + have you ] done this repetitively, or just once? /  
+
+sd          B.103 utt1:  We did it that year,  /
+sd          B.103 utt2: {C and } then the following summer, we did not have all of the family there.  /
+sd          B.103 utt3: We sent invitations.  /
+sd(^q)          B.103 utt4:  We said, "Please let us know if you're coming."  /
+sd          B.103 utt5: It was when, {F uh, } [ his mother, + his step father ] had died the year before, /  
+
+bk          A.104 utt1:  # {F Oh. }  # /  
+
+%          B.105 utt1:  # {C and } #  it, - /
+sd          B.105 utt2: his mother was alone, {C and so } they came to support her,  /
+sd          B.105 utt3: {C and then } one by one,  [ his broth-, {D you know, } his sisters, + ] he began to lose family members, /  
+
+%          A.106 utt1:  {D See, } that's - /
+sd          A.106 utt2: [ we've + <talking>  we had ] a problem with that. /  
+
+sd          B.107 utt1:  {C and } it was difficult to hold them together.   /
+sd          B.107 utt2: {C And then, } of course, he died two years ago,  /
+sd          B.107 utt3: {C so, } {D you know, } that family has gone down to one brother and one sister now. /  
+
+bk          A.108 utt1:  {F Oh. } /  
+
+%          B.109 utt1:  {C And, }  {F uh, }  it, - /
+sv          B.109 utt2: I think that's what happens when they get scattered,  /
+sv          B.109 utt3: [ the, + the ] family unit, {D you know, } falls,   
+
+aa          A.110 utt1:  Right.  /
+sd          A.110 utt2:   [ That's our, + # was our ] problem. # /  
+
++          B.111 utt1:  # into disrepair.  # /  
+
+sd          A.112 utt1:  [ We had, {F uh, } the first reunion, + {E or }  the first, {D you know, } major reunion ] was probably six or seven years ago.  /  
+
+b          B.113 utt1:  Uh-huh. /  
+
+sd         A.114 utt1:  {C And then } the second reunion, people who maybe, {D you know, } had sacrificed things to come to the first one thought, {F oh, } {D well, } it's not that big a --   
+
+b          B.115 utt1:  Uh-huh. /  
+
++          A.116 utt1:  -- thing this year,  /
+sd          A.116 utt2: {C and so } it kind of wound down, /  
+
+b          B.117 utt1:  # Uh-huh.  # /  
+
+sd          A.118 utt1:  # {C and # then } finally, {D you know, } [ you're lucky to get, + {D you know, } you get ] the Shreveport relatives there, but no one else  /
+%          A.118 utt2: {C so } that, -/  
+
+b          B.119 utt1:  Uh-huh.  /
+sd          B.119 utt2:  {D Well, } {D see, } [ we manage, + those people who are at that core group manage ] to [ keep, + keep ] the vigor alive.  /
+sd          B.119 utt3:  They'll send out news bulletins.  /
+sd          B.119 utt4: Two or three times a year you'll get a news bull-, - /
+^q          B.119 utt5:  hey, guess who got, {D you know, } elected to the legislature,  /
+^q          B.119 utt6: {C or } guess who our local sheriff,  -/ 

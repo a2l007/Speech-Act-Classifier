@@ -1,0 +1,278 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3239_1316_1324
+TOPIC#:		351
+DATE:		911010
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+========================================================================
+  
+
+qy          A.1 utt1:  {D Well, } do you have any pets? /  
+
+ny          B.2 utt1:  Yes  /
+sd^e          B.2 utt2: I do.  /
+sd          B.2 utt3:  I have a dog named Grisly,  who's a ten year old, {F uh, } mixed breed between Golden Retriever, Afghan Hound and Chow. /  
+
+bk          A.3 utt1:  Oh. /  
+
+sd          B.4 utt1:  {C And } I have a pair of box turtles. /  
+
+bk          A.5 utt1:  {F Oh, } /  
+
+x          B.6 utt1:  <Laughter>.   
+
+sd          A.7 utt1:  I used to have box turtles, {F um, } {D well, } years ago,  when I was growing up -- /  
+
+b          B.8 utt1:  Yeah, /  
+
+sd          A.9 utt1:  -- [ I, + I ] really like them. /  
+
+b          B.10 utt1:  {F Oh, } yeah,  /
+sd          B.10 utt2: I do, too.  /
+sd          B.10 utt3: Lucky and Spot,  that's their names -- /  
+
+b          A.11 utt1:  Oh. /  
+
+sd          B.12 utt1:  -- {C and } they live in an aquarium without water  in my family room,  /
+sd          B.12 utt2: {C and } my dog thinks he's a mother turtle,   
+
+x          A.13 utt1:  <Laughter>.   
+
++          B.14 utt1:  and always has his nose all around my turtle box,  /
+qy          B.14 utt2: {C so } do  you have any pets now? /  
+
+ny          A.15 utt1:  Yes,  /
+sd^e          A.15 utt2: {F um, } we have one dog, a Bichon Frise.  /
+sd          A.15 utt3:  {F Um, } our friends in Houston bred the dogs.  /
+sd          A.15 utt4: I had never heard of them -- /  
+
+nn          B.16 utt1:  No,  /
+sd          B.16 utt2: I haven't either. /  
+
+sd          A.17 utt1:  -- [ they're, + {F um, } they're ] all  white  /
+sd          A.17 utt2: {C and } they're small, [ and, + {F um, } and ] fluffy,  /
+sd          A.17 utt3: they don't shed.  /
+sd          A.17 utt4:  I guess they're distantly related to  a poodle,  /
+sd          A.17 utt5: {C but } they're not very well known in this country,  /
+sd          A.17 utt6: {C and } they're not, {F um, }  high strung or over bred --   
+
+b          B.18 utt1:  Oh. /  
+
++          A.19 utt1:  -- {F um. } /  
+
+qw          B.20 utt1:  {C And } how big do they get. /  
+
+sd          A.21 utt1:  Ours is, {F uh, } on the small end,  /
+sd          A.21 utt2: {C and } she's about  ten pounds,  /
+sd          A.21 utt3: {C and } they range from probably ten to sixteen pounds -- /  
+
+ba          B.22 utt1:  {F Oh, } that's interesting. /  
+
+sd          A.23 utt1:  -- {C and } they love people, {F um, } and kids  /
+sd          A.23 utt2: {C and }  that was something we were looking for, {F um, }  /
+sd          A.23 utt3: [ our, + our ] love is Golden  Retrievers,  /
+sd          A.23 utt4: {C and } that's what we had intended to get in Houston,  /
+sd          A.23 utt5: {C but } we had a small yard  and a pool  /
+sd          A.23 utt6: {C and } knowing how they love to dig --   
+
+%          B.24 utt1:  Ye-, - /
+sv          B.24 utt2: the water,  /
+%          B.24 utt3: yes. /  
+
++          A.25 utt1:  -- and love the water, {F um, } [ and + ] we thought  that was kind of a tough climate -- /  
+
+b          B.26 utt1:  Yeah. /  
+
+sd          A.27 utt1:  -- {C so, } {F uh, } we ended up getting  this,  /
+sd          A.27 utt2: {C and, }  {F uh, } my son would rather have a Golden Retriever, though,  I think <laughter> -- /  
+
+b          B.28 utt1:  Oh. /  
+
+sd          A.29 utt1:  -- now he wants [  a, + a ] good size dog <laughter>. /  
+
+b          B.30 utt1:  Uh-huh,  /
+sd          B.30 utt2: {D well, } we've got a good size dog,  /
+sd          B.30 utt3: {C and } we  were considering getting a puppy, a small house, lap top dog for him,  because he likes other animals and  [ for me, + ] because we used to have a miniature Dachshund,  /
+sd          B.30 utt4:  {C and } I miss --   
+
+b          A.31 utt1:  Oh. /  
+
++          B.32 utt1:  -- having a little one --   
+
+b          A.33 utt1:  Yeah. /  
+
++          B.34 utt1:  -- {D you know, } around.  /
+ba          B.34 utt2: The kind you have sounds very  interesting, though. /  
+
+sd          A.35 utt1:  {D Well, } [ they really are, + {F um, } they're really ]  sweet dogs.  /
+sd          A.35 utt2: [ We've, + {F uh, } we ] thought probably our neighborhood in Houston had more of this breed than any other place just because of, {F um, } the family that  had them [ and, + and ]  bred them.  /
+sd          A.35 utt3: They had five litters of puppies,  /
+sd          A.35 utt4: [ {C and } + --   
+
+b          B.36 utt1:  Oh. /  
+
++          A.37 utt1:  -- {C and } ] a lot of them stayed in the neighborhood -- /  
+
+b          B.38 utt1:  Uh-huh. /  
+
+%          A.39 utt1:  -- {C because, } {F um, } -/  
+
+qw          B.40 utt1:  {C And } how do you spell that breed? /  
+
+sd          A.41 utt1:  It's B I C H O N  F R I S E. /  
+
+b^m          B.42 utt1:  F R I S E.  /
+qw          B.42 utt2: {C And } how do you pronounce that? /  
+
+sd          A.43 utt1:  Bichon Frise. /  
+
+bk          B.44 utt1:  Okay.  /
+sd          B.44 utt2: I'm writing it out phonetically, /  
+
+b          A.45 utt1:  Yeah.  /
+%          A.45 utt2:  They're, {F uh, } - /
+sd          A.45 utt3: {C and } they don't shed  /
+sv          A.45 utt4: {C so } [ they're, + they're ] good dogs for people [ with, + with ] --   
+
+b          B.46 utt1:  Yes, /  
+
++          A.47 utt1:  -- allergies,  /
+sd          A.47 utt2: {C and } they love people,  /
+%          A.47 utt3: {C and } they're, -/  
+
+qy          B.48 utt1:  Do they bark a lot? /  
+
+nn          A.49 utt1:  {F Um, } no,  /
+sd^e          A.49 utt2: not really.  /
+sd          A.49 utt3:  [ Ours, + {F um, } ours ] barks  more [ than, + {F um, } than ] some, because she spent a lot of time at our friends house.  /
+sd          A.49 utt4: We used to swap  back and forth dogs.  /
+sd          A.49 utt5:  ((   ))  they have three dogs.  /
+sd          A.49 utt6:  They had a  Cockapoo, [ and, + and ] two Bichons --   
+
+b          B.50 utt1:  Uh-huh. /  
+
++          A.51 utt1:  -- {F um, }  /
+sd          A.51 utt2: {C and } she didn't bark at all until  she spent time there -- /  
+
+bk          B.52 utt1:  Oh. /  
+
+sd          A.53 utt1:  -- {C and, }  {F uh, } now it's funny.  /
+sd          A.53 utt2:  [ She's, + she's ]  a good watch dog -- /  
+
+b          B.54 utt1:  Uh-huh. /  
+
+sd          A.55 utt1:  -- {C and } if there's, she'll bark that way,  /
+sd          A.55 utt2: {C but } she  also talks a lot,  /
+sd          A.55 utt3: she --   
+
+b          B.56 utt1:  Yes. /  
+
++          A.57 utt1:  -- {F um, } has a definite personality  /
+sd          A.57 utt2: {C and so, } if we're  leaving her, she barks at us, because --   
+
+b          B.58 utt1:  Oh. /  
+
++          A.59 utt1:  -- she doesn't want to be left.  {F Um. } /  
+
+qy          B.60 utt1:  Does she ever mess in the house? /  
+
+nn          A.61 utt1:  No,  /
+nn^r          A.61 utt2: no,  /
+sd^e          A.61 utt3: {C and } [ they're, + {F um, } they're ]  very smart dogs.  /
+sd          A.61 utt4:  The circuses in Europe used to use them --   
+
+b          B.62 utt1:  Oh. /  
+
++          A.63 utt1:  -- {F um, } for the acts.  /
+sd          A.63 utt2:   [ They, + {F uh, } {F oh, } they'll ] dance --   
+
+b          B.64 utt1:  Uh-huh. /  
+
++          A.65 utt1:  -- on their hind legs each -- /  
+
+ba          B.66 utt1:  {F Oh, } gee. /  
+
+sd          A.67 utt1:  -- {F um, } {C but } they're very easy to train -- /  
+
+b          B.68 utt1:  Uh-huh. /  
+
+%          A.69 utt1:  -- {C and, } -/  
+
+qw          B.70 utt1:  {C And } about how much are they? /  
+
+%          A.71 utt1:  {D Well, } they range, - /
+^h          A.71 utt2: I'd noticed up here they're a  lot more expensive it seemed to me from the ads in the paper.  /
+sd          A.71 utt3:  They run anywhere from  two hundred to four hundred dollars, I think --   
+
+qw          B.72 utt1:  [ {C And } how about the, +   
+
++          A.73 utt1:  -- which I thought was a lot. /  
+
++          B.74 utt1:  {C And } how about the ] person in, {F uh, } Houston? /  
+
+nd          A.75 utt1:  {D Well, } she's no longer breeding them -- /  
+
+bk          B.76 utt1:  Oh. /  
+
+sd          A.77 utt1:  -- {C but, }  {F um, } {C because } her dogs, {F um, } [ the, + the ]  second one that she has was one of the puppies from the litter,  /
+sd          A.77 utt2: {C and, }  {F uh, } the one male  that she used had a tooth problem -- /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+sd          A.79 utt1:  -- {C and so } she only bred that dog once because it had --   
+
+b          B.80 utt1:  {F Oh, } yes. /  
+
++          A.81 utt1:  -- the tooth problem, and did them strictly as,  {F um, } pets, {D you know } --   
+
+b          B.82 utt1:  Just pets, /  
+
++          A.83 utt1:  -- they [ weren't, + weren't ] show quality. /  
+
+b          B.84 utt1:  Yes,  /
+sd          B.84 utt2: that's what we'd rather have is just a  pet, instead of -- -/  
+
+b          A.85 utt1:  Ri-, -/  
+
+sd          B.86 utt1:  -- we used to show Saint Bernards when I was a little girl.  /
+sd          B.86 utt2:   We did that every weekend, /  
+
+sv          A.87 utt1:  {F Oh, } {C but, }  {D yeah, } takes a lot of time. /  
+
+aa          B.88 utt1:  Yes,  /
+sv          B.88 utt2: {C and } it's very expensive. /  
+
+aa          A.89 utt1:  Yeah,  /
+sd          A.89 utt2: {F um, } {C but } she might have some contacts  here,  /
+sd          A.89 utt3: [ I know origina-, + I know ] that the dog's grandmother, {F um, } was from Plano, /  
+
+sd          B.90 utt1:  {F Oh, } that's where I live, /  
+
+sd          A.91 utt1:  {F Oh, } that's where I live, too. /  
+
+b          B.92 utt1:  Yeah,  /
+sd          B.92 utt2: I'm at Coit and Legacy ... -/ 

@@ -1,0 +1,187 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2151_1010_1126
+TOPIC#:		327
+DATE:		910313
+TRANSCRIBER:	GLP
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	4
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:	Caller B had children yelling in background.  Some distortion
+                because speaker B spoke so loudly.  JSS
+
+=============================================================================
+  
+
+o          B.1 utt1:  Okay. /  
+
+b^m          A.2 utt1:  Okay. /  
+
+qw          B.3 utt1:  {D Well } what do you think about the idea of, {F uh, } kids having to do public service work for a year?  /
+qy          B.3 utt2: Do you think it's a <breathing>, -/  
+
+sv          @A.4 utt1:  {D Well, } [ I, + I  ] think it's a pretty good idea.  /
+sv          @A.4 utt2: I think they should either do that, [ or, + or ] afford some time to the military, [ or, + or  ] helping elderly people. /  
+
+aa          B.5 utt1:  Yes,  /
+aa^r          B.5 utt2: yes,  /
+%          B.5 utt3: def-, -/  
+
+sv          A.6 utt1: [ [ I, + I, ] + {D you know, } I ] think that we have a bunch of elderly folks in the country that could use some help  /
+sv          A.6 utt2: {C and } I think that before we expend all our young talent overseas [ and, + and ] helping other countries we ought to perhaps give a little bit of our help to our own folks at home  /
+sv          A.6 utt3: {C and } --   
+
+aa          B.7 utt1:  That's true. /  
+
++          A.8 utt1:  -- I'm not sure that that's not a bad idea  /
+sv          A.8 utt2: [ {C and, } + {C or }  ] the military for a year or two,   
+
+b          B.9 utt1:  Yeah. /  
+
++          A.10 utt1:  wouldn't be bad for, - /
+sv          A.10 utt2: I think it teaches kids how to grow.  /
+qo          A.10 utt3:  How about yourself? /  
+
+aa          B.11 utt1: {F Uh, } I agree with you.  /
+sd          B.11 utt2: {F Uh, } {F uh, } what I'm thinking about is back <breathing>, {D well, } when I was a kid, and much earlier than that, kids were kind of, [ i-, + i-, ] - /
+sv          B.11 utt3: {D you know, } the parents kind of pushed them to join, {D like } the Boy Scouts <children> or Girl Scouts  /
+sv          B.11 utt4: {C and } they did, [ [ do, + do ] + do ] a lot of public service activities,  /
+sv          B.11 utt5: {C but } these days they're not, {F uh, }  /
+sv          B.11 utt6: [ par-, + parents ] aren't encouraging their kids to do things like that.  /
+sd          B.11 utt7: {C Because } when I was in the Girl Scouts, we did a lot of public service things, because that's just part [ [ o-, + of, ] + of ] the scouting, and, {D you know. } -/  
+
+b          A.12 utt1:  Yeah,  /
+%          A.12 utt2: [ I've, + I've, ] - /
+sv          A.12 utt3:  that's really great.  /
+sv          A.12 utt4:  [ I, + I  ] really think that both the Boy Scouts and Girl Scouts is [ a excellent, + two excellent  ] organizations. /  
+
+aa          B.13 utt1:  They are  /
+%          B.13 utt2: {C but } parents, -/  
+
+sv          A.14 utt1:  {D You know, } kids seem like when they get ten or twelve years old they fall out of that, /  
+
+aa          B.15 utt1:  Yeah,  /
+aa          B.15 utt2: they do. /  
+
+sv          A.16 utt1:  {C and } they don't follow it at all, {D you know. }  /
+sv          A.16 utt2: There are very few Scouts go on,   
+
+aa          B.17 utt1:  {F Oh, } no. /  
+
++          A.18 utt1:  and become Eagle Scouts.  /
+sd          A.18 utt2: [ {C And, } + {C and }  ] I don't know what the high rank is for the gals  /
+%          A.18 utt3: {C but, } -/  
+
+%          B.19 utt1:  [ I, +  I, ] {F uh, } - /
+sd          B.19 utt2: senior. /  
+
+b          A.20 utt1:  Oh.  /
+b^m          A.20 utt2:  Senior,  /
+bk          A.20 utt3: okay.  /
+%          A.20 utt4: {C So, } there's not, {F uh, } -/  
+
+%          B.21 utt1: {F Oh, } they're just not, - /
+sv          B.21 utt2: once they get into junior high it just,   
+
+b          A.22 utt1:  Yeah,  /
+sv          A.22 utt2: [ they, + they  ] lose interest. /  
+
++          B.23 utt1:  not done anymore <children>. /  
+
+sv          A.24 utt1:  {C and then } when they [ young, + young  ] adults,   
+
+b          B.25 utt1:  Uh-huh. /  
+
++          A.26 utt1:  there's even less interest there.  /
+sv          A.26 utt2: They're more for, I g-, -/  
+
+^2          B.27 utt1:  Me <laughter>. /  
+
+%          A.28 utt1:  [ Not, + not,  ] - /
+aa          A.28 utt2: yeah. /  
+
+sd          B.29 utt1:  Grab,  /
+sd          B.29 utt2: grab,  /
+sd          B.29 utt3: grab,  /
+sd          B.29 utt4: walk out <laughter>. /  
+
+aa          A.30 utt1:  Yeah,  /
+sv          A.30 utt2: you're absolutely right <laughter>. /  
+
+b          B.31 utt1:  Yeah  /
+x          B.31 utt2: <sniffing>.   
+
+sv          A.32 utt1: I think it's a really a good thing.  /
+sd          A.32 utt2: [ I, + I ] like to see, - /
+sv          A.32 utt3: of course, there's, {D you know, } third world countries that can use all kind of help <laughter>. /  
+
+b          B.33 utt1:  Yeah,  /
+sv          B.33 utt2: {C but } there's a lot that can be done right here in this country,    
+
+sv          A.34 utt1:  {C But } I think,   
+
++          B.35 utt1:  too. /  
+
++          A.36 utt1:  we ought to start right here at home.  /
+%          A.36 utt2: I'm, {D you know, } -/  
+
+b          B.37 utt1:  Yeah,  /
+sv          B.37 utt2: {F uh, } [ I'm not, + I'm not  ] so sure that [ overseas  help, + helping overseas  ] would be such a hot idea [ for, + for, ] {F uh, } a lot of young [ k-, + people.  ] /  
+
+aa          A.38 utt1:  No,  /
+%          A.38 utt2: [ it, + it,  ] -/  
+
+sv          B.39 utt1:  {C But, } since there is much that needs to be done here. -/  
+
+sv          A.40 utt1: [ I think that, + {D yeah, } I think that ] we need to really address what we've done here  /
+sv          A.40 utt2: [ {C and, } + {C and then } ] perhaps even a six month tour overseas that gives them much broader outlook. /  
+
+b          B.41 utt1:  Uh-huh. /  
+
+sv          @@A.42 utt1:  {D Well, } it's been really good.  /
+sd          @@A.42 utt2: We talked about this for a few minutes,  /
+sd^t          @@A.42 utt3: {C and, } {F uh, } hopefully, we'll have other good topic maybe another call someday,  /
+sd          @@A.42 utt4: {C but } [ I, + I  ] don't really have too much more to say on this topic, I guess. /  
+
+b          B.43 utt1:  No,  /
+sd          B.43 utt2: [ I, + I  ] agree with you <laughter>. /  
+
+sv          A.44 utt1: [ [ It, + we, ] + I guess we ] both agree that it's a good thing,   
+
+b          B.45 utt1:  Yeah. /  
+
++          A.46 utt1:  that they should do sometime. /  
+
+aa          B.47 utt1:  Okay. /  
+
+fc          A.48 utt1:  {D Well } you take care,  /
+fc          A.48 utt2: [ {C and, } + {C and, }  ]     
+
+fc          B.49 utt1:  You, too. /  
+
++          A.50 utt1:  enjoy the day. /  
+
+fc          B.51 utt1:  You, too. /  
+
+ft          A.52 utt1:  Thank you, ma'am.  /
+fc          A.52 utt2: Bye-bye. /  
+
+fc          B.53 utt1:  Bye-bye. / 

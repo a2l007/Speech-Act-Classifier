@@ -1,0 +1,543 @@
+The classmaps directory contains DA lists and various classmaps.  The file
+da_list provides a list of 2083 unique DA labels found in the MRDA corpus.
+If the DA labels are split at the pipe bar '|' into two separate labels,
+there are 64 labels not found in da_list.  These 64 labels were added to
+those in da_list to form another list (called da_list_w_split).
+
+Classmaps are provided as examples of ways in which the large number
+of tag types and combinations could be grouped into smaller sets of
+classes.  The proposed groupings should be viewed only as suggestions
+from the annotators that may be appropriate to certain research
+questions.  Note that the maps provided are not motivated by empirical
+findings, nor are they the only meaningful maps that could be used.
+
+X is the convention used to indicate that the label should be ignored
+in mapping.  Dominance relations and a listing of labels that were
+mapped to themselves are also provided for each map.  
+
+The first section below has a general description for each original mapping
+and the next section has a more detailed description for those who are
+interested.
+
+Overall descriptions of five revised classmaps follow the detailed
+description of the original classmaps.  These five classmaps are
+revised versions of their original counterparts, where certain DA
+labels were reassigned to different classes.  (We recommend using the
+revised classmaps over the originals, because we believe they do a
+better job of grouping the labels.)  The new classmaps are named with
+a "b" at the end of the classmap name, denoting it is a revised version
+of the original classmap, e.g. "map_02b" is a revised version of "map_02".
+
+The expanded versions of these revised classmaps are also given, and named
+with the suffix "_expanded" appended at the end.  The expanded versions are
+obtained by applying the classmaps "top-down" on each unique DA label given
+in da_list.  In other words, the first mapping rule that applies to a label
+(when looking top-down in the classmap file) is what is used to map the
+label.  This is done for each label in the list.
+
+Files in the classmaps/ directory with the suffix "_w_split" include the 64
+labels found when splitting at the pipe bar '|'.
+
+Please note that the expanded versions of the original classmaps were
+obtained by applying the original classmaps "bottom-up".
+
+Also note that the reliability data included in the reliability/ directory
+is based on the original five classmaps, not the revised mappings.
+
+----------------------------------------
+GENERAL DESCRIPTION (Original Classmaps)
+----------------------------------------
+
+map_01		This classmap looks at the general tag type of each
+		label.
+
+map_02		This classmap is similar to the first classmap except
+		that it also preserves the presence of a filler before
+		pipe bars.
+
+map_03		This classmap looks at labels with more detail.  Each
+		tag is mapped with further specificity as compared to
+		the specificity used in the first two classmaps.
+
+map_04		This classmap attempts to compare only a few types
+		of labels.	
+
+map_05		This classmap preserves the most detail in the labels out
+		of all original classmaps.
+
+
+-----------------------------------------
+DETAILED DESCRIPTION (Original Classmaps)
+-----------------------------------------
+map_01
+		Highest-level grouping symbols used:
+		
+		D = Disruption (%, %-, %--, x)
+		B = Backchannel (b)
+		F = Filler (fg, fh, h)
+		S = Statement (s & sj)
+		Q = Question (qy, qr, qrr...)
+		Z = Nonlabeled (z)	
+		
+		- If there is a pipe bar and a disruption form:
+		   - If the left side of the pipe bar is a Filler,
+		     then the label is mapped to the S or Q that is
+		     present on the right side.
+		   - If the left side of the pipe bar is not a Filler,
+		     then the label is mapped to D.
+		- If there is a pipe bar and no disruption form then
+		  there is an order of dominance dictates the mapping.
+		  The dominance is S, Q, F.
+		- If there is no pipe bar and no disruption form, then
+		  the general tag of the label follows the highest-level
+		  grouping symbols.
+		- If there is no pipe bar and there is a disruption form,
+		  then the label is mapped to D.
+		- If there is a colon present and there is a disruption
+		  form after the colon, then the label is mapped to D.
+		  Otherwise, the general tag on the left side of the colon
+		  is selected to be mapped to the the highest-level grouping
+		  symbol.
+
+		For DAs where are more than one tag, an order of dominance
+		is used that was determined subjectively by the annotators.
+		The levels of dominance, if there is a pipe bar in the DA,
+		are as follows:
+		
+		1) S, D
+		2) Q
+		3) F 
+
+		If there is no pipe bar in the DA, the levels of dominance
+		are as follows:
+
+		1) D
+		2) S, Q, F, B
+		3) X
+
+		Given the conventions above, the following labels were
+		mapped to identical labels rather than highest-level
+		grouping symbols: fh.x|s^rt
+				  b|s
+				  b|s^e
+				  b|s^no
+
+
+
+map_02		Similar to map_01 except that pipe bars are included.
+		- If there is a pipe bar:
+		   - If the left side of the pipe bar is a Filler and
+		     the right side is an S or Q form, and if a disruption
+		     form is present, then the label is mapped to F|S or
+		     F|Q (depending on the type of dialog act after the
+		     pipe bar).
+		   - Otherwise, the label is mapped to D.
+		   - E.g. fh|s.%- ==> F|S
+			  fg|qy.%-- ==> F|Q
+			  fh|% ==> D
+			  s^aap|s.%- ==> D
+		- If there is no pipe bar:
+		   - If there is a disruption form present:
+		       - If the general tag is not a Q, then the label
+			 is mapped to a D.
+		       - If the general tag is a Q, then the label is
+			 mapped to a Q.
+		    - If there is no disruption form present, then the
+		       label is mapped according to the general tag type.
+		    - E.g. s.%- ==> D
+			   qy.%- ==> Q
+		
+		The levels of dominance for DAs that include a pipe bar
+		are as follows:
+
+		1) F|S, F|Q
+		2) D
+		3) S
+		4) Q
+	
+		Without a pipe bar, the levels of dominance are as
+		follows:
+
+		1) Q
+		2) D
+		3) S, B, F
+		4) X
+		
+		Given these conventions, the following labels were
+		mapped to identical labels rather than
+		grouping symbols: b|s
+				  b|s^e
+				  b|s^no
+				  fh.x|s^rt 
+
+
+
+map_03		Same as map_02, except there is further breakdown.
+
+		- fillers further broken down into
+			B = Backchannel 
+			H - Hold 
+			FH = Floor Holder 
+			FG = Floor Grabber
+
+		- questions further broken down into
+		  	QY = Yes/No Question
+			QW = 'Wh-' Question
+			QH = Rhetorical Question
+			QR = Or Question
+			QRR = Or Question following Yes/No Question
+	
+		- If there is a pipe bar:
+		     - If there is a disruption form present:
+			  - If the left side of the pipe bar is a Filler
+			    and the right side is an S or Q form, then
+			    then the label is mapped to the specific
+			    filler type, followed by a pipe bar, and
+			    then followed by either an S or Q.
+			  - Otherwise, the label is mapped to a D.
+		     - If there no disruption form present:
+			  - If there is no Filler on the left side,
+			    then the label is mapped according to the
+			    general tag on the left side of the
+			    utterance.
+			  - If there is a Filler on the left side,
+			    then the label is mapped according to the
+			    specific filler, followed by a pipe bar,
+			    followed by a mapping of the right hand
+			    side in accordance to the general tag type
+			    on the right hand side of the pipe bar.
+		- If there is no pipe bar:
+		     - If there is a disruption form present:
+			  - Unless the general tag is a Question form,
+			    the label is mapped to a D.
+			  - If the general tag is a Question form,
+			    then the label is mapped according to the
+			    Question type.
+		     - If there is no disruption form present, then
+		       then the general tag of the label is mapped
+		       according to the further breakdown listed above.
+		
+		Given these conventions, the following labels were
+		mapped to identical labels rather than
+		grouping symbols: b|s
+				  b|s^e
+				  b|s^no
+				  fh.x|s^rt
+
+		The levels of dominance for DAs that include a
+		pipe bar are as follows:
+
+		1) FG|Q, FG|S. FH|Q, FH|S
+		2) H|S
+		3) D
+		4) S
+		5) B, Q, FH
+
+		Without a pipe bar, the levels of dominance are as
+		follows:
+
+		1) D, Q
+		2) S, FG, FH, H, B
+		3) X, x		
+
+
+
+map_04		Only compares Accepts (A), Acknowledgments (K),
+		Backchannels (B), Floorgrabbers (F), Checks (C), and
+		Rejects (R).  All of these short utterances can use
+		the same words, so they interesting for prosodic
+		analysis.  All other tags are marked as "other."
+		
+		Here are the specific details on the mappings:
+		
+		- If there is a disruption form:
+		     - If there is an arp present, then the label
+		       follows the rules listed in the section about
+		       arp (see below) regardless of the presence of
+		       a disruption form.
+		     - If there is a % present in the label, the label
+		       is mapped to a D.
+		     - If the label has a %- or %--, then the label
+		       is mapped to O.  However, if there is an fg
+		       present with a %--, then the label is mapped to F.
+		- If there is no disruption form:
+		     - If there is a br tag, then the label is mapped
+		       to a C.
+		     - If there is a b tag, then the label is mapped
+		       to a B.
+		     - If there is an fg tag, then the label is
+		       mapped to an F.
+		     - If there is a bk tag:
+			  - If there is no pipe bar and there is no fg
+			    (which takes mapping precedence), then the
+			    label is mapped to a K.
+			  - If there is a pipe bar:
+			       - If the bk tag is on the right side
+				 of the pipe bar, the label is mapped to
+				 a K.
+			       - If the bk tag is on the left side
+				 of the pipe bar, the label is mapped 
+				 to an O.
+		     - If the label contains an arp tag:
+			  - s^arp and s^arp^bu|qy^bu^d^g^rt are
+			    mapped to D.
+			  - s^arp|s^cs and s^arp|s^no are
+			    mapped to O.
+			  - Else, the label is mapped to R.	 
+		     - If the label contains a general tag of s:
+			  - If the label does not contain specific
+			    tags, the label is mapped to S.
+			  - If the label contains specific tags:
+			       - If the label does not contain an fg,
+				 bk, aa, or arp tag, then the
+				 label is mapped to an O.  Otherwise,
+				 the label follows the rules listed
+				 above.
+
+		The levels of dominance for DAs that include a
+		pipe bar are as follows:
+
+		1) O
+		2) F
+		3) K
+
+		Without a pipe bar, the levels of dominance are as
+		follows:
+
+		1) O
+		2) D
+		3) F, B, K, A, R, C
+		4) X
+
+		Given these conventions, the following labels were
+		mapped to identical labels rather than
+		grouping symbols: b|s
+				  b|s^e
+				  b|s^no
+				  fg|qh
+				  fg|qh^cs^t^tc
+				  fh.x|s^rt
+				  fh|qh^co^t
+				  fh|qh^cs
+				  fh|qh^cs^t
+				  fh|qh^rt
+				  fh|qh^tc
+				  qh:s
+				  qo:s
+				  qr:s
+				  qw:fg
+				  qw:s
+				  qy:qw
+				  qy:qw^rt
+				  qy:qy^rt
+				  qy:s
+
+
+
+map_05		This file is based on the groupings in the manual with the
+		exception of 3 groups.  It includes pipe bars but does not 
+		include all specific tags.
+
+			  S = Statement
+		  	  QY = Y/N Question
+		  	  QW = Wh-Question
+		  	  QR = Or Question
+		  	  QRR = Or-Clause after Y/N Question
+		  	  QH = Rhetorical Question
+			  QO = Open-Option Question
+			  B = Backchannel
+			  A = Acceptance
+			  R = Rejection
+			  U = Uncertain
+			  F = Floor Mechanisms
+			  AC = Action Motivators
+			  C = Check
+			  CR = Correction
+			  P = Politeness Mechanisms
+			  D = Disruption Forms
+			  Z = Nonlabeled
+		
+		- If there is a pipe bar:
+		     - If there is no disruption form:
+			  - If the left side of the pipe bar is a
+			    Filler, then the label is mapped to the
+			    specific filler type, a pipe bar, and the
+			    mapping that the right hand side takes.
+			  - If the right hand side of the pipe bar is
+			    a Filler, then the label is mapped by
+			    the content on the left hand side of the
+			    pipe bar.
+		      - If there is a disruption form:
+			  - If the disruption form follows a Question
+			    then, the label is mapped to a D.
+			  - If the disruption form follows a Statement
+			    type, then the left and right hand side
+			    of the label are both mapped.
+		  - If there is no pipe bar:
+		       - If there is no disruption form:
+			  - The entire label is mapped.
+		       - If there is a disruption form:
+			  - The label is mapped to D.
+		  - If there is a colon:
+		       - The label is mapped according to the DA on
+			 the left side of the colon.
+		       - If there is a disruption form:
+			    - If the disruption form is present only
+			      on one side of the colon, it is ignored
+			      for mapping.
+			    - If the disruption form is on both sides
+			      of the colon, the label is mapped to D.
+		  - Individual tags are mapped as follows:
+		    AC: cs, co, and cc
+		    A: aap, aa, na
+		    B: b, bk, br
+		    C: bu
+		    CR: bsc, bc, bu
+		    P: ft, bd, fa
+		    R: ar, nd, ng
+		    U: am, no
+
+		The levels of dominance for DAs that include a
+		pipe bar are as follows:
+
+		1) F|S, F|QY, F|QO, F|QR, F|QW
+		2) D
+		3) AC, A, P, R, C, U, CR, (B)
+		4) S
+		5) QH, QO, QR, QRR, QW, QY
+		6) (B)
+
+		Note: "B" is in parentheses because "B" has greater
+		      dominance than S when "bk" is being mapped but
+		      "B" has lower dominance when "b" is being
+		      mapped.
+
+		Without a pipe bar, the levels of dominance are as
+		follows:
+
+		1) D
+		2) B, F, QH, QO, QR, QRR, QW, QY
+		3) U, AC, C, A, P, R, CR, B
+		4) S, X
+
+		Given these conventions, the following labels were
+		mapped to identical labels rather than
+		grouping symbols: b|s
+				  b|s^e
+				  b|s^no
+				  fg|qh
+				  fg|qh^cs^t^tc
+				  fh.x|s^rt
+				  fh|qh
+				  fh|qh^co^t
+				  fh|qh^cs
+				  fh|qh^cs^t
+				  fh|qh^rt
+				  fh|qh^tc
+				  h|qh
+				  qh:cs
+				  qo:cs
+
+
+---------------------------------------
+OVERALL DESCRIPTION (Revised Classmaps)
+---------------------------------------
+map_01b		This classmap looks at the general tag of each label.
+		Any label containing a disruption will be mapped to
+		D (disruption).  Labels containing pipe bars will first
+		be mapped to S (statement) if a statement is present on
+		either side and then mapped to Q (question) if a question
+		is present on either side and a statement is not.  Floor
+		mechanisms (F) are mapped on remaining utterances after
+		statements and questions have been mapped, regardless of
+		the presence of a pipe bar.
+
+map_02b		This classmap is similar to map_01b except that it
+		indicates the presence of labels before and after pipe
+		bars and it maps labels containing disruptions to D only
+		after the mappings to floor mechanisms, statements,
+		questions, and backchannels have been exhausted.  Labels
+		containing pipe bars will have the label to the left of
+		the pipe bar mapped to F, S, or Q accordingly and the
+		label to the right mapped to S or Q accordingly.  Labels
+		containing disruptions will first be mapped to F, S, Q, or
+		B, if the appropriate DAs are present, otherwise they will
+		be mapped to D.
+
+map_03b		This classmap looks at labels with more detail.  Each tag
+		is mapped with further specificity as compared to the
+		specificity used in map_01b and map_02b.  This
+		classmap behaves in much the same manner as classmap 02 by
+		indicating the presence of labels before and after pipe
+		bars.  This classmap also maps labels containing
+		disruptions to D only after the mappings to floor
+		mechanisms, statements, questions, and backchannels have
+		been exhausted.  When mapping floor mechanisms, this
+		classmap indicates the type of floor mechanism (e.g., FG,
+		FH, or H).  This classmap also indicates the type of
+		question in its mappings (e.g., QY, QW, QRR, QR, QO, or QH).
+
+map_04b		This classmap attempts to compare only a few types of
+		labels.  Unlike the previous three classmaps, this classmap
+		does not map statements and questions.  Rather, labels
+		containing "accepts" (<aa>, <aap>, and <na>) are mapped
+		to A, labels containing "rejects" (<ar>, <arp>, <nd>, and
+		<ng>) are mapped to R, labels containing "acknowledgements"
+		(<bk>, <ba>, and <bh>) are mapped to K, and labels
+		containing "checks" (<br>, <f>, and <bu>) are mapped to C.
+		Floor mechanisms, backchannels, and disruptions are mapped
+		in the usual manner.  All other labels that do not meet
+		these criteria are mapped to O (other).  Additionally, the
+		presence of labels before and after pipe bars is indicated.
+		When a pipe bar is present, the mapping hierarchy is as
+		follows:  Labels will first be mapped to F, A, R, K, and C
+		(where F takes precedence over A, A over R, and so on).
+		Then, all labels containing disruptions immediately to the
+		right of a pipe bar are mapped to D.  All other labels are
+		mapped to O.  If a pipe bar is not present, the mapping
+		hierarchy is as follows:  Labels will first be mapped to A,
+		R, K, C, B, F, D, X, and O (where A takes precedence over
+		R, R over K, and so on).
+
+map_05b		This classmap preserves the most detail in the labels out
+		of all the classmaps.  This classmap also indicates the
+		presence of labels before and after pipe bars.  In this
+		classmap, the following mappings are present:
+
+		      floor mechanisms - F
+		           fg, fh, h
+		      rejects - R
+		           ar, arp, nd, ng
+		      action motivators - AC
+		           cs, co, cc
+		      checks - C
+		           br, f, bu
+		      corrections - CR
+		           bc, bsc
+		      politeness mechanisms - P
+		           ft, bd, fa, by, fw
+		      uncertain responses - U
+		           am, no
+		      backchannels - B
+		           b, bk
+		      statements - S
+		           s
+		      questions - QY, QW, QRR, QR, QO, QH
+		           qy, qw, qrr, qr, qo, qh
+		      disruptions - D
+		           %, %-, %--
+		      nonspeech - X
+		           x
+		      nonlabeled - Z
+		           z
+
+		When a pipe bar is present, the mapping hierarchy is as
+		follows:  Labels will first be mapped to F, A, R, AC, C,
+		CR, P, U, B, S, QY, QW, QRR, QR, QO, and QH (where a F
+		takes precedence over A, A over R, and so on).  All
+		labels containing disruptions immediately to the right of
+		a pipe bar are mapped to D or X.  If a pipe bar is not
+		present, the mapping hierarchy is as follows:  Labels will
+		first be mapped to F, A, R, AC, C, CR, P, U, B (only for
+		<bk>, S, QY, QW, QRR, QR, QO, QH, B (for <b>), D, X, and Z
+		(where F takes precedence over A, A over R, and so on).

@@ -1,0 +1,393 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2027_1096_1035
+TOPIC#:		303
+DATE:		910306
+TRANSCRIBER:	csw
+UTT_CODER:	tc
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	Kids talking in the background of Caller A, distortion on 
+Caller A  Tape jumpy in the middle of combined conversation.
+
+=========================================================================
+  
+
+o          A.1 utt1:  Okay, {F um, }  /
+sd          A.1 utt2: I don't know about you  /
+sd          A.1 utt3:  {C but } where I am we have [ a +  {D like } an ] extremely lax dress policy at work  /
+sd          A.1 utt4: {C and } it varies  {D like } every day.   {E I mean } from jeans one day to business suits the next <laughter>. /  
+
+x          B.2 utt1:  <Laughter>.   
+
+sv          A.3 utt1:  It's pretty bad,  /
+sv          A.3 utt2: {C but } it's true,  {D you know, } <talking> <<kids in background>>  /
+sd          A.3 utt3: they tend to try to be, {D you know, } real lax  /
+sd          A.3 utt4:  {C and } supposedly the policy is {D like, } {D you know, } [ we, +  {D you know, } we, ]  hire these wonderful creative people  /
+sd          A.3 utt5: {C and } we don't want to  (( smush ))  their creativity, {D you know. }  /
+sd          A.3 utt6:  We want to go ahead and let them do what ever they want.  /
+sd          A.3 utt7: {C And, } {D you know, }  you really will see people [ in +  in ] jeans one day and business suits the next. /  
+
+sd          B.4 utt1:  {D Well, } I'm kind of that way too.  /
+sd          B.4 utt2:  I work in the legal department  /
+sd          B.4 utt3: {C and } where we are now, what we're doing is some very  big lawsuits that happen to have a heck of a lot of boxes of documents. /  
+
+b          A.5 utt1:  Yeah. /  
+
+sd          B.6 utt1:  {C And } I get to toting around boxes  of documents several times a day,  /
+sv          B.6 utt2: it always seems like I'm doing that  /
+sv          B.6 utt3:  {C and } I can't see getting dressed up and  wearing heels and stuff when you have to carry,  {D you know, } boxes of documents around,  /
+sd          B.6 utt4: {C so, } if I'm just going to be there  working in the litigation center and  doing, {D you know, } odds and ends and stuff  with the boxes of documents, I dress down.  /
+sd          B.6 utt5: {C But } if we're going to have a meeting,  where we're having the attorneys come in, or [ people from, + {F uh, } other party's  attorneys ] and stuff, then I normally dress up.  /
+%          B.6 utt6:  Yeah,  /
+sd          B.6 utt7: {C and } I'll wear a  dress and hose and stuff. /  
+
+b          A.7 utt1:  Yeah,  /
+sd          A.7 utt2: {D you know, } we're kind of that way too.  /
+sd          A.7 utt3:  I try to, - /
+sv          A.7 utt4: I'm the same way you are,  /
+sd          A.7 utt5: I kind of try to judge from day to day.  /
+sd          A.7 utt6:   I know, {D you know, } where I am we work a lot with the customers  /
+sd          A.7 utt7: {C and } we have a  lot of government folks come in all the time  /
+sd          A.7 utt8: [ {C and, } +    
+
+b          B.8 utt1:  Uh-huh. /  
+
++          A.9 utt1:  {C and, } ] {D you know, } if I know that  they're going to be there, {D you know, } [ you, +  I ] try to really watch it and like you say, {D you know, }  really dress up  /
+sd          A.9 utt2: {C and } if I know they're not, {D you know, } - /
+sd          A.9 utt3: [ I, +  I've ]  been doing a lot of reorganization, {D you know, } the last couple of months the same way you are, {D you know, } /  
+
+b^r          B.10 utt1:  Uh-huh. /  
+
+sv          A.11 utt1:  {C and } [ it's just ((   )) , + it's just ]  impossible to crawl down on the floor and  dig through boxes in a dress. /  
+
+aa          B.12 utt1:  <Laughter> That's right,  /
+aa^r          B.12 utt2: that's right. /  
+
+sv          A.13 utt1:  It is  /
+%          A.13 utt2: {C and so, } -/  
+
+sd          B.14 utt1:  As a matter of fact, I thought  I had one funny story  /
+sd          B.14 utt2: when, {F uh, } I was at T I the first year or so,  we were sent out to our record retention facility to look through two thousand boxes.  /
+sd          B.14 utt3:  We had them in the warehouse, /  
+
+%          A.15 utt1:  {F Uh. } /  
+
+sd          B.16 utt1:  {C and } at that point, [ it, +  the warehouse ]  was over across the road  /
+sd          B.16 utt2: {C and } it wasn't air conditioned,  /
+sd          B.16 utt3: {C and, } [ it, +  we ]  were there like in the middle of the summer,  /
+sd          B.16 utt4: it's unair-conditioned,  /
+sd          B.16 utt5: it was dusty and  dirty, {F uh, }  /
+sd          B.16 utt6: there was {D like } a fan at the very end of the row  /
+sd          B.16 utt7: {C and } that was it.  /
+sd          B.16 utt8:   {C And so, } we didn't really know we weren't supposed to, - /
+sd          B.16 utt9: we thought T I dress  code was just dress appropriate to your job, /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  we wore shorts.  /
+sd          B.18 utt2:  We didn't know that was a big no, no. /  
+
+ba          A.19 utt1:  {F Oh } no. /  
+
+sd          B.20 utt1:  {C And } the supervisor from another  area came up to us  /
+sd          B.20 utt2: {C and, } {D you know, } this area where record retention is, there's only  a few people that work there,  /
+sd          B.20 utt3: {C and } [ he, sho-, + he ] knew who worked there,  /
+sd          B.20 utt4:  he should have realized that we weren't regulars in the warehouse there.  /
+sd          B.20 utt5:   {C And } he came up to us  /
+sd(^q)          B.20 utt6: {C and } he just said, who's your supervisor.  /
+sd          B.20 utt7:  {D Well } he called our supervisor    [ and our supervisor, + and our supervisor's supervisor, ]  /
+sd          B.20 utt8: {C and } it went  up all the way to the head of facilities,   
+
+ba          A.21 utt1:  {F Oh } no </talking> <<kids in background>>. /  
+
++          B.22 utt1:  complaining that we were wearing shorts.  /
+sd(^q)          B.22 utt2:  He didn't [ at, +  at ] least say to us, did you know you're not supposed to do that.  /
+sv          B.22 utt3:   That could have alleviated a big problem.  /
+sd          B.22 utt4:  We ended up getting called out on it. /  
+
+ba          A.23 utt1:  {F Oh, } how awful.  /
+sv          A.23 utt2:  It sounds like Mister Power Hungry. /  
+
+aa          B.24 utt1:  <Laughter> Yeah. /  
+
+sd          A.25 utt1:  {D You know, } just yesterday, though,  I saw a girl in the  (( spine ))  out here at Lewisville that had on a pair of shorts. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sd          A.27 utt1:  {C And } I don't care,  /
+sd          A.27 utt2: you can call them  split skirts  /
+sd          A.27 utt3: {C and } you can call them (( culottes ))  all you want  /
+sv          A.27 utt4:  {C but } these were shorts.  /
+sd          A.27 utt5:  That's all they were. /  
+
+x          B.28 utt1:  <Laughter>.   
+
+sd          A.29 utt1:  I don't care what else you call them,  {D you know, }  /
+sv          A.29 utt2: if they're below the knee, okay,  /
+sv          A.29 utt3: maybe you can call them split skirts.  /
+sv          A.29 utt4:  If they're above the knee they turn into shorts, {D you know. } /  
+
+x          B.30 utt1:  <Laughter>.   
+
+sd          A.31 utt1:  {C And } these weren't even really full ones.  /
+sd          A.31 utt2:   {E I mean } they had a problem out here with it last summer, wearing these shorts that  were, {D you know, } the real wide full ones, {D you know, }  /
+sd          A.31 utt3: {C and }  [ becau-, + ] these weren't even those.  /
+sd          A.31 utt4:  These were {D like } pretty short, black,  /
+sd          A.31 utt5: {C and } they were  very dressy,  /
+sd          A.31 utt6: the were black velvet shorts  /
+sd          A.31 utt7: {C and } she had on black hose and black heels  /
+sd          A.31 utt8:  {C and } she looked very, very nice. /  
+
+%          B.32 utt1:  {F Um. } /  
+
+sv          A.33 utt1:  {C But, } you don't wear shorts to work.  /
+sv          A.33 utt2:  {D You know, } {E I mean, }  ((   ))  as far as I'm considered, she was in violation  /
+sd          A.33 utt3:  {C and } nobody says anything to them.  /
+sd          A.33 utt4:  It's always been a big problem in Lewisville in the summertime. /  
+
+%          B.34 utt1:  {F Um. } /  
+
+%          A.35 utt1:  {D You know, } if they just, {D you know, } - /
+sv          A.35 utt2:  the management doesn't ever seem to want to take an, cut off, {D you know, } that no,  /
+^q          A.35 utt3:  this is wear we're going to draw the line.  /
+^q          A.35 utt4: This is shorts, {D you know. } /  
+
+b          B.36 utt1:  Yeah. /  
+
+sd          A.37 utt1:  [ {C And, } + {C and } ] nobody will  ever kind of take control and do that, {D you know, } /  
+
+%          B.38 utt1:  {F Um. } /  
+
+sv(^q)          A.39 utt1:  {C so, } it always gets annoying because  the rest of us are going, {D well } God, we have a pair of those at home too.  /
+^q          A.39 utt2:   It sure would be cool and comfortable to wear, {D you know, }  /
+%          A.39 utt3: {C but. } -/  
+
+sd          B.40 utt1:  {D Well } I've seen some people try  to just come in {D like } over the weekend because they want to use the TexTeller machine. /  
+
+b          A.41 utt1:  Yeah. /  
+
+sd(^q)          B.42 utt1:  {C And } they have said no <laughter>. /  
+
+b          A.43 utt1:  Yeah  /
+sd          A.43 utt2: {C and then } during the week  you see these women, in the {D you know, }  /
+sv          A.43 utt3: just because you put on a pair of hose with them  doesn't make them not shorts anymore, {D you know. } /  
+
+b          B.44 utt1:  Yeah. /  
+
+sd          A.45 utt1:  {E I mean } I've never seen them do it  without hose,  /
+sd          A.45 utt2: {E I mean } they always have hose on,  /
+sd          A.45 utt3: {C but } still, [ it's, +  they're ]  shorts,  /
+sd          A.45 utt4: I don't care what you say,  /
+sd          A.45 utt5: they're shorts. /  
+
+x          B.46 utt1:  <Laughter>.   
+
+sv          A.47 utt1:  {D Well } I think T I's dress code is  pretty lax considering everything, anyway, {D you know, } {F uh. } /  
+
+sd          B.48 utt1:  [ I know, +  I didn't know ]  that E D S has a very strict dress code,  /
+sd          B.48 utt2: I had a friend, /  
+
+qy          A.49 utt1:  {F Oh } do they really? /  
+
+na          B.50 utt1:  {F Oh } definitely.  /
+sd          B.50 utt2: I had a friend who   worked there for a year or so  /
+sd          B.50 utt3: {C and } they spell it out.  /
+sd          B.50 utt4: For men it's particular suits,  {F uh, } the pin stripe, and the particular colors of shirts and [ win-, +  wing ] tipped shoes. /  
+
+ba          A.51 utt1:  {F Oh, } my God. /  
+
+sd          B.52 utt1:  {F Oh, } it is definitely lined out.  /
+sd          B.52 utt2:   Women are not allowed to wear slacks,  /
+sd          B.52 utt3: you wear coordinated suits. /  
+
+sd          A.53 utt1:  [ I coul-, +  I couldn't ] afford to work there. /  
+
+sd          B.54 utt1:  [ And, +  and ] a particular kind of  shoe, {D you know, } {D so } high heel,  /
+sd          B.54 utt2: {F oh } it is spelled out. /  
+
+ba          A.55 utt1:  {F Oh, } no. /  
+
+sd          B.56 utt1:  When I was looking at her materials  when she first started, {D you know, } she had her benefits package and all that kind of stuff. /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+sd          B.58 utt1:  {C And } it told about the dress code  /
+sd(^q)          B.58 utt2:  {C and } it said, these are the color pastel shirts you may wear, or white shirts with this  kind of stripe in it for the men and this kind of shoe and, hair just this way. /  
+
+sd          A.59 utt1:  T I -s says no shorts and no halters <laughter>.  /
+sd          A.59 utt2:   I know, that's it. /  
+
+b          B.60 utt1:  Yeah,  /
+sd          B.60 utt2: {C and } E D S is very particular  about this, hair cuts, /  
+
+ba          A.61 utt1:  Wow. /  
+
+sd          B.62 utt1:  {E I mean } it was like you can't have,  {D you know, } such and such facial hair, no beards, {D you know, } and just really detailed. /  
+
+sv          A.63 utt1:  I don't know that that would be a good  environment to work in.  /
+%          A.63 utt2:  {E I mean, } I see,  /
+sd          A.63 utt3: [ I, + I ] am more, - /
+sd          A.63 utt4: I don't know about  anybody else,  /
+sd          A.63 utt5: {C and } a lot of bosses may say I'm nuts,  /
+sv          A.63 utt6: {C but } I am more productive when I'm in pants. /  
+
+x          B.64 utt1:  <Laughter>.   
+
+sv          A.65 utt1:  [ I, +  I ] am.  /
+sv          A.65 utt2:  I work faster,  /
+sv          A.65 utt3:  I get things done faster, than when I'm in a dress and heels, {D you know, }  /
+%          A.65 utt4: I, - /
+sv          A.65 utt5: {C and } it's weird  /
+sv          A.65 utt6:  {C but } [ [ [ I, +  it's ] +  I do, ] + [ I can, +   I can ] ] get so  much more done if I'm dressed comfortable, {D you know. } /  
+
+sd          B.66 utt1:  {D Well } [ the, +  the ] time we were  there at the warehouse we felt really bad because we had, {F uh, } another person coming  from Washington, our outside counsel.  /
+sd          B.66 utt2: {C And } she was told that we were  going to be in a warehouse  /
+sd          B.66 utt3: {C but } she really didn't get the idea that we were in the   warehouse part of the warehouse not the office to the warehouse, but the warehouse. /  
+
+b          A.67 utt1:  Right. /  
+
+sd          B.68 utt1:  {C And } she came with skirts, just  like she'd be going into the office. /  
+
+b          A.69 utt1:  Yeah. /  
+
+sd(^q)          B.70 utt1:  {C And } [ we'd try, +  we'd try ]  to say, didn't you bring any pants or anything.  /
+^q          B.70 utt2: [ We're, + we're ] out here in the warehouse,  {D you know, }  /
+^q          B.70 utt3: [ you, +  you ] got your skid of, {D you know, } that wooden pallet of boxes. /  
+
+b          A.71 utt1:  Uh-huh. /  
+
+^q          B.72 utt1:  {C and } you're going to have [ un-, +   unload ] you skid look at the documents [ in the, + in the ] boxes and then repack your skid.  /
+sd          B.72 utt2:   [ [ {C And } she +  <laughter>,   
+
+bf          A.73 utt1:  You can't do that in a skirt <laughter> poor soul. /  
+
++          B.74 utt1:  {C And } she was so, ] +  she was so ]  hot and miserable, {D you know, } in the skirt. /  
+
+ba          A.75 utt1:  {F Oh } yuck. /  
+
+sd          B.76 utt1:  She finally tried to go buy, {D you know, }  a pair of pants  /
+sd          B.76 utt2: {C but, } {D you know, } {E I mean } it was just completely miserable for her. /  
+
+b          A.77 utt1:  Yeah,  /
+ba          A.77 utt2: that's terrible,  /
+ba^r          A.77 utt3: that's terrible  /
+ba          A.77 utt4: gosh. /  
+
+x          B.78 utt1:  <Laughter>.   
+
+h          A.79 utt1:  {D Well } I don't know,  /
+sd          A.79 utt2: I just figure,  {D you know, } yeah,  /
+sd          A.79 utt3: sometimes I worry about, {D you know, } if I go in in pants,  /
+sd          A.79 utt4: {C and }  [ I never, +  I never ] ever, ever, ever go in in a pair of jeans, {D you know. }  /
+sd          A.79 utt5:  {C But } I'll go  in in pants.  /
+sd          A.79 utt6:  {E I mean } today I had on a pair of, {D you know, } navy blue dress slacks   [ and, +  and, ] {F uh, } like a peach colored top and, {D you know, } not cruddy, but not a dress either.  /
+sd          A.79 utt7:  {C And } sometimes I wonder if stuff like that [ would, +  will ] hold you back,  {D you know, } if you don't dress in, {D you know, } your dress for success business  suits everyday [ if, +  {D you know, } if ] upper management doesn't notice that and  remember that later on,  /
+sd          A.79 utt8: {C but, } {D you know, } I don't know if they do or not.  /
+sd          A.79 utt9:  {D You know, } I see a lot of the managers  /
+sd          A.79 utt10:  {C and }  they're in jeans,  /
+%          A.79 utt11: {C so, } {D you know. } -/  
+
+sd          B.80 utt1:  Some of our people in the legal department,   - /
+sd          B.80 utt2:  we have, {F um, } assistants to the general counsel  /
+sv          B.80 utt3: {C and } it's funny  /
+sd          B.80 utt4:  {C because, } there's one that always wears a suit.  /
+sd          B.80 utt5: A matter of fact, he's never seen without his  jacket to the suit on, buttoned. /  
+
+ba          A.81 utt1:  Really, wow. /  
+
+sd          B.82 utt1:  {C And then } there's another one  [ who's, + who's ] a little younger and a little more  (( yuppish ))  /
+sd          B.82 utt2:  {C and } he's always kind of  {D like } in the khaki pants and, {D you know, } a shirt, /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  {C and } sometimes he wears the jacket to it. /  
+
+b          A.85 utt1:  Yeah. /  
+
+sd          B.86 utt1:  {C And } some of the patent attorneys  have been real casual in their clothes  /
+sd          B.86 utt2: {C and  then } other ones tend to always wear a suit with  a very starched cotton shirt.  /
+%          B.86 utt3: {C So } that's just, -/  
+
+bh          A.87 utt1:  Isn't that funny. /  
+
+sd          B.88 utt1:  <Laughter> With [ the, + {D you know, } the ]  little suspenders or something on  /
+sd          B.88 utt2: {C so. }    
+
+ba          A.89 utt1:  That's great. /  
+
++          B.90 utt1:  [ We've, +  we've ] kind of had a variety  there  /
+sv          B.90 utt2: {C but, } I think a lot of times [ it's, +  it's ] mainly who they're going to meet with,  /
+sd          B.90 utt3:  {C or } they're meeting with people that they know is going to be dressed that  way then that's how they are. /  
+
+b          A.91 utt1:  Yeah. /  
+
+sd          B.92 utt1:  If there just going to be meeting with  T I -ers like to talk about a patent kind of thing and [ the, +  they're ]  engineers that they're talking too, they dress kind of like how the engineers  are dressed  /
+sd          B.92 utt2: {C and } they're usually casual. /  
+
+sv          A.93 utt1:  [ That's the way to do it. + {E I mean } that's the smart way to do it. ] /  
+
+b          B.94 utt1:  Yeah. /  
+
+sv          A.95 utt1:  It really is, because your making,  {D you know, } - /
+sv          A.95 utt2: [ if + when they're meeting with the engineers who they know are going to be  dressed down, if ] they come in, in, {D you know, } a six hundred dollar three piece  suit, it's going to make the people  they're meeting with feel very uncomfortable,  {D you know, }  /
+h          A.95 utt3: {C or } it would me, {D you know. } /  
+
+bf          B.96 utt1:  <Laughter> It's one of those slippery  attorneys coming in here. /  
+
+aa          A.97 utt1:  Yeah,  /
+aa^r          A.97 utt2: yeah,  /
+ad          A.97 utt3: look at this slick guy,  /
+sd          A.97 utt4:  I wonder what kind of money does he make,  /
+%          A.97 utt5: uh-huh <laughter>. /  
+
+x          B.98 utt1:  <Laughter>.   
+
+sd          @@A.99 utt1:  I can see it now.  /
+fc          @@A.99 utt2:   {D Well } it was good to talk to you.  /
+fc          @@A.99 utt3:  It was really enjoyable. /  
+
+fc          B.100 utt1:  Yeah,  /
+fc^t          B.100 utt2: [ this is, +  this is ] kind of a fun project. /  
+
+aa          A.101 utt1:  It really is. /  
+
+sd          B.102 utt1:  I've done some of the other speech programs,  /
+sd          B.102 utt2:  {C but } we've never got to talk to another person,  /
+sd          B.102 utt3: it was always just talking to the computer. /  
+
+ba          A.103 utt1:  {F Oh, } yuck,  /
+b          A.103 utt2: yeah. /  
+
+sv          B.104 utt1:  {C So } this is a little different. /  
+
+sv          A.105 utt1:  {D Well } it's kind of enjoyable,  /
+sd          A.105 utt2:  I'm really looking forward to it. /  
+
+b          B.106 utt1:  Yeah. /  
+
+ft          A.107 utt1:  {D Well } thanks a lot. /  
+
+fw          B.108 utt1:  # Okay,  /
+fc          B.108 utt2:  bye. # /  
+
+fc          A.109 utt1:  # Bye-bye. # / 

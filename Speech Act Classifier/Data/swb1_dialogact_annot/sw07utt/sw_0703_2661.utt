@@ -1,0 +1,445 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2661_1233_1209
+TOPIC#:		316
+DATE:		910424
+TRANSCRIBER:	GL
+UTT_CODER:      lsh
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+o          @B.1 utt1: {D So } eating out.  /
+qw          @B.1 utt2:  What are you interested in in restaurants? /  
+
+b          A.2 utt1:  Right, {F uh. }  /
+sd,o@       A.2 utt2:  We eat out quite a bit, it's just my  husband and I at home now.  /  *[[ 2 slash units? ]]
+%          A.2 utt3: {C So. } -/  
+
+qy          B.3 utt1:  {F Uh, } once a week, twice a week? /  
+
+sd          A.4 utt1:  {F Oh, } at least once a week.  /
+sd          A.4 utt2: [ We're, + we're ]  retired now.  /
+sd           A.4 utt3: When we working out we ate out more than that <laughter>. /  
+
+b          B.5 utt1:  Yeah,  /
+ba          B.5 utt2: I understand. /  
+
+o@          A.6 utt1:  {F Uh. }  *[[ slash error ]] 
+
+sd          B.7 utt1:  {F Uh, } {C but } we both work  /
+sd          B.7 utt2: {C and } we have a  daughter,  /
+sd           B.7 utt3: {C and } we normally manage to eat out once a week anyway. /  
+
++@          A.8 utt1:  Uh-huh.  /  *[[slash error]]
+qw           A.8 utt2:  {D Well, } what type of restaurant do you like, Richard? /  
+
+sd          B.9 utt1:  {F Uh, } really, I'm kind of open on food.  /
+sd          B.9 utt2:  I'm what you might  call a culinary adventurer.  /
+sd          B.9 utt3:  I'll,   
+
+x          A.10 utt1:  <Laughter>.   
+
++          B.11 utt1:  {F uh, } try anything once. /  
+
+b          A.12 utt1:  Right. /  
+
+sd          B.13 utt1:  Been on a real barbecue kick lately. /  
+
+bh          A.14 utt1:  {F Oh } have you? /  
+
+ny          B.15 utt1:  Yeah. /  
+
+sd          A.16 utt1:  We like Chinese.  /
+sd          A.16 utt2:  We eat,   
+
+x          B.17 utt1:  <Cough>.   
+
++          A.18 utt1:  a lot of Chinese food. /  
+
+b          B.19 utt1:  {E Excuse me. }  {F Uh, } yeah,  /
+sd          B.19 utt2: we usually have  Chinese once a month. /  
+
+qw          A.20 utt1:  What do you look for in a restaurant? /  
+
+sd          B.21 utt1:  I hate franchised restaurants. /  
+
+br          A.22 utt1:  You what?  /
+%          A.22 utt2: You, -/  
+
+sd^r          B.23 utt1:  I despise --   
+
+%          A.24 utt1:  {F Oh } I, -/  
+
++          B.25 utt1:  -- franchised restaurants.  /
+sd           B.25 utt2:  [ [ I, + I, ] + I ]  always prefer to go to something that seems more family run.    
+
+b          A.26 utt1:  Right. /  
+
++           B.27 utt1:  {F Uh, } some place where you seem to have the attitude like you're going into their home for dinner almost. /  
+
+sd          A.28 utt1:  I know what you mean.  /
+sd          A.28 utt2:  I like some ambiance,  /
+sd          A.28 utt3: {C and } I  like good food.  /
+sd           A.28 utt4: I don't like fast food hamburgers <laughter> and all of that. /  
+
+sd          B.29 utt1:  I don't,  /
+sd          B.29 utt2: {C but } I don't like something fake or put on either. /  
+
+b          A.30 utt1:  Uh-huh. /  
+
+sd           B.31 utt1:  {D You know, } if I could have a good small restaurant or a good large restaurant I'd go to the good small restaurant. /  
+
+b          A.32 utt1:  Uh-huh. /  
+
+sd          B.33 utt1:  {C And } <breathing> I don't know why that is.  /
+sd          B.33 utt2:  I think it's  probably due to pricing, often. /  
+
+aa          A.34 utt1:  Right,  /
+aa          A.34 utt2: uh-huh.  /
+sd           A.34 utt3:  I don't care to go to a place just for the price of it <laughter>. /  
+
+aa          B.35 utt1:  {D Well, } yeah,  /
+aa^r          B.35 utt2: yeah, /  
+
+sd           A.36 utt1:  {E I mean, } it's like continental French restaurant or something really --   
+
+b          B.37 utt1:  Yeah. /  
+
++          A.38 utt1:  -- with high prices  /
+sd           A.38 utt2: {C and } seven courses isn't  what I usually look for <laughter>. /  
+
+br^m          B.39 utt1:  It is what you look for? /  
+
+ng^r,o@       A.40 utt1:  It isn't,  {D no }  that isn't what I look for. /   *[[ More than 1 slash unit? ]]
+
+b^m          B.41 utt1:  {F Oh, } [ isn't, + isn't. ] - /
+sd          B.41 utt2:    {F Uh, } I try to get my money's worth. /  
+
+aa          A.42 utt1:  Right <laughter>. /  
+
+sd            B.43 utt1:  {C And } not just that, [ I try to, +  {A {D well, } that's a big part of it. }  I try to ] get my money's worth.    
+
+b          A.44 utt1:  Uh-huh. /  
+
++           B.45 utt1:  {D You know, } and not just in quantity, {D you know, }  but quality, [ and, + and ] flavor and texture and care. /  
+
+bf          A.46 utt1:  Presentation  /
+%          A.46 utt2: {C and, } -/  
+
+arp          B.47 utt1:  {D Well, } presentation's not always all of it either. /  
+
+sd          A.48 utt1:  {D Well, } like --   
+
+sv          B.49 utt1:  [ It's, + it's ] important. /  
+
++           A.50 utt1:  -- [ we, + we've ] been eating some in a restaurant [ that + <throat_clearing> that ] just changed hands recently,  /
+sd          A.50 utt2: {C and } we're trying to give  them a little patronage.  /
+sd          A.50 utt3: {C But } Sunday we went there,  /
+sd           A.50 utt4: {C and } I had a pretty good meal of grilled pork chops and a baked apple and potatoes. /  
+
+b          B.51 utt1:  Uh-huh. /  
+
+sd           A.52 utt1:  {C So } I said if they would just add a little bit of cranberry sauce, something like that <laughter>. /  
+
+aa          B.53 utt1:  Yeah,  /
+aa^r          B.53 utt2: yeah,  /
+bf          B.53 utt3: something a little extra -- /  
+
+aa          A.54 utt1:  Yeah,  /
+sd          A.54 utt2: that's what I mean by, -/  
+
+sd          B.55 utt1:  -- and just for color if nothing else. /  
+
+aa          A.56 utt1:  Right,  /
+aa^r          A.56 utt2: uh-huh.  /
+sv          A.56 utt3:  It would mean a lot to the looks of the plate. /  
+
+aa          B.57 utt1:  Yeah,  /
+aa^r          B.57 utt2: yeah.  /
+sd           B.57 utt3:  What I miss up here is,  I'm originally a Texan, and I miss home cooked Mexican. /  
+
+bf     A.58 utt1:  Tex-Mex, Tex-Mex. /  
+
+aa          B.59 utt1:  Yeah,  /
+b^m          B.59 utt2: home cooked Tex-Mex. /  
+
+x          A.60 utt1:  <Laughter>.   
+
+sd           B.61 utt1:  {F Uh, } Mexican restaurants where it's not owned by an Anglo or a corporation. /  
+
+aa          A.62 utt1:  Right,  /
+sd         A.62 utt2: I know.  /
+sd           A.62 utt3: {F Uh, } we have a daughter in  Texas and one in New Mexico,  /
+sd          A.62 utt4: {C and }  we've really gotten to like, - /
+sd          A.62 utt5: we like the real Mexican food --   
+
+b          B.63 utt1:  Yeah. /  
+
++          A.64 utt1:  -- better than Tex-Mex. /  
+
+sd          B.65 utt1:  {D Well, } there's real Mexican food  /
+sd           B.65 utt2: {C and } there's  real Tex-Mex Mexican, {D you know, } by third or fourth generation Americans --   
+
+b          A.66 utt1:  Right. /  
+
++          B.67 utt1:  -- of Hispanic heritage. /  
+
+qy^g          A.68 utt1:  It's all pretty good, isn't it? /  
+
+ny          B.69 utt1:  {F Oh, } yes,  /
+sv^e           B.69 utt2: [ {C and, } + {C and } ] there's big differences, of course,  /
+sv           B.69 utt3: {C and, } of course, when you talk about Mexican cuisine [ you, + ] that's kind  of like talking about American food or Chinese food, <noise>  <<dishes in background>>  because <<pause>> its regional, too. /  
+
+aa          A.70 utt1:  Right,  /
+aa          A.70 utt2: uh-huh,  /
+aa          A.70 utt3: that's true. /  
+
+%          B.71 utt1:  {C So. } -/  
+
+sd          A.72 utt1:  I'm originally from Maine,  /
+sd          A.72 utt2: {C so } we like seafood, too.  /
+sd          A.72 utt3:   {C And } that's something we don't get here,  /
+sd          A.72 utt4: {C and } we're in the mountains in Virginia. /  
+
+b          B.73 utt1:  Oh. /  
+
+sd          A.74 utt1:  {C And } most of the seafood's frozen. /  
+
+aa          B.75 utt1:  {F Uh, } yeah  /
+sd          B.75 utt2: that's the way it is here in Colorado, also.  /
+sd          B.75 utt3:  No fresh, or almost no fresh seafood -- /  
+
+aa          A.76 utt1:  Right. /  
+
+sd          B.77 utt1:  -- {C and } in Texas we got it from the Gulf. /  
+
+aa          A.78 utt1:  Uh-huh,  /
+aa          A.78 utt2: that's true.  /
+sd          A.78 utt3: Lots of shrimp. /  
+
+aa          B.79 utt1:  {C And, } yeah,  /
+sd           B.79 utt2: here a couple years ago my  wife and I went to Seattle on vacation.  <<pause>>  /
+sd           B.79 utt3: {C And } I think everything except  breakfast was seafood for almost a week. /  
+
+ba          A.80 utt1:  I know it <laughter>. /  
+
+%          B.81 utt1:  {C And } it was, <<pause>> - /
+sd        B.81 utt2: I was like a man starving at  every meal. /  
+
+ba          A.82 utt1:  <Laughter>  I know the feeling.  /
+sd          A.82 utt2:  We do the same thing.  /
+sd          A.82 utt3:   My son-in-law is a Texan,  /
+sd           A.82 utt4: {C and } when he goes to Maine, he eats lobster, I guess, at least twice a day, all the time he's up there <laughter>. /  
+
+qy^g          B.83 utt1:  It's a lot cheaper there, isn't it?  /
+^g          B.83 utt2: Lobster? /  
+
+ny          A.84 utt1:  {F Oh, } yeah,  /
+ny^r          A.84 utt2: yeah.  /
+sd^e          A.84 utt3:  It's like --   
+
+sd          B.85 utt1:  It's like shrimp on the Gulf. /  
+
++          A.86 utt1:  -- two ninety-eight a pound for a pound lobster. /  
+
+b^m          B.87 utt1:  Two ninety-eight a pound. /  
+
+b          A.88 utt1:  Yeah. /  
+
+sd          B.89 utt1:  That's as cheap as steaks some places --   
+
+aa          A.90 utt1:  {F Oh } yeah,  /
+sd          A.90 utt2: cheaper,  /
+aa          A.90 utt3: right. /  
+
++          B.91 utt1:  -- {E I mean } in a grocery store. /  
+
+aa          A.92 utt1:  Right,  /
+aa          A.92 utt2: yeah.  /
+sd           A.92 utt3:  A lot of the restaurants you can  get [ two pou-, + ] two one pound lobsters for like ten ninety-nine. /  
+
+ba          B.93 utt1:  {F Oh, } my gosh.  /
+sd           B.93 utt2:  I've got to go to Maine  then <noise>  <<dishes rattling in background>>. /  
+
+x          A.94 utt1:  <Laughter>.   
+
+sd          B.95 utt1:  You may have sold a trip for some time. /  
+
+aa          A.96 utt1:  Yeah,  /
+sv          A.96 utt2: it's a good place to go. /  
+
+sv          B.97 utt1:  {F Uh, } it sounds wonderful.   /
+%          B.97 utt2: {F Uh, } {C so, } -/  
+
+sd           A.98 utt1:  Lots of little restaurants, too, with home cooked food, that's up there. /  
+
+sv          B.99 utt1:  That sound good.  /
+sd           B.99 utt2:  {F Uh, } down in the Gulf I've eaten a  bunch of those little <<pause>> {F uh, } seafood shacks, we've called them. /  
+
+b          A.100 utt1:  Right,  /
+b          A.100 utt2: uh-huh. /  
+
+sd           B.101 utt1:  {C And, } {F uh, } it's just so much different than to eat something that's been frozen.    
+
+b          A.102 utt1:  Uh-huh. /  
+
++          B.103 utt1:  {D You know } <<pause>> -- /  
+
+sd          A.104 utt1:  We went to Gal-, -/  
+
+sd          B.105 utt1:  -- shrimp straight out of the bay. /  
+
+sd           A.106 utt1:  We were in Galveston last year [ aft-, right aft-, + ]   {D well, } the first of this year, actually. /  
+
+b          B.107 utt1:  Hm. /  
+
+sd          A.108 utt1:  And, ate in a restaurant,  /
+sd           A.108 utt2: {C and } they claimed to have the best shrimp on the Gulf coast. /  
+
+qy          B.109 utt1:  Was it true? /  
+
+nn          A.110 utt1:  No.  /
+ng          A.110 utt2:  It wasn't.  /
+sd           A.110 utt3: On the way across Louisiana,  we pulled off, we saw a billboard and just pulled off taking a chance on a place.  /
+sd          A.110 utt4:   {C And } they had, - /
+sd          A.110 utt5: it was a small restaurant, just kind of out of the way,  /
+sd          A.110 utt6:  {C and }  they were set up with two + buffets, one for their regular Sunday chicken and roast beef and  vegetables and everything.    
+
+b          B.111 utt1:  Hm. /  
+
++          A.112 utt1:  And then one complete seafood buffet. /  
+
+b          B.113 utt1:  Huh. /  
+
+sd           A.114 utt1:  <Laughter>  That was the best shrimp I have ever had in my life.  /
+sd          A.114 utt2:  They had shrimp fixed probably six different ways. /  
+
+b          B.115 utt1:  {F Uh, } yes,  /
+bf          B.115 utt2: the  cajuns. /  
+
+aa          A.116 utt1:  Uh-huh,  /
+aa          A.116 utt2: right.  /
+sd          A.116 utt3: It was wonderful. /  
+
+sv           B.117 utt1:  [ They can, + they can ] do things to shrimp [ that, +  that ] no one else can. /  
+
+b          A.118 utt1:  Uh-huh. /  
+
+qy          B.119 utt1:  {D So, } have you eaten crawfish yet? /  
+
+na          A.120 utt1:  {F Uh, } I tried it,  /
+sd          A.120 utt2: {C but } I didn't care for it.  /
+sd          A.120 utt3:   Not there, but at my brothers I tried it. /  
+
+sv          B.121 utt1:  {F Oh, } as with anything, it's preparation. /  
+
+aap          A.122 utt1:  That's probably true.  /
+%          A.122 utt2:  It, - /
+sd,o@      A.122 utt3: I wasn't hungry,  it wasn't a meal.  /  *[[ 2 slash units? ]]
+%          A.122 utt4: We just, - /
+sd          A.122 utt5: he went down and bought some at a --   
+
+b          B.123 utt1:  {F Uh. } /  
+
++           A.124 utt1:  -- local place that steams them, just so we'd try them. /  
+
+b          B.125 utt1:  Uh-huh.  /
+%          B.125 utt2:  It, - /
+sd          B.125 utt3: there's all kinds, /  
+
+sv          A.126 utt1:  Probably needed some cold beer with it  /
+%          A.126 utt2: {C and } <laughter>, -/  
+
+qy^d          B.127 utt1:  <Laughter>  {D So } you do eat out a lot. /  
+
+na          A.128 utt1:  Quite a bit. /  
+
+sd           B.129 utt1:  One of our other real problems with going out to eat, Sunday morning brunches. /  
+
+b          A.130 utt1:  Oh. /  
+
+sd           B.131 utt1:  {D You know, } Sunday brunch, [ all, + all ] you can eat brunches. /  
+
+b          A.132 utt1:  Right.  /
+sd          A.132 utt2:  We used to do that, once in a while,  /
+sd          A.132 utt3:  {C but } we don't anymore. /  
+
+sd          B.133 utt1:  {F Uh, } we still find it fun. /  
+
+aa          A.134 utt1:  Uh-huh.  /
+aa          A.134 utt2:  It's fun,  /
+sd          A.134 utt3: {C but } it's just so much  food <laughter>.  /
+sd          A.134 utt4:  Hate to come  away feeling uncomfortable <laughter>. /  
+
+sd           B.135 utt1:  {D Well, } I work in machine shop and do a lot of physical labor. /  
+
+bh          A.136 utt1:  Do you,  /
+sv          A.136 utt2: {D well } that makes a difference. /  
+
+%          B.137 utt1:  {C And so, } -/  
+
+qw          A.138 utt1:  Where do you go to brunches? - /
+qy          A.138 utt2: {D Like } at hotels, or restaurants there? /  
+
+ny          B.139 utt1:  Yeah,  /
+sd^e           B.139 utt2: {F uh, } {D actually } [ one of our, + one of our ] favorites is a chain.  Shoney's. /  
+
+ba          A.140 utt1:  {F Oh, } yeah,  /
+b          A.140 utt2: uh-huh.  /
+sd          A.140 utt3:  We eat at Shoney's. /  
+
+b          B.141 utt1:  Yeah,  /
+sd           B.141 utt2: <noise> <<dishes rattling>> in spite of the fact  I've spoken so badly about [ chains, + chain ] restaurants, {F uh, } we, {  F uh, }  do like Shoney's pretty well,  /
+sd          B.141 utt3: {C but } then there's a place up the pass, up in the mountains that we  pretty reliably like to [ go to on some Sunday mornings, + ] [ drive, + drive ]  up to, I think it's about eight thousand foot elevation.    
+
+b          A.142 utt1:  Oh. /  
+
++           B.143 utt1:  [ And, + and ] drive through Woodland Park and go for a short drive in the mountains and have breakfast. /  
+
+b          A.144 utt1:  Uh-huh,  /
+ba          A.144 utt2: that sounds nice. /  
+
+sv           B.145 utt1:  [ [ It, + it, ] + it's ] the way to spend a nice Sunday morning. /  
+
+aa          A.146 utt1:  Right,  /
+ba          A.146 utt2: I imagine it is. /  
+
+sd           B.147 utt1:  I think it's as much [ the, + the ]  trip to the mountains as it is the breakfast brunch.  {D  /
+sd          B.147 utt2: You know, } {C and } it's not that far.  /
+sd          B.147 utt3: It's thirty miles. /  
+
+%          A.148 utt1:  Whe-, - /
+qw          A.148 utt2: out of, which direction? /  
+
+sd          B.149 utt1:  Colorado Springs. /  
+
+qw^r          A.150 utt1:  Out of, which direction from there? /  
+
+sd          B.151 utt1:  West -- /  
+
+b          A.152 utt1:  Uh-huh. /  
+
+sd          B.153 utt1:  -- west out of Colorado Springs. / 

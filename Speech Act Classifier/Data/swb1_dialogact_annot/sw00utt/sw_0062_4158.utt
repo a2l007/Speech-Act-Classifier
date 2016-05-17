@@ -1,0 +1,264 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4158_1537_1560
+TOPIC#:		345
+DATE:		920312
+TRANSCRIBER:	LAB
+UTT_CODER:	TC
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Slight background noise on B every once in a while.
+
+=======================================================================
+  
+
+qy          A.1 utt1:  {F Um, } are you working right now? /  
+
+ny          B.2 utt1:  {F Uh, } yes,  /
+sd^e          B.2 utt2: I am.  /
+sd          B.2 utt3: I'm working in the computer science  department here --   
+
+%          A.3 utt1:  {F Uh, } /  
+
++          B.4 utt1:  -- {F uh, } at C M U. /  
+
+qw          A.5 utt1:  [ What kind of, + what kind of ] work do you do? /  
+
+sd          B.6 utt1:  {F Uh, } I'm doing basically [ system, + system ] design --   
+
+b          A.7 utt1:  <<Very faint>>  Uh-huh. /  
+
++          B.8 utt1:  -- work and, {F uh, } implementation work [ for the speech, +  for the speech ] group --   
+
+b          A.9 utt1:  Oh. /  
+
++          B.10 utt1:  -- {F uh, } here. /  
+
+%          A.11 utt1:  Wh-, - /
+qy^t          A.11 utt2: is that how you heard about this thing?  <laughter>. /  
+
+ny          B.12 utt1:  # Yeah, # /  
+
+%          A.13 utt1:  # {F Uh, } # /  
+
+sd^e          B.14 utt1:  actually through electronic mail. /  
+
+b          A.15 utt1:  Uh-huh.  /
+sd          A.15 utt2:  Me too.  /
+sd          A.15 utt3: I work at, {F uh, } the Georgia Tech  Research Institute. /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          @A.17 utt1: {F Um, } I'm a co-op student  /
+sd          @A.17 utt2: {C so } I work and go to school about halftime.  /
+sd          @A.17 utt3: {C And, } {F uh, } I really don't have any job benefits to speak of.  /
+%          @A.17 utt4: We're kind of, {F um, } - /
+h          @A.17 utt5: I don't know, - /
+sd          @A.17 utt6: they just kind of forget us on that end.  /
+sd          @A.17 utt7: We don't really have any vacation or, {D you know, } sick days or health care or anything really  /
+%          @A.17 utt8: {C so. } -/  
+
+b          B.18 utt1:  <Laughter> Right.  /
+bf          B.18 utt2:  {C So } it's pretty fair they've got  you slaving away,   
+
+aa          A.19 utt1:  # Exactly. # /  
+
++          B.20 utt1:  # [ at, + # at ] this point <laughter>. /  
+
+aa^r          A.21 utt1:  Exactly. /  
+
+b          B.22 utt1:  Yeah. /  
+
+qo          A.23 utt1:  What about you? /  
+
+sd          B.24 utt1: {D Well, } {F um, } [ [ t-, + i-, ] + I'm ] research stuff here now  /
+sd          B.24 utt2: {C so } [ what + ] [ they, + they ] have, {F uh, } {F um, } okay, benefits package.   /
+sv          B.24 utt3: It's not quite as good as industry  /
+sd          B.24 utt4: {C but } one of the significant, {F um, } benefits here is that you can take, {F uh, } up to two courses a semester, {F um, }  /
+sd          B.24 utt5: {C and } they [ pay for + --   
+
+%          A.25 utt1:  {F Huh. } /  
+
++          B.26 utt1:  -- {D you know, } pay for ] the classes.  /
+sd          B.26 utt2:  {C So, }    
+
+b          A.27 utt1:  # Yeah. # /  
+
++          B.28 utt1:  # ((Carnegie Mellon)) # that works out to be, {F um, } [ a  reasonable, + a reasonable ] benefit. /  
+
+sd          A.29 utt1:  {F Uh, } they do that I think if you're, {F uh, } research (( ))  here  /
+sd          A.29 utt2: {C then } I know of some of the people that have gotten their masters  /
+sv          A.29 utt3: {C and } I think that,  {F um, } they might, {D you know, } pay for that.   
+
+b          B.30 utt1:  # Uh-huh. # /  
+
++          A.31 utt1: # Pay for # the classes and stuff  /
+sd          A.31 utt2: {C but } I know [ they let you, + they'll let you ] decrease how many hours you work by (( )) kind of percentage.  /
+sd          A.31 utt3: {D You know, } they'll let you work halftime [ if you want to, + if you want to ] finish, /  
+
+bf          B.32 utt1:  # If you want to, #   
+
+b^m          A.33 utt1:  # you want to, # -/  
+
++          B.34 utt1:  do it quickly. /  
+
+aa          A.35 utt1: Yeah.  /
+sd          A.35 utt2: They'll let you work, decrease your number of hours by any percentage [ just, + just ] about so if you want to get your masters  /
+sd          A.35 utt3: {C and then, } I think of course [ you get {D like } a, + with your extra degrees you get a ] pay raise due  /
+sv          A.35 utt4: {C so } --   
+
+b          B.36 utt1:  Uh-huh,  /
+b^r          B.36 utt2: uh-huh. /  
+
++          A.37 utt1:  -- that will probably help out.  /
+o@          A.37 utt2: But,   
+
+b          B.38 utt1: Yeah.  /
+b^r          B.38 utt2: Yeah.  /
+sd          B.38 utt3: {C So } [ I, + I ] don't know [ in, + in ] terms of other things, other benefits other than sort of monetary  /
+%          B.38 utt4: [ I'd, + {D you know, } I, ] -/  
+
++@          A.39 utt1:  Do you get any kind of health care type stuff? /  
+
+ny          B.40 utt1:  Yeah,  /
+sd^e          B.40 utt2: [ we, + we ] do.  /
+sd          B.40 utt3:  We have to contribute a certain amount,  {F uh, } to it. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+sd          B.42 utt1:  {C And } it's kind of split between C M U [ and, +    
+
+b          A.43 utt1:  # Yeah. # /  
+
++          B.44 utt1:  # and, ] {D you know, } # the employee. /  
+
+b          A.45 utt1:  Yeah,  /
+sv          A.45 utt2: I think,    
+
+x          B.46 utt1:  <Breathing>.   
+
++          A.47 utt1:  {E I mean } [ that's pretty, + that's a pretty ] important,  {F uh, } part of it there because [ that, + that ] can be really expensive if you ever have any health problems.  /
+%          A.47 utt2:  [ My dad, + I think my, ] - /
+sd          A.47 utt3: I'm still covered [ on, + with ]  my dad's, {F uh, } health plan [ at his, + where he works, ]  /
+sv          A.47 utt4: {C but } --   
+
+b          B.48 utt1:  Right. /  
+
++          A.49 utt1:  -- it would definitely be something to look into once I get my own. /  
+
+b          B.50 utt1:  Yeah,  /
+%          B.50 utt2: {C and } [ it's also, + right now it's, ] {F uh, } the, - /
+sv          B.50 utt3:  like everywhere else, {F uh, } - /
+sd          B.50 utt4:  here in Pittsburgh the health care, {F uh, } rates [ are, + are ] going  up pretty quickly. /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+sd          B.52 utt1:  <Laughter>  That's a whole other topic --    
+
+%          A.53 utt1:  <Laughter>  ((They have)). /  
+
++          B.54 utt1:  -- <Laughter> to begin with too  /
+%          B.54 utt2: {C but. } - /
+%          B.54 utt3: Yeah,  /
+sv          B.54 utt4: {C but }  [ it's, + you are ] right.  /
+sd          B.54 utt5:  [ [ I, + I, ] + I ] really agree that, [ that + that's ] pretty important. /  
+
+sv          A.55 utt1:  {D ((Well, } [ the only,)) + [ I think the, + I guess the ] only ]  real, {F um, } benefit I guess you could say [ working, for me + working here, ] besides {E I mean } - /
+sd          A.55 utt2: I'm  learning and stuff because,   
+
+b          B.56 utt1:  # Right. # /  
+
++          A.57 utt1:  # I'm [ at, + {D you know, } # in ] school.  /
+sd          A.57 utt2: {C But } --    
+
+b^r          B.58 utt1:  Right. /  
+
++          A.59 utt1:  -- [ there's, + there's ] some ((weird law)) where, {F uh, }  {F uh, } student employees working for the government --   
+
+b        B.60 utt1:  Uh-huh <noise>. /  
+
++          A.61 utt1:  -- don't have to pay Social Security tax. /  
+
+b          B.62 utt1:  <Laughter>  Oh <laughter>. /  
+
+sd          A.63 utt1:  ((Though))  <laughter>  --   
+
+sv          B.64 utt1:  Now that's a big win. /  
+
++          A.65 utt1:  -- that's about,    
+
+x          B.66 utt1:  <Laughter>.    
+
++          A.67 utt1:  five percent right there  /
+%          A.67 utt2: {C so. } -/  
+
+b          B.68 utt1:  Yeah,  /
+b^r          B.68 utt2: yeah.  /
+%          B.68 utt3:  # That's, # -/  
+
+sv          A.69 utt1:  # That's # about the only real bonus -- /  
+
+b          B.70 utt1:  Yeah. /  
+
+sd          A.71 utt1: -- [ I have, + {C so } I have ] to take that into consideration when I evaluate {D like } how much I get paid ((real,)) {D you know, } because if I was working somewhere else I'd have to, {D you know, } pay an extra five percent,   
+
+b^r          B.72 utt1:  # Yeah. # /  
+
++          A.73 utt1:  # or so. # /  
+
+%          B.74 utt1:  I figured for <noise> <breathing> - /
+sd          B.74 utt2: {C and } they've just  raised the, {F um, } income caps on Social Security to the point where <laughter> --   
+
+%          A.75 utt1:  {F Huh. } /  
+
++          B.76 utt1:  -- [ you have to be pretty, + you have to be pretty ] well off  before you stop [ paying -- +   
+
+b          A.77 utt1:  Yeah. /  
+
++          B.78 utt1:  -- paying ] that as well.  /
+%          B.78 utt2:  Yeah,  /
+sd          B.78 utt3: {D well } if you could  call it a benefit that C M U, {E I mean } i-, - /
+sd          B.78 utt4: the other thing that they allow you to do here  while you are working [ is, + is ] consult for, {F um, } {D you know, } other companies. /  
+
+bh          A.79 utt1:  {F Oh, } yeah? /  
+
+sd          B.80 utt1:  {F Um, } {C so } [ that's, + that ] kind of helps out in terms of,    
+
+b          A.81 utt1:  # Uh-huh. # /  
+
++          B.82 utt1:  # {D you know, } # keeping up-to-date with contacts in industry. /  
+
+b          A.83 utt1:  # Yeah. # /  
+
+sd          B.84 utt1:  # {D You know, } [ in case, # +   
+
+sv          A.85 utt1:  (( )) help a lot. /  
+
++          B.86 utt1:  {D you know, } in case ] you ever need to bail out <laughter>. /  
+
+b          A.87 utt1:  <Laughter> Yeah.  /
+sd          A.87 utt2:  {D See } [ around, + around ] here it's like,  {F uh, } - /
+sd          A.87 utt3: we pretty much work from project to project [ on, + {D well, } {D you know, } with ]  different sponsors. /  
+
+b          B.88 utt1:  Uh-huh. /  
+
+sd          A.89 utt1:  [ There's not, + there is not ] a whole lot of, {D you know, } funded research from, -/ 

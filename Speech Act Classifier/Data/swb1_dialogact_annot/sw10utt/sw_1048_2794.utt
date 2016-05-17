@@ -1,0 +1,327 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2794_1209_1028
+TOPIC#:		359
+DATE:		910505
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	3
+BACKGROUND_B:	4
+REMARKS:	None.
+
+==========================================================================
+  
+
+qw          @A.1 utt1:  {D So, } how do we fix the national budget? /  
+
+sd          B.2 utt1:  Damned if I know.  /
+sd          B.2 utt2:  {F Um, } <laughter> I don't know,  /
+%          B.2 utt3: I suspect, {F uh, } - /
+^h          B.2 utt4: let's see,  /
+sv          B.2 utt5: I suspect we should do what everyone says we should do,  /
+sv          B.2 utt6: we should cut spending and maybe even raise taxes  /
+sv          B.2 utt7: {C but } Lord knows [ you sh-, + ] one shouldn't say that. /  
+
+nd          A.3 utt1:  {D Well, } -/  
+
+sv@          B.4 utt1: [ [ I, + I, ] + I ] suspect we should probably have an independent auditing agency go in and look at how the government spends money.   And work from there.    
+
+ba          A.5 utt1:  That would probably be good,  /
+sv          A.5 utt2: {C but, }   
+
++@          B.6 utt1: [ Because I, + because I ] don't think they're very good at it. /  
+
++          A.7 utt1:  something that the government hasn't been looking at is the source of the  problem. /  
+
+%          B.8 utt1:  <<Very faint>> {F Huh. } /  
+
+sv          A.9 utt1:  The true source of the problem is, [ a, + ] that we do spend too much, /  
+
+b          B.10 utt1:  # <<Very faint>> Yes.  # /  
+
+sv          A.11 utt1:  # {C but } also, [ b, + ] # that we don't take in enough. /  
+
+b          B.12 utt1:  Yeah,  /
+qw          B.12 utt2: {D well, } [ [ [ wh-, + wh-, ] + wh-, ] + why ] do you say that actually? /  
+
+sv          A.13 utt1:  {F Uh, } too few Americans are working. /  
+
+%          B.14 utt1:  <<Very faint>> {F Huh. } /  
+
+sv          A.15 utt1:  If more Americans were working and meaningful good paying labor,   
+
+b          B.16 utt1:  # Yes.  # /  
+
++          A.17 utt1:  # and # paying taxes,   
+
+^2          B.18 utt1:  # Rather than using taxes.  # /  
+
++          A.19 utt1:  # and the tax structure # was fair between the lowest and the highest income Americans, then we would have more money there to play with. /  
+
+ba          B.20 utt1:  {F Oh, } that's interesting.  /
+b          B.20 utt2: Yeah,  /
+ba          B.20 utt3: that's probably true,  /
+sv          B.20 utt4: {E I mean, } {D well, } [ we also, + we'd ] be spending less because all the money [ that, + that ] normally goes to support those people aren't working, it's back in the system. /  
+
+b          A.21 utt1:  Right. /  
+
+ba          B.22 utt1:  {C So, } you're right.  /
+sv          B.22 utt2:  That's a real neat idea.  /
+%          B.22 utt3: {D Well, } what, - /
+%          B.22 utt4: {C but, } {E I mean, } what can, {D you know, } - /
+qw^d          B.22 utt5: [ at, + at ] some point, what can you do [ to sort of raise rev-, + {E I mean, } to raise ] jobs I wonder. /  
+
+h          A.23 utt1:  {D Well, } I hesitate to say we ought to spend ourselves to  (( affluence ))  /
+sv          A.23 utt2:  {C but, } in fact, in some cases that's what we ought to do. /  
+
+bk          B.24 utt1:  {F Oh, } okay.  /
+%          B.24 utt2: {C So, } start  ((   )) . -/  
+
+sv          A.25 utt1:  Not Reaganomics, thank you. /  
+
+sv          B.26 utt1:  <Laughter>  {C But, } that's not going to work, {F uh, } /  
+
+sd          A.27 utt1:  {F Uh, } what I was thinking more along the lines of is start going to space. /  
+
+%          B.28 utt1:  {F Huh. }  /
+qy^d          B.28 utt2:  {C And } that way just create more jobs <<very faint>> or whatever? /  
+
+na          A.29 utt1:  {D Well, } at some point [ there, + there ] will be enough jobs for most of the [ ab-, + able-bodied ] Americans. /  
+
+bk          B.30 utt1:  <<Very faint>> {F Huh. }  /
+ba          B.30 utt2:  <<Very faint>>, {D well, } that's a neat idea. /  
+
+sv          A.31 utt1:  We also need to, {F uh, } assure that there's some work in the private sector. /  
+
+b          B.32 utt1:  Yeah,  /
+%          B.32 utt2: [ that's what, + that's what, ] - /
+qy          B.32 utt3: [ yo-, + you ] think space would do that much for that  /
+%          B.32 utt4: {C or, } -/  
+
+na          A.33 utt1:  I think it would do something for it.   /
+sv          A.33 utt2: I think we would fill up new technologies.  /
+sv          A.33 utt3:  {C But } I think we should also do something rather radical. /  
+
+qw^d          B.34 utt1:  Like what? /  
+
+sd          A.35 utt1:  Legalize marijuana. /  
+
+qy          B.36 utt1:  {F Oh, } [ you think, + you think ] that would, {F uh, } have a major effect?  /
+sv          B.36 utt2: (( {D Well, } that would ))  put a lot of criminals out of business for a while anyway. /  
+
+br          A.37 utt1:  What? /  
+
+sv          B.38 utt1:  [ Th-, + that ] might have [ a, + {F uh, } a ] good effect [ [ on, + on, ] + on ] crime anyway. /  
+
+aa          A.39 utt1:  Yes, {F uh, }  /
+^h          A.39 utt2: okay,  /
+sv          A.39 utt3: I think it would take some of that money out of the hands of criminals.  /
+sv          A.39 utt4:  I think it would [ put, + ] reduce the amount of carry on drug use where people advance from one drug to another. /  
+
+ba          B.40 utt1:  That's probably true. /  
+
+sv          A.41 utt1:  [ I think that, + I think ] most importantly it would give the federal government something new that they could tax. /  
+
+sv          B.42 utt1:  <Laughter>  {C And } probably a lot of. -/  
+
+sv^m          A.43 utt1:  {C And } probably a lot of - /
+sv          A.43 utt2: {C and } really receive some revenues from. -/  
+
+b          B.44 utt1:  Yeah  /
+%          B.44 utt2: {C but }  (( that's potentially )) , -/  
+
+ sv         A.45 utt1:  {F Uh, } if you look at prohibition historically, it's repeal helped the federal government a lot in tax revenues. /  
+
+b          B.46 utt1:  <<Very faint>> Uh-huh,  {F huh. }   /
+%          B.46 utt2: No,  /
+sd          B.46 utt3: I had never thought about that. /  
+
+sv          A.47 utt1:  Then I think once we put money back [ into the cof-, + in the coffers ] of the federal government,   
+
+b          B.48 utt1:  # Uh-huh. # /  
+
++          A.49 utt1:  # and # get the federal government to where there's money there again, we should reduce the amount of money,  /
+sv          A.49 utt2: {C and } this would have to come rather quickly, and would have to come originally also where we're not paying,  /
+sv          A.49 utt3: in some cases we do pay more, for welfare recipients to live then they can earn in the true minimum wage environment. /  
+
+ba          B.50 utt1:  That's true [ we do, + ] often times they are paid more, yeah. /  
+
+sv          A.51 utt1:  {C And } you can't deny people the right to supply their families better through whatever means. /  
+
+b          B.52 utt1:  Right. /  
+
+sv          A.53 utt1:  That's just sensible on their part. /  
+
+br          B.54 utt1:  That's just what on their part,  /
+fa          B.54 utt2: I'm sorry,  /
+sd          B.54 utt3: I missed that. /  
+
+sv^r          A.55 utt1:  It's just sensible on their parts,   
+
+bk          B.56 utt1:  # Oh.  # /  
+
++          A.57 utt1:  # to # go after [ [ the, + the, ] + the ] greater amount of income. /  
+
+b          B.58 utt1:  Uh-huh. /  
+
+sv          A.59 utt1:  {C So, } if you lower the amount they make and raise the amount of true minimum wage jobs, not those that are affected by the federal minimum wage, then more people will get off welfare. /  
+
+b          B.60 utt1: [ That, + that ] maybe true.  /
+ba          B.60 utt2:  That's very true. /  
+
+sv          A.61 utt1:  {D You know, } give them a true incentive to want to work. /  
+
+b          B.62 utt1:  Right. /  
+
+sv          A.63 utt1:  {C And then } don't start letting more outsiders in for a few years until we figure out exactly where we're at with unemployment. /  
+
+b          B.64 utt1:  <<Very faint>> Right,  /
+%          B.64 utt2: that's a, -/  
+
+sv          A.65 utt1:  Reduce immigration,   
+
+%          B.66 utt1:  # <<Very faint>> {F Huh. }  # /  
+
++          A.67 utt1:  # or eliminate it # entirely for a few years, until we get our own house in order. /  
+
+b          B.68 utt1:  Yeah,  /
+sv          B.68 utt2: {C and } [ maybe even reduce, + [ al-, + along ] the same lines, maybe reduce ] imports as well, I think. /  
+
+aa          A.69 utt1:  {F Oh, } absolutely,  /
+aa^r          A.69 utt2: absolutely. /  
+
+sv@          B.70 utt1:  {E I mean }  ((   )) . We don't need to buy other people's stuff right now  ((   )) . *[[new slash unit after the first period?]] /  
+
+ba          A.71 utt1:  That's right,  /
+sv          A.71 utt2: when we're in a world of hurt, {D well, } [ I don't, + I'm not ] going to say that we ought to [ re-, + reduce ] them through legal means.  /
+sv          A.71 utt3:  I think we ought to just tax them severely. /  
+
+b          B.72 utt1:  Right,  /
+sd          B.72 utt2: {D well, }  [ that, +  that's ] what happened in other country though.  /
+sv          B.72 utt3: {C And } other places they tax us quite ha-, - /
+sv          B.72 utt4: {E I mean, } they tax American imports quite heavily.  /
+sv          B.72 utt5: {C So, } we could do the same thing,  /
+%          B.72 utt6: {E I mean, } just, - /
+%          B.72 utt7: {C and, } {D you know, } they may get, -/  
+
+sv          A.73 utt1:  It seems only fair. /  
+
+b          B.74 utt1:  Right,  /
+aa          B.74 utt2: it does seem only fair,  /
+qh          B.74 utt3: {E I mean, } why not. /  
+
+sv          A.75 utt1:  {C And } I think really if we got all those that are able-bodied into the work force <<pause>> <breathing> reduced <<pause>> the amount going out for those purposes, created new jobs for that work force, there would be plenty of money. /  
+
+aa          B.76 utt1:  I think so. /  
+
+sv          A.77 utt1:  {C And then } at that point,   
+
+b          B.78 utt1:  # Yes.  # /  
+
++          A.79 utt1:  # quit # spending on space. /  
+
+%          B.80 utt1:  {F Oh }  (( real )) , -/  
+
+ sv         A.81 utt1:  Force it all [ into the, + into the ] private sector. /  
+
+sd          B.82 utt1:  {F Oh, } {D really } I love the switch.  /
+sv          B.82 utt2:  {D Well, } at that point [ you might, + ] [ we, + ] [ [ i-, + i-, ] + ]  it wouldn't be a problem anymore possibly, {D you know, }  /
+sv          B.82 utt3: [ we would be, +   
+
+ba          A.83 utt1:  # That's right. # /  
+
++          B.84 utt1:  # we would # be ] able to keep it wherever we wanted to in space or the ocean research whatever we wanted to do,  /
+%          B.84 utt2: {C but } I think the, -/  
+
+sd          A.85 utt1:  {F Uh, } space was just a convenient place for me to go because that would put [ a lot of, +   
+
+b          B.86 utt1:  # Right. # /  
+
++          A.87 utt1:  # a # lot of ] - /
+sd          A.87 utt2: (( Millspec ))  and NASA work operates to the same demanding specifications, /  
+
+b          B.88 utt1:  # Uh-huh. # /  
+
+sv          A.89 utt1:  # that # would put a bunch of defense workers back to work. /  
+
+b          B.90 utt1:  Right,  /
+^2          B.90 utt2: compared to defense.  /
+sv          B.90 utt3:  {D Well, } that's a good idea.  /
+%          B.90 utt4: {D Well, } it, - /
+sv          B.90 utt5: {D well, } [ the other thing, + {C and } the other thing ] [ [ I, + I, ] + I ] think we seriously need to do is, {F um, } like I say, have someone go in and look [ and, + {D you know, } and ] find out where it is we're paying ten thousand dollars per toilet seat or something. /  
+
+qy          A.91 utt1:  You know what causes that? /  
+
+no          B.92 utt1:  {F Um, } greed, I suspect. /  
+
+nd          A.93 utt1:  {F Uh, } no.  /
+%          A.93 utt2: [  Your, + your ] buying large  ((   )) , {F uh, } - /
+sv          A.93 utt3: the government specifications, /  
+
+b          B.94 utt1:  # <<Very faint>> Uh-huh. # /  
+
+sv          A.95 utt1:  # sheets of paper # for building a pair of B V D underwear for the federal government,   
+
+b          B.96 utt1:  # Yeah. # /  
+
++          A.97 utt1:  # is # twenty-two foot tall. /  
+
+bh          B.98 utt1:  Really? /  
+
+sd          A.99 utt1:  If it was all on nine by elevens stacked one on top of another. /  
+
+qy          B.100 utt1:  For making, you mean, government issue underwear? /  
+
+na          A.101 utt1:  For making government issue underwear. /  
+
+ba          B.102 utt1:  Jesus. /  
+
+sv          A.103 utt1:  To just understand those legal requirements and operate within the government guidelines,   
+
+b          B.104 utt1:  # Uh-huh. # /  
+
++          A.105 utt1:  # costs # the company a huge amount of money. /  
+
+sv          B.106 utt1:  {D Well, } that's potentially a fault of the government then, {E I mean, } that [ could, + ] things like that should, -/  
+
+aa         A.107 utt1:  Yes,  /
+sv          A.107 utt2: a huge amount of it is not the fault of the contractor. /  
+
+b          B.108 utt1:  Right,  /
+%          B.108 utt2: {D well, } that's a, - /
+sd          B.108 utt3: I had never heard that before. /  
+
+sv          A.109 utt1:  {F Uh, } a huge amount of what you hear [ on, + ] about the seventy-five dollar hammers,   
+
+b          B.110 utt1:  # Right. # /  
+
++          A.111 utt1:  # and # the nine hundred dollar toilet seats doesn't come from people in the industry,  /
+sv          A.111 utt2: it comes from senators that don't know anything about it. /  
+
+%          B.112 utt1:  <<Very faint>> {F Huh. } /  
+
+sv          A.113 utt1:  {F Uh, } my job is government tooling specialist. /  
+
+b          B.114 utt1:  {F Oh, } okay,  /
+bf          B.114 utt2: {C so, } you know about some of these things. /  
+
+aa          A.115 utt1:  Yeah. / 

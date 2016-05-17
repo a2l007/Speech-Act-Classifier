@@ -1,0 +1,447 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3004_1043_1253
+TOPIC#:		323
+DATE:		910604
+TRANSCRIBER:	LAB
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:       Had some whirring noise in the background throughout
+the entire tape.  It was really loud in several spots. Also had children
+in the background.
+
+==========================================================================
+  
+
+o          A.1 utt1:  All right. /  
+
+sd          B.2 utt1:  {D Well, } she lives in Utah,  /
+%          B.2 utt2: {C so. } -/  
+
+b          A.3 utt1:  {F Oh, } uh-huh,  /
+b          A.3 utt2: uh-huh.  /
+sd          A.3 utt3:  That's the way we always were.  /
+sd          A.3 utt4:  We always lived away from our family and relatives while the kids were growing up. /  
+
+b          B.4 utt1:  Yeah. /  
+
+ad^t          A.5 utt1:  {D So, } {D well, } I guess we're going to talk about children today. /  
+
+aa          B.6 utt1:  Okay,  /
+ad          B.6 utt2: let's do i-, /  
+
+qy          @A.7 utt1:  {D So, } you ready?  /
+sd          @A.7 utt2:  <laughter> <beep> My children are all gone already. /  
+
+b          B.8 utt1:  Uh-huh. /  
+
+sd          A.9 utt1:  [ They're, + they're ] all out on their own.  /
+ad          A.9 utt2:  {D So, } {F uh, } do you want to start first  /
+qy          A.9 utt3:     [ [ yo-, + yo-, ] +   
+
+aa          B.10 utt1:  Okay. /  
+
++          A.11 utt1:  do you ] work? /  
+
+nn          B.12 utt1:  No,  /
+sd^e          B.12 utt2: I don't, /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  I stay home most of the time  /
+sd          B.14 utt2: {C but } I know that it's very difficult [ to, + to ] find good help sometimes [ [ when + {C and } especially when your, ] + when you want your ] children to be taken care of. /  
+
+b          A.15 utt1:  Right. /  
+
+%          B.16 utt1:  {F Um, } {D you know, } there's a, - /
+sd          B.16 utt2: my neighbor she tends children though  /
+sd          B.16 utt3: [ {C and, } + {C and, } ] {F um, } there's a big controversy whether they should have to, {F um, } have [ [ a, + a l-, ] + a ] law to have them certified [ or, + or ] not. /  
+
+b          A.17 utt1:  <<Very faint>> Uh-huh. /  
+
+sv          B.18 utt1:  {C And, } {F um, } {D you know, } there's pros and cons on both side of that -- /  
+
+b          A.19 utt1:  Right. /  
+
+sd          B.20 utt1:  -- {C because } if they were, then you kind of know that they had to go through some kind of testing,    
+
+b          A.21 utt1:  Uh-huh. /  
+
++          B.22 utt1:  or some kind of something to [ (( be on )) + ] , get an okay seal. /  
+
+b          A.23 utt1:  Yeah,  /
+sd          A.23 utt2: [ {C but } + {C yet } ] most of the problems we hear, - /
+sv          A.23 utt3: of course, maybe that's what we hear about is from organized and approved day care centers. /  
+
+aa          B.24 utt1:  <Baby> That's right.  /
+aa^r          B.24 utt2:  That's right. /  
+
+sv          A.25 utt1:  {C But } maybe we don't hear about the other ones though that could be. /  
+
+b          B.26 utt1:  Yeah. /  
+
+sv          A.27 utt1:  {D You know, } the individual incidence or something. /  
+
+b          B.28 utt1:  Uh-huh.  /
+sd          B.28 utt2:  {F Uh, } {D now, } usually when I have someone tend, {F um, } - /
+sd          B.28 utt3: my oldest tends for me now if I go somewhere  /
+%          B.28 utt4: {C but, } -/  
+
+b          A.29 utt1:  Uh-huh,  /
+qw          A.29 utt2: how old,   
+
+%          B.30 utt1:  before, -/  
+
++          A.31 utt1:  is your oldest? /  
+
+sd          B.32 utt1:  He's almost a teenager <laughter>. /  
+
+sv          A.33 utt1:  {F Oh, } {D well, } he's plenty big enough then <laughter>. /  
+
+aa          B.34 utt1:  Yeah,  /
+sd          B.34 utt2: [ he's, + he's ] very good.  /
+sd          B.34 utt3: {F Um, } {C but, } {F um, } <lipsmack> before that [ I would, + I would ] use, {F uh, } kids from our church, /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sd          B.36 utt1:  {C and } they did a good job,    
+
+b          A.37 utt1:  Uh-huh,  /
+b^r          A.37 utt2: uh-huh. /  
+
++          B.38 utt1:  for me.   /
+sd          B.38 utt2: {F Um, } {C but } I've never had to leave them {D like } in a day care center,   
+
+b          A.39 utt1:  Uh-huh. /  
+
++          B.40 utt1:  or anything,  /
+sd          B.40 utt2: {C and } I've been very lucky just be able to stay home. /  
+
+aa          A.41 utt1:  That's the way with me.  /
+sd          A.41 utt2: [ I, + I ] worked four years one time,  /
+sd          A.41 utt3: {C but } my last two children were, {F uh, } both entering high school age. /  
+
+b          B.42 utt1:  Uh-huh. /  
+
+sd          A.43 utt1:  {C And, } {F uh, } they were, of course, gone while I was [ w-, + working ]  /
+sd          A.43 utt2: {C so } it wasn't a problem I saw,  /
+sd          A.43 utt3: {C and } I stayed home the rest of the time. /  
+
+b          B.44 utt1:  Yeah. /  
+
+sd          A.45 utt1:  [ I, + {C so } I ] didn't have that problem either.  /
+%          A.45 utt2: {D Now } [ I have, + I, ] - /
+sd          A.45 utt3: my oldest daughter she has two children  /
+sd          A.45 utt4: {C and } they've been in day care, {F uh, } /  
+
+b          B.46 utt1:  Uh-huh. /  
+
+sd          A.47 utt1:  <Baby_crying> she works full time. /  
+
+b          B.48 utt1:  Yeah,  /
+bf          B.48 utt2: that's hard. /  
+
+sd          A.49 utt1:  [ It, + it's ] difficult  /
+sd          A.49 utt2: {C but } yet she's the type of person that, I don't know, if she'd be happy staying at home. /  
+
+ba          B.50 utt1:  {D Well, } some people aren't. /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+b          B.52 utt1:  Yeah. /  
+
+sd          A.53 utt1:  [ She, + she ] surprised me though.  /
+sd          A.53 utt2:  She's done a lot of things that I never thought she would do, {D you know, } [ with, + <laughter> with ] the family because she was [ m-, + ] the one that said she was never getting married and never going to have any children. /  
+
+bh          B.54 utt1:  {F Oh, } [ is that, + <laughter> is that ] right?  <Laughter>. /  
+
+sd          A.55 utt1:  <Laughter> {C So, } [ she is, + she spends ] a lot of quality time I think <noise> when she is [ with, + with ] the children. /  
+
+ba          B.56 utt1:  I think that's really important. /  
+
+sd          A.57 utt1:  {C And, } {F uh, } [ sh-, +  they've ] used the day care most of the time.  /
+sd          A.57 utt2:  They tried one once.  /
+sd          A.57 utt3:  They had a lady come in. /  
+
+b          B.58 utt1:  Uh-huh. /  
+
+sd          A.59 utt1:  {C And, } {F uh, } [ she, + she ] also had a small child she brought with her.  /
+sd          A.59 utt2: {C And } it did not work out.  {F Uh, } at all <laughter>. /  
+
+b          B.60 utt1:  Uh-huh. /  
+
+sd          A.61 utt1:  [ It, + she thought it ] was going to.  /
+sd          A.61 utt2:  She was real excited because it was so  much easier <noise> than taking the children out,   
+
+aa          B.62 utt1:  Yeah,  /
+b          B.62 utt2: uh-huh. /  
+
++          A.63 utt1:  in the morning,  /
+sd          A.63 utt2: {C but, } {F uh, } [ [ I-, + th-, ] + the ] lady called  /
+sd          A.63 utt3: {C and } her baby wasn't very old at the time and said she was having trouble.   /
+sd          A.63 utt4: {C And } this baby [ is the, + <baby> is the ] [ most pleasant, + {F uh, } real pleasant ] baby easy to satisfy usually.  /
+sd          A.63 utt5: [ {C And, } + {C and } ] she was having problems with her,  /
+sd          A.63 utt6: {C and so } she called and said things were okay, settled down and was all right. /  
+
+b          B.64 utt1:  Yeah,  /
+b^r          B.64 utt2: yeah. /  
+
+sd          A.65 utt1:  {D Well, } my daughter decided to call them and check  /
+sd          A.65 utt2: {C and } things weren't okay <laughter>. /  
+
+ba          B.66 utt1:  Oh. /  
+
+sd          A.67 utt1:  [ Her, + her ] one son was watching the soapies  /
+sd          A.67 utt2: which she doesn't allow them to watch the soapies. /  
+
+b          B.68 utt1:  {F Oh, } uh-huh. /  
+
+sd          A.69 utt1:  {C And } the baby was in his crib with the door shut just screaming his heart out, /  
+
+ba          B.70 utt1:  {F Oh, } dear. /  
+
+sd          A.71 utt1:  {C and } the baby-sitter was in the kitchen with her baby. /  
+
+ba          B.72 utt1:  <Lipsmack>  Oh. /  
+
+sd          A.73 utt1:  {C And so } that ended that,    
+
+ba          B.74 utt1:  Yeah. /  
+
++          A.75 utt1:  <Laughter> episode,  /
+sd          A.75 utt2: {C and } she was most upset, {F uh, } over finding this. /  
+
+b          B.76 utt1:  Yeah,  /
+ba          B.76 utt2: I bet. /  
+
+sd          A.77 utt1:  {C So, } {F uh, } [ she, + they ] kind of had decided that the day care was better.  /
+sd          A.77 utt2: There's, {F uh, }   
+
+b          B.78 utt1:  Uh-huh. /  
+
++          A.79 utt1:  more people involved,  /
+sd          A.79 utt2: more than one adult they, - /
+sd          A.79 utt3: {C and } the age groups are separated <<very faint>>.   /
+%@          A.79 utt4: {C And, } {F uh, }   *[[slash error]]
+
+sd          B.80 utt1:  {D Well, } nannies have been an option, {F uh, }  /
+sd          B.80 utt2: {C but } I know that at day care they have more of [ a, + a ] routine like [ at-, + maybe in, ] {F uh, }   
+
++          A.81 utt1:  Uh-huh. /  
+
++          B.82 utt1:  preschool would have where they have lessons and,    
+
+b          A.83 utt1:  Yes, /  
+
++          B.84 utt1:  so forth,   
+
+^2          A.85 utt1:  story time, {F uh, } /  
+
++          B.86 utt1:  and so on.  /
+b          B.86 utt2:  Uh-huh. /  
+
+sd          A.87 utt1:  {C and } [ the, + this ] one has been particularly nice.  /
+sd          A.87 utt2: [ It, + {F uh, } <lipsmack> it ] kept track of what they did, /  
+
+b          B.88 utt1:  Uh-huh. /  
+
+sd          A.89 utt1:  {C and } they would tell the parents what they did that day.  /
+sd          A.89 utt2:  {D You know, } if they said anything or did anything.  /
+sd          A.89 utt3: {C So } it kind of [ [ ac-, + i-, ] + kept ] them, -/  
+
+bf          B.90 utt1:  Gave you an idea of what your child,   
+
+aa          A.91 utt1:  Yeah. /  
+
++          B.92 utt1:  was progressing in or doing. /  
+
+sv          A.93 utt1:  <Noise> [ I oft-, + I always ] thought that if you were checking into a day care, that you <baby> would be good to get references,    
+
+aa          B.94 utt1:  # Yeah. # /  
+
++          A.95 utt1:  # {F uh, } on # people that had been in that day care but was no longer there. /  
+
+aa          B.96 utt1:  Yeah.  /
+aa^r          B.96 utt2:  Yeah. /  
+
+sv          A.97 utt1:  {C Because } they wouldn't have nothing to worry about saying, {D you know, }  /
+sv          A.97 utt2: if there was a problem [ they, + they ] would I think be more ready to tell you what it was. /  
+
+sv          B.98 utt1:  {F Oh, } I think so, because if they were still there, {D you know } they might not, /  
+
+sv          A.99 utt1:  They may not say anything. /  
+
+aa          B.100 utt1:  Right,  /
+aa^r          B.100 utt2: right. /  
+
+sv          A.101 utt1:  {C And, } {F uh, } [ other than how else, + how do you judge other than ] from what others have, {F uh, } what you see, {F uh, } the cleanliness and that type of thing. /  
+
+aa          B.102 utt1:  You can't really.  /
+sv          B.102 utt2:  You can't really unless your child would be old enough to say something, /  
+
+b          A.103 utt1:  Uh-huh. /  
+
+sd          B.104 utt1:  {C and } usually they aren't at that age. /  
+
+b          A.105 utt1:  <<Very faint>>  Uh-huh. /  
+
+%@          B.106 utt1:  {D You know, } {F um, }   *[[slash error]]
+
+sv          A.107 utt1:   (( {C But } ))  it would be real difficult [ to pick + [ you, + {D you know, } ] to find ] one and --   
+
++          B.108 utt1:  Uh-huh. /  
+
++          A.109 utt1:  -- decide. /  
+
+sd          B.110 utt1:  {D Well, } I know [ I, + {F uh, } about three years ago [ I, + I ] ] tended some children.   
+
+b          A.111 utt1:  Uh-huh. /  
+
++          B.112 utt1:  {C And, } {F uh, } {D you know, } [ I, + I ] wondered if I would have to be certified  /
+sd          B.112 utt2: {C or } whether they'd just bring them  /
+sd          B.112 utt3: [ {C and } -- +   
+
+b          A.113 utt1:  Uh-huh. /  
+
++          B.114 utt1:  -- {C and } ] we got to where, {D well, } we were just friends  /
+sd          B.114 utt2: {C and so, }    
+
+b          A.115 utt1:  Uh-huh. /  
+
++          B.116 utt1:  they said, no, don't do that, we'll just bring them. /  
+
+b          A.117 utt1:  Uh-huh,  /
+b^r          A.117 utt2: uh-huh. /  
+
+sd          B.118 utt1:  {C And then } if there was a problem  /
+sd          B.118 utt2: {C and then } we'd sit down,   
+
+b          A.119 utt1:  <<Very faint>>  Uh-huh. /  
+
++          B.120 utt1:  and talk about it  /
+sd          B.120 utt2: {C but } it never happened,   
+
+b          A.121 utt1:  Yeah. /  
+
++         B.122 utt1:  to be a problem, /  
+
+b          A.123 utt1:  <<Very faint>> Yeah. /  
+
+sd          B.124 utt1:  [ {C and, } + {C and so } ] things worked out okay,  /
+sd          B.124 utt2: {C and } their kids played with my kids  /
+sd          B.124 utt3: {C and } it worked out well. /  
+
+bf          A.125 utt1:  [ I-, + it ] worked out good.  /
+sd          A.125 utt2: [ I'm going to, + I've decided I'm going to ] baby-sit my <baby> two granddaughters. /  
+
+b          B.126 utt1:  Oh. /  
+
+sd          A.127 utt1:   (( Since they'll ))  be going back at the end of the month.  /
+sd          A.127 utt2: {C And so, }    
+
+ba          B.128 utt1:  That's great. /  
+
++          A.129 utt1:  I'm going to give it a try.  /
+sd          A.129 utt2: [ [  I, + I, ] + I ] sell Avon and Stanley products, /  
+
+b          B.130 utt1:  {F Oh, } uh-huh. /  
+
+sd          A.131 utt1:  {C and } I've got that worked out.  /
+sd          A.131 utt2:  My husband, he's retired  /
+sd          A.131 utt3: {C so } he's going to deliver my products  /
+sd          A.131 utt4: {C so } I'll do my orders and that by phone. /  
+
+ba          B.132 utt1:  {D Well, } that will be great. /  
+
+sd          A.133 utt1:  {C So, } {F um, }   
+
+b          B.134 utt1:  Yeah. /  
+
++          A.135 utt1:  I'll be able to keep that up a little bit.  /
+sv          A.135 utt2:  {C But } [ I th-, +   
+
+b          B.136 utt1:  Yeah. /  
+
++          A.137 utt1:  I think ] I'll enjoy  (( doing )) , -/  
+
+sv          B.138 utt1:  I bet you'll have some great experiences with them. /  
+
+aa          A.139 utt1:  Yeah,  /
+sv          A.139 utt2: [ I, + I ] think I'll enjoy. -/  
+
+aa          B.140 utt1:  Yeah. /  
+
+sd          A.141 utt1:  [ I, + I ] guess I kind of miss having a baby around <laughter>.   
+
+x          B.142 utt1:  <Laughter>.   
+
++          A.143 utt1:  A kid around or something <laughter>. /  
+
+ba          B.144 utt1:  Sure,  /
+bh          B.144 utt2: why not. /  
+
+aa          A.145 utt1:  Yeah. /  
+
+sv@          B.146 utt1:  [ {C And, } + {C and } ] {D you know, } the grandparents, {F uh, } I always hear it's always fun when you can send them home at the end of the day instead of <laughter> having to,   *[[slash error]]
+
+aa          A.147 utt1:  Right.  /
+aa          A.147 utt2:  That's right <laughter>. /  
+
++@          B.148 utt1:  <Laughter>  {D So, }    *[[slash error]]
+
+sv          A.149 utt1:  {D Well, } they do say you enjoy them more, /  
+
++          B.150 utt1:  That's right. /  
+
+sd          A.151 utt1:  [ a some, + somebody ] said if they knew grandchildren where so much fun, they would have had them first <laughter>. /  
+
+sd          B.152 utt1:  {D Well, } {F uh, } my husband's mother lives right over here,  /
+sd          B.152 utt2: {C and } she takes care of them sometimes,   
+
+b          A.153 utt1:  Uh-huh. /  
+
++          B.154 utt1:  for me,  /
+sd          B.154 utt2: [ {C and, } + {C and } ] just is a lovely lady, /  
+
+b          A.155 utt1:  Uh-huh. /  
+
+sd          B.156 utt1:  {C and } I've always appreciated when she's sat with them. /  
+
+b          A.157 utt1:  <<Very faint>> Yeah.  /
+sd          A.157 utt2:  My daughter,   
+
+%          B.158 utt1:  {C And, } -/  
+
++          A.159 utt1:  always said she would not let me baby-sit because you do hear grandparents complaining --   
+
+b          B.160 utt1:  Oh <laughter>. /  
+
++          A.161 utt1:  -- {D you know } --   
+
+b          B.162 utt1:  Uh-huh. /  
+
++          A.163 utt1:  -- because they're stuck with their grandchildren so much. /  
+
+b          B.164 utt1:  Uh-huh. /  
+
+sv          A.165 utt1:  {C But } [ they're, + ] the ones that complain a lot are the first -/ 

@@ -1,0 +1,193 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3187_1324_1376
+TOPIC#:		305
+DATE:		911001
+TRANSCRIBER:	GL
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+========================================================================
+  
+
+qo          A.1 utt1:  How would you feel about sending an elderly family member to a nursing home? /  
+
+sd          B.2 utt1:  {D Well, } I don't feel very good about it,  /
+sv          B.2 utt2: {C but } I think that at some times it can be the right thing to do.  /
+sd          B.2 utt3: We sent my grandfather to a nursing home at the point when he was really incapable of caring for himself anymore. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  He actually died a few months after that,  /
+%          B.4 utt2:  {C and so }  as, - /
+sd          B.4 utt3: at least in retrospect, it was the right thing to do  /
+sd          B.4 utt4: {C because } he was either  in a nursing home or a hospital --   
+
+b          A.5 utt1:  Right. /  
+
++          B.6 utt1:  -- or something else that he would have been spending most of his time in those days. /  
+
+qw          A.7 utt1:  {C And } what type of recommendations did you have when you decided where to place him? /  
+
+%          B.8 utt1:  {F Um, } {D well, } the, {D see, } {F uh, } {D well, } - /
+sd          B.8 utt2: [ we, +  he ] wanted to get into a Mennonite nursing home which is very popular and hard to get into and had {D like } a ten year waiting list -- /  
+
+ba          A.9 utt1:  {F Oh, } my. /  
+
+aa          B.10 utt1:  -- right,  /
+sd          B.10 utt2: we wound up just choosing [ a, + another ] Mennonite nursing home that was easier to get into.  /
+%          B.10 utt3: [ {C Or } + {C but } ] naturally, - /
+ar          B.10 utt4: {D no, }  /
+sd          B.10 utt5:  it was even Mennonite related,  /
+sd          B.10 utt6: {E I'm sorry, } it was actually not a particularly great nursing home.  /
+sd          B.10 utt7: Mostly the thing was that it was available when we needed it,    
+
+b          A.11 utt1:  Yeah, /  
+
++          B.12 utt1:  because he suddenly got sick --   
+
+bf          A.13 utt1:  # {C so } the convenience, # -/  
+
++          B.14 utt1:  -- # and needed to be put in. # /  
+
+aa          A.15 utt1:  Right. /  
+
+qo          B.16 utt1:  {F Uh, } what do you think? /  
+
+sd          A.17 utt1:  My grandmother lived with us, {F um, } until August, {F um, }  /
+sd          A.17 utt2: {C and } we made the decision to put her in a nursing home.  /
+sd          A.17 utt3: She has leukemia -- /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+sd          A.19 utt1:  -- {C and } [ her, + the rest of her  ] family and her regular doctors and everybody she trusted and knew was in Dayton, and were several thousand miles away -- /  
+
+b          B.20 utt1:  Yeah. /  
+
+sd          A.21 utt1:  -- {C so } I made the decision to put her in a nursing home,  /
+sd          A.21 utt2: {C and } my sister being on the other end found one that she could have what was called an independent living facility.  /
+sd          A.21 utt3:  She had her own little room and didn't have to share it with anyone and could bring in her own chair and T V set -- /  
+
+b          B.22 utt1:  Yeah -- /  
+
+%          A.23 utt1:  -- {D so. } -/  
+
+b^r          B.24 utt1:  -- yeah,  /
+ba          B.24 utt2: that's important --   
+
+aa          A.25 utt1:  Yes. /  
+
++          B.26 utt1:  -- I would say. /  
+
+sd          A.27 utt1:  {C And } [ that, + the ] other major factor is that she needs blood transfusions every week to ten days, and would have to be hospitalized a day or two,  /
+sd          A.27 utt2: {C so } in this facility they can do it right there from her own room -- /  
+
+b          B.28 utt1:  Okay. /  
+
+sd          A.29 utt1:  -- {C so } she didn't have to be transported back and forth.  /
+sd          A.29 utt2: {C So, } she's been there since August the thirteenth and seems to have adjusted pretty well.  /
+sd          A.29 utt3: It's not her favorite place to be in.  /
+sd          A.29 utt4: She'd much rather be here with me.  /
+sd          A.29 utt5: {C But } --   
+
+b          B.30 utt1:  Yeah. /  
+
++          A.31 utt1:  -- when it got to the point I was spending more time at the hospital with her, - /
+sd          A.31 utt2: {C and } I've got little children here who needed me here -- /  
+
+aa@          B.32 utt1:  Right, {C so } that, -/  *[[slash error.  two utts]]
+
+sd          A.33 utt1:  -- she needed somebody to watch her twenty-four hours a day. /  
+
+aa          B.34 utt1:  Right,  /
+sv          B.34 utt2: {C and } --   
+
+%          A.35 utt1:  {D So. } /  
+
++          B.36 utt1:  -- that becomes difficult then. /  
+
+sd          A.37 utt1:  She was falling down and hemorrhaging  /
+sd          A.37 utt2: {C and, } {D you know, } all kinds of physical problems,  /
+sd          A.37 utt3: {C so } it just became too much for me to handle,  /
+sd          A.37 utt4: even though I would have liked to have had her stay, with her health being what it was she couldn't --   
+
+b          B.38 utt1:  Uh-huh. /  
+
++          A.39 utt1:  -- anymore. /  
+
+aa          B.40 utt1:  Yep,  /
+sd          B.40 utt2: we tried to convince my grandfather to live with us at several points during the last few years of his life,  /
+sd          B.40 utt3: {C but } he was essentially too proud and too independent --    
+
+b          A.41 utt1:  Yeah. /  
+
++          B.42 utt1:  -- so that even though his heart was getting incredibly weak and his knees were going bad --   
+
+b          A.43 utt1:  Uh-huh. /  
+
++          B.44 utt1:  -- he lived in his own house as long as he could -- /  
+
+b          A.45 utt1:  Yeah. /  
+
+sd          B.46 utt1:  -- {C but } he was living alone, had an upstairs apartment, could barely make it up the steps --   
+
+b          A.47 utt1:  Oh. /  
+
++          B.48 utt1:  -- to the top without a great deal of pain,  /
+%          B.48 utt2: {C and } this, - /
+sd          B.48 utt3:  eventually things just went too far -- /  
+
+b          A.49 utt1:  Yeah. /  
+
+sd          B.50 utt1:  -- {C and } he allowed himself to be put into a nursing home. /  
+
+b          A.51 utt1:  Yes,  /
+sv          A.51 utt2: {D well, } I think sometimes when people get to be a certain age, other people have to kind of help them make decisions.  /
+sd          A.51 utt3: It sure wouldn't have been Granny's decision to leave us and go back to a nursing home,  /
+sd          A.51 utt4: {C but } she's accepted it real well now -- /  
+
+b          B.52 utt1:  Right -- /  
+
+%          A.53 utt1:  -- {D so. } /  
+
+sv          B.54 utt1:  -- {D well } [ that's, + {D yeah, }  that's  ] right that the children have some responsibility, too, to their parents and such, to help decide what's the right thing. /  
+
+sd          A.55 utt1:  {D Well, } we enjoyed --   
+
+%          B.56 utt1:  {C And. } -/  
+
++          A.57 utt1:  -- having her here,  /
+sd          A.57 utt2: {C but } we feel she's much safer where she is now.  /
+sd          A.57 utt3:  She still continues to fall,  /
+sd          A.57 utt4: {C but } when she does [ there, + ] a nurse is right there to help her -- /  
+
+b          B.58 utt1:  Uh-huh. /  
+
+sd          A.59 utt1:  -- {C and } I know she's eating the right things,  /
+sd          A.59 utt2: {C and } her doctor's right there where he can come in and check on her,  /
+sd          A.59 utt3: {C so. } It became dangerous for us to keep transporting her back and forth in the car because she was so wobbly and needed a walker or a wheel chair -- /  
+
+b          B.60 utt1:  Yep. /  
+
+sd          A.61 utt1:  -- {C so, } I think she'll adjust, / 

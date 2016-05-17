@@ -1,0 +1,176 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3372_1407_1035
+TOPIC#:		354
+DATE:		911108
+TRANSCRIBER:	LAB
+UTT_CODER:	TC
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+ad          B.1 utt1:   Go ahead. /  
+
+sd          @A.2 utt1:   {F Um, } I haven't given this  [ a, +  a ] lot of thought.  /
+sd          @A.2 utt2:  I'm, {F uh, }  {A [ that, +  that's ] a whole, }  pleased with the [ pr-,  +  practice ] that is they, - /
+%          @A.2 utt3: [ I, +  {F uh, } I ] don't, - /
+sv          @A.2 utt4: (( you would favor ))  invasions  of privacy on the other hand that's arguable but [ that, +  that, ]  {F uh, } people who's jobs are critical to public safety should have to meet special standards.  /
+sd          @A.2 utt5:  {F Uh, } I haven't given this matter enough thought. /  
+
+qy          B.3 utt1:   Do you work for T I? /  
+
+nn          A.4 utt1:   No, # {F uh, } # /  
+
+bk          B.5 utt1:   # Oh. # /  
+
+sd          A.6 utt1:   I'm in the Washington area.  /
+sd          A.6 utt2:  I work for  (( N I S T )) . /  
+
+bk          B.7 utt1:   {F Oh, } okay.  /
+bk          B.7 utt2: {F Oh, } all right.  /
+sd          B.7 utt3:  {D Well, } see we have the testing already here.  /
+sv          B.7 utt4: We've  had it for, {F oh, } about five years. /  
+
+b          A.8 utt1:   Uh-huh. /  
+
+sd          B.9 utt1:   It used to just be for new employees. #  /
+sd          B.9 utt2: {C And } now # --   
+
+b^m          A.10 utt1:   # {C And } now, # -/  
+
++          B.11 utt1:   -- it's for all employees.  /
+sd          B.11 utt2:   They, {F uh, } randomly select employee numbers  /
+sd          B.11 utt3: {C and, } {F uh, } the day that  they select you is when you have to go [ and, +  and ] be tested. /  
+
+b          A.12 utt1:   # Okay,  /
+qo          A.12 utt2: {C and } how do people feel about it? # /  
+
+sd          B.13 utt1:   # {D So, } we're familiar with it. #  /
+sd          B.13 utt2:  {F Oh, } we have a lot of, {F um, } people upset about it at the beginning.    Some not all.  /
+sd          B.13 utt3: {C But } what was happening at T I is that they found certain parts of the company there was a lot of drug abuse.    {F Um, } <breathing> mainly the areas [ whe-, +  where ] they were doing  a lot of, {F um, } manufacturing type things  /
+sd          B.13 utt4: {C and } what they ended up doing  is, {F uh, } kind of {D like } doing a little bit of an undercover agent to watch  what was happening,  /
+sd          B.13 utt5: {C and } we had people using on the premises and actually selling and  dealing, {D you know, } on the premises. /  
+
+b          A.14 utt1:   {D Well, } okay,  /
+sv          A.14 utt2: [ that's, +  that's ]  a very different issue. /  
+
+b          B.15 utt1:   <Laughter> {D Well, } yeah,  /
+sd          B.15 utt2: it was,  {D you know, } combination [ of, +  of,  ] {F uh, } both activities [ and, +  {F uh, } and ]  using too  /
+sd          B.15 utt3: {C so } they developed this, {F uh, } drug policy [ so that, +  {F uh, } to ]  eliminate, - /
+sd          B.15 utt4: there's some parts of the company that we do, {F uh, } government  contracts,  /
+sv          B.15 utt5: {C and } I think some of those require the drug testing,  /
+sd(^q)          B.15 utt6:  {C but } now T I thought {D well, } we'll just do it for all employees [ that, + ]  {F um, } not just because of safety issues but because we want a totally drug free safe environment for all people to work in  /
+^q          B.15 utt7: {C and } that we  shouldn't have, {F um, } people on drugs within our, {D you know, } offices and such. /  
+
+%          A.16 utt1:   # {C And, } # -/  
+
+sd          B.17 utt1:   # I haven't # personally ever been tested,  /
+sd          B.17 utt2:  {C but } I don't have a problem with it. /  
+
+qy          A.18 utt1:   {F Um, } does the testing cover  alcohol as well as illegal drugs? /  
+
+nn          B.19 utt1:   No,  /
+sv          B.19 utt2: {C but } one thing that  [ to, +  to ] me was, {F um, } going on, stretching it a little too far was that they also check,  {F um, } if you are taking somebody else's prescription drug.  /
+sd          B.19 utt3:  {D You know, } it happens a lot of times  /
+sd          B.19 utt4: like some member of the  family gets the flu or whatever  /
+sd          B.19 utt5: {C and,  {D you know } --   
+
+%          A.20 utt1:   #  (( {D Well } )) , # -/  
+
++          B.21 utt1:   -- # then } # they give it to everybody  else in the family and don't always go back to the, {D you know, } doctor and get another prescription.  /
+sd          B.21 utt2: {D Well, } according to what they do at T I, if you take a prescription drug it has to be in your name.  /
+sd          B.21 utt3:   [ It, +  {D you know, } it ] can't be in your spouse's name  /
+sv          B.21 utt4:  {C so } [ they will look, +  {E I mean, } the testing will look ] for, I guess, any kind of drugs,  /
+sd          B.21 utt5:  {C and } you have to tell them what they are taking a prescription for. /  
+
+qy          A.22 utt1:   {C So } they ask you to declare  beforehand what prescription drugs you are taking? /  
+
+na          B.23 utt1:   Right.  /
+ny          B.23 utt2:  Yes,  /
+ny^r          B.23 utt3: yes.  /
+sd          B.23 utt4:   When you get tested you are supposed to tell them, {D you know, } everything  [ that, +  that  ] might be there.  /
+sd          B.23 utt5:  {C And } then if they ever, {F um, } question you or  something you may have to show proof that you do have a prescription in your name. /  
+
+b          A.24 utt1:   Okay.  /
+sv          A.24 utt2:  {D Well, } [ it, +   {E I mean, } it's, ] I guess that, in fact, [ they don't test [ for, +  for, ] +  they don't routinely test for ] very many prescription drugs  /
+sd          A.24 utt3: [ {C but } that I, +  {C but } they  ]  (( don't say in advance )) , {F uh, } #  /
+%          A.24 utt4: {C so, } # -/  
+
+sv          B.25 utt1:   # {D Well, } # what they [ wo-, +  be ]  testing for are the ones that would have {D like, } {D you know, } barbiturates  or codeine things like that in them. /  
+
+bf          A.26 utt1:   The ones that would kind of constitute controlled substances or # something  (( anyway )) . # /  
+
+aa          B.27 utt1:   # Right,  /
+aa^r          B.27 utt2: right. #  /
+sv          B.27 utt3:   I guess that's what [ i-, +  they ] wouldn't be looking for penicillin and [ an-, +  antibiotics  ]  and stuff.  /
+sv          B.27 utt4: They would be looking for the, {D yeah, }  controlled things, barbiturates # amphetamines. # /  
+
+bf          A.28 utt1:   # {C So } what they are # asking you to tell them is all the prescription drugs you are taking which are controlled substances. /  
+
+aa          B.29 utt1:   Right,  /
+aa^r          B.29 utt2: right.  /
+sd          B.29 utt3:  You pretty much,  {D you know, } put down what you remember even if it was just Contact or  something like that.  /
+sd          B.29 utt4: {C But } afterwards, {F uh, } maybe if you had a  controlled # substance <laughter>. #   
+
+qy          A.30 utt1:   # Is Contact a, #   
+
++          B.31 utt1:   {D Well, } # <laughter>, # -/  
+
++          A.32 utt1:   # Bo-, # -/  
+
+sd          B.33 utt1:   [ you, +  you ] probably put down,  {D you know, } you had  (( Drixoral ))  or  Contact if you would remember that you did it. /  
+
+b          A.34 utt1:   Okay.  /
+qy          A.34 utt2: Is Contact a,   
+
+nn          B.35 utt1:   No. /  
+
++          A.36 utt1:   #  ((   ))  substance? # /  
+
+sd          B.37 utt1:   # <Laughter> I'm, #   
+
+bk          A.38 utt1:   Okay. /  
+
++          B.39 utt1:   just saying you probably  [ pro-, + ] put down on the sheet --   
+
+b          A.40 utt1:   # Okay. # /  
+
++          B.41 utt1:   -- # anything # you have taken.  /
+sv          B.41 utt2:   {C But } if they had a controlled substance, maybe they would ask you  then to show that you had that prescription in your name.  /
+sd          B.41 utt3:   I know I had one contract employee through Manpower was not a T I person,    
+
+b          A.42 utt1:   Uh-huh. /  
+
++          B.43 utt1:   but was a contract person,  /
+sd          B.43 utt2:  {C and } they test them too even if you are not a real, {F uh, } T I -er.  /
+sd          B.43 utt3:   If you are a contract employee here --   
+
+b          A.44 utt1:   # Uh-huh. # /  
+
++          B.45 utt1:   -- # they test # you too.  /
+sd          B.45 utt2:  {C And } he had taken some kind of,  {F um, } <lipsmack> {F oh, } {D you know, } {F uh, } - /
+sd          B.45 utt3:  just, he had some kind of  flu or  something.  /
+sd          B.45 utt4:  He got a real bad migraine  /
+sd          B.45 utt5:  {C and } he took his mother's, -/ 

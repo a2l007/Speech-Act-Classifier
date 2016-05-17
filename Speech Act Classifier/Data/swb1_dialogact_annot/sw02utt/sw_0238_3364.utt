@@ -1,0 +1,312 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3364_1419_1421
+TOPIC#:		339
+DATE:		911106
+TRANSCRIBER:	GL
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+============================================================================
+  
+
+qw          B.1 utt1:  What's your favorite T V show? /  
+
+sd          @A.2 utt1:  {F Oh. }  {D You know, } I used to like ST. ELSEWHERE. /  
+
+b          B.3 utt1:  Uh-huh. /  
+
+sd          A.4 utt1:  That's one of my old favorites.  /
+%          A.4 utt2:  {F Um, } {C and } that's, - /
+sd          A.4 utt3: I'm being beeped,  /
+sd          A.4 utt4: {C so } I'll just ignore it.  /
+sd          A.4 utt5:  {F Um, } {C and } {D now, } [ I, + I ] did like  THIRTY SOMETHING -- /  
+
+b          B.5 utt1:  Uh-huh. /  
+
+^h          A.6 utt1:  -- {F oh, } yes,  /
+sd          A.6 utt2: my daughter says NINE OH TWO ONE OH.  /
+sd          A.6 utt3:  We like  that one. /  
+
+b          B.7 utt1:  Yeah,  /
+sd          B.7 utt2: that's one of my favorites. /  
+
+ba          A.8 utt1:  Good,  /
+qw          A.8 utt2: {C and } how old are you? /  
+
+sd          B.9 utt1:  I'm twenty-eight. /  
+
+sd          A.10 utt1:  {F Oh, } {C so } you're little bit younger than I am,  /
+b          A.10 utt2: {C but } yeah,  /
+sd          A.10 utt3: I think if my seventeen year old, my fourteen year old, my other two children like it,  /
+sd          A.10 utt4: I'm over forty,  /
+sd          A.10 utt5: {C and } I like it.  /
+sd          A.10 utt6:  I think it's wonderful. /  
+
+b          B.11 utt1:  Yeah,  /
+sv          B.11 utt2: it's a good show.  /
+sd          B.11 utt3: I like MURPHY BROWN and DESIGNING WOMEN, too. /  
+
+b          A.12 utt1:  <Laughter>  {F Oh, } yeah,  /
+sd          A.12 utt2: {D now } {D see, } [ I, + we ] are so busy with, all of our kids are in sports,  /
+sd          A.12 utt3: {C and } I hardly ever watch T V,  /
+sd          A.12 utt4: {C but } that's one [ that, + that ] we watch.  /
+sd          A.12 utt5:  {C And then } Sunday nights we watch, {F uh, } LIFE GOES ON. /  
+
+b          B.13 utt1:  Yeah,  /
+sd          B.13 utt2: I like that,  /
+sv          B.13 utt3: [ that's, + that's ] a good show, too. /  
+
+ba          A.14 utt1:  Very good.  /
+qy          A.14 utt2:  Did you see the one on Sunday? /  
+
+ny          B.15 utt1:  Yes,  /
+%          B.15 utt2: it was a, {F uh, } {F uh } - /
+sd          B.15 utt3: I did miss that Sunday,  /
+nn          B.15 utt4: no  /
+sd^e          B.15 utt5: I didn't. /  
+
+sd          A.16 utt1:  That one kid that Becca likes --   
+
+b          B.17 utt1:  Yeah,  /
+sv          B.17 utt2: it's a good episode. /  
+
++          A.18 utt1:  -- he has AIDS. /  
+
+b          B.19 utt1:  Yeah,  /
+sd          B.19 utt2: [ the, + the ] new character on there did. /  
+
+b          A.20 utt1:  Right,  /
+b^r          A.20 utt2: right.  /
+sd          A.20 utt3: All the way to North Carolina.  /
+qw          A.20 utt4: What time is it there? /  
+
+sd          B.21 utt1:  {F Uh, } it is twenty minutes to nine. /  
+
+ba          A.22 utt1:  {F Oh, } my gosh.  /
+sd          A.22 utt2:  {D See, } I'm twenty minutes to six here <laughter>. /  
+
+bf          B.23 utt1:  Three hours difference. /  
+
+aa          A.24 utt1:  Yeah,  /
+aa^r          A.24 utt2: yeah.  /
+b          A.24 utt3:  Okay.  /
+qw          A.24 utt4:  What else do you like? /  
+
+sd          B.25 utt1:  {F Uh, } let's see, I like a lot of different shows.  /
+sd          B.25 utt2:  Let's see, {F um, } I like MURDER, SHE WROTE.  /
+%          B.25 utt3: [ That's, + that's, ] -/  
+
+sd          A.26 utt1:  {F Oh, } [ I never, + I never ] watched that ever in my entire life. /  
+
+sd          B.27 utt1:  {C And } MATLOCK is another good one I watch. /  
+
+b          A.28 utt1:  Uh-huh. /  
+
+sd          B.29 utt1:  {F Um, } then during daytimes [ I like, + I like ] ALL MY CHILDREN. /  
+
+t3          A.30 utt1:  A small bowl will be plenty.  /
+t3          A.30 utt2:  {F Oh, } that's mine.  /
+sd          A.30 utt3:  That's the only one I watch whenever I, {F oh, } - /
+t3          A.30 utt4: a small bowl will be better <talking> because it's pretty fattening.  /
+sd            A.30 utt5:  Talk to my daughter.  /
+%          A.30 utt6: {F Um, } {F um, } /  
+
+sd          B.31 utt1:  ALL MY CHILDREN,  /
+sd          B.31 utt2: I've watched that for about twelve years. /  
+
+b          A.32 utt1:  Yeah,  /
+sd          A.32 utt2: [ I've, + I'm ]  sure I watched it for more than that probably.  /
+sd          A.32 utt3:  Twenty something.  /
+sd          A.32 utt4:  I used to watch GENERAL HOSPITAL when I was a teenager  because I, -/  
+
+sd          B.33 utt1:  I quit watching GENERAL HOSPITAL when Leslie got killed. /  
+
+b          A.34 utt1:  Oh. /  
+
+sd          B.35 utt1:  {C So } that was a long time ago.  /
+sd          B.35 utt2:  I used to watch it, [ was + ] in high school and college --   
+
+b          A.36 utt1:  Right. /  
+
++          B.37 utt1:  -- when Laura's mother got killed.  /
+sd          B.37 utt2: She was my favorite character on there. /  
+
+x          A.38 utt1:  <Laughter>.   
+
+%          B.39 utt1:  I just, - /
+sd          B.39 utt2: I read the reason [ she got, + ] [ they, + they ] killed her off was because they couldn't settle a contract,  /
+sd          B.39 utt3: {C and } I said, {D well, } if they're going to do that to her, I won't watch it. /  
+
+ba          A.40 utt1:  <Laughter> {F Oh, } that's great.  /
+sd          A.40 utt2:  {D Well, } I do like ALL MY CHILDREN,  /
+h          A.40 utt3: [ {C and } I, + {C and } I ] like it, {D you know, } I don't know.  /
+%          A.40 utt4:  I just, - /
+sd          A.40 utt5:  I like the people on it, I guess, {D you know. } /  
+
+sd          B.41 utt1: [ [ I, + I, ] + I ] like it.  /
+sd          B.41 utt2:  I just wish they'd bring some of the old characters back. /  
+
+b          A.42 utt1:  Yeah,  /
+qy^g          A.42 utt2: {D well, } Tad's going to come back, I bet, do you think? /  
+
+ny          B.43 utt1:  Yeah,  /
+sd^e          B.43 utt2: I'm sure he will. /  
+
+sd          A.44 utt1:  He'll come back, show up at just the right moment. /  
+
+sd          B.45 utt1:  I kind of wish that, {F uh, } Nina would come back [ because she -- +   
+
+b          A.46 utt1:  Oh. /  
+
++          B.47 utt1:  -- because ] the story, {D you know, } - /
+sd          B.47 utt2: just for a brief visit or  whatever, because it never has been resolved with Palmer remarrying, and everything, -/  
+
+b          A.48 utt1:  Yeah,  /
+sd          A.48 utt2: {D like } Daisy, pops in once in a while,  /
+sd          A.48 utt3: {C and, }  I forgot about Nina and Cliff, right. /  
+
+b          B.49 utt1:  Yeah,  /
+sd          B.49 utt2: Cliff's on THE YOUNG AND THE RESTLESS now. /  
+
+b          A.50 utt1:  {F Oh, } he is.  /
+ba          A.50 utt2:  {C So } he's out for good. /  
+
+aa          B.51 utt1:  Yeah,  /
+sd^m          B.51 utt2: he's out for good. /  
+
+qy          A.52 utt1:  Did they marry? /  
+
+%          B.53 utt1:  {F Uh } -- /  
+
+qy^d          A.54 utt1:  Nina and Cliff? /  
+
+sd          B.55 utt1:  -- that's how they left the show, but not in real life. /  
+
+%          A.56 utt1:  {F Um. } /  
+
+sd          B.57 utt1:  Now she's married to some guy in New York,  /
+sd          B.57 utt2: {C and } she's happily married  /
+sd          B.57 utt3: {C and } that's the reason she left the show.  /
+sd          B.57 utt4: I guess she wanted a private life. /  
+
+b          A.58 utt1:  {F Oh, } okay,  /
+sd          A.58 utt2: {F oh, } {D see } [ [ I, + I, ] + I ]  watch it maybe twice a month,  /
+sd          A.58 utt3: {C so, }  I don't watch it everyday like I did when I had babies. /  
+
+sd          B.59 utt1:  {F Oh, } {D well, } [ I, + I ] watch. /  
+
+sd          A.60 utt1:  {C Because } I play lots of tennis  /
+sd          A.60 utt2: {C and } I'm gone a lot,  /
+sd          A.60 utt3: {C so, }  I don't get to watch, /  
+
+sd          B.61 utt1:  I watch it everyday, religiously.  /
+sd          B.61 utt2:  I videotape it when I have to miss it. /  
+
+ba          A.62 utt1:  {F Oh, } no kidding. /  
+
+aa          B.63 utt1:  Yeah. /  
+
+sd          A.64 utt1:  [ I use to be, + I used to be ] like that <laughter>. /  
+
+sd          B.65 utt1:  I'm that way about a lot of different shows.  /
+sd          B.65 utt2:  I'm that way about MURPHY BROWN, DESIGNING WOMEN. /  
+
+qy          A.66 utt1:  {D Now } [ isn't DESIGNING WOMEN, + don't they  ] have a new chick on there [ instead of the, + instead of ] what's her name? /  
+
+ny          B.67 utt1:  {F Uh, } yeah,  /
+sd          B.67 utt2: there's two new characters on there.  /
+sd          B.67 utt3:  There's, {F um, } {F uh, } Jan Hooks from SATURDAY NIGHT LIFE.  /
+qy^d          B.67 utt4: I don't know if you know her or not. /  
+
+ny          A.68 utt1:  Huh-uh.  /
+sd^e          A.68 utt2:  That's a show I like. /  
+
+sd          B.69 utt1:  [ {C And then, } + {C and then, } ] {F uh, } <lipsmack>, {F uh, } the blond headed girl that used to be on NEWHART. /  
+
+ba          A.70 utt1:  {F Oh, } yeah, {F oh. } /  
+
+sv          B.71 utt1:  I don't like her on it,  /
+sv          B.71 utt2: I never have liked her,  /
+%          B.71 utt3: {C so. } -/  
+
+sd         A.72 utt1:  {D Well, } [ I, + I ] just know which one she is.  /
+%          A.72 utt2:  I don't, {D you know. } -/  
+
+sd          B.73 utt1:  She's taken the Suzanne's part,  /
+sd          B.73 utt2: {C and then } Jan Hooks has taken Charlene's part. /  
+
+qy^d          A.74 utt1:  Charlene was Delta Burke? /  
+
+ng          B.75 utt1:  Charlene was Jean Smart, the blond headed. /  
+
+bk          A.76 utt1:  {F Oh, } okay,  /
+sd          A.76 utt2: {D well, } {D see, } I never watch that one either.  /
+sd          A.76 utt3: I really don't watch a whole lot of T V, just, {D you know, } on Sunday nights,  /
+sd          A.76 utt4: LIFE GOES ON comes on about the time that we eat dinner,  /
+sd          A.76 utt5: {C and } my whole family's home, because I don't allow the kids out on Sunday night --   
+
+b          B.77 utt1:  Yeah. /  
+
++          A.78 utt1:  -- {D you know, } because they've got to go to bed and go to school the next day,  /
+sd          A.78 utt2: {C and so } [ we, + we ] sit around and eat popcorn  /
+sd          A.78 utt3: {C and, } {F oh, } then we watch AMERICA'S FUNNIEST HOME VIDEOS.  /
+sv          A.78 utt4:  Those are always pretty cute. /  
+
+sd          B.79 utt1:  {D Well, } MURDER, SHE WROTE comes on opposite of that,  /
+%          B.79 utt2: {C and so, } -/  
+
+qy^d          A.80 utt1:  {F Oh, } {C so } you don't watch that one --   
+
+ny          B.81 utt1:  Yeah  /
+sd          B.81 utt2: [ I -- +   
+
++          A.82 utt1:  -- instead of, -/  
+
++          B.83 utt1:  -- I ] pick nights pretty much so on T V that I watch different networks,  /
+sd          B.83 utt2: {C but } --   
+
+b          A.84 utt1:  Sure. /  
+
++          B.85 utt1:  -- BEVERLY HILLS NINE OH TWO ONE OH, [ I, + I ] watch it religiously. /  
+
+b          A.86 utt1:  Yeah,  /
+sd          A.86 utt2: we like that real well. /  
+
+%          B.87 utt1:  It, - /
+ad          B.87 utt2: be sure to watch it tomorrow night --   
+
+b          A.88 utt1:  Uh-huh. /  
+
++          B.89 utt1:  -- because somebody's getting killed on it. /  
+
+sd          A.90 utt1:  I know.  /
+sd          A.90 utt2:  The kids already know who it is,  /
+sd          A.90 utt3: I don't know who it is, though, /  
+
+qw          B.91 utt1:  Who is it?  /
+ad          B.91 utt2:  Ask them <laughter>. /  
+
+co          A.92 utt1:  Let me ask Nicole.  /
+t3          A.92 utt2: <<Speaking to someone in room>> Nicole. -/ 

@@ -1,0 +1,168 @@
+This file describes potential internal annotation inconsistencies,
+which should be understood by researchers modeling the affected tags.
+
+-  It is difficult to decide between <b> or <s^bk> when a speaker
+   produces for example a "yeah" after their own speech.  We
+   found that some annotators tended to prefer the former while others
+   prefered the latter.
+
+-  It is difficult to determine whether words like "okay," "uhhuh," or
+   "yeah" function as <b>'s, <s^bk>'s, or <s^aa>'s when a speaker is
+   providing feedback or responding to a previous speaker.  We found
+   that some annotators tended to prefer different labels and that their
+   preferences changed as their annotation skills developed.
+
+-  It is difficult to know when to segment strings of floor-holders 
+   (<fh>) like "um" and "uh" into separate DAs, particularly because
+   floor holders by their nature tend to be produced with drawn-out
+   prosody.  Thus, there may be inconsistencies in whether such
+   strings are kept as one DA or split into multiple DAs.
+
+-  It is difficult to know whether or not to segment utterances 
+   right after an aside.  They can be segmented in either of two ways: 
+
+	Beginning of thought ==
+	Aside .
+	Completed thought .
+   or
+	Beginning of thought ==
+	Aside and completed thought .
+
+
+- The label <sj> was used in early meetings, but later merged with <s>
+  because it is inherently difficult categorize statements as to whether
+  they are subjective or not.  However, since the label may be useful for
+  some purposes, meetings that were labeled before the merge occurred have
+  the <sj> label preserved in the database as an "original label" (see
+  "database-format.txt").
+
+  The list below specifies the meetings labeled before <sj> was merged
+  with <s>, ordered by frequency of occurrence of the <sj> tag:
+
+  ----------------
+  count    Meeting
+  ----------------
+   103     Bmr018
+   92      Bmr006
+   85      Bmr012
+   83      Bmr008
+   69      Bed010
+   64      Bmr005
+   57      Bro017
+   57      Bed004
+   56      Bmr009
+   56      Bmr013
+   53      Bmr014
+   52      Bro026
+   48      Bmr007
+   48      Bmr026
+   46      Bmr024
+   41      Bed003
+   38      Bmr001
+   37      Bro012
+   29      Bro008
+   28      Bro005
+   27      Bmr010
+   24      Bro004
+   20      Bed009
+   17      Bro018
+   16      Bed011
+   15      Bro007
+  ----------------
+
+- There may be inconsistencies as to how the word "right" is treated at the
+  end of an utterance by different annotators.  Sometimes, the word "right"
+  is on the same line as previous speech by the same speaker and the "right"
+  is labeled with a question tag (<^g>) after the pipebar.  At other times,
+  the "right" is on the next line.  The length of silence between the
+  previous speech and the "right" was the main determining factor as to
+  how the annotators segment utterances ending with the question, "Right?"
+
+- It is difficult to decide whether an utterance should be labeled with an
+  <s^ba>.  The judgement as to whether a speaker is providing an assessment
+  proved to be ambiguous for annotators.
+
+- The annotation for phrases like "you know," "okay," "right," and "let's see"
+  may have some inconsistencies.  There are specific speaker patterns as to
+  the uses of these phrases and the annotation of each of these phrases
+  by one speaker may have affected the way annotators labeled these words,
+  even when they were uttered by other speakers.  This was particularly
+  the case when "you know," "okay," and "right" were used by a speaker to
+  encourage feedback from others or to check whether listeners were
+  following along.  The phrase "let's see" was difficult to annotate because
+  it was unclear to annotators whether this word functioned as a hold,
+  self-talk, or a floor-holder.
+
+- The annotation of all positive answers (<aa>, <aap>, <na>) and
+  all negative answers (<ar>, <arp>, <nd>, <nd>) differed within
+  these two types of answers.  The use of short words and phrases
+  such as "well no" or "oh yeah" were either included as part of
+  narrative answer or were distinguished from following speech by
+  the same speaker depending on the prosody of these short phrases.
+  We found that some annotators tended to prefer different labels
+  and that their preferences changed as their annotation skills
+  developed.
+
+- It is difficult to determine when an utterance should be labeled
+  with an elaboration tag (<e>), a defending/explanation tag (<df>),
+  or both.  Annotators had their preferences as to how to annotate
+  utterances with <e> and <df> and their preferences changed as their
+  annotation skills developed.
+
+- The determination of the duration of an adjancy pair (AP) differed
+  by each annotator.  Some annotators prefered to include many utterances
+  as the "a" part of an AP by using several "+" signs in a row.  Other
+  annotators interpreted the content of each AP part to be much shorter
+  and therefore used very few "+" signs in their AP annotation.
+
+- The use of "anyway" as a <tc> differed among the annotators until
+  agreement among all the annotators was made that "anyway" cannot alone
+  be deemed as a topic-changer.
+
+- Adjacency pairs (APs) are not included when one AP part is an utterance
+  that does not come from a headset microphone.  In such cases, the
+  annotator could hear this utterance and determine that it was an AP part
+  but had no means of labeling it as such since the utterance did not show
+  up in transcription even if the other part of the AP did show up in
+  transcription.
+
+- It was difficult to determine when an utterance functioned as an 
+  elaboration alone or whether it also functioned as another dialog
+  act.  Therefore, there were differences between the annotators in
+  whether the specific tags of an utterance included other tags other
+  than <^e>.  This is especially true when the speaker of an utterance
+  gives a suggestion or an explanation and then elaborates on it.
+
+- The use of <t> and <tc> in labels differed among annotators until
+  the differences were sorted out by the annotators.  Before the
+  agreement, some annotators chose to label utterances with just a
+  <t>, just a <tc>, or with both tags.
+
+- After consensus among the annotators, it was decided that only one
+  pipebar is permitted per utterance.  Therefore, when there are three
+  DAs that characterize the speech of one speaker and all three
+  correspond to one another, the annotators would use prosody to judge
+  where segmentation should occur among the three tags.  For example,
+  if there is an <fg>, an <s^aa>, and lastly, an <s^aa>, the annotator
+  may choose to segment the transcribed speech as one of the following
+  depending on the timing and prosody of the speech:
+  <fg>
+  <s^na>
+  <s^aa>
+
+  or
+
+  <fg>
+  <s^na|s^aa>
+
+  or
+
+  <fg|s^na>
+  <s^aa>
+
+
+- The interpretation of whether an entire utterance was abandoned or
+  just the quoted material was abandoned differed by annotators.
+  Therefore, there are differences between the annotators in labels such
+  as in the following examples:
+  <s.%--:qy.%--> vs. <s:qy.%--> vs. <s.%--:qy>

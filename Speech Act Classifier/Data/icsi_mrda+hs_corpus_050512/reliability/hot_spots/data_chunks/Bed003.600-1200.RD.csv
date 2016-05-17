@@ -1,0 +1,404 @@
+601.155,604.025,Bed003-c3,s,,,,and the mode you know - depends on all those things only .
+604.77,609.593,Bed003-c2,s,,,,yeah the - the actual parse is somewhere up around in here .
+608.22,608.41,Bed003-c3,fg,,,,yeah .
+608.59,609.69,Bed003-c3,s.%--,,,,so we haven't uh - managed ==
+609.81,611.48,Bed003-c3,s,,,,like - we don't have nodes for discourse and parse .
+611.48,614.11,Bed003-c3,s,,,,although like - in some sense they are parts of this belief-net .
+611.673,612.093,Bed003-c4,b,,,,mm-hmm .
+614.2,619.753,Bed003-c3,s,,,,but uh the idea is that we just extract those features from them so we don't actually have a node for the entire parse .
+618.627,618.997,Bed003-c4,b,,,,mm-hmm .
+619.57,619.82,Bed003-c2,b,,,,right .
+619.913,622.113,Bed003-c3,s,,,,because we'd never do inference on it anyway .
+622.183,622.333,Bed003-c3,fh,,,,so ==
+623.795,626.395,Bed003-c4,s.%--,,,,so some of the - the top row of things ==
+626.395,628.445,Bed003-c4,qw,1a,,,what's - what's disc admission fee ?
+627.99,629.34,Bed003-c3,s,1b.2a,,,whether they discuss the admission fees .
+629.34,630.06,Bed003-c3,s,,,,so we looked at the data .
+630.02,630.52,Bed003-c4,s^bk,2b,,,oh .
+630.06,632.98,Bed003-c3,s:qw,,,,and in a lot of data people were saying things like can i get to this place .
+632.98,634.03,Bed003-c3,s:qw,FBH,,,what is the admission fee .
+634.03,639.19,Bed003-c3,s,,,,so that's like - a huge uh - clue that they're trying to enter the place rather than uh - to tango or vista .
+635.03,635.39,Bed003-c4,b,,,,uh-huh .
+637.826,638.216,Bed003-c2,b,,,,right .
+638.69,639.27,Bed003-c4,b,,,,o_k .
+639.33,639.5,Bed003-c3,fg,,,,so ==
+639.36,639.79,Bed003-c4,s^bk,,,,i see .
+639.905,642.225,Bed003-c2,s,,,,there were - there'd be other things besides just the admission fee .
+642.595,644.585,Bed003-c2,s.%-,,,,but you know - we didn't have ==
+642.72,643.03,Bed003-c4,b,,,,mm-hmm .
+644.31,645.32,Bed003-c3,s,,,,that was like our example .
+645.37,647.03,Bed003-c2,s,,,,that was the initial one that we found .
+645.539,645.819,Bed003-c1,b,,,,mm-hmm .
+646.386,646.756,Bed003-c4,s^bk,,,,o_k .
+646.906,652.146,Bed003-c4,s^bu,3a.4a,,,so there are certain cues that are very strong either lexical or topic-based um - concept cues .
+649.11,650.06,Bed003-c2,s^2.%-,3b,,,from the discourse that ==
+650.06,650.49,Bed003-c2,s^aa,4b,,,yeah .
+652.79,653.25,Bed003-c4,s,,,,for one of those .
+653.25,660.26,Bed003-c4,s^bu,5a,,,and then in that second row or whatever that row of time of day through that - so all of those - some of them come from the utterance .
+660.26,664.194,Bed003-c4,s^bu,5a+,,,and some of them are sort of either world knowledge or situational things .
+664.194,664.294,Bed003-c4,qy^d^g,5a++,,,right ?
+664.294,665.874,Bed003-c4,s^bu.%-,5a+++,,,so that you have no distinction between those and ==
+664.61,665.05,Bed003-c2,s^aa,5b.6a,,,right .
+666.074,666.314,Bed003-c4,s^bk,6b,,,{@reject@} o_k .
+668.51,674.431,Bed003-c2,fg,,,,one uh - uh - um ==
+674.431,675.511,Bed003-c2,qo^rt^tc,7a,,,anything else you want to say bhaskara ?
+675.96,676.69,Bed003-c3,h,7b,,,um ==
+679.48,681.65,Bed003-c4,qy.%,,,,unmark {@reject@} time of day ?
+680.209,680.509,Bed003-c3,s^aa,7b+,,,yeah .
+680.509,681.089,Bed003-c3,s.%-,,,,i m- - i mean ==
+682.485,682.895,Bed003-c2,s.%-,,,,one thing - uh ==
+682.84,682.9,Bed003-c1,fg,,,,yeah .
+682.9,684.56,Bed003-c1,s,,,,they're - they're are a couple of more things .
+684.56,692.949,Bed003-c1,s^cs,8a,,,i mean - uh - i would actually suggest we go through this one more time so we - we all uh - agree on what - what the meaning of these things is at the moment .
+692.949,696.658,Bed003-c1,s.%-,8a+,,,and maybe what changes we ==
+696.04,696.35,Bed003-c2,s^aa.%-,8b,,,yeah th- ==
+696.35,696.56,Bed003-c2,fg,,,,o_k .
+696.56,701.96,Bed003-c2,s,,,,so one thing i - i'm you know - unsure about is how we have the discus- - uh - the admission fee thing set up .
+702.232,705.883,Bed003-c2,s.%--,,,,so one thing that we were thinking was by doing the layers like this ==
+706.58,712.21,Bed003-c2,s,,,,uh - we kept um - things from directly affecting the mode beyond the concept .
+712.84,717.31,Bed003-c2,s,,,,but you could see perhaps discus- - the admission fee going directly to the mode pointing at enter .
+717.812,718.242,Bed003-c1,b,,,,mm-hmm .
+717.985,718.165,Bed003-c2,qy^d^f^g,,,,right ?
+718.165,719.965,Bed003-c2,s^rt,,,,versus pointing to- - just at tourist .
+718.268,718.868,Bed003-c4,b,,,,mm-hmm .
+720.448,720.948,Bed003-c4,b,,,,mm-hmm .
+720.928,721.268,Bed003-c2,qy^d^f^g,,,,o_k ?
+721.584,727.838,Bed003-c2,s,,,,but we just decided to keep all the things we extracted to point at the middle and then down .
+727.748,728.058,Bed003-c1,b,,,,mm-hmm .
+730.64,731.87,Bed003-c1,qw^rt.%--,,,,why is the landmark ?==
+732.41,732.65,Bed003-c1,b,,,,o_k .
+732.65,735.33,Bed003-c1,s,,,,the landmark is facing to the tourists .
+736.21,739.02,Bed003-c1,s^bu,9a,,,that's because we're talking about landmarks as touristic landmarks .
+738.97,739.29,Bed003-c2,s^aa,9b-1,,,right .
+739.02,742.27,Bed003-c1,s.%-,10a,,,not as possible um ==
+739.28,739.66,Bed003-c3,s^aa,9b-2,,,yeah .
+742.719,743.779,Bed003-c2,s^bk^m,1b,,,navigational landmarks .
+743.07,745.05,Bed003-c4,s^2,10b-2,,,navigational cue .
+743.779,743.989,Bed003-c2,b,,,,yeah .
+743.878,745.418,Bed003-c1,s^2,10b-1.1a,,,navigational landmarks .
+745.628,746.168,Bed003-c1,fh,,,,so ==
+746.438,746.768,Bed003-c1,b,,,,mm-hmm .
+749.39,749.48,Bed003-c2,b,,,,yeah .
+749.405,749.885,Bed003-c1,s.%--,,,,then ==
+749.48,751.68,Bed003-c2,s,,,,that would be whatever building they referred to .
+749.627,749.867,Bed003-c4,s.%,,,,prosody .
+752.102,752.382,Bed003-c3,b,,,,right .
+752.492,753.092,Bed003-c3,s^t1,,,,so let's see .
+753.092,753.752,Bed003-c3,s,,,,the variables .
+753.752,755.732,Bed003-c3,s,,,,disc- - admission fee is a binary thing .
+753.979,754.309,Bed003-c1,b,,,,mm-hmm .
+755.732,758.312,Bed003-c3,s^bu^rt,2a,,,time of day is like morning afternoon night .
+758.312,758.842,Bed003-c3,qy^d^g^rt,2a+,,,is that the deal ?
+759.41,759.7,Bed003-c3,b,,,,yeah .
+759.41,760.53,Bed003-c2,s^na,2b-1,,,that's how we have it currently set up .
+760.53,762.77,Bed003-c2,s,,,,but it could be you know - based upon hour .
+760.565,760.815,Bed003-c1,s^aa.%,2b-2,,,yep .
+760.808,761.138,Bed003-c3,b,,,,yeah .
+762.035,762.435,Bed003-c3,b,,,,yeah .
+762.77,765.8,Bed003-c2,s,,,,or dis- - we could discrete it - des- - descret-ize it .
+762.775,764.035,Bed003-c1,s,,,,whatever granularity .
+763.074,763.384,Bed003-c3,b,,,,yeah .
+763.962,764.642,Bed003-c4,b,,,,mm-hmm .
+764.125,764.415,Bed003-c1,b,,,,uh-huh .
+764.46,764.73,Bed003-c3,b,,,,yeah .
+765.79,765.91,Bed003-c3,fg,,,,yeah .
+766.16,768,Bed003-c3,s,,,,normally context will include a huge amount of information .
+768,776.69,Bed003-c3,s^rt,,,,but um - we are just using the particular part of the context which consists of the switch that they flick to indicate whether they're a tourist or not i guess .
+776.175,776.315,Bed003-c1,b,,,,yep .
+776.56,776.8,Bed003-c4,fg,,,,o_k .
+776.8,778.74,Bed003-c4,s^bs,3a,,,so that's given in their input .
+778.11,778.42,Bed003-c2,b,,,,right .
+778.38,778.76,Bed003-c3,fg,,,,so ==
+778.74,779.05,Bed003-c4,qy^d^f^g,3a+,,,right ?
+779.08,779.33,Bed003-c3,s^aa,3b,,,right .
+779.33,780.77,Bed003-c3,s,,,,so it's not really all of context .
+780.77,782.51,Bed003-c3,s,,,,similarly prosody is not all of prosody .
+782.51,786.57,Bed003-c3,s,,,,but simply for our purposes whether or not they appear tense or relaxed .
+784.844,785.164,Bed003-c1,b,,,,mm-hmm .
+787.034,787.854,Bed003-c1,s^ba,,,,that's very nice .
+787.854,787.934,Bed003-c1,qy^d^g,,,,huh ?
+787.98,788.3,Bed003-c4,b,,,,o_k .
+788.49,788.96,Bed003-c3,%-,,,,and ==
+788.504,791.834,Bed003-c1,qy^rt,4a,,,the - the - so the context is a switch between tourist or non-tourist ?
+791.834,792.914,Bed003-c1,qrr,,,,or also unknown ?
+792.27,793.37,Bed003-c2,s^aap,4b-1.5a-1.6a,,,or un- - unknown .
+793.33,793.55,Bed003-c3,s^aa,4b-2.5a-2,,,yeah .
+793.37,793.6,Bed003-c2,s^aa,4b-1+.5a-1+,,,yeah .
+793.385,793.785,Bed003-c1,s^bk,5b,,,o_k .
+793.65,794,Bed003-c3,s^bk^m,6b,,,unknown .
+793.75,795.23,Bed003-c4,s.%--,,,,so final dest- ==
+794,794.24,Bed003-c3,qy^f^g^rt,,,,right ?
+795.3,800.61,Bed003-c4,s,7a,,,so it seems like that would really help you for doing business versus tourist .
+801.167,801.907,Bed003-c3,qw,7b+.8a,,,which is th- - which one ?
+801.71,801.92,Bed003-c4,s.%--,,,,but ==
+802.38,802.62,Bed003-c4,s^bk,8b,,,o_k .
+802.62,805.33,Bed003-c4,s.%--,8b+,,,so the the context being um - e- ==
+805.36,807.02,Bed003-c4,s^no,8b++,,,i don't know if that question's sort of in general .
+807.02,807.46,Bed003-c4,qy.%--,,,,are you ?==
+807.52,807.85,Bed003-c4,s.%--,,,,i mean the ==
+807.85,808.36,Bed003-c4,qy.%--,,,,ar- - ar- - are ?==
+808.47,813.41,Bed003-c4,qy^rt,9a,,,do they allow business people to be doing non-business things at the moment ?
+813.34,814.02,Bed003-c3,s^aa,9b.10a,,,yeah it does .
+814.067,814.437,Bed003-c4,s^bk,10b,,,o_k .
+814.807,817.127,Bed003-c4,s.%--,1a,,,so then you just have some probabilities over ==
+815.467,816.567,Bed003-c3,s,,,,everything is probablistic .
+816.567,818.276,Bed003-c3,s.%--,,,,and there's always ==
+817.127,817.437,Bed003-c4,s^bk,,,,o_k .
+817.707,819.057,Bed003-c4,s,1a+,,,over which - which of those it is .
+819.813,819.953,Bed003-c3,b,,,,yeah .
+820.8,821.61,Bed003-c3,h|s^bk,1b,,,um - | right .
+821.61,822.92,Bed003-c3,s.%--,,,,so then landmark is ==
+823.17,823.4,Bed003-c3,s^fe,,,,oh !
+823.4,823.64,Bed003-c3,s^fa,,,,sorry .
+823.64,824.7,Bed003-c3,s.%--,,,,verb used is like ==
+825.01,826.05,Bed003-c3,s,,,,right now we only have three values .
+826.05,830.27,Bed003-c3,s,,,,but in general they would be a probability distribution over all verbs .
+828.666,829.266,Bed003-c4,b,,,,mm-hmm .
+831.535,831.825,Bed003-c3,s.%--,,,,rather ==
+831.825,832.765,Bed003-c3,s,,,,let me rephrase that .
+832.765,836.915,Bed003-c3,s^bsc^rt,,,,it - it can take values in the set of all verbs that they could possibly use .
+836.143,836.743,Bed003-c4,b,,,,mm-hmm .
+837.442,839.502,Bed003-c3,s,,,,um - nice walls is binary .
+839.502,840.592,Bed003-c3,s,,,,closed is binary .
+841.192,842.492,Bed003-c3,s.%--,,,,final destination again ==
+842.542,843.772,Bed003-c3,s,,,,yeah all those are binary i guess .
+845.44,846.92,Bed003-c3,s,,,,and mode is one of three things .
+851.61,853.45,Bed003-c1,qy^rt,3a,,,so the - the middle layer is also binary ?
+853.45,853.67,Bed003-c1,s.%--,,,,no ==
+854.14,854.44,Bed003-c3,s^aa,3b,,,yeah .
+854.74,857.56,Bed003-c3,s,4a,,,anything with a question mark after it in that picture is a binary node .
+860.46,861.16,Bed003-c1,s.%--,,,,uh - it ==
+862.594,862.824,Bed003-c1,s^bk,,,,yeah .
+862.994,865.894,Bed003-c1,s^bu,4b.5a,,,but all those things without question marks are also binary .
+866.134,866.334,Bed003-c1,qy^d^g,4b+.5a+,,,right ?
+866.375,866.925,Bed003-c3,qw,5b.6a,,,which things ?
+867.089,867.509,Bed003-c4,b,,,,mm-hmm .
+867.207,867.887,Bed003-c1,s^rt,6b.7a,,,nice walls .
+867.4,867.74,Bed003-c2,s.%-,,,,wi- ==
+868.16,868.35,Bed003-c3,s^bk,7b,,,oh .
+868.35,872.36,Bed003-c3,s,,,,nice walls is uh - something that we extract from our world knowledge .
+872.795,873.195,Bed003-c1,b,,,,mm-hmm .
+873.71,874.12,Bed003-c3,s^bk,,,,yeah a- - oh .
+874.12,875.26,Bed003-c3,s^aa,7b+,,,yeah sorry it is binary .
+875.15,875.81,Bed003-c2,s^m,8a.9a,,,it is binary .
+875.74,876.11,Bed003-c3,s^aa,7b+,,,that's true .
+875.81,877.99,Bed003-c2,s^df,8b+9a+,,,but it doesn't have question mark because it's extracted .
+876.9,877.08,Bed003-c3,b,,,,yeah .
+877.25,878.11,Bed003-c3,s,,,,o_k i see your point .
+878.19,878.41,Bed003-c2,b,,,,yeah .
+878.261,878.561,Bed003-c1,b,,,,yeah .
+878.641,878.941,Bed003-c1,b,9b,,,o_k .
+878.8,879.1,Bed003-c4,b,,,,uh-huh .
+879.021,879.641,Bed003-c1,s^bk,9b+,,,i - i gotcha .
+879.89,881.18,Bed003-c3,s,,,,yeah similarly closed i guess .
+882.388,884.648,Bed003-c1,s,10a,,,so we can either be in a hurry or not .
+884.648,887.458,Bed003-c1,qy^rt,10a+,,,but we cannot be in a medium hurry at the moment ?
+887.28,887.76,Bed003-c3,s.%--,10b,,,well we- ==
+887.87,890.2,Bed003-c3,s,10b+.1a,,,to do that we would add another uh - value for that .
+890.348,890.808,Bed003-c1,b,1b,,,mm-hmm .
+890.808,891.138,Bed003-c1,s^bk,2b,,,o_k .
+890.831,894.111,Bed003-c3,s,2a,,,and that would require s- - updating the probability distribution for mode as well .
+894.106,894.446,Bed003-c4,b,,,,mm-hmm .
+894.401,897.301,Bed003-c3,s^df,2a+,,,because it would now have to like uh - take that possibility into account .
+894.674,894.924,Bed003-c1,b,,,,mm-hmm .
+896.09,896.9,Bed003-c4,s.%--,,,,take a conti- ==
+900.95,901.25,Bed003-c1,b,,,,mm-hmm .
+902.02,906.75,Bed003-c4,fg|s^rt,,,,so | um - of course this will happen when we think more about the kinds of verbs that are used in each cases .
+906.63,906.92,Bed003-c1,b,,,,yeah yeah .
+906.75,913.64,Bed003-c4,s,3a,,,but you can imagine that it's verb plus various other things that are also not in the bottom layer that would - that would help you .
+907.201,907.321,Bed003-c3,b,,,,yeah .
+914.25,915.3,Bed003-c4,s.%--,,,,like it's a conjunction of ==
+915.52,915.93,Bed003-c4,s^no,3a+.5a+,,,i don't know .
+916.14,919.23,Bed003-c4,s.%--,3a++.5a++,,,you know the verb used and some other stuff that - that would determine ==
+918.38,918.51,Bed003-c3,fg,3b,,,right .
+918.51,919.75,Bed003-c3,qy^bu^rt,3b+.4a,,,other syntactic information you mean ?
+919.57,919.85,Bed003-c4,s^aa,4b,,,yeah .
+919.85,920.33,Bed003-c4,s^aa,4b+,,,exactly .
+920.38,920.64,Bed003-c3,s^aa,5b,,,yeah .
+920.837,921.297,Bed003-c4,h,,,,um ==
+922.305,925.435,Bed003-c1,s^bu^rt,6a,,,well the - the - sort of the landmark is - is sort of the object .
+925.565,925.925,Bed003-c1,qy^d^g,6a+,,,right ?
+925.925,927.835,Bed003-c1,qy^d^g^rt,6a++,,,the argument in a sense ?
+927.24,928.25,Bed003-c4,s^aap,6b,,,usually .
+928.6,929.74,Bed003-c4,s^no,,,,i - i don't know if that's always the case .
+929.74,932.04,Bed003-c4,s,,,,i - i guess haven't looked at the data as much as you guys have .
+932.04,933.4,Bed003-c4,fh,,,,so um ==
+934.59,936.9,Bed003-c1,s,,,,that's always warping on something - some entity .
+935.478,935.938,Bed003-c4,b,,,,mm-hmm .
+936.218,936.708,Bed003-c4,b,,,,mm-hmm .
+936.9,945.013,Bed003-c1,s^cs,7a,,,and um - uh - maybe at this stage we will - we do want to - uh - sort of get - uh - modifiers in there .
+944.312,948.81,Bed003-c2,b,,,,hmm - yeah .
+945.013,948.553,Bed003-c1,s,7a+,,,because they may also tell us whether the person is in a hurry or not .
+948.606,949.206,Bed003-c3,fg,,,,yeah .
+948.92,950.36,Bed003-c2,s:s,7b.8a,,,i want to get to the church quickly .
+948.937,949.677,Bed003-c4,b,,,,mm-hmm .
+950.61,950.9,Bed003-c2,s.%-,,,,and uh ==
+951.2,951.38,Bed003-c3,s^aa,8b,,,yeah .
+951.38,952.08,Bed003-c3,s^aa,8b+,,,right .
+951.74,952.43,Bed003-c4,s,,,,that would be a cue .
+952.62,953.47,Bed003-c1,s.%--:qw,FBH,,,what's the fastest way ==
+954.311,954.601,Bed003-c3,b,,,,yeah .
+954.442,954.942,Bed003-c4,b,,,,mm-hmm .
+954.601,954.961,Bed003-c3,b,,,,correct .
+957.282,970.959,Bed003-c4,b,,,,um - o_k .
+958.203,958.693,Bed003-c2,b,,,,right .
+959.043,959.603,Bed003-c2,b,,,,excellent .
+962.25,963.5,Bed003-c2,qy,9a,,,do we have anything else to say about this ?
+964.028,965.318,Bed003-c3,s^na,9b.10a,,,we can do a little demo .
+966.6,967.11,Bed003-c2,s^bk.%--,,,,oh the- ==
+967.11,968.09,Bed003-c2,s^aa^rt,10b,,,yeah we could .
+968.95,970.22,Bed003-c2,s^arp,10b+.1a,,,but the demo doesn't work very well .
+970.75,971.02,Bed003-c1,s^ar,1b,,,no .
+971.14,972.11,Bed003-c1,s,1b+.2a,,,then it wouldn't be a demo .
+972.83,978.408,Bed003-c3,s^df,2b.3a,r,,i mean - we can do a demo in the sense that we can um - just ob- - observe the fact that this will in fact do inference .
+973.19,974.24,Bed003-c1,s.%--,,,,i was just gonna s- ==
+975.41,976.25,Bed003-c2,s^2,3b,,,observe nodes .
+978.408,980.878,Bed003-c3,s,,,,so we can you know - set some of the uh - nodes .
+980.59,980.7,Bed003-c4,b,,,,yeah .
+980.7,981.04,Bed003-c4,s^co,,,,go ahead .
+980.948,983.36,Bed003-c3,s,4a,,,and then try to find the probability of other nodes .
+981.88,982.35,Bed003-c2,s^bk,4b,,,o_k .
+984.523,985.323,Bed003-c2,s^t1,,,,dat-dat-dah .
+985.581,986.381,Bed003-c2,qw,5a,,,what should i observe ?
+986.11,987.02,Bed003-c3,s^co,5b.6a,,,just se- - set a few of them .
+987.02,988.44,Bed003-c3,s^co,5b+.6a+,,,you don't have to do the whole thing that we did last time .
+988.44,991.408,Bed003-c3,s,5b++.6a++,,,just like uh - maybe the fact that they use a certain verb .
+989.43,989.77,Bed003-c2,s^bk,6b,,,o_k .
+991.578,992.388,Bed003-c3,s^co,7a,,,actually forget the verb .
+992.7,993.03,Bed003-c2,s^bk,7b,,,o_k .
+993.33,994.08,Bed003-c3,s.%--,,,,just uh ==
+996.09,996.37,Bed003-c3,s^no,,,,i don't know .
+996.37,997.68,Bed003-c3,s,8a,,,say they discussed the admission fee .
+998.546,999.176,Bed003-c2,b,,,,o_k .
+1000.64,1004.5,Bed003-c3,s,8a+,,,and uh - the place has nice walls .
+1006.91,1007.77,Bed003-c2,s^bk^j,8b.9a,10=l=a;g.a,,i love nice walls .
+1007.77,1008.09,Bed003-c2,s^bk^rt,8b+,,,o_k .
+1008.84,1009.42,Bed003-c2,s^j,8b++.9a+,,,i'm a big fan .
+1009.73,1010.76,Bed003-c4,s^aa,9b,b.c,,it's starting to grow on me .
+1009.87,1010.67,Bed003-c3,s,10a,,,and it's night .
+1011.99,1013.18,Bed003-c2,qy^bu^d^m,10b.1a,,,and the time of day is night ?
+1013.08,1013.22,Bed003-c3,s^aa,1b,,,yeah .
+1013.27,1013.43,Bed003-c3,s^ar^bsc,1b+,,,no .
+1013.43,1013.7,Bed003-c3,h,,,,wait .
+1013.7,1014.46,Bed003-c3,s.%--,,,,that - that doesn't uh ==
+1014.46,1015.28,Bed003-c3,s^df,,,,it's not really consistent .
+1015.28,1016.36,Bed003-c3,s,,,,they don't discuss the admission fee .
+1016.62,1017.43,Bed003-c3,s^co,2a,,,make that false .
+1019.04,1019.64,Bed003-c2,s^bk,2b,,,alright .
+1021.62,1022.12,Bed003-c3,s,3a,,,and it's night .
+1024.89,1025.19,Bed003-c2,%--,,,,oh they ==
+1025.88,1026.33,Bed003-c2,s^bk,3b,,,o_k .
+1027.17,1027.45,Bed003-c2,s^t1,,,,oh whoops .
+1027.38,1027.94,Bed003-c3,s,,,,that didn't work .
+1027.51,1028.18,Bed003-c2,s.%--,,,,i forgot to uh ==
+1029.18,1029.34,Bed003-c2,s^fe,,20=l-=o.n.b.e,,ach !
+1029.26,1030.08,Bed003-c4,s,,,,i'd like to do that again .
+1030.44,1033.11,Bed003-c2,s,4a,,,one thing that bugs me about javabayes is you have to click that and do this .
+1032.57,1032.98,Bed003-c4,s^aa,4b,,,yeah .
+1032.98,1034.22,Bed003-c4,s^na,4b+,,,that seems kind of redundant .
+1034.22,1034.41,Bed003-c4,s.%--,,,,but ==
+1035.72,1035.94,Bed003-c3,s^tc,,,,o_k .
+1037.41,1037.97,Bed003-c2,qy^d^rt,5a,,,that all you want ?
+1038.2,1038.51,Bed003-c3,s^aa,5b.6a,30=l=a.a,,yes .
+1038.75,1039.01,Bed003-c2,s^bk,6b,b.c,,o_k .
+1040.22,1040.71,Bed003-c2,s^t1,,,,so let's see .
+1040.71,1042.15,Bed003-c2,s^bu,,,,i want to query .
+1040.94,1042.63,Bed003-c3,s^co,,,,go and right query .
+1042.15,1042.42,Bed003-c2,qy^d^g^rt,,,,right ?
+1042.77,1043.67,Bed003-c2,s,,,,the mode .
+1045.18,1046.48,Bed003-c2,s^rt^t1.%--,,,,o_k and then on here ==
+1048.73,1049.58,Bed003-c2,s^t1,,,,so let's see .
+1051.02,1054.15,Bed003-c3,s,,,,so that is the probability that they're entering vista-ing or tango-ing .
+1051.99,1052.58,Bed003-c4,b,,,,mm-hmm .
+1053.75,1054.07,Bed003-c2,b,,,,yeah .
+1054.58,1055.06,Bed003-c3,s.%-,,,,and uh ==
+1055,1058.25,Bed003-c4,qy^bu^d^rt,7a,,,so slightly biased toward tango ing ?
+1058.57,1058.86,Bed003-c3,s^aa,7b,,,yeah .
+1058.95,1059.26,Bed003-c4,b,,,,o_k .
+1059.12,1062.4,Bed003-c2,s,,,,if it's night time they have not discussed admission fee and the n- - walls are nice .
+1062.4,1062.8,Bed003-c2,s,,,,so yeah .
+1062.96,1064.3,Bed003-c2,s^am,,,,i guess that sort of makes sense .
+1066.79,1072.22,Bed003-c2,s^df^rt,,,,the reason i say the demo doesn't work very well is yesterday we uh - observed everything in favor of taking a tour .
+1072.73,1073.8,Bed003-c2,s,,40=l=a.a,,and it came up as tango .
+1074.29,1074.57,Bed003-c2,qy^d^f^g,,,,right ?
+1074.64,1075.38,Bed003-c2,s,,b,,over and over again .
+1075.89,1076.26,Bed003-c4,s.%-,,,,so ==
+1076.07,1078.16,Bed003-c2,s^j,8a,b-,,we couldn't - we couldn't figure out how to turn it off of tango .
+1076.89,1077.08,Bed003-c4,b,,,,uh-huh .
+1079.35,1079.96,Bed003-c4,s^fe,,,,huh !
+1079.75,1080.57,Bed003-c3,s^j,8b,b-,,it loves the tango .
+1083.7,1084.34,Bed003-c4,fg,,,,um ==
+1085.19,1087.52,Bed003-c3,s,9a,c,,well that's obviously just to do with our probabilities .
+1087.5,1088.2,Bed003-c2,s^aa,9b-2,,,yeah yeah .
+1087.52,1089.31,Bed003-c3,s,,,,like we totally hand-tuned the probabilities .
+1087.75,1088.15,Bed003-c4,s^aa,9b-1,,,yeah .
+1089.32,1089.43,Bed003-c3,b,,,,right .
+1089.43,1093.33,Bed003-c3,s:s^cs,,,,we were like hmm well if the person does this and this and this let's say forty percent for this .
+1089.79,1090.26,Bed003-c4,s^bk,,,,o_k .
+1093.33,1094.47,Bed003-c3,s.%--,,,,fifty per- - like - you know ==
+1094.86,1096.14,Bed003-c3,s,,,,so obviously that's gonna happen .
+1096.18,1096.51,Bed003-c4,b,,,,right .
+1096.48,1096.73,Bed003-c2,b,,,,yeah .
+1097.14,1097.31,Bed003-c1,fg,,,,yeah .
+1097.31,1098.29,Bed003-c1,s.%-,,,,but it - it ==
+1097.77,1100.26,Bed003-c4,s,10a,50=w-=ag.a,,maybe the bias toward tango ing was yours then .
+1100.83,1101.1,Bed003-c3,s^aa,10b-1,b,,yeah .
+1101.06,1101.13,Bed003-c2,s^aa,10b-2,b,,yeah .
+1101.3,1103.88,Bed003-c3,s^cs,1a,c,,it's - so we have to like fit the probabilities .
+1101.5,1102.55,Bed003-c2,s.%-,,,,that's - that's at ==
+1104.52,1106.88,Bed003-c2,s^j,,,,spent my youth practicing the tango de la muerte .
+1104.89,1105.4,Bed003-c4,s,,,,so the real case .
+1109.27,1114.57,Bed003-c1,s,1b.2a,,,however you know - it - the purpose was not really at this stage to come up with meaningful probabilities .
+1114.96,1117.19,Bed003-c1,s,2a+,,,but to get thinking about that hidden middle layer .
+1117.17,1117.77,Bed003-c4,b,,,,mm-hmm .
+1117.57,1118.08,Bed003-c1,s.%--,,,,and so th- ==
+1118.89,1119.13,Bed003-c1,fh,,,,and ==
+1118.92,1119.64,Bed003-c2,s.%--,2b,,,we would actually ==
+1120.75,1123.76,Bed003-c2,s^rt,2b+,,,i guess once we look at the data more we'll get more hidden nodes .
+1123.92,1124.35,Bed003-c1,b,,,,mm-hmm .
+1124,1124.23,Bed003-c3,b,,,,yeah .
+1124.8,1127.1,Bed003-c2,s,,,,but i'd like to see more .
+1128.43,1131.31,Bed003-c2,s^rt,,,,not because it would expedite the probabilities cuz it wouldn't .
+1131.45,1132.89,Bed003-c2,s,3a,,,it would actually slow that down tremendously .
+1133.34,1135.24,Bed003-c3,fg|s,3b,,,um - | well yeah .
+1135.24,1135.64,Bed003-c3,s^am,3b+,,,i guess .
+1136.18,1136.4,Bed003-c2,%-,,,,but ==
+1136.55,1137.3,Bed003-c3,s^arp,3b++,,,not that much though .
+1137.3,1138.22,Bed003-c3,s^df,3b+++,,,only a little early .
+1138.3,1138.36,Bed003-c2,s^ar.%,,,,no .
+1138.36,1143.3,Bed003-c2,s^j,4a,,,i think we should have uh - exponentially more middle nodes than features we've extracted .
+1145.04,1145.37,Bed003-c3,s^bk,4b.5a,,,o_k .
+1145.21,1145.85,Bed003-c2,s^bd.%--,5b,,,i'm ju- - i'm just jo- ==
+1148.07,1150.5,Bed003-c4,qy.%--,6a,,,so are doing business versus tourist ?==
+1150.5,1152.11,Bed003-c4,s^bu,6a+,,,they refer to your current task .
+1152.11,1154.33,Bed003-c4,s^e,6a++,,,like - like current thing you want to do at this moment .
+1152.89,1153.5,Bed003-c3,h|s^bk,6b,,,um - | yeah .
+1153.64,1156.36,Bed003-c3,h|s^ba,6b+,,,well - | that's - that's an interesting point .
+1156.36,1158.51,Bed003-c3,s.%--,,,,whether you're - it's whether - it's not ==
+1157.81,1158.39,Bed003-c4,qy.%--,,,,and are th- ?==
+1158.51,1160.12,Bed003-c3,s:qy,7a,,,i think it's more like are you are tourist .
+1160.12,1162.74,Bed003-c3,s.%-,7a+,,,are you in ham- - like heidelberg for a ==
+1163.04,1163.07,Bed003-c4,s^bk,7b,,,oh .
+1163.07,1166.18,Bed003-c4,s,7b+.8a,,,so i thought that was directly given by the context switch .
+1165.59,1166.17,Bed003-c3,s^nd,8b,,,that's a different thing .
+1166.17,1174.3,Bed003-c3,qh:s,,,,what if the context which is not set but still they say things like i want to go uh - see the uh - the - the castle and uh - et cetera ?
+1171.13,1171.52,Bed003-c1,qy.%-,,,,is it ?==
+1171.81,1176.46,Bed003-c2,s,9a,,,well the- - i kind of thought of doing business as more of running an errand type thing .
+1176.12,1176.3,Bed003-c3,s^aa,9b,,,yeah .
+1176.3,1179.07,Bed003-c3,s,9b+.10a,,,business on the other hand is uh - definitely what you're doing .
+1179.79,1184.23,Bed003-c1,s.%--,,,,so if you run out of cash as a tourist and - and - and you need to go to the a_t- ==
+1180.21,1181.24,Bed003-c2,s.%-,,,,so i- - wi- - th- ==
+1180.44,1181.43,Bed003-c4,s^bk,10b,,,o_k .
+1182.68,1183.04,Bed003-c4,s^bk,10b+,,,oh i see .
+1183.04,1183.91,Bed003-c4,s^bs,1a.2a,,,you may have a task .
+1183.91,1186.94,Bed003-c4,s^bs,1a+.2a+,,,wh- - you have to go get money and so you are doing business at that stage .
+1186.64,1186.9,Bed003-c3,s^aa,2b-1,,,yeah .
+1186.64,1187.03,Bed003-c1,b,,,,mmm .
+1186.79,1187.09,Bed003-c2,s^aa,2b-2,,,right .
+1188.1,1189.05,Bed003-c1,s:qw,,,,how do i get to the bank .
+1188.35,1189.01,Bed003-c4,s^bk,,,,i see .
+1191.24,1191.77,Bed003-c4,b,,,,hmm .
+1192.2,1194.15,Bed003-c3,s.%--,3a,,,and that'll affect whether you want to enter or you if you ==
+1194.52,1194.96,Bed003-c3,s,3a+,,,kinda thing .
+1196.21,1196.7,Bed003-c4,s^bk,3b,,,o_k .
+1197.48,1203.31,Bed003-c4,s^bu,4a,,,so the tourists node should be um - very consistent with the context node .

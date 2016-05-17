@@ -1,0 +1,296 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2589_1093_1122
+TOPIC#:		353
+DATE:		910412
+TRANSCRIBER:	JKP
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	4
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:        Speaker A side was much louder than Speaker B  Both
+speakers spoke slowly and distinctly.
+
+=============================================================================
+  
+
+o          A.1 utt1:  Okay. /  
+
+sv          B.2 utt1:  The public school systems, {D well }  everybody's  [ kno-, +  has known ] they've needed renovation for years, but never really had a clear  direction on which way to go with it. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sv          B.4 utt1:  The first direction that [ I can see, + {E or } [ I wish, +  I would love ] to see ] them go with.  /
+sv          B.4 utt2:  Kids learn at different rates  /
+sv          B.4 utt3: {C and } for too long  they've kind of lumped everybody together.  /
+^q          B.4 utt4: You'd learn at this rate  /
+^q          B.4 utt5: {C and }  that's the only way it's going to happen. /  
+
+aa          A.5 utt1:  Yeah.  /
+aa          A.5 utt2:  That's true <laughter>. /  
+
+sv          B.6 utt1:  You've got some kids that'll pick up on it in the first three minutes you're talking about it,  /
+sv          B.6 utt2:  {C and } [ the re-, + the other ] fifty-seven minutes you've been talking about a subject, you've bored them. /  
+
+aa          A.7 utt1:  Yeah,  /
+aa^r          A.7 utt2: yeah,  /
+aa          A.7 utt3: [ that's, + that's ] very true.  /
+sd          A.7 utt4:   {F Um, } <sigh> I guess I can relate to that, because I have two kids that are opposites like that.  /
+sd          A.7 utt5:  <laughter> {F Uh, } one picks up real quick  /
+sd          A.7 utt6: {C and } the other one doesn't.  /
+aa          A.7 utt7:   {C And } you're right, they do get bored, {F uh, } really fast, if they already know what  you're talking about.  /
+qo          A.7 utt8: What do you propose that they do?  /
+qw          A.7 utt9:  [ What, + what ]  is your suggestions? /  
+
+sv          B.8 utt1:  The educators need to be a little bit more open minded as well as innovative in dealing with, {F uh, } the various students to get the maximum potential out of the person. /  
+
+b          A.9 utt1:  Uh-huh.  /
+b          A.9 utt2:  Out of each child. /  
+
+b^m          B.10 utt1:  Out of each child. /  
+
+b          A.11 utt1:  Each individual child. /  
+
+sv          B.12 utt1:  Some kids are going to be great with mechanical stuff.  /
+sv          B.12 utt2: Other kids are going to be really into math,  /
+sv          B.12 utt3: some are really going to be heavy into reading. /  
+
+b          A.13 utt1:  Right. /  
+
+sv          B.14 utt1:  Instead of pushing the scales too far either direction,  {E I mean } it's great to be well rounded and [ hav-, +  be ] exposed to all this stuff. /  
+
+aa          A.15 utt1:  Yeah.  /
+%          A.15 utt2: That's, -/  
+
+qh          B.16 utt1:  {C But } why not hit the points the kid's really  interested in?  /
+sv          B.16 utt2: {C Because } if he's interested, he's going to study it,  /
+sv          B.16 utt3: {C and } he's going to learn  it,  /
+sv          B.16 utt4: {C and } he's going to remember it. /  
+
+aa          A.17 utt1:  That's true.  /
+sv          A.17 utt2:  [ The only, +  I think the only ] thing that they would argue about that, is that, {D you know, } every child needs to learn  every subject.  /
+sv          A.17 utt3:  {E I mean, } [ that's, + that might be ] the only thing.  /
+aa          A.17 utt4:  {C But, }  {E I mean, }  [ I, + I ] definitely agree with you.  {F Uh, } /  
+
+sv          B.18 utt1:  They need exposure to every subject.  /
+sv          B.18 utt2: They don't need  to be masters of it, /  
+
+aa          A.19 utt1:  Right,  /
+aa^r          A.19 utt2: right.  /
+aa          A.19 utt3: That's true.  {F Uh, } /  
+
+sv          B.20 utt1:  Everything I learned about ancient Rome  [ ha-, + has ] not helped me anywhere in,   
+
+x          A.21 utt1:  <Laughter>.   
+
++          B.22 utt1:  my adult life. /  
+
+aa          A.23 utt1:  Yes,  /
+aa          A.23 utt2: I definitely agree.  /
+aa          A.23 utt3:  <laughter> There's no doubt about that.  /
+sd          A.23 utt4: <laughter>  [ [ [ I, + {F uh, } I, ] + {E I mean, } ] +   I ] can relate to that because [ I'm, + I'm ] going to college right now,  /
+sd          A.23 utt5: {C and } I feel like, {E I mean, } I'm  taking this history class.  /
+sd          A.23 utt6: {C And, }  {E I mean, } it's so boring,  /
+sd          A.23 utt7: {C and } I just hate it.  /
+sd(^q)          A.23 utt8:   <laughter> {C And } I think, why do they make us take this stuff?  /
+qh          A.23 utt9: {E I mean, } what does this have to do with getting, {D you know, } a computer science degree or whatever,  {D you know? }  /
+x          A.23 utt10: <laughter>.   
+
+qw          B.24 utt1:  [ What, + what ] type of history class  is it that you're having to take? /  
+
+sd          A.25 utt1:  {F Uh, } American History.  /
+sd          A.25 utt2:  We have to take, {F um, }  {D like } this is like early seventeen hundreds through,  I don't know,  I think like mid eighteen hundreds.  /
+sd          A.25 utt3: {C And then } we have to take another one that's mid eighteen  hundreds on up, to basically present. /  
+
+sv          B.26 utt1:  {D Well, } the early ones they could actually combine  [ two, +  two, ]   
+
+b          A.27 utt1:  Yeah. /  
+
++          B.28 utt1:  levels of it, the one from seventeen hundred til say, the end of the Civil War.  /
+sv          B.28 utt2:  Combine that into one.  And then from eighteen sixty-five to present,  /
+sv          B.28 utt3: {C and } make that your second step because,   
+
+b          A.29 utt1:  Yeah.  /
+sd          A.29 utt2:  [ That's, + {D well } that's, ]   
+
++          B.30 utt1:  [ To a point, +   
+
++          A.31 utt1:  basically what they're doing. /  
+
++          B.32 utt1:  to a point ] [ the bottom, +  {D you know, }  the early parts ] of it, you're giving the foundations of the nation  /
+sv          B.32 utt2: [ {C and, } + {C but } ] even then  they're skimming over,  /
+sv          B.32 utt3: they're [ very, tri-, + almost trivial ] with it. /  
+
+aa          A.33 utt1:  Yeah,  /
+aa          A.33 utt2: {F oh, } yes.  /
+aa          A.33 utt3:  Definitely,  /
+aa          A.33 utt4: I agree.  /
+aa^r          A.33 utt5:   Yeah,  /
+%          A.33 utt6: there's, -/  
+
+sv          B.34 utt1:  {D You know, } {E I mean, }  if they really wanted to get to the meat of the matter, {E I mean, }  [ there's, +  they make ] all these people out to be,  {F oh, } - /
+sv          B.34 utt2: they were great men,  /
+sv          B.34 utt3: {C and } they're the father of the country and all this.  /
+sv          B.34 utt4:   He had just as much dirt on him as anybody else. /  
+
+x          A.35 utt1:  <Laughter>.   
+
+sv          B.36 utt1:  If not more.  /
+sv          B.36 utt2:  The man was not a saint. /  
+
+aa          A.37 utt1: Yeah.  /
+aa          A.37 utt2: That's true,  /
+aa^r          A.37 utt3: yeah.  /
+%          A.37 utt4:  {D Any way, } [ this, + this, ] {F um, } school system thing, - /
+sd          A.37 utt5: [ I, + I ] tell you,  I saw something on the news, {F oh, } I don't know, maybe <sigh> two weeks ago.  /
+sd          A.37 utt6: {C And } they were talking about, - /
+qw^d          A.37 utt7: I don't know where you're from,  /
+sd          A.37 utt8: {C but } I'm from the Dallas area.  /
+sd          A.37 utt9: {C And } they were talking about the Plano school system, that, they had one school that, {F uh, } if the students did something wrong, {E I mean, } whether it was behavioral or, {F uh, } {D you know, } they weren't learning properly or something.  They took these students and put them basically in a closet.  With no windows.  /
+sd          A.37 utt10: They had, [ a, + a ] table,  {E or } not a table, but a desk in this closet,  /
+sd          A.37 utt11: {C and } they had to sit in there by themselves.  /
+sd(^q)          A.37 utt12: {D Well, } parents were getting really angry about this, because they said, Why is my child being put in this closet.  /
+^q          A.37 utt13: {D Well, } how is that helping my child, {D you know. }  /
+%          A.37 utt14: {C And, } {F uh, } [ the, + the ] thing, {D you know, } - /
+sd(^q)          A.37 utt15:  they said, {D Well, } we're giving them isolation time  /
+^q          A.37 utt16: {C and } this helps them to think.  /
+%          A.37 utt17: <laughter> {C But } a lot of kids, - /
+sv          A.37 utt18: {E I mean, } if a child has, {F uh, } claustrophobia, {E I mean, } that's just going to terrify him, {D you know }  /
+%          A.37 utt19: {C and, } -/  
+
+qh          B.38 utt1:  [ If, + if ] the isolation concept really  works that good, why are our prisons overcrowded? /  
+
+aa          A.39 utt1:  <Laughter> {F Uh, } that's true.  /
+aa^r          A.39 utt2: <laughter> That's true.  /
+%          A.39 utt3:  {C But, }  no,  /
+%          A.39 utt4: {E I mean, } they were, {F uh, } {E I mean, } - /
+sd          A.39 utt5: I definitely agree with parents.  /
+sv          A.39 utt6:   I think that is a very wrong way to handle, {F uh, } disciplining a child.  /
+sd          A.39 utt7:   Putting them in, {E I mean, } [ [ they were, + they were call-, ] + they called ] them their quiet  rooms or their isolation rooms.  /
+sd          A.39 utt8:  They didn't call them closets.  /
+sd          A.39 utt9:  {C But } they showed  these rooms [ on, +  {F uh, } {D you know, } on ] the news  /
+sd          A.39 utt10: {C and, }  {E I mean, }  they looked like a closet to me.   {D You know, } with a desk in it, [ a + ] real small.  /
+sd          A.39 utt11:  {C But } they  said that one of the solutions they came up with was to take the doors off of these isolation rooms.  /
+sd(^q)          A.39 utt12:   I said, [ {D now } what good does thi-, +  {E I mean, } how is this helping? ]  /
+sd          A.39 utt13:  {E I mean, }  either way. <laughter> {D You know, } [ I, + I ] definitely had to  disagree with that.  /
+sv          A.39 utt14:  I think [ that is, +  that's  ] not the way to [ handle a child, +   {D you know, } discipline a child ] by putting him in a closet <laughter>. /  
+
+sd          B.40 utt1:  [ [ Th-, +  the ] +  as a part of the ] revamping of the  entire education system on that lev-, the public school system I want to see changed too.  /
+sd          B.40 utt2:   When I was [ br-, +  brought ] up, if you crossed the line and you broke a rule  bad enough, you were going to get spanked. /  
+
+b          A.41 utt1:  Right. /  
+
+sv          B.42 utt1:  {D Well, } then the extreme came in,  /
+sv          B.42 utt2:  {C and } now we can no longer,   
+
+b          A.43 utt1:  Right. /  
+
++          B.44 utt1:  spank them,  /
+sv          B.44 utt2: {C so } we now isolate them. /  
+
+b          A.45 utt1:  Yep.  /
+b          A.45 utt2:  {F Uh } <<faintly>>, /  
+
+b          B.46 utt1:  Okay,  /
+sv          B.46 utt2: we've swung the pendulum both ways.  /
+sv          B.46 utt3:  Let's  find a middle ground.  /
+sv          B.46 utt4: [ Instead of, + ] there has to be some sort of discipline,  /
+sv          B.46 utt5:  {C and } there has to be some sort of punishment.    
+
+b          A.47 utt1:  Right. /  
+
++          B.48 utt1:  Short of physically isolating the child,  and short of physically hitting the child. /  
+
+%          A.49 utt1:  {D Well, } -/  
+
+sv          B.50 utt1:  Let's put him into a situation where, {D okay, }  you crossed the line, you broke the rule, you're going to have to pay for it. /  
+
+b          A.51 utt1:  Right. /  
+
+sv          B.52 utt1:  {C But, }  it's going to tax you physically. /  
+
+b          A.53 utt1:  Uh-huh.  /
+%          A.53 utt2:  [ I, + I ] don't, -/  
+
+sv          B.54 utt1:  [ Have th-, + {E I mean, }  [ in-, + instead ] [ ha-, + have ] them ] pick up around the school yard, have them weed a flower bed somewhere on the school  yar-.  Do something to beautify the school property. /  
+
+aa          A.55 utt1:  Yeah,  /
+aa          A.55 utt2: that's true. /  
+
+%          B.56 utt1:  {C But } you cut, {D you know, } - /
+sv          B.56 utt2: [ the, + the ]  kid's having to give up his, quote, play time to pay his debt for what he did wrong. /  
+
+%          A.57 utt1:  {D Well, } -/  
+
+sv          B.58 utt1:  {C But } he's seeing something constructive come out of it. /  
+
+%          A.59 utt1:  {F um, } I have to, - /
+sv          A.59 utt2: I think [ one of the positive  things, + {E I mean, } one of the things ] that can come out of, {F uh, } is not just [ di-, + discipline, ]  okay?  /
+%          A.59 utt3:  {C But, } okay,  /
+sd          A.59 utt4: for instance, one of the things they do at,  {F uh, } my kids school, {F uh, } they have what they call, {F uh, } caught being good slips.  /
+sd          A.59 utt5:   {C And } when the kids are in halls and stuff, and if they're being really good, {E I mean, } just being excellent, they're not, {D you know, } cutting  up and so on.  /
+sd          A.59 utt6:  They're just standing  in line, doing whatever they are supposed to,  /
+sd          A.59 utt7:  they get one of these caught being good slips.  /
+sd          A.59 utt8:  {C And then, } when they collect them at  the end of each week, they get to go to this little, what they call their caught being good store,  /
+sd          A.59 utt9: {C and then } they get to spend these like money.  /
+sv          A.59 utt10:  {D Well, } {D see, }  to me, that's positive reinforcement, is [ much better, + much better ] than  trying to find ways to discipline kids, because they're going to be good and try and earn those things, {D you know, } to get the positive part of it.  /
+sv          A.59 utt11:  {E I mean, }  they'd [ ra-, +  much rather ] go in the store and buy something than be spanked.  /
+sv          A.59 utt12:  {C So, } they're definitely going to work towards being good, {D you know, } rather than trying to act up and be bad, {D you know. } /  
+
+sv          B.60 utt1:  I think that not only applies inside the public school system,  but in society itself.  /
+sv          B.60 utt2:  [ We've been too long, +  there's been too much ] negative reinforcement.  /
+%          B.60 utt3: How much, [ da-, + ] like,  the caught being good slips. - /
+qh          B.60 utt4: How about, just the John Q citizen out there on the street? /  
+
+aa          A.61 utt1:  Yeah,  /
+aa          A.61 utt2: {D well } that's true. <laughter> [ I think, +  I think, ] really though,  /
+sd          A.61 utt3: {E I mean, } that's one thing that, {E I mean, } my kids definitely get  spanked when [ they need + they need ] to be spanked.  /
+sd          A.61 utt4:  {C But } I really do try  to use positive, {F uh, } reinforcement with them at home, also.  /
+sd          A.61 utt5:  {C And } it really helps.  /
+sd          A.61 utt6:   {C And } {E I mean, } [ they, + they ] don't get spanked very often,  /
+sd          A.61 utt7: {C but } [ they, + they ]  do when they deserve it, {D you know. }  /
+sv          A.61 utt8: {C But, }  {F uh, } I don't think any kid  should be exempt from being spanked.  /
+sd          A.61 utt9: <laughter>  {E I mean, } [ I, + I ] think I wouldn't  mind if a teacher spanked my child.  /
+sd          A.61 utt10: {C But, } {D you know, } that's just my personal opinion,  /
+%          A.61 utt11:  {C and } that's not going to, - /
+sv          A.61 utt12: {E I mean, } I don't think that law will ever change.  /
+sv          A.61 utt13:   They are never going to let [ a, + a ] teacher spank a child again.  /
+%          A.61 utt14:   {C But } I don't think, - /
+sv          A.61 utt15: {E I mean, } some kids don't get don't get spanked at home  /
+sv          A.61 utt16: {C and } some  kids need to be spanked at home.  /
+qy          A.61 utt17:  <laughter> {E I mean, } don't you think? /  
+
+na          B.62 utt1:  I, [ [ m-, + m-, ] + most ] wholeheartedly agree. /  
+
+h          A.63 utt1:  <Laughter>  {C But } I don't know. /  
+
+sv          B.64 utt1:  {E I mean, } there's a point of over kill,  /
+sv          B.64 utt2: {C but }  somewhere [ in, + ] you've got to find an even line. /  
+
+aa          A.65 utt1:  Right,  /
+aa^r          A.65 utt2: right.  /
+sv(^q)          A.65 utt3: {D Well, } there's so many parents  that say, you can deal with a child without spanking them.  Which is true, you can.  /
+sv          A.65 utt4:  {C But } there are times when a child needs to be spanked.  /
+sv          A.65 utt5:  {E I mean, } they do things  that they need that. /  
+
+sv          B.66 utt1:  Need that shock effect, where they equate the shock of  being spanked with the actions they did to get spanked. /  
+
+b          A.67 utt1:  Right.  <<Tape ends with no further conversation.>> / 

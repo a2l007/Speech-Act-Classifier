@@ -1,0 +1,378 @@
+2402.65,2405.75,Bro014-c0,s^rt,55b+++++++,,,and we have the mel filter banks .
+2402.71,2403.01,Bro014-c2,b,,,,mm-hmm .
+2405.79,2406.3,Bro014-c2,b,,,,mm-hmm .
+2406.76,2417.23,Bro014-c0,s,55b++++++++.58a,,,and so if we - if we like remove the mel filter bank from the f_f_t we have something that's close to the excitation signal .
+2417.83,2418.22,Bro014-c4,x,,,,oh .
+2418.76,2419.35,Bro014-c2,s^bk,58b,,,o_k .
+2419.12,2423.98,Bro014-c0,s^e^rt,55b+++++++++.59a,,,it's something that's like a - a- - a train of p- - a pulse train for voiced sound .
+2420.03,2420.24,Bro014-c1,b,,,,yeah .
+2420.09,2421.48,Bro014-c2,s^bk,58b+,,,oh o_k .
+2422.85,2423.23,Bro014-c2,s^bk,59b,,,yeah .
+2423.98,2426.08,Bro014-c0,s.%--,55b++++++++++,,,and that's - that should be flat for ==
+2424.4,2424.64,Bro014-c1,b,,,,yeah .
+2424.91,2425.86,Bro014-c2,s^bk,59b+,,,i see .
+2426.27,2427.45,Bro014-c2,qy.%--,,,,so do you have a picture that sh- ?==
+2427.64,2428.9,Bro014-c2,qy,1a,,,is this for a voiced segment ?
+2428.07,2429.17,Bro014-c0,%--,,,,so- - it's - y- ==
+2428.9,2429.38,Bro014-c2,qy^d^e^rt,1a+,,,this picture ?
+2429.17,2429.69,Bro014-c0,s^aa,1b-1,,,yeah .
+2429.78,2430.86,Bro014-c2,qw,,,,what does it look like for unvoiced ?
+2430.05,2430.23,Bro014-c5,s^aa,1b-2,,,yeah .
+2430.69,2432.27,Bro014-c0,qy^rt,2a,,,you have several - some unvoiced ?
+2431.83,2432.28,Bro014-c5,s.%--,,,,the dif- ==
+2432.6,2433.76,Bro014-c5,s^nd,2b.3a,,,no unvoiced i don't have .
+2433.76,2434.77,Bro014-c5,s^e^nd,2b+,,,for unvoiced .
+2433.99,2434.31,Bro014-c0,s^bk,3b,,,oh .
+2434.68,2434.9,Bro014-c1,b,,,,yeah .
+2435.24,2435.81,Bro014-c5,s^fa,2b++,,,i'm sorry .
+2435.44,2436.33,Bro014-c1,fg|s.%--,,,,so | you know all ==
+2436.18,2436.33,Bro014-c0,fg,,,,but ==
+2436.87,2437.04,Bro014-c1,b,,,,yeah .
+2436.87,2437.07,Bro014-c0,b,,,,yeah .
+2436.96,2437.18,Bro014-c5,fh,,,,yeah .
+2437.29,2439.01,Bro014-c5,s.%-,4a,,,this is the - between ==
+2438.67,2440.08,Bro014-c0,s,4b.5a,,,this is another voiced example .
+2440.14,2440.38,Bro014-c5,s^ar,5b,,,no .
+2440.26,2440.41,Bro014-c0,fh,,,,yeah .
+2440.38,2441.18,Bro014-c5,s^nd^rt,5b+.6a,,,but it's this .
+2441.37,2441.59,Bro014-c0,s^bk,6b,,,oh yeah .
+2441.59,2442.03,Bro014-c0,s.%-,6b+,,,this is ==
+2441.65,2445.71,Bro014-c5,s,5b++,,,but between the frequency that we are considered for the excitation .
+2443.61,2444.12,Bro014-c0,b,,,,right .
+2444.71,2445.13,Bro014-c0,b,,,,mm-hmm .
+2445.83,2446.63,Bro014-c5,s,5b+++,,,for the difference .
+2446.63,2447.96,Bro014-c5,s,5b++++.7a,,,and this is the difference .
+2448.33,2449.14,Bro014-c2,s^bk,7b,,,this is the difference .
+2448.53,2448.76,Bro014-c0,b,,,,yeah .
+2449.14,2449.51,Bro014-c2,s^bk,7b+,,,o_k .
+2450.06,2451.32,Bro014-c0,s,8a,,,so of course it's around zero .
+2450.08,2450.31,Bro014-c1,b,,,,yeah .
+2450.38,2450.77,Bro014-c4,s^t3.%--,,,,sure looks ==
+2451.32,2451.47,Bro014-c0,%--,,,,but ==
+2451.62,2451.86,Bro014-c4,b,,,,hmm .
+2452.19,2452.39,Bro014-c0,fh,,,,well .
+2452.28,2452.58,Bro014-c2,b,,,,hmm .
+2452.6,2452.96,Bro014-c0,s^ar,,,,no .
+2452.87,2453.07,Bro014-c5,s^aa,8b,,,yeah .
+2453.21,2453.5,Bro014-c0,s.%--,,,,it is ==
+2453.34,2458.13,Bro014-c5,s^df,8b+,,,because we begin uh in fifteen point - the fifteen point .
+2456.79,2457.13,Bro014-c2,fg,,r,,so ==
+2458.2,2463.07,Bro014-c2,qy.%--,9a,,,does - does the periodicity of this signal say something about the - the ?==
+2458.79,2459.6,Bro014-c5,s.%--,,,,fifteen p- ==
+2461.17,2461.59,Bro014-c0,s.%-,,,,so it's ==
+2463.43,2463.77,Bro014-c1,s^2,9b.10a,,,pitch .
+2463.85,2464.04,Bro014-c0,s^aa,10b-1,,,yeah .
+2463.88,2464.36,Bro014-c2,s^m^na,10b-2,,,the pitch .
+2464.04,2464.7,Bro014-c0,s^na,10b-1+,,,it's the pitch .
+2464.63,2465.1,Bro014-c2,s^bk,10b-2+,,,o_k .
+2464.77,2464.97,Bro014-c1,s^bk,9b+,,,yeah .
+2464.81,2464.89,Bro014-c0,b,,,,yeah .
+2465.18,2465.27,Bro014-c0,b,,,,mm-hmm .
+2465.18,2466.29,Bro014-c1,s,9b++.11a,,,that's like fundamental frequency .
+2466.23,2466.49,Bro014-c0,b,,,,mm-hmm .
+2466.65,2467.56,Bro014-c2,s^bk,11b,,,o_k .
+2466.73,2468.03,Bro014-c1,fg|%--,,r,,so i mean | i- - t- - t- ==
+2467.56,2468.19,Bro014-c2,s^bk,11b+,,,i see .
+2468.23,2471.03,Bro014-c1,s.%--,,,,i mean to first order what you'd - what you're doing ==
+2471.24,2474.55,Bro014-c1,s^co,,,,i mean ignore all the details and all the ways which is - that these are complete lies .
+2474.98,2475.38,Bro014-c2,b,,,,mm-hmm .
+2475.17,2485.36,Bro014-c1,fh|s,,,,uh | the - the - you know what you're doing in feature extraction for speech recognition is you have uh in your head a - a - a - a simplified production model for speech .
+2485.1,2485.25,Bro014-c5,b,,,,yeah .
+2485.36,2485.74,Bro014-c2,b,,,,mm-hmm .
+2485.71,2490.68,Bro014-c1,s^e,,,,in which you have a periodic or aperiodic source that's driving some filters .
+2486.04,2489.68,Bro014-c5,s^t3,,,,this is the - the auto-correlation - the r_zero energy .
+2488.95,2489.59,Bro014-c0,qy^t3.%--,,,,do you have the mean ?==
+2490.01,2493.28,Bro014-c0,qy^r^t3,12a,,,do you have the mean for the auto-correlation ?
+2491.12,2494.43,Bro014-c1,s,,,,uh first order for speech recognition you say i don't care about the source .
+2491.9,2492.25,Bro014-c5,s^2^t3.%--,12b,,,for ==
+2493.37,2493.74,Bro014-c5,s^aa^t3,12b+,,,yeah .
+2493.74,2494.43,Bro014-c5,s^na^t3,12b++.13a,,,i have the mean .
+2494.19,2495.74,Bro014-c0,s^nd^t3,13b.14a,,,well i mean for the - the energy .
+2494.24,2494.72,Bro014-c2,b,,,,right .
+2494.43,2494.77,Bro014-c1,qy^d^f^g^rt,,,,right ?
+2494.94,2495.52,Bro014-c2,b,,,,right .
+2495.24,2496.76,Bro014-c1,s,,,,and so you just want to find out what the filters are .
+2496.21,2496.45,Bro014-c5,s^aa^t3,14b,,,yeah .
+2496.76,2507.33,Bro014-c1,s,,,,the filters roughly act like a um - a uh - a- - an overall resonant - you know f- - some resonances and so forth that th- - that's processing excitation .
+2496.82,2497.06,Bro014-c5,s^na^t3,14b+,,,here .
+2498.47,2499.55,Bro014-c0,s^t3,15a,,,they should be more close .
+2500.01,2500.31,Bro014-c5,s^ar^t3,15b,,,ah no .
+2500.31,2500.98,Bro014-c5,s^rt^t3,15b+,,,this is this .
+2501.63,2503.05,Bro014-c5,s^rt^t3,15b++,,,more close is this .
+2503.28,2503.58,Bro014-c5,s^t3,15b+++.16a,,,and this .
+2504.59,2505.13,Bro014-c2,b,,,,mm-hmm .
+2505.12,2505.39,Bro014-c2,b,,,,mm-hmm .
+2505.61,2505.81,Bro014-c0,s^bk^t3,16b,,,yeah .
+2505.81,2506.43,Bro014-c0,s^t3.%--,,,,so they are ==
+2506.43,2507.73,Bro014-c0,s^t3,,,,this is - there is less difference .
+2506.56,2506.99,Bro014-c5,b,,,,mm-hmm .
+2507.76,2513.06,Bro014-c1,s,,,,so if you look at the spectral envelope just the very smooth properties of it you get something closer to that .
+2508.41,2509.91,Bro014-c0,s^t3,17a,,,this is less - it's less robust .
+2510.24,2510.86,Bro014-c5,s^m^na^t3,17b,,,less robust .
+2510.93,2511.19,Bro014-c5,s^aa^t3,17b+,,,yeah .
+2513.41,2513.84,Bro014-c0,b,,,,oh yeah .
+2513.56,2519.87,Bro014-c1,s,18a,,,and the notion is if you have the full spectrum with all the little nitty-gritty details that that has the effect of both .
+2516.88,2517.22,Bro014-c2,s^bk,18b,,,yeah .
+2519.8,2520.27,Bro014-c2,b,18b+,,,mm-hmm .
+2519.87,2523.64,Bro014-c1,s,,,,and it would be a multiplication in - in frequency domain .
+2523.64,2527.89,Bro014-c1,s^e,,,,so that would be like an addition in log power spectrum domain .
+2526.68,2527,Bro014-c2,b,,,,mm-hmm .
+2527.39,2527.67,Bro014-c2,b,,,,mm-hmm .
+2528.49,2536.24,Bro014-c1,s,,,,and so this is saying well if you really do have that sort of vocal tract envelope and you subtract that off what you get is the excitation .
+2536.55,2538.74,Bro014-c1,s,,,,and i call that lies because you don't really have that .
+2538.74,2543.18,Bro014-c1,s^df,,,,you just have some kind of signal-processing trickery to get something that's kind of smooth .
+2543.61,2545.39,Bro014-c1,s^df,19a,,,it's not really what's happening in the vocal tract .
+2544.88,2545.26,Bro014-c2,s^aa,19b,,,yeah .
+2545.39,2547.49,Bro014-c1,s^df,,,,so you're not really getting the vocal excitation .
+2545.46,2545.9,Bro014-c2,s^aa,19b+,,,right .
+2547.96,2554.48,Bro014-c1,s^df,,,,that's why i was going to the - why i was referring to it in a more a more uh uh conservative way .
+2554.48,2555.54,Bro014-c1,s.%--,,,,when i was saying well it's ==
+2555.54,2555.68,Bro014-c1,fh,,,,yeah .
+2555.88,2556.48,Bro014-c1,s,,,,it's the excitation .
+2556.48,2557.64,Bro014-c1,s,,,,but it's not really the excitation .
+2557.64,2559.61,Bro014-c1,s.%--,20a,,,it's whatever it is that's different between ==
+2559.52,2559.86,Bro014-c2,s^bk,20b,,,oh .
+2560.25,2561.17,Bro014-c2,s.%--,20b+,,,this moved in the ==
+2560.25,2564.13,Bro014-c1,s,,,,so - so stand- - standing back from that you sort of say there's this very detailed representation .
+2561.17,2561.55,Bro014-c2,s^bk,20b++,,,yeah .
+2564.26,2564.77,Bro014-c2,b,,,,mm-hmm .
+2564.52,2566.11,Bro014-c1,s,,,,you go to a smooth representation .
+2566.51,2569.53,Bro014-c1,s^df^r,,,,you go to a smooth representation cuz this typically generalizes better .
+2569.57,2570.15,Bro014-c2,b,,,,mm-hmm .
+2570.16,2570.58,Bro014-c1,fh,,,,um ==
+2570.87,2572.75,Bro014-c1,s,,,,but whenever you smooth you lose something .
+2573.14,2575.59,Bro014-c1,s,21a,,,so the question is have you lost something you can you use .
+2575.51,2575.92,Bro014-c2,s^aa,21b,,,right .
+2576.19,2581.36,Bro014-c1,fh|s^cs,,,,um | probably you wouldn't want to go to the extreme of just ta- - saying o_k our feature set will be the f_f_t .
+2581.8,2585.4,Bro014-c1,s^df,,,,cuz we really think we do gain something in robustness from going to something smoother .
+2585.6,2585.94,Bro014-c2,b,,,,mm-hmm .
+2585.78,2587.25,Bro014-c1,s,,,,but maybe there's something that we missed .
+2587.36,2587.69,Bro014-c2,b,,,,yeah .
+2587.63,2588.37,Bro014-c1,qw,,,,so what is it ?
+2588.37,2590.21,Bro014-c1,s.%--,,,,and then you go back to the intuition that ==
+2590.21,2591.76,Bro014-c1,s,,,,well you don't really get the excitation .
+2591.76,2593.08,Bro014-c1,s,,,,but you get something related to it .
+2592.89,2593.27,Bro014-c2,b,,,,mm-hmm .
+2593.5,2593.8,Bro014-c2,b,,,,mm-hmm .
+2593.8,2599.44,Bro014-c1,s,22a,,,and it - and as you can see from those pictures you do get something that shows some periodicity uh in frequency .
+2599.64,2599.94,Bro014-c2,qh^bh^rt,,,,hmm ?
+2599.76,2600.12,Bro014-c1,fh,,,,you know .
+2600.12,2601.26,Bro014-c1,s,,,,and - and - and also in time .
+2601.26,2601.5,Bro014-c1,fh,,,,so ==
+2601.46,2602.41,Bro014-c2,s^ba,22b,,,that's - that's really neat .
+2602.25,2602.67,Bro014-c1,fg,,,,so ==
+2603.57,2605.48,Bro014-c2,qy^bu^d^rt,23a,,,so you don't have one for unvoiced picture ?
+2606.02,2606.82,Bro014-c5,s^nd,23b.24a,,,uh not here .
+2607.15,2607.42,Bro014-c2,s^bk,24b,,,oh .
+2607.29,2607.78,Bro014-c5,s^nd.%--,23b+,,,no i have s- ==
+2607.87,2608.82,Bro014-c0,b,,,,mm-hmm .
+2608.35,2608.6,Bro014-c1,b,,,,yeah .
+2608.6,2609.31,Bro014-c5,s^nd,23b++,,,but not here .
+2610.09,2615.97,Bro014-c1,s.%--,25a,,,but presumably you'll see something that won't have this kind of uh uh uh regularity in frequency uh in the ==
+2611.23,2611.38,Bro014-c0,fg,,,,but ==
+2615.17,2616.3,Bro014-c0,s^bk,25b,,,yeah well .
+2615.28,2615.47,Bro014-c5,s.x,,,,not here .
+2616.84,2619.03,Bro014-c2,s,26a,,,i would li- - i would like to see those pictures .
+2617.06,2617.6,Bro014-c5,b,,,,well so .
+2618.4,2618.65,Bro014-c1,b,,,,yeah .
+2618.86,2620.75,Bro014-c5,s^nd,26b,,,i can't see you now .
+2619.56,2619.79,Bro014-c2,fh,,,,yeah .
+2620.05,2620.3,Bro014-c1,b,,,,yeah .
+2622.51,2622.79,Bro014-c1,b,,,,yeah .
+2623.57,2623.89,Bro014-c0,b,,,,mm-hmm .
+2623.76,2624.13,Bro014-c5,s^nd,26b+,,,i don't have .
+2625.3,2626.51,Bro014-c2,qy^bu^d.%--,,,,and so you said this is pretty ?==
+2626.51,2629.32,Bro014-c2,qy^rt,27a,10=l=o.a,,doing this kind of thing is pretty robust to noise ?
+2629.65,2630.66,Bro014-c0,s^na,27b,,,it seems .
+2630.66,2630.86,Bro014-c0,s^aa,27b+,,,yeah .
+2630.99,2631.12,Bro014-c5,b,,,,pfft .
+2631.08,2631.33,Bro014-c2,b,,,,huh .
+2631.12,2632,Bro014-c0,fh,,,,um ==
+2631.68,2631.82,Bro014-c5,s,,,,oops .
+2632.31,2634.41,Bro014-c5,s,,b,,the mean is different with it .
+2634.72,2638.5,Bro014-c5,s^df.%--,28a,c,,because the - the histogram for the - the classifica- ==
+2637.57,2637.94,Bro014-c0,s^ar,28b.29a,,,no no no .
+2637.94,2639.97,Bro014-c0,s^df.%--,28b+,,,but th- - the kind of robustness to noise ==
+2638.5,2638.78,Bro014-c5,s^bk^fe,29b,,,oh !
+2639.97,2648.69,Bro014-c0,s.%--,30a,,,so if - if you take this frame uh from the noisy utterance and the same frame from the clean utterance ==
+2642.49,2642.76,Bro014-c5,b,,,,hmm .
+2649.05,2650.51,Bro014-c2,qy^2,30b.31a,,,you end up with a similar difference ?
+2650.25,2651.26,Bro014-c0,s^aa,31b,,,y- - y- - y- - yeah .
+2651.26,2651.99,Bro014-c0,s^na^r.%--,31b+,,,we end up with ==
+2651.57,2652.11,Bro014-c2,qy^d^rt,,,,over here ?
+2652.98,2653.14,Bro014-c0,s^aa,31b++.32a,,,yeah .
+2653.43,2653.87,Bro014-c2,s^bk,32b,,,o_k .
+2654.16,2657.77,Bro014-c5,s^rt,33a,,,i have here the same frame for the clean speech .
+2654.23,2654.49,Bro014-c2,s^ba^bk,32b+,,,cool .
+2657.94,2658.74,Bro014-c2,s^bk,33b,,,oh that's clean .
+2658.38,2658.95,Bro014-c5,s.%--,,,,the same cle- ==
+2659.06,2659.68,Bro014-c2,s^bk,33b+,,,oh o_k- - .
+2659.22,2660.64,Bro014-c5,s,34a,,,but they are a difference .
+2660.82,2666.83,Bro014-c5,s^df^rt,35a,,,because here the f_f_t is only with two hundred fifty-six point .
+2660.83,2661.18,Bro014-c0,s^bk,34b,,,yeah .
+2661.18,2661.43,Bro014-c0,%--,,,,that's ==
+2667.03,2669.62,Bro014-c5,s,36a,,,and this is with five hundred twelve .
+2667.1,2667.72,Bro014-c2,s^bk,35b,,,oh .
+2669.9,2670.45,Bro014-c2,s^bk,36b,,,o_k .
+2670.1,2670.34,Bro014-c0,fg,,,,yeah .
+2670.34,2672.15,Bro014-c0,s,,,,this is kind of inter- - interesting also .
+2672.15,2691.15,Bro014-c0,s^df,,,,because if we use the standard uh frame length of - of like twenty-five milliseconds um what happens is that for low-pitched voiced because of the frame length y- - you don't really have - you don't clearly see this periodic structure .
+2691.59,2691.98,Bro014-c1,b,,,,mm-hmm .
+2693.68,2696.55,Bro014-c0,s^df,,,,because of the first lobe of - of each - each of the harmonics .
+2696.07,2698.94,Bro014-c2,s^bu.%--,37a,,,so this one inclu- - is a longer - ah ==
+2697.34,2701.17,Bro014-c0,s,37b.38a,,,so this is like - yeah fifty milliseconds or something like that .
+2700.56,2701.2,Bro014-c5,s^m^na.%--,38b,,,fifty millis- ==
+2701.66,2701.9,Bro014-c5,s^aa,38b+,,,yeah .
+2702.18,2703.53,Bro014-c0,s,,,,yeah but it's the same frame .
+2703.68,2704.74,Bro014-c0,fh,,,,and ==
+2704.34,2706.33,Bro014-c2,s^bu,39a,,,oh it's that time-frequency trade-off thing .
+2706.35,2706.61,Bro014-c0,s^aa,39b.40a,,,yeah .
+2706.43,2706.69,Bro014-c2,qy^d^g^rt,39a+,,,right ?
+2707.53,2708.31,Bro014-c2,s^bk,40b,,,i see .
+2709.39,2709.64,Bro014-c2,b,,,,yeah .
+2710.04,2710.33,Bro014-c0,fg,,,,so yeah .
+2710.04,2710.49,Bro014-c1,b,,,,mm-hmm .
+2710.06,2712.13,Bro014-c2,qy^rt,41a,,,oh oh so this i- - is this the difference here ?
+2713.05,2713.38,Bro014-c5,s^ar,41b,,,no .
+2713.38,2714.34,Bro014-c5,s^nd,41b+,,,this is the signal .
+2713.42,2713.75,Bro014-c2,qy^d^e^rt,,,,for that ?
+2714.81,2715.76,Bro014-c5,s^nd^r,41b++,,,this is the signal .
+2715.56,2715.88,Bro014-c0,s,,,,i see that .
+2715.88,2716.19,Bro014-c0,s^bk,,,,oh yeah .
+2716.57,2717.3,Bro014-c5,s,41b+++.42a,,,the frame .
+2717.6,2718.71,Bro014-c2,s,42b.43a,,,oh that's the f- - the original .
+2718.36,2719.9,Bro014-c5,s^na,43b,,,this is the fra- - the original frame .
+2718.69,2718.89,Bro014-c0,fg,,,,yeah .
+2718.89,2721.44,Bro014-c0,s,,,,so with a short frame basically you have only two periods .
+2720.47,2720.9,Bro014-c2,b,,,,yeah .
+2721.44,2724.47,Bro014-c0,s,,,,and it's not - not enough to - to have this kind of neat things .
+2721.47,2722.1,Bro014-c2,b,,,,mm-hmm .
+2721.56,2722.07,Bro014-c5,b,,,,mm-hmm .
+2722.87,2723.35,Bro014-c2,b,,,,yeah .
+2724.93,2725.09,Bro014-c0,%--,,,,but ==
+2725.38,2725.76,Bro014-c5,s.%--,,,,and here ==
+2725.76,2726.52,Bro014-c5,s^ar,,,,no well .
+2727.58,2727.73,Bro014-c0,fg,,,,yeah .
+2727.73,2730.75,Bro014-c0,s^cs,44a,,,so probably we'll have to use like long f- - long frames .
+2730.85,2730.94,Bro014-c0,fh,,,,mm-hmm .
+2730.85,2731.22,Bro014-c2,s^bk,44b,,,mm-hmm .
+2731.44,2731.78,Bro014-c4,b,,,,hmm .
+2734.07,2734.22,Bro014-c2,s^bk,,,,oh .
+2734.44,2735.02,Bro014-c2,s^ba,45a,,,that's interesting .
+2734.69,2735.07,Bro014-c1,b,,,,mmm .
+2735.69,2736.14,Bro014-c1,s^am,45b,,,yeah maybe .
+2738.08,2739.01,Bro014-c1,s^bd,45b+,,,well i mean it looks better .
+2739.01,2749,Bro014-c1,s^df,45b++,,,but i mean the thing is if - if uh - if you're actually asking - you know if you actually j- - uh need to do - place along an f_f_t it may be - it may be pushing things .
+2749.2,2749.4,Bro014-c0,b,,,,yeah .
+2749.8,2751.26,Bro014-c1,fh,,,,and - and uh ==
+2752.87,2757.58,Bro014-c2,qy^rt,46a,,,would you - would you wanna do this kind of uh difference thing after you do spectral subtraction ?
+2759.22,2761.32,Bro014-c0,h|s^am,46b-1,,,uh | maybe .
+2760.82,2761.03,Bro014-c5,s^ar,46b-2,,,no .
+2761.67,2762.58,Bro014-c5,s^am,46b-2+,,,maybe we can do that .
+2765.39,2767.62,Bro014-c0,fh,,,,mmm ==
+2772.23,2772.41,Bro014-c1,b,,,,hmm .
+2772.79,2774.92,Bro014-c1,s.%--,,,,the spectral subtraction is being done ==
+2775.72,2777.26,Bro014-c1,qw,47a.48a,,,at what level is it being done ?
+2777.26,2778.91,Bro014-c1,qy^e^rt,47a+.48a+,,,at the level of f_f_t bins ?
+2778.91,2781.63,Bro014-c1,qrr^e^rt,48a++,,,or at the level of uh mel spectrum or something ?
+2780.64,2781.89,Bro014-c0,fh,47b,,,um ==
+2784.03,2785.35,Bro014-c0,s,48b,,,i guess it depends .
+2786.53,2787.35,Bro014-c1,qw,49a,20=l-=a.a,,i mean how are they doing it ?
+2787.57,2788.41,Bro014-c0,s^bk^m,49b,b-,,how they're doing it .
+2788.41,2788.77,Bro014-c0,s^bk,49b+,b,,yeah .
+2789.48,2790.59,Bro014-c0,fh,,,,um ==
+2792,2795.94,Bro014-c0,s,49b++.50a,c,,i guess ericsson is on the um filter bank .
+2794.76,2796.64,Bro014-c5,s^2,50b,,,f_f_t filter bank .
+2796,2796.23,Bro014-c0,qy^d^g^rt,50a+,,,no ?
+2796.82,2796.96,Bro014-c5,s^aa,50b+,,,yeah .
+2796.88,2797.8,Bro014-c0,s,,,,it's on the filter bank .
+2797.8,2797.97,Bro014-c0,fh,,,,so ==
+2798.81,2799.59,Bro014-c0,fh,,,,so yeah .
+2799.97,2800.89,Bro014-c0,s.%--,,,,probably ==
+2803.49,2805.66,Bro014-c1,s,51a,,,so in that case it might not make much difference at all .
+2803.79,2805.33,Bro014-c0,s^aa,51b,,,i- - i- - it - yeah .
+2806.18,2808.76,Bro014-c2,s^cs,52a,,,seems like you'd wanna do it on the f_f_t bins .
+2809.19,2809.45,Bro014-c1,s^am,52b,,,maybe .
+2810.08,2811.3,Bro014-c1,s^na,52b+,,,i mean certainly it'd be better .
+2810.11,2811.42,Bro014-c2,s^df.%--,,r,,i- - i mean if you were gonna ==
+2811.42,2812.78,Bro014-c2,s^e,,,,uh for - for this purpose that is .
+2813.31,2813.56,Bro014-c1,b,,,,yeah .
+2813.42,2813.81,Bro014-c0,b,,,,mm-hmm .
+2815.53,2815.78,Bro014-c1,b,,,,yeah .
+2815.89,2816.22,Bro014-c0,b,,,,mm-hmm .
+2821.78,2822.11,Bro014-c1,fg,,,,o_k .
+2823.48,2823.94,Bro014-c0,b,,,,mmm .
+2823.78,2824.28,Bro014-c1,qo^tc,53a,,,what else ?
+2825.67,2827.62,Bro014-c0,h,53b,,,uh yeah .
+2827.62,2828.15,Bro014-c0,s,53b+,,,that's all .
+2828.71,2837.78,Bro014-c0,s^cc,54a,,,so we'll perhaps try to convince o_g_i people to use the new - the new filters .
+2837.78,2838.36,Bro014-c0,fh,,,,and ==
+2839.03,2839.25,Bro014-c0,fh,,,,yeah .
+2842.53,2842.8,Bro014-c1,s^bk,54b,,,o_k .
+2844.72,2851.15,Bro014-c1,qy,55a,,,uh has - has anything happened yet on this business of having some sort of standard uh source ?
+2850.58,2851.04,Bro014-c0,h,55b,,,uh ==
+2851.15,2851.28,Bro014-c1,qrr.%--,,,,or ?==
+2851.64,2851.91,Bro014-c0,s^nd,55b+,,,not yet .
+2851.91,2854.17,Bro014-c0,s^cc,55b++,,,but i wi- - i will call them .
+2854.17,2854.38,Bro014-c0,fh,,,,and ==
+2854.78,2854.97,Bro014-c1,b,,,,o_k .
+2856.08,2857.55,Bro014-c0,s,,,,now they are - i think they have more time .
+2857.55,2858.43,Bro014-c0,s^df.%--,,,,because they have this ==
+2859.67,2863.16,Bro014-c0,s,,,,well eurospeech deadline is over .
+2862.64,2866.06,Bro014-c2,qw,56a,,,when is the next um aurora deadline ?
+2863.16,2863.52,Bro014-c0,fh,,,,and ==
+2866.15,2869.13,Bro014-c0,s,56b.57a,,,it's um in june .
+2869.74,2869.96,Bro014-c2,s^bk^m,57b-1,,,june .
+2870.2,2870.33,Bro014-c0,b,,,,yeah .
+2870.91,2871.54,Bro014-c1,qy^d^rt,57b-2.58a,,,early june ?
+2871.73,2872.2,Bro014-c1,qy^d^rt,57b-2+.58a+,,,late june ?
+2872.61,2873.09,Bro014-c1,qy^d^rt,57b-2++.58a++,,,middle june ?
+2873.89,2874.22,Bro014-c0,s^no,58b,,,i don't know .
+2874.22,2874.34,Bro014-c0,%--,,,,w- ==
+2874.55,2874.79,Bro014-c1,b,,,,hmm .
+2875.57,2875.85,Bro014-c4,b,,,,hmm .
+2877.32,2877.65,Bro014-c1,b,,,,o_k .
+2880.26,2880.76,Bro014-c1,fg,,,,um ==
+2881.82,2883.64,Bro014-c1,s^tc,59a,20=w-=o;g.a,,and he's been doing all the talking .
+2883.64,2886.13,Bro014-c1,s.%--,,,,but - but these - he's - he's uh ==
+2884.36,2884.62,Bro014-c5,s^aa,59b,b,,yeah .
+2886.61,2887.84,Bro014-c1,s,,c,,this is - this by the way a bad thing .
+2887.84,2890.98,Bro014-c1,s^df,,30=l=a.a,,we're trying to get um m- - more female voices in this record as well .
+2891.34,2891.62,Bro014-c1,fh,,,,so ==
+2892.41,2894.85,Bro014-c1,s^co,,b,,make sur- - make sure carmen talks as well .
+2895.74,2899.43,Bro014-c1,fh|qy^rt,60a,c##40=w-=a;s.a,,uh | but has he pretty much been talking about what you're doing also ?
+2899.43,2899.61,Bro014-c1,fh,,,,and ==
+2900.14,2901.82,Bro014-c5,s^na^rt,60b.61a,,,oh i - i am doing this .
+2902.62,2903.32,Bro014-c5,s^aa,60b+,,,yeah yeah .
+2902.63,2902.93,Bro014-c1,s^aa,61b,,,yes .
+2903.67,2904.07,Bro014-c5,s^no,60b++,b,,i don't know .
+2904.65,2905.2,Bro014-c5,s^fa,60b+++,b,,i'm sorry .
+2905.2,2905.36,Bro014-c5,%--,,,,but ==
+2905.79,2910.08,Bro014-c5,s^cs^j,62a,b,,i think that for the recognizer for the meeting recorder that it's better that i don't speak .
+2915.98,2916.72,Bro014-c1,s^bk,62b,c,,yeah well .
+2916.03,2916.28,Bro014-c5,s^df.%-,,,,because ==
+2916.81,2920.42,Bro014-c1,s,62b+,,,you know uh we'll get - we'll get to uh spanish voices sometime .
+2920.42,2924.31,Bro014-c1,s,62b++,50=w-=a;s.a,,and we do - we want to recognize uh you too .
+2923.95,2930.45,Bro014-c5,s^cs^j,63a,b,,after the - after uh the result for the t_i-digits on the meeting record there will be foreigns people .
+2931.76,2932.22,Bro014-c0,%,,,,yeah but ==
+2931.85,2932.13,Bro014-c2,%,,,,y- ==
+2932.18,2932.54,Bro014-c1,s^ar,63b,,,oh no .
+2932.54,2933.94,Bro014-c1,s.%--,63b+,,,we like - we - we're - we're ==
+2934.72,2939.44,Bro014-c1,s^j,63b++,c,,w- - we are - we're in the uh bourlard-hermansky-morgan uh frame of mind .
+2939.44,2940.86,Bro014-c1,s^j,63b+++,60=l=a.a,,yeah we like high error rates .
+2940.86,2941.65,Bro014-c1,%--,,b,,it's ==
+2941.96,2942.47,Bro014-c0,b,,,,yeah .
+2943.14,2944.52,Bro014-c1,s^j,63b++++,c,,that way there's lots of work to do .
+2945.03,2945.29,Bro014-c1,s.%--,,,,so it's ==
+2947.33,2947.84,Bro014-c1,fg,,,,uh ==
+2948.84,2949.38,Bro014-c1,qy^d.%--,64a,,,anything to ?==
+2950.78,2952.4,Bro014-c3,h|s^nd,64b,,,n- - um | not- - not- - not much is new .
+2951.05,2951.44,Bro014-c1,qy^d,,,,talk about ?
+2952.4,2969.89,Bro014-c3,s,,,,so when i talked about what i'm planning to do last time i said i was um going to use avendano's method of um using a transformation um to map from long analysis frames which are used for removing reverberation to short analysis frames for feature calculation .
+2970.52,2975.03,Bro014-c3,s,,,,{and} he has a trick for doing that involving viewing the d_f_t as a matrix .
+2975.63,2976.1,Bro014-c3,fh,,,,um ==
+2976.91,2981.02,Bro014-c3,fh|s,,,,but uh um | i decided not to do that after all .
+2981.02,2990.3,Bro014-c3,s^df,,,,because i - i realized to use it i'd need to have these short analysis frames get plugged directly into the feature computation somehow .
+2990.1,2990.79,Bro014-c1,b,,,,mm-hmm .
+2990.3,2997.16,Bro014-c3,s^df,,,,and right now i think our feature computation is set to up to um take um audio as input in general .
+2997.61,3002.24,Bro014-c3,s^cc,,,,so i decided that i - i'll do the reverberation removal on the long analysis windows .

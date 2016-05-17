@@ -1,0 +1,407 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3496_1466_1415
+TOPIC#:		310
+DATE:		911210
+TRANSCRIBER:	glp
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	3
+BACKGROUND_B:	1
+REMARKS:        Baby in the background.
+
+===========================================================================
+  
+
+o          A.1 utt1:   Okay,  /
+qy^t          A.1 utt2: do we just go ahead? /  
+
+ny          B.2 utt1:   Uh-huh. /  
+
+bk          A.3 utt1:   Okay. /  
+
+qy^t          B.4 utt1:   Do you want to start? /  
+
+na^t          A.5 utt1:   {F Uh, } <lipsmack> {D well, } we're supposed to talk about vacations -- /  
+
+b          @B.6 utt1:   Right. /  
+
+sd          A.7 utt1:   -- {C and, } {F uh, } I'm trying to think of the ones that I've been on that I liked the most  /
+sd          A.7 utt2: {C and } <noise> probably the one I liked most was Hawaii <laughter>. /  
+
+qy          B.8 utt1:   {F Oh, } did you get to go to Hawaii? /  
+
+ny          A.9 utt1:   Yes. /  
+
+b          B.10 utt1:   Yeah,  /
+sd          B.10 utt2: we went there for our twenty-fifth wedding anniversary.  /
+qy^g          B.10 utt3: It's lovely, isn't it? /  
+
+ny          A.11 utt1:   Yes.  /
+sd          A.11 utt2: We went, {F uh, } six months after we were married. /  
+
+b          B.12 utt1:   Uh-huh. /  
+
+sd          A.13 utt1:   {C And } we just went to, {F uh, } two islands. /  
+
+qw          B.14 utt1:   What islands did you go to? /  
+
+ sd         A.15 utt1:   We went to Oahu and Kauai. /  
+
+sd          B.16 utt1:   Kauai,  /
+b          B.16 utt2: uh-huh.  /
+sd          B.16 utt3:  We went to Kauai,  /
+sd          B.16 utt4: {C and then } we also hit Maui,  /
+sd          B.16 utt5: {C and then, } of course, {F uh } -- -/  
+
+^2          A.17 utt1:   The big one. /  
+
+b^m          B.18 utt1:   -- {F uh, } the big one,  /
+aa          B.18 utt2: uh-huh. /  
+
+b          A.19 utt1:   Oh. /  
+
+sv          B.20 utt1:   With, {F uh, } the big one I thought was very commercialized. /  
+
+aa          A.21 utt1:   {F Oh, } yeah.  /
+sv         A.21 utt2:  It was. -/  
+
+sv          B.22 utt1:   {C But } the other two were just lovely. /  
+
+b          A.23 utt1:   Yes,  /
+sd          A.23 utt2: I enjoyed Kauai better, too. /  
+
+b          B.24 utt1:   Uh-huh,  /
+sv          B.24 utt2: it was quiet and restful, [ and, + and  ] so beautiful.  /
+sv          B.24 utt3:  It wasn't commercialized. /  
+
+sd          A.25 utt1:   {F Oh, } it was rainy <laughter>. /  
+
+b          B.26 utt1:   Yeah  /
+qy          B.26 utt2: <laughter>, was it? /  
+
+na          A.27 utt1:   Rainy,  /
+sd          A.27 utt2: {C but, } {D you know, } we don't like to spend the money to go over there and sit on the beach anyway  /
+%          A.27 utt3: {C so, } -/  
+
+b          B.28 utt1:   That's right. /  
+
+x          A.29 utt1:   <Laughter>.   
+
+sd          B.30 utt1:   {D Well, } it wasn't real rainy.  /
+sd          B.30 utt2:  We had [ s-, + a few ] showers,  but,  {F uh, } nothing that really got in the way with anything and just very brief ones  /
+%          B.30 utt3: [ {C and, } + {C and, }  ] when, {F uh, } - /
+sd          B.30 utt4: {D now } we went to Nassau  /
+sd          B.30 utt5: {C and } my husband liked it better than he did Hawaii. /  
+
+bh          A.31 utt1:   {F Oh, } really? /  
+
+aa          B.32 utt1:   Uh-huh. /  
+
+bk          A.33 utt1:   Oh. /  
+
+b          B.34 utt1:   Yeah,  /
+sd          B.34 utt2: he really did.  /
+sd          B.34 utt3:  I don't know why.  /
+sd          B.34 utt4: {D You know, } he didn't like Oahu at all <child>.  /
+sd          B.34 utt5: [ He thought -- +   
+
+b          A.35 utt1:   Uh-huh. /  
+
++@          B.36 utt1:   -- he thought  ] Honolulu was just horrible <laughter>, {D you know. } *[[should this be the end of the slash unit?]]   
+
+b          A.37 utt1:   Oh. /  
+
++@          B.38 utt1:   Although we went to that Polynesian Village.  /
+qy          B.38 utt2:  Did you go there? /  
+
+ny          A.39 utt1:   Uh-huh. /  
+
+sv          B.40 utt1:   That was wonderful --  /
+
+b          A.41 utt1:   Yeah. /  
+
+sd          B.42 utt1:   -- {C and } we both enjoyed it --    
+
+sv          A.43 utt1:   [ That was <child>. +   
+
++          B.44 utt1:   -- very much. /  
+
++          A.45 utt1:   That was  ] nice,  /
+b          A.45 utt2: uh-huh.  /
+sd          A.45 utt3:  {D You know, } I've been to Nassau, too. /  
+
+bh          B.46 utt1:   Have you? /  
+
+sd          A.47 utt1:   I went on a cruise. /  
+
+ba          B.48 utt1:   {F Oh, } neat. /  
+
+b          A.49 utt1:   Uh-huh,  /
+sd          A.49 utt2: {C and, } {F uh, } to tell you the truth, [ I, + I  ] think I'd rather just go to the island. /  
+
+b          B.50 utt1:   Yeah,  /
+sd          B.50 utt2: {F uh, } our son and daughter-in-law <child> [ just, + ] {F uh, } they got married last January and they won a cruise.  /
+sd          B.50 utt3:  {C And } I know they didn't like it.  /
+sd          B.50 utt4:  {D Now, } we have several friends that, {F uh, } have been on, and just love them.   /
+sd          B.50 utt5:  {C But } James and I like, - /
+h        B.50 utt6: I don't know,  /
+sd          B.50 utt7: I think we would get bored on the boat all the time. /  
+
+sd          A.51 utt1:   {D Well, } I, <breathing> got sick. /  
+
+bh          B.52 utt1:   {F Oh, } did you? /  
+
+ny          A.53 utt1:   Yeah,  /
+sd^e          A.53 utt2: I did the first night.  /
+sd          A.53 utt3:  I went --   
+
+b          B.54 utt1:   Ooh. /  
+
++          A.55 utt1:   -- with my sister --   
+
+b          B.56 utt1:   Uh-huh. /  
+
++          A.57 utt1:   -- just, {F uh, } a couple years ago  /
+sd          A.57 utt2: [ {C and, } + {C and }  ] we both, the first night, just had to leave dinner. /  
+
+%          B.58 utt1:   {F Um. } /  
+
+sd          A.59 utt1:   It was bad,  /
+sd          A.59 utt2: [ {C but, } + {C and then } ] after that [ it was, + it  ] got better,  /
+%          A.59 utt3: {C but } we just, - /
+sd          A.59 utt4: it was a four day --  /
+
+b          B.60 utt1:   Uh-huh. /  
+
+sd          A.61 utt1:   -- {C and } we were both ready to get off the boat. /  
+
+bh          B.62 utt1:   Were you? /  
+
+ny          A.63 utt1:   Yeah. /  
+
+sd          B.64 utt1:   {D Well, } I think if we ever go, it will only be for a three day.  /
+sd          B.64 utt2: {D Now } we've been real lucky.   /
+sd          B.64 utt3:  We've been to Europe twice. /  
+
+bh          A.65 utt1:   {F Oh, } have you? /  
+
+ny          B.66 utt1:   Yeah.  /
+sd          B.66 utt2:  [ We went, + the first time we went  ] to London, Europe and  touched a little bit of Scotland <dishes>.  /
+sd          B.66 utt3: {C And } second time we went to Munich, Germany and were there a week, and loved <noise> Germany. /  
+
+b          A.67 utt1:   Oh. /  
+
+sv          B.68 utt1:   It --   
+
+ba          A.69 utt1:   Wow. /  
+
++          B.70 utt1:   -- is just absolutely gorgeous --    
+
+b          A.71 utt1:   I'll bet it is. /  
+
++         B.72 utt1:   -- with the mountains  /
+sd          B.72 utt2: {C and } we were there in the fall before the snows, {D you know, } started  /
+sd          B.72 utt3: {C and } it was wonderful.  /
+sd          B.72 utt4: [ [ It, + {F uh } --   
+
+b          A.73 utt1:   Oh. /  
+
++          B.74 utt1:   -- it  ] was just, + it was  ] marvelous.  /
+sd          B.74 utt2: {C And } we would love to go back there  /
+sd          B.74 utt3: {C and } we'd love to go back to London. /  
+
+qy          A.75 utt1:   You haven't been to Spain? /  
+
+nn          B.76 utt1:   No -- /  
+
+b          A.77 utt1:   Oh. /  
+
+sd          B.78 utt1:   -- have not been to Spain. /  
+
+sd          A.79 utt1:   I was born there. /  
+
+bh          B.80 utt1:   Were you? /  
+
+ny          A.81 utt1:   Yes <laughter>. /  
+
+qw          B.82 utt1:   How old were you when you left? /  
+
+sd          A.83 utt1:   {F Uh, } just ten months. /  
+
+b^m          B.84 utt1:   {F Oh, } ten months,  /
+b          B.84 utt2: uh-huh. /  
+
+b          A.85 utt1:   Yeah,  /
+%          A.85 utt2: {C so, } -/  
+
+qy          B.86 utt1:   Have you ever got to go back? /  
+
+nn          A.87 utt1:   No,  /
+nn^r          A.87 utt2: no,  /
+sd^e          A.87 utt3: {C and } I would like to. /  
+
+bh          B.88 utt1:   Would you?  /
+%          B.88 utt2:  [ My, + {F uh, }  <lipsmack> my  ] sister, - /
+sd          B.88 utt3: we went with them to Germany  /
+sd          B.88 utt4: {C and, } {F uh, } she would like to go to Spain.  /
+sd          B.88 utt5:  I'm not sure whether I would like to or not. /  
+
+b          A.89 utt1:   Huh. /  
+
+sd          B.90 utt1:   {C And, } {F uh, } I would like to go to Ireland. /  
+
+bh          A.91 utt1:   Would you? /  
+
+ny          B.92 utt1:   Uh-huh. /  
+
+sd          A.93 utt1:   {D Now, } {D now } I don't know if I'd like to go there just from --   
+
+%          B.94 utt1:   {D Well, } the -- -/  
+
++          A.95 utt1:   -- [ the -- +   
+
+%          B.96 utt1:   --  ((   ))  there is -- -/  
+
++          A.97 utt1:   -- the  ] problems. /  
+
+b          B.98 utt1:   -- uh-huh,  /
+sv          B.98 utt2: [ is, + is  ] a little scary,  /
+sd          B.98 utt3: {C but } I would still like to see it.  /
+sd          B.98 utt4:  I'd like to see, {F uh, } <noise> Italy. /  
+
+b          A.99 utt1:   {F Oh, } yeah,  /
+b^r          A.99 utt2: yeah. /  
+
+sd          B.100 utt1:   I would love to go there. /  
+
+ba          A.101 utt1:   That would be nice. /  
+
+sd          B.102 utt1:   {C And, } course, there is a lot of places in the United States I still want to [ come, + ] {D you know, } go to. /  
+
+qy          A.103 utt1:   {D Now, } have you been to Yellowstone? /  
+
+%          B.104 utt1:   {F Uh, } /  
+
+sd^r          A.105 utt1:   Yellowstone, /  
+
+ny          B.106 utt1:   Yes,  /
+ny^r          B.106 utt2: yes. /  
+
+qy          A.107 utt1:   Have you? /  
+
+na          B.108 utt1:   We have been there.  /
+sd          B.108 utt2: [ We, + I  ] was there as a child and then we, we went to California and came back through Yellowstone with our kids. /  
+
+b          A.109 utt1:   Uh-huh. /  
+
+sd          B.110 utt1:   {C And } they loved it. /  
+
+%          A.111 utt1:   {D Well, } /  
+
+sd          B.112 utt1:   I was in Utah, in Salt Lake City when I was a, {F uh, } youngster. /  
+
+b          A.113 utt1:   {F Oh, } uh-huh. /  
+
+sd          B.114 utt1:   {C So, } {F uh, } {D you know, } I've touched on that. /  
+
+b          A.115 utt1:   Yeah,  /
+sd          A.115 utt2: {D now } I'm just about, {F oh, } a half hour, {F uh, } north of Salt Lake. /  
+
+b          B.116 utt1:   Oh. /  
+
+%          A.117 utt1:   {C So, } {F uh, } it's at -- -/  
+
+b          B.118 utt1:   Yeah. /  
+
+sd          A.119 utt1:   -- my husband works in Salt Lake,  /
+%          A.119 utt2: {C so } -- -/  
+
+b          B.120 utt1:   Uh-huh. /  
+
+sd          A.121 utt1:   -- we're real close  /
+%          A.121 utt2: {C and, } yeah,  /
+%          A.121 utt3: we, -/  
+
+sv          B.122 utt1:    {D Now } that's a pretty city. /  
+
+aa          A.123 utt1:   Yes,  /
+sd          A.123 utt2: [ we, + we  ] like it. /  
+
+sd          B.124 utt1:   Very clean.    
+
+b          A.125 utt1:   Yeah. /  
+
++          B.126 utt1:   {D You know. } /  
+
+sd          A.127 utt1:   It is. /  
+
+sd          B.128 utt1:   Utah is a pretty state from what I remember of it. /  
+
+sd          A.129 utt1:   {D Well, } we kind of like it <laughter>. /  
+
+b          B.130 utt1:   Uh-huh  /
+x          B.130 utt2: <laughter>.   
+
+qy          A.131 utt1:   {D Well, } do you like to camp, those kind of trips? /  
+
+%          B.132 utt1:   We, - /
+nn          B.132 utt2: no,  /
+sd^e          B.132 utt3: we used to <child>.  /
+sd          B.132 utt4:  We used to camp a lot with our - /
+sd@          B.132 utt5:  kids.   *[[This should be the end of a slash unit, should it be part of the one above?]]
+
+b          A.133 utt1:   Uh-huh. /  
+
++@          B.134 utt1:   [ {C And, } + {F uh, } {C but }  ] now <child> we like things like the Regency Hyatt <laughter>. /  
+
+qy          A.135 utt1:   {F Oh, } you like the motels? /  
+
+na          B.136 utt1:   We like the motels,  /
+ny          B.136 utt2: yes <laughter>. /  
+
+%          A.137 utt1:   {F Oh, } {F oh, } {D well. } /  
+
+sd          B.138 utt1:   [ We have, + we've  ] gone past the camping stage.  /
+sd          B.138 utt2:  We lived in <child> Chattanooga, Tennessee for two years. /  
+
+bh          A.139 utt1:   {F Oh, } did you? /  
+
+sd          B.140 utt1:   {C And } we did a lot of camping out there in the Smokeys  /
+sd          B.140 utt2: {C and } it was beautiful  /
+sd          B.140 utt3: {C and } our kids loved it and everything  /
+sd          B.140 utt4: {C and then } we moved to, {F uh, } <child> {F uh, } the Dallas area -- /  
+
+b          A.141 utt1:   Uh-huh. /  
+
+sd          B.142 utt1:   -- {C and, } {F uh, } it's hot down here  /
+sd          B.142 utt2: {C and } camping is not near as much fun. /  
+
+b          A.143 utt1:   Oh. /  
+
+sd          B.144 utt1:  [ [ {C And, } + {F uh, } {C so, } ] + {C and then } ] the kids were getting older [ and, + and  ]  were involved in activities so the camping sort of went by the wayside.    
+
+b          A.145 utt1:   Huh. /  
+
++          B.146 utt1:   {C And, } {F uh, } although our son loves to fish  /
+sd          B.146 utt2: [ {C and, } + {F uh, } {C and }  ] our daughter and her husband are talking now about starting camping with their boys now that they have gotten older. /  
+
+b          A.147 utt1:   Uh-huh. / 

@@ -1,0 +1,549 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2533_1083_1235
+TOPIC#:		365
+DATE:		910410
+TRANSCRIBER:	LAB
+UTT_CODER:	stm
+DIFFICULTY:	4
+TOPICALITY:	4
+NATURALNESS:	2
+ECHO_FROM_B:	4
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	4
+BACKGROUND_B:	3
+REMARKS:        Both speakers mumbled, spoke while they laughed, and speaker
+A spoke so fast that she had a tendency to run all of her words together and 
+you couldn't understand anything she was saying at the time.  Most of the 
+conversation was garbled.
+
+============================================================================
+  
+
+o          A.1 utt1:  Okay, {F um, }  /
+qw          A.1 utt2: what baseball team are you familiar with? /  
+
+sd          @B.2 utt1:  {D Well, } I'm only a little bit familiar  with the Red Sox because I lived up in Boston for a while, /  
+
+bh          A.3 utt1:  Really? /  
+
+%          B.4 utt1:  [ {C and, } + {F um, } {C and } ] that's, -/  
+
+o          A.5 utt1:  {F Oh, } {D now } come on,  /
+qy          A.5 utt2: no Texas Rangers? /  
+
+sd          B.6 utt1:  <Laughter> after that, if you asked me  that I wouldn't have been able to tell you if that was football or <laughter> baseball. /  
+
+bh          A.7 utt1:  Really?  /
+sv          A.7 utt2: I guess they paired two women  together on this call for a reason which is something we can think about later  /
+sd          A.7 utt3:  {C but, } {F um, } I understand a little bit about the Texas Rangers.  /
+sd          A.7 utt4: I know George Bush threw  out the first pitch hitter  ((   ))   (( bounced off the ground ))  /
+%          A.7 utt5:  {C and } that, {F um, } - /
+%          A.7 utt6: (( yeah )) ,  /
+sd          A.7 utt7: I heard a joke on the radio yesterday [ that, +  in regard that ]  he didn't design the patriot missile system, /  
+
+x          B.8 utt1:  <Laughter>.  
+
+sv          A.9 utt1:  {C and, } {F uh, } the  (( radio's ))  kind  of cruel,  /
+sv          A.9 utt2: {E I mean, } think, [ [ the, +  he, ] + (( this chain )) ]  that must have been on President Bush  to bounce the first pitch off the ground, - /
+sv          A.9 utt3: {E I mean, } [ goll-, +  how humiliating ] for a man to do that, any man.  /
+sv          A.9 utt4: I don't care if you're President. /  
+
+b          B.10 utt1:  Yeah,  /
+sv          B.10 utt2: {C but } at the same time,  I don't know, it's pretty far to throw that far <laughter>.  /
+sd          B.10 utt3:  I couldn't do it. /  
+
+aa          A.11 utt1:  I know  /
+sv          A.11 utt2: {C but } he's a man  /
+o          A.11 utt3: come on,  /
+qy^g          A.11 utt4:  men know how to do that, right? /  
+
+na          B.12 utt1:   (( Right,  /
+sv          B.12 utt2: he's ))  supposed to be able to do that. /  
+
+sd          A.13 utt1:  I know so,  /
+sd          A.13 utt2: I felt kind of sorry for him.  /
+sv          A.13 utt3:   ((   ))  that must have been hard on him because he's just a person  /
+%          A.13 utt4:  {C but, } {F um, } I never  ((   )) , - /
+%          A.13 utt5: a major owner [ of our t-, +  of the team ] here. -/  
+
+bh          B.14 utt1:  {F Oh, } really?  /
+sd          B.14 utt2:  I didn't know that. /  
+
+aa          A.15 utt1:  Yeah,  /
+sd          A.15 utt2: [ he's +  {D like, } I thought he was ]  the owner  /
+sd          A.15 utt3: {C but } it turns out my Mom said that he's part owner  /
+sd          A.15 utt4: {C but } he must own the  biggest chunk  /
+sd          A.15 utt5: {C because } that's all you hear about is, if, {D you know, } about Neal Bush I think is his name. /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  {D See, } I even know his name because  he's on the news a lot,  /
+sd          A.17 utt2: {C and } I never had to watch the news [ not, +  {D you know, } not ] like  some people  (( hour and a ))  half a day or anything. /  
+
+b          B.18 utt1:  Yeah,  /
+%          B.18 utt2: {C and } I've been watching, {F uh, } - /
+sd          B.18 utt3:  my husband's French  /
+sd          B.18 utt4: {C and so } if I've been watching the French news,    
+
+%          A.19 utt1:  Uh-huh. /  
+
++          B.20 utt1:  when I watch it. - /
+sv          B.20 utt2: (( It's incentive )) ,  /
+sd          B.20 utt3:  [ speaking of Bush, +  {A we're going to get a little off topic  but } speaking of Bush, ]   [ they +  that ] had a story where he went to visit some little, {F uh, } elementary  school students, and stuff. /  
+
+sd          A.21 utt1:  {F Oh, } I saw that. /  
+
+qy          B.22 utt1:  Did you see that, where [ he, +  the guy ] asked him for proof of who he was, /  
+
+ny          A.23 utt1:  Yeah. /  
+
+%          B.24 utt1:   (( he said his ))   ((   )) . -/  
+
+^q          A.25 utt1:  I want to see your driver's lic-, - /
+%          A.25 utt2: [ [ I, +  I, ] +     
+
+aa          B.26 utt1:  I know  /
+^q          B.26 utt2: {C and }  (( see a ))  credit card <laughter>. /  
+
++          A.27 utt1:  I ] don't, - /
+^q          A.27 utt2: you're not President Bush.  /
+%          A.27 utt3:   I know  /
+%          A.27 utt4: {C and } he said - /
+%          A.27 utt5: (( yeah,  /
+sv          A.27 utt6: it does so fast )) ,  /
+sd          A.27 utt7: I heard it on the radio.  /
+sd          A.27 utt8:  I heard the audio portion on the radio in the car  /
+sd          A.27 utt9: {C but } I didn't see it  /
+%          A.27 utt10: {C but, } -/  
+
+sd          B.28 utt1:  It was so funny to see,  /
+sd          B.28 utt2:  it was a really cute little kid too. /  
+
+sd          A.29 utt1:  That's [ about my extent of, +  {F um, }  about baseball, ]  /
+sd          A.29 utt2: I don't know,   
+
+sd          B.30 utt1:  {D Well, } I can tell you,   
+
++          A.31 utt1:  that much about it. /  
+
++          B.32 utt1:  that the Mets opened, I think, two days ago, /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  {C because } my brother was supposed  to go to the opening game,  /
+sd          B.34 utt2: {C and } I couldn't tell you who pitched, /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sd          B.36 utt1:  {C but } they won,  /
+sd          B.36 utt2: the Mets won. /  
+
+qy          A.37 utt1:  Did they? /  
+
+ny          B.38 utt1:  {C But, } yeah,  /
+sd^e          B.38 utt2: not my a lot,  /  *[[sp? by]]
+sd          B.38 utt3:   {C and then } somebody else lost,  /
+sd          B.38 utt4: maybe it was the other New York team which is the Yankees, /  
+
+b          A.39 utt1:  Uh-huh. /  
+
+sd          B.40 utt1:  {C but } I don't even know if they're still New York Yankees,    
+
+sv          A.41 utt1:  That's so stupid that you all have two teams. /  
+
++          B.42 utt1:  or ((   ))  New Jersey.  /
+aa          B.42 utt2: Yeah. /  
+
+sv          A.43 utt1:  That's really stupid. /  
+
+nd          B.44 utt1:  {D Well, } {C but }  it, - /
+sv          B.44 utt2: [ the-, +  then ]  they can have them play against each other. /  
+
+aa          A.45 utt1:  Yeah,  /
+aa          A.45 utt2: I know. /  
+
+sd          B.46 utt1:  I think it's still the New York Yankees, {D you know, } /  
+
+b          A.47 utt1:  Yeah. /  
+
+sd          B.48 utt1:   ((   ))  I thought they were moving  to New Jersey <laughter>.  /
+sd          B.48 utt2: This is how much I know about baseball. /  
+
+sd          A.49 utt1:  The Texas Rangers, [ they, +  they ] lost, I think. /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+%          A.51 utt1:  {C But } I know that last year - /
+sd          A.51 utt2: we  did go to a baseball game last year.   /
+sd          A.51 utt3:  We got free tickets because [ someone at our church, +   one of the deacons at church, ] {F um, } parks cars at The Mansion at Turtle Creek  which is {D like } one of [ the, +  {F uh, } the ] places and stuff. /  
+
+b          B.52 utt1:  Uh-huh. /  
+
+sd          A.53 utt1:  {C And } he's their head chauffeur,  /
+sd          A.53 utt2:  is this funny, as they're parking the cars the valet service. /  
+
+b          B.54 utt1:   (( Right )) . /  
+
+b          A.55 utt1:  Yeah,  /
+sd          A.55 utt2: he makes good money too doing  that,  /
+sd          A.55 utt3: [ you'd be sh-, +  I was shocked, ]  /
+sd          A.55 utt4: {C but } anyway, someone gave an Iranian a tip of  four Rangers tickets last year, /  
+
+b          B.56 utt1:  Uh-huh. /  
+
+%          A.57 utt1:  {C and then } the Iranian couldn't, - /
+sd          A.57 utt2:  he didn't want them,  /
+sd          A.57 utt3: {C so } he gave them to Alan,  /
+sd          A.57 utt4: {C and } Alan and his  (( Dad ))  had  plans that night  /
+sd          A.57 utt5: {C so } they gave them to us,  /
+sd          A.57 utt6: {D so } he decided that some wealthy man tipped this Iranian,   
+
+^2          B.58 utt1:  With baseball tickets. /  
+
++          A.59 utt1:   ((   ))  with baseball tickets,  /
+sd          A.59 utt2:  {C and } we ended up with them, right.  /
+sd          A.59 utt3:  {C And so } we were,   
+
+b          B.60 utt1:   (( Yeah ))   ((   )) . /  
+
++          A.61 utt1:  walking up  /
+sd          A.61 utt2: {C and } I looked at my husband  /
+sd(^q)          A.61 utt3:  {C and } I said, {D you know } what  {A (( Kyle )) this is The Mansion at Turtle Creek }  (( a tip ))  /
+^q          A.61 utt4:  I bet these are really good seats  /
+sd          A.61 utt5: {C and so } we ended up on first base  right down there on the floor, /  
+
+ba          B.62 utt1:  Wow. /  
+
+aa          A.63 utt1:  {F oh, } yeah,  /
+sd          A.63 utt2: [ we +  ((   ))  they ]  called us at five  /
+sd          A.63 utt3: {C and } the game started at seven  /
+sd          A.63 utt4: {C so } we just threw everything together, ran over  and got the tickets and walked  /
+sd          A.63 utt5: {C (( and ))  so } we took two kids with us  /
+sd          A.63 utt6:  {C and } nobody brings two children in these seats, {D you know } because, -/  
+
+^2          B.64 utt1:  Because they're fancy seats and stuff. /  
+
+aa          A.65 utt1:  yeah,  /
+sd          A.65 utt2: {C and } you just sit down  /
+sd          A.65 utt3:  {C and } all the girls were all dressed up  ((   )) {D you know, }  /
+sd          A.65 utt4: I just was there, {D you know, }  /
+sd          A.65 utt5: like I'm loaded,  /
+sd          A.65 utt6: I'm here, {D you know, }  /
+sd          A.65 utt7: {C and, } {F uh, } it was just kind of funny  /
+sd          A.65 utt8:  [ {C because, } + {D you know, } {C but } ] we got to sit by first base  /
+sd          A.65 utt9: if  (( they did hit a ))  ball  I would have been afraid it would have knocked my face in, {D you know. } /  
+
+sd          B.66 utt1:  I know I'm always scared of that whenever  I go to a game.  /
+sd          B.66 utt2:  I rarely go  /
+sd          B.66 utt3: {C but } we went last year  /
+sd          B.66 utt4: {C because } [  my brother, +  my brother ] is impossible,   
+
+b          A.67 utt1:  Uh-huh. /  
+
++          B.68 utt1:  when, {F um, } he does football leagues  and baseball leagues and all kinds of stuff, /  
+
+b          A.69 utt1:  Uh-huh. /  
+
+sd          B.70 utt1:  {C and } if there's a game on,  he's watching it.  /
+sd          B.70 utt2:  {E I mean, } that's all there is to it, /  
+
+bh          A.71 utt1:  Really? /  
+
+sd          B.72 utt1:  {C and } he's {D like } glued at the T V. /  
+
+sd          A.73 utt1:  I'm glad my husband's not like that. /  
+
+sd          B.74 utt1:  {F Oh, } I'm glad my husband's not  like that either,  /
+sd          B.74 utt2: I'd kill him <laughter>.  /
+sd          B.74 utt3: My brother's like that  /
+sd          B.74 utt4: {C and, } {F um, }  {D see } he goes to a lot of games,  /
+sd          B.74 utt5: not a real lot,  /
+sd          B.74 utt6:  {C but } he tries to go,  /
+sd          B.74 utt7: then my father got us some tickets, /  
+
+b          A.75 utt1:  Uh-huh. /  
+
+sd          B.76 utt1:  {C so } my brother's wife and my husband  and I went.  /
+sd          B.76 utt2:  Last year we wanted to show my husband what a baseball game was because,   
+
+b          A.77 utt1:  Uh-huh. /  
+
++          B.78 utt1:  {D you know, } being a non-American you  want to see what a baseball game is like.  /
+sd          B.78 utt2: {C And } he describes it as,  you sit there in a crowd,  /
+sd          B.78 utt3: it was nice weather and stuff,  /
+sd          B.78 utt4: it wasn't a real problem,  /
+sd          B.78 utt5: {C but }  you sit there in a crowd,  /
+sd          B.78 utt6: {C and } you're waiting and waiting and waiting  /
+sd          B.78 utt7: {C and }  you eat [ these lousy +  the ] hot dogs <laughter>, {F um, }  /
+sd          B.78 utt8:  {C because } we made him try a hot dog, {D you know }  ((   )) , /  
+
+ba          A.79 utt1:  That's funny. /  
+
+sd          B.80 utt1:  [ {C and, } +  {F um, } {C so } ] you sit there  /
+sd          B.80 utt2: {C and } you wait for the longest time really bored,  /
+sd          B.80 utt3: {C and then } all of a sudden something happens  /
+sd          B.80 utt4:  {C but } you happen to look the other way during the time, /  
+
+^2          A.81 utt1:  You miss the whole thing. /  
+
+aa          B.82 utt1:  yeah,  /
+sd          B.82 utt2: {C and so } [ you're +  basically you  ((   ))   sit ] there and wait for something exciting to happen  /
+sd          B.82 utt3: {C and } when it happened he missed it,    
+
+ba          A.83 utt1:  That's funny. /  
+
++          B.84 utt1:  and didn't understand it  /
+%@          B.84 utt2: {C and } it,   *[[slash error]]
+
+qw          A.85 utt1:  Where is he from in France? /  
+
++          B.86 utt1:  {F Um, } [ he grew up out, +  {D well, }  he grew up in ] ((   )) ,   
+
+b          A.87 utt1:  Uh-huh. /  
+
++          B.88 utt1:  which is the, sort of  (( O strip ))    east to west, eastern part,  /
+%          B.88 utt2: (( {C but } that )) , -/  
+
+b          A.89 utt1:  Yeah.  /
+sd          A.89 utt2:  [ I have a, +  I had a ]  friend in college from Strasbourg, /  
+
+b         B.90 utt1:  Yeah,  /
+sd          B.90 utt2: he's not that far,  /
+sd          B.90 utt3:  he was sort of in between Strasbourg,    
+
+b          A.91 utt1:  Uh-huh. /  
+
++          B.92 utt1:  and Paris. /  
+
+b^m          A.93 utt1:  Paris.  /
+sd          A.93 utt2: {C And } my cousin lives in Paris  /
+sd          A.93 utt3:  {C and } she's lived there [ for +  {D like, } {F oh, } off and on for ] twenty years. /  
+
+qy          B.94 utt1:  {F Oh, } is she still there? /  
+
+ny          A.95 utt1:  Uh-huh. /  
+
+%          B.96 utt1:  {C Because, } -/  
+
+qy          A.97 utt1:   (( Saint Claude ))  is that sound familiar? /  
+
+ny          B.98 utt1:  Yeah,  /
+sd^m          B.98 utt2: Saint Claude, /  
+
+aa          A.99 utt1:  Yeah. /  
+
+b          B.100 utt1:  yeah,  /
+%          B.100 utt2: we used to, - /
+sd          B.100 utt3:  that's one of the, {F um, } entrances to the  (( periphery )) to get in and out of the city. /  
+
+bh          A.101 utt1:  {F Oh, } really? /  
+
+sd          B.102 utt1:  {C And } [ [ [ it, +  it, ] +  it, ] +  it ]  sits right at the limit, /  
+
+b          A.103 utt1:  Uh-huh. /  
+
+sd          B.104 utt1:  I  ((   ))  exactly where she is.  /
+sd          B.104 utt2:   {C But, } {F um, } we met in Paris. /  
+
+ba          A.105 utt1:  That's neat.  /
+%          A.105 utt2: Yeah,  /
+sd          A.105 utt3: she  (( married ))  /
+sd          A.105 utt4:  {C and } they have twelve children. /  
+
+qy^m          B.106 utt1:  Twelve children? /  
+
+na^m          A.107 utt1:  She has twelve children. /  
+
+ba          B.108 utt1:  {F Oh, } my God, the poor woman. /  
+
+sd          A.109 utt1:  She looks gorgeous,  /
+ar          A.109 utt2: no  /
+sd          A.109 utt3: she's gorgeous  /
+sd          A.109 utt4:  {C and } she just liked having kids  /
+sd          A.109 utt5: {C and } she's thin  /
+sd          A.109 utt6: {C and, } {E I mean, }    
+
+qy          B.110 utt1:  Were any of them twins? /  
+
++          A.111 utt1:   ((   ))  four or more children are thin,  /
+o          A.111 utt2:  {E I mean, } I'm not kidding you. /  
+
+sv          B.112 utt1:  You probably can't afford to eat  if you have more than  (( two of them )) <laughter>. /  
+
+aa          A.113 utt1:  No,  /
+%          A.113 utt2: your, - /
+sd          A.113 utt3: I have a friend now that has seven.  /
+sd          A.113 utt4:   [ {C And, } + {F um, } {C and } ] they're all eight and under,   
+
+b          B.114 utt1:  Uh-huh. /  
+
++          A.115 utt1:  and nine and under,  /
+sd          A.115 utt2: they're all real young,  /
+sd          A.115 utt3:  they're just raised  (( right ))  /
+sd          A.115 utt4: that's what God's told them to do  /
+sd          A.115 utt5:  {C but } they're not condemning you,  /
+%          A.115 utt6: if you, - /
+sd          A.115 utt7: we only have one child, {D you know, }  /
+sd          A.115 utt8:  [ they don't say, + they don't put ]  ((   ))  on bad or  anything which is good because it would be easy,  I'm sure, for them to do that,  /
+sd          A.115 utt9: you get a  (( conviction ))  like that  /
+sd          A.115 utt10:  {C and } you think everyone should have it.   /
+sd          A.115 utt11: {C And so } I'm real proud of them because  [ they're aren't really, +  they don't ] do that at all. /  
+
+b          B.116 utt1:  Uh-huh. /  
+
+sd          A.117 utt1:  You go in their bathroom  /
+sd          A.117 utt2:  {C and } there's ten tooth brushes in there.  /
+sd          A.117 utt3:  {C And } I always give her a hard time  ((   ))   who's toothbrush did you really use this morning <laughter>. /  
+
+qw          B.118 utt1:  {C But } how do they afford to even  have the kids, {F uh, }  /
+sd          B.118 utt2: we're expecting our first baby,   
+
+ b         A.119 utt1:  Uh-huh. /  
+
++          B.120 utt1:  almost any day  /
+%@          B.120 utt2: {C and, }   *[[slash error]]
+
+sd          A.121 utt1:  They live  (( lean ))  for one thing  /
+sd          A.121 utt2:  {C and } they tithe  /
+%          A.121 utt3: {C and } they  ((   )) - /
+sd*          A.121 utt4: it puts ((   ))  a whole in your money bag,  /  *[[spelling: hole]]
+sd          A.121 utt5:  we don't honor God with this  ((   ))  portion  /
+%          A.121 utt6: {C and  so } they, - /
+sv          A.121 utt7: I think that helps a lot.  /
+sv          A.121 utt8:   I think that's the key, in [ he, +  {D like } his ] (( sales ))  last year - /
+sd          A.121 utt9: he just works a normal job.  /
+sd          A.121 utt10:   He probably has an income of thirty-five thousand,  /
+sd          A.121 utt11: {C but } last year he made   ((   )) - /
+sd          A.121 utt12: that got him a bonus of twenty-five thousand which allowed him to pay  cash for a full size van. /  
+
++          B.122 utt1:  Uh-huh. /  
+
+sd          A.123 utt1:   (( He loves ))  God,  /  
+sd          A.123 utt2: {E I mean, }   it was the biggest thing that any one in this company had ever done, /  
+
+ba          B.124 utt1:  Wow. /  
+
+sd          A.125 utt1:  {C and } he got to do it  /
+sd          A.125 utt2: {C and so }  God just really blesses him in ways like that,  /
+ad          A.125 utt3: do trust God because, I don't know, kids are a  blessing  /
+sv          A.125 utt4: [ {C and, } +  {C and } ] [ some people +  ((   ))  {D you know, } we ] think of blessings  as nice furniture and things like that,  /
+sv          A.125 utt5: {C but } kids are just as much of a blessing   (( inside these ))  material things  /
+sv          A.125 utt6: {C but } it's a different kind  /
+sv(^q)          A.125 utt7: {C and } a lot times people  think, {F oh, } {D well, } I'm not blessed  /
+^q          A.125 utt8:  I have an old car.  /
+^q          A.125 utt9: {C But } you've got five kids, {D you know, } /  
+
+b          B.126 utt1:  Uh-huh. /  
+
+^q          A.127 utt1:  you're just as blessed, probably more,  because if you follow this, - /
+sd          A.127 utt2:  there's a good book called WHAT THE  BIBLE HAS TO SAY ABOUT CHILD TRAINING,   
+
+b          B.128 utt1:  Uh-huh. /  
+
++          A.129 utt1:  by  (( Richard Fugate ))  /
+%          A.129 utt2:  {C and } he's, {D you know, } - /
+sd          A.129 utt3: a lot of wisdom in it.  /
+sd          A.129 utt4:  {C And } the kids at  (( BIBLE ))  talk about anything  /
+sv          A.129 utt5: [ {C but }  training, +   {C and } training ] is different than anything else  /
+sv          A.129 utt6: [ in, +  in ] psychology  doesn't address it.  /
+sv          A.129 utt7:  [ A lot of the psychology stuff, +  the good stuff that's  in psychology ] it just comes out of the BIBLE  /
+sd          A.129 utt8: {C and } they don't quote you the  proverb out of it,  /
+sv          A.129 utt9: {C but } the things that work in psychology other   the years that they've proven  to work, they just come out of the BIBLE  /
+sv          A.129 utt10: {C and } so this book it just really   ((   ))  all these things and how to train the child  /
+sd          A.129 utt11: {C so } they're not going  to be a curse to you when they're thirteen. /  
+
+b          B.130 utt1:  Uh-huh. /  
+
+sd          A.131 utt1:   [ (( What )) +  {E I mean } how ]  to train them so they're going to be a  blessing  /
+sd          A.131 utt2: {C and so, }  {D you know, } they do that  /
+sd          A.131 utt3: {C and } [ they, +  they ]  just live lean pretty much  /
+sd          A.131 utt4: [ they don't, + she doesn't ] shop at Foley's {D you know, }  and stuff like that.  /
+sv          A.131 utt5: {C But } a lot women (( die or shop ))  at Foley's  /
+%          A.131 utt6: {C so } (( things )) , -/  
+
+sd          B.132 utt1:  [ I, +  I ] don't know what Foley's is <laughter>. /  
+
+sd          A.133 utt1:  It's like a Macy's,   
+
+b          B.134 utt1:  Uh-huh. /  
+
++          A.135 utt1:  kind of store,  /
+sd          A.135 utt2: it's pretty nice  /
+sd          A.135 utt3:  {C and } everything's pretty expensive  /
+sd          A.135 utt4: {C and, } {D you know, } you just can't do that  /
+sd          A.135 utt5:  {C and } you don't go to baseball games as much  /
+sd          A.135 utt6: {C or } you get pictures like we did.  /
+qy          A.135 utt7: {D You know } what I mean? /  
+
+ny          B.136 utt1:  Yeah. /  
+
+sv          A.137 utt1:  You do these fun things, {D you know, }  in other kinds of ways  /
+sd          A.137 utt2: {C and } I know Manhattan's real expensive  /
+qy^g          A.137 utt3:  {C but, } {F um, } it's kind of a different situation because you're probably living in an apartment, right? /  
+
+ny          B.138 utt1:  Yeah,  /
+sv^e          B.138 utt2: {D well, } that makes a really big  difference.  /
+sv          B.138 utt3: [ {C But, } +    
+
+b          A.139 utt1:  Yeah. /  
+
++          B.140 utt1:  {C but, } ] still it's just as hard  as having, that,  /
+sd          B.140 utt2: {C but }  ((   ))  your cousin could have a baseball team with twelve kids <laughter>. /  
+
+%          A.141 utt1:  <Laughter> {D Well, }  ((   ))  church  ((   ))  softball leagues, - /
+%          A.141 utt2: {C so, } -/  
+
+b          B.142 utt1:  Uh-huh. /  
+
+sd          A.143 utt1:  they're not all boys  /
+sd          A.143 utt2:  {C and } right now we don't have a girls'   league because I'm the one that's supposed to start one  /
+sd          A.143 utt3:  {C and } I just haven't gotten around to doing it.  /
+sd          A.143 utt4: I keep saying we need to have one.  /
+sd(^q)          A.143 utt5:  They go, okay, then start one.  /
+sd          A.143 utt6: (( {C But } ))  everybody  ((   ))  wants to do it  /
+sd          A.143 utt7:  {C but, } {D you know, } God's sitting on my heart  /
+sd          A.143 utt8: {C and } I just hadn't gotten around to doing it,  /
+sd          A.143 utt9:  [ {C but } anyway, +  {C so } ] they could really only have four members on the team.  /
+sd          A.143 utt10:  I think they only have four (( boys )) .  /
+sd          A.143 utt11: I don't even think they have    but two old enough to play yet. /  
+
+b          B.144 utt1:  Uh-huh. /  
+
+sv*          A.145 utt1:  {C But, {F um, }  (( then )) }   you didn't believe me about her kids  /  *[[listen: this and utt2 as one utt]]
+sd          A.145 utt2:  [ (( are the )) + they are ] so good.  /
+sd          A.145 utt3: I'm not kidding you  /
+sd          A.145 utt4:  {C but } she does work with them  /
+sd          A.145 utt5: {C and } it's a commitment  /
+sd          A.145 utt6: {C and, } [ that, +  that's ]  what they're called to do. /  
+
+b          B.146 utt1:  Uh-huh. /  
+
+%          A.147 utt1:  I have a, - /
+%          A.147 utt2: most of my friends, -/  
+
+sd          B.148 utt1:  I admire someone that can do that, {D you know, }  /
+sd          B.148 utt2:  I really can. /  
+
+aa          A.149 utt1:  I know,  /
+aa          A.149 utt2: I do too,  /
+sd          A.149 utt3: [ I, +  most of my ]  friends have three or four kids  /
+sd          A.149 utt4: {C and } they feel like, {D you know, } that's  (( really ))   why God  ((   )) - /
+sd          A.149 utt5: {C and } some of the people in our church use birth control  /
+sd          A.149 utt6:  {C and } some of them don't,  /
+sd          A.149 utt7: I had my tubes tied  /
+%          A.149 utt8: {C so } you, -/ 

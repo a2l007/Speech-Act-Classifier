@@ -1,0 +1,301 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3188_1259_1334
+TOPIC#:		350
+DATE:		911001
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+=======================================================================
+  
+
+qy          A.1 utt1:  {D So } have you done any painting projects lately? /  
+
+ny          B.2 utt1:  Yeah,  /
+sd^e          B.2 utt2: this is a great topic for me,    
+
+x          A.3 utt1:  <Laughter>.   
+
++          @B.4 utt1:  because I just did my first two painting projects ever. /  
+
+bh          A.5 utt1:  {F Oh, } really? /  
+
+sd          B.6 utt1:  Was [ not, +  not ] a big deal -- /  
+
+qw          A.7 utt1:  What kind of --   
+
+sd          B.8 utt1:  -- two little deals, -/  
+
++          A.9 utt1:  -- painting was it? /  
+
+sd          B.10 utt1:  The first one, {F um, } - /
+sd          B.10 utt2: I helped someone  repaint an apartment,  /
+sd          B.10 utt3: {C and } it was very easy. /  
+
+b          A.11 utt1:  Uh-huh,  /
+bh          A.11 utt2: [ it, +  was it? ] /  
+
+ny          B.12 utt1:  Yeah,  /
+sd^e          B.12 utt2: {C and } I've never painted anyth-,  /
+sd          B.12 utt3:  I always thought it would be, - /
+sd          B.12 utt4: {C so, } {D you know, }  you'd have to hire someone if you needed to paint inside your house or something -- /  
+
+b          A.13 utt1:  Yeah, /  
+
+sd          B.14 utt1:  -- {C but } I know I can do it. /  
+
+b          A.15 utt1:  {F Oh, } uh-huh. /  
+
+sd          B.16 utt1:  {C And } the second one was I bought  some toys [ at a, +  {F um, } at a ] craft fair. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  They're unfinished wooden book ends and stuff for a little girl for Christmas,  /
+sd          B.18 utt2: {C and so } I decided to paint them,  /
+sd          B.18 utt3: {C and } that wasn't as easy as painting the apartment <laughter>. /  
+
+qw          A.19 utt1:  <Laughter> {F Oh, } {D well, } what kind of paint did you use for the, {F um, } bookends? /  
+
+sd          B.20 utt1:  {D Well, } [ [ it's, +  {F uh, } it, ] +   that's ] half the problem right there is that [ it wasn't, +  it was ] a oil base,  /
+sd          B.20 utt2:  {C so } I had to get, - /
+sd          B.20 utt3: {C and } when I painted them, I didn't realize that we didn't have any turpentine or paint thinner or anything in the house.  /
+sd          B.20 utt4: {C So } I [ had it, +  had it ] all over my hands.  /
+sd          B.20 utt5:  At first I didn't realize, {D you know, } - /
+sd          B.20 utt6: I had never painted anything,  /
+sd          B.20 utt7: {C so } I didn't realize --   
+
+b          A.21 utt1:  Uh-huh. /  
+
++          B.22 utt1:  -- that I needed that.  /
+sd          B.22 utt2:  {E I mean, } I kind of knew, in the back of my mind, /  
+
+qy^d          A.23 utt1:  {D So } you can't use oil on wood? /  
+
+nn          B.24 utt1:  {D Well, } no,  /
+sd^e          B.24 utt2: you can use it on wood,  /
+sd^r          B.24 utt3:  {C but } I just had it all over my hands,  /
+sd          B.24 utt4: {C and } I went to wash the brushes out,   and, {F uh, } wash my hands,  /
+sd          B.24 utt5: {C and } you can't wash it off with water.  /
+sd          B.24 utt6: You have to get [ the, + {F uh, } a ] solution  /
+%          B.24 utt7: {C and, } -/  
+
+bf          A.25 utt1:  {F Oh, } <laughter> {D so } you had to go around with paint all over you,   
+
+aa          B.26 utt1:  Yeah,  /
+sd          B.26 utt2: I had to drive to the store -- /  
+
++          A.27 utt1:  # temporarily, anyway. # /  
+
+aa          B.28 utt1:  -- # yeah,  /
+sd          B.28 utt2: I had to drive # to the store with paper towels all over my hands to go buy --   
+
+b          A.29 utt1:  {F Oh, } <laughter>. /  
+
++          B.30 utt1:  -- some paint thinner,  [ and ((   )) +    and ] everything like that,  /
+sd          B.30 utt2: {C and then, } {F um, } downstairs in the apartment,  [ I just us-, +  we just used ] a latex base, /
+sd          B.30 utt3: {C and so } you can drip it on, {D you know }  /
+sd          B.30 utt4: if you dripped it on something, as long as you wiped it up, it was real easy to clean. /  
+
+qy          A.31 utt1:  {F Oh, } [ is, +  is ]  that what you usually use in the house, is latex? /  
+
+ny          B.32 utt1:  Yeah,  /
+sd^e          B.32 utt2: [ {C and, } +   {C and } -- ]   
+
+%          A.33 utt1:  {F Um. } /  
+
++          B.34 utt1:  -- [ it, +  it ] just  like - /
+sd          B.34 utt2: the same with the toys, - /
+sv          B.34 utt3: it's just important to look for one that doesn't have lead in it, {D you know, }  /
+sd(^q)       B.34 utt4: it says Safe for Children, and all that. /  
+
+b          A.35 utt1:  <Inhaling>  Uh-huh,  /
+b          A.35 utt2: yeah,  /
+sd          A.35 utt3: I heard about that.  /
+sd          A.35 utt4: I guess a friend of mine had a, {F uh, } {D well, } - /
+sd          A.35 utt5: [ she, +   she ] just started up a day care center,  /
+sd          A.35 utt6: {C and } {F uh, } [ the, +   one of the ] real strict, {F uh, } restrictions, was the fact that she had to have a special kind of paint that was fire proof and lead free and all that other good stuff -- /  
+
+b          B.36 utt1:  Yeah. /  
+
+sd          A.37 utt1:  -- {C so, }  {F uh, } she had that done.  /
+%          A.37 utt2:  {C But, }  {F uh, } -/  
+
+qy          B.38 utt1:  Have you painted anything recently. /  
+
+na@          A.39 utt1:  {D Well, } {F um, } so to speak,  I had to paint [ this, +  {F uh, } the ] inside of this warehouse thing --   *[[ I would have put a slash after the answer "so to speak" ]]
+
+qy          B.40 utt1:  Wow, was it huge? /  
+
++          A.41 utt1:  -- that you keep some, {F um, } farm equipment in -- /  
+
+ny          B.42 utt1:  Uh-huh. /  
+
+sd          A.43 utt1:  -- {C and, }  {F um, } what I had to do  is just coat this bare wood with a sealer,  /
+sd          A.43 utt2: {C and, }  {F uh, } I had this big  five gallon jug,  /
+sd          A.43 utt3: {C and } it was like paint thinner.  /
+sd          A.43 utt4: {E I mean } [ I, +  {D you know, } it ]  looked just like, it was the viscosity of paint thinner -- /  
+
+b          B.44 utt1:  Yeah. /  
+
+sd          A.45 utt1:  -- {C but, }  {F uh, } you just took a  roller and put it on there,  /
+sd          A.45 utt2: {C and, } {F uh, } if you saw that the wood was getting wet,  {D you know, } [ that was, +  that was ] all you needed.  /
+%          A.45 utt3:  {C So. } -/  
+
+ba          B.46 utt1:  Wow. /  
+
+b          A.47 utt1:  Yeah,  /
+sd          A.47 utt2: it  was, - /
+sd          A.47 utt3: it used all of it.  /
+sd          A.47 utt4:   I guess it was about three hundred yards worth.  /
+sd          A.47 utt5: {C So. }    {D Well, } I guess it worked out.  /
+sd          A.47 utt6:  It was pretty easy, actually. /  
+
+b          B.48 utt1:  Yeah,  /
+sd          B.48 utt2: I think though, {F um, } we're lucky that we didn't have to do any detail work, because I don't know if I could, {D you know, }  /
+h          B.48 utt3: I don't know, /  
+
+x          A.49 utt1:  <Laughter>.   
+
+h          B.50 utt1:  I don't know,  /
+sv          B.50 utt2: must be difficult, /  
+
+qo          A.51 utt1:  {D Well } what about the trim in your house?  /
+qy          A.51 utt2:   Did you have to do that? /  
+
+nn          B.52 utt1:  No,  /
+sd^e          B.52 utt2: [ it was j-, +  it was really ] easy,  /
+sd          B.52 utt3:  I just, {D like, } what, - /
+sd          B.52 utt4: we had a couple of different size brushes --   
+
+b          A.53 utt1:  Uh-huh. /  
+
++          B.54 utt1:  -- {D you know, } real easy, - /
+sd          B.54 utt2:  I went around the trim,  /
+%          B.54 utt3: {C and } if it, - /
+sd          B.54 utt4:  {C and } there was wall paper,  /
+sd          B.54 utt5: {D like } I was  [ do, +  just doing ] just the trim [ outs that, + ] around the doors and windows  /
+sd^r          B.54 utt6: {C and } there was wall paper  /
+sd          B.54 utt7: {C and } --   
+
+b          A.55 utt1:  Uh-huh. /  
+
++          B.56 utt1:  -- <Throat_clearing> if we got it on the wall paper a little bit, we just wipe it right away before it dried,  /
+sd          B.56 utt2: it came right off -- /  
+
+b          A.57 utt1:  {F Oh, } yeah, /  
+
+sd          B.58 utt1:  -- {C so } there was no major mistakes,  /
+%          B.58 utt2: there was, -/  
+
+qr          A.59 utt1:  Did you have, {F uh, } one coat or two? /  
+
+sd          B.60 utt1:  {F Uh, } two, actually -- /  
+
+b          A.61 utt1:  Uh-huh. /  
+
+%          B.62 utt1:  -- {F um, } {C and } it, - /
+%          B.62 utt2: there was, {F um, } - /
+sd          B.62 utt3:  {D you know, } around the windows, if you got it on the glass, we let it dry and scraped it after that  /
+%          B.62 utt4: {C but } that, -/  
+
+x          A.63 utt1:   /
+b          A.63 utt2:  Yeah,  /
+sv          A.63 utt3: that would be really  [ time, +  {F uh, } a time ] saver. /  
+
+aa          B.64 utt1:  {D Well, } yeah,  /
+sd          B.64 utt2: if you just,   {D you know } - /
+sd          B.64 utt3: we didn't tape anything, /  
+
+x          A.65 utt1:  <Laughter>.   
+
+sd          B.66 utt1:  we weren't that careful,  /
+sd          B.66 utt2:  {C but } it wasn't, {D you know, } - /
+h          B.66 utt3: I don't know, [ it's, +  it's ]  funny,  /
+sd          B.66 utt4: it's like, if you just go slow, [ you don't get, + {E or } at least I didn't get ] that many mistakes -- /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sd          B.68 utt1:  -- I didn't make that many mistakes, /  
+
+sd          A.69 utt1:  {F Oh, } me, I would have had to  have taped the whole thing,  and  then brushed around the edges, /
+sd          A.69 utt2: [ {C and, } +    {C and then } ] I'd have probably rolled it on.  /
+sd          A.69 utt3: [ I'd, +  it would ] have taken me forever. /  
+
+qw          B.70 utt1:  Why?  /
+qrr          B.70 utt2: Just because you'd be afraid to do it,  or have you done it before. /  
+
+b          A.71 utt1:  Yeah,  /
+sd          A.71 utt2: {D well, } the first time it'd probably would have taken me forever,  /
+%          A.71 utt3: {C  so } <laughter>. -/  
+
+sd          B.72 utt1:  <Laughter> {D Well, } it wasn't, - /
+sd          B.72 utt2: if it was my own I would have,  /
+sd(^q)       B.72 utt3: {C but } my friend said, {F oh } just go ahead, you just go ahead,   
+
+x          A.73 utt1:  <Laughter>.   
+
++          B.74 utt1:  it's easy.  /
+sd(^q)       B.74 utt2: I said, Okay, it's your place, /  
+
+qw          A.75 utt1:  {D Well, } how long did it take you all? /  
+
+sd          B.76 utt1:  {D Well, } a couple of week ends  /
+sd          B.76 utt2: we would go down --   
+
+b          A.77 utt1:  Uh-huh. /  
+
++          B.78 utt1:  -- two or three hours on the weekends,  /
+%          B.78 utt2: {C and, } -/  
+
+qy^d          A.79 utt1:  {C So } there was two of you all? /  
+
+nn          B.80 utt1:  No,  /
+sd^e          B.80 utt2: [ there was, +  they were ]  doing all sorts of repairs,  /
+sd          B.80 utt3: {C and } [ there was, +  I was ] just painting because I don't know how to do anything else <laughter>. /  
+
+sv          A.81 utt1:  <Laughter> {D Well, } that's easy enough. /  
+
+sd          B.82 utt1:  {C So, }  there's a whole bunch of people. /  
+
+%          A.83 utt1:  {F Um. } /  
+
+sd          B.84 utt1:  {C So } now I feel like if I ever buy a house, I can probably paint, if nothing else. /  
+
+sd          A.85 utt1:  I think I could probably do it --   
+
+b          B.86 utt1:  Yeah. /  
+
++          A.87 utt1:  -- {F uh, } as long as the hardware store told me what to buy, then I could do it. /  
+
+sd          B.88 utt1:  {C But } {D you know, } I went in to a  hardware store to get paint for those toys,  /
+sd(^q)       B.88 utt2: {C and } the guy said, {F Oh, } get this,  it's a nice shiny gloss, which was true, /  
+
+x          A.89 utt1:  <Laughter>.   
+
+sd          B.90 utt1:  {C but } I didn't realize what, {D you know, } pain it is to clean the brushes and everything, if you don't have latex  /
+sd          B.90 utt2: I don't if - /
+sd          B.90 utt3:  it's worth the shine, /  
+
+b          A.91 utt1:  Uh-huh. / 

@@ -1,0 +1,237 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4905_1423_1703
+TOPIC#:		345
+DATE:		920504
+TRANSCRIBER:	nk
+UTT_CODER:	lsh
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	3
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:        Conversation was hard to understand because of background
+noises and/or static.
+
+===========================================================================
+  
+
+o          A.1 utt1:  Okay <children_yelling>.  /
+sd          A.1 utt2:  {F Uh, } I just currently  quit my job  /
+sd           A.1 utt3: {C and so }  <laughter> I really don't receive any benefits right now # <laughter>. # /  
+
+b          @B.2 utt1:  # <Static> <laughter> Right <sniffing>. # /  
+
+sd          A.3 utt1:  But my husband does  /
+sd          A.3 utt2: {C and, } {F uh, } I think one  of the, {F uh, } my, - /
+sd          A.3 utt3: first of all, always salary and se-, - /
+sd          A.3 utt4: the second thing is, {F uh, }  because we have children,  /
+sd           A.3 utt5: {C so }  it would be, <hum> {F uh, } health benefits and medical  benefits  /
+sd          A.3 utt6: [ {C and } + --   
+
+aa          B.4 utt1:  Yeah,  /
+aa^r          B.4 utt2: yeah.  /
+aa          B.4 utt3:  Definitely. /  
+
++           A.5 utt1:  -- {C and, } ] {F uh, } right now we have probably some excellent benefits right now.  /
+sd          A.5 utt2: We have with Aetna  /
+sd           A.5 utt3: {C and, } {F uh, } I don't know if you're familiar with them  /
+sd          A.5 utt4: {C but } we're real happy with them. /  
+
+b          B.6 utt1:  Yeah.  /
+b^r          B.6 utt2:  Yeah,  /
+sd           B.6 utt3: I've had a variety of different jobs with [ a + ] various types, {F uh, } in the computer field.  /
+sd         B.6 utt4:  {C And so } I've seen a variety of types of benefits.  /
+sd           B.6 utt5:  {F Uh, } I've worked [ [ for, + for ] +  ((   )) for ]  awhile  /
+sd           B.6 utt6: {C and } they are, {D you know, } a really academic type of place.  /
+sd           B.6 utt7: {C And then } I've worked with  regular, {D you know, } industry type places.  And then with others that are kind of half way between and  stuff.  /
+sd           B.6 utt8:  {C So } I've seen a wide range of both, {D you know, }  nonsalary type benefits and other stuff, {D you know, } like health care that's either  fully or partially paid  /
+sd          B.6 utt9: {C and, } {D you know, } some have {D like } bonuses/
+sd           B.6 utt10: {C and } others have had lots of vacation time but not much other types of benefits  /
+sd          B.6 utt11: {C and } --   
+
+b          A.7 utt1:  Uh-huh. /  
+
++          B.8 utt1:  -- {C so, } {D yeah, }  I  (( would ))  /
+sv          B.8 utt2:  I'd say health care is way up there, especially anybody with kids.  /
+sd          B.8 utt3: {F Uh } --   
+
+b          A.9 utt1:  Yeah. /  
+
++           B.10 utt1:  -- {C and } that's one of the big  things that we always look at, {D you know. }  [ When we, + when I ] think about [ t-, + ] changing jobs  is, {D you know, } {D you know, } what kind of health care they have  /
+sd           B.10 utt2: {C and } does the company pay for it.    {D You know, } all or  partially  /
+sd          B.10 utt3: {C or } how does that work. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd           B.12 utt1:  {C And, } {F uh, } also, {F uh, } vacation time too [ is a, + is a ] big # one for me. #    
+
+b          A.13 utt1:  # <Lipsmack> Yeah.  /
+b          A.13 utt2: #  Yeah. /  
+
++           B.14 utt1:  {F Uh, } and I guess support for  [ whatever, + whatever ] other,   
+
+x          A.15 utt1:  <Lipsmack>.   
+
++           B.16 utt1:  {D you know, } kinds of professional activities you have at, {D you know, } work. /  
+
+b          A.17 utt1:  Yeah. /  
+
+sd          B.18 utt1:  {F Uh, } # cause I've # --   
+
+b          A.19 utt1:  # Huh. # /  
+
++          B.20 utt1:  -- been at places which offer a lot of support and others that don't offer any # and # --   
+
+b          A.21 utt1:  # Right. # /  
+
++           B.22 utt1:  -- [ some that, + ] sometimes that's  coincided with a place that offers more vacation time though,  /
+sv          B.22 utt2: {C so } that's not so bad, {D you know. } /  
+
+b          A.23 utt1:  Yeah. /  
+
+sv           B.24 utt1:  {D You know, } it's kind of a give and take kind of thing, I think. /  
+
+b          A.25 utt1:  Uh-huh. /  
+
+sv           B.26 utt1:  {F Uh, } I say that health care is probably definitely number one though.  /
+sv           B.26 utt2:  ((   )) want to just, {D you know, } all your salary can't <laughter>  even # begin # --   
+
+b          A.27 utt1:  # Yeah. # /  
+
++           B.28 utt1:  -- to pay for what you can wind up losing, {D you know } --   
+
+b          A.29 utt1:  Yeah. /  
+
++          B.30 utt1:  -- in a major illness or something.  {F Uh. } -/  
+
+aa          A.31 utt1:  Right.  /
+sv           A.31 utt2:  {F Uh, } [ [ {C and, } + {C and, } ] + {C and } ] another good thing  is with the health benefits when they give you more than two choices <laughter> on who to go with. /  
+
+b          B.32 utt1:  Yeah. /  
+
+sd          A.33 utt1:  {C And } that really helped us out a great deal./
+%          A.33 utt2:   {C So. } - /
+sd          A.33 utt3: {C But } my husband does get vacation  /
+sd          A.33 utt4: {C and } it's worked out really good for us too. /  
+
+b          B.34 utt1:  Uh-huh. /  
+
+%          A.35 utt1:  {C So } <cough> <throat_clearing>. - /
+%          A.35 utt2: {C But. } -/  
+
+b          B.36 utt1:  Yeah.  /
+sd           B.36 utt2:  Flexible hours [ are, + are ]  pretty important to me as well. /  
+
+b          A.37 utt1:  Yeah. /  
+
+sv          B.38 utt1:  {F Uh, } {C cause } that makes a big difference./
+sd          B.38 utt2:  My wife works part-time. /  
+
+b          A.39 utt1:  Uh-huh. /  
+
+sd           B.40 utt1:  {C And } she works, {F uh, } as a assistant manager in a fabric store. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+sd         B.42 utt1:  {C And so } she works a lot of evenings and weekends/
+sd           B.42 utt2:  {C and so } two days a week, I, {F uh, } manage to get home early enough to meet the kids  on the bus <clicking>.  /
+sd           B.42 utt3:  {C So }  she [ wor-, + ] {D you know, } goes in early  those days and works {D like, } {D you know, } noon til  close./
+sd          B.42 utt4: {F Uh, } {C so }  we have #  ((   ))  <clicking>. # -/  
+
+ba           A.43 utt1:  # {D Well, } # that's great that you all can work that out.  /
+ba^r          A.43 utt2:  # That's really good. # /  
+
+aa          B.44 utt1:  # Yeah,  /
+sd           B.44 utt2: {C and } being # on a, {D you know, } <clicking> rigid schedule [ wouldn't, + ] there wouldn't be anyway to do that at all. /  
+
+b          A.45 utt1:  Right. /  
+
+sd           B.46 utt1:  {C And } I think it's kind of neat to be able to spend the afternoons with the kids occasionally too. /  
+
+b          A.47 utt1:  Uh-huh. /  
+
+sd           B.48 utt1:  {E I mean } usually, {D you know, } you go to work before they're awake or as they're getting, <clicking> up for school  /
+sd          B.48 utt2: {C and } you get home  /
+sd           B.48 utt3:  {C and } it's already dark unless it's summer time, {D you know. }   /
+sd          B.48 utt4: {C And } even in summer time,  sometimes you get home so late that [ there's, + ] {D you know, }  you can't do anything with them. /  
+
+b          A.49 utt1:  Yeah. /  
+
+sd           B.50 utt1:  {C And } especially in the winter.  {E I mean, } you [ g-, + ]  get up in the dark and come home in the dark <laughter> {D you know. }  /
+sd           B.50 utt2:  [ It's like, + it's like ] a vampire (( sometimes ))  # <laughter>. # /  
+
+aa          A.51 utt1:  # <Laughter> # Yeah.  /
+sd           A.51 utt2:  It's the same with my husband  cause he's got pretty flexible hours [ if, + ]  as long as he puts in the hours he needs to do  ((   )) . /  
+
+x          B.52 utt1:  <Talking>.   
+
+sd          A.53 utt1:  Worked out really well for us too. /  
+
+b          B.54 utt1:  <Talking> Yeah. /  
+
+qy           A.55 utt1:  {F Uh. }  {D Well } is there anything else that you look for  /
+%          A.55 utt2: {C or, } -/  
+
+sd           B.56 utt1:  <Clicking> {F Uh, } # a lot of  ((   ))  I guess is. # -/  
+
+sv          A.57 utt1:  # You've hit pretty, # - /
+sv          A.57 utt2:  you've put a lot of the main points in. /  
+
+aa          B.58 utt1:  Yeah.  /
+sv          B.58 utt2:  I think some of, is how the, {F uh, } {D you know, } - /
+sv           B.58 utt3:  I guess it's not really a direct benefit but how your, {F uh, } performance is rated and stuff like that at work. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+%          B.60 utt1:  {C Cause } I've been, {F uh, } - /
+sd           B.60 utt2: especially in large corporations.  You can really, {D you know, }  wind up [ getting, + ] having, {D you know, } real problems I've found out.  /
+sd           B.60 utt3:  I've worked for a few, {D you know, } several thousand  plus, <clicking> {D you know, } type companies.    
+
+b          A.61 utt1:  Yeah. /  
+
++           B.62 utt1:  [ And it, + and especially ]  if you're doing like professional work.   Where [ i-, + ] {D you know, } it's kind of <clicking> <child_talking>   (( ethereal ))  as to what you're doing --   
+
+b          A.63 utt1:  Yeah. /  
+
++          B.64 utt1:  -- {D you know. }  /
+%          B.64 utt2:  If you're, - /
+%          B.64 utt3: {D like } I've, - /
+sd          B.64 utt4:  I work with, {F uh, } computer systems a lot.  /
+sd          B.64 utt5: {C So } it's kind of hard to say, {D you know. }  /
+sd(^q)       B.64 utt6:  If you're, {D you know, } a brick layer, somebody can look and see, {D you know, } {D well, }   {D yeah, }  you laid, {D you know, } fifteen thousand bricks today  /
+^q          B.64 utt7: {C and } they were all  straight  /
+^q          B.64 utt8: {C and } your building didn't fall down, {D you know } <clicking>.  /
+^q          B.64 utt9: Yeah,  /
+^q          B.64 utt10:  you did a great job.   /
+qh       B.64 utt11: {C But } if you build computer systems, {D like, } {D well, } {D you know, }  what does that computer program really do, {D you know. } Or, especially if  you write {D like } papers, # {D you know. } # 
+
+b          A.65 utt1:  # Uh-huh. # /  
+
++          B.66 utt1:  Or do design studies or something.  /
+sv          B.66 utt2:  It's real hard to rate something like that. /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sd           B.68 utt1:  It's like get a painter, {D you know, } or something, a artist.  /
+qh           B.68 utt2:  It's like {D well } ((   ))  [ you, + ] how do you really rate, {D you know, }  Michelangelo, {D you know } <clicking>.  /
+qh         B.68 utt3:  How would you tell if he was, {D you know, } really good or so-so or  whatever </static>. /  
+
+aa          A.69 utt1:  Yeah.  /
+sv           A.69 utt2:  {C And } that does make [ a wan-, + ] a person want to stay </children_yelling> </hum>, / 

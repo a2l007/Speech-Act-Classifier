@@ -1,0 +1,655 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2780_1124_1052
+TOPIC#:		352
+DATE:		910503
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	4
+TOPICALITY:	3
+NATURALNESS:	3
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	3
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        There was an echo in the joint conversation mostly in
+Speaker A's part.  Both speakers were terribly disjointed.
+
+============================================================================
+o  A.1 utt1:  Yeah,  /
+sv^t          A.1 utt2: I think, {F um, } this is a tough subject because, {F uh, } when you come from two different parts of the country, {F uh, } the political views are really different.  /
+sd^t          A.1 utt3:  [ [ I, + {F uh, } I, ] + I ] guess I've had to discuss a number of what might be considered controversial issues, /  
+
+b          B.2 utt1:  # Uh-huh. # /  
+
+sv          A.3 utt1:  [ # I # guess {D like, } {D like } they're nothing, +  I guess, nothing ] is as awful as abortion  /
+sv          A.3 utt2: {C but } {D like } gun control and, {F uh, } day care an things like that, - /
+sd          A.3 utt3: {C and } there are some very different views, {F uh, } of the people connected with the program which I thought was really interesting, {D you know. } /  
+
+sd          B.4 utt1:  {D Well, } {D now } [ you, + you ] say two different parts of the country  /
+qy          B.4 utt2: [ what, + ] [ [ are, +  are, ] + are ] you referring to yourself  /
+%          B.4 utt3: {C or, } -/  
+
+ny          A.5 utt1:  Yeah,  /
+sd^e          A.5 utt2: {D well } being [ in, + in ] Baltimore {D see, } - /
+sv          A.5 utt3: Maryland [ [ is, + {F um, } is sort of, ] + {F um, } is prob-, ] [ as, + as + ] a hub of liberalism <laughter>,   
+
+x          B.6 utt1:  # <Laughter>.  #   
+
++          A.7 utt1:  # {D you # know, } compared to the country, {F uh, }  /
+sd          A.7 utt2: {D you know, } [ very, + {F uh, } [ in, + in ] many ways, {F uh, } very ] liberal - /
+sv          A.7 utt3: very somewhat to New England - /
+sv          A.7 utt4: though Pennsylvania and  New York, {F uh, } [ I, + ] aren't actually as liberal,  /
+sd          A.7 utt5: Maryland is a very liberal, {F uh, } state  /
+sd          A.7 utt6: {D so, } {D so, } [ where + here ] [ we have,  {F um, } we have ] gun control laws  /
+sv          A.7 utt7: we probably have some of the strictest gun control laws in the nation  /
+sd          A.7 utt8: {C and } most people in Maryland vote for that, {D you know. } /  
+
+b          B.8 utt1:  Uh-huh. /  
+
+sv          A.9 utt1:  {D So, } it really is a different, {F um, } -/  
+
+sd          B.10 utt1:  {F Uh, } {D well, } of course, you talk gun controls down here in Texas  /
+sd          B.10 utt2: {C and } you're asking to be lynched. /  
+
+aa          A.11 utt1:  Yeah,  /
+aa          A.11 utt2: [ that's, + that's ] right talk to, - /
+sd          A.11 utt3: I had to talk about gun control with somebody  /
+sd          A.11 utt4: {C and } I talked with a woman who actually, {D you know, } [ h-, + had ] just purchased a gun that day,   
+
+b          B.12 utt1:  # Uh-huh. # /  
+
++          A.13 utt1:  # and # was going target shooting, {D you know, }  /
+sd          A.13 utt2: {C and } it was very different  /
+sd          A.13 utt3: it was a whole,   
+
+x          B.14 utt1:  # <Throat_clearing>.  #   
+
++          A.15 utt1:  # different # view.  /
+sd          A.15 utt2:  [ It's really, + {F um, } this has ] opened my eyes to thinking, {D you know, }  /
+sd(^q)          A.15 utt3: at one time I just sat here and thought, {D well, } how can anybody believe that  /
+sd          A.15 utt4: {C because } I'd really never met people that did,  /
+sd          A.15 utt5: {C and } now, I talk to people that do.  /
+sv          A.15 utt6: {D So } [ that's, + it's ] really interesting. /  
+
+aa          B.16 utt1:  {D Well, } it's very true,  /
+sd          B.16 utt2: {D now } I'm a, {F uh, } New Yorker by birth. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  Although I claim Florida as my home now, {F uh, }  /
+sd          B.18 utt2: I have two sons living down there  /
+sd          B.18 utt3: {C but } I also have two sons living elsewhere,   
+
+b          A.19 utt1:  # Uh-huh. # /  
+
++          B.20 utt1:  # one # in Tennessee, one in Mississippi.  /
+sd          B.20 utt2: {C But } I lived [ in Te-, + in Florida ] for ten years  /
+sd          B.20 utt3: {C and } I kind of like it down there,  /
+sd          B.20 utt4: {C but } they had a gun control law which went a little bit too far. /  
+
+b          A.21 utt1:   Yeah. /  
+
+%          B.22 utt1:   I think {F uh, } <breathing> - /
+sd(^q)          B.22 utt2: {D well } in your words, --   
+
+x          A.23 utt1:   <laughter>   
+
++          B.24 utt1:   -- they were a little bit too liberal. <breathing> /  
+
+b          A.25 utt1:   Yeah,  /
+qh          A.25 utt2: isn't it funny. <laughter> /  
+
+sd         B.26 utt1:   {E I mean } [ [ they p- + they ] + [ I believe + if I'm correct I believe ] they ] permitted their carrying concealed weapons. /  
+
+b          A.27 utt1:   Uh-huh. /  
+
+sd          B.28 utt1:   <inhaling> {C But }   
+
+b          A.29 utt1:   {F Uh. } /  
+
++          B.30 utt1:   they {F uh } [ sh- + quickly ] did away with it. /  
+
+b          A.31 utt1:   Yeah. /  
+
+sd          B.32 utt1:   I think in the next session [ they + they ] {F uh } modified it <breathing>  /
+sd          B.32 utt2: {C but } it's still legal to own <breathing> or possess weapons in {F uh } {F uh } Florida. /  
+
+b          A.33 utt1:   Yeah  /
+sd          A.33 utt2: {D well } you can possess 'em here too  /
+sd          A.33 utt3: {C but } <breathing> [ They have to be + they're ] registered  /
+sd          A.33 utt4: {C and } {F Uh, } {D like }   
+
+x          B.34 utt1:   <breathing>   
+
++          A.35 utt1:   {F uh } [ the + the ] Brady Bill that's   
+
+x          B.36 utt1:   <breathing>   
+
++          A.37 utt1:   currently being discussed nationally and whatever is very well supported here, in gun control avenues,  /
+%@          A.37 utt2: and {F um. }    
+
+sd          B.38 utt1:   [ [ The +   
+
++@          A.39 utt1:   <lipsmack>   
+
++          B.40 utt1:   the [ one week + {F uh } seven day ] ] + the ] delay -/  
+
+qy^d          A.41 utt1:   You have the seven day waiting period. /  
+
+ny          B.42 utt1:   Uh huh. /  
+
+b          A.43 utt1:   Yeah /  
+
+sd          B.44 utt1:   {D Well }   
+
+%          A.45 utt1:   [ that's +   
+
++          B.46 utt1:   I don't   
+
++          A.47 utt1:   {F uh } that's ] -/  
+
++          B.48 utt1:   mind that too much  /
+sd          B.48 utt2: [ I'm + I'm ] with the N R A myself. /  
+
+b          A.49 utt1:   Yeah. /  
+
+sv          B.50 utt1:   {C And } {F uh, } {F uh } Really the only objection we have <breathing> Is {F uh } [ you + you ] give a little  /
+sv          B.50 utt2: {C and } next thing you know  ((  ))  somebody's trying to take more. /  
+
+aa          A.51 utt1:   Yeah  /
+aa          A.51 utt2: that's true  /
+aa^r          A.51 utt3: that's very true  /
+sv          A.51 utt4: [ That's + {C and } that's ] the   
+
+x          B.52 utt1:   <breathing>   
+
++          A.53 utt1:   way I guess most of [ the + {F um } the ]   
+
+x          B.54 utt1:   <breathing>   
+
++          A.55 utt1:   political organizations work {D you know }  /
+sv          A.55 utt2: the same I know the abortion issue with right to life and right to choose -/  
+
+b          B.56 utt1:   Yeah. /  
+
+sv          A.57 utt1:   [ {C and } + {C and } ] [ both of them   
+
+x          B.58 utt1:   <breathing>   
+
++          A.59 utt1:   are + both want ] the extent of extremes so that they don't give anything for a balance   
+
+x          B.60 utt1:   <breathing>   
+
++          A.61 utt1:   {D you know }  /
+sv          A.61 utt2: there's there's always that difficulty /  
+
+x          B.62 utt1:   <lipsmack>   
+
+x          A.63 utt1:   <lipsmack>   
+
+ad          B.64 utt1:   {D Well }   
+
+x          A.65 utt1:   <breathing>   
+
++          B.66 utt1:   then tell me  /
+qy          B.66 utt2: do you consider yourself a liberal? <breathing> /  
+
+na          A.67 utt1:   {F Um } I would say I'm probably liberal  /
+ny          A.67 utt2: yeah /  
+
+ad          B.68 utt1:   {D Well } let   
+
+b          A.69 utt1:   yeah /  
+
++          B.70 utt1:   me ask you this then. /  
+
+aa          A.71 utt1:   Sure /  
+
+qo          B.72 utt1:   [ How is your + what is your ] feeling about {F uh } {F uh } expressing yourself by burning the American flag? /  
+
+^h          A.73 utt1:   {D Well } I'll tell you.  /
+sv          A.73 utt2: [ I + I ] think {D you know } [ if they + if they ] didn't give as much coverage to these idiots that burn the flag, it would never happen  /
+qh          A.73 utt3: do you know what I mean? /  
+
+b          B.74 utt1:   {F Huh. } /  
+
+sv          A.75 utt1:   It's only because they make a big stink over it.  /
+sv          A.75 utt2: {C But } [ I + I ] guess {D actually } I believe that if somebody wants to burn the flag I guess that's their opportunity  /
+sv         A.75 utt3: [ [ They're + they're ] + they're ] right in the sense of freedom of speech  /
+sd          A.75 utt4: {C But } [ I- + I ] would never -/  
+
+ad          B.76 utt1:   {D Well } now wait a minute [ the- + there ] /  
+
+aa          A.77 utt1:   Yeah. /  
+
+sd          B.78 utt1:   you just said it. /  
+
+x          A.79 utt1:   <lipsmack>   
+
+qy^m          B.80 utt1:   It's their right by freedom of speech?  /
+qw          B.80 utt2: What does speech have to do with   
+
+b          A.81 utt1:   Yeah. /  
+
++          B.82 utt1:   burning a flag? /  
+
+%          A.83 utt1:   <breathing> Well it's free- -/  
+
+x          B.84 utt1:   <breathing>   
+
+%          A.85 utt1:   that they - /
+sv          A.85 utt2: I think the idea of freedom of speech goes back to - /
+sv          A.85 utt3: {C and } [ [ [ I + {F uh } {F uh }   the ] + the ] <breathing> + the ] whole aspect   
+
+x          B.86 utt1:   <breathing>   
+
++          A.87 utt1:   of being able to display [ your + {F uh } your ]   
+
+x          B.88 utt1:   <breathing>   
+
++          A.89 utt1:   ideas {D you know } - /
+sv          A.89 utt2: [ the + what ] [ the country stands on + America stands on ] is that they can do that <breathing> {F Uh, }  /
+sd          A.89 utt3: though I would never even consider   
+
+x          B.90 utt1:   <breathing>   
+
++          A.91 utt1:   it in a million years to do it myself  /
+sv          A.91 utt2: [ [ I + I ] + <breathing> I ] think {F uh } {D you   
+
+x          B.92 utt1:   <breathing>   
+
++          A.93 utt1:   know } - /
+%          A.93 utt2: {C but } [ I + I ] still - /
+sv          A.93 utt3: what the [ stan- + flag ] stands for I guess to me is   
+
+x          B.94 utt1:   <breathing>   
+
++          A.95 utt1:   that if somebody wants to voice their opinion or display their opinion openly and if that is [ a + a ] way that they can <breathing> show   
+
+x          B.96 utt1:   <breathing>   
+
++          A.97 utt1:   their opinion <breathing> then they should be allowed <lipsmack>  /
+b          A.97 utt2: {F uh } -/  
+
+%          B.98 utt1:   {D Now } {F uh } {D Well } [ I + I ] still   
+
+sd          A.99 utt1:   [ Unless   
+
++          B.100 utt1:   go   
+
++          A.101 utt1:   the   
+
++          B.102 utt1:   back   
+
++          A.103 utt1:   burn +   
+
++          B.104 utt1:   to ... -/  
+
++          A.105 utt1:   unless the actual fire ] hinders somebody's health and well-being {D you know }  /
+sd          A.105 utt2: {C but } [ [ [ [ I + I think that's ] + I   
+
+x          B.106 utt1:   <breathing>   
+
++          A.107 utt1:   guess that's ] + I thin- ] + that's ] my opinion  /
+%          A.107 utt2: Yeah  /
+qy^d          A.107 utt3: I guess you feel differently. /  
+
+qy          B.108 utt1:   Then would you condone the burning of the capitol building? /  
+
+nn          A.109 utt1:   {F Uh, }   
+
+x          B.110 utt1:   <breathing>   
+
++          A.111 utt1:   no  /
+sv^e          A.111 utt2: {C but } I think [ [ [ that's + that's ] + {F uh } it's ] + that's ] taxpayer's money. <breathing>  /
+sv          A.111 utt3: If somebody   
+
+x          B.112 utt1:   <breathing>   
+
++          A.113 utt1:   buys their own flag [ and + and ] burns it that's fine  /
+sv          A.113 utt2: {C but } [ [ that + that's ] + <breathing> {D you know } that's ] destruction [ and + of ] {F uh } public   
+
++          B.114 utt1:   <breathing>   
+
++          A.115 utt1:   property and whatever. /  
+
+bf          B.116 utt1:   {F Uh, } then you don't draw a line between public property and {F uh } {F uh } {F uh } [ what + a ] public {F uh } symbol. /  
+
+aa          A.117 utt1:   No /  
+
+x          B.118 utt1:   <breathing>   
+
+no          A.119 utt1:   I don't know  /
+%          A.119 utt2: I guess the symbolism - /
+sv          A.119 utt3: {F oh } I think what America stands for is the right to be able to disagree with the government. /  
+
+b          B.120 utt1:   {F Uh } yeah /  
+
+sv          A.121 utt1:   {F Uh } I   
+
+sd          B.122 utt1:   {C but }   
+
++          A.123 utt1:   think that's   
+
++          B.124 utt1:   here   
+
++          A.125 utt1:   what's   
+
++          B.126 utt1:   again   
+
++          A.127 utt1:   made   
+
++          B.128 utt1:   I go   
+
++          A.129 utt1:   democracy /  
+
++          B.130 utt1:   back to the second amendment  /
+sv          B.130 utt2: You can disagree   
+
+b          A.131 utt1:   Yeah. /  
+
++          B.132 utt1:   by [ [ s- + b- ] + freedom ] of speech   
+
+b          A.133 utt1:   Uh-huh. /  
+
++          B.134 utt1:   which,   
+
+b          A.135 utt1:   Yeah. /  
+
++          B.136 utt1:   has nothing to do with action. /  
+
+aa          A.137 utt1:   {D Well }   
+
+sd          B.138 utt1:   {D Now }   
+
++          A.139 utt1:   [ that's + that's ]   
+
++          B.140 utt1:   [ I   
+
++          A.141 utt1:   true /  
+
++          B.142 utt1:   am +   
+
+b          A.143 utt1:   Yeah /  
+
++          B.144 utt1:   I   
+
+%          A.145 utt1:   <breathing> {C But }   
+
++          B.146 utt1:   am ]   
+
++          A.147 utt1:   I think [ I + I ]   
+
++          B.148 utt1:   adamantly   
+
++          A.149 utt1:   g- -/  
+
++          B.150 utt1:   against that. /  
+
+b          A.151 utt1:   Yeah  /
+sd          A.151 utt2: <breathing> [ [ I + I d- ] + I ] guess   
+
+x          B.152 utt1:   <breathing>   
+
++          A.153 utt1:   the idea {D you know } they always keep saying {D like } the framers. - /
+sd          A.153 utt2: <breathing> {F Um. } <lipsmack> [ there + {F uh } one ] of [ the Republican + the appointees ] for [ the jud- + the judicial ] bench <breathing> - /
+sd          A.153 utt3: {C and }   
+
+x          B.154 utt1:   <breathing>   
+
++          A.155 utt1:   they always talk about  ((  ))  they feel that this person believes in the framing of the constitution <breathing> [ what   
+
+x          B.156 utt1:   <breathing>   
+
++          A.157 utt1:   the original framers + the ideals the original framers ] set down. /  
+
+b          B.158 utt1:   # Uh-huh. # /  
+
+sv          A.159 utt1:   # {C And } {F Um } # I believe that the idea of burning   
+
+b          B.160 utt1:   {F huh. } /  
+
++          A.161 utt1:   the flag is is in -/  
+
+x          B.162 utt1:   <breathing>   
+
+sd          A.163 utt1:   my understanding of how it was framed is that [ [ you + this coun- ] + the thing about this country ] is that you can disagree with its government  /
+sd          A.163 utt2: {C and } you can display   
+
+b          B.164 utt1:   Yeah. /  
+
++          A.165 utt1:   that. /  
+
+b          B.166 utt1:   Uh-huh. /  
+
+%          A.167 utt1:   {F Uh, } [ I + Yeah,  /
+%          A.167 utt2: I  g- ] <breathing> - /
+sv          A.167 utt3: [ {C and } + {C and } ] so that as a freedom of expression and speech and    
+
+x          B.168 utt1:   <breathing>   
+
++          A.169 utt1:   whatever [ I + I ] think that that's viable.  <lipsmack>  /
+sv          A.169 utt2: {F Um } as long as it's your flag [ and + and ] you've made [ your + your ] point. I think.  /
+%          A.169 utt3: Yeah  /
+qy^d          A.169 utt4: {C Because, } realistically, {D like } [ [ for you + for you ] + you ] don't think it's right <breathing> /  
+
+nn          B.170 utt1:   No. /  
+
+sd          A.171 utt1:   {C And } I would never do it.  /
+sd          A.171 utt2: [ I + I ] love this country too much,  /
+sd          A.171 utt3: {C and } that symbol means a lot to me. /  
+
+b          B.172 utt1:   Uh-huh. /  
+
+sv          A.173 utt1:   {F Um. } {C But }   
+
+x          B.174 utt1:   <breathing>   
+
++          A.175 utt1:   I guess it's just one of those things where [ [ if they + if that's what's something ] + it's ] a need for them {D you know. } /  
+
+%          B.176 utt1:   {D Well } {D here } again we {F uh } - /
+bf          B.176 utt2: even though [ you {F uh } physically + you agree ] with me   
+
+b          A.177 utt1:   Yeah. /  
+
++          B.178 utt1:   [ you +   
+
+b          A.179 utt1:   Yes. /  
+
++          B.180 utt1:   you ] wouldn't do it yourself. /  
+
+aa          A.181 utt1:   No. /  
+
+bf          B.182 utt1:   Nevertheless you maintain that [ it's + it is ] the right [ of + of ] any citizen   
+
+aa          A.183 utt1:   Right. /  
+
++          B.184 utt1:   to burn the symbol of their country. /  
+
+aa          A.185 utt1:   Yeah.  /
+aa          A.185 utt2: Uh huh. /  
+
+bf          B.186 utt1:   {F Uh, } {F um } so long as it's their possession.  /
+aap          B.186 utt2: {D Ok, } [ [ you're + you're ] + that's ] <breathing> fine up to there except that {F uh, } <breathing> [ th- + what that ] flag symbolizes is {F uh } {F uh } is this country, /  
+
+b          A.187 utt1:   Uh huh. /  
+
+sd          B.188 utt1:   {C and } I used to know as a Boy Scout  /
+sd          B.188 utt2: {C but } all I remember was the red in the flag represented the blood that was shed to to create this country,   
+
+b          A.189 utt1:   Yeah. /  
+
++          B.190 utt1:   and to maintain it.  /
+sv          B.190 utt2: {C And, } to me that's {F uh } {F uh } black eye to every man that ever [ p- + {F uh } carried ] a weapon or killed for his country. /  
+
+aa          A.191 utt1:   I agree there too.  /
+aa^r          A.191 utt2: I agree with you there too.  /
+sd          A.191 utt3: [ [ [ [ [ [ I + I ] + the ] + {F um } I ] + I ] + it's ] + I ] find it you know personally disgusting  /
+sv          A.191 utt4: {C But }   
+
+b          B.192 utt1:   Uh-huh. /  
+
++          A.193 utt1:   [ I don't think that + I don't think that ] {F uh } we   
+
+ x         B.194 utt1:   <breathing>   
+
++          A.195 utt1:   have a right to stop somebody from that {D you know }  /
+%          A.195 utt2: the same I don't know - /
+sd          A.195 utt3: I guess [ I get + I get ] {F uh } all   
+
+sv          B.196 utt1:   [ It's +   
+
++          A.197 utt1:   mixed up inside. <breathing> [ when, +   
+
++          B.198 utt1:   It's ] very easy to do. /  
+
++          A.199 utt1:   [ Yeah  /
+sv          A.199 utt2: it g- + ] when ] [ it's + {F uh } it's ] an emotional issue, <breathing>  /
+sv          A.199 utt3: {C and } you sit  /
+sv          A.199 utt4: {C and } you try and think   
+
+x          B.200 utt1:   <breathing>   
+
++          A.201 utt1:   about it logically  /
+sv(^q)          A.201 utt2: [ [ {C and } + {C and } ] + {C and } ] {D you know } you try to say to yourself <breathing> {D now } emotionally this is a disgusting thing,  /
+%          A.201 utt3: {F uh } {C but } logically {F um } -/  
+
+x          B.202 utt1:   <breathing>   
+
+sd          A.203 utt1:   even {D you know } for instance, the pro life pro choice movement, {F uh } {D you know } <breathing> - /
+sd          A.203 utt2: I don't know anybody that actually supports abortion,  /
+
+sd          A.203 utt3: {C but } they   
+
+b          B.204 utt1:   {F Uh } /  
+
++          A.205 utt1:   would vote pro choice. /  
+
+b          B.206 utt1:   Uh-huh. /  
+
+sv          A.207 utt1:   {C because } you know That's just a disgusting thing {D you know }  /
+%          A.207 utt2: somebody <breathing> - /
+sv          A.207 utt3: an abortion means it's somebody's in trouble and that it's an awful thing,   
+
+x          B.208 utt1:   <breathing>   
+
++          A.209 utt1:   {D you know } /  
+
+sv          B.210 utt1:   {D Well }   
+
+%          A.211 utt1:   {C but } -/  
+
++          B.212 utt1:   I think it should be permitted under certain [ circus- +   
+
+b          A.213 utt1:   Yeah. /  
+
++@          B.214 utt1:   circumstances. ]   
+
+sd          A.215 utt1:   <lipsmack> {C but }   
+
++@          B.216 utt1:   <breathing>   
+
++          A.217 utt1:   [ [ it + that's ] + {F uh } that's ] what I mean,  /
+%          A.217 utt2: {D see, } mo- - /
+sv          A.217 utt3: [ {C but } + {C but } ] realistically when you think of it it just sounds like such an awful thing,  /
+sv          A.217 utt4: {C and } it evokes an emotional response.  /
+sv          A.217 utt5: I think <breathing> that's the hardest thing,  /
+sd          A.217 utt6: I don't know if I could ever be a judge, because   
+
+b          B.218 utt1:   Uh-huh. /  
+
++          A.219 utt1:   some   
+
+b          B.220 utt1:   {F Huh. } /  
+
++          A.221 utt1:   things   
+
+ad          B.222 utt1:   {D Well }   
+
++          A.223 utt1:   emotionally   
+
++          B.224 utt1:   tell me /  
+
++          A.225 utt1:   just   
+
+qy          B.226 utt1:   has   
+
++          A.227 utt1:   aren't   
+
++          B.228 utt1:   it   
+
++          A.229 utt1:   {D you know } -/  
+
++          B.230 utt1:   ever been decided [ when + when ] is a {F uh } fetus a human? /  
+
+nn          A.231 utt1:   No,  /
+nn^r          A.231 utt2: no <breathing> /  
+
+x          B.232 utt1:   <breathing>   
+
+%          A.233 utt1:   I think the {F um } <lipsmack> - /
+%         A.233 utt2: sometimes I guess - /
+t1          A.233 utt3: what did I read recently  /
+sd          A.233 utt4: [ [ the + {F um } th- ] + the ] {F uh } Christian {F uh } point   
+
+x          B.234 utt1:   <breathing>   
+
++          A.235 utt1:   [ is + is ] always the point of {D well } it's at conception  /
+sd          A.235 utt2: {C but } then {F um } a friend of mine's a doctor and argues with others that conception is a biblical term.  /
+sd          A.235 utt3: {C And } there's no concept of conception in medicine or biology. /  
+
+b          B.236 utt1:   {F Huh. } /  
+
+sd          A.237 utt1:   <lipsmack> [ {D so } then that + {D so } that ] throws out that idea makes it a religious discussion then.  /
+%          A.237 utt2: {D So } it's - /
+no          A.237 utt3: I   
+
+x          B.238 utt1:   <breathing>   
+
++          A.239 utt1:   don't know.  /
+sv          A.239 utt2: [ [ [ [ It's very + it's ] + it's ] + {F uh } {D you know } It's a ] + it's a ] topsy-turvy world  /
+sv          A.239 utt3: {C and } it's really something how {F um } political   
+
+x          B.240 utt1:   <breathing>   
+
++          A.241 utt1:   ideas and viewpoints within one country can vary so much and also [ within + {F um } <lipsmack>   
+
+%          B.242 utt1:   {C Or }   
+
++          A.243 utt1:   within ]   
+
++          B.244 utt1:   they -/  
+
++          A.245 utt1:   a, -/  
+
+^2          B.246 utt1:   [ on their o- + within the own ] {F uh } <breathing> society,   
+
+b          A.247 utt1:   Yeah /  
+
++          B.248 utt1:   it can   
+
+%          A.249 utt1:   {C and }   
+
++          B.250 utt1:   vary. /  
+
++          A.251 utt1:   [ how + Yeah  /
+sv          A.251 utt2: how ] it'll sway from [ one e- + one extreme ] to another. /  
+
+b          B.252 utt1:   Uh-huh. /  
+
+sd          A.253 utt1:   <lipsmack> {F Uh } I think that {F uh } {D you know } [ I + I ] just read something I think in TIME magazine {F uh } about {F um } protest -/ 

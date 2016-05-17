@@ -1,0 +1,202 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3309_1362_1343
+TOPIC#:		340
+DATE:		911024
+TRANSCRIBER:	glp
+UTT_CODER:      mmab
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+x          B.1 utt1:   <Breathing>.   
+
+qy          A.2 utt1:   [ Are, + are ] we paying too much in taxes,  /
+qy          A.2 utt2:  {C and } are we getting what we pay for?  /
+qo          A.2 utt3:  What's your opinion? /  
+
+sv          @B.3 utt1:   {D Well, } it's kind of a broad subject, {F uh, }  /
+sv          @B.3 utt2:  [ I, +   
+
+x          A.4 utt1:   <Laughter>.   
+
++          B.5 utt1:   I ] think there are some areas  [ where we, + where we, ] {F uh, } pretty well, {D you know, } get our money's worth,  /
+sv          B.5 utt2: {C but } [ I, + I ]  also think there are a lot of areas <breathing> especially in, {F uh, }   [ big government, + federal government, ] {F uh, }  where we're short changed.  {F Uh, } lot of money spent for, {F uh, } things that are not used  /
+sd          B.5 utt3:  {C and, }  {F uh, }  [ I was, + I was ] in the Air Force  /
+sd          B.5 utt4: {C and }  [ [ I was at, + there were, ] + there was ] equipment at every base I was ever on that was just going to waste.  /
+sd          B.5 utt5: It was just sitting and rusting  /
+%          B.5 utt6: [ {C and, } + {D you know, } {C and } ] <breathing>, -/  
+
+b          A.6 utt1:   Okay.  /
+sd          A.6 utt2:  [ I, + I ] tend to agree with you.  /
+sv          A.6 utt3:   When it comes to government spending, there are so many studies done that don't mean anything -- /  
+
+b          B.7 utt1:   Yeah. /  
+
+sv          A.8 utt1:   -- {C but } we'll spend hundreds of thousands, if not millions, of dollars on. /  
+
+b          B.9 utt1:   Yeah. /  
+
+sv          A.10 utt1:   {C And } it's nice to know something doesn't work or  something doesn't exist,  /
+sv          A.10 utt2: {C but, }   it could be put to more practical use. /  
+
+aa          B.11 utt1:   Yeah,  /
+sv          B.11 utt2: {C and } [ I, + I ] think that, {F uh, }  <breathing> it's [ a, + a ] tone of our times that politicians, {F uh, } are into themselves more than they are into, {D you know, } doing something worthwhile for the people they represent, which is really unfortunate. /  
+
+aa          A.12 utt1:   That is true.  /
+aa          A.12 utt2:   I  agree with you in that area.  /
+%          A.12 utt3: {F Uh, } I have a tendency to, - /
+sd          A.12 utt4: I'm [ in, + from ] Texas  /
+sd          A.12 utt5: {C and }  I read, {D you know, } how our politicians voted each week in the paper. /  
+
+b          B.13 utt1:   Yeah. /  
+
+sv          A.14 utt1:   {C And } [ it's, + {D you know, } it's ] interesting  how the votes vary  /
+sv          A.14 utt2: {C and }  what they ran on in platform --   
+
+b          B.15 utt1:   Uh-huh. /  
+
++          A.16 utt1:   -- don't necessarily come true in their voting in the senate or  Congress, whatever. /  
+
+sv          B.17 utt1:   And  don't really respond to, {F uh, } people who write them  and  call them  /
+sv          B.17 utt2: {C and, }  {F uh, } {D you know, } unless they're in  the limelight and  under pressure <laughter> <breathing>.  /
+%          B.17 utt3:  {C So, } - /
+%          B.17 utt4: yeah,  /
+sv          B.17 utt5: I think we get short changed on that. /  
+
+aa          A.18 utt1:   Right,  /
+aa          A.18 utt2: that's  very true.  /
+qw          A.18 utt3:  [ What, + what ]  state do you live in? /  
+
+sd          B.19 utt1:   Texas. /  
+
+bk          A.20 utt1:   Okay. /  
+
+%          B.21 utt1:   That's, -/  
+
+qo          A.22 utt1:   What do you think about Robin Hood? /  
+
+sd          B.23 utt1:   {D Well } <breathing>, I work for school  district  /
+sd          B.23 utt2: {C and, }  {F uh, } [ it's, + it  has ] hurt us a lot.  /
+sv          B.23 utt3:  {F Uh, } there has to be some way,  I think, to equalize education opportunities.  /
+sv          B.23 utt4:   {C But, }  {F uh, } {D you know, } [ [ [ our, + we, ] + we ] tend to think, +  I think, [ e-, + especially ] big government, tends to think ] that the solution to everything is to throw money at it.  /
+sd          B.23 utt5:  {C And } I don't, {D you know, } - /
+sv          B.23 utt6: that's just not true.  /
+sv          B.23 utt7:  [ I don't think  the, + {D you know, } I don't think ] money is going to take the place of intelligence or,  {F uh, } problem solving skills.  /
+sv          B.23 utt8:  {F Uh, }  I think [ there are, + there are ] too many things  [ [ that money can't <breathing>, {F uh, } + [ that,  + that ]  money can't ] buy [ that, + that ] are important as far as education is concerned. /  
+
+aa          A.24 utt1:   That's true.  /
+qw          A.24 utt2:  What school district do you work for? /  
+
+sd          B.25 utt1:   Richardson. /  
+
+bk          A.26 utt1:   Okay.  /
+sd          A.26 utt2:  I work for Plano. /  
+
+b          B.27 utt1:   Oh. /  
+
+x          A.28 utt1:   <Laughter>.   
+
+ba          B.29 utt1:   Great,  /
+%@          B.29 utt2: [ okay. /  
+
+sv          A.30 utt1:   {D So, }   we're comparable. /  
+
+aa          B.31 utt1:   Yeah. /  
+
+sd          A.32 utt1:   As a matter of fact, I just paid my Richardson taxes because I live in Richardson and  supplemented the Robin Hoods very thoroughly, I think. /  
+
+b          B.33 utt1:   Yeah,  /
+sv          B.33 utt2: I think [ we've, {F uh, } +   
+
+sv          A.34 utt1:   Our taxes went up tremendously. /  
+
++          B.35 utt1:   {D Yeah, } we have ] got it on the line <laughter>, don't we. /  
+
+aa          A.36 utt1:   Yes. /  
+
+sv          B.37 utt1:   {C And } it's not going to get any better.  /
+sv          B.37 utt2:   [ D-, + ] {D you know, } {E I mean, } it's going up and up and up.  /
+sd          B.37 utt3:  {F Uh, } I used to live in the Plano school district,  /
+sd          B.37 utt4: {C and, }  {F uh, } there was [ [ a, + an  organization, ] + a taxpayers organization ] that, {F uh, } finally communicated the message  [ to the, + I think to the ] people in Plano that, {D you know, } we didn't want our taxes raised. /  
+
+b          A.38 utt1:   Yes,  /
+sd          A.38 utt2: I remember there was about [ four, + five ] years ago. /  
+
+b          B.39 utt1:   Yeah. /  
+
+b          A.40 utt1:   Yes. /  
+
+%          B.41 utt1:   {C But, }  [ this, + {D you know, } this, ] {F uh, } - /
+sv          B.41 utt2:  I think living in Richardson,   we're kind of spoiled because I think [ we get, <throat_clearing> + we come closer to getting ] our money's worth as far as the city is concerned, I think <laughter> than probably [ any, + any ] city in the country. /  
+
+aa          A.42 utt1:   Yes,  /
+qy          A.42 utt2: {D well, } did you read in the Dallas paper where they increased [ the teach-, + the administrators' ] pay by thirty three percent --   
+
+bh          B.43 utt1:   Is that incredible? /  
+
++          A.44 utt1:   -- after they laid off all those teachers. /  
+
+sd          B.45 utt1:   [ That's, + that's ] the biggest mess I've ever heard of.  /
+qh          B.45 utt2:   {D You know, } [ how can you, + how can you ] justify raising anybody's salary [ if you, + {D you know, } if you ] have to lay people off? /  
+
+aa          A.46 utt1:   Right.  /
+sd          A.46 utt2: {C But, } {D you know, } I'm not going to  complain because Plano [ got, + we all got ] a pay raise this year. /  
+
+b          B.47 utt1:   Yeah. /  
+
+qy^d          A.48 utt1:   You all got a pay raise this year. /  
+
+ny          B.49 utt1:   Yeah. /  
+
+qy          A.50 utt1:   Is that correct? /  
+
+na          B.51 utt1:   {D Well, } {D yeah, } I think the teachers [ d-, +  {F uh, } did, ]  /
+sd          B.51 utt2:  {C and } I don't know about administrators.  /
+sd          B.51 utt3:  [ I, + I'm ] semiretired  /
+sd          B.51 utt4: {C and }  [ I was, + I was ] an administrator,  /
+sd          B.51 utt5: {C so }  [ I, +  {D you know, } I ] don't get a <laughter> raise anymore.  /
+sd          B.51 utt6:  [ [ I just, +   
+
+bk          A.52 utt1:   Okay <laughter>. /  
+
++          B.53 utt1:   I, ] + I ] work part-time and just get, {F uh, }   <lipsmack> <breathing>, {D you know, } - /
+sd          B.53 utt2: my pay doesn't change. /  
+
+qy          A.54 utt1:   Are you on the early retirement? /  
+
+ny          B.55 utt1:   Yes. /  
+
+qy          A.56 utt1:   {F Oh, } are you enjoying it? /  
+
+ny          B.57 utt1:   Yes,  /
+sd^e          B.57 utt2: very much.  /
+sd          B.57 utt3: {F Uh, } course, [ I, + I ] still  work two part-time jobs <laughter>. /  
+
+x          A.58 utt1:   <Laughter>.   
+
+sd          B.59 utt1:   {C So, } it's not really total retirement. /  
+
+sv          A.60 utt1:   {D Well, } it's interesting, {D you know, } because when you look at what Richardson has done with the early retirement you, -/ 

@@ -1,0 +1,220 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4036_1534_1505
+TOPIC#:		341
+DATE:		920302
+TRANSCRIBER:	GL
+UTT_CODER:	TC
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.    
+
+=============================================================================
+  
+
+sv          A.1 utt1: I think that, {F uh, } one, {F uh, } advantage of having, {F uh, } the unanimous verdict is that in a criminal case you want to make sure that you don't, {F uh, } convict someone who, {F uh, } really shouldn't be convicted. /  
+
+aa          B.2 utt1:  Definitely. /  
+
+sv          A.3 utt1: {F Um, } {C and } I think that, {D you know, } a unanimous verdict, {F uh, } helps to ensure that.  /
+sv          A.3 utt2: I guess maybe one drawback of it is that if you have one juror who is very unreasonable in some way, that, {F uh, } you, {F uh, } would have a problem, {F uh, } {D you know, } that you wouldn't convict someone who maybe should be convicted. /  
+
+b          B.4 utt1:  Uh-huh. /  
+
+qy          A.5 utt1:  Have you ever served on a jury before? /  
+
+na          B.6 utt1:  {F Uh, } I have twice. /  
+
+bk          A.7 utt1:  {F Oh, } okay. /  
+
+sv          B.8 utt1:  It was a pretty wild experience. /  
+
+qw          A.9 utt1:  {F Uh, } what sorts of cases were they? /  
+
+sd          B.10 utt1: They were just, {D you know, } small time cases where, {F uh, } trailers and banks were involved, {D you know. } /  
+
+qr          A.11 utt1: {C So } were they criminal or civil? /  
+
+sd          B.12 utt1: They were civil.  /
+sd          B.12 utt2: # [ They weren't + # --   
+
+bk          A.13 utt1:  # {F Oh, } okay. # /  
+
++          B.14 utt1:  -- they weren't ] any criminal. /  
+
+qw          A.15 utt1: [ What, {F uh, } + what ] was the verdict?  /
+qy          A.15 utt2: [ Did the, + did the ] jury have trouble reaching a decision? /  
+
+sd          B.16 utt1: {F Uh, } the jury, [ it was, + {F uh, } {A let me see, } I think it was ] ten to one on the jury, because they only had to have eleven people  -- /  
+
+b          A.17 utt1:  Yeah. /  
+
+%          B.18 utt1: -- {C so } it was, - /
+%          B.18 utt2: they, - /
+sd          B.18 utt3: {C and, } {F uh, } the one changed his vote at the end. /  
+
+qy          A.19 utt1:  {C So } did it become? -/  
+
+sd          B.20 utt1: {C So } it became unanimous, {D you know, } after they turned it in  -- /  
+
+b          A.21 utt1:  Yeah. /  
+
+sd          B.22 utt1:  -- {C and then } he changed his mind after they turned it in -- /  
+
+%          A.23 utt1: {F Uh. } /  
+
+sd          B.24 utt1: -- {C but } it then became unanimous. /  
+
+qy^g          A.25 utt1: {F Uh. } {C But } since it was a civil case it really didn't matter, {D right? }  /
+qy^d          A.25 utt2: You just needed a majority? /  
+
+aa          B.26 utt1:  Right. /  
+
+qw          A.27 utt1: [ What was, + what was ] the other case?  /
+qy^d          A.27 utt2: That was also civil? /  
+
+sd          B.28 utt1: [ The, + the ] other case was just traffic,  /
+%          B.28 utt2: the, - /
+sd          B.28 utt3: {C and, } {D you know, } it was seat belt law -- /  
+
+b          A.29 utt1:  Yeah. /  
+
+sd          B.30 utt1: -- {C and } [ it, + it ] didn't even hardly --   
+
+^2          A.31 utt1: {F Oh, } didn't really even count. /  
+
++          B.32 utt1: -- go through,  /
+%          B.32 utt2: {C so. } -/  
+
+b          A.33 utt1: Yeah.  /
+sd          A.33 utt2: [ I'm, + I'm ] a college student  /
+sd          A.33 utt3: {C so } I haven't been, {D you know, } a jury eligible age for very long -- /  
+
+b          B.34 utt1:  Yeah. /  
+
+sd          A.35 utt1: -- {F um, } {C and, } {F uh, } I did get one summons actually at one point,  /
+sd          A.35 utt2: {C but } I declined it which I'm able to do because I'm a student, because it was, {F uh, } a very bad time. /  
+
+b          B.36 utt1: Yeah.  /
+sv          B.36 utt2: {D Well, } you learn a lot going to the juries like that though. /  
+
+sd          A.37 utt1: Yeah, {E I mean, } [ [ I, + I ] really, + I would like ] [ to, + {F uh, } to ] do at some point, {F um, }  /
+sd          A.37 utt2: {C but, } [ I, + I ] haven't.  /
+sv          A.37 utt3: {F Uh, } [ one, + one ] thing that [ I, + I ] think [ is, + {F um, } {D you know, } maybe is ] a problem is, {F uh, } [ I, + I ] think that the criminal jury system works pretty well now,  /
+sv          A.37 utt4: {C but } I wonder if maybe in some civil cases it doesn't work as well.  /
+%          A.37 utt5: # Especially sort of. # -/  
+
+sv          B.38 utt1: # I wouldn't think # that it does --   
+
+%          A.39 utt1:  [ How, + wha-, ] -/  
+
++          B.40 utt1: -- {E I mean, } [ [ from, + from ] my, + from what ] I experienced in them,  /
+sd          B.40 utt2: [ it didn't, + {D you know, } it didn't ] turn out the way I planned it, {E I mean, } the way that I would think that it would go. /  
+
+qy^d          A.41 utt1:  {F Uh, } you thought it turned out pretty well? /  
+
+ny          B.42 utt1: Yeah,  /
+%          B.42 utt2: {C but } [ it was, + {D you know, } it was, ] - /
+sv          B.42 utt3: jury was unorganized  /
+sd          B.42 utt4: {C and } [ it was, + it [ was + just wasn't ] ] organized enough for me. /  
+
+b          A.43 utt1:  Yeah. /  
+
+sd          B.44 utt1: I'm not used to it not being organized,  /
+sd          B.44 utt2: {C and } I just assumed that it would have been. /  
+
+bf          A.45 utt1: {F Oh, } {C so } it was just kind of a zoo  /
+bf          A.45 utt2: {C and } the jurors just sort of, - /
+qy^d          A.45 utt3: someone had to figure out what was going on? /  
+
+aa          B.46 utt1:  That's about what it was. /  
+
+sv          A.47 utt1: {F Um. } That's interesting.  /
+qy          A.47 utt2: [ Did it, + did it ] work out pretty well in the end?  /
+qy          A.47 utt3: {E I mean, } did a couple of people sort of gradually, sort of assume, {F uh, } sort of a moderator role in the trial  /
+%          A.47 utt4: {C or, } -/  
+
+ny          B.48 utt1: Yeah,  /
+sd^e          B.48 utt2: [ they, + {D well } they ] picked one person,  /
+sd          B.48 utt3: {C and then } he finally, {D you know, } moderated everything and made it turn out the way it should have. /  
+
+qy^d          A.49 utt1: {C So } [ it work-, + it did end up working ] out pretty well? /  
+
+ny          B.50 utt1:  Yeah,  /
+sd^e          B.50 utt2: it ended up working all right. /  
+
+sv          A.51 utt1: The one thing I sometimes wonder about, {F um, } in civil cases is, {F uh, } whether, especially sort of in, {F uh, } maybe {D like } [ pro-, + product ] liability, or medical malpractice, where there's, {F um, } sort of a very technical decision to be made sometimes -- -/  
+
+b          B.52 utt1:  Yes. /  
+
+sd          A.53 utt1: -- {D you know, } it's not just a matter [ of, + {F um, } of, ] {D you know, } did this guy rip off this guy,  /
+sd          A.53 utt2: {C and } it's just a matter of interpreting a contract,  /
+sv          A.53 utt3: it's sort of a matter of, {F um, } {D you know, } sometimes getting into very technical issues,  /
+sv          A.53 utt4: {C and } I wonder [ [ if, + {F uh, } if there's really, ] + {F um, } if the system ] works adequately [ in, + in ] educating the jurors about, {F uh, } whatever, {F um, } {D you know, } issue is under discussion. /  
+
+sv          B.54 utt1: [ I, + I ] don't think that [ [ they, + they, ] + they ] educate them enough [ to, + to ] really know what's going on. /  
+
+sd          A.55 utt1: [ In, + in ] the case you were involved in, you said it was just sort of a bank matter of some kind.  /
+%          A.55 utt2: {C So. } -/  
+
+b          B.56 utt1: Yeah,  /
+sd          B.56 utt2: [ the, + the ] bank was suing them [ for, + {F uh, } ] because  they went to get [ the, + the ] trailer --   
+
+b          A.57 utt1:  Yeah. /  
+
++          B.58 utt1: -- [ that, + which ] was, {F uh, } seemingly their property. /  
+
+%          A.59 utt1: {F Uh. } /  
+
+sd          B.60 utt1:  It was on his property. /  
+
+bf          A.61 utt1: {F Oh, } {C so } the deal was that he had, {F uh, } borrowed money from the bank to buy it,  /
+bf          A.61 utt2: {C and } --   
+
+aa          B.62 utt1:  Right. /  
+
++          A.63 utt1:  -- he hadn't made the payments. /  
+
+sd          B.64 utt1:  {C So } they came to get it. /  
+
+b          A.65 utt1:  Yeah. /  
+
+sd          B.66 utt1: {C And then } when they came to get it, {D well, } it was on the landlord's property  /
+sd          B.66 utt2: {C and } he wouldn't let them take it off. /  
+
+bf          A.67 utt1:  {F Uh, } {C so } they were suing to get it back. /  
+
+sd          B.68 utt1: [ {C So, } + {C and } ] [ they are, + it was ] a double wide,  /
+sd          B.68 utt2: {C so } they'd already taken it apart. /  
+
+%          A.69 utt1:  {F Uh. } /  
+
+sd          B.70 utt1: {C So } they left it there -- /  
+
+b          A.71 utt1:  Yeah. /  
+
+sd          B.72 utt1: -- {C and then } when they came back to get it a couple of days later it had rained and got all in it. /  
+
+%          A.73 utt1: {F Uh. } /  
+
+sd          B.74 utt1: {C So } they were suing him for the money,  /
+sd          B.74 utt2: {C and, } {D you know, } there's no way they could because [ it, + it ] was the moving company, / 

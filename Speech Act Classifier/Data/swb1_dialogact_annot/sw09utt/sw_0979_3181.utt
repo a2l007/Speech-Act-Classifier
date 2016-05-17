@@ -1,0 +1,284 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3181_1324_1253
+TOPIC#:		356
+DATE:		910930
+UTT_CODER:      mmab
+TRANSCRIBER:	glp
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Speaker B had a buzzing noise throughout the conversation.
+
+==========================================================================
+  
+
+o          A.1 utt1:  Okay. /  
+
+b          B.2 utt1:  All right,  /
+sd          B.2 utt2: {D well, } I'm not a big exerciser,  /
+sd          B.2 utt3: {C but } I kind of had to start after I had my baby because I wanted to lose that extra weight. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  {C And so } basically at this point [ I'm, + I'm ] a real walker. /  
+
+sd          A.5 utt1:  I am, too. /  
+
+bh          B.6 utt1:  Are you? /  
+
+ny          A.7 utt1:  Yes. /  
+
+sd          B.8 utt1:  I don't do [ that, + {F oh, } {A I guess I'll call it } that ] fancy type walking where they kind of move their hips, {D you know, } and --   
+
+b          A.9 utt1:  Uh-huh. /  
+
++          B.10 utt1:  -- keep their arms up.  /
+sd          B.10 utt2:  I don't do that.  /
+sd          B.10 utt3:  I mostly just take [ a, + a ] walk around the block or with my baby  /
+sd          B.10 utt4: [ {C or, } + {D you know, } {C and } ] I have to do that at least once a day.  [ If it, +   
+
+ba          A.11 utt1:  {F Oh, } that's good. /  
+
++          B.12 utt1:  If it's ] going to make any effect on, since I have to eat the same as I did before.  /
+sd          B.12 utt2: I can't neglect that because of the baby either. /  
+
+qw          A.13 utt1:  {C And } how old is your baby? /  
+
+sd          B.14 utt1:  [ She just, + {F uh, } {D well, } she ] was premature,  /
+sd          B.14 utt2: {C so } she's about nine months now, though.  /
+sv          B.14 utt3:  Goll-, times goes fast. /  
+
+aa          A.15 utt1:  Yes. /  
+
+x          B.16 utt1:  <Laughter>.   
+
+sd          A.17 utt1:  {D Well, } I walk two and a half to three miles every night. /  
+
+ba          B.18 utt1:  {F Oh, } that's great. /  
+
+sd          A.19 utt1:  My husband and I were on Nutrisystem about eighteen months ago -- /  
+
+b          B.20 utt1:  Uh-huh. /  
+
+sd          A.21 utt1:  -- {C and } he lost sixty-two pounds -- /  
+
+x          B.22 utt1:  <Breathing>.   
+
+sd          A.23 utt1:  -- {C and } I lost twenty-one. /  
+
+ba          B.24 utt1:  {F Oh, } my goodness. /  
+
+sd          A.25 utt1:  <Lipsmack>.  {C So } we've decided to maintain our weight, that we will do this exercise walking program  /
+sd          A.25 utt2: {C and } we walk our dog every night --   
+
+b          B.26 utt1:  Uh-huh. /  
+
++          A.27 utt1:  -- and go up around the elementary school.  /
+sd          A.27 utt2:  We have a little path that we do.   
+
+b          B.28 utt1:  Uh-huh. /  
+
++          A.29 utt1:  [ {C And, } + {F uh, } except ] if it's raining or real cold --   
+
+b          B.30 utt1:  Yeah. /  
+
++          A.31 utt1:  -- which it hasn't been -- /  
+
+b          B.32 utt1:  Exactly. /  
+
+sd          A.33 utt1:  -- we try to get out, {F uh, } [ every, + every ] night. /  
+
+b          B.34 utt1:  Uh-huh. /  
+
+sd          A.35 utt1:  {C And } he plays racquetball twice a week,  /
+sd          A.35 utt2: {C but } I'm not into that,  /
+sv          A.35 utt3: {C so } --   
+
+x          B.36 utt1:  <Laughter>.   
+
++          A.37 utt1:  -- I think the walking is enough to help us stay in shape and toned. /  
+
+sv          B.38 utt1:  {D Well, } I think that is just wonderful.  /
+sd          B.38 utt2:  {D Now, } as far as I'm concerned, I have several other children  /
+sv          B.38 utt3: {C and so, } {F uh, } I think at this point to fit it [ into, + to ] other things, it's kind of a task. /  
+
+aa          A.39 utt1:  Yes. /  
+
+sd(^q)          B.40 utt1:  {D You know. }  {F Uh, } it's not to where I'm just so freed up that [ I, + I ] just go, {F oh, } this is wonderful,  /
+^q          B.40 utt2: let's go <laughter>. /  
+
+aa          A.41 utt1:  Right <laughter>,  /
+aa          A.41 utt2: that's right.  /
+sd          A.41 utt3:  I know my kids are into sports  /
+sd          A.41 utt4: {C and } [ a lot of times, + tonight ] we won't finish with the football game till around nine thirty  /
+sd          A.41 utt5: {C so } we will just go out after that. /  
+
+b          B.42 utt1:  Uh-huh. /  
+
+sd          A.43 utt1:  {C So, } my kids, luckily, are old enough I can leave them at home alone while I go out and walk. /  
+
+b          B.44 utt1:  Yeah.  /
+qy          B.44 utt2:  {D Now, } does your husband usually go with you, then? /  
+
+ny          A.45 utt1:  Yes. /  
+
+ba          B.46 utt1:  {F Oh, } {D see, } {D now } that's really nice. /  
+
+aa          A.47 utt1:  Yes. /  
+
+sd          B.48 utt1:  Because mine's at meetings sometimes  /
+sd          B.48 utt2: [ {C and, } + {C and } ] he's not really into it  /
+%          B.48 utt3: {C so } --   
+
+%          A.49 utt1:  No -- /  
+
++          B.50 utt1:  -- I have to, -/  
+
+sd          A.51 utt1:  -- my husband never was either until he lost the weight. /  
+
+b          B.52 utt1:  Uh-huh. /  
+
+sd          A.53 utt1:  That was his decision.  /
+
+sd          A.53 utt2:  He had arthritis in his hips  /
+sd          A.53 utt3: {C and } his doctor said he needed to lose weight and exercise. /  
+
+sv          B.54 utt1:  I think that is so wonderful. /  
+
+sd          A.55 utt1:  {C So } once he got motivated, now he's ready to walk every night.  /
+sd          A.55 utt2: {C And } our dog has lost a little weight.  /
+sd          A.55 utt3:  He walks every night, too <laughter>. /  
+
+x          B.56 utt1:  <Laughter>.   
+
+sd          A.57 utt1:  {C So, } he gets excited when he sees us put on [ [ our, + our shoes, ] + our walking shoes. ] /  
+
+ba          B.58 utt1:  I bet.   /
+sv          B.58 utt2: I think that's really, really good.  /
+sv          B.58 utt3: [ {C And, } + {C and, } ] {D you know, } I think [ this, + after you've done it a certain amount of time, it ] kind of does get to be a routine. /  
+
+aa          A.59 utt1:  Yes. /  
+
+%          B.60 utt1:  It's not, - /
+sd          B.60 utt2: {D like } when I first started, it, {D you know, } that was the hardest thing was --   
+
+^2          A.61 utt1:  Making time for it. /  
+
++          B.62 utt1:  -- to get ready and get out there.  /
+sd          B.62 utt2:  {C But } now if I haven't done it in a day or two or something, I really notice that I haven't done it in a <laughter> ... -/  
+
+b          A.63 utt1:  Yes. /  
+
+sd          B.64 utt1:  {D You know. }  {C And } I like the time because my kids, sometimes they come with me  /
+sd          B.64 utt2: {C and } sometimes they don't.  /
+sd          B.64 utt3:  {C And } when they don't, [ I, + I ] really notice, {D you know, } how fun it can be when they come.  /
+sd          B.64 utt4: {C So, } {F uh, } I like to have somebody come with me. /  
+
+aa          A.65 utt1:  I know,  /
+sd          A.65 utt2: I do, too. /  
+
+sd          B.66 utt1:  {F Uh, } I know [ most of, + enough of ] the people that if anything ever happened I could go to a home --   
+
+b          A.67 utt1:  Right. /  
+
++          B.68 utt1:  -- around this block area.  /
+sd          B.68 utt2: {C So } [ it, + it's ] not real dangerous,  /
+sd          B.68 utt3: {C but } still, I don't like to go alone. /  
+
+aa          A.69 utt1:  No. /  
+
+%          B.70 utt1:  {D So } <<faint>>. -/  
+
+sd          A.71 utt1:  I never do either. Even if I have my dog with me. /  
+
+b          B.72 utt1:  Yeah. /  
+
+aa          A.73 utt1:  {D You know, } it's nice to have another person there,  /
+%          A.73 utt2: {C but } ... -/  
+
+aa          B.74 utt1:  Yeah.  /
+%          B.74 utt2:  {D You know, } /  
+
+sd          A.75 utt1:  Mostly, it's my husband  /
+sd          A.75 utt2: {C and } sometimes it's my kids. /  
+
+sv          B.76 utt1:  {D Well, } I think that's great.  /
+sd          B.76 utt2:  [ I, + {C and, } {D well, } sometimes when [ I, + I ] ] take my kids to the playground that's the only other exercise [ I, + I ] really think I do.  /
+sd          B.76 utt3:  I was on an exercise program before where it was more like an aerobics type thing. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  {F Uh, } I found real quick that wasn't for me. /  
+
+sd          A.79 utt1:  Me, too.  /
+sd          A.79 utt2: I did the dance step when I lived up in --   
+
+b          B.80 utt1:  Uh-huh <<very faint>>. /  
+
++          A.81 utt1:  -- Michigan  /
+sd          A.81 utt2: {C and } it just wore me out.  /
+sd          A.81 utt3:  I would leave totally exhausted.  /
+sd          A.81 utt4:  I never lost any weight,  /
+sd          A.81 utt5: {C and } I got to the point I dreaded going in. /  
+
+b          B.82 utt1:  Yeah,  /
+b^r          B.82 utt2: yeah. /  
+
+sd          A.83 utt1:  So walking seems to be a good solution for me  /
+sd          A.83 utt2: {C and } it doesn't cost anything <laughter>. /  
+
+aa          B.84 utt1:  Right <laughter>,  /
+aa^r          B.84 utt2: right.  /
+sd          B.84 utt3: {C And } it gives me time to think.  /
+sd          B.84 utt4:  {C So } I think, not only does it help my body,  /
+sd          B.84 utt5: {C but } I think it helps my mind --   
+
+aa          A.85 utt1:  Yes. /  
+
++          B.86 utt1:  -- too.  /
+sd          B.86 utt2:  {C So } I like that. /  
+
+sd          A.87 utt1:  That's the one time in the day my husband and I can get away and talk --   
+
+b          B.88 utt1:  Uh-huh. /  
+
++          A.89 utt1:  -- without having the kids jump in and ... -/  
+
+aa          B.90 utt1:  Yeah,  /
+^2          B.90 utt2: need something  /
+%          B.90 utt3: {C and, } -/  
+
+aa          A.91 utt1:  Yep. /  
+
+sv          B.92 utt1:  They can wait until you get back home. /  
+
+aa          A.93 utt1:  Yep. /  
+
+sv          B.94 utt1:  {D Well, } I think that's great <lipsmack>.  /
+sd          B.94 utt2: {D Well, } that's what I do for <laughter>, -/  
+
+b          A.95 utt1:  Yep,  /
+sd          A.95 utt2: that's all I do, too. /  
+
+b          B.96 utt1:  Okay. /  
+
+b^m          A.97 utt1:  Okay. / 

@@ -1,0 +1,380 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2663_1104_1084
+TOPIC#:		352
+DATE:		910424
+Utt-CODER:	lsh
+TRANSCRIBER:	GL
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:  Speaker A speaks very fast and runs his words together. 
+Some child noise in the background.
+
+===========================================================================
+  
+
+sd^t          A.1 utt1:  I just pressed my, {F uh. } -/  
+
+sd^t          B.2 utt1:  We're supposed to talk about recent political developments. /  
+
+sd^t          @A.3 utt1:  I got one that's interesting,  [ not too, + not too ] controversial,  /
+%          @A.3 utt2: I, - /
+%          @A.3 utt3: {D you know, } not, - /
+sd          @A.3 utt4: doesn't matter whether you're Democrat or Republican.  /
+sd          @A.3 utt5:  [ I, + I ] do get somewhat of a kick out of, - /
+sv          @A.3 utt6: because Schwartzkopf, or the other generals, who I admire, how everyone wants to make, get them in politics. - /
+sv          @A.3 utt7: I think --   
+
+b          B.4 utt1:  Uh-huh. /  
+
++          A.5 utt1:  -- that's kind of an interesting recent thing,  that I could think of recently that, {F uh, } - /
+sd          A.5 utt2: I was wondering what you thought about that --   
+
+b          B.6 utt1:  Yeah. /  
+
++          A.7 utt1:  -- [ making the general, + {F uh, } getting a general ]  into politics. /  
+
+sv         B.8 utt1:  They want him because he's popular, not because he can do the job. /  
+
+aa          A.9 utt1:  Right.  /
+sd          A.9 utt2:  {D Well, } [ I've, + I've ]  been thinking about it,  /
+sd          A.9 utt3: {C and } [ I, + {F uh, } I ] kind of get a kick out of they always want the hero,  /
+%          A.9 utt4:  those, - /
+sv          A.9 utt5: we're looking for a hero.  /
+sd         A.9 utt6:  {D Well, } TIME magazine was saying that in essence <child>   the general's staff was comparing to corporate presidents,  /
+sd          A.9 utt7: {C and } they said in  general, generals are more familiar with training, that they believe in training more. /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+sd          A.11 utt1:  They are much more educated than the average corporate president,  /
+sd          A.11 utt2: {C and so }  they really were very positive on a general's staff  person having [ a, + a ] very much better education than the average, {F uh, }  corporate president.  /
+sd(^q)       A.11 utt3: {C So, } I thought {D well, } maybe. /  
+
+sv          B.12 utt1:  [ I, + I ] think they probably have a better education than the average congressman. /  
+
+aa          A.13 utt1:  {D Well, } that, too,  /
+aa^r          A.13 utt2: that, too.  /
+sd          A.13 utt3:  {C And, } {F uh, } {D you know, } they talk about the Army  /
+sd          A.13 utt4: and because of the war  /
+sd          A.13 utt5: {C and } why did we win, and all that,  /
+sd          A.13 utt6:  {C and } they talked about how the training was so important.   /
+sd          A.13 utt7: <child> {C And } that's so important in industry,  /
+sv          A.13 utt8: {C so, } {D you know, } they're liable to be right.    That [ generals, + generals ] in the service, - /
+sv          A.13 utt9: {C and } Schwartzkopf, {F uh, } {D you know, }  might make a good, {F uh, } politician, whether it be Governor or whatever, {D you know. } /  
+
+sv          B.14 utt1:  [ [ He, + he, ] + {D you know, } we ]  know he's a good leader,  /
+sv          B.14 utt2: we know he's a good organizer.  /
+sd(^q)       B.14 utt3: The question is, {D you know, } can he be the  man who's ultimately responsible.  /
+sd(^q)       B.14 utt4:  {D You know, } like what he said  is, {D you know, } a lot of times in his interviews he was talking about, {D you know, }  people asking why are you doing this, why are you doing that.  /
+sd(^q)       B.14 utt5:  He says, I'm following the orders of my president.  /
+^q          B.14 utt6: I'm not the one who writes the orders.  /
+^q          B.14 utt7:  I'm just the one who follows them. /  
+
+b          A.15 utt1:  Yeah,  /
+sv          A.15 utt2: it's interesting how they say that when they're usually the top dogs,  {D you know, } /
+sv          A.15 utt3: everyone has a boss, of course. /  
+
+sd          B.16 utt1:  {D You know, } Schwartzkopf was ordered to get Iraq out of Kuwait. /  
+
+b          A.17 utt1:  Yeah. /  
+
+sd(^q)       B.18 utt1:  {C And so } he went to the President and said, {D okay, } here's how I want to do it. /
+sd          B.18 utt2: {C But } he wasn't the one that decided Iraq needed to get out of Kuwait. /  
+
+aa          A.19 utt1:  No,  /
+aa          A.19 utt2: that's true,  /
+aa^r          A.19 utt3: that's true. /  
+
+b          B.20 utt1:  Uh-huh. /  
+
+ad^t          A.21 utt1:  {F Uh, } [ you, + you ] pick one. /  
+
+x          B.22 utt1:  <Laughter>.   
+
+sd^t          A.23 utt1:  I just thought of that one [ when, + when ]  they brought up about politics.  /
+sv          A.23 utt2:  That was, {F uh, } pretty easy -- /  
+
+b          B.24 utt1:  Yeah. /  
+
+ad^t          A.25 utt1:  -- you don't have to pick Democratic or Republican,  /
+ad^t          A.25 utt2:  you can pick anything you want,  /
+ad          A.25 utt3: go ahead. /  
+
+sd           B.26 utt1:  {D Well, } the thing that I'm <children> wondering about is how we get a new congress.  /
+qh           B.26 utt2:  How do we get some of these guys that have been in there for so  long, <children> - /
+qh          B.26 utt3: how do we get them <<pause>> to not get reelected over and over again. /  
+
+sd           A.27 utt1:  {D Well, } I have an easy answer for that,  {F oh, }  {A I wish they would do it, } is that limit it, {D you know, } to eight or ten years max. /  
+
+b          B.28 utt1:  Yeah. /  
+
+sv          A.29 utt1:  {D You know, } whether that's two --   
+
+%          B.30 utt1:  I th-, - /
+b          B.30 utt2: yeah. /  
+
++          A.31 utt1:  -- five year terms or whatever. /  
+
+aa          B.32 utt1:  Yeah.  /
+sv          B.32 utt2:  That may be our only answer,  /
+sd          B.32 utt3: {C but } I don't really like  it.  /
+sd           B.32 utt4:  I don't like the fact that the President is limited in the number of terms he can serve. /  
+
+ar          A.33 utt1:  {F Oh, } {D you know, } you're not. /  
+
+sd          B.34 utt1:  I think if the President, be him Republican or Democrat, - /
+sv          B.34 utt2:  I think if the President can prove that he's popular, {D you know, }  that he can do the job --   
+
+b          A.35 utt1:  Yeah. /  
+
++          B.36 utt1:  -- then the people should be allowed to elect him as often as they want.  /
+sv          B.36 utt2: I think the reason why we've got these guys in Congress is because of the fund raising rules.  /
+sv          B.36 utt3:  {E I mean, } how many of these big campaign contributions that they're running on this year, did they get [ after they  were elected, + [ just, + {D you know, } just ] after ]  they were elected two years ago. /  
+
+b          A.37 utt1:  Yeah. /  
+
+sv          B.38 utt1:  Basically the people, - /
+sv(^q)       B.38 utt2: as soon as they get elected, the people dump all kinds of money on them and say, {D Yeah, }  {D yeah, }   you're my friend,  /
+^q          B.38 utt3: you're my friend,  /
+sv          B.38 utt4: {C and } two years later he remembers that.  /
+sv          B.38 utt5:  {C And } what they done is they've bought this congressman for two years. /  
+
+b          A.39 utt1:  Yeah,  /
+h          A.39 utt2: I don't know,  /
+sd          A.39 utt3: <child_crying> I do like the limitation of the President,  /
+sv          A.39 utt4: {C and } I think there is a needed change.  /
+sv          A.39 utt5:   I think the same thing should happen for Congress.  /
+%          A.39 utt6: [ I, + I'd  ] lik-, {D you know, } - /
+sd          A.39 utt7:  that would be my answer of an --   
+
+b          B.40 utt1:  Yeah,  /
+%          B.40 utt2: well. -/  
+
++          A.41 utt1:  -- easy way to get these guys out of there for twenty years.  /
+sv          A.41 utt2: My God, it's ridiculous, {D you know. } /  
+
+sv          B.42 utt1:  [ That's, + that's ] <child_crying> the easy way.  /
+sv          B.42 utt2:   I think the harder way out would be to make the guys that are in there and  the guys who are trying to get in there run on more level ground <child_crying>. /  
+
+%          A.43 utt1:  We had. -/  
+
+sv          B.44 utt1:  That's what the financing rules and the, {F uh, } the mailing rules and the size of the office staff and all that stuff. -/  
+
+sd^t          A.45 utt1:  [ I think voting [ is, + is ] a prob-, + I think ]  I had one of the subject about voting, <child>  and, {F uh, } voting apathy, or  something like that,  /
+sv          A.45 utt2: {C and } I think that, {F uh, } the voting rules need to be  changed where you have a little more time.  /
+sd          A.45 utt3:  <child squealing>  I can't believe that a country our big votes for a President from seven o'clock in the morning  til seven o'clock at night, {D you know. } /  
+
+b          B.46 utt1:  Yeah. /  
+
+sd          A.47 utt1:  <Child> Of course they have absentee which is getting to be [ more, + ] a lot easier, /
+sd          A.47 utt2: {C and } [ I, + I ] vote as often on absentee as I can because it's so easy now.  /
+sv          A.47 utt3: {C But, } I think, {D gee whiz, } you could make it a  couple <child> days.  /
+sv          A.47 utt4:  It's just, if you really want the majority of the people to vote --   
+
+b          B.48 utt1:  Yeah. /  
+
++          A.49 utt1:  -- then give them a couple of days. /  
+
+sv          B.50 utt1:  {D Well, } I think a lot more people could  vote if they were somehow persuaded that it's something worth caring about. /  
+
+b          A.51 utt1:  Yeah,  /
+b^r          A.51 utt2: yeah. /  
+
+sv          B.52 utt1:  {D You know, } like, {D you know, } [ the, + the ]  recent election about how the Dallas City Council should be made up, that election last December. /  
+
+qy          A.53 utt1:  Are you in Dallas? /  
+
+ny          B.54 utt1:  Yeah,  /
+sd^e          B.54 utt2: I'm in Dallas city limit. /  
+
+sd          A.55 utt1:  Boy,  [ [ I, + I, ] + I ] live in Arlington.  /
+sd          A.55 utt2:   I am so happy not to be part of Dallas --   
+
+b          B.56 utt1:  Yeah. /  
+
++         A.57 utt1:  -- when I see those folks there. /  
+
+sv          B.58 utt1:  It's an ugly mess. /  
+
+sd          A.59 utt1:  {E I mean, } I don't know if you like the mayor,/
+sv          A.59 utt2: {C but }  I think your mayor, - /
+sv          A.59 utt3: the city council, - /
+%          A.59 utt4: the, - /
+qw          A.59 utt5: what is the woman's name  whose, [ us, + ] not the mayor but the, -/   *[[typo should be who's]]
+
+^2          B.60 utt1:  The manager. /  
+
+aa          A.61 utt1:  Yeah,  /
+sd^r          A.61 utt2: the city manager.  /
+sv          A.61 utt3:  All of them need to be thrown out.  /
+sv          A.61 utt4: {E I mean, } they're just awful, just awful. /  
+
+sd          B.62 utt1:  {D Well, } what get's me is this thing,  it went down to defeat last December {A by how many votes, }  by just a few hundred votes. /  
+
+b          A.63 utt1:  Uh-huh  /
+x          A.63 utt2: <child_crying>.   
+
+sv          B.64 utt1:  {C And } [ if it, + if it ] had passed, - /
+sv          B.64 utt2:  if these people had gotten out the vote, it would have passed  /
+sv          B.64 utt3: {C and } there'd be no more argument.  /
+sv          B.64 utt4:   {C But } they're still fighting about it because of the --   
+
+aa          A.65 utt1:  I know. /  
+
++          B.66 utt1:  -- way the election went last December. /  
+
+sv          A.67 utt1:  It's so awful that politicians always spent consulting money.    That we put them in office and then they go out and spend a couple  hundreds of thousands of dollars to buy  consultants,  /
+sv          A.67 utt2: {C and then } they don't even do that recommendation, {D you know. } /  
+
+b          B.68 utt1:  Uh-huh,  /
+b          B.68 utt2: yeah. /  
+
+sv          A.69 utt1:  {E I mean, } it's amazing the money that they spend once they get in. /  
+
+sd          B.70 utt1:  [ {C But, } + {C but } ] this is [ for, + ]  supposedly to benefit the minorities,  /
+sv          B.70 utt2: {C and } all the minorities had to do was go out and get a couple more  hundred people to vote -- /  
+
+aa          A.71 utt1:  {D Well } you're right there. /  
+
+sv          B.72 utt1:  -- {C and } they would have had their way. /  
+
+aa^r          A.73 utt1:  You're right there.  /
+%          A.73 utt2:  {F Uh, } {F uh, }  people are, - /
+%          A.73 utt3: {F uh, } {F uh, } politics, {F uh, } - /
+sv          A.73 utt4: the voting is still not as much as you think in all kinds of issues really. /  
+
+aa          B.74 utt1:  Yeah,  /
+sv          B.74 utt2: it's pretty sad. /  
+
+aa          A.75 utt1:  Yeah,  /
+sv          A.75 utt2: it is.  /
+sd          A.75 utt3: {F Uh, } hopefully people will get more involved. /  
+
+sd          B.76 utt1:  [ My, + my ] position is people who don't vote don't have any right to complain about the way the government's going. /  
+
+aa          A.77 utt1:  {F Oh, } yeah,  /
+sv          A.77 utt2: {C but } those are the ones that are complaining, {A [ I, + I ] think, } a lot.  /
+sd          A.77 utt3: I see it here at T I.  /
+sd          A.77 utt4: The guys that don't take any interest  in, [ and, + and ] constantly on the negative of everything. /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+bh          A.79 utt1:  {C And, } {F uh, }   
+
+sd         B.80 utt1:  [ {C And, } + {C and } ]  you ask them why they don't vote,  /
+sd(^q)       B.80 utt2: they say {D well } they don't want their name on the, {F uh, } jury duty list. /  
+
++          A.81 utt1:  Is that right? {F Ooh. } /  
+
+sd          B.82 utt1:  [ That, + that's ] where they get the jury duty list, is from the voter registration. /  
+
+aa          A.83 utt1:  Right,  /
+aa          A.83 utt2: you're right,  /
+aa^r          A.83 utt3: you're right.  /
+sv           A.83 utt4:  <<pause>> I think they could do more about, {F uh, } voting. /  
+
+sv^m          B.84 utt1:   ((   ))  I think they could. /  
+
+qw          A.85 utt1:  What are the issues?  /
+sd          A.85 utt2: [ I, + I'm ] a Democrat,  /
+sd           A.85 utt3:  I want to just say that I'm so sad that there isn't a strong Democrat.  /
+h          A.85 utt4:  I don't even know,  /
+sd          A.85 utt5:  I could go out and debate George Bush better than I see any Democrat doing it. /  
+
+b          B.86 utt1:  Uh-huh. /  
+
+sd          A.87 utt1:  {D You know, } {E I mean, } at least I'd like to see  compe-, - /
+sd          A.87 utt2: {C because } I like  competition, {D you know. } /  
+
+b          B.88 utt1:  Yeah. /  
+
+sv          A.89 utt1:  I think rolling over and put your belly up and play dead, - /
+sd          A.89 utt2:   I'm so disgusted with the Democratic party,  /
+sd*          A.89 utt3: I can not believe it, {D you know. } /   *[[typo cannot]]
+
+sv          B.90 utt1:  In Presidential races that's about what they've done,  /
+sv          B.90 utt2:  {C but } they've got a pretty good lock on Congress and --   
+
+b          A.91 utt1:  Yeah. /  
+
++          B.92 utt1:  -- a lot of local things. /  
+
+b          @@A.93 utt1:  Yeah,  /
+sv          @@A.93 utt2: {C but } I still think in the last ten years, - /
+sd          @@A.93 utt3:  {D you know, } of course that's not a recent event,  /
+h          @@A.93 utt4: that's only my opinion,  /
+h          @@A.93 utt5:  I guess I really shouldn't talk about that.  /
+sd          @@A.93 utt6:  {C But, } <noise> I don't know whether  they're recent events.  /
+sd^t          @@A.93 utt7:  I guess [ they we-, + ] on this, {F uh, } speech thing, <child>  they want us to use a variety of words. /  
+
+aa          B.94 utt1:  Right. /  
+
+qy^t          A.95 utt1:  How many times have you called, by the way? /  
+
+sd^t          B.96 utt1:  {D Actually, } I haven't made any calls,  /
+sd^t          B.96 utt2: {C but }  I received about a dozen. /  
+
+b          A.97 utt1:  {F Oh, } {D really, } [ [ I, + I, ] + I, ] -/  
+
+sd^t          B.98 utt1:  I  think, {D yeah, }  I have to make these,  /
+sd^t          B.98 utt2: {C but }  I get distracted and get to do something else,  /
+sd^t          B.98 utt3: {C and } all of a sudden my phone rings,  /
+sd(^q)       B.98 utt4:  and go, {D Well, } what the heck, we'll talk for a while. /  
+
+b          A.99 utt1:  Yeah,  /
+sd^t          A.99 utt2: I've already got twelve cards.  /
+qy^t          A.99 utt3:   You get any cards in the mail? /  
+
+ny          B.100 utt1:  Yeah,  /
+sd^t          B.100 utt2: we got a whole bunch.  /
+sd^t          B.100 utt3: I can't remember how many. /  
+
+h          A.101 utt1:  I don't know,  /
+sd          A.101 utt2: I'm amazed by, - /
+sd          A.101 utt3: of course,  we're not talking about politics,  /
+sd^r          A.101 utt4: {C but } I am amazed by, - /
+sd^t          A.101 utt5: people say they got thirty.  /
+sd^t          A.101 utt6:  {D Well, } I wonder why you need thirty renditions of the persons voice,  /
+sd^t          A.101 utt7:  {C but } I'm not in voice synthesis. /  
+
+x          B.102 utt1:  <Laughter>.   
+
+sd^t          A.103 utt1:  {C But } I'd sure like to see a summary of it.  /
+sd          A.103 utt2:  We'll get to politics, {E I'm sorry } <laughter>. /  
+
+sd^t          B.104 utt1:  {D Well, } I think we've used up as much time as  we're supposed to anyway. /  
+
+aa          A.105 utt1:  Yeah,  /
+aa^r          A.105 utt2: right. /  
+
+sd^t          B.106 utt1:  We're supposed to do five minutes,  /
+sd          B.106 utt2: {C and } that was three minutes ago. /  
+
+b          A.107 utt1:  Yeah. /  
+
+ft          B.108 utt1:  Hey, {D well } thanks for the call. /  
+
+fc          A.109 utt1:  Yeah,  /
+fc          A.109 utt2: bye-bye. /  
+
+fc          B.110 utt1:  Yeah,  /
+fc          B.110 utt2: bye. / 

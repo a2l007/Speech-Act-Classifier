@@ -1,0 +1,156 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4572_1537_1199
+TOPIC#:		336
+DATE:		920405
+TRANSCRIBER:	nk
+UTT_CODER:      mmab
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:        Both speakers tended to mumble some, especially B B also
+talked low.
+
+==========================================================================
+  
+
+qo          A.1 utt1:  {D So, } {F uh, } what things do you consider  an invasion of privacy? /  
+
+no          @B.2 utt1:  {F Ooh, }  {D well } I don't know.  /
+qo          @B.2 utt2:  What do you think? /  
+
+no          A.3 utt1:  {F Oh, } I don't know.  /
+sd          A.3 utt2:  I had a little bit more time  to think about it.  /
+sd          A.3 utt3:  I was thinking of,  {D like, }  {F uh, } - /
+h          A.3 utt4: <sniffing>  I don't know,  /
+sd          A.3 utt5: I [ was ju-, +  started ] to think about all the big, {D you know, } data bases they have with all the information about you on them like the credit reports --   
+
+b          B.4 utt1:  Uh-huh,  /
+b^r          B.4 utt2: uh-huh. /  
+
++          A.5 utt1:  -- and all those, {D you know, } demographics studies that they do that, <swallowing> {F um, } {D you know, } have, who knows, how much, {D you know, } stuff about all the purchases that you've made and everything kept tract  somewhere  /
+h          A.5 utt2: {C and } <sniffing> I don't know,  /
+sd          A.5 utt3:  I don't know [ how much the stuff  actually, + what they actually have ] in there  /
+sv          A.5 utt4: {C but } --   
+
+b          B.6 utt1:  {F Huh. } /  
+
++          A.7 utt1:  -- I know [ they use that, + {E I mean } they # sell those, # ] -/  
+
+qo          B.8 utt1:  # {D Well } what about, # {F uh, } required drug testing,  {F uh, } as a, {F uh, } condition of employment? /  
+
+^h          A.9 utt1:  <Sniffing> Yeah,  /
+sd          A.9 utt2: [ that was, + [ that, + that ] was ]  the other one I was thinking of <sniffing>.   /
+%          A.9 utt3: I think that's, {F uh, } - /
+sd          A.9 utt4: {E I mean } I know #  drugs <noise> are illegal. # /  
+
+%          B.10 utt1:  # It  ((   ))  thing # actually. - /
+sd          B.10 utt2: {F Uh, } I, {F uh, }  have worked at Texas Instruments. /  
+
+b          A.11 utt1:  <Noise> {F Huh. }  Uh-huh. /  
+
+sd          B.12 utt1:  {C And, }  {F uh, } they instituted a [ drug policy there. +    Drug testing policy ] where they randomly would test, {F uh, } employees -- /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  -- {C and } {D actually, } to tell you the truth,  I really did not think much about it.  /
+sd          B.14 utt2: [ I, + I ] hadn't, {D you know, }  /
+sd          B.14 utt3:  it really didn't relate to me.  /
+qh          B.14 utt4:  {C But } there were some things that people brought up like {D well } what happens  if [ they, + they ] get a false positive, {D you know, } what recourse do you have. /  
+
+b          A.15 utt1:  <Talking> Uh-huh. /  
+
+sv          B.16 utt1:  {C And, }  <throat_clearing> also, {F uh, } {F uh, }  this is against the law for the government to do [ this kind of thing, +  this kind of big brother  activity ]  /
+sv          B.16 utt2: {C and } yet, {F uh, } a lot of these large corporations such as Texas  Instruments, although they don't admit to  it, [ it's +  {D actually, } {F oh, } a drug  testing policy comes ] about as a result of government pressure. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sv          B.18 utt1:  {C So } <throat_clearing> what that means is,     to me, that really it's the government that's requiring this,  /
+sv          B.18 utt2: although they don't actually  [ e-, +  execute ] it themselves, it's really the government that  ((   )) . - /
+sv          B.18 utt3:  {C So, } in that sense, [ it, + at least, philosophically, it's ] really borderline legal. /  
+
+b          A.19 utt1:  Uh-huh.  /
+sv          A.19 utt2: {D Well } <talking> [ [ I, + I ]  think the, + I think that, ] {D you know, } a person's competence should be more determined by, {D you know, }  their actions and their behavior  /
+sv          A.19 utt3: {C and } [ if they're, + {D you know, } if they're ]  on some kind of, {D you know, } [ contol-, +  controlled ] substance then, {D you know, } it  kinds of takes away from the job of, {D you know, } the supervisor or manager type person,  {D you know, } who is able to evaluate them.  /
+sv          A.19 utt4: I think they should be evaluated that way rather than <sniffing> with [ a, +  {D you know, } a ] chemical, # {D you know, } # /  
+
+qh          B.20 utt1:  # {D Well, } what about # this, {F uh, } AIDS epidemic now?  /
+sv          B.20 utt2:   Where you find that, {F uh, } {F uh, } {D you know, } certain people [ are +  actually  [ are, + are ] ] criminal in their disregard for [ it-, +  --   
+
+qy          A.21 utt1:  <Sniffing> These people that are  carriers and # [ don't # + --   
+
++          B.22 utt1:  -- # others. ]  /
+%          B.22 utt2: #  Yeah,  /
+sv          B.22 utt3: [ {C and } + --   
+
++          A.23 utt1:  -- that don't ] reveal it? /  
+
++          B.24 utt1:  -- {C and, } ]  {F uh, } of course, the  ultimate solution is to operate on their brain so that it doesn't, -/  
+
+x          A.25 utt1:  <Sniffing>.   
+
+sv          B.26 utt1:  [ it, + {F uh, } it ]  destroys their libido. /  
+
+sv          A.27 utt1:  <Laughter>  (( Yeah, [ tha-, + ))  that ]  would be kind of an extreme. /  
+
+%          B.28 utt1:  {D Now, } {F uh, } # {D you know } if they ever, # -/  
+
+sd          A.29 utt1:  # {E I mean } I've # heard of things like, {D you know, }  [ making them, + {D you know, } marking them ] somehow [ or, + {D you know, } or ]  something like that or, {D you know, } putting them all someplace like in a # kind of, # -/  
+
+qo          B.30 utt1:  # {C So } what # about that as an invasion of privacy? /  
+
+^h          A.31 utt1:  Yeah.  /
+sv          A.31 utt2: {D Wel-, }  I guess it kind of borders on  [ where, + {E I mean } what ] do you value more.  The invasion of, {F uh, } the person's privacy or the  possible danger to, {D you know, } other people. /  
+
+b          B.32 utt1:  {C So } really,  /
+bf          B.32 utt2: it [ i-, + ] gets to balancing, {F uh, }  personal freedom against, {F uh, } the general welfare --   
+
+aa          A.33 utt1:  Yeah. /  
+
++          B.34 utt1:  -- of society. /  
+
+sv          A.35 utt1:  I guess [ that's  alwa-, + that's been ]  the big role of government, I guess <laughter>.   # {E I mean } generally. # /  
+
+sv          B.36 utt1:  # {D Well, } [ it, + it's ] supposed # to have been. /  
+
+aa          A.37 utt1:  Yeah  /
+aa^r          A.37 utt2: <laughter>.  Yeah.  /
+sv          A.37 utt3: {D Well, } that's kind of a  difficult one to go into.  /
+sv          A.37 utt4: I mean [ that, + that ] particular case. /  
+
+ar          B.38 utt1:  <Throat_clearing>  (( No,  /
+%          B.38 utt2: it )) , -/  
+
+sv          A.39 utt1:  {C Because } {E I mean, } there's a lot of people  that, {F uh, } {E I mean } they could require, {D you know, } <swallowing> [ ob-, +  obligatory ] AIDS  testing for everyone because [ I'm, + ] {D you know, } there's a huge part  of the population,  /
+sv          A.39 utt2: not a huge part  {C but }  a,  {D you know } -- -/  
+
+^2          B.40 utt1:  A growing part. /  
+
+sv          A.41 utt1:  -- the AIDS population I guess that have it,  that don't know they do --   
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  -- are spreading it.  /
+sv          A.43 utt2:  {C But, }  again,  to require, {D you know, } such a test [ and  jus-, + and then ] to [ make, + make ] it  ((   ))   is to subject them [ to, + to ] [ discrimi-, + discriminatory ] practices and other things.  /
+h          A.43 utt3: I don't know,  /
+sd          A.43 utt4: {F uh, } I don't know how exactly I feel about that. /  
+
+sv          B.44 utt1:   (( Maybe ))  chop their weenies off. / 

@@ -1,0 +1,595 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2278_1090_1028
+TOPIC#:		365
+DATE:		910326
+TRANSCRIBER:	GL
+UTT_CODER:      aabo
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+ 
+o          B.1 utt1:  Okay,  /
+qy          B.1 utt2: {F um, } {D so, } {F um, } do you have any favorite teams? /  
+
+na          A.2 utt1:  {D Well, } I kind of like them all.  /
+sd          A.2 utt2: I played for about eighteen years, all the way through college, and then, {F uh, } kind of hung them up after college, /
+%          A.2 utt3: {C but, } <laughter>. -/  
+
+sd          B.3 utt1:  {F Oh, } I was going to say, you played pro ball, /
+^g          B.3 utt2: right? /  
+
+nn          A.4 utt1:  No,  /
+sd^e          A.4 utt2: not quite. /  
+
+b^m          B.5 utt1:  Not quite, {F huh. } /  
+
+%             A.6 utt1:  Made it, - /
+%            A.6 utt2: yeah,  /
+sd          A.6 utt3: made it all the way through four years of college playing ball,  /
+o@          A.6 utt4: {C but, }    
+
+b          B.7 utt1:  Oh. /  
+
++@         A.8 utt1:  {D Anyway. }  {F Uh, } being in Rochester, you probably like the Mets. /  
+
+ny          B.9 utt1:  Yes,  /
+sd^e          B.9 utt2: I'm {D actually } a Met, - /
+sd          B.9 utt3: [ I'm, + I'm ] one of these people who's actually a die hard Mets fan,   
+
+x          A.10 utt1:  <Laughter>.   
+
++          B.11 utt1:  and an avid Yankee hater. /  
+
+qy^g          A.12 utt1:  {F Oh, } {D boy, } [ it, + I think it's ] {D like } one or the other, isn't it.  {E I mean, } /  
+
+ny          B.13 utt1:  Yeah,  /
+%          B.13 utt2: [ it's, + it's, ] - /
+sd^e          B.13 utt3: [ [ I, + I, ] + I ] find it very strange.  /
+%          B.13 utt4:  {F Um, } more people, - /
+sv          B.13 utt5: {D you know, } real Met fans don't like the Yankees /
+sv          B.13 utt6: {C and } real Yankee fans don't like the Mets for some reason. /  
+
+b          A.14 utt1:  Yeah. /  
+
+sd          B.15 utt1: [ I never fou-, + I never  quite found ] a New York fan. /  
+ 
+x          A.16 utt1:  <Laughter>.   
+
+sd          B.17 utt1:  I always found a fan, {D you know, } of {C either } one {C or } the other,  /
+sd          B.17 utt2: {C and so, } that of course means that when it comes to the American League my favorite team is the Red Sox --   
+
+b          A.18 utt1:  {F Oh, } okay, /  
+
++          B.19 utt1:  -- by default, because I went to college also in Boston. /  
+
+ba          A.20 utt1:  I see,  /
+%          A.20 utt2: yeah,  /
+sd          A.20 utt3: I like the, {F uh, } - /
+sd          A.20 utt4: {F huh, } I guess if I had to pick a favorite team, any more, as well as, - /
+sd          A.20 utt5: I kind of grew up rooting for Philadelphia. /  
+
+b          B.21 utt1:  Oh. /  
+
+sd          A.22 utt1:  I'm from New Jersey originally. /  
+
+b          B.23 utt1:  Yeah,  /
+sd          B.23 utt2: [ {C so } that, + {C so } that's ] sort of close enough. /  
+
+b          A.24 utt1:  Yeah,  /
+sd          A.24 utt2: {D well, } we were thirty miles south of them,  /
+o@          A.24 utt3: {C so. }   
+
+qy^d          B.25 utt1:  {F Oh, } {C so } you were pretty close.  /  
+
++@          A.26 utt1:  Yeah,  /
+sd^e          A.26 utt2: right down the river,  /
+qw          A.26 utt3: {C but, } {F uh, } {C so } what are the Mets going to do this year without Strawberry? /  
+
+h          B.27 utt1:  {D Well, } I don't know. {F Um, } [ there's, + there's ] a part of me that says that, {D you know, } {F um, } I'm sort of glad Strawberry went away. /  
+ 
+x          A.28 utt1:  <Laughter>.   
+ 
+sd          B.29 utt1:  {D You know, } [ when, + when ] he sort of went away, I started thinking, {D yeah, }  {D well, } he was performing fairly well,  /
+sv          B.29 utt2: {C but } he really wasn't worth the baggage, {D you know. } /  
+
+b          A.30 utt1:  Yeah. /  
+
+sd          B.31 utt1:  {F Um, } I think they're okay,  /
+sd          B.31 utt2: I think they're, - /
+sd          B.31 utt3: {D you know, } I think they have enough people [ [ who are, + who are, ] + who are ] still in their prime, {D you know. } /  
+
+b          A.32 utt1:  Uh-huh. /  
+
+sv          B.33 utt1:  {F Um, } {E I mean, } certainly if you look at them compared to, let's say, {D you know, } {F um, } eight years ago or something, [ [ [ [ they're + --   
+
+b          A.34 utt1:  Yeah. /  
+
++          B.35 utt1:  -- they're, ] + they're, ] + they're, ] + {D you know, } they're ] sort of  [ in, +  in ] good standing, whereas, {D you know, } {F um, } <noise> <<knocking sound>> [ I think, + I certainly don't think ] they're the eighty-six team  any more. /  
+
+sd          A.36 utt1:  {D Well, } I was going to talk to you about that eighty-six team <laughter>. /  
+
+b          B.37 utt1:  Yeah,  /
+%          B.37 utt2: I, -/  
+ 
+sd          A.38 utt1:  [ That was, + that was ] the year they beat Houston in extra innings,  /
+^g   A.38 utt2: right. /  
+
+na^m          B.39 utt1:  Right,  /
+sd^m          B.39 utt2: they  ((   ))  beat Houston in extra innings,  /
+sv          B.39 utt3: {C and then } they {D actually } won the series bye-bye sort of a sneaky route, {F um, } against Boston --   
+
+%          A.40 utt1:  Yeah. /  
+
++          B.41 utt1:  -- when there was the ball that was sort of hit to Buckner  ((   )) . /  
+
+x          A.42 utt1:  <Laughter>.   
+
+sd          B.43 utt1:  I felt real bad about that,  /
+qh          B.43 utt2: {C but } {D hey, } what can you do. /  
+
+sd          A.44 utt1:  {D Hey, } the guy's making millions,  /
+sv          A.44 utt2: he ought to be able to perform,  /
+^g          A.44 utt3: right. /  
+
+na          B.45 utt1:  That's right,  /
+aap          B.45 utt2: {D well, } {D actually, } [ [ he, + he, ] + he ] was supposedly, {F um, } - /
+sd          B.45 utt3: [ there was, + there was ] something wrong with him at the time,  /
+%          B.45 utt4: {C and } I, -/  
+
+^2          A.46 utt1:  {D Well, } his knees were bothering him,  /
+%          A.46 utt2: yeah. /  
+
+b          B.47 utt1:  Right,  /
+ba          B.47 utt2: [ {C and } I, + {C and } I ] understand that,  /
+sv          B.47 utt3: {C and } I say, {D Hey } if the guy can't play, you don't blame that,  /
+sv          B.47 utt4: {F uh, } hit it to him,  /
+sv          B.47 utt5: you blame the team, {D you know, } for putting him in, /  
+
+b          A.48 utt1:  Yeah,  /
+^2          A.48 utt2: for having him out there. /  
+
+aa          B.49 utt1:  That's right,  /
+%          B.49 utt2: {C so. } -/  
+
+b          A.50 utt1:  Sure. /  
+
+sd          B.51 utt1:  {C So, } [ [ [ [ I, + I, ] + I was, ] + {F uh, } I was also, ] + I was ] in school at Boston at the time. /  
+
+ba          A.52 utt1:  {F Oh, } boy. /  
+
+%          B.53 utt1:  {C So, } I, - /
+sd          B.53 utt2: it was actually wonderful because where I was they were half Met fans and, {F um, } half Sox fans. /  
+
+b          A.54 utt1:  Yeah,  /
+sv          A.54 utt2: I think we were all pretty much, {F uh, } Astros fans, in the National League Championship Series -- /  
+
+b          B.55 utt1:  Oh. /  
+
+sd          A.56 utt1:  -- {C but } there's {D like } two fellows from, {F uh, } Brooklyn, /  
+
+x          B.57 utt1:  <Laughter>.   
+
+sd          A.58 utt1:  {C and } [ [ they, + they were, ] + {D you know, } they were ] pretty much without having to say, they were pretty much Mets fans <laughter>. /  
+
+b          B.59 utt1:  Yeah,  /
+b^r          B.59 utt2: yeah,  /
+qy^d          B.59 utt3: {D well } [ I guess they were, + {F uh, } I guess they must ] have been scared <laughter> after the, {F uh, } -/  
+
+nn          A.60 utt1:  No,  /
+sd^e          A.60 utt2: not really,  /
+sv          A.60 utt3: they were pretty much thugs,  /
+sv          A.60 utt4: they weren't scared very much, {D you know } <laughter>. /  
+
+ba         B.61 utt1:  {D Well, } that's good,  /
+qy^d          B.61 utt2: {D well, } they're Brooklyn boys, I guess. /  
+
+b         A.62 utt1:  Yeah  /
+x          A.62 utt2: <laughter>.   
+
+sv          B.63 utt1:  You don't expect them to be, {F uh, } much of anything but thugs.  /
+o@          B.63 utt2: I know.  I was born there.  {F Um. } /  
+
+b           A.64 utt1:  Really. /  
+
+b          B.65 utt1:  Yeah,  /
+sd          B.65 utt2: [ [  I, + I was, ] + I was ] also born in Brooklyn, /
+sd          B.65 utt3: {C so } I can call myself a Brooklyn thug, although I'm really not. /  
+
+b          A.66 utt1:  Okay,  /
+b^r          A.66 utt2: okay.  /
+sd          A.66 utt3:  {D Well, } I'm not to say that all folks from Brooklyn are thugs,  /
+%          A.66 utt4: {C but }  /
+sv          A.66 utt5:  these two were definitely thugs,  /
+sd          A.66 utt6: {C and } they were from Brooklyn <laughter>. /  
+
+x          B.67 utt1:  <Laughter>.   
+
+sd          A.68 utt1:  {C So } I'm kind of hoping, - /
+sd          A.68 utt2: [ [ I, + I, ] + I ] guess, {F uh, } any more - /
+sd          A.68 utt3: I pretty much pull for the Rangers though.  /
+sd          A.68 utt4: [ [ [ [ [   They're, + {F uh, } they're, ] + they're ] they, ] + they have, ] + I think they have ] the best facilities in the major leagues. /  
+
+b          B.69 utt1:  Yeah. /  
+
+sd          A.70 utt1:  I love going to watch a game in Arlington stadium.  /
+sd          A.70 utt2:  It's great. /  
+
+%          B.71 utt1:  <Laughter> {D Well, } [ that, + that's ] - /
+sd          B.71 utt2: {D actually, } I think I make something, because I think, - /
+sd          B.71 utt3: [ [ {C and, } + {C and, } ] + {C and } ] in as much as sort of fan support helps. /  
+ 
+b          A.72 utt1:  Yeah. /  
+
+sv          B.73 utt1:  {D You know, } it's good to have, {F um, } -/  
+
+sv          A.74 utt1:  The only problem is it's not large enough.  /
+sd          A.74 utt2:  It only holds about, - /
+sd          A.74 utt3: I think they, when Ryan struck out his five thousandth player, they squeezed about forty thousand people in there. /  
+
+aa          B.75 utt1:  Yes,  /
+aa          B.75 utt2:  it is kind of small. /  
+
+b          A.76 utt1:  Yeah,  /
+sd          A.76 utt2: {C so } [ [ they're, + they, ] + they ] have plans, - /
+sd          A.76 utt3: {E I mean, } the owner tried to move them to Florida -- /  
+ 
+b          B.77 utt1:  Right. /  
+
+sd          A.78 utt1:  -- {C but, } {F uh, } they ended up sticking around in Arlington,  /
+sd          A.78 utt2: {C and } they're going to build a new stadium in Arlington, as a matter of fact, not even in Dallas, /  
+
+ba          B.79 utt1:  {F Oh, } that's great.  /
+%          B.79 utt2: {C So, } -/  
+
+sd          A.80 utt1:  {C So } [ that's, + that's ] something that we're looking forward to. /  
+
+b          B.81 utt1:  Yeah,  /
+sd          B.81 utt2: that'll be nice,  /
+sd          B.81 utt3: {E I mean, } [ that, + that, ] I think, tends to keep, - /
+sv          B.81 utt4: I think stadiums  ((   ))  work tend to keep people happy. /  
+
+aa          A.82 utt1:  {F Oh, } case in point, Toronto. /  
+
+aa          B.83 utt1:  Yeah,  /
+aa          B.83 utt2: exactly. /  
+
+b          A.84 utt1:  Yeah,  /
+qy          A.84 utt2: have you seen a game up there? /  
+
+ng          B.85 utt1:  {F Uh, } I haven't been to any Toronto games yet.  /
+%          B.85 utt2:  {C But, } {F um, } -/  
+
+sd          A.86 utt1:  {F Oh, } boy, I saw it, I was up there on business, {F uh, } last June and watched a game in the sky dome. /
+sd          A.86 utt2:  It was just phenomenal.  /
+sv          A.86 utt3: [  That's, + that's ] probably the pattern for the future of stadiums, I think. /  
+
+aa^m          B.87 utt1:  Of stadiums, yeah,  /
+sd          B.87 utt2: {D well, } {E [ I, +  I ] mean } to get up there. - /
+sd          B.87 utt3: {E I mean, } [ the, + the ] best   I've been up here so far, {D you know, } [ up, + in up ] state New York --   
+
+b        A.88 utt1:  Uh-huh. /  
+
++          B.89 utt1:  -- is, {F uh, } is, {F um, } Rochester Red Wings game. /  
+
+qy          A.90 utt1:  {D Now } is Rochester, - /
+qw          A.90 utt2: [ where, + where ] is Cornell University. /  
+
+sd          B.91 utt1:  {F Oh, } Cornell is in Ithaca. /  
+
+b^m          A.92 utt1:  Ithaca. /  
+
+b           B.93 utt1:  {F Uh, } yeah,  /
+sd          B.93 utt2: {C so } Cornell is about, {F um, } somewhere, {F uh, } about two and a half hours [ south of, + south ] and east of us. /  
+
+b          A.94 utt1:  Okay. /  
+
+sd          B.95 utt1:  {C So } if you know where Lake Ontario is sort of.  -/  
+
+b          A.96 utt1:  Yeah,  /
+qy^g          A.96 utt2: {D well } Rochester is {D like } right on the shores, isn't it? /  
+
+ny          B.97 utt1:  Yeah,  /
+sd^e          B.97 utt2: we're about ten miles south of Lake Ontario. /  
+
+b          A.98 utt1:  Yeah,  /
+b          A.98 utt2: okay. /  
+ 
+sv          B.99 utt1:  {D Actually } whoever built the city was an idiot, in my opinion,   
+ 
+x          A.100 utt1:  <Laughter>.   
+
++          B.101 utt1:  because [ they built it, + they built it ] far enough from the city that it actually couldn't be a port city. /  
+
+b          A.102 utt1:  {F Oh, } /  
+
+%          B.103 utt1:  {F Um, } {C but } they, -/  
+
+sv(^q)         A.104 utt1:  {D Well, } they say that from that space needle up in Toronto you can see the lights of Rochester on a clear night. /  
+
+sd          B.105 utt1:  {F Oh, } {D really, } [ I ne-, + I ] hadn't actually known that. /  
+
+b          A.106 utt1:  Yeah. /  
+
+sd          B.107 utt1:  {D Well, } {F um, } {C but } we have [ our own, + {F um, } our own ] triple A team here -- /  
+
+b          A.108 utt1:  Yeah. /  
+
+sd          B.109 utt1:  -- the Redwings, [ which are + --   
+
+b          A.110 utt1:  Yeah,  /
+b          A.110 utt2: okay. /  
+
++          B.111 utt1:  -- they're ] a farm team for the Orioles. /  
+
+b          A.112 utt1:  Yeah. /  
+
+sd          B.113 utt1:  {C So } everybody hopes that, {F uh, } they go all the way around here.  /
+%          B.113 utt2:  There's the, - /
+sd          B.113 utt3:  they're the big team in Rochester. /  
+
+sv          A.114 utt1:  Those games are fun to watch.  /
+qy          A.114 utt2: [ [  You, + you, ] + you ] watch those games? /  
+
+ny          B.115 utt1:  {F Oh, } yeah,  /
+%          B.115 utt2: I - /
+sd          B.115 utt3: {D actually, } [ [ we, + we, ] + we ] make a point of going to a bunch of them every year because they're fun. /  
+
+b          A.116 utt1:  Yeah. /  
+
+sd          B.117 utt1:  Lots of really big, - /
+sd          B.117 utt2: {D you know, } lots of local fans, {D you know, } small stadium, {D you know, } {F um, }  /
+sd          B.117 utt3: {C and } they'll get a crowd of less than ten thousand sometimes, {D you know } -- /  
+
+b          A.118 utt1:  Uh-huh,  /
+b^r          A.118 utt2: uh-huh. /  
+
+o         B.119 utt1:  -- {F um, } especially, - /
+sd          B.119 utt2: {D you know, } I'll make a day game or something.  /  
+
+b          A.120 utt1:  Yeah. /  
+
+sd          B.121 utt1:  {C But } they really seem to, {F uh, } - /
+sd          B.121 utt2: people really get into it.  /
+sd          B.121 utt3:  {E I mean, } [ [ I can't, + [ I, + I, ] + again, I can't ] make any predictions about them,  /
+sv@          B.121 utt4: {C but } I suspect they'll go, {F uh, } they'll go fly.   
+
+b          A.122 utt1:  <Laughter> Yeah,  /
+sd          A.122 utt2: we used to like watching, - /
+sd          A.122 utt3: [ my, + my ] folks lived down in Beaumont,  /
+sd          A.122 utt4:  {C and, } {F uh, } on the campus of Lamar University they used to house the Beaumont Golden Gators who were a double A team for the Padres, I think,  /
+sd          A.122 utt5: {C but, } {F uh, } [ they, + they ] were fun games to watch. /  
+
++@          B.123 utt1:  Yeah.  /
+sv          B.123 utt2:  [ [ Those are, + those are, ] + {F uh, } I think those are ] more fun than major league games sometimes. /  
+
+aap          A.124 utt1:  Someti-, - /
+sv          A.124 utt2: {D well, } there's definitely a lot more hitting <laughter>. /  
+
+aa          B.125 utt1:  Yes,  /
+aa          B.125 utt2:  it's true. /  
+
+x          A.126 utt1:  <Laughter>.   
+
+sv          B.127 utt1:  One of the advantages of not having pitchers who are -- -/  
+
+b          A.128 utt1:  Yeah. /  
+
+sv          B.129 utt1:  -- {F uh, } {F uh, } {D you know, } [ I guess, + I guess ] when you start pitching real well, {D well, } move them up. {D Bam }  ((   )) . /  
+
+b          A.130 utt1:  Yeah. /  
+
+b          B.131 utt1:  Yeah,  /
+%          B.131 utt2: {C but } {F um. } -/  
+
+sd          A.132 utt1:  {C So } as far as the major league teams, <barking> I don't know, the Rangers have been, - /
+sd          A.132 utt2: {D you know, } every year they always knock on the door early, and then just go into their skid about, {D you know, } the end of June. /  
+
+x          B.133 utt1:  <Laughter>.   
+
+sd          A.134 utt1:  {C But } [ they, + they've ] got so much young, raw talent,  /
+sd          A.134 utt2: it's just amazing,  /
+sd          A.134 utt3: {C and  then } they just haven't been able to put anything together. /  
+
+sv          B.135 utt1:  {D Well, } [ the way I, + the way I ] see it, is, - /
+sd          B.135 utt2: {E I mean, } {F um, } {D you know, } I can use a Met analogy here. /  
+
+b          A.136 utt1:  Uh-huh. /  
+
+sd          B.137 utt1:  If you'll think back a few years to when the Mets were just all this sort of young bunch of guys who really were raw talent but weren't very sort of, well trained --/  
+
+b          A.138 utt1:  Yeah. /  
+
+sd          B.139 utt1:  -- {D you know, } back to, {D you know, } maybe eighty, eighty-four or  eighty-three --   
+
+b          A.140 utt1:  Uh-huh. /  
+
++          B.141 utt1:  -- or eighty-five, {D you know, } [ when they were first, + when they weren't ] quite the eighty-six team [ [ that, + that, ] + that ] they were. /  
+ 
+b          A.142 utt1:  Right. /  
+
+%          B.143 utt1: [  I, + I, ] - /
+sv          B.143 utt2: that probably gives the readers a good shot for you this year or next year, [ I think, + if, I think, + the young talent really just has to build itself up. /  
+
+b          A.144 utt1:  Yeah,  /
+sd          A.144 utt2: {E I mean, } [ they've been, + they've been ] young for a while,  /
+sd          A.144 utt3: {C and } they're [ almo-, + almost ] starting to age a little bit here,  /
+%          A.144 utt4: I just, {F um. } -/  
+
+x          B.145 utt1:  <Laughter>.   
+
+b          A.146 utt1:  Yeah,  /
+b^r          A.146 utt2: yeah,  /
+sd          A.146 utt3: [ they, + they ] really hurting pitching wise.  /
+sd          A.146 utt4:  {E I mean, } they've got Ryan,  /
+qh          A.146 utt5: {C but, } {D you know, } who knows what he'll be able to do.  /
+sd          A.146 utt6: He's been, - /
+sd          A.146 utt7: last year he started having some nagging injuries, /
+sd          A.146 utt8: [ {C and } -- +   
+
+aa          B.147 utt1:  Right,  /
+%          B.147 utt2: {C but. } -/  
+
++          A.148 utt1:  -- {C but, } ] [ it'll, + it'll ] be interesting to watch.  /
+sd          A.148 utt2:  I hope to get up there.  /
+sd         A.148 utt3: [  We, + we ]  usually try to get to opening day game.  /
+sd          A.148 utt4: There's several guys from our church try to go up there. /  
+
+ba          B.149 utt1:  {F Oh, } that must be nice. /  
+
+b          A.150 utt1:  Yeah,  /
+sd          A.150 utt2: {D well, } [ I, + I ] guess we're [ probably, + {F oh, } maybe ] a hundred fifty miles south of Dallas. /  
+
+o@          B.151 utt1:  {D Well, } that isn't too bad.  Just a couple of hours. /  
+
+aa          A.152 utt1:  No,  /
+aa^m          A.152 utt2: not too bad,  /
+sd          A.152 utt3: {C but } it takes about two hours, two and a half hours to get there. /  
+
+b          B.153 utt1:  Yeah,  /
+sd          B.153 utt2: {D well } it takes me a good seven hours to get to Shay Stadium. /  
+
+x          A.154 utt1:  <Laughter>.   
+
+h          B.155 utt1:  {C So, } I don't know. /  
+
+sv          A.156 utt1:  That's probably because of the roads.  /
+sd          A.156 utt2:  You just don't have, - /
+sd          A.156 utt3: [ we, + we've ] just got a freeway.  /
+sd          A.156 utt4:  We just get right on the freeway and just go north. /  
+
+b          B.157 utt1:  Yeah,  /
+aap          B.157 utt2: {D well, } {D actually, } [ [ we can, + we can, ] + I can ] take a highway the whole way down,  /
+sd          B.157 utt3: {C but } [ [ [ it's still, + it's some -- ] +   
+
+sv          A.158 utt1:  {D Well, } it's so crowded up there. /  
+
++          B.159 utt1:  -- it's, ] + it's ] almost four hundred hou-, - /
+sv          B.159 utt2: {E I mean, } {E I mean, } it's almost four hundred, - /
+sd          B.159 utt3: {D you know, } barring traffic, it's four hundred hours,  /
+sd          B.159 utt4: {E I mean, } four hundred mil-, - /
+sd          B.159 utt5: four hundred hours,  /
+t1          B.159 utt6: right,  /
+sd          B.159 utt7: <laughter> four hundred miles --   
+
+ba          A.160 utt1:  Golly. /  
+
++          B.161 utt1:  -- barring traffic,  /
+sv          B.161 utt2: {C so, } [ [ [ it's, + {F um, } it's, ] + it's, ] + {D you know, } it's ] a heck of a drive.  /
+sv          B.161 utt3:  We are substantially north of New York enough that, {F uh } --   
+
+b          A.162 utt1:  Yeah. /  
+
++          B.163 utt1:  -- we don't get to go play --   
+
+o@          A.164 utt1:  {F Um. }   
+
++          B.165 utt1:  -- too often. /  
+
++@          A.166 utt1:  {D Well, } yeah,  /
+sd          A.166 utt2: [ you're, + you're ] like a boat ride from, - /
+qw          A.166 utt3: how far is it across the lake to Canada? /  
+
+bc          B.167 utt1:  Toronto. /  
+
+br^m          A.168 utt1:  Toronto? /  
+
+sd          B.169 utt1:  {F Oh } Toronto's only about two hours,  /
+%          B.169 utt2: yeah. /  
+
+b          A.170 utt1:  Yeah. /  
+
+sd          B.171 utt1:  Toronto, {E I mean, } I want to go see. /  
+
+qy          A.172 utt1: [ Do, + do ] you drive there,  /
+qrr          A.172 utt2: {C or } do you take the ferry, or what? /  
+
+na         B.173 utt1:  {F Um, } I can, - /
+sd         B.173 utt2: [ I've + {D actually } I've ] driven,  /
+sd          B.173 utt3: {C but } I've heard about the ferry as well. /  
+
+b           A.174 utt1:  Yeah. /  
+
+sd          B.175 utt1:  Haven't taken it yet, though.  /
+qy          B.175 utt2:  Have you taken it? /  
+
+ny          A.176 utt1:  Yeah,  /
+sd^e          A.176 utt2: [ it's a, + it's a ] beautiful city. /  
+
+b          B.177 utt1:  Yeah,  /
+sv          B.177 utt2: {F um, } [ I, + I ] really love, - /
+sv          B.177 utt3: I think that's one of the most, {F uh, } enjoyable things about being up here.  /
+sd          B.177 utt4:  I'm only up here for school. /  
+
+b          A.178 utt1:  Uh-huh.  /
+qy          A.178 utt2:  [ {C So, } + {C and then, } ] {E I mean, } you go back to New York after school? /  
+
+nn          B.179 utt1:  {F Uh, } no,  /
+sd^e          B.179 utt2: probably south, maybe Texas <laughter>. /  
+
+b           A.180 utt1:  {F Oh, } really. /  
+
+sd          B.181 utt1:  Some place south, and warm,  /
+sd          B.181 utt2: I don't, - /
+sd          B.181 utt3: [ I'm not a big, + {F uh, } I'm not a big, ] {F uh, } cold fan. /  
+
+qw          A.182 utt1:  {D Well, } what kind of weather are you having right now? /  
+
+sd          B.183 utt1:  {F Uh, } right now we're actually having, {F uh, } - /
+sd          B.183 utt2: it's getting nice.  /
+sd          B.183 utt3: {E I mean, } it was in the high fifties today,  /
+sd         B.183 utt4: {C but } three and a half weeks ago, we had an ice storm <laughter>. /  
+
+ba          A.184 utt1:  {F Oh, } boy,  /
+b          A.184 utt2: yeah,  /
+sd          A.184 utt3: we've been up in the, {F oh, } seventies, eighties, even up in the nineties a couple of weeks ago. /  
+
+ba          B.185 utt1:  {F Oh, } that's great.  /
+sd          B.185 utt2: {D You know, } about that same time branches were falling off everywhere,  /
+sd          B.185 utt3: {C and } we were actually in a state of emergency for two weeks. /  
+
+ba          A.186 utt1:  Golly.  /
+qy          A.186 utt2:  Because of the ice? /  
+
+^h           B.187 utt1:  {C Because } it, didn't make the [ nat-, + national ] news too much, which I find really weird -- /  
+
+b          A.188 utt1:  {F Um. } /  
+
+%          B.189 utt1:  -- {C but, } {F um, } we were, {E I mean, } {F um, } - /
+sd          B.189 utt2: {D you know, } all schools were closed [ [ for almost, + for over, ] + for ] a week. /  
+
+ba          A.190 utt1:  Golly. /  
+
+sd         B.191 utt1:  There were certain parts of town where it was illegal to drive. /  
+
+b^m          A.192 utt1:  {F Huh, } illegal, /  
+
+b          B.193 utt1:  Yeah,  /
+sd          B.193 utt2: {C because } they had so many power lines down -- /  
+
+ba          A.194 utt1:  {F Oh, } yeah. /  
+
+sd          B.195 utt1:  -- {C and so } many, {F uh, } things like that, - /
+sd          B.195 utt2: {C so } they were ... -/ 

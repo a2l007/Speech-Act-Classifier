@@ -1,0 +1,287 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4334_1551_1496
+TOPIC#:		308
+DATE:		920323
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:        None.
+
+======================================================================
+  
+
+qw^d          A.1 utt1:  Type of music is hot down in Texas? -/  
+
+sd          B.2 utt1: {F Uh, } {D well, } I don't know exactly what's hot down in Texas.  /
+sd          B.2 utt2: I know what's hot down here with me,  /
+sd          B.2 utt3: {C so } that's about all I can feel apt to discuss with you since I just know, - /
+sd          B.2 utt4: I don't ever listen to the radio  /
+sd          B.2 utt5: {C and } that's usually what's hot around here  /
+qw          B.2 utt6: [ {D so, } +   
+
+bk          A.3 utt1:  {F Oh, } okay. /  
+
++          B.4 utt1: {D So, } ] what kind of music do you like? /  
+
+sd          @A.5 utt1: {F Uh, } mostly folk music. /  
+
+b^m          B.6 utt1:  Folk music. /  
+
+ny          A.7 utt1: Yeah,  /
+sd^e          A.7 utt2: I find myself, {F uh, } listening to a lot of, {F uh, } {F uh, } either old timer or New England, {F uh, } dance bands as well as, {F uh, } just more popular folk music and new artists coming up. /  
+
+b          B.8 utt1: Uh-huh.  /
+sv          B.8 utt2: {D Well, } we're on totally different wavelengths. /  
+
+b          A.9 utt1:  Okay. /  
+
+sd          B.10 utt1: I'm more, {F uh, } old rock and roll, {F uh, } some [ new, + newer, ] {D I guess you would call it } heavy metal rock and roll type --   
+
+b          A.11 utt1:  Uh-huh. /  
+
++          B.12 utt1:  -- {D you know, } {F uh, } Van Halen, that kind of thing. /  
+
+b          A.13 utt1:  Yeah,  /
+qw          A.13 utt2: what about, {F uh, } classic rock type stations. /  
+
+sd          B.14 utt1: {F Uh, } I don't listen to the radio at all.  /
+sd          B.14 utt2: We live in a fairly small town,  /
+sd          B.14 utt3: {C so } --   
+
+bk          A.15 utt1:  {F Oh, } okay. /  
+
++          B.16 utt1: -- {F uh, } classic rock for me is what I have, which is {D like, } {F uh, } Doors, Eagles, Jimmy Hendrix. /  
+
+sv          A.17 utt1:  {D So, } [ some -- +    
+
+b          B.18 utt1:  {F Uh, } /  
+
++          A.19 utt1:  -- some ] of the older Eagles stuff was good. /  
+
+b          B.20 utt1:  Yeah. /  
+
+sd          A.21 utt1: [ I, + I ] didn't like, {F uh, } - /
+sv          A.21 utt2: they started getting a little more, {D you know, } - /
+sv          A.21 utt3: the type of music, at least to me, [ [ [ it's, + {F uh, } sounds ] + like it's ] + only sounds ] good at a high volumes  /
+sd          A.21 utt4: {C and } I don't like listening at high volumes. /  
+
+b          B.22 utt1:  Yeah.  /
+b^r          B.22 utt2:  Yeah. /  
+
+sd          A.23 utt1: {C But, } {F uh, } some of their older [ s-, + stuff ] was, {F uh, } {D you know, } quite enjoyable to me. /  
+
+b          B.24 utt1:  Yeah,  /
+%          B.24 utt2: {D well } they, -/  
+
+sd          A.25 utt1: {D You know, } [ Ho-, + Hotel ] California and that era. /  
+
+b          B.26 utt1: Yeah,  /
+b^r          B.26 utt2: yeah  /
+sv         B.26 utt3: [ that does, + that's ] something [ you don't, + doesn't ] even sound good loud really. {D You know. } /  
+
+b          A.27 utt1:  Yeah. /  
+
+aa          B.28 utt1: {D You know, } definitely.  /
+qy          B.28 utt2: {F Uh, } {D so, } anything new you like coming out now, other than folk music, some I might know of.  /
+sd          B.28 utt3: I don't know any folk music at all. /  
+
+sd          A.29 utt1: {D Well, } down in Texas, {F uh, } {D you know, } [ little, + listen to a little ] country every now and then. /  
+
+b          B.30 utt1:  Yeah,  /
+b^r          B.30 utt2: {F oh } yeah,  /
+%          B.30 utt3: here, -/  
+
+sv          A.31 utt1:  I'm sure there's a lot of that down there. /  
+
+sv          B.32 utt1: {F Oh, } plenty.  /
+sv          B.32 utt2: [ Way, + way ] more than I can stand down here. /  
+
+x          A.33 utt1:  <Laughter>.    
+
+sd          B.34 utt1: <Laughter> [ I, + I ] don't care for it at all, that Texas twang or whatever you want to call it.  /
+%          B.34 utt2: I, -/  
+
+sd          A.35 utt1: {D Well, } [ there, + there's ] a Conway Twitty twang,  /
+sd          A.35 utt2: then  there's the, {F uh, } Dolly Parton, {F uh, } Hollywood sound. /  
+
+aa          B.36 utt1: Yeah,  /
+aa^r          B.36 utt2: yeah,  /
+sv          B.36 utt3: that's [ more, + even more ] commercialized [ for + ] [ of + ] --   
+
+b          A.37 utt1:  Yeah. /  
+
++          B.38 utt1: -- country music.  /
+sv          B.38 utt2: {C But, } {F uh, } it's [ getting, + {F uh, } {F uh, } getting ] pretty big everywhere, as I see it.  /
+sd          B.38 utt3: Garth Brooks is outselling Guns and Roses  /
+%          B.38 utt4: {D so, } -/  
+
+b          A.39 utt1: Yeah,  /
+sv          A.39 utt2: I think some of them, the artists are even, {F uh, } hitting the pop charts. /  
+
+b          B.40 utt1: Yeah,  /
+sv          B.40 utt2: [ it's, + it's ] kind of strange that it's getting as big as it is.  /
+sv          B.40 utt3: Concert tours for country and western sings [ [ is, + it's, ] + it's ] [ quite, + quite ] odd,  /
+h          B.40 utt4: {C but, } {F uh, } I don't know,  /
+sv          B.40 utt5: [ it's, + music is ] kind of going an odd direction nowadays, I think.  /
+sv          B.40 utt6: It's becoming not necessarily good music, just popular music, {D you know. } /  
+
+fe          A.41 utt1: Hey,  /
+sv          A.41 utt2: [ [ I, + I, ] + I ] think most artists are in to make a few bucks. /  
+
+b          B.42 utt1:  Yeah,  /
+%          B.42 utt2: {C and } that's all it, -/  
+
+sv          A.43 utt1:  {C But } they're not in it to say anything or give a message --    
+
+b          B.44 utt1:  Yeah. /  
+
++          A.45 utt1: -- which is what they were do-, - /
+sv          A.45 utt2: [ late, + late ] sixties, early seventies, [ they were -- +   
+
+%          B.46 utt1:  That's what it, -/  
+
++          A.47 utt1:  -- they were ] definitely pushing a message. /  
+
+aa          B.48 utt1: Yeah,  /
+aa          B.48 utt2: that's [ what, + what ] you say,  /
+sv          B.48 utt3: [ {C and, } + {C and then } ] music is wrapped around now.  /
+sv          B.48 utt4: Now, it's the other way around. /  
+
+b          A.49 utt1: Yeah,  /
+sv          A.49 utt2: [ [ I, + I don't, ] + I don't ] think Gun, - /
+sv          A.49 utt3: at least to my mind, Guns and Roses doesn't have [ too much of a message, + too much to say. ] /  
+
+aa          B.50 utt1: <Laughter> No,  /
+aa^r          B.50 utt2: no,  /
+sv          B.50 utt3: they don't have anything really important you want to hear.  /
+sv          B.50 utt4: {C But, } {D you know, } it's kind of odd,  /
+sv          B.50 utt5: it's like, it doesn't have to be good,  /
+sv          B.50 utt6: it's just who does it, {D you know. } /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+sd          B.52 utt1: [ You hear a, + you hear a ] Paula Abdul song  /
+%          B.52 utt2: {C and } you, - /
+sv          B.52 utt3: {C and } I think, if somebody else were to play that, {D you know, } [ they wouldn't, + [ [ they, + nobody, ] + everybody ] would ] think, that's lousy,  /
+sv          B.52 utt4: {C but } because she did it, it's supposed to be good, {D you know, }  /
+sv          B.52 utt5: it comes to the point where it's your name, not what you do --   
+
+b          A.53 utt1:  Right. /  
+
++          B.54 utt1: -- more than anything.  /
+sv          B.54 utt2: Madonna can do anything  /
+sv          B.54 utt3: {C and } it would be considered good because it's Madonna, {D you know. } /  
+
+b^r          A.55 utt1:  Right. /  
+
+sd          B.56 utt1: Madonna could start playing folk music  /
+sv          B.56 utt2: {C and } folk music would be huge just because Madonna does it,  /
+sv          B.56 utt3: {C so } --   
+
+b          A.57 utt1:  Uh-huh <laughter>. /  
+
++          B.58 utt1: -- [ [ it's, + it's, ] + it's ] really backwards how things are working now  /
+%          B.58 utt2: {C but, } -/  
+
+aa          A.59 utt1: Yeah,  /
+bf          A.59 utt2: [ [ i-, + i-, ] + it's ] the artist, not the merit. /  
+
+aa          B.60 utt1: Yeah,  /
+aa          B.60 utt2: exactly.  /
+sv          B.60 utt3: {D So, } [ [ I don't know, + [ I, + I ] don't know that that's, ] + I don't think that's ] a good thing at all,  /
+sv          B.60 utt4: {C but } [ that's + <laughter>, that's ] [ what + ] the, point we've reached,  /
+sd          B.60 utt5: {C so } I don't know [ how -- +   
+
+b          A.61 utt1:  Yeah. /  
+
++          B.62 utt1: -- how ] much farther we can digress before we have to turn it around and go the other way, at least. /  
+
+h          A.63 utt1: {D Well, } I don't know,  /
+sd          A.63 utt2: I know for myself that, {F uh, } for the most part, I don't know which artist is which,  /
+sd          A.63 utt3: {C so } I listen to a song,  /
+sd          A.63 utt4: I either like the song  /
+sd          A.63 utt5: {C or } I don't like it -- /  
+
+b          B.64 utt1:  Yeah. /  
+
+sd          A.65 utt1: -- {C and then } if I really like the song, eventually I'll figure out who it was. /  
+
+b          B.66 utt1: Yeah.  /
+b^r          B.66 utt2: Yeah,  /
+sd          B.66 utt3: that's about how I am on popular music.  /
+sd          B.66 utt4: [ [ I don't, + {D you know, } you don't, ] + I don't ] know enough about it because I just listen, - /
+sd          B.66 utt5: {F uh, } everything I listen to is what I buy, not whatever they play on the radio  /
+%          B.66 utt6: {C so, } -/  
+
+sv          A.67 utt1: {D Well, } you have to figure out what to buy,  /
+qy          A.67 utt2: {C or } do you just buy along the same artist? /  
+
+%          B.68 utt1: {F Uh, } I, - /
+ny          B.68 utt2: yeah,  /
+sd^e          B.68 utt3: I just mostly buy along the same lines all the time.  /
+sd          B.68 utt4: I don't really switch around to new things very often. /  
+
+b          A.69 utt1:  Yeah. /  
+
+sv          B.70 utt1: [ [ It's just, + it's, ] + {D you know, } it's ] way to hectic and too confusing. /  
+
+b          A.71 utt1: Yeah,  /
+qy          A.71 utt2: {D so } you keep buying the same artists until you don't like an album, then you stop? /  
+
+%          B.72 utt1: {F Uh, }  /
+ny          B.72 utt2: yeah,  /
+sd^e          B.72 utt3: generally,  /
+sd          B.72 utt4: {C or, } about the only new music I hear is somebody else that I know --   
+
+b          A.73 utt1:  Yeah. /  
+
++          B.74 utt1: -- will buy something new that I haven't heard  /
+sd          B.74 utt2: {C and } I listen to it that way,  /
+%          B.74 utt3: {C but } as far as, - /
+%          B.74 utt4: yeah,  /
+sd          B.74 utt5: I don't go out on a limb and buy something new very often unless I've heard it. /  
+
+b^r          A.75 utt1: Yeah,  /
+sd          A.75 utt2: {D see, } that's one thing I like about [ the, + {F uh, } some ] of the folk music scenes, {D you know, }  /
+sd          A.75 utt3: there's a couple of nice, {F uh, } small coffee houses up in New Jersey. /  
+
+b          B.76 utt1:  Yeah. /  
+
+sv          A.77 utt1: {C And, } it's very nice,  /
+sd          A.77 utt2: you go into the coffee house  /
+sd          A.77 utt3: {C and, } {D you know, } an artist is there  /
+sd          A.77 utt4: {C and } very often the artist will have [ a d-, + an album ]  /
+sd          A.77 utt5: {C and, so } if you like the artist, you buy the album. /  
+
+b          B.78 utt1:  Yeah. /  
+
+sd          A.79 utt1: {C So } you definitely get to try before you buy. /  
+
+b          B.80 utt1: Yeah,  /
+b^r          B.80 utt2: yeah,  /
+%          B.80 utt3: that's definitely - /
+%          B.80 utt4: I, -/  
+
+%          A.81 utt1: {D You know, } it, - /
+sv          A.81 utt2: [ [ you, + you, ] + you ] don't always quite get it right, / 

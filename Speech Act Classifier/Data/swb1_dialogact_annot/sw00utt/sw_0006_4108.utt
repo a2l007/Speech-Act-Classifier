@@ -1,0 +1,253 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4108_1599_1340
+TOPIC#:		305
+DATE:		920309
+TRANSCRIBER:	SS
+UTT_CODER:	TC
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:  	None.     
+
+=========================================================================
+  
+
+o          B.1 utt1:  <Noise>  Okay. /  
+
+qo          A.2 utt1:  {F Uh, } {D so, } what do you think, {F uh, } about putting the elderly in a nursing home? /  
+
+sv          @B.3 utt1:  {D Well, } I think that [ it, + it ] varies [ on + on ] the individual basis. /  
+
+%          A.4 utt1:  {F Huh. } /  
+
+sv          B.5 utt1:  {F Uh, } sometimes [ it is, + there is ] no alternative. /  
+
+b          A.6 utt1:  Uh-huh <<very faint>>. /  
+
+sd          B.7 utt1:  {F Uh, } you do not have, {F uh, } {F uh, } family available or family that's, {F uh, } - /
+sd          B.7 utt2: you may not even have family [ that is, {F uh, } {F uh, } in, + {D you know, } who are around. ] /  
+
+sv         A.8 utt1:  That's true.  /
+aa          A.8 utt2:  Yeah. /  
+
+sv          B.9 utt1:  {C So, } sometimes it's not an alternative. /  
+
+%          A.10 utt1:  {F Huh } <<very faint>>. /  
+
+sv          B.11 utt1:  [ {C And } I think, + {F uh, } {C but } I think ] also, sometimes it can be, {F uh, } a benefit if it's for a short time.  /
+%          B.11 utt2:  Sometimes in a nursing home -- -/  
+
+b          A.12 utt1:  Uh-huh. /  
+
+sv          B.13 utt1:  -- {F uh, } especially [ if, + if ] it's after an acute illness.  /
+%          B.13 utt2:  To get over a, - /
+sv          B.13 utt3: {C or } to rehab after, {F uh, } an illness. /  
+
+aa          A.14 utt1:  That's true.  /
+sd          A.14 utt2:  I never thought of that.  /
+%          A.14 utt3: # Yeah. # /  
+
+sv          B.15 utt1:   # [ Sometimes + # {D you know, } sometimes ] the nursing homes are good for, {F uh, } just short periods of time. /  
+
+aa          A.16 utt1:  That's true,  /
+bf          A.16 utt2: until they get over that hump --   
+
+aa          B.17 utt1:  Uh-huh. /  
+
++          A.18 utt1:  -- of whatever it is they're # dealing with. # /  
+
+sv          B.19 utt1:  # {C Because } too # often the acute hospitals [ will, + are sending ] them out much faster than what they're <noise> --   
+
+aa          A.20 utt1:  Yes. /  
+
++          B.21 utt1:  -- really able to. /  
+
+sv          A.22 utt1:  They really are.  /
+sv          A.22 utt2:  They don't like to keep them --   
+
+sv          B.23 utt1:  [ {C So } + --   
+
++          A.24 utt1:  -- longer than a week. /  
+
++          B.25 utt1:  -- {C so } ] there is some good to it. /  
+
+b          A.26 utt1:  Yeah. /  
+
+sv          B.27 utt1:  {F Uh, } sometimes too, it's used as a dumb job.  /
+sv          B.27 utt2:  {D You know } [ the  fam-, +  --    
+
+br          A.28 utt1:  What do you mean? /  
+
++          B.29 utt1:  -- {D well } the families ] do not necessarily <inhaling>, {F uh, } know what to do with them  /
+sv          B.29 utt2: {C and } they don't want to take the responsibility  /
+sv          B.29 utt3: {C so } they will put them in a nursing home. /  
+
+aa          A.30 utt1:  Yeah,  /
+sv          A.30 utt2: that's true. /  
+
+o          B.31 utt1:  {C So } you see, {F uh, } - /
+sv          B.31 utt2: there's both sides to it too.  /
+qo          B.31 utt3:  # What do you think? # /  
+
+b          A.32 utt1:  # Yeah  /
+sv          A.32 utt2: {C and } it # depends on [ how, + how ] sick the person is too. What you're capable of, {D like } if you have a family to take care of, {D you know, } of your own <noise>. /  
+
+b          B.33 utt1:  Yeah. /  
+
+b^m          A.34 utt1:  Yeah,  /
+sd          A.34 utt2: {F uh, } <smack> I would personally like it  /
+sd          A.34 utt3: if my parents were to get ill, I would like to take care of them at home and if I had the money with some help.  /
+sv          A.34 utt4: That's not always possible. /  
+
+aa          B.35 utt1: That's true. /  
+
+sd          A.36 utt1:  {C But, } {F uh, } to the best of my ability, I'd like to do it until it gets impossible <inhaling>. /  
+
+sv          B.37 utt1:  I think that's also where you're going to have a lot of people who are going to, - /
+sv          B.37 utt2: [ it's + there's ] not a choice, [ # it's # -- +   
+
+b          A.38 utt1:  # Right. # /  
+
++          B.39 utt1:  -- because, it's ] not economically feasible even # to # --   
+
+b          A.40 utt1:  # Uh-huh # <<very faint>>. /  
+
++          B.41 utt1:  -- put them in a nursing home. /  
+
+b          A.42 utt1:  <Inhaling>  Yeah. /  
+
+sd          B.43 utt1:  <Inhaling> {C So } [ that, + that ] option sometimes is not available if they do not have [ the, + ]  {F uh, } <noise> either Medicare or insurance to cover it. /  
+
+sv          A.44 utt1:  That's true.  /
+aa          A.44 utt2:  Yeah. /  
+
+%          B.45 utt1:  {D So, } -/  
+
+sv          A.46 utt1:  {C But } I think nursing homes can be good.  /
+sd          A.46 utt2:  It just depends on what kind they are.  /
+sv          A.46 utt3:  {D You know, } you need to check them out ahead of time. /  
+
+b          B.47 utt1:  Yeah,  /
+sd          B.47 utt2: {C and then } there's also some that are set up for specialties -- /  
+
+b          A.48 utt1:  Uh-huh. /  
+
+sd          B.49 utt1:  -- {F uh, } I know some.  /
+sd          B.49 utt2: Unfortunately, some elderly [ have to go to + {E or } have, ] I guess it's Alzheimer's or # where # --    
+
+b          A.50 utt1:  # Uh-huh. # /  
+
++          B.51 utt1:  -- they wonder [ or, + or, ] {F uh, } <noise> confused or have some mental problem <noise>. /  
+
+b          A.52 utt1:  <Smack> Yeah,  /
+%          A.52 utt2: that they're <noise>, -/  
+
+sv          B.53 utt1:  {C And } you need a special nursing home for that.  /
+sv          B.53 utt2:  You need one that has a unit that's locked where they are not able to get out and roam around -- /  
+
+b          A.54 utt1:  Yeah. /  
+
+sv          B.55 utt1:  -- {C and } you need people who are trained for that # type # --   
+
+aa          A.56 utt1:  # Right. # /  
+
++          B.57 utt1:  -- of problem. /  
+
+bf          A.58 utt1:  Who know what they're doing with that. /  
+
+aa          B.59 utt1: Yeah  /
+sv          B.59 utt2: [ {C so, } + {C so } ] there's different types of nursing homes I think. /  
+
+b          A.60 utt1:  Yeah  /
+sd          A.60 utt2: {D well, } my, {F uh, } grandmother's not really in a nursing home, but a retirement home that also has a nursing home sort of attached to it.  /
+sd          A.60 utt3: <inhaling> {C And } she really liked the idea [ of, + of ] moving there.  /
+sd          A.60 utt4: She's not ill yet -- /  
+
+b          B.61 utt1:  Uh-huh. /  
+
+sd          A.62 utt1:  -- <Inhaling> {C but, } {F uh, } she worked there as a volunteer for about ten years  /
+sd          A.62 utt2: {C and then } she decided [ that, + {F uh, } {A she's eighty five years old, } that ] eventually, {D you know, } [ she + she ] doesn't want her family taking care of her and being a burden.  /
+sd          A.62 utt3:  She's very independent.  /
+sd          A.62 utt4: <inhaling> {C So } she's in this nursing home.  /
+sd          A.62 utt5: It's out in the country  /
+sd          A.62 utt6: {C and, } {F uh, } she really enjoys it right now  <smack> because she doesn't have to wash dishes or cook <laughter>. /  
+
+bf          B.63 utt1:  Gives her a little bit of her own independence -- /  
+
+aa          A.64 utt1:  Uh-huh. /  
+
+bf          B.65 utt1:  -- {C but } she still has, {F uh, } a security there. /  
+
+aa          A.66 utt1:  Right.  /
+bf          A.66 utt2:  Some support.  /
+sd          A.66 utt3:  {C And then } there's also, {F uh, } sort of a wing for those people that do get sick  /
+sd          A.66 utt4: {C and, } what I like about it and I think she likes about it is that she knows everybody there now  /
+sd          A.66 utt5: {C and then, } {C so } if she ever does become ill, {F uh, } it will be like family around her. /  
+
+ba          B.67 utt1:  That's right  /
+sd          B.67 utt2: # {C and } [ I # -- +   
+
+b          A.68 utt1:  # Yeah. # /  
+
++          B.69 utt1:  -- I've ] seen some of them like that too  /
+sd          B.69 utt2: {C and } also they have a lot of, {F uh, } activities going on for # the ones # --   
+
+b          A.70 utt1:  # Uh-huh # <<very faint>>. /  
+
++          B.71 utt1:  -- who are more active. /  
+
+b          A.72 utt1:  Yeah.  /
+%          A.72 utt2:  Sh-, -/  
+
+sv          B.73 utt1:  {C So } it's not sort of like, {F uh, } # {F uh } # --   
+
+b          A.74 utt1:  # Uh-huh # <<very faint>>. /  
+
++          B.75 utt1:  -- a sick place. /  
+
+aa          A.76 utt1:  No,  /
+sd          A.76 utt2: she loves it.  /
+sd          A.76 utt3:  She has a great social life  /
+sd          A.76 utt4: {C and } she travels  /
+sd          A.76 utt5: {C and, } {F uh, } it's [ [ in, +  in the ((very)) ] + in the ] mountains  /
+sv          A.76 utt6: {C and } it's beautiful  /
+sd          A.76 utt7: {C and, } {F uh, } <noise> [ I, + I ] hope that I have something like that # when I get older <<very faint>>. # /  
+
+b          B.77 utt1:  # Yeah  /
+sv          B.77 utt2: [ [ [ I, + # I think, ] + I think the, ] +  {F uh } --   
+
+b          A.78 utt1:  Uh-huh <<Very faint>>. /  
+
++          B.79 utt1:  -- I think that ] the decision that needs to be made though on nursing home has to be a joint one between the, {F uh, } elderly --   
+
+b          A.80 utt1:  Uh-huh. /  
+
++          B.81 utt1:  -- {F uh, } person who's <noise> going in and the family that's going to be, {F uh, } [ effec-, + effected ] by it -- /  
+
+aa          A.82 utt1:  {F Oh } definitely it's, -/  
+
+sd          B.83 utt1:  -- {C and, } {F uh, } {D you know, } sometimes [ it can, + [ those choi-, + those choices ] can ] be made in advance  /
+sv          B.83 utt2: {C and } # sometimes # --   
+
+b          A.84 utt1:  # Right. # /  
+
++          B.85 utt1:  -- the choices because of the nature of the illness when they're, -/ 

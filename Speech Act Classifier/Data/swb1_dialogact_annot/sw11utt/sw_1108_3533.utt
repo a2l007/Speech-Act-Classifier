@@ -1,0 +1,306 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3533_1402_1415
+TOPIC#      	358
+DATE:		911213
+TRANSCRIBER:	RDL
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+sd^t          A.1 utt2: Miss Nancy, we should be in business now. /  
+
+bk          B.2 utt1:  # Good. # /  
+
+qy^t          A.3 utt1:  # Did # you hear the questions that the lady, {F uh, } brought up? /  
+
+ny          B.4 utt1:  Yes. /  
+
+qy^d          A.5 utt1:  Such as how much time, {D well, } - /
+cc          A.5 utt2: I'll ask,  /
+qw          A.5 utt3: how much time do you spend with your children,  /
+qw          A.5 utt4: {C and } how many do you have? /  
+
+sd          @B.6 utt1:  We have two children,  /
+sd          @B.6 utt2: they're both grown and married  /
+%          @B.6 utt3: {C and } [ with, + ] we have,   {F uh, } - /
+sd          @B.6 utt4: our daughter has three sons,  /
+sd          @B.6 utt5: {C so } we see them at least once a week,  /
+sd          @B.6 utt6: {C and } we see our son and his wife <breathing> {F uh, } about every other week  /
+sd          @B.6 utt7: {C and, } {F uh } --   
+
+b          A.7 utt1:  Uh-huh. /  
+
++          B.8 utt1:  -- we baby-sit quite frequently.   /
+sd          B.8 utt2: {C So } we're a fairly close-knit family.  /
+sd          B.8 utt3: We're together a lot on special days  /
+sd          B.8 utt4: [ {C and, } + {F uh, } {C and } ] of course, with the holidays and everything. -/  
+
+ba          A.9 utt1:  {D Well, } you're very fortunate.  /
+%          A.9 utt2:  {F Uh, } [ my + <laughter> <breathing> my, ] {F uh, } - /
+sd          A.9 utt3: I have two girls and a son, /  
+
+b          B.10 utt1:  # Uh-huh. # /  
+
+sd          A.11 utt1:  # {C And } # my oldest daughter lives in Amsterdam, Holland. /  
+
+b          B.12 utt1:  Oh. /  
+
+sd          A.13 utt1:  # [ She <laughter>, # +   
+
+x          B.14 utt1:  # <Laughter>. #   
+
++          A.15 utt1:  Her ] husband builds pianos,  /
+sd          A.15 utt2: {C so } it's kind of hard for us to visit with them, as much as I'd like to.    
+
+ba          B.16 utt1:  {F Oh, } # yes. # /  
+
++          A.17 utt1:  # Because # [ [ we've, + we, ] + one thing we ] do have together is we're both musicians.  /
+sd          A.17 utt2: I play in several symphony orchestras  /
+sd          A.17 utt3: {C and, }   
+
+b          B.18 utt1:  # Uh-huh. # /  
+
++          A.19 utt1:  # she is # [ [ a, + a, ] + a ] concert, {F uh, } harpsichordist.   
+
+b          B.20 utt1:  Oh. /  
+
++          A.21 utt1:  And travels around a good bit in Europe. /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sd          A.23 utt1:  {C And, } {F uh, } her husband builds forte pianos,  /
+sd          A.23 utt2: which are harpsichord size # pianos. # /  
+
+b^m          B.24 utt1:  # Pianos, # uh-huh. /  
+
+sd        A.25 utt1:  {C And, } {F uh, } that's why they're over there.   /
+sd          A.25 utt2: {C And then } I have [ a, + a ] son who lives in, {F uh, } <lipsmack> Warrington, Pennsylvania. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sd          A.27 utt1:  {C And } I get to see him maybe once every three months.   /
+sd          A.27 utt2: {C So } [ I really, + ] we've lost, {D you know, } - /
+sd          A.27 utt3: I'd like to have an everyday contact with children, {F uh, } as well as you do, for that matter,  /
+sd         A.27 utt4: {C and } [ my + (( young )) , my ] youngest daughter lives in New Jersey,  /
+sd         A.27 utt5: {C and so } # [ they, # +   
+
+bf          B.28 utt1:  # {F Oh, } # you don't get to see any of # yours very often. # /  
+
++          A.29 utt1:  # I ] don't hardly # get to see any of them.  /
+sd          A.29 utt2:  She works in these, {F um, } <lipsmack> Trump type casinos,  /
+sd          A.29 utt3: she and her husband # both do.  /
+sd          A.29 utt4:  [ They work, # -- +   
+
+b          B.30 utt1:  # Yes,  /
+b          B.30 utt2: uh-huh. # /  
+
++          A.31 utt1:  -- {F uh, } they're ] really both, {F um } <lipsmack> [ play, + people who play ] on stage -- /  
+
+b          B.32 utt1:  Uh-huh. /  
+
+sd          A.33 utt1:  -- {C and, } {F uh, } they're running lights right now and audio and (( that thing )) # for, #   
+
+b          B.34 utt1:  # Uh-huh. # /  
+
++          A.35 utt1:  plays and things that go on.  /
+%          A.35 utt2:  {C But } anyhow <breathing> {F uh, }  /
+qw          A.35 utt3: [ what do you, + what activities do you ] do with your children when you are together? /  
+
+%          B.36 utt1:  {F Oh, } most the # time, # -/  
+
+x          A.37 utt1:  # <Cough>. #   
+
+sd          B.38 utt1:  {D well, } right now it's football season,  /
+sd          B.38 utt2: {C and } our daughter is a big Cowboy fan,  /
+sd          B.38 utt3: as is our husband,  /
+%          B.38 utt4: {C so, } my husband, - /
+sd          B.38 utt5: {C so } she watches that  /
+sd          B.38 utt6: {C and } I play with the grandchildren <laughter>. /  
+
+x          A.39 utt1:  # <Laughter>. #   
+
+sd          B.40 utt1:  # I enjoy the # grandchildren.   /
+sd          B.40 utt2: {C But, } {D now, } like last weekend, {F um, } there's the Soviet space exhibit is here in Dallas,  /
+sd          B.40 utt3: {C and } it ends,   
+
+b          A.41 utt1:  # Oh. # /  
+
++          B.42 utt1:  # {F uh, } # in January,  /
+sd          B.42 utt2: {C so } she [ and, + and ] the three boys and my husband and I went over into Fort Worth to see the space exhibit  /
+%          B.42 utt3: {C and } this # Sunday, # -/  
+
+qy          A.43 utt1:  # The Soviet # space # exhibit? # /  
+
+ny          B.44 utt1:  # Uh-huh. # /  
+
+ba          A.45 utt1:  # My goodness. # /  
+
+aa          B.46 utt1:  # Yeah  /
+%@          B.46 utt2: [ it's, # +   *[[slash error]]
+
+sv          A.47 utt1:  I am surprised they would bring anything over here. /  
+
++          B.48 utt1:  {F Oh, } it's ] been here for quite, {F uh, } some time.  /
+sd          B.48 utt2:  I think it came here in either September or October #  /
+sv          B.48 utt3: {C and, } #   
+
+b          A.49 utt1:  # Uh-huh. # /  
+
++          B.50 utt1:  it's [ very interesting, + # very interesting, ] # /  
+
+ba          A.51 utt1:  # I'll bet. # /  
+
+sv          B.52 utt1:  {C and } it's been very well done <breathing>.  /
+sd          B.52 utt2:  {F Uh, } {C and } [ this, + {F uh, } next ] Sunday they're coming over after the Cowboy game  /
+sd          B.52 utt3: {C and, } # {F uh, } #   
+
+b          A.53 utt1:  # Uh-huh. # /  
+
++          B.54 utt1:  {F uh, } we're going to go take the boys to see Christmas lights and go to a Santa's village.   /
+sd          B.54 utt2: [ {C And, } {F uh, } + {C then } ] when our son's over, we have a pool,  /
+sd          B.54 utt3: {C and } he and his wife come and a lot of their friends,  /
+sd          B.54 utt4: {C and } we have cookouts on Sunday # {F uh, } # /  
+
+ba          A.55 utt1:  # {D Well, } # that sounds like you have # really, # --   
+
+sd          B.56 utt1:  # {C And, } {F uh } # --   
+
++          A.57 utt1:  -- wonderful activities that --   
+
++          B.58 utt1:  -- [ we, + we ] do a lot [ with -- +   
+
++          A.59 utt1:  -- keep you together. /  
+
++          B.60 utt1:  -- with ] our kids,  /
+sd          B.60 utt2: {C and } [ we -- +   
+
+b          A.61 utt1:  Yeah. /  
+
++          B.62 utt1:  -- we ] always have.  /
+sd          B.62 utt2:  We've taken a lot of trips with our kids when they were younger.  /
+sd          B.62 utt3:  {F Uh, } we're very family oriented.  /
+sd          B.62 utt4:  [ We, + {F um, }   
+
+o@          A.63 utt1:  {D Well, } # that's wonderful. #   *[[slash error: should be ba]]
+
++          B.64 utt1:  # we ] like # being with our kids,  /
+sd          B.64 utt2: {C and } the kids seem to enjoy being with us,  /
+sd          B.64 utt3: {C and } their friends enjoy being with us. /  
+
++*         A.65 utt1:  Uh-huh. /  *[[slash error, should be 'b']]
+
+sd          B.66 utt1:  {D So } [ which + that ] keeps us very, very young, with all these young people passing in and out and # eating, # /  
+
+b          A.67 utt1:  # Uh-huh. # /  
+
+%          B.68 utt1:  {C and } # seems like I've, # -/  
+
+sv          A.69 utt1:  # The only # problem is, it keeps you pretty busy, keeping everything going,  /
+^g          A.69 utt2: doesn't it? /  
+
+na         B.70 utt1:  {D Well, } it does # <laughter>. # /  
+
+x          A.71 utt1:  # <Laughter>. #   
+
+sd          B.72 utt1:  I'm worried about Christmas.  /
+sd         B.72 utt2:  Christmas Eve they all pass through,  /
+sd          B.72 utt3: {C and then } they all end up spending the night Christmas Eve night, so # that, #   
+
+b          A.73 utt1:  # Uh-huh. # /  
+
++          B.74 utt1:  we open our presents on Christmas day <breathing> -- /  
+
+ba          A.75 utt1:  Beautiful. /  
+
+sd          B.76 utt1:  -- {C and } they go out to [ the other, + {D you know, } the in-laws ] in between some of this,  /
+sd          B.76 utt2: {C but } they're # all, #   
+
+b          A.77 utt1:  # Uh-huh. # /  
+
++          B.78 utt1:  with us,  /
+sd          B.78 utt2: [ {C and, } + {F uh, } {C then } ] have Christmas dinner with us and then go to other in-laws and things,  /
+sd          B.78 utt3: {C so } we see a lot of them.   /
+sd          B.78 utt4: {C But } we enjoy Christmas Eve night, because they all start arriving by about eleven o'clock,  /
+sd          B.78 utt5: {C and } we open presents about five o'clock # Christmas, #   
+
+x          A.79 utt1:  # <Throat_clearing>. #   
+
++          B.80 utt1:  morning,  /
+sd          B.80 utt2: [ {C and, } + {D you know, } [ {C and, } + {F uh, } # {C then, } # ] ]   
+
+b          A.81 utt1:  # Uh-huh. # /  
+
++          B.82 utt1:  I go to the kitchen and cook,  /
+sd          B.82 utt2: {C and } my sister [ and, + and ] her husband are coming down,  /
+sd          B.82 utt3: {C so } there's going to be eleven of us # for Christmas. # /  
+
+ba          A.83 utt1:  # That's great. #  /
+%          A.83 utt2: There's a, - /
+sd(^q)          A.83 utt3: the question now to ask, is it difficult to find time,  /
+sv         A.83 utt4: {C and } you seem to be making out all right. /  
+
+aa          B.84 utt1:  Yeah.  /
+sd          B.84 utt2:  Sometimes I'm a little exhausted # <laughter>. # /  
+
+ad          A.85 utt1:  # <Laughter> {D Well, } tell me,  /
+qo          A.85 utt2: [ wh-, + # what ] do you think [ of, + {F uh, } of ] the current trends of how other people spend time with their children # and so forth? # /  
+
+sv          B.86 utt1:  # {F Oh, } [ I, + # I ] think the trends are going back to spending more time with families. /  
+
+b          A.87 utt1:  Uh-huh. /  
+
+sv          B.88 utt1:  I think parents are definitely, {F uh, } spending more and more time.  /
+sv          B.88 utt2:  I don't think they're leaving them with baby-sitters, {D you know. }  /
+sv          B.88 utt3:  [ I think, + I think ] family quality time is becoming much more important than it was # there # --   
+
+b          A.89 utt1:  # Yes. # /  
+
++          B.90 utt1:  -- for about, {F uh, } I don't know, eight or nine years. /  
+
+b          A.91 utt1:  Uh-huh. /  
+
+sv          B.92 utt1:  Seems like it went through a spell there where families weren't that big a deal.  /
+sv          B.92 utt2:  Parents kind of went and did their thing,  /
+sv          B.92 utt3: kids did their thing. /  
+
+%          A.93 utt1:  {D Well, } that's - /
+aa          A.93 utt2: # no, # /  
+
+%@          B.94 utt1:  # {C And, } {F uh, } #    *[[slash error]]
+
+aa          A.95 utt1:  that's exactly what I was going to say.  /
+sd         A.95 utt2: [ Of, + of ] course, I find now that I spend more time with my grandchildren in --   
+
++          B.96 utt1:  Yes,  /
+b          B.96 utt2: uh-huh. /  
+
++          A.97 utt1:  -- detail.  /
+sd          A.97 utt2: I know more about them and watch their growth and how they improve [ and, + and ] learn much more so than my own kids.  /
+sv          A.97 utt3:  [ When, + when ] your own children are growing up, you just take them for granted  /
+sv          A.97 utt4: {C and } you go ahead and  do your thing  /
+%          A.97 utt5: {C and, } -/ 

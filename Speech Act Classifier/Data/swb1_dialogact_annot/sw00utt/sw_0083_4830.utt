@@ -1,0 +1,255 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4830_1042_1655
+TOPIC#:		341
+DATE:		920426
+TRANSCRIBER:	nk
+UTT_CODER:	tc
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	3
+REMARKS:        Line noise (high frequency buzz) on speaker B
+
+===========================================================================
+  
+
+qy          A.1 utt1:  You want to go first?  <chiming>. /  
+
+nn          B.2 utt1:  <Static> No,  /
+sd^e          B.2 utt2: you can start <laughter>. /  
+
+b          A.3 utt1: Okay.  /
+sd          A.3 utt2: {F Uh, } one of the things they talked about was, {F uh, } [ [ [ did we, + d-, ] + wh-, ] + what do we ] think about a judge making the decision? /  
+
+b          @B.4 utt1:  Uh-huh. /  
+
+sv          A.5 utt1: {C And } I really don't agree with that <swallowing>.  /
+sv          A.5 utt2: I think that the trial by jury is better, {F uh, } {D you know, } [ than e-, + ] having a </chiming> unanimous decision rather than to have one person be responsible.  /
+sv          A.5 utt3: I don't think that they could be objective in every case, every time. /  
+
+b          B.6 utt1:  Right. /  
+
+qy          A.7 utt1:  [ Yo-, + you ] know what I mean? /  
+
+na^r          B.8 utt1: Right.  /
+sv          B.8 utt2: [ [ [ There's, + there, ] + th-, ] + this topic ] is kind of mute. # {F Uh } # -- /  
+
+b          A.9 utt1:  # Yeah. # /  
+
+sv          B.10 utt1: -- [ there, + there's ] no way.  /
+sv          B.10 utt2: [ We, + we ] couldn't survive [ [ in a sy-, + in a juror syst-, ] + in a trial system ] without a jury. /  
+
+b          A.11 utt1:  Right. /  
+
+sv          B.12 utt1: {F Uh, } [ one man can never be, + one man, one woman can never be ] objectionable in every case. /  
+
+aa          A.13 utt1:  That's it. /  
+
+sd          B.14 utt1: {F Uh, } every person has their opinions  /
+sv          B.14 utt2: {C and } that's why jury selection is often very difficult.  # {F Uh. } # /  
+
+sd          A.15 utt1: # {D Well, } # [ I, + I ] feel the other thing too, {F uh, }  /
+sd          A.15 utt2: they were saying, {F uh, } {D you know, } what new ways [ could y-, + could it, ] {D [ you, + you ] know, } change the system.  /
+sv          A.15 utt3: [ I, + I ] really think that, {F uh, } we spend a lot of time, {F uh, } going through appeal after appeal after appeal after appeal, /  
+
+x          B.16 utt1:  <Noise> <<sounds like something is being sliced>>.   
+
+sd          A.17 utt1: {E I mean, } [ i-, + if ] you go to a trial by jury and especially if a person has confessed. If they have been caught, {D you know, } point blank in the crime.   
+
+b          B.18 utt1:  Right. /  
+
++          A.19 utt1: There's, {F uh, } no question  /
+sd          A.19 utt2: it's beyond a reasonable doubt.  /
+sd          A.19 utt3: {D You know, } all these things.  /
+sv          A.19 utt4: {E I mean, } {D you know, }   
+
+x          B.20 utt1:  <Meow>.    
+
++          A.21 utt1:  we've gone through this over and over again. /  
+
+aa          B.22 utt1:  Right.  /
+bf          B.22 utt2:  They shouldn't allow # an appeal. # /  
+
+sd          A.23 utt1: # {C And } # it can go on for ten, twenty,   
+
+x          B.24 utt1:  <Meow>.   
+
++          A.25 utt1:  years. /  
+
+b          B.26 utt1:  # Yep. # /  
+
+sv          A.27 utt1: # [ I, + I ] # think this is a little ridiculous. /  
+
+b          B.28 utt1:  Uh-huh <laughter>. /  
+
+sv          A.29 utt1: <Swallowing> I think the only people who benefit from that are the lawyers. /  
+
+aa          B.30 utt1: {F Oh, } that's right.  /
+sd          B.30 utt2: I work for a law firm <laughter> # (( )). # /  
+
+sd          A.31 utt1: # [ I, + I'm ] # serious.  /
+sv          A.31 utt2: {C And } I think that the lawyers have caused a lot of the problems [ tha-, + that ] exist [ in the s-, + in the criminal system ] today.  With plea bargaining. /  
+
+b          B.32 utt1:  Right. /  
+
+%          A.33 utt1: {D You know, } if # someone is ((ill)), # -/  
+
+sd          B.34 utt1: # {D Well } [ plea bar-, + # plea bargaining ] is a different story. /  
+
+b          A.35 utt1:  {D Well. } /  
+
+sv          B.36 utt1: Plea bargaining is something completely different.  /
+sv          B.36 utt2: [ That, + that ] actually prevents trials.  # Or at least speeds them up. # /  
+
+aa          A.37 utt1: # {D Well, } I know.  /
+sd          A.37 utt2: That's (( )) what I'm # saying.  /
+sv          A.37 utt3: {C But } I think [ a lot of, + all of ] the whole criminal system is messed up [ in, + in ] that regard.  /
+sd          A.37 utt4: {E I mean, } {D you know, } people who commit, {F uh, } crimes that they, - /
+h          A.37 utt5: I don't know how it works exactly #  /
+sv          A.37 utt6: {C but } # --   
+
+b          B.38 utt1:  # Right. # /  
+
++          A.39 utt1: -- {D you know, } they get lesser sentences  /
+sd          A.39 utt2: {C and } I understand that the jails are full of people, {D you know, } # {F uh } # --   
+
+b^r          B.40 utt1:  # Right. # /  
+
++          A.41 utt1: -- and that they have to do something.  /
+sv          A.41 utt2: {C But, } I think that the reason they are full is because they know that they can get away with it. /  
+
+%          B.42 utt1:  {F Huh. } /  
+
+qy          A.43 utt1: [ Yo-, + you ] know what I'm saying?  /
+sd          A.43 utt2: That [ [ w-, + we ] don't have, + {F uh, } {D well } a lot of states don't have ] capital punishment. /  
+
+b          B.44 utt1:  Right. /  
+
+sv          A.45 utt1:  {C And, } {F uh } --   
+
+sd          B.46 utt1:  We do <laughter>. /  
+
++          A.47 utt1: -- [ I, + I ] think they should.  /
+sv          A.47 utt2: [ I, + {C and } I ] think if a person is guilty of taking someone's life and like you say, [ [ it's, + it's, ] + there's ] no doubt whatsoever. Like drunk drivers that kill people  /
+%          A.47 utt3: {C and, } {F uh, } {D you know, } all -- -/  
+
+b          B.48 utt1:  Right. /  
+
+sd          A.49 utt1: -- [ they, + they're ] caught dead to rights.  /
+sv          A.49 utt2: [ I, + I ] just think that [ [ that's, + they've, ] + they've ] taken a life  /
+sv          A.49 utt3: {C and } [ if, + ] they should pay for it with their life. /  
+
+b^r          B.50 utt1:  Right.  /
+sd          B.50 utt2: When you're saying as far as the appeal, {F uh, } procedure was concerned. /  
+
+b          A.51 utt1:  Yeah. /  
+
+sd          B.52 utt1: <Inhaling> We just have the case,  /
+qy^d          B.52 utt2: [ I'm, + I'm ] sure you've probably heard of Marion Berry. /  
+
+ny          A.53 utt1:  Uh-huh. /  
+
+sd          B.54 utt1: {F Uh, } his [ f-, + last ] appeal [ was, + was ] denied two days before his sentence was up <laughter>. /  
+
+b          A.55 utt1:  {D Oh, } really. /  
+
+sd          B.56 utt1: {C So, } {E I mean, } his appeal was denied  /
+sd          B.56 utt2: {C and } two days later he got out of jail <laughter>.    
+
+%          A.57 utt1:  It, {F uh, } <laughter>, -/  
+
++          B.58 utt1:  For cocaine possession. /  
+
+b          A.59 utt1:  Yeah. /  
+
+sv          B.60 utt1: {C But, } {F uh, } <clicking> <swallowing> that was absurd <laughter>.  /
+sv          B.60 utt2: # [ There is never, + there was no ] reason # --    
+
+%          A.61 utt1:  # I know [ that, + that ] (( )). # -/  
+
++          B.62 utt1: -- the appeal process should have dragged on that long for a six month sentence. /  
+
+b          A.63 utt1: Uh-huh.  /
+h          A.63 utt2: {C And, } I don't know.  /
+qw          A.63 utt3: {F Uh, } what would you do to change it?  To make it better? /  
+
+%          B.64 utt1: {D Well, } {F uh, } [ the, + the ] only [ I can, + I wa-, ] {D you know, } - /
+sd          B.64 utt2: the, appeal procedure is the only thing I can possibly think of.  /
+sv          B.64 utt3: {F Uh, } [ a-, + ] like I said, as far as removing of the jury and having the judge sentence, that's absurd.  /
+sv          B.64 utt4: # There's no way that could work. # /  
+
+aa          A.65 utt1: # {F Oh, } yeah.  /
+sd          A.65 utt2: [ [ I, + I, ] + # I ] don't agree with that at all. /  
+
+%          B.66 utt1:  {F Uh, } {C but, } -/  
+
+ad          A.67 utt1: Imagine the guilt that person would have.  /
+sv          A.67 utt2: {E I # mean } (( )) # --   
+
+aa          B.68 utt1:  # {F Oh, } exactly. # /  
+
++          A.69 utt1:  -- burned out.  /
+sv          A.69 utt2:  # [ There's # -- +   
+
+aa          B.70 utt1:  # Exactly. # /  
+
++          A.71 utt1: -- there's ] no possible way that you could, {F uh, } {D you know, } feel good about yourself. /  
+
+aa          B.72 utt1:  Right. /  
+
+sv          A.73 utt1:  If you had to do something like that, day after day. /  
+
+sv          B.74 utt1:  No one would want the job <laughter>. /  
+
+aa          A.75 utt1:  No.  /
+aa          A.75 utt2: Not really. /  
+
+sd          B.76 utt1: <Thumping> {F Uh, } <lipsmack> {C and, } {D you know, } like I said, [ the, + {D you know, } everyone ] has their opinions about every case. /  
+
+qy          A.77 utt1: <Rustling> {D Well, } [ w-, + do ] you think people should have a trial is they're caught dead to rights like, -/  
+
+ny          B.78 utt1: {F Oh } yeah.  /
+sv          B.78 utt2: [ I, + I ] feel that [ everyone is, + everyone is, ] {F uh, } entitled to a trial by jury.  /
+%          B.78 utt3: # [ [ That, + that, ] + that ] right s-, # -/  
+
+sd          A.79 utt1: # {E I mean, } supposing # I come up to you and I just point blank kill you. /  
+
+qy          B.80 utt1:  {D Well, } {E I mean, } were # there witnesses? # /  
+
+bf          A.81 utt1: # In other words # you're saying that, [ w-, + you ] have to find out whether it's premeditated or --   
+
+aa          B.82 utt1:  Right. /  
+
++          A.83 utt1:  -- what the circumstances # were. # /  
+
+aa^r          B.84 utt1: # Right. #  /
+bf          B.84 utt2: That [ you can't, + you can't ] remove the jury regardless of the case. /  
+
+aa          A.85 utt1:  Yeah. /  
+
+sd          B.86 utt1: {E I mean } you could have fifty people in audience watching <laughter> --   
+
+b^r          A.87 utt1:  Yeah. /  
+
++          B.88 utt1: -- a murder take place  /
+sv          B.88 utt2: {C and } [ [ you, + you'd ] still, + there's still ] mitigating circumstances </static>. /  
+
+%          A.89 utt1:  {D Well, } [ I, + I, ] -/ 

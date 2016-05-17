@@ -1,0 +1,210 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3252_1406_1334
+TOPIC#:		351
+DATE:		911013
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+=======================================================================
+  
+
+qy          B.1 utt1:  Do you have any? /  
+
+na          A.2 utt1:  Sure.  /
+sd          A.2 utt2:  I have a Springer Spaniel,  /
+sd          A.2 utt3: {C and } her name is Thumper.  /
+sd          A.2 utt4:  She's about seven or eight years old.  /
+sd          A.2 utt5:  I got her for Christmas from my family, [ and, + ] {F uh, } back  when we lived in Nebraska.  /
+sd          A.2 utt6:  I like to hunt,  /
+sd          A.2 utt7: {C and, }  {F uh, } {C so, } I thought that if I had a good hunting dog like Thumper that, {F boy, } I could just go out and  get all kinds of game <laughter>. /  
+
+qy          B.3 utt1:  Did it work?  <Laughter>. /  
+
+ny          A.4 utt1:  Yeah,  /
+sd^e          A.4 utt2: except we live in Plano, Texas now -- /  
+
+aa          B.5 utt1:  No,  /
+aa          B.5 utt2: right. /  
+
+%          A.6 utt1:  -- {C so } <laughter>. -/  
+
+sd          B.7 utt1:  [ [ I, + {F um, } I had a, ] + for many years I had a ] dog that was part Springer Spaniel.  /
+sd          B.7 utt2: I just love them.  /
+sd          B.7 utt3: Her name was Molly,  /
+sd          B.7 utt4: {C but } she isn't alive any more <inhaling>.  /
+sd          B.7 utt5:  We had her for, {F um, } fifteen years, I think, my family did, and just loved her.  /
+sd          B.7 utt6:  She was the [ greatest, + greatest, ] {F um, }  went through two generations of children in my family and was always very gentle. /  
+
+qy          A.8 utt1:  Do you have a pet now? /  
+
+ny          B.9 utt1:  Yeah,  /
+sd^e          B.9 utt2: I have a cat now.  /
+sd          B.9 utt3:  He just turned seven, also, <laughter>  /
+sd          B.9 utt4: {C and } [ he's, + I, ] {F um, } got him in Arizona --    
+
+%          A.10 utt1:  {F Oh. } /  
+
++          B.11 utt1:  --  [ and, + ] when I used to live there,  /
+sd          B.11 utt2: {C and } he is huge.  /
+sd          B.11 utt3: He is eighteen pounds. /  
+
+qw          A.12 utt1:  What kind of cat is it? /  
+
+%          B.13 utt1:  Just, - /
+sd          B.13 utt2: {F um, } I got him, - /
+sd          B.13 utt3: [ he was, + {F um, } he was ] born in the wild, {D like } [ in a, + in a ] shed --   
+
+b          A.14 utt1:  Uh-huh. /  
+
++          B.15 utt1:  --  and had never been in a building when I got him.   /
+%          B.15 utt2:   {C So } he, - /
+sd          B.15 utt3: {C and } [ he's, + [ he, + he  ]  ]  must be [ part, + cross part ] with some kind of desert animal, because he's very long and lanky,  /
+sd          B.15 utt4: {C but } he's a very tame spoiled house cat, {D you know, } now that I've had him for seven years. /  
+
+qy^d          A.16 utt1:  Being born outside, you didn't have any problems house training him? /  
+
+nn          B.17 utt1:  No,  /
+nn^r          B.17 utt2: no -- /  
+
+ba          A.18 utt1:  That's good. /  
+
+%          B.19 utt1:  --  he's, - /
+aa          B.19 utt2: yeah,  /
+sd          B.19 utt3: he's great,  /
+sd          B.19 utt4: {C and } {F uh, } [ he's, + {F uh, } he's ] really spoiled, though  <laughter>.  /
+sd          B.19 utt5: [ {C So, } + {C but } ] he's really big,  /
+sd          B.19 utt6: {C so, } lots of times [ [ he, + it, ] + he ] seems to get in fights,  /
+sd          B.19 utt7: {C and } when he was younger I think he started them,  /
+sd          B.19 utt8: {C and } now, I think he barely makes it.  /
+sd          B.19 utt9:  I think he gets beat up even though he's big, because he's --   
+
+b          A.20 utt1:  Sure. /  
+
++          B.21 utt1:  -- pretty much overweight, and --   
+
+^2          A.22 utt1:  And older <laughter>. -/  
+
++          B.23 utt1:  -- comes home with a few scratches now and then, /  
+
+x          A.24 utt1:  <Laughter>.   
+
+b          B.25 utt1:  yeah. /  
+
+sd          A.26 utt1:  {D Well, } we went to a cat show at the Plano Center here in town,  /
+sd(^q)       A.26 utt2: {C and, }  {F uh, } we thought that, we have a cat now,  /
+sd          A.26 utt3: {C but } we thought, {D Well, } if we ever get another cat, {D you know, } we'd want something kind of unique,  /
+sd          A.26 utt4: {C so, } we kind of looked around,  /
+sd          A.26 utt5: {C and } they had everything from hairless cats to Siamese cats and Persian cats  /
+sd          A.26 utt6: {C and } we sort of fell in love with the, {F uh, } Maine Coon cats. /  
+
+sd          B.27 utt1:  {F Oh, } I've seen them.  /
+%          B.27 utt2: I -- -/  
+
+sd          A.28 utt1:  They're huge. /  
+
+aa          B.29 utt1:  -- yeah,  /
+sd^r          B.29 utt2: <laughter> I have seen them.  /
+%          B.29 utt3:  [ [ They, + {F um, } weren't they, ] + they were ] - /
+sd          B.29 utt4:  {D actually, } I can't remember,  /
+sd          B.29 utt5: they [ were + used to be ] used on ships and  [ in, + [ for, + for ] ]  mousers --   
+
+b          A.30 utt1:  Oh. /  
+
++          B.31 utt1:  -- {D you know, }  /
+sd          B.31 utt2: {C so } they're very nautical, too <laughter>. /  
+
+ba          A.32 utt1:  I'll be darned.  /
+sd          A.32 utt2:  I didn't know that. /  
+
+b          B.33 utt1:  Yeah,  /
+%          B.33 utt2:  I just, - /
+sd          B.33 utt3:  {F uh, } [ I think I'm, + I think I'm  ] being accurate [ in the, + in the  ] area of folklore,  /
+sd          B.33 utt4: {C but } I'm not sure. /  
+
+ba          A.34 utt1:  {D Well } that's interesting. /  
+
+b          B.35 utt1:  Yeah. /  
+
+sd          A.36 utt1:  We kind of like, - /
+sd          A.36 utt2: {D well, } my family didn't necessarily [ like, + like ] them as much as I did,  /
+sd          A.36 utt3: {C but } the Manx, is that the one that doesn't have a tail -- /  
+
+b          B.37 utt1:  Yeah. /  
+
+sd          A.38 utt1:  -- it sort of has a bob tail.  /
+sd          A.38 utt2:  I kind of like that, too,  /
+%          A.38 utt3: {C but. } -/  
+
+b          B.39 utt1:  Yeah.  /
+sd          B.39 utt2:  I'd love to go to a cat show.  /
+sd          B.39 utt3:  I'm [ real, + a real ] cat lover.  /
+sd          B.39 utt4:  I'd have a lot more cats if my boyfriend would [ let u-, + let me ] <laughter>. /  
+
+x          A.40 utt1:  <Laughter>.   
+
+sd          B.41 utt1:  He doesn't really like mine, let alone another one. /  
+
+co          A.42 utt1:  {D Well, } I'll tell you an interesting story about how I got my dog,  /
+sv^t          A.42 utt2: {C and then } I suppose our five minutes will be up. /  
+
+aa          B.43 utt1:  Yeah.  /
+aa          B.43 utt2:  Okay. /  
+
+sd          A.44 utt1:  I work for a university,  /
+sd          A.44 utt2: {C and } I went to, {F uh, } Omaha, Nebraska to recruit students,  /
+sd          A.44 utt3: {C and } I had some time off in the afternoon,  /
+sd          A.44 utt4: {C so } I went to [ a, + a ] pet shop,  /
+sd          A.44 utt5: {C and } I saw these little Springer Spaniels -- /  
+
+%          B.45 utt1:  {F Um. } /  
+
+sd          A.46 utt1:  -- {C and so } I decided, {D well, } {D you know, } this would really be a nice dog to have,  /
+sd          A.46 utt2: {C so, } when I got back home to Carney, Nebraska, I told my wife about it,  /
+sd(^q)       A.46 utt3: {C and } I said, {D You know, }  this is just a, - /
+^q          A.46 utt4: [ [ I, + I, ] + I ] can just hear the dog crying for me now <laughter>. /  
+
+ba          B.47 utt1:  <Laughter> I know what you mean. /  
+
+^q          A.48 utt1:  {C And } Christmas is coming up, hint, hint,  /
+sd          A.48 utt2: {C and so, } I had to go back the next week, as well as a bunch of other people from the university, /
+sd          A.48 utt3: {C and } one of the people, {F uh, } that we went with, {F uh, } they were friends of ours,  /
+sd          A.48 utt4: {C and so, } we got to Omaha,  /
+sd          A.48 utt5: {C and } I decided I'd take my friend over and show him the dog,  /
+sd          A.48 utt6: {C and so } I got over there,  /
+sd(^q)       A.48 utt7: {C and } she said, {F Oh, } that's too bad, the dog has already been sold.   /
+sd          A.48 utt8: {C And } I didn't realize it,  /
+sd          A.48 utt9: {C but } this guy had somehow worked it out so that he got there a little bit earlier, bought the dog, /
+sd          A.48 utt10: {C and } she was in the back room,  /
+sd          A.48 utt11: {C and so } that night we had a reception for some of the, {F uh, } potential high school students or college students,  /
+sd          A.48 utt12: [ {C and, } +  {C and, } ]  {F uh, } he had the dog the whole time in his room,  /
+sd          A.48 utt13: [ {C and, } + {C and } ] I had no idea.   /
+sd          A.48 utt14: {C And so } we headed back to Carney that night,  /
+sd          A.48 utt15: {C and } the dog rode in the car  /
+sd          A.48 utt16: {C and } we stopped along the way and had a bite to eat  /
+sd          A.48 utt17: {C and } they left the dog in the car,  /
+sd          A.48 utt18: {C and } I guess while we were inside eating, Thumper just tore the heck out of the inside <laughter> of the car,  /
+sd          A.48 utt19: {C and, }  {F uh, } finally we made it back to, {F uh, } to Carney  /
+%          A.48 utt20: {C and, } -/ 

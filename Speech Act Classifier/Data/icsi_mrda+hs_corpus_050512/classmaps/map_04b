@@ -1,0 +1,278 @@
+Classmap 4
+
+
+
+f*|*aa*  F|A
+f*|*na*  F|A
+h*|*aa*  F|A
+h*|*na*  F|A
+
+f*|*ar*  F|R
+f*|*nd*  F|R
+f*|*ng*  F|R
+h*|*ar*  F|R
+h*|*nd*  F|R
+h*|*ng*  F|R
+
+f*|*bk*  F|K
+f*|*ba*  F|K
+f*|*bh*  F|K
+h*|*bk*  F|K
+h*|*ba*  F|K
+h*|*bh*  F|K
+
+f*|*br*  F|C
+f*|*^f^* F|C
+f*|*^f   F|C
+f*|*bu*  F|C
+h*|*br*  F|C
+h*|*^f^* F|C
+h*|*^f   F|C
+h*|*bu*  F|C
+h*|*br*  F|C
+
+*aa*|*aa*  A|A
+*aa*|*na*  A|A
+*aa*|*ar*  A|R
+*aa*|*nd*  A|R
+*aa*|*ng*  A|R
+*aa*|*bk*  A|K
+*aa*|*bh*  A|K
+*aa*|*ba*  A|K
+*aa*|*br*  A|C
+*aa*|*^f^* A|C
+*aa*|*^f   A|C
+*aa*|*bu*  A|C
+
+*na*|*aa*  A|A
+*na*|*na*  A|A
+*na*|*ar*  A|R
+*na*|*nd*  A|R
+*na*|*ng*  A|R
+*na*|*bk*  A|K
+*na*|*bh*  A|K
+*na*|*ba*  A|K
+*na*|*br*  A|C
+*na*|*^f^* A|C
+*na*|*^f   A|C
+*na*|*bu*  A|C
+
+*ar*|*aa*  R|A
+*ar*|*na*  R|A
+*ar*|*ar*  R|R
+*ar*|*nd*  R|R
+*ar*|*ng*  R|R
+*ar*|*bk*  R|K
+*ar*|*bh*  R|K
+*ar*|*ba*  R|K
+*ar*|*br*  R|C
+*ar*|*^f^* R|C
+*ar*|*^f   R|C
+*ar*|*bu*  R|C
+
+*nd*|*aa*  R|A
+*nd*|*na*  R|A
+*nd*|*ar*  R|R
+*nd*|*nd*  R|R
+*nd*|*ng*  R|R
+*nd*|*bk*  R|K
+*nd*|*bh*  R|K
+*nd*|*ba*  R|K
+*nd*|*br*  R|C
+*nd*|*^f^* R|C
+*nd*|*^f   R|C
+*nd*|*bu*  R|C
+
+*ng*|*aa*  R|A
+*ng*|*na*  R|A
+*ng*|*ar*  R|R
+*ng*|*nd*  R|R
+*ng*|*ng*  R|R
+*ng*|*bk*  R|K
+*ng*|*bh*  R|K
+*ng*|*ba*  R|K
+*ng*|*br*  R|C
+*ng*|*^f^* R|C
+*ng*|*^f   R|C
+*ng*|*bu*  R|C
+
+*bk*|*aa*  K|A
+*bk*|*na*  K|A
+*bk*|*ar*  K|R
+*bk*|*nd*  K|R
+*bk*|*ng*  K|R
+*bk*|*bk*  K|K
+*bk*|*bh*  K|K
+*bk*|*ba*  K|K
+*bk*|*br*  K|C
+*bk*|*^f^* K|C
+*bk*|*^f   K|C
+*bk*|*bu*  K|C
+
+*bh*|*aa*  K|A
+*bh*|*na*  K|A
+*bh*|*ar*  K|R
+*bh*|*nd*  K|R
+*bh*|*ng*  K|R
+*bh*|*bk*  K|K
+*bh*|*bh*  K|K
+*bh*|*ba*  K|K
+*bh*|*br*  K|C
+*bh*|*^f^* K|C
+*bh*|*^f   K|C
+*bh*|*bu*  K|C
+
+*ba*|*aa*  K|A
+*ba*|*na*  K|A
+*ba*|*ar*  K|R
+*ba*|*nd*  K|R
+*ba*|*ng*  K|R
+*ba*|*bk*  K|K
+*ba*|*bh*  K|K
+*ba*|*ba*  K|K
+*ba*|*br*  K|C
+*ba*|*^f^* K|C
+*ba*|*^f   K|C
+*ba*|*bu*  K|C
+
+*br*|*aa*  C|A
+*br*|*na*  C|A
+*br*|*ar*  C|R
+*br*|*nd*  C|R
+*br*|*ng*  C|R
+*br*|*bk*  C|K
+*br*|*bh*  C|K
+*br*|*ba*  C|K
+*br*|*br*  C|C
+*br*|*^f^* C|C
+*br*|*^f   C|C
+*br*|*bu*  C|C
+
+*^f^*|*aa*  C|A
+*^f^*|*na*  C|A
+*^f^*|*ar*  C|R
+*^f^*|*nd*  C|R
+*^f^*|*ng*  C|R
+*^f^*|*bk*  C|K
+*^f^*|*bh*  C|K
+*^f^*|*ba*  C|K
+*^f^*|*br*  C|C
+*^f^*|*^f^* C|C
+*^f^*|*^f   C|C
+*^f^*|*bu*  C|C
+
+*^f|*aa*  C|A
+*^f|*na*  C|A
+*^f|*ar*  C|R
+*^f|*nd*  C|R
+*^f|*ng*  C|R
+*^f|*bk*  C|K
+*^f|*bh*  C|K
+*^f|*ba*  C|K
+*^f|*br*  C|C
+*^f|*^f^* C|C
+*^f|*^f   C|C
+*^f|*bu*  C|C
+
+
+*bu*|*aa*  C|A
+*bu*|*na*  C|A
+*bu*|*ar*  C|R
+*bu*|*nd*  C|R
+*bu*|*ng*  C|R
+*bu*|*bk*  C|K
+*bu*|*bh*  C|K
+*bu*|*ba*  C|K
+*bu*|*br*  C|C
+*bu*|*^f^* C|C
+*bu*|*^f   C|C
+*bu*|*bu*  C|C
+
+*aa*|%*   A|D
+*aa*|x    A|D
+*na*|%*   A|D
+*na*|x    A|D
+
+*ar*|%*   R|D 
+*ar*|x    R|D
+*nd*|%*   R|D
+*nd*|x    R|D
+*ng*|%*   R|D
+*ng*|x    R|D 
+
+*bk*|%*   K|D
+*bk*|x    K|D
+*bh*|%*   K|D
+*bh*|x    K|D
+*ba*|%*   K|D
+*ba*|x    K|D
+
+*br*|%*   C|D
+*br*|x    C|D
+*^f^*|%*  C|D
+*^f^*|x   C|D
+*^f|%*    C|D
+*^f|x     C|D
+*bu*|%*   C|D
+*bu*|x    C|D
+
+*aa*|*   A|O
+*na*|*   A|O
+
+*ar*|*   R|O 
+*nd*|*   R|O
+*ng*|*   R|O 
+
+*bk*|*   K|O
+*bh*|*   K|O
+*ba*|*   K|O
+
+*br*|*   C|O
+*^f^*|*  C|O
+*^f|*    C|O
+*bu*|*   C|O
+
+*aa*     A 
+*na*     A 
+
+*ar*     R 
+*nd*     R
+*ng*     R 
+
+*bk*     K
+*bh*     K
+*ba*     K
+
+*br*     C
+*^f^*    C
+*^f      C
+*bu*     C
+
+b*       B
+
+f*|%*    F|D
+f*|x*    F|D
+h*|%*    F|D
+h*|x     F|D
+
+f*|*     F|O
+h*|*     F|O
+
+f*       F
+h*       F
+
+*%       D
+*%-      D 
+*%--     D 
+*x       D
+
+x        X
+
+*|*      O|O
+
+*        O
+
+
+
+
+

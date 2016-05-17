@@ -1,0 +1,954 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2427_1133_1092
+TOPIC#:		361
+DATE:		910404
+TRANSCRIBER:	KVA
+UTT_CODER:      MMAB
+DIFFICULTY:	4
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	3
+BACKGROUND_B:	3
+REMARKS:        Speakers continually walked on each other throughout
+conversation.
+
+=============================================================================
+  
+
+qo          A.1 utt1:  What type of lawn and garden work do you do? /  
+
+nd          @B.2 utt1:  {D Well, } I do it all <laughter>. /  
+
+bk          A.3 utt1:  I see.  /
+qy          A.3 utt2:  Do you have a garden? /  
+
+ny          B.4 utt1:  {F Uh, } yes.  /
+sd^e          B.4 utt2: [ I, + I ] try to grow, {F uh, } {F uh, }  a vegetable garden  /
+%          B.4 utt3: {C and, } -/  
+
+sv          A.5 utt1:  We do the same thing.  /
+sd          A.5 utt2: [ It's, +  I just have a small  plot it's ] {D like } ten feet by five feet. /  
+
+b          B.6 utt1:  Yeah.  /
+sd          B.6 utt2:  I have two plots,  /
+sd          B.6 utt3: one's ten by ten  /
+sd          B.6 utt4: {C and } one's  {D like } fifteen by four. /  
+
+b          A.7 utt1:  I see. /  
+
+sd          B.8 utt1:  It's a long skinny one  /
+%          B.8 utt2: {C and, } -/  
+
+b          A.9 utt1:  Yeah,  /
+sd          A.9 utt2: you do a lot more area than I do.  /
+%          A.9 utt3:  I've, - /
+sd          A.9 utt4:  all the rest of my [ yard, + backyard ] is, {F uh, } {D you know, } pool and decking  /
+sd          A.9 utt5: it's  all the dirt I have,   
+
+b          B.10 utt1:  {F Oh, } I see. /  
+
++          A.11 utt1:  left in my backyard <laughter>. /  
+
+b          B.12 utt1:  Yeah.  /
+b          B.12 utt2:  I see. /  
+
+sd          A.13 utt1:  {D Well, } [ I enj-, + I enjoy ] fiddling around.  /
+sv          A.13 utt2:   It's cheap entertainment. /  
+
+aa          B.14 utt1:  Right.  /
+aa^r          B.14 utt2:  Right.  /
+aa          B.14 utt3:  Yeah,  /
+sv          B.14 utt4: it's nice to get  out in the open air. /  
+
+aa          A.15 utt1:  It is,  /
+aa          A.15 utt2: uh-huh. /  
+
+sv          B.16 utt1:  {C And } especially when the weather's not too  hot or,    
+
+aa          A.17 utt1:  That's right. /  
+
++          B.18 utt1:  not raining or whatever, /  
+
+b          A.19 utt1:  Yeah. /  
+
+sd          B.20 utt1:  {C but, }  {F uh, }   
+
+%          A.21 utt1:  # I enjoy, # -/  
+
++          B.22 utt1:  #  [ sometimes [ I, # +    
+
+ad          A.23 utt1:  {E Excuse me, } go ahead. /  
+
++          B.24 utt1:  {E I said, } I ] + sometimes I ] wish I had  more space --   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  -- {D you know. }  /
+sd          B.26 utt2:  I grow a lot of things,  a lot of food. /  
+
+b          A.27 utt1:  Uh-huh. /  
+
+sd          B.28 utt1:  {C And } sometimes [ I, + I ] want to plant something,  there's not enough room to plant.    
+
+aa          A.29 utt1:  That's right.  /
+aa^r          A.29 utt2:  That's right. /  
+
++          B.30 utt1:  Some of those things like, {F uh, } {D you know, }  the things that vine {D like, }  {F uh, } cucumbers,   
+
+b          A.31 utt1:  Uh-huh. /  
+
++          B.32 utt1:  or, {F uh, } squash or something,   
+
+b          A.33 utt1:  # Uh-huh. # /  
+
++          B.34 utt1:  # like that. #   
+
+sv          A.35 utt1:  Takes a lot of room. /  
+
++          B.36 utt1:  Plant one of those  /
+sv          B.36 utt2: {C and } it takes up your  whole space <laughter>. /  
+
+aa          A.37 utt1:  It sure does.  /
+sd          A.37 utt2: I made mistake one year and planted  some cantaloupe,  /
+sd          A.37 utt3: my goodness,    
+
+b          B.38 utt1:  Yeah. /  
+
++          A.39 utt1:  what a mistake that was. /  
+
+aa          B.40 utt1:  Yeah.   /
+sv          B.40 utt2: [ They, + they ] just run all over,   
+
+aa          A.41 utt1:  They do. /  
+
++          B.42 utt1:  the place, don't they, /  
+
+sd          A.43 utt1:  {D Well, } it was very good  /
+sv          A.43 utt2: it just takes up, {D you know, }  like you say, a lot of your garden area. /  
+
+aa          B.44 utt1:  Right.  /
+aa^r          B.44 utt2:  Right.  /
+x          B.44 utt3:  ((   )) .   
+
+sd          A.45 utt1:  It's the first and only time I've done that.  /
+sd          A.45 utt2: We don't do  anything exotic  /
+sd          A.45 utt3: we just do, {F oh, }   
+
+^2          B.46 utt1:  The basics. /  
+
++          A.47 utt1:  tomatoes, bell peppers,   
+
+b          B.48 utt1:  Right. /  
+
++          A.49 utt1:  radishes and turnips, {E I mean, } not turnips,  carrots, beets and things like  that. /  
+
+b          B.50 utt1:  Yeah.  /
+sd          B.50 utt2: That's what we do too. /  
+
+sd          A.51 utt1:  My wife used to plant a few snow peas.  /
+sd          A.51 utt2: I don't really care  for snow peas.  /
+sd          A.51 utt3: {D Well, } she just plants a few for herself. /  
+
+b          B.52 utt1:  Right.  /
+%          B.52 utt2:  Peas -- -/  
+
+b          A.53 utt1:  Yeah. /  
+
+sd          B.54 utt1:  -- [ I, + I ] got a few peas out my garden a  couple of days ago. /  
+
+bh          A.55 utt1:  Did you really? /  
+
+sd          B.56 utt1:  The first one,  they started them indoors   this time.  /
+sd          B.56 utt2:  I read it, /  
+
+b          A.57 utt1:  {F Oh, } I see. /  
+
+%          B.58 utt1:  {C And so } I, -/  
+
+b          A.59 utt1:  Okay.  /
+sd          A.59 utt2: We don't start anything indoors  /
+sd          A.59 utt3: we,   
+
+b          B.60 utt1:  Yeah. /  
+
++          A.61 utt1:  just wait until, {D you know, } the weather warm enough  to stick it in the ground. /  
+
+qy^d          B.62 utt1:  [ I, + {F uh, } I ] guess you can get an  earlier harvest by doing that, /  
+
+na          A.63 utt1:  Probably so.  /
+ny          A.63 utt2: Yeah,  /
+sv^e          A.63 utt3: you can get a head start on it.   <Noise> <<sounds like  ice in glass.>> /  
+
+sv          B.64 utt1:  {C But, }  {F uh, } sure is a heck of a lot of work. /  
+
+aa          A.65 utt1:  I guess [ it, + it, ]   
+
+sv          B.66 utt1:   {C Because }  you got to,   
+
++          A.67 utt1:  [ might +  would, ]  /
+aa          A.67 utt2: yeah. /  
+
++          B.68 utt1:  watch them every day,   
+
+b          A.69 utt1:  Uh-huh. /  
+
++          B.70 utt1:  and keep them watered  /
+sd          B.70 utt2: {C and } [ I, + I ] don't think  I'll do it again <laughter>. /  
+
+sv          A.71 utt1:  <Laughter> {D Well } [ it will make, + it will make ]  them taste better I'm sure. /  
+
+b          B.72 utt1:  {F Oh, } yeah.  /
+b^r          B.72 utt2: Yeah,  /
+sd          B.72 utt3: I enjoy it.  /
+sd          B.72 utt4:  I come home from  work  /
+sd          B.72 utt5: [ {C and, } + {C and } ] I usually say hello to wife and kids,   
+
+b          A.73 utt1:  Sure. /  
+
++          B.74 utt1:  and then go out and fiddle, {D you know, }  just walk around the yard and --   
+
+^2          A.75 utt1:  You got to inspect it,  /
+%          A.75 utt2: yeah. /  
+
++          B.76 utt1:  -- inspect it  /
+sd          B.76 utt2: {C and } the kids want to swing, /  
+
+b          A.77 utt1:  Sure. /  
+
+sd          B.78 utt1:  {C and } I push them on swing. /  
+
+b          A.79 utt1:  Sure. /  
+
+sd          B.80 utt1:  {C And } [ I wal-, +  I mow ] my own lawn. /  
+
+b          A.81 utt1:  Yeah. /  
+
+sd          B.82 utt1:  {C And } [ I do, + I don't ]  have a sprinkler system.  /
+sd          B.82 utt2:  [ I, + I ] don't enjoy watering. /  
+
+b          A.83 utt1:  No. /  
+
+%          B.84 utt1:  Especially, -/  
+
+%          A.85 utt1:  I,  /
+sd          A.85 utt2: this is the first home we've lived in we've  had a sprinkler system, /  
+
+%          B.86 utt1:  {F Oh } how, -/  
+
+sd          A.87 utt1:  {C and } {D boy, } it is really nice, /  
+
+b          B.88 utt1:  Oh. /  
+
+sv          A.89 utt1:  it sure beats dragging hoses around. /  
+
+aa          B.90 utt1:  Yeah,  /
+sv          B.90 utt2: you can have it come on just early in the morning.    
+
+aa          A.91 utt1:  That's right. /  
+
++          B.92 utt1:  [ And, + and ] off [ by the, + {D you know, } by the ]  time you're up and about. /  
+
+aa          A.93 utt1:  That's right.  /
+sd          A.93 utt2:  It's really nice. /  
+
+b          B.94 utt1:  Yeah.  /
+sd          B.94 utt2:  [ I, + I ] usually get it  started for my wife -- /  
+
+b          A.95 utt1:  Uh-huh. /  
+
+sd          B.96 utt1:  -- [ {C and } I, + {C and } she ] moves it around <laughter>  ever other day. /  
+
+sd          A.97 utt1:  I'll have to admit [ I don't, + I do ] my own yard.  /
+sd          A.97 utt2:   [ I, + I ] really don't enjoy doing that.  /
+sd          A.97 utt3: I enjoy having a nice looking yard, /  
+
+b          B.98 utt1:  Uh-huh. /  
+
+sd          A.99 utt1:  I just don't enjoy the work,    
+
+b          B.100 utt1:  Uh-huh. /  
+
++          A.101 utt1:  that it takes to get it done. /  
+
+b          B.102 utt1:  Yeah. /  
+
+sd          A.103 utt1:  I had a lawn service to do my yard for me --   
+
+b          B.104 utt1:  Uh-huh. /  
+
++          A.105 utt1:  -- during the real hot summer months, {D you know, }  until I retired  /
+sd          A.105 utt2: {C and } now [ I, + I've ] lost my excuse for that so I have to <laughter>, /  
+
+x          B.106 utt1:  <Laughter>.   
+
+sd          A.107 utt1:  for the last couple of years I've done it myself. /  
+
+b          B.108 utt1:  Yeah.  /
+sd          B.108 utt2:  Sometimes I wish I could get one of  these, {F uh, } chemical services to come,   
+
+b          A.109 utt1:  Uh-huh. /  
+
++          B.110 utt1:  out and spray for weeds,   
+
+b          A.111 utt1:  Yeah. /  
+
++          B.112 utt1:  and fertilize,   
+
+b          A.113 utt1:  Uh-huh. /  
+
++          B.114 utt1:  and all that and take that one step out of  ((   )) . /  
+
+b          A.115 utt1:  Uh-huh. /  
+
+sv          B.116 utt1:  {C But, }  {F uh, } they want too much money. /  
+
+aa          A.117 utt1:  It is kind of expensive,  /
+aa          A.117 utt2: it is. /  
+
+b          B.118 utt1:  Yeah. /  
+
+sv          A.119 utt1:  Of course, the chemicals themselves when  you buy them, they're expensive too. /  
+
+aa          B.120 utt1:  Right.  /
+aa^r          B.120 utt2:  Right.  /
+sv          B.120 utt3: {C But } it's still be quite a  bit cheaper to do it yourself. /  
+
+aa          A.121 utt1:  That's right.  /
+sd          A.121 utt2:  If I have a problem discipline,  {D you know, } I think,  /
+^q          A.121 utt3: {D now, } boy,  I really need to get out, {D you know, } and apply something,  {D you know, }  /
+sd          A.121 utt4: {C and } I screw around and don't do it or wait too long or something. /  
+
+b          B.122 utt1:  Right  /
+qy^d          B.122 utt2: {C and } the weed come up, /  
+
+aa          A.123 utt1:  That's right. /  
+
+sv          B.124 utt1:  {C and } all of a sudden you've got to do something else. /  
+
+aa          A.125 utt1:  That's right.  /
+sd          A.125 utt2:  [ I'm, + I'm ] kind of bad about that. /  
+
+b          B.126 utt1:  Yeah. /  
+
+sd          A.127 utt1:  I enjoyed having a lawn service  /
+sd          A.127 utt2: {C but } now I have the  time  /
+sd          A.127 utt3: {C and } [ I really can't, + I really [ don-, + {D you know, } don't, ] ]   
+
+sv          B.128 utt1:  # {D Well, } if you, #   
+
++          A.129 utt1:  # want to spend the money for it. # /  
+
++          B.130 utt1:  enjoy it too,   
+
+b          A.131 utt1:  Yeah. /  
+
++          B.132 utt1:  {D you know, } [ you, + you ] can get out in the  morning [ when, + before ] it gets hot [ and, +    
+
+aa          A.133 utt1:  That's right. /  
+
++          B.134 utt1:  and ] do it and stuff,   
+
+sd          A.135 utt1:  I'm not limited to,   
+
++          B.136 utt1:  when you only have to, /  
+
++          A.137 utt1:  just mowing it on Saturday morning, {D you know, } /  
+
+b          B.138 utt1:  Right. /  
+
+sd          A.139 utt1:  I can do it on most any day of the week. /  
+
+sv          B.140 utt1:  When the days start getting a little longer,   
+
+b          A.141 utt1:  Uh-huh. /  
+
++          B.142 utt1:  {D you know, } [ you can, + I can ]  start doing it in the evening after work. /  
+
+aa          A.143 utt1:  That's right. /  
+
+%          B.144 utt1:  [ When they, + when they ] [ switch  to, +     
+
+b          A.145 utt1:  Yeah. /  
+
++          B.146 utt1:  switch,  ] - /
+%          B.146 utt2: when we get an hour more, -/  
+
+b          A.147 utt1:  Yeah. /  
+
+sd          B.148 utt1:  when they rollback an hour. /  
+
+sv          A.149 utt1:  That's coming up here pretty soon.  /
+qy          A.149 utt2: Is it this weekend? /  
+
+no          B.150 utt1:  I don't know. /  
+
+sv          A.151 utt1:  It's pretty soon. /  
+
+sd          B.152 utt1:  I really don't know.  /
+sd          B.152 utt2:  It just seems like I here it  on the news the day before. /  
+
+b          A.153 utt1:  Yeah. /  
+
+sv          B.154 utt1:  {C And, }  {F uh, } [ I, + I ] think it's  coming up here soon. /  
+
+aa          A.155 utt1:  <Noise> <<ice>>  I believe it is too. /  
+
+b          B.156 utt1:  Yeah.  /
+b^r          B.156 utt2:  Yeah. /  
+
+%          A.157 utt1:  {D Well, } -/  
+
+qy          B.158 utt1:  Are you having any trouble with bugs [ in, + in ] your garden? /  
+
+ng          A.159 utt1:  {F Uh, } not a whole lot, {F uh. }  /
+sd          A.159 utt2: [ [ I, + I ]  don't use, + [ I, + I ] seldom use ] anything harsher than seven dust, {D you know. } /  
+
+b          B.160 utt1:  Uh-huh. /  
+
+sd         A.161 utt1:  I don't really like to put a lot chemicals  on it  /
+sd          A.161 utt2: {C but } then,   
+
+b          B.162 utt1:  Right. /  
+
++          A.163 utt1:  again, I don't want the bugs eating it  upping either. /  
+
+b          B.164 utt1:  Right.  /
+%          B.164 utt2:  [ I, + I, ] - /
+sv          B.164 utt3: it seems like they come in spurts. /  
+
+b          A.165 utt1:  Uh-huh. /  
+
+sd          B.166 utt1:  One year I didn't put anything on  /
+sd          B.166 utt2:  {C and } I didn't have any problems. /  
+
+b          A.167 utt1:  Uh-huh. /  
+
+sd          B.168 utt1:  Next year I was planting some broccoli [ and, + and ]  some of those, they're called [ cabbage, +   
+
+b          A.169 utt1:  Uh-huh. /  
+
++          B.170 utt1:  cabbage ] loppers,   
+
+b          A.171 utt1:  Right. /  
+
++          B.172 utt1:  or whatever. /  
+
+b          A.173 utt1:  Uh-huh. /  
+
+sd          B.174 utt1:  They were just covered with them, /  
+
+b          A.175 utt1:  Yeah. /  
+
+%          B.176 utt1:  {E I mean, } I went up, - /
+sd          B.176 utt2: I didn't go out there for  about three days, {D you know, }   
+
+b          A.177 utt1:  Uh-huh. /  
+
++          B.178 utt1: [ {C because } I, +  {C and } I ]  went out there one day and the plant  was [ noth-, + nothing ] left but a stem, /  
+
+aa          A.179 utt1:  That's right. /  
+
+sd         B.180 utt1:  they devoured it that quickly. /  
+
+aa          A.181 utt1:  Absolutely.  /
+sv          A.181 utt2: They really go through it, /  
+
+sv          B.182 utt1:  {C And, }  [ they, + they, ]   
+
+aa          A.183 utt1:  they really do. /  
+
++          B.184 utt1:  have [ a, + [ you, + ] a ] good appetite <laughter>. /  
+
+b          A.185 utt1:  Yeah. /  
+
+%          B.186 utt1:  {C And } they would, {D you know, } - /
+sd          B.186 utt2:  [ I, + I ] picked off {D like } twenty of them  /
+%          B.186 utt3: {C and, } -/  
+
+sv          A.187 utt1:  {D You know } cutworms will do the same  thing to your tomato vines too. /  
+
+%          B.188 utt1:  Ye-, - /
+aa          B.188 utt2: yeah. /  
+
+%          A.189 utt1:  Boy, they'll strip, -/  
+
+sd          B.190 utt1:  They got that, {F uh, }  what is that  safer soap, {F uh, }     
+
+b          A.191 utt1:  Uh-huh. /  
+
++          B.192 utt1:  B T spray this,   
+
+b          A.193 utt1:  Yeah. /  
+
++          B.194 utt1:  year. /  
+
+b          A.195 utt1:  Uh-huh. /  
+
+sd          B.196 utt1:  {C And } I've been watching them every  day  /
+sd          B.196 utt2: [ {C and } I've, + {C and } I haven't ] seen any signs yet.  /
+sd          B.196 utt3:  {C So, } if I see any signs I'm going to spray them, /  
+
+b          A.197 utt1:  Yeah. /  
+
+%          B.198 utt1:  {C and, }  {F uh, } -/  
+
+sd          A.199 utt1:  I did something a little bit different this year  that I haven't done before,  /
+%          A.199 utt2: I've got, - /
+sd          A.199 utt3: my garden is shaped that  I can, - /
+sd          A.199 utt4: it's kind like this, {F uh, } box shape,  /
+sd          A.199 utt5: {C so } I got four pieces of two by  twelve and joined them together and just made a box.   
+
+b          B.200 utt1:  Right. /  
+
++          A.201 utt1:  And put in a whole bunch {D like } eight hundred pounds  of topsoil and manure  /
+sd          A.201 utt2: {C and, } {D you know, } various other things,   
+
+sv          B.202 utt1:  {D Well, } the good stuff. /  
+
++          A.203 utt1:  Raised it up. /  
+
+b          B.204 utt1:  Right. /  
+
+sd          A.205 utt1:  {C And } I'm hoping especially with those big tall  sides on there it that maybe [ I won't have, +  {F oh, } I'll have ] less of a bug  problem  /
+sv          A.205 utt2: [ any-, + ] at least [ they, + they'll ] have a hard time crawling up the thing. /  
+
+aa          B.206 utt1:  Right.  /
+aa          B.206 utt2: Yeah,  /
+sd          B.206 utt3: my backyard [ is, + {F uh, } is ]  sloping  /
+sd          B.206 utt4: {C so } I built a box up, {D you know } --   
+
+b          A.207 utt1:  Uh-huh. /  
+
++          B.208 utt1:  -- had to build the one, the low side up. /  
+
+b          A.209 utt1:  Uh-huh. /  
+
+sd          B.210 utt1:  {C And, }  {F uh, } I had sandy loam hauled in.  /
+sd          B.210 utt2:   I had a dump truck come and dump it. /  
+
+b          A.211 utt1:  Uh-huh. /  
+
+sd          B.212 utt1:  On my driveway, I guess, that's what they do  /
+sd          B.212 utt2: {C and then, }   
+
+b          A.213 utt1:  Yeah, /  
+
++          B.214 utt1:  I had to wheel barrow it in. /  
+
+b          A.215 utt1:  Right. /  
+
+sv          B.216 utt1:  {C But, }  {F uh, } {D you know, } you can improve your  own soil there -- /  
+
+b          A.217 utt1:  Uh-huh. /  
+
+sv          B.218 utt1:  -- {C but } the Texas soil isn't the greatest,   
+
+aa          A.219 utt1:  That's right, /  
+
++          B.220 utt1:  gardening soil. /  
+
+sv          A.221 utt1:  [ you, + you ] have to work on.  /
+sv          A.221 utt2: You,   
+
+b          B.222 utt1:  Right. /  
+
++          A.223 utt1:  really do. /  
+
+sd          B.224 utt1:  {C And } {D you know, } if [ I, + I ] didn't wait five  years for it to be good enough grow  /
+qh          B.224 utt2: you know what I mean <laughter>. /  
+
+aa          A.225 utt1:  That's right.  /
+sd          A.225 utt2:  When we had our pool done I had  them to leave some extra loam, {D you know, } for my garden  /
+sd          A.225 utt3: {C so } [ I had, + I had ]  a lot of loam out there to start with  /
+sd          A.225 utt4: I just turned it all up and mixed it all up together --   
+
+b          B.226 utt1:  Uh-huh. /  
+
++          A.227 utt1:  -- with, -/  
+
+qy          B.228 utt1:  [ Do you have, + do you have ] a rotor tiller? /  
+
+nn          A.229 utt1:  No.  /
+sd^e          A.229 utt2:  I don't,  /
+sd          A.229 utt3: I did it by hand, /  
+
+sv          B.230 utt1:  Small enough,  /
+%          B.230 utt2: you have a, - /
+qy          B.230 utt3: just do it by hand? /  
+
+ny          A.231 utt1:  Uh-huh. /  
+
+b          B.232 utt1:  Yeah. /  
+
+sd          A.233 utt1:  It wasn't too much of a job,   
+
+b          B.234 utt1:  # Yeah. # /  
+
++          A.235 utt1:  # really. # /  
+
+b          B.236 utt1:  Yeah. /  
+
+%          A.237 utt1:  Like I say it's just, -/  
+
+b          B.238 utt1:  Yeah.  /
+sd          B.238 utt2: I'd like to get one of these little small ones,   
+
+b          A.239 utt1:  Uh-huh. /  
+
++          B.240 utt1:  that you see in all these gardening magazines. /  
+
+b          A.241 utt1:  Uh-huh.  /
+sv          A.241 utt2:  It would be handy. /  
+
+sd          B.242 utt1:  {C And } it weighs twenty pounds or,    
+
+b          A.243 utt1:  Yeah. /  
+
++          B.244 utt1:  something like that.  /
+sd          B.244 utt2: My neighbor across the street  has one.  /
+sd          B.244 utt3:  He always uses it to dethatch his lawn, /  
+
+b          A.245 utt1:  Uh-huh. /  
+
+sd          B.246 utt1:  I see him out there, /  
+
+b          A.247 utt1:  Yeah. /  
+
+sd          B.248 utt1:  {C and } I guess it has a thatcher attachment to it. /  
+
+sv          A.249 utt1:  It might be handy, /  
+
+aa          B.250 utt1:  Yeah.  /
+aa^r          B.250 utt2:  Yeah. /  
+
+sv          A.251 utt1:  They're pretty neat little, - /
+sd          A.251 utt2: I've never seen one. /  
+
+sd          B.252 utt1:  I have a friend who has one  /
+sd          B.252 utt2: [ {C and, }  + {C and } ]  he lets me, {D you know, } no problem borrowing if it's,   
+
+b          A.253 utt1:  Uh-huh. /  
+
++          B.254 utt1:  just a hassle [ when + ] {D you know, }   
+
+b          A.255 utt1:  {F Oh, } yeah. /  
+
++          B.256 utt1:  to go up  /
+sd          B.256 utt2: {C and } it's a fairly large one to,   
+
+b          A.257 utt1:  Yeah. /  
+
++          B.258 utt1:  heave it up into the back of the van,   
+
+b          A.259 utt1:  Uh-huh <Noise> <<Ice rattling>>. /  
+
++          B.260 utt1:  bring it home and,    
+
+b          A.261 utt1:  Right. /  
+
++          B.262 utt1:  check it back and just grab it, {D you know, }   if I, just go to my garage and  grab it. /  
+
+b          A.263 utt1:  Yeah.  /
+ba          A.263 utt2:  That would be neat,  /
+%          A.263 utt3: sure. /  
+
+ba          B.264 utt1:  That would be nice. /  
+
+sd          A.265 utt1:  We've had a garden, {D gosh, } for years and years and years,   
+
+b          B.266 utt1:  Uh-huh. /  
+
++          A.267 utt1:  of some size, {D you know, }  /
+sd          A.267 utt2: I can't remember a  year when we didn't have one of some kind. /  
+
+qw          B.268 utt1:  What have you got growing right now? /  
+
+%          A.269 utt1:  {F Uh, } got, - /
+sd          A.269 utt2: you know tomatoes that are  starting to bloom  -- -/  
+
+b          B.270 utt1:  Uh-huh. /  
+
+sd          A.271 utt1:  -- {C and, }  {F uh, } [ I've got carrots, +  {E I mea-, } {D yes, }   I've got a few carrots ] up  /
+sd          A.271 utt2: {C and } I've got some radishes up, /  
+
+b          B.272 utt1:  Uh-huh. /  
+
+sd          A.273 utt1:  {C and } as a matter of fact, I've already done a  second row of radishes. /  
+
+b          B.274 utt1:  Uh-huh.  /
+b          B.274 utt2:  Yeah. /  
+
+sd          A.275 utt1:  {C And, }  {F uh, } the green onions are coming along. /  
+
+bk          B.276 utt1:  Okay, /  
+
+%          A.277 utt1:  Snow, /  
+
+%          B.278 utt1:  what kind, /  
+
+fa          A.279 utt1:  {E excuse me. } /  
+
+qo          B.280 utt1:  what kind of onions do you grow?  /
+qy          B.280 utt2:  Do you grow [ those, + those ]  ten, fifteen Y? /  
+
+ny          A.281 utt1:  Yes,  /
+%          A.281 utt2: I've - /
+sd^e          A.281 utt3: for the first time we planted  them this year. /  
+
+sv          B.282 utt1:  {F Oh, } [ they, + they ] are the best. /  
+
+aa          A.283 utt1:  Yeah.  /
+sd          A.283 utt2: We tried to find them last year,  /
+sd          A.283 utt3:  we screwed around and waited too long  /
+sd          A.283 utt4: {C and } I couldn't find a nursery that had any of them left. /  
+
+b          B.284 utt1:  Uh-huh.  /
+b^r          B.284 utt2:  Uh-huh. /  
+
+sd         A.285 utt1:  {C But } we've got some this year. /  
+
+%          B.286 utt1:  {F Uh, } those, -/  
+
+sd          A.287 utt1:  Snow peas are up  /
+sd          A.287 utt2: {C and, }  {F uh, }  my wife does, {F uh, } a small herb garden on the side. /  
+
+b          B.288 utt1:  I see. /  
+
+sd          A.289 utt1:  They're up and doing fine. /  
+
+b          B.290 utt1:  Yeah.  /
+%          B.290 utt2: I, {F uh, } - /
+sd          B.290 utt3: those onions,  I think, [ we, + we ] planted {D like } twice as much this year because, {D you know, } we got, [ on-, +  onions ]  /
+sd          B.290 utt4:  {C and } they lasted from, {D you know, } [ about +  when you harvest them about ] a month from now or so,    
+
+b          A.291 utt1:  Uh-huh. /  
+
++          B.292 utt1:  or six weeks,    
+
+b          A.293 utt1:  Uh-huh. /  
+
++          B.294 utt1:  from now,   
+
+b          A.295 utt1:  Uh-huh. /  
+
++          B.296 utt1:  [ until, + until ] {D like } October, /  
+
+b          A.297 utt1:  Yeah. /  
+
+sv          B.298 utt1:  {C and, }  {F uh, } we really missed them when they were gone,   
+
+b          A.299 utt1:  Yeah. /  
+
++          B.300 utt1:  because the ones from the grocery store just can't,   
+
+aa          A.301 utt1:  Yeah.  /
+sv          A.301 utt2:  That's kind of a,   
+
++          B.302 utt1:  compare. /  
+
++          A.303 utt1:  let down. /  
+
+sd          B.304 utt1:  She made these onion rings that were so good, /  
+
+ba          A.305 utt1:  {F Oh, } I bet, /  
+
+sv          B.306 utt1:  [ [ {C and, } +  {C and, } ] +   
+
+ba          A.307 utt1:  they were. /  
+
++          B.308 utt1:  {C and, } ]  {F uh, } you don't realize how  many dishes you put onions in,   
+
+aa          A.309 utt1:  That's right.  /
+sv          A.309 utt2: # We use a lot, # /  
+
++          B.310 utt1:  # that it's an ingredient, # /  
+
+aa          A.311 utt1:  we sure do. /  
+
+sd          B.312 utt1:  [ {C and, } + {C and } ] it was just like  everything you put it into tasted so much better. /  
+
+aa          A.313 utt1:  Yeah.  /
+sv          A.313 utt2:  One nice thing with onions [ and, + and ]  bell peppers at least you can chop them and freeze them if you have,   
+
+b          B.314 utt1:  Right. /  
+
++          A.315 utt1:  {D you know, } too many. /  
+
+aa          B.316 utt1:  Right.  /
+sd          B.316 utt2:  We froze a lot of peppers.  /
+sd          B.316 utt3: We let some turn red. /  
+
+b          A.317 utt1:  Yeah.  /
+b          A.317 utt2: Uh-huh.  /
+sd          A.317 utt3:  We did that too, /  
+
+sd          B.318 utt1:  {C And } some we do green  /
+sd          B.318 utt2: {C and then }  my wife puts them on pizzas.    
+
+b          A.319 utt1:  Uh-huh. /  
+
++          B.320 utt1:  [ And, + and ] chops them up in recipes --   
+
+b          A.321 utt1:  Sure.  /
+sv          A.321 utt2: [ Makes, + {F uh, }   
+
++          B.322 utt1:  -- and things like that. /  
+
++          A.323 utt1:  makes ] a colorful salad too. /  
+
+aa          B.324 utt1:  {F Oh, } yeah.  /
+aa          B.324 utt2:  Put them in salad,  /
+aa^r          B.324 utt3: yeah. /  
+
+b          A.325 utt1:  Uh-huh. /  
+
+sd          B.326 utt1:  [ You're, + you're ] making me hungry here. /  
+
+x          A.327 utt1:  <Laughter>.   
+
+x          B.328 utt1:  <Laughter>.   
+
+sd          A.329 utt1:  We planted some yellow peppers this year.  /
+sd          A.329 utt2:  We've tried it,   
+
+b          B.330 utt1:  Oh. /  
+
++          A.331 utt1:  before  /
+nn          A.331 utt2: {C and } nope,  /
+sd^e          A.331 utt3: we haven't had much luck  with it we're going to try it again this year. /  
+
+b          B.332 utt1:  Yellow peppers,  {F huh. } /  
+
+sd          A.333 utt1:  They have some little buds on them hopefully they'll do something. /  
+
+b          B.334 utt1:  Yeah.  /
+bf          B.334 utt2:  Sounds like you have a real good garden. /  
+
+aa          A.335 utt1:  Yeah.  /
+sd          A.335 utt2:  We enjoy fooling around with it. /  
+
+^h          B.336 utt1:  Just let me see what I got,  /
+sd          B.336 utt2: I got the peas  /
+sd          B.336 utt3:  {C and } I've got some broccoli, {F uh, } onions [ some, + some ] radishes and, {F uh, } {F uh, } beets. /  
+
+b^m          A.337 utt1:  Beets.  /
+%          A.337 utt2: Yeah,  /
+sd          A.337 utt3: we've got some beets,  /
+%          A.337 utt4: uh-huh. /  
+
+sd          B.338 utt1:  {F Uh, } {C and } I planted potatoes too. /  
+
+b          A.339 utt1:  Uh-huh.  /
+sd          A.339 utt2: I've never done potato.  /
+sd          A.339 utt3:  We used to do it at  home when I was a kid,    
+
+b          B.340 utt1:  {F Oh, } the potato, /  
+
++          A.341 utt1:  had a huge garden. /  
+
+sv          B.342 utt1:  [ They were, + they're ] delicious  /
+%          B.342 utt2: {C but } they, - /
+sv          B.342 utt3:  you don't [ get, +  seem to get ] that much for the space, /  
+
+b          A.343 utt1:  Uh-huh. /  
+
+sv          B.344 utt1:  [ they, + they ] do. /  
+
+aa          A.345 utt1:  [ It takes a, +  {D yeah, } it does take some ] space. /  
+
+sd          B.346 utt1:  Some beet, {F uh, } potatoes /  
+
+b          A.347 utt1:   Yeah. /  
+
+sd          B.348 utt1:   ((   ))  {C and } I've got some tomatoes still growing,   
+
+b          A.349 utt1:  Uh-huh. /  
+
++          B.350 utt1:  [ in, + in ] containers, /  
+
+b          A.351 utt1:  I see. /  
+
+sd          B.352 utt1:  I got to wait for a place [ [ to, + to, ] + to ] free up. /  
+
+b          A.353 utt1:  Uh-huh. /  
+
+sd          B.354 utt1:  {F Uh, } [ our, + our ] kids love pickles  /
+sd          B.354 utt2:  {C and } we all love pickles  /
+sd         B.354 utt3: {C so } we're going to try to grow our own pickles this year. /  
+
+b          A.355 utt1:  Uh-huh.  /
+ba          A.355 utt2: That will be neat,  /
+%          A.355 utt3: yeah. /  
+
+sd          B.356 utt1:  We've got some good, {F um, } {F um, } Hybrid  Burpee {F uh } --   
+
+b          A.357 utt1:  Uh-huh. /  
+
++          B.358 utt1:  -- {F uh, } pickler cucumbers  /
+sd          B.358 utt2: {C and } we're going to  try to see if we can pickle our own  /
+%@          B.358 utt3: {C and, }   
+
+ba          A.359 utt1:  That will be neat,  /
+%          A.359 utt2: yeah. /  
+
++@          B.360 utt1:  {C So, } [ because + ]  have you seen how much pickles cost in the store? /  
+
+na          A.361 utt1:  Absolutely,  /
+sv          A.361 utt2: they're expensive. /  
+
+aa          B.362 utt1:  I know it.  /
+sd(^q)          B.362 utt2: I said, why are they so expensive  they're just a bunch of little cucumbers, {D you know? } /  
+
+sv          A.363 utt1:  I don't know unless it,   
+
+x          B.364 utt1:  <Laughter>.   
+
++          A.365 utt1:  labor intensive or something.  /
+sd          A.365 utt2: I really,   
+
+aa          B.366 utt1:  I guess. /  
+
++          A.367 utt1:  don't know. /  
+
+sd          B.368 utt1:  {C But } we're going to try that,   
+
+ba          A.369 utt1:  That will be interesting. /  
+
++          B.370 utt1:  and see how that works.  /
+sd          B.370 utt2:  An experiment. /  
+
+b          A.371 utt1:  Yeah. /  
+
+sd          B.372 utt1:  I'd like to [ try, +  {D you know, } just try ]  something new,   
+
+b          A.373 utt1:  Sure. /  
+
++          B.374 utt1:  every year that,   
+
+b          A.375 utt1:  Yeah. /  
+
++          B.376 utt1:  I haven't tried before  /
+%          B.376 utt2: {C and, } -/  
+
+ba          A.377 utt1:  That's interesting. /  
+
+%          B.378 utt1:  {D Well. } -/  
+
+fc          A.379 utt1:  {D Well, } I'll let you go it's, -/ 

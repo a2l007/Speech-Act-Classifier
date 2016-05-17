@@ -1,0 +1,656 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2490_1106_1138
+TOPIC#:		314
+DATE:		910407
+TRANSCRIBER:	SK
+UTT_CODER:      MMAB
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS: 	None.
+
+========================================================================
+  
+
+o          A.1 utt1:   Okay,  /
+qo          A.1 utt2: {D well } what do you think? /  
+
+sd          B.2 utt1:   {D Well, } [ I'm kind of leaning towards, + <sigh>  I don't know, I'm thinking about ] [ what, + from one to ten what ] my no would be.  /
+sd          B.2 utt2:  It would probably be somewhere closer  to, <sigh> {F uh, } less control because I don't see, - /
+sd          B.2 utt3: I'm not a member of the N R A although my,   
+
+x          A.3 utt1:   <Noise>.   
+
++          B.4 utt1:   father is. /  
+
+b          A.5 utt1:   Uh-huh. /  
+
+sv          B.6 utt1:   {C But, }  [ [ I guess + I believe, ] + I think ] the N R A has   gone overboard the wrong way. # {D You know, } # /  
+
+b          A.7 utt1:   # Yeah. # /  
+
+sv          B.8 utt1:   they're sitting there on number ten,  /
+sv(^q)          B.8 utt2:  they're saying absolutely no gun control,   
+
+x          A.9 utt1:   <Noise>.   
+
++          B.10 utt1:   we don't even want to think about it  /
+sv          B.10 utt2:  [ {C and, }  + {C and } ] I think that's a dumb,   
+
+b          A.11 utt1:   # Yeah. # /  
+
++          B.12 utt1:   # situation. #  /
+sv          B.12 utt2: {C Because } there has got to be some  kind of background check to see,   
+
+x          A.13 utt1:   <Noise>.   
+
++          B.14 utt1:   that the people who are buying a gun are buying it for  a useful purpose, {D you know, } [ if, + if ]  you're going to hunt with it,   
+
+b          A.15 utt1:   Uh-huh. /  
+
++          B.16 utt1:   {C or } if you're going to do sport shooting  you can wait a week. /  
+
+aa          A.17 utt1:   Right.  /
+aa          A.17 utt2: # That's true. # /  
+
+sv          B.18 utt1:   # It's not a # big deal for them to go.  /
+sv          B.18 utt2: If they're can  check your drivers license every time you get a ticket, {D you know, }  {E I mean, } they should be able to go back and find out  if you've had any kind of [ psychiatric record, +   
+
+b          A.19 utt1:   Right. /  
+
++          B.20 utt1:   armed, {D you know, } felony record. ] /  
+
+aa          A.21 utt1:   That's true. /  
+
+sv          B.22 utt1:   any of that kind of stuff.  /
+sv          B.22 utt2: {C And, }  it seems to me  right now that [ there's not, + there's not ] that much of  a check.  /
+sd          B.22 utt3: [ I, + I'm ] not really sure what  Texas law, I think there's a check for  ((   ))   felonies, on your record. /  
+
+aa          A.23 utt1:   Right. #  /
+%          A.23 utt2: {C But, }  # -/  
+
+sv          B.24 utt1:   # If # the gun shop owner does it, -/  
+
+b          A.25 utt1:   Uh-huh. /  
+
+%          B.26 utt1:   # {D you know, } {C but, }  # -/  
+
+aa          A.27 utt1:   # Yeah,  /
+sv          A.27 utt2: {C but } he has to go out # and do it.  /
+aa          A.27 utt3:  That's true, # I think, # /  
+
+b          B.28 utt1:   # Yeah,  /
+sv          B.28 utt2: [ if, + # {C and } if ] it's a private sale,  of course, then there's nothing. /  
+
+aa          A.29 utt1:   Right.  /
+sd          A.29 utt2: {C And, }  {D see } that's my only  problem with, {F uh, } - /
+%          A.29 utt3: <lipsmack> making you, <sigh> {F um, } - /
+sv          A.29 utt4:  {D you know, } get the check and everything [ is, + is, ]  I guess bad guys, if you want to call them bad guys,  /
+sv          A.29 utt5:  they are going to get a gun no matter what. /  
+
+b          B.30 utt1:   # Uh-huh. # /  
+
+%          A.31 utt1:   # They're not, # - /
+sv          A.31 utt2: I don't think they're going to  go to a gun store or pawn shop and get it the right way when  there's a check,  /
+sv          A.31 utt3: I think they're going to go out and find it  someway, individual sale or something # like that. # /  
+
+aa          B.32 utt1:   # Yes. #  /
+sv          B.32 utt2: [ {C But, } + {C but } ]  maybe we'll prevent a few John Hinckley's. /  
+
+aa          A.33 utt1:   Yeah.  /
+sd          A.33 utt2: I hope. #  /
+aa          A.33 utt3: That's true. # /  
+
+%          B.34 utt1:   # {D You know, } # [ I, + I, ] - /
+sv          B.34 utt2: [ that, + that's ]  the kind of people,  /
+sv          B.34 utt3: like I say, I don't think the guy  who's going to rob a Seven Eleven, is going to rob a Seven  Eleven whether he has a gun or a # knife, baseball bat, #   
+
+b          A.35 utt1:   # Knife,  /
+aa          A.35 utt2: exactly. # /  
+
++          B.36 utt1:   or, {D you know, } whatever, /  
+
+sv          A.37 utt1:   He's going to do what he wants to do. /  
+
+%@          B.38 utt1:   {C but, }  # {D you know, } #   
+
+aa          A.39 utt1:   # That's true. #  /
+sv          A.39 utt2: [ I, + I ] just think it makes  honest people more honest  /
+%          A.39 utt3: {C and, } -/  
+
++          B.40 utt1:   Yeah.  /
+sv          B.40 utt2: [ {C And, } + {C and } ] the people who  want it, it's not that big a deal, like I say, # to wait. # /  
+
+aa          A.41 utt1:   # Right # .  /
+aa^r          A.41 utt2: Right.  /
+sv          A.41 utt3: {C And, }  if you have to have  it in a hurry, something's wrong <laughter>. /  
+
+aa          B.42 utt1:   <Laughter> Yeah,  /
+sv          B.42 utt2: it makes you wonder,   
+
+x          A.43 utt1:   <Noise>   
+
++          B.44 utt1:   what they need it for # all of a sudden here. {F Um, } # /  
+
+aa          A.45 utt1:   # <Laughter> That's right. #  /
+aa^r          A.45 utt2: That's right. /  
+
+b          B.46 utt1:   Oh. /  
+
+sd          A.47 utt1:   {D Well, } I'm married to a policeman,  /
+sd          A.47 utt2: {C so } [ we, + we ]  talk about this a lot <laughter>. /  
+
+b          B.48 utt1:   Yeah, <laughter>  /
+qy^d          B.48 utt2: [ I, + I ] imagine [ his, + his ]  opinion is a little bit towards the one # there, #   
+
+b          A.49 utt1:   # Yeah. # /  
+
++          B.50 utt1:   on the --   
+
+b          A.51 utt1:   Yeah. /  
+
++          B.52 utt1:   -- scale of one to ten he needs some more. /  
+
+ny          A.53 utt1:   Yeah.  /
+sd^e          A.53 utt2: I was watching a, -/  
+
+ba          B.54 utt1:   Gosh,  /
+sd          B.54 utt2: if I was a cop I would be, -/  
+
+^2          A.55 utt1:   <Laughter> worried about that. /  
+
+sv          B.56 utt1:   Too many people have [ too many, + too much ] access. /  
+
+aa          A.57 utt1:   Yeah,  /
+aa          A.57 utt2:  they do.  /
+aa^r          A.57 utt3: They # do. # /  
+
+sv          B.58 utt1:   # {C and, }  # [ I guess +  I think, ] the other thing that  we ought to control to some extent is, there should be some  law against the types of gu-, - /
+sv          B.58 utt2: {E I mean, }   
+
+x          A.59 utt1:   <Breathing>.   
+
++          B.60 utt1:   some of these Saturday night specials that these  companies put out,   
+
+b          A.61 utt1:   # Right. # /  
+
++          B.62 utt1:   # [ that are +  # , [ pie-, + ] {E I mean, }  they're are  ] - /
+sv(^q)          B.62 utt2:  basically  it says here buy me and go rob a seven eleven /  
+
+aa          A.63 utt1:   <cough> right  /
+sv          A.63 utt2: {C or } [ even + even ] [ the + {F um } the ]  little {F um } <lipsmack> toy guns look real.  /
+%          A.63 utt3: {E I mean } -/  
+
+aa          B.64 utt1:   # yes  /
+sv          B.64 utt2: [ they +  that's ] really gotten bad # /  
+
+sd          A.65 utt1:   # I've heard so much about that on TV #  /
+sv          A.65 utt2: {C and } that's  kind of scary to think that you may be shot for holding one. /  
+
+sv          B.66 utt1:   Or your child --   
+
+b          A.67 utt1:   Yeah. /  
+
++          B.68 utt1:   -- accidently.  /
+sv          B.68 utt2: If your child is old enough, - /
+sv          B.68 utt3: {E I mean, }  there are a lot of kids who when they're ten  look like they're twelve,   
+
+b          A.69 utt1:   # Right. # /  
+
++          B.70 utt1:   # or fourteen # [ or, +  [ and, + and, ] ]  especially some of the minority children. Whether,   
+
+b          A.71 utt1:   Uh-huh. /  
+
++          B.72 utt1:   {D you know } a racist or not,  /
+sv          B.72 utt2: that's the truth.  /
+sv          B.72 utt3:  [ {C And, } + <sniffing> {C And } ] if some of them are doing  something that they shouldn't be  and then they have one  of those toy guns in their hands  /
+sv          B.72 utt4: {C and } a cop comes up, -/  
+
+aa          A.73 utt1:   Right.  /
+sv          A.73 utt2: {E I mean, } you can't blame them.  /
+sv          A.73 utt3: It looks --   
+
+sv          B.74 utt1:   You can't  ((   )) , -/  
+
++          A.75 utt1:   -- like they've got a weapon. /  
+
+sv          B.76 utt1:   Jeez {C and } you can't take the chances. /  
+
+aa          A.77 utt1:   That's right, /  
+
+sv          B.78 utt1:   {C Because } there's been kids that age who  have killed people. /  
+
+aa          A.79 utt1:   <Laughter> Exactly. /  
+
+sd          B.80 utt1:   {C And, } {D you know, } {D you know, } there was a  law [ in, +  <lipsmack> <<pause>> I think it's in ] Oregon,  where they've now made all toy guns,  /
+sd          B.80 utt2:  they're making them neon colors. /  
+
+b          A.81 utt1:   # Right  /
+sv          A.81 utt2: {C and } I think, that's a good idea. # /  
+
+b          B.82 utt1:   # {D You know } # {D like, }  yeah,  /
+sv          B.82 utt2:  {C and } the kids don't care. /  
+
+aa          A.83 utt1:   # That's right. # /  
+
+sd          B.84 utt1:   # My kid didn't care. # /  
+
+aa          A.85 utt1:   I know. /  
+
+sd          B.86 utt1:   He picks up a stick and goes # bang. # /  
+
+b          A.87 utt1:   # Right, #  /
+b^r          A.87 utt2: <laughter> # right. # /  
+
+sd          B.88 utt1:   # It doesn't # make any difference to him. /  
+
+sv          A.89 utt1:   A gun is a gun to them. /  
+
+b          B.90 utt1:   # Yeah # . /  
+
+sv          A.91 utt1:   # They # can play with anything and make it a gun.  /
+aa          A.91 utt2:  That's exactly right. /  
+
+aa          B.92 utt1:   Yeah,  /
+%          B.92 utt2: {C so } you like to do, - /
+sv          B.92 utt3: I think they ought  to do that with toy guns,  /
+sv          B.92 utt4: they ought to make them very reasonably --   
+
+b          A.93 utt1:   # Right. # /  
+
++          B.94 utt1:   -- # do something # outrageous to them. /  
+
+aa          A.95 utt1:   # Right.  /
+aa          A.95 utt2: Exactly. # /  
+
+sv          B.96 utt1:   # {D You know, } # {C so } that they're not very  distinguishable from a real gun. /  
+
+aa          A.97 utt1:   That's right.  /
+ba          A.97 utt2: That's a good idea.  /
+sd          A.97 utt3:  I was, {F uh, } watching T V yesterday  /
+sd          A.97 utt4: {C and } there is a  town in Georgia,  /
+sd          A.97 utt5: {C and } it's the law that you have a  gun,  /
+sd          A.97 utt6: every adult, {D you know, } {F uh, } is able to carry  a gun,  /
+sd          A.97 utt7: [ {C and, } +   
+
+sv          B.98 utt1:   # That's kind of  ((   )) , # -/  
+
++          A.99 utt1:   # {C and } ] they encourage it. # /  
+
+qy^m          B.100 utt1:   They encourage it? /  
+
+ny          A.101 utt1:   Yeah.  /
+sd^e          A.101 utt2: {C And, }  the police love it.  /
+sd          A.101 utt3:  Which really surprised me -- /  
+
+b          B.102 utt1:   {F Um. } /  
+
+sd          A.103 utt1:   -- [ [ {C and, } + {C and, } ] +   I think, {C and } ] that's  what they were going after, {F uh, } they went to interview this  town,  /
+sd          A.103 utt2: {E I mean } it's a little dinky town,  /
+sd          A.103 utt3: they went to interview  them about the gun control laws <lipsmack>  /
+sd(^q)          A.103 utt4:  {C and, }  {F uh, } [ the police said, +  ((   ))  all the people  said, ] that's fine we could care less.  /
+^q          A.103 utt5: {D You know, }  we're all honest, and everything like,    
+
+b          B.104 utt1:   {F Huh. } /  
+
++          A.105 utt1:   that,  /
+^q          A.105 utt2: [ we, + we ] all carry them,  /
+^q          A.105 utt3: {C but } [ we, + we ]  don't mind being checked.  /
+sv          A.105 utt4: [ {C And, } + {F uh, } {C and } ]  I think it kind of took that {F uh, } neatness away from  it, {D you know, }  /
+sv(^q)          A.105 utt5: {D like, } {D well } heck,  everybody's got one, {D you know }  /
+sd          A.105 utt6: [ {C and, } +    
+
+h          B.106 utt1:   I don't know.  /
+%          B.106 utt2: I, -/  
+
++          A.107 utt1:   {C So, } ] [ it was, + it was ] quite unusual to see  the people in that # town. # /  
+
+ba          B.108 utt1:   # That's # kind of an odd thing.  /
+h          B.108 utt2: I don't know,  /
+sd          B.108 utt3: I have a gun  /
+sd          B.108 utt4: {C and, }  {F uh, } my folks have always  had.  /
+sd          B.108 utt5: I learned to shoot when I was real # little. # /  
+
+b          A.109 utt1:   # Uh-huh. # /  
+
+sv          B.110 utt1:   I think that's a lot of it too, is that people need to  teach their kids,   
+
+b          A.111 utt1:   # Right. # /  
+
++          B.112 utt1:   # [ what # not to, + what to do ] and what not to do. /  
+
+aa          A.113 utt1:   Exactly. /  
+
+sd          B.114 utt1:   {C Because } [ I started shooting, +   my Dad started  letting me shoot ] {D like } a little air B B # gun, #   
+
+b          A.115 utt1:   # Uh-huh. # /  
+
++          B.116 utt1:   when I was probably five or six years # old. # /  
+
+b          A.117 utt1:   # Yeah. # /  
+
+%          B.118 utt1:   {C But, } {D you know, } it was, - /
+^q          B.118 utt2:  this is how you hold  /
+sd(^q)         B.118 utt3: [ it, + ] this is the only place that you  do it, which, was,   
+
+b          A.119 utt1:   # Right. # /  
+
++          B.120 utt1:   # {D you know } # out far and away  /
+^q          B.120 utt2: {C and } you don't  ever touch it unless I'm here,  /
+^q          B.120 utt3: {C and } [ you don't + --   
+
+sd          A.121 utt1:   # That's what we're doing. # /  
+
++          B.122 utt1:   -- # you don't ] point it # at people,  /
+%          B.122 utt2: {C and then }  they had, - /
+sd          B.122 utt3: then they went to the Texas Parks and Recreation,  I guess,  /
+sd          B.122 utt4: {C but } anyway the [ s-, +  hunter safety ] program,   
+
+b          A.123 utt1:   {F Oh, } yeah. /  
+
++          B.124 utt1:   that you have to do now.  /
+sd          B.124 utt2: I think it started in  about nineteen seventy. /  
+
+b          A.125 utt1:   Oh. /  
+
+sd          B.126 utt1:   [ If you want, + if you want ] to go deer  hunting  /
+sd          B.126 utt2: {C and } your birthday's after nineteen something,   
+
+b          A.127 utt1:   Uh-huh. /  
+
++          B.128 utt1:   fifty-five or something, then you have to attend  one of these hunter safety courses -- /  
+
+ba          A.129 utt1:   # {D Well, } that's neat. # /  
+
+sd          B.130 utt1:   -- # {C or } you can't get a # deer license. /  
+
+ba          A.131 utt1:   {D Well, } that's real neat. /  
+
+sd          B.132 utt1:   [ {C And } it, + {C and } [ it, + it's ] ] basic  stuff,  /
+sd(^q)          B.132 utt2: it's like, [ it's  don't, + ] {D you know, }  when you're climbing over a barbed wire fence, don't point,  lean your gun against it, {D you know, } /  
+
+b          A.133 utt1:   Yeah. /  
+
+^q          B.134 utt1:   and then you crawl over it,   
+
+b          A.135 utt1:   Right. /  
+
++          B.136 utt1:   and shoot yourself.  /
+sv          B.136 utt2: {C And, }  {F uh, }   
+
+ba          A.137 utt1:   {D Well, } that's real good. /  
+
++          B.138 utt1:   those things happen.  /
+sd          B.138 utt2: [ It, + it ] is always  incredible to me the number of times those kind of stupid  accidents happen to people. /  
+
+aa          A.139 utt1:   Right.  /
+aa^r          A.139 utt2: Right.  /
+sv          A.139 utt3: {C And } they usually are real basic,   
+
+aa          B.140 utt1:   Yeah,  /
+sd          B.140 utt2: # put the safety on the gun. # /  
+
++          A.141 utt1:   # common sense things. # /  
+
+sd          B.142 utt1:   [ Don't assume, +  always assume ] it's loaded.  /
+sv          B.142 utt2: [ That's, + that's ] got to be the most common # thing that people, # -/  
+
+aa          A.143 utt1:   # I know  /
+sv          A.143 utt2: {C and } # people don't want to believe that. /  
+
+aa          B.144 utt1:   Yeah.  /
+^q          B.144 utt2: [ It's, + {F oh, } it's ] empty,  /
+^q          B.144 utt3: it's empty.  /
+^q          B.144 utt4: Boom! /  
+
+b          A.145 utt1:   Yeah,  /
+%          A.145 utt2: {D well } {D see } I, -/  
+
+sd          B.146 utt1:   I took the clip out, or whatever  /
+sd          B.146 utt2: {C and } I forgot  about the one in the # chamber <laughter>. # /  
+
+b^m@          A.147 utt1:   # In the # chamber <laughter>.  That's exactly right. /  
+
+b         B.148 utt1:   Oh. /  
+
+b          A.149 utt1:   Yeah,  /
+sd          A.149 utt2: {D well } [ we, + we're ] trying to teach  our daughter.  /
+sd          A.149 utt3: She knows real well [ about, + {F uh, } about ]  her Daddy's guns,   
+
+b          B.150 utt1:   # {F Oh, } yeah. # /  
+
++          A.151 utt1:   # what not to do # and what to do around them. /  
+
+qh          B.152 utt1:   Does he got them locked up all the time  too? #  /
+%          B.152 utt2: When he's  ((   )) , # -/  
+
+b          A.153 utt1:   # Yeah, {F um, }  /
+sd          A.153 utt2: [ [ {C and, } + # {C and } ] she, +  {C and } she's ] real, - /
+%          A.153 utt3: {F um, } she'll know, - /
+sd(^q)          A.153 utt4:  she'll even tell her friends, don't ever,   
+
+^2          B.154 utt1:   Don't even think about it,  /
+%          B.154 utt2: yeah. /  
+
++          A.155 utt1:   touch my Daddy's guns or something like that. /  
+
+b          B.156 utt1:   Yeah. /  
+
+sd          A.157 utt1:    {C So, } [ she's real, + she's real ]  good about it.  /
+sd          A.157 utt2: {C And, }  she's never been curious, /  
+
+b          B.158 utt1:   {F Um. } /  
+
+sd          A.159 utt1:   {E I mean, } cause he's always, {D you know, } - /
+sd          A.159 utt2:  if he has them out, cleaning them, {D you know, }  she can be there  /
+sd          A.159 utt3: {C and } he'll tell how he's  doing it or, {D you know, } show her the  insides or stuff like that. /  
+
+b          B.160 utt1:   Yeah,  /
+sv          B.160 utt2: if you make it where it's not something,   
+
+^2          A.161 utt1:   to be feared -- -/  
+
++          B.162 utt1:   # Curious, # /  
+
+%          A.163 utt1:   -- # {C and, }  # -/  
+
+sv          B.164 utt1:   not something to be curious about and not something to  be totally scared about. /  
+
+aa          A.165 utt1:   Right,  /
+aa          A.165 utt2: exactly. /  
+
+sv          B.166 utt1:   [ If it, + if it's ]  just one more piece of something,  /
+sv          B.166 utt2:  [ {C but } they, + {C but } they've ] got to understand, like  you said, never touch it. /  
+
+aa          A.167 utt1:   Right,  /
+sv          A.167 utt2: they'd have that respect for # what it does, #   
+
+b          B.168 utt1:   # Yeah. # /  
+
++          A.169 utt1:   and what it can do. /  
+
+%          B.170 utt1:   Ours is a, - /
+sd          B.170 utt2: we have a shotgun,  /
+sd          B.170 utt3: {C and }  it's up in the closet, /  
+
+b          A.171 utt1:   Uh-huh. /  
+
+sd          B.172 utt1:   {C and then } the shells are in another  part <noise>  /
+sv          B.172 utt2: {C and } it's something to think about,  /
+sd          B.172 utt3: {C and }  I got it because my husband used to travel, and be out,  /
+sd          B.172 utt4:  he was out of the country at one time for three months. /  
+
+b          A.173 utt1:   {F Oh, } yeah. /  
+
+sd(^q)          B.174 utt1:   {C And, }  I was like, I live in a nice neighborhood,  /
+%          B.174 utt2:  but # still, # -/  
+
+b^m          A.175 utt1:   # still # <laughter>. /  
+
+sd          B.176 utt1:   {C and then } I've got it so far,  /
+sd          B.176 utt2: sometimes <noise>  [ I think, +  I wonder ] if [ I, + I'm ] not about to load it  because [ I, + {D you know, } I ] assume that the kids are  not going to ever get up # there, # /  
+
+b          A.177 utt1:   # Uh-huh. # /  
+
+sd          B.178 utt1:   {C and } it's in a case,  /
+sd          B.178 utt2: {C and } [ it's, + {D you know, }   it's ] put up  /
+sd          B.178 utt3: {C and } it's away and all that, /  
+
+b          A.179 utt1:   Right. /  
+
+sd          B.180 utt1:   {C but, }  I don't want to take the  chance  /
+sd          B.180 utt2: {C and, }  I think, if somebody ever does break in,   
+
+^2          A.181 utt1:   <Laughter> He's got to go to a lot of trouble. /  
+
++          B.182 utt1:   it's going to take me a year to find the shells,   
+
+b          A.183 utt1:   Yeah. /  
+
++          B.184 utt1:   and then get it, /  
+
+^q          A.185 utt1:   hold on,  /
+^q          A.185 utt2: hold on <laughter>, /  
+
+b          B.186 utt1:   Yeah. /  
+
+^q          A.187 utt1:   <Laughter> He's in here somewhere,  /
+^q          A.187 utt2: I know he is. /  
+
+b          B.188 utt1:   Right. /  
+
+b          A.189 utt1:   Yeah.  /
+sd          A.189 utt2: {D Well, } I know how to use one.  /
+sd          A.189 utt3: [ We, + we ]  go hunting every once in a while  /
+sd          A.189 utt4: {C and } he showed me how to  use his guns  /
+sd          A.189 utt5: {C and } I really enjoy it  /
+sd          A.189 utt6: {C but, }  boy  if someone did break in, [ I don't, + I don't ] know that I could  or would even grab it <sniffing>. /  
+
+aa          B.190 utt1:   I know,  /
+sd          B.190 utt2: [ I, + I ] used to think about that,  /
+sd          B.190 utt3: it was a lot easier [ when I was, + when I was ] single,  /
+sd          B.190 utt4: it was one thing  /
+sd          B.190 utt5: {C and } when I was just married with no kids,   
+
+aa          A.191 utt1:   Uh-huh.  /
+aa          A.191 utt2: That's true. /  
+
++          B.192 utt1:   when it was just me, it was an easy decision. /  
+
+b          A.193 utt1:   Yeah. /  
+
+sd(^q)          B.194 utt1:   It was like, [ you, + you ] come after me,  you're going to get it.    
+
+b          A.195 utt1:   Yes, /  
+
++          B.196 utt1:   {D you know, }  /
+sd          B.196 utt2: {C and } now there's so many other  things, where are the kids, what are they doing,   
+
+b          A.197 utt1:   Yeah. /  
+
++          B.198 utt1:   {D you know, } where is this person coming in from, /  
+
+b          A.199 utt1:   Right. /  
+
+%          B.200 utt1:   {F uh, } you've got, - /
+%          B.200 utt2: [ {C and, } + {C and, } ]  [ if, + if ]  you manage to get it out - /
+sv          B.200 utt3: {C and then, } {D you know, }  [ what, + how ] can you even afford [ to, + to ] think about  [ what, + what ] you're going to do because you don't  know where your kids are,   
+
+ba          A.201 utt1:   True. /  
+
++          B.202 utt1:   at the same time. /  
+
+ba          A.203 utt1:   True,  /
+sd          A.203 utt2: {D well } [ we, + we ] have dogs --   
+
+b          B.204 utt1:   <Sigh> Ugh. /  
+
++          A.205 utt1:   -- that are [ pretty, +  {D you know, }  very ] protective, {D you know } <laughter>. /  
+
+sv          B.206 utt1:   We feel if they make enough noise that, -/  
+
+aa          A.207 utt1:   Yeah,  /
+sv          A.207 utt2: if they're stupid enough to come through then <laughter>. /  
+
+aa          B.208 utt1:   Yeah.  /
+%          B.208 utt2: [ It, + it, ] - /
+sd          B.208 utt3: we have two big dogs in  the backyard,   
+
+b          A.209 utt1:   Yeah. /  
+
++          B.210 utt1:   and always kind of thought that too, #  kind of an extra buffer. # /  
+
+aa          A.211 utt1:   # Yeah.  /
+sv          A.211 utt2: They've got to be pretty stupid, #  /
+sv          A.211 utt3:  [ {C and, } + {C and } ] most people that, {F uh, }  break in or whatever, go to houses without the dogs,   
+
+b          B.212 utt1:   Yeah. /  
+
++          A.213 utt1:   luckily. /  
+
+%          B.214 utt1:   Anything, that the, - /
+sv          B.214 utt2: {D well }  [ any, + any ] advantage that they can take. /  
+
+b          A.215 utt1:   Right.  /
+sv          A.215 utt2: {C And, }  that's one of them  /
+%          A.215 utt3: {C so, } -/  
+
+aa          B.216 utt1:   Unfortunately,  /
+aa          B.216 utt2: yeah. /  
+
+%          A.217 utt1:   {D Well, } -/  
+
+sv          B.218 utt1:   Guess it makes it worth the dog food over the years <laughter>. /  
+
+aa          A.219 utt1:   <Laughter> Yeah.  /
+aa          A.219 utt2: Really does.  /
+fc          A.219 utt3: {D Well, } do you think  we've, -/  
+
+fc          B.220 utt1:   Yeah,  /
+fc          B.220 utt2: [ I, + I ] think that's about all I can, -/  
+
+fc          A.221 utt1:   Me too,  on gun control. /  
+
+fc          B.222 utt1:  [ We, + we're ] in pretty good agreement actually on it. /  
+
+fc          A.223 utt1:   Yeah.  /
+fc          A.223 utt2: I think we are. /  
+
+fc          B.224 utt1:   [ It would be an interesting, + it would be even more  interesting ] [ you, + you ] to be some of these people who  are at the other end of the spectrum. /  
+
+fc          A.225 utt1:   Right.  /
+fc^m          A.225 utt2: Right.  /
+fc          A.225 utt3: I'm glad you're not <laughter>. /  
+
+fc          B.226 utt1:   <Laughter> Me too.  /
+fc          B.226 utt2: I'm glad to find there's another  reasonable person in Garland. /  
+
+fc          A.227 utt1:   Okay.  /
+fc          A.227 utt2: {D Well } good! /  
+
+fc          B.228 utt1:   {D Well, } it's been nice talking to you. /  
+
+fc          A.229 utt1:   You too,  /
+fc          A.229 utt2: thanks.  /
+fc          A.229 utt3: # Bye-bye. # /  
+
+fc^m          B.230 utt1:   # Bye-bye. # <noise>. / 

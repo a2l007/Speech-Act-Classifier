@@ -1,0 +1,285 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4378_1561_1580
+TOPIC#:		332
+DATE:		920325
+TRANSCRIBER:	nk
+UTT_CODER:	tc
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        It sounds like B is eating her lunch.
+
+==========================================================================
+  
+
+sd^t          B.1 utt1: <Noise> One way or another we're now recording. /  
+
+b          A.2 utt1:  Okay. /  
+
+b          B.3 utt1: {F Um, } {F um, } {F oh, } yeah.  /
+sd          B.3 utt2: # Home repair. # /  
+
+bf          A.4 utt1: # You were # helping your parents. /  
+
+aa          B.5 utt1: Right.  /
+sd          B.5 utt2: I still am really.  /
+sd          B.5 utt3: They're, {F uh, } <noise> <<sounds like some sort of machinery>> sort of remodeling a house out in downtown Atlanta, in Candler Park. /  
+
+b          A.6 utt1:  Uh-huh. /  
+
+sd          B.7 utt1: {C And, } {F uh, } <inhaling> we've done <sigh> lots to it.  /
+sd          B.7 utt2: We've taken out the glass and most of the windows and the sashes and replaced them.  /
+%          B.7 utt3: # {C And, } # -/  
+
+qy^d          A.8 utt1:  # {D So } # you're remodeling? /  
+
+ny          B.9 utt1:  Uh-huh. /  
+
+bk          A.10 utt1:  Okay. /  
+
+qo          B.11 utt1:  How about you? /  
+
+sd          A.12 utt1: {D Well, } [ [ I, + I just live in a, ] + I live in an ] apartment now.  /
+sd          A.12 utt2: [ I, + {F uh, } two summers ago I ] went to Massachusetts -- /  
+
+b          B.13 utt1:  Uh-huh. /  
+
+sd          A.14 utt1: -- {C and } I went with a friend of mine  /
+sd          A.14 utt2: {C and } we undertook a building house. /  
+
+b^r          B.15 utt1:  Uh-huh. /  
+
+sd          A.16 utt1: {C And } this was [ a, + a ] Lincoln log house where you have the wall partitions  /
+sd          A.16 utt2: {C and } it's preconstructed you might say. /  
+
+b^r          B.17 utt1:  Uh-huh <static>. /  
+
+sd          A.18 utt1: {C And } [ we started in, + {F uh, } we, started from ] an empty lot with, {F uh, }   
+
+x          B.19 utt1:  <Talking>.   
+
++          A.20 utt1: trees and stuff on it  /
+sd          A.20 utt2: {C and } we had to cut them, {F uh, } down and clear the lot.  /
+sd          A.20 utt3: We had to call in the excavators and have them dig the basement.    
+
+ba          B.21 utt1:  Wow. /  
+
++          A.22 utt1: <Inhaling> Pour the basement and, {F uh, } went from the ground up.  /
+sd          A.22 utt2: # [ Our # -- +   
+
+ba^r          B.23 utt1:  # Wow. # /  
+
++          A.24 utt1: -- one of our ] main problems was, - /
+sv          A.24 utt2: {D well } in Massachusetts, I thought I was going to, - /
+sv          A.24 utt3: {D well, } it was [ a, + a ] fun time  /
+sv          A.24 utt4: # {C but } # --   
+
+b          B.25 utt1:  # Uh-huh. # /  
+
++          A.26 utt1: -- I thought, gosh, summer time, {D you know. }  /
+sd          A.26 utt2: {D Well, } all it ever did was rain and thunder storms # <laughter>. # /  
+
+x          B.27 utt1:  # <Laughter>. #   
+
+sd          A.28 utt1: {C And } <swallowing> one thing is that [ [ we're, + we had, ] + we were ] going to pour the basement foundation. /  
+
+b          B.29 utt1:  Uh-huh. /  
+
+sd          A.30 utt1: {C And } we're in the process  /
+sd          A.30 utt2: {C and } it started pouring down rain. /  
+
+%          B.31 utt1:  {F Huh. } /  
+
+sd          A.32 utt1: {C And } I guess we had most of it done  /
+sd          A.32 utt2: {C but } the end was result, - /
+sd          A.32 utt3: what happened was that [ some of [ the, + the ] wa-, + a lot of water ] settled on the top  /
+sd          A.32 utt4: {C and } it really didn't give a very good finish  /
+%          A.32 utt5: {C and } some of the, - /
+sd          A.32 utt6: it was sort of sandy # [ and + # --   
+
+b          B.33 utt1:  # Uh-huh. # /  
+
++          A.34 utt1:  -- and ] not, {F uh, } a very good finish. /  
+
+b^r          B.35 utt1:  Uh-huh. /  
+
+sd          A.36 utt1: {C But } [ it turned, + it was ] okay  /
+sd          A.36 utt2: {C and } it's only the basement floor  /
+sd          A.36 utt3: {C so } it was okay. /  
+
+b          B.37 utt1:  Yeah. /  
+
+sd          A.38 utt1: {C But, } {F uh, } it kept us pretty busy.  /
+%          A.38 utt2: It was only, {F uh, } - /
+sd          A.38 utt3: <clicking> there was, {D well } me and my friend  /
+sd          A.38 utt4: {C and then } we just had {D like } two helpers # and # --   
+
+b          B.39 utt1:  # Uh-huh. # /  
+
++          A.40 utt1: -- {F uh, } sort of [ a, + a ] family type, - /
+sd          A.40 utt2: it wasn't, {D you know, } {D like } a commercial project or something.  /
+sd          A.40 utt3: It was sort of just, {D you know, } {F uh, } [ gets your, + get [ [ his, + {D you know, } my ] bro-, + my brother ] ] and {D well, } maybe, {D you know, } my cousin's coming over today to help us # do that # --   
+
+b^r          B.41 utt1:  # Uh-huh. # /  
+
++          A.42 utt1: -- kind of thing.  So that the scheduling and everything was kind of hectic <laughter> # sometimes. # /  
+
+ba          B.43 utt1:  # Wow. # /  
+
+sd          A.44 utt1: [ {C And, } + {C and then } ] materials coming in <whistling> -- -/  
+
+b          B.45 utt1:  Uh-huh. /  
+
+sd          A.46 utt1: -- {C and so } [ we're, + we're ] hopping around pretty good.  /
+sd          A.46 utt2: {C But } overall, {D yeah, } we got it done  /
+sd          A.46 utt3: {C and } it's a three bedroom, two bath house  /
+sv          A.46 utt4: {C and } it's pretty neat. /  
+
+ba          B.47 utt1:  <Thumping> Nice. /  
+
+b          A.48 utt1: Yeah.  /
+%          A.48 utt2: {D So. } -/  
+
+ba^r          B.49 utt1: Nice.  /
+qw          B.49 utt2: {D So, } {F uh, } {E I mean } what was it for?  /
+%          B.49 utt3: You just, -/  
+
+sd          A.50 utt1: {D Well, } it was, {F uh, } for my friend's parents.  /
+sd          A.50 utt2: They had some property there  /
+sd          A.50 utt3: {C and } they'd lived in [ this, + this ] old, -/  
+
+x          B.51 utt1:  <Noise>.   
+
+sd          A.52 utt1: it's sort of like a farm, you might say.  /
+sd          A.52 utt2: {C And } they live in this old house <swallowing> --   
+
+b          B.53 utt1:  Uh-huh. /  
+
++          A.54 utt1: -- for something like thirty years or something.  /
+sd          A.54 utt2: {C And } his mom just wanted [ a, + a ] new house.    
+
+b^r          B.55 utt1: Uh-huh. /  
+
++          A.56 utt1: {D You know, }  /
+sd          A.56 utt2: that has been her dream.  /
+sd          A.56 utt3: {C And so, } we did that.  /
+sd          A.56 utt4: {C And, } {F uh, } she was really pleased with it.  /
+sv          A.56 utt5: # {C So } it came # --   
+
+ba          B.57 utt1:  # That's great. # /  
+
++          A.58 utt1: -- really great #  /
+%          A.58 utt2: {D so. } # -/  
+
+ba          B.59 utt1:  # Wow. # /  
+
+o          A.60 utt1: {D So } [ what, + why ] is it that the weather in Atlanta that gets <swallowing> very hot. /  
+
+br          B.61 utt1:  {F Huh? } /  
+
+qy^d          A.62 utt1:  Where you live it gets very hot? /  
+
+ny          B.63 utt1:  Yeah,  /
+sd^e          B.63 utt2: it does. /  
+
+%          A.64 utt1: {C And } that's why you, - /
+qw          A.64 utt2: [ {C an-, } + {C and } ] the windows [ have you, + ] what type of windows are you putting in? /  
+
+%          B.65 utt1:  # {F Huh. } # /  
+
+sd          A.66 utt1: # {C Because } # the windows are something that is conducive to temperature changes in, {F uh, } {D you know, } the solar game? /  
+
+b          B.67 utt1:  Right. /  
+
+qy          A.68 utt1: Have you, - /
+qr          A.68 utt2: [ what, + what, ] are you putting in triple glaze or double glaze or, -/  
+
+nn          B.69 utt1: No.  /
+sd          B.69 utt2: [ We just, + we just ] went into a building supply store and bought plate glass.  /
+sd          B.69 utt3: My parents do not have a whole lot of money # to put into it. # /  
+
+bk          A.70 utt1: # {F Oh, } okay. #  /
+bk^r          A.70 utt2: # Okay. # /  
+
+%          B.71 utt1: # {C And, } {F uh, } # {C but } it, - /
+sd          B.71 utt2: see in a lot of the windows? /  
+
+b          A.72 utt1:  Uh-huh. /  
+
+sd          B.73 utt1: {F Uh, } <swallowing> [ it's, + the house is ] eighty years old  /
+sd          B.73 utt2: {C and } it's had several owners and stuff  /
+sd          B.73 utt3: # {C and, } {F uh } <talking> # --   
+
+b          A.74 utt1:  # Okay. # /  
+
++          B.75 utt1: -- <Lipsmack> they have put plastic, Plexiglas kind of stuff in some of the windows. /  
+
+bf          A.76 utt1:  {F Oh, } these - /
+qy^d          A.76 utt2: {C so } you have the sash windows in? /  
+
+ny          B.77 utt1:  Uh-huh. /  
+
+qy          A.78 utt1:  [ Did t-, + {F uh, } did it ] go up and down? /  
+
+ny          B.79 utt1:  Uh-huh. /  
+
+bk          A.80 utt1:  {F Oh, } I see. /  
+
+b          B.81 utt1: Yeah.  /
+sd          B.81 utt2: [ [ {C And so, } + {F uh, } {C and, } ] + {C and so } ] we wanted to <rustling> get all new stuff in there. /  
+
+b          A.82 utt1:  Uh-huh. /  
+
+%          B.83 utt1:  {D So. } -/  
+
+b          A.84 utt1: Yes,  /
+sv          A.84 utt2: there's a problem with those.  /
+%          A.84 utt3: Those are, {F uh, } - /
+sv          A.84 utt4: they usually most of the time don't open very well # <laughter>. # /  
+
+aa          B.85 utt1: # Yeah. #  /
+sd          B.85 utt2: Ours didn't # <laughter>. # /  
+
+b          A.86 utt1:  # Uh-huh. # /  
+
+sd          B.87 utt1: {C And } the ones that would open, {F uh, } wouldn't want to stay open </rustling>.  /
+sd          B.87 utt2: They # wanted # --   
+
+b^r          A.88 utt1:  # Uh-huh. # /  
+
++          B.89 utt1: -- to slam shut. /  
+
+b^r          A.90 utt1: Uh-huh.  /
+%          A.90 utt2: {C And } [ [ [ they also, + there, ] + they, ] + they, ] - /
+sd          A.90 utt3: a lot of vibration  /
+sd          A.90 utt4: {C and } it causes the glass to crack  /
+sd          A.90 utt5: # {C and } it's # --   
+
+b          B.91 utt1:  # Uh-huh. # /  
+
++          A.92 utt1:  -- a never ending problem. /  
+
+b^r          B.93 utt1:  Uh-huh.  /
+b          B.93 utt2:  Yeah. /  
+
+sd          A.94 utt1: [ {D So. } + {D So } ] [ I haven't, + {F uh, } I haven't ] been in any really home repair things lately.  /
+%          A.94 utt2: I, -/ 

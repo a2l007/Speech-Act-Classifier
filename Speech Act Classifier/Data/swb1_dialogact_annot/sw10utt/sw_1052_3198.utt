@@ -1,0 +1,216 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3198_1352_1280
+TOPIC#:		329
+DATE:		911003
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:       Slight kitchen noise in the background of B
+
+====================================================================
+  
+
+o          A.1 utt1:  Okay.  /
+qy          A.1 utt2:  Did you want me to go ahead? /  
+
+aa          B.2 utt1:  I'll let you go ahead and start, yeah. /  
+
+bk          @A.3 utt1:  Okay.  /
+%          @A.3 utt2:  {D Well, } one thing, - /
+sv         @A.3 utt3: [ I, + I ] guess both of us are very much aware of the equality.  /
+sv          @A.3 utt4:  {F Uh, } it seems like women are, {F uh, } just starting to really get some kind of equality not only in, {F uh, } jobs but in the home where husbands are starting to help out a lot more than they ever did.  /
+sv          @A.3 utt5: {F Uh, } it's not uncommon to see men doing dishes, making supper, or taking care of the kids  /
+%          @A.3 utt6: {C or } som-, {F uh, } - /
+sd          @A.3 utt7:  the generation of my parents and my great grandmother [ which, + ] {F uh, } they did everything.  /
+sd          @A.3 utt8:  They went to work  /
+sd          @A.3 utt9: {C and } they took care of the family,  /
+%          @A.3 utt10: {C so. } -/  
+
+sv@          B.4 utt1:  {D You know, } I think that's changed just in the last generation.    
+
+aa          A.5 utt1:  Exactly. /  
+
++@          B.6 utt1:  Just in the last little while.  Because I know my father-in-law doesn't do that much,   
+
+aa          A.7 utt1:  Exactly.  /
+b          A.7 utt2:  Yeah. /  
+
++          B.8 utt1:  of that kind of stuff  /
+sd          B.8 utt2: {C but } my husband is wonderful. /  
+
+b          A.9 utt1:  Yeah,  /
+sd          A.9 utt2: that's the way my husband is too.  /
+sd          A.9 utt3:  {E I mean } [ it, + it ] [ doesn't, + {F uh, } doesn't ] bother him at all to do the dishes. /  
+
+b          B.10 utt1:  Yeah. /  
+
+sd          A.11 utt1:  It doesn't bother [ h-, + him ] at all to do the laundry verses, {F uh, } men from way back.  /
+%          A.11 utt2:  There is that, - /
+sv          A.11 utt3: {D well, } if you did that you were henpecked or whatever.  /
+sv          A.11 utt4: {C But, }   
+
+b          B.12 utt1:  Yeah,  /
+b^r          B.12 utt2: yeah. /  
+
++          A.13 utt1:  men are starting, -/  
+
+sv          B.14 utt1:  There are still some that aren't cooperating  /
+%          B.14 utt2: {C but } <laughter>, -/  
+
+b          A.15 utt1:  Yeah,  /
+sv          A.15 utt2: those are very few.  /
+sv          A.15 utt3:  I think those men don't last very long in relationships because I think women know what they want. /  
+
+sv          B.16 utt1:  They're not accepting that anymore. /  
+
+b          A.17 utt1:  Right,  /
+aa          A.17 utt2: exactly. /  
+
+b          B.18 utt1:  Yeah. /  
+
+sv          A.19 utt1:  {C And }  [ it's, +  it's ] hard enough to be a woman out there trying to do everything, {F uh, } {D you know, } and then kind of real light pay.  /
+sv          A.19 utt2:  There's just no way that we can be happy trying to do it all.  /
+sv          A.19 utt3:  {C So } [ it's, + it's ] kind of a, {F uh, } neat thing to see as far as equality in the households,  /
+sv          A.19 utt4: {C and } I think that's even going to get better. [ Even, + {D you know, }   
+
+b          B.20 utt1:  Yeah. /  
+
++          A.21 utt1:  even ] more so.  /
+sv          A.21 utt2: I think it's just going to be where men will do as much cleaning as women do and that it won't be your job description instead of your role definition is this.  /
+%          A.21 utt3:  It will be, {F uh, } - /
+sd          A.21 utt4: hopefully for my daughter who I instill into, it doesn't matter if you want to drive a truck, honey,  /
+sd          A.21 utt5: {C or } it doesn't matter if you want to be a nurse,  /
+sd          A.21 utt6: it doesn't matter if you want to be, {F uh, } the President,  /
+sd          A.21 utt7: {C or } it doesn't matter if you want to be a lawyer or a doctor,  /
+sd          A.21 utt8: it doesn't matter.  /
+sd          A.21 utt9:  It's what you want to be.  /
+sd          A.21 utt10: {C So } I have always instilled into her,  /
+sd          A.21 utt11: {C and } I think mothers, {F um, } are doing a really good job in raising their daughters to say, hey, you don't have to stay with nursing,  /
+sd          A.21 utt12: you don't have to be a secretary,  /
+sd          A.21 utt13: you don't have to be, - /
+sd@          A.21 utt14: you can be whatever you want to be.  Whether it be a welder or trucker or whatever <laughter>.    
+
+b          B.22 utt1:  Yeah. /  
+
++@          A.23 utt1:  As long as you, {F uh, } go to school for it and get the education,  /
+%          A.23 utt2: {C so. } -/  
+
+b          B.24 utt1:  Yeah.  /
+sv          B.24 utt2:  {D Well, } I feel like, {F um, } to an extent [ that is really important, +   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  {D you know, } [ that, + that, ] {F um, } it is important ] for women who need to work --   
+
+b          A.27 utt1:  Uh-huh. /  
+
++          B.28 utt1:  -- {F uh, } or are in a position that they want to --   
+
+^2          A.29 utt1:  If they want to, right. /  
+
++          B.30 utt1:  -- that they can do that. /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sv          B.32 utt1:  {F Um, } {C but } I also think it is important for them to be with the children. /  
+
+aa          A.33 utt1:  I do too. /  
+
+sv          B.34 utt1: [ I, +     
+
+sd          A.35 utt1:  {D You know, } there's a certain part of me, -/  
+
++          B.36 utt1:  I ] think [ there, + there ] are some things that women just are designed to do better than men. /  
+
+b          A.37 utt1:  Uh-huh. /  
+
+sv          B.38 utt1:  {C And } there are some things that men are designed to do better than women. /  
+
+b          A.39 utt1:  Yeah. /  
+
+sv          B.40 utt1:  I don't think it should ever be totally equal. /  
+
+b          A.41 utt1:  Yeah. /  
+
+%          B.42 utt1:  You know that's not, {F uh, } - /
+sv          B.42 utt2: we're not made like that. /  
+
+sv          A.43 utt1:  {D Well, } emotionally I think, {F uh, }   
+
+ba          B.44 utt1:  That's right. /  
+
++          A.45 utt1:  women do a little bit, {F uh, } - /
+sv          A.45 utt2: [ I, + I ] think [ that's, + ] the gap is coming closer [ a-, + as, ] {F um, } what I've learned in, {F uh, } [ just, + just ] being out there.  /
+sv          A.45 utt3:  It seems that men are now starting to get into groups called men's gatherings,  /
+sv          A.45 utt4: {C and } they get together  /
+sv          A.45 utt5: {C and } they talk about issues of marriage, talk about manhood, talk about what they didn't have with their fathers. /  
+
+b          B.46 utt1:  {F Huh. } /  
+
+sv          A.47 utt1:  Are expressing more emotions, learning what emotions are.  /
+sv          A.47 utt2:  It may be in the future that [ men, + {D you know, } some men ] may be better parent or mothers than mothers themselves.  /
+sv          A.47 utt3: {F Um } --   
+
+b          B.48 utt1:  Yeah. /  
+
++          A.49 utt1:  -- [ I, +  I ] know of some mothers that [ I, + I ] guess I'd rather be with the father because the father is maybe more understanding, more, {F um, } low key, more apt to be a better father than some mothers that I have seen that have been raised, {D you know, } to develop whatever skills that they have,  /
+sv          A.49 utt2: {C and } some of the men are developing, {F uh, } very good too.  /
+sv          A.49 utt3: {C So, }   
+
+b          B.50 utt1:  Yeah. /  
+
++          A.51 utt1:  it may come down to where [ it's, + it's ] individual basis.  Where everybody is treated an as individual,    
+
+b          B.52 utt1:  Yeah. /  
+
++          A.53 utt1:  and not by sex.  /
+sd          A.53 utt2:  If you want to stay home and take care of the kids, honey, that's fine.  /
+sd          A.53 utt3:  I will go out and [ make the, + ] {F uh, } take care of the, {F uh, } money making.  /
+sv          A.53 utt4: {C And } [ it, +  it ] wouldn't matter if it's a woman or a man saying that. /  
+
+sv          B.54 utt1:  One of the frustrations that I have with the way things have developed is that, {A and for some it's not a problem, } [ but there's more and more, + ] it's difficult for a family to make a living on one --   
+
+^2          A.55 utt1:  On one income,  /
+b          A.55 utt2: <<very faint>> uh-huh. /  
+
++          B.56 utt1:  -- income.  /
+sv          B.56 utt2:  It can be done, /  
+
+b          A.57 utt1:  Yeah. /  
+
+sv          B.58 utt1:  {C but } you make sacrifices. /  
+
+b          A.59 utt1:  Yeah,  /
+%          A.59 utt2: that, -/  
+
+%          B.60 utt1:  {D You know, } [ {C and, } + {C and } ] it's, {F um, } -/  
+
+sd          A.61 utt1:  Kind of like what, {F uh, } my husband and myself are doing right now.  /
+sd          A.61 utt2:  My daughter's three, even though at this current time she's ready to get involved with, - /
+sd          A.61 utt3: she's an only child.  /
+sd          A.61 utt4: I don't know,   
+
+b          B.62 utt1:  # Yeah. # /  
+
++          A.63 utt1:  # if you've # only got one, / 

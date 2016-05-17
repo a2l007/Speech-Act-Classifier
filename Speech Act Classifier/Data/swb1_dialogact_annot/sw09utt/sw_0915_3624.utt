@@ -1,0 +1,381 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3624_1349_1402
+TOPIC#:		308
+DATE:		911227
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+======================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+sd          A.1 utt2: all set. /  
+
+fp          B.2 utt1:  Good morning <laughter>. /  
+
+fp^m          @A.3 utt1:  <Laughter>  Good morning.  /
+^h          @A.3 utt2: Let's see,  /
+^h          @A.3 utt3: music,  {F um, }  /
+sd          @A.3 utt4: {D well, } I play a couple of instruments. /  
+
+b          B.4 utt1:  Uh-huh. /  
+
+sd          A.5 utt1:  I try to. /  
+
+qw          B.6 utt1:  What do you play? /  
+
+sd          A.7 utt1:  {F Um, } clarinet is my primary instrument,  /
+sd          A.7 utt2: {C and } I also play a little bit of saxophone, flute and piano --   
+
+b          B.8 utt1:  Uh-huh. /  
+
++          A.9 utt1:  -- when I get the opportunity, which isn't very often. /  
+
+b          B.10 utt1:  Really,  /
+ba          B.10 utt2: that's too bad <laughter>. /  
+
+qo          A.11 utt1:  <Laughter> How about yourself? /  
+
+sd          B.12 utt1:  I play, {F uh, } the violin --   
+
+b          A.13 utt1:  Uh-huh. /  
+
++          B.14 utt1:  -- and play trumpet -- /  
+
+b          A.15 utt1:  {F Uh. } /  
+
+sd          B.16 utt1:  -- {C and } I run a municipal band  /
+sd          B.16 utt2: {C and } I sometimes conduct. /  
+
+ba          A.17 utt1:  {F Oh, } wow. /  
+
+sd          B.18 utt1:  {C So, } I'm pretty busy too.  /
+sd          B.18 utt2:  I play in three different symphony orchestras. /  
+
+ba          A.19 utt1:  Wow. /  
+
+sd          B.20 utt1:  We have a --   
+
+ba          A.21 utt1:  That's great. /  
+
++          B.22 utt1:  -- nice big one here in State College, called the  (( Nitny ))  Valley --    
+
+b          A.23 utt1:  Uh-huh. /  
+
++          B.24 utt1:  -- Symphony.  /
+sd          B.24 utt2:  I play in the Altoona Symphony,  /
+sd          B.24 utt3: was about forty-five miles  away -- /  
+
+b          A.25 utt1:  Uh-huh. /  
+
+sd          B.26 utt1:  -- {C and } I play in a slightly smaller one called the Lockhaven --   
+
+b          A.27 utt1:  Uh-huh. /  
+
++          B.28 utt1:  -- Symphony and Community Orchestra. /  
+
+b          A.29 utt1:  Uh-huh.  /
+qy          A.29 utt2:  {D So } are you a professional musician? /  
+
+nn          B.30 utt1:  No,  /
+sd^e          B.30 utt2: I'm, {F uh, } just retiring from Penn State University -- /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  -- only [ I, + I ] [ should, + <laughter> should ] have been.  /
+sd          B.32 utt2:  I spend about half my time playing music or preparing for it somewhere. /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  {C But, } {F uh, } I've been working at, {F uh, } Penn State --   
+
+b          A.35 utt1:  Uh-huh. /  
+
++          B.36 utt1:  -- and using up all my nighttimes,   
+
+x          A.37 utt1:  <Laughter>.   
+
++          B.38 utt1:  and weekends --   
+
+b          A.39 utt1:  Uh-huh. /  
+
++          B.40 utt1:  -- {F uh, } going to these orchestra rehearsals [ and, + and ] concerts and so forth. /  
+
+b          A.41 utt1:  Uh-huh,  /
+ba          A.41 utt2: I understand,  /
+%          A.41 utt3: yeah.  /
+sd          A.41 utt4:  I'm in one community band here,  /
+%          A.41 utt5: {C and } that's just, - /
+sd          A.41 utt6: {D well, } we rehearse once a week.  /
+sd          A.41 utt7:  We generally have a concert every other week  /
+%          A.41 utt8: {C and, } -/  
+
+qy^d          B.42 utt1:  You have one that often. /  
+
+ny          A.43 utt1:  Yeah <laughter>. /  
+
+sd          B.44 utt1:  That's amazing because --   
+
+sv          A.45 utt1:  That's a lot. /  
+
++          B.46 utt1:  -- [ [ I, + I, ] + I ] have it set up here that we have at least six to seven rehearsals per concert. /  
+
+nn          A.47 utt1:  No,  /
+sd^e          A.47 utt2: we sure don't. /  
+
+ba          B.48 utt1:  Wow. /  
+
+sd          A.49 utt1:  {D Well, } one thing is, we have a [ summer ser-, + summer series, ]  /
+sd          A.49 utt2: {C and } every single Sunday night we play at the library to have a little --   
+
+b          B.50 utt1:  Uh-huh. /  
+
++          A.51 utt1:  -- [ out, + outdoor ] stage set up -- /  
+
+b          B.52 utt1:  Oh. /  
+
+sd          A.53 utt1:  -- {C and so } we do that every Sunday night --   
+
+sv          B.54 utt1:  You are busy. /  
+
++          A.55 utt1:  -- during the summer,  /
+aa          A.55 utt2: yeah,  /
+sd          A.55 utt3: {C and then, } I don't know.  We just have an awful lot of engagements,  /
+sd          A.55 utt4: {C and } we're just having to turn a lot of people down, {F um, } because, {D you know, } {F uh, } we don't want to do things like have a concert back to back or even two days in a row. /  
+
+qw          B.56 utt1:  Where do you get all this music,  /
+qy^d          B.56 utt2: {E I mean, } [ you, + you ] must back up and play some of the music twice. /  
+
+qy          A.57 utt1:  Oh yes,  /
+sd^e          A.57 utt2: definitely,   
+
+x          B.58 utt1:  <Throat_clearing>.   
+
++          A.59 utt1:  we really do.  /
+sd          A.59 utt2:  {D You know, } you get your little Sousa book  /
+sd          A.59 utt3: {C and } you just flip <laughter> through it, and that sort of thing. /  
+
+bk          B.60 utt1:  {F Oh, } okay.  /
+qy^d          B.60 utt2: So [ your, + you ] don't play pretty well a full concert band music most of the time then. /  
+
+no          A.61 utt1:  It really depends on who shows up. /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+sd          A.63 utt1:  {F Um, } {C and } it's always a mystery,  /
+sd          A.63 utt2: {C because } it actually doesn't matter who shows up,  /
+sd          A.63 utt3: it matters what instruments they brought,  /
+sd          A.63 utt4: {C because } so many --   
+
+b          B.64 utt1:  Right. /  
+
++          A.65 utt1:  -- people switch instruments so often. /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+b          A.67 utt1:  {C But, } {F um, } yeah,  /
+sd          A.67 utt2: in the winter we do more concert stuff  /
+%          A.67 utt3: {C and, } -/  
+
+qw          B.68 utt1:  How many people in your band? /  
+
+sd          A.69 utt1:  {F Um, } I think there's about seventy. /  
+
+b^m          B.70 utt1:  Seventy. /  
+
+b          A.71 utt1:  Yeah,  /
+sd          A.71 utt2: there's a lot. /  
+
+ba          B.72 utt1:  Holy mackerel,  /
+%          B.72 utt2: that's. -/  
+
+sd          A.73 utt1:  {C But, } on any given night there's not seventy --   
+
+b          B.74 utt1:  Uh-huh. /  
+
++          A.75 utt1:  -- {D you know, }  /
+sd          A.75 utt2: it alternates quite a lot. /  
+
+ba          B.76 utt1:  Boy,  /
+sv          B.76 utt2: that is a huge organization,  /
+ba          B.76 utt3: that's great. /  
+
+aa          A.77 utt1:  Yeah,  /
+aa          A.77 utt2: it really is. /  
+
+sd          B.78 utt1:  Because about the best I can normally hope for is about fifty --   
+
+b          A.79 utt1:  <Laughter>  Oh. /  
+
++          B.80 utt1:  -- [ in,  in ] the band I have here. /  
+
+b          A.81 utt1:  Yeah,  /
+%          A.81 utt2: {D well. } -/  
+
+sd          B.82 utt1:  {C But } that fills a stage and keeps us busy,  /
+sd          B.82 utt2: {C but } <throat_clearing> [ [ they were, + half have been professionals from, ] + {F uh, } a lot of them are from, ] {F uh, } faculty at Penn State here. /  
+
+b          A.83 utt1:  {F Oh, } okay. /  
+
+sd          B.84 utt1:  {C And so } they want to play things that, {F uh, } push them to do.  /
+sd          B.84 utt2: {C So } that's why we have to work real hard when we get a concert together. /  
+
+b          A.85 utt1:  Uh-huh. /  
+
+sd          B.86 utt1:  We have about four concerts per year indoors --   
+
+b          A.87 utt1:  Uh-huh. /  
+
++          B.88 utt1:  -- and two or three that we play outside. /  
+
+b          A.89 utt1:  Uh-huh. /  
+
+sd          B.90 utt1:  {C And } the last one we did was in a large, {F uh, } mall close here,  /
+sd          B.90 utt2: we played Christmas about an hour out in this mall. /  
+
+b          A.91 utt1:  Uh-huh,  /
+b^r          A.91 utt2: uh-huh. /  
+
+sd          B.92 utt1:  {C So } that worked out very nicely. /  
+
+b          A.93 utt1:  Yeah,  /
+ba          A.93 utt2: that's fun. /  
+
+b          B.94 utt1:  Yeah. /  
+
+^h          A.95 utt1:  {D Well, } let's see.  /
+sd          A.95 utt2:  {D Well, } there's another band around here.  /
+sd          A.95 utt3:  Someone at work is trying to get me to join that one, because they need clarinet players -- /  
+
+b          B.96 utt1:  Uh-huh. /  
+
+sd          A.97 utt1:  -- {C and } their concert schedule isn't as heavy,  /
+sd          A.97 utt2: {C but } they have more in the summer,  /
+sd          A.97 utt3: I think they have ten in the summer, {D you know, } [ one, + one ] week after the other.  /
+sd          A.97 utt4:  I think they're {D like } Monday nights --   
+
+ba          B.98 utt1:  Wow,  /
+%          B.98 utt2: that. -/  
+
++          A.99 utt1:  -- {C and } they don't have rehearsals during that time period. /  
+
+qy          B.100 utt1:  Are you just saying [ you, + you ] sight read every concert? /  
+
+nd          A.101 utt1:  {F Uh, } {D well, } it's not really sight reading when you've done it, {D you know, } again and again and again,  /
+sd          A.101 utt2: {C but } --   
+
+bk          B.102 utt1:  Okay. /  
+
++          A.103 utt1:  -- some people are,  /
+%          A.103 utt2: yeah -- /  
+
+b          B.104 utt1:  Uh-huh. /  
+
+sd          A.105 utt1:  -- some of them are. /  
+
+qw          B.106 utt1:  {C And } [ where, + where ] does this happen, Laurie,  /
+qy          B.106 utt2: is this in Dallas? /  
+
+nd          A.107 utt1:  {D Well, } they're in the suburbs of Dallas, in Richardson and Plano. /  
+
+b          B.108 utt1:  Uh-huh. /  
+
+sd          A.109 utt1:  We're real close to Dallas. /  
+
+ba          B.110 utt1:  {D Well, } I declare. /  
+
+b          A.111 utt1:  Yeah. /  
+
+ba          B.112 utt1:  That's amazing. /  
+
+b          A.113 utt1:  Yeah,  /
+sd          A.113 utt2: {D well, } [ it's more of a, + I think it's very much more of a ] social group than anything else, {D you know. } /  
+
+b          B.114 utt1:  Okay. /  
+
+sd          A.115 utt1:  [ {C And, } + {C and } ] people always bring refreshments for after rehearsal and --   
+
+b          B.116 utt1:  Okay. /  
+
++          A.117 utt1:  -- hang around for an hour or so  /
+sv          A.117 utt2: {C and, }   
+
+b          B.118 utt1:  Uh-huh. /  
+
++          A.119 utt1:  That's probably why we get so many people. /  
+
+qy          B.120 utt1:  Do any of [ your, + you, ] in your group get paid for any of this? /  
+
+na          A.121 utt1:  {F Um, } {D well, } the conductor gets paid a little bit, {D you know, }  /
+sd          A.121 utt2: we do get some money from the city --   
+
+b          B.122 utt1:  Uh-huh. /  
+
++          A.123 utt1:  -- because we do play at a lot of city events. /  
+
+b          B.124 utt1:  Uh-huh. /  
+
+sd          A.125 utt1:  {F Um, } I think he's the only one that gets paid. /  
+
+b          B.126 utt1:  Uh-huh.  /
+qy^d          B.126 utt2:  {C And } you do have to buy your music.  /
+qy          B.126 utt3:  [ Who, + who ] sponsors you basically, the city? /  
+
+na^m          A.127 utt1:  The city,  /
+ny          A.127 utt2: uh-huh. /  
+
+b          B.128 utt1:  Yeah, {F uh, }  /
+sd          B.128 utt2: my band is sponsored through what they call Parks and Recreation. /  
+
+b          A.129 utt1:  Yeah,  /
+sd          A.129 utt2: it's a similar thing. /  
+
+b          B.130 utt1:  Yeah. /  
+
+sd          A.131 utt1:  I can't remember what they call it,  /
+sd          A.131 utt2: but the same type of thing. /  
+
+b          B.132 utt1:  Uh-huh. /  
+
+sd          A.133 utt1:  {F Um, } {C but } we do get an awful lot of music, {D you know, }  /
+sd          A.133 utt2: we can borrow music from any of the area colleges -- /  
+
+b          B.134 utt1:  Yes. /  
+
+sd          A.135 utt1:  -- {C or, } {D you know, } if [ some, + some ] group just isn't going to play any more, they'll just give us their music, and that type of thing. /  
+
+b          B.136 utt1:  Uh-huh. /  
+
+sd          A.137 utt1:  {C And } we do an awful lot of, {D you know, } - /
+sd          A.137 utt2: we don't charge for any of our performances,  /
+sd          A.137 utt3: {C but } we get a lot of donations. /  
+
+sd          B.138 utt1:  {D Well, } [ I, + I ] work the same way <laughter>. /  
+
+b          A.139 utt1:  Yeah <laughter>. /  
+
+ba          B.140 utt1:  {D Well, } I'll be darned.  /
+ba          B.140 utt2:  It's amazing. / 

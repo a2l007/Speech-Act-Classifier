@@ -1,0 +1,468 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+**************WARNING*********************
+In this file, the A and B speakers have been
+swapped from the original transcription, in
+order to correctly match the channels recorded!
+
+
+FILENAME:        2434_1033_1019
+TOPIC#:          314
+DATE:            910404
+TRANSCRIBER:     nk
+UTT_CODER:	 tc
+DIFFICULTY:      2
+TOPICALITY:      1
+NATURALNESS:     1
+ECHO_FROM_B:     2
+ECHO_FROM_A:     1
+STATIC_ON_A:     1
+STATIC_ON_B:     1
+BACKGROUND_A:    3
+BACKGROUND_B:    1
+REMARKS:         None.
+
+===========================================================================
+  
+
+qw          B.1 utt1:  <TV> {F Uh, } {D well } what would you say your opinion is on gun control? /  
+
+h          A.2 utt1: {D Well, } I don't know.  /
+sd          A.2 utt2: [ I've, + I've ] had mixed emotions, I guess, when I listen to, {F uh, } the radio [ and, + and ] watch T V about the different, {F uh, } things that are happening.  /
+sd          A.2 utt3: {F Uh, } I'm against it  /
+sd          A.2 utt4: {C but } on the same token, {F uh, } I went out and purchased a gun just because I wanted the right to do that <laughter>. /  
+
+%          B.3 utt1:  #  (( Ye-, ))  # -/  
+
+sd          A.4 utt1: # {C So } # [ I, + I ] have a rifle in the house.  /
+sd          A.4 utt2: {F Uh, } the ammunition is probably so old I'm afraid to use it.  /
+sd          A.4 utt3: {C But, } {F uh, } I bought it for target practicing [ and, + {F uh, } and ] also because I wanted a weapon.  /
+qo          A.4 utt4: {F Uh, } how do you feel about it? /  
+
+sv          B.5 utt1: {D Well, } I think, {F uh, } down here in Texas they don't have a waiting period on handguns. /  
+
+%          A.6 utt1:  {F Huh. } /  
+
+sv          B.7 utt1: {C And, } I think they need that.  /
+sd          B.7 utt2: {F Uh, } {C and } [ I do have a, + I have a ] pistol.  /
+sd          B.7 utt3: It's a little twenty-two  /
+sd          B.7 utt4: {C and } I have a twenty-two or a twelve gauge shotgun. /  
+
+b          A.8 utt1:  Uh-huh. /  
+
+sd          B.9 utt1:  {C An-, } {D you know, } I do like to have my guns. /  
+
+x          A.10 utt1:  # <Laughter>. #   
+
+sd          B.11 utt1:  # {F Uh, } I # don't know if I'll ever use it, {D you know. }  /
+sd          B.11 utt2: {C And } like you, my bullets to my little pistol's probably, {F uh, } about three years old <sniffing> <child>.  /
+sd          B.11 utt3: {F Uh, } my gun hasn't been shot in a year or two. /  
+
+b          A.12 utt1:  Uh-huh. /  
+
+sd          B.13 utt1: <Swallowing> {C But, } {F uh, } I like to have them [ where + ] <child_crying> handy. /  
+
+sd          A.14 utt1:  {D Well, } [ up, + {F uh, } up  ] in New England where I'm from, {F uh, } you had to get a permit before you could buy any [ [ amu-, + am-,  ] + ammunition.  ]  /
+sv          A.14 utt2: {C And } I thought that was really good.  /
+sv          A.14 utt3: {C And } I think if they, {F uh, } -/  
+
+x          B.15 utt1:  <Child_talking>.   
+
+sd          A.16 utt1: takes two weeks for that system to process, {F uh, } your request [ for, + ] {F uh, } not as a gun permit [ but, + {F uh, } but ] to buy ammunition.  /
+sd          A.16 utt2: You have to get a permit from the police station in your local area to do that. /  
+
+sd          B.17 utt1:  <Child_talking> I've never heard of anything like that. /  
+
+b          A.18 utt1:  Yeah. {F Uh, } /  
+
+sv          B.19 utt1:  <Child_talking> That would be nice.  /
+%          B.19 utt2: # {C But, } #     
+
+x          A.20 utt1:  # <Snorting>. #   
+
++          B.21 utt1: <Child_crying> a-, {D you know, } - /
+sv          B.21 utt2: the criminals that are going to get their guns # one # --   
+
+aa          A.22 utt1:  [ [ # I # -- +   
+
++          B.23 utt1:  -- way or the other. /  
+
++          A.24 utt1: -- I, ] + I ] agree.  /
+sv          A.24 utt2: I think, {D you know, } one of the things [ [ that, + that, ] + that ] needs to happen is, {F uh, } [ to, + to ] stop the impulse buyer from, {F uh, } buying it quickly [ and, + and, ] {F uh, }   
+
+x          B.25 utt1:  </Child_crying>.
+
++          A.26 utt1:  maybe putting a week's waiting period or something on it.  /
+sv          A.26 utt2: {C But } if someone's really determined [ to, + to  ] pick up a firearm <inhaling> you can pick it up any place.  /
+
+b          B.27 utt1:  # Yeah  /
+x          B.27 utt2: <child>. #   
+
+sv          A.28 utt1:  # {C And } # you can get them really cheap. /  
+
+aa          B.29 utt1: I know  /
+sd          B.29 utt2: [ I, + I ] had a waiting period on my pistol because I was down in, {F uh, } Tennessee.   
+
+b          A.30 utt1:  Uh-huh. /  
+
++          B.31 utt1:  And, {F uh, } they had a waiting period  /
+sd          B.31 utt2: {C and, } {F uh, } we bought it there.  /
+%          B.31 utt3: # {C And, } # -/  
+
+qw          A.32 utt1:  # How # long was the waiting period out there? /  
+
+sd          B.33 utt1:  About nine days. /  
+
+%          A.34 utt1:  {F Huh. }  /
+sv          A.34 utt2: That wasn't [ too, + too ] bad. /  
+
+aa          B.35 utt1:  No.  /
+aa^r          B.35 utt2: No <child_crying>. /  
+
+sv          A.36 utt1: {C Because } [ if, + if ] you're going to go buy something, {F uh, } {F uh, } of that nature, I think [ you, + you're ] going to have some idea as to what you're going to do with it.  /
+sv          A.36 utt2: You're not going to react that quickly.  /
+sv          A.36 utt3: In other words, {D you know, } you don't have a need to go buy a gun to go shoot it the next day. /  
+
+%          B.37 utt1: Th-, - /
+sv          B.37 utt2: somebody wants to do that, - /
+sv          B.37 utt3: [ [ I, + I, ] + at times I ] think they ought to have a waiting period on all firearms. /  
+
+aa          A.38 utt1:  Yeah.  /
+sv          A.38 utt2:  I do too.  {F Uh, } because <laughter> it doesn't make any difference, {F uh, } {F uh, } whether it's a pistol or a shotgun, I suppose.  /
+sd          A.38 utt3: They both # do the same kind of job. # /  
+
+sv          B.39 utt1:  # <Dishes> A shotgun hurts worse # than a pistol does. /  
+
+am          A.40 utt1:  {F Uh, } yeah.  /
+am          A.40 utt2:  I suppose.  /
+sd          A.40 utt3: I never got shot with either one.  /
+h          A.40 utt4:  {C But } I don't know, {F uh, }  /
+sv          A.40 utt5: I think you could recover from a pistol but not from a shotgun <laughter>. /  
+
+aa          B.41 utt1:  No,  /
+sv          B.41 utt2: a shotgun's got too much of a spread.   /
+sd          B.41 utt3: # {C Or } at # --   
+
+b          A.42 utt1:  # Yeah. # /  
+
++          B.43 utt1: -- least ours does.  /
+%          B.43 utt2: {F Uh, } it's, {D you know, } - /
+sd          B.43 utt3: you have a little, {F uh, } thing [ on the [ bo-, + bottom ] of th-, + on top of the barrel ] --   
+
+b          A.44 utt1:  Uh-huh. /  
+
++          B.45 utt1: -- where [ you, + you ] turn it,  /
+sd          B.45 utt2: you can make it either tight or <laughter> as loose as loose can get. /  
+
+b          A.46 utt1:  Oh. /  
+
+sd          B.47 utt1:  {C And } the spread changes. /  
+
+sd          A.48 utt1:  {F Uh, } <throat_clearing> I've got a manual single shot  /
+sd          A.48 utt2: {C and } I guess it doesn't have [ any, + any  ] automatic features to it.  /
+sd          A.48 utt3: The further away I get, [ the, + the,  ] {F uh, } wider the shot gets --   
+
+b          B.49 utt1:  <Child_talking> Yeah. /  
+
++          A.50 utt1:  -- from the target.  /
+sd          A.50 utt2: {C And } the closer that I get, the tighter that it gets.  /
+sd          A.50 utt3: It's got a hell of a kick to it. /  
+
+b          B.51 utt1: Yeah.  /
+sd          B.51 utt2: My husband had [ a, + {F uh, } a ] police gun at one time.   /
+sd          B.51 utt3: {C And } I shot <child_crying> that thing one time.  /
+sd          B.51 utt4: Almost knocked me down. /  
+
+x          A.52 utt1:  # <Laughter>. #   
+
+%          B.53 utt1: # {C And } it just (( a li-, )) - /
+sd          B.53 utt2: # [ I don-, + I forget, ]  /
+sv          B.53 utt3: I think it was a three fifty-seven.  /
+h          B.53 utt4: I'm not sure. /  
+
+qr          A.54 utt1:  Do you belong to a gun club or you? -/  
+
+sd          B.55 utt1: He belonged to one awhile back.  /
+sd          B.55 utt2: {F Uh, } since we moved, - /
+sd          B.55 utt3: we've only been here in Texas for about a year </dishes> -- /
+
+b          A.56 utt1:  Uh-huh. /  
+
+sd          B.57 utt1: -- {C and, } {F uh, } we can't even find a place to shoot.  # Just for # --   
+
+ba          A.58 utt1:  # No kidding. # /  
+
++          B.59 utt1: -- target practice.  /
+sd          B.59 utt2: I'd love to get used to that shotgun.  /
+sd          B.59 utt3: We traded his pistol for that shotgun. /  
+
+sd          A.60 utt1: {F Huh. } {D Well } [ the, + the, ] {F uh, } clubs that we've got around here are kind of expensive  /
+sv          A.60 utt2: {C but, } {F uh, } it's well worth it.  /
+sd          A.60 utt3: You can go down and shoot up against a sand bag and some targets and have, {F uh, } competition.  /
+sd          A.60 utt4: {F Uh, } I've never really joined a club because I haven't got the time.  Not because I haven't got the desire.  /
+sd          A.60 utt5: {F Uh, } there's an annual membership fee, {F uh, } [ that's, + that's ] fairly high.  /
+sd          A.60 utt6: {C Plus } there's [ ini-, + an initiation ] fee that you have to pay because of first time, {F uh, } {F uh, } member. /  
+
+x          B.61 utt1:  <Child>.   
+
+sd          A.62 utt1: {C So } the whole process can cost you a hundred fifty dollars to join the club.  /
+sd          A.62 utt2: {C Plus } you have to pay for [ the, + the ] ammunition in any tournaments that you would join in. /  
+
+b          B.63 utt1: Yeah.  /
+sd          B.63 utt2: {D Well, } that's what my husband, - /
+sd          B.63 utt3: when he was in that gun club where he was doing that  <noise> <<can't tell if it's a cough or something was hit>>. - /
+%          B.63 utt4: It, {D you know, } - /
+sd          B.63 utt5: he went mostly just to, {F uh, } shoot at paper targets. /  
+
+b          A.64 utt1:  Uh-huh. /  
+
+sd          B.65 utt1: {F Uh, } {C but, } {D you know, } they used speed and accuracy and all that. /  
+
+sv          A.66 utt1: I think [ that, + that ] the gun clubs serve a useful purpose.  /
+sv          A.66 utt2: In fact, I'd like to see somehow they tie the legislation into not only  when you buy a weapon you have to, {F uh, } show that you've gone to school or gone to some class to know how to handle that weapon. -/  
+
+ba          B.67 utt1:  That's a good, - /
+sd          B.67 utt2: I've never thought of that. /  
+
+x          A.68 utt1:  # <Laughter>. #   
+
+ba          B.69 utt1:  # That's # a good point. /  
+
+%          A.70 utt1: {C And, } {D you know, } [ it, + it, ] - /
+sv          A.70 utt2: even after you wait your nine days, if you don't know how to handle it, it's just like putting someone in an automobile that doesn't know how to drive.  /
+sd          A.70 utt3: {C And } you give him a license because he waited nine days. /  
+
+b          B.71 utt1:  Yeah.  /
+%          B.71 utt2:  That's, - /
+%          B.71 utt3: {C and, } <<pause>> yeah. /  
+
+sv          A.72 utt1: [ He could, + he could ] not only, {F uh, } {F uh, } shoot himself.  /
+sv          A.72 utt2: [ He could, + he could, ] {F uh, } mishandle a weapon.  Leave it at home and let a child get at it. /  
+
+%          B.73 utt1: It, - /
+sd          B.73 utt2: {D well } [ we, + {F uh, } we ] was living on a navy base down in Memphis  /
+sd          B.73 utt3: {C and, } {F uh, } this one guy decided to play, {F uh, } lonesome cowboy or something.  /
+sd          B.73 utt4: {C And } he was twirling his gun around and shot himself in his foot. /  
+
+ba          A.74 utt1: Wow.  /
+sv          A.74 utt2: He was fortunate.  /
+sd          A.74 utt3: [ He could, + <laughter> he could ] of hit something else # <laughter>. # /  
+
+sd          B.75 utt1: # <Laughter> # {D Well, } he went tumbling down the steps along with, {F uh, } shooting his foot almost off.  /
+sd          B.75 utt2: He broke his leg and --   
+
+ba          A.76 utt1:  Wow. /  
+
++          B.77 utt1:  -- collar bone and a couple of other things # I'm sure, being, #   
+
+x          A.78 utt1:  # <Laughter>. #   
+
++          B.79 utt1: Mister Cowboy.  /
+sd          B.79 utt2: I can't remember what [ the na-, + the term ] was going around.   /
+sd          B.79 utt3: It was about four or five years ago. /  
+
+x          A.80 utt1:  # <Laughter>. #   
+
+sv          B.81 utt1:  # <Laughter> {C But. } #  {D Now, } I guess that would be a good idea <noise> </child>. /
+
+bf          A.82 utt1: About, {F uh, } private citizens selling a weapons?  /
+sd          A.82 utt2: {D Like } if you wanted to sell your pistol to me.  /
+qo          A.82 utt3: How do you feel about that?  /
+qy          A.82 utt4: Do you believe there ought to be legislation guiding the, {F uh, } buyer and the seller?  /
+qrr          A.82 utt5: [ {C And, } + {C or } ] do you believe that you ought to be able to sell your system, {F uh, }   
+
+x         B.83 utt1:  <Squeak>.   
+
++          A.84 utt1:  because you own it? /  
+
+h          B.85 utt1:  {F Uh, } that's a hard one because we did that.  /
+sd          B.85 utt2:  {C But, } {F uh, } I think there ought to be some rule against it.  /
+%          B.85 utt3: I'll, {F uh, } {D you know, } - /
+sv          B.85 utt4: the person who sells the gun ought to protect themselves because if that gun's registered to them and  somebody else uses that gun in something, the cops are going to come to you. /  
+
+b          A.86 utt1:  Yeah.  /
+qy          A.86 utt2:  # [ I-, + isn't ] # --   
+
+%          B.87 utt1:  # {F Uh, } # /  
+
++          A.88 utt1: -- there a way [ to, + {F uh, } to ] deregister yourself after you register a gun? /  
+
+no          B.89 utt1:  I have no idea.  /
+sd          B.89 utt2:  # I've only # --   
+
+%          A.90 utt1:  # {C Because } I # --   
+
++          B.91 utt1:  -- had one gun  /
+sd          B.91 utt2: {C and } I've kept it, # {D you # --   
+
++          A.92 utt1:  -- # have, # -/  
+
++          B.93 utt1:  -- know, } the one gun that was in my name. /  
+
+b          A.94 utt1:  Yeah.  /
+qy          A.94 utt2:  Is it registered? /  
+
+ny          B.95 utt1:  Yeah.  /
+
+%          B.95 utt2:  I-, -/  
+
+sd          A.96 utt1:  [ The, + {F uh, } the  ] rifle that I've got is not registered, /  
+
+x          B.97 utt1:  <Noise>.   
+
+sd          A.98 utt1:  {C and, } {F uh, } I don't know why I never registered it  /
+%          A.98 utt2: {C but } the, {F uh, } -/  
+
+sv          B.99 utt1:  I don't think you have to register a shotgun <squeak>. /  
+
+sv          A.100 utt1:  <Noise> {F Um, } [ I, + I  ] think [ it's, + it's  ] voluntary <rustling>.  /
+%          A.100 utt2: [ The, + {F uh, } the,  ] -/  
+
+sd          B.101 utt1: {D Well, } {D see, } {F uh, } my husband has a thing.  /
+sd          B.101 utt2: If they go to, {F uh, } [ regulating, + {F uh, } <sniffing> all right, {F uh, } banning ] guns.  [ [ [ Pri-, + pri-, ] + pri-, ] + private ] [ cit-, + citizens ] -- - /
+
+b          A.102 utt1:  Yeah. /  
+
+%          B.103 utt1:  -- this, - /
+sd          B.103 utt2: my kid is jumping on me.  /
+sd          B.103 utt3: I can't hardly talk. /  
+
+x          A.104 utt1:  <Laughter>.   
+
+sd          B.105 utt1:  My husband feels that they'll come and collect everybody's guns. /  
+
+am          A.106 utt1: Yeah.  /
+am          A.106 utt2: I guess that could happen.  /
+sv          A.106 utt3: It's just like [ the, + {F uh, } the ] social security system <noise>.  /
+sd          A.106 utt4: Once [ they, + {F uh, } they ] gave everybody a number  /
+sd          A.106 utt5: {C and } now they're making you, {F uh, } {F uh, } get one [ at, + at ] birth. /  
+
+x          B.107 utt1:  <Clanging>.   
+
+sd          A.108 utt1:  # {C And } # --   
+
+b          B.109 utt1:  # Yeah. # /  
+
++          A.110 utt1: -- once they have your number, they have your identification.  /
+sv          A.110 utt2: {C And } if you try to do anything, {F uh, } like, {F uh, } not identify yourself to the government, they know who you are. /  
+
+aa          B.111 utt1:  <Swallowing> Yeah.  /
+^2          B.111 utt2:  And everything about you. /  
+
+aa          A.112 utt1:   (( {C And } )) , that's true <laughter> <noise>. /  
+
+%          B.113 utt1: {F Uh, } I, - /
+sv          B.113 utt2: [ {C bu-, } + {C bu-, } ] {D you know, } they know {D so, } how much money you make a week to, {F uh, } probably your, {F uh, } - /
+sd          B.113 utt3: my kid is banging.  /
+sd          B.113 utt4: I was seeing what they was banging on.  /
+sd          B.113 utt5: {F Uh, } I've lost my train of thought.  /
+fa          B.113 utt6: I'm sorry <laughter>. /  
+
+bd          A.114 utt1:  That's all right.  /
+bf          A.114 utt2: [ You, + you ] were talking about, {F uh, } {F uh, } --   
+
+%          B.115 utt1:  {F Oh, } the Soc-, -/  
+
++          A.116 utt1:  -- [ Fed-, + what the Federal  ] government knows about people. /  
+
+aa          B.117 utt1: Yeah.  /
+sv          B.117 utt2: [ They, + they ] probably know everything from, half the time [ [ wh-, + ho-, ] + what ] time you go to the bathroom. /  
+
+aa          A.118 utt1:  <Laughter> # They probably do. # /  
+
+ar          B.119 utt1: # No,  /
+sv          B.119 utt2: [ that's + # that's ] a little bit extreme.  /
+sv          B.119 utt3: {C But } they could know anything and everything about you.  /
+sd          B.119 utt4: {C And, } {F uh, } I'd like to have my gun.  /
+sd          B.119 utt5: If they go to [ banding, + banning ] them, I'd lose my gun  /
+sd          B.119 utt6: {C but } we wouldn't lose [ our pis-, + our, {F uh, } shotgun.  ] /  
+
+b          A.120 utt1:  Yeah. /  
+
+sd          B.121 utt1: {C And, } {F uh, } we're wanting to get a couple of more that no one knows about. /  
+
+b          A.122 utt1:  Uh-huh. /  
+
+%          B.123 utt1: {C But } [ I don't, + I don't, ] {F uh } <ringing>, -/  
+
+qy          A.124 utt1: Do you find it difficult picking up, {F uh, } guns [ that, + that ] are not registered? /  
+
+nn          B.125 utt1:  No. /  
+
+b^m          A.126 utt1: No.  /
+sd          A.126 utt2: I don't either.  /
+sd          A.126 utt3: [ I can, + I can ] buy some, {F uh, } today if I wanted to.  /
+sd          A.126 utt4: # Just # --   
+
+b          B.127 utt1:  # Yeah.  /
+%          B.127 utt2:  W-, # -/  
+
++          A.128 utt1:  -- {D you know, } put up the money. /  
+
+b          B.129 utt1:  Yeah.  /
+sd          B.129 utt2:  {D Well, } you can look in [ the, + {F uh, } the,  ] - /
+sd          B.129 utt3: we got a thing down here called A SHOPPER. /  
+
+b          A.130 utt1:  Uh-huh. /  
+
+sd          B.131 utt1: [ [ It's [ a, + a ] ho-, + it's a, ] + it's a ] bargain thing.  /
+sd          B.131 utt2: {F Uh, } you go and [ ever-, + ] {D you know, } always see guns in there.   
+
+b          A.132 utt1:  Yeah. /  
+
++          B.133 utt1:  Five to seven guns a day.  /
+sd          B.133 utt2:  It comes out every Tuesday. /  
+
+qy^d          A.134 utt1:  {C And } [ there's, + there's  ] no waiting period on that. /  
+
+nn          B.135 utt1:  No.  /
+sd          B.135 utt2: None whatsoever # <laughter>. # /  
+
+x          A.136 utt1:  # <Laughter>. #   
+
+sd          B.137 utt1:  You call, - /
+sd          B.137 utt2: we sold a refrigerator through it  /
+sd          B.137 utt3: {C and } it took us all of twelve hours.  /
+
+bf          A.138 utt1:  To sell the refrigerator? /  
+
+ny          B.139 utt1:  Yeah. /  
+
+b          A.140 utt1:  Yeah. /  
+
+sv          B.141 utt1:  {D You know. }  {C And } I'm sure it'd be even less for somebody with a good gun. /  
+
+sv          A.142 utt1: {F Huh. } {C And } I think the Federal government [ is, + {F uh, } is ] really far away from, {F uh, } {F uh, } control.  /
+sd          A.142 utt2: [ I, + I ] don't believe in, {F uh, } - /
+sd          A.142 utt3: [ I'm s-, + I shouldn't ] probably say control.  /
+sd          A.142 utt4: I mean regulation.  /
+sd          A.142 utt5: Control is something that I wouldn't want the Federal government to have.  /
+sd          A.142 utt6: {F Uh, } {C but } I would like to see them have a monitoring capability so that they know who has what weapons. / 
+
+aa          @@B.143 utt1:  Yeah.  /
+sv          @@B.143 utt2:  {D Well, } I agree with you there.  /
+sv          @@B.143 utt3: They do have too much control over us already. /
+
+b          A.144 utt1:  Yeah. /
+
+sd          B.145 utt1:  {F Uh, } we could look at our paychecks and see how much control they have. /
+
+sv          A.146 utt1: <Laughter> Unfortunately, [ we, + {F uh, } we ] vote for [ the, + the ] people who spend the money, /
+sv          A.146 utt2: {C so } I can't complain too much. /
+
+b          B.147 utt1:  <Laughter> Yeah,  /
+sv          B.147 utt2: I guess so.  /
+h          B.147 utt3: I don't know.  /
+%          B.147 utt4: They're </TV> </child> </clanging>, -/
+

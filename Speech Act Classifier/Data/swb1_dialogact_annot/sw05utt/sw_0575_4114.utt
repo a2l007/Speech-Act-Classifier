@@ -1,0 +1,252 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4114_1533_1551
+TOPIC#:		302
+DATE:		920310
+TRANSCRIBER:	glp
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==============================================================================
+  
+
+qo          A.1 utt1:  {D So, } how you like New Jersey? /  
+
+sv          B.2 utt1:  {F Uh, } it's pretty good, {D you know. }   /
+sd          B.2 utt2: You get, {F uh, } closer to the, {F uh, } coast here,  /
+sd          B.2 utt3: {C and } you do get a good bit of, {F uh, } smog and stuff, especially from all the, {F uh, } fuel cracking towers and chemical plants. /  
+
+b          A.3 utt1:  Right,  /
+qy          A.3 utt2: [ I guess, +  {F uh, } {A I don't know what part of New Jersey you're in, but } I guess ] it's, {F uh, } fairly industrial? /  
+
+ny          B.4 utt1:  Yeah,  /
+%          B.4 utt2: it's, - /
+sd          B.4 utt3: when you get further east towards New York City it gets very industrial -- /  
+
+b          A.5 utt1:  Right, uh-huh. /  
+
+sd          B.6 utt1:  -- {C but } [ I'm, + I'm  ] about, {F uh, } thirty miles west of there  /
+sd          B.6 utt2: {C so } you have, {F uh, } actually green trees and such that you --   
+
+b          A.7 utt1:  Yeah. /  
+
++          B.8 utt1:  -- don't notice [ that, + that  ] other part of --   
+
+b          A.9 utt1:  Yeah <<faint>>. /  
+
++          B.10 utt1:  -- New Jersey exists. /  
+
+b          A.11 utt1:  Right. /  
+
+%          B.12 utt1:  Actually very, -/  
+
+x          A.13 utt1:  <Laughter>.  
+
+sd          B.14 utt1:  [ Y-, + {D you know, } you  ] go even a few [ wi-, + miles  ] out and you got, {F uh, } farms and  everything  /
+sd          B.14 utt2: so you, relatively clear air. -/  
+
+b          A.15 utt1:  Right. /  
+
+%          B.16 utt1:  {C But, } {F uh, } -/  
+
+h          A.17 utt1:  {D Well, } I don't know about you,  /
+sv          A.17 utt2: {C but } I've always considered automobiles to be, probably [ the, + the  ] prime contributor.  /
+sv          A.17 utt3: {E I mean } there's a lot of contributors,  /
+sv          A.17 utt4:  {C but } it seems that automobiles would probably do more than their fair share of that. /  
+
+aa          B.18 utt1:  {F Oh, } [ d-, + definitely.  ]  /
+%          B.18 utt2: It's -- -/  
+
+b          A.19 utt1:  Yeah. /  
+
+sd          B.20 utt1:  -- {F uh, } {D you know, } there are a large number of them on the road.  /
+sd          B.20 utt2:  They're all, {D you know, } going,  /
+sv          B.20 utt3: {C and } a lot of them are in relatively poor repair. /  
+
+sv          A.21 utt1:  [ [ That's, + {D yeah, }  that's,  ] + that's  ] a big issue is, {D you know, }  /
+sd          A.21 utt2: a lot of states don't have a, {F uh, } inspection law  /
+sv          A.21 utt3: {C so } [ you get, + you get  ] a lot of people out there without E T R, emission control systems on their cars and things like that. /  
+
+sv          B.22 utt1:  {F Oh, } [ e-, + even  ] where you do have the inspections, {D you know, } the inspection is once a year. /  
+
+b          A.23 utt1:  Yeah,  /
+%          A.23 utt2: {C and } it's like, -/  
+
+sv          B.24 utt1:  You get the car that's in the accident  /
+sv          B.24 utt2: {C and } muffler falls off or something  -- /  
+
+b          A.25 utt1:  Sure. /  
+
+sv          B.26 utt1:  -- {C and } guy keeps driving along for long period of time after that. /  
+
+b          A.27 utt1:  Right.  /
+sd          A.27 utt2:  I guess, from what I hear, though, {F uh, } next year Ford is coming out with their electric cars.  /
+sd          A.27 utt3:  They're actually coming out with the first prototypes in California. /  
+
+b          B.28 utt1:  Yeah,  /
+%          B.28 utt2: that,  /
+sd          B.28 utt3: {C and } I think also some of the, {F uh, } car companies are coming out with, {F uh, } gas powered fleets --    
+
+b          A.29 utt1:  Yeah. /  
+
++          B.30 utt1:  --  so you, - /
+sd          B.30 utt2: natural gas powered rather than, {F uh, } gasoline. /  
+
+b          A.31 utt1:  Right.  /
+sd          A.31 utt2:  [ I hope, + [ I, + I'm  ] hoping  ] that comes along quick <laughter>.  /
+sd          A.31 utt3: {F Uh, } I was reading [ a, + an  ] article in TIME the other day about the ozone layer and how fast that's going  /
+sv          A.31 utt4: {C and } I guess [ it's, + it's  ] really disappearing a lot quicker than people realize  /
+sv          A.31 utt5: {C and } I know [ that's not due to, + {F uh, } it's not due [ to,  + to  ] ] gasoline or to, {D you know, } carbon monoxide so much as the C F C -s  /
+%          A.31 utt6: {C but, } -/  
+
+sd          B.32 utt1:  [ It, + it  ] is coming from cars, though. /  
+
+aa          A.33 utt1:  {F Uh, } yeah,  /
+sv          A.33 utt2: I think [ that's a, + that's a  ] contributor definitely. /  
+
+sd          B.34 utt1:  {E I mean, } the, {F uh, } car air conditioners is --   
+
+b          A.35 utt1:  Right. /  
+
++          B.36 utt1:  -- one of the major leaking sources of, {F uh, } the, {F uh, } freon.    
+
+b          A.37 utt1:  Right. /  
+
++          B.38 utt1:  Which is one of the major [ [ flor-, + chlorofar-, ] + fluorocarbons. ] /  
+
+b          A.39 utt1:  Yeah,  /
+sv          A.39 utt2: I guess right now [ what they're, + what they're  ] primarily worried about is third world countries because I guess United States [ and, + and  ] Russia have kind of taken the lead in terms of eliminating C F C production,  /
+%          A.39 utt3: {C but } --   
+
+%          B.40 utt1:  {D Well, } [ it, + it, ] -/  
+
++          A.41 utt1:  -- it, - /
+ad          A.41 utt2: go ahead. /  
+
+ar          B.42 utt1:  No,  /
+sv          B.42 utt2: [ it's, + it's  ] the type of thing there that, {F uh, } {D you know, } - /
+sd          B.42 utt3: the Third World countries are less industrial  /
+sd         B.42 utt4: {C and } they want to become industrial -- /  
+
+b          A.43 utt1:  Uh-huh. /  
+
+sd          B.44 utt1:  -- {C so } they're on the different part of the cycle of the U S.  /
+sd          B.44 utt2:  The U S used, {D you know, } all the air pollution stuff and air polluting technologies to get where it is today. /  
+
+b          A.45 utt1:  Right.  /
+sd          A.45 utt2:  {C And } that's one of the arguments that the Third World countries have been using is, that basically they don't want to have to pay for our mistakes <laughter> [ if, + if ] that makes any sense.  /
+%          A.45 utt3: {F Uh, } in terms of, -/  
+
+sd          B.46 utt1:  [ {C Or, } + {C or }  ] they want the right to make the same mistakes themselves to bootstrap them up to [ the way, + ] where we --   
+
+aa          A.47 utt1:  Exactly. /  
+
++          B.48 utt1:  -- got to. /  
+
+aa          A.49 utt1:  Exactly.  /
+sv          A.49 utt2: {F Uh, } [ those of kind of, + {D yeah, }  those  ] are joining arguments,  /
+h          A.49 utt3: {C but, } {F uh, } I don't know,  /
+sv          A.49 utt4: [ that's, + that's  ] kind of an interesting situation there.  /
+sv          A.49 utt5:  {F Uh, } [ what they don't realize, + those third world countries, what they don't realize  ] is how quickly the ozone is depleting.  /
+sd          A.49 utt6: I guess the latest figures are up to fifty percent at the Poles  /
+sd         A.49 utt7: {C and } [ it's, + it's  ] increasing even as [ far +  near ] the Equator as {D like } Florida and Cuba and those places. /  
+
+b          B.50 utt1:  Yeah. /  
+
+sv          A.51 utt1:  {C So } it's kind of an interesting situation.  /
+sv          A.51 utt2:  It's [ not + <laughter>, not  ] a real good one actually. /  
+
+aa          B.52 utt1:  # No. # /  
+
+%          A.53 utt1:  # {C But, } # -/  
+
+sv          B.54 utt1:  {D Well, } you also have the very close related thing of the, {F uh, } rain forest destruction --    
+
+b          A.55 utt1:  Yeah. /  
+
++          B.56 utt1:  -- which is the main source of what's clearing out the atmosphere and --   
+
+b          A.57 utt1:  Uh-huh,  /
+aa          A.57 utt2: yeah. /  
+
++          B.58 utt1:  -- replacing some of the pollutants. /  
+
+b          A.59 utt1:  Yeah,  /
+sv          A.59 utt2: you don't get [ that, + that  ] source of cleansing anymore.  /
+qy          A.59 utt3: [ Are, +  have ] you been in big cities a long time? /  
+
+na          B.60 utt1:  [ Mostly, + I've mostly  ] been in the east coast,  /
+sd^e          B.60 utt2: {C so } that's going between Atlanta, [ Washing-, +  D C ] area, /  
+
+bk          A.61 utt1:  Okay,  /
+%          A.61 utt2: {C so } you've got, -/  
+
+%          B.62 utt1:  A-, -/  
+
+b          A.63 utt1:  Yeah,  /
+sv          A.63 utt2: those are actually areas that are hit pretty hard, I would think. /  
+
+sd          B.64 utt1:  {D Well, } [ not, +  not ]    as hard as some places out west because you don't get the, {F uh, } major pollution sources as you do out in Denver with the --   
+
+aa          A.65 utt1:  Yeah,  /
+sd          A.65 utt2: Denver's #  (( definitely ))  # -- /  
+
++          B.66 utt1:  -- # inversion # --    
+
+aa          A.67 utt1:  -- yeah,  /
+sv          A.67 utt2:  that's one of the worst. /  
+
++          B.68 utt1:  -- and Los Angeles and [ a-, + ] rest of California which is just terrible it sounds. /  
+
+aa          A.69 utt1:  Sure.  /
+aa          A.69 utt2:  Yeah,  /
+sd          A.69 utt3: Denver's [ [ that, + that   real good e-, ] + that real good, {F uh, } example  ] of sitting in a valley, kind of like Mexico City does, I guess. /  
+
+b          B.70 utt1:  Uh-huh. /  
+
+sd          A.71 utt1:  Mexico City is   historically been one of the worst --    
+
+b          B.72 utt1:  Yeah. /  
+
++          A.73 utt1:  -- [ in the, + in the  ] world for that.  /
+sv          A.73 utt2: {C But } I've been pretty lucky,  /
+sd          A.73 utt3: I've lived in cities that really haven't had that much of a problem, although, {F uh, } I'm really kind of based in Orlando, Florida  /
+sv          A.73 utt4: {C and } there, you can tell that it's getting worse.  /
+sd          A.73 utt5: {E I mean, } [ [ it, + it  ] +  definitely it's  ] not at a level comparable to Los Angeles or Denver  /
+%          A.73 utt6: {C but } you can, -/  
+
+b          B.74 utt1:  Yeah,  /
+sv          B.74 utt2: there, it's almost all automobiles because there's not that much in the way of --   
+
+aa          A.75 utt1:  Exactly. /  
+
++          B.76 utt1:  -- heavy industry, {D you know, } that would be causing it. /  
+
+aa          A.77 utt1:  Yeah.  /
+sd          A.77 utt2:  {C And } there's not that much in terms [ of, + of  ] public transportation down there. /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+%          A.79 utt1:  There is,  /
+%          A.79 utt2: {C but } [ it's kind of + it's,  ] -/ 

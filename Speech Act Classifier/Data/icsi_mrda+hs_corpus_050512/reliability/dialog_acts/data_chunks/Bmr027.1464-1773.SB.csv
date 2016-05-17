@@ -1,0 +1,194 @@
+1463.95,1465.6,Bmr027-c0,s,,,there're bound to be some glitches the first time through .
+1465.9,1469.04,Bmr027-c1,s^fa,43a,,and uh - and i'm sorry responding without uh having much knowledge .
+1469.04,1472.13,Bmr027-c1,s^df,43a+,,but the thing is uh i am like one of these people who gets a gazillion mails .
+1472.13,1474.07,Bmr027-c1,s.%-,,,and - and stuff comes in as ==
+1472.77,1474.78,Bmr027-c5,s^df,43b,,well and that's exactly why i did it the way i did it .
+1474.78,1477.46,Bmr027-c5,s,,,which is the default is if you do nothing we're gonna release it .
+1477.46,1482.34,Bmr027-c5,s^rt,,,because you know i have my stack of emails of to d- - to be done .
+1477.78,1478.09,Bmr027-c1,b,,,yeah .
+1482.79,1484.26,Bmr027-c5,s^rt,,,that you know fifty or sixty long .
+1484.26,1486.03,Bmr027-c5,s,44a,,and the ones at the top i'm never gonna get to .
+1486.42,1486.78,Bmr027-c1,b,,,right .
+1486.71,1488.68,Bmr027-c5,fg,,,and uh so - so ==
+1487.58,1488.3,Bmr027-c2,s^cs^j,44b.45a,,move them to the bottom .
+1489.39,1489.96,Bmr027-c5,s^aa^j,45b,,yeah right .
+1489.72,1495.05,Bmr027-c1,s,,,so - so the only thing we're missing is - is some way to respond to easily to say uh o_k go ahead or something .
+1490.98,1492.27,Bmr027-c5,qy.%-,,,so i- - this is gonna mean ?==
+1493.89,1495.89,Bmr027-c2,s^cs,,FBH,just re-mail them to yourself and then they're at the bottom .
+1495.05,1495.35,Bmr027-c1,b,,,yeah .
+1495.13,1495.34,Bmr027-c5,s^aa,,,yeah .
+1496.41,1497.86,Bmr027-c5,fg|s^ba,,,yeah | that's actually definitely a good point .
+1496.46,1496.71,Bmr027-c0,b,,,yeah .
+1497.86,1503.87,Bmr027-c5,s,47a,,the m- - email doesn't specify that you can just reply to the email as op- - as opposed to going to the form .
+1503.13,1503.4,Bmr027-cb,%-,,,in ==
+1503.42,1503.73,Bmr027-c0,b^rt,,,mm-hmm .
+1503.81,1504.23,Bmr027-c4,s^aa,47b,,right .
+1503.87,1504.01,Bmr027-c5,%-,,,and ==
+1504.2,1506.52,Bmr027-c0,s,,,and it also doesn't give a - a specific - i didn't think of it .
+1506.7,1511.77,Bmr027-c0,s^cs,48a,,s- - i think it's a good idea - an ex- - explicit time by which this will be considered definite .
+1511.03,1511.69,Bmr027-c5,fg|s^2,48b,,yeah | release .
+1512.36,1514.3,Bmr027-c0,s^co^e,49a,,and - and it has to be a time earlier than that endpoint .
+1514.93,1516.17,Bmr027-c1,s^bk|s^ba,49b.50a,,yeah | it's converging .
+1516.63,1518.63,Bmr027-cb,s,,,this - um i've seen this recently .
+1517.09,1517.67,Bmr027-c0,s^aa,50b,,yeah that's right .
+1518.63,1519.56,Bmr027-cb,s,,,uh i got email .
+1519.98,1529.93,Bmr027-cb,s^rt,51a,,and it - i- - if i use a mime-capable mail reader it actually says you know click on this button to confirm receipt of the - of the mail .
+1530.79,1531.02,Bmr027-c3,b,,FBH,hmm .
+1530.95,1532.54,Bmr027-c0,s^ba^rt,51b-1,,oh that's interesting .
+1531.18,1531.74,Bmr027-cb,fh,,,so ==
+1531.88,1532.49,Bmr027-c5,%-,,,you - you can ==
+1532.89,1535.14,Bmr027-c5,s^bd,51b-3.52a,,a lot of mailers support return receipt .
+1532.93,1534.36,Bmr027-c3,s,51b-2,,it's like certified mail .
+1534.05,1534.74,Bmr027-c0,s^cs,,,could do that .
+1535.15,1535.59,Bmr027-cb,s^aa,52b,,right .
+1535.65,1537.42,Bmr027-c5,s^bd,53a,,but it doesn't confirm that they've read it .
+1536.9,1538.13,Bmr027-cb,s^ar|s,53b,,no no no | this is different .
+1538.13,1545.03,Bmr027-cb,s,,,this is not - so i - i know you can tell you know the uh mail delivery agent to - to confirm that the mail was delivered to your mailbox .
+1542.92,1543.17,Bmr027-c0,b,,FBH,mmm .
+1544.22,1544.54,Bmr027-c5,b,,,right .
+1545.03,1546.36,Bmr027-cb,s,,,but - but no this was different .
+1546.67,1548.83,Bmr027-cb,s.%-,54a,,ins- - in the mail there was a ==
+1549.78,1550.51,Bmr027-c5,s^2^bk,54b,,oh just a button .
+1549.9,1560.02,Bmr027-cb,s,55a,,uh th- - there was a button that when you clicked on it it would send uh you know a actual acknowledgement to the sender that you had actually looked at the mail .
+1550.84,1551.09,Bmr027-c5,b,,,oh yeah .
+1559.85,1561.49,Bmr027-c5,s^bk|s^am,55b,,yeah | unfor- - yeah we could do that .
+1561.49,1562.42,Bmr027-c5,s^ba^df,55b+,,but i hate that .
+1561.63,1564.76,Bmr027-cb,s,,,but it o- - but it only works for you know mime-capable .
+1564.76,1567.11,Bmr027-cb,s.%-,,,you know if you use netscape or something like that for your n- ==
+1565.33,1565.63,Bmr027-c5,b,,,yeah .
+1566.05,1567.84,Bmr027-c4,s^cs,56a,,you might as well just respond to the mail .
+1566.37,1566.61,Bmr027-c1,%-,,,and ==
+1567.74,1569.16,Bmr027-c1,s,57a,,and we actually need a third thing .
+1567.8,1568.03,Bmr027-cb,s^aa,56b,,right .
+1568.01,1568.52,Bmr027-c4,%-,,,i mean ==
+1569.16,1570.29,Bmr027-c1,s,57a+,,it's not that you've looked at it .
+1570.29,1575.43,Bmr027-c1,s,57a++,,it's that you've looked at it and - and - and agree with one of the possible actions .
+1574.65,1575.51,Bmr027-cb,s^ar|s^nd,57b.58a,,no no | you can do that .
+1575.43,1575.74,Bmr027-c1,qy^d^g^rt,57a+++,,right ?
+1575.51,1577.55,Bmr027-cb,s,,,you know you can put this button anywhere you want .
+1576.06,1576.28,Bmr027-c1,qy^bh^d,58b,,oh ?
+1577.55,1584.22,Bmr027-cb,s.%-:s.%-,59a,FBH,and you can put it - the bottom of the message and say here by you know by clicking on this i - i agree uh you know i acknowledge ==
+1577.88,1578.41,Bmr027-c1,s^bk,,,oh i see .
+1582.74,1585.67,Bmr027-c1,s^2^bu^j^rt,59b,,that i- - i- - my first-born children are yours .
+1585.67,1585.88,Bmr027-c1,fh,,,and ==
+1585.88,1586.12,Bmr027-c1,s^bk,,,yeah .
+1587.98,1588.17,Bmr027-c1,b,,,yeah .
+1588.53,1589.31,Bmr027-c4,s^tc,,,quick question .
+1589.31,1590.22,Bmr027-c4,qy.%-,,,are um ?==
+1589.48,1591.8,Bmr027-c5,s^cs,,,well i could put a u_r_l in there without any difficulty .
+1591.8,1594.55,Bmr027-c5,s,,,and even pretty simple mime readers can do that .
+1594.62,1596.65,Bmr027-c0,qh,60a,,but why shouldn't they just email back ?
+1594.62,1594.87,Bmr027-c5,fh,,,so ==
+1596.66,1597.32,Bmr027-c5,fg|s^bs,61b-2,,yeah | reply .
+1596.72,1597.21,Bmr027-c1,s^bk,60b-1,,yeah .
+1596.77,1597.74,Bmr027-c0,s^ba,,,i don't see there's a problem .
+1596.93,1597.21,Bmr027-cb,b,,,right .
+1597.9,1598.51,Bmr027-c0,s^ba,,,it's very nice .
+1598.11,1598.83,Bmr027-c1,b,,,yeah .
+1598.51,1600.07,Bmr027-c0,s,,,i - i like the high-tech aspect of it .
+1599.58,1601.94,Bmr027-cb,s^ar|s,,FBH,no no no | i actually don't .
+1600.07,1600.51,Bmr027-c0,s.%-,,,but i think ==
+1601.56,1602.23,Bmr027-c0,s^ba,,,i appreciate it .
+1602.35,1603.2,Bmr027-cb,s,,,i'm just saying that .
+1603.11,1604.79,Bmr027-c5,s,,,well i - cuz i use a text mail reader .
+1603.77,1604.79,Bmr027-cb,s.%-,,,if ev- - but i'm ==
+1604.36,1605.46,Bmr027-c4,qy^rt,62a,,don't you use v_i ?
+1606.75,1607.19,Bmr027-c4,s^e.%-,63a,,for your mai- ?==
+1606.94,1607.21,Bmr027-cb,s^aa,62b,,yeah .
+1607.7,1608.95,Bmr027-c1,s^ba,63b.64a,,wow that's - that's my guy .
+1609,1609.38,Bmr027-c1,s^bk,,,alright .
+1609.05,1610.89,Bmr027-c5,qy^bu^d^rt,64b,,you - you read email in v_i ?
+1609.29,1609.58,Bmr027-cb,b,,,yeah .
+1610.95,1612.03,Bmr027-cb,%-,,,so - i - i- ==
+1611.36,1611.86,Bmr027-c0,s^ba,,,i like v_i .
+1612.2,1616.6,Bmr027-cb,s:s,65a,FBH,there's these logos that you can put at the bottom of your web page like powered by v_i .
+1617.85,1618.13,Bmr027-c3,b,,,yeah .
+1618.71,1619,Bmr027-c1,s^fe,65b,,wow !
+1619.24,1620.28,Bmr027-c4,s^r^tc,66a,,anyway quick question .
+1619.25,1620.69,Bmr027-c5,s^cs,,,you could put wed bugs in the email .
+1619.69,1619.95,Bmr027-c3,s^bk,,,i see .
+1620.35,1620.85,Bmr027-c4,qw.%-,,,how m- ?==
+1620.41,1620.67,Bmr027-cb,s^bk,66b,,yeah .
+1621.01,1623,Bmr027-c4,s.%-,,,like there were three meetings this time or so- ==
+1623,1623.78,Bmr027-c4,qw,67a,,or how many ?
+1623.42,1623.85,Bmr027-c0,s,67b.68a,,six .
+1623.78,1624.28,Bmr027-c4,s^bk^rt,68b,,six .
+1624.6,1626.32,Bmr027-c4,s,,,but no- - of different people .
+1626.32,1628.84,Bmr027-c4,s^ba,,,so i guess if you're in both these types of meetings you'd have a lot .
+1628.84,1629.99,Bmr027-c4,qw.%--,,,but how ?==
+1630.33,1632.26,Bmr027-c4,s.%--,,,i mean it also depends on how many ==
+1632.93,1636.2,Bmr027-c4,s^ba,,,like if we release - this time it's a fairly small number of meetings .
+1636.19,1638.67,Bmr027-c4,qh^cs,69a,,but what if we release like twenty-five meetings to people ?
+1639.32,1646.18,Bmr027-c5,s,69b.70a,,well what my s- - expectation is is that we'll send out one of these emails every time a meeting has been checked and is ready .
+1639.66,1639.92,Bmr027-c4,%-,,,in th- ==
+1640.72,1641.04,Bmr027-c4,s^bd^no,69a+,,i don't know .
+1646.43,1647.13,Bmr027-c4,s^bk,70b,,oh oh o_k .
+1647.36,1648.75,Bmr027-c5,s,,,so tha- - that was my intention .
+1647.56,1649.68,Bmr027-c4,s|s^bk,71a,,so this time was just the first chunk | o_k .
+1648.75,1649.06,Bmr027-c5,s.%--,,,it's just ==
+1649.06,1649.28,Bmr027-c5,s^aa,71b,,yeah .
+1649.28,1651.18,Bmr027-c5,s^df,,,that we just happened to have a bunch all at once .
+1650.44,1651.39,Bmr027-c4,s^ba,,,well that's a good idea .
+1651.9,1652.41,Bmr027-c5,s.%--,,,i mean maybe ==
+1652.41,1653.96,Bmr027-c5,qy^rt,72a,,is that the way it's gonna be you think jane ?
+1653.17,1653.76,Bmr027-c0,s,72b,,i agree with you .
+1654.13,1656.73,Bmr027-c0,s,72b+,,it's - we could do it uh - i- - i could - i'd be happy with either way .
+1656.73,1657.24,Bmr027-c0,s.%--,,,batch-wise ==
+1657.24,1657.95,Bmr027-c0,s.%--,,,what i was thinking ==
+1657.95,1658.69,Bmr027-c0,s.%--,,,uh so this one ==
+1658.83,1659.88,Bmr027-c0,s,,,that was exactly right .
+1659.95,1660.66,Bmr027-c0,s.%--,,,that we had a - uh uh ==
+1660.96,1664.03,Bmr027-c0,s^rt,,,i - i had wanted to get the entire set of twelve hours ready .
+1664.5,1665.08,Bmr027-c0,s,,,don't have it .
+1665.36,1669.45,Bmr027-c0,s,,,but uh this was the biggest clump i could do by a time where i thought it was reasonable .
+1668.91,1669.61,Bmr027-c1,b,,,mm-hmm .
+1669.45,1671.5,Bmr027-c0,s,,,people would be able to check it and still have it ready by then .
+1671.94,1676.55,Bmr027-c0,s,,,my um - i was thinking that with the n_s_a meetings i'd like - there are three of them .
+1676.55,1680.37,Bmr027-c0,s,,,and they're - uh i - i will have them done by monday .
+1680.81,1682.48,Bmr027-c0,s^bd,,,uh unfortunately the time is later .
+1682.48,1683.69,Bmr027-c0,s^bd,,,and i don't know how that's gonna work out .
+1683.69,1685.9,Bmr027-c0,s^cs,,,but i thought it'd be good to have that released as a clump too .
+1685.9,1689.28,Bmr027-c0,s^bu,,,because then you know they're - they - they have a - it- - it's in a category .
+1689.28,1691.49,Bmr027-c0,s,,,it's not quite so distracting to them is what i was thinking .
+1691.59,1692.69,Bmr027-c0,s.%--,,,and it's all in one chu- ==
+1692.88,1699.67,Bmr027-c0,s,73a,,but after that when we're caught up a bit on this process then um i could imagine sending them out periodically as they become available .
+1700.26,1700.61,Bmr027-c4,s^bk,73b,,o_k .
+1700.82,1701.69,Bmr027-c0,s^cs^rt,,,i could do it either way .
+1701.69,1704.44,Bmr027-c0,s,,,i mean it's a question of how distracting it is to the people who have to do the checking .
+1708.49,1709.59,Bmr027-c1,qy^bu^d^rt^t^tc,74a,,we heard anything from i_b_m ?
+1710.36,1710.67,Bmr027-c1,s^e^rt,74a+,,at all .
+1710.9,1712.62,Bmr027-c2,h|s,74b,,uh | let's see .
+1712.62,1713.31,Bmr027-c2,%--,,,we ==
+1713.31,1713.67,Bmr027-c2,s^bk,,,yeah right .
+1713.67,1715.86,Bmr027-c2,s,74b+,,so we got the transcript back from that one meeting .
+1715.86,1717,Bmr027-c2,s^ba^rt,74b++,,everything seemed fine .
+1717.12,1722.76,Bmr027-c2,s,,,adam had a script that will put everything back together and there was - well there was one small problem but it was a simple thing to fix .
+1723.47,1727.98,Bmr027-c2,s,,,and then um we uh - i sent him a pointer to three more .
+1728.65,1732.26,Bmr027-c2,s,,,and so he's off and working on those .
+1731.38,1736.62,Bmr027-c5,fg|s,,,yeah | now we haven't actually had anyone go through that meeting to see whether the transcript is correct .
+1736.62,1738.98,Bmr027-c5,s,,,and to see how much was missed and all that sort of stuff .
+1738.91,1739.71,Bmr027-c0,s^na,75b,,that's on my list .
+1738.98,1740.38,Bmr027-c5,s^cs,75a,,so at some point we need to do that .
+1739.64,1739.8,Bmr027-c2,b,,,yeah .
+1740.38,1741.16,Bmr027-c0,s^r,75b+,,well that's on my list .
+1741.64,1744.32,Bmr027-c2,fg|s,,,yeah | it's gonna have to go through our regular process .
+1743.8,1746.43,Bmr027-c5,s,,,i mean the one thing i noticed is it did miss a lot of backchannels .
+1746.43,1749.96,Bmr027-c5,s,,FBH,there are a fair number of yeahs and uh-huhs that - it's just - that aren't in there .
+1750.42,1750.72,Bmr027-c5,fh,,,so ==
+1751.78,1751.91,Bmr027-c0,b,,FBH,hmm .
+1752.34,1755.09,Bmr027-c1,s.%--,,,but i think - yeah like you said i mean that's - that's gonna be our standard proc- ==
+1755.09,1758.17,Bmr027-c1,s,76a,,that's what the transcribers are gonna be spending most of their time doing i would imagine .
+1755.8,1756.06,Bmr027-c0,b,,,mm-hmm .
+1757.11,1757.88,Bmr027-c0,b,,,mm-hmm mm-hmm .
+1758.17,1759.09,Bmr027-c1,%-,,,once - once we ==
+1758.31,1759.52,Bmr027-c5,s^bk,76b,,yes absolutely yeah .
+1759.78,1761.09,Bmr027-c0,s,,,one question about the backchannels .
+1759.91,1760.49,Bmr027-c1,s.%--,,,it's gonna ==
+1761.09,1764.16,Bmr027-c0,qy^rt,77a,,do you suppose that was because they weren't caught by the pre-segmenter ?
+1764.15,1765.81,Bmr027-c5,s^aa,77b.78a,,yes absolutely absolutely .
+1764.92,1765.52,Bmr027-c0,s^ba,78b,,oh interesting .
+1766.24,1767.1,Bmr027-c0,s^ba^r,78b+,,oh interesting o_k .
+1767.94,1769.72,Bmr027-c5,fg|s,79a,,yeah | they're - they're not in the segmented .
+1769.83,1772.19,Bmr027-c5,s,80a,,it's not that the i_b_m people didn't do it .
+1770.04,1770.34,Bmr027-c0,s^bk,79b,,o_k .
+1772.86,1773.17,Bmr027-c0,s^bk,80b,,o_k .

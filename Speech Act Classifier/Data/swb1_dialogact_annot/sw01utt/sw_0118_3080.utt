@@ -1,0 +1,404 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3080_1284_1095
+TOPIC#:		356
+DATE:		910618
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	5
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None   
+
+==========================================================================
+  
+
+qy          A.1 utt1:  All right, do you do exercise? /  
+
+na          @B.2 utt1:  I do,  /
+ny          @B.2 utt2: yes,  /
+sd^e          @B.2 utt3: [ I, + {F uh, } {F uh, } I ]  guess it actually changes,  /
+sd          @B.2 utt4: I do a number of different things --    
+
+b          A.3 utt1:  Uh-huh. /  
+
++          B.4 utt1:  -- simply walking with my wife -- /  
+
+b          A.5 utt1:  Right. /  
+
+sd          B.6 utt1:  -- {C and } sometimes my daughter will  come along on her little bicycle. /  
+
+x          A.7 utt1:  <Laughter>.   
+
+sd          B.8 utt1:  {F Uh, } {C and then } moving up, I run --   
+
+b          A.9 utt1:  Uh-huh /  
+
++          B.10 utt1:  -- in the mornings,  /
+sd          B.10 utt2: not every morning,  it probably averages about two days a week -- /  
+
+b          A.11 utt1:  Right. /  
+
+sd          B.12 utt1:  -- {C and then } with my wife I actually  go to the gym and lift weights, which isn't, I understand, quite exercising,  /
+sd          B.12 utt2: {C but } it's along the lines, /  
+
+b          A.13 utt1:  Right. /  
+
+qo          B.14 utt1:  How about yourself. /  
+
+sd          A.15 utt1:  {D Well, } {F um, } that's a hard  question to answer because I do physical things, but I don't always set out for them to be exercise. /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  I walk with my parents, occasionally,  /
+sd          A.17 utt2:  nothing's real regular about this because I have a weird schedule and they have a normal schedule, /
+sd          A.17 utt3: {C and, }  {F um, } I play racquetball,  /
+sd          A.17 utt4: {C but } I haven't since  I've been out of school.  /
+sd          A.17 utt5:  I don't have anywhere to do that,  /
+sd          A.17 utt6: {C but } that's going to start soon again -- /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+sd          A.19 utt1:  -- {C and, }  {F um, } I play softball  once a week, which is kind of more recreation than exercise. /  
+
+b          B.20 utt1:  Uh-huh. /  
+
+sd          A.21 utt1:  {C Because } I really don't like to exercise,  /
+sd          A.21 utt2:  I think that's the basic point of it, is [ I'm not, + [ I, + I ] don't ] enjoy it --   
+
+b          B.22 utt1:  Right. /  
+
++          A.23 utt1:  -- if I know that it's exercise,  /
+sd          A.23 utt2:  {C but } if it's like a social activity or a recreational activity, I don't mind -- /  
+
+b          B.24 utt1:  Right. /  
+
+sd          A.25 utt1:  -- {C so } I have to disguise it,  /
+sd          A.25 utt2: it's  like feeding little babies food and  telling them it's something else so that they'll eat it. /  
+
+aa          B.26 utt1:  That's right. /  
+
+sd          A.27 utt1:  That's kind of the same thing for me.  /
+sd          A.27 utt2:  I have to not know that it's exercise so I can do it. /  
+
+aa          B.28 utt1:  Right.  /
+bf          B.28 utt2: {C So } you look at it more as a task. /  
+
+aa          A.29 utt1:  {D Well, } yeah,  /
+sd         A.29 utt2: if it's exercise, it's a task. /  
+
+b          B.30 utt1:  Right. /  
+
+sd          A.31 utt1:  I don't want to do anything I have to do. /  
+
+bk          B.32 utt1:  I see. /  
+
+sd          A.33 utt1:  {E I mean, } I'll voluntarily clean the bathroom,  /
+sd          A.33 utt2:  {C but } I won't do it if I have to do it. /  
+
+b          B.34 utt1:  Right,  /
+b^r          B.34 utt2: right.  /
+sd          B.34 utt3: {D So, }  I'm thirty-two years old --   
+
+b          A.35 utt1:  Uh-huh. /  
+
++          B.36 utt1:  -- which is probably different than yourself -- /  
+
+aa          A.37 utt1:  Right,  /
+sd          A.37 utt2: I'm twenty-two. /  
+
+sd          B.38 utt1:  -- {C and so, } it's interesting that  as you get older you begin to understand that you need to exercise. /  
+
+b          A.39 utt1:  Right. /  
+
+sd          B.40 utt1:  My job at Texas Instruments,   I have to sit in front of a computer all day and make phone calls, so, that, I   don't get any exercise doing that -- -/  
+
+b          A.41 utt1:  Right. /  
+
+sd         B.42 utt1:  -- {C and } plus there's a build up of stress -- /  
+
+b          A.43 utt1:  Uh-huh. /  
+
+sd          B.44 utt1:  -- {C so } I need to go out and take those  walks after dinner,  /
+sd          B.44 utt2: {C and } I need to go out in the morning and run  /
+sd          B.44 utt3: {C or } I'll just get nuts -- /  
+
+b          A.45 utt1:  Right. /  
+
+sd          B.46 utt1:  -- {C so } that's kind of a motivator,  /
+sd(^q)       B.46 utt2:  {C so } even though I can look at it as a task, [ the, + ] {D you know, } [ I kind of get the,  + I get some kind of ] global benefit --   
+
+b          A.47 utt1:  Right. /  
+
++          B.48 utt1:  -- from the whole thing by saying,  {D Well, } I'm lowering my chance of heart attack, and [ thus, + that ] type stuff. /  
+
+bf          A.49 utt1:  Eating right and no cholesterol and all that. /  
+
+aa          B.50 utt1:  Sure,  /
+sd          B.50 utt2: that all,  /
+sd          B.50 utt3:  [ I, + I ] do all that. /  
+
+b          A.51 utt1:  Yeah,  /
+%          A.51 utt2: we, - /
+sd          A.51 utt3: I'm sure, I will do,  /
+sd          A.51 utt4:  I'm doing that more and more than I used to -- /  
+
+b          B.52 utt1:  Yeah. /  
+
+sd          A.53 utt1:  -- I'm getting better about this knowing  that I need exercise and doing it, {C but } it's still at the task stage. /  
+
+b          B.54 utt1:  Right. /  
+
+qy          A.55 utt1:  Is it a pleasure for you,  /
+qrr          A.55 utt2: {C or } are you, -/  
+
+%          B.56 utt1:  {D Well, } it's a, - /
+sd          B.56 utt2: something as simple as a walk with my wife is very enjoyable. /  
+
+b          A.57 utt1:  Right. /  
+
+sd          B.58 utt1:  I do that at the end of the day,  /
+sd          B.58 utt2:  {C and } it takes, {D you know, } - /
+sd          B.58 utt3: [ [ that, + that ] + during that ] time the stress from the day goes away.  /
+sd          B.58 utt4:   I get to share whatever I did with my wife, [ and, + and ] vice versa. /  
+
+b          A.59 utt1:  Right. /  
+
+sd          B.60 utt1:  Going to the gym [ is, + is ] actually  something different [ than, + than, ] {D like, } - /
+sd          B.60 utt2: {F oh, } and the running,  /
+sd          B.60 utt3: {C and } I enjoy that too. /  
+
+b          A.61 utt1:  Uh-huh /  
+
+o          B.62 utt1:  Year,  /
+sd          B.62 utt2: I've been running since high school --   
+
+b          A.63 utt1:  Oh. /  
+
++          B.64 utt1:  -- on track teams and the like,  /
+sd          B.64 utt2:  {C so, }  running, [ I, + I'm ] at that point which you probably get to after about six months of dedicated --   
+
+b          A.65 utt1:  Uh-huh. /  
+
++          B.66 utt1:  -- running where you don't feel your muscles any more -- /  
+
+b          A.67 utt1:  Right, /  
+
+sd          B.68 utt1:  -- {C and } you don't think about the pain of it.  /
+sd          B.68 utt2:   [ [ You, + you, ] + you ] take the time to relax some how  /
+sd          B.68 utt3: {C and } you think about other things.  /
+sd          B.68 utt4:  During those first few months you have to think about running  and why your elbow hurts and --   
+
+b          A.69 utt1:  Uh-huh <laughter>. /  
+
++          B.70 utt1:  -- why you can't breathe and this and that,  /
+sd          B.70 utt2:  {C and } that's no fun.  /
+sv          B.70 utt3:  {C And } it's so  hard to get past that for a lot of people. /  
+
+aa          A.71 utt1:  Right,  /
+%          A.71 utt2: that's, - /
+sd          A.71 utt3: I never got past that stage. /  
+
+b          B.72 utt1:  Yeah,  /
+sd          B.72 utt2: [ the ex-, + the, {F uh, } weight lifting ]  on the other hand is actually, {E you know, } - /
+sd          B.72 utt3: I think I look better. /  
+
+b          A.73 utt1:  Right. /  
+
+sd          B.74 utt1:  [ [ I have just a, + I don't, ] +  I'm not a ] huge person,  /
+sd          B.74 utt2: I'm just a regular looking guy,  /
+sd          B.74 utt3: {C but } just going to lift weights on  occasion with my wife,  /
+sd          B.74 utt4: {C and } my wife thinks the same thing about both me and herself --   
+
+b          A.75 utt1:  Uh-huh. /  
+
++          B.76 utt1:  -- that get that little bit of definition in your muscles  [ is, + is ] attractive -- /  
+
+b          A.77 utt1:  Right. /  
+
+sd          B.78 utt1:  -- {C so } that pays also. /  
+
+ba          A.79 utt1:  That's good. /  
+
+aa          B.80 utt1:  Yeah,  /
+sd          B.80 utt2: [ {C so, } + {C so } ]  I guess that aspect of that takes away the work --   
+
+b          A.81 utt1:  Yeah. /  
+
++          B.82 utt1:  -- [ the, + ] with my wife, which is nice,  /
+sd          B.82 utt2: I love her,   {D you know, }  /
+sd          B.82 utt3: I enjoy being with her -- /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  -- I guess that's one thing,  /
+sd          B.84 utt2: {C but } also,  {F uh, } [ that, + that ] long term benefit of a little bit of tone in your muscles. /  
+
+aa          A.85 utt1:  Right,  /
+sv          A.85 utt2: that's it,  /
+sd          A.85 utt3: I do the occasional push up  and sit up.  /
+sd          A.85 utt4:  I haven't really brought myself to go to [ the -- +   
+
+b          B.86 utt1:  Yeah. /  
+
++          A.87 utt1:  -- the ] gym, because that's very stressful to me,  /
+sd          A.87 utt2:  {C because } [ I feel, + I felt ] real competitive there,  /
+sd          A.87 utt3: {C and } I need to find  some place I could go and not feel like there's all these people who are just huge  and hulking that are ... -/  
+
+aa          B.88 utt1:  {F Oh, } yeah,  /
+sd          B.88 utt2: [ I don't, + I don't ]  let that bother me,  /
+%          B.88 utt3: {C but, }  yeah,  /
+sv          B.88 utt4: that's something that comes with time, too.    
+
+b          A.89 utt1:  Right. /  
+
++          B.90 utt1:  {D You know, }  /
+sd          B.90 utt2: I'll tell you, the sit ups  and push ups are excellent --   
+
+b          A.91 utt1:  Uh-huh. /  
+
++          B.92 utt1:  -- {D you know, }  /
+%          B.92 utt2:  it's your own, - /
+sd          B.92 utt3:  [ [ you, + you're, ] + you're ] struggling against your own  body weight -- /  
+
+b          A.93 utt1:  Right. /  
+
+sd           B.94 utt1:  -- you can [ d-, + have ] variety by putting  your feet higher or lower, by putting your arms further apart or closer together,  by doing them real quick or real slow -- /  
+
+b          A.95 utt1:  Right. /  
+
+sd          B.96 utt1:  -- {C and } you can actually get a good wo-, - /
+sd          B.96 utt2:  [ you can, + I know in the push up, at least, you can ] get chest muscles  and the back of your arms quite built up --   
+
+b          A.97 utt1:  Uh-huh. /  
+
++          B.98 utt1:  -- just doing push ups. /  
+
+sv          A.99 utt1:  That's a good idea,  /
+sd          A.99 utt2: {C but } I do have my ride,  /
+sd          A.99 utt3:  we have a stationary bicycle and  a stair step machine here at the house. /  
+
+bh          B.100 utt1:  {F Oh, } is that right. /  
+
+sd          A.101 utt1:  I'll do those once in a while just --   
+
+b          B.102 utt1:  Right. /  
+
++          A.103 utt1:  -- {D you know, } {D like } --   
+
+b          B.104 utt1:  Yeah. /  
+
++          A.105 utt1:  -- at eleven thirty when Love Connection's on --    
+
+b          B.106 utt1:  Right. /  
+
++          A.107 utt1:  -- and I can't sleep,  /
+sd          A.107 utt2: I'll get up --   
+
+x          B.108 utt1:  <Laughter>.   
+
++          A.109 utt1:  -- and stair step for half an hour -- /  
+
+ba          B.110 utt1:  That's funny. /  
+
+%          A.111 utt1:  -- {D so. } -/  
+
+b          B.112 utt1:  Yeah. /  
+
+sd          A.113 utt1:  It's, I guess, [ pretty, + pretty ] healthy,  /
+sd          A.113 utt2:  {C but } I don't have a regular plan, that's -- -/  
+
+b          B.114 utt1:  Yeah. /  
+
+sd          A.115 utt1:  -- I need to get started on that. /  
+
+arp          B.116 utt1:  {D Well, } [ may-, + {D you know, } maybe ] not.  /
+sv          B.116 utt2:  [ I'd say, + I'd say ] at twenty-two you don't necessarily need a plan as long as you're  [ getting, + getting ] the exercise otherwise. /  
+
+b          A.117 utt1:  Right. /  
+
+sv          B.118 utt1:  When your life becomes sedentary is  when you have to make yourself a --   
+
+b          A.119 utt1:  Uh-huh. /  
+
++          B.120 utt1:  -- plan,  /
+sv          B.120 utt2: {C and } what's real funny  about plans is that there's a struggle [ between, + ] {F uh, } [ [ when you, + when you  add something to your  life, ] +  when you add a plan to your life, ]  /
+sv          B.120 utt3: something else has to go away <laughter> -- /  
+
+b          A.121 utt1:  Uh-huh. /  
+
+sv(^q)       B.122 utt1:  -- {C and } that's the hard decision, is,  okay, if I'm going to run in the mornings, [ what am I, + what do I ] trade it off for.  /
+sd          B.122 utt2:  {D Well, } the answer's --   
+
+^2          A.123 utt1:  Sleep <laughter>. /  
+
++          B.124 utt1:  -- sleep, right.  /
+^q          B.124 utt2:  If I'm going to walk  at night, what do I trade it off for.  /
+sd          B.124 utt3: {D Well, } Star Trek -- /  
+
+b          A.125 utt1:  Uh-huh. /  
+
+sv          B.126 utt1:  -- {C or, } {D you know, } [ [ it, + it, ] + it's ]  always trade offs,  /
+sv          B.126 utt2: {C and } you actually --   
+
+b          A.127 utt1:  Yeah. /  
+
++          B.128 utt1:  -- [ have to, + as you get older you have to ]  really think what can go, and  what, [ [ to, + to, ] + to ] replace this thing.  /
+sv          B.128 utt2:  It's, {E I mean, } not just exercise, but  anything.  /
+sv          B.128 utt3:  It's --   
+
+b          A.129 utt1:  Right. /  
+
++          B.130 utt1:  -- very hard.  /
+sd          B.130 utt2: {C And, }  {F uh, }  [ I don't, + I don't ] think you should worry about not having a program yet. /  
+
+bf          A.131 utt1:  That'll come --   
+
+aa          B.132 utt1:  Yep. /  
+
++          A.133 utt1:  -- some day when I, -/  
+
+aa          B.134 utt1:  Yeah,  /
+sv           B.134 utt2: I guess if you care, or if  [ your wife, + your future wife, ] {F uh, } gives you a reason to care --   
+
+b          A.135 utt1:  Right. /  
+
++          B.136 utt1:  -- which helps <inhaling>. /  
+
+sd          A.137 utt1:  {D Well, } I hope so. /  
+
+sv^t          @@B.138 utt1:  <Inhaling>.  {D Well, } I think we covered it. /  
+
+aa          A.139 utt1:  Yeah,  /
+sv          A.139 utt2: sounds good. /  
+
+fc          B.140 utt1:  Nice talking with you, Craig. /  
+
+fc          A.141 utt1:  Yeah,  /
+fc          A.141 utt2: you too.  /
+fc          A.141 utt3: Have a nice day. /  
+
+fc          B.142 utt1:  You too.  /
+fc          B.142 utt2:  Good day. /  
+
+fc          A.143 utt1:  Bye. /  
+
+fc          B.144 utt1:  Bye. / 

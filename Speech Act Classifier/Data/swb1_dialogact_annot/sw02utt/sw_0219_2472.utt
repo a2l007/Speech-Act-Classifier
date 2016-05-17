@@ -1,0 +1,628 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2472_1233_1002
+TOPIC#:		306
+DATE:		910406
+TRANSCRIBER:	SK
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        This was fairly easy to transcribe.  There is a hum in the
+backgground of the tape on B's side.
+
+=========================================================================
+  
+
+o^c          A.1 utt1:  Perhaps this connection, - /
+^h          A.1 utt2: no,  /
+sd^c          A.1 utt3: it still echoes.  /
+%          A.1 utt4:  Okay, {F um, } /  
+
+qy          B.2 utt1:  Do you like to cook? /  
+
+sd          A.3 utt1:  I love it. /  
+
+sd          B.4 utt1:  I do too. /  
+
+%          A.5 utt1:  {F Uh, } /  
+
+sd          B.6 utt1:  [ It, + it's ] kind of hard to find time sometimes  /
+%          B.6 utt2: {C but, } -/  
+
+qy          A.7 utt1:  Do you work? /  
+
+ny          B.8 utt1:  Yes. /  
+
+qy^d          A.9 utt1:  {C And } have a family? /  
+
+ng          B.10 utt1:  {F Uh, } I don't have a family,  /
+sd          B.10 utt2: {C but } [ I, + I ] usually work about fifty hours a week  /
+sd          B.10 utt3: {C and, }   
+
+ba          A.11 utt1:  Oh! /  
+
++          B.12 utt1:  by the time I get home I'm so tired it's hard to cook a full meal. /  
+
+ba          A.13 utt1:  <Laughter> I expect so.  /
+sd          A.13 utt2: {F Uh, } {D well } for a dinner party, I think one of my favorite things is baked chicken and white wine. /  
+
+sd          B.14 utt1: [ That's, + that's ] really weird that you said that because for a dinner party, mine [ [ is, + is a, ] + is a ] chicken in a marsala wine sauce, /  
+
+b          A.15 utt1:  Oh # <laughter>. # /  
+
+qw          B.16 utt1:  # {C so } <laughter>. # Where did you get your recipe for it? /  
+
+sd          A.17 utt1:  {F Um, } <sigh> I guess mostly out of an international cookbook that I have. /  
+
+bk          B.18 utt1:  {F Oh, } okay.  /
+sd          B.18 utt2:  {D Well } mine actually came from the, {F um, } Texas Instruments Cafeteria. /  
+
+b          A.19 utt1:  Oh. /  
+
+%          B.20 utt1:  [ They, + they, ] -/  
+
+qy^d          A.21 utt1:  They have a T I plant in Texas, in Kingsport? /  
+
+ny          B.22 utt1:  Yeah,  /
+%          B.22 utt2: we have, - /
+sd          B.22 utt3: it's in Johnson City. /  
+
+b          A.23 utt1:  {F Oh, } uh-huh. /  
+
+sd          B.24 utt1:  {C And, }  {F um, } the cafeteria is real good about putting out recipes, {D you know, } {D like } once a month,  /
+sd          B.24 utt2: they'll put out a recipe of the month. /  
+
+b          A.25 utt1:  Uh-huh,  /
+ba          A.25 utt2: great. /  
+
+sd          B.26 utt1:  {C And } <static> [ they, + they ] put this one out  /
+sd          B.26 utt2: {C and } I tried it  /
+sd          B.26 utt3: {C and } it was really good. /  
+
+qy          A.27 utt1:  What [ is, + {F uh, } is ] a marsala wine a sweeter wine? /  
+
+ny          B.28 utt1:  Yeah,  /
+sd^e          B.28 utt2: a little bit sweeter. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sd          B.30 utt1:  {C And } [ [ it, + {F uh, } it's a, ] + it's a ] red wine. /  
+
+b          A.31 utt1:  Okay. /  
+
+sd          B.32 utt1:  {C And, }  {F uh, } I'm trying to think what else.  /
+sd          B.32 utt2:  [  I, + I ] roll it in bread crumbs and,  {F uh, } Parmesan cheese, /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  {C and, then } [ I rub it with a little bit, + I rub the chicken ] with a little bit of oil,   
+
+b          A.35 utt1:  Huh. /  
+
++          B.36 utt1:  and pour the wine sauce over it [ as, + ] like the last twenty minutes,    
+
+b          A.37 utt1:  Oh. /  
+
++          B.38 utt1:  so that it gets just enough flavor. /  
+
+sd          A.39 utt1:  {F Oh, } {C so } it kind of browns  /
+sd          A.39 utt2: {C and then } you put wine over it. /  
+
+b          B.40 utt1:  Right. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+x          B.42 utt1:  <Cough>.   
+
+ba          A.43 utt1:  That sounds real good. /  
+
+sd          B.44 utt1:  {C And, }  it's really easy too  /
+%          B.44 utt2: {C so, } -/  
+
+b          A.45 utt1:  Yeah. /  
+
+qw          B.46 utt1:  # What do you use  ((   )) ? # /  
+
+qw          A.47 utt1:  # What do you serve with it? # /  
+
+br          B.48 utt1:  Huh? /  
+
+qw^r          A.49 utt1:  What do you serve with it? /  
+
+sd          B.50 utt1:  I like to serve, {F um, } a wild rice with it. /  
+
+b          A.51 utt1:  Uh-huh.  /
+sd          A.51 utt2: That's what I do too # <laughter>. # /  
+
+ba          B.52 utt1:  # <Laughter> # This is really neat. /  
+
+x          A.53 utt1:  <Laughter>.   
+
+%          B.54 utt1:  {C And, }  I, - /
+sd          B.54 utt2: we're big broccoli fans. /  
+
+b          A.55 utt1:  Uh-huh <laughter>  /
+sd          A.55 utt2: that's what I've got.  /
+sd          A.55 utt3: <laughter> I've got steamed broccoli down on mine <laughter>. /  
+
+sv          B.56 utt1:  <Cough> {D Well, } [ I just, + I just ] don't think you can go wrong with something like that. /  
+
+aa          A.57 utt1:  No,  /
+sv          A.57 utt2: it's great.  /
+sd          A.57 utt3:  I've got a good dessert recipe. /  
+
+qw          B.58 utt1:  {F Oh, } what? /  
+
+qy          A.59 utt1:  {F Uh, } do you like angel food cake? /  
+
+ny          B.60 utt1:  Yes. /  
+
+sd          A.61 utt1:  I just break it up in a glass bowl, /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+ sd         A.63 utt1:  {C and then } I mix up, {F uh, } some cream cheese and a little bit of Amaretta wi-, and some cool whip, /  
+
+ba          B.64 utt1:  Wow. /  
+
+sd          A.65 utt1:  {C and } I make a thickened blueberry sauce  /
+sd          A.65 utt2: {C and } I layer it with, {F uh, } angel food cake and the blueberries and then that topping. /  
+
+bh          B.66 utt1:  What time should we be there?  <laughter>. /  
+
+x          A.67 utt1:  <Laughter>.   
+
+ba          B.68 utt1:  That sounds wonderful <cough>. /  
+
+sv          A.69 utt1: [ It is, + it's ] great. /  
+
+sd          B.70 utt1:  I love desserts,  /
+sd          B.70 utt2: {C but } since there's only two of us,   
+
+b          A.71 utt1:  Uh-huh. /  
+
++          B.72 utt1:  it's really, - /
+sd          B.72 utt2: [ I, + I ] try to avoid making anything that, too fancy, that,     
+
+b          A.73 utt1:  Right. /  
+
++          B.74 utt1:  we'd like too much and eat too much <laughter>. /  
+
+sd          A.75 utt1: [ I know, + I know ] what you mean.  /
+sd          A.75 utt2:  We don't eat desserts much any more. /  
+
+sd          B.76 utt1:  {C But } [ I, + I ] guess one [ that, + that ] I really like, that I haven't made in awhile,  /
+sd          B.76 utt2: {C and } [ it's, + it's ] called a fruit pizza. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  {C And } you take a, {F uh, } sugar cookie, {F uh, } recipe,    
+
+b          A.79 utt1:  Uh-huh. /  
+
++          B.80 utt1:  [ and, +  and ] spread it out on a pizza pan.  /
+sd          B.80 utt2:  {C So } you make it like a pizza crust,  /
+sd          B.80 utt3: {C and then } [ you, + you ] bake that  /
+sd          B.80 utt4: {C and then } you, {F um, } take things like kiwi,   
+
+b          A.81 utt1:  Uh-huh. /  
+
++          B.82 utt1:  and strawberries and bananas and whatever fresh fruit you want  /
+sd          B.82 utt2: {C and } [ you mix that with, + {F um, } <cough> {E excuse me, } you use ] cream cheese and a little bit of orange juice  /
+sd          B.82 utt3: {C and } I can't remember what else is in it  /
+sd          B.82 utt4: {C and } you make kind of a glaze, /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  {C and then } you layer your fresh fruit on that. /  
+
+qy^d          A.85 utt1:  {F Oh, } and pour that over it? /  
+
+ny         B.86 utt1:  Yeah. /  
+
+ba          A.87 utt1:  That sounds great. /  
+
+sv          B.88 utt1:  It is really good,  /
+sd          B.88 utt2: {C and } [ it, +   
+
+ba          A.89 utt1:  It would be pretty. /  
+
++          B.90 utt1:  it's ] real light  /
+%          B.90 utt2: {C and } it, - /
+sd          B.90 utt3: depending on the fruit you use [ it's, +  {D you know, } it's ] real colorful. /  
+
+b          A.91 utt1:  Right.  /
+b          A.91 utt2: # Yeah. # /  
+
+sd          B.92 utt1:  # Especially # with {D like } the kiwi and the strawberries. /  
+
+b          A.93 utt1:  Right.  /
+sv          A.93 utt2:  That would be pretty. /  
+
+sd          B.94 utt1:  [ {C So, } + {C but } ] usually I just opt for brownies and vanilla ice cream <laughter> <cough> <static>. /  
+
+sd          A.95 utt1:  <Laughter> We've been fixing something lately that, {D well } - /
+sd          A.95 utt2: we've been cooking a lot of,   
+
+x          B.96 utt1:  <Static>.   
+
++          A.97 utt1:  turkey breasts.    
+
+b          B.98 utt1:  Uh-huh. /  
+
++          A.99 utt1:  Because it's low fat. /  
+
+b          B.100 utt1:  Yeah,  /
+sv          B.100 utt2: it's just so much better for you. /  
+
+sd          A.101 utt1:  {C And } I've been making a hot sandwich.  /
+sd          A.101 utt2: I toast a piece of whole wheat bread,    
+
+b          B.102 utt1:  Uh-huh. /  
+
++          A.103 utt1:  and then put the turkey on it and then slices of the low fat Swiss cheese  /
+sd          A.103 utt2: {C and then } I make a little honey mustard dressing and put over it,   
+
+b          B.104 utt1:  Oh! /  
+
++          A.105 utt1:  and pop it in the microwave. /  
+
+ba          B.106 utt1:  That sounds great. /  
+
+sv          A.107 utt1:  It is delicious. /  
+
+x          B.108 utt1:  <Cough>.   
+
+sd          A.109 utt1:  I wouldn't mind serving that to anybody. /  
+
+aa          B.110 utt1:  No,  /
+sd          B.110 utt2: {C and } [ that's some-, + that's something ] that just, {D you know, } [ it + ] doesn't take a long time to fix, /  
+
+aa          A.111 utt1:  No. /  
+
+sv          B.112 utt1:  it's really good,  /
+sv          B.112 utt2: {C and } it's really good for you. /  
+
+b          A.113 utt1:  Yeah,  /
+sd          A.113 utt2: it's real quick. /  
+
+sd          B.114 utt1:  {C And } we eat out a lot  /
+sv          B.114 utt2: {C and } there are sometimes you just don't feel like  eating out, /  
+
+b          A.115 utt1:  Right. /  
+
+sd          B.116 utt1:  {C and } I wish I had something a little bit different,   
+
+b          A.117 utt1:  Uh-huh. /  
+
++          B.118 utt1:  to just <noise> <<sounds like she snaps her fingers>> zap together. /  
+
+b          A.119 utt1:  Yeah.  /
+%          A.119 utt2:  {D Well } ma-, -/  
+
+x          B.120 utt1:  <Cough>.   
+
+ad          A.121 utt1:  mix up a little, {F uh, } mayonnaise with some dijon mustard,   
+
+b          B.122 utt1:  Uh-huh. /  
+
++          A.123 utt1:  and honey until it just, - /
+sd          A.123 utt2: I mix it until it just tastes good # to me. # /  
+
+qy          B.124 utt1:  # I was # going to say, do you just mix it to taste? /  
+
+ny          A.125 utt1:  Uh-huh. /  
+
+bk          B.126 utt1:  Okay. /  
+
+b          A.127 utt1:  Yeah,  /
+sd          A.127 utt2: {C and } it's real good.  /
+sd          A.127 utt3:  {C And } it keeps in the refrigerator. /  
+
+qw          B.128 utt1:  How long, does it keep,  /
+%          B.128 utt2: do you, {D well } - /
+qy^d          B.128 utt3: you wouldn't # have to make, # -/  
+
+sd          A.129 utt1:  # {F Oh, } it keeps # a long time. /  
+
+b          B.130 utt1:  Yeah,  /
+sd          B.130 utt2: {C and } you wouldn't have to mix that much together even. /  
+
+aa          A.131 utt1:  No,  /
+aa          A.131 utt2: uh-huh,  /
+sd          A.131 utt3: it keeps a long time. /  
+
+fa          B.132 utt1:  <Cough> I'm sorry I keep coughing.  /
+sd          B.132 utt2:  I've had a bad cold. /  
+
+b          A.133 utt1:  Oh.  /
+sd          A.133 utt2: {C And } I put a little, {F um, } {F oh, } yogurt in it too. /  
+
+qy^d          B.134 utt1:  # Plain?  /
+qy^d          B.134 utt2: Plain yogurt? # /  
+
+%          A.135 utt1:  # If I, - /
+na^m          A.135 utt2: just plain # yogurt.  /
+sd          A.135 utt3:  It gives it a little tang. /  
+
+ba          B.136 utt1:  I'll bet that is really good. /  
+
+sv          A.137 utt1:  It makes a great sandwich. /  
+
+fe          B.138 utt1:  Man,  /
+sd          B.138 utt2: I'm going to have to think of that.  /
+sd          B.138 utt3:  We're getting company tonight, /  
+
+b          A.139 utt1:  {F Oh, }  (( are you ))  <laughter>. /  
+
+sd          B.140 utt1:  {C and } I have been debating what to cook because one of my guests is a vegetarian. /  
+
+b          A.141 utt1:  {F Oh, } yeah,  /
+sv          A.141 utt2: that's kind of hard. /  
+
+%          B.142 utt1:  {C So, }  we're going to, - /
+sd          B.142 utt2: I think we'll try to do something a little bit, - /
+sd          B.142 utt3: we might try [ [ to, + to, ] + {F um, } to ] grill some flounder or salmon steaks. /  
+
+qy^d          A.143 utt1:  They'll eat fish? /  
+
+b          B.144 utt1:  Yeah. /  
+
+sd          A.145 utt1:  She'll eat fish. /  
+
+%          B.146 utt1:  {C And, }  I usually, - /
+sd          B.146 utt2: when they come down I'll grill those --   
+
+b          A.147 utt1:  Uh-huh. /  
+
++          B.148 utt1:  -- and brush on a little lemon butter sauce  /
+sd          B.148 utt2: {C and, }  {F um, } definitely go with, it will have to be a rice dish --   
+
+b          A.149 utt1:  Right,  /
+b          A.149 utt2: uh-huh,  /
+ba          A.149 utt3: that sounds good. /  
+
++          B.150 utt1:  -- lots of vegetables,    
+
+x          A.151 utt1:  <Laughter>.   
+
++          B.152 utt1:  to make up for the lack of meat. /  
+
+ aa         A.153 utt1:  Right.  /
+sd          A.153 utt2: I had a recipe from that, {F um, } INTERNATIONAL COOKBOOK TWO, that's a great salad in summertime.  /
+qy          A.153 utt3:  [ Do you, + do you ] garden or not? /  
+
+nn          B.154 utt1:  No  /
+sd^e          B.154 utt2: we don't,  /
+sd          B.154 utt3: our next door neighbors do  /
+sd          B.154 utt4: {C and } [ some, +  a lot  of ] times they'll give us something. /  
+
+bk          A.155 utt1:  Okay.  /
+sd          A.155 utt2:  ((   ))  it's just sliced tomatoes  /
+sd          A.155 utt3: {C and } I put it on a glass plate because it looks real pretty.    
+
+b          B.156 utt1:  Yeah. /  
+
++          A.157 utt1:  Sliced tomatoes and then green pepper strips,   
+
+ba          B.158 utt1:  Oh! /  
+
++          A.159 utt1:  just over it,    
+
+b          B.160 utt1: Uh-huh. /  
+
++          A.161 utt1:  and some red onion slices,   
+
+b          B.162 utt1:  Uh-huh. /  
+
++          A.163 utt1:  and just a little bit of, {F um, } basil,   
+
+b          B.164 utt1:  Okay. /  
+
++          A.165 utt1:  and then a little Italian dressing over it.  /
+sd          A.165 utt2:  {C And } everybody loves it  /
+sd          A.165 utt3: {C and } it's so easy,  /
+sd          A.165 utt4: {C and } it's delicious.  /  
+
+sd          B.166 utt1:  That's what I was just thinking,  /
+sd          B.166 utt2: it doesn't sound like [ it, + it ] would be hard at all. /  
+
+b          A.167 utt1:  Huh-uh,  /
+sd          A.167 utt2: it isn't. /  
+
+qw          B.168 utt1:  # where did you get, # /  
+
+sd          A.169 utt1:  # {C And } you can put some # cucumber slices on too. /  
+
+qw          B.170 utt1:  where did you get this cook book? /  
+
+sd          A.171 utt1:  <Laughter> I got it at the Checkbook Store. /  
+
+ba          B.172 utt1:  Really! /  
+
+sd          A.173 utt1:  {C And, }  it's got [ beaut-, + all these beautiful ] pictures,   
+
+x          B.174 utt1:  <Cough>.   
+
++          A.175 utt1:  in there that are inspiring.  /
+sd          A.175 utt2:  <noise> It's going to say, {F uh, } edited by Charlotte Turgeon, editor of, - /
+sd          A.175 utt3: I'm not french,   (( LaRoute,   
+
+x          B.176 utt1:  <Laughter>.   
+
++          A.177 utt1:  Gastro LaMink ))  /
+sd          A.177 utt2:  the creative cooking course. /  
+
+sd          B.178 utt1:  I'll might have to visit the State Book Store. /  
+
+sd          A.179 utt1:  <Laughter> I'm trying to see who it's published by, Ottenheimer,  /
+sd          A.179 utt2: I've never heard of it. /  
+
+sd          B.180 utt1:  I haven't either. /  
+
+sd          A.181 utt1:  This edition is published by Bonanza Books. /  
+
+b          B.182 utt1:  Okay.  /  
+
+ba          A.183 utt1:  It's a big book  /
+sd          A.183 utt2: {C but } it was not expensive. /  
+
+sd          B.184 utt1:  {D Well, } the ones that [ I've been, + I've been ] wanting to get, {F um, } - /
+qy^d          B.184 utt2: I guess you've seen the THREE HUNDRED SIXTY-FIVE WAYS TO COOK CHICKEN,   
+
+b          A.185 utt1:  Uh-huh. /  
+
++          B.186 utt1:  and the THREE HUNDRED SIXTY-FIVE WAYS TO COOK PASTA, /  
+
+b          A.187 utt1:  Uh-huh. /  
+
+sd          B.188 utt1: [ I've been, + I've been ] wanting to get those because we eat a lot of chicken, /  
+
+b@          A.189 utt1:  Uh-huh.   
+
+sd          B.190 utt1: {C and } we do eat a lot of pasta. /  
+
++@          A.191 utt1:  We do too.  /
+aa          A.191 utt2: Yeah <noise>. /  
+
+sd          B.192 utt1:  {D So, } [ we, + we ] just said the other night it wouldn't be too difficult [ to be, + to do ] without red meat. /  
+
+ba          A.193 utt1:  That's right.  /
+sv          A.193 utt2:  I don't think it would. /  
+
+sd          B.194 utt1:  {D You know, } we don't have that much of it now.  /
+sd          B.194 utt2:  As long as we have plenty of vegetables,   
+
+b          A.195 utt1:  Uh-huh. /  
+
++          B.196 utt1:  and lots of chicken. /  
+
+sd          A.197 utt1:  I stir fried some the other night though.  /
+sd          A.197 utt2:  Some, {F uh, } beef and broccoli strips,  /
+sd          A.197 utt3: it was good,  /
+sd          A.197 utt4: {C but } it didn't have much beef in it <laughter>. /  
+
+b          B.198 utt1:  Yeah,  /
+sd          B.198 utt2: [ I've got a, + I've got a ] Wok that we don't use near as often as we used to. /  
+
+b          A.199 utt1:  Uh-huh. /  
+
+sd          B.200 utt1:  We used to stir fry a lot, especially, {F um, } a lot of chicken [ and, + and ] a lot of rice dishes. /  
+
+b          A.201 utt1:  Uh-huh,  /
+sd          A.201 utt2: it just takes the time to cut everything up. /  
+
+b          B.202 utt1:  Yeah.  /
+sd          B.202 utt2: {C But } usually [ [ if I'm, + if I'm, ] + if I ] take a day off or on the weekend especially, I try to # cook, #    
+
+^2          A.203 utt1:  # Cook. # /  
+
++          B.204 utt1: [ real, + real ] food. /  
+
+b          A.205 utt1:  Uh-huh <laughter>. /  
+
+sd          B.206 utt1:  {C And } at least cook a couple of dishes ahead. /  
+
+b          A.207 utt1:  Right. /  
+
+sd          B.208 utt1:  {C So } that we can have those to enjoy. /  
+
+b          A.209 utt1:  Uh-huh. /  
+
+%          B.210 utt1:  {D So, } -/  
+
+sd          A.211 utt1:  One of my daughters sent me a COLORADO COOK BOOK, put out by the Junior League of Denver. /  
+
+b          B.212 utt1:  Uh-huh. /  
+
+qy          A.213 utt1:  Have you ever seen any put out by Junior Leagues? /  
+
+ny          B.214 utt1:  Yes.  /
+sd^e          B.214 utt2:  Cause, # we have [ some, # +   
+
+sv          A.215 utt1:  # they are great. # /  
+
++          B.216 utt1:  some ] local ones. /  
+
+b          A.217 utt1:  Uh-huh. /  
+
+sd          B.218 utt1:  {C And } we have a share alike column in the paper,   
+
+b          A.219 utt1:  Uh-huh. /  
+
++          B.220 utt1:  where people, {D you know, } write in and share recipes or write in and say I'm looking for this recipe, /  
+
+b          A.221 utt1:  Uh-huh.  /
+b          A.221 utt2: Right. /  
+
+sd          B.222 utt1:  {C and } that's where I get a lot of my recipes. /  
+
+b          A.223 utt1:  Yeah.  /
+qy^g          A.223 utt2: They are [ good, + usually good ] aren't they? /  
+
+ny          B.224 utt1:  Yes.  /
+sd          B.224 utt2:  {C And } [ I got, + I got ] a real good one from a doctor's office one time. /  
+
+b          A.225 utt1:  {F Oh, } is that right,  /
+qw          A.225 utt2: what was that?  <noise>. /  
+
+sd          B.226 utt1: [ It's, + {F uh, } it's ] a baked bean recipe. /  
+
+b          A.227 utt1:  Uh-huh </noise>. /  
+
+sd          B.228 utt1:  {C And, }  you mix baked beans and Lima beans  /
+sd          B.228 utt2: {C and, }  {F uh, } let's see, # I guess, # -/  
+
+qy          A.229 utt1:  # You buy # the [ canned baked, + canned baked ] beans? /  
+
+ny          B.230 utt1:  Yeah.  /
+sd          B.230 utt2:  Just mix the canned beans together,    
+
+b          A.231 utt1:  Uh-huh. /  
+
++          B.232 utt1:  and brown sugar and molasses and bake them in catsup, {D you know, } /  
+
+b          A.233 utt1:  Uh-huh. /  
+
+sd          B.234 utt1: [ {C and, } + {C and } ] you just bake it.  /
+sd          B.234 utt2: {C And } [ it's just, + it's like ] [ a, + a ] spicier baked bean dish. /  
+
+ba          A.235 utt1:  {F Oh, } that sounds <noise>. -/  
+
+sd          B.236 utt1:  {C And, }  you can add hamburger if you want,   
+
+b          A.237 utt1:  Uh-huh. /  
+
++          B.238 utt1:  to give it # a little more body. # /  
+
+ba          A.239 utt1:  # That sounds good. # /  
+
+sv          B.240 utt1:  {C So, } [ I, + I ] try to always keep my eyes open [ and + ] because a lot of time you can [ find, + find ] really good recipes where you wouldn't even think about it. /  
+
+b          A.241 utt1:  Right <laughter>. /  
+
+sd          B.242 utt1:  {C So, }  I try to always keep a little notebook in my purse. /  
+
+b          A.243 utt1:  Uh-huh.  /
+sd          A.243 utt2:  Jot them down, {F huh? } /  
+
+%          B.244 utt1:  {C But, }  it's been, -/ 

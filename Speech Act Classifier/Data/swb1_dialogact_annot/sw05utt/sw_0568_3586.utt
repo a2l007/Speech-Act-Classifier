@@ -1,0 +1,415 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3586_1349_1455
+TOPIC#:		364
+DATE:		911218
+TRANSCRIBER:	GL
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+==========================================================================
+  
+
+fa          A.1 utt1:  I'm sorry, {F um } -- /  
+
+bd          B.2 utt1:  That's okay,  /
+sd^c          B.2 utt2: I didn't hear. /  
+
+sd          A.3 utt1:  -- hobbies. /  
+
+b          B.4 utt1:  Okay. /  
+
+^h          A.5 utt1:  Let me see,  /
+sd^t          A.5 utt2: I don't know if that took or not,  /
+cc^t          A.5 utt3: I'll do it again. /  
+
+b          B.6 utt1:  Okay. /  
+
+%          A.7 utt1:  <Beep> Okay.  /
+qw          A.7 utt2: What are your hobbies?  /
+qy^g          A.7 utt3:  I hear you have kids, right? /  
+
+sd          @B.8 utt1:  You heard her in the background <laughter>.  /
+sd          @B.8 utt2: That's babies. /  
+
+qy^g          A.9 utt1:  <Laughter> That's your full time, {F uh, } hobby, right? /  
+
+na          B.10 utt1:  Takes a lot of time, {F huh. }  /
+sd          B.10 utt2: I like, {F uh, } most sports.  /
+sd          B.10 utt3: I like to do that.  /
+sd          B.10 utt4:  I kind of like to do a little bit of sewing. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1:  {F Oh, } little bit of embroidery work, once in a while. /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+qo          B.14 utt1:  What do you like to do? /  
+
+sd          A.15 utt1:  {F Um, } I try to do some painting, although I'm not very good at it <laughter>. /  
+
+ba          B.16 utt1:  {D Well, } I'm sure you probably are. /  
+
+bd          A.17 utt1:  {D Well, } no,  /
+bd          A.17 utt2: not <laughter> really. /  
+
+sv          B.18 utt1:  <Laughter> You like it,  /
+sv          B.18 utt2: that's the main  ((   )) . -/  
+
+aa          A.19 utt1:  Yeah,  /
+sd          A.19 utt2: [ [ I, + I   have, ] + {D you know, } I inherited ] the genes that make me think I'm creative,   
+
+x          B.20 utt1:  <Laughter>. 
+
++          A.21 utt1:  but not the ones that give me the ability to be. /  
+
+aa          B.22 utt1:  That's right. /  
+
+sd          A.23 utt1:  {C So, } I always try. /  
+
+x          B.24 utt1:  <Laughter>.   
+
+sd          A.25 utt1:  [ I, + I  ] do some sewing, mostly out of necessity.  /
+sd          A.25 utt2: {F Um, } I'm making drapes for my house, just because I'm, -/  
+
+ba          B.26 utt1:  {F Oh, } boy, that's hard sewing. /  
+
+aa          A.27 utt1:  Yeah,  /
+aap          A.27 utt2: {D well, } it isn't and it is.  /
+%          A.27 utt3:  It is, {D you know, } - /
+sd          A.27 utt4: actually the sewing isn't the hard part,  /
+sv          A.27 utt5: it's just being able to lay out the material and measure it --    
+
+bf          B.28 utt1:  Measure it and get it to, -/  
+
++          A.29 utt1:  -- because you need so much room. /  
+
+aap          B.30 utt1:  {D Well, } [ if + ] [ it, + it  ] depends on how elaborate you get it.  /
+sv          B.30 utt2:  If you get pleats and  all kinds of, -/  
+
+aa          A.31 utt1:  Yeah,  /
+sd          A.31 utt2: I've been doing that  /
+%          A.31 utt3: {C and, }    
+
+ba          B.32 utt1:  That's a lot of work. /  
+
++          A.33 utt1:  That, - /
+aa          A.33 utt2: yeah,  /
+%          A.33 utt3: that, - /
+sd          A.33 utt4: {C but } usually have to do the pleats by hand.  /
+sd          A.33 utt5:  {C So } that, at least --   
+
+b          B.34 utt1:  Oh. /  
+
++          A.35 utt1:  -- I can do, {D you know, } watching T V or whatever  /
+%          A.35 utt2: {C but, } -/  
+
+b          B.36 utt1:  Right,  /
+b          B.36 utt2: right. /  
+
+b          A.37 utt1:  Yeah,  /
+sd          A.37 utt2: {C and } [ I've, + I've  ] gone and, {D you know, } put the needle through my thumb a few times <laughter>,    
+
+x          B.38 utt1:  <Laughter>.  
+
++          A.39 utt1:  trying to get it through  /
+%          A.39 utt2: {C but, } -/  
+
+ba          B.40 utt1:  That feels really good. /  
+
+aa          A.41 utt1:  Yeah,  /
+sd          A.41 utt2: {C so } that's not really my favorite thing to do or anything, but [ I, + I  ] need to do it. /  
+
+aa^m          B.42 utt1:  To do it,  /
+aa          B.42 utt2: right. /  
+
+sd          A.43 utt1: [ I have, + let's see, I have ] a dog, and a lot of fish.  /
+sd          A.43 utt2: Keeping fish, I guess --   
+
+b^m          B.44 utt1:  Keeping fish  ((   )) . -/  
+
++          A.45 utt1:  -- is my biggest hobby. /  
+
+sv          B.46 utt1:  {D Well, } they're probably easier than keeping dogs, though, aren't they. /  
+
+aap          A.47 utt1:  {F Um, } yes and no.  /
+sd          A.47 utt2: It depends on how frequently they die, and --   
+
+ba          B.48 utt1:  {F Oh, } no. /  
+
++          A.49 utt1:  -- how much that bothers you. /  
+
+b^m          B.50 utt1:  How much that bothers you,  /
+sv          B.50 utt2: {C and } you probably have to clean out the tank too. /  
+
+%          A.51 utt1:  That's, - /
+arp          A.51 utt2: you don't have to do as much [ as, + as  ] I thought.  /
+%          A.51 utt3:  In fact, my problem, - /
+sd          A.51 utt4: I had fish as a kid  /
+sd          A.51 utt5: {C and } they always died --   
+
+ba          B.52 utt1:  {F Oh, } no. /  
+
++          A.53 utt1:  -- immediately,  /
+sv          A.53 utt2: {C and, } [ what, I'm, + what I  ] think now is the reason is I kept the tank too clean -- /  
+
+ba          B.54 utt1:  {F Oh, } you're kidding -- /  
+
+%          A.55 utt1:  -- {C because } you have, -/  
+
+bf          B.56 utt1:  -- {C because } they need to have a little bit of the, -/  
+
+aa          A.57 utt1:  Right,  /
+sv          A.57 utt2: you need to let the bacteria build up,  /
+sv          A.57 utt3: {C and then } it keeps all the chemicals in balance. /  
+
+b          B.58 utt1:  I see. /  
+
+sd          A.59 utt1:  {C And } I would just take everything out and just {D like, } {D you know, } wash it with scalding hot water -- /  
+
+ba          B.60 utt1:  {F Oh, } no. /  
+
+sd          A.61 utt1:  -- {C and } it would kill all the bacteria,  /
+sd          A.61 utt2: {C and } that would screw up all the chemical cycles again -- /  
+
+bf          B.62 utt1:  {C And so }  you'd have to --   
+
+%         A.63 utt1:  -- {C so. } -/  
+
++          B.64 utt1:  -- start all over --   
+
+aa          A.65 utt1:  Right. /  
+
++          B.66 utt1:  -- to build that up probably. /  
+
+aa          A.67 utt1:  That's right.  /
+sd          A.67 utt2:  {C So } now [ only, + I only  ] clean things to make things look more aesthetically pleasing -- /  
+
+aa          B.68 utt1:  Right,  /
+aa          B.68 utt2: right. /  
+
+sd          A.69 utt1:  -- {C and } I don't try and sterilize things <laughter>. /  
+
+bf          B.70 utt1:  Don't go through the whole nine yards  /
+sv          B.70 utt2: {C and } --    
+
+aa          A.71 utt1:  That's right. /  
+
++          B.72 utt1:  -- they kind of need a little bit of that. /  
+
+aa          A.73 utt1:  That's right. /  
+
+bf          B.74 utt1:  {C So } you've had fish for a long time. /  
+
+%          A.75 utt1:  {D Well, } I've had them, - /
+sd          A.75 utt2: I guess it's been two years now I've had [ a, + a  ] tank here,  /
+sd          A.75 utt3: {C and then } back at home I used to have a small, {D you know, } five gallon tank.   /
+sd          A.75 utt4: {C But } that never worked well.  /
+%@          A.75 utt5: {C And, }   *[[slash error]]
+
+qw          B.76 utt1:  What size do you have now? /  
+
++          A.77 utt1:  I have fifty-five gallons now. /  *[[sd]]
+
+ba          B.78 utt1:  {F Oh, } that's a good size. /  
+
+sd          A.79 utt1:  It's a lot easier. /  
+
+qy          B.80 utt1:  Have you ever had it, {F uh, } crack or break or leak. /  
+
+nn          A.81 utt1:  No <laughter>. /  
+
+x          B.82 utt1:  <Laughter>  ((   )) .  
+
+nn          A.83 utt1:  No,  /
+sd^e          A.83 utt2: not yet. /  
+
+sv          B.84 utt1:  Fifty-five gallons, you'd hope it would never do that. /  
+
+aa          A.85 utt1:  That's right,  /
+sd          A.85 utt2: I really do.  /
+%          A.85 utt3:  {C But, } {D you know. } -/  
+
+qy          B.86 utt1:  Do you have all kinds of different fish  /
+%          B.86 utt2: {C or, } -/  
+
+ny          A.87 utt1:  Yeah,  /
+sd^e          A.87 utt2: I just have, {D you know, } what they call community fish --   
+
+b          B.88 utt1:  Uh-huh. /  
+
++          A.89 utt1:  -- guppies, and platies [ and, + and  ] basic things.  /
+sd          A.89 utt2: I don't get into the -- -/  
+
+^2          B.90 utt1:  Real exotic. -/  
+
+aa          A.91 utt1:  -- right,  /
+aa          A.91 utt2: right.  /
+sd          A.91 utt3:  The expensive ones. /  
+
+sv          B.92 utt1:  {D Well, } they're probably [ hardy, + harder  ] to take care of  /
+%          B.92 utt2: {C and, } -/  
+
+aa          A.93 utt1:  They are.  /
+sd          A.93 utt2: They're very expensive  /
+sv          A.93 utt3: {C and, } {D you know, } [ when you die, it's like, + when they die it's   more like ] an investment. /  
+
+b          B.94 utt1:  Yes,  /
+ba          B.94 utt2: I bet it is. /  
+
+sv          A.95 utt1:  You lost an investment  /
+%          A.95 utt2: {C so, } -/  
+
+qy          B.96 utt1:  Do you have problems with [ them, + {F uh, } the fish  ] eating each other? /  
+
+nn          A.97 utt1:  No,  /
+sd^e          A.97 utt2: not really.  /
+sd          A.97 utt3:  Only if there's baby fish. /  
+
+b          B.98 utt1:  Right. /  
+
+sd          A.99 utt1:  You always have to isolate those. /  
+
+%          B.100 utt1:  Then you have to, - /
+qw          B.100 utt2: how do you isolate them? /  
+
+sd          A.101 utt1:  You get a -- -/  
+
+qy^d          B.102 utt1:  A jar or something  /
+%          B.102 utt2: {C or. } -/  
+
+nn          A.103 utt1:  -- {D well, } no,  /
+sd^e          A.103 utt2: they have breeders. /  
+
+bk          B.104 utt1:  Okay. /  
+
+sd          A.105 utt1:  It's a little plastic things that sort of floats -- /  
+
+b          B.106 utt1:  Okay. /  
+
+sd          A.107 utt1:  -- {C and } you put the mother fish in there  /
+sd          A.107 utt2: {C and then } it's got {D like } a trough underneath her -- /  
+
+b          B.108 utt1:  Okay. /  
+
+sd          A.109 utt1:  -- {C so } as the babies come out they fall down in the trough  /
+sd          A.109 utt2: {C and } there's a hole in the middle so they fall into the bottom part of the chamber --    
+
+b          B.110 utt1:  Oh. /  
+
++          A.111 utt1:  -- so the mother can't get to them either.  /
+%          A.111 utt2: {C And } that's, {D you know, } - /
+sd          A.111 utt3: it kind of works,  /
+sd          A.111 utt4: {C but } it's also got slots in it so the water can circulate -- /  
+
+b          B.112 utt1:  Right. /  
+
+sd@          A.113 utt1:  -- {C and } on occasion if you get a real small one,  /  *[[slash error; one utt with utt2]]
+sd          A.113 utt2: it'll fit out the slots. /  
+
+bf^m          B.114 utt1:  It'll go through the slot. /  
+
+aa          A.115 utt1:  That's right,  /
+sd          A.115 utt2: [ {C so. } + {C But, }  ] {D you know, } it works, I guess. /  
+
+qy^d          B.116 utt1:  That works all right then.  /
+bf          B.116 utt2:  They don't, {F uh, } want the mothers to be with the little fish either. /  
+
+sd          A.117 utt1:  {F Oh, } they'll eat them. /  
+
+qy^d          B.118 utt1:  They will. /  
+
+ny          A.119 utt1:  Yeah. /  
+
+qy          B.120 utt1:  Isn't that odd. /  
+
+ny          A.121 utt1:  Yes. /  
+
+sv          B.122 utt1:  You wouldn't think that. /  
+
+sd          A.123 utt1:  [ It, + {C and } it's  ] funny because the one I have, every single month without fail she has babies. /  
+
+ba          B.124 utt1:  You're kidding. /  
+
+aa          A.125 utt1:  {F Oh, } no.  /
+sd          A.125 utt2: All the time,  /
+%          A.125 utt3: {C and, } {F um, } I, - /
+%          A.125 utt4: {C and } she's supposed to, - /
+sd          A.125 utt5: her variety, it says they won't eat the babies,  /
+sd          A.125 utt6: {C and } I've seen her do it.  /
+%          A.125 utt7: {C So. } -/  
+
+qy^g          B.126 utt1:  {C And } that just makes you sick almost, doesn't it? /  
+
+%          A.127 utt1:  {F Oh, } it's ter-, - /
+sd          A.127 utt2: {D well, } it makes you understand that, {D you know, } things are different <laughter>. /  
+
+bf          B.128 utt1:  Things are different in the animal kingdom, {F huh. } /  
+
+sd          A.129 utt1:  [ We might, +  {D right. } We might ] decide what's proper and what isn't,  /
+sv          A.129 utt2: {C but } --   
+
+b          B.130 utt1:  Yeah. /  
+
++          A.131 utt1:  -- {D you know, } that's the way it is for them. /  
+
+bf          B.132 utt1:  That's kind of the way they do it. /  
+
+aa          A.133 utt1:  Yeah.  /
+aa          A.133 utt2:  That's it. /  
+
+bf          B.134 utt1:  Survival of the fittest or something. /  
+
+aa          A.135 utt1:  Yes,  /
+sd          A.135 utt2: {C because } if the baby is strong enough, it can swim away fast enough --   
+
+b          B.136 utt1:  Right. /  
+
++          A.137 utt1:  -- and go hide. /  
+
+bf          B.138 utt1:  Go hide from them,  /
+qh          B.138 utt2: {D well } --    
+
+%          A.139 utt1:  {D So. } -/  
+
++          B.140 utt1:  -- {C and then, } you think, {D well, } how did they do it out in the real world anyway --    
+
+b          A.141 utt1:  Yeah. /  
+
++          B.142 utt1:  -- when these fish are in the tropicals or wherever they are --   
+
+b          A.143 utt1:  Yeah,  /
+b^r          A.143 utt2: yeah. /  
+
++          B.144 utt1:  -- kind of trying to keep up with that,  /
+qy^d          B.144 utt2: {C but. }  If you're like me, you never have enough time for the hobbies. /  
+
+nn          A.145 utt1:  No,  /
+sd^e          A.145 utt2: not really. /  
+
+x          B.146 utt1:  <Laughter>.  
+
+sd          A.147 utt1:  [ I, + I  ] try.  /
+sd          A.147 utt2: [ I also, + I  ] play a couple of instruments. / 

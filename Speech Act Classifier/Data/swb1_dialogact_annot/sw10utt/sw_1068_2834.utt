@@ -1,0 +1,664 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2834_1043_1229
+TOPIC#:		329
+DATE:		910509
+TRANSCRIBER:	GLP
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	Speaker B used a few words that I just transcribed as best
+as I could -- uppiedom, swooshed.
+
+==========================================================================
+  
+
+sd          B.1 utt1:  {F Uh, } basically I'm at home  /
+sd          B.1 utt2: {C and } I have two cats --   
+
+b          A.2 utt1:  Uh-huh. /  
+
++          B.3 utt1:  -- and my husband,  /
+sd          B.3 utt2: {E I mean } my husband's great. /  
+
+b          A.4 utt1:  {F Oh, } uh-huh. /  
+
+sd          B.5 utt1:  It's wonderful,   
+
+b          A.6 utt1:  # Yeah. # /  
+
++          B.7 utt1:  # {D you # know, }  /
+sd          B.7 utt2: {C and, } {C and, } {F uh, } {C so } I'm about forty and whatever, /  
+
+b          A.8 utt1:  Uh-huh  /
+^2          A.8 utt2: <laughter>.  Around there, {F huh. } /  
+
+aa          B.9 utt1:  {C So, } yeah. /  
+
+sd          A.10 utt1:  {D Well, } [ you're, + you're ] just a youngster then <laughter>. /  
+
+b          B.11 utt1:  Yeah,  /
+sd          B.11 utt2: I'm just a --   
+
+ sd         A.12 utt1:  I passed <laughter> the fifty. /  
+
+ +         B.13 utt1:  -- spring chicken, I guess <laughter>. /  
+
+ sd^t         A.14 utt1:  <Laughter>  {C So, } I guess our topic's going to be changes in the women's roles,  /
+ sv^t         A.14 utt2: {C so } --   
+
+ %         B.15 utt1:  {D Well, } -/  
+
++          A.16 utt1:  -- it should be real interesting. /  
+
+b          B.17 utt1:  Righto <laughter>. /  
+
+qy          A.18 utt1:  {C So, } you think we're ready? /  
+
+na          B.19 utt1:  I think I'm ready <laughter>. /  
+
+bk          @A.20 utt1:  Okay <beep>  /
+bk^r          @A.20 utt2:  okay.  /
+ad          @A.20 utt3:  {F Uh, } you want to start off? /  
+
+aa^h          B.21 utt1:  {D Well, } let's see,  /
+^h          B.21 utt2: the changes I've seen in women's roles, {F uh, }  /
+sd          B.21 utt3: since I am in the forty age, I'm a fifties baby --   
+
+b          A.22 utt1:  Uh-huh. /  
+
++          B.23 utt1:  -- {F uh, }  /
+sv          B.23 utt2: {C and } from my mother's generation to my generation [ it's + [ just a very, very wide, + ] {F uh, } it's ] been a big change. /  
+
+aa          A.24 utt1:  Very much, yeah,  /
+b          A.24 utt2: yeah. /  
+
+aa^m          B.25 utt1:  Very much,  /
+sv          B.25 utt2: {C and } I think you'll have to agree  /
+sd          B.25 utt3: [ {C and } + --   
+
+b          A.26 utt1:  Yes. /  
+
++          B.27 utt1:  -- {C and } ] since we were in, {F uh, } sort of the ground level, the bra burning of the sixties, -/  
+
+ b         A.28 utt1:  # Uh-huh,  /
+b^r          A.28 utt2: uh-huh. # /  
+
+ sd         B.29 utt1:  # [ {C and, } + {C and } ] # we didn't really know what the agenda was going to be --   
+
+b          A.30 utt1:  Uh-huh. /  
+
++          B.31 utt1:  -- {F uh, }  /
+sv          B.31 utt2: {C and } I think, {D you know, } it got off to a really radical, - /
+sd          B.31 utt3: it has a radical fringe to it that, {F uh, } I've sort of backed away from. /  
+
+sv          A.32 utt1:  I think all things get started sometimes in that manner. /  
+
+b          B.33 utt1:  Yeah. /  
+
+sv          A.34 utt1:  {D You know, } they come in that way. /  
+
+sv          B.35 utt1:  {C And, } to make a change, {D you know, } you have to make a splash. /  
+
+b          A.36 utt1:  Uh-huh,  /
+b^r          A.36 utt2: uh-huh. /  
+
+sd          B.37 utt1:  {C But, } to continue in that vein, I think it got a little bit warped and off the track --   
+
+b          A.38 utt1:  Uh-huh. /  
+
++          B.39 utt1:  -- in several areas,  /
+sv         B.39 utt2: {C but } I really do think that women have made a contribution --   
+
+b          A.40 utt1:  Uh-huh. /  
+
+ +         B.41 utt1:  -- {F uh, } to human beings, {E I mean } to be human and what it's like and have feelings and emotions  /
+sv          B.41 utt2: {C and } it's okay  /
+sv          B.41 utt3: {C and } I think, {F uh, } {D you know } on the other hand, I don't know that men have changed that much.  /
+sv          B.41 utt4:  {C So } [ in, + in ] contrast to the women's changes, {F uh, } {D you know, } the men stay steady, /  
+
+b          A.42 utt1:  # Uh-huh. # /  
+
+sv          B.43 utt1:  # {C and # then } the women change around them. /  
+
+sd          A.44 utt1:  I hadn't thought much about that,  /
+ba          A.44 utt2: {C but } that is true.  /
+%          A.44 utt3:  That, -/  
+
+sv          B.45 utt1:  {F Uh, } I think men are trying. /  
+
+b          A.46 utt1:  Uh-huh.  /
+sv          A.46 utt2:  Some of them. /  
+
+sv          B.47 utt1:  {C But } they don't have a national organization of men,   
+
+b          A.48 utt1:  # No.  # /  
+
++          B.49 utt1:  # to, # {F uh, } help them out  /
+sv          B.49 utt2: {C and } --   
+
+b@          A.50 utt1:  No.   
+
++          B.51 utt1:  -- {F uh, } what's changing them, though, is the economic situation,   
+
++@          A.52 utt1:  # Uh-huh. # /  
+
++          B.53 utt1:  # where # [ both --   
+
+ba          A.54 utt1:  Very much. /  
+
++          B.55 utt1:  -- team, + ] it has to be a team partnership now, /  
+
+ b         A.56 utt1:  # Uh-huh. # /  
+
+sv          B.57 utt1:  # {C and } # they both have to work -- /  
+
+b          A.58 utt1:  Uh-huh. /  
+
+sv          B.59 utt1:  -- {C and } they both have to raise the children,   
+
+b          A.60 utt1:  # Uh-huh. # /  
+
++         B.61 utt1:  # if # we're going to have any kind of future at all, /  
+
+b          A.62 utt1:  # Uh-huh. # /  
+
+sv          B.63 utt1:  # [ {C and, } + # {C and } ] that, I think has been the downfall of the last ten years. /  
+
+b          A.64 utt1:  Uh-huh. /  
+
+%          B.65 utt1:  {D You know, } the me, {F oh, } - /
+h          B.65 utt2: I don't know,  /
+sv          B.65 utt3: [ the, + the ] yuppiedom,   
+
+b          A.66 utt1:  # Uh-huh. # /  
+
++          B.67 utt1:  # the # whatever it was, the, {D you know, } women didn't know how to go about doing the careers  /
+sv          B.67 utt2: {C and } they wanted to compete with men,  /
+sv          B.67 utt3: they wanted to be like  men, /  
+
+b          A.68 utt1:  # Uh-huh. # /  
+
+sv          B.69 utt1:  # {C and } # that's wrong. /  
+
+b          A.70 utt1:  Yeah. /  
+
+sv          B.71 utt1:  I think they finally discovered that they don't want to be like [ men, + men ]  /
+x          B.71 utt2: <laughter>,   
+
+%          A.72 utt1:  Not, - /
+b          A.72 utt2: no,  /
+sv          A.72 utt3: [ they, + they ] hurt themselves a little bit in that way. /  
+
+aa          B.73 utt1:  Absolutely,  /
+%          B.73 utt2: {C and so } that's, {D you know, } - /
+sv          B.73 utt3: they sort of threw the thing back another, {D you know, } ten years,   
+
+b          A.74 utt1:  # Uh-huh. # /  
+
++          B.75 utt1:  # that # they've had to, {D you know, } restructure,  /
+sd          B.75 utt2: {C but } I saw the greatest T-shirt the other day, /  
+
+x          A.76 utt1:  <Laughter>.   
+
+sd          B.77 utt1:  I got to get some for all my men friends, /  
+
+x          A.78 utt1:  # <Laughter>.  #   
+
+sd(^q)          B.79 utt1:  # it # says, let men run the world, women have more important things to do <laughter>. /  
+
+ba          A.80 utt1:  There you go <laughter>.  /
+ba          A.80 utt2:  There's a lot of truth in that. /  
+
+b          B.81 utt1:  Right. /  
+
+b          A.82 utt1:  Yeah. /  
+
+sv          B.83 utt1:  {C But, } {F uh, } I think men and women both have [ valuable, + valuable ] assets to offer -- /  
+
+b          A.84 utt1:  Uh-huh. /  
+
+%          B.85 utt1:  -- {C and, } {D you know, } we shouldn't, - /
+sd          B.85 utt2: we were made differently,   
+
+ba@          A.86 utt1:  # That's right.  #   
+
++          B.87 utt1:  # however you # come to that conclusion,  /
+sv          B.87 utt2: we were biologically, physiologically, made differently  /
+sv          B.87 utt3: {C and } there is great wonderment,   
+
++@          A.88 utt1:  # Uh-huh. # /  
+
++          B.89 utt1:  # in # that,  /
+sv          B.89 utt2: {C and, } {F uh, } {D you know, } we should respect that in each other  /
+%          B.89 utt3: {C so, } -/  
+
+aa          A.90 utt1:  Yes,  /
+sv          A.90 utt2: it shouldn't be destroyed. /  
+
+b          B.91 utt1:  Right. /  
+
+b          A.92 utt1:  Yeah,  /
+b^r          A.92 utt2: yeah. /  
+
+ sv         B.93 utt1: [ {C And, } + {C and, } ] {D you know, } just sort of all [ s-, + swooshed ] into one channel --   
+
+ b         A.94 utt1:  Uh-huh,  /
+b^r          A.94 utt2: uh-huh. /  
+
++          B.95 utt1:  -- sort of thing,  /
+sv          B.95 utt2: [ it's, + it's ] viva la difference <laughter>,   
+
+b          A.96 utt1:  # Yeah,  /
+b^r          A.96 utt2: yeah. # /  
+
++          B.97 utt1:  # someone said # that -- /  
+
+b          A.98 utt1:  Yeah. /  
+
+sv          B.99 utt1:  -- {C and } I think that you can truly respect the other person,  /
+sv          B.99 utt2: {E I mean, } {D you know, } Tom is just always saying, what a mystery you are, {D you know } <laughter>, {D you know. }  /
+%          B.99 utt3: Depends, -/  
+
+sv          A.100 utt1:  <Laughter>  {D Well, } that's kind of makes it exciting.    
+
+b          B.101 utt1:  Yeah. /  
+
++          A.102 utt1:  {D You know. } /  
+
+sd          B.103 utt1:  {D Well } that depends on what day of the month it is. /  
+
+b          A.104 utt1:  Yeah  /
+x          A.104 utt2: <laughter>.   
+
+h          B.105 utt1:  {C But, } {F uh, } I don't know,  /
+sv          B.105 utt2: I guess we've gotten more of a, - /
+sv          B.105 utt3: [ in, + in ] terms of that, I think we've got more of a sense of humor about each other --   
+
+b          A.106 utt1:  Uh-huh. /  
+
++          B.107 utt1:  -- and our roles,  /
+sd          B.107 utt2: [ {C and, } + {C but } ] it's still a challenge being in a marriage and  trying to figure out those roles  /
+%          B.107 utt3: {C and, } -/  
+
+sv          A.108 utt1:  I think now when both are working they have a [ more ch-, + more ] of a chance of working together because they're starting out that way. /  
+
+b          B.109 utt1:  Yeah,  /
+sv          B.109 utt2: {D well, } [ that's, + that's ] a very different way to do, -/  
+
+b          A.110 utt1:  # Yeah. # /  
+
+sv          B.111 utt1:  # {D you # know, } the woman doesn't start off at home,   
+
+b          A.112 utt1:  # Right. # /  
+
++          B.113 utt1:  # raising # the kids and goes back into her career, {D you know, }    
+
+b          A.114 utt1:  # Right. # /  
+
++@          B.115 utt1:  # twenty # years later.    
+
+b          A.116 utt1:  Yeah. /  
+
++@          B.117 utt1:  {F Uh, } /  
+
+sv          A.118 utt1:  Because you get set in your ways  /
+sv          A.118 utt2: {C and } it's,   
+
+ba@          B.119 utt1:  # You do.  #   
+
++          A.120 utt1:  # really hard # [ because + ] [ to, + to ] really to get help.    
+
++@          B.121 utt1:  Yeah. /  
+
++          A.122 utt1:  {F Uh, } [ d-, + ] {D you know } to get the work load shared. /  
+
+qy          B.123 utt1:   [ Are, +  are ] you married? /  
+
+ny          A.124 utt1:  Yes,  /
+ny          A.124 utt2: uh-huh.  /
+%          A.124 utt3:  Our, -/  
+
+qy          B.125 utt1:  Do you have children? /  
+
+na          A.126 utt1: [ I, + we ] have five children,  /
+sd          A.126 utt2: [ they're + <laughter>,   
+
+ba          B.127 utt1:  {F Oh, } my goodness. /  
+
++          A.128 utt1:  They're ] all grown and on their own  /
+%          A.128 utt2: {C so, } -/  
+
+ba          B.129 utt1:  {F Oh, } my. /  
+
+%          A.130 utt1:  They're, {F uh, } -/  
+
+qo          B.131 utt1:  How did you do? /  
+
+qo          A.132 utt1:  {F Uh, } how do you mean that? <Laughter>. /  
+
+sd          B.133 utt1:  {D Well, } {E I mean, } okay,  /
+qo          B.133 utt2: {D well } did you have boys, girls,  /
+%          B.133 utt3: how did, - /
+%          B.133 utt4: how, -/  
+
+sd          A.134 utt1:  {F Uh, } we have, {F uh, } two girls and three boys  /
+sd          A.134 utt2: {C and } [ our, +   
+
+ba          B.135 utt1:  # {F Oh, } my.  # /  
+
++          A.136 utt1:  # our ] baby # girl just had a baby girl <laughter>. /  
+
+ba          B.137 utt1:  {F Oh, } my. /  
+
+sd          A.138 utt1:  Last week was her first baby. /  
+
+ba          B.139 utt1:  {F Oh, } how exiting. /  
+
+ba          A.140 utt1:  {C So } it's been real exciting. /  
+
+fe          B.141 utt1: [ I, + I ] tell you what.  /
+sd          B.141 utt2:  I don't know what I would do without my friends having all their kids. /  
+
+b          A.142 utt1:  Uh-huh. /  
+
+sd          B.143 utt1:  I just love the babies -- /  
+
+b          A.144 utt1:  Uh-huh. /  
+
+sd          B.145 utt1:  -- [ {C and, } + {C and } ] since I'm sort of in a medical situation where I can't do that, it's, -/  
+
+ b         A.146 utt1:  Yeah.  /
+qy          A.146 utt2:  Have you been that way long? /  
+
+ng          B.147 utt1:  Just eight years,  /
+%          B.147 utt2: just -- -/  
+
+b^m          A.148 utt1:  Just eight years. /  
+
+sd          B.149 utt1:  -- the most important years of my life {D you know } <laughter>. /  
+
+sv          A.150 utt1:  [ That's, + that's ] a long eight years, though. /  
+
+aa          B.151 utt1:  Yeah,  /
+sd          B.151 utt2: it has been. /  
+
+b          A.152 utt1:  Uh-huh. /  
+
+sd          B.153 utt1: [  {C And, } + {F uh, } {C so } ] there have been major, major adjustments, /  
+
+b          A.154 utt1:  # Uh-huh. # /  
+
+ sd         B.155 utt1:  # {C but } # that's another story. /  
+
+b          A.156 utt1:  Uh-huh. /  
+
+sd          B.157 utt1:  {C But, } {D you know, } my husband has [ really, really filled in the gaps,  /
+sd          B.157 utt2: {E I mean } [ I, +   
+
+sv          A.158 utt1:  That makes a big difference. /  
+
++          B.159 utt1:  I ] couldn't ask for a better life. /  
+
+b          A.160 utt1:  Uh-huh. /  
+
+sv          B.161 utt1:  {E I mean } if this is the way it had to be,   
+
+b          A.162 utt1:  # Uh-huh. # /  
+
++          B.163 utt1:  # this # is the best way,   
+
+b          A.164 utt1:  # Uh-huh. # /  
+
++          B.165 utt1:  # I # could possibly do it  /
+sd          B.165 utt2: [ {C and, } + {C and } ] that has a lot to do with his strength and his, just pitching in [ and, + and ] his being able to, {D you know, } all, all ego aside, do a lot of things --   
+
+b          A.166 utt1:  Uh-huh,  /
+b^r          A.166 utt2: uh-huh. /  
+
++          B.167 utt1:  -- that really, - /
+sd          B.167 utt2: {C so, } when I say men haven't changed I guess I should look at my own backyard sort,   
+
+aa          A.168 utt1:  # Yes.  # /  
+
++          B.169 utt1:  # of # thing <laughter>  /
+%          B.169 utt2: {C and, } -/  
+
+sv          A.170 utt1:  {D Well, } probably your role - /
+sv          A.170 utt2: [ {C and, } + {C and } ] the way you are also has changed, though.    
+
+ba          B.171 utt1:  {F Oh, } yeah. /  
+
++          A.172 utt1:  {D You know, } compared to what it would have been twenty, fifty years ago. /  
+
+b          B.173 utt1:  Yeah,  /
+ba          B.173 utt2: that's true.  /
+fe          B.173 utt3:  {E I mean, } boy,  /
+sd          B.173 utt4: {E I mean } [ I, + I ] would have had so, - /
+sd          B.173 utt5: I had so  much guilt to begin with  /
+sd          B.173 utt6: {C and } the changes that had to take place, {D you know, }   
+
+b          A.174 utt1:  # Uh-huh. # /  
+
++         B.175 utt1:  # where # I couldn't do a lot of things --   
+
+b          A.176 utt1:  Uh-huh,  /
+b^r          A.176 utt2: uh-huh. /  
+
++          B.177 utt1:  -- and, {F uh, } just adjusting to that,   
+
+b          A.178 utt1:  # Uh-huh,  /
+b^r          A.178 utt2: uh-huh. # /  
+
++          B.179 utt1:  # [ that, + {F uh, } # {D yeah, }  that ] was a major change, /  
+
+b          A.180 utt1:  # Uh-huh. # /  
+
+sv          B.181 utt1:  # [ {C but } + # {C so, } ] I guess <breathing>,  {F uh, } in the end, {D you know, } you each take your own situation [ and you, + and you ] deal with it the best you can,  /
+sv          B.181 utt2: [ [ {C but } + --   
+
+b^m          A.182 utt1:  The best you can, yeah. /  
+
++          B.183 utt1:  -- {C but, } ] + {C but } ] women I think are a whole, {D you know } sort of riding the course,  /
+sv          B.183 utt2: [ they're, + they're ] got a little wobbly and a little shaky there,  /
+sv          B.183 utt3: I think the future of this whole thing is going to be what happens with the day care situation. /  
+
+%          A.184 utt1:  I, - /
+b          A.184 utt2: yeah,  /
+sd          A.184 utt3: that's the only thing I worry about is [ the, + the ] child's love and  security.  /
+ %         A.184 utt4: That, - /
+sv          A.184 utt5: I think that's being damaged, {F uh, }   
+
+sv          B.185 utt1:  # I think, #   
+
++          A.186 utt1:  # a lot.  # /  
+
++          B.187 utt1:  we're going to see a generation of kids that, {D you know, } are just going to be a little bit, {F uh, } <lipsmack>  {F oh, } not very nurturing. /  
+
+b          A.188 utt1:  Uh-huh. /  
+
+%          B.189 utt1:  I think, -/  
+
+aa          A.190 utt1:  I do, too.  /
+%          A.190 utt2: [  I, + I ] think, {F uh, } - /
+sv          A.190 utt3: {D now } [ some, + some ] women [ can, + can ] do both.  /
+sv          A.190 utt4:  They're very capable of working  /
+%          A.190 utt5: [ {C and, } + {C and, } ] -/  
+
+b          B.191 utt1:  Yeah,  /
+sd          B.191 utt2: {C but } I wish they weren't so many,  /
+sd          B.191 utt3: [ I, + I ] wish they weren't role models for everybody,   
+
+b          A.192 utt1:  # Uh-huh. # /  
+
++          B.193 utt1:  # because # it's so dangerous. /  
+
+aa          A.194 utt1: [ It, + it ] really is, yeah. /  
+
+sv          B.195 utt1:  It's dangerous for the woman, too, to think that she can do that  /
+sv          B.195 utt2:     {C and then } when she can't, {D you know, } the failure of that is,   
+
+b          A.196 utt1:  # Uh-huh. # /  
+
++          B.197 utt1:  # {D you # know, } her life sort of falls apart  /
+ sv         B.197 utt2: {C and } she doesn't know who she is  /
+%          B.197 utt3: {C and } she's, -/  
+
+sv          A.198 utt1:  {C So } many have to work to make a go of it, it seems, /  
+
+aa          B.199 utt1:  # Absolutely. # /  
+
+sd          A.200 utt1:  # {C or } # they say they do anyways,  /
+sv          A.200 utt2: [ {C and, } + {C but } ] I think ones that don't have to, the, - /
+sv          A.200 utt3: it's not as much of a stigma not to work as it was for a while there. /  
+
+sv          B.201 utt1:  {D Well, } {D you know, } [ I think [ that's, + that's ] really, + I think ] it depends on what part of the country you're in. /  
+
+ba          A.202 utt1:  {D Well, } that could be. /  
+
+sd          B.203 utt1:  {F Uh, } [ I, + I ] would almost just say that because, {D you know, } down here in the south --   
+
+b          A.204 utt1:  Uh-huh,  /
+b^r          A.204 utt2: uh-huh. /  
+
++          B.205 utt1:  -- {D you know, } a woman's role is,   
+
+%          A.206 utt1:  # {F Uh. }  # /  
+
++          B.207 utt1:  # a # woman's role,   
+
+b          A.208 utt1:  # Yeah. # /  
+
++          B.209 utt1:  # sort # of thing, /  
+
+b          A.210 utt1:  # Yeah. # /  
+
+ %         B.211 utt1:  # {C and } # {D you know, } -/  
+
+  qy        A.212 utt1:  You  (( mean ))  it's stronger there? /  
+
+ny          B.213 utt1:  {F Uh, } {F oh, } yeah,  /
+ny^r          B.213 utt2: yeah. /  
+
+ba          A.214 utt1:  Much stronger. /  
+
+sv          B.215 utt1: [ {C And, } + {C and } ] I think that, {F uh, } <lipsmack>  {D you know, } career women still have a lot of problems here,   
+
+b          A.216 utt1:  # Yeah. # /  
+
++          B.217 utt1:  # with # the good old boys,   
+
+b          A.218 utt1:  # Right. # /  
+
++          B.219 utt1:  # here # in Texas sort of thing,   
+
+b          A.220 utt1:  # Right. # /  
+
++          B.221 utt1:  # making # career moves  /
+sv          B.221 utt2: {C but, }   
+
+ b         A.222 utt1:  Right. /  
+
++          B.223 utt1:  {F Uh, } {D you know, } in terms of women staying home and being appreciated for their talents, {F uh, } it's just like the way [ it, + it ] has been for years.    
+
+b          A.224 utt1:  Uh-huh. /  
+
++          B.225 utt1:  {E I mean, } {D you know, } since the days of the pioneers, around here. /  
+
+b          A.226 utt1:  <Laughter>  Yeah,  /
+b^r          A.226 utt2: yeah. /  
+
+sv          B.227 utt1:  That's the woman's role, /  
+
+ba          A.228 utt1:  # Yes.  # /  
+
+sv          B.229 utt1:  # [ {C and } #  it, + {C and } it's ] hard for her to, {F uh, } {D you know, }  (( watch ))  her peers be appreciated, I think sometimes,  /
+h          B.229 utt2: {C but } then I'm not there,  /
+h          B.229 utt3: {C so } I don't know that. /  
+
+b          A.230 utt1:  Yeah,  /
+b^r          A.230 utt2: yeah. /  
+
+sd          B.231 utt1:  {C And } I have women that do both  /
+sd          B.231 utt2: {C and } I see a little jealousy on the part of, {D you know, } the woman what has two little boys  /
+sd          B.231 utt3: [ {C and, } + {C and } ] she has an au pair, which is a live-in college kid working for her  /
+sd          B.231 utt4: {C and then } she has her business in the back -- /  
+
+%          A.232 utt1:  {F Uh. } /  
+
+sd          B.233 utt1:  -- {C and then } my other girlfriend that has, {D you know, } just runs the whole household herself and just has two kids and goes crazy,    
+
+b          A.234 utt1:  # Uh-huh,  /
+b^r          A.234 utt2: uh-huh,  /
+b^r          A.234 utt3: uh-huh. # /  
+
++          B.235 utt1:  # all the time.  /
+sd          B.235 utt2:  # {C And so } I see I little bit of that  /
+sv         B.235 utt3: {C and } I always wish there was a balance, {D you know, }   
+
+b          A.236 utt1:  # Uh-huh. # /  
+
++          B.237 utt1:  # with # the one [ and, + and ] wish she could spend more time with her kids  /
+sd          B.237 utt2: {C and } the other gal I wish she could just get out of Dodge,   
+
+ b         A.238 utt1:  # Right. # /  
+
++          B.239 utt1:  # for # a while <laughter>. /  
+
+sd          A.240 utt1:  {C But } they're both, -/  
+
+^2          B.241 utt1:  Get some peace and quiet. /  
+
+aa          A.242 utt1:  Yeah,  /
+  sd        A.242 utt2: they're both different people, too.  /
+sv          A.242 utt3: [ That's, +   
+
+b          B.243 utt1:  Yeah,  /
+ba          B.243 utt2: definitely,  /
+aa          B.243 utt3: {C so. }  You're right about that. /  
+
+ +         A.244 utt1:  That's ] where the trouble lies. /  
+
+ b         B.245 utt1:  Yeah. /  
+
+ sv         A.246 utt1: [ Some people, + some people ] can adjust and have both, do both well, /  
+
+%          B.247 utt1:  # {C And } that's, # -/  
+
+sv          A.248 utt1:  # {C and } others # can't. /  
+
+ba          B.249 utt1:  That's true.  /
+ba          B.249 utt2: That's so true.  /
+qo          B.249 utt3: [ How, + how ] did your daughter do it? /  
+
+sd          A.250 utt1:  {F Uh, } {D well, } {F uh, } I have one daughter that works full-time.  /
+sd          A.250 utt2:  She has two little boys. /  
+
+ b         B.251 utt1:  Uh-huh. /  
+
+ sd         A.252 utt1:  {C And, } they seem to do fine.  /
+ sd         A.252 utt2:  She [ has been talk-, + has talked ] about quitting, {D you know, } and staying home for a few years.  /
+ sd         A.252 utt3: {C But } then, it's real hard because she's got an excellent job. /  
+
+b          B.253 utt1:  Right. /  
+
+%          A.254 utt1:  {F Uh. } / 

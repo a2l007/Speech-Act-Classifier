@@ -1,0 +1,355 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+FILENAME:	2567_1145_1159
+TOPIC#:		346
+DATE:		910411
+TRANSCRIBER:	DLB
+UTT_CODER:	TC
+DIFFICULTY:	5
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	4
+STATIC_ON_A:	3
+STATIC_ON_B:	2
+BACKGROUND_A:	4
+BACKGROUND_B:	4
+REMARKS:        This tape was difficult to transcribe.  All three sections
+were different.  The first section had a lot of echoing when Speaker A would 
+speak.  Speaker A's section: I could not hear Speaker B; there is a 
+static-type noise and occasionally it sounded like the other side of the tape 
+was trying to bleed through.  Speaker B's section: I could hear Speaker A and 
+I heard noises that I did not hear in the first two sections.  After listening
+to Speaker B's section, it was obvious that Speaker A's section and
+Speaker B's section did not match up.  Sometimes it sounded like one speaker 
+would interrupt the other at a certain place when listening to Speaker A's 
+section, but then, when listening to Speaker B's section, it would show they 
+either didn't interrupt, or they interrupted in a different place.  Also, the 
+names that are in (( )) were checked with the library.  They could not find
+anything resembling Misinvolves.  They found Udalls and Dawes, but neither 
+are in Georgia.  The end of the tape was very confusing where they were saying
+good-bye.  The tape was fading out, and since both speakers were males, it was
+difficult to distinguish who said what.  All three sections sounded different 
+on this part.  I edited this tape by Speaker B's section since I could hear 
+both speakers and there was no echoing or static.
+
+===========================================================================
+  
+
+qw          A.1 utt1:  So, what do you, - /
+qo          A.1 utt2: what's your opinion on the, our policy down there? /  
+
+sv          B.2 utt1:  I don't think we have one.  /  
+
+sv          A.3 utt1:  I didn't know we had one either <laughter>.  /  
+
+b          B.4 utt1:  <Laughter>  Yeah.  /
+sd          B.4 utt2:  I was going to say it's kind of hard to have, have an opinion.  /
+sv          B.4 utt3:  We seem to, uh, - /
+sv          B.4 utt4: whoever screams the loudest --   
+
+b          A.5 utt1:  Yeah.  /  
+
++          B.6 utt1:  -- or whoever we happen to give the most money to at that particular time we seem to support, without,   
+
+%          A.7 utt1:  # I don't, #  -/  
+
++          B.8 utt1:  # regard whether # it's a democracy or a anarchy, or anything else.  /  
+
+b          A.9 utt1:  Yeah <noise>.  /
+sd          A.9 utt2:  The only thing that I pretty much know about is the Central American policy where, you know, they're just trying to, you know, - /
+sd          A.9 utt3: military action in Panama is the only thing that comes to my mind right now, /  
+
+b          B.10 utt1:  # Well, uh, # -/  
+
+%          A.11 utt1:  # and then, # -/  
+
+b          B.12 utt1:  yeah.  /
+sd          B.12 utt2:  And then, of course, there was, there was the, uh, in Columbia, with the drug lords. /  
+
+b          A.13 utt1:  Right.  /  
+
+sv          B.14 utt1:  But we just talked a lot.  /
+sv          B.14 utt2:  We didn't actually do anything.  /  
+
+aa          A.15 utt1:  Right.  /
+sd          A.15 utt2:  Well, that's, that's what I was about to say.  /
+sv^m          A.15 utt3:  We didn't do anything. /  
+
+sv          B.16 utt1:  I'm actually surprised at anything in Central America, along with Panama.   /
+sv          B.16 utt2: I'm just kind of surprised we did that.  /  
+
+b          A.17 utt1:  Yeah, /  
+
+%          B.18 utt1:  # But, uh, # -/  
+
+sv          A.19 utt1:  # that is, # that is pretty, uh, risky.  /
+%          A.19 utt2:  I,   
+
+aa          B.20 utt1:  Especially,   
+
++          A.21 utt1:  mean, -/  
+
++          B.22 utt1:  after our friend Jimmy Carter gave it away anyway.  /  
+
+b          A.23 utt1:  Uh-huh.  /  
+
+sv          B.24 utt1:  But I guess they had to finally do something.  /
+sv          B.24 utt2:  Actually Bush has been better at that than I thought. /  
+
+b^r          A.25 utt1:  Uh-huh.  /  
+
+sv          B.26 utt1:  He has a little more d-, a little more of a stand on policy than I thought he would.  /
+sv          B.26 utt2:  I always considered him kind of a wimp.  /  
+
+sv          A.27 utt1:  He takes more risks.  /  
+
+b          B.28 utt1:  Yeah.  /
+sv          B.28 utt2:  Reagan is kind of m-, mushmouth.  /  
+
+aa          A.29 utt1:  Yeah.  /
+aa          A.29 utt2:  He was.  /  
+
+sv          B.30 utt1:  But, but I guess most of the policy that we're using now is, uh, a combination of Reagan and Carter, (( )) much as, you know, policy makers.  /  
+
+b          A.31 utt1:  Yeah.  /
+sv          A.31 utt2:  It seems that the, the policies <noise>  of pretty much anywhere, not just in Central America, that U S has now is, is, you know, <noise>  more action than just words, than just rhetoric.  /
+sv          A.31 utt3:  <noise>  But, you know, ((if)) we, we back up what we s-, what we say with actions. /  
+
+b          B.32 utt1:  Uh, yeah.  /
+sv          B.32 utt2:  We have so far,  /
+sd          B.32 utt3: but w-, we, r-,   
+
+sd          A.33 utt1:  # I don't know,#   
+
++          B.34 utt1:  # really haven't, # -/  
+
++          A.35 utt1:  how long it's going to last.  /  
+
+sv          B.36 utt1:  <Lipsmack>  Of course, we really haven't taken on the drug lords, yet.  /  
+
+b          A.37 utt1:  Yeah. /  
+
+sv          B.38 utt1:  I'd be interested to see if we do that.  /  
+
+sv          A.39 utt1:  Well, I don't think it's possible because, even though, you know, we're against them, I don't think we can go into another country and do something about the other country's problem. /  
+
+sv          B.40 utt1:  Well, we did in Panama.  /
+sv          B.40 utt2:  We did in,   
+
+b          A.41 utt1:  # Yeah.  /
+%          A.41 utt2:  But, # -/  
+
++          B.42 utt1:  # Saudi Arabia.  # /  
+
+ar          A.43 utt1:  no,  /
+sv          A.43 utt2: but see the thing when Panama was, uh, the, that, uh, Noriega was, uh, was, was, uh, was wanted fo-, either the F B I, by the F B I,  /
+sv          A.43 utt3: and therefore, they had a reason <noise>.  /
+sv          A.43 utt4:  But, to go in and take out the whole drug kingdom would be something totally different because, -/  
+
+sv          B.44 utt1:  It could be an interesting, interesting problem. /  
+
+b          A.45 utt1:  Right. /  
+
+sv          B.46 utt1:  I don't know if they could do it or not.  /
+qy          B.46 utt2:  Did you read Tom Clancy's A CLEAR AND PRESENT DANGER? /  
+
+nn          A.47 utt1:  Uh, no.  /
+sd^e          A.47 utt2:  I didn't.  /  
+
+sv          B.48 utt1:  I think you need to pick that up and read it.  /
+sv          B.48 utt2:  It's quite, uh, it's, it's quite interesting.  /
+sd          B.48 utt3:  It addresses the problem.  /  
+
+br          A.49 utt1:  Oh, the drug problem? /  
+
+ny          B.50 utt1:  Uh-huh.  /  
+
+b^m          A.51 utt1:  Uh-huh.  /  
+
+sd          B.52 utt1:  Actually, he, he wrote that prior to the, uh, Med-, Medellin Cartel being exposed.  /
+sd          B.52 utt2:  It was on the stands prior to that time.  /
+sv          B.52 utt3:  It, it's quite timely.  /
+sd          B.52 utt4:  And either he knows somebody  /
+sd          B.52 utt5: or he has a real good, a real good imagination  /
+sd          B.52 utt6: because its, it hits pretty close to home. /  
+
+b          A.53 utt1:  Yeah.  /  
+
+sv          B.54 utt1:  But I don't think we're going to have much of a choice in e-, either Central or South America. /  
+
+sv          A.55 utt1:  I don't think, <noise> uh, I don't think, the, the, uh, problem about drugs is going to be safe any time soon.  /
+sv          A.55 utt2:  I mean, you know, it, I think it pretty much got sidetracked with, uh, with the Panama and, and with the C-, Cent-, (( )) Middle East problems.  /
+sv          A.55 utt3:  Things that, that are important take precedent, precedence over the drugs, I think.  <noise>   /
+sv          A.55 utt4: I think, I think the big thing is trying to stop here on the home front </noise>.  /
+%          A.55 utt5:  And bef-, - /
+sv          A.55 utt6: you know, it, it'll take a little bit of time before they'll realize that this is failing,  /
+sv          A.55 utt7: so they're going to have to go to the source. /  
+
+b          B.56 utt1:  Um, yeah.  /
+sv          B.56 utt2:  I think we realize it's failed.  /
+%          B.56 utt3:  We just don't, we just <noise>  don't, - /
+sv          B.56 utt4: nobody,   
+
+^2          A.57 utt1:  # Don't want to admit it yet.  # /  
+
++          B.58 utt1:  # wants to make the, nobody wants # to make the unpopular decision of going in and invading, /  
+
+b          A.59 utt1:  Right.  /  
+
+sv          B.60 utt1:  We still, there's still t-, there's still too many Kennedys and ((Misinvolves)) and ((Udalls)) all up there. /  
+
+aa          A.61 utt1:  Yep {Pause}.  /
+aa          A.61 utt2: Yeah.  /
+sv          A.61 utt3:  That's true. /  
+
+sv          B.62 utt1:  There's too many liberals in control.  /
+sv          B.62 utt2:  They can't agree on anything.  /
+sv          B.62 utt3:  And they have blinders on as far as the policy goes.  /
+sv          B.62 utt4:  As long as somebody's getting killed, as long as nobody knows about it it's okay.  /
+sv          B.62 utt5:  But, but the minute it hit, hits the paper then, of course, the Kennedys and the ((Misinvolves)) and the ((Udalls)) and the, and, uh, the ((Dawes)) from Georgia, all stand up and scream and yell about what a horrible thing it is. /  
+
+b          A.63 utt1:  Yeah.  /  
+
+sv          B.64 utt1:  Of course, these are the same people that also drown ((blonde)), the Chappaquiddic, and stuff like that, you know. /  
+
+b          A.65 utt1:  Huh.  /  
+
+%          B.66 utt1:  But I guess it automa-, - /
+sv          B.66 utt2: I guess it's automatic respective.  /  
+
+sv          A.67 utt1:  Depends on how much power you have,    
+
+b          B.68 utt1:  # Yeah.  /
+sv          B.68 utt2:  You know, #    
+
++          A.69 utt1:  # and who you # know.  /  
+
++          B.70 utt1:  the people have a right to know except about what it, about what concerns them.  /  
+
+b          A.71 utt1:  Yeah.  /  
+
+sv          B.72 utt1:  And these are the people that make the foreign policy  /
+%          B.72 utt2: and it, it's probably basically, uh, - /
+sv          B.72 utt3: I <noise>  would not be surprised if the Kennedy Foundation or some of those don't have a lot of, uh, financial holdings in, in Central and South America.  /  
+
+aa          A.73 utt1:  Probably.  /  
+
+sv          B.74 utt1:  Considering the Kennedys made all their money off bootleg whiskey anyway. /  
+
+b          A.75 utt1:  Huh. /  
+
+sv          B.76 utt1:  Every time you drink Scotch, you're paying Kennedys. /  
+
+sd          A.77 utt1:  I don't drink Scotch. /  
+
+ba          B.78 utt1:  Good.  /
+ad          B.78 utt2:  Don't ever drink Scotch,  /
+sv          B.78 utt3: it's terrible.  /
+sd          B.78 utt4:  I quit drinking Scotch when I found out about that,  /
+%          B.78 utt5: but, anyway.  /
+sv          B.78 utt6:  But, uh, as far as, as far as, you know, Central and South America, we, our policy pretty much, uh, it depends on who we're, what government we're buying down there at the particular time. /  
+
+b          A.79 utt1:  Yeah.  /
+sv          A.79 utt2:  I,   
+
+%          B.80 utt1:  # We, # -/  
+
++          A.81 utt1:  # think # we're trying to stay, uh, stay friendly with uh, the, uh, the Brazilian and, and Argentinean governments because they're producing so much, uh, agricultural exports.  /
+sv          A.81 utt2:  We,   
+
+b          B.82 utt1:  Yeah.  /  
+
++          A.83 utt1:  don't want to piss them off and have them over produce  /
+o@          A.83 utt2: and then, because then our economy would be pretty bad.   
+
+sv          B.84 utt1:  Although we do need to do something about, you know, - /
+sd          B.84 utt2: of course, in Nicaragua and around there with the Sandinistas and the Contras, that's been going on for years.  /
+sv          B.84 utt3:  But then, hell, it's probably still be going on long after we're dead.  /
+sv          B.84 utt4:  It'll still be the same thing. /  
+
++@          A.85 utt1:  Yeah.  /  
+
+sv          B.86 utt1:  Those people down there don't really, - /
+%          B.86 utt2: I mean, -/  
+
+sv          A.87 utt1:  I think it's going to have to get worse before it gets better,  /
+sd          A.87 utt2: you know,   
+
+sv          B.88 utt1:  # Well, I think basically, #   
+
++          A.89 utt1:  # the same old cliche.  # /  
+
++          B.90 utt1:  they can't figure out what they want down there.  /  
+
+b          A.91 utt1:  Right.  /  
+
+sv          B.92 utt1:  If you give everybody what they wanted there (( )) is a complete democracy, those people wouldn't know how to react because they have no education.  /  
+
+b^r          A.93 utt1:  Right.  /
+sv          A.93 utt2:  And they'll just pick <noise>  crooked people again.  /
+sv          A.93 utt3:  And then people, the, the wrong people will just fight their way <noise>  up to the top again,  /
+sv          A.93 utt4: and it'll all,   
+
+sv          B.94 utt1:  # It's all tradition.  # /  
+
++          A.95 utt1:  # be for nothing.  # /  
+
+sv^r          B.96 utt1:  It's all traditional.  /
+sv          B.96 utt2:  They have to,  /
+sv          B.96 utt3: you have the ruling class  /
+sv          B.96 utt4: and you have everybody else.  /  
+
+b          A.97 utt1:  Yeah.  /
+fc          A.97 utt2:  Well, I guess that's about five minutes.  /
+fc          A.97 utt3:  Appreciate talking,   
+
+fc          B.98 utt1:  # ((It was very pleasant)).# /  
+
++          A.99 utt1:  # to you.  # /  
+
+fc          B.100 utt1:  All righty.  /
+fc          B.100 utt2:  Good,   
+
+qw          A.101 utt1:  # Hey, what was that book,# -/  
+
++          B.102 utt1:  # talking to you.  # /  
+
+qw          A.103 utt1:  what was that book that you were saying to read,   
+
+sd          B.104 utt1:  Tom,   
+
++          A.105 utt1:  again? /  
+
++          B.106 utt1:  Clancy.  /
+sd          B.106 utt2:  It's called A CLEAR AND PRESENT DANGER.  /  
+
+b^m          A.107 utt1:  A CLEAR AND PRESENT DANGER.  /  
+
+aa          B.108 utt1:  Uh-huh.  /
+sd          B.108 utt2:  He wri-, he's the one who wrote, uh, RED OCTOBER, A HUNT FOR RED OCTOBER.  /  
+
+bk          A.109 utt1:  Okay.  /
+bk          A.109 utt2:  All right.  /  
+
+sv          B.110 utt1:  And I think i-, if you read that, I think you'll get a real kick out of it. /  
+
+aa          A.111 utt1:  All right.  /
+ft          A.111 utt2:  Thanks a lot.  /  
+
+bd          B.112 utt1:  All righty.  /  
+
+fc          A.113 utt1:  Bye-bye.  /  
+
+fc          B.114 utt1:  Bye.  /      

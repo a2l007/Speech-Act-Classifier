@@ -1,0 +1,278 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4666_1199_1533
+TOPIC#:		365
+DATE:		920412
+TRANSCRIBER:	nk
+UTT_CODER:      aabo
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+%          B.1 utt1:  {D Actually, } I'm in, - /
+sd          B.1 utt2: like I said, I'm in Minneapolis  /
+sd          B.1 utt3: {C and } the big thing up here, of course, is the twins.  # {F Uh, } # /  
+
+sv          A.2 utt1:  # I # imagine you can't escape it <laughter>. /  
+
+aa          B.3 utt1:  No,  /
+sv          B.3 utt2: [ it's, + it's ] pretty pervasive.  /
+sv          B.3 utt3:  It kind of goes <laughter> into about all aspects of society I think up here.  /
+qy^d          B.3 utt4: {C But, } {F uh, } {D actually, } I don't know how much of the World Series you caught last year,  /
+sd          B.3 utt5: {C but } that was a lot of fun  ((   )) . /  
+
+sv          @A.4 utt1:  {D Well, } of course, it was fun for you <laughter>. /  
+
+sd          B.5 utt1:  <Laughter> {D Well, } to be honest with you, I'm not from Minneapolis.  /
+sd          B.5 utt2:  In fact, I've only been up here a few months  /
+sd          B.5 utt3: {C and } I'm going back at the end of next month. /  
+
+qw          A.6 utt1:  To? /  
+
+sd          B.7 utt1:  {F Uh, } Orlando, Florida. /  
+
+b          A.8 utt1:  {F Oh, } really. /  
+
+sd          B.9 utt1:  {C So } I'm not exactly a real Twins fan from birth or anything.  /
+%          B.9 utt2: {C But, } -/  
+
+sd          A.10 utt1:  I was born and raised [ in, + ] {F uh, } near Miami  and, {F uh, } # spent the # --   
+
+b          B.11 utt1:  # {F Oh, } yeah. # /  
+
++          A.12 utt1:  -- last twenty years in Dallas --   
+
+b          B.13 utt1:  Oh. /  
+
++          A.14 utt1:  -- {F uh, } where the Rangers played. /  
+
+b          B.15 utt1:  Uh-huh. /  
+
+sd          A.16 utt1:  {C And, } {F uh, } # for the # --   
+
+x          B.17 utt1:  #  ((   )) . #   
+
++          A.18 utt1:  -- last, {F uh, } [ what, + ] [  year, + roughly year, ] I've been in San Francisco where there are two teams.  The Oakland A -s and the San Francisco Giants. /  
+
+b          B.19 utt1:  Right. /  
+
+sd          A.20 utt1:  {F Uh, } {C but } honestly, {D you know, } [ I, + {F uh, } I ] do my duty and watch the sports # on, {F uh, } #   
+
+x          B.21 utt1:  # <Laughter>. #   
+
++          A.22 utt1:  the newscasts -- /  
+
+b          B.23 utt1:  {F Oh, } okay. /  
+
+sd          A.24 utt1:  -- {C but } that's about all the exposure I have to sports. /  
+
+b          B.25 utt1:  Yeah,  /
+sd          B.25 utt2: I haven't followed it real closely at all.  {F Uh, } except like I said, last year when the World Series rolled around, [ I did, + I did ] follow that pretty religiously.  /
+sd          B.25 utt3:  Went out into the bars, {D you know } --   
+
+b          A.26 utt1:  Uh-huh  /
+x@          A.26 utt2: <noise> <<sounds like a train>>.   
+
++          B.27 utt1:  -- drank a beer, watched the game, had [ a gir-, + a good ] time that way. /  
+
++@          A.28 utt1:  {F Oh, } yeah,  /
+b          A.28 utt2: sure. /  
+
+%          B.29 utt1:  # {C But, } {F uh, } # /  
+
+sv          A.30 utt1:  # {D Well, } I # guess the, {F uh, } San Francisco Giants and the Oakland A -s were {D like } the leading teams a couple of years ago. /  
+
+qy          B.31 utt1:  Is that right? /  
+
+%          A.32 utt1:  {D Well, } I th-, - /
+h          A.32 utt2: {D well } I don't know.  /
+h          A.32 utt3:  That's sort of what I gather. /  
+
+b          B.33 utt1:  Uh-huh. /  
+
+h          A.34 utt1:  {F Um, } {C and, } {F uh, } I don't know.  /
+qw          A.34 utt2:  What is the prognosis for, {F uh, } this year? /  
+
+sd          B.35 utt1:  {F Uh, } real good as far as I can tell.  /
+sv          B.35 utt2:  People # are pretty excited about it. # /  
+
+ba          A.36 utt1:  # Good.  /
+qy^d          A.36 utt2: [  I, + I ] # assume that means good for the Minnesota </noise>, /  
+
+ny          B.37 utt1:  {D Well } yeah  /
+x          B.37 utt2: # <laughter>. #   
+
+x          A.38 utt1:  # <Laughter>. #   
+
+fa          B.39 utt1:  Sorry about that,  /
+%          B.39 utt2: yeah.  /
+sd          B.39 utt3:  {F Uh, } as far as the Twins are concerned, it seems to be real good. /  
+
+x          A.40 utt1:  <Static>.   
+
+sd          B.41 utt1:  {F Uh, } my roommate went and saw them play on their season opener a couple of nights ago  /
+sd          B.41 utt2: {C and } [ they, + they ] won that one seven to one,  /
+sd          B.41 utt3: {C so, } {F uh, } that's pretty good I guess.  /
+sd          B.41 utt4:  It looks like they'll be doing pretty well.  /
+qy^c          B.41 utt5: Are you still there? /  
+
+ny^c          A.42 utt1:  Yep </static>. /  
+
+b          B.43 utt1:  Okay.  /
+qy^d^c          B.43 utt2:  I heard some noise on the line.  /
+sd^c          B.43 utt3: Didn't know what happened. /  
+
+sd^c          A.44 utt1:  I think a train went by. /  
+
+b          B.45 utt1:  {F Oh, } okay.  /
+b          B.45 utt2:  All # right. # /  
+
+sd^c          A.46 utt1:  # I # know a train went by,  /
+sd^c          A.46 utt2: I don't know what the noise was  /
+sd^c          A.46 utt3: {C but } I think it probably was [ the, + the ] train. /  
+
+b          B.47 utt1:  Yeah. /  
+
+h          A.48 utt1:  {D Well, } I don't know.  /
+sd          A.48 utt2: [ [  I, + I, ] + I ] don't even know, {F uh, } who has been winning [ in, + ] {F uh, } as far as the, {F uh, } San Francisco Giants and the Oakland A -s  /
+sd          A.48 utt3: {C but } I think they both won their opener.  /
+sd          A.48 utt4:  I, {F uh, } sort of gathered that in my, {F uh, } subliminal memory. /  
+
+b          B.49 utt1:  Uh-huh  /
+sv          B.49 utt2: <laughter>.  {D Well } maybe that [ has, + has ] good tidings [ for their, + {F uh, } for their ] season coming up.  /
+sd          B.49 utt3: I've {D actually } got a friend that's living in San Francisco right now.  /
+sd          B.49 utt4: {F Uh, } he's doing the same thing I'm doing which is, basically, {F uh, } an internship.  /
+sd          B.49 utt5: [  We, + we're ] both doctoral students  /
+sd          B.49 utt6: {C and } # he's # --   
+
+b          A.50 utt1:  # Huh. # /  
+
++          B.51 utt1:  -- doing his with I B M  /
+sd          B.51 utt2: {C and } I'm doing mine with Honeywell.  /
+sd          B.51 utt3:  {C But, } {F uh, } [ I, + I ] think he kind of follows the sports  /
+sd          B.51 utt4: {C and } I think he's mentioned <noise> {F uh, } the Oakland A -s a couple of times.  /
+sd          B.51 utt5: # {F Uh } # --   
+
+b          A.52 utt1:  # Uh-huh. # /  
+
++          B.53 utt1:  -- he may have watched them and seemed to think that they were pretty good. /  
+
+sd          A.54 utt1:  I guess they are different leagues.  /
+qy          A.54 utt2:  Is that right?  /
+qy          A.54 utt3:  The # A -s? # /  
+
+na          B.55 utt1:  # As far # as I know,  /
+%          B.55 utt2: yeah. /  
+
+b          A.56 utt1:  #  (( Yeah )) . # /  
+
+sd          B.57 utt1:  # {C And } # in the major leagues, I guess there is a couple of different divisions  /
+sd          B.57 utt2: {C and then, } of course, there's the minors.  /
+h          B.57 utt3:  {F Uh, } I don't know.  /
+sd          B.57 utt4: [  I, + I ] guess I'm one of those people that if I really made a concentrated effort, I could really probably get into baseball. /  
+
+b          A.58 utt1:  Uh-huh. /  
+
+sd          B.59 utt1:  {F Uh, } {C but } I was talking to my roommate a couple of nights ago, right after that game,  /
+sd          B.59 utt2: {C and } he offered, {D you know, } to take me to one of the games because, apparently, [ he'd bought, + {F uh, } he and four other people from Honeywell had bought ] [ a seat, + {E or } a row of seats ] {D actually, } # for the home games. # /  
+
+b          A.60 utt1:  # Uh-huh,  /
+b^r          A.60 utt2: uh-huh. # /  
+
+sd          B.61 utt1:  {C But } the thing is, there's like eighty-six home games per year.  /
+sd          B.61 utt2:  {C So } there's [ no, + no ] way that you can ever use them all. /  
+
+b^m          A.62 utt1:  Eighty-six? /  
+
+sd^r          B.63 utt1:  Eighty-six.  /
+sd          B.63 utt2: I was amazed to hear that. /  
+
+ba          A.64 utt1:  Huh! /  
+
+sd          B.65 utt1:  {D You know, } that's just the home games  /
+sd          B.65 utt2: {C and } [ I, + I ] thought it was a mistake  /
+sd(^q)          B.65 utt3: {C but } he goes no #  ((   )) . # /  
+
+sv          A.66 utt1: # {D Well } they # must play every day then. /  
+
+b          B.67 utt1:  Yeah.  /
+sd          B.67 utt2:  Well just about,  /
+%          B.67 utt3: yeah. /  
+
+sd          A.68 utt1:  I mean eighty-six times two --   
+
+b          B.69 utt1:  Yeah. /  
+
++          A.70 utt1:  -- is a hundred sixty. /  
+
+%          B.71 utt1:  {C And } that's, {D you know, } - /
+%          B.71 utt2: yeah  /
+%          B.71 utt3: # that's almost, # -/  
+
+sd          A.72 utt1:  # {C And } [ that's, + # {D Lord, } that's, ] {F uh, } over five months worth. /  
+
+sd          B.73 utt1:  That's a lot of baseball. /  
+
+sd          A.74 utt1:  Even if they play every day, that's over five months worth. /  
+
+sd          B.75 utt1:  {D Well, } [ [ you, + yo-, ] + [ if you, + if you ] ] consider it, the season  starts, - /
+%          B.75 utt2: {D well } it's, - /
+sd          B.75 utt3:  the season started about a week and a half ago  /
+sv          B.75 utt4: {C and } it ends with the World Series which usually takes place, I believe, in December or January. /  
+
+ar          A.76 utt1:  No. /  
+
+ny          B.77 utt1:  Yeah,  /
+sv^e          B.77 utt2: I think so.  /
+qy          B.77 utt3: It did last [ we-, + ] year, didn't it?  /
+qy          B.77 utt4:  {C Or } was it # November? # /  
+
+sd          A.78 utt1:  # That # was the Super Bowl. /  
+
+sd          B.79 utt1:  Maybe it was November I'm thinking about.  /
+sd          B.79 utt2:  I know it was doggone cold up here.  {F Uh, } /  
+
+sd          A.80 utt1:  I don't feel so bad.  /
+sv          A.80 utt2:  I think  [ you, +   you ] don't know all that much more than I do about baseball # <laughter>. # /  
+
+sd          B.81 utt1:  # {D Well, } I know # for sure it was,  /
+sd@          B.81 utt2: I know it was after September.    
+
+x          A.82 utt1:  <Sigh>.   
+
++@          B.83 utt1:  Because that's when I got up here. /  
+
+b          A.84 utt1:  I see,  /
+b          A.84 utt2: # okay. # /  
+
+sd          B.85 utt1:  # [ {C And, } + # {C and } ] it was at least two months after I got up here. /  
+
+b          A.86 utt1:  {F Oh, } really,  /
+b          A.86 utt2: okay #  ((   )) . # /  
+
+b          B.87 utt1:  # Yeah,  /
+sd          B.87 utt2: # {C so } it had to be November anyway. /  
+
+sd          A.88 utt1:  {D Well, } [ I, + I ] know, {F uh, } the Super Bowl, -/ 

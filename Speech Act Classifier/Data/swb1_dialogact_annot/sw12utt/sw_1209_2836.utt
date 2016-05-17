@@ -1,0 +1,448 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2836_1255_1087
+TOPIC#:		312
+DATE:		910509
+TRANSCRIBER:	GLP
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	3
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:	None.
+
+===========================================================================
+  
+
+o          A.1 utt1: Okay.  /
+sv          A.1 utt2: {F Uh, } far as, {D you know, } crime in the cities, I'm sure, like in yours it's [ pretty, +  pretty ] bad.  /
+sv          A.1 utt3: {F Uh, } probably the biggest thing we've got going now is the robberies  /
+sv          A.1 utt4: and theft and  probably murder --   
+
+b          B.2 utt1:  Uh-huh. /  
+
++          A.3 utt1:  -- are the two top ones that we have.  /
+qo          A.3 utt2: How about you? /  
+
+h          B.4 utt1:  {F Uh, } {D well, } I don't actually live in the city,  /
+aap          B.4 utt2: {C but } I'd probably say that's roughly right.  /
+sv          B.4 utt3: {E I mean } crimes against property seem to outnumber crimes against life,  /
+sv          B.4 utt4: {C but } [ I, +  I ] think with the current war on drugs and all this kind of stuff I'd say probably the police department would claim the number one [ crimes, + crimes ] are probably solicitation of prostitution, {F uh, } and sale of drugs. /  
+
+aa          A.5 utt1:  Uh-huh.  /
+sv          A.5 utt2:  [ Prob-, + probably ] right,  if you look at it from that stand point. /  
+
+b          B.6 utt1:  Uh-huh. /  
+
+%          A.7 utt1: What, {F uh, } - /
+qy          A.7 utt2: is there anything, {F uh, } that you particularly are concerned with in your particular area as far as security and that sort of thing? /  
+
+sd          B.8 utt1: {F Uh, } where I live now [ it's, + it's ] not so bad.  /
+sd          B.8 utt2: {E I mean } I can basically leave my front door unlocked and not have to worry about it.  /
+sd          B.8 utt3: {F Uh, } {C but } I do have friends that live in the city  /
+sv          B.8 utt4: {C and } I think that they get a lot of fallout from this war on drug thing. {F Uh, } just because there are, {D like, } crack houses, {D you know, } on their street and stuff like this. /  
+
+b          A.9 utt1:  Uh-huh.  /
+qr          A.9 utt2:  Do you live in a real small town [ or, + or ] out in the country? /  
+
+sd          B.10 utt1:  I live out in the country,  /
+%          B.10 utt2: yeah. /  
+
+qw          A.11 utt1:  How far out from the city, {E I mean, } do you, -/  
+
+sd          B.12 utt1:  I'm about fifteen miles out. /  
+
+b^m          A.13 utt1:  About fifteen miles.  /
+sd          A.13 utt2: I live in a little suburb, {F uh, } which [ is, +  I guess from Dallas is ] twelve miles or so -- /  
+
+b          B.14 utt1:  Uh-huh. /  
+
+sd          A.15 utt1:  -- {C but } it's pretty congested.  /
+sd          A.15 utt2:  We are considered in the country, /  
+
+%          B.16 utt1:  {F Um. } /  
+
+sv          A.17 utt1:  {C but } it doesn't really feel like you're in the country. /  
+
+%          B.18 utt1:  {F Um. } /  
+
+sv          A.19 utt1: Our major crimes in our immediate town, {F uh, } is probably [ robberies, + house robberies -- ]   
+
+b          B.20 utt1:  Uh-huh. /  
+
++          A.21 utt1:  -- and very few instances of, {D you know, } alcohol, drugs, {F uh, } reported.  /
+sv          A.21 utt2: However, I'm sure they're there. /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sd          A.23 utt1: {C But, } {F uh, } right now our neighborhood is running about, {F uh, } eighty percent of the homeowners have been robbed,   
+
+ba          B.24 utt1:  Wow. /  
+
++          A.25 utt1:  sometime during [ their, +  their, ] {F uh, } existence in that neighborhood. /  
+
+sv          B.26 utt1:   (( That's huge )) . /  
+
+sd          A.27 utt1: {C And } since that time everybody's got some sort of burglar system or, {D you know, } {F uh, } burglar alarms --   
+
+b          B.28 utt1:  Uh-huh. /  
+
++          A.29 utt1:  -- {F uh, } and including [ the out, +  {F uh, } the outer ] perimeter type, {F uh, } devices,   
+
+b^r          B.30 utt1:  Uh-huh. /  
+
++          A.31 utt1: sensors and things like that.  /
+sd          A.31 utt2: It's cut back, {D you know, } considerably,  /
+sv          A.31 utt3: {C but } [ it, + it ] just shifts it from our neighborhood to another neighborhood to other neighborhood,  /
+sv          A.31 utt4: {C so } it still, {F uh, } remains city wide, [ pretty, +  pretty ] high. /  
+
+qy          B.32 utt1:  [ Are there, +  are there ] any theories on why this is happening? /  
+
+sv          A.33 utt1:  {F Uh, } I would say the majority of it's happening during the day, {F uh, } between probably ten in the morning and three in the afternoon. /  
+
+b          B.34 utt1:  Uh-huh. /  
+
+%          A.35 utt1:  Most, -/  
+
+qw          B.36 utt1:  {C But } why?  /
+qw          B.36 utt2: Why is it happening? /  
+
+sd          A.37 utt1:  {D Well, } [ most families, +  most families ] are young  /
+sd          A.37 utt2: {C and } both people are working. /  
+
+b          B.38 utt1:  Uh-huh. /  
+
+sd          A.39 utt1:  {C So } they're happening during the hours they're gone from work. /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+sv          A.41 utt1:  {F Uh, } {C so, } {F uh, } I would say that's probably their prime motivation.   /
+sv          A.41 utt2: [ They'll, +  they'll ] stock your house and, {F uh, } look at your pattern and then go from there. /  
+
+qy^d          B.42 utt1:  {C So } they're professionals? /  
+
+na          A.43 utt1:  {F Uh, } they classify most of them as professionals. /  
+
+%          B.44 utt1:  {F Um. } /  
+
+sd          A.45 utt1: {F Uh, } you get a few of them that are a little bit sloppier, {F uh, } just taking, {F uh, } {D you know, } just junk items that [ they, + they ] can just get, {D you know, } ten to twenty bucks for real quick. /  
+
+b          B.46 utt1:  Uh-huh. /  
+
+sv          A.47 utt1: Probably the biggest items [ that, + {F uh, } that ] you get in our neighborhood, [ or, + ] would be the high classed automobiles,  /
+sd          A.47 utt2: the, {D you know, } Mercedes, Volvos, things that they can get, {D you know, } big dollars for --    
+
+b^r          B.48 utt1:  Uh-huh. /  
+
++          A.49 utt1:  -- and the jewelry are the major targets,  /
+sd          A.49 utt2: guns, that sort of stuff. /  
+
+%          B.50 utt1:  {F Um. } /  
+
+sd          A.51 utt1:  Very few, {D you know, } [ penny, +  penny ] ante stuff. /  
+
+qw          B.52 utt1:  {D Well, } what do you think can be done to reduce that sort of crime? /  
+
+sv          A.53 utt1: {D Well, } {F uh, } the police force, for one,  /
+sv          A.53 utt2: I think they could, {F uh, } definitely add to the police force and the type equipment that they use.  /
+%          A.53 utt3: {F Uh, } it's,  /
+sv          A.53 utt4: {F oh, } right now I think, we are about thirty thousand people  /
+sd          A.53 utt5: {C and } there's only eight officers that patrol [ for thirty, +   
+
+b          B.54 utt1:  Uh-huh. /  
+
++          A.55 utt1:  for that amount ] of people --   
+
+b^r          B.56 utt1:  Uh-huh. /  
+
++          A.57 utt1:  -- which is not very many. /  
+
+b          B.58 utt1:  Right. /  
+
+%          A.59 utt1:  {C And, } -/  
+
+sv          B.60 utt1:  {C But, } {E I mean, } that's going to tend to, - /
+sv          B.60 utt2: {E I mean } it seems to me that sort of approach will tend to simply make the cost of committing the crime slightly higher <ringing>,  /
+sv          B.60 utt3: in  other words, you've increased the probability of somebody being caught a little bit.  /
+sv          B.60 utt4: The real question is how do you convince people not to commit such crimes in the first place. /  
+
+%          A.61 utt1: {D Well, } the, - /
+sd         A.61 utt2: course in our particular state, {F uh, } we have the prison overcrowding, whatever,  /
+sd          A.61 utt3: {C so } they're giving the early release, {F uh, } /  
+
+b          B.62 utt1:  Right.  /
+sd          B.62 utt2:  They're doing that in our state, too. /  
+
+b          A.63 utt1: Yeah,  /
+%          A.63 utt2: [ {C and, } + {C and } ] it's, - /
+sd          A.63 utt3: I think what they need to do is stop building more jails and start giving stiffer sentences, {F uh, }  /
+%          A.63 utt4: {C but } for the, -/  
+
+qy          B.64 utt1:  {C So } you think that would be a deterrent? /  
+
+na          A.65 utt1:  That would [ be, +  certainly be ] a deterrent. /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+sv          A.67 utt1: {C And, } {F uh, } not necessarily, {D you know, } give in to their, {F uh, } human rights desires.  /
+ad          A.67 utt2: {D You know, } if they're overcrowded, just keep cramming them in there till they just suffocate.  {F Uh, } /  
+
+qw          B.68 utt1:  {D Well, } what about an innocent person who happens to have been found guilty? /  
+
+sv          A.69 utt1: {F Uh, } I think they'd have to go to extra measures to make sure a person's guilty, {D you know, } in a lot of cases.  /
+sv          A.69 utt2: Course, [ I, + I ] know you can't be a hundred percent foolproof. /  
+
+b          B.70 utt1:  Right. /  
+
+%          A.71 utt1:  {F Uh, } /  
+
+bf          B.72 utt1: {C So } [ you'd, + you'd ] rather see it harder to convict somebody. /  
+
+aa          A.73 utt1: I'd rather see it a little bit harder and have a little bit more evidence,   
+
+b          B.74 utt1:  Uh-huh. /  
+
++          A.75 utt1: {F uh, } to convict somebody  /
+sd          A.75 utt2: {C and then } those convicted, especially of, {D you know, } murder [ and, +  and, ] {F uh, } {D you know, } major crimes,   
+
+b^r          B.76 utt1:  Uh-huh. /  
+
++          A.77 utt1: {F uh, } to reach the life sentences and, {D you know, } death penalties and follow-through with that. /  
+
+%          B.78 utt1:  {F Huh. } /  
+
+sd          A.79 utt1:  {F Uh, } especially, {D you know, } in the case of murder -- /  
+
+b          B.80 utt1:  Right. /  
+
+sd          A.81 utt1:  -- {F uh, } I know in my case, [ I, +  my wife and daughter ] were kidnapped,   
+
+ba          B.82 utt1:  {F Oh, } wow. /  
+
++          A.83 utt1:  during a house robbery back in eighty-five -- /  
+
+ba          B.84 utt1:  {F Oh, } my goodness. /  
+
+sd          A.85 utt1:  -- {C and } [ we caught, + the individuals got caught, ]  /
+sd          A.85 utt2: [ we, + {F uh, }   
+
+b          B.86 utt1:  Uh-huh. /  
+
++          A.87 utt1: we ] went through the court system and all that sort of thing  /
+sd          A.87 utt2: {C and, } {F uh, } {D you know, } two counts of kidnapping, {F uh } --   
+
+b          B.88 utt1:  Uh-huh. /  
+
++          A.89 utt1: -- {D you know, } [ the, + the ] forty-five to the head, {D you know, } just [ the, + the ] mental anguish and the whole nine yards --   
+
+b          B.90 utt1:  Right. /  
+
++          A.91 utt1:  -- {F uh, } {D you know, } the guy only got five years. /  
+
+ba          B.92 utt1:  Wow. /  
+
+sd          A.93 utt1: {C And, } {D you know, } he was out within two months because of the parole system.  /
+%          A.93 utt2: {C So } [ what, + what, ] -/  
+
+qy          B.94 utt1:  [ Did you, +  did you ] sue him under the civil system? /  
+
+br          A.95 utt1:  Do what now? /  
+
+qy^r          B.96 utt1:  Did you sue him under the civil system? /  
+
+nn          A.97 utt1:  [ N-, +  no. ]  /
+sd^e          A.97 utt2: I'm not real familiar with that. /  
+
+sv          B.98 utt1: {D Well, } you could probably sue him for mental anguish or  something, right,   
+
+b          A.99 utt1:  Oh. /  
+
++          B.100 utt1:  and try to get money from him  /
+%          B.100 utt2: {C and, } -/  
+
+sd          A.101 utt1: {D Well, } the insurance companies and all that [ tried to, + tried to ] go after him  /
+sd(^q)          A.101 utt2: {C and } they said, {D well, } {D you know, } [ [ he, + they're, ] + he ] has no job,  /
+^q          A.101 utt3: he has nothing,  /
+^q          A.101 utt4: there's nothing that he has [ that, +  that ] you could go after. /  
+
+b          B.102 utt1: Yeah.  /
+sv          B.102 utt2: Makes you wish that [ had, + {F uh, } still had ] indentured servitude, for this sort of thing. /  
+
+aa          A.103 utt1:  Yeah.  /
+%          A.103 utt2:  {F Uh, } very seld-, -/  
+
+sd          B.104 utt1:  {C But } they give the guy a job in prison and make him pay his damn debt. /  
+
+b          A.105 utt1: Yeah.  /
+sd          A.105 utt2: They don't do that here.  /
+sd          A.105 utt3: Course they pay them,  /
+%          A.105 utt4: {C but } [ they don't, + you don't, ] - /
+sd          A.105 utt5: you or the insurance companies never see any of that money. /  
+
+b          B.106 utt1:  Yeah,  /
+ba          B.106 utt2: that's too bad. /  
+
+sd          A.107 utt1: [ {C And, } + {F uh, } {D you know, } {C and } ] [ they're + <ringing>, right now they're ] reluctant to go after him because [ [ they're, + {D you know, } they're, ] + they're ] repeat offenders,  /
+sd          A.107 utt2: they, {F uh, } been in jail before <ringing>, /  
+
+b          B.108 utt1:  Uh-huh,  /
+b^r          B.108 utt2: uh-huh. /  
+
+sv          A.109 utt1:  they've been released, {D you know, } several times, which is another,   
+
+b^r          B.110 utt1:  Uh-huh. /  
+
++          A.111 utt1:  {F uh, } deal I hate to see. /  
+
+b^r          B.112 utt1:  Uh-huh. /  
+
+sd          A.113 utt1: {C But, } {F uh, } {D you know, } basically the guy commits, {D you know } three major crimes [ [ and, +  and, ] +  {F uh, }   
+
+b          B.114 utt1:  Yeah,  /
+sv          B.114 utt2: [ I, + I ] think that's re-, -/  
+
++          A.115 utt1:  and ] car theft on top of it,   
+
+b          B.116 utt1:  Yeah. /  
+
++          A.117 utt1:  destroys my car, /  
+
+b^r          B.118 utt1:  Yeah. /  
+
+sd          A.119 utt1:  {C and } we're out, {D you know, } {F uh, } {D you know, } fifteen thousand dollars  /
+sd          A.119 utt2: {C and, }   
+
+ba          B.120 utt1:  That's awful <<faint>>. /  
+
++          A.121 utt1: {D you know, } the guy gets out in two months  /
+sd          A.121 utt2: {C and } he goes out and commits it again.  /
+sd          A.121 utt3: Fact, he's back in jail now.  /
+%          A.121 utt4: {C So, } [ what, + what, ] {F uh, } -/  
+
+sv          B.122 utt1:  Gives you sympathy for the vigilantes. /  
+
+aa          A.123 utt1:  Yeah.  /
+qh          A.123 utt2:  [ What, +  what ] deterrent does he really have? /  
+
+b          B.124 utt1:  Yeah. /  
+
+b^m          A.125 utt1:  Yeah,  /
+sv          A.125 utt2: I think [ in our, +  in our ] particular neighborhood, vigilantism is becoming a [ real, +  real ] possibility. /  
+
+b          B.126 utt1:  Uh-huh. /  
+
+sd          A.127 utt1: {F Uh, } we've had a couple instances where break ins where the people have actually, {D you know, } shot the people -- /  
+
+ba          B.128 utt1:  {F Oh, } my God. /  
+
+sd          A.129 utt1: -- {C and, } {F uh, } return offenders have, - /
+sd          A.129 utt2: they've actually waited for them, where they've robbed, {D you know, } particular neighborhood,  /
+sd          A.129 utt3: they'll rob one house,  /
+sd          A.129 utt4: then other people will wait up, {D you know, }  and wait for somebody to do something else, try to take it in their own hands. /  
+
+b          B.130 utt1:  Right. /  
+
+sd          A.131 utt1:  Course it doesn't always work out in their favor. /  
+
+b^r          B.132 utt1:  Right. /  
+
+sd(^q)          A.133 utt1:  {C But, } {F uh, } nevertheless,   
+
+b          B.134 utt1:  Uh-huh. /  
+
++          A.135 utt1: I think people are just getting fed up and saying, {D you know, } you can't arrest all of us,  /
+^q          A.135 utt2: [ you can, +   
+
+b          B.136 utt1:  Right. /  
+
++          A.137 utt1:  {D you know, } you can ] get some of us,  /
+^q          A.137 utt2: you can't get all of us. /  
+
+b          B.138 utt1:  Uh-huh. /  
+
+sd          A.139 utt1: {F Uh, } {C and } we're beginning to see more and more of that. /  
+
+sv          B.140 utt1: {C And } [ that, +  that's ] a deterrent, too. If you think the home owner might be armed, right, and awake -- /  
+
+b          A.141 utt1:  Yeah. /  
+
+sd          B.142 utt1:  -- here you break in,  /
+sd          B.142 utt2: {C and } you're going to get shot. /  
+
+b          A.143 utt1: Yeah,  /
+sv          A.143 utt2: [ that's, + {E I mean } that's ] certainly a possibility [ in, + in, ] - /
+sd          A.143 utt3: we have had a few cases where the guy has broken in, {D you know, } during the middle of the night and gotten himself shot to death. /  
+
+b          B.144 utt1:  Uh-huh. /  
+
+sd          A.145 utt1:  {C And, } {F uh, } it helps for a while -- /  
+
+b^r          B.146 utt1:  Uh-huh. /  
+
+sd          A.147 utt1: -- {C but } then just another different set of people come in,  /
+sd          A.147 utt2: {C and } most of the people are transients from [ out, + outside ] of the state. /  
+
+%          B.148 utt1:  {F Huh. } /  
+
+sv          A.149 utt1: {F Uh, } I would say probably eighty percent of them that are caught, they're from places like up in Oklahoma, and Louisiana, Arkansas, {D you know, } across [ the, +  the ] border. /  
+
+ba         B.150 utt1:  Wow, /  
+
+sd          A.151 utt1:  {C So, } {D you know, } people who don't readily read the newspapers in our town or  whatever -- /  
+
+b          B.152 utt1:  Uh-huh. /  
+
+sv          A.153 utt1:  -- it's not many from the local communities. /  
+
+b^r          B.154 utt1:  Uh-huh. /  
+
+sv          A.155 utt1: {C But, } {F uh, } it's a problem,  /
+sv          A.155 utt2: {C and } [ [ I, + I just, ] + I think ] that the court systems need to be more [ accurate [ in, + in, ] + stiffer in ] their penalties, /  
+
+b          B.156 utt1:  Yeah. /  
+
+sv          A.157 utt1:  would be a definite deterrent  /
+sv          A.157 utt2: [ {C and, } +    
+
+b          B.158 utt1:  Yeah. /  
+
++          A.159 utt1: {C and, } ] {F uh, } giving the, {F uh, } police, {F uh, } agencies a little bit more jurisdiction over what they do [ when they, + when they ] catch these people. /  
+
+aa          B.160 utt1: Uh-huh.  /
+aa          B.160 utt2: {E I mean, } [ I, + I ] tend to agree with you.  /
+sv          B.160 utt3: I think, {F uh, } what I would like to see is, number one, completely getting rid of these victimless crimes.  {F Uh, } {A there's no reason to enforce those and spend time and money doing it -- }    
+
+b          A.161 utt1:  Right. /  
+
++          B.162 utt1: -- [ and, + and ] worry about these things where people are getting hurt.  /
+sv          B.162 utt2: {C And } I think one of the big things that you can do [ is, +  to increase deterrence is, ] {F uh, } if someone is found guilty of a, {F uh, } felony level offense, they lose their citizenship.  /
+sd          B.162 utt3: {C And } they lose their constitutional rights.    
+
+b          A.163 utt1:  Uh-huh. /  
+
++          B.164 utt1: {D You know, }  /
+sv          B.164 utt2: {C and } just a lot of things that we're trying to worry about, {D you know, } protecting these people from, we just don't protect them. /  
+
+sd          A.165 utt1:  I know {D like } in my wife's case, they made her feel like the criminal. /  
+
+aa          B.166 utt1:  I know,  /
+sv          B.166 utt2: {C and } [ I think, +  I think ] that's ridiculous. /  
+
+%          A.167 utt1:  [ They, +  they ] went to [ all, +  all ] ...  -/ 

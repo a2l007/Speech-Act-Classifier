@@ -1,0 +1,263 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4050_1514_1421
+TOPIC#:		331
+DATE:		920303
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.    
+
+========================================================================
+  
+
+o          B.1 utt1:  Hello. /  
+
+sd^t          A.2 utt1:   ((   ))  I pressed the button one,  /
+sd^t          A.2 utt2: {C so } we're recording  right now.  /
+fa          A.2 utt3: I'm sorry <laughter>. /  
+
+bd          B.3 utt1:  That's okay.  /
+sd          B.3 utt2:  I'm Bill from Raleigh. /  
+
+b          A.4 utt1:  Okay,  /
+sd          A.4 utt2: {C and } I'm Melanie from Harrisville, Utah. /  
+
+sd          B.5 utt1:  {F Oh, } another one from a different state besides Texas. /  
+
+b          A.6 utt1:  Yeah.  /
+b          A.6 utt2: <laughter> {F Um, } okay,  /
+sd^t          A.6 utt3: Bill, we're talking  about family reunions. /  
+
+b          B.7 utt1:  Right. /  
+
+o          A.8 utt1:  Okay, {F um, }  /
+qy          A.8 utt2: have you ever had to plan a family reunion? /  
+
+ny          @B.9 utt1:  {F Uh, } yes  /
+nn          @B.9 utt2: {C and } no,  /
+sd^e          @B.9 utt3: it wasn't really  [ a fa-, +  a planning ] one,  /
+sd          @B.9 utt4: {C but } [ it was kind of, +  {F uh, } it was ] a birthday -- /  
+
+bk          A.10 utt1:  Oh. /  
+
+sd          B.11 utt1:  -- {C and } I brought a lot of family together then. /  
+
+bk          A.12 utt1:  Uh-huh.  /
+qo          A.12 utt2: {C And } how did you feel it went? /  
+
+sd          B.13 utt1:  It went pretty good.  /
+sd          B.13 utt2:  [ I'm, + I've ] worked in  hotels,  /
+sd          B.13 utt3: {C so } [ I, + I ] kind of know how to do these things. /  
+
+bk          A.14 utt1:  Oh. /  
+
+sd          B.15 utt1:  I used to, {D you know. } /  
+
+qy^d          A.16 utt1:  All this planning [ and, + and ] getting together and such.  /
+^h          A.16 utt2:  {F Um, } {F oh, } let's see what else. /  
+
+sd          B.17 utt1:  Usually when we have kind of our family reunion it's my grandmother's birthday,  /
+sd          B.17 utt2: [ {C and } -- +   
+
+b          A.18 utt1:  Uh-huh. /  
+
++          B.19 utt1:  -- {C and } ] it's all of like, [ she, + she ]  comes from a big family.  /
+sd          B.19 utt2:  She has like  seven sisters I think. /  
+
+ba          A.20 utt1:  {F Oh, } boy <laughter>. /  
+
+sd          B.21 utt1:  They show up and all their kids.  /
+%          B.21 utt2:  {C And then } all,  she has, {F uh, } - /
+%          B.21 utt3: I have {D like, }  {F uh, } - /
+^h          B.21 utt4: let's see,  /
+sd          B.21 utt5: she has four sons and  two daughters,  /
+sd          B.21 utt6: {C and } --   
+
+b          A.22 utt1:  Uh-huh. /  
+
++          B.23 utt1:  -- they show up and all their kids,  /
+sd          B.23 utt2: {C so } it's a pretty  big reunion,  /
+sd          B.23 utt3: it's about two hundred people, maybe. /  
+
+ba          A.24 utt1:  {F Oh, } my word.  /
+qo          A.24 utt2: <laughter> {D Well, } what did you  find was most helpful in planning the birthday get together? /  
+
+sd          B.25 utt1:  {F Um, } [ the, + probably the ] biggest challenge was  getting a place where everyone, {D you know, } could eat comfortably [ and, + and ] everything, {F uh. } /  
+
+bk          A.26 utt1:  Uh-huh. /  
+
+sd          B.27 utt1:  I guess probably the most helpful thing was that,  {F um, } for the rent, we rented {D like } [ a, + a ] rescue squad building or something --   
+
+bk          A.28 utt1:  Oh. /  
+
++          B.29 utt1:  -- like that. /  
+
+bk          A.30 utt1:  Uh-huh. /  
+
+sd          B.31 utt1:  {C And, }  {F uh, } [ each one of the, +   everybody ] that showed up donated some money for the rent and [ for, + for ] {D like } soft drinks  /
+sd          B.31 utt2: [ {C and } + --   
+
+bk          A.32 utt1:  Oh. /  
+
++          B.33 utt1:  -- {C and so } ] nobody {D like } really got  stuck with the bill. /  
+
+ba          A.34 utt1:  {F Oh, } that's good. /  
+
+sd          B.35 utt1:  {C And } each person in the family, {D you know, }  brought a dish, or something. /  
+
+bk          A.36 utt1:  Uh-huh,  /
+qy          A.36 utt2: {C and then } did you have a main  meal,  /
+%          A.36 utt3: {C or } did everyone just bring, - /
+qy^d          A.36 utt4: it # was just pot luck. # /  
+
+na          B.37 utt1:  # It was kind of # pot luck. /  
+
+b          A.38 utt1:  Uh-huh. /  
+
+sd          B.39 utt1:  {D You know, } everybody brought their specialties,  I guess you would say. /  
+
+b          A.40 utt1:  Yeah,  /
+b^r          A.40 utt2: yeah,  /
+qy^d          A.40 utt3: show off a little bit <laughter>. /  
+
+ny          B.41 utt1:  Yeah.  /
+sd^e          B.41 utt2: {C And } of course my grandmother's food  was, as always, gone first --   
+
+bk          A.42 utt1:  Oh. /  
+
++          B.43 utt1:  -- because she's such a great cook. /  
+
+bk          A.44 utt1:  Oh.  /
+qw          A.44 utt2:  Now how old is she? /  
+
+sd          B.45 utt1:  {F Uh, } she's eighty-six. /  
+
+ba          A.46 utt1:  {F Oh, } goodness.  /
+qy          A.46 utt2:  [ Is she  pretty spry, + is she, {D you know, } pretty. ] /  
+
+%          B.47 utt1:  Now she does, - /
+na          B.47 utt2: she looks probably like she's in her  early sixties -- /  
+
+ba          A.48 utt1:  {F Oh, } wow. /  
+
+sd          B.49 utt1:  -- {C and } if she didn't have arthritis,  she'd get around better --   
+
+b          A.50 utt1:  Uh-huh. /  
+
++          B.51 utt1:  -- than me as a matter of fact <laughter>. /  
+
+bk          A.52 utt1:  Oh.  /
+ba          A.52 utt2: <laughter> {F Oh, } that's neat,  that she's in good health, and [ that, + ] at that age.  /
+%          A.52 utt3:  Yeah. /  
+
+b^m          B.53 utt1:  {F Oh, } yeah.  /
+sd          B.53 utt2:  My nickname for her is Honey Woman.  /
+sd          B.53 utt3:    That's what I call her. /  
+
+b          A.54 utt1:  Really.  /
+ba          A.54 utt2: <laughter> {D Well } that sounds fun.  /
+sd          A.54 utt3:  {D Well, } [ I + <smack> I ] had a real challenge of planning a family reunion a few years ago,  /
+%          A.54 utt4: {C and }  there were, - /
+sd          A.54 utt5: we sent out five hundred, {F uh, } announcements, because our family is  quite large, like [ your, + your ] family there.  /
+sd          A.54 utt6:  {C And so } that was a real  challenge,  /
+sd          A.54 utt7: {C and } I was president of our family reunion for two years,  /
+sd          A.54 utt8: {C and } I wasn't  very  ((   ))  at that duty, for two years in a row, <laughter>  /
+sd          A.54 utt9: {C but } I found that  advance planning was the key to success. /  
+
+sv          B.55 utt1:  {F Uh, } also one thing that's helpful,  /
+qy^d          B.55 utt2: {C and } I don't  know if your family's spread out or whatever -- /  
+
+ny          A.56 utt1:  Uh-huh. /  
+
+sd          B.57 utt1:  -- {C but } [ most of, +  all ] my family lives {D like }  in the same county  /
+%          B.57 utt2: {C so } <laughter>, -/  
+
+ba          A.58 utt1:  {F Oh, } that's wonderful, though <laughter>. -/  
+
+ad          B.59 utt1:  {C But } it's just kind of like get on the  telephone  /
+^q          B.59 utt2: {C and, }   
+
+x          A.60 utt1:  <Laughter>.   
+
++          B.61 utt1:  it's so and such days from such and such date -- /  
+
+b          A.62 utt1:  Oh. /  
+
+sv          B.63 utt1:  -- {C and } everybody just shows up. /  
+
+aa          A.64 utt1:  {F Oh, } {D well, } [ that is, + that is ] helpful.  /
+%          A.64 utt2:  Yeah,  /
+sd          A.64 utt3:  our family ranges from, {F oh, } goodness, {D well, } Australia,  /
+sd          A.64 utt4:   I have a brother lives in Australia, to, {F uh, } Boise, Idaho, [ and, + and, ] {F uh, } all kinds of places. /  
+
+sv          B.65 utt1:  I would say you're spread out, then. /  
+
+aa          A.66 utt1:  We are <laughter>. /  
+
+sd          B.67 utt1:  {F Uh, } my immediate family, {D you know, } [ my, + my ]  parents and my brothers and  sisters, I guess we're the ones that have the gypsy blood or  whatever,  /
+sd          B.67 utt2: {C because } my dad was in the Army  /
+sd          B.67 utt3: {C and } [ we're -- +   
+
+b          A.68 utt1:  Oh. /  
+
++          B.69 utt1:  -- we're ] pretty strung out all over.  /
+sd          B.69 utt2:  {C But } since they've  moved back to Carolina's, we still are the only ones do not live [ in + --   
+
+%          A.70 utt1:  In. -/  
+
++          B.71 utt1:  -- in ] Yantsen County. /  
+
+b          A.72 utt1:  Oh. /  
+
+sd          B.73 utt1:  I live in Raleigh,  /
+sd          B.73 utt2: {C and then } [ my, + my ] parents  live in Greenville,  /
+sd          B.73 utt3: {C and } I have one brother and his wife --   
+
+b          A.74 utt1:  Uh-huh. /  
+
++          B.75 utt1:  -- live in Greenville,  and, {F uh, } another brother  that lives [ in, +  outside of ] Fayetteville.  /
+sd          B.75 utt2:  {C So } {E I mean, } [ we're, + we're ]  spread out,  /
+sd          B.75 utt3: {C but } --   
+
+ba          A.76 utt1:  Boy. /  
+
++          B.77 utt1:  -- everybody else is centralized [ in, + in, ]  my home town, Waynesboro  /
+%          B.77 utt2: {C so. } -/  
+
+ba          A.78 utt1:  {F Oh, } my gosh. /  
+
+sd          B.79 utt1:  Nobody moves away except us <laughter>. /  
+
+qy^d          A.80 utt1:  <Laughter> They must really like it there. /  
+
+ny          B.81 utt1:  Yeah,  /
+sd^e          B.81 utt2: I got out as soon as I graduated. /  
+
+b          A.82 utt1:  Yeah.  /
+b          A.82 utt2: <laughter>  Oh. /  
+
+sd(^q)          B.83 utt1:  Just like this town is too small for me,  /
+^q          B.83 utt2: Good-bye. /  
+
+qy^d          A.84 utt1:  {F Oh, } <laughter> you're ready to move on to bi-, -/ 

@@ -1,0 +1,619 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2435_1115_1106
+TOPIC#:		348
+DATE:		910404
+TRANSCRIBER:	GL
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Child in background during the latter part.
+
+===========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: {C so } what kind of movies have you seen, lately, I guess? /  
+
+%          B.2 utt1:  {F Um, } a lot, - /
+sd          B.2 utt2: {D well, } the last movie I saw,  but it wasn't my choice, was the NINJA TURTLE movie <laughter>. /  
+
+qy^d          A.3 utt1:  <Laughter> Obviously you have kids. /  
+
+na          B.4 utt1:  <Laughter> That's right.  /
+b          B.4 utt2:  Yeah,  /
+sd          B.4 utt3: {C but } my preference is the one we saw before that was SILENCE OF THE LAMBS. /  
+
+sd          A.5 utt1:  I haven't seen that one yet. /  
+
+sv          B.6 utt1:  That's an excellent movie. /  
+
+sd          A.7 utt1:  {F Um, } the last movie I saw was, {F uh, } SLEEPING WITH THE ENEMY. /  
+
+sv          B.8 utt1:  {F Oh, } was that good.  /
+%          B.8 utt2:  I heard, -/  
+
+sd          A.9 utt1:  {F Uh, } {D see, } I'm not a big Julie Roberts fan. /  
+
+b          B.10 utt1:  {F Oh, } okay. /  
+
+sd          A.11 utt1:  {C But } [ I was a lot, + I was a lot ] more impressed with her than I thought I would be. /  
+
+ba          B.12 utt1:  {D Well, } that's good. /  
+
+sd          A.13 utt1:  It turned out to be a better thriller than I was expecting it to be. /  
+
+b          B.14 utt1:  Yeah. /  
+
+b          A.15 utt1:  Yeah,  /
+sv          A.15 utt2: it was a pretty good movie. /  
+
+sd          B.16 utt1:  SILENCE OF THE LAMBS kept me on the edge of my seat. /  
+
+sd          A.17 utt1: [ I, + I'm ] ready to go.  /
+%          A.17 utt2:  It just, - /
+ sd         A.17 utt3: it's, {D you know, } hasn't worked out that way yet. /  
+
+b          B.18 utt1:  Right. /  
+
+sd          A.19 utt1:  {D You know, } [ it's, + {F uh, } it ] looks good, {D you know } --   
+
+aa          B.20 utt1:  Yeah,  /
+sv          B.20 utt2: it is. /  
+
++          A.21 utt1:  -- if you like thrillers, {D anyway. } /  
+
+b          B.22 utt1:  Right. /  
+
+x          A.23 utt1:  <Laughter>.   
+
+sd          B.24 utt1:  {C And } I do. /  
+
+sd          A.25 utt1:  In fact, people I've talked to said that they hadn't slept real good for a while afterwards.  /
+%          A.25 utt2:  {C So } <laughter>, -/  
+
+b          B.26 utt1:  <Laughter> Really.  /
+sd          B.26 utt2: {F Oh, } I love them like that. /  
+
+b          A.27 utt1:  Yeah. /  
+
+%          B.28 utt1:  I'm not, - /
+sd          B.28 utt2: {E I mean, } [ I, + I ] like all ranges of movies,  /
+sd          B.28 utt3: <ringing> {C but } I like that where they run tense. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sd          B.30 utt1:  I really enjoy, - /
+sd          B.30 utt2: they keep me guessing the whole time.  /
+sd          B.30 utt3: [  It's really, + it was really ] interesting. /  
+
+b          A.31 utt1:  Uh-huh.  /
+qw          A.31 utt2:  {D Well, } what other movies have you seen then lately? /  
+
+b          B.32 utt1:  Oh. /  
+
+sd          A.33 utt1:  Other than the, - /
+sd          A.33 utt2: I assume you were talking about the new NINJA TURTLES. /  
+
+b          B.34 utt1:  Yes,  /
+sd          B.34 utt2: the new one, of course <laughter>. /  
+
+qy^d          A.35 utt1:  Is that any good,  /
+sd          A.35 utt2: {E I mean, } I'm sure I'm going to be seeing it because in a week to Amarillo where my sister lives, and she's got two boys that I took to see the first one. /  
+
+b          B.36 utt1:  Oh <<sound drawn out>>. /  
+
+sd          A.37 utt1:  {C So } I'm sure I'm going to see the next one here real soon. /  
+
+b^m          B.38 utt1:  Amarillo.  /
+sd          B.38 utt2: I didn't see the first one.  /
+sd          B.38 utt3: My husband said it was, {F um, } about the same lines. /  
+
+ba          A.39 utt1:  {F Oh, } {D well, } then it won't be too bad. /  
+
+b          B.40 utt1:  {C So, }  yeah. /  
+
+sv          A.41 utt1:  {D You know, } it wasn't impressive necessarily,  /
+sv          A.41 utt2: {C but } it was better than it could have been. /  
+
+b          B.42 utt1:  Right,  /
+b^r          B.42 utt2: right.  /
+sd          B.42 utt3:  {C And } I was impressed with the fact that, {F um, } it wasn't that childish. /  
+
+b          A.43 utt1:  Yeah. /  
+
+qh          B.44 utt1:  You know what I mean.  /
+%          B.44 utt2:  It wasn't, - /
+sd          B.44 utt3: my daughter's five,  /
+sd          B.44 utt4: {E I mean } she understood everything.  /
+sd          B.44 utt5: She goes to almost all movies with us except, {D you know, } R rated.  /
+sd          B.44 utt6: {C And } she really enjoyed it,  /
+sd          B.44 utt7: {C but } it was on a higher level, {D you know, } where there were some things that kids didn't understand that adults did,  /
+sd          B.44 utt8: {C and } I liked that. /  
+
+b          A.45 utt1:  Yeah,  /
+sv          A.45 utt2: I think that's important  if [ [ [ you're going, + {D you know, } if you're going, ] +  {F uh, } kids are going to, ] +  {F uh, } parents are going ] to have to go --   
+
+b          B.46 utt1:  Right. /  
+
++          A.47 utt1:  -- you ought to make it at least [ semi-, +   
+
+x          B.48 utt1:  <Laughter>.   
+
++          A.49 utt1:  {D you know, } semi ] for them too. /  
+
+ba          B.50 utt1:  That's right,  /
+ba^r          B.50 utt2: that's right. /  
+
+b          A.51 utt1:  Yeah. /  
+
+sv          B.52 utt1:  It's pretty good.  /
+sd          B.52 utt2:  {C But } we take her to just about every movie,  /
+sd          B.52 utt3: {C and, } [ she, + {F uh, } she ] does really good.  /
+sd          B.52 utt4:  We've taken her from real young,  /
+sd          B.52 utt5: {C and } she does real good.  /
+sd          B.52 utt6:  Like I said, we don't take her to R -s. /  
+
+b          A.53 utt1:  Uh-huh. /  
+
+sd          B.54 utt1:  {C So, }  if and when we ever get a baby-sitter, like we did with SILENCE OF THE LAMBS, we go see it. /  
+
+sd          A.55 utt1:  I's about to say, you're not going to take her to that one, I'm sure. /  
+
+aa          B.56 utt1:  {F Oh, } no,  /
+aa^r          B.56 utt2: no. /  
+
+qy          A.57 utt1: [ Do you take her, + {E or } do you go ] to a lot of comedy movies  /
+%          A.57 utt2: {C or } to, -/  
+
+ny          B.58 utt1:   Yeah,  /
+ny^r          B.58 utt2: yeah. /  
+
+qw          A.59 utt1:  What was the last comedy you saw? /  
+
+t1          B.60 utt1:  <Whispering> <<sort of to herself>> {F Oh } gosh what was the last comedy we saw?  /
+^h          B.60 utt2: <<back to regular speech>> {F Huh, }  {F huh, }  {F huh. }  Good question,  /
+^h^r          B.60 utt3: <laughter> good question.  /
+sd          B.60 utt4:  We don't get to go that often,  /
+^h          B.60 utt5: {C but } something on the tip of my tongue,  /
+^h          B.60 utt6: {C and } I can't think of which one it was.  /
+sd          B.60 utt7:  {F Uh. }  Gosh, I can't remember. /  
+
+%          A.61 utt1:  The last, {F uh, } - /
+sd          A.61 utt2: in fact I guess this was the last movie I saw -- /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+sd          A.63 utt1:  -- I said that wrong,  /
+sd          A.63 utt2: the last movie I saw was THE HARD WAY with Michael J. Fox. /  
+
+ba          B.64 utt1:  {C But } [ that, + that ] sounds good. /  
+
+sv          A.65 utt1:  {D Well, } that really wasn't too bad.  /
+%          A.65 utt2:  There were, - /
+sd          A.65 utt3: {D you know, } he's supposed, - /
+sd          A.65 utt4: {D you know, } he's this actor, right -- /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+sd          A.67 utt1:  -- {C and } he's playing a cop. /  
+
+b          B.68 utt1:  Right. /  
+
+ sd         A.69 utt1:  {C Or } he's hanging around with a cop trying to pick up the stuff.  /
+sd          A.69 utt2:  I think he did an excellent job in not being too much of a cop. /  
+
+b          B.70 utt1:  {F Oh, } okay. /  
+
+sd          A.71 utt1:  {E I mean, } [ there, + there ] were times when [ he was, + {D like, }  he'd ] be running with a gun or whatever.  /
+sd          A.71 utt2:  He didn't look like a cop when he did it.  /
+sd          A.71 utt3:  {C And } I was so --   
+
+ ba         B.72 utt1:  That's neat. /  
+
++          A.73 utt1:  -- impressed with that because, {D you know, } usually, -/  
+
+^2          B.74 utt1:  The part was hard, to do that. /  
+
+aa          A.75 utt1:  {F Oh } yeah,  /
+sd          A.75 utt2: because, {E I mean, } everybody grows up looking at these cop movies and trying [ to, + {D you know, } to  ] imitate them or whatever. /  
+
+b          B.76 utt1:  Right. /  
+
+sd          A.77 utt1:  {C And, }  {F uh, } I thought he did such an excellent job of not --   
+
+b          B.78 utt1:  Yeah, /  
+
++          A.79 utt1:  -- going that far.  /
+sd          A.79 utt2:  {D Now, } by the end he was looking more like a cop.    
+
+b          B.80 utt1:  Right. /  
+
++          A.81 utt1:  {C But } at the beginning of the movie and all through the middle part, {D you know, } he was [ trying to, + trying to ] get it,  /
+sd          A.81 utt2: {C but } he wasn't there yet. /  
+
+b          B.82 utt1:  Right. /  
+
+sd          A.83 utt1:  {C And } you could tell it,  /
+sv          A.83 utt2: {C and } I guess that I thought was a real good acting and writing job both, {D you know, } [ because I think, + ] or directing job.  /
+sv          A.83 utt3:  I think they did a real good job of that. /  
+
+b          B.84 utt1:  Uh-huh. /  
+
+sv          A.85 utt1:  {C And } James Woods, I think is who it was, did an excellent job as the cop.  /
+%          A.85 utt2:  {E I mean, } # {D you know, } he just, # -/  
+
+ b         B.86 utt1:  # Yeah,  /
+ sd         B.86 utt2: I like him. # /  
+
+ b         A.87 utt1:  Yeah,  /
+ sd         A.87 utt2: {C and } [ there were, + there were ] some definite, {F um, } should I say, tense moments,   
+
+x          B.88 utt1:  <Laughter>.   
+
+ +         A.89 utt1:  with him in there. /  
+
+sd          B.90 utt1:  <Laughter> Probably the last comedy we saw, now that I think about it, is HOME ALONE. /  
+
+b          A.91 utt1:  Yes,  /
+sd          A.91 utt2: [ [ I, + I, ] + I ] had seen it before Christmas,  /
+sd          A.91 utt3: {C but } I took a date to it, {F uh, } about a month ago.  /
+sd          A.91 utt4:  {C So, } [ [ I, + I, ] + I've ] seen it the second time not too long ago.  /
+%          A.91 utt5: {C So. } -/  
+
+sv          B.92 utt1:  It was really cute. /  
+
+sd          A.93 utt1:  I really enjoyed it. /  
+
+x          B.94 utt1:  <Laughter>.   
+
+sd          A.95 utt1:  Of course, the bad thing about it was, {F uh, } the second time I saw it, I didn't really enjoy it as much,  /
+sd          A.95 utt2: {C and } I was kind of surprised at that.  /
+sd          A.95 utt3:  I thought that would be one of those that I would love to watch over and over. /  
+
+b          B.96 utt1:  Yeah. /  
+
+%          A.97 utt1:  {C But } before, - /
+sd          A.97 utt2: maybe it's just the idea of my reaction to the first time.  I had laughed so hard I was hoarse. /  
+
+b          B.98 utt1:  Uh-huh,  /
+b^r          B.98 utt2: uh-huh. /  
+
+sd          A.99 utt1: [ I really was, + I was ] hoarse getting out of there. /  
+
+b          B.100 utt1:  Yeah. /  
+
+sd          A.101 utt1:  {C And } maybe I just laughed so hard the first time that I didn't have it,  /
+sd          A.101 utt2: {E I mean, } it just wasn't as funny the second time --   
+
+b          B.102 utt1:  Right. /  
+
++          A.103 utt1:  -- because I had just gone overboard the first time.  /
+h          A.103 utt2:  I don't know  /
+%          A.103 utt3: {C but, } -/  
+
+b         B.104 utt1:  <Laughter> Maybe so,  /
+b^r          B.104 utt2: maybe so. /  
+
+b          A.105 utt1:  Yeah,  /
+sv          A.105 utt2: {E I mean, } [ it was, + it was ] a great movie though.  /
+sd          A.105 utt3:  I loved the movie. /  
+
+aa          B.106 utt1:  Yeah,  /
+sd          B.106 utt2: I did, too.  /
+sd          B.106 utt3:  I'm looking forward to this summer, {F uh, } NAKED GUN TWO AND A HALF is coming out. /  
+
+sd          A.107 utt1:  <Laughter> I love those movies. /  
+
+sd          B.108 utt1:  I do too.  /
+sd          B.108 utt2:  {E I mean, } they are just slapstick <<word drawn out for emphasis>>. /  
+
+aa          A.109 utt1:  {F Oh, } yeah. /  
+
+%          B.110 utt1:  It, - /
+sv          B.110 utt2: you have to see those twice to catch everything. /  
+
+ar          A.111 utt1:  {D Well, } you have to see them more than that. /  
+
+b          B.112 utt1:  Yeah,  /
+b^r          B.112 utt2: yeah. /  
+
+sd          A.113 utt1:  [ [ I, + I, ] + I ] still catch things in AIRPLANE that I didn't catch. /  
+
+b          B.114 utt1:  Yeah. /  
+
+%          A.115 utt1:  {E I mean, } it's amazing -- /  
+
+sd          B.116 utt1:  I do too. /  
+
+sd          A.117 utt1:  -- I love those movies -- /  
+
+sd          B.118 utt1:  I do too. /  
+
+sd          A.119 utt1:  -- I really do. /  
+
+sd          B.120 utt1:  {C So } I'm looking forward to seeing that --   
+
+b          A.121 utt1:  Yeah. /  
+
++          B.122 utt1:  -- because that looks hilarious,    
+
+x          A.123 utt1:  <Laughter>.   
+
++          B.124 utt1:  as they all do. /  
+
+b          A.125 utt1:  {F Oh } yeah. /  
+
+sd          B.126 utt1:  {D Well, } [ we + <throat_clearing>, we ] try to go a couple times a month, I guess --   
+
+b          A.127 utt1:  Uh-huh. /  
+
++          B.128 utt1:  -- to see a movie.  /
+sd          B.128 utt2: [  It, + it's ] just getting so expensive. /  
+
+ba          A.129 utt1:  {F Oh, } isn't it though.  /
+sd          A.129 utt2: {D You know, } {C but } that's at least the good thing about the Texas organization letting you buy the tickets cheaper. /  
+
+ sd         B.130 utt1:  {C But } normally we don't think about it until, -/  
+
+sd          A.131 utt1:  That's exactly what,   
+
+x          B.132 utt1:  <Laughter>.   
+
++          A.133 utt1:  I was going to say.  /
+sd          A.133 utt2:  I keep not doing it until after I'm there  /
+sd(^q)          A.133 utt3: {C and then } all of a sudden I'm saying I wish I'd bought these things. /  
+
+sd          B.134 utt1:  I know, because we can go spend fifteen dollars --   
+
+ba          A.135 utt1:  Easily. /  
+
++          B.136 utt1:  -- just getting in --   
+
+b          A.137 utt1:  Yeah,  /
+b^r          A.137 utt2: yeah, /  
+
++          B.138 utt1:  -- the three of us. /  
+
+sd          A.139 utt1:  {C And then } if you want popcorn and stuff --   
+
+b          B.140 utt1:  Yeah. /  
+
++@          A.141 utt1:  -- [  it's +  just, {E I mean, } {F uh, } it's incredible. ]   
+
+sd          B.142 utt1:  I don't understand why they charge you out the kazoo for both.  /
+sd          B.142 utt2:       {D You know } popcorn is not that expensive. /  
+
++@          A.143 utt1:  No,  /
+aa^r          A.143 utt2: No,  /
+ba          A.143 utt3: nowhere near that expensive. /  
+
+sd          B.144 utt1:  {C So } they get you at the ticket booth and then try and get you at the popcorn and coke. /  
+
+sv          A.145 utt1:  {C And, } [ it, + it's ] just the idea  that [ these, + {F uh, } these ] actors, {D you know, } live in such lavish style.  /
+sv          A.145 utt2:  {E I mean, } it's as simple as that. /  
+
+b          B.146 utt1:  Yeah.  /
+sv          B.146 utt2:  We just keep breeding them. /  
+
+b          A.147 utt1:  Yeah,  /
+sv          A.147 utt2: {C and } as long as we keep paying the money for it, they are going to keep paying them. /  
+
+ba          B.148 utt1:  I guess so.  /
+qy          B.148 utt2: {D Now } have you seen DANCES WITH WOLVES? /  
+
+ny          A.149 utt1:  Yes.  /
+ny^r          A.149 utt2:  {F Oh } yeah.  /
+sv          A.149 utt3:  {F Oh, } [ that was, + that was ] an excellent movie. /  
+
+sd          B.150 utt1:  I haven't seen,  /
+sd          B.150 utt2: we're waiting for the video. /  
+
+ar          A.151 utt1:  No,  /
+ad          A.151 utt2: don't. /  
+
+b^m          B.152 utt1:  No,  /
+bh          B.152 utt2: really? /  
+
+ad^r          A.153 utt1:  Don't.  /
+sv          A.153 utt2:  That needs the big screen. /  
+
+b          B.154 utt1:  Oh. /  
+
+sv          A.155 utt1:  It really and truly does, because to get the feeling --   
+
+b          B.156 utt1:  Uh-huh. /  
+
++          A.157 utt1:  -- of {D like } [ when the buffalos are, + when they're chasing the buffalos ] and  everything --   
+
+b          B.158 utt1:  Uh-huh. /  
+
+ +         A.159 utt1:  -- you've got to be where you feel it. /  
+
+bh          B.160 utt1:  {F Oh } really? /  
+
+sv          A.161 utt1:  You really truly do. /  
+
+b          B.162 utt1:  Oh. /  
+
+%          A.163 utt1:  I would, - /
+sd          A.163 utt2: {E I mean, } I guess my first instinct was to wait for the video, too.  /
+sd          A.163 utt3: {C But } I'm glad I didn't.  /
+sd          A.163 utt4:  I really and truly am.  /
+sv          A.163 utt5:  {E I mean, } [ that mov-, + that was one movie ] I came out impressed. /  
+
+b          B.164 utt1:  Uh-huh. /  
+
+sd          A.165 utt1:  I really and truly did.  /
+sd          A.165 utt2:  {E I mean, } I have absolutely no problems with them winning seven Oscars.  /
+sd          A.165 utt3:  None at all. /  
+
+b          B.166 utt1:  Right. /  
+
+sd          A.167 utt1:  Normally I'm one of these people that I don't like [ one, + one ] movie taking all the honors. /  
+
+%          B.168 utt1:  Everythin-, - /
+b          B.168 utt2: yeah,  /
+b^r          B.168 utt3: yeah. /  
+
+sd          A.169 utt1:  I wanted him to win best actor on top of it,  /
+%          A.169 utt2: he was, -/  
+
+b          B.170 utt1:  Yeah, {F oh. } /  
+
+sd          A.171 utt1:  Like I said, I wouldn't given the supporting actresses either one. /  
+
+b          B.172 utt1:  Yeah. /  
+
+sd          A.173 utt1:  {C But } even though they were okay, the girl in it, - /
+%          A.173 utt2: they, - /
+sd          A.173 utt3: somebody made an interesting observation,  /
+sd          A.173 utt4: now that I think back on it, I'd say yeah, I can't believe that either.  /
+sd          A.173 utt5: She was the only indian to have her hair done at all times.  /
+o          A.173 utt6: You know what I mean, {D you know. } /  
+
+x          B.174 utt1:  <Laughter>.   
+
+sd          A.175 utt1:  It was just too perfect at all times. /  
+
+b          B.176 utt1:  Yeah. /  
+
+sv          A.177 utt1:  That was a mistake that they made.  /
+sv          A.177 utt2:  They shouldn't have done it. /  
+
+b          B.178 utt1:  Yeah. /  
+
+%          A.179 utt1:  {D Now } the best, - /
+sd          A.179 utt2: the supporting actor, he was good,  /
+sd          A.179 utt3: {C but } from what I heard, the guy who got it was better,  /
+sd          A.179 utt4: {C so } [ I, + {D you know, } I ] can see that. /  
+
+b          B.180 utt1:   Yeah. /  
+
+%          A.181 utt1:  {C But, }  {F oh, } -/  
+
+qy          B.182 utt1:  You think my daughter would like it? /  
+
+ng          A.183 utt1:  {F Oh, } {D well } [ there are, + there is ] one spot that was just a little bit on the gory side. /  
+
+bk          B.184 utt1:  {F Oh, } okay. /  
+
+%          A.185 utt1:  {C But, }  {F um, } [ it's + it's ] -/  
+
+sd          B.186 utt1:  She doesn't mind when we cover up her eyes. /  
+
+b          A.187 utt1:  Okay,  /
+ba          A.187 utt2: no problems <laughter>. /  
+
+x          B.188 utt1:  <Laughter>.   
+
+sd          A.189 utt1: [ It, + it's ] just the idea that there is this one spot where the white man has come by and killed a bunch a buffalo and just stripped [ its hide, + the hides. ]  /
+%          A.189 utt2: {C So } there's, -/  
+
+sd          B.190 utt1:  {D See, } [ that's the one, + that is ] [ the + honest to God the  ] one reason I don't want to see the movie --   
+
+b          A.191 utt1:  Yeah,  /
+%          A.191 utt2: {C but, }  {D well, }   
+
++          B.192 utt1:  -- is because I love buffalos for some weird reason,  /
+sd          B.192 utt2: <laughter> {C and } I know they're fake. /  
+
++          A.193 utt1: [ {C And, } +  {C and, } ]  of course, - /
+%          A.193 utt2: {C and, }  {D well, } yeah,  /
+sd          A.193 utt3: that, and plus, {E I mean } part of it is the idea that he goes with them on a buffalo hunt.  /
+sd          A.193 utt4:  {C So, }  {E I mean, } they are killing buffalos in it.  /
+sd          A.193 utt5:  {C But } they don't stress that very much,  /
+sd          A.193 utt6: they really don't. /  
+
+b          B.194 utt1:  Okay,  /
+b^r          B.194 utt2: okay. /  
+
+sv          A.195 utt1:  {C And } I think it's an excellent movie for, - /
+sv          A.195 utt2: [ if, + if ] she enjoys movies I think it'll work pretty good. /  
+
+ba          B.196 utt1:  {F Oh, } that'll be good.  /
+sd          B.196 utt2:  We really need some,  /
+sd          B.196 utt3: my husband keeps wanting to. /  
+
+sd          A.197 utt1: [ [ It's, + it's, ] + it's ] a long movie. /  
+
+b          B.198 utt1:  Yeah,  /
+sd          B.198 utt2: {C and } I heard the video's even going to be longer. /  
+
+b          A.199 utt1:  {F Oh } yeah. /  
+
+sd          B.200 utt1:  They did a lot of stuff that they cut out. /  
+
+sd          A.201 utt1:  I may have to see the video. /  
+
+b          B.202 utt1:  Yeah,  /
+ba          B.202 utt2:  ((   ))  that's true,  /
+%          B.202 utt3: they said, -/  
+
+sd          A.203 utt1:  I hadn't even thought of that. /  
+
+b          B.204 utt1:  Yeah,  /
+sd          B.204 utt2: they said there's a lot that had been edited, because of the length --   
+
+b          A.205 utt1:  Uh-huh. /  
+
++          B.206 utt1:  -- [ and + ] that they wanted in,  /
+sd          B.206 utt2: {C so } they're going to put it in the video. /  
+
+b          A.207 utt1:  Yeah. /  
+
+sd          B.208 utt1:  {C And } that way you can watch it at your leisure. /  
+
+b          A.209 utt1:  {D Well, } yeah,  /
+sd          A.209 utt2: I kind of like it when they do that, because the video, like I said, - /
+sv          A.209 utt3: there are certain things you can't do with a video -- /  
+
+b          B.210 utt1:  Yeah. /  
+
+sv          A.211 utt1:  -- {C and } the idea that they may put a little extra in it I think is a good idea. /  
+
+b          B.212 utt1:  Yeah,  /
+b^r          B.212 utt2: yeah. /  
+
+sd          A.213 utt1:  Because {E I mean } when you rent a video, - /
+sd          A.213 utt2: videos, of course, are not cheap either -- /  
+
+ba          B.214 utt1:  True. /  
+
+sd          A.215 utt1:  -- {C and so } the idea of getting a little extra with it I think is a good idea. Because [ they, + they ] make bundles of money off those things. /  
+
+ba          B.216 utt1:  <<Whispering>> I know it <<regular voice>>.  /
+qh^r          B.216 utt2: Isn't that ridiculous.  /
+sd          B.216 utt3:  We have cable which --   
+
+sd          A.217 utt1:  {F Oh, } I do too. /  
+
++          B.218 utt1:  -- helps a lot <laughter>. /  
+
+b          A.219 utt1:  Yeah,  /
+^2          A.219 utt2: but not enough. /  
+
+b          B.220 utt1:  Yeah,  /
+sd          B.220 utt2: we keep holding out, {D you know. } /  
+
+b          A.221 utt1:  Yeah  /
+sd          A.221 utt2: I'm getting to the point where, {D you know, } [ I watch, + {D well } I watch ] NICK AT NIGHT. / 

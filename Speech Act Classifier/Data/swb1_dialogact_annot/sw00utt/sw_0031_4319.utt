@@ -1,0 +1,273 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4319_1463_1540
+TOPIC#:		345
+DATE:		920322
+TRANSCRIBER:	GLP
+UTT_CODER:	TC
+DIFFICULTY:	3
+TOPICALITY:	3
+NATURALNESS:	3
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Speaker B spoke very fast.
+
+==========================================================================
+  
+
+qw          A.1 utt1: {F Uh, } {D so, } {F uh, } what are your benefits like at your job,  /
+qo          A.1 utt2: {C and } how do you feel about them? /  
+
+sd          @B.2 utt1: {F Uh, } pretty good, actually.  /
+sd          @B.2 utt2: I work for Hewlett Packard  /
+sv          @B.2 utt3: {C and } they have, {F uh, } a pretty good, {F uh, } benefits package.  /
+sd          @B.2 utt4: In fact, [ they're, + they're ] kind of known, {F uh, } for having good benefits.  /
+sv          @B.2 utt5: The pay isn't fabulous,  /
+sd          @B.2 utt6: {C although } I saw a survey recently  /
+sd          @B.2 utt7: {C and } [ I'm actually making just about as much as, + {D you know, } I'm [ m-, + making ] actually [ over average, + over the average ] ] --   
+
+ba          A.3 utt1:  {F Oh, } that's good. /  
+
++          B.4 utt1:  -- for my career, my experience and all that stuff --   
+
+b          A.5 utt1:  Uh-huh. /  
+
++          B.6 utt1:  -- which kind of surprised me. /  
+
+qw          A.7 utt1: What kind of a degree have you got? /  
+
+sd          B.8 utt1: I've got a Bachelor's in electrical engineering  /
+%          B.8 utt2: {C so, } -/  
+
+b          A.9 utt1:  Oh. /  
+
+sd          B.10 utt1: {C And } I'm not, {D like, } a hugely advanced degree or any ((of that stuff)). /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sv          B.12 utt1: {F Uh, } {D anyway, } [ the, + our ] benefits are pretty good.  /
+sd          B.12 utt2: We've got stock purchase program and a, - /
+sv          B.12 utt3: [ that, + that's ] pretty generous, although you have to hold the stock for two years --   
+
+b          A.13 utt1:  Uh-huh. /  
+
++          B.14 utt1: -- before you get the company contribution which is, kind of [ a, + a ] pain,  /
+sd          B.14 utt2: {C but, } {F uh, } <lipsmack> there's a four O one K plan --   
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  -- {F uh, } for, {F uh, } sheltering some taxable income. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+%          B.18 utt1:  {F Uh, } there's, -/  
+
+qw          A.19 utt1:  How long have you been with them? /  
+
+sd          B.20 utt1: I've been with them for seven years. /  
+
+%          A.21 utt1:  {F Uh. } /  
+
+b          B.22 utt1:  Yeah. /  
+
+ba          A.23 utt1:  That's good. /  
+
+sv          B.24 utt1: {C And, } [ the best thing, + {A and a lot of the stuff, } the best thing ] is {D like } four years or five years, {A it's pretty soon, } you're --   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1: -- completely vested in the retirement plan and everything,  /
+%          B.26 utt2: {C so, } {F uh, } it's not t-, - /
+sd          B.26 utt3: {C but } [ there's full, + {F uh, } [ th-, + there's ] several ] medical plans to choose from, {F uh, } that cover pretty much everything.  /
+sd          B.26 utt4: I don't get sick that often,  /
+sd          B.26 utt5: {C so } I don't pay much of it,  /
+sd          B.26 utt6: [ {C b-, } + {C and } ] I pay five dollars every time I visit [ the, + the ] hospital --   
+
+b^r          A.27 utt1:  Uh-huh. /  
+
++          B.28 utt1: -- [ that, + ] {D you know, } for a checkup or whatever. /  
+
+b^r          A.29 utt1:  Uh-huh. /  
+
+sd         B.30 utt1:  {F Uh, } they don't cover eyes though,  /
+sd          B.30 utt2: {C and } [ I, + I ]  have contact lenses,  /
+sv          B.30 utt3: {C so } that's kind of a pain. /  
+
+b^r          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  {C But, } {D you know, } [ I -- +     
+
+bf          A.33 utt1:  # {C But, } for all # --   
+
++          B.34 utt1:  -- # I ] can live, # /  
+
++          A.35 utt1:  -- practical purpose, you are almost a hundred percent covered. /  
+
+aa          B.36 utt1:  {F Oh, } yeah,  /
+aa^r          B.36 utt2: yeah. /  
+
+sv          A.37 utt1:  So that you've got [ small, + small ] things to gripe about. /  
+
+b          B.38 utt1:  Right. /  
+
+ba          A.39 utt1:  Wow. /  
+
+%          B.40 utt1:  {C And, } -/  
+
+bf        A.41 utt1: {D Well, } that sounds like you must feel really good about it. /  
+
+ny          B.42 utt1: Yeah,  /
+ny^r          B.42 utt2: yeah,  /
+sv^e          B.42 utt3: [ {C and, } + {C and } ] the dental plan is ((fabulous)).  /
+sd          B.42 utt4: The dental plan, I pay absolutely nothing because, {F uh } -- -/  
+
+ba          A.43 utt1:  Wow. /  
+
+sv          B.44 utt1: -- [ I, + I ] guess they would charge a little bit if there was some orthodontia or something for one of my dependents or something like that -- /  
+
+b          A.45 utt1:  Uh-huh. /  
+
+sd          B.46 utt1:  -- {C but } --    
+
+b^r          A.47 utt1:  Uh-huh. /  
+
++          B.48 utt1: -- that's not the case,  /
+sd          B.48 utt2: {C so, } I <laughter> guess nothing.  /
+sv          B.48 utt3: It's fabulous.  /  
+
+ba          A.49 utt1:  Wow. /  
+
+%          B.50 utt1: {F Uh, } the, - /
+qo          B.50 utt2: what about you? /  
+
+sd          A.51 utt1: {D Well, } I, {F uh, } work in Washington at the Naval Research Laboratory.  /
+sd          A.51 utt2: I also have a part time job at a law firm  /
+sd          A.51 utt3: {C and } I get no benefits from them, ((at)) [ to + ] the part time work although, they pay better per hour --   
+
+b          B.52 utt1:  Uh-huh. /  
+
++          A.53 utt1:  -- than [ my, + my ] sort of, quote, real job does. /  
+
+x          B.54 utt1:  <Laughter>.   
+
+sd          A.55 utt1: {F Uh, } {C and } benefits, through the government are, {F uh, } really, - /
+sv          A.55 utt2: {F uh, } <lipsmack> [ they just, + {F uh, } they're not the greatest. ]  /
+sd          A.55 utt3: {F Uh, } [ I, + before [ I, + I, ] ] {F uh, } <lipsmack> {F uh, } got my degree -- -/  
+
+%          B.56 utt1:  {F ((Uh })), /  
+
+sd          A.57 utt1: -- I'm, {F uh, } [ c-, + a computer ] scientist -- /  
+
+b          B.58 utt1:  Uh-huh. /  
+
+sd          A.59 utt1: -- {C and } before I got my degree, I had, {F uh, } done paralegal work --   
+
+b          B.60 utt1:  Uh-huh. /  
+
++          A.61 utt1: -- for law firms here in Washington  /
+sd          A.61 utt2: {C and, } {F uh, } at that time, I was in gravy city.  /
+sd          A.61 utt3: {F Uh, } the law firms <laughter> in this town are not, {D you know, } - /
+sd          A.61 utt4: for a long time were just rolling in the dough in the --   
+
+b          B.62 utt1:  Yeah. /  
+
++          A.63 utt1: -- early eighties  /
+sv          A.63 utt2: {C and, } {F uh, } benefits were just amazing -- /  
+
+b          B.64 utt1:  Uh-huh. /  
+
+sd          A.65 utt1: -- {C and } we had everything paid for,  /
+sv          A.65 utt2: {C and, } {F uh, } {D anyway, } with the government, it's not, {F uh, } quite that nice a deal.  /
+sv          A.65 utt3: {F Uh, } {C but } [ [ it's, + {D you know, } it's, ] + it's ] okay.  /
+sd          A.65 utt4: What we have to do is, we have to pay, {F uh, } about twenty percent of [ our, + {F uh, } {F uh, } our ] costs  /
+sd          A.65 utt5: {C and } it's deducted from our check each month and that sort of thing,  /
+sd          A.65 utt6: {C and } the plans that are available to us, {F uh, } range from kind of mediocre to really sweet  /
+sv          A.65 utt7: {C and, } {F uh, } <lipsmack> {C so } [ I, + I ] think I'm actually involved in a relatively good [ p-, + plan ] at this point.  /
+sv          A.65 utt8: {F Uh, } {C but, } {F uh, } it could be better,  /
+sv          A.65 utt9: that's for sure,  /
+sv          A.65 utt10: [ {C and, } + {F uh, } <lipsmack> {C but, } ] {D you know } --   
+
+b          B.66 utt1:  Yeah. /  
+
++          A.67 utt1: -- [ the-, + there ] are other things that you get when you work for the government [ [ i-, + {F uh, } in, ] + in ] terms of, {F uh, } more relaxed atmosphere.  /
+sd          A.67 utt2: It's really nice [ to be, + {A for me, anyway, } to be ] able to work in, {F uh, } a research atmosphere, {F uh, } where I don't have to, {F uh, } {F uh, } {D you know, } worry about, {F uh, } academics or anything like that,  /
+sd          A.67 utt3: {C and, <lipsmack> so } [ I'm, + I'm ] really kind of happy about that end [ of, + of ] things.  /
+%          A.67 utt4: It's, {F uh, } -/  
+
+b          B.68 utt1: Yeah,  /
+sd          B.68 utt2: one of the things with my company is that they've, {F uh, } got a reputation for a lot of job security  /
+sd          B.68 utt3: {C and, } {F uh } --   
+
+b          A.69 utt1:  Uh-huh. /  
+
++          B.70 utt1: -- there's a lot of different things that they do, lot of different divisions [ even this area, + in the San Francisco Bay Area ] that they do,  /
+%          B.70 utt2: {C so } there's, - /
+sd          B.70 utt3: I, myself have moved around quite a bit within the company -- /  
+
+b          A.71 utt1:  Uh-huh. /  
+
+sd          B.72 utt1: -- [ [ {C and } it's, + {C and } I, ] + {C and } I ] haven't had to move my residence to do that.  /
+sd          B.72 utt2: {D You know, } I still live in San Jose  /
+%          B.72 utt3: {C and, } -/  
+
+ba          A.73 utt1:  Wow,  /
+sv          A.73 utt2: that's fabulous. /  
+
+b          B.74 utt1:  Yeah  /
+%          B.74 utt2: it, -/  
+
+sv          A.75 utt1: {D You see, } {D now } [ that's, + that's ] interesting,  /
+sd          A.75 utt2: {C because } I have a cousin whose husband works for Hewlett Packard --   
+
+bh          B.76 utt1:  {F Oh, } yeah? /  
+
++          A.77 utt1:  -- up in the Massachusetts area. /  
+
+b^r          B.78 utt1:  Yeah. /  
+
+sd          A.79 utt1:  [ He, + he ] lives in Andover -- /  
+
+b          B.80 utt1:  Uh-huh. /  
+
+sd          A.81 utt1: -- {C and, } {F uh, } the work that he, - /
+sd          A.81 utt2:  he's, {F uh, } specifically an engineer [ and, + and ] does work with, {F uh, } the Hewlett Packard machines that do, {F uh, } <lipsmack> {F uh, } sonographic imagining -- /  
+
+b          B.82 utt1:  Right,  /
+b^r          B.82 utt2: right. /  
+
+sd          A.83 utt1: -- {C and, } {F uh, } I've been over to see his complex over there  /
+sv          A.83 utt2: {C and } it's amazing. /  
+
+b          B.84 utt1:  Uh-huh. /  
+
+sd          A.85 utt1: [ It's, + it's ] all ecologically designed  /
+sd          A.85 utt2: [ {C and, } + {C and, } ] {F uh, } he seems really, really happy with [ the, + the ] set up. /  
+
+b          B.86 utt1:  Yeah,  /
+b^r          B.86 utt2: yeah. /  
+
+%          A.87 utt1:  {C And, } -/  
+
+sd          B.88 utt1: In fact, I know a guy who works at Andover [ who used to work, + who I used to work ] with out here -- /  
+
+b          A.89 utt1:   Uh-huh. /  
+
+sd          B.90 utt1: -- {C and } he moved his family back east a few years ago [ to, + to ] take that position.  /
+sv          B.90 utt2: Kind of interesting.  /
+%          B.90 utt3: {F Uh, } [ a-, + anyhow, ] -/ 

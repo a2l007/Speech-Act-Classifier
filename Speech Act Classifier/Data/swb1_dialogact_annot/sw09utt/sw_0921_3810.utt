@@ -1,0 +1,249 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3810_1253_1307
+TOPIC#:		308
+DATE:		920121
+TRANSCRIBER:	glp
+UTT_CODER:      mmab
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+ad          A.1 utt1:  Why don't you tell me about your choir. /  
+
+b          B.2 utt1:  Oh. /  
+
+x          A.3 utt1:  <Throat_clearing>.   
+
+aa          B.4 utt1:  Okay,  /
+sd          B.4 utt2: {D well, } we, {F uh, } are a group of, {F uh, } musicians that just kind of have, {D you know, } formed out of a desire to sing  /
+sd          B.4 utt3: {C and } many of the people in the group are [ very professional in the sense that they, + {E or } just real talented ] {E I should say. } /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1:  Lot of them are former music teachers or currently teaching.  {F Uh, }  /
+%          B.6 utt2: others have, - /
+sd          B.6 utt3: there's one gal that's in the, {F uh, } Plano Community Orchestra.  {F Uh, } <lipsmack>  /
+sd          B.6 utt4: just, {D you know, } different backgrounds.  /
+sd          B.6 utt5:  It's been really kind of interesting. /  
+
+ba          A.7 utt1:  Great. /  
+
+%          B.8 utt1:  {D So, } -/  
+
+sd          A.9 utt1: {F Uh, } I play the piano -- /  
+
+b          B.10 utt1:  {F Um. } /  
+
+sd          A.11 utt1:  -- {C and, } {F uh, } I have a four year old [ who, + who ] has started to play the piano.  /
+sd          A.11 utt2: He does that, {F uh, } musically, listens  /
+sd          A.11 utt3: {C and then } he can play, which is kind of interesting. /  
+
+b          B.12 utt1:  {F Oh, } yeah. /  
+
+sv          A.13 utt1:  I think it's because he's always heard music in our home [ all the, + since ] he was a baby. /  
+
+b          B.14 utt1:  Uh-huh. /  
+
+sd          A.15 utt1:  {F Uh, } <lipsmack> my husband and my other son, who's eleven just got through singing in a musical here, [ in, + in ] the community at Music Man. /  
+
+bh          B.16 utt1:  {F Oh, } they did? /  
+
+qy          A.17 utt1:  Yeah,  /
+sd^e          A.17 utt2: {C and } that's --   
+
+qw          B.18 utt1:  [ How did, +   
+
++          A.19 utt1:  -- lots of fun. /  
+
++          B.20 utt1:  How did ] they get involved in that? /  
+
+sd          A.21 utt1:  {F Uh, } basically they read in the newspaper that there were open auditions.  /
+sd          A.21 utt2: It was the Plano Repertory Theatre. /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sd          A.23 utt1:  {C And so } they went and tried out  /
+sd          A.23 utt2: {C and } my husband played Harold Hill from the Music Man  /
+sd          A.23 utt3: {C and } my son played one of the children in a band. /  
+
+ba          B.24 utt1:  {F Oh, } how fun. /  
+
+aa          A.25 utt1:  {D So, } yeah,  /
+aa          A.25 utt2: it was really fun,  /
+sd          A.25 utt3: {C and, } {F uh, } my son plays the clarinet in his band at school,  /
+sd          A.25 utt4: {C and } my daughter takes piano lessons, too. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sd          A.27 utt1:  {C But, } {F uh, } we just really like music.  /
+sd          A.27 utt2:  [ [ It's a, +  I, ] + I ] especially like it as an outlet when the T V goes off,  /
+sd          A.27 utt3: we <laughter> --   
+
+b          B.28 utt1:  {F Um, } uh-huh,  /
+b          B.28 utt2: {F um. } /  
+
++          A.29 utt1:  -- get the T V off and just have some nice quiet music. /  
+
+b          B.30 utt1:  Yeah,  /
+b^r          B.30 utt2: yeah,  /
+ba          B.30 utt3: that's nice.  /
+qy^d          B.30 utt4:  You say have your four year old taking lessons already? /  
+
+ny          A.31 utt1:  Uh-huh. /  
+
+qw          B.32 utt1:  {C And, } {F uh, } who do you have her, or him, take it from? /  
+
+sd          A.33 utt1:  {F Uh, } I have him take from a friend of mine who teaches Suzuki.   
+
+b          B.34 utt1:  Uh-huh. /  
+
++          A.35 utt1:  Which is an auditory type learning experience.  /
+sd          A.35 utt2:  You listen to the music and  then learn to play it [ by lear-, + by hearing ] the intervals and things like that. /  
+
+b          B.36 utt1:  Uh-huh. /  
+
+sd          A.37 utt1:  I teach, {F uh, } <lipsmack> like what is traditionally taught, {D you know, }  /
+sd          A.37 utt2: you look at the note on the page  /
+sd          A.37 utt3: {C and } you play what's on the piano,  /
+sd          A.37 utt4: {C but } he can't learn like that.  /
+sd          A.37 utt5: He's a delayed child.  /
+sd          A.37 utt6:  [ He's only about, + I guess he's about ] two and a half in his real understanding of things. /  
+
+b          B.38 utt1:  Oh. /  
+
+sd          A.39 utt1:  [ {C And, } + {F uh, } {C so } ] when my friend played something on the piano and he played it, {F uh, } with his right hand,  /
+sd(^q)          A.39 utt2: we went, wow -- /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+^q          A.41 utt1:  -- we better have him [ do + s-, do something. ]   
+
+b          B.42 utt1:  Yeah. /  
+
++          A.43 utt1:  {D You know, } educationally. /  
+
+b          B.44 utt1:  Yeah. /  
+
+sd          A.45 utt1:  {C So } that was really fun. /  
+
+%          B.46 utt1:  # {D Well, } {C because } my, # -/  
+
+sd          A.47 utt1:  # My husband and # I love to go to the musicals downtown, though. /  
+
+br          B.48 utt1:  Pardon # me? # /  
+
+sd          A.49 utt1:  # {D So, } # my husband and I love to go to the musicals when they come into town --   
+
+b          B.50 utt1:  Uh-huh. /  
+
++          A.51 utt1:  -- into Dallas. /  
+
+b          B.52 utt1:  Uh-huh.  /
+sd          B.52 utt2:  {D Well, } I have an eight and a half year old daughter who's taking piano lessons and started out at the age of just turning five -- /  
+
+b          A.53 utt1:  {F Um. } /  
+
+sd          B.54 utt1:  -- {C because } [ she wanted, + {D you know, } she just seemed ] to enjoy it so much  /
+sd          B.54 utt2: {C and } now [ my, + my ] [ four year old, + four and a half year old ] daughter [ is, + is ] trying to imitate her older sister and wanting to play  /
+sd          B.54 utt3: {C and } she actually does some very nice chording just naturally.  /
+%          B.54 utt4:  She just, -/  
+
+sv          A.55 utt1:  {F Oh, } I think that's great. /  
+
+sd          B.56 utt1:  {C So } I wasn't sure when to start her.  /
+sd          B.56 utt2:  I didn't want to push her too early, either, but, {F uh, } kind of had a mixed feelings about that scene. /  
+
+sv          A.57 utt1:  That's really hard I think, [ because, + ] especially if you start them  /
+sv          A.57 utt2: {C and then } they get pretty good  /
+sv          A.57 utt3: {C and then } they get close, ten, {D you know, } eleven or  something,  /
+sv(^q)          A.57 utt4: they go, I don't want to do this anymore  /
+sv(^q)          A.57 utt5: {C and } you're like --   
+
+b          B.58 utt1:  Uh-huh <laughter>. /  
+
++          A.59 utt1:  -- God, I really want <laughter> you to do it. /  
+
+b          B.60 utt1:  Yeah. /  
+
+qh          A.61 utt1:  {D You know. } /  
+
+b          B.62 utt1:  Yeah. /  
+
+sv          A.63 utt1:  {C So } sometimes it's hard [ to, + to ] know exactly when,  /
+h          A.63 utt2: {C but, } I don't know,  /
+ad          A.63 utt3: if she acts like she wants to or says she wants to maybe you could have her take some for a while and see how she likes it. /  
+
+aa          B.64 utt1:  Uh-huh,  /
+aa^r          B.64 utt2: uh-huh.  /
+aa          B.64 utt3:  Yeah,  /
+sd          B.64 utt4: I think she'd like to,  /
+%          B.64 utt5: I just don't know if it's really, - /
+sd          B.64 utt6: knowing from what my daughter has gone through, [ she's, + she ] learned a lot  /
+sd          B.64 utt7: {C and, } of course, it was something she had to keep relearning if she ever got away from it. /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+sd          B.66 utt1:  It was something easily forgotten.  /
+sd          B.66 utt2:  {C So, } {F uh, } I don't know if she's any farther ahead than those kids who started when they were eight  /
+sd          B.66 utt3: [ {C or, } + {C or } ] should I say seven.  /
+sd          B.66 utt4: {E I mean, } she's not a gifted pianist in the sense that she's going to excel just naturally.  /
+sd          B.66 utt5:  She does have to really work at it,  /
+%          B.66 utt6: [ {C but, } + {F uh, } {C so, } ] -/  
+
+sd          A.67 utt1:  That's like me. /  
+
+b          B.68 utt1:  Yeah,  /
+sd          B.68 utt2: [ {C but, } + {C so } ] I'm kind of, {D you know, } just playing with it,  /
+sd          B.68 utt3: {C but } at this point we're going to kind of wait, I think just more for the financial reasons of it anyway  /
+%          B.68 utt4: {C but, } -/  
+
+sv          A.69 utt1:  {D Well, } it can get expensive -- /  
+
+b          B.70 utt1:  Yeah. /  
+
+sv          A.71 utt1:  -- that's for sure. /  
+
+b          B.72 utt1:  Yeah. /  
+
+sd          A.73 utt1:  [ I, + my friend ] [ is, + is ] very generous [ in, + in ] letting us have my children, {F uh, } do the Suzuki method --   
+
+b          B.74 utt1:  Uh-huh. /  
+
++          A.75 utt1:  -- without paying a lot out. /  
+
+ba          B.76 utt1:  {F Oh, } that's good. /  
+
+aa          A.77 utt1:  Yeah,  /
+sd          A.77 utt2: {C so } it's been good for our family. /  
+
+qy          B.78 utt1:  {D Well, } as a piano teacher, do you have any feelings for kids who come from a Suzuki method,  /
+qy          B.78 utt2: have you had any former Suzuki students? /  
+
+ng          A.79 utt1:  I don't have any Suzuki students.  {F Uh, } /  
+
+qw^d          B.80 utt1:  I was wondering how, -/  
+
+sd          A.81 utt1:  Something happening to me at Christmas time [ that, + that ] verified to me that I will al-, -/ 

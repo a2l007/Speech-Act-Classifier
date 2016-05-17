@@ -1,0 +1,353 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+FILENAME:	2753_1245_1249
+TOPIC#:		346
+DATE:		910501
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	3
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        Speaker B had some banging noises at quite a few points in
+the checking section of the tape that I did not hear during the dialogue.
+
+============================================================================
+  
+
+sd          A.1 utt1:  The Latin American situation in, - /
+sd          A.1 utt2: the last development I know of was the military and financial assistance Columbia --   
+
+b          B.2 utt1:  Uh-huh. /  
+
++          A.3 utt1:  -- for the, for the drug, uh, control.  /
+sv          A.3 utt2: And I support that fully.  /
+sv          A.3 utt3:  I'm not sure we have the right solution to it,  /
+sv          A.3 utt4: but at least we're, we're going to the source of the problem.  /
+sd          A.3 utt5:  And,   
+
+b^r          B.4 utt1:  # Uh-huh.  # /  
+
++          A.5 utt1:  # the # source of supply.  /
+sv          A.5 utt2:  Uh, the problem is here,  /
+sv          A.5 utt3: but the source of supply is there. /  
+
+aa          B.6 utt1:  That's true.  /
+aa          B.6 utt2:  Very definitely so. /  
+
+sv          A.7 utt1:  In fact I think a lot of the, - /
+sd          A.7 utt2: I've been to, uh, Peru several times. /  
+
+b          B.8 utt1:  Uh-huh. /  
+
+sd          A.9 utt1:  I've never been to other parts of South America,  /
+sd          A.9 utt2: but, uh, I have been to Peru,  /
+sv          A.9 utt3: and they need some assistance down there  /
+sv          A.9 utt4: and I'm sure that, uh, as an undeveloped country they look, look for it,  /
+sv*          A.9 utt5: but there is not exactly a lot of, uh, physical responsibility there. / *[[listen; probably 'fiscal' not 'physical']] 
+
+aa          B.10 utt1:  No.  /
+sv          B.10 utt2:  Very immature <laughter> in that --   
+
+aa          A.11 utt1:  Yes,  /
+aa          A.11 utt2: right. /  
+
++          B.12 utt1:  -- respect. /  
+
+sv          A.13 utt1:  And I, I think that, uh, they need guidance and assistance,  /
+sv          A.13 utt2: but they need to learn how to stand on their own, own two feet also. /  
+
+aa          B.14 utt1:  I agree.  /
+sv          B.14 utt2:  I think that for so long power financially, uh, governmentally, every which way was in the hands of such a few --   
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  -- that <breathing> there's not the middle class that we, we perceive. /  
+
+sv          A.17 utt1:  Oh, no, the, and the poor are extremely poor.  /
+aa          A.17 utt2:  I know, -/  
+
+^2          B.18 utt1:  Are extremely poor.  /
+aa          B.18 utt2:  That's correct. /  
+
+sd          A.19 utt1:  I know, uh, some of the areas in, in Texas seem poor,  /
+sv          A.19 utt2: but until you've seen some of those, uh, native,   
+
+b          B.20 utt1:  # Uh-huh.  # /  
+
++          A.21 utt1:  # Latin # Americans come down from the hills, you can't imagine what poor is.  /
+sd          A.21 utt2:  And, uh, the worst scene I've ever had I think was, uh, someone eating out of, out of a garbage can on the streets in Lima, Peru. /  
+
+bf          B.22 utt1:  And, and just very happy to get that. /  
+
+aa          A.23 utt1:  Oh, yes.  /
+aa^r          A.23 utt2:  Yes. /  
+
+sd          B.24 utt1:  I have a brother who spent two years in Bolivia. /  
+
+b          A.25 utt1:  Uh-huh. /  
+
+sd          B.26 utt1:  And this is very much his, you know, reaction that the rich are so rich and the poor are so poor. /  
+
+sd          A.27 utt1:  Oh, the, there's a joke,  /
+sv          A.27 utt2: the, the graft and the, uh, payoffs down there are <breathing>, are an accepted way  /
+%          A.27 utt3: and, in a way, -/  
+
+b          B.28 utt1:  Uh-huh,  /
+b^r          B.28 utt2: uh-huh. /  
+
+sv          A.29 utt1:  And there's, there's a sad joke.  /
+sv          A.29 utt2:  I guess all jokes are really sad,  /
+sd          A.29 utt3: but there's a joke about the, uh, Ambassador from Latin America that came to visit a Senator in the U S and was taken to his home for dinner  /
+sd          A.29 utt4: and the, uh, home was palatial.  /
+sd          A.29 utt5:  They had five or six servants, you know, and, and, a lot of expensive, uh, holdings and all that,  /
+sd(^q)          A.29 utt6: and the Ambassador said, but I know what you make as a U S Senator,  /
+^q          A.29 utt7: how can you afford all of this?  /
+sd(^q)          A.29 utt8: And he said, come I'll show you  /
+sd          A.29 utt9: and he walked out in the backyard  /
+sd(^q)          A.29 utt10: and the, uh, Senator said do you see that hospital over there?  /
+sd(^q)          A.29 utt11: And the Ambassador said, yes.  /
+sd          A.29 utt12:  And he patted his pocket  /
+sd(^q)          A.29 utt13: and he said fifteen percent.  /
+sd(^q)          A.29 utt14:  He said, you see that school over there?  /
+sd(^q)          A.29 utt15:  And the Ambassador said, yes,  /
+sd(^q)          A.29 utt16: and he pot, patted his pocket and said fifteen percent,  /
+%          A.29 utt17: so, -/  
+
+ba          B.30 utt1:  # <Laughter>  Oh, gosh.  # /  
+
+sd          A.31 utt1:  # so the next # year the Senator went to Latin America to visit the Ambassador and was treated to dinner in his home  /
+sd          A.31 utt2: and it was twice as large and four times as many servants.  /
+sd(^q)          A.31 utt3:  He said, well I know how poor your country is,  /
+^q          A.31 utt4: how can you afford this, uh, in such a poor country,  /
+sd(^q)          A.31 utt5: and he, he said, come I'll show you  /
+sd          A.31 utt6: and he walked out the backyard  /
+sd(^q)          A.31 utt7: and he said, do you see that hospital over there?  /
+sd          A.31 utt8: And the Senator looked  /
+sd          A.31 utt9: and he couldn't see anything,  /
+sd(^q)          A.31 utt10: he said, no.  /
+sd(^q)          A.31 utt11:  And the Ambassador potted, patted his pocket and said one hundred percent  /
+%          A.31 utt12: so, -/  
+
+b          B.32 utt1:  Yep <laughter>. /  
+
+b          A.33 utt1:  Yeah,  /
+%          A.33 utt2: that, - /
+sv          A.33 utt3: it's a sad story  /
+%          A.33 utt4: but, -/  
+
+o          B.34 utt1:  Intentions, intentions <laughter>. /  
+
+aa          A.35 utt1:  Yes,  /
+aa^r          A.35 utt2: yes,  /
+sv          A.35 utt3: but it, uh, it is a problem. /  
+
+aa          B.36 utt1:  I know.  /
+sd          B.36 utt2:  Uh, I have a sister-in-law who is from Nicaragua  /
+sd          B.36 utt3: and her family, - /
+sd          B.36 utt4: her father was a fairly, uh, high ranking official under Somoza.  /
+sd          B.36 utt5:  And when that went down the tubes they had to get out. /  
+
+b          A.37 utt1:  Uh-huh. /  
+
+sd          B.38 utt1:  And seventeen children,   
+
+b          A.39 utt1:  # Um.  # /  
+
++          B.40 utt1:  # filtered # through into, into America through Guatamala, through Mexico, through Honduras,  /
+sd          B.40 utt2: you know, two here, three there, one here, you know, this kind of thing until, -/  
+
+b          A.41 utt1:  # Yeah.  # /  
+
+sd          B.42 utt1:  # and # now, uh, couple of the older ones stayed or went back,  /
+sd          B.42 utt2: but the rest of them now have their American citizenship and are leading productive lives, /  
+
+b          A.43 utt1:  # Uh-huh.  # /  
+
+%          B.44 utt1:  # but, # you kn-, -/  
+
+sd          A.45 utt1:  Well, the oth-, the other instance I think of their inability to, to handle things, the cholera,   
+
+aa          B.46 utt1:  # Yes.  # /  
+
++          A.47 utt1:  # and # hepatitis epidemics now in, in Latin America.  /
+sv          A.47 utt2:  And it shows the, the unpreparedness for such, such a problem. /  
+
+aa^r          B.48 utt1:  Yes. /  
+
+%          A.49 utt1:  And yet they're so, -/  
+
+sd          B.50 utt1:  Oh, the stories she tells, you know, are just unnerving --    
+
+b          A.51 utt1:  Yeah. /  
+
++          B.52 utt1:  -- just unnerving. /  
+
+sd          A.53 utt1:  And they're, they're so rich in resources there.  /
+sd          A.53 utt2:  They're very rich in oil and gas.  /
+sd          A.53 utt3:  And they're very rich in gold and silver, and very rich in, in, uh, natural resources such as the fish and, uh --   
+
+b          B.54 utt1:  Uh-huh,  /
+b^r          B.54 utt2: uh-huh. /  
+
++          A.55 utt1:  -- timber, and, and copper and all types of, uh, resources  /
+%          A.55 utt2: but they, -/  
+
+^2          B.56 utt1:  And the uranium. /  
+
+aa          A.57 utt1:  Yes,  /
+%          A.57 utt2: and, - /
+sv          A.57 utt3: but they don't have, - /
+sv          A.57 utt4: it's sort of like Russia,  /
+sv          A.57 utt5: they don't have the ability to develop it. /  
+
+bf          B.58 utt1:  The technology. /  
+
+aa          A.59 utt1:  Right.  /
+%          A.59 utt2:  And they, they're very, -/  
+
+b          B.60 utt1:  Well, - /
+sv          B.60 utt2: and, you know, they're very willing to be taught in many cases now, too,  /
+sv          B.60 utt3: but, you know, there's just always this kind of resentment underlying  /
+sv          B.60 utt4: I think that when they <breathing>  receive help from us, they want it,  /
+sv          B.60 utt5: but, they don't want it, I mean <laughter>, /  
+
+aa          A.61 utt1:  You're --   
+
+sv          B.62 utt1:  It's kind of a --   
+
++          A.63 utt1:  -- you're exactly right. /  
+
++          B.64 utt1:  -- catch twenty-two. /  
+
+aa          A.65 utt1:  Uh-huh.  /
+sd          A.65 utt2:  It, it's sort of illustrated by the, uh, World Bank and International Monetary Fund not wanting to continue to do business there  /
+sd          A.65 utt3: because they offer assistance, then don't get repaid. /  
+
+b          B.66 utt1:  Yeah,  /
+b^r          B.66 utt2: yeah. /  
+
+sv          A.67 utt1:  So it's sort of a thumbing of the nose, uh, approach.  /
+sv          A.67 utt2:  They need it,  /
+sv          A.67 utt3: and they need to live up to certain regulations and expectations,  /
+sv          A.67 utt4: but uh, then don't.  /
+sv          A.67 utt5:  Of course it's a very volatile government, uh, situation, too. /  
+
+b          B.68 utt1:  Well, - /
+sv          B.68 utt2: and I think that, you know, it, - /
+h          B.68 utt3: somewhat a sarcastic view, - /
+sd          B.68 utt4: but some of those drugs czars, you know, - /
+sv          B.68 utt5: they, they know that by pumping that poison into our system --   
+
+b          A.69 utt1:  Uh-huh. /  
+
++          B.70 utt1:  -- that that's the way to bring us to our knees, more on their level. /  
+
+%          A.71 utt1:  You know, -/  
+
+sv          B.72 utt1:  You know, that's really, uh, kind of a far fetched idea,  /
+aa          B.72 utt2: I know,  /
+sv          B.72 utt3: and I don't think people probably think those things consciously, /  
+
+b          A.73 utt1:  # Uh-huh.  # /  
+
+sv          B.74 utt1:  # but # it's like in any sibling rivalry <laughter>  -- /  
+
+%          A.75 utt1:  Well the, -/  
+
+sv          B.76 utt1:  -- we're hearing the same, /  
+
+sv          A.77 utt1:  The solution discussed at one time and I think it has real merit on the drug situation is that the g-, the U S government could spend less money by buying the crop and destroying it than they are in trying to, to beef up the military and to do all other things.  /
+sv          A.77 utt2:  I think it would be cheaper to buy it and destroy it,  /
+sd          A.77 utt3: which would still give the, uh, the grower in Columbia and elsewhere in Latin America the, uh, the money that they apparently need and go, go to the illegal crop for.  /
+sv          A.77 utt4:  And it would save the U S money in --   
+
+^2          B.78 utt1:  In the long run. /  
+
++          A.79 utt1:  -- in the long run in how much they're trying to do, /  
+
+sv          B.80 utt1:  And in the short run probably <laughter>, too. /  
+
+aa          A.81 utt1:  <Laughter> True. /  
+
+qy          B.82 utt1:  Course, then could, you know, at, at some point, could you ever convince someone to turn around and grow something that was productive for humankind. /  
+
+nn          A.83 utt1:  No,  /
+nn^r          A.83 utt2: no. /  
+
+%         B.84 utt1:  You know. /  
+
+sv          A.85 utt1:  And, I, I think finding an alternate to that would be very good. /  
+
+sv          B.86 utt1:  I mean even their, even their legal crops are things that we don't perceive as being healthy now from a medical standpoint of view, coffee --   
+
+b          A.87 utt1:  Right. /  
+
++          B.88 utt1:  -- tobacco --   
+
+b          A.89 utt1:  Uh-huh. /  
+
++          B.90 utt1:  -- you know <laughter>. /  
+
+^2          A.91 utt1:  Argentine beef,  /
+%          A.91 utt2: yeah,  /
+%          A.91 utt3: yeah. /  
+
+sd          B.92 utt1:  They're certainly legal,  /
+sv          B.92 utt2: but they're certainly not healthy. /  
+
+qy          A.93 utt1:  Well, have we come up with a solution yet, Salina? /  
+
+nn          B.94 utt1:  No,  /
+sd^e          B.94 utt2: not that I know of <laughter>. /  
+
+x          A.95 utt1:  <Laughter>. /  
+
+sv          B.96 utt1:  But it's been fun hashing about it I suppose.  /
+%          B.96 utt2:  At any rate, - /
+%          B.96 utt3: yeah. /  
+
+b^m          A.97 utt1:  Yeah,  /
+b^r          A.97 utt2: yeah.  /
+sd          A.97 utt3:  Well, one of these days, uh, I hope we'll find some, some way to substitute the good crops for illegal ones. /  
+
+sv          B.98 utt1:  Well, let's just hope that the powers that be, uh, have time to, a little bit once in a while to, to think in some farther reaching avenues than you and I do here tonight  /
+%          B.98 utt2: but, -/  
+
+aa          A.99 utt1:  I agree. /  
+
+fc          B.100 utt1:  Well, it's been nice chatting with you. /  
+
+fc          A.101 utt1:  Yes,  /
+fc          A.101 utt2: it has. /  
+
+fc          B.102 utt1:  I appreciate it,  /
+fc          B.102 utt2: and, and tell your wife I hope we, I get her again sometime, too.  /
+fc          B.102 utt3:  This is fun, /  
+
+fc          A.103 utt1:  Very good <laughter>. /  
+
+fc          B.104 utt1:  It's kind of nice to, <breathing> to see old friends now, you see. /  
+
+fc          A.105 utt1:  All right,  /
+ft          A.105 utt2: thank you Salina. /  
+
+fc          B.106 utt1:  Bye now. /  
+
+fc          A.107 utt1:  Bye. / 

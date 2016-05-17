@@ -1,0 +1,465 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3013_1022_1253
+TOPIC#:		306
+DATE:		910605
+TRANSCRIBER:	csw
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	3
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        There is a fairly loud line noise on Caller B the entire
+conversation, it sounds like a chain saw buzzing.
+
+========================================================================
+  
+
+o          A.1 utt1:  All right,  /
+qw          A.1 utt2: what type of things would you  fix if you're having company come over? /  
+
+sd          B.2 utt1:  {D Well, } I have a really great one that  I make in the summertime because it's cool  /
+sd          B.2 utt2: {C and } [ it's, + {F uh, } it's ]  just really pretty easy.  /
+sd          B.2 utt3:  It's pretty much dumping things in and stirring. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  {C And } I like that.  /
+sd          B.4 utt2: {F Uh, } the only thing you  have to do is cook the rice that goes [ in, + in ] it  /
+sd          B.4 utt3: {C and then } [ I, + you're ]  supposed to do chicken,  /
+sd          B.4 utt4: {C but } I just use those little cans of chicken. /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1:  {C And } it makes it so much easier,  /
+sd          B.6 utt2: {C and so }  you dump the rice,  /
+sd          B.6 utt3: you dump the chicken  /
+sd          B.6 utt4: {C and then } you put in fruit like pineapple and  mandarin oranges and  grape,  /
+sd          B.6 utt5: now grapes are the ones that you  have to pull all that off,  /
+sd          B.6 utt6: {C but } I get my kids to do that,  /
+%          B.6 utt7: {C so, } <laughter> -/  
+
+sd          A.7 utt1:  Oh <laughter>. /  
+
+sd          B.8 utt1:  [ I, +  I ] don't have to do that.  /
+%          B.8 utt2:  [ {C And, } + {F um, } {C and } ] it really, - /
+sd          B.8 utt3: {C and } you mix it all up with ye-, - /
+sd          B.8 utt4:  there's a little dressing that goes in it that you have to stir up,  /
+sd          B.8 utt5: {C but } it's so simple  /
+sd          B.8 utt6: {C and } it tastes  really good because it's cool in the summertime. /  
+
+b          A.9 utt1:  {F Oh, } yeah.  /
+qy          A.9 utt2:  You serve it cold? /  
+
+ny          B.10 utt1:  Uh-huh. /  
+
+bk          A.11 utt1:  {F Oh, } yeah,  /
+ba          A.11 utt2: that sounds good. /  
+
+b          B.12 utt1:  Yeah,  /
+sd          B.12 utt2: it has to sit in the fridge over night,  /
+sv          B.12 utt3:  [ {C but, } + {C but } ] it's really good. /  
+
+%          A.13 utt1:  {F Um. } /  
+
+sd          B.14 utt1:  {C And } I like that one. /  
+
+b          A.15 utt1:  Yeah.  /
+sd          A.15 utt2:  Usually when we entertain we do  something really simple, because I like to visit with my company,   
+
+b          B.16 utt1:  Yeah. /  
+
++          A.17 utt1:   and not be scurrying around in the kitchen,  /
+sd          A.17 utt2: {C so, }    
+
+b          B.18 utt1:  Exactly. /  
+
++          A.19 utt1:  a lot of times, we'll barbecue  /
+sd          A.19 utt2: like,  {F uh, } for Memorial Day we had some friends over  /
+sd          A.19 utt3: {C and } we just bought a brisket and  marinated it overnight in one of those {D like } Adolph's meat marinate,   
+
+b          B.20 utt1:  Uh-huh. /  
+
++          A.21 utt1:  and put it on the smoker and cooked it. /  
+
+ba          B.22 utt1:  {F Oh, } that sounds good. /  
+
+sd          A.23 utt1:  {C And } [ tha-, + ] it was real good.  /
+sd          A.23 utt2:  You can buy a fairly cheap piece of meat that way  /
+sd          A.23 utt3: {C and then } people think they're eating  steak or something <laughter>. /  
+
+b          B.24 utt1:  Yeah,  /
+b^r          B.24 utt2: yeah  /
+qy^g          B.24 utt3: <laughter>.  {C And } these days that  helps, doesn't it? /  
+
+b          A.25 utt1:  Yeah,  /
+b^r          A.25 utt2: yeah. /  
+
+b          B.26 utt1:  Yeah. /  
+
+sd          A.27 utt1:  It really does. /  
+
+sd          B.28 utt1:  I know what you mean. /  
+
+sd          A.29 utt1:  I don't usually  [ I + ] just pass on any recipe  that's got more than five or six steps to it because I just know I'll never take the time to do it. /  
+
+sd          B.30 utt1:  Now spaghetti's such an easy one.  /
+sd          B.30 utt2: {F Um, } I do that a lot. /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  I do spaghetti a lot. /  
+
+b          A.33 utt1:  Yeah,  /
+sd          A.33 utt2: it seems like most people like spaghetti. /  
+
+b          B.34 utt1:  Yeah,  /
+sd          B.34 utt2: I don't like to do that  [ i-, + if ] it's [ ho-, + real hot ] though. /  
+
+b          A.35 utt1:  Yeah. /  
+
+h          B.36 utt1:  {C Because, } {F um, } I don't know,  /
+sd          B.36 utt2:  I have a real thing about being hot [ in the, + in the ] summertime. /  
+
+b          A.37 utt1:  Uh-huh. /  
+
+b          B.38 utt1:  I guess. /  
+
+sv       A.39 utt1:  {D Well } I think when you heat your kitchen  up it really makes a big difference,   
+
+b          B.40 utt1:  Yeah. /  
+
++          A.41 utt1:   in your whole house. /  
+
+aa          B.42 utt1:  Yeah,  /
+sv          B.42 utt2: I think that's right.  /
+sd          B.42 utt3: {C And, } {F um, }  we don't entertain that often,  /
+sd          B.42 utt4: {C but } when we do, I'm like you.  I like it to be fast and easy.    
+
+b          A.43 utt1:  Uh-huh. /  
+
++          B.44 utt1:  And something so that we can talk [ and not + --   
+
+b          A.45 utt1:  Yeah. /  
+
++          B.46 utt1:  -- and not ] have to worry about being  in the kitchen all the time. /  
+
+%          A.47 utt1:  Most, - /
+sd          A.47 utt2: we don't entertain {D like } people from  work or stuff [ e-, + ] often.  /
+sd          A.47 utt3: It's usually friends from church and stuff, /  
+
+b          B.48 utt1:  Yeah. /  
+
+sd(^q)          A.49 utt1:  {C and } it's usually kind of like, you want to come  over, and they say {D well } what can we bring. /  
+
+b          B.50 utt1:  Yeah. /  
+
+sd          A.51 utt1:  {C And so } it's real easy because you  just make one or two things  /
+sd          A.51 utt2: {C and } everybody else brings something. /  
+
+sd          B.52 utt1:  That's exactly like us,  from our church, we just do it,  /
+aa          B.52 utt2: yeah. /  
+
+ba          A.53 utt1:  {F Oh } yeah,  /
+b          A.53 utt2: yeah. /  
+
+%          B.54 utt1:  {F Uh. } /  
+
+sd          A.55 utt1:  It's a lot more relaxing.  /
+sd          A.55 utt2:   I don't know if I could take the pressure of having to [ m-, + ] {D you know, } put on this  really fancy dinner for someone. /  
+
+sd          B.56 utt1:  {D Well } you see all that on T V  /
+sd          B.56 utt2:  {C and } I could never be that person. /  
+
+b          A.57 utt1:  Huh-uh. /  
+
+%          B.58 utt1:  [ It just, + {F uh, } I'm just ]  not, - /
+sd          B.58 utt2: {D well } [ I'm so, + I'm ]  pretty laid back. /  
+
+b          A.59 utt1:  Yeah  /
+%          A.59 utt2: w-, -/  
+
+sd          B.60 utt1:  {C And, } {F uh, } {D you know, } {C so }  [ I don't, + I know ] a lady in [ a, + ]  my church  /
+sd          B.60 utt2: {C and, } {F uh, } she {D like } does her own bread and does her own  stuff  /
+sd          B.60 utt3: {C and so } when she, {F um, } does food, she really goes all out  /
+sd          B.60 utt4: {C and } I don't know  how she can do it and be calm <laughter>. /  
+
+b          A.61 utt1:  Yeah  /
+x          A.61 utt2: <laughter>.   
+
+o          B.62 utt1:  I guess, /  
+
+qy          A.63 utt1:  Do you work? /  
+
+nn          B.64 utt1:  No,  /
+sd^e          B.64 utt2: I don't. /  
+
+qy          A.65 utt1:  Do you stay home with kids? /  
+
+ny          B.66 utt1:  Uh-huh,  /
+ny          B.66 utt2: yeah. /  
+
+b          A.67 utt1:  Yeah.  /
+sd          A.67 utt2:  [ I, + I've ]  been working,  /
+sd          A.67 utt3:  we're going to have a baby this summer,  /
+sd          A.67 utt4: {C and } I'm not going to work anymore. /  
+
+ba          B.68 utt1:  {F Oh, } how exciting. /  
+
+b          A.69 utt1:  Yeah.  /
+sd          A.69 utt2:  {C So } hopefully, I think I'll  enjoy cooking more, when I don't have to work all day.  /
+sd          A.69 utt3: I don't like to come home and stand  in the kitchen and spend an hour fixing something and then have to clean it up  /
+sd          A.69 utt4:  {C and } by then it's eight thirty or nine o'clock at night,  /
+%          A.69 utt5: {C so. } -/  
+
+b          B.70 utt1:  Yeah.  /
+sd          B.70 utt2:  {D Well } I usually start about six  [ [ and, + an, ] + and ] cook and then eat at seven.    
+
+b          A.71 utt1:  Yeah. /  
+
++          B.72 utt1:  {E I mean, } [ co-, + cook ]  at five and eat at six, rather. /  
+
+b^m          A.73 utt1:  Eat at six,  yeah. /  
+
+b          B.74 utt1:  Yeah,  /
+sd          B.74 utt2: {C and, } {F uh, } my family and  I, we're a sit down together family. /  
+
+ba          A.75 utt1:  {F Oh, } that's good. /  
+
+b          B.76 utt1:  {F Uh, } yeah,  /
+sd          B.76 utt2: I don't like the run in and out part. /  
+
+b          A.77 utt1:  Yeah. /  
+
+sd          B.78 utt1:  {C And } I like to be able to sit down  after school and have them talk with me [ an, + and ]  my husband about what's happened  /
+sd          B.78 utt2: {C and, }   
+
+b          A.79 utt1:  Yeah,  /
+ba          A.79 utt2: that's neat. /  
+
++          B.80 utt1:  I think [ I, + ]  that was ingrained in me during my family time at home. /  
+
+b          A.81 utt1:  Uh-huh. /  
+
+sd          B.82 utt1:  {C And, } {F uh, } {D you know } we could learn  to talk about things  /
+sv          B.82 utt2: {C and } I think that's good. /  
+
+aa          A.83 utt1:  Yeah,  /
+sv          A.83 utt2: that really is.  /
+sd          A.83 utt3:  It keeps the family in  touch with what's going on with each other. /  
+
+b          B.84 utt1:  Yeah.  /
+%          B.84 utt2:  I think, -/  
+
+sd          A.85 utt1:  Right now we eat in front of the T V  /
+sd          A.85 utt2:  {C but } since it's just the two of us, it's <laughter>, -/  
+
+b          B.86 utt1:  Yeah,  /
+ b^r         B.86 utt2: yeah  /
+x          B.86 utt3: <laughter>.  /
+sd          B.86 utt4:  {D Well }  that happens to us sometimes too. /  
+
+b          A.87 utt1:  Yeah. /  
+
+sd          B.88 utt1:  {C But, } {F uh, } sometimes if  something, {F uh, } is on that they want to watch I leave it on,  /
+sd          B.88 utt2: {C but } we eat in the kitchen  /
+sd          B.88 utt3:  {C and } their heads are always poking past the door. /  
+
+b          A.89 utt1:  Uh-huh,  /
+^2          A.89 utt2: <laughter> to see what's happening. /  
+
+b          B.90 utt1:  Yeah.  /
+sv          B.90 utt2:  {D Anyway } food [ is, + is, ]  {F uh, } a real life-style kind of thing  /
+sv          B.90 utt3: {C and } [ i-, + ] some people don't like to do this  /
+sv          B.90 utt4: {C but } I like to [ co-, + {F uh, } cook ]  with my kids. /  
+
+b          A.91 utt1:  {F Oh, } uh-huh. /  
+
+sd          B.92 utt1:  {C And } if they're going to have other kids  over then, then they help.  /
+sd          B.92 utt2:  {C And } we make real simple things, {D you know, }   those, {F oh, } - /
+sd          B.92 utt3: [ I don-, + I don't ] know if you've ever made them, maybe not since you don't have  kids yet, but those Jell-O, {F uh, } gelatin things you can pick  up with your fingers, I can't think of what they call it. /  
+
+sd          A.93 utt1:  {F Oh, } I've seen those in the magazines. /  
+
+b          B.94 utt1:  Yeah,  /
+sv          B.94 utt2: they're so simple. /  
+
+b          A.95 utt1:  Uh-huh. /  
+
+sd          B.96 utt1:  {C And } the kids love to do that.  /
+sd          B.96 utt2:  {F Uh, } finger food [ is, + is ] a biggie with them. /  
+
+b          A.97 utt1:  Yeah. /  
+
+sd          B.98 utt1:  [ {C And, } + {C and } ] {D like, }  now one thing I wish I could find [ a, + a ] better way to do are celery sticks and carrot sticks, because they love to  do that  /
+sd          B.98 utt2: {C and } it's just really hard  /
+sd          B.98 utt3: {C and } if you have to work with a  knife, I don't like that. /  
+
+b          A.99 utt1:  Yeah. /  
+
+%          B.100 utt1:  {C So, } that's, {F uh, } - /
+sd          B.100 utt2: they like to eat it,  /
+sd          B.100 utt3:  {C but } it's a hard one to have [ to, + to ] prepare. /  
+
+b          A.101 utt1:  Yeah,  /
+ o@         A.101 utt2:  ((   )) .   
+
+  sd        B.102 utt1:  {C But } they like that with [ the, + the ]  cool ranch dressing that goes along with that. /  
+
+ b         A.103 utt1:  {F Oh } yeah,  /
+b          A.103 utt2: yeah,  /
+sd          A.103 utt3: we like that. /  
+
+b          B.104 utt1:  Yeah. /  
+
+sv         A.105 utt1:   [ That's good that, + that's a good ]  way to get kids to eat vegetables too. /  
+
+ b        B.106 utt1:  Yeah.  /
+sd         B.106 utt2:  My son's getting to be [ a, + a ]  real good cook  /
+%          B.106 utt3: {C so, } {F uh, } -/  
+
+ba          A.107 utt1:  {F Oh, } neat. /  
+
+sd          B.108 utt1:  sometimes he fixes me breakfast <laughter>. /  
+
+ba          A.109 utt1:  {F Oh, } wow, that's great <laughter>. /  
+
+b          B.110 utt1:  Yeah,  /
+sd          B.110 utt2: I like it,  /
+sd          B.110 utt3: I like it a lot. /  
+
+qw          A.111 utt1:  How old is he? /  
+
+sd          B.112 utt1:  He's eleven. /  
+
+b^m          A.113 utt1:  Eleven,  /
+ba          A.113 utt2: wow,   
+
+b          B.114 utt1:  Uh-huh. /  
+
++          A.115 utt1:  that's good. /  
+
+b          B.116 utt1:  Yeah,  /
+%          B.116 utt2: {C so } hi-, -/  
+
+qy          A.117 utt1:  Do [ you cook breakfa-, + {D like } you cook a breakfast ]  every morning  /
+%          A.117 utt2: {C or, } -/  
+
+ng          B.118 utt1:  {F Uh, } not every morning, {F uh, }  /
+sd          B.118 utt2:  mostly during the summer it's hit and miss  /
+sd          B.118 utt3: {C and, }   
+
+b          A.119 utt1:  Yeah. /  
+
++          B.120 utt1:  we usually have {D like, } {F uh, }  cold cereal or something like that. /  
+
+b          A.121 utt1:  Yeah. /  
+
+sd          B.122 utt1:  {F Um, } [ during the su-, + during wintertime ]  when they're in school, {F um, } then I try to vary it so that we only eat  that {D like } [ a twice a, + twice a ] week or  something and then have {D like, } when it's  really cold, I even cook oatmeal,   
+
+b          A.123 utt1:  Uh-huh. /  
+
++          B.124 utt1:  Because I like oatmeal  /
+sd          B.124 utt2: {C and } [ the loo-, + ]  they like it all right. /  
+
+b          A.125 utt1:  Yeah. /  
+
+sd          B.126 utt1:  {C And, } {F um, } {C then } sometimes we  do something,  /
+sd          B.126 utt2: it has to be fast because they're on their way to school,  /
+sd          B.126 utt3: we do {D like } Eggo  waffles and stuff like that,  /
+%          B.126 utt4: {C but. } -/  
+
+b          A.127 utt1:  {F Oh, } uh-huh,  /
+b          A.127 utt2: yeah. /  
+
+b          B.128 utt1:  Yeah,  /
+%          B.128 utt2: {C so, } I try to, {F uh, } - /
+sd          B.128 utt3: {C and }  sometimes we do eggs if I get up early enough to do that.  /
+sd          B.128 utt4: I used to do them in the microwave,  /
+sd          B.128 utt5:  {C but } they don't like that. /  
+
+qy          A.129 utt1:  {F Oh, } do they get rubbery,  /
+%          A.129 utt2: {C or, } -/  
+
+%          B.130 utt1:  {F Um. } /  
+
+sd          A.131 utt1:  I've never tried it. /  
+
+no          B.132 utt1:  [ It de-, + it depends. ]  /
+sd          B.132 utt2:  If you let them cook too long --   
+
+b          A.133 utt1:  Uh-huh. /  
+
++          B.134 utt1:  -- then they'll turn a little bit gray.  /
+sd          B.134 utt2:   You can tell if they've gone to long because they'll turn a little bit gray  /
+sd          B.134 utt3:  {C and } they will be a little harder,  /
+sd          B.134 utt4: {C and } I don't like that. /  
+
+b          A.135 utt1:  Yeah. /  
+
+sd          B.136 utt1:  {C So } you have to just let it cook a  little bit less than what it says  in, if you have a microwave book,  /
+sd          B.136 utt2: {C but } you cook it a little  bit less and then let it sit with [ a, + {D like } a ] plate over the top. /  
+
+ b         A.137 utt1:  Oh. /  
+
+sd          B.138 utt1:  {C And } let it steam. /  
+
+b          A.139 utt1:  Uh-huh. /  
+
+sd          B.140 utt1:  [ {C And then, } + {C and then } ] stir it up. /  
+
+b          A.141 utt1:  {F Huh. } /  
+
+b          B.142 utt1:  Yeah,  /
+sd          B.142 utt2: [ {C an, } + {C and } ] that turns out okay. /  
+
+b          A.143 utt1:  Yeah. /  
+
+sd          B.144 utt1:  {C And } it's funny 'cause if I turn  them out [ on to a di-, i-, + on to ] {D like } a plate, for them to take what they want, <child_talking> --   
+
+sd          A.145 utt1:  Uh-huh. /  
+
++          B.146 utt1:  -- they don't know I've ever done it in a microwave. /  
+
+x          A.147 utt1:  <Laughter>.   
+
+sv          B.148 utt1:  It's really funny,  /
+sd(^q)          B.148 utt2: it's very deceiving, {D you know, }  'cause if they see it with their eyes they go, {F uh, } I don't {D like } want that,   
+
+ b         A.149 utt1:  Yeah  /
+x          A.149 utt2: <laughter>.   
+
++          B.150 utt1:  {D you know, }  /
+sd          B.150 utt2: {C and } yet if they don't  ever see it, [ th-, + then ] it's like, {F oh } this tastes okay, {D you know, }  /
+%          B.150 utt3: {C so. } -/  
+
+b          A.151 utt1:  Yeah. /  
+
+%          B.152 utt1: {D Anyway. } -/  
+
+sd          A.153 utt1:  We had, - /
+sd          A.153 utt2:  my grandmother used to do that to us with things like squash.  /
+sd          A.153 utt3: Everybody would say we don't like squash,  we won't eat squash,  /
+sd          A.153 utt4: {C so } she would make these fancy casseroles and hide it in there, {D you know, } /  
+
+b          B.154 utt1:  Yeah  /
+x          B.154 utt2: <laughter>.   
+
+sd(^q)          A.155 utt1:  {C and then } we'd go, {F oh, } this is really good. / 

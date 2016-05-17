@@ -1,0 +1,333 @@
+1805.91,1808.87,Bmr024-c5,s,,,,icsi already has a perfectly good tape system and it's more reliable .
+1809.19,1811.51,Bmr024-c3,fg|s.%-,,,,you know - | i would think ==
+1809.22,1810.75,Bmr024-c5,s^co,,,,so for archiving we'll just use tape .
+1810.35,1822.58,Bmr024-cB,s,2a,,,one - one thing i don't understand is if you have the data - if - if you- - if the meeting data is put on disk exactly once then it's backed-up once and the back-up system should never have to bother with it uh more than once .
+1821.24,1823.37,Bmr024-c5,fg|s.%--,,,,well | regardless ==
+1823.58,1833.53,Bmr024-c5,s,2b,,,well first of all there was um a problem with the archive in that i was every once in a while doing a chmod on all the directories an- - or recursive chmod and chown .
+1833.53,1836.24,Bmr024-c5,s^df,2b+,,,because they weren't getting set correctly every once in a while .
+1834.06,1834.39,Bmr024-cB,b,,,,mm-hmm .
+1836.24,1841.99,Bmr024-c5,s,2b+,,,and i was just doing a minus r_ star not realizing that that caused it to be re-backed-up .
+1838.83,1839.22,Bmr024-cB,b,,,,mm-hmm .
+1839.68,1840,Bmr024-c9,b,,,,ah ==
+1842.99,1844.34,Bmr024-c5,s^aap,2b++,,,but normally you're correct .
+1844.59,1847.44,Bmr024-c5,s,2b+++.3a,,,but even without that the back-up system is becoming saturated .
+1848.54,1853.67,Bmr024-cB,s,3b.4a,,,but - but this back-up system is smart enough to figure out that something hasn't changed and doesn't need to be backed-up again .
+1853.04,1857.98,Bmr024-c5,s^arp,4b,,,sure but we still have enough changed that the nightly back-ups are starting to take too long .
+1853.49,1863.66,Bmr024-c3,s,,,,the b- - i think th- - the - at least the once tha- - that you put it on it would - it would kill that .
+1862.25,1862.52,Bmr024-cB,fg,,,,o_k .
+1862.52,1864.86,Bmr024-cB,s.%-,,,,so - so then if - so - so then let's ==
+1863.24,1864.58,Bmr024-c5,s,5a,,,it has nothing to do with the meeting .
+1863.66,1863.94,Bmr024-c3,b,,,,so ==
+1864.58,1867.7,Bmr024-c5,s,6a,,,it's just the general icsi back-up system is becoming saturated .
+1865.09,1865.35,Bmr024-cB,s^bk,5b,,,right .
+1866.36,1866.68,Bmr024-cB,s^bk,6b,,,o_k .
+1867.67,1867.85,Bmr024-cB,s^bk,6b+,,,right .
+1868.03,1872.49,Bmr024-cB,qy^cs.%-,7a,,,so what if we buy uh - uh what - what do they call these um high density ?==
+1871.67,1875.46,Bmr024-c5,qh^co^nd,7b.8a,,,well why don't you have this - have a - this conversation with dave johnson tha- - rather than with me ?
+1875.09,1875.48,Bmr024-cB,s^ar,8b,,,no no .
+1875.48,1880.09,Bmr024-cB,s^df^nd,8b+,,,because this is maybe something that we can do without involving dave and - and putting more burden on him .
+1880.56,1884.01,Bmr024-cB,qw^cs,9a,,,how about we buy uh - uh - uh - one of these high density tape drives ?
+1884.66,1888.08,Bmr024-cB,s^cs,9a+,,,and we put the data actually on non-backed-up disks .
+1888.86,1893.42,Bmr024-cB,s^cs,9a++,,,and we do our own back-up once and for all - all and then - and we don't have to bother this {@reject@} up .
+1892.64,1895.11,Bmr024-c5,s^arp^cs,9b,,,actually you know we could do that just with the tape with - the current tape .
+1895.45,1896.93,Bmr024-cB,s,,,,i dunno what the- - these tapes .
+1896.93,1897.2,Bmr024-cB,fh,,,,uh ==
+1897.2,1898.02,Bmr024-cB,s.%--,,,,at some point these ==
+1898.28,1898.5,Bmr024-cB,s^no,,,,i dunno .
+1898.5,1899.71,Bmr024-cB,qw,10a,,,what kind of tape drive is it ?
+1899.71,1900.34,Bmr024-cB,qy.%-,,,,is it - is ?==
+1899.78,1902.33,Bmr024-c5,s^no,10b.11a,,,i dunno but it's an automatic robot so it's very convenient .
+1902.77,1902.83,Bmr024-c3,%-,,,,wh- ==
+1903.03,1903.3,Bmr024-cB,b,,,,right .
+1903.08,1904.6,Bmr024-c5,s,10b+.11a+,,,you just run a program to restore them .
+1903.12,1905.4,Bmr024-c3,qy^bu^d,11b.12a,,,the o- - the one that we have ?
+1905.59,1905.74,Bmr024-c5,s^aa,12b,,,yeah .
+1905.87,1908.14,Bmr024-cB,s,13a,,,but it might interfere with their back-up schedule .
+1905.89,1906.36,Bmr024-c3,s.%-,,,,the - i mean ==
+1906.66,1906.89,Bmr024-c9,fg,,,,but ==
+1907.77,1909.32,Bmr024-c3,qy^rt,13b,,,no we have s- - we - don't we have our own ?
+1908.14,1908.28,Bmr024-cB,b,,,,eh .
+1909.32,1912.74,Bmr024-c3,qy^d^rt,13b+,,,something wi- - th- - that doesn't - that isn't used by the back-up gang ?
+1912.74,1915.03,Bmr024-c3,qy^rt,13b++,,,don't we have something downstairs ?
+1914.34,1914.59,Bmr024-c0,%-,,,,well they ==
+1915.11,1915.86,Bmr024-c1,qw^rt,,,,what kinda tape drive ?
+1915.39,1915.73,Bmr024-c3,%-,,,,just in ?==
+1916.23,1916.45,Bmr024-c5,fg,,,,well ==
+1916.32,1916.58,Bmr024-c3,fh,,,,yeah .
+1916.98,1917.13,Bmr024-c5,fg,,,,but ==
+1917.13,1917.32,Bmr024-c5,fg,,,,no .
+1917.32,1918.69,Bmr024-c5,s^ba,,,,but andreas's point is a good one .
+1918.69,1920.6,Bmr024-c5,s,,,,and we don't have to do anything ourselves to do that .
+1920.34,1920.6,Bmr024-cB,b,,,,right .
+1920.6,1922.19,Bmr024-c5,s,,,,they're already right now on tape .
+1923.39,1923.53,Bmr024-c5,qy^d^f^g,,,,right ?
+1923.53,1927.55,Bmr024-c5,s^bs^cs,14a,,,so your - your point is and i think it's a good one that we could just get more disk and put it there .
+1925.42,1925.55,Bmr024-cB,b,,,,mmm .
+1927.44,1930.25,Bmr024-cB,s^2^na,14b-1.15a,,,on an x_h uh x_ - x_ whatever partition .
+1928.71,1928.98,Bmr024-c5,s^bk,15b,,,yeah .
+1930.13,1931.09,Bmr024-c5,s^ba,15b+,,,that's not a bad idea .
+1930.25,1930.48,Bmr024-cB,b,,,,yeah .
+1931.39,1937.98,Bmr024-c3,s^na,14b-2,,,yeah that's basically what i was gonna say is that a disk is - is so cheap it's es- - essentially you know close to free .
+1938.01,1939.04,Bmr024-c5,s.%-,,,,so once it's on tape ==
+1938.31,1938.54,Bmr024-cB,b,,,,right .
+1938.5,1942.5,Bmr024-c3,s,,,,and the only thing that costs is the back-up issue eh to first order .
+1940.56,1940.82,Bmr024-cB,b,,,,right .
+1942.5,1948.78,Bmr024-c3,s^co,16a,,,and we can take care of that by putting it on non-back- - up drives and just backing it up once onto this tape .
+1945.82,1946.18,Bmr024-cB,b,,,,mm-hmm .
+1948.7,1949.46,Bmr024-c5,s^ba,16b,,,i think that's a good idea .
+1948.94,1949.03,Bmr024-cB,b,,,,right .
+1949.65,1949.76,Bmr024-c3,b,,,,oh .
+1949.71,1949.93,Bmr024-cB,b,,,,o_k .
+1949.76,1949.99,Bmr024-c3,b,,,,yeah .
+1950.4,1950.53,Bmr024-c3,b,,,,good .
+1950.9,1951.18,Bmr024-c3,b,,,,it's good .
+1950.98,1952.74,Bmr024-c9,fg|qw^rt,17a,,,so | who's gonna do these back-ups ?
+1952.74,1953.72,Bmr024-c9,qy^d^rt,17a+,,,the people that collect it ?
+1954.03,1954.64,Bmr024-c5,h,,,,uh ==
+1956.34,1960.8,Bmr024-c5,s^cc,17b,,,well i'll talk to dave and - and see what th- - how - what the best way of doing that is .
+1960.73,1962.01,Bmr024-c1,s.%-,,,,it's probably gonna n- ==
+1961.15,1964.73,Bmr024-c5,s,17b+.18a,,,there's a little utility that will manually burn a tape for you .
+1964.73,1966.06,Bmr024-c5,s,17b++.18a+,,,and that's probably the right way to do it .
+1966.15,1969.47,Bmr024-c1,s^cs^na,18b.19a,,,yeah and we should probably make that part of the procedure for recording the meetings .
+1968.09,1968.38,Bmr024-c9,%-,,,,well s- ==
+1968.63,1968.83,Bmr024-c5,b,,,,yep .
+1968.68,1968.82,Bmr024-c9,b,,,,yeah .
+1968.82,1969.71,Bmr024-c9,s,19b-1,,,that's what i'm wondering .
+1969.71,1969.8,Bmr024-c9,%--,,,,if ==
+1971.06,1972.62,Bmr024-c5,fg|s,19b-2,,,well | we're g- - we're gonna automate that .
+1971.73,1971.99,Bmr024-c9,b,,,,o_k .
+1972.62,1974.9,Bmr024-c5,s^cc,,,,my intention is to do a script that'll do everything .
+1973.79,1976.03,Bmr024-c9,qy^d,20a,,,i mean you don't have to physically put a tape in the drive ?
+1976.09,1976.27,Bmr024-c5,s^aa,20b-1.21a,,,no .
+1976.17,1976.28,Bmr024-c9,qr.%--,,,,or ?==
+1976.48,1976.82,Bmr024-c9,s^bk,21b,,,<s-> oh o_k .
+1976.66,1977.59,Bmr024-c5,s,20b-2,,,it's all tape robot .
+1977.29,1977.89,Bmr024-c9,s.%-,,,,so it's just ==
+1977.59,1979.64,Bmr024-c5,s,20b-2+.22a,,,so you just sit down at your computer and you type a command .
+1978.9,1979.3,Bmr024-c9,s^bk,22b-1,,,oh o_k .
+1979.6,1982.67,Bmr024-cB,s^nd,22b-2.23a,,,yeah but then you're effectively using the resources of the back-up system .
+1983.02,1984.29,Bmr024-cB,qy,,,,or is that a different tape robot ?
+1983.92,1985.19,Bmr024-c9,s^arp,23b-1,,,but not at the same time .
+1984.39,1984.48,Bmr024-c5,fg,,,,yeah .
+1984.48,1985.74,Bmr024-c5,s^arp,23b-2.24a,,,but y- - but you would be anyway .
+1987.15,1987.5,Bmr024-cB,fg,,,,no no .
+1987.31,1987.56,Bmr024-c5,qy^bu^d^g^rt,23b-2+.24a+,,,right ?
+1987.56,1987.81,Bmr024-c5,s.%-,,,,because ==
+1987.56,1987.9,Bmr024-c1,s^ar,24b,,,no no no .
+1987.64,1987.88,Bmr024-cB,%-,,,,see ==
+1987.9,1989.77,Bmr024-c1,s^bs,24b+.25a,,,he's saying get a whole different drive .
+1989.57,1990.6,Bmr024-cB,s.%-,,,,yeah just give a dedi- ==
+1989.69,1990.82,Bmr024-c5,s^nd,25b,,,but there's no reason to do that .
+1991.09,1996.18,Bmr024-cB,fg|s,26a,,,well | i'm saying is {@reject@} {@reject@} i- - if you go to dave and - and - and ask him can i use your tape robot .
+1991.43,1992.98,Bmr024-c5,s.%-,25b+,,,it - we already have it there and it - it's ==
+1996.37,2000.07,Bmr024-cB,s,26a+,,,he will say well that's gonna screw up our back-up operation .
+1999.38,1999.8,Bmr024-c5,s^ar,26b,,,no we won't .
+2000.4,2005.72,Bmr024-c5,s^nd,26b+.27a,,,he'll say if - if that means that it's not gonna be backed-up standardly great .
+2007.12,2010.07,Bmr024-c3,s^na,27b.28a,,,he- - i - dave has - has promoted this in the past .
+2010.13,2011.99,Bmr024-c3,s^na,27b+.28a+,,,so i don't think he's actually against it .
+2010.26,2010.43,Bmr024-c5,fg,,,,yeah .
+2010.43,2011.78,Bmr024-c5,s,28b-1.29a,,,it's - it's definitely no problem .
+2010.91,2011.46,Bmr024-cB,s^bk,28b-2,,,oh o_k .
+2011.46,2011.78,Bmr024-cB,b,,,,alright .
+2011.95,2012.27,Bmr024-cB,b,,,,alright .
+2012.08,2012.28,Bmr024-c3,fh,,,,yeah .
+2013.25,2013.46,Bmr024-cB,s^ba,29b,,,good .
+2013.37,2013.67,Bmr024-c3,b,,,,o_k .
+2014.25,2019.21,Bmr024-c9,qw^rt,30a,,,what about if the times overlap with the normal back-up time ?
+2020.11,2022.93,Bmr024-c5,h|s,30b.31a,,,um | it's - it's just - it's just a utility which queues up .
+2023.34,2023.65,Bmr024-c9,s^bk,31b,,,o_k .
+2023.66,2026.34,Bmr024-c5,s,30b+,,,it just queues it up and - and when it's available it will copy it .
+2026.77,2026.88,Bmr024-c3,b,,,,yeah .
+2026.87,2032.33,Bmr024-c5,s,30b++.32a,,,and then you can tell it to then remove it from the disk or you can you know do it a- - a few days later or whatever you wanna do .
+2032.69,2034.43,Bmr024-c5,s,30b+++,,,after you confirm that it's really backed-up .
+2032.79,2033.1,Bmr024-c9,s^bk,32b,,,o_k .
+2037.09,2037.96,Bmr024-c5,s.%--,33a,,,n_w ==
+2038.41,2039.56,Bmr024-c0,qy^2^d^rt,33b.34a,,,you saying n_w archive ?
+2039.6,2040.34,Bmr024-c5,s^m^na,34b,,,n_w archive .
+2040.4,2041,Bmr024-c5,s^na,34b+,,,that's what it is .
+2040.64,2045.39,Bmr024-c0,s,35a,,,yep and if you did that during the day it would never make it to the nightly back-ups .
+2041.78,2041.95,Bmr024-c3,b,,,,o_k .
+2044.9,2045.15,Bmr024-c5,s^aa,35b-1,,,right .
+2045.79,2047.65,Bmr024-c0,s,35a+,,,and then there wouldn't be this extra load .
+2047.47,2051.4,Bmr024-cB,s^ng,35b-2.36a,,,well it - if he - you have to put the data on a - on a non-backed-up disk to begin with .
+2053.13,2055.95,Bmr024-cB,s.%-,35b-2+,,,so that - so that - otherwise you don't - you ==
+2053.19,2053.37,Bmr024-c5,s^aa,36b-1,,,right .
+2053.67,2059.97,Bmr024-c0,s^df,36b-2.37a,,,well but you can have it n_w archive to - you can have uh a non-backed-up disk n_w archived .
+2060.11,2060.3,Bmr024-c5,s^bk,37b,,,right .
+2060.57,2062.39,Bmr024-c0,s^e,36b-2.37a+,,,and it'll never show up on the nightly back-ups .
+2060.66,2061.33,Bmr024-c5,s.%-,,,,and then it never ==
+2060.72,2061,Bmr024-cB,b,,,,right .
+2061.5,2061.79,Bmr024-cB,b,,,,right .
+2062.04,2062.27,Bmr024-c5,s^bk,37b+,,,right .
+2062.87,2065.28,Bmr024-c5,s^na,37b++,,,which i'm sure would make ever- - the sysadmins very happy .
+2062.97,2063.21,Bmr024-cB,b,,,,right .
+2065.49,2065.65,Bmr024-c0,b,,,,yeah .
+2065.93,2066.84,Bmr024-c5,s^ba,37b+++,,,so i think that's a good idea .
+2066.02,2066.22,Bmr024-cB,b,,,,o_k .
+2067.12,2067.86,Bmr024-c5,s^cs^na,37b++++,,,that's what we should do .
+2067.22,2067.31,Bmr024-cB,b,,,,o_k .
+2068.64,2074.23,Bmr024-c5,s^cs,38a,,,so that means we'll probably wanna convert all - all those files - filesystems to non-backed-up media .
+2075.67,2076.23,Bmr024-c1,s^ba,38b,,,that sounds good .
+2076.4,2076.57,Bmr024-c5,b,,,,yep .
+2076.61,2076.69,Bmr024-c3,b,,,,yeah .
+2078.06,2082.47,Bmr024-c3,fg|qy^d^rt^t^tc,39a,10=l=a.a,,um | another thing on the agenda said s_r_i recognition experiments ?
+2083.83,2084.21,Bmr024-c3,qw,39a+,,,what's that ?
+2084.26,2085.02,Bmr024-cB,qy^d,39b-1,,,s_r_i recognition ?
+2085.09,2085.34,Bmr024-cB,s^bk,,,,oh .
+2085.6,2086.11,Bmr024-c5,s^ng,39b-2,,,that wasn't me .
+2086.7,2087.98,Bmr024-cB,fg,,,,um well ==
+2086.96,2087.23,Bmr024-c3,b.%,,,,uh .
+2087.23,2087.43,Bmr024-c3,qw.%,,,,who's that ?
+2089.47,2090.18,Bmr024-cB,s,39b-1+,b.e,,we have lots of them .
+2091.62,2092.55,Bmr024-cB,fh|s^no,39b-1++,,,uh | i dunno .
+2092.55,2094.17,Bmr024-cB,qy^rt,40a,,,chuck do you have any - any updates ?
+2094.3,2097.59,Bmr024-c1,s^na,40b.41a,,laughing after this,n- - i'm successfully uh increasing the error rate .
+2097.84,2098.22,Bmr024-c1,fh,,,,uh ==
+2098.23,2098.66,Bmr024-c5,s^ba^j,41b-1,,,that's good .
+2098.33,2098.59,Bmr024-cB,b,,,,oh .
+2098.42,2098.81,Bmr024-cA,b,,,,mmm .
+2100.15,2101.23,Bmr024-c9,s,41b-2.42a,20=l=ag.a,,lift the herve approach .
+2101.35,2101.58,Bmr024-c1,s^bk,42b,b.c,FBH,yeah .
+2102.15,2107.2,Bmr024-c1,s.%-,43a,,,so i mean i'm just playing with um the number of gaussians that we use in the - the recognizer and ==
+2107.3,2111.29,Bmr024-cB,s^co,43b.44a,,,well you have to sa- - you have to tell people that you're - you're doing - you're trying the tandem features .
+2111.47,2112.85,Bmr024-c1,s^aa|s^na,44b,,,yes | i'm using tandem features .
+2112.59,2112.99,Bmr024-c5,qy^bh^rt,,,,oh you are ?
+2112.88,2116.38,Bmr024-cB,s,45a,,,a- - and i'm still tinkering with the p_l_p features .
+2113.05,2113.26,Bmr024-c5,s^ba,45b,,,cool .
+2113.54,2113.85,Bmr024-c1,%-,,,,and ==
+2113.81,2113.88,Bmr024-c5,%,,,,{@reject@} ==
+2116.71,2118.07,Bmr024-c3,fg|s,,,,yeah | i got confused by the results .
+2118.07,2123.49,Bmr024-c3,s,46a,25=w-=ac.a,FBH,it sai- - because - uh the meeting before you said o_k we got it down to where they're - they're within a tenth of a percent .
+2122.22,2123.02,Bmr024-c1,s^aap,46b-1,,,that was on males .
+2122.23,2122.48,Bmr024-cB,b,,,,right .
+2122.95,2124.94,Bmr024-cB,s^aap,46b-2.47a,,,that was - that was before i tried it on the females .
+2125.16,2125.67,Bmr024-c3,s^bk,47b,,,oh .
+2125.29,2127.86,Bmr024-cB,s^j,46b-2+.48a,b,FBH,see women are nothi- - are trouble .
+2126.15,2127.05,Bmr024-c3,s^2^j,48b-1,b,FBH,it's the women are the problem .
+2127.13,2127.46,Bmr024-c3,s^bk,48b-1+,,,o_k .
+2127.86,2128.18,Bmr024-cB,qy^d^g^j^rt,48a+,,,right ?
+2128.18,2128.81,Bmr024-cB,s^j,48a++,b,FBH,as we all know .
+2128.81,2129.1,Bmr024-cB,fh,,,,so ==
+2129.81,2131.61,Bmr024-c9,s^df^j,48b-2.49a,b.e##30=l-=a.a,FBH laughing after this,well let's just say that men are simple .
+2133.58,2137.81,Bmr024-cB,s.%-,,,,so - so when - so i - i had - i ha- ==
+2136.7,2137.92,Bmr024-c5,s,49b.50a,,FBHlaughing after this,that was a quick response .
+2138.06,2139.59,Bmr024-cB,s.%--,,,,so we had reached the point where ==
+2139.26,2140.23,Bmr024-c9,s,50b,b.e,,i'm well rehearsed .
+2140.5,2140.72,Bmr024-c3,b,,,,yeah .
+2141.55,2159.47,Bmr024-cB,s,,,,we had reached the point where um on the male portion of the development set the um - or one of the development sets i should say the um the male error rate with uh icsi p_l_p features was pretty much identical with uh s_r_i features .
+2160.34,2161.44,Bmr024-cB,s,,,,which are m_f_c_c .
+2161.44,2164.71,Bmr024-cB,fh|s,,,,so um | then i thought oh great .
+2164.91,2168.12,Bmr024-cB,s^rt,,,,i'll j- - i'll - just let's make sure everything works on the females .
+2168.12,2171.11,Bmr024-cB,s,,,,and the error rate - you know there was a three percent difference .
+2168.96,2169.38,Bmr024-c3,b,,,,oh .
+2171.42,2171.69,Bmr024-c3,b,,,,uh-huh .
+2171.43,2171.78,Bmr024-cB,fh,,,,so ==
+2172.99,2174.15,Bmr024-c9,qy^rt,51a,,,is there less training data ?
+2173.05,2173.31,Bmr024-cB,fh,,,,uh ==
+2175.13,2175.64,Bmr024-c9,s.%-,,,,i mean we don- ==
+2175.13,2176.48,Bmr024-cB,s^ar,51b,,,no actually there's more training data .
+2176.51,2177.63,Bmr024-c9,qy^d^rt,52a,,,this is on just digits ?
+2178.18,2178.6,Bmr024-cB,s^ar,52b-1.53a,,,no no .
+2178.55,2179,Bmr024-c9,s^fa,53b,,,oh sorry .
+2178.67,2178.92,Bmr024-c3,s^ar.%,52b-2,,,no .
+2178.69,2178.97,Bmr024-c5,s^ar,52b-3,,,no .
+2178.97,2179.67,Bmr024-c5,s.%-,,,,it's uh swi- ==
+2179,2179.34,Bmr024-c9,s^bk,53b+,,,o_k .
+2179.19,2179.62,Bmr024-c1,s,,,,hub-five .
+2179.34,2179.77,Bmr024-c9,s.%-,,,,this is on ==
+2179.35,2180.15,Bmr024-cB,s,54a,,,this is hub-five .
+2179.98,2180.54,Bmr024-c9,s^bk,54b,,,oh o_k .
+2180.48,2180.88,Bmr024-c5,s,,,,hub-five .
+2180.88,2181.01,Bmr024-c5,b,,,,yeah .
+2181.19,2181.31,Bmr024-cB,b,,,,yeah .
+2182.19,2184.57,Bmr024-cB,fg|s,,,,um | and the test data is callhome and switchboard .
+2185.23,2188.66,Bmr024-cB,fh,,,,so uh - so then um ==
+2188.84,2194.22,Bmr024-cB,s,55a,,,oh and plus the - the vocal tract length normalization didn't - actually made things worse .
+2194.46,2196.03,Bmr024-cB,s,55a+,,,so something's really seriously wrong .
+2196.12,2196.42,Bmr024-cB,fh,,,,so ==
+2197.43,2198,Bmr024-cB,fh,,,,um ==
+2198.16,2198.71,Bmr024-c3,b,,,,aha .
+2200.59,2202.01,Bmr024-cB,fh,,,,so - so ==
+2200.64,2201.16,Bmr024-c3,b,,,,o_k .
+2201.44,2212.43,Bmr024-c3,fg|s,55b,,,so | but you see now between - between the males and the females there's certainly a much bigger difference in the scaling range than there is say just within the males .
+2213.01,2219.05,Bmr024-c3,s,55b+.56a,,,and what you were using before was scaling factors that were just from the - the m- - the s_r_i front-end .
+2219.57,2221.28,Bmr024-c3,s,55b++.57a,,,and that worked - that worked fine .
+2219.7,2220.22,Bmr024-cB,s^aa,56b,,,that's true .
+2221.26,2221.51,Bmr024-cB,s^bk,57b,,,yeah .
+2222.18,2226.29,Bmr024-c3,fh|s,55b+++,,,uh | but now you're looking over a larger range and it may not be so fine .
+2227.27,2228.03,Bmr024-cB,fg,,,,well um ==
+2228.22,2228.55,Bmr024-cB,fg,,,,so ==
+2228.85,2229.21,Bmr024-cB,s.%--,,,,i just ==
+2230.49,2236.01,Bmr024-cB,s.%--,,,,d- - so the one thing that i then tried was to put in the low-pass filter which we have in the ==
+2236.56,2245.48,Bmr024-cB,s,,,,so most - most hub-five systems actually band-limit the uh - at about uh thirty-seven hundred um hertz .
+2244.25,2244.55,Bmr024-c3,b,,,,uh-huh .
+2245.48,2248.91,Bmr024-cB,s,,,,although you know normally i mean the channel goes to four - four thousand .
+2248.91,2249.15,Bmr024-cB,qy^d^f^g,,,,right ?
+2249.15,2250.61,Bmr024-cB,fh,,,,so um ==
+2251.28,2254.38,Bmr024-cB,s,,,,and that actually helped uh uh a little bit .
+2253.07,2253.38,Bmr024-c3,b,,,,uh-huh .
+2255.15,2257.02,Bmr024-cB,fh|s,,,,um | and it didn't hurt on the males either .
+2257.02,2258.39,Bmr024-cB,fh,,,,so um ==
+2258.94,2262.13,Bmr024-cB,s.%--,,,,and i'm now uh trying the ==
+2262.49,2267.17,Bmr024-cB,s,,,,oh and suddenly also the v- - the vocal tract length normalization only in the test se- - on the test data .
+2268.03,2273.17,Bmr024-cB,s,,,,so you can do vocal tract length normalization on the test data only or on both the training and the test .
+2269.32,2269.49,Bmr024-c3,b,,,,yeah .
+2274.04,2279.82,Bmr024-cB,s,,40=l-=a.a,,and you expect it to help a little bit if you do it only on the test and s- - more if you do it on both training and test .
+2279.51,2279.72,Bmr024-c3,b,,b.e,,yeah .
+2280.51,2285.16,Bmr024-cB,s,,,,and so the - it now helps if you do it only on the test .
+2285.24,2289.84,Bmr024-cB,s,,,,and i'm currently retraining another set of models where it's both in the training and the test .
+2289.84,2293.2,Bmr024-cB,s,,,,and then we'll - we'll have hopefully even better results .
+2293.3,2293.5,Bmr024-cB,fh,,,,so ==
+2293.7,2293.97,Bmr024-cB,s.%--,,,,but there's ==
+2294.38,2296.46,Bmr024-cB,s,,,,it looks like there will still be some difference .
+2296.52,2301.22,Bmr024-cB,s,,,,maybe between one and two percent um for the females .
+2300.06,2300.26,Bmr024-c3,b,,,,huh .
+2301.22,2304.3,Bmr024-cB,fh|s,,,,and so um | you know i'm open to suggestions .
+2304.69,2308.03,Bmr024-cB,s.%--,,,,and it is true that the uh that the - you know we are using the ==
+2304.72,2305.11,Bmr024-c5,b,,,,mm-hmm .
+2309.25,2309.39,Bmr024-cB,%--,,,,but ==
+2309.74,2311.47,Bmr024-cB,s,58a,,,it can't be just the v_t_l .
+2310.96,2311.22,Bmr024-c3,b,,,,uh-huh .
+2311.6,2319.38,Bmr024-cB,s^df,58a,,,because if you don't do v_t_l in both systems uh you know the the females are considerably worse in the - with the p_l_p features .
+2312.34,2312.61,Bmr024-c3,b,,,,no - no .
+2312.61,2313.39,Bmr024-c3,s,,,,i - i remember that .
+2313.76,2314.43,Bmr024-c5,s^2,58b,,,it's much worse .
+2314.61,2314.78,Bmr024-c5,b,,,,yeah .
+2319.52,2321.31,Bmr024-cB,s,,,,so there must be some - something else going on .
+2322.02,2323.01,Bmr024-c9,qw^rt,,,,well what's the standard ?
+2323.51,2326.49,Bmr024-c9,s,59a,,,yeah so i thought the performance was actually a little better on females than males .
+2326.65,2327.28,Bmr024-c5,s^na^t3,59b-1,,,that's what i thought too .
+2327.86,2330.39,Bmr024-cB,h|s^aap,59b-2,,,um | that ye- - overall yes .
+2330.51,2333.93,Bmr024-cB,s^arp,59b-2+,,,but on this particular development test set they're actually a little worse .
+2335.19,2336.15,Bmr024-cB,s^nd,59b-2++,,,but that's beside the point .
+2336.15,2342.44,Bmr024-cB,s,60a,,,we're looking at the discrepancy between the s_r_i system and the s_r_i system when trained with icsi features .
+2343.5,2343.65,Bmr024-c9,s^bk,60b,,,right .
+2343.65,2348.69,Bmr024-c9,s,,,,i'm just wondering if that - if - if you have any indication of your standard features .
+2345.99,2346.79,Bmr024-c5,qy.%-,,,,what's - are the freq- ?==
+2348.95,2351.89,Bmr024-c9,s,,,,you know if that's also different or in the same direction or not .
+2350.97,2354.16,Bmr024-c3,s.%--,,,,you're - this is - lemme ask a q- - more basic que- ==
+2352.58,2352.88,Bmr024-c9,%--,,,,cuz ==
+2353.81,2353.97,Bmr024-cB,b,,,,mm-hmm .
+2354.16,2357.96,Bmr024-c3,qy^rt,61a,,,i mean is this uh uh iterative baum-welch training ?
+2357.96,2359.33,Bmr024-c3,qrr^rt,61a+,,,or is it viterbi training ?
+2359.33,2359.54,Bmr024-c3,qrr.%--,,,,or ?==
+2359.51,2360.62,Bmr024-cB,s,61b.62a,,,it's baum-welch training .
+2360.71,2361.55,Bmr024-c3,s^bk^m,62b,,,baum-welch training .
+2361.77,2364.45,Bmr024-c3,qw,,,,and how do you determine when to - to stop iterating ?
+2366.16,2366.68,Bmr024-cB,h,,,,um ==
+2367.88,2373.17,Bmr024-cB,h|s,,,,well | actually we - we just basically do a s- - a fixed number of iterations .
+2373.64,2373.98,Bmr024-c5,b,,,,hmm .
+2373.97,2375.23,Bmr024-cB,fh|s,,,,uh | in this case four .
+2376.24,2379,Bmr024-cB,fh|s,,,,um | which eh - we used to do only three .
+2379,2381.02,Bmr024-cB,s.%--,,,,and then we found out we can squeeze ==
+2381.33,2384.93,Bmr024-cB,s,,,,and it was basically - we're s- - we're keeping it on the safe side .
+2384.93,2385.37,Bmr024-cB,s.%--,,,,but you're d- ==
+2385.37,2385.67,Bmr024-cB,fh,,,,right .
+2385.67,2389.96,Bmr024-cB,s.%--,63a,,,it might be that one more iteration would - would help but it's sort of ==
+2390.35,2390.66,Bmr024-cB,fh,,,,you know .
+2390.45,2392.36,Bmr024-c3,s^ng,63b.64a,,,or maybe - or maybe you're doing one too many .
+2392.36,2393.38,Bmr024-c3,%-,,,,i mean it's - it's ==
+2393.49,2398.01,Bmr024-cB,s^ar|s^nd,64b.65a,,,no | but with baum-welch there shouldn't be an over-fitting issue really .
+2396.93,2399.22,Bmr024-c3,s^arp^rt,65b,,,{@reject@} uh well there can be .
+2399.22,2399.51,Bmr024-c3,b,,,,sure .
+2399.91,2400.39,Bmr024-cB,fg,,,,um ==

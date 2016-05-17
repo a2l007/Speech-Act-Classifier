@@ -1,0 +1,661 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2621_1133_1120
+TOPIC#:		307
+DATE:		910422
+TRANSCRIBER:	csw
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	1
+REMARKS:	Caller A slurs the term you know a lot and mumbles and says
+uh-huh almost the whole time B is talking.
+
+==========================================================================
+  
+
+  sv        A.1 utt1:  {D Well } a lot of women are [ knowl-, +  as knowledge ] about football as I am. /  
+
+  x        B.2 utt1:  <Laughter>.   
+
+ qy         A.3 utt1:  Can I guess your favorite team, if you had one, might be the Steelers. /  
+
+ny          B.4 utt1:  Yes,  /
+ny          B.4 utt2: uh-huh. /  
+
+sd          A.5 utt1:  {D Well, } I can understand that.  /
+sd          A.5 utt2: [ I, + {D you know, } I ] kind of like the Cowboys, too. /  
+
+qy          B.6 utt1:  # Do you? # /  
+
+na          A.7 utt1:  # They've had # some great games in the past. /  
+
+b          B.8 utt1:  Uh-huh,  /
+sd          B.8 utt2: [ I, + I ] always enjoy watching [ [ the stal-, + the, ] + ] Dallas and Pittsburgh together.    
+
+b          A.9 utt1:  Uh-huh,  /
+aa          A.9 utt2: me too. /  
+
++          B.10 utt1:  {D You know. } /  
+
+sv          A.11 utt1:  It wasn't nearly as much fun when Bradshaw was playing for you guys, I'll tell you. /  
+
+ x        B.12 utt1:  <Laughter>.   
+
+sd          A.13 utt1:  He lives in the Dallas area now, as a matter of fact. /  
+
+qy          B.14 utt1:  Does he really? /  
+
+sd          A.15 utt1:  {D Well, }  {D actually, } it's probably closer to Fort Worth,  /
+sd          A.15 utt2: {C but } [ it's, + it's ] in the same area.  /
+sd          A.15 utt3:  He [ bought, + {F uh, } bought ] a big horse farm out in a little town called Roanoke, Texas. /  
+
+ b         B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  {C But } he pops up on the Dallas scene quite often. /  
+
+x          B.18 utt1:  <Laughter>.   
+
+sd          A.19 utt1:  As a matter of fact, there was some talk about trying to get him involved with the team management in some sort of a coaching job. /  
+
+ba          B.20 utt1:  {F Oh, } wo-, - /
+qy^d          B.20 utt2: I wonder if he'd ever do that. /  
+
+no          A.21 utt1:  I don't know,  /
+sv          A.21 utt2: he'd be good at it.  /
+sv          A.21 utt3:  He's such a motivator, [ he, + ]   
+
+aa          B.22 utt1:  # Yes.  # /  
+
++          A.23 utt1:  # primarily, # {D you know, } with the quarterbacks. /  
+
+b          B.24 utt1:  # Uh-huh. # /  
+
+sv          A.25 utt1:  # That # would be his specialty.  /
+sv          A.25 utt2: [  I wished, + I wished ] they could work something,  /
+sd          A.25 utt3: I really like him.  /
+sd^r          A.25 utt4: I really do. /  
+
+b          B.26 utt1:  Uh-huh.  /
+qo          B.26 utt2:  {D Well } what about the Houston Oilers.  /
+qy          B.26 utt3:  Do you like them? /  
+
+ny          A.27 utt1:  Yeah,  /
+o          A.27 utt2: okay,  /
+sd          A.27 utt3: I'd love to see Dallas and Houston play in a Super Bowl.  /
+sv          A.27 utt4:  That would be really great. /  
+
+b          B.28 utt1:  Uh-huh. /  
+
+sv         A.29 utt1:  That may not ever happen,  /
+h          A.29 utt2: I don't know. /  
+
+ x         B.30 utt1:  # <Breathing> <laughter>.  #   
+
+ sv         A.31 utt1:  # {F Uh, } Houston # has had some wonderful talent, {D you know, } down through the years  /
+sv          A.31 utt2: {C and } in the earlier years they really had some super teams. /  
+
+b          B.32 utt1:  Uh-huh.  /
+sv          B.32 utt2:  {C And } Warren Moon,   
+
+ba          A.33 utt1:  # That's right.  # /  
+
++          B.34 utt1:  # [ is, + is ] # proving himself quite well right now. /  
+
+aa          A.35 utt1:  He certainly is,  /
+sv          A.35 utt2: he's very good. /  
+
+b          B.36 utt1:  Uh-huh. /  
+
+sv^r          A.37 utt1:  He's very good. /  
+
+sv          B.38 utt1:  He's one of the few, {F uh, } Black quarterbacks that there are. /  
+
+aa          A.39 utt1:  That's right.  /
+sv          A.39 utt2:  Randall Cunningham was with Philadelphia, I guess last year,  /
+sd          A.39 utt3: {C but } he's no longer with the team.  /
+sv          A.39 utt4: <<Pause>> {C So, } you're right,  /
+sv          A.39 utt5: there are very few Black quarterbacks, or at least that are starting anyway. /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+qo          A.41 utt1:  How do you think the Steelers are going to do this year.  /
+qy          A.41 utt2:  You have any idea. /  
+
+no          B.42 utt1:  I don't know,  /
+sv          B.42 utt2: I hope [ they, + they ] do better.  /
+%          B.42 utt3: [  They, + they ] - /
+sv          B.42 utt4: during the past couple of years they've been doing a little bit better. /  
+
+b          A.43 utt1:  Uh-huh. /  
+
+sv          B.44 utt1:  {C But, } {F uh, } [ I think they still have a little, + I think they're ] still such [ a, + a ] young team I think they still have a little bit to go before they reach the potential,   
+
+b          A.45 utt1:  # Yeah. # /  
+
++          B.46 utt1:  # <Throat_clearing> # that it did when ever Bradshaw was playing. /  
+
+b          A.47 utt1:  {F Oh, } yeah,  /
+sv          A.47 utt2: that was just such super team. /  
+
+sv          B.48 utt1:  {C Or, } if they even reach that potential again, {D you know, } they may never reach that again. /  
+
+b          A.49 utt1:  Yeah.  /
+ba          A.49 utt2:  {D Well } that's a tough, - /
+sv          A.49 utt3: it would be tough to do,  /
+sv^r          A.49 utt4: it really would. /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+qy^d          A.51 utt1:  They have such a super team for years, that won what, four Super Bowls? /  
+
+ny       B.52 utt1:  Yeah,  /
+sd^e        B.52 utt2: four in a row. /  
+
+sd^m          A.53 utt1:  Four in a row.  /
+sd          A.53 utt2:  I don't know if that could ever be duplicated again or not. /  
+
+sd          B.54 utt1:  {F Oh, } I don't know. /  
+
+b          A.55 utt1:  # Yeah. # /  
+
+sd          B.56 utt1:  # Shooting # for one for the thumb now is what they were saying. /  
+
+ba          A.57 utt1:  That's right <laughter>.  /
+%          A.57 utt2:  {C And, } -/  
+
+sd          B.58 utt1:  {C But } basically everyone that was on the team then is gone now,  /
+%          B.58 utt2: {C so. } -/  
+
+ba          A.59 utt1:  That's right. /  
+
+sv          B.60 utt1:  I think Mike Webster was left  /
+sd          B.60 utt2: {C but } then [ he, + he ] just left. /  
+
+b          A.61 utt1:  Uh-huh,  /
+b          A.61 utt2: yeah. /  
+
+%          B.62 utt1:  {F Uh. } /  
+
+sv          A.63 utt1:  He may have been the last of the old guard,  /
+h          A.63 utt2: I don't know. /  
+
+aa          B.64 utt1:  Yeah,  /
+sv          B.64 utt2: I think he is,  /
+sv          B.64 utt3: I think he was. /  
+
+b          A.65 utt1:  Uh-huh,  /
+b          A.65 utt2: yeah,  /
+sv          A.65 utt3: they had such a super team. /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+qy          A.67 utt1:  Have you been following the big draft that occurred yesterday? /  
+
+nn          B.68 utt1:  <Throat_clearing>  No,  /
+sd^e          B.68 utt2: I didn't. /  
+
+bk          A.69 utt1:  I see. /  
+
+b          B.70 utt1:  Huh-uh. /  
+
+sv          A.71 utt1:  There's quite a bit of activity now,  /
+sv          A.71 utt2: of course they had so many, {D you know, } nice, {F uh, } choices because their record was so lousy the last few years.  /
+sd          A.71 utt3: They picked up,   
+
+%          B.72 utt1:  # {F Uh. }  # /  
+
++          A.73 utt1:  # {D you # know, } quite a few of the, - /
+sv          A.73 utt2: of course you never know.  /
+sv          A.73 utt3:  The guys they pick, {D you know, } [ m-, + may ] never play a game.  /
+sv          A.73 utt4:  You [ jus-, + ] never know,  /
+sv          A.73 utt5: [ it's, + it's ] a gamble,  /
+sv          A.73 utt6: it really is. /  
+
+b          B.74 utt1:  Yeah,  /
+b          B.74 utt2: uh-huh. /  
+
+sd          A.75 utt1:  They may get hurt, or, not be able to participate at that level, if {D you know, } -/  
+
+qw          B.76 utt1:  {D Well } who would you say is your favorite player, or has ever been your favorite player? /  
+
+qy          A.77 utt1:  Ever been? /  
+
+ny          B.78 utt1:  Uh-huh. /  
+
+sd          A.79 utt1:  Probably an old guy that played, probably before you were born <laughter>, /  
+
+x          B.80 utt1:  <Laughter>.   
+
+sd          A.81 utt1:  his name was Sam Huff.  /
+ sd         A.81 utt2: He used to play for the New York Giants. /  
+
+b          B.82 utt1:  Oh. /  
+
+ sd         A.83 utt1:  That was one of the toughest guys that I've ever seen in my life,   
+
+b          B.84 utt1:  # Really.  # /  
+
++          A.85 utt1:  # as # far as, {D you know, } dedication.  /
+ sv         A.85 utt2: He just went all out every single play. /  
+
+b          B.86 utt1:  Uh-huh. /  
+
+sv          A.87 utt1:  Of course, there have been some other great ones too, Dick Butkis, and  Bradshaw, {D you know, }  /
+sv          A.87 utt2: there's been so many. /  
+
+b          B.88 utt1:  Yeah,  /
+%          B.88 utt2: ye-, -/  
+
+sd          A.89 utt1:  {C But } if I had to pick one, I would probably pick Sam Huff, as a matter of fact. /  
+
+sv          B.90 utt1:  {F Oh, } {D you know, } that's really funny, {F um, }  /
+sd          B.90 utt2: {D well, } [ I, + I ] come from a large family  /
+sd          B.90 utt3: {C and, } [ the-, + there's ] quite a few boys  /
+sd          B.90 utt4: {C so } that's kind of how I got in with the football.  /
+sd          B.90 utt5:  {C Either } watch that {C or } watch nothing. /  
+
+b          A.91 utt1:  That's right. /  
+
+sd          B.92 utt1:  {C And, } {F um, } at one time I could name all the players on the Steelers, {D you know. } /  
+
+b          A.93 utt1:  Uh-huh. /  
+
+sd          B.94 utt1:  [ {C And, } + {C but, } ] even when Bradshaw was playing, [ I, + I ] don't know, [ I, + I ] didn't particularly care for him, /  
+
+b          A.95 utt1:  # Uh-huh. # /  
+
+sd          B.96 utt1:  # I # thought he was kind of cocky or something. /  
+
+sv          A.97 utt1:  # He  is,  /
+sv^r          A.97 utt2: he is, # /  
+
+b          B.98 utt1:  # Uh-huh. # /  
+
+sv          A.99 utt1:  of course [ the-, + ] a quarterback has a big ego. /  
+
+b          B.100 utt1:  Yeah,  /
+b          B.100 utt2: uh-huh. /  
+
+sv          A.101 utt1:  [ They really d-, + they ] have to have,  /
+sv          A.101 utt2: they can't survive. /  
+
+b          B.102 utt1:  Uh-huh,  /
+b^r          B.102 utt2: uh-huh. /  
+
+sv          A.103 utt1:  They always think they can win, {D you know, } which is the way it should be. /  
+
+b          B.104 utt1:  Uh-huh. /  
+
+sd          A.105 utt1:  Boy, he never gave up, I'll tell you. /  
+
+b          B.106 utt1:  Yeah  /
+sd          B.106 utt2: him and Franco Harris,  /
+sd          B.106 utt3: I really didn't care for the either two of them. /  
+
+b          A.107 utt1:  # Uh-huh,  /
+b^r          A.107 utt2: uh-huh, # /  
+
+sv          B.108 utt1:  # {E I mean } # they were good,  /
+sv          B.108 utt2: {C but, } I, {D you know, } you couldn't deny that. /  
+
+b          A.109 utt1:  # {F Oh } yeah. # /  
+
+sd          B.110 utt1:  # {C But } [ I # didn't, + [ I thought, + ] {D you know, } {D well } I just didn't ] really care for either one of them. /  
+
+b          A.111 utt1:  Uh-huh. /  
+
+sd          B.112 utt1:  {F Uh, } today, <throat_clearing>  my favorites out of those guys were probably, {F um, } Lambert,   
+
+b          A.113 utt1:  Uh-huh. /  
+
++          B.114 utt1:  Ham,   
+
+b          A.115 utt1:  # Uh-huh. # /  
+
++          B.116 utt1:  # and, # {F uh, } Stallworth and Swan. /  
+
+b          A.117 utt1:  Uh-huh,  /
+aa          A.117 utt2: absolutely,  /
+aa          A.117 utt3: I can't disagree with that.  /
+sv          A.117 utt4:  They were super players,  /
+sv          A.117 utt5: they really were. /  
+
+b          B.118 utt1:  Uh-huh. /  
+
+%          A.119 utt1:  They really, -/  
+
+sd          B.120 utt1: [ [ [ I, + I, ] + I  like, ] + {A not just with the Pittsburgh, } I like ] watching on Saturday afternoons when they'll have {D like } [ the plays + {E or } [ the, + the ] best plays ] [ from, +   
+
+b          A.121 utt1:  # Uh-huh. # /  
+
++          B.122 utt1:  # {D you # know, } from ] the week or something. /  
+
+b          A.123 utt1:  Yeah,  /
+sd          A.123 utt2: highlights, yeah. /  
+
+b          B.124 utt1:  Yeah,  /
+sd          B.124 utt2: I love watching that.  /
+sd          B.124 utt3: Then I like watching their bloopers too, {D you know } <laughter>. /  
+
+b          A.125 utt1:  Yeah,  /
+b^r          A.125 utt2: yeah,  /
+sv          A.125 utt3: that's kind of funny too, as a matter of fact <laughter>.  /
+sv          A.125 utt4:  Some of them [ a, + a ] bit embarrassing.  /
+%          A.125 utt5: Yeah,  /
+sv          A.125 utt6: {D well } they make mistakes too, I guess. /  
+
+b          B.126 utt1:  Yeah,  /
+b          B.126 utt2: uh-huh, /  
+
+%          A.127 utt1:  # Absol-, # -/  
+
+ sv         B.128 utt1:  # it's # funny that more people don't get hurt.    
+
+aa          A.129 utt1:  Absolutely. /  
+
++          B.130 utt1:  {D You know, } especially, I would say the receivers,   
+
+b          A.131 utt1:  # Uh-huh,  /
+%          A.131 utt2: oh they, #   
+
++          B.132 utt1:  # when they're in # the air and they get tackled. /  
+
++          A.133 utt1:  They take such a beating. /  
+
+aa          B.134 utt1:  {F Oh, } yeah,  /
+sv          B.134 utt2: it's funny some of their necks don't get broken. /  
+
+aa          A.135 utt1:  Absolutely,  /
+sd          A.135 utt2: I don't know how they do it.  /
+sv          A.135 utt3: [  It's, + it ] must just take a hundred percent concentration, I guess, because they know they're going to get hit,  /
+sv          A.135 utt4: it's just a matter of how hard, {D you know, } or where. /  
+
+b          B.136 utt1:  Yeah.  /
+sv          B.136 utt2:  An they have to be in ideal physical shape, basically. /  
+
+aa          A.137 utt1:  {F Oh, } absolutely.  /
+sv          A.137 utt2: They look like sometimes they're just broken in two like a match stem. /  
+
+x          B.138 utt1:  <Throat_clearing>  <laughter>.   
+
+sv          A.139 utt1:  Gosh, what a beating, - /
+sv          A.139 utt2: they really do take a beating,  /
+sv^r          A.139 utt3: they really do. /  
+
+b          B.140 utt1:  Yeah.  /
+qo          B.140 utt2:  {D Well } what did you think of, {F um. }  a couple years ago for the Bears, the Refrigerator. /  
+
+sv          A.141 utt1:  I think he was just probably a passing phenomena, I think <laughter>. /  
+
+x          B.142 utt1:  <Laughter>.   
+
+h          A.143 utt1:  I don't know,  /
+%          A.143 utt2: [ I, + ] [ I'm + ] knowing what, {D you know, } - /
+sv          A.143 utt3: of course, Mike Ditka was in Dallas for years and years as coach, [ is knowing his, + ] {E or, } {D you know, } knowing of his temperament, I'm just surprised he ever, {D you know, } kept the guy around,  /
+sv          A.143 utt4: I really am.  /
+sv          A.143 utt5: [  He's such a, + he's ] about a half hot head anyway, such a temper. /  
+
+sv          B.144 utt1:  {F Oh, } {D you know, } {C and } to me [ he does, + {F um, } {F oh, } he's ] just so big and fat, /  
+
+b          A.145 utt1:  # Uh-huh. # /  
+
+sv          B.146 utt1:  # he # doesn't even look like he's in shape.  /
+sv          B.146 utt2:  He's just so big, no one can move him. /  
+
+ba          A.147 utt1:  That's right, yeah,  /
+aa          A.147 utt2: absolutely.  /
+sv          A.147 utt3:  There's just so much mass there, I guess they just can't, - /
+h          A.147 utt4: I don't know, {D you know, }  /
+%          A.147 utt5: I, - /
+sv          A.147 utt6: [ probably + the guy is, {D you know, } probably ] physically strong.  /
+%          A.147 utt7: I, {D you know, } - /
+sv          A.147 utt8: obviously not very fast. /  
+
+b          B.148 utt1:  Uh-huh. /  
+
+sv          A.149 utt1:  {C But } I guess it's just, like you say, a mass that nobody can seem [ t-, + to ] get out of the way.  /
+sv          A.149 utt2:  As far as him scoring touch downs, {D you know, } I think that was kind of weird. /  
+
+x          B.150 utt1:  <Laughter>.   
+
+h          A.151 utt1:  I don't know,  /
+sd          A.151 utt2: Dallas has a guy, {F uh, } his name is Nate Newton,  /
+sv          A.151 utt3: {D now } he has a real weight problem too.   /
+sv          A.151 utt4: He fights it every single year,  /
+sd          A.151 utt5: {C but, } he manages to still keep playing,  /
+sv          A.151 utt6: {C but, }   
+
+b          B.152 utt1:  # Yeah. # /  
+
++          A.153 utt1:  # he # has a terrible weight problem. /  
+
+ba          B.154 utt1:  Wow. /  
+
+%          A.155 utt1:  They wa-, - /
+sd          A.155 utt2: the coaches watch him all year long.  /
+sd          A.155 utt3: [ They, + they ] weigh him several times a year just to make sure he's not, {D you know, } completely out of control. /  
+
+b          B.156 utt1:  Uh-huh. /  
+
+sv          A.157 utt1:  {C But } I guess most every team [ has so-, + has someone ] like that,  /
+%          A.157 utt2: I don't, -/  
+
+b          B.158 utt1:  {F Oh, } yeah,  /
+sv        B.158 utt2: [ there's, + there ] are some really big guys playing in football. /  
+
+sv          A.159 utt1:  Absolutely they get bigger and bigger, it seems every year. /  
+
+b          B.160 utt1:  Uh-huh. /  
+
+sv          A.161 utt1:  I guess you have [ [ to + to, ] + {D you know, } to ] stay in the game I guess. /  
+
+b          B.162 utt1:  Yeah,  /
+aa          B.162 utt2: you would,  uh-huh. /  
+
+b          A.163 utt1:  Yeah. /  
+
+%          B.164 utt1:  {F Um, } {D now } who, - /
+qy          B.164 utt2: would you say that you have a fav-, - /
+qy          B.164 utt3: {E I mean } other than Dallas, would you say that you have, {F uh, } a favorite quarterback.  /
+sd          B.164 utt4:  {E I mean } the quarterback's seem to get most of [ the, + the ] attention, {D you know. } /  
+
+ny          A.165 utt1:  {F Oh, } yeah,  /
+sd^e          A.165 utt2: sure,  /
+sv          A.165 utt3: {D well, } [ you'd have to, {F uh, } + {E or } I would have to ] say, {D you know, } someone like Montana, I guess, who's done so well for so many years. /  
+
+b          B.166 utt1:  Yeah,  /
+sd          B.166 utt2: [ [ I re-, + I, ] + I ] enjoy watching him play. /  
+
+b          A.167 utt1:  Yeah,  /
+sv          A.167 utt2: his age is about to catch up with him though. /  
+
+x          B.168 utt1:  <Laughter>.   
+
+sv          A.169 utt1:  He's no Spring chicken anymore. /  
+
+b          B.170 utt1:  # No,  /
+ sv         B.170 utt2: {C but } he's still performing. # /  
+
+sv          A.171 utt1:  # {C And } like you say Warren Moon's an excellent,  /
+sv          A.171 utt2: Warren Moon's an # excellent. - /
+sv          A.171 utt3:  {C But } he's very exciting to watch. /  
+
+aa          B.172 utt1:  Yes he is, /  
+
+ b         A.173 utt1:  # Uh-huh,  /
+b          A.173 utt2: sure. # /  
+
+ sv         B.174 utt1:  # [ [ I, + I, ] + # I ] enjoy watching him also. /  
+
+  b        A.175 utt1:  Uh-huh,  /
+ aa         A.175 utt2: absolutely. /  
+
+qo          B.176 utt1:  What about, {F uh, } Marino? /  
+
+%         A.177 utt1:  {F Uh, } I'm, - /
+h          A.177 utt2: obviously he's a very good quarterback,  /
+sd          A.177 utt3: [ I'd, + I ] never was, {D you know, } [ too, + ] [ a whole lot of, + ] a big fan, {D you know. } /  
+
+sv@          B.178 utt1:  I think he'll get better as he gets older.    
+
+b          A.179 utt1:  Yeah,  /
+sv          A.179 utt2: he may, uh-huh. /  
+
++@          B.180 utt1:  Because [ [ he, + he {D well } wa-, ] + he was ] the youngest quarterback there was, wasn't he? /  
+
+ny          A.181 utt1:  Yes  /
+sd^e          A.181 utt2: he was,  /
+sv          A.181 utt3: I believe that's right at one point in time.  /
+%          A.181 utt4: Ye-, - /
+sv          A.181 utt5: {C but } he's a very young fellow. /  
+
+b          B.182 utt1:  Uh-huh. /  
+
+b          A.183 utt1:  Yeah,  /
+sv          A.183 utt2: of course a quarterback can look so good [ if he's got a lot, + if he's got ] a good supporting cast, {D you know. } /  
+
+ba          B.184 utt1:  # That's true,  /
+ba^r          B.184 utt2: that's true. # /  
+
+sv          A.185 utt1:  # If not, he gets # beat to death like poor old Troy Aikman has the last couple of years anyway,  /
+ %         A.185 utt2: you kno-, - /
+%          A.185 utt3: we-, - /
+sv          A.185 utt4: Dallas did better last year,  /
+sv          A.185 utt5: hopefully they'll do better this year. /  
+
+t3          B.186 utt1:  <Talking>  <<talking to someone else in the room>>. {F Uh, } probably around twelve, uh-huh.  /
+b          B.186 utt2:  Yeah,  /
+h          B.186 utt3: {F uh, } [ I didn't, + I don't ] know,  /
+sv          B.186 utt4: [ I, + I ] just think, {D you know } Marino will get better  /
+sv          B.186 utt5: {C and, } {F uh, } his team's not as good as what it was when he went to the Super Bowl,    
+
+ba          A.187 utt1:  # That's right. # /  
+
++          B.188 utt1:  # {D you know, }  /
+%          B.188 utt2: # {C so. } -/  
+
+b          A.189 utt1:  Yeah,  /
+sv          A.189 utt2: Miami's had some down years, too. /  
+
+b          B.190 utt1:  Yeah. /  
+
+sv          A.191 utt1:  {C But } they all do, I guess,  /
+sv@          A.191 utt2: [ it's, + it's ] cyclical, I guess.    
+
+b          B.192 utt1:  Uh-huh. /  
+
++@          A.193 utt1:  As the players get older, get slower. /  
+
+b          B.194 utt1:  Yeah  /
+ba          B.194 utt2: <laughter>.  That's true,  /
+%          B.194 utt3: ye-, - /
+sv          B.194 utt4: {C and } with age comes,   
+
+b          A.195 utt1:  # Yeah,  /
+%          A.195 utt2: with - /
+%          A.195 utt3: yeah, # /  
+
++         B.196 utt1:  # {D you know, } - /
+%          B.196 utt2: [ the, + # the ] - /
+sv          B.196 utt3: I'm sure arthritis sets in with them,   
+
+aa          A.197 utt1:  {F Oh } yes, # very much so. # /  
+
+ +         B.198 utt1:  # {D you know. } # /  
+
+^2          A.199 utt1:  Hip injuries and things like that, yeah. /  
+
+b          B.200 utt1:  Right,  /
+b          B.200 utt2: yeah. /  
+
+b          A.201 utt1:  Yeah,  /
+sv          A.201 utt2:  [ that, +  that ] forces a lot of the guys to get out of the game. /  
+
+b          B.202 utt1:  Uh-huh,  /
+sv          B.202 utt2: {C and } they're so young, /  
+
+ba          A.203 utt1:  # That's right. # /  
+
+sv          B.204 utt1:  # {C but, } they're # retired, {D you know, }  /
+sv@          B.204 utt2: {C and } their so young still.    
+
+b          A.205 utt1:  Uh-huh,  /
+b          A.205 utt2: yeah,  /
+sd          A.205 utt3: I read [ some time, + ] {D well } not too long ago that the average, {F uh, } professional career only lasts seven years. /  
+
++@          B.206 utt1:  Oh. /  
+
+sv          A.207 utt1:  {C So } [ that's + when you think about it, that's ] really not a very long time, of course. /  
+
+b          B.208 utt1:  {F Oh } yeah,  /
+sv          B.208 utt2: {C but } then you think about how many have been in there longer than that. /  
+
+sd          A.209 utt1:  {C But } if the average is seven years that means a lot of guys don't make it seven years, {D you know. } /  
+
+b          B.210 utt1:  <Throat_clearing>  Yeah,  /
+sd          B.210 utt2: a lot of them would have to get out {D like } in just a couple. /  
+
+ba@          A.211 utt1:  That's right, yeah, *[[should this be two slash units?]] /
+%          A.211 utt2: that's ri-, -/  
+
+sv          B.212 utt1:  Holy smokes, [ I didn't + ] <noise> that doesn't seem like very long. /  
+
+sv          A.213 utt1: [ That's, + that's ] a pretty short career on average. /  
+
+b          B.214 utt1:  Uh-huh. /  
+
+sv          A.215 utt1:  Of course they play their, {D you know, } cards right and do some good investments, <door> [ they'll, + {D you know, } they'll ] do all right. /  
+
+b          B.216 utt1:  Uh-huh. /  
+
+sv          A.217 utt1:  {C But } a lot of them don't, unfortunately. /  
+
+b          B.218 utt1:  Yeah.  /
+qo          B.218 utt2:  {F Um, } what do you think of the, {F uh, } L A Raiders,  /
+qy          B.218 utt3: used to [ the, + the ] Oakland? -/  
+
+ny          A.219 utt1:  Yeah,  /
+sv^e          A.219 utt2: [ they, + they're ] always branded, {D you know, } as a bunch of outlaws  /
+sv          A.219 utt3: {C and, }   
+
+x          B.220 utt1:  # <Laughter>.  #   
+
++          A.221 utt1:  # [ if # their, + if their, ] {D you know, } arrest record [ won't let abl-, + won't let ] them play anywhere else, [ they seem to go to, + they seem to go to ] the Raiders. /  
+
+x          B.222 utt1:  # <Laughter>.  #   
+
+sv          A.223 utt1:  # {C But } # that just may be, {D you know, } perceived, - /
+sv          A.223 utt2: {D you know } perception, - /
+h          A.223 utt3: I don't know. /  
+
+b          B.224 utt1:  # Yeah. # /  
+
+sv          A.225 utt1:  # Al # Davis [ is, + he's ] a kind of strange character, [ strange, + strange ] looking guy.  /
+sv          A.225 utt2:  Apparently he's kind of a wild guy,  /
+h          A.225 utt3: I don't really know for sure.  /
+sv          A.225 utt4: They've had some excellent teams, though, obviously. /  
+
+aa          B.226 utt1:  Yes,  /
+sv          B.226 utt2: they have. /  
+
+sv          A.227 utt1:  I'm not sure they've yet decided where they want to play,  /
+sv          A.227 utt2: they keeping talk about, {D you know, } going, -/ 

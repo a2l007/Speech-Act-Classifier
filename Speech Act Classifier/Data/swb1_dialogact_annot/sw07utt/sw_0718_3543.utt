@@ -1,0 +1,228 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3543_1464_1353
+TOPIC#:		322
+DATE:		911214
+TRANSCRIBER:	RDL
+UTT_CODER:      lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Occasional background clanking noise on B
+
+======================================================================
+  
+
+o          B.1 utt1: {D So, } Utah. /  
+
+aa          A.2 utt1:  # Yes. # /  
+
+sd            B.3 utt1:  # [ [ That, + # that's, ] + that's ]  the state that [ got, + ] was famous when they <noise> executed somebody. /  
+
+sd          A.4 utt1:  Gary Gilmore. /  
+
+b^m          B.5 utt1:  Gary Gilmore. /  
+
+b          A.6 utt1:  # Yeah. # /  
+
+sd          B.7 utt1:  # By # firing squad, as I recall. /
+
+aa          A.8 utt1:  That's right,  /
+sd          A.8 utt2: {C and } we still have a death penalty. /  
+
+b          B.9 utt1:  Uh-huh  /
+x          B.9 utt2: </noise>.   
+
+%          A.10 utt1:  Some, - /
+sd           A.10 utt2: a gentleman, {F uh, }   that was one of the hi-fi murderers just had his conviction overturned, {D well, } appealed again. /
+sd           A.10 utt3:   I guess we have the longest, {F uh, } running inmates for death row # too. # /  
+
+b          B.11 utt1:  # Uh-huh. # /  
+
+sd           A.12 utt1:  {C And then } we had another guy, {F uh, } Ronald Lafferty, that thought God told him to kill his sister-in-law. /  
+
+b          B.13 utt1:  Yeah. /  
+
+sd          A.14 utt1:  He just got [ a, + a ] new trial because,   
+
+x          B.15 utt1:  <Noise>.   
+
++          A.16 utt1:  the judge felt that he was incompetent. /  
+
+b          B.17 utt1:  Uh-huh. /  
+
+qo          A.18 utt1:  {F Uh, } how do you feel about the death penalty? /  
+
+%          B.19 utt1:  <Lipsmack> {D Well, } I, yo-, {D you know, } - /
+sd          B.19 utt2:  until recently I've been sort of, - /
+sd          B.19 utt3:  could go either way, {D you know, } - /
+sd        B.19 utt4: [ it, + it, ] sort of  doesn't much, {D you know, } - /
+%          B.19 utt5: it didn't, - /
+sd           B.19 utt6: it wasn't a strong issue, {F um, } I guess it still isn't a strong issue.  /
+sd            B.19 utt7: {C But } I must say, I find it very silly, the way politicians are running around <breathing> creating more and more capital crimes, {F um } <clanking> --   
+
+b          A.20 utt1:  Oh. /  
+
++           B.21 utt1:  -- instead of dealing with [ re-, + ]  {D you know, } the real problems [ that, + {D you know, } </clanking> that ] [ they're, + they're ]  getting votes  (( presumably ))  by, {F um, } - /
+sd          B.21 utt2: I assume they're doing it for that reason <noise>. /  
+
+sv           A.22 utt1:  {D Well, } I'm sure that's #  ((   )) . # -/  
+
+sv(^q)          B.23 utt1:  # [ [ By, + # by ] + by ] saying {D well, }  [ this, + [ doing  th-, + ] <noise> this ] particular crime in this particular way is a capital crime now. /  
+
+sd          A.24 utt1:  {D Well, } I kind of [ a-, + ] agree with terrorism.  /
+sv          A.24 utt2:   I think those guys should be done away with.  /
+sv          A.24 utt3: That's one of the worst,   
+
+x          B.25 utt1:  # <Dishes>. #   
+
++          A.26 utt1:  # crimes # in my book  /
+sv          A.26 utt2: {C and, } {F uh, } drug dealing, {F um, }   
+
+x          B.27 utt1:  <Dishes>.   
+
++          A.28 utt1:  that's close  /
+sv          A.28 utt2: {C but, } {F uh, }   
+
+x          B.29 utt1:  <Dishes>.   
+
++          A.30 utt1:  terrorism definitely.  # And # --   
+
+b          B.31 utt1:  # Uh-huh. # /  
+
++          A.32 utt1:  -- {F uh, } # selling out your country. # -/  
+
+sv         B.33 utt1:  # [ It's not, + # it's not ] enough just to lock them up forever. /  
+
+aa          A.34 utt1:  {F Uh, } no,  /
+sv            A.34 utt2: it's got to be something that is going to cost them, because we never lock anybody up forever. /  
+
+aap          B.35 utt1:  <Noise> Not often. /  
+
+aa^m          A.36 utt1:  Not very often at all.  /
+sd            A.36 utt2:  We've got these guys in New York  that, {F uh, } I'm sure you heard about, the ones that killed, {F uh, } the  gentleman that came from Utah to watch the # tennis # --   
+
+b          B.37 utt1:  # Yeah. # /  
+
++          A.38 utt1:  -- people. /  
+
+b          B.39 utt1:  Yeah  /
+x          B.39 utt2: <noise>.   
+
+sd           A.40 utt1:  {C And } I guess they got convicted, the four, of --   
+
+b          B.41 utt1:  Uh-huh. /  
+
++          A.42 utt1:  -- {F uh, } murder. /  
+
+b          B.43 utt1:  Right. /  
+
+qy^d        A.44 utt1:  <Lipsmack> {C So } you've come to a definite opinion on it now? /  
+
+%          B.45 utt1:  {D Well, }  I, - /
+%          B.45 utt2: I've - /
+sv          B.45 utt3: <static> [ it, + it ]  seems like it's [ gone, + ] gotten carried away,  /
+sd          B.45 utt4: {F um, } {C and } [ I, + I ] do find it hard to  [ dr-, + ] know where to draw a line,  /
+sd(^q)       B.45 utt5: {C and so } if I had to draw a line, I'd say just no capital punishment.  /
+sv           B.45 utt6:   {E I mean, } [ [ I don't, + I don't, ] + I don't ] see that it accomplishes a whole lot, <breathing> whereas I do think that convicting people [ and, +    and  ] incarcerating them for a long time, if that could be improved upon, that would have more impact, I think. /  
+
+aa          A.46 utt1:  Yeah.  /
+bf          A.46 utt2:  You kind of hate to, -/  
+
+o          B.47 utt1:  No,  /
+qh           B.47 utt2: [ wh-, + ] what about the argument [ where, + where ] somebody who is committing one capital crime chooses to commit [ a, +  a ]  more serious capital crime?  /  
+sv           B.47 utt3: {E I mean, } murder, {F um, } because that one at least, you might escape  from because his victim, {D you know, } his witnesses will be gone <noise>.  /
+qy          B.47 utt4:   [ Doesn't this, + doesn't this ] encourage,   
+
+qy          A.48 utt1:  You # mean # --   
+
++          B.49 utt1:  # {F Uh, } #   
+
++          A.50 utt1:  -- {F uh, } # violence? # /  
+
++          B.51 utt1:  # More  ((   )) . #  /
+qy            B.51 utt2: [ Doesn't this, + {D yeah, }  {E I mean, } doesn't this ] encourage murder, in order to wipe out the --   
+
+^2          A.52 utt1:  The witnesses? /  
+
++          B.53 utt1:  -- the witnesses? /  
+
+no          A.54 utt1:  {D Well, } maybe it would.  /
+sd           A.54 utt2:  {F Uh, } I kind of have a problem with our legal system at the moment, {F uh, } as it is.  / 
+sv           A.54 utt3: I think that people  who, {F uh, } infringe on other people's rights, {F uh, } and screw up their whole lives  with rape, {F uh, } child molesting, {F uh, } terrorism, just # {F uh, } # -/  
+
+b          B.55 utt1:  # Yeah. # /  
+
+sv           A.56 utt1:  There's just like five things that I think they ought to be snuffed for,  /
+sd          A.56 utt2: {C but } [ I'm, + I'm ] for it for certain reasons. /  
+
+b          B.57 utt1:  Uh-huh. /  
+
+sv             A.58 utt1:  {C And } I think that things like rape, {F uh, } you can't get over, {F uh, } # it takes a lifetime. # /  
+
+b          B.59 utt1:  # I see,  /
+qy^d        B.59 utt2: [ {C so, } + {C so } ] # [  if, + if ] William Kennedy Smith had been found guilty, you believe he should have been, {F uh, } executed? /  
+
+nd          A.60 utt1:  {F Uh, } # [ if it was, + #   
+
+sd          B.61 utt1:  # A six # person jury could have decided either way, of course <noise>. /  
+
++          A.62 utt1:  Yeah.  /
+sv           A.62 utt2:  If it was, ] it would probably have to be a pattern.  /
+sd           A.62 utt3:   {D You know, } we have plenty of convicted guys that go into jail and come back  out, do the same thing and go back,  /
+sv           A.62 utt4: {C and, } {F uh, } if they're habitual, like three times caught for rape or child # molesting # --   
+
+b          B.63 utt1:  # Uh-huh. # /  
+
++          A.64 utt1:  -- then snuff them. /  
+
+sv           B.65 utt1:  {D Well, } the  ((   ))  problem is that they've just  been let out of jail. /  
+
+br          A.66 utt1:  Pardon? /  
+
+sv^r          B.67 utt1:  The problem there is that they've been let out jail.  /
+sv           B.67 utt2:   If they've been thrice convicted, they should have been kept in longer. /  
+
+aa          A.68 utt1:  Yeah,  /
+sv          A.68 utt2: {C but } we don't seem to keep them long  enough, /
+sv          A.68 utt3: {C and then } they learn such bad things in jail. /
+sv          A.68 utt4: # That isn't # --   
+
+b          B.69 utt1:  # Yeah,  /
+%          B.69 utt2: {D well. } # -/  
+
++          A.70 utt1:  -- a place of rehabilitation. /  
+
+aa          B.71 utt1:  Yeah,  /
+aa          B.71 utt2: [ that's, +  that's ] for sure. /  
+
+aa          A.72 utt1:  Yeah,  /
+qy^g            A.72 utt2: it's a tough question, isn't it, on whether, at what point do they become so detrimental to society that society can't afford to  keep them around # to # --   
+
+ny          B.73 utt1:  # Uh-huh. # /  
+
++          A.74 utt1:  -- keep giving them chances. /  
+
+ny          B.75 utt1:  Yeah. /
+
+^h           @@A.76 utt1:  {F Uh, } let's see,  /
+sd^t          A.76 utt2: {C so } the other question that they wanted was whether the place that we live in, {F uh, } compares to how we feel <<faint>>.  /
+qw          A.76 utt3:   What's the laws there in D C? / 

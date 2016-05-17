@@ -1,0 +1,313 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2965_1156_1024
+TOPIC#:		318
+DATE:		910525
+TRANSCRIBER:	csw
+UTT_CODER:      mmab
+DIFFICULTY:	1
+TOPICALITY:	3
+NATURALNESS:	3
+ECHO_FROM_B:	4
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	3
+REMARKS:	Caller A talks very softly. Caller B has music or TV playing
+in the background, throughout.  Single dots of static throughout on Caller A's 
+single conversation.
+
+=============================================================================
+  
+
+fp          A.1 utt1:  Hi,  /
+sd          A.1 utt2: my last, {F uh, } auto repair was [ my, + my, ] {F uh, }  alternator went out.  /
+sd          A.1 utt3: I have a nineteen eighty-six Toyota, {F uh, }  /
+sd          A.1 utt4: it's a little Tercel <static>. /  
+
+b          B.2 utt1:  Uh-huh <pounding>. /  
+
+sd          A.3 utt1:  {C And, }  {F uh, } I have [ a fri-, + a friend ] whose real  good with, {F uh, } repairing cars  /
+sd          A.3 utt2: {C so } I got him to take the alternator off and take it  and, {F uh, } {D you know, } get a replacement part. /  
+
+b          B.4 utt1:  Uh-huh. /  
+
+sd          A.5 utt1:  {C So } we went to [ [ a, + {F uh, } a, ] + a ] place called  Quality Auto Parts  /
+sd          A.5 utt2: [ {C an, } +  {C and } ] their parts are supposed to be guaranteed [ and, + and ] everything  /
+sv          A.5 utt3: {C and }  [ they're, + they're, ] {F uh, } very reasonable.  /
+sd          A.5 utt4:  {C So, } {F uh, } I bought the  alternator,  /
+sd          A.5 utt5: we [ p-, +  put ] it on the car  /
+sd          A.5 utt6: {C and } [ it, + it ] didn't work,  /
+sd          A.5 utt7: {C and } it blew  out all the fuses. /  
+
+ba          B.6 utt1:  {F Oh, } no <laughter>. /  
+
+b          A.7 utt1:  Yeah. /  
+
+qw          B.8 utt1:  How much was the alternator? /  
+
+sd          A.9 utt1:  {F Uh, } I bel-, something like sixty-nine dollars,  [ som-, + something ] on that order. /  
+
+qy          B.10 utt1:  [ Did he, + did he ] hook up the [ wir-, + wiring ] wrong? /  
+
+nn          A.11 utt1:  No,  /
+sd^e          A.11 utt2: he hooked it up right.  /
+sd          A.11 utt3:  [ It, + it ] was just  that [ the, + the ] part [ just, + just ] didn't fit the car,  /
+sd          A.11 utt4: {C so. } I took it back  /
+sd          A.11 utt5: {C and, }  {F uh, }  [ [ he, + he ] took the alter-, + the guy [ in, + in ] the parts shop took the alternator ]  /
+sd          A.11 utt6: {C and } he put it  on the little thing he has in there to test them  /
+sd          A.11 utt7: {C and, }  {F uh, } he said there  was nothing wrong with the alternator  /
+sd          A.11 utt8: {C so } [ we, + we ] went back and tried it  again, put it on again  /
+sd          A.11 utt9: {C and } it still didn't work,  /
+sd          A.11 utt10: {C and } we took the car up to,  {F um, } a little place called Pep Boys,  /
+qy^d          A.11 utt11: I don't know if you have them in your area -- /  
+
+ny          B.12 utt1:  Uh-huh. /  
+
+sv          A.13 utt1:  -- {C but, }  {F uh, } [ they're, + they're ] pretty reasonable,  {F uh, } car repair place also.  /
+sd          A.13 utt2: {C So, } {F uh, } [ took it up there, + towed it up there ]  because it, {D you know, } wouldn't start or anything  /
+sd          A.13 utt3: {C and } this thing just kept blowing out  the fuses and, {F uh, } took them about [ an, + an ] hour to, {F um, } figure out [ what was, + what was ]  blowing the fuse,  /
+sd          A.13 utt4: {C and } [ it was, + it was ] the alternator that was  blowing the fuse.  /
+sd          A.13 utt5:  {D Anyway, } <breathing> ended up taking it to the Toyota dealer  /
+sd          A.13 utt6: {C and }  the only problem was that, {F uh, } it had to be a genuine Toyota, {F uh, }  alternator because most of the other ones that they say will fit it, [ that, + that, ] {D you know, }  they sit in there and everything  /
+sd          A.13 utt7: {C but } there's just some little  difference that, {F um, } causes it not to work an i-, -/  
+
+b          B.14 utt1:  Uh-huh,  /
+sv          B.14 utt2: they probably built that in so they could make money. /  
+
+aa          A.15 utt1:  [ Ye-, + yeah, ]  /
+aa          A.15 utt2: I guess so  /
+sd          A.15 utt3: {C and } [ that was my, + that was my ]  last experience. /  
+
+sd          B.16 utt1:  {D Well } I had a weird, - /
+sd          B.16 utt2: there's a little sensing  device, {F uh, } [ in front of my, + {F uh, } <<pause>> {F um, } {A I'm not sure, }  right in front of ] the [ f-, + fan, ]  /
+sd          B.16 utt3: [ it's a, + it's an ] air conditioner sensing device.  /
+sd          B.16 utt4:  I don't know why,  /
+sd          B.16 utt5: it actually, - /
+sd          B.16 utt6:   there's a metal piece that fits through the  belts,  {F uh, }  /
+sd          B.16 utt7: {C and } somehow that broke off  /
+sd          B.16 utt8: {C and, } {F uh, } [ I, + I ] still can't figure out how it  broke,  /
+sd          B.16 utt9: {C and, }  {F uh, } anyway,  {C so } [ a-, + ] this piece obviously, {F um, } - /
+sd          B.16 utt10: I have a Subaru,  /
+sd          B.16 utt11: {C and, }  {F uh, } I think you can only get it through Subaru dealer, etcetera,  /
+%          B.16 utt12: {C so. } -/  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  {F Uh, } this little sensing device costed like  sixty bucks <laughter>. /  
+
+ba          A.19 utt1:  Goodness,  /
+%          A.19 utt2: are you able, -/  
+
+sd          B.20 utt1:  [ {C And, } + {C and } ] I haven't had too many  problems with my car,  /
+sd          B.20 utt2: I got a eighty-eight Subaru, G L X T  /
+%          B.20 utt3: {C and } it, -/  
+
+b          A.21 utt1:  Uh-huh. /  
+
+sd          B.22 utt1:   {F uh, } {C and then, } {D you know } just basic  maintenance and oil changes  /
+sd          B.22 utt2: [ {C an } I, +   {C and } I ] do not do my oil changes  /
+sd          B.22 utt3: {C and } I will not do  my oil changes.  /
+sd          B.22 utt4:  [ I've, +   I think ] the first time I tried to do one and ended up, {F um, }  trying to ge-, {F uh, } - /
+sd          B.22 utt5:  yo-, borrowed somebody else's jack  /
+sd          B.22 utt6: {C and } I did this  /
+sd          B.22 utt7:  {C and } I went and bought everything, /  
+
+b          A.23 utt1:  Uh-huh. /  
+
+sv          B.24 utt1:  {C so } after buying the filter and all the oil,  you're looking at ten bucks at least,   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  or somewhere in there  [ an, +  [ and, + {F uh, } and ] ] then to go to the trouble, that I figured it's easier spending eighteen bucks at Jiffy Lube. /  
+
+b          A.27 utt1:  Yeah. /  
+
+%          B.28 utt1:  {C So } [ that, +  that's, ] {F um, } {D you know, }  <throat_clearing> - /
+sd          B.28 utt2: as far as any maintenance on my car, [ I, + I ] shy away from the oil  changes,  /
+ba          B.28 utt3: that's for sure. /  
+
+b          A.29 utt1:  Uh-huh,  /
+sd          A.29 utt2: {D well } my car [ is, +  {F uh, }  it's ] an  eighty-six  /
+sd          A.29 utt3: {C and } I really hadn't had [ any, + any ] trouble with it [ un-, + until ] that  /
+sd          A.29 utt4:  {C and } the car now has a hundred and  thirty something thousand miles on it  /
+sd          A.29 utt5: [ {C and, } +  {F uh, } {C and } ]  this was just recent,  /
+sd          A.29 utt6: {C so } I really can't complain about this one. /  
+
+qw          B.30 utt1:  How did you put that many miles on it, in,   
+
+sd          A.31 utt1:  {F Um, } {D well, } [ I used, +   
+
++          B.32 utt1:   four or five years? /  
+
++          A.33 utt1:  I used ] to work, {F uh, } - /
+sd          A.33 utt2: it was a seventy mile  trip everyday, {D you know, } two ways was seventy miles. /  
+
+qy          B.34 utt1:  {F Oh, } a hundred and forty mile trip? /  
+
+nn          A.35 utt1:  No,  /
+sd^e          A.35 utt2: [ it was, + it was ] just seventy miles. /  
+
+bf          B.36 utt1:  {F Oh, } thirty-five miles each way. /  
+
+aa          A.37 utt1:  Yeah. /  
+
+b^m          B.38 utt1:  Yeah. /  
+
+sd          A.39 utt1:  {C And, }  {F uh, } I did that for about  three years  /
+sd          A.39 utt2: {C and } [ it really, + it really ] added up.  /
+sd          A.39 utt3:  I've only taken, {F uh, } maybe two trips that  were about four hours long [ dow-, + {F uh, } down ] to Shreveport.  /
+sd          A.39 utt4:  {C And, }  {F uh, }  the rest of  it [ was, + {D you know, } it's ] just basically driving a long ways to work.  /
+sd          A.39 utt5:  {C And }  now I drive {D like } [ twenty, +  twenty-three ] miles each way,  /
+sd          A.39 utt6: {C so, } I'm getting  [ [ a little, + a little, ] + {F uh, } little ] relief,  /
+sd          A.39 utt7: {C but } still I drive a long ways. /  
+
+b          B.40 utt1:  Yeah. /  
+
+sv          A.41 utt1:  {C But } I guess because they're highway miles,  {D you know, } it's not so bad on your car [ as, + as ] if it, {D you know, }  were just regular street, {D you know. } /  
+
+b          B.42 utt1:  Uh-huh.  /
+qy          B.42 utt2:  Do you work for T I? /  
+
+ny          A.43 utt1:  Yes  /
+sd^e          A.43 utt2: I do. /  
+
+bk          B.44 utt1:  Okay. /  
+
+qy          A.45 utt1:  Do you? /  
+
+qw^h          B.46 utt1:  I was going to ask you, {D you know, } as far as how we're getting  compensated for what we're doing right now, {F um, } - /
+ng          B.46 utt2: I don't work for T I   /
+sd          B.46 utt3:  {C and } [ I'm just, + I get ] these green,  /
+sd          B.46 utt4: I don't know what you want to call them,  fake <<pause>> --   
+
+^2          A.47 utt1:  Points. /  
+
++          B.48 utt1:  -- point things, /  
+
+b          A.49 utt1:  Uh-huh. /  
+
+qw^d          B.50 utt1:  {C and, }  {F uh, } I just wondering how I go about  getting the cash <laughter>. /  
+
+sd          A.51 utt1:  {F Uh, } there's a number that you call,  /
+sd          A.51 utt2: it's the same  number [ that you, + that you ] call to make a call. /  
+
+bk          B.52 utt1:  {F Oh, } okay. /  
+
+ad          A.53 utt1:  [ You, + you ] call that number  /
+sd          A.53 utt2: [ {C and, } +  {C and, } ]  {F uh, }  somehow or another they'll give you an option to leave a message  /
+ad          A.53 utt3: {C and } you can leave a message. /  
+
+aa          B.54 utt1:  Okay. /  
+
+sd          A.55 utt1:  I know someone that did that,  /
+ad          A.55 utt2: you leave a message  /
+sd          A.55 utt3: {C and } [ they'll, + they'll ] call you back. /  
+
+aa          B.56 utt1:  Okay,  /
+aa          B.56 utt2: all right,  /
+ba          B.56 utt3: {D well } that's good to know.  /
+sd          B.56 utt4:   I haven't been doing - /
+sd          B.56 utt5: [ th-, + this ] is the first time I've been called in a long time  /
+sd          B.56 utt6:  {C and } I haven't been doing it  /
+%          B.56 utt7: {C so, } -/  
+
+b          A.57 utt1:  {F Oh } really. /  
+
+sd          B.58 utt1:  {C And, }  {F uh, } I've done it maybe twelve times. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:  {D Well } I don't know if I've done it quite that  much,  /
+sd          B.60 utt2: {C but, }  {F uh, } mine is mixed up too,  /
+sd          B.60 utt3: I have to call and get it fixed <laughter>. /  
+
+sd          A.61 utt1:  {F Uh, } let's see before I had this car [ I had  a, +  {F um, } I bought an ] Audi five thousand -- /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+sd          A.63 utt1:  -- {C but } [ I bought it, + I bought it ] used.  /
+sd          A.63 utt2: [ I, + I ]  just bought it from a friend [ who was going to, + who just ] charged me what the  dealer was going to  [ give, + give ] him for it for a trade-in,  /
+sd          A.63 utt3: {C and, }  {F uh, } it had a whole  lot of miles on it.  /
+sd          A.63 utt4: [ I, + I ] figured maybe I'd get one or two years out of it,  /
+sd          A.63 utt5: [ {C an } I, + {C an } I ]  did get a couple of good years out of it  /
+sd          A.63 utt6: {C and } [ the, + {F uh, } the ]  engine messed up on me  /
+sd          A.63 utt7: {C and then } I gave it to a guy to repair who works [ for the aut-, + for the Audi ]  dealer  /
+sd          A.63 utt8: {C and, } {F uh, } he took the engine apart  /
+sd          A.63 utt9: {C and, } {D you know, } he just  said he couldn't fix it  /
+sd          A.63 utt10: {C so }  the engine never got put back together again. /  
+
+b          B.64 utt1:  {F Huh, } {F oh } {D well. } /  
+
+%          A.65 utt1:  I, -/  
+
+sd          B.66 utt1:  I was driving a sixty-six Plymouth Fury. /  
+
+ba          A.67 utt1:  Wow.  /
+sv          A.67 utt2:  I think those old cars --   
+
+b          B.68 utt1:  Yeah,  /
+b^r          B.68 utt2: yeah,  /
+sv          B.68 utt3: {C and, }   
+
++          A.69 utt1:  -- [ might, + might ] be a pretty good bet  because you <laughter>, - /
+h          A.69 utt2: I don't know, i-,  -/  
+
++          B.70 utt1:  {F Oh, } [ tha-, + that's ] when they made cars,   though, - /
+sd          B.70 utt2: [ this things was, +  the body was ] in good condition  /
+sd          B.70 utt3: {C and }  ((   ))  {D you know, }  it ran fine.  /
+sd          B.70 utt4:  It was starting to burn some oil. /  
+
+b          A.71 utt1:  Uh-huh.  /
+b          A.71 utt2: {F Um. }   
+
+%          B.72 utt1:  [ {C And, } + {F um, } {C but } ] I had to <<pause>>,  {D you know, } ge-, - /
+sd          B.72 utt2: {D you know, } [ I, +  ((   ))  [ after +  about [ thr-, +  couple ] of months after ] I ] was out of college  I finally splurged and  bought my car  /
+%          B.72 utt3:  {C so. } -/  
+
++          A.73 utt1:  Uh-huh,  /
+sd          A.73 utt2: I read a book one time that said that the best cars were made before seventy-four. /  
+
+aa          B.74 utt1:  Yeah,  /
+sv          B.74 utt2: {D well, } {D you know, } [ these, + these ] cars made  in the sixties and stuff, - /
+sv          B.74 utt3: {E I mean } [ the steel, +  {E I mean, } the  thickness, ] - /
+sv          B.74 utt4: {E I mean, } [ i-, + those thin-, ] they're just, [  th-, + ] - /
+sv          B.74 utt5: you just don't see cars like that. /  
+
+b          A.75 utt1:  Uh-huh. /  
+
+sv          B.76 utt1:  {C And } they last a long time.  /
+sv          B.76 utt2: {C And } they were  simple too,  /
+sv          B.76 utt3: the engines were simple and durable  /
+sv          B.76 utt4: {C and } --   
+
+b          A.77 utt1:  Yeah. /  
+
++          B.78 utt1:  -- some people will still buy them,  {D you know, }  /
+%          B.78 utt2: they'll, -/  
+
+aa          A.79 utt1:  Yeah,  /
+sv          A.79 utt2: [ [ it's easy to, +  it's easy, ] + I guess  it's  still easy ] to find engines for those cars, engines and transmissions  /
+sv          A.79 utt3: {C and }  [ if you, + I guess if you ] keep [ trad-, +  changing ] them out you can keep a car for a long time.  /
+sv          A.79 utt4:   Course I guess I could do the same thing with [ the, + the ] Toyota that I have,  /
+sd          A.79 utt5: I just don't know how much they'll want to charge me to, -/  
+
+sv          B.80 utt1:  <Yawning> It almost costs so much to fix anything or  do anything with it,  /
+sv          B.80 utt2: you're just better off buying another car. /  
+
+aa          A.81 utt1:  Yeah,  /
+aa          A.81 utt2: I guess so,  /
+sv          A.81 utt3: {C but } I just think they cost  too much [ in the, + in the ] first place, now a days. / 

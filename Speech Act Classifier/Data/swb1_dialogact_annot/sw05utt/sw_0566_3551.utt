@@ -1,0 +1,222 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3551_1400_1389
+TOPIC#:		353
+DATE:		911215
+TRANSCRIBER:	GL
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+=======================================================================
+  
+
+qw          A.1 utt1:   ((   ))  How big is Provo? /  
+
+%          B.2 utt1:  {F Um. } /  
+
+qy          A.3 utt1:  That a little town [ or, + or  ] a bigger city? /  
+
+sd          B.4 utt1:  {F Um, } it's not one of the bigger ones.  It's probably, {F um, } I compare it to the size of Plano, maybe a little smaller.  /
+sd          B.4 utt2: Plano, Texas. /  
+
+b          A.5 utt1:  Oh.  /
+sd          A.5 utt2: I talked to someone that was only a couple of thousand in her town, I think. /  
+
+bh@          B.6 utt1:  {F Oh, } really?  *[[slash error]] 
+
+ny          A.7 utt1:  Yeah,  /
+sd          A.7 utt2: I forgot the name of the town.  /
+qy^d          A.7 utt3: I thought maybe it was you <laughter>. /  
+
++          B.8 utt1:  No <laughter>. /  *[[nn]]
+
+sd^t          @A.9 utt1:  {F Oh, } {D well, } anyway, we're supposed to talk about education.  /
+sd          @A.9 utt2: I certainly have some ideas since I'm studying it now in college.  /
+sv          @A.9 utt3:  I'd say, first of all, they need to go back to spending more time on the basic reading, writing, arithmetic --   
+
+b          B.10 utt1:  Uh-huh. /  
+
++          A.11 utt1:  -- in grade school,  /
+sv          A.11 utt2: {C because } they really teach you about forty percent less than they used to,  /
+sv          A.11 utt3: {C and } it shows up.  /
+sd          A.11 utt4: That's one idea.  /
+qy          A.11 utt5:  Do you have any? /  
+
+no          B.12 utt1:  {F Um, } I don't know,  /
+sd          B.12 utt2: [ I'm pretty, + I think I'm pretty ] satisfied with, {F um, } - /
+sd          B.12 utt3: [ I gre-, +  I grew ] up in Plano -- /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  -- [ {C and, } + {C and }  ] my dad is actually on the school board there,  /
+sd          B.14 utt2: {C so, } I kind of kept up with a lot of things that went on. /  
+
+b          A.15 utt1:  Yeah,  /
+%          A.15 utt2: it's - /
+sd          A.15 utt3: Plano, {F uh, } improved greatly in the last twenty, twenty-five years -- /  
+
+b         B.16 utt1:  Yeah. /  
+
+sv          A.17 utt1:  -- that's for sure.  /
+sd          A.17 utt2:  It used to be the pits.  /
+sd         A.17 utt3: {C And } Arlington is excellent now,  /
+sd         A.17 utt4: {C but } I'm just speaking overall --   
+
+b          B.18 utt1:  Oh. /  
+
++          A.19 utt1:  -- across the country. /  
+
+b          B.20 utt1:  Yeah. /  
+
+sv          A.21 utt1:  Something is definitely wrong. /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sv          A.23 utt1:  {C And, } {F uh, } one thing, they don't spend as much time just teaching reading  and  writing,  /
+sv          A.23 utt2: {C so } a lot of kids are just being promoted from year to year  /
+sv          A.23 utt3: {C and } they truly can't read --  /
+
+b          B.24 utt1:  Right. /  
+
+sd          A.25 utt1:  -- {C so } I don't know how they expect them to, {F uh, } pass history when they can't read anything,  {D you know, } even read a word problem in math.  /
+sv          A.25 utt2: {C So, } {F um, } that's definitely a problem.  /
+sv          A.25 utt3: Another problem is you're going to keep the smarter people in the system too long paying the wages they do. /  
+
+b          B.26 utt1:  Right. /  
+
+%          A.27 utt1:  {C But, } {F um, } -/  
+
+qw          B.28 utt1:  {C So } [ do you, + what do you  ] think is good about the schools? /  
+
+%          A.29 utt1:  That is good about, - /
+sv          A.29 utt2: {D well, } it depends on where you are.  /
+sv          A.29 utt3: They're all so  different.  /
+sd          A.29 utt4: That's another thing --   
+
+b          B.30 utt1:  Yeah. /  
+
++          A.31 utt1:  -- about the United States.  /
+sd          A.31 utt2: There's no national curriculum, {D you know, }  /
+sd          A.31 utt3:  {E I mean, } what they'd be teaching in an Arlington school they may not be teaching in a Plano school -- /  
+
+b          B.32 utt1:  Uh-huh. /  
+
+sd          A.33 utt1:  -- {C and } in the same school district, [ you may, +  even in an Arlington seventh grade for instance, you may ] have an English class  /
+sd          A.33 utt2: you may have half literature for the whole year,  /
+sd          A.33 utt3: whereas in another one they're going to concentrate on grammar --    
+
+b^m          B.34 utt1:  Grammar. /  
+
++          A.35 utt1:  -- and give you a little literature,  /
+sv          A.35 utt2: it's up to the teacher, in other words.  /
+sv          A.35 utt3: {C So } [ that's kind of o-, + {D you know, } that's kind of odd ] to me. /  
+
+b          B.36 utt1:  Yeah. /  
+
+sv          A.37 utt1:  It depends on, {F uh, } what school you're in and who your teacher is, actually -- /  
+
+b          B.38 utt1:  Uh-huh. /  
+
+sv          A.39 utt1:  -- {C or } is how you end up <laughter>. - /
+sd          A.39 utt2: Overall, Arlington is good, one of the better ones in the state,  /
+sd          A.39 utt3: {C so } I guess we lucked out when we moved here. /  
+
+b          B.40 utt1:  Uh-huh.  /
+b          B.40 utt2:  {C So, } yeah,  /
+sv          B.40 utt3: that's the thing is just to look at the school system in the area that you move into before you. -/  
+
+b          A.41 utt1:  Uh-huh.  /
+sd          A.41 utt2:  Of course we have a slight problem in that, {F uh, } the number of the illiterate in America is mushrooming at this point,  /
+sv          A.41 utt3: {C and, } {F uh, } {D you know, } where our kids might be in a great school, we're still paying an awful lot of taxes for people who are on welfare and unemployment because they can't read,  {D you know. } /  
+
+b          B.42 utt1:  Uh-huh. /  
+
+%          A.43 utt1:  {C So. } -/  
+
+qy          B.44 utt1:  {C But } do you think that there should be, {F um, } nationwide, {F um, } curriculum? /  
+
+no          A.45 utt1:  I don't know.  /
+sd          A.45 utt2: I just read about that the other day,  /
+sd          A.45 utt3: {C and } I had never even thought of it.  /
+sv          A.45 utt4:  Actually it makes sense to a certain extent,  /
+sd          A.45 utt5: {C because } sometimes, {D like } a third grade teacher will get kids from second grade that didn't even learn what, {F uh, } - /
+sd          A.45 utt6: they should to do the work that she is supposed to teach, {D you know. }    
+
+b          B.46 utt1:  Uh-huh. /  
+
++          A.47 utt1:   ((   ))  and according to her plan,  /
+sv          A.47 utt2: {C so } I guess if there was a national curriculum we'd at least have a certain amount that all kids would learn. /  
+
+b          B.48 utt1:  Right. /  
+
+sd          A.49 utt1:  {C But, } {F uh. }  We actually rank forty-ninth in the world as far as just plain literacy goes, {D you know. } /  
+
+b          B.50 utt1:  {F Um. } /  
+
+sv          A.51 utt1:  [ That's, + that's  ] pretty low that there's --   
+
+b          B.52 utt1:  Yeah. /  
+
++          A.53 utt1:  -- forty-eight countries ahead of us that have [ more peop-, +  more citizens  ] percentage wise   that can read and write,  /
+sv          A.53 utt2: {C so, } {F um, } unless we want to keep [ paying, +  paying ] for these people that can't make it in society, we're going to have to do something. /  
+
+o@         B.54 utt1:  Who do you think it should be done through?    *[[slash error]]
+
+sd          A.55 utt1:  I don't know.  /
+sv          A.55 utt2:  Obviously nobody's smart enough to have figured it out yet,  /
+sv          A.55 utt3: {C so } I probably can't <laughter>. /  
+
++@         B.56 utt1:  <Laughter>.   *[[slash error]]
+
+sv          A.57 utt1:  {C But } I do think that we have to cut out some of this folderol stuff and go back in the first five, six grades and just keep going over and over and over until most of those that are capable can at least learn to read and write -- /  
+
++@          B.58 utt1:  Uh-huh. /   *[[slash error]]
+
+sd          A.59 utt1:  -- {C because } they can't even get the menial job without being able to read something nowadays --   
+
+b          B.60 utt1:  Right. /  
+
++          A.61 utt1:  -- {D you know. }   /
+sd          A.61 utt2: {F Uh, } [ you can't, + you can't  ] even work an answering machine if you're at work and had to get a message or something <laughter>, {D you know, }  or  fill out an application to work at McDonalds   if you can't read. /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+sv          A.63 utt1:  {C So, } {F uh, } I think [ that's, + that's ] a start at least, going back to the basics in the early grades -- /  
+
+aa@          B.64 utt1:  Yes.   *[[slash error]]
+
+sd          A.65 utt1:  -- {C and, } {F um, } they say that the average English student nowadays does at least fifty percent less reading and writing than they did twenty years ago,  /
+sv          A.65 utt2: {C and } that's a big jump.  /
+
++          B.66 utt1:  Yeah  /  *[[aa]]
+aa          B.66 utt2: I believe that <laughter>.  /
+
+qy          A.67 utt1:  Did you go to school in Plano? /  
+
+na          B.68 utt1:  I did. /  
+
+qy^d          A.69 utt1:  Through high school. /  
+
+ny          B.70 utt1:  Uh-huh,  /
+%          B.70 utt2: {F uh, } kinder-, -/ 

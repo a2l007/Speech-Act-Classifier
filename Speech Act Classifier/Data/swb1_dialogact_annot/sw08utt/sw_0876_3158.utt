@@ -1,0 +1,311 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3158_1253_1327
+TOPIC#:		364
+DATE:		910924
+TRANSCRIBER:	glp
+UTT_CODER:      aabo
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:        Women sounded very much alike at times.
+
+=======================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+sd          A.1 utt2: {D well, } some of the things I like to do are, - /
+sd          A.1 utt3: I like to knit.  /
+sd          A.1 utt4:  I knit sometimes,  /
+sd          A.1 utt5: {C and } I sew -- /  
+
+b          B.2 utt1:  Uh-huh. /  
+
+sd          A.3 utt1:  -- {C and, } {F uh, } I like to sew sometimes for my kids.  /
+sd          A.3 utt2: [  I, + I ] sew clothes for them every once in a while. /  
+
+b          B.4 utt1:  Uh-huh. /  
+
+sd          A.5 utt1:  <Lipsmack>  {C And } I make quilts. /  
+
+ba          B.6 utt1:  {F Oh, } wow,  /
+sd          B.6 utt2: that's the next project that I'd like to learn to do.  /
+sd          B.6 utt3:  I do mostly hand needlework like cross stitch and crewel embroidery  /
+sd          B.6 utt4: {C and } [ I'm, + I'm ] beginning to get a little bored with cross stitch.  /
+sd          B.6 utt5:  I was thinking maybe need to learn to quilt. /  
+
+sd          A.7 utt1:  After a while, cross stitch, I th-, - /
+h          A.7 utt2: I <laughter> don't know.  /
+sd          A.7 utt3:  I have --   
+
+sv          B.8 utt1:  It gets boring. /  
+
++          A.9 utt1:  -- to put it away  /
+sd          A.9 utt2: {C and then } I have to bring it back. /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+sd          A.11 utt1:  {D You know. } [ {C And, } + {C and, } ] {F uh, } I don't know why that is.  /
+sd          A.11 utt2:  I don't know if it's looking at the little [ th-, + <laughter> things ] every time. /  
+
+sv          B.12 utt1:  {D Well, } it reaches a point where it doesn't seem to be very challenging, I think. /  
+
+aa          A.13 utt1:  Yeah,  /
+aa          A.13 utt2: that might be it. /  
+
+sd          B.14 utt1:  {C But } I do --   
+
+aa^r          A.15 utt1:  That might <<faint>>, - /
+%          A.15 utt2: {C and } yet, there's, -/  
+
++          B.16 utt1:  -- a lot of it in the car.  /
+%          B.16 utt2:  We, -/  
+
+bh          A.17 utt1:  {F Oh, } do you? /  
+
+ny          B.18 utt1:  Yeah,  /
+sd^e          B.18 utt2: we commute from Plano to Dallas -- /  
+
+b          A.19 utt1:  Oh. /  
+
+sd          B.20 utt1:  -- {C so } I have nearly an hour both ways that I can really get a lot of work done  /
+sd          B.20 utt2: {C and } --   
+
+ba          A.21 utt1:  {F Oh, } I bet. /  
+
++          B.22 utt1:  -- I found that cross stitch is the easiest to do in the car. /  
+
+b          A.23 utt1:  Yeah. /  
+
+sd          B.24 utt1:  I don't know that I could even think about quilting.  /
+qy^g          B.24 utt2:  You have to have a pretty good frame, don't you, to --   
+
+ny          A.25 utt1:  Yeah. /  
+
++          B.26 utt1:  -- do any kind of quilting work? /  
+
+ny          A.27 utt1:  Yeah.  /
+sd^e          A.27 utt2:  {F Uh, } I've not really done [ any, + ] too much challenging, {F uh, } stuff.  /
+sd          A.27 utt3: [  I, + I ] can do it with [ a, + a ] needle and thread --   
+
+b          B.28 utt1:  Uh-huh. /  
+
++          A.29 utt1:  -- {D you know, }  [ but, + {F uh, } and ] get about five small stitches in, which is pretty good,  /
+sd          A.29 utt2: {C but } it's very long. /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd          A.31 utt1:  It's very tedious if you don't have a whole group, you're not finishing a quilt in a long time <laughter>. /  
+
+ba          B.32 utt1:  {F Oh, } I bet. /  
+
+%          A.33 utt1:  {C So, } {F uh, } -/  
+
+sv          B.34 utt1:  {C But, } it's such a lost art. /  
+
+sd          A.35 utt1:  {C So, } {F uh, } I like to just mostly do the tie quilts. /  
+
+b          B.36 utt1:  Uh-huh. /  
+
+sd          A.37 utt1:  That's so much easier. /  
+
+aa          B.38 utt1:  Yes. /  
+
+sd          A.39 utt1:  {C But, } {F uh, } the other ones are very pretty.  /
+%          A.39 utt2: They're, {F uh, } - /
+sd          A.39 utt3: we have a quilt on our bed that's, - /
+sd          A.39 utt4: instead of, {D like, } yarn --   
+
+b          B.40 utt1:  Uh-huh. /  
+
++          A.41 utt1:  -- they tied, {F uh, } ribbon into it. /  
+
+b          B.42 utt1:  <Lipsmack> Oh. /  
+
+sd          A.43 utt1:  {C And } it's real pretty. /  
+
+ba          B.44 utt1:  I bet. /  
+
+sd^r          A.45 utt1:  It's real pretty. /  
+
+sd          B.46 utt1:  There's so many things I wish I had learned to do with my mother.  /
+sd          B.46 utt2:  She had crocheted a full bedspread.  /
+sd          B.46 utt3:  It's kind of a hobnail --   
+
+ba          A.47 utt1:  {F Oh, } wow. /  
+
++          B.48 utt1:  -- looking thing.  /
+qh          B.48 utt2:  {C And } when I look at it now, {A she's been dead for a long time } --   
+
+b          A.49 utt1:  Uh-huh. /  
+
++          B.50 utt1:  -- I think {F oh, } why didn't I learn these crafts and skills from her because she could crochet and --   
+
+b          A.51 utt1:  Uh-huh. /  
+
++          B.52 utt1:  -- do so many of the old things that aren't in vogue right now that people just don't know how to do. /  
+
+qy          A.53 utt1:  {D Now } did you say you could knit? /  
+
+nn          B.54 utt1:  No. /  
+
+b          A.55 utt1:  Oh. /  
+
+b          B.56 utt1:  Uh-huh.  /
+sd          B.56 utt2:  Haven't tried that either. /  
+
+sv          A.57 utt1:  {D Well, } I was going to say [ because, +   
+
+sd          B.58 utt1:  I want to learn to crochet.  /
+%          B.58 utt2:  I, -/  
+
++          A.59 utt1:  Because ] if you could knit, you could crochet. /  
+
+bh          B.60 utt1:  Really? /  
+
+sv          A.61 utt1:  It's just like doing one handed as long as you learn how [ to, + to ] weave [ the, + the ] yarn in between your fingers on your left hand. /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+sv          A.63 utt1:  {C And then } you just use your right hand with the hook. /  
+
+b          B.64 utt1:  Uh-huh. /  
+
+%          A.65 utt1:  {C And } that's not, - /
+sd          A.65 utt2: it's really not too difficult.  /
+sv          A.65 utt3: You could learn that, I'm sure --   
+
+b          B.66 utt1:  Yeah. /  
+
++          A.67 utt1:  -- and pick that up. /  
+
+b          B.68 utt1:  Yeah. /  
+
+sv          A.69 utt1: [ If you, + I think if you ] can do any handicraft, you can learn to crochet. /  
+
+b          B.70 utt1:  Uh-huh. /  
+
+sd          A.71 utt1:  It's not too difficult. /  
+
+sd          B.72 utt1:  It's funny, when you were talking about sewing, I love to do anything by hand with a needle. /  
+
+b          A.73 utt1:  Yeah  /
+x          A.73 utt2: <<faint>>.   
+
+sd          B.74 utt1:  {C But } I'm totally intimidated if I sit down at a sewing machine.  /
+sd          B.74 utt2:  I never learned,  /
+sd          B.74 utt3: {C and } I get real nervous whereas usually the other needlework stuff is relaxing to me. /  
+
+qh          A.75 utt1:  Isn't that interesting. /  
+
+sd          B.76 utt1:  {C But } I just have a phobia about not being able to actually sew. /  
+
+sv          A.77 utt1:  I think that's really interesting. /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+b          A.79 utt1:  Huh.  /
+sd          A.79 utt2:  {C And } yet, {D you know, } I think about, {D you know, } - /
+sd(^q)          A.79 utt3: you said you do a lot of needlework  /
+sd          A.79 utt4: [ {C and, } + {C and } ] there are some beautiful, just gorgeous patterns --   
+
+b          B.80 utt1:  Uh-huh. /  
+
++          A.81 utt1:  -- that people do.  /
+sd          A.81 utt2: {C And } [ I, + I ] just think that, {F uh, } that's [ one of, + one of ] the arts that I think are really pretty.  /
+sv          A.81 utt3:  {C And } a lot of people don't do that either. /  
+
+b          B.82 utt1:  Uh-huh. /  
+
+%          A.83 utt1:  {D You know, } {C and so, } -/  
+
+sd          B.84 utt1:  {D Well, } it's hard to find the time.  /
+sv          B.84 utt2: [  I, + I ] wouldn't if I didn't have this car time ability probably --   
+
+b          A.85 utt1:  Yeah. /  
+
++          B.86 utt1:  -- because at night if I sit down, I'm doing something with the kids or --   
+
+b          A.87 utt1:  Yeah. /  
+
++          B.88 utt1:  -- just not sitting down at all <laughter>. /  
+
+aa          A.89 utt1:  <Laughter> That's true.  /
+sd          A.89 utt2: {D You know, } [ {C and, } + {C and } ] I always think, {D well, } I can do this and watch T V or something --   
+
+b          B.90 utt1:  Uh-huh. /  
+
++          A.91 utt1:  -- {D you know. }  /
+sd          A.91 utt2: {C And, } {F uh, } it seems like I always get my mind carried away to something else  /
+sd          A.91 utt3: {C and then } it doesn't --   
+
+%          B.92 utt1:  {D Well, } it, -/  
+
++          A.93 utt1:  -- quite work  /
+%          A.93 utt2: {C or, } -/  
+
+sd          B.94 utt1:  I'm at the age where bifocals or trifocals would be necessary.  /
+sd          B.94 utt2: It's so I find myself putting glasses on [ to, + to ] watch T V and then taking them off to do needlework  /
+sd          B.94 utt3: {C and } I get frustrated doing that  /
+sd          B.94 utt4: {C so } <laughter>.  Just give it up. /  
+
+sd          A.95 utt1:  {C And, } {D you know, } I like to sketch.   /
+sd          A.95 utt2: [ I can, + I can ] sketch something, like if I see a picture, like, out of a book, I can sketch that -- /  
+
+b          B.96 utt1:  Ooh. /  
+
+sd          A.97 utt1:  -- {C and } that's nice and everything,  /
+sd          A.97 utt2: {C but, } {D you know, } it's funny,  /
+sd          A.97 utt3: [  I can't + <laughter>, I can't ] draw it out of my own head --   
+
+b          B.98 utt1:  Uh-huh. /  
+
++          A.99 utt1:  -- kind of thing.  /
+sd          A.99 utt2:  I wish I could.  /
+sd          A.99 utt3: [ {C And, } + {C and } ] yet I can't do, {D you know, } [ like, + like, ] {F uh, } craft, {F uh, } on wood. /  
+
+b          B.100 utt1:  Uh-huh. /  
+
+sd          A.101 utt1:  I can't do that painting thing. /  
+
+b          B.102 utt1:  Yeah. /  
+
+%          A.103 utt1:  {C And } yet, -/  
+
+aa          B.104 utt1:  I'm the same way.  /
+sd          B.104 utt2:  If I see something, I can copy it,  /
+sd          B.104 utt3: {C but } I certainly can't create.  /
+sd          B.104 utt4: I admire people that have that in their minds already. /  
+
+aa          A.105 utt1:  Yeah,  /
+aa          A.105 utt2: me, too.  /
+aa^r          A.105 utt3:  Me, too.  /
+sd          A.105 utt4:  I know a woman who's just wonderful at that. /  
+
+b          B.106 utt1:  Uh-huh. /  
+
+sd          A.107 utt1:  {C And } I look at it  /
+sd          A.107 utt2: {C and, } {D you know, } you look at those things  /
+sv          A.107 utt3: {C and } you wish so  badly that you could do them.  /
+sv          A.107 utt4:  I guess, if you wanted to, you could take classes and learn.  /
+sd          A.107 utt5: I guess that's the only way I could do it. /  
+
+sd          B.108 utt1:  {D Well, } sometimes, even with that. [  I, + I ] think you have to have some, -/ 

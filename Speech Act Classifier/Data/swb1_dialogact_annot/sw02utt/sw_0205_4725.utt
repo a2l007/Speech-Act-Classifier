@@ -1,0 +1,226 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4725_1165_1626
+TOPIC#:		340
+DATE:		920417
+TRANSCRIBER:	nk
+UTT_CODER:	mlg
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	3
+REMARKS:         A repeats himself a lot and there is a lot of background
+noise on B's side.  B is slightly distorted at higher amplitudes.
+
+============================================================================
+  
+
+o          A.1 utt1:  Regarding, {F uh, } taxes.   I, {D you know, } - /
+sv          A.1 utt2: taxes are really a necessary evil [ and, + ]  in a civilized society.  /
+sv          A.1 utt3:  {C But } really, people get upset at taxes because [ you, + it's ] more efficient to do things yourself. /  
+
+b          @B.2 utt1:  Right. /  
+
+sv          A.3 utt1:  [ {C And, } +  {F uh, } {C and so } ] [ as, + as ] a result, {F uh, } {D you know, } [ it's, + it's ] a trade-off, {D you know, } for the common good, {D you know. } [ For, + for ] the benefit of others, {D you know. }  /
+qh          A.3 utt2:  How much of your resource should you dedicate to, {F uh, } making things work for others?  /
+qy          A.3 utt3:  Have you, {F uh, } {D you know, } ever thought, {D you know, } just how much of that money [ should, + should ] go to other people that really don't deserve it? /  
+
+ny          B.4 utt1: <Hum> <noise> {F Uh, } {D well } yeah <laughter>.  /
+sv^e          B.4 utt2: I know [ it's, + it's ] a lot, {D you know } <clicking>, [ that, + {F uh, } that ] I feel [ like, + {D you know, } just like ] you said, that, there's just so much that you can do yourself.  That you take care of your own self that you don't need the money for - /
+sv          B.4 utt3: {C but } they're giving it to other people that don't really need it [ ei-, + either, ]  /
+sv          B.4 utt4: {C but } yet they accept it. /  
+
+sv          A.5 utt1:  {D Well, } the thing of it is,   
+
+x          B.6 utt1:  <Dishes>.   
+
++          A.7 utt1:  if I wanted to just, {F uh, } {D you know, } permanently become a book reader, I guess I could just, {F uh, } {D you know, } {F uh, } go on public assistance, {F uh, } {D you know } --   
+
+sv          B.8 utt1:  Like so many people # do. # /  
+
++          A.9 utt1:  -- # [ [ [ lo-, +  # lo-, ] + look  for, ] + {F uh, } look  for ] people to, {F uh, } take care of me. /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+sv          A.11 utt1:  {C And, }  {F uh, } probably a good woman,  /
+^g          A.11 utt2: right? /  
+
+na^m          B.12 utt1:  Right <laughter>. /  
+
+sv          A.13 utt1:  <Laughter> [ [ Just, + {D you know, } just, ] + just ] con somebody to take care of me.  /
+sv          A.13 utt2:  {C And  ((   ))  then } you don't have to be on the tax roll. /  
+
+b          B.14 utt1:  Right. /  
+
+sv          A.15 utt1:  [ {C But, } + {F uh, } {C but } ] taxes [ are, + are ] very difficult kind of thing  /
+sv          A.15 utt2: {C and } everybody really hates it.  /
+sv          A.15 utt3:  It was very timely.  /
+sd          A.15 utt4: [ [  I, + I, ] + I ] always over pay [ my, + my ] deductions  /
+sd          A.15 utt5: {C so } I wind up [ with my, + ]   
+
+x          B.16 utt1:  <Talking>.   
+
++          A.17 utt1:  getting money back  [ on  my, + {F uh, } from my, ] {F uh, } withholding. /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+sd          A.19 utt1:  {D So, }  {F uh, } {D you know, } [ that, + that's ] always a smile.  /
+sd          A.19 utt2:  {C But, }  of course, {D you know, } [ I've, + I've ] paid it in  /
+sd          A.19 utt3: {C and } I should calculate it better. /  
+
+b          B.20 utt1:  Right <laughter>.  /
+qy          B.20 utt2: # You # --   
+
+x          A.21 utt1:  #  ((   )) . #   
+
++          B.22 utt1:  -- are you in business for yourself? /  
+
+nn          A.23 utt1:  No.  /
+sd^e          A.23 utt2: [ [ I, + I, ] + I ] work for the F B I. /  
+
+x          B.24 utt1:   ((   )) .   
+
+sd          A.25 utt1:  {C So } [ I, + I'm ] a federal employee. /  
+
+b          B.26 utt1:  Right. /  
+
+b          A.27 utt1:  Yeah.  /
+qy^g          A.27 utt2:  Guess I don't sound like it {F huh? } /  
+
+%          B.28 utt1:  <Laughter> {F Uh, } {D well, } I th-, - /
+nn          B.28 utt2: no  /
+sv          B.28 utt3: I think that people that work for the government are just as against taxes [ as, + as ] everybody else, # {D you know. } #    
+
+b          A.29 utt1:  # Yeah,  /
+%          A.29 utt2: (( I belong )) . # -/  
+
++          B.30 utt1:  Unless you work for Internal Revenue <laughter>. /  
+
+sv          A.31 utt1:  {F Oh } [ I, + I've ] got all four feet in the trough, {D you know, } being a federal employee. /  
+
+b          B.32 utt1:  Yeah. /  
+
+sd          A.33 utt1: [ [ [ {C And, } + {C and so, } ] + {C but, } ] + {C but } ] I can understand [ that, + {F uh, } that, ] {D you know, } [ the, + ] {F uh, } who gets benefits. - /
+sd          A.33 utt2: {D Like } [ every, + every ] time there is [ a, + a ] bond issue --   
+
+b          B.34 utt1:  Uh-huh. /  
+
++          A.35 utt1:  -- {D you know, } I vote no on every one of them. /  
+
+b          B.36 utt1:  Right. /  
+
+%          A.37 utt1: [ I'm, + I, ] - /
+%          A.37 utt2: {C but } there, - /
+sv          A.37 utt3: [ this is, + this is, ] [ tax + not tax ] revolt country.  /
+sv          A.37 utt4: {E I mean }  there's too many, - /
+sv          A.37 utt5: [ every one of us, + most of us ] [ have our, + have all ] four feet in the trough, {D you know. } Plus our snout, right up to our ears. /  
+
+b          B.38 utt1:  Yeah. /  
+
+sv          A.39 utt1:  {C So, } {D you know, } it's not exactly that kind of a place [ that, + that ] you want to, {D you know, } get into a tax revolt situation. /  
+
+b          B.40 utt1:  Right. /  
+
+%          A.41 utt1:  {C But, }  {F uh, } {F uh, } [ the, + {F uh, } the ] local taxes here, [  I, + I, ] - /
+sv          A.41 utt2: [ i-,  + in ] this particular area, {F uh, } {D you know, } [ I've, + {F uh, } I think ] I pay about, {F uh, } {F oh } thirty-five hundred [ for, + for ] taxes on my four bedroom house, {D you know. }    
+
+b^r          B.42 utt1:  Right. /  
+
++          A.43 utt1:  {C And } which is a lot of money.  /
+sv          A.43 utt2: [ [ {C An-, } + {C and, } ] +  {F uh, } {C and so } ] [ as, + as ] people get older and older, {F uh, } {D you know, } they think about retirement and that sort of thing -- /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sd          A.45 utt1:  -- [ {C and, } +  {C and } ] [ they, + they're ] building old peoples homes, {F uh, } {D you know, } at tax expense.  /
+sv          A.45 utt2:  {D Well } I think, {D you know, } the old people ought to just bail out of here and  go where it's cheaper.  /
+sd          A.45 utt3:  At thirty-three hundred dollars or  thirty-five hundred dollars I'm paying in taxes,  /
+sv          A.45 utt4: {D why } [ I, + I ] could go down to Bulverde and probably [ rent a, + rent a ] house for that,  /
+^g          A.45 utt5: right? /  
+
+ny          B.46 utt1:  Yeah,  /
+sd^e          B.46 utt2: that's right. /  
+
+sd          A.47 utt1:  {D You know. } [ [ In, + in, ] + instead, ] [ it's, + it's ] the taxes here  /
+%          A.47 utt2: {C so. } -/  
+
+b          B.48 utt1:  Yeah. /  
+
+sv          A.49 utt1:  Course I don't know whether I want to go to Bulverde or not, {D you know } --   
+
+b^r          B.50 utt1:  <Laughter> Yeah. /  
+
++          A.51 utt1:  -- or Seguin or someplace like that. /  
+
+b^r          B.52 utt1:  Yeah. /  
+
+sv          A.53 utt1: {C But, } {F uh, } there's certainly lots of inexpensive places where the services are poorer.  /
+sv          A.53 utt2: [ {C And, } + {C and } ] I think really the only place you can really reduce the amount of taxes you pay is to move to an area where the services are poorer.  /
+sv          A.53 utt3: If you're not going to use them, then you want to be [ in, + in ] environment.  /
+sv          A.53 utt4: That's a strategy I think [ tha-, + that ] the people [ have to, + have to ] take. [ Is, + is ] how to be able [ to, + to ] lessen their cost of living.  {D You know, }  /
+sd          A.53 utt5: [ I'm, + I'm ] five or six (( )) years before I'm eligible to retire  /
+sv          A.53 utt6: [ {C and, } + {C and } ] I'm saying {D well, } {D you know, } I really can't stay here, # {F uh, } as a retiree. # /  
+
+bf          B.54 utt1:  # After you retire,  /
+b          B.54 utt2: yeah. # /  
+
+sv          A.55 utt1:  It's too expensive. /  
+
+b          B.56 utt1:  Yeah. /  
+
+sd          A.57 utt1:  I'm going to have go out [ and, + ] {D you know, } in, {D you know, } East Fork someplace.    
+
+b          B.58 utt1:  Right. /  
+
++          A.59 utt1: [ And, +  and, ]  do my thing, {D you know. } /  
+
+sd          B.60 utt1:  My parents are in the same situation, {D you know. }  /
+sd          B.60 utt2:  [ They, + their ] home is paid for  /
+sd          B.60 utt3: {C but } still their taxes are so high, that, {D you know, } my father doesn't feel like he can <laughter> retire because they couldn't pay their taxes.  /
+sd          B.60 utt4:  {C And } they have no children in school or, {D you know, } anything now.  /
+sv          B.60 utt5:  They don't use any of those services that a lot of the taxes go towards. /  
+
+b          @@A.61 utt1:  Right.  /
+sd          @@A.61 utt2: [ They, + they ] redecorated in nineteen seventy-five, {D you know. } /  
+
+b          B.62 utt1:  {F Uh, } yeah. /  
+
+sd          A.63 utt1:  {C And } they're not doing it [ a-, + again, ] {D you know. } /  
+
+b          B.64 utt1:  Yeah. /  
+
+%          A.65 utt1:  {C So. }   {D Well, } it's certainly, {F uh, } {F uh, } - /
+qy^d          A.65 utt2: you must be a T I employee. /  
+
+br^m          B.66 utt1:  You must be what? /  
+
+qy^d^r          A.67 utt1:  You must be a T I employee? /  
+
+nn          B.68 utt1:  No,  /
+sd^e          B.68 utt2: I'm not <laughter>. /  
+
+sd          A.69 utt1:  You're not a T I, - /
+qw          A.69 utt2: who do you work for? /  
+
+sd          B.70 utt1: [ I, + I ] don't work.  /
+sd          B.70 utt2:  I'm a student.  /
+sd          B.70 utt3:  I go to school.  /
+sd          B.70 utt4:  I'm in nursing school </hum> </dishes>. /  
+
+%          A.71 utt1:  [ You, + you're, ] -/ 

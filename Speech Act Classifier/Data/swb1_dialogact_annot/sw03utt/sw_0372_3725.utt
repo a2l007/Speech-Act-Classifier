@@ -1,0 +1,271 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3725_1477_1469
+TOPIC#:		331
+DATE:		920111
+TRANSCRIBER:	SS
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.    
+
+===========================================================================
+  
+
+o          B.1 utt1:  # Okay. # /  
+
+qy          @A.2 utt1:  # Your # family have reunions on a regular basis? /  
+
+no          B.3 utt1:  Probably, once every five years. /  
+
+qy^m          A.4 utt1:  Once every five years? /  
+
+ny          B.5 utt1:  Uh-huh. /  
+
+b          A.6 utt1:  Yeah.  /
+qy^d          A.6 utt2: {F Uh, } you have got a pretty big family. /  
+
+ny          B.7 utt1:  Yeah  /
+sd          B.7 utt2: {C and } that is the hardest part about  getting [ the fam-, +  the stuff ] together  /
+sd          B.7 utt3: {C and } everyone is spread out all over Timbuktu. /  
+
+b          A.8 utt1:  {F Oh, } yeah. /  
+
+qy          B.9 utt1:  And you? /  
+
+ny          A.10 utt1:  Yeah,  /
+sd^e          A.10 utt2: we have a pretty big family,  /
+%          A.10 utt3: {C but } most of us, - /
+sd          A.10 utt4:   {D well, } {F uh, } {F uh, } I am originally from West Virginia. /  
+
+b          B.11 utt1:  Uh-huh. /  
+
+sd          A.12 utt1:  Most of the family is right in the West Virginia,  {F uh, } {F uh, } what they call Tri-State area, {F uh, } northern West Virginia, eastern Ohio, southwestern Pennsylvania. /  
+
+b          B.13 utt1:  Yeah. /  
+
+sd          A.14 utt1:  Most everybody is right in that area. /  
+
+sv          B.15 utt1:  That makes it a lot easier.  /
+sv          B.15 utt2:  A lot more convenient.  /
+sd          B.15 utt3:  That is why we only do it once every five or ten years. /  
+
+b          A.16 utt1:  Yeah. /  
+
+%          B.17 utt1:  Spec-, - /
+sv          B.17 utt2: <laughter> {C because } it is always that hard  to get everyone together. /  
+
+b          A.18 utt1:  Yeah.  /
+sd          A.18 utt2:  They put one together for our family about  once every June.  /
+sd          A.18 utt3:  It was on my grandmother's birthday,  /
+sd          A.18 utt4: {C but } [ she is, + she is ] gone now. /  
+
+b          B.19 utt1:  Yeah,  /
+sd          B.19 utt2: {D see } that is kind of what happened  with ours.  /
+sd          B.19 utt3:  That is why we have not had one in a long time. /  
+
+b          A.20 utt1:  Yeah.  /
+b          A.20 utt2: # {F Uh. } # /  
+
+qo          B.21 utt1:  # [ {C So, } + # {C so, } ] to make one successful,  {E I mean, }   {E I mean } what do you all do. /  
+
+^h          A.22 utt1:  Oh, /  
+
+qy          B.23 utt1:  Do you all just start planning real far ahead of time? /  
+
+br          A.24 utt1:  Pardon. /  
+
+qy^r          B.25 utt1:  {F Uh, } do you all start planning real far ahead of time? /  
+
+nn          A.26 utt1:  {D Well, } no.  /
+sd^e          A.26 utt2:  There is kind of a set pattern to it.  /
+%          A.26 utt3:  There is,  {F uh, } - /
+sd          A.26 utt4: {C so, } {F uh, } the day it happens is ninety-eight percent of the planning usually. /  
+
+bh          B.27 utt1:  {F Oh, } really <<louder>>. /  
+
+ny          A.28 utt1:  Yeah.  /
+sd          A.28 utt2: {F Uh, } we, {F uh, } get together, at  [ [ the, +  {F uh, }  the ]   park, + {F uh, }  [ the, + {F uh, } the ] park, ] and playground area of the Church I was raised in -- /  
+
+b          B.29 utt1: Yeah. /  
+
+sd          A.30 utt1:  -- {C and, }  {F uh, } everybody brings lots of  food  /
+sd          A.30 utt2: {C and } some put up the volleyball net and sit around and tell stories and catch up and play  volleyball all day and get really fat <laughter>. /  
+
+qy^d          B.31 utt1:  <Laughter> Eat a lot. /  
+
+ba          A.32 utt1:  {F Oh, } gosh. /  
+
+sd          B.33 utt1:  It is a lot harder for us because [ we are +  like I said we are ] spread out -- /  
+
+b          A.34 utt1:  Yeah. /  
+
+sd          B.35 utt1:  -- {C and so }  we have to plan anywhere from  six, {D well } really probably a year ahead of time so that everyone, can {F uh, } start their, {F uh, } #  vacation time. # /  
+
+b          A.36 utt1:  # Schedule vacation # time  /
+b          A.36 utt2: {C and } yeah.  /
+%          A.36 utt3:  We usu-, - /
+sd          A.36 utt4: {F uh, } [ Sat, + {F uh, } Sunday ] afternoon --   
+
+b          B.37 utt1:  Uh-huh. /  
+
++          A.38 utt1:  -- or, {F uh, } sometimes it has been like on a  Saturday afternoon.  /
+sd          A.38 utt2:  Usually, it is like Sunday afternoon  /
+sd          A.38 utt3: {C and } most people do not have  more than {D you know } a couple of hours drive at tops --   
+
+b          B.39 utt1:  Yeah. /  
+
++          A.40 utt1:  -- to get there and back. /  
+
+b          B.41 utt1:  Yeah,  /
+qy          B.41 utt2: is that one of your, {F uh, } - /
+%          B.41 utt3: {E I mean, } {F uh, } -/  
+
+sd          A.42 utt1:  {D Well, } where I am calling from is southern  Mississippi.  /
+sd          A.42 utt2:  {C So, } we have got,   {F uh, } {F uh, } my wife and I have, {F uh, } a bit longer  ways to go than most. /  
+
+qy^d          B.43 utt1:  {C But, }  you also manage to make them. /  
+
+nd          A.44 utt1:  {F uh, } {D actually, } [ we, + we ] have only made  one of them since we got married about four years ago.    
+
+b          B.45 utt1:  Yeah. /  
+
++          A.46 utt1:  One of the family reunions.  /
+sd          A.46 utt2:  {C But } we are both  in school  /
+sd          A.46 utt3: {C so } that makes it kind of tough. /  
+
+b          B.47 utt1:  Yeah. /  
+
+sd          A.48 utt1:  [ They usually, +   {F uh, }  they ] have been happening,  {F uh, } just after the summer semester starts. /  
+
+qy^d          B.49 utt1:  You can't really get away. /  
+
+ng          A.50 utt1:  Usually not.  /
+sd          A.50 utt2: We managed to get to one.  /
+sd          A.50 utt3:  That was before  I started school  /
+sd          A.50 utt4: {C and } she took that summer off.  /
+%          A.50 utt5: {C But, }  {F uh, } -/  
+
+sd          B.51 utt1:  {D Well, } now that we have been talking  about it, [ I, + {F uh, } I ] am kind of getting home sick now. /  
+
+x          A.52 utt1:  <Laughter>.   
+
+sd          B.53 utt1:  <Laughter> {C Because } it has been over three years  since I have been home --   
+
+ba          A.54 utt1:  {F Oh } # goodness. # /  
+
++          B.55 utt1:   -- # to see # my grandparents.  /
+sd          B.55 utt2:  {D Well, } [ my, + my ]  grandfather is the only one that is still around. /  
+
+b          A.56 utt1:  Yeah. /  
+
+sd          B.57 utt1:  {C And }  {D see, } my grandmother is the one that  use to plan this stuff basically. /  
+
+b          A.58 utt1:  Yeah. /  
+
+sd          B.59 utt1:  {C So, } unless the aunts and uncles really get on the  ball and put stuff together, it is kind of like.  /
+sd          B.59 utt2: She was like the glue,  /
+%          B.59 utt3: {C so. } -/  
+
+b          A.60 utt1:  Yeah,  /
+ba          A.60 utt2: I understand.  /
+qw          A.60 utt3: Where is home for you? /  
+
+sd          B.61 utt1:  Originally, {F uh, } I, {F uh, } was born in Missouri. /  
+
+b          A.62 utt1:  Yeah. /  
+
+sd          B.63 utt1:  {C But, }  {F uh, } {D you know, } we have relatives  scattered out all over Louisiana, Mississippi, {F uh, } here in Texas -- /  
+
+b          A.64 utt1:  Yeah. /  
+
+sd          B.65 utt1:  -- {C but } it is harder for everyone to [ get in, + get ] home. /  
+
+b          A.66 utt1:  Yeah.   /
+qy^d          A.66 utt2: {D Well, } maybe this year you can find a more  central location. /  
+
+nd          B.67 utt1:  {D Well, } {C but } the majority of them are  [ in, +  {D like, }  just {D like } how you said in ] [ close, + close ] quarters.  /
+sd          B.67 utt2: {C So } it is easier for us few  stragglers to go home. /  
+
+bk          A.68 utt1:  {F Oh, } okay.  /
+qy^d          A.68 utt2:  Then the majority of them are still in  the Missouri area. /  
+
+ny          B.69 utt1:  Yeah. /  
+
+bk          A.70 utt1:  Okay.  /
+sd          A.70 utt2:  {D You know } our family right now, {F uh, } the most of it,  there is only a few stragglers, {F uh, } with any distance.  /
+sd          A.70 utt3: There is one cousin out  in Colorado, {F uh, } {F uh, } some cousins over in Phoenix, {F uh, }  /
+sd          A.70 utt4: I got a sister over [ in, + in, ] {F uh, } Washington State <barking>.  /
+sd          A.70 utt5:  {F Uh, } the rest of them are  within, {D you know, } a couple hours drive. /  
+
+qo          B.71 utt1:  {D Well, } {F uh, } how do you all communicate? Like to  plan it and every thing.  /
+qy          B.71 utt2:  Do you all just call each other up on the phone and say this is the weekend we are going to do it,  /
+qrr          B.71 utt3: {C or } do you all like mail out stuff? /  
+
+na          A.72 utt1:  That is pretty much it.  /
+ny          A.72 utt2:  Yeah.  /
+^q          A.72 utt3: It is going to be  such and such, {F uh, } weekend  /
+^q          A.72 utt4: {C and, }  {F uh, } you all come. /  
+
+b          B.73 utt1:  Yeah. /  
+
+sd          A.74 utt1:  That is about it <laughter>.  /
+sd          A.74 utt2:  {C And } {D you know } this is  the standard pattern.  /
+%          A.74 utt3: It,  {F uh, } - /
+sd          A.74 utt4: everybody brings their favorite dish  /
+sd          A.74 utt5: {C and, }   somebody brings the volleyball net,  /
+sd          A.74 utt6: <noise> somebody brings a whole lot of ice for  the watermelon  /
+%          A.74 utt7: {C and, } -/  
+
+sd          B.75 utt1:  {D Well, } {F uh, } {F uh, } I guess probably the last one  I went to I met so many people that I had not seen in probably [ ten, + over ten ] years.  /
+sd(^q)          B.75 utt2:   It was like, don't you remember me.  /
+sd(^q)          B.75 utt3: {C And } I am like no <<louder>>. /  
+
+^q          A.76 utt1:  Am I related to you? /  
+
+aa          B.77 utt1:  Yeah.  /
+aa          B.77 utt2:  I know. /  
+
+b          A.78 utt1:  Yeah,  /
+^q          A.78 utt2: I married your cousin's brother's uncle or something  like that. /  
+
+%          B.79 utt1:  <Laughter> Do you, - /
+%          B.79 utt2: {E I mean, } is that since, [ - /
+qy          B.79 utt3: + ]  {E I mean } do you have them every year? /  
+
+ny          A.80 utt1:  {F Uh, } yeah,  /
+sd^e          A.80 utt2: every year. /  
+
+x          B.81 utt1:  #  ((   )) . # -/  
+
+qy^d          A.82 utt1:  # {C And, }  {F uh, } # still, you wind up meeting people  [ you, + {F uh, } you ] never knew you were related to.  Let alone -- /  
+
+ny          B.83 utt1:  Yeah. /  
+
+%          A.84 utt1:  -- {C And, } -/  
+
+sv          B.85 utt1:  {D Well, } I think that is probably why  our is probably so interesting is cause we don't have them that often -- /  
+
+b          A.86 utt1:  {F Oh, } yeah. /  
+
+sd          B.87 utt1:  -- {C and then } when we do, and everyone finally does get  together,  /
+%          B.87 utt2: it is like  after the, {D you know, } -/ 

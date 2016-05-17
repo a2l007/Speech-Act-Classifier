@@ -1,0 +1,217 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4159_1532_1459
+TOPIC#:		341
+DATE:		920312
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:       	None.
+
+==========================================================================
+  
+
+o          A.1 utt1:  Okay.  /
+qo          A.1 utt2:  {D So, } {F uh, } Mike, what are your opinions on, {F uh, } trial by jury? /  
+
+^h          @B.2 utt1:  {D Well } I work for an insurance company  /
+sd          @B.2 utt2: {C so } I see a lot of, {F uh, } verdicts that are <breathing> pretty crazily decided.  {F Um, } by juries particularly,  /
+sd          @B.2 utt3: {C and } I know in England the judges set all of the awards.  /
+sd          @B.2 utt4: {D You know } juries will decide the guilt or innocence,  /
+sd          @B.2 utt5: {C but } then they leave the awards up to more learned people.  /
+sv          @B.2 utt6: {C And } I think maybe that avoids some of these totally ridiculous,  {D you know, } {D like } millions and millions of dollars <laughter>. /  
+
+b          A.3 utt1:  Uh-huh.  /
+b          A.3 utt2:  Yeah.  /
+sv          A.3 utt3: [ That, + that ] seems to make sense  /
+bf          A.3 utt4: {C but } leave it up to the more experienced person who knows how it fits into the, {F uh, } kind of the rate for different #  ((   )) . # -/  
+
+aa          B.4 utt1:  # {F Oh, } exactly. #  /
+sv          B.4 utt2: <throat_clearing> Each individual jury really doesn't have any perception of what, {F um, } [ the going, + {D you know, } {A if you will } the going, ] {F uh, } award should be for a certain type of case, {D you know, } within some kind of range. /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1:  When you get one way out like that <breathing> - /
+sd          B.6 utt2: {C but } then really doesn't [ pen-, + wind up penalizing ] the person that they went after.  /
+sd          B.6 utt3:  Who it really penalizes is their insurance company which then translates into higher rates for all of us.    
+
+b          A.7 utt1:  Right. /  
+
++          B.8 utt1:  If they get some of those mega awards against them.  /
+sv          B.8 utt2:  {D You know, } they're not going to sit there and lose money.  /
+sd          B.8 utt3:  If they are losing money, then they're going to raise rates. /  
+
+b          A.9 utt1:  Right.  /
+%          A.9 utt2:  # [ Th-, + they ] ha-, # -/  
+
+sv          B.10 utt1:  # {C So } it all # comes filtering down to us all [ in-, + individually. ] /  
+
+b          A.11 utt1:  Right. /  
+
+sv          B.12 utt1:  {C And, } {F uh, } granted some people need to be compensated if they have really been wronged,   
+
+qo          A.13 utt1:  # {D Well, } #     
+
++          B.14 utt1:  # {D you know. } # /  
+
++          A.15 utt1:  how do you feel about setting, {D like, }  {D well, } for example, [ a car type accident  where, + {F uh, } {E or } some incident where someone loses a limb.  /
+qy          A.15 utt2:  Do you think the jury should have a dollar figure for losing an arm, a dollar figure for losing different body parts? /  
+
+no          B.16 utt1:  I don't know.  /
+sd          B.16 utt2:  {D You know } some of the health insurance is written that way. {D You know, } that, {F uh, } if you buy an accident and death or dismemberment policy, {D you know, } it  s-, + pre specified  in the policy so much  /
+sv          B.16 utt3: {C but } I don't know that you can necessarily put [ a, + <throat_clearing> a ] value on somebody's limb,   
+
+b          A.17 utt1:  <<Very faint>>  # Uh-huh. # /  
+
++          B.18 utt1:  # <Lipsmack> {F uh, } # arbitrarily that is always going to fit in all cases.  /
+sv          B.18 utt2:  I think maybe you look at, {F uh, } the age of the person and their station in life [ and, + and, ] {F uh, } how much longer they have of work years that they would have to put up, {D you know, } [ with, + with ] that.  /
+sv          B.18 utt3:  {E I mean } maybe you don't award an eighty-five year old guy the same thing that you would award a twenty-one year old. /  
+
+b          A.19 utt1:  Huh. /  
+
+sv          B.20 utt1: [ I, +  I ] think it has to be some kind of common sense applied there.  /
+sv          B.20 utt2:  {C And } there may be where the judiciary is a little more learned about that type of thing because they can be schooled in that kind of thing, /  
+
+b          A.21 utt1:  # Uh-huh. # /  
+
+sv          B.22 utt1:  # {C and } # <breathing> that can be part of continuing education, maybe for judges <laughter>. /  
+
+b          A.23 utt1:  # Yeah. # /  
+
+h          B.24 utt1:  # I don't know. #  <breathing>. /  
+
+b          A.25 utt1:  Right. /  
+
+sd          B.26 utt1:  {D You know, } to get into the economics of things, {F uh, } - /
+sv          B.26 utt2: {C because } if they wheel somebody into a courtroom and the jury's heart goes out to that person and  they do one of these mega awards,   
+
+b          A.27 utt1:  # Yeah. # /  
+
++          B.28 utt1:  # it # really, {D you know, } ultimately is not penalizing the person that they're trying for get away. /  
+
+ba          A.29 utt1:  That's true. /  
+
+sd          B.30 utt1:  If it's a company, you know that they're insured.  Unless the award is so  staggering that it goes all beyond their layers of insurance <breathing> which is another pet peeve of mine when they do award punitive damages, /  
+
+b          A.31 utt1:  # Huh. # /  
+
+sv          B.32 utt1:  # I # think those should be uninsurable.  /
+sv          B.32 utt2:  I think those should have to be paid by the corporation itself [ that, +   
+
+bf          A.33 utt1:  # {F Oh, } out of thei-, r-, # -/  
+
++          B.34 utt1:  # that ] did the damage. # /  
+
+bf          A.35 utt1:  As opposed to the [ corporat-, + insurance  ] paying the bills, /  
+
+b          B.36 utt1:  # Yeah. # /  
+
+x          A.37 utt1:  #  ((   )) . #   
+
+b^r          B.38 utt1:  Yeah. /  
+
+b          A.39 utt1:  Uh-huh.  /
+%          A.39 utt2: # {D Well, } we're, # -/  
+
+sd          B.40 utt1:  # [ For, + for ] # honest mistakes where they've done something [ and, + and ] something happens.  /
+sd          B.40 utt2:  One of their employees causes damage or something. /  
+
+%          A.41 utt1:  # [ [ Wh-, + #   
+
+sv          B.42 utt1:   # {D Sure. } # That's what they buy insurance for. /  
+
++          A.43 utt1: Who, ] + who ] - /
+qy          A.43 utt2: do [ [ they get, + they get insured, ] + they get insured ] from other insurance companies  /
+qw          A.43 utt3: {C or } how does that work? /  
+
+sd          B.44 utt1:  {D Well, } I was just talking about any company.  /
+ad          B.44 utt2: {F Uh, }    
+
+bk          A.45 utt1:  # {F Oh, } okay,  /
+bf          A.45 utt2: your talking about corpor-, # -/  
+
++          B.46 utt1:  # let's just say a # lumber manufacturing company  /
+sd          B.46 utt2: {C and, }   
+
+b          A.47 utt1:  # Sure. # /  
+
++          B.48 utt1:  # {F uh, } # somebody is on the premises  /
+sd          B.48 utt2: {C and } one of the employees actually is driving by with a forklift  /
+sd          B.48 utt3: {C and } he pushes the wrong button  /
+sd          B.48 utt4: {C and } he drops a load of lumber on somebody  /
+sd          B.48 utt5: {C and } it injures,   
+
+b          A.49 utt1:  # Okay. # /  
+
++          B.50 utt1:  # them. # /  
+
+%          A.51 utt1:  # {D Well, } # -/  
+
+sv          B.52 utt1:  # Sure. #  /
+sv          B.52 utt2: Insurance should pay for that. /  
+
+sv          A.53 utt1:  {C But } in some instances you're going to put companies out of business by taking that stance, if they have to take it out of their own retained earnings. /  
+
+ar          B.54 utt1:  {D Well } I'm not talking about any loss.  /
+sd          B.54 utt2:  I was talking about only losses that are judged for a punitive damage which is another category of, the juries are awarding damages these days based on the person's actual injuries and what they are due.  /
+sd          B.54 utt3:  {C And then } they are awarding a second amount as punishment to the company which is [ a l-, + usually a lot ] less.  /
+sd          B.54 utt4:  {C But } it's [ an, + an ] amount their, designed to sting them a little [ for their,    
+
+%          A.55 utt1:  # That, # -/  
+
++          B.56 utt1:  # negligence. # +    
+
+%          A.57 utt1:  # For, {F oh, } th-, # -/  
+
++          B.58 utt1:  # For gross # wanton negligence ] in a claim. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+%          B.60 utt1:  {C And } unfortunately  [ the ch-, + the,  ] - /
+sd          B.60 utt2: lately the courts have been deciding that those could be paid for by insurance too. /  
+
+b^r          A.61 utt1:  Uh-huh. /  
+
+sv          B.62 utt1:  {C So } again, it never really penalizes,   
+
+b          A.63 utt1:  # Right.  /
+%          A.63 utt2:  That will, # -/  
+
++          B.64 utt1:  # the company # doing the wrong.  /
+sd          B.64 utt2:  They can go right on doing the same old thing they always used to. /  
+
+%          A.65 utt1:  {F Huh. } /  
+
+sv          B.66 utt1:  {C And } [ if, + if ] they know some practice is wrong, {D you know, } - /
+sd          B.66 utt2: I'm not talking about your isolated occurrences,  /
+sd          B.66 utt3: I'm talking more about [ the, + {D you know, } the ] thing that they know,  /
+sv          B.66 utt4: maybe they're willfully manufacturing something that they know is hurting people out there  /
+sv          B.66 utt5: {C and } they continue to do it even after they become aware --   
+
+b          A.67 utt1:  Sure. /  
+
++          B.68 utt1:  -- of that. /  
+
+b          A.69 utt1:  Okay. /  
+
+sv          B.70 utt1:  Then I think they ought to have to pay something out of their own pocket. / 

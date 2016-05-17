@@ -1,0 +1,435 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3311_1389_1419
+TOPIC#:		310
+DATE:		911025
+TRANSCRIBER:	glp
+UTT_CODER:		AEE
+DIFFICULTY:	3
+TOPICALITY:	5
+NATURALNESS:	3
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Speakers sounded similar a lot of the time.  It was
+especially hard to differentiate when they spoke over each other.
+
+=====================================================================
+  
+
+o          A.1 utt1:  All right,  {F uh, } {D well, }  /
+^h          A.1 utt2: <laughter> let's see, /  
+
+qw          B.2 utt1:  How old are you Lisa? /  
+
+sd          A.3 utt1:  I'm twenty. /  
+
+bk          B.4 utt1:  Okay. /  
+
+qw          A.5 utt1:  How old are you? /  
+
+sd          B.6 utt1:  I'm older. /  
+
+b^m          A.7 utt1:  Older <laughter>. /  
+
+sd          B.8 utt1:  Older than you are. /  
+
+bk          A.9 utt1:  Okay. /  
+
+b^m          B.10 utt1:  Okay,  /
+sd^t          B.10 utt2: we are supposed to talk about places we like to go.  /
+sd          B.10 utt3: {C So } I'm going,  /
+qw          B.10 utt4: {C and } [ where are you from, +  where are you calling from? ] /  
+
+sd          A.11 utt1:  I'm calling from, {F uh, } Provo, Utah,  /
+sd          A.11 utt2: {C but } I'm from Plano, Texas. /  
+
+b^m          B.12 utt1:  {F Oh, } you are from Plano.  /
+sd          B.12 utt2:  My sister lives in  Plano. /  
+
+bh          A.13 utt1:  {F Oh, } really? /  
+
+ny          B.14 utt1:  Yes,  /
+sd^e          B.14 utt2: her husband is the new Director of Admissions at, {F uh, } University of Texas at Dallas. /  
+
+ba          A.15 utt1:  {F Oh, } wow. /  
+
+b          B.16 utt1:  Yeah,  /
+%          B.16 utt2: {C so, } -/  
+
+sd@          A.17 utt1:  My dad used to work at U T D also.   
+
+qw          B.18 utt1:  {D Anyway, } {D so, }  where's your favorite place to go? /  
+
++@          @A.19 utt1:  {F Uh, } generally we just go on family vacations to Arizona.  /
+sd          @A.19 utt2: My grandparents live there.  /
+sd          @A.19 utt3: That's generally our usual summer vacation. /  
+
+qw          B.20 utt1:  Where in Arizona? /  
+
+sd          A.21 utt1:  {F Uh, } Tempe. /  
+
+bk          B.22 utt1:  Okay,  /
+sd          B.22 utt2: I've never been to Tempe. /  
+
+%          A.23 utt1:  <Lipsmack> {D So, } -/  
+
+sd          B.24 utt1:  That's where I'd like to go.  /
+qo          B.24 utt2:  What do you like about Tempe? /  
+
+sd          A.25 utt1:  {F Uh, } mainly just being with family is it.  /
+sd          A.25 utt2:  We just hang out  /
+sd          A.25 utt3: {C and } my grandparents have a pool  /
+sd          A.25 utt4: {C so } we go swimming  /
+%          A.25 utt5: {C and, }  {F uh, } -/  
+
+qy          B.26 utt1:  Pretty hot isn't it, in the summer? /  
+
+ny          A.27 utt1:  Yeah  /
+sd^e          A.27 utt2: {C but } we keep cool just by going swimming  /
+sd          A.27 utt3: {C and } it's fun to be with my cousins.  /
+sd          A.27 utt4: They're up there also, my grandparents and --   
+
+ba          B.28 utt1:  That's good. /  
+
++          A.29 utt1:  -- my cousins. /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+%          A.31 utt1:  {D So, } -/  
+
+qy          B.32 utt1:  Been to Hawaii? /  
+
+nn          A.33 utt1:  No,  /
+qy          A.33 utt2: have you? /  
+
+ny          B.34 utt1:  <Breathing> Yes,  /
+sd^e          B.34 utt2: in fact, I just got some reservations.  /
+sd          B.34 utt3: I'm going to go for, {F uh, } almost two weeks this winter. /  
+
+ba          A.35 utt1:  {F Oh, } my goodness. /  
+
+b          B.36 utt1:  Yes.  /
+%          B.36 utt2:  It's the longest, - /
+sd          B.36 utt3: {D well } actually I lived  there,  /
+sd          B.36 utt4:  {C so } I was there longer,  /
+sd          B.36 utt5: {C but } two weeks is the longest vacation I'll have ever taken there,  /
+sd          B.36 utt6: {C so } --   
+
+ba          A.37 utt1:  Wow. /  
+
++          B.38 utt1:  -- I'm kind of looking forward to that one. /  
+
+qy          A.39 utt1:  Around Christmas time? /  
+
+nn          B.40 utt1:  {F Uh, } no,  /
+sd^e          B.40 utt2: in March. /  
+
+bk          A.41 utt1:  Oh. /  
+
+sd          B.42 utt1:  We're going to go in March after my children's birthdays and get all that business out of the way. /  
+
+ba          A.43 utt1:  Wow. /  
+
+b          B.44 utt1:  Yeah,  /
+sd          B.44 utt2: {C so }  I think,  I would  like  to go to Arizona.  /
+sd          B.44 utt3:    {E I mean, } I was in Phoenix [ in January, + last January ]  /
+sd          B.44 utt4: {C but } it was rainy and icky. /  
+
+bh          A.45 utt1:  {F Oh, } really? /  
+
+sd          B.46 utt1:  It was the coldest it's been there ever in January <breathing>,  /
+sv          B.46 utt2: I think. It's very cold. /  
+
+qy          A.47 utt1:  {C So, } do you --   
+
+sd          B.48 utt1:  {C But, }  I would like to go to Tempe. /  
+
++          A.49 utt1:  -- travel a lot  /
+%          A.49 utt2: {C or, } -/  
+
+qy^h          B.50 utt1:  Do we travel a lot?  /
+ny          B.50 utt2:  {F Uh, }  some, yeah.  /
+sd^e          B.50 utt3:   {D Well, } [ I've been a, +  I was a ] travel agent. /  
+
+bk          A.51 utt1:  Oh. /  
+
+sd          B.52 utt1:  {E I mean, } I have been up until just a few months ago.  /
+sd          B.52 utt2: {C But } I'm thinking of going back to work <laughter>. /  
+
+b          A.53 utt1:  {F Huh. } /  
+
+b          B.54 utt1: Yeah. /  
+
+qy^g          A.55 utt1:  {C So } you know a lot of good vacation spots, {F huh. } /  
+
+na          B.56 utt1: [ I lo-, + I know ] a lot of good places to go.  /
+ad          B.56 utt2:   {C But } you definitely need to go to Hawaii.  /
+ad          B.56 utt3:  Very <beep> definitely. /  
+
+qy          A.57 utt1:  <Laughter> That's your favorite? /  
+
+ny          B.58 utt1:  Yes,  /
+sd^e          B.58 utt2: it is my favorite.  /
+sd          B.58 utt3:  My husband hasn't been to Europe yet  /
+sd          B.58 utt4:  {C and } I'd like  to take him there.  /
+sd          B.58 utt5: [ {C And, } +   {C but } ] he's traveled all over the United States  /
+sd          B.58 utt6: {C and } I haven't.  /
+sd          B.58 utt7: {D Like, } I haven't been down south.  /
+sd          B.58 utt8: I'd like to go to New Orleans.  /
+qy          B.58 utt9: Have you been there? /  
+
+ng          A.59 utt1:  I haven't.  /
+qw          A.59 utt2:  [ Where, +  where ] do you live? /  
+
+sd          B.60 utt1: [  We, + I ] live in Yakima, Washington. /  
+
+ba          A.61 utt1:  Wow. /  
+
+sd          B.62 utt1:  {C So } it's cold and rainy today.  /
+sd          B.62 utt2: It's  yucky. /  
+
+b          A.63 utt1:  {F Um. } /  
+
+sd          B.64 utt1:  {C But } we've had some pretty nice weather.  /
+sd          B.64 utt2: We played tennis outdoors until last week,  /
+sv          B.64 utt3: {C so } --    
+
+b          A.65 utt1:  {F Um. } /  
+
++          B.66 utt1:  -- that's a pretty good deal.  /
+qy          B.66 utt2:  {D So } do you go to school in Provo, Utah? /  
+
+na          A.67 utt1:  I do. /  
+
+qy          B.68 utt1:  Do you use NuSkin skin care.  /
+sd          B.68 utt2:  They're located --   
+
+nd          A.69 utt1:  I work --   
+
++          B.70 utt1:  -- in Provo. /  
+
++          A.71 utt1:  -- for NuSkin <laughter>. /  
+
+bh          B.72 utt1:  Do you? /  
+
+ny          A.73 utt1:  Yes. /  
+
+sd          B.74 utt1:  I'm a NuSkin person. /  
+
+bh          A.75 utt1:  {F Oh, } really? /  
+
+ny          B.76 utt1:  Yeah,  /
+sd^e          B.76 utt2: I sell NuSkin, too.  /
+%          B.76 utt3:  [ I, +    
+
+ba          A.77 utt1:  {F Oh, } my goodness. /  
+
++          B.78 utt1:  I ] am my only  b-, - /
+%          B.78 utt2: and best cus-, - /
+%          B.78 utt3: not only   and best  - /
+sd          B.78 utt4: {C but } I'm my best customer. /  
+
+ba          A.79 utt1:  Great <<faint>>. /  
+
+qy          B.80 utt1:  Since we're not supposed to talk about this, though, is there anything more intensive for the eye area than the eye cream? /  
+
+^h          A.81 utt1:  {F Uh, } /  
+
+qy          B.82 utt1:  Do you know? /  
+
+no          A.83 utt1:  I don't,  /
+sd          A.83 utt2: [ probably, + maybe ] the rejuvenating cream is the only --   
+
+sd          B.84 utt1:  I have that, too. /  
+
++          A.85 utt1:  -- other thing I would use. /  
+
+sd          B.86 utt1:  I'm forty-two,  /
+sd          B.86 utt2: I need something,  /
+sd          B.86 utt3: I need more. /  
+
+qy          A.87 utt1:  Than the intensive eye? /  
+
+ny          B.88 utt1:  Yeah. /  
+
+x          A.89 utt1:  <Laughter>.   
+
+sd          B.90 utt1:  I didn't know if there was anything else.  /
+sd          B.90 utt2: {C And } I use the Celltrex. /  
+
+b          A.91 utt1:  Uh-huh. /  
+
+%          B.92 utt1:  {C But } {D anyway, } - /
+%          B.92 utt2: {D well, } yes,  /
+sv          B.92 utt3: NuSkin is wonderful. /  
+
+ba          A.93 utt1:  Good,  /
+aa          A.93 utt2: yes. /  
+
+sv          B.94 utt1:  I think it's a wonderful product.  /
+qy          B.94 utt2:  Do you use it? /  
+
+na          A.95 utt1:  I do,  /
+ny          A.95 utt2: yeah,  /
+sd^e          A.95 utt3: we get free products every month  /
+%          A.95 utt4: {C so, } -/  
+
+ba          B.96 utt1:  {F Oh, } my gosh.  /
+ba          B.96 utt2: That's great. /  
+
+aa          A.97 utt1: [ Right, +  right ]  /
+sd          A.97 utt2:  now I'm getting about sixty bucks a month, free products  /
+%          A.97 utt3: {C so, } /  
+
+b          B.98 utt1:  Yeah,  /
+b^m          B.98 utt2: {F oh, } yeah. /  
+
+sd          A.99 utt1:  I've worked there about a year. /  
+
+ba          B.100 utt1:  That's good.  /
+qy          B.100 utt2: Are they good to work for? /  
+
+ny          A.101 utt1:  Yes,  /
+sd^e          A.101 utt2: they're wonderful to work for. /  
+
+ba          B.102 utt1:  That's great. /  
+
+b          A.103 utt1:  Yep <laughter>. /  
+
+ad^t          B.104 utt1:  {D Anyway, } {C so } we're supposed to be talking about places to go  /
+bf          B.104 utt2: {C and } you have not been to Europe.  /
+qy          B.104 utt3: Do you go to school? /  
+
+qy          A.105 utt1:  Uh-huh. /  
+
+qy          B.106 utt1:  Do you ski? /  
+
+ny          A.107 utt1:  I ski, yes.  /
+%          A.107 utt2:  I've, -/  
+
+%          B.108 utt1:  Ski, - /
+qy^d          B.108 utt2: you probably ski very well in Utah. /  
+
+nn          A.109 utt1:  No,  /
+sd^e          A.109 utt2: I don't <laughter>.  /
+sd          A.109 utt3:  Actually since I grew up in Texas I've only been here about two years and --   
+
+b          B.110 utt1:  {F Uh. } /  
+
++          A.111 utt1:  -- have gone skiing about [ three times.  A-, + {D well, } five times  ] each season. /  
+
+qw          B.112 utt1:  Why did you move to Utah?  /
+qy          B.112 utt2: [ You're going, + {F oh, } you are going ] to school?    
+
+ny          A.113 utt1:  Yeah,  /
+%          A.113 utt2: I, -/  
+
++          B.114 utt1:  At B Y U,  /
+qy          B.114 utt2: is that where B Y U is? /  
+
+ny          A.115 utt1:  Uh-huh.  /
+ny          A.115 utt2:  Yep. /  
+
+bk          B.116 utt1:  Okay,  /
+sd          B.116 utt2: I know some people that went to B Y U.  /
+ba          B.116 utt3: That's great.  /
+ba          B.116 utt4: Pretty good. /  
+
+sd          A.117 utt1:  I do like to ski. /  
+
+qy^g          B.118 utt1: [ Pretty, + pretty ] down there.  {F Huh? } /  
+
+ny          A.119 utt1:  <Laughter> Yeah,  /
+sd^e          A.119 utt2: [ I, +  I ] said I do like to ski. /  
+
+qw          B.120 utt1:  {C So, }  where, have you skied? /  
+
+sd          A.121 utt1:  {C And } [ it's, + it's ]  kind of nice being up here just because it's all {D like } a vacation in itself when you get to go. /  
+
+b          B.122 utt1:  Sure. /  
+
+sd          A.123 utt1:  If you like that kind of thing <laughter>. /  
+
+b          B.124 utt1:  Sure,  /
+qr          B.124 utt2: {D so } you're a sophomore.    
+
+sd          A.125 utt1:  I am actually --   
+
++          B.126 utt1:  Or junior? /  
+
++          A.127 utt1:  -- a junior.    
+
+b          B.128 utt1:  You're a junior. /  
+
++          A.129 utt1:  Beginning of my junior year. /  
+
+ba          B.130 utt1:  Good for you. /  
+
+%          A.131 utt1:  {D So, } -/  
+
+qw          B.132 utt1:  What are you studying? /  
+
+sd          A.133 utt1:  Nursing. /  
+
+ba          B.134 utt1:  Good for you.  /
+sv          B.134 utt2: You sound like a girl that has it together. /  
+
+x          A.135 utt1:  <Laughter>.   
+
+ad          B.136 utt1:  I would just encourage you to do a little traveling, though, before you get married.  /
+sv          B.136 utt2:  Because when you --   
+
+b          A.137 utt1:  You think, /  
+
++          B.138 utt1:  -- get married, you won't have the money or the time. /  
+
+aa          A.139 utt1:  I know. /  
+
+%          B.140 utt1:  {C So } just, {D you know, } - /
+ad          B.140 utt2: [ don't, + don't ] be in any hurry. /  
+
+aa          A.141 utt1: [ I'm not, + I'm not. ] /  
+
+ad          B.142 utt1:  You really should go to Europe.  /
+sd          B.142 utt2:  I went to Europe for six weeks after I graduated from college  /
+%          B.142 utt3:  {C and } that was just, - /
+sd          B.142 utt4: [ I, + {E I  mean } I ]  could have had that or a down payment on a new car  /
+sd          B.142 utt5: {C and } I took the trip.  /
+%          B.142 utt6: {C And } -- -/  
+
+qy          A.143 utt1:  {C And } it was great? /  
+
+sd          B.144 utt1:  -- {F uh, } I traveled with a group of sixteen other students.  /
+sd          B.144 utt2: Actually [ they, + there ] was two other graduating seniors besides myself,  /
+sd          B.144 utt3: {C and } we just had a ball.  /
+sd          B.144 utt4: We stayed at, -/  
+
+qw          A.145 utt1:  How long did you get to stay there? /  
+
+sd          B.146 utt1:  {F Uh, } six weeks. /  
+
+bh          A.147 utt1:  {F Oh, } really? /  
+
+ny          B.148 utt1:  Yeah.  /
+sd^e          B.148 utt2:  It was wonderful,  /
+ad          B.148 utt3: {C so } you should think about doing something like  that. /  
+
+aa          A.149 utt1:  Uh-huh,  /
+sd          A.149 utt2: I just had a friend that got back from Europe  /
+sd          A.149 utt3: {C and } she was there {D like } all winter semester. / 

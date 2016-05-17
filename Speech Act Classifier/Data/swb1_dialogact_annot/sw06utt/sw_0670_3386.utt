@@ -1,0 +1,119 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3386_1426_1085
+TOPIC#:		320
+DATE:		911112
+TRANSCRIBER:	LAB
+UTT_CODER:	TC
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+sd          B.1 utt1:   {D Well, } Sid,  /
+qy          B.1 utt2: have you established  what kind of requirements you are looking [ for, +  for ] your next vehicle? /  
+
+no          A.2 utt1:   <Lipsmack> {D Well, } I don't know  if I really have <laughter> [ a, +  a ] lot of, {F uh, } requirements.  /
+sd          A.2 utt2:  {F Uh, } I guess I look at, {F uh, } getting the best deal. /  
+
+x          B.3 utt1:   <Noise>.   
+
+sd          A.4 utt1:   {F Uh, } that's my main objectives normally.    Whoever is willing to deal [ and, +  and ] give me a good price. /  
+
+bk          B.5 utt1:   Okay.  /
+sv          B.5 utt2: {D Well, } [ I, +  I ] tend to  be more methodical I guess.  /
+sd          B.5 utt3: {F Uh, } I determine first of all what I'm going to use the vehicle for, whether it's going to be primarily as a family mover or as [ a, +  a ] personal mover.  {F Uh, } where it's going to be driven, {D you know, } what types of, {F uh, } driving I'm going to be doing on it, primarily highway [ or, +  or ] local mileage more often.  /
+sd          B.5 utt4:  {C And, } {F uh, } hanging in the back of my mind is always the knowledge that I tend to drive cars for about ten years and a hundred fifty to two hundred thousand miles. /  
+
+b          A.6 utt1:   <<Very faint>> Uh-huh. /  
+
+sv          B.7 utt1:   {C So } [ I'm, +  I'm ] real picky.  /
+sv          B.7 utt2:   [ I-, + if ] you are going to keep something that long, <laughter>  {D you know, } you better get something that you wanted to begin with and  that you are going to like for a long time. /  
+
+b          A.8 utt1:   Yeah.  /
+sd          A.8 utt2:  I don't know I've had  pretty good luck, {D you know, }  /
+sv          A.8 utt3: even [ if, +  if ] you take any car [ and, +  and ]   you care for it well enough, {F uh, } you are going to get some good life out of it.  /
+sd          A.8 utt4: {F Uh, } [ my, +  my ] Oldsmobile right now that I have, {F uh, } is getting near eighty thousand  /
+sd          A.8 utt5: {C and } it's still in pretty good shape.  /
+sd          A.8 utt6:   {F Uh, } there was a flaw in there [ where a, +  where a ]  head gasket bolt broke,  /
+sd          A.8 utt7: {C and } it cost me some bucks [ to, +  to ] fix that  /
+sv          A.8 utt8:  {C but } that was, {D you know, } something that was unforeseen.  /
+sv          A.8 utt9: {C But } I still think [ I c-, +  I'm ]  going to get probably a hundred fifty thousand or more out of it. /  
+
+b          B.9 utt1:   Sure.  /
+qy^d          B.9 utt2: {D Well, } it sounds like  you tend to drive your cars quite a ways also then. /  
+
+^h          A.10 utt1:   {D Well, } [ I, +  I ] drive like  the song says, THE LITTLE OLD LADY [ but, +  {F uh, } but ] not FROM PASADENA /  
+
+x          B.11 utt1:   <Laughter>.   
+
+%          A.12 utt1:   {C But, } {F uh, } - /
+ny          A.12 utt2: yeah,  /
+sd^e          A.12 utt3:  [ I, +  I ] baby them as much as I possibly can.  /
+sd          A.12 utt4:  {F Uh, } it's a pretty big expense nowadays.  /
+sd          A.12 utt5:  {F Uh, }  {C and } I guess I like to take care of it, {F uh, }  /
+sd          A.12 utt6: {C so } I don't have to buy one too often. /  
+
+sv          B.13 utt1:   That's true.  /
+qy          B.13 utt2:  {F Uh, } do you  have more [ than, +  than ] one vehicle in your fleet?  /
+qy          B.13 utt3: {F Uh, } do you have a family fleet  /
+%          B.13 utt4: {C or, } -/  
+
+ny          A.14 utt1:   Yeah,  /
+sd^e          A.14 utt2: [ [ I, +  I, ] +  I ]  got an old, {F uh, } seventy-six, {F uh, } Grand Fury that, {F uh, } doesn't want to die on me  /
+sd          A.14 utt3:  {C so } [ I, + I ] just keep running the thing.   Don't want to sell it or  get rid of it until it quits,  /
+sv          A.14 utt4: {C but } it just doesn't seem to want to.  /
+sv          A.14 utt5:   I'll probably have, {F uh, } three, four hundred thousand before it wants to die. /  
+
+aa          B.15 utt1:   {D Well, } that may be.  /
+sv          B.15 utt2:  [ They, +   Chrysler ] made some really good old engines back then  /
+sv          B.15 utt3: {D like } [ the, +  the ]  three eighteen was particularly an exceptionally good engine. /  
+
+sd          A.16 utt1:    (( {F Oh. } ))   I've got the big  three sixty in there, gas guzzler  /
+sv          A.16 utt2: {C but } it runs good. /  
+
+b          B.17 utt1:   Yeah.  /
+sd          B.17 utt2:  At the moment I've got,  {F uh, } Cadillac  (( Cimarron ))  which is approaching its tenth year of age  and  a, {F uh, } reasonably new Plymouth Voyager.  /
+sd          B.17 utt3: It's only [ a, + a ]  couple of years old.  /
+sd          B.17 utt4:  {C But } that's the second one [ of, +  of ] those that we've had,  /
+sd          B.17 utt5:  {C and } that's [ the, +  the ] family travel vehicle.  /
+sd          B.17 utt6:  {D You know, } not  only does it do all [ the, +  the, ] {F uh, } carpooling around during the week,  /
+sd          B.17 utt7:  {C but } it's also the vacation vehicle that we all drive in.  /
+sd          B.17 utt8:  I think that what I'm getting ready to get next is probably a Suburban unless they drastically change [ the, +  the ] vehicle a lot.  /
+sd          B.17 utt9:  {F Uh, } I'm just getting tired of when I do get hung up in traffic, not being able to determine what the problem is [ and, +  and ]  come to some resolution of whether it's better to sit in the traffic light and wait or get off at the next exit and that kind of stuff.    
+
+b          A.18 utt1:   Yeah. /  
+
++          B.19 utt1:   Just because I can't see, {D you know, }  /
+sd          B.19 utt2: [ I'm to, +  my  (( Cimarron ))  is ] just so small and so low to the ground that I can't see past any vehicle <laughter>,   
+
+b          A.20 utt1:   # Yeah. # /  
+
++          B.21 utt1:   # that's in # front of me. /  
+
+b          A.22 utt1:   Yeah.  /
+sd          A.22 utt2:  {D Well, } I'm considering  probably some kind of a pickup truck myself for the next vehicle.  /
+sd          A.22 utt3:   {F Uh, } I just have so many hauling projects a lot of times  /
+sd          A.22 utt4: {C and, } {F uh, }  [ I, +   I'd  ] like to just start doing some, {F uh, } carpentry, {F uh, } type work around.  /
+sv          A.22 utt5:  I just feel that, -/ 

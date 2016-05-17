@@ -1,0 +1,163 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2413_1022_1039
+TOPIC#:		352
+DATE:		910403
+TRANSCRIBER:	AM
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	None.
+
+=============================================================================
+  
+
+o          A.1 utt1:  Okay.  /
+qy          A.1 utt2:  [ Do you, + have you ] noticed any new, {F uh, } trends in politics? /  
+
+na          B.2 utt1:  {D Well, } the one I think is interesting is the [ California, + Los Angeles ] police chief who says he won't resign.  /
+qy          B.2 utt2:  {C And } did you hear yesterday that Mayor Bradley said that, {F uh, } he should? /  
+
+bh          A.3 utt1:  {F Oh, } really?  /
+nn          A.3 utt2: No,  /
+sd^e          A.3 utt3: I didn't hear that. /  
+
+sv          B.4 utt1:  [ I think it's, + I think what's ] interesting is that, {F uh, } the political activists, Jesse Jackson and a lot of other people went out there and are demonstrating.  /
+sv          B.4 utt2: I find it interesting that, {F uh, } outsiders would bother to go in.  /
+qo          B.4 utt3: [ How do, + how do ] you feel about people like Jesse Jackson getting involved? /  
+
+sv          A.5 utt1:  {F Uh, } I think sometimes it's good for people outside.  /
+sv          A.5 utt2:  They get a different [ persp-, + {F uh, } perspective ] on an issue and stuff.  /
+%          A.5 utt3: {C So, } yeah,  /
+sv          A.5 utt4: I don't see any problem with outsiders going in and getting a little bit involved. /  
+
+qy          B.6 utt1:  {D Well, } [ do you -- +   
+
+sv          A.7 utt1:  I think, though, that it should still be, {F uh, } sort of up to the majority in the area.  /
+h          A.7 utt2:  I don't know,  /
+sv          A.7 utt3: on something like that, they wouldn't really vote on it or anything, though. /  
+
++          B.8 utt1:  -- {C but } do you ] think Gates should resign? /  
+
+na          A.9 utt1:  {F Uh, } <<pause>> probably so, just because they were under his authority  /
+sv          A.9 utt2: {C and } he obviously failed somewhere along the line. /  
+
+qy          B.10 utt1:  [ {D Well, } + {D well, } ] speaking of that kind of issue, have you kept up with John Wiley Price? /  
+
+ny          A.11 utt1:  Yeah. /  
+
+qo          B.12 utt1:  What do you think of him? /  
+
+sv          A.13 utt1:  {F Oh, } {F um, } I think he's got good intentions,  /
+sv          A.13 utt2: {C but } I'm not sure if the way he goes about what he does is really right. /  
+
+sv          B.14 utt1:  <Breathing> <laughter> He's an interesting person.  /
+sd          B.14 utt2: I was talking to someone who said that, {F uh, } for all his obvious [ attention to, + efforts to ] get media attention that he actually is a worker on the, {F uh, } - /
+sd          B.14 utt3: I guess he's on the County, {F uh, } {F oh, } Board of Supervisors or -- -/  
+
+b          A.15 utt1:  Right. /  
+
+sv          B.16 utt1:  --  ((   ))  {C and, } [ [ [ the, + the, ] + the, ] + {F uh, } at those ] meetings he really comes quite well prepared and is well informed and is a hard worker --   
+
+b          A.17 utt1:  Uh-huh. /  
+
++          B.18 utt1:  -- and is really quite agreeable, {F uh, }  /
+%          B.18 utt2: and that this stuff we see [ in the, + {D you know, } in the media ] is, {F uh, } - /
+sv          B.18 utt3: {D well, } he's really just trying to make a political statement.  /
+sv          B.18 utt4:  [ I, + I ] find that an interesting element of politics [ [ that we don't, + that, ] + that most people would not ] know that John Wiley Price apparently [ is a, + is a, ] {D you know, } - /
+sd          B.18 utt5: of course, he's got in [ this, + this ] (( deal ))  of racism and the, {D you know, } name calling and all this.  /
+sv          B.18 utt6:  {C But } apparently, he's a, a worker.  /
+sv          B.18 utt7: {F Uh, } you may disagree with him,  /
+%          B.18 utt8: {C but } [ [ I, + I, ] + I ] find this whole, - /
+qo          B.18 utt9: what do you think of this, {F uh, } fourteen one and ten four one in Dallas? /  
+
+sv          A.19 utt1:  {F Oh, } I think that they should go ahead and go to the, {F uh, } fourteen one.  /
+sv          A.19 utt2:  [ I, + to me ] it's just fair, {D you know, }  /
+sv          A.19 utt3: [ an equal, + it seems like every area should have an equal ] voice. /  
+
+aa          B.20 utt1:  I agree with you  /
+qy          B.20 utt2: {C but } did you see the map they drew up [ on, + {F uh, } on ] how they were going to divide up the districts? /  
+
+nn          A.21 utt1:  No. /  
+
+sv          B.22 utt1:  [ It was, + it was ] the strangest, - /
+sd          B.22 utt2: [ I'm, + I'm ] not sure it was gerrymandered,  /
+sd          B.22 utt3: {C but } the way they drew these little patterns and stuff, [ [ I, + I, ] + I ] guess I'm a little cynical [ of the, + of the ] power base.  /
+sd          B.22 utt4: [ [ [ I, + I, ] + I, ] + {C and } I ] don't quite understand [ why the power base, {F uh, } doesn't, + {F uh, } why they don't ] go with fourteen one.  /
+sv          B.22 utt5:  [ [ I, + {D you know, } {C and, } {D you know, } the, ] + it seems to me ] that what happened [ in the, + in the ] election, that a lot of the people, {A they said particularly [ [ the, + the, ] + {F uh, } I think it's Hispanics ] } don't vote because they don't think that they have any affect,  /
+%          B.22 utt6: {C and } it's, -/  
+
+b          A.23 utt1:  Yeah. /  
+
+sd          B.24 utt1:  [ I, + I ] guess I am disappointed with Dallas in that, {F uh, } the fourteen one, it, - /
+h          B.24 utt2:  I don't know.  /
+sv          B.24 utt3:  [ You can, + you can ] disagree with Al Lipscomb and, {F uh, } - /
+qw          B.24 utt4: [ what's, + what's ] the lady's name? /  
+
+qy          A.25 utt1:  Diane Ragsdale? /  
+
+ny          B.26 utt1:  Yeah.  /
+sv^e          B.26 utt2:  You can disagree with, {F uh, } what they're doing and what they're saying,  /
+sv          B.26 utt3: {C but } in reality I think [ they're, + they're ] trying to represent their constituents. /  
+
+b          A.27 utt1:  Yeah. /  
+
+sv          B.28 utt1:  [ A-, + {C and } ] I think Dallas is doing itself a disservice.  /
+sv          B.28 utt2: I think they ought to get on with something important. /  
+
+aa          A.29 utt1:  Yeah,  /
+sv          A.29 utt2: they really make themselves look bad,  /
+sd          A.29 utt3: {C and } I don't know why certain groups are fighting so hard to keep the ten four one. /  
+
+aa          B.30 utt1:  Yeah,  /
+%          B.30 utt2: [ {C and } I, + {C but } ] [ [ I think even, + I, ] + even ] those people are, - /
+sd          B.30 utt3: it's like Pauken and Box and these people,  /
+sv          B.30 utt4: I think [ it's, + it's ] kind of interesting that everybody's so busy politicking that the question is are we getting anything good done.  /
+sv          B.30 utt5: It's like this whole school issue.  /
+qy          B.30 utt6: Are you involved in the schools at all --   
+
+nn          A.31 utt1:  No,  /
+nn          A.31 utt2: huh-uh. /  
+
++          B.32 utt1:  -- public schools? This whole thing down there where [ they're, + they're ] trying to, {F um, } {F uh, } {D you know, } devote all our money and raise our taxes and  better schools  /
+sv          B.32 utt2: [ {C and, } + {C and } ] it all seems, {D you know, } like everybody's trying to one-upmanship on everybody else  /
+%          B.32 utt3: {C so, } -/  
+
+b          A.33 utt1:  Yeah,  /
+b^r          A.33 utt2: yeah,  /
+%          A.33 utt3: I, -/  
+
+fc          @@B.34 utt1:  [ I, + I ] have got to run to a meeting. /  
+
+fc          A.35 utt1:  Okay. /  
+
+fc          B.36 utt1:  It was good talking to you.  /
+fc          B.36 utt2:  I don't think we've gone [ our, + our ] ten minutes  /
+fc          B.36 utt3: {C but } I think [ we've, + we've ] talked long enough. /  
+
+fc          A.37 utt1:  Okay.  /
+fc          A.37 utt2:  Good talking to you. /  
+
+fc          B.38 utt1:  Okay.  /
+fc          B.38 utt2: Good night. /  
+
+fc          A.39 utt1:  Bye. / 

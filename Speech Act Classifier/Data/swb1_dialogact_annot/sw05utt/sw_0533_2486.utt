@@ -1,0 +1,370 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2486_1018_1123
+TOPIC#:		303
+DATE:		910407
+TRANSCRIBER:	csw
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None. from utt_coder: why is B first?
+
+============================================================================
+
+
+o          B.1 utt1:  Okay,  /
+qw          B.1 utt2: what do you usually wear to work? <laughter>. /  
+
+sd          A.2 utt1:  {D Well, } {F uh, } I am basically retired now. /  
+
+b          B.3 utt1:  Uh-huh. /  
+
+%          A.4 utt1:  I was a member, - /
+sd          A.4 utt2: I was in education and in administration, /  
+
+b          B.5 utt1:  Uh-huh. /  
+
+sd@          A.6 utt1:  {C so } basically I wore dresses.    *[[slash...]]
+
+b          B.7 utt1:  Uh-huh. /  
+
++          A.8 utt1:  And, {F uh, } heels,  /
+sd          A.8 utt2: {C and } I [ was never one, +  {F uh, } because my work often took me into court, {F uh, } never was one ] that got, {F uh, } accustomed to wearing pants suits and pants to work. /  
+
+b          B.9 utt1:  Uh-huh. /  
+
+sd          A.10 utt1:  {C But } that was just me.  /
+sd          A.10 utt2: I know many people are [ co-, + very comfortable ] in the classroom and what have you wearing pants. /  
+
+x          B.11 utt1:  <Door>.   
+
+%          A.12 utt1:  {F Uh, } it, - /
+sd          A.12 utt2: I guess I was just old enough not to, {F uh, } be very comfortable in   it. /  
+
+b          B.13 utt1:  Uh-huh. /  
+
+qo          A.14 utt1:  How about you? /  
+
+sd          B.15 utt1:  {D Well, } I work at T I  /
+sd          B.15 utt2: {C and } they don't really have, {F uh, }   dress code,  so to speak there.   /
+sd          B.15 utt3: It's pretty lax about, {F um, } {D you know, } - /
+sd          B.15 utt4: [ we-, + you  ] can pretty much wear whatever you want to,  /
+sd          B.15 utt5: {C and } I wear anything from jeans, when I'm feeling really casual to, {F uh, } suits and dresses when I'm meeting with a customer  /
+sd@          B.15 utt6: {C or, } [ I, + I ] teach training classes,   *[[need slash]]
+
+b          A.16 utt1:  Oh. /  
+
++          B.17 utt1:  {C and so } when I'm teaching a class, obviously I wear a suit or dress,  /  *[[sd]]
+%@          B.17 utt2: {C so. }     *[[slash error]]
+
+b          A.18 utt1:  Uh-huh. /  
+
++          B.19 utt1:  [ It, + it, ] {F uh, } definitely fluctuates mainly with what I'm going to be doing that day and kind of what my mood is  /
+sd          B.19 utt2: {C and } when it's raining,   
+
+b          A.20 utt1:  <Laughter>.   
+
++          B.21 utt1:  I'm more likely to wear jeans  /
+sd          B.21 utt2: [ {C and, } +  {C and } ] when it's really cold I'm more likely to wear jeans or pants or sweaters, or that type of thing. /  
+
+b          A.22 utt1:  Uh-huh. /  
+
+sd          B.23 utt1:  {F Um, } {C but } it just really depends on the weather and my mood  /
+sd          B.23 utt2:  {C and then, }  {D you know, }  obviously when I'm doing anything that I'm in front of people, [ or, + or ]  making presentations, teaching, whatever.    
+
+aa          A.24 utt1:  Yes. /  
+
++          B.25 utt1:  I'm going to dress up more <breathing>. /  
+
+sv          A.26 utt1:  {C And } I think that does make a difference,  /
+sv          A.26 utt2: {C because } when you do have to be in front of people,   
+
+b          B.27 utt1:  Uh-huh. /  
+
++          A.28 utt1:  {F uh, } I think [ you, + ] [ the, + the ] tendency there is to wear dresses and suits [ and, + and, ] {F uh, } more classical style of clothing. /  
+
+b          B.29 utt1:  Uh-huh. /  
+
+qw          A.30 utt1:  What about the mini skirt? /  
+
+sd          B.31 utt1:  There are a few people every now and then that wear those to work.  /
+sd          B.31 utt2: There  pretty strict about that, though.   /
+sd          B.31 utt3: {F Um, }  I've never worn, - /
+%          B.31 utt4: I just wouldn't, - /
+%          B.31 utt5: {E I mean } even to, - /
+sv          B.31 utt6: {D well } jeans aren't exactly professional  /
+sv          B.31 utt7: {C but, } for some reason a mini skirt is, to me a little more unprofessional to wear to work than jeans  /
+sv          B.31 utt8: [ just because it's, + maybe it's just because  ] of the sexist views and everything  /
+sv          B.31 utt9: {C but } you just feel like [ you're, + you're  ] [ being, + showing ] too much le-, - /
+h          B.31 utt10: I don't know,  /
+sd          B.31 utt11:  I   wouldn't want to wear a mini skirt to work. /  
+
+%          A.32 utt1:  <Laughter> We-, -/  
+
+sd          B.33 utt1:  I have seen a few people do it though,  /
+%          B.33 utt2: {C but } [ they, + they ] weren't overly shor-, - /
+sd          B.33 utt3: {C and } they weren't overly revealing.  /
+sd          B.33 utt4:  They were pretty much in good  taste,  /
+%          B.33 utt5: {C but, } {F um, } -/  
+
+b          A.34 utt1:  Uh-huh. /  
+
+sd          B.35 utt1:  for me [ I just, + I just,  ] [ cou-, + wouldn't ] want to do that. /  
+
+sv          A.36 utt1:  {D Well } there are mini skirts and there are mini skirts. /  
+
+b          B.37 utt1:  Yeah. /  
+
+sv          A.38 utt1:  There are some that are really short  /
+sv          A.38 utt2: {C and then } there are some that may be  will come like four inches or five inches above the knee. /  
+
+b          B.39 utt1:  Uh-huh,  /
+sd          B.39 utt2: that's what I've seen.  /
+
+sv          A.40 utt1:  {C and } again it depends upon the size, the shape of the person,    
+
+b          B.41 utt1:  Uh-huh. /  
+
++          A.42 utt1:  as well as the shape of the person's legs. /  
+
+b          B.43 utt1:  Uh-huh. /  
+
+%          A.44 utt1:  {D Now, } I also, {F uh, } - /
+sd          A.44 utt2: even though I retired from education, [ I, + {F uh, } I  ] do modeling  /
+sd          A.44 utt3: {C and } I teach at a modeling agency here. /  
+
+b          B.45 utt1:  Uh-huh. /  
+
+sd          A.46 utt1:  [ {C And, } +  {F uh, } {C so, } ] when we are doing wardrobing and we have, {F uh, } [ two, + two ] hour classes in wardrobe, we do discuss a great deal, the mini skirt and the types of clothes to wear on the job. /  
+
+b          B.47 utt1:  Uh-huh. /  
+
+sd          A.48 utt1:  {F Uh, } even though I may have them from sixth grade on up through, {F uh, } grandmothers,    
+
+b          B.49 utt1:  Uh-huh. /  
+
++          A.50 utt1:  in my class.   /
+sd          A.50 utt2: {C And, } {F uh, } [ whe-, + ] I always try to emphasize the, clothes that you wear should not necessarily be the greatest fad, /  
+
+b          B.51 utt1:  Uh-huh. /  
+
+sv          A.52 utt1:  {C because } maybe [ they, + those ] are not the clothes  that are the most, {F uh, } appealing to you, or the most, {F uh, } complimentary to you. /  
+
+aa          B.53 utt1:  Right. /  
+
+sv          A.54 utt1:  {C But, } {F uh, } the mini skirt many times will evoke comments you don't really want. /  
+
+b          B.55 utt1:  Right <laughter>. /  
+
+sv          A.56 utt1:  [ {C And, } +  {C and } ] [ then, + {F uh, } then  ] you're in the situation where you're very unhappy. /  
+
+ b         B.57 utt1:  Uh-huh.  /
+ sv         B.57 utt2:  {D Well } I feel like too, on the job, when, {D you know, } there's men around and some of the managers are men, [ you just, + {D you know, } you  ] don't want them looking at your legs <laughter> necessarily. /  
+
+aa          A.58 utt1:  That's right. /  
+
+sd         B.59 utt1:  {C And, } {F uh, } to me I just wouldn't feel comfortable in that at work,  /
+%          B.59 utt2: {C but, } {F uh, } -/  
+
+sd          A.60 utt1:  {D Well, } [ [ I, + I, ] + {F uh, } I ] have to, {F uh, } agree with that, even when they was   very,  very  popular in the early sixties, /  
+
+b          B.61 utt1:  Uh-huh. /  
+
+%          A.62 utt1:  {F uh, } I, {F uh, } {F uh, } - /
+sd          A.62 utt2: again maybe because I was at the school, there were still many teachers who wore mini skirts, /  
+
+b          B.63 utt1:  Uh-huh. /  
+
+sd          A.64 utt1:  {F uh, } we had no regulation against it  /
+sd          A.64 utt2: {C and } a lot of the kids did of course,  /
+sd          A.64 utt3: {C and } it could be very embarrassing for the men teachers. /  
+
+b          B.65 utt1:  Right <laughter>. /  
+
+sd          A.66 utt1:  {C Because } they were not that careful in how they handled themselves in those mini skirts. /  
+
+b          B.67 utt1:  Right. /  
+
+sv          A.68 utt1:  {C And so, } I think, {F uh, } {F uh, } of course, now I go the other extreme,  I do not like to see, in the corporate areas, {F uh, } all the women dressed like men,   
+
+b          B.69 utt1:  Uh-huh. /  
+
++          A.70 utt1:  with the suits and, {F uh, } white shirts and ties and what have you so that they all look exactly the same. /  
+
+b          B.71 utt1:  Uh-huh. /  
+
+sd          A.72 utt1:  {F Uh, } I don't like that,  /
+%          A.72 utt2: I don't, - /
+sv          A.72 utt3: I think there should be individuality in dressing. /  
+
+b          B.73 utt1:  Uh-huh.  /
+sd          B.73 utt2:  Even with the very tailored look of a suit, sometimes I like to have [ someth-, +  [ a lit-, + just a little ] something ] that's feminine. /  
+
+aa          A.74 utt1:  Yes. /  
+
+%          B.75 utt1:  Not, {D you know, } - /
+sv          B.75 utt2: you don't want to over do it but, just a little, a touch of it just to say, yes, I am a woman, /  
+
+aa          A.76 utt1:  Right. /  
+
+sd          B.77 utt1:  {C but } I can be professional too. /  
+
+sv         A.78 utt1:  [ {D Well, }  I, + ] {C and } I ]  don't think that you have to be manish and extremely tailored [  to, + to  ] look professional. /  
+
+aa          B.79 utt1:  Right,  /
+b          B.79 utt2: uh-huh. /  
+
+sv          A.80 utt1:  I think that [ you, + you ] make of that what you wish  /
+sv          A.80 utt2: {C and } you can go the opposite direction and, {F uh, } over do   all the frills and laces and flounces and  what have you, which don't belong  [ in the, +  [ in, + at least in my opinion, in the  ] ] work place, /  
+
+b          B.81 utt1:  Right. /  
+
+%          A.82 utt1:  {F Uh, } {C but } [ that, + that ] - /
+sv          A.82 utt2: you can have a classical look without  [ a lot of, + a great deal of  ] adornment  and what have you and still be very feminine. /  
+
+b          B.83 utt1:  Uh-huh. /  
+
+sd          A.84 utt1:  {C Because } that was one thing I always fought against.  /
+sd          A.84 utt2: I started out as a physical education teacher. /  
+
+b          B.85 utt1:  Uh-huh. /  
+
+sd          A.86 utt1:  {C So } I was always fighting against the idea of looking tailored or manish, /  
+
+b          B.87 utt1:  Right. /  
+
+sd          A.88 utt1:   {F uh, } {C and } people would never, ever guess that I was Phys Ed  /
+sd          A.88 utt2: [ {C and, } +  {F um, } {C and } ] that pleased me, /  
+
+b          B.89 utt1:  Uh-huh. /  
+
+sd          A.90 utt1:  {F uh, } {C and so, } then I, of course, just continued what I considered the best style of clothing for me at work  /
+sd          A.90 utt2: [ {C and, } +  {F uh, } {C and } ] I find [ even, + even  ] at home here now, [ I,  I  ] will wear blue jeans or I'll wear shorts and what have you, {F uh, }  and  be very comfortable  /
+sd          A.90 utt3: {C but } when I go out somewhere, then, {F uh, } unless I have a pair of dress slacks, I don't usually wear a lot of blue jeans. /  
+
+b          B.91 utt1:  Uh-huh. /  
+
+sd          A.92 utt1:  I have difficulty getting them to fit me comfortably any how. /  
+
+b          B.93 utt1:  Uh-huh  <breathing>. /  
+
+sv          A.94 utt1:  {C And, so, } {F uh, } {F uh, } I just feel that, {F uh, } {D you know } each person has to dress to their own liking and for their own comfort. /  
+
+b          B.95 utt1:  Uh-huh. /  
+
+sv          A.96 utt1:  {C But, } {F uh, } there are certain norms that companies should be able to, {F uh, } put out as guidelines for their employees. /  
+
+aa          B.97 utt1:  Right,  /
+sd          B.97 utt2: that's [ what I, + one thing I  ] like about T I is that they aren't overly strict about what you wear  /
+sd          B.97 utt3: {C and } [ they don't, +  {D you know, }  your boss doesn't ] come up to you and say now remember, tomorrow you have a meeting so you'd better wear a suit. /  
+
+x          A.98 utt1:  <Laughter>.   
+
+sd          B.99 utt1:  {E I mean, } [ they, + they ] leave it up to you and your judgment  [ to, +    
+
+b          A.100 utt1:  Right. /  
+
++          B.101 utt1:  to  ] use good judgment and dress tastefully and dress for whatever occasion you may have. /  
+
+b          A.102 utt1:  Yes. /  
+
+sd          B.103 utt1:  The only real restrictions they have are, {F uh, } no halter tops and no shorts, even the long walking short of the squirts, [ the, + the ] split skirts,   
+
+b          A.104 utt1:  Yes. /  
+
++          B.105 utt1:  anything [ that, + that ] could be considered shorts they don't allow. /  
+
+ba          A.106 utt1:  That's good. /  
+
+sd          B.107 utt1:  {C And } they don't allow, {F uh, } [ any sweat, + any sweat  ] shirts or t shirts that might have vulgar, or, {D you know, } anything like that on it,  /
+sd          B.107 utt2: {C but, }   
+
+b          A.108 utt1:  Yeah,  /
+b          A.108 utt2: uh-huh. /  
+
++          B.109 utt1:  other than that, it's [ pretty, + pretty ] lax  /
+sv          B.109 utt2: {C and } I think that's good because it does allow people to be individual  /
+sv          B.109 utt3: {C and } it allows you to kind of dress the way you feel that day. /  
+
+b          A.110 utt1:  Yes. /  
+
+sv          B.111 utt1:  {C Or, } {D you know, } if you want to be comfortable and casual you can,  /
+sv@          B.111 utt2: {C and } sometimes I think you may be more productive if you're comfortable with what your wearing and can [ [ be, + be, ] + feel ] more relaxed.    *[[slash needed]]
+
+b          A.112 utt1:  Right. /  
+
++          B.113 utt1: Whereas, {F uh, } sometimes when your in the suit and feel, kind of almost stiff and [ you're not, + {D you know, } maybe you [ don't, + {F uh, } can't ] ] get as comfortable to sit down  /  *[[sv]]
+sv          B.113 utt2: {C and, } {D you know, } {D like } when I'm writing training material, I prefer to be more comfortable unless I know I have to meet with a customer later during the day. /  
+
+b          A.114 utt1:  Right,  /
+b^r          A.114 utt2: right. /  
+
+sv          B.115 utt1:  {C So, } [ that's + I think, that is ] good that they're like that.  /
+sv          B.115 utt2:  I do know there's a lot of companies that are very strict about what the employees wear  /
+sv          B.115 utt3: {C and } they must wear blue or gray  or  black  and  a white shirt and,   
+
+b          A.116 utt1:  Yeah. /  
+
++          B.117 utt1: {D you know, } no variation,  /
+sv          B.117 utt2: {C and } [ I don't, + I don't ] quite agree with that. /  
+
+aa          A.118 utt1:  Yeah,  /
+sd          A.118 utt2: well, I don't either.  /
+sd          A.118 utt3:  Fortunately I don't have to work in those companies <laughter>. /  
+
+aa          B.119 utt1:  Right. /  
+
+sd          A.120 utt1:  {C But, } {F uh, } [ I, + I, ] {F uh, } did have a group come over from one of the banks, over the children's hospital where I was volunteering  /
+sd          A.120 utt2: {C and, } {F uh, } they were doing a presentation  /
+sd          A.120 utt3: {C and } every one of the young execs coming up were dressed exactly  a   like,   men and women.  /
+sd          A.120 utt4: They all had on the gray jackets and the gray trousers [ or sla-, +  or skirts ] and the white blouses and the same color tie.  /
+sd@          A.120 utt5:  {E I mean } you could hardly tell the women from the men except for the lengths of the pants.    *[[need slash]]
+
+b          B.121 utt1:  {F Uh, } right. /  
+
++          A.122 utt1:  {C And } one was a skirt and one was a pant. /  *[[sd]]
+
+b          B.123 utt1:  Yeah. /  
+
+sv          A.124 utt1:  [ {C And, } +  {F uh, } {C and } ] I think that's sad because that doesn't allow for any individuality. /  
+
+b          B.125 utt1:  Uh-huh. /  
+
+sv          A.126 utt1:  That [ 's, +  {F uh, } can ] stifle creativity. /  
+
+aa          B.127 utt1:  Right,  /
+aa          B.127 utt2:  I  agree. /  
+
+%          A.128 utt1:  {D So. } /  
+
+%          B.129 utt1:  {D Well, } it, - /
+sv^t          B.129 utt2: I guess we've talked probably long enough. /  
+
+sv^t          A.130 utt1:  I guess so,  /
+fc          A.130 utt2: {D well } it's been nice talking with you. /  
+
+fc          B.131 utt1:  Nice talking to you too,  /
+fc          B.131 utt2: I enjoyed it. /  
+
+fc          A.132 utt1:  # Uh-huh,  /
+fc          A.132 utt2: bye, bye. # /  
+
+fc          B.133 utt1:  # Bye, bye. # / 

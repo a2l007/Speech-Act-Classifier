@@ -1,0 +1,96 @@
+
+This file lists the percentage (and counts) of lines
+in the DA database file for which CSV and MRT word
+transcripts matched exactly.  Cases in which they did
+not match are described in transcription-issues.txt .
+
+Note that the following statistics do not consider
+the error codes "1" and "2".  (So for example, "A2"
+lines are included in the "A_lines" number below.)
+
+"FILE"    = DADB meeting file.
+"A_lines" = number of lines with the error code "A".
+"B_lines" = number of lines with the error code "B".
+"D_lines" = number of lines with the error code "D".
+"#_lines" = total number of lines in the DADB file.
+"%"       = percentage the A,B,D lines represent in the file.
+"Rel1"    = is part of first 50 meetings in first release? (Y/N)
+
+
+FILE        A_lines B_lines D_lines #_lines  %     Rel1
+Bdb001.dadb    1381       0       8    1394  99.6%   N
+Bed002.dadb    1361       0       5    1371  99.6%   N
+Bed003.dadb    1826       0       0    1831  99.7%   Y
+Bed004.dadb     912       0       3     916  99.9%   Y
+Bed005.dadb    1504       0       2    1511  99.7%   N
+Bed006.dadb    1815       0       0    1823  99.6%   Y
+Bed008.dadb    1543       0       4    1558  99.3%   Y
+Bed009.dadb    1131       0       3    1139  99.6%   Y
+Bed010.dadb    1128      28       0    1162  99.5%   Y
+Bed011.dadb    1163       0       2    1171  99.5%   Y
+Bed012.dadb     970       0       0     971  99.9%   Y
+Bed013.dadb    1459       0       0    1469  99.3%   N
+Bed014.dadb    1453       6       0    1466  99.5%   N
+Bed015.dadb    2242       0       0    2247  99.8%   N
+Bed016.dadb    1183       0       6    1190  99.9%   Y
+Bed017.dadb     782       0       0     782 100.0%   Y
+Bmr001.dadb     883       0      11     901  99.2%   Y
+Bmr002.dadb    1475       0       9    1494  99.3%   Y
+Bmr003.dadb    2751       5      11    2769  99.9%   N
+Bmr005.dadb    1485       0       9    1501  99.5%   N
+Bmr006.dadb    1859       6       5    1895  98.7%   Y
+Bmr007.dadb    1342       0       8    1362  99.1%   Y
+Bmr008.dadb    1792       0       6    1810  99.3%   Y
+Bmr009.dadb    1636       0       5    1660  98.9%   Y
+Bmr010.dadb    1588       0       6    1602  99.5%   Y
+Bmr011.dadb    1852       0       8    1874  99.3%   Y
+Bmr012.dadb    1411       0       7    1425  99.5%   Y
+Bmr013.dadb    1049       0       8    1069  98.9%   Y
+Bmr014.dadb    1264       0       6    1284  98.9%   Y
+Bmr015.dadb    1234       0       7    1245  99.7%   Y
+Bmr016.dadb    2297       0       5    2314  99.5%   N
+Bmr018.dadb    1697       0       6    1730  98.4%   Y
+Bmr019.dadb    1986       0       9    2002  99.7%   N
+Bmr020.dadb    1924       7       5    1944  99.6%   Y
+Bmr021.dadb    1042       0       6    1050  99.8%   Y
+Bmr022.dadb    1488       0       6    1496  99.9%   N
+Bmr023.dadb    1271       0       6    1284  99.5%   Y
+Bmr024.dadb    1626       0       7    1648  99.1%   Y
+Bmr025.dadb    1056       0       8    1071  99.3%   Y
+Bmr026.dadb    1272       0       5    1287  99.2%   Y
+Bmr027.dadb    1541       0       8    1554  99.7%   Y
+Bmr028.dadb    1784       0       9    1799  99.7%   N
+Bmr029.dadb     956       0       6     990  97.2%   Y
+Bmr030.dadb     881       0       6     894  99.2%   Y
+Bmr031.dadb    1669       0       9    1708  98.2%   Y
+Bns001.dadb    1807       0       7    1821  99.6%   N
+Bns002.dadb    1604       0       5    1614  99.7%   N
+Bns003.dadb    1076       0       6    1083  99.9%   N
+Bro003.dadb    2072       0       7    2108  98.6%   Y
+Bro004.dadb    1390       0       6    1468  95.1%   N
+Bro005.dadb    1396       0       5    1481  94.6%   Y
+Bro007.dadb     615       0       6     625  99.4%   Y
+Bro008.dadb     571       0       5     589  97.8%   Y
+Bro010.dadb    1299       0       0    1301  99.8%   Y
+Bro011.dadb     757       0       0     769  98.4%   Y
+Bro012.dadb    1525       0       6    1540  99.4%   Y
+Bro013.dadb     798       0       5     806  99.6%   Y
+Bro014.dadb    1609       0       7    1617  99.9%   Y
+Bro015.dadb     244       0       6     253  98.8%   Y
+Bro016.dadb    1182       0       7    1190  99.9%   Y
+Bro017.dadb    1286       0       5    1333  96.8%   Y
+Bro018.dadb    1239       0       5    1253  99.3%   Y
+Bro019.dadb    1666      56       7    1729 100.0%   N
+Bro021.dadb    1381      14       4    1404  99.6%   Y
+Bro022.dadb    1234       0       7    1244  99.8%   Y
+Bro023.dadb    1757       0       5    1768  99.7%   N
+Bro024.dadb    1965       0       7    1992  99.0%   N
+Bro025.dadb     746       0       5     756  99.3%   Y
+Bro026.dadb    1068       0       5    1095  98.0%   Y
+Bro027.dadb    2061       0       4    2078  99.4%   N
+Bro028.dadb    1201       0       5    1212  99.5%   N
+Bsr001.dadb    2595       8       0    2606  99.9%   N
+Btr001.dadb    2843       0       7    2854  99.9%   N
+Btr002.dadb    3438       0       5    3460  99.5%   N
+Buw001.dadb    2304       8       0    2315  99.9%   N
+TOTAL        110693     138     389  112027  99.3%

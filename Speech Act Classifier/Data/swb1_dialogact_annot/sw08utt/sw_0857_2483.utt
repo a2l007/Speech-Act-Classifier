@@ -1,0 +1,347 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2483_1104_1119
+TOPIC#:		349
+DATE:		910407
+TRANSCRIBER:	SK
+UTT_CODER:      aabo
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS: 	None.
+
+===========================================================================
+  
+
+o          B.1 utt1:  <Static>  (( Okay )) . /  
+
+qy          A.2 utt1:  Are you a T I -er,  /
+%          A.2 utt2: {C or, } -/  
+
+nn          B.3 utt1:  No,  /
+sd^e          B.3 utt2: I'm not. /  
+
+b          A.4 utt1:  {F Oh, } really,  /
+ba          A.4 utt2: that's great.  /
+sd^t          A.4 utt3:  {F Uh, } my daughter talked to a student.  /
+sd^t          A.4 utt4:  {F Uh, } in general most [ of them, + ] {F uh, } people doing this are T I -ers,  /
+qy^d^t          A.4 utt5: {C but } I guess customers too, {F huh? } /  
+
+sv^t          B.5 utt1:  {C And, } I think a great number of students who got word of it and participated in general and voiced who heard about the program. /  
+
+b          A.6 utt1:  Yeah.  /
+sv^t          A.6 utt2:  T I -s got, {F uh, } a lot of advances in it really.  /
+sd^t          A.6 utt3:  {F Uh, } hopefully this will turn out to be a good program for us.  /
+sv^t          A.6 utt4:  We sure need, {F uh, } the business.  /
+b          A.6 utt5: Okay,  /
+sd^t          A.6 utt6: Current Events.  /
+ad^t          A.6 utt7: {F Uh, } [ you, + you've ] got the question you can go first there, since I called. /  
+
+sd          @B.7 utt1:  I rely primarily on, {F uh, } newspaper combined with television. /  
+
+%          A.8 utt1:  {F Huh, } that, - /
+sd          A.8 utt2: you're the opposite of me.  /
+sd          A.8 utt3: I drive an hour each way to work  /
+sd          A.8 utt4: {C and  so } if I just use time - /
+sd          A.8 utt5: {C and } not say one, which quality is the best, - /
+sd          A.8 utt6: I guess, that would be two hours roughly of talk shows and news on radio  /
+sd          A.8 utt7: {C and then } newspapers and T V would be tied after that because maybe I'll catch [ the, + the ] evening news, like ten o'clock on T V  /
+%          A.8 utt8: {C and } I, -/  
+
+b          B.9 utt1:  {F Uh. } /  
+
+sd          A.10 utt1:  {C so } that's a half an hour roughly the same with newspaper. /  
+
+b          B.11 utt1:  Okay. /  
+
+%          A.12 utt1:  I really, - /
+sd          A.12 utt2: of course, [ you, + you're ] in a different part of the country,  /
+sd          A.12 utt3: [ I, + I ] really listen to a lot of the talk shows, I don't mean the gossip ones,  /
+%          A.12 utt4: {C but } there's a lot - /
+sd          A.12 utt5: [ of, + ] on the weekends when I do chores, or whatever, - /
+sd          A.12 utt6: I'm a radio hound I guess,  /
+sd          A.12 utt7: I take the radio with me when I'm working on my car, the lawn or whatever,  /
+%          A.12 utt8: {C and } turn on, - /
+sd          A.12 utt9: they have everything from lawn work, lawyers, news, {F uh, } veterinarians, all kinds of items, {F uh,  }  /
+sd          A.12 utt10: {C so } [ I'm, + ] [ I'm + ] a real radio buff, especially [ on the w-, + ] when I'm doing chores. /  
+
+ba          B.13 utt1:  That's rather interesting. /  
+
+b          A.14 utt1:  Yeah,  /
+sd          A.14 utt2: I find it surprising.  Because a lot of times, it, here, {D you know, } - /
+sd          A.14 utt3:  I'll talk to some people here  /
+sd          A.14 utt4: {C and } I'll mention  [ someone's, + ] some talk host  /
+sv          A.14 utt5: {C and } I'll expect them to have an opinion on why I don't like him and don't listen,  /
+sd          A.14 utt6: they don't even know,   
+
+x          B.15 utt1:  <Laughter>.   
+
++          A.16 utt1:  {D you know, } what the guys name is, {F uh. }   Bruce Williams who does financial work all over the United States.  /
+sv          A.16 utt2:  Most people haven't heard of Bruce Williams.  /
+sv          A.16 utt3: You probably haven't either unless you're a radio buff. /  
+
+aa          B.17 utt1: [ I'd, + I'd ] have to say I haven't either. /  
+
+sd          A.18 utt1:  He is in New Jersey and is entrepreneur and kind of a self-made millionaire.  /
+%          A.18 utt2:  {C And, } he has it, - /
+%          A.18 utt3: I, - /
+sd          A.18 utt4: {D well } it's five seventy here,  /
+%          A.18 utt5: I'm trying to, - /
+%          A.18 utt6:  it's on Cliff, - /
+sd          A.18 utt7: I don't know what the, - /
+sd          A.18 utt8: he's on all stations.  /
+sd          A.18 utt9:  You might remember the name Bruce Williams,  /
+sd          A.18 utt10: {C and } [ he, + he ] is again, national and talks about a lot of financial things.  /
+sd          A.18 utt11:  {C But, } the here, I just get a kick out of, {F uh, } - /
+sd          A.18 utt12:  {D well } we do a lot of gardening here,  /
+%          A.18 utt13: {C so } there's, - /
+sd          A.18 utt14: we have an excellent gardener here,  /
+sd          A.18 utt15: has three hours on Sunday and three hours on Saturday.  /
+sd^t          A.18 utt16:  Of course that's not exactly current events.  /
+sd          A.18 utt17:  {C But, } [ [ I, + I'm, ] + I am ] kind of a radio buff. /  
+
+sd          B.19 utt1:  I listen to the radio, {F uh, } probably [ g-, + ] five or six hours a week,  /
+sd          B.19 utt2: {C but } almost inevitably to a station that is a classical, {F uh, } station here #  ((   )) , #   
+
+^2          A.20 utt1:  # For music? # /  
+
++          B.21 utt1:  for music purposes.  /
+sd          B.21 utt2: We don't use the radio as a wake up,  /
+sd          B.21 utt3: we have [ our, + ] a television connected to a, {F uh, } {F uh, } electronic alarm,   
+
+b          A.22 utt1:  Yeah. /  
+
++          B.23 utt1:  {F uh, } system that kicks in,  /
+sd          B.23 utt2: {C and } it comes on with C N N in the morning. /  
+
+b          A.24 utt1:  {F Oh, } yeah.  /
+ba          A.24 utt2:  That's good.  /
+%          A.24 utt3:  # {D Actually, } # -/  
+
+%          B.25 utt1:  # That - /
+sd          B.25 utt2: [ we, + # we ] wake up to television news and, {F uh, } {F uh, } shower and dress, and  whatever to that,  /
+sd          B.25 utt3: {C and then } because of the fact that my wife and I ride to work together, {F uh, } in a car,   
+
+ba          A.26 utt1:  {F Oh, } that's good. /  
+
++          B.27 utt1: [ we, + we ] chat at each other rather [ than, + than ] something else.  /
+sd          B.27 utt2:  {F Uh, } {C and } occasionally what we'll each do depending on whoever is driving is have the newspaper sort of on our lap on the way [ in, + in ] the car,  /
+sd          B.27 utt3: {C so } we have the advantage of being able to, {F uh, } read and drive although there seems to be, from what I've seen on the freeway recently that a fair number of people are reading and driving <laughter>. /  
+
+sd          A.28 utt1:  <Laughter> My wife always wonders about that  /
+sd(^q)          A.28 utt2: she says, look at that person he's driving and reading at the same time <laughter>. /  
+
+sv          B.29 utt1:  <Laughter> {C So, } [ we, + we ] rely [ pretty, + pretty ] heavily, I think, on a combination [ of the, + of the ] two.  /
+sd          B.29 utt2:  I also, {F uh, } use, {F uh, } NEWSWEEK magazine.  {F Uh, } /  
+
+b          A.30 utt1:  Yeah. /  
+
+sd          B.31 utt1:  we tend to alternate between NEWSWEEK and TIME and whatever happens to be [  the, +   
+
+b          A.32 utt1:  Right. /  
+
++          B.33 utt1:  the, ] {F uh, } news magazine of the year for us. /  
+
+%          A.34 utt1:  [ W-, + # we ] get, # -/  
+
+sd          B.35 utt1:  # {C and, } {F uh, } # I read sporadically of commentary and a couple of other, {D you know, } trade magazines, [ and, + ] {F uh, } {F uh, } such as that, {F uh, } where I might read the, the occasional social and even current event commentaries, [ and, + and ] everything as diverse as A C M to, {F uh, } {F uh, } [ some of the, + {F uh, } some of the ] other tabloids I get.  /
+sd          B.35 utt2:  {C So, } {F uh, } I guess I use about eighty percent written, is probably my input and twenty percent, {F uh, } television.  /
+sv          B.35 utt3: [ I, +   
+
+ad          A.36 utt1:   (( Go ahead )) , /  
+
++          B.37 utt1:  I ] think I respect [ the, + ] from a journalistic perspective current events.  /
+sv          B.37 utt2: I've always said that [ it, + it's ] really not interesting unless it's three weeks old and found its way into a news weekly headline. /  
+
+aa          A.38 utt1:  <Laughter> Good point.  /
+aa         A.38 utt2: That's a good point. /  
+
+sd          B.39 utt1:  {F Uh, } other than that it was a  ((   ))  at best. /  
+
+b          A.40 utt1:  {F Oh, } yeah.  /
+sd          A.40 utt2:  # It comes and goes. # /  
+
+sd         B.41 utt1:  # {F Uh, } we're probably # not thrilled with our only newspaper that we have in Raleigh.  /
+%          B.41 utt2: [ There, + there ] are other, {F uh, } {F uh, } - /
+sd          B.41 utt3: I'm not sure what you would call them, [ they co-, + ] the small, {F uh, } competing independent sort of newspapers.  /
+sd          B.41 utt4: Little small weekly things,  /
+sd          B.41 utt5: {C but } there's only one daily, {F uh, } called the NEWS AND OBSERVER, fondly referred to here by some as the, {F uh, } {F uh, } sometimes the Noise and Observer. /  
+
+b          A.42 utt1:  # Yeah. # /  
+
+sd          B.43 utt1:  # {F Uh, } it # depends.  /
+sv          B.43 utt2:  It, [ it's, + ] has decent national coverage,  but has an extremely focused political coverage, probably steeped in,   
+
+b^m          A.44 utt1:  # Local you mean? # /  
+
++          B.45 utt1:  # the southern history # and the fact that this is a Democratic State.  /
+sv          B.45 utt2:  {C And, } {F uh, } consequently everything is filtered through that, {F uh, } Republican Democratic sort of,   
+
+b          A.46 utt1:  Yeah. /  
+
++          B.47 utt1:  glass, almost unnecessarily  /
+%          B.47 utt2: {C so. } -/  
+
+b          A.48 utt1:  Yeah.  /
+qy^d          A.48 utt2:  Don't they have city council meetings and all that.  /
+qy          A.48 utt3:  Are you into any of that [ what, + what's ] going on in the city council [ and the, + and the ] school boards and all that?  /
+sd          A.48 utt4:  We have that addition to our paper. /  
+
+ny          B.49 utt1:  Yeah,  /
+%          B.49 utt2: [ we, + we ] have, - /
+%          B.49 utt3: that is, {F uh, } - /
+sd          B.49 utt4: as a matter of fact they update it once a week with a special section,  /
+sd          B.49 utt5: [ we, + {C and } we ] pay it sort of glancing nod.  /
+sd          B.49 utt6:  We, {F uh, } have a very good friend who is, {F uh, } tapped into the city planning structure. {F Uh, } our developer architect friend  /
+%          B.49 utt7: {C and, } -/  
+
+bk          A.50 utt1:   (( Okay ))  /
+bf          A.50 utt2: , you get it from people then. /  
+
+aa          B.51 utt1:  Right.  /
+sv          B.51 utt2:  {C So, } I think we find out what's happening in the city, {F uh, } on a fairly frequent basis, [ over a, + over a ] gin and tonic sort of thing. /  
+
+aa          A.52 utt1:  Yeah.  /
+aa          A.52 utt2:  Right. /  
+
+sv          B.53 utt1:  {F Uh, } {C and } that probably gives us a better insight as to the city of Raleigh [ than, + than ] the paper would have anyway. /  
+
+sd          A.54 utt1:  My wife and I, {D you know, } as mentioned, - /
+sd^t          A.54 utt2: the question was, {F uh, } do you get it from people too.  /
+sd         A.54 utt3: [ {C And, } + {C and, } ] I can say the same thing you do that, {F uh, } my wife [ is, + ] {F uh, } she reads the paper from front to back  /
+sd          A.54 utt4: {C and so } she'll tell me some stuff  /
+sd(^q)          A.54 utt5: {C and } she'll always get mad and say, you didn't read the, {F uh, } - /
+sd          A.54 utt6: {D well, } I always read the sports, {F uh, }  /
+sd          A.54 utt7: what am I thinking of, {F uh, } the commentaries,  /
+sd          A.54 utt8: I can't even think of what it is offhand,  /
+sd          A.54 utt9: {C and } she's always reading something,  /
+sd(^q)          A.54 utt10: {C and } she says, why haven't you read that.  /
+sd          A.54 utt11: {C And, } I say, I never have time to read it like you do.   /
+sd          A.54 utt12: {C But, } I always get a lot of my information from the,   
+
+b          B.55 utt1:  Uh-huh. /  
+
++          A.56 utt1:  newspaper through her. /  
+
+b          B.57 utt1:  Uh-huh. /  
+
+sd          A.58 utt1:  {F Uh, } {C so, } I guess we do get it from people too.  /
+qy^d          A.58 utt2:  {F Oh, } you mentioned C N N, of course I mentioned radio and the C N N T V news, {D you know? } /  
+
+ny          B.59 utt1:  Uh-huh. /  
+
+sv          A.60 utt1:  It's the same thing that's on the radio, word for word. /  
+
+qy          B.61 utt1:  Is that right?  /
+o@          B.61 utt2:  I,   
+
+ny          A.62 utt1:  Yeah  /
+o@          A.62 utt2: it, [   
+
++          B.63 utt1:  [ I'll + ] heard there was some stuff [ on the, + on the ] radio that was equivalent to C N N. /  
+
++@          A.64 utt1:  {D Well, } it is C N N exactly.    
+
+b          B.65 utt1:  Okay. /  
+
++@          A.66 utt1:  {F Uh, } because, {F uh, } - /
+%          A.66 utt2: {C and } it, - /
+%          A.66 utt3: because, {F uh, } - /
+sd          A.66 utt4: we have it here at work as a matter if fact, at T I. /  
+
+b          B.67 utt1:  Okay. /  
+
+sd          A.68 utt1:  We have it in the break area, C N N.  /
+sd          A.68 utt2:  [ {C And,  } + {C but } ] the reason I say that is on the radio they'll say [ and + ] look at this, {D you know. }  /
+sd          A.68 utt3:  {C And } when I first heard C N N, it only started about, {F uh, } since the war, {D you know, } or right before that.  /
+sd          A.68 utt4: {C And, } they would always say [ and + ] look at this,  /
+sd          A.68 utt5: {C and } there would be a pause, {D you know, }   
+
+x          B.69 utt1:  <Laughter>.   
+
++          A.70 utt1:  would be music and stuff  /
+sd          A.70 utt2: {C and } I realized that it's the exact commentary that you have --   
+
+b          B.71 utt1:  {F Oh, } /  
+
++          A.72 utt1:  -- on the, {F uh, } the news. /  
+
+%          B.73 utt1:  # That didn't, {F uh, } # -/  
+
+b          A.74 utt1:  # Yeah,  /
+b^r          A.74 utt2: yeah.  /
+ba          A.74 utt3: # {C But, } it's still good.  /
+%          A.74 utt4:  It's still, {F uh, } {F uh, } {D you know, } - /
+sv          A.74 utt5: you don't really miss anything. /  
+
+b          B.75 utt1:  Uh-huh. /  
+
+sd          A.76 utt1:  {C But, } I [ do, + do ] enjoy since the Gulf War listening to C N N radio too, as well as watching C N N on T V here at work.  /
+sd          A.76 utt2:  I don't have C N N at home.  /
+sd          A.76 utt3: <Noise> <<radio>>.  Let me turn this [ mic-, + ] radio off,  /
+sd          A.76 utt4: I'm {D actually } at work right now believe it or not.  /
+t1          A.76 utt5:  {F Uh, } where was I,  /
+%          A.76 utt6: I'm, - /
+ad          A.76 utt7: go ahead, - /
+ad          A.76 utt8: [ your, + your ] turn. /  
+
+sd          B.77 utt1:  {F Uh, } we probably were listening to C N N fairly heavily before the war broadcasts began.  /
+sd          B.77 utt2:  {F Uh, } we almost live [ and, + and ] breathed it [ for, + ] because during the war itself to the point where we began to sort of have household pact of lets turn the war off and get something done. /  
+
+b          A.78 utt1:  # Yeah,  /
+sd          A.78 utt2: [ I've, + I've ] heard that,  /
+%          A.78 utt3: yeah. # /  
+
+%          B.79 utt1:  # {F Uh, } almost an addition, # {F uh, } - /
+sd          B.79 utt2: [ [ {C and, } + {C and, } ] + {C and } ] we could equate or relate relay well to some of the newspaper and television articles about the fact that people where having this problem [ in, + in ] [ unhooking, + uncoupling ] from the events, and going on with their. - /
+%          B.79 utt3: {C So, } -/  
+
+b          A.80 utt1:  Right </noise>. /  
+
+sd          B.81 utt1:  instead of [ being, + watching ] the missiles and being glued to the tube or  whatever.  {F Uh, } - /
+sd          B.81 utt2: {C and } because of that we began towards the middle [ and + ] of the war, I guess about two and a half or three weeks in, we began to restrict our news almost deliberately where we would, {F uh, } watch, {F uh, } fifteen minutes before, fifteen minutes after six our time which would be national news, or our local news.  /
+sd          B.81 utt3: We would watch C N N until six thirty, then we would watch, {F uh, } a rotating network news of {C either, } {F uh, } A B C, C B S, {C or } N B C  /
+sd          B.81 utt4: {C and } [ we, + we ] sort of just rotated around the dial each night a different one.  /
+o@          B.81 utt5:  {C And, }   
+
+b          A.82 utt1:  Right. /  
+
++@          B.83 utt1:  we would watch the first fifteen minutes  /
+sd          B.83 utt2: {C and then } we would turn the television off  /
+sd          B.83 utt3: {C and } we were sort of limiting or dieting ourselves [ on, + on ] news that way.  /
+sd          B.83 utt4: {C And, then } we would do a similar thing, {F uh, } at {F uh, } ten forty-five because, {F uh, } C N N would be wrapping their hourly coverage up  /
+sd          B.83 utt5: {C and then } we would get the local coverage, {F uh, }  /
+sv          B.83 utt6: {C and then } I think the local coverage we would tend to watch the same station that [ would, + would ] have better state coverage rather than local coverage.  /
+sd          B.83 utt7:  {F Uh, } three of the networks here, on their local news, {F uh, } - /
+%          B.83 utt8: that - /
+sd          B.83 utt9: [ if, + if ] you wish to listen at eleven o'clock you can find out who raped who, murdered who, or stole what.   
+
+b          A.84 utt1:  {F Oh, } yeah. /  
+
++          B.85 utt1:  from whom.  /
+sd          B.85 utt2: {C And, } that was the sort of thing that I would say is the best ((  /
+%          B.85 utt3: ))  {C and } not news -- -/  
+
+b          A.86 utt1:  Yeah. /  
+
+sd          B.87 utt1:  -- unless there's some trend or something that says, {D Jesus } this neighborhood has been hit forty-seven times or whatever.  {F Uh, } [ that's, + that's ] sort of more [ of, + of ] a pattern news. /  
+
+sd          A.88 utt1:  I never get home early enough for those five and six o'clock, -/ 

@@ -1,0 +1,299 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2790_1232_1230
+TOPIC#:		329
+DATE:		910504
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	3
+STATIC_ON_B:	3
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        There was some cutting out in a lot of different spots.
+
+==========================================================================
+  
+
+o          A.1 utt1:  All right. /  
+
+qw          B.2 utt1:  [ What, + what ] changes do you think have taken place in the last generation? /  
+
+sv          A.3 utt1:  I guess the biggest one is number of women in the work force. /  
+
+b          B.4 utt1:  Yeah. /  
+
+sv          A.5 utt1:  Few are, {F uh, } basically staying home and being homemakers, and raising kids exclusively. /  
+
+aa          B.6 utt1:  Uh-huh.  /
+aa          B.6 utt2:  Yeah,  /
+sd          B.6 utt3: [ [ I, + I, ] + I ] grew up in, {F uh, } sixties and early seventies  /
+sd          B.6 utt4: {C and, }  {F uh, } my mom didn't work at all when I was growing up.  /
+sd          B.6 utt5: She didn't start working until I was, {F um, } well into high school. /  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sv          B.8 utt1:  {C So, } [ I, + I ] had the advantage of having a mom at home that nowadays [ kids, + it's a luxury item for mothers to be home with their kids. ] /  
+
+aa          A.9 utt1:  Yeah,  /
+aa          A.9 utt2: true.  /
+sd          A.9 utt3: {D Well, } mine taught kindergarten  /
+sd          A.9 utt4: {C but } she was always, {F uh, } - /
+sd          A.9 utt5: I guess her schedule was shorter  /
+sd          A.9 utt6: {C so } she was always, {F uh, }   
+
+^2          B.10 utt1:  # Always home by the time you got home.  # /  
+
++          A.11 utt1:  # home,  /
+%          A.11 utt2: yeah.  /
+%          A.11 utt3:  Yeah,  /
+sv          A.11 utt4: [ that, + that ] statistic I guess # has been growing every year   /
+sd          A.11 utt5: (( it's like something around ))  sixty, sixty-five percent or so now. /  
+
+b          B.12 utt1:  Uh-huh. /  
+
+sd          A.13 utt1:  {F Uh, } I'm not sure what the future holds for that  /
+%          A.13 utt2: whether, -/  
+
+sv          B.14 utt1:  [ It seems like there's, + (( it seems that there's )) ]  a grass roots, {F um, } effort or whatever going on  /
+sd          B.14 utt2: [ I, + I, ] {F um, } clean houses part-time, /  
+
+b          A.15 utt1:  # Uh-huh.  # /  
+
+sd          B.16 utt1:  # {C and } # almost all the people that I clean for, believe it or not, are mothers that don't work <laughter>. /  
+
+b          A.17 utt1:  {F Huh. } /  
+
+b          B.18 utt1:  {F Um, } /  
+
+ba          A.19 utt1:  # That's unusual <laughter>.  # /  
+
+%          B.20 utt1:  # [ [ they are, + th-, ] + # they're ] all, {F um, } - /
+sv          B.20 utt2: [ [ [ it's, + ] + {C and } it's, ] + I think it's ] kind of a new movement  /
+sv          B.20 utt3: it's going back towards, {D you know, } - /
+sd          B.20 utt4: women have come into the work force in the last twenty, thirty years  /
+sv          B.20 utt5: {C and now } they're wanting to go back to the old days where, {D you know, } women stayed home with the kids, {D you know, } and  try to give the kids quality time. /  
+
+b          A.21 utt1:  Uh-huh. /  
+
+sv          B.22 utt1:  {C And } [ [ I, + I think that in the future you're, ] + I think you're ] going to see a lot more, {F um, } women choosing to not work after they have a baby. /  
+
+b          A.23 utt1:  Yeah. /  
+
+sv          B.24 utt1:  {F Um, } I think [ with, {F uh, } [ the, + {F uh, } the ] work force + with [ the, + the ] salaries ] that - /
+sd          B.24 utt2: [ a lot of, + a lot of ] the women that I work for have husbands who are, {F um, } vice-presidents of companies  /
+sv          B.24 utt3: {C and } I think with, {F uh, } {F um, } this, it seems like it's more the upper-class people, /  
+
+b          A.25 utt1:  # Uh-huh.  # /  
+
+sd          B.26 utt1:  # {F um, } # I don't see it as much, [ the, + ] like in my situation where [ I don't, + I don't ] have children yet,  /
+sd          B.26 utt2: {C but } ideally I would like to be able to stay home with my kids.   /
+sv          B.26 utt3: {C But } realistically [ that's, + [ I'm, + I'm realizing that's ] ] probably not going to be possible, {F um, } for middle-class people to be able to live just on one income. /  
+
+aa          A.27 utt1:  Yeah,  /
+sv          A.27 utt2: that is tough.  /
+aa          A.27 utt3: Yeah,  /
+sd          A.27 utt4: we're looking at that now,  /
+sd          A.27 utt5: my wife's about six months along. /  
+
+b          B.28 utt1:  Uh-huh.  /
+sv          B.28 utt2: I think it's going to be a luxury item to be able to stay home with your kids. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sv          B.30 utt1:  {D You know, } it's going to [ kind of + <throat_clearing> kind of ] go along with the B M W in the driveway [ and, + or ] in the garage or whatever. /  
+
+ba          A.31 utt1:  True. /  
+
+sv          B.32 utt1:  {F Um, } {C and } the quarter of a million dollar home or whatever. /  
+
+aa          A.33 utt1:  Yeah.  /
+sd          A.33 utt2:  I'm surprised that the main people you work for are women that do stay home.  /
+sv          A.33 utt3:  I would think it would be women that were working full-time. /  
+
+aa          B.34 utt1:  Yeah,  /
+sv          B.34 utt2: believe it or not though [ the, + all the ] women that stay home are real busy when they are home. /  
+
+b          A.35 utt1:  {F Huh. } /  
+
+sv          B.36 utt1:  {F Um, } they're real active in volunteer work. /  
+
+b          A.37 utt1:  Uh-huh. /  
+
+sd          B.38 utt1:  {F Um, } one of the women is real active with, {F uh, } Muscular Dystrophy.  And, {F uh, } does a lot [ of, + of ] work with them on a volunteer basis  /
+sv          B.38 utt2: {C but } [ it's still, + it's almost ] like a job,  /
+sd          B.38 utt3: she just doesn't get paid for it. /  
+
+sv          A.39 utt1:  {F Huh. }  {D Well, } I guess that's good that [ they, + they've ] got something to keep them active. /  
+
+aa          B.40 utt1:  Yeah.  /
+qy          B.40 utt2:  [ When, + when ] your wife has her baby, is she going to stay home  /
+qrr          B.40 utt3: {C or } is she going to,   
+
+ny          A.41 utt1:  # Yeah,  /
+sd^e          A.41 utt2: [ we're, # +   
+
++          B.42 utt1:  # go back # to work? /  
+
++          A.43 utt1:  we're ] going to try and have her stay home, for as long as possible.  /
+qo          A.43 utt2:  <<Very faint>> What do you think? /  
+
+%          B.44 utt1:  [ [ That, +  that, ] + that,  ] - /
+sd          B.44 utt2: [ I would, + I would  ] like to be able to do that. /  
+
+b          A.45 utt1:  Yeah,  /
+sv          A.45 utt2: we think it's, {F uh, } that important  /
+sd          A.45 utt3: {C and } [ I, + I ] kind of hope that the trend goes back in that direction.  /
+sd          A.45 utt4: I'm [ a, + a ] counselor and a therapist, /  
+
+b          B.46 utt1:  # Uh-huh.  # /  
+
+sd          A.47 utt1:  # {C and } # I work with adolescents,  /
+sd          A.47 utt2: {C and } I see some of the problems the kids have when they don't have a real good family structure. /  
+
+b          B.48 utt1:  Yeah,  /
+sv          B.48 utt2: [ I, + I ] see a difference in [ the generation of, + even the generation ] before me,   
+
+b          A.49 utt1:  # Uh-huh.  # /  
+
++          B.50 utt1:  # {F uh, } # were, {D you know, } mom was like, {F um, } [ Mrs Cleaver, + {F uh, } {D you know, } June  Cleaver ] or whatever,  /
+sv          B.50 utt2: where [ the, + the ] attitudes were a lot different.  /
+sv          B.50 utt3:  {F Um, } as far as, I think the kids back then seemed to be a lot more, - /
+sv          B.50 utt4: {F um, } [ ther-, + there ] wasn't a lot of the drugs and alcohol and,    
+
+b          A.51 utt1:  # Uh-huh.  # /  
+
++          B.52 utt1:  # {F um, } # a lot of [ the, + the ] things that are going on in today's society,  /
+sv          B.52 utt2: I think morally, {F um, } it seems like [ there was, peo-, + people were ] a lot better back then as far as [ hig-, + higher ] standards. /  
+
+ba          A.53 utt1:  True.  /
+sv          A.53 utt2: {D Well, } the husbands' roles are almost nonexistent in family anymore in terms of being the father figure  /
+sv          A.53 utt3: {C and } with women working so much they're kind of pulled out of it too. /  
+
+b          B.54 utt1:  Yeah. /  
+
+sv          A.55 utt1:  {C So, } kids are raised around their friends and by the media. /  
+
+aa          B.56 utt1:  Yeah,  /
+aa          B.56 utt2: that's true. /  
+
+sv          A.57 utt1:  {C And } [ that's, + {D you know, } that's ] contributed, /  
+
+sv          B.58 utt1:  {C And } [ I think, + I think ] you're going to see a lot more of that in the future. /  
+
+aa          A.59 utt1:  Yeah,  /
+sv          A.59 utt2: maybe that's contributed to a lot of the problems that we see all the time,  /
+sv          A.59 utt3: {C so. } If there was some way [ for, + for ] women [ to, + to ] stay home even if they could work, {D you know, }  /
+sv          A.59 utt4: there are a lot of jobs that are coming about, like in computers at home,   
+
+b          B.60 utt1:  # Uh-huh.  # /  
+
++          A.61 utt1:  # and # those types of things, that would at least in some ways, {F um, } bridge the gap <<pause>>. /  
+
+aa          B.62 utt1:  Yeah,  /
+sv          B.62 utt2: [ I, + I ] think that, {F um, } in the future, {F um, } [ the, + the ] family unit [ as it, + as it ] once was known, [ is, + is ] going to be nonexistent <<pause>>.  /
+qo          B.62 utt3: [ What, + [ how do you, + what do you think? ] ] /  
+
+qw^h          A.63 utt1:  About? /  
+
+%          B.64 utt1:  That as far as - /
+qy          B.64 utt2: [ do-, + do ] you think there's going to be still a family unit  /
+qrr          B.64 utt3: [ {C or, } + {C or } ] do you think that, {F um, } the trend is going more towards single parenting? /  
+
+%          A.65 utt1:  The <laughter>  (( balance )) - /
+%          A.65 utt2: I don't, - /
+sd          A.65 utt3: [ the, + the ] divorce rate keeps hovering around fifty percent or so  /
+sd          A.65 utt4: {C and } it got higher than that for a while.  /
+sv          A.65 utt5: {F Um, } that's hard to say.  /
+sv          A.65 utt6: Families are such a strange configuration anymore.  /
+sd          A.65 utt7: {F Um, } [ I, + I ] see a lot of families where, - /
+%          A.65 utt8: {D you know, } [ in the, + in the back, ] - /
+sd          A.65 utt9: I grew up about the same time you did, /  
+
+b          B.66 utt1:  # Uh-huh.  # /  
+
+sv          A.67 utt1:  # {C and } # back in those times we pretty much were taught how to be responsible. /  
+
+b          B.68 utt1:  Uh-huh. /  
+
+sv          A.69 utt1:  {F Uh, } nowadays it's not the case,  /
+sv          A.69 utt2: [ kids don't, + kids are bombarded ] with all kinds of junk  /
+sv          A.69 utt3: {C and } one of the reasons, I guess, is because there's so much more income in the family with both parents working.  /
+sv          A.69 utt4:  They get bombarded with junk  /
+sv          A.69 utt5: {C and } they don't have to do anything around the house.  /
+sv          A.69 utt6: They never learned to be responsible when, -/  
+
+b          B.70 utt1:  # Yeah.  # /  
+
+sv          A.71 utt1:  # the # bigger trend called the boomerang kids where they move out for a while - /
+sv          A.71 utt2: {C and } they come back,  /
+sv          A.71 utt3: {C and } you got twenty and thirty year olds who are living at home with mom and dad <laughter>  /
+%          A.71 utt4: {C so, } -/  
+
+b          B.72 utt1:  # Yeah.  # /  
+
+sv          A.73 utt1:  # {D you # know, } you create a [ bigger, + bigger  ] family, generation after generation but not really on purpose. /  
+
+b          B.74 utt1:  Yeah. /  
+
+sv          A.75 utt1:  {C So. } It's [ not, + not ] a real functional situation anyway.   /
+sd          A.75 utt2: {C So, } {D you know, } [ I don't know it's, + I don't know ] that that trend's going to change the single parent type families  /
+sv          A.75 utt3: {C and } the  ((   ))  families, as long as we've got so many other crazy things going on in society. /  
+
+b          B.76 utt1:  Yeah,  /
+sv          B.76 utt2: [ I, + I ] think that eventually [ the, + the ] family unit's just not going to even exist anymore.  /
+sv          B.76 utt3:  ((   ))  like you said the divorce rate is getting so high that I think there's going to be more single parent families than there are, {F um, } {D you know, } two parent families. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+ba          B.78 utt1:  That's pretty sad. /  
+
+aa          A.79 utt1:  Yeah,  /
+aa          A.79 utt2: it is,  /
+sv          A.79 utt3: I guess [ unless, + unless ] there's [ a, + a ] major swing in the change  of what's important to people, {D you know, } probably keep going downhill.  /
+h          A.79 utt4: {C And } I, I don't know  /
+sv          A.79 utt5: [ we, + we ] feel [ like + ] [ that, + that ] we can make it on one income  /
+sv          A.79 utt6: [ it, + it ] may be tough  /
+sv          A.79 utt7: {C but } we may have to give up on [ some, + some ] things. /  
+
+sv          B.80 utt1:  [ I, + I ] think in the long run though your child will benefit from that. /  
+
+b          A.81 utt1:  Yeah. /  
+
+sv          B.82 utt1:  {C And } [ it will, + it will ] make [ the, + the ] strain worthwhile. /  
+
+aa          A.83 utt1:  Yeah,  /
+aa          A.83 utt2: I think so too. /  
+
+fc          @@B.84 utt1:  {D Well, } [ I, + I ] need to go ahead [ and, + and ] wrap it up. /  
+
+fc          A.85 utt1:  Okay. /  
+
+fc          B.86 utt1:  {F Um, } it was really nice talking to you. /  
+
+fc          A.87 utt1:  {D Well, } I've enjoyed it, Stephanie. /  
+
+fc          B.88 utt1:  {C And, }  {F uh, } thanks a lot. /  
+
+fc          A.89 utt1:  Uh-huh. /  
+
+fc          B.90 utt1:  Okay,  /
+fc          B.90 utt2: bye-bye. /  
+
+fc^m          A.91 utt1:  Bye-bye. / 

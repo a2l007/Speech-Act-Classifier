@@ -1,0 +1,200 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2774_1252_1253
+TOPIC#:		332
+DATE:		910503
+TRANSCRIBER:	CAP
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+============================================================================
+  
+
+o          A.1 utt1:  All right,  /
+sd          A.1 utt2: I guess [ our, + we're ] in the process of a home repair right at this point  /
+sd          A.1 utt3: {C because } [ we're, + we're ] painting the outside of our house.  /
+h          A.1 utt4:  I don't know,  /
+sv          A.1 utt5: I guess you would consider that a home repair. /  
+
+b          B.2 utt1:  Huh-uh. /  
+
+sv          A.3 utt1:  Certainly, {F uh, } {F uh, }  /
+sd          A.3 utt2: {C and } interesting enough, this time we're changing the color which makes it an addition.  /
+qw          A.3 utt3:  What is your most recent, -/  
+
+sd          B.4 utt1:  We just  ((   ))  did that, too. /  
+
+qy^g          A.5 utt1:  You did that recently too, uh,? /  
+
+ny          B.6 utt1:  Yes. /  
+
+qy          A.7 utt1:  Does it make a big difference? /  
+
+ny          B.8 utt1:  {F Oh, } yes  /
+sd^e          B.8 utt2: we have brick on the outside  /
+sd          B.8 utt3: [ {C and, } {F uh, } the colors that were there changed the, + {C and } the colors that we painted changed the ] entire look of the house. /  
+
+b          A.9 utt1:  # Huh-uh. # /  
+
+sd          B.10 utt1:  # Completely. # /  
+
+qy^g          A.11 utt1:  That's neat isn't it. /  
+
+ny          B.12 utt1:  Yeah.  /
+sd^e          B.12 utt2:  That was really exciting.  /
+sd          B.12 utt3: It was fun. /  
+
+sd          A.13 utt1:  I was really, really tired of the color.  /
+sd          A.13 utt2:  [ [ That + it's, ] + it's ] helping.  /
+sd          A.13 utt3:  We're not quite through,  /
+sd          A.13 utt4: {C but } [ it's, + it ] really is looking good.  /
+sd          A.13 utt5: {F Uh, } we went through a process [ of, +  of, ] {F uh, } home repairs [ on a, + on a ] rental house we had,  /
+sd          A.13 utt6: probably the most extensive and, {F uh, } the interesting part of it was how much we learned about what we could do.  /
+sd          A.13 utt7:  {F Um, } we didn't have very much money  /
+sd          A.13 utt8: {C and so } we had to do it ourselves in kind of a slow process,  /
+sd          A.13 utt9: {C but } we learned how to [ do, + {F uh, } retile ] bathtubs and, {F uh, } {F oh, } just all kinds of things that are unusual. /  
+
+b          B.14 utt1:  Huh-uh.  /
+sd          B.14 utt2:  {C So } the other thing that we did was the roof of our house. /  
+
+b          A.15 utt1:  Huh-uh. /  
+
+sd          B.16 utt1:  {C And, } {F uh, } we did that a different color also. /  
+
+b          A.17 utt1:  Yeah. /  
+
+sd          B.18 utt1:  Of course, {F uh, } being a woman most of these things were done by the men. /  
+
+b          A.19 utt1:  Huh-uh. /  
+
+sd          B.20 utt1:  [ {C And, } + {F uh, } {C so } ] I wasn't directly involved  /
+sd          B.20 utt2: {C but, } {F uh, } they really were helpful, I know, to our house. /  
+
+qy^g          A.21 utt1:  It's nice to not have a drip through from the roof, isn't it <laughter>. /  
+
+ny          B.22 utt1:  Yeah <laughter>.  /
+ny          B.22 utt2:  Yes <laughter>. /  
+
+ba          A.23 utt1:  <Laughter> That's awful.  /
+sd          A.23 utt2: {F Um, }  (( Howard ))  and I were talking about home repair the other night [ {C and, } + ] {F uh, } in connection with scouting.  /
+sd          A.23 utt3: We've got a scout coming up  /
+sv          A.23 utt4: {C and, } {F uh, } {F uh, } I think it's neat for young people to learn how to, {F uh, } take care [ of their, + of a ] household, {D you know, } like, {F uh, } fixing [ faucets, + dripping faucets, ]   
+
+b          B.24 utt1:  # Huh-uh. # /  
+
++          A.25 utt1:  # and # putting in panes of glass and stuff like that. /  
+
+sd          B.26 utt1:  As a matter of fact, [ one thing, + {A I have a young son  /
+sd          B.26 utt2: {C and } } one thing ] we did, was we had paneling on [ [ the inside of our, + {F uh, } front of our house, ] {E or } the hall way of our house, ] rather,  /
+sd          B.26 utt3: {C and } we were repainting [ the, + the ] front room in the hall there,  /
+sd          B.26 utt4: {C and } we took down that paneling  /
+sd          B.26 utt5: {C and } he helped me  /
+sd          B.26 utt6: [ {C and, } + {C and, } ] {F uh, } [ he was, + it was ] fun to work with him.   
+
+b          A.27 utt1:  Huh-uh. /  
+
++          B.28 utt1:  [ And, + {F uh, } and, ] {F uh, } help putty up the holes together [ and, + and ] do things,   
+
+x          A.29 utt1:  # <Laughter>.  #   
+
++          B.30 utt1:  # like # that. /  
+
+qw          A.31 utt1:  How does the paneling, - /
+qy^d          A.31 utt2: it looks lots better than, - /
+qy          A.31 utt3: do you like it better? /  
+
+na          B.32 utt1:  {F Oh, } I like it so much better.  /
+sd          B.32 utt2:  It makes it so much lighter. /  
+
+b          A.33 utt1:  Yeah. /  
+
+sd          B.34 utt1:  {D You know, } it really does.  /
+sd          B.34 utt2:  {D You know, } {C and } people that have been to my house before and then now really have liked,   
+
+b          A.35 utt1:  # Huh-uh. # /  
+
++          B.36 utt1:  # much # better, too. /  
+
+ba          A.37 utt1:  That's nice. /  
+
+sd          B.38 utt1:  It's been fun. /  
+
+sv          A.39 utt1:  Nice to have it come out positive and [ look, +   
+
+b          B.40 utt1:  # Yeah. # /  
+
++          A.41 utt1:  # look ] # good. /  
+
+aa          B.42 utt1:  Yeah.  /
+aa          B.42 utt2:  Exactly. /  
+
+sd          A.43 utt1:  {D Well, } we have a lot that needs be done.  /
+sd          A.43 utt2:  We have, {F uh, } {F uh, } carpeting,  /
+sd          A.43 utt3: [ {C and, } + {C and } ] we did have a new, {F uh, } floor put in our kitchen.  /
+sd          A.43 utt4:  {C And, } {F um, } I have my mother living with us  /
+sd          A.43 utt5: {C and so } she was in a room with a carpet  /
+sd          A.43 utt6: {C and, } of course, she's quite aged,  /
+sd          A.43 utt7: she's ninety-three now,  /
+sd          A.43 utt8: {C so } that meant she had problems now and then  /
+sd          A.43 utt9: {C and } it was really good to get the carpet out of there and put a linoleum down.  /
+sd          A.43 utt10:  {C So } it was easier to clean and see where the dirt was  /
+sd          A.43 utt11: {C and  <laughter>,   
+
+b          B.44 utt1:  # Huh-uh. # /  
+
++          A.45 utt1:  # so } # that was a really positive, {F uh, } {F uh, } - /
+sd          A.45 utt2: it was fairly expensive though.  /
+sd          A.45 utt3: [ I, + I ] was impressed,  /
+%          A.45 utt4: I think, that, {F uh, } - /
+sd          A.45 utt5: we had somebody do it  /
+sv          A.45 utt6: {C and } [ it was, + it seems ] to me like it's probably more expensive to put down linoleum almost than it is to put down carpet. /  
+
+b          B.46 utt1:  Huh-uh. /  
+
+sv          A.47 utt1:  Kind of depends on the quality of carpet, I suppose, /  
+
+b          B.48 utt1:  # Yeah. # /  
+
+sd          A.49 utt1:  # {C but, } # {F uh, } in the case of the linoleum they have to rip up everything [ and, + and ] fix the floor  /
+%          A.49 utt2: {C so } it's, {F uh, } - /
+h          A.49 utt3: I don't know,  /
+h          A.49 utt4: what ever,  /
+sd          A.49 utt5: {C but } they have to put stuff on the floor  /
+sd          A.49 utt6: {C and } it's, {F uh, } kind of a process.  /
+bf          A.49 utt7:  {D Well, } it sounds like  you have some pretty good experiences [ with, + {F uh, } with, ] {F uh, } {F uh, } home repair. /  
+
+aa          B.50 utt1:  Huh-uh.  /
+aa          B.50 utt2:  We have.  /
+sd          B.50 utt3:  It's been really fun. /  
+
+b          A.51 utt1:  Yeah.  /
+b          A.51 utt2:  All right.  /
+fc          A.51 utt3:  Happy home repairing. /  
+
+fc          B.52 utt1:  Okay.  /
+fc          B.52 utt2:  You too <laughter>. /  
+
+fc          A.53 utt1:  Bye-Bye. /  
+
+fc^m          B.54 utt1:  Bye-Bye. / 

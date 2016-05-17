@@ -1,0 +1,196 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4698_1199_1700
+TOPIC#:		325
+DATE:		920414
+TRANSCRIBER:	nk
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	4
+REMARKS:        There is some light static all the way through but a strong
+line noise or tone on B's side.  B also mumbles and stutters some.
+
+============================================================================
+  
+
+sd          A.1 utt1:  <Noise> {D Actually, } I've been involved in electronics a long time.  {F Uh, } in computers  /
+sd          A.1 utt2: {C and } I have really resisted the impulse to <swallowing> get one for the home.    
+
+b          B.2 utt1:  <Tone> <static> {F Oh } yeah. /  
+
++          A.3 utt1:  {F Uh, } up until, I guess, maybe about a year and a half ago,  /
+sd          A.3 utt2: I got one for my son. [ A, + a ] Macintosh --   
+
+b          B.4 utt1:  Uh-huh. /  
+
++          A.5 utt1:  -- {F uh, } L C.  /
+sd          A.5 utt2:  It's a real easy to use color, {F uh, } computer  /
+sd          A.5 utt3: {C and } I got a very nice printer that goes along with it  /
+sd          A.5 utt4: {C and } he uses it for his school work. /  
+
+b          B.6 utt1:  Uh-huh.  /
+sd          B.6 utt2:  {D Well, } [ I've, + I'm ] currently in school  /
+sd          B.6 utt3: {C so } [ I, + I've ] had an I B M clone, I guess, for a couple of years now, which I've been trying, continually upgrading I guess.  /
+sd          B.6 utt4: {C And, }  {F uh, } [ I've found, + I've found ] that I pretty much become addicted to it  /
+%          B.6 utt5: {C and } I can't really, - /
+sd          B.6 utt6: I've found that most of homework assignments  ((   ))  really require some sort of computer, {F uh, } simulation or  analysis,  /
+%          B.6 utt7: {C so } -- -/  
+
+b          A.7 utt1:  Huh. /  
+
+sd          B.8 utt1:  -- [ it, + it's ] [ pr-, + very ] essential for me.  /
+sd          B.8 utt2:  Schools have them,  /
+sd          B.8 utt3: {F uh, } {C but } lot of times so difficult to get on them at school.  /
+sv          B.8 utt4:  [ It's very easy, + it's much more convenient ] to have one at home. /  
+
+qw          A.9 utt1:  <Lipsmack> Where you going to school? /  
+
+sd          B.10 utt1:  At Georgia Tech. /  
+
+bk          A.11 utt1:  I see. /  
+
+b          B.12 utt1:  Yeah,  /
+%          B.12 utt2: {C so. } -/  
+
+qy^d          A.13 utt1:  In engineering? /  
+
+ny          B.14 utt1:  Yes,  actually. /  
+
+bf          A.15 utt1:  {C So } that explains [ wha-, + ] all the, {F uh, } computer assignments. /  
+
+b          B.16 utt1:  Yeah,  /
+%          B.16 utt2: it, {F uh, } -/  
+
+qy          A.17 utt1:  {D Well, } do you use your P C for things other than explicit computer work? /  
+
+na          B.18 utt1:  {F Um, } sure.  /
+sd^e          B.18 utt2:  I have some games, <noise> of course, which I play on there  /
+sd          B.18 utt3: {C and, } {F uh, } {F uh, } <noise> I have a program which allows me to access a, {F uh, } weather data bank  /
+sd          B.18 utt4: {C so } I can, {D like, }  check up on the weather around the country or whatever (( which is ))  a hobby.  /
+sd          B.18 utt5: {C So, }  it provides other means other than just strict, {F uh, } {D you know, } computations and so on,  /
+qy          B.18 utt6: {C so. } [ Have you, + do you  ] have a computer for yourself at home? /  
+
+nn          A.19 utt1:  <Lipsmack> No.  /
+nn^r          A.19 utt2:  No,  /
+sd^e          A.19 utt3: I just have one for my son  /
+sv          A.19 utt4: {C and } I really sort of have the feeling that word processing is a big market # for # --   
+
+b          B.20 utt1:  # {F Oh, } yeah. # /  
+
++          A.21 utt1:  -- home computing. /  
+
+b^r          B.22 utt1:  Yeah.  /
+%          B.22 utt2:  Tha-, -/  
+
+sd          A.23 utt1: [ At wo-, + at work, ] {F uh, } <laughter> I'm a technologist, {F uh, }  /
+sd          A.23 utt2: {C and } I, in the past, have done a great deal [ of, + of, ] {F uh, } system development just through, {F uh, } software development programming.  /
+sd          A.23 utt3:   {F Uh, } {C but } now I find myself using the computer,  /
+sv          A.23 utt4: even the computer at work is primarily a, {F uh, } word processing system --   
+
+b          B.24 utt1:  Uh-huh. /  
+
++          A.25 utt1:  -- and a communication system. /  
+
+b          B.26 utt1:  Yeah,  /
+b^r          B.26 utt2: yeah.  /
+qy          B.26 utt3:  Do you use Email and like that? /  
+
+ny          A.27 utt1:  Yes.  /
+sd          A.27 utt2:  Emil [ is, + probably pulls ] down a third [ a-, + of ] all my time. /  
+
+b          B.28 utt1:  Yeah.  /
+%          B.28 utt2:  It's, - /
+sd          B.28 utt3: [ [ I, +  + I, ] + {F uh, } I ] have modem  ((   ))  night computer  /
+sd          B.28 utt4: {C so } I can log into [ the sys-, + the, {F uh, } network ] at Georgia Tech and access my account through there, [ which is, + which ] can be useful.  /
+%          B.28 utt5:  {C But, }  {F uh, } yeah  /
+%          B.28 utt6: [ that's, + that ] and word processing is - /
+sd          B.28 utt7: (( while )) I tend to, - /
+sd          B.28 utt8: {E I mean, } obviously, I do [ most of my, + almost all of my ] report <noise> writing [ on, + on ] my computer, {F uh, } whether it's term papers or even some smaller homework assignments. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sd          B.30 utt1: {C So } [ it's, + it's ] [ really become, + I don't know, really become ] my mainstay I guess.  /
+h          B.30 utt2: I can't even remember,  /
+sd          B.30 utt3: {D actually } I don't think I've ever used a typewriter [ in, + in ] my life [ to do  [ a, + a ] + to do a ] report. Because my family, when I was growing up, we got a basic computer.  T R S Eighty when they first came out. /  
+
+b^r          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  {C And } I even used that to do my first reports when I was in junior high,  /
+%          B.32 utt2: {C so } <noise>. -/  
+
+sd          A.33 utt1:  {F Huh. } {D Well } I'm a old-timer.  /
+sd          A.33 utt2:  I did my Master's thesis on, {F uh, } a typewriter. /  
+
+b          B.34 utt1:  {F Oh, } yeah. /  
+
+sd          A.35 utt1:  {F Uh, } I rented an I B M Selectric. /  
+
+b          B.36 utt1:  Oh. /  
+
+sd          A.37 utt1:  {C And } it was a pretty big deal. /  
+
+b          B.38 utt1:  Yeah.  /
+ba          B.38 utt2:  It must have been tough.  /
+sv          B.38 utt3:  It's a little bit strange for me.  /
+sd          B.38 utt4: [  I, + I ] did my Master's thesis, {F uh, } last year  /
+sd          B.38 utt5: {C and } I did that on a computer  /
+sv          B.38 utt6:  {C and }  it seems like, - /
+sd          B.38 utt7: I just can't imagine  how people did it before.  /
+sv          B.38 utt8:  It must have been just [ so much, + so much ] work <noise>. /  
+
+aa          A.39 utt1:  Yeah.  /
+sv          A.39 utt2: [ [ It, + {F uh, } {D well, } {D you know, } it's just, ] + it was just ] a completely different world then. /  
+
+b          B.40 utt1:  Yeah.  /
+qy          B.40 utt2:  [ {C So, }  + {F uh, }  ((   ))  {C so } ] [ yo-, +  you ] used your son's Macintosh then?  /
+qy          B.40 utt3: [ [  Do you, + do you find it, ] + do you like ] that kind of computer? /  
+
+na          A.41 utt1:  I like it,  /
+ny          A.41 utt2: yeah.  /
+sd          A.41 utt3:  I like it from a distance really.  /
+sd          A.41 utt4: [  I, + I ] see the packages on it, {F uh, } that are available  /
+sv          A.41 utt5: {C and } it's nice.  /
+sd          A.41 utt6:  I really don't use it myself. /  
+
+b          B.42 utt1:  Uh-huh. /  
+
+sd          A.43 utt1:  {F Uh, } [ I, + when I ] come home from work, [ I, + I ] like to stay far away from --   
+
+b          B.44 utt1:  Yeah. /  
+
++          A.45 utt1:  -- computers and electronic things <laughter>. /  
+
+b          B.46 utt1:  Huh. /  
+
+sd          A.47 utt1:  {F Uh, } {C so } I let my son do it  /
+sv          A.47 utt2: {C and, }   
+
+b          B.48 utt1:  Yeah. /  
+
++          A.49 utt1:  {F Uh, } of course, {D you know, } [ there's, + {F uh, } there's ] an intellectual evolution taking place where, - /
+h          A.49 utt2: it's sort of a joke  /
+sv          A.49 utt3: {C but } it's really true,  /
+sv          A.49 utt4: the old-timers, even the people who are technologists don't know how to operate these electronic things like V C R -s and whatnot  /
+sv          A.49 utt5: {C and } the kids, they just take to it like candy. /  
+
+b          B.50 utt1:  Yeah.  /
+sv          B.50 utt2:  {D Well, } [ [ [ i-, +  if, ] + if, ] + if ] the interface is there so that it's {D like } fun to use  {C and } the challenge </tone> </static>, -/ 

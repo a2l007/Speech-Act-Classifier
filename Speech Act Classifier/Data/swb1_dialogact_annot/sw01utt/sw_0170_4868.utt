@@ -1,0 +1,206 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4868_1165_1701
+TOPIC#:		357
+DATE:		920429
+TRANSCRIBER:	nk
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+============================================================================
+  
+
+sd          A.1 utt1:  Budgeting activity in our household  (( [ I, + ] [ has )) +    is, ] {F uh, } {F uh, } kind of an informal kind of situation.  /
+sd          A.1 utt2: [ We, + we, ]  {D you know, } put, - /
+sd          A.1 utt3: actually what happens [ is, + {F uh, } is, ] my check gets automatically deposited.  /
+sd          A.1 utt4:   I don't even have the glories of bringing home my check anymore.  /
+sd^r          A.1 utt5:   # It just gets deposited.  /
+sd          A.1 utt6: [ [ {C And, }  # +   
+
+x          B.2 utt1:  # <Laughter>. #   
+
++          @A.3 utt1: <Laughter> {C and, } ] + {C and } ]  [ my, + my ] wife, {D you know, } {D you know, }  looks at all those bills that come in  /
+sd          @A.3 utt2: [ {C and, } + {D you know, } {C and } ]  all those people are counting on me to have my wife pay them. {D You see, }  /
+sd          @A.3 utt3: {C and so }  [ our, + our ] budgeting, - /
+sd          @A.3 utt4: [ w-, + we ] really don't have a formal budgeting situation.  /
+sd          @A.3 utt5:  Every time I've ever tried one,  [ it's, + ] {F uh, }  I've just got wrapped in my inertia.  /
+sd          @A.3 utt6:   {C And, }  {F uh, } I've just decided not to pursue it.  /
+qw          @A.3 utt7: {F Uh, } [ what, + what's ] your budget situation? /  
+
+sd          B.4 utt1:  {D Well, } actually, {F uh, } [ I've, + I've ]  had a couple of different situations.  /
+sd          B.4 utt2: My current one has been the most successful.  /
+sd          B.4 utt3: {F Uh, }  at a certain point in life - /
+sd          B.4 utt4:  {C an-, } [ my husband, + my ex-husband ] was an alcoholic.  /
+sd          B.4 utt5:  {C And } we got divorced back in the mid-seventies  /
+sd          B.4 utt6: {C and } that left me with three teenagers. /  
+
+qy^g         A.5 utt1:  {D You know, } {D well } [ [ a-, + a-, ] + actually ]  that kind of situation is just wonderful for budgets.    
+
+aa          B.6 utt1:  <Laughter> It certainly is <laughter>. /  
+
++          A.7 utt1:  Isn't it? /  
+
+sd          B.8 utt1:  {C But } at any rate, what happened was that  [ I, + I ] just absolutely put away all the credit cards.  /
+sd          B.8 utt2: I didn't rip them up.  /
+sd          B.8 utt3:   I didn't send them back.  /
+sd          B.8 utt4:  Nothing.  /
+sd          B.8 utt5: I just put them away.  /
+sd          B.8 utt6:  {C Because } there was one that  it was really handy to have.  /
+sd          B.8 utt7: If I absolutely had to have something, I could go use it. /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1:  {C But, }  {F uh, } mostly we just spent cash.    Whatever we had.  /
+sd          B.10 utt2: {C And } if we didn't have it, we absolutely didn't spend it.  /
+sd          B.10 utt3:  {C But then, } as things improved, {D you know. } - /
+sd          B.10 utt4: [ Once, + once ] I got them all through  college, {F uh, } it came to the point where, {F uh, } - /
+sd          B.10 utt5: my parents came through the depression.  /
+sd          B.10 utt6:   I'm not sure how old you are. /  
+
+sd          A.11 utt1:  {D Well, } [ [ my, + {D you know, } my, ] + my ]  parents too.  /
+qy^d          A.11 utt2: # [ [ You, + you # -- ] +   
+
+%          B.12 utt1:  # {C But } my, # -/  
+
++          A.13 utt1:  -- you ] were born [ [ in, + in ] the,  + in the ]  late thirties or # early forties. # /  
+
+sd          B.14 utt1:  # Late thirties,  /
+%          B.14 utt2: yeah. #  /
+%          B.14 utt3:  # Uh-huh. # /  
+
+b          A.15 utt1:  # Yeah. # /  
+
+sd          B.16 utt1:  {C And, }  {F uh, } my mother hardly  ever spent anything on herself or on the house.  /
+sd          B.16 utt2: {C And } that's kind of the way I was raised.  /
+sd          B.16 utt3:   {C And so } I'm not a very demanding person [ in, + in ] that aspect.  /
+sd          B.16 utt4: {D So } for quite  a period of time, I just flat didn't spend any money. /  
+
+%          A.17 utt1:  {F Um. } /  
+
+sd          B.18 utt1:  {D Now, } meanwhile, I [ got, + had ] [ a, + a ]  building bank balance.  /
+sd          B.18 utt2:  {C And } my intent was that whenever something went on sale that I really had to have, I would have the cash to buy it right then and there.    
+
+sd          A.19 utt1:  Uh-huh. /  
+
++          B.20 utt1:  And not ever have to spend any money on interest. /  
+
+ba          A.21 utt1:  {D Well, } [ that, + that's  ] good. /  
+
+sd          B.22 utt1:  {C And } [ that, + that's ] the way I've  operated ever since then.  /
+%          B.22 utt2:  It, - /
+sd          B.22 utt3: {C and } {D you know, } [ if, + if ] something goes on sale  and I don't have the money, I still don't buy it. /  
+
+sd          A.23 utt1:  <Noise> {D Well, } [ we, + we ] buy what, {D well, } - /
+sd          A.23 utt2:  we just got through buying a twenty-five foot refrigerator, a new ceramic top stove,  and a new dishwasher. /  
+
+ba          B.24 utt1:  {F Oh } my # <laughter>. # /  
+
+sd          A.25 utt1:  # [ {C And, } + {C and } ] we put #  twenty-eight hundred dollars on the charge.  Along with my trip to Japan --   
+
+ba          B.26 utt1:  {F Oh } my! /  
+
++          A.27 utt1:  -- which [ was, + was ] fourteen or  fifteen hundred dollars #  /
+%          A.27 utt2: {F and } {D you know. } # -/  
+
+ba          B.28 utt1:  # {F Oh } my. # /  
+
+aa          A.29 utt1:  Right.  /
+sd          A.29 utt2: {E I mean, } [ we just, + we ]  got a monster, {D you know, } bill coming in.  /
+sd          A.29 utt3: [ {C But, } + {C but } ] we also have zero [ in-, + interest ]  being paid.  /
+sd          A.29 utt4: {C And } we pay it off [ as, + as ] it goes. /  
+
+b          B.30 utt1:  Uh-huh.  /
+sd          B.30 utt2:  {C And } that's the way I do my credit cards now. /  
+
+b          A.31 utt1:  Yeah.  /
+sd          A.31 utt2: {C So } we never really get that  much [ over, + {F uh, } over ] extended. /  
+
+b          B.32 utt1:  Yeah.  /
+sd          B.32 utt2: I do almost all my purchasing on credit cards. /  
+
+%          A.33 utt1:  {F Huh. } /  
+
+sd          B.34 utt1:  {C But } it's the fact that I have enough  [ of a, + of a ] cushion in the bank so that when they come, I can pay them in full. /  
+
+b          A.35 utt1:  Yeah.  /
+sd          A.35 utt2: [ We're, + we're ] doing that.  /
+sd          A.35 utt3:  We have, {D you know, } {F uh, } - /
+sd          A.35 utt4: [ th-, + this ] is  [ [ our, + our, ] + our ] big, {F uh, } - /
+sd          A.35 utt5:   we did redecorating.  /
+sd          A.35 utt6:  [ Two, + {D you know, } two ] new pieces [ in the  ref-, +  in the family ] room and new carpet.  /
+sd          A.35 utt7: {E I mean } #  [ we just # -- +   
+
+ba          B.36 utt1:  # {F Oh } my. # /  
+
++          A.37 utt1:  --  {F uh, } we've just ] been spending, spending, spending. /  
+
+sd          B.38 utt1:  <Laughter> I'm envious <laughter>.  /
+%          B.38 utt2: # {D Well } I, # -/  
+
+sd           A.39 utt1:  # [ {C Bu-, } + {C but } ] we haven't #  really done anything for a long time because [ we've, + we've ] had two kids in college that --   
+
+b          B.40 utt1:  Uh-huh. /  
+
++          A.41 utt1:  -- just have graduated in the past year.  /
+sd          A.41 utt2:   {D So } [ we're, + {D you know, } # we don't ] have that. # /  
+
+qy^g          B.42 utt1:  # It's time # for you to do these things then.  Right? /  
+
+ny          A.43 utt1:  Yeah,  /
+sd^e          A.43 utt2: [ it's, + {F uh, } it's ]  about time that we did that.  /
+sd@          A.43 utt3: {C But, }   [ [ th-, +  the, ] + the ] terrible part about it.  I've looked at it all  /  *[[ Seems to be clearly 2 slash units. ]]
+sd          A.43 utt4: {C and } it all looks still pretty good to me.  /
+qh          A.43 utt5: [ Why, + why ] <laughter> we need to replace it? /  
+
+x          B.44 utt1:  <Laughter>.   
+
+sd           A.45 utt1: [ {C But, } + {C but, } ]  <laughter>  [ un-, + unfortunately ] [ [ my, + my, ] + my ] wife really <<mispronounced>> feels as though  [ it's, + it's ] just been an inappropriate, {F uh, } thing [ to, + to, ] {E I mean } - /
+^q          A.45 utt2:  that rug is thirteen years old,  /
+^q          A.45 utt3: why not replace it.  /
+sd(^q)       A.45 utt4:  {E I mean, } {F uh, } I say it might go for another thirteen  /
+sd          A.45 utt5:  {C but, }  {F uh, } too late, we'll never find that out. /  
+
+ba          B.46 utt1:  <Laughter> This is so funny.  /
+ba          B.46 utt2:  That's wonderful. #  /
+sv          B.46 utt3: {C But } # --   
+
+%          A.47 utt1:  # {C And, }  # -/  
+
++          B.48 utt1:  -- you're lucky to have her because  if you're like me and you have difficulty spending money, you need  somebody to help you spend it.  /
+sv          B.48 utt2: {E I mean, } certain things really do need to be done whether  or not you think they should,   
+
+x          A.49 utt1:  <Sneezing>.   
+
++          B.50 utt1:  be or not <laughter>. /  
+
+sd          A.51 utt1:  {D You know, } [ [ I, + I, ] + <noise> I ]  don't spend that much money.  /
+sd          A.51 utt2: [ I just, + {F uh, } we just ] sort of have had, {F uh, } {D you know, }  too many obligations to, {D you know, } - /
+sd          A.51 utt3: we sort of take care of the kids when they were school   and [ they, + they ] got through school.  /
+sd          A.51 utt4: {C And } that was the major, {D you know, }  decade of expenses, {D you know. }  /
+%          A.51 utt5:  {C So } [ we, + we ]   feel as, {F uh, } - /
+sd          A.51 utt6: {C but } as far as any  formal budgeting, {F uh, } {D you know, } [ [ I, + I, ] + we ] just apparently have been very fortunate.  /
+sd          A.51 utt7:  When we [ went, + want ] to go out to eat, we go out to eat.  /
+sd          A.51 utt8:  We never really, <pounding>  {D you know, } have to program money for that or make choices, {D you know. }  /
+sd          A.51 utt9:   {C But, }  {F uh, } we don't have that uproarious [ a, +  a ] lifestyle.  /
+%          A.51 utt10:  After all, we're, -/ 

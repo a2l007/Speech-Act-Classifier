@@ -1,0 +1,253 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3040_1279_1188
+TOPIC#:		340
+DATE:		910610
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        First conversation was okay.  Speaker B was really
+disjointed.  
+
+==========================================================================
+  
+
+%          A.1 utt1:  {D Well, } we,  {F uh, } - /
+%          A.1 utt2: taxes, - /
+sv          A.1 utt3: everyone thinks taxes are too high I'm sure.   /
+sv          A.1 utt4: {C But, }  {F uh, } I think we do get quite a good value for the tax dollars we spend in most cases.  /
+qo          A.1 utt5: What do you think? /  
+
+aa          B.2 utt1:  {F Uh, } yeah,  /
+aa          B.2 utt2: [ I, + I ] think so.  /
+sv          B.2 utt3: [ [ [ I, + I'm, ] + {F uh, } I think I'm, ] + I think I'm, ] {F uh, } a little out of the ordinary in [ that, + that ] [ [ I, + I, ] + {F uh, } I ] think I'm more worried about [ the deficit, + the national deficit ] [ than, + than, ] {F uh, } a lot of other people are and think that [ we need to, + we need to ] either raise our taxes [ or, + or ] cutback on something  /
+sd          B.2 utt4: {C and } I don't know what to cutback on [ [ [ to, +   
+
+sv          A.3 utt1:  <Laughter> At this stage it's # hard, to tell. # /  
+
++          B.4 utt1:  # to get, ] + to get that, ] + # to get that ] settled.   /
+sd          B.4 utt2: [ [ {C And, } + {C and, } ] + {F uh, }   
+
+x          A.5 utt1:   <Throat_clearing>.   
+
++          B.6 utt1:  {C and, } ]  {F uh, } I know I'm [ [ a real, + [ a + ] real, ] + ] {F uh, } out of it in terms of taxes  /
+sv          B.6 utt2: {C so }  [ I'm no-, + I'm, ] {F uh, } think that [ the, + ] we really ought to seriously consider what an income tax might do [ that, + {F uh, } for ] Texas  /
+%          B.6 utt3: [ {C and, } + {C and, } ] -/  
+
+sv          A.7 utt1:  {D Well, } at this stage I think we've taxed property almost to the limit because,   
+
+aa          B.8 utt1:  # Yeah.  /
+aa          B.8 utt2:  I think so. # /  
+
++          A.9 utt1:  # {D like } [ the, + the ] property # taxes on the homes have reached the point that it's precluding people from being able to own a home because of the cost of the taxes on them. /  
+
+b          B.10 utt1:  Yeah. /  
+
+sv          A.11 utt1:  I know  /
+sd          A.11 utt2: I live in Richardson -- /  
+
+b          B.12 utt1:  Yeah. /  
+
+sd          A.13 utt1:  -- {C and } it's up over two thousand dollars a year for taxes on my house. /  
+
+b          B.14 utt1:  Yeah,  /
+b^r          B.14 utt2: yeah. /  
+
+sd          A.15 utt1:  {C But } now we're getting public services, the schools, the hospitals  /
+sv          A.15 utt2: {C and } if it weren't for the taxes we're putting in there, {F uh, } look what the schools could cost you. /  
+
+aa          B.16 utt1:  Yeah,  /
+aa^r          B.16 utt2: yeah.  /
+aa^r          B.16 utt3: Yeah,  /
+%          B.16 utt4: now  [ I'm, + {F uh, } {F uh, } {F oh, } I, ] - /
+sd          B.16 utt5: [ we'd, + when we ] moved to [ R-, + Richardson, ] one of the reasons we chose it was [ for the, + {F uh, } for the ] schools.  [ And, + and ] realizing that [ [ that, + that, ] + that ] quality of schools might well have higher taxes than other places  but that we were willing [ to, + {F uh, } to ] go for that,   
+
+b          A.17 utt1:  # Yeah.  # /  
+
++          B.18 utt1:  # because # we supported the, -/  
+
+sv          A.19 utt1:  Then again [ the, + the ] community college system here is excellent for the dollar spent,  /
+sv          A.19 utt2: {C and } the public,   
+
+b          B.20 utt1:  # Yeah.  # /  
+
++          A.21 utt1:  # colleges # also, the tuition has got to be among the lowest in the country.   /
+%          A.21 utt2: {F Uh, } /  
+
+b          B.22 utt1:  # Yeah.  # /  
+
+%          A.23 utt1:  # one # of the, - /
+sd          A.23 utt2: {F uh, } [ I believe, + I don't know ] which one it is, {F uh, } down there whether it's Hobby or, {F uh, } <lipsmack> the other ex-governor down there that are proposing doubling the tuition.  /
+sv          A.23 utt3:  {D Well } if you double the tuition, it would still be considerably less than the public school tuition in most other states. /  
+
+aa          B.24 utt1:  Yeah,  /
+aa          B.24 utt2: I think that's right. /  
+
+b          A.25 utt1:  Yeah.  /
+sv          A.25 utt2:  That would provide, {F uh, } possibly some relief there to utilize some of the property taxes for other things, {D see. } /  
+
+b          B.26 utt1:  Yeah. /  
+
+sv          A.27 utt1:  The so-called  (( sin ))  taxes on liquor and the cigarettes and such as that generate a considerable amount,  /
+sv          A.27 utt2: {C but } [ I p-, + eventually I ] think you may tax people out of smoking even. /  
+
+x          B.28 utt1:  <Laughter>.   
+
+x          A.29 utt1:  <Laughter>.   
+
+ar          B.30 utt1:  <Noise> [ [ I, + I don't, ] + I don't ] know about that,  /
+%          B.30 utt2:  [ I, + <laughter>  I, ] -/  
+
+b          A.31 utt1:  Yeah <laughter>.  /
+sd          A.31 utt2:  {D Well, } I quit ten years ago  /
+sd          A.31 utt3: {C so } <laughter>  [ I, +   
+
+b          B.32 utt1:  # I see.  /
+b          B.32 utt2:  Okay.  /
+b          B.32 utt3: No, {F uh, } # /  
+
++          A.33 utt1:  # I ] couldn't afford to start # again <laughter>. /  
+
+b          B.34 utt1:  Yeah,  /
+aa          B.34 utt2: {D well, } [ [ that, + that, ] + that ] would be true.  /
+aa^r          B.34 utt3:  That would be true.   /
+%          B.34 utt4: {C But, } -/  
+
+sd          A.35 utt1:  I know,  {F uh, }  /
+sd          A.35 utt2: my children would give up eating before they gave up their cigarettes I think. /  
+
+b          B.36 utt1:  {F Huh. } /  
+
+sv          A.37 utt1:  {C But } all the various taxing authorities that come through, I think the one tax I resent the most though is the additional sales tax for DART which is probably never going to be in existence in my lifetime. /  
+
+aa          B.38 utt1:  Yeah,  /
+sv          B.38 utt2: [ {C and, } + {C and } ] even if it is, isn't going to, {F uh, } {F uh, } provide you with [ any, + any ] services in that it's not doing to provide a route from [ your, + your ] home to a business, for instance, {D you know. } /  
+
+sv          A.39 utt1:  {D Well, } [ this, + this ] is a thing  /
+sv          A.39 utt2: I think it's like, {F uh, } back east.  /
+sv          A.39 utt3:  You had to start your public transportation when you started your cities.  /
+sv          A.39 utt4:  You can't come in afterward and really be successful or economical at it.  /
+sv          A.39 utt5:  If we had been like  a Chicago or a New York City or Philadelphia or someone like that,   
+
+b          B.40 utt1:  # Yeah.  # /  
+
++          A.41 utt1:  # and # had a public transportation system starting in the horse and buggy days --   
+
+b          B.42 utt1:  Yeah. /  
+
++          A.43 utt1:  -- and when land was cheap and, {F uh, } construction costs were cheap, you could afford it.   /
+sv          A.43 utt2: {C But } now,   
+
+%          B.44 utt1:  # {C And, }  # -/  
+
++          A.45 utt1:  # digging # tunnels under Central Expressway and things like that becomes cost prohibitive. /  
+
+aa          B.46 utt1:  Yeah,  /
+sv          B.46 utt2: {C and } the other thing is that [ when it, + when ] [ it's, + the public transportation is ] established that early on [ then, + then ] the [ business, + {F uh, } business ] and residential patterns develop to take advantage of that. /  
+
+aa          A.47 utt1:  Absolutely. /  
+
+sv          B.48 utt1:  Whereas [ [ in, + in, ] + {F uh, } in ] Dallas here [ [ we've, + we've  got, ] + ] {F uh, } those patterns were well established [ before, + before ] we really [ tried to, + tried to ] do the DART.  /
+sv          B.48 utt2: {C And, }  {F uh, } for instance [ all the, + all [ the, + the, ] ] {F uh, } office buildings and stuff that are out here [ in, + in, ] {F uh, } north Dallas as opposed to downtown, - /
+sv          B.48 utt3: {F uh, } [ to try to, + to try to ] provide efficient transportation from everywhere around [ the, + the ] metroplex [ to, + to, ] {F uh, } both those centers [ of, + of ] business plus everything else that's scattered around here and there as opposed to having a concentrated business area.    
+
+b          A.49 utt1:  Yeah. /  
+
++          B.50 utt1:  {D You know, } like New York does, - /
+%          B.50 utt2: yeah. /  
+
+aa^m          A.51 utt1:  Yeah,  /
+sv          A.51 utt2: just take like in Chicago where the people depend on the public transportation system to get them everywhere. /  
+
+b          B.52 utt1:  Yeah. /  
+
+%          A.53 utt1:  New York - /
+sv          A.53 utt2: {C and } some,   
+
+b          B.54 utt1:  # Yeah.  # /  
+
++          A.55 utt1:  # people # don't even own a car and know how to drive a car. /  
+
+aa          B.56 utt1:  Right,  /
+aa^r          B.56 utt2: right. /  
+
+sd          A.57 utt1:  Someone made the analogy, {F uh, } with Texans as being like the old cowboys and  their horse.  /
+sd          A.57 utt2:  An old cowboy would jump on his horse to go across the street.  /
+sv          A.57 utt3: {D Well, } most Texans will jump in their car to drive across the street. /  
+
+b          B.58 utt1:  Yeah. /  
+
+sd          A.59 utt1:  {C And } I'm just as guilty as anyone else. /  
+
+b          B.60 utt1:  {F Oh, } yeah.  /
+b^r          B.60 utt2:  Yeah. /  
+
+sd          A.61 utt1:  I drive to work every day by myself, {F uh, } without [ even, + even ] any thought of car pooling. /  
+
+b          B.62 utt1:  Yeah,  /
+b          B.62 utt2: right. /  
+
+sv          A.63 utt1:  <<Very faint>> {C And, }  {F uh, } most people are that way.    
+
+aa          B.64 utt1:  Yep. /  
+
++          A.65 utt1:  Because they're used to not having public transportation. /  
+
+b          B.66 utt1:  Yeah. /  
+
+sd          A.67 utt1:  {C So, }  {C but } [ I, +   
+
+b          B.68 utt1:  # Yeah.  # /  
+
++          A.69 utt1:  # here # again I ] think  ((   ))  I resented where they were collecting the sales tax for five years before they turned a spade of dirt.    
+
+b          B.70 utt1:  Yeah. /  
+
++          A.71 utt1:  [ So + ] and doing all these studies and the things  /
+sd          A.71 utt2: we saw about them traveling to San Francisco to see whether they wanted ten foot wide or twelve foot wide cars or something. /  
+
+x          B.72 utt1:  <Laughter>.   
+
+sv          @@A.73 utt1:  <Laughter> I felt that was a little, {F uh, } wasteful use of the tax dollars that we were paying, {D you know. } /  
+
+aa          B.74 utt1:  A little bit much.  /
+aa          B.74 utt2:  {F Oh, } yeah.  /
+aa          B.74 utt3: Yep.  /
+aa^r          B.74 utt4: Yep.  /
+%          B.74 utt5: {F Oh, } the c-, -/  
+
+fc          A.75 utt1:  {D Well, } that's about all I can say at this time. /  
+
+fc          B.76 utt1:  Yeah,  /
+fc          B.76 utt2: [ I th-, + I think ] so,  /
+fc          B.76 utt3: I think that will probably do it,  /
+%          B.76 utt4: {C so. } -/  
+
+fc          A.77 utt1:  Okay,  /
+fc          A.77 utt2: it's been real nice talking with you. /  
+
+fc          B.78 utt1:  Good enough. /  
+
+fc          A.79 utt1:  Bye. /  
+
+fc^m          B.80 utt1:  Bye. / 

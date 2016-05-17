@@ -1,0 +1,342 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4940_1423_1662
+TOPIC#:		302
+DATE:		920508
+UTT_CODER:	lsh
+TRANSCRIBER:	nk
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:         None
+
+============================================================
+  
+
+o          A.1 utt1:  Okay <children>. /  
+
+b          B.2 utt1:  Okay Carol.  /
+sd^t          B.2 utt2:  {D So, } air quality. /  
+
+b          A.3 utt1:  Yeah.  /
+%           A.3 utt2:  Is it, <noise> <<sounds like water  running and she is doing dishes>> - /
+sd          A.3 utt3: I know in here, {F uh, } downtown Dallas, [ it's, + ] [ you, +  {E I mean } you ] drive by and [ you can just, + you can ] see it. /  
+
+b          B.4 utt1:  Uh-huh. /  
+
+sd           A.5 utt1:  {C But, } then again <throat_clearing> I originally was  from California  /
+sd           A.5 utt2: {C and, } {F uh, } there is a big difference between Texas and California.  /
+sd          A.5 utt3:   # {C And, } {F uh } # --   
+
+aa          B.6 utt1:  # Surely. # /  
+
++           A.7 utt1:  -- they'd have their smog alerts and where you'd have to  stay indoors for so many hours with an air conditioner.  /
+sd          A.7 utt2: {C And, } of course,  they don't have that here in Texas  /
+%          A.7 utt3: {C so, } <breathing> there's ... -/  
+
+qy           B.8 utt1:  You mean they don't have [ the, + {F uh, } the ] smog alerts? /  
+
+nn          A.9 utt1:  No,  /
+sd^e           A.9 utt2: [ [ not in, + not in Te-, ] + {D well } not in ] Dallas, that is. /  
+
+b          B.10 utt1:  Right.  /
+sd          B.10 utt2:  [ [ I, + I, ] +   
+
+x          A.11 utt1:  <throat_clearing>.   
+
++           B.12 utt1:  {D yeah, }  I ] spent a summer [ [ i-, + i-, ] + in ]  Tyler  so I know, just east of Dallas there. /  
+
+b          A.13 utt1:  Yeah.  /
+sd          A.13 utt2:  We're going there tomorrow. /  
+
+bh          B.14 utt1:  {F Oh, } really # <laughter>. # /  
+
+ny          A.15 utt1:  # Uh-huh  /
+sd          A.15 utt2: <laughter>. #  # We're # --   
+
+b          B.16 utt1:  # Yeah. # /  
+
++          A.17 utt1:  -- packing and getting ready to go #  (( to ))  # . -/  
+
+sd          B.18 utt1:  # {D Actually, } # I'm a California born person. /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sd          B.20 utt1:  I was born in L A  /
+sd          B.20 utt2: {C so } I know what you're talking  about.  /
+sd          B.20 utt3: # In L A, it's pretty bad. # /  
+
+b          A.21 utt1:  # Yeah.  /
+bk          A.21 utt2:  {F Oh, } okay. #  /
+%          A.21 utt3:  Yeah,  /
+sv          A.21 utt4: you do then. /  
+
+sd           B.22 utt1:  <breathing> {F Uh, } the worst city [ in the, + in the ]  world is actually, {F uh, } Mexico City. /  
+
+qy          A.23 utt1:  Is it really? /  
+
+ny          B.24 utt1:  Yes. /  
+
+sd          A.25 utt1:  I would not imagine that. /  
+
+sd          B.26 utt1:  The worst one for smog is Mexico City. /  
+
+b          A.27 utt1:  Huh. /  
+
+sd          B.28 utt1:  The most polluted city in the world <laughter>. /  
+
+b          A.29 utt1:  Huh.  /
+ba          A.29 utt2:  # You learn # --   
+
+%          B.30 utt1:  #  ((   )) . #   
+
++          A.31 utt1:  -- something every day. /  
+
+b          B.32 utt1:  Yeah.  /
+sd           B.32 utt2:  I know that [ they've, + they're ]  looking at, {F uh, } {F uh, } {D you know, } {F uh, } {D you know, }  better running automobiles. /  
+
+b          A.33 utt1:  <hum> Uh-huh.  /
+b          A.33 utt2:  Yeah,  /
+sd          A.33 utt3: I've seen that. /  
+
+sd           B.34 utt1:  {F Uh, } some things they do, [ w-,  w-, + ] one of them is they're using corn in fuel. /  
+
+b          A.35 utt1:  Huh. /  
+
+qy          B.36 utt1:  You ever heard of that? /  
+
+nn          A.37 utt1:  Huh-uh. /  
+
+b          B.38 utt1:  Yeah.  /
+qy          B.38 utt2:  Methanol? /  
+
+b          A.39 utt1:  Huh.  /
+nn          A.39 utt2: No <squeak>. /  
+
+b          B.40 utt1:  Yeah.  /
+sd           B.40 utt2:  {D Well } that's big up here because [ of the, + ]  they grow a lot of corn <laughter>. /  
+
+b          A.41 utt1:  {F Oh, } yeah  /
+x          A.41 utt2: # <laughter>. #   
+
+x          B.42 utt1:  # <laughter>. #   
+
+b          A.43 utt1:  Yeah. /  
+
+sd       B.44 utt1:  <swallowing> {F Uh, } that's one thing that they do./
+sd          B.44 utt2:  At that, it's pretty easy to do. /  
+
+b          A.45 utt1:  Uh-huh. /  
+
+%          B.46 utt1:  {C And } the, {F uh, } - /
+sd           B.46 utt2:  unfortunately, it still contributes to global warming cause, you have to, {D you know, } wipe out forests to grow corn and # things like that. # /  
+
+aa          A.47 utt1:  # Yeah,  /
+aa          A.47 utt2: that's true. # /  
+
+sv          B.48 utt1:  It doesn't make sense.  /
+%          B.48 utt2: {F Uh, } <sigh> {C but }  it's, {D you know, } - /
+sd           B.48 utt3: one of the most, {F uh, } productive crop in the # world # --   
+
+b          A.49 utt1:  # Right. # /  
+
++          B.50 utt1:  -- is corn. /  
+
+b          A.51 utt1:  Huh.  /
+sd          A.51 utt2: {C And, } of course, I doubt if there's  any, - /
+sd          A.51 utt3: you can buy regular anymore. - /
+sd          A.51 utt4:  You buy unleaded.  /
+^g          A.51 utt5:  Right? /  
+
+ny          B.52 utt1:  Yeah. /  
+
+b          A.53 utt1:  Yeah.  /
+%          A.53 utt2:  Huh. /  
+
+sd          B.54 utt1:  Drive cars with catalytic converters,   
+
+x          A.55 utt1:  <throat_clearing>.   
+
++          B.56 utt1:  and all that.  /
+sv          B.56 utt2: It's interesting.  /
+sd          B.56 utt3: [ They're, + they're ]  looking at, - /
+sd           B.56 utt4: there's some work being done on, {F uh, } automobiles that are  electrical powered <child_talking> <talking>. /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+sd          B.58 utt1:  {C And, } {F uh, }   
+
+x          A.59 utt1:  <static>.   
+
++           B.60 utt1:  they're looking at where you have a battery operated car basically,  /
+sd          B.60 utt2: {C but } it has [ a, + a ] engine in the back --   
+
+b          A.61 utt1:  Uh-huh. /  
+
++          B.62 utt1:  -- that charges it.  /
+sd           B.62 utt2: {C So } the engine kicks on  when the batteries need power  /
+sd          B.62 utt3: {C and } it turns off. /  
+
+b          A.63 utt1:  Uh-huh. /  
+
+sd            B.64 utt1:  Interesting thing about [ gas is when, + ] {E I mean, }  about battery powered cars is when you're at a stop light, you're not using  [ any  <<mispronounced>> +  any ] energy </child_talking> </talking>. /  
+
+b          A.65 utt1:  Huh <static>.  /
+ba          A.65 utt2: # That is good. # /  
+
+sd          B.66 utt1:  # Unlike # a car where it's running. /  
+
+b          A.67 utt1:  Yeah. /  
+
+sd          B.68 utt1:  A electric car it's on demand.  /
+sd          B.68 utt2:  {E I mean } it's either on or off. /  
+
+b          A.69 utt1:  Yeah. /  
+
+o          B.70 utt1:  Basically. /  
+
+b          A.71 utt1:  Huh. /  
+
+sd          B.72 utt1:  You don't have to shift # <laughter>. # /  
+
+x          A.73 utt1:  # <laughter>. #   
+
+%          B.74 utt1:  {C So } you, - /
+sv          B.74 utt2: cars become very simple # all # --   
+
+b          A.75 utt1:  # Oh. # /  
+
++          B.76 utt1:  -- of a sudden too. /  
+
+x          A.77 utt1:  <laughter>.   
+
+sv          B.78 utt1:  Very interesting. /  
+
+sv          A.79 utt1:  That would be <laughter> nice.  /
+sd          A.79 utt2:   I think I saw that on T V one time.  /
+%          A.79 utt3: They, - /
+sd       A.79 utt4:  maybe it was C N N where they were demonstrating that.    
+
+b          B.80 utt1:  Yeah. /  
+
++          A.81 utt1:  Or something similar to that. /  
+
+sd         B.82 utt1:  [ [ There's, +  there's ] a race in Australia with solar powered cars. /  
+
+b          A.83 utt1:  Huh. /  
+
+sd           B.84 utt1:  {C And } Ford and # General Motors and  all those compete. # /  
+
+%          A.85 utt1:  # {C But } what, - /
+%          A.85 utt2: w-, - /
+%          A.85 utt3: w-, - /
+sv         A.85 utt4:  # I think that was [ [ a, + a, ] + a ]  setback./
+%          A.85 utt5:  That they, - /
+h          A.85 utt6: I don't know,  /
+sd       A.85 utt7: they went, I don't know, how many miles an hour./
+sd          A.85 utt8:   I think like twen-, - /
+qy,am,o@    A.85 utt9:  was that something --   *[[ Seems to be an indep. slash unit ]]  
+
+aa          B.86 utt1:  Right.  /
+aa          B.86 utt2:  Yeah  /
+x          B.86 utt3: <<very faint>>.   
+
++@          A.87 utt1:  -- maybe it was. - / *[[ See note above ]]
+h          A.87 utt2: I don't know. /  
+
+sd            B.88 utt1:  G M, {F uh, } Chrysler announced that they're going to, they're, - /
+sd          B.88 utt2: {D well } they actually have an electric minivan. /  
+
+br,o@          A.89 utt1:  Huh?   *[[ Should have a slash ]]
+
+b          B.90 utt1:  Yeah.  /
+sd          B.90 utt2:  [ Their, + their ] Caravan. /  
+
++          A.91 utt1:  Huh. /  *[[ See note above ]]
+
+sd           B.92 utt1:  {C But } it costs, {F uh, } fifty thousand dollars <laughter> # right now. # /  
+
+b          A.93 utt1:  # <laughter> # Yeah,  /
+sv           A.93 utt2: {C and } [ they're, + they're ]  very expensive too. #  ((   )) . # /  
+
+bf          B.94 utt1:  # <child_talking> To operate, yeah. #  /
+sd          B.94 utt2: {C But, } {D you know, } people are buying them.  /
+qh*        B.94 utt3: You know whose buying them?  / *[["whose" = who's"]]
+sd          B.94 utt4: The power company. /  
+
+x          A.95 utt1:  <laughter>.   
+
+bf          B.96 utt1:  # [ Free, + {D you know, } free ] for them. # /  
+
+aa          A.97 utt1:  # {D Well, } yeah.  /
+aa^r          A.97 utt2: #  Yeah. /  
+
+sv          B.98 utt1:   (( Kind of ))  interesting # so see. # -/  
+
+sv          A.99 utt1:  # {D Well, } it # doesn't make sense.  /
+sv            A.99 utt2:  {C Because }  if they want people to convert, {D you know. }   
+
+b          B.100 utt1:  Uh-huh. /  
+
++          A.101 utt1:  They should make it worthwhile. /  
+
+aa          B.102 utt1:  Yeah  /
+sd           B.102 utt2: <child>.  It's top speed is something like eighty miles an hour.  /
+sv          B.102 utt3:  # {C So }  it's # --   
+
+b          A.103 utt1:  # Yeah. # /  
+
++          B.104 utt1:  -- a good, # good # --   
+
+b          A.105 utt1:  # Yeah. # /  
+
++          B.106 utt1:  -- vehicle. /  
+
+sd          A.107 utt1:  {F Um. }  {D Well } I'll tell you.   
+
+x          B.108 utt1:  <child_talking>.   
+
++          A.109 utt1:  Sometimes [ it's, + it's ] pretty bad here.  /
+sd          A.109 utt2:   Like today I think it was pretty bad.  /
+sd           A.109 utt3: I don't know [ if it was, + ] if it's just, {F uh, }  the allergies or what  /
+sd          A.109 utt4: {C but } --   
+
+b          B.110 utt1:  Uh-huh  /
+x          B.110 utt2: <talking>.   
+
++          A.111 utt1:  -- some days it's [ r-, + ]  very nice here downtown  /
+sd          A.111 utt2: {C and } other days it's just really bad,  /
+h          A.111 utt3: {C so, } I don't know.  /
+qw           A.111 utt4:  {C So } [ what, + what ]  kinds of things did you experience in L A when you were there?  /
+qrr          A.111 utt5:   {C Or } can you remember?  /
+qy         A.111 utt6:  Were you there at a? -/  
+
+sd          B.112 utt1:  {F Oh, } I wasn't there too long ago.  {F Uh. } /  
+
+sd          A.113 utt1:  {C Cause } I haven't been there probably ... -/  
+
+qy            B.114 utt1:  {D Well, } {D you know, } [ yo-, + ] going over the hills, {D you know, } coming into the valley?  </child_talking>. /  
+
+ny          A.115 utt1:  Yeah. /  
+
+sd          B.116 utt1:  You can see that horrible, horrible brown haze. /  
+
+sd          A.117 utt1:  {D Well, } we were there when they had a </noise>, -/ 

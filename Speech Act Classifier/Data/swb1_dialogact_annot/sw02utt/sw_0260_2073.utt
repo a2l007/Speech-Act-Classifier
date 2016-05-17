@@ -1,0 +1,348 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2073_1047_1174
+TOPIC#:		355
+DATE:		910308
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	3
+REMARKS:        A lot of background noise of children on Caller B
+
+=============================================================================
+  
+
+o          B.1 utt1:  Okay,  /
+sd          B.1 utt2: I don't know,  /
+qw          B.1 utt3: which end do we push  /
+%          B.1 utt4: {C but }  okay, /  
+
+b          @A.2 utt1:  Okay,  /
+^h          @A.2 utt2: {D well, } {F um, } let's see,  /
+sv          @A.2 utt3: [ I, + I ] think there's a lot of people that don't vote because they don't really think [ their, + their, ] {F uh, } opinion is going to be heard  /
+sv          @A.2 utt4: {C and, } {D you know, } there's such a small voice and such a huge number of people in the United States  /
+%          @A.2 utt5: {C and } that, {D you know, } - /
+sv          @A.2 utt6: their, [ yo-, + ] votes not going to make that much difference  /
+sv          @A.2 utt7: {C and } whether you vote for one person or the other person, the issues is [ what, + {D you know, } what ] you believe in,  /
+sv          @A.2 utt8: {C and } that person is going to have a lot of, {F uh, } - /
+sv          @A.2 utt9: since there's so many issues, this one person can believe a lot of different ways on,   
+
+b          B.3 utt1:  Right,  /
+b          B.3 utt2: yeah. /  
+
++          A.4 utt1:  all of them  /
+sv          A.4 utt2: {C so, }  it would be really difficult to have that one [ pers-, + perfect person ] that believed exactly what you believed. /  
+
+ba          B.5 utt1:  That's true,  /
+%          B.5 utt2: {D you know, } a lot of people, {F uh, } {F uh, } - /
+sv          B.5 utt3: I think [ the, + that ] it ends up the people that, {F uh, } vote every time, {F uh, } elections come around are more [ [ the, + the ] + [ polly, + ] {F uh, } the ] party type followers, the guys that, {F uh, } {D you know, } follow the party lines, {D you know, }  /
+sv          B.5 utt4:  {C and, }   
+
+b          A.6 utt1:  Yeah. /  
+
++          B.7 utt1:  they, {D you know, } just go in  /
+sv          B.7 utt2: {C and } if they're Republican they [ vo-, + vote ] Republican every year,  {D you know, }  /
+sv          B.7 utt3: {C and, }  {F uh, } the people that are independent, {D you know, } are the ones that [ don't, + {F uh, } don't ] really, {F uh, } show up every year because they can't seem [ to, + to ] decide which are the good aspects and which are the bad aspects of a candidate. /  
+
+b          A.8 utt1:  Right,  /
+b          A.8 utt2: yeah, /  
+
+b          B.9 utt1:  Yeah. /  
+
+ba          A.10 utt1:  that's good. /  
+
+%          B.11 utt1:  Ye-, - /
+%          B.11 utt2: I always thought - /
+sd          B.11 utt3: [ it  was + ] back when Anderson was running, I was hoping that things would change and he'd actually get elected and party politics would start going down the tubes,  /
+sd          B.11 utt4: {C but, }  {F um } <baby_crying>,   
+
+b          A.12 utt1:  Yeah. /  
+
++          B.13 utt1:  that didn't work. /  
+
+b          A.14 utt1:  Yeah,  /
+sd          A.14 utt2: there's, {F uh, } a lot of extremes on the parties, too, with  [ the + {D you know, } the  ] real, {F uh, } far side of the Democrats  /
+sd          A.14 utt3: they're real liberal now [ and + ] to where probably fifty or a hundred years ago, {F um, } the Democrat party being liberal like they are now, {D you know, }  would never be thought of,  /
+sv          A.14 utt4: it would be the other way that the Republicans were real liberal minded as far as {D like, } {F uh, } moral standings and those kinds of things. /  
+
+b          B.15 utt1:  Uh-huh. /  
+
+%          A.16 utt1:  {C But, } -/  
+
+b          B.17 utt1:  Yeah,  /
+b^r          B.17 utt2: yeah,  /
+%          B.17 utt3: that's, {F uh, } - /
+sv          B.17 utt4: [ {C and then,  } + {C and then } ] people always get upset about it, too, because, {D you know, } every year [ [ the, + the, ] + the ] politicians are the ones that are usually pushing for more people to vote, /  
+
+b          A.18 utt1:  Uh-huh <<very faint>>. /  
+
+qy^g          B.19 utt1: [ they, + they ] each think that, {F uh, } if more people vote, they'll get more votes, {F huh? } /  
+
+ny          A.20 utt1:  Yeah <laughter>. /  
+
+sd          B.21 utt1:  I'm always amazed [ at + ] [ that, + that ] each candidate thinks it's going to be the people that come out that will vote for him, {D you know. } /  
+
+b          A.22 utt1:  Yeah.  /
+ba          A.22 utt2: [  That's, + that's ] true.  /
+sv          A.22 utt3:  I think in, {F uh, } the Texas governor elections, I think more people turned out to vote against somebody than for somebody, this time. /  
+
+b          B.23 utt1:  Yeah,  /
+%          B.23 utt2: {D well, } that, {F uh, } - /
+sd          B.23 utt3: ((   ))  I know that there's certain issues that can really motivate people because we live in a [ [ pr-, + pr-, ] + predominately ] Catholic type area, /  
+
+bh          A.24 utt1:  {F Oh, } really? /  
+
+sd          B.25 utt1:  {C and } when things start, {F uh, } - /
+sd          B.25 utt2: [ when, + when ] abortion comes on the issues and  people just get all [ insp-, + inspired, ] {D you know, } -/  
+
+b          A.26 utt1:  Right. /  
+
+sd          B.27 utt1:  {C and, }  {F uh, } still on the other hand we're also, {F uh, } - /
+sd          B.27 utt2: this particular community is a Catholic community  /
+sd          B.27 utt3: {C but, }  {F uh, } {F uh, } down in D C [ where, + where ] things are a little bit different, {F uh, } {D you know, } [ it's, + it's ] women's rights [ and +  [ the, + ] and ] that sort of movement,  /
+sd          B.27 utt4: {C and so } it's, {F uh, } quite the opposite,  /
+sd          B.27 utt5: {C so } elections start getting very, {F uh, } - /
+sd          B.27 utt6: the elections where they have that topic seem to be a little bit better attended than some of the other ones. /  
+
+b          A.28 utt1:  Yeah,  /
+ba          A.28 utt2: that's true. /  
+
+%          B.29 utt1:  {C But, }  {F uh, } -/  
+
+b          A.30 utt1:  Yeah,  /
+sd          A.30 utt2: that's true that the different places in America that, {F uh, } {D you know, } different issues would be a lot more important than  (( {D say } in ))  another place. /  
+
+b          B.31 utt1:  <Baby_talking> Yeah,  /
+sd          B.31 utt2: I can understand [ why, + why ] some of [  the, +  the ] rural areas, the voter turnout isn't as much because it does seem sometimes {D like } the lobbyists in D C are {D like } controlling things for [ the, + the ] Midwest, /  
+
+b          A.32 utt1:  Uh-huh <<very faint>>. /  
+
+sv          B.33 utt1:  {C and, }  {F uh, } it doesn't matter who they put in office, they're going to fall subject to, {F uh, } the pressure that the lobbyists can put, /  
+
+b          A.34 utt1:  Right.  /
+b          A.34 utt2:  Yeah,  /
+sv          A.34 utt3: {C and } it's, {F uh, } real true that, {F uh, } {D you know, } they'll say one thing,   
+
+x          B.35 utt1:  <Baby_talking>.   
+
++          A.36 utt1:  to get elected,  /
+sv          A.36 utt2: {C and then } once they do get elected, they don't have the power or the authority or the willingness to do those things that they promised, {D you know, } beforehand. /  
+
+b          B.37 utt1:  Right. /  
+
+sv          A.38 utt1:  {D You know, } maybe it just wasn't possible at all in the first place, {D you know, } like the no new taxes thing.  /
+%          A.38 utt2: {D You know, } that's, {F uh, } - /
+sv          A.38 utt3: with the economy going the way it is and everything, that was nearly ridiculous --   
+
+b          B.39 utt1:  Yeah <baby_talking>. /  
+
++          A.40 utt1:  -- thing to, even try to do. /  
+
+b          B.41 utt1:  Yeah.  /
+sv          B.41 utt2:  {D Well, } I don't think he's going to have to worry about that next year.  /
+sv          B.41 utt3:  I think he can probably raise taxes and still get elected. /  
+
+b          A.42 utt1:  Right <laughter>. /  
+
+%          B.43 utt1:  {F Uh, } /  
+
+b          A.44 utt1:  Right,  /
+^2          A.44 utt2: after the war. /  
+
+b          B.45 utt1:  Uh-huh. /  
+
+%          A.46 utt1:  That really, {F uh, } -/  
+
+sv          B.47 utt1:  Unfortunately that will probably even drop lower,  the voters turndown,  (( ))  even more because more Democrats will think that they don't have a shot  /
+sv          B.47 utt2: {C so } they won't even bother turning out. /  
+
+ba          A.48 utt1:  {F Uh, } that's true,  /
+b          A.48 utt2: yeah. /  
+
+sv(^q)          B.49 utt1:  They'll just say, {F oh, } {D well, } {D you know, } the Republicans have this election  /
+^q          B.49 utt2: we'll see you in four years. /  
+
+b          A.50 utt1:  Right.  /
+b          A.50 utt2:  Yeah. /  
+
+sd          B.51 utt1:   ((   ))  hope some of the local, - /
+sd          B.51 utt2: {D well } that's what [ they, + they ] keep saying that it seems like people with old-fashioned values are the ones that aren't turning out [ at the, + at the ] booths,  /
+sd          B.51 utt3: [ they, + they ] say that these older voters that, {F uh, } {D you know, } [ they, + they ] feel like the kids are running [ the, + the ] country  /
+sd          B.51 utt4: {C so } [ they, + they ] don't come out, turn out to vote  /
+sv          B.51 utt5: {C and } they're the ones that, {F uh, } {D you know, } really know what's going on, have the experience and seen, {D you know, } how politicians can, {D you know, } screwup or what ever. /  
+
+b          A.52 utt1:  Uh-huh. /  
+
+sd          B.53 utt1:  {C But, }  I know, my grandmother hasn't voted in years. /  
+
+b          A.54 utt1:  Right,  /
+%          A.54 utt2: that's, - /
+sd          A.54 utt3: {D you know, } neither has mine as a matter of fact.  /
+sv          A.54 utt4:  {C And, }  {F uh, } <barking>, that's true,  /
+sv          A.54 utt5: [ they, + I think they ] look at it as, {D well } everybody, the majority of the people think this way, when that's not necessarily true,   
+
+x          B.55 utt1:  <Baby_talking>.   
+
++          A.56 utt1:  because, {D you know, } that's what the media says.  /
+sv          A.56 utt2:  {D Well, } the majority believes this way  /
+sv          A.56 utt3: {C so, }  {F uh, } they don't even bother turning out to vote to express their, {F uh, } opinions.  /
+sv          A.56 utt4:  {C So } [ that's, + that's ] true. /  
+
+b          @@B.57 utt1:  Yeah,  /
+sd^t          @@B.57 utt2: wonder if they're going to take into account  ((   ))  this computerized conversation that there's little children, {D you know, } bouncing in your knee,    
+
+x          A.58 utt1:  <Laughter>.   
+
++          B.59 utt1:  the whole time your talking <laughter>. /  
+
+b          A.60 utt1:  Yeah.  /
+qy          A.60 utt2:  Do you hear the dogs in the background here? /  
+
+nn          B.61 utt1:  No,  /
+sd^e          B.61 utt2: I can't hear them. /  
+
+bk          A.62 utt1:  Okay,  /
+%          A.62 utt2: they're, - /
+sd          A.62 utt3: the children <barking> next door just opened the fence  /
+sd          A.62 utt4: {C and } they went off. /  
+
+bh          B.63 utt1:  {F Oh, } yeah? /  
+
+b          A.64 utt1:  Yeah.  /
+%          A.64 utt2: {C But } {D anyway, } that's, - /
+sv^t          A.64 utt3: I guess we've, {F uh, } talked long enough  /
+sv          A.64 utt4: {C and, }  {F uh, }    
+
+b          B.65 utt1:  Yeah </Baby_talking>. /  
+
++          A.66 utt1:  that was sort of interesting.  /
+qw          A.66 utt2:  What part of the country are you from? /  
+
+sd          B.67 utt1:  {F Uh, } Washington, D C, /  
+
+bh          A.68 utt1:  Are you really? /  
+
+ny          B.69 utt1:  Uh-huh. /  
+
+ba          A.70 utt1:  Wow.  /
+%          A.70 utt2:  This is, - /
+sd          A.70 utt3: I'm [ in, + from, ] - /
+sd          A.70 utt4: this is Dallas where I'm at. /  
+
+b          B.71 utt1:  {F Oh, } okay. /  
+
+sd          A.72 utt1:  The outskirts of Dallas. /  
+
+sd^t          B.73 utt1:  {D Well, } I figured  (( with Texas Instruments ))  they'd probably have a few, {F uh, } Texans on the line now and then. /  
+
+b          A.74 utt1:  Yeah,  /
+qy          A.74 utt2: [ do, + do ] you work for T I in any way? /  
+
+nn          B.75 utt1:  No,  /
+nn          B.75 utt2: huh-uh. /  
+
+ba          A.76 utt1:  Wow,  /
+qw          A.76 utt2: [ how did you, + how did they ] get you? /  
+
+sd          B.77 utt1:  {F Um, } [ they + ((   )) , they ] went through engineering companies, /  
+
+b          A.78 utt1:  Oh. /  
+
+sd          B.79 utt1:  {C and, }  {F uh, } we're communications.  /
+sd          B.79 utt2: [  I, + I ] work in a communications company. /  
+
+bk          A.80 utt1:  {F Oh, } okay,  /
+b          A.80 utt2: right.  /
+sd          A.80 utt3:  I work for T I  /
+sd          A.80 utt4: {C so, }  we saw it on the, {F uh, } T News one day  /
+sd          A.80 utt5: {C and } I thought, {D wow, } that might be interesting. /  
+
+b          B.81 utt1:  Yeah.  /
+sv          B.81 utt2: ((   ))  sort of different. /  
+
+b          A.82 utt1:  Yeah. /  
+
+sd^t          B.83 utt1:  They called me at, {F uh, } ten o'clock one night,  /
+sd          B.83 utt2: that was very strange. /  
+
+b          A.84 utt1:  Yeah. /  
+
+sd^t          B.85 utt1:  I guess they were doing  ((   ))  Eastern Standard Time.  /
+sd          B.85 utt2: I was like, - /
+sd^t          B.85 utt3: I don't know how long it takes whether it takes five minutes or twenty minutes. /  
+
+b          A.86 utt1:  <Barking> Yeah,  /
+sd^t          A.86 utt2: Central Standard Time is what they're doing it by. /  
+
+b          B.87 utt1:  Yeah. /  
+
+b          A.88 utt1:  Yeah.  /
+sd^t          A.88 utt2:  I still haven't figured out what the zero through six days which day is which yet  /
+sd^t          A.88 utt3: {C but, }   
+
+x          B.89 utt1:  <Laughter>.   
+
++          A.90 utt1:  I didn't study it that hard  /
+sd^t          A.90 utt2: {C so } maybe I'll figure it out. /  
+
+b          B.91 utt1:  Uh-huh. /  
+
+fc          A.92 utt1:  {C But, }  {D anyway, } it was nice to talk to you  and, {F uh, } sort of meet you,  /
+sv^t          A.92 utt2: {C and, }   
+
+b          B.93 utt1:  Okay. /  
+
++          A.94 utt1:  that was an interesting topic. /  
+
+b          B.95 utt1:  Yeah.  /
+b         B.95 utt2:  Okay,  /
+ad          B.95 utt3: {D well, } if your ever in, {F uh, } D C, come look up Wayne (( Sherman )) , you'll say {F oh, } yeah, talked to that guy. /  
+
+aa          A.96 utt1:  Okay.  /
+sd          A.96 utt2: [  I'm, + I'm ] Kyle Hunt,   
+
+b          B.97 utt1:   ((   ))  Oh. /  
+
++          A.98 utt1:  too, if you ever come [ to, + to ] Dallas area. /  
+
+b          B.99 utt1:  Okay. /  
+
+sd          A.100 utt1:  We live right by the airport. /  
+
+b          B.101 utt1:  <Laughter> Yeah,  /
+b^r          B.101 utt2: yeah,  /
+sd          B.101 utt3: so do we. /  
+
+b          A.102 utt1:  {F Oh, } okay. /  
+
+b          B.103 utt1:  Yeah,  /
+sd          B.103 utt2: right next to Dulles. /  
+
+b          A.104 utt1:  Yeah. /  
+
+fc          B.105 utt1:  {D All right, } I'll talk to you later <baby_crying>. /  
+
+fc          A.106 utt1:  Okay. /  
+
+fc          B.107 utt1:  Bye-bye. /  
+
+fc          A.108 utt1:  Bye. / 

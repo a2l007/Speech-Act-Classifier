@@ -1,0 +1,333 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2019_1052_1142
+TOPIC#:		351
+DATE:		910306
+TRANSCRIBER:	csw
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:  	Static only at the very beginning, in one short spot.
+
+============================================================================
+  
+
+qy          @A.1 utt1:  {F Uh, } do you have a pet Randy? /  
+
+ny          B.2 utt1:  {F Uh, } yeah,  /
+sd^e          B.2 utt2: currently we have a poodle. /  
+
+qr          A.3 utt1:  A poodle, miniature or, {F uh, } full size? /  
+
+ny          B.4 utt1:  Yeah,  /
+sd^e          B.4 utt2: {F uh, } it's, {F uh } miniature. /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+b          B.6 utt1:  Yeah. /  
+
+sd          A.7 utt1:  I read somewhere that, the poodles is one of [ the, + the ] most intelligent dogs, {F uh, } around. /  
+
+sd           B.8 utt1:  {D Well, } {F um, } [ I wouldn't, + {F uh, } I definitely wouldn't ]  dispute that,  /
+sd         B.8 utt2: [ it, + it's ] actually my wife's dog, {F uh, } [ I, + I ]  became part owner six months ago when we got married,  /
+sd           B.8 utt3: {C but, } {F uh, } it, {F uh, } definitely responds [ to, + {F uh, } to ] authority  /
+sd          B.8 utt4: {C and, } I've had dogs in the past  /
+sd           B.8 utt5: {C and, } {F uh, } [ it seems, + it seems ]  to, {F uh, } respond real well,  /
+%          B.8 utt6: it, it - /
+sd           B.8 utt7: [ she's, + she's ]  picked up a lot of things, {F uh, } [ just, + just ]  by, {F uh, } teaching by force, I guess is what I'd like to say. /  
+
+b          A.9 utt1:  {F Oh, } uh-huh.  /
+qw            A.9 utt2:  {C So, } [ you, + you've ]  only known the dog, [ wh-, + ] how long did you say. /  
+
+sd          B.10 utt1:  {D Well, } about a year I guess. /  
+
+qy          A.11 utt1:  {F Oh, } {D well, } {F uh, }  is it, - /
+qw          A.11 utt2: {F uh, } {F uh, }  how old is the dog? /  
+
+sd          B.12 utt1:  It just turned two, I believe. /  
+
+bf          A.13 utt1:  {F Oh, } it's still just a pup. /  
+
+aa          B.14 utt1:  Pretty much,  /
+aa          B.14 utt2: yeah,  /
+aa^r          B.14 utt3: yeah. /  
+
+b          A.15 utt1:  Yeah,  /
+sd          A.15 utt2: I have a, {F uh, } {D well } a mutt, myself.  /
+sd          A.15 utt3:   I call it a, {F uh, } {F uh, } (( Chowperd )) . /  
+
+b          B.16 utt1:  Okay. /  
+
+sd          A.17 utt1:  It's, {F uh, } part Chow and part Shepherd  /
+%          A.17 utt2: {C and } it, - /
+sd          A.17 utt3:  as I understand it, {F uh, } both sides of the, were thoroughbreds. - /
+sd          A.17 utt4:   {C So, } she's a genuine  (( Chowperd )) . /  
+
+ba          B.18 utt1:  {F Oh, } that sounds interesting. /  
+
+sd         A.19 utt1:  She has [ the, + the ] color  and the black [ to-, + tongue ]  of a Chow,  /
+sd         A.19 utt2: {C but, } {F uh, } she has [ the shap-, + the shape ] of the, {F uh, } {F uh, } Shepherd. /  
+
+ba          B.20 utt1:  {F Oh, } [ that's, + that's ] neat.  /
+qw          B.20 utt2:   [ How,  + about how ] big then? /  
+
+sd          A.21 utt1:  {F Oh, } she weighs in at about fifty pounds,  /
+sd          A.21 utt2:  {C so } she's a medium size. /  
+
+b          B.22 utt1:  Yeah,  /
+b^r          B.22 utt2: yeah. /  
+
+sd,o@          A.23 utt1:  {C But } she's big enough to be intimidating, *[[ Seems that this should end in a slash since A's next turn is an indep. clause ]]
+
+aa          B.24 utt1:  Most definitely. /  
+
++@          A.25 utt1:  it is a [ fi-, + fixed ] female, by the way, /  *[[ see note above ]]
+
+b          B.26 utt1:  Yeah. /  
+
+sd        A.27 utt1:  {C and } right from day one, she was teaching me./  
+
+aa          B.28 utt1:  {F Oh, } I wouldn't doubt it,  /
+aa          B.28 utt2: yeah. /  
+
+sd         A.29 utt1:  <Laughter> She's the most intelligent dog I've ever seen.  /
+sd          A.29 utt2:  Course, I'm a little prejudiced, of course. /  
+
+ba          B.30 utt1:  {D Well } that's understandable,  /
+%          B.30 utt2: yeah,  /
+%          B.30 utt3: it's, {F uh, } -/  
+
+sd           A.31 utt1:  <Throat_clearing> {D You know, } the first time I brought  her home, she was only, {F uh, } was it six weeks old.  /
+sd           A.31 utt2:   {C And } I spread the newspapers out in the kitchen area. /  
+
+b          B.32 utt1:  Uh-huh. /  
+
+sd           A.33 utt1:  {C But, } {F uh, } next morning, she let me know in no uncertain terms that she wanted to use the bathroom. /  
+
+b          B.34 utt1:  Okay. /  
+
+sd         A.35 utt1:   {C So, } on next night, I spread the newspaper in the  bathroom  /
+sd          A.35 utt2: {C and } she used them there. /  
+
+b          B.36 utt1:  Oh. /  
+
+sd           A.37 utt1:  {C But } it wasn't too long until she, {F uh, } found out she could wait until I let her out in the morning. /  
+
+b          B.38 utt1:  Yeah. /  
+
+sd          A.39 utt1:  {C And } since then, [ I, + I ] live alone, /  
+
+b          B.40 utt1:  Okay. /  
+
+sd          A.41 utt1:  {C and, } {F uh, } I live in motor home,  /
+sd           A.41 utt2:  by the way, I'm, {F uh, } an [ R  V, + full time R V -er, ]  /
+sd           A.41 utt3: {C and } [ it's, + it's ] such a pleasure to come home at night  /
+sd           A.41 utt4: {C and } you can see her smiling from ear to ear, she's so happy to see me. /  
+
+aa          B.42 utt1:  <Laughter> Yeah,  /
+aa          B.42 utt2: definitely. /  
+
+qy^d         A.43 utt1:  {C And, } {F uh, } I don't know if you get that kind of greeting or not. /  
+
+ny          B.44 utt1:  Yeah,  /
+sd^e           B.44 utt2: I can honestly say we do, {F uh, }  we, {F uh, } just recently put a security system in our house  /
+sd         B.44 utt3: {C and so } now, {F uh, } in order  [ to, + {F uh, } to ] accommodate the motion detectors we have to keep her, {F uh, } {F uh, }  locked up in [ the, + the ] master bedroom during the day  /
+sd        B.44 utt4: {C and then } she's got [ the, + the ]  bedroom and the bathroom [ to, + ] for free run during the day  /
+sd          B.44 utt5: {C but, }   
+
+b          A.45 utt1:  Uh-huh. /  
+
++           B.46 utt1:  we've always [ got, + {F uh, } got ]  a nose and tongue pressed up against the window when we come walking up to the front door. /  
+
+x          A.47 utt1:  <Laughter>.   
+
+sd         B.48 utt1:  She's definitely ready to get out and run around./  
+
+sd,o@       A.49 utt1:  {D Well } my dog's an outdoor type, she does not like to be indoors. /  *[[ 2 slash units? ]]
+
+b          B.50 utt1:  Really. /  
+
+sd         A.51 utt1:  {F Uh, } she'd rather [ sle-, + sleep ]  outside on [ the, + the ] cold ground at night. /  
+
+ba          B.52 utt1:  {F Oh } wow. /  
+
+sd          A.53 utt1:  {C But, } {F uh, } I do make her come in. /  
+
+b          B.54 utt1:  Yeah. /  
+
+sd          A.55 utt1:  And I feed her indoors, that's to lure her in,  /
+sd        A.55 utt2: {C but } during the day I have her [ on a, + {F uh, }   on a ] leash,   
+
+b          B.56 utt1:  Okay. /  
+
++          A.57 utt1:  which is, {F uh, } on sort of a run.  /
+sd          A.57 utt2:  I have  [ a, + a ] thirty foot cable,   
+
+b          B.58 utt1:  Okay. /  
+
++          A.59 utt1:  running from one stake to another,  /
+sd           A.59 utt2: {C and then }  attached to that is a, {F uh, } twelve foot leash, /  
+
+b          B.60 utt1:  Okay. /  
+
+sd          A.61 utt1:  {C so } she can cover quite an area. /  
+
+aa          B.62 utt1:  Most definitely. /  
+
+sd           A.63 utt1:  {C And, } {F uh, } she's the best, {F uh, } burglar alarm going. /  
+
+aa          B.64 utt1:  Yeah,  /
+aa^r          B.64 utt2: yeah,  /
+aa^r          B.64 utt3: <laughter> yeah  /
+sv         B.64 utt4: that's, {F uh, }  definite security involved [ in, + {F uh, } in ] a dog like that. /  
+
+aa          A.65 utt1:  {F Oh, } yeah,  /
+%          A.65 utt2: she, {F uh, } - /
+sd           A.65 utt3:  it's the strangest thing, though, {F uh, } children, no matter how strange they are, or how new they might be can walk, {F uh, } right up to her, /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+sd          A.67 utt1:  {C but } adults, if they're strange to her, [ or, + or ]  they look suspicious or  something, {D boy } she acts like she wants to chew their leg off. /  
+
+ba          B.68 utt1:  Wow. /  
+
+sd           A.69 utt1:  {C And } I have not discovered yet where [ the, + the ]  line is between children and  adults. /  
+
+b          B.70 utt1:  Yeah,  /
+ba          B.70 utt2: that's interesting. /  
+
+sd          A.71 utt1:  {C But, } {F uh, } she is a great comfort to me. /  
+
+b          B.72 utt1:  Yeah,  /
+sd           B.72 utt2: I know our dog has had, {F uh, } some different reactions,  /
+sd          B.72 utt3: she's never really been around children  /
+sd           B.72 utt4: {C and, } {F uh, }  [ if, + if ] the child [ is, + is ] pretty straight forward, {F um, } she's fine.  /
+sd           B.72 utt5: [ If, + if ] a child is a  little intimidated, she'll jump around [ and, + and ] yip and bark quite a bit,  /
+sd           B.72 utt6: {C and }  if the child gets scared, {F uh, } she's still trying to play, but she doesn't completely  understand what's going on  /
+sd           B.72 utt7: {C and } we've had a little confusion  [ with, + with, ] {F uh, } with younger kids. /  
+
+b          A.73 utt1:  Uh-huh. /  
+
+%          B.74 utt1:  {C But, } {F uh, } {D you know, } that's, - /
+sv          B.74 utt2:  it's a matter of exposure really.  /
+sd         B.74 utt3: {F Um, } we, {F uh, } took her home to, {F uh, } my family's place in South Dakota,  /
+sd        B.74 utt4:  {C and } she was the one that was intimidated then. /
+sd         B.74 utt5:   There was about seven kids ranging from about, {F uh, } three years to ten years running around the house all at one time,   
+
+b          A.75 utt1:  {F Oh, } uh-huh. /  
+
++          B.76 utt1:  {D you know } come to visit Grandpa and Grandma  /
+sd           B.76 utt2: {C and, }  the dog [ kind of, + kind of ] felt out of place then because [ she  was, + she was ]  being fed, and everything else from all directions.  /
+sd          B.76 utt3: She really didn't know how to handle herself. /  
+
+bf          A.77 utt1:  You mean she didn't appreciate all that attention./  
+
+ar          B.78 utt1:  She really did,  /
+%          B.78 utt2: she just, {F uh, } - /
+sd           B.78 utt3: [ [ she, +  she ] was alm-, + she was ] just inundated [ with, + with ] all the attention.  /
+sd         B.78 utt4:  {F Uh, } [ [ she, + she ]  kind of, + she kind of ] sat and ((   )) it all in for a little while - /
+sd          B.78 utt5: {C and then } she'd go get  back in and try to play [ and, + and ] what not,  /
+sd         B.78 utt6: {C but, } {F uh, } [ it was, + it was ]  just [ such a, + such a ] new experience for her.  /
+sd         B.78 utt7: She's only been around one [ and, + and ] sometimes two people at the most  /
+%          B.78 utt8: {C so, } {F uh. } -/  
+
+b          A.79 utt1:  Uh-huh.  /
+qw          A.79 utt2:  What's her name by the way? /  
+
+br          B.80 utt1:  {F Uh, } pardon? /  
+
+qw^r          A.81 utt1:  [ What, + what ] do you call the dog? /  
+
+sd          B.82 utt1:  {F Oh, } it's, {F uh, } Mitzi. /  
+
+b^m          A.83 utt1:  Mitzi. /  
+
+aa          B.84 utt1:  Yeah. /  
+
+sd          A.85 utt1:  Mine is Gin. /  
+
+bk          B.86 utt1:  {F Oh, } okay. /  
+
+sd          A.87 utt1:  As in, {F uh, } martini. /  
+
+b          B.88 utt1:  Yeah. /  
+
+sd          A.89 utt1:  <Laughter>  {D Actually, } it's Gin two. /  
+
+bk          B.90 utt1:  [ I, + I ] see. /  
+
+sd           A.91 utt1:  {C Because, } {F uh, } when I was a teenager,  in high school, I had Gin one,  /
+sd            A.91 utt2: {C  but } then when I went out in the world, I couldn't take her with me. /  
+
+aa          B.92 utt1:  Yeah,  /
+aa^r          B.92 utt2: yeah,  /
+aa^r          B.92 utt3: yeah,  /
+sd          B.92 utt4: I had, {F uh, } a similar, {F uh, }  experience.  /
+sd          B.92 utt5: [ I, + I ] grew up on a farm  /
+sd          B.92 utt6: {C so } I always had, {F uh, } outdoor pets  /
+sd          B.92 utt7: {C and, }   
+
+b          A.93 utt1:  Uh-huh. /  
+
++          B.94 utt1:  {F uh, } the dog I had when I moved to Dallas about five years ago was a, {F uh, } Springer Spaniel, black Lab cross.  /
+sd          B.94 utt2: {C And } he was  [ a real, + a real ] lovable type,    
+
+b          A.95 utt1:  {F Oh } yeah. /  
+
++       B.96 utt1:  but, {F uh, } definitely not an apartment type animal  /
+sd          B.96 utt2:  {C so } [ he, + {F uh, } he ] had to stay home. /  
+
+by          A.97 utt1:  {F Oh, } what a shame. /  
+
+aa          B.98 utt1:  Yeah,  /
+aa^r          B.98 utt2: yeah,  /
+sd          B.98 utt3: it really was.  /
+sd           B.98 utt4: He, {F uh, }  apparently had a tough time with it for a little while  /
+sd           B.98 utt5: {C and then } [ [ he, + he ]  got, + he came ] to accept the fact that  Mom and  Dad were his company from then on,  /
+%          B.98 utt6: {C but, } {F uh. } -/  
+
+b          A.99 utt1:  Uh-huh,  /
+o          A.99 utt2:  {F oh } {D well. } /  
+
+b          B.100 utt1:  Yeah. /
+
+sd^t      @@A.101 utt1:  {D Well } Randy, we've just about used up our time here, /  
+
+aa          B.102 utt1:  Okay. /  
+
+sv          A.103 utt1:  {C and } I must say it was interesting. /  
+
+aa          B.104 utt1:  Most definitely. /  
+
+sv          A.105 utt1:  I enjoyed talking about pets with you. /  
+
+ba          B.106 utt1:  {D Well } that's great. /  
+
+fc          A.107 utt1:  Maybe we'll get together again in the future. /  
+
+fc          B.108 utt1:  That sounds real good. /  
+
+fc          A.109 utt1:  Take care now. /  
+
+fc          B.110 utt1:  You too. /  
+
+fc          A.111 utt1:  Bye. / 

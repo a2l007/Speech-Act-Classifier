@@ -1,0 +1,436 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3099_1235_1285
+TOPIC#:		323
+DATE:		910620
+TRANSCRIBER:	MS
+UTT_CODER:      MMAB
+DIFFICULTY:	4
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	5
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	3
+REMARKS:        None.
+
+===========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: {D so } what were you saying? /  
+
+qy          B.2 utt1:  [ Do you work with, + do you work around ] children when you work? /  
+
+nn          A.3 utt1:  No,  /
+nn^r          A.3 utt2: no,  /
+sd^e          A.3 utt3: not at all.  /
+sd          A.3 utt4:  I work with <noise> computers. /  
+
+b^m          B.4 utt1:  With computers. /  
+
+ny          A.5 utt1:  Yep,  /
+%          A.5 utt2: they what, -/  
+
+bk          B.6 utt1:  Okay,  /
+%          B.6 utt2: do you ha-, -/  
+
+%          A.7 utt1:  one thing I, -/  
+
+qy^d          B.8 utt1:  {C but } you have friends that have children. /  
+
+na          A.9 utt1:  I have some friends that have children, {F uh, } not that many actually. /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+b          A.11 utt1:  {F Uh. } /  
+
+qw          B.12 utt1:  What is child care like in New York?  /
+%          B.12 utt2:  What is, -/  
+
+no          A.13 utt1:  I do not really know,  /
+fa          A.13 utt2: <sneezing> excuse me,  /
+no          A.13 utt3: too much about child care in New York <noise>. -/  
+
+qy          B.14 utt1:  Does the company you work for have,   
+
+x          A.15 utt1:  <Cough>.   
+
++          B.16 utt1:  child care on premises for,   
+
+ad          A.17 utt1:  Excuse me one second. /  
+
++          B.18 utt1:  employees? /  
+
+nn          A.19 utt1:  Huh-uh <swallowing>.  /
+nn          A.19 utt2:  No,  /
+sd^e          A.19 utt3: not at all,  /
+sd          A.19 utt4: in fact my situation is a little bit strange,  /
+sd          A.19 utt5: I was, {F uh, } a student for many years, and then graduated and went and  worked in France for awhile.   /
+sd          A.19 utt6: {C And, }  I,   
+
+bk          B.20 utt1:  {F Oh. } /  
+
++          A.21 utt1:  have just come back and was doing consulting work. /  
+
+ba          B.22 utt1:  {F Oh, } my. /  
+
+sd          A.23 utt1:  {C So } I am just taking a little bit of time off right now. /  
+
+qy^d          B.24 utt1:  A sabbatical <noise>. /  
+
+%          A.25 utt1:  {F Uh, } [ {C and, } + {C and } ] I might, -/  
+
+sd          B.26 utt1:  {D Well } I hope you can stay as long as possible with it. /  
+
+b          A.27 utt1:  Yeah,  /
+sd          A.27 utt2: {D well }  (( hopefully ))  <noise> I can do some consulting work at home.  /
+sd          A.27 utt3: {C And, }  if I can do that <noise> it will, - /
+%          A.27 utt4: Yeah, /  
+
+b^m          B.28 utt1:  {F Oh } yeah,  /
+ba@          B.28 utt2: that would be wonderful.   
+
+sd          A.29 utt1:  I'll be able to spend the time with my daughter, <noise> and    
+
++@          B.30 utt1:  # Right. # /  
+
++          A.31 utt1:  not have to worry too much about child care.  /
+sd          A.31 utt2: {C But, }   
+
+b          B.32 utt1:  Right. /  
+
++          A.33 utt1:  {F uh, } I might start to go crazy with it too.  /
+%          A.33 utt2: It is a little, - /
+sd          A.33 utt3: I miss the intellectual stimulation. /  
+
+b          B.34 utt1:  Right. /  
+
+sd          A.35 utt1:  {C But } at the same time [ I really, + ] it would break my heart to give her to a stranger right now.   /
+%          A.35 utt2: {C And, } -/  
+
+sv          B.36 utt1:  I think it does [ when, + when ] they are real little  /
+sv          B.36 utt2: {C and } they are changing every day, /  
+
+aa          A.37 utt1:  {F Oh, } yes. /  
+
+%          B.38 utt1:  there's, - /
+sv          B.38 utt2: {C and } you just miss the little things, /  
+
+b          A.39 utt1:  Yeah. /  
+
+%          B.40 utt1:  [ {C and, } + {C and, } ]  {F uh, } -/  
+
+sd          A.41 utt1:  {D Well, } [ I think for me,  ((   ))  the important concerns, + I do not think ] I would put her in day care for  (( joint )) ,   
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  situation right now, unless it was {D like } one other child [ with a, + with a ] person. /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sv          A.45 utt1:  I would not want her to be [ into a, + in a ] large day care situation so  young.    
+
+b          B.46 utt1:  Uh-huh. /  
+
++          A.47 utt1:  Because I think a little infant just does not get the stimulation they need. /  
+
+aa          B.48 utt1:  That's right. /  
+
+sd          A.49 utt1:  Maybe if I needed to work part time, like four hours a day, I might do that, cause {D like, }  you should get enough stimulation from you the rest of the time.   /
+sv          A.49 utt2: {C But, }  {F uh, } I just think that, {D you know, } when there's two year olds running around, [ the, + [ whoever is taking care of, + the care givers ] ] are going to pay attention to the two year olds. /  
+
+aa          B.50 utt1:  That's right. /  
+
+sv          A.51 utt1:  {C And } only when the infant screams,   
+
+aa          B.52 utt1:  That's right. /  
+
++          A.53 utt1:  are they going to go there,  /
+sv          A.53 utt2: {C and } if not, the infant is going to lay in the crib all day, and maybe have a mobile above it to play with. /  
+
+b          B.54 utt1:  Right. /  
+
+sd          A.55 utt1:  {C And, } {D you know, } I play with her most of the time she is awake  /
+sv          A.55 utt2: {C and } I think that is so important. /  
+
+aa          B.56 utt1:  Right.  /
+sv          B.56 utt2:  {D Well } [ that, + it ] is important for the bonding that they do it,   
+
+b          A.57 utt1:  Yeah. /  
+
++          B.58 utt1:  with the mother. /  
+
+sv          A.59 utt1:  {D Well, } such as things for learning gives the child stimulation I think is important. /  
+
+b          B.60 utt1:  Right. /  
+
+%          A.61 utt1:  {C And, }  {F uh, } -/  
+
+sd          B.62 utt1:  Our oldest grandson, when he was eighteen months old went into [ a, + a ] Montessori,   
+
+b          A.63 utt1:  Uh-huh. /  
+
++          B.64 utt1:  day care system.   /
+sd          B.64 utt2: {C And } they took infants starting at six weeks,  /
+sd          B.64 utt3: {C and } they have a program, {F uh, } [ in, + ] that was devised by this montessori person  /
+sd          B.64 utt4: [ {C and, } +  {F uh, } {C and } ] a certain type of stimulations - /
+sd          B.64 utt5: {C and } there's times of day that even when the child is awake [ that they, + that they ] lay quietly and look at certain things  /
+sd          B.64 utt6: they [ keep, + deliberately keep ] the room not real bright. /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+sd          B.66 utt1:  [ {C And, } + {C and, } ]  {F uh, } they have different things [ they will, + they will ] put them down on the floor,  /
+sd          B.66 utt2: {C and } of course, they never have more than {D like } five,  /
+sd          B.66 utt3: [ {C and, } +  {C and } ] they will put them down on the floor  /
+sd          B.66 utt4: {C and } [ they will have on-, + I think one ] of them was a little mirror  /
+sd          B.66 utt5: {C and } some were just different objects that [ have, + had ] a definite purpose --   
+
+b          A.67 utt1:  Uh-huh. /  
+
++          B.68 utt1:  -- for kids, {D you know, }  /
+sd          B.68 utt2: {C and } there's something about their eyes. /  
+
+b          A.69 utt1:  Yeah, /  
+
+b          B.70 utt1:  {F Uh, } /  
+
+sd          A.71 utt1:  {D well } [ she's, + she's ] just been doing all kinds of stuff  (( where ))  she's, {D you know }  ((   )) , -/  
+
+qw          B.72 utt1:  How old is she? /  
+
+sd          A.73 utt1:  She's two months now, nine weeks. /  
+
+b          B.74 utt1:  {F Oh, } yeah. /  
+
+sd          A.75 utt1:  {C And } she's just drastically moving her eyes from one side to another and  things like that. /  
+
+b          B.76 utt1:  Uh-huh. /  
+
+sd          A.77 utt1:  {C And } she's just started that {D like } yesterday or the day before, /  
+
+b          B.78 utt1:  Uh-huh,  /
+b^r          B.78 utt2: uh-huh. /  
+
+sd          A.79 utt1:  [ {C and } + (( {C so } ] every days ))  are different. /  
+
+b          B.80 utt1:  Uh-huh. /  
+
+sv          A.81 utt1:  {C And } [ I think that, + {D you know, } I think ] child care for infants is much harder than when they are older,  /
+sd          A.81 utt2: {C and } I will probably be going back to work around January,    
+
+b          B.82 utt1:  {F Um. } /  
+
++          A.83 utt1:  whereas she will be about,   
+
+^2          B.84 utt1:   (( A little older )) . -/  
+
++          A.85 utt1:  eight or nine months old.   /
+%          A.85 utt2: {C And so } I think, {D you know, } she will be at a, - /
+sd          A.85 utt3: I have heard it's a rough age to put them into a, -/  
+
+aa          B.86 utt1:  It is because that's when they are clinging to mama, /  
+
+b          A.87 utt1:  Yeah. /  
+
+sv          B.88 utt1:  {C so } you might have a real problem with that.  /
+sv          B.88 utt2:  # I think [ it, # +   
+
+%          A.89 utt1:  # [ {C But, } + {C but } ] I think it, # -/  
+
++          B.90 utt1:  it ] hurts the parents to leave when the child is crying,  /
+sv          B.90 utt2: {C so } [ it, + {D you know, } it ] would be ideal if you could get somebody in so you are not really <noise> leaving the child in a strange place. /  
+
+aa          A.91 utt1:  Yeah.  /
+sd          A.91 utt2:  We are just going to have,   
+
+ba          B.92 utt1:  {C But } that's unusual. /  
+
++          A.93 utt1:  to see how things work out.  /
+sd          A.93 utt2: {F Uh, } {C but } I am trying to, {D you know, } leave her a fair amount, even at this young age, with her grandparents, just to,   
+
+b          B.94 utt1:  Uh-huh. /  
+
++          A.95 utt1:  go to a movie and things like that.  So that she is used to other people # taking care of her. # /  
+
+qr          B.96 utt1:  # Is it your parents # or your husband's parents? /  
+
+sd          A.97 utt1:  My parents,  /
+sd          A.97 utt2: my husband's parents are in France.   /
+sd          A.97 utt3: {C So, } it's a little bit harder  /
+%          A.97 utt4: {C but } during, {D you know, } - /
+sd          A.97 utt5: [ [ sh-, + sh-, ] + she's ] met them already. /  
+
+bk          B.98 utt1:  {F Oh. } /  
+
+sd          A.99 utt1:  Not that she will remember them,  /
+sd          A.99 utt2: {C but } she's met them. /  
+
+b          B.100 utt1:  Right,  /
+b^r          B.100 utt2: right.  /
+%          B.100 utt3:  That's nice when, {F uh, } - /
+sd          B.100 utt4: [ [ I, + my, ] + I ] have three grandchildren,  /
+sd          B.100 utt5: another one coming in September,  /
+%          B.100 utt6: {C and }  I, - /
+sd          B.100 utt7: [ it would, + if they were where I could not get my hands on them, I am afraid I would ] probably <laughter> go crazy. /  
+
+b          A.101 utt1:  Uh-huh. /  
+
+sd          B.102 utt1:  {D You know, } [ I, + I ] like that, /  
+
+qy          A.103 utt1:  # Are they all nearby? # /  
+
+sv          B.104 utt1:  # {C but } if, [ it + you ] do not # have to put them in child care, [ that's, + that's ] an ideal situation for you, is to stay with them  /
+%          B.104 utt2:  as, - /
+ad          B.104 utt3: {C or }  you can set up your work program and your husband's so that one of you is there all the time. /  
+
+aa          A.105 utt1:  Yeah. /  
+
+sv          B.106 utt1:  [ That's, + that's ] wonderful for the child.   /
+%          B.106 utt2: {C But, } -/  
+
+sd          A.107 utt1:  {D Well, } if I work part time that might be doable. /  
+
+aa          B.108 utt1:  Right <swallowing>.  /
+ad          B.108 utt2: {C And } [ you need to look at, when you, + if you do decide to go with child care, you really need [ to, + to ] ] look at what your options are [ and, +  and ] look at [ the, + what they ] offer,  /
+ad          B.108 utt3: drop in at times that are unexpected. /  
+
+aa          A.109 utt1:  Yeah,  /
+%          A.109 utt2: {D well, } -/  
+
+%          B.110 utt1:  The, -/  
+
+sv          A.111 utt1:  right now the situation is so tight at many places,   
+
+b          B.112 utt1:  {F Uh. } /  
+
++          A.113 utt1:  that it's even hard to have a choice. /  
+
+b          B.114 utt1:  {F Uh. } /  
+
+ba          A.115 utt1:  Incredible,  /
+%          A.115 utt2: {C but } {D you know, } since this is, - /
+sv          A.115 utt3: people before they get pregnant are finding child care for the kids <laughter>. /  
+
+aa          B.116 utt1:  Uh-huh,  /
+aa^r          B.116 utt2: uh-huh. /  
+
+sv          A.117 utt1:  {C And, } {D you know, } I just find that incredible.   /
+sd          A.117 utt2: {C And } my sister-in-law is going to have a baby <noise> very, very soon  /
+sd          A.117 utt3: {C and } she is intending to stay home with the baby. /  
+
+b          B.118 utt1:  {F Oh. } /  
+
+sd          A.119 utt1:  {C And, } {D you know, } maybe do some free lance type work at home.   /
+sd          A.119 utt2: {C And so, } if I go back to work on a part time basis, I am hoping I can leave my daughter with her.    
+
+ba          B.120 utt1:  {F Oh, } that would be wonderful. /  
+
++          A.121 utt1:  Because, her daughter again will be a couple of months, <baby> my daughter will be about six months older than hers.  /
+%          A.121 utt2:  {C And, } -/  
+
+b          B.122 utt1:  Uh-huh,  /
+b^r          B.122 utt2: uh-huh. /  
+
+sv          A.123 utt1:  it will be a little rough when she is a very, very little infant, /  
+
+aa          B.124 utt1:  Uh-huh,  /
+aa^r          B.124 utt2: uh-huh. /  
+
+sd          A.125 utt1:  {C but } {D like } when she is a month or so, <inhaling> my sister-in-law has had lots and lots of experience dealing with baby-sitting for large families. /  
+
+b          B.126 utt1:  {F Oh. } /  
+
+sd          A.127 utt1:  {C And so, } {F uh, } she might be able to do it a couple of hours a day  /
+sd          A.127 utt2: {C and } we [ cou-, + might ] even be able to do it on a trade off basis.  That I watch,   
+
+b          B.128 utt1:  Right. /  
+
++          A.129 utt1:  their baby <baby> when they want to go out to dinner or to movies or  whatever,   
+
+b          B.130 utt1:  Right. /  
+
++          A.131 utt1:  or if she wants an afternoon off.    
+
+b          B.132 utt1:  Right. /  
+
++          A.133 utt1:  Even if she wants an afternoon just to work.   
+
+b          B.134 utt1:  Uh-huh,  /
+b^r          B.134 utt2: uh-huh. /  
+
++          A.135 utt1:  {F Uh, } and not be bothered,  /
+sd          A.135 utt2: we might be able to exchange that way. /  
+
+b          B.136 utt1:  Uh-huh. /  
+
+sd          A.137 utt1:  {C And so } we will just have to see how things work out.   /
+sv          A.137 utt2: {C But } [ I think the whole, + {D you know, } ideally <baby> I think, ] {F uh, } business should have the,   
+
+aa          B.138 utt1:  I do too. /  
+
++          A.139 utt1:  day care centers there,  whether it's the parents who take turns watching the kids, or whether  /
+sv          A.139 utt2: they hire a couple of people  /
+sv          A.139 utt3: {C and, }  {F uh, } {D you know, } parents come down to supervise or,    
+
+^2          B.140 utt1:  Really well trained people. /  
+
++          A.141 utt1:  whatever. /  
+
+b          B.142 utt1:  Right, /  
+
+b          A.143 utt1:  Yeah. /  
+
+sv          B.144 utt1:  {C and } [ have, + have  ] some kind of real good program,   
+
+b          A.145 utt1:  Yeah. /  
+
++          B.146 utt1:  set up so that [ you, + when you ] go you can be assured that if there's an emergency that person in charge knows C P R or first aid  /
+sv          B.146 utt2: [ {C or, } +    
+
+b          A.147 utt1:  {F Oh, } yeah. /  
+
++          B.148 utt1:  <Inhaling> {C and } ] have some kind of program set up, like you say, to stimulate the kids, or educate them in some manner.  And have the, {D you know, } the right toys and the right setting and, {F uh, } have, [ a, + an ] organized type of program set up so that the kids have a schedule, {D you know, }  /
+sv          B.148 utt2: that's real important to little kids. /  
+
+aa          A.149 utt1:  Yeah,  /
+%          A.149 utt2: {D well }  she's, - /
+sd          A.149 utt3: my daughter does not seem to be on a real schedule yet,  /
+sd          A.149 utt4: {C and } it's <laughter> probably my fault, because I do not have a real schedule now. /  
+
+b          B.150 utt1:  Uh-huh. /  
+
+%          A.151 utt1:  {C But, } -/  
+
+sv          B.152 utt1:  [ They, + they ] adjust to what the parents  ((   ))  <laughter>. -/  
+
+aa          A.153 utt1:  Yeah,  /
+sd          A.153 utt2: {D well } she's been staying up late at night and, <laughter> {D you know, }   
+
+b          B.154 utt1:  Uh-huh. /  
+
++          A.155 utt1:  sleeping late in the mornings and things  (( is ))  just fine by me <noise>. /  
+
+sv          B.156 utt1:  {D We-, } you know that works until they start school. /  
+
+b          A.157 utt1:  Right. /  
+
+ba          B.158 utt1:  {C And } that's a problem,  /
+sv          B.158 utt2: society is geared to [ a, + a ] day person  /
+%          B.158 utt3: {C and }  it's, - /
+sd          B.158 utt4: I have another friend who's brother and his wife have done this,  /
+sd          B.158 utt5: they stay up until all hours of the night. / 

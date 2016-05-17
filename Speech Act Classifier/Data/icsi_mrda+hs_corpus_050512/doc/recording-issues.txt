@@ -1,0 +1,26 @@
+This file lists problems or oddities in specific channel recordings
+that database users should be aware of.
+
+
+-    in meeting Bmr001, channel c8 is very soft around 1421s, so
+     the words "don't know how to i don't know how the operating system
+     would like having two sound cards" were not aligned
+
+-    in meeting Bmr002, channel c2 becomes very soft around 1250s, so
+     the words "transcriber support and then automated alignment of what
+     the transcribers give you which is you know exactly the problem we
+     have" were not aligned
+
+-    in meeting Bed010,  channel c0 is very soft and is 
+     therefore missing a fair amount of segment timing data
+     due to nonalignment
+
+-    in meeting Bmr012, two speakers shared channel c0. This
+     is marked in the comment field, as "CHANGE OF SPEAKER"
+
+-    in meeting Bsr001, one speaker is present on channels c0 and c8.
+     The duplicated channel is marked in the comment field as 
+     "DUPLICATED-MICROPHONE"     
+
+
+

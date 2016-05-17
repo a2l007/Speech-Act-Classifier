@@ -1,0 +1,320 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2492_1083_1122
+TOPIC#:		361
+DATE:		910408
+TRANSCRIBER:	KSH
+UTT_CODER:      MMAB
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	4
+BACKGROUND_B:	1
+REMARKS:        Speaker A sounds like she's washing dishes or something, 
+throughout the conversation.  I have noted when the noises are the loudest.  
+The noises sound like water going down a drain and pouring water back and 
+forth between glasses, and the loudest noises sound like banging or scraping 
+plastic dishes on a counter.
+
+===========================================================================
+  
+
+qo          A.1 utt1:  What kind of lawn and garden work do you do?  <noise>. /  
+
+nd          B.2 utt1:  {D Well, } right now the place where I'm living,  the yard was basically neglected for about the last twenty-five years,  /
+sd          B.2 utt2: <breathing>  {C so } I've been trying to rebuild and reestablish the entire lawn,  /
+sd          B.2 utt3: {C and }  after three years of working at it, [ I've, + I've ] been amazed at just  what a little bit of doing <<pause>> help out things to the lawn has really brought it back.  /
+sv          B.2 utt4:   Instead of mowing in the same direction every time,  changing, [ one day you'll, +  {E or } one time you'll ] [ cut it, + cut the ] lawn the long way,  then you'll go the opposite way, instead of going lengthways, you go width,  /
+sv          B.2 utt5: {C and }  it helps the grass come back. /  
+
+bh          A.3 utt1:  <Noise> {F Oh, } does it really?  /
+sd          A.3 utt2:  I didn't know that <noise>.  /
+qy          A.3 utt3:  [ Did, +  {F um, } you've ] been working on it for three years? /  
+
+na          B.4 utt1:  [ Thr-, +  [ f-, +  for ] three ] years. /  
+
+bh          A.5 utt1:  Really?  /
+qw          A.5 utt2: What have you done?  </noise>. /  
+
+sd          B.6 utt1:  Killing lots of fire ants. /  
+
+x          A.7 utt1:  <Laughter>.   
+
+sd          B.8 utt1:  I was firmly convinced the entire,   
+
+x          A.9 utt1:  <Noise>.   
+
++          B.10 utt1:  front yard was nothing but one gigantic ant mound. /  
+
+b          A.11 utt1:  Uh-huh <noise>. /  
+
+sd          B.12 utt1:  {C Because } it was like, [ you could, + you couldn't ]  even stand still out there. /  
+
+sd^c          A.13 utt1:  <Noise> {D You know, } I can barely hear you </noise>. /  
+
+qy^c          B.14 utt1:  Is this better? /  
+
+ny          A.15 utt1:  Yeah,  /
+sd^e          A.15 utt2: a little bit, {D yeah } <noise>. /  
+
+sd          B.16 utt1:  It was like you'd go out in the yard to water  something, you'd just be standing still. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  {C And } the ants would start crawling up  your legs.  /
+sd          B.18 utt2:  It's like, <laughter> I'm not standing in a mound, though. /  
+
+ba          A.19 utt1:  {F Oh, } wow.  /
+qw          A.19 utt2: How did you get rid of them? /  
+
+sd          B.20 utt1:  {F Uh, } Dursban Two. /  
+
+br          A.21 utt1:  Pardon? /  
+
+sd          B.22 utt1:  A chemical called Dursban Two, /  
+
+bk^m          A.23 utt1:  <Noise> {F Oh, } Dursban Two, /  
+
+sd          B.24 utt1:  it's a crystal. /  
+
+b          A.25 utt1:  yeah,  /
+sv          A.25 utt2: Dursban will get rid of just about anything,  I think.  /
+qy          A.25 utt3: [ {C But } +  {F um, }  {C so } ]  you haven't had a problem with that, since? /  
+
+no          B.26 utt1:  {F Um, } not bad.  /
+sd          B.26 utt2: Every,   
+
+b          A.27 utt1:  Yeah. /  
+
++          B.28 utt1:  once in a while you'll have a mound pop up,  /
+sv          B.28 utt2:  {C but } that's, [ gon-, + ] to be expected. /  
+
+qy          A.29 utt1:  [ What else +  [ did it , + did it ]  kill anything else ] it wasn't supposed to? /  
+
+^h          B.30 utt1:  {F Um, } /  
+
+qy^d          A.31 utt1:  Not really. /  
+
+ng          B.32 utt1:  as far as I can tell it hasn't killed anything it  wasn't supposed to.  /
+sd          B.32 utt2: Even the area of the grass that was underneath and  around the mounds --   
+
+b          A.33 utt1:  Yeah. /  
+
++          B.34 utt1:  -- it didn't kill it. /  
+
+bh          A.35 utt1:  Really?  /
+ba          A.35 utt2: {D Well, } that's pretty wild.  /
+%          A.35 utt3:  Yeah,  /
+sd          A.35 utt4: we used it  for fleas.  /
+sd          A.35 utt5:  We had fleas in our yard real bad last year,  /
+sd          A.35 utt6: {C and } we did  that {F um, }  /
+%          A.35 utt7: [ I just, +  I'm ] not, - /
+sd          A.35 utt8:  basically, I like to mow the lawn, believe it or not,  /
+sd          A.35 utt9: {C but }  I sometimes have problems starting the mower,  /
+sd          A.35 utt10: {C so } a lot of  times I won't get out and do it,  /
+sd          A.35 utt11: {C but } my husband, <noise> basically, does most of it,  /
+sd          A.35 utt12: {C and }  he does the, {D you know, } edging and all that kind of thing,  /
+sd          A.35 utt13: {C and } we're renting,  /
+sd          A.35 utt14:  {C and so } we don't really put a lot of money into the, {F uh, } {D you know, } {D like } - /
+sd          A.35 utt15:  this lawn could probably stand <noise> a couple of loads of dirt, and some Saint Augustine.  /
+sd          A.35 utt16:   [ We just, + we ] have winter rye out back,  /
+%          A.35 utt17: {C and } we have, - /
+sd          A.35 utt18: I don't even know  what it is out front,  /
+sd          A.35 utt19: <laughter> {C but, }  {F um, } [ we, +  this is the first  house we've ] ever lived in,  /
+sd          A.35 utt20: {C and } we're just not real into the lawn probably because we're renting,  I guess,  {F huh? }  /
+%          A.35 utt21:  {C So, }  it, anyway, -/  
+
+%          B.36 utt1:  {D Well, } -/  
+
+x          A.37 utt1:  <Beep>.   
+
+qy          B.38 utt1:  you said you had problems with fleas last year in the yard? /  
+
+na          A.39 utt1:  Right </beep>.  /
+ny          A.39 utt2: Uh-huh.  /
+%          A.39 utt3:  We were getting, -/  
+
+sv          B.40 utt1:  {F Uh, } I found one thing that,  it's kind of a weird  thing to say to put out on the lawn,  /
+sd          B.40 utt2: {C but, }   
+
+x          A.41 utt1:  <Noise>.   
+
++          B.42 utt1:  every time I've done [ [ it, + it's ]  got-, + [ it, + it ] drives ] the fleas completely out of the area. /  
+
+qw          A.43 utt1:  What? /  
+
+sd          B.44 utt1:  Powdered sulphur. /  
+
+bh          A.45 utt1:  {F Oh, } really?  /
+qw          A.45 utt2:  {F Hm, } I wonder why it does? /  
+
+sd          B.46 utt1:  [ You, + you ] don't have to put a whole lot  out,  /
+sd          B.46 utt2: just if you've got a broadcast spreader --   
+
+b          A.47 utt1:  Uh-huh. /  
+
++          B.48 utt1:  -- I think it comes in a forty-pound bag,  /
+sd          B.48 utt2:  {C and } it's real fine, like flour -- /  
+
+b          A.49 utt1:  Uh-huh. /  
+
+sd          B.50 utt1:  -- {C and } you just --   
+
+b          A.51 utt1:  Yeah. /  
+
++          B.52 utt1:  -- go out, and do the entire yard,  /
+sd          B.52 utt2: {C and }  [ you, + {E I mean, } you ] don't have to put clumps of it,  /
+sd          B.52 utt3: just very lightly cover the entire yard. /  
+
+bh          A.53 utt1:  Really?  /
+sd          A.53 utt2: {D Well, } I'll have to remember that,  because hopefully we won't have them this year,  /
+sd          A.53 utt3: {C but } we have a cat that comes  in and out,  /
+sd          A.53 utt4: {C and } the cat was getting, {F um, } fleas and stuff and bringing them in the  house,  /
+sd          A.53 utt5: {C so } we had a real problem last year with fleas,  /
+sd          A.53 utt6: {C and } {F uh, } <noise>  it was quite a drag <noise> because, {F um, } <noise> we got them in our  house,  /
+sd          A.53 utt7: {C and } <laughter> we're Christians,  /
+sd          A.53 utt8: {C and } we prayed that we could get rid of  these fleas,  /
+sd          A.53 utt9: {C and } we got rid of them, <noise> believe it or not, with smoke bombs,  which is just about impossible to do,  /
+sd          A.53 utt10: {C but } we did, </noise>  /
+sd          A.53 utt11: {C and so }  we don't want them back this year, {D you know? }  /
+sd          A.53 utt12: <laughter> {C so } I'll remember that  if we see it's a problem in the yard.  /
+%          A.53 utt13: <breathing> we're almost, - /
+sd          A.53 utt14: <breathing>  they were so bad last year, even ticks.  /
+h          A.53 utt15: I don't know,  /
+sd          A.53 utt16: we've had ticks before a lot,  /
+sd          A.53 utt17:  {C and } we've had to get out and treat our lawn for that.  /
+sd          A.53 utt18:  [ I think we used <noise>  Dursban for the, +  we used Dursban ] and Diazinon and get out there and do what  you do <laughter> with that thing, {D you know, } and spread it all out everywhere,  /
+sd          A.53 utt19:  {C but } that's about the extent of our lawn care.  /
+h          A.53 utt20:  {C So, } I don't know,  /
+qy          A.53 utt21: do you enjoy doing it?  /
+x          A.53 utt22: </noise> <breathing>.   
+
+na          B.54 utt1:  {F Oh, } I love it.  /
+sd          B.54 utt2:  My wife can't understand  /
+sd          B.54 utt3: it'd be a  hundred degrees outside, I'll be out there.  <<imitating wife's voice>>  /
+^q          B.54 utt4: {C But } it's too  hot to be working in the yard. /  
+
+x          A.55 utt1:  <Breathing>.   
+
+^q          B.56 utt1:  I'm under the trees,  /
+^q          B.56 utt2: I'm having fun, <<pause>>  /
+^q          B.56 utt3: {C and }  I'm stopping to drink water,  /
+^q          B.56 utt4: {C so } what's the problem?  <laughter>. /  
+
+b          A.57 utt1:  <Breathing> Yeah, <noise>  /
+ba          A.57 utt2:  [ {D well } that's, + {D well } that's ] funny.  /
+%          A.57 utt3: Yeah,  /
+sv          A.57 utt4: not everybody enjoys it, though.  /
+sd          A.57 utt5: Everybody has a different thing.  /
+sd          A.57 utt6:   I kind of enjoy it  /
+sd          A.57 utt7: {C and } my husband doesn't <laughter>.  /
+%          A.57 utt8:   I kind of have to, <noise> - /
+sd          A.57 utt9:  sometimes I'm too busy to get out there and do it,  /
+sd          A.57 utt10: {C and } [ he, + {D you know, } he ] doesn't really enjoy doing it,  /
+sd          A.57 utt11: {C but } he'll do it,  /
+sd          A.57 utt12: {C and }  he doesn't gripe about it or anything,  /
+sv          A.57 utt13: {C but, }  </noise> {D you know, } I'm kind of like  you  /
+sv          A.57 utt14: {C and } he's kind of  like your wife.  /
+sd          A.57 utt15:  {E I mean, } {D you know, } in that  he doesn't really enjoy it,  /
+sd          A.57 utt16: {C but } I would like to have a garden, {D you know, }  /
+sd          A.57 utt17: that's my  thing, <breathing>  /
+sd          A.57 utt18: {C but } right now where we're living we have the trees where their, {F uh, }  roots are at the top of the ground everywhere over the ground.  /
+sd          A.57 utt19:  I don't know what kind of trees they are,  /
+sv          A.57 utt20: {C but } <breathing> you can't have a garden,  /
+sv          A.57 utt21: you can't till it,  /
+sv          A.57 utt22: {C or } [ it'll, + it'll ] tear up a nice tiller <breathing>.  /
+sd          A.57 utt23:   {C So } we're going to wait until we move.  /
+sd          A.57 utt24:  We don't have a lot of sun, either, because it's big trees back there.  /
+sd          A.57 utt25: {C So } we're going to wait,  /
+sd          A.57 utt26: {C and } when we move  that's one of our priorities, <breathing> is to get a house where we can have a,  {F uh, } garden.  /
+sd          A.57 utt27: {C And so } I'd like to do that.  /
+sd          A.57 utt28: I have a feeling I'll be out there all  the time <laughter> taking care of that,  /
+sd          A.57 utt29: {C but } that's our next thing <smack>.  /
+qy          A.57 utt30:   Do you have a garden? /  
+
+%          B.58 utt1:  I've got, the, - /
+^h          B.58 utt2:  this is the neat thing about the place we ended up at.    
+
+b          A.59 utt1:  Uh-huh. /  
+
++          B.60 utt1:  Sitting on about a two acre lot now,  /
+%          B.60 utt2: {C and }  half of it's, - /
+na          B.60 utt3: the back half is my garden. /  
+
+ba          A.61 utt1:  <Breathing> <noise> {F Oh, } are you kidding?  /
+ba          A.61 utt2:  That sounds fun.  /
+qw          A.61 utt3: Where do you all live? /  
+
+sd          B.62 utt1:  {F Uh, } in Missouri City. /  
+
+b          A.63 utt1:  {F Oh, } really,  /
+%          A.63 utt2: wh-, -/  
+
+sd          B.64 utt1:  [ Southwest, + southwest ] side of Houston. /  
+
+br          A.65 utt1:  Southwest where? /  
+
+sd          B.66 utt1:  Southwest Houston. /  
+
+bh          A.67 utt1:  {F Oh, } really?   /
+sd          A.67 utt2: {F Oh, } {C because } we're in  Dallas.  /
+sd          A.67 utt3:  I guess I assumed you were here.  /
+ba          A.67 utt4: {D Well, } that's neat.  /
+%          A.67 utt5: {C And, }  {F um, } yeah  /
+sd          A.67 utt6:  that's what we want.  /
+%          A.67 utt7: We have a, - /
+%          A.67 utt8: yeah,  /
+sd^r          A.67 utt9:   that's really what we want,  /
+sd          A.67 utt10: {C but } we just haven't  been able to do that yet,  /
+sd          A.67 utt11: {C so }  one day we'll be able to do it,  /
+sd          A.67 utt12: {C and } I'm excited about it.  /
+sd          A.67 utt13:  {C And then } I don't know anything about it,  /
+sd          A.67 utt14: I have to learn,  /
+ad          A.67 utt15: {C and then } you'll  have to give me a call on gardening <laughter>. /  
+
+x          B.68 utt1:  <Laughter>.   
+
+qh          A.69 utt1:  <Laughter> What do you do in your garden,  /
+sd          A.69 utt2:  {C and } I'll go nothing,  /
+qh          A.69 utt3: what should I do?  /
+fc          A.69 utt4:  {C But } <breathing> anyway, I guess that's about it  though.  /
+fc          A.69 utt5:  It sounds like  we've covered all the bases <breathing>  /
+fc          A.69 utt6: {C so } I guess we'll let  you go,  /
+fc          A.69 utt7: {C and, } <breathing> {F um, } do you have anything else you wanted to say? /  
+
+fc          B.70 utt1:  {F Uh, } no,  /
+fc          B.70 utt2: it's just,   
+
+fc          A.71 utt1:  Okay. /  
+
++          B.72 utt1:  I've had an [ en-, +  very enjoyable ] conversation with you. /  
+
+fc          A.73 utt1:  I know, you too.  /
+fc          A.73 utt2:  I hope you have a  nice day,  /
+fc          A.73 utt3: {C and } --   
+
+fc          B.74 utt1:  Okay,  /
+fc          B.74 utt2: you too. /  
+
++          A.75 utt1:  -- we'll talk to you later. /  
+
+fc          B.76 utt1:  Okay.  /
+fc          B.76 utt2: # Bye. # /  
+
+fc^m          A.77 utt1:  # Bye. # / 

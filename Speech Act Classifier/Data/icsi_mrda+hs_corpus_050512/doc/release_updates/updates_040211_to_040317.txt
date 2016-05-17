@@ -1,0 +1,43 @@
+This file explains the updates made between two ealier releases being
+used in the community, in case it is useful information for updating
+any research started on the earlier data.
+
+from release:  icsi_da_corpus_040211
+to release:    icsi_da_corpus_040317
+
+
+
+New alignment information:
+-------------------------
+- In this release we provide alignment files that map
+  both words and punctuation in the MRT and DADB files. 
+  (see /align_mrt_dadb)
+  
+
+Updated classmaps:
+------------------
+-A complementary set of classmaps are given with the original five.  This new
+ set gives the explicit mappings of each DA label found in the 75 meetings
+ instead of using the wildcard '*' that the original classmaps use.
+
+-The classmap explanations have been updated to describe them in more detail.
+
+
+Minor DADB file fixes:
+----------------------
+-Blank lines were removed from the beginning of Bed013.dadb, Bed014.dadb,
+ Bro022.dadb, Bro028.dadb, and Btr002.dadb.
+
+-A missing original DA label was inserted the following line in the
+ Bns002.dadb file:
+
+        5609.1,5609.57,A,5609.1+5609.57+o_k,,Bns002-cB,s^bk,,,okay .,o_k .
+
+-Five incoherent DA labels were fixed:
+      Incoherent Tag   Fixed Tag    Meeting  Channel   Start Time
+      s^e.%-_:s.%--    s^e.%-:s.%-- Bed015   5	       3762.39
+      s^a|s^na	       s^aa|s^na    Bmr016   4	       722.9
+      s^baa	       b	    Bmr019   5	       2988.85
+      qy^rt(32b)       qy^rt	    Bmr028   0	       2845.78
+      s^bu|qy^d^grt    s^bu|qy^d^rt Btr002   6	       2169.47
+

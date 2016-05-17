@@ -1,0 +1,597 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2650_1093_1251
+TOPIC#:		351
+DATE:		910423
+TRANSCRIBER:	GLP
+UTT_CODER:		AEE
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.
+
+=========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+sd          A.1 utt2: this is really ironic that [ this would, + I would ]  get this subject today because just yesterday our dog ran away <laughter>. /  
+
+ba          B.2 utt1:  {F Oh, } no. /  
+
+sd          A.3 utt1:  {C And } it's just been tearing me up all day <laughter>. /  
+
+ba          B.4 utt1:  {F Oh, } I bet. /  
+
+sd          A.5 utt1:  {C Because } we have just been looking all over for him.  /
+sd          A.5 utt2:   We've been to the pound,  /
+sd          A.5 utt3: we've been to the humane society,  /
+sd          A.5 utt4: we've been to the adoption center,  /
+sd          A.5 utt5: we've just been all over the neighborhood,  /
+sd          A.5 utt6: we've been calling neighbors <laughter>.  /
+sd          A.5 utt7: {C So } this is just really strange <laughter>. /  
+
+aa          B.6 utt1:  {F Oh, } I guess so.  /
+qy          B.6 utt2: Have you lost him before? /  
+
+nn          A.7 utt1:  No,  /
+sd^e          A.7 utt2: this is the first time.   /
+sd          A.7 utt3: {F Um,  }   he's gotten out before,  /
+sd          A.7 utt4: {C but } he's always stayed right here --   
+
+b          B.8 utt1:  Uh-huh. /  
+
++          A.9 utt1:  -- {D you know, }  /
+sd          A.9 utt2: he's never gone away.  /
+sd          A.9 utt3:  {C And  so }  this is just really strange,  {D you know } because, -/  
+
+qw          B.10 utt1:  What kind of a dog is he? /  
+
+sd          A.11 utt1:  {F Um, } he's part golden Lab and part, {F uh, } <lipsmack>,  let's see, Alaskan, no, not Alaskan.  /
+sd          A.11 utt2:  I always forget <laughter>. /  
+
+b          B.12 utt1:  Yeah. /  
+
+sd          A.13 utt1:  {F Uh, } Australian shepherd. /  
+
+bk          B.14 utt1: Oh, /  
+
+%@          A.15 utt1:  {C And, }   
+
+qy^d          B.16 utt1:  boy,  he's a big one. /  
+
++@          A.17 utt1:  Yeah,  /
+sd^e          A.17 utt2: he's pretty big.  /
+sd          A.17 utt3: That's why it really surprises me, {D you  know, } that he hasn't come back, because, <breathing> like I said, he's never gone away like this before,  /
+sd          A.17 utt4: {C and, }  <breathing> I would think, {D you know, } [ he might, + {E I mean, } he might ] could get hurt by a car or something.  /
+sv          A.17 utt5:  I don't know that he could really get killed that easily because he is so big. /  
+
+b          B.18 utt1:  Yeah. /  
+
+h          A.19 utt1:  {D You know, }  {C but, }  <breathing> I don't know <laughter>. /  
+
+sd          B.20 utt1:  {F Oh, } {D well, } I hope he comes back,  /
+by          B.20 utt2: that's too bad. /  
+
+ft          A.21 utt1:  Thanks,  /
+sd          A.21 utt2: I do, too <laughter>. /  
+
+qw          B.22 utt1:  How long have you had him? /  
+
+sd          A.23 utt1:  {F Oh, } about two years.  /
+%          A.23 utt2: {C So, } he's <breathing>, -/  
+
+ba          B.24 utt1:  {F Oh, } that's tough. /  
+
+aa          A.25 utt1:  Yeah,  /
+%          A.25 utt2: <breathing> it's really, - /
+fe          A.25 utt3: gosh, <laughter> anyway, -/  
+
+b          B.26 utt1:  Yeah,  /
+qy^g          B.26 utt2: you get very attached to animals, don't you? /  
+
+qh          A.27 utt1:  [ That, + isn't that ] funny how we do? /  
+
+ny          B.28 utt1:  Yeah. /  
+
+%          A.29 utt1:  {E I mean, } we just really, -/  
+
+sv          B.30 utt1:  {D Well, } {D you know, } they're always there for you  /
+sv          B.30 utt2: {C and } they don't talk back to you <laughter>. /  
+
+b          A.31 utt1:  Yeah <laughter>. /  
+
+sv          B.32 utt1:  {C And, }  {F uh, } <breathing> it's kind of pleasant. /  
+
+sv          A.33 utt1:  {D Well, } they're companions, /  
+
+aa          B.34 utt1:  Yeah,  /
+aa          B.34 utt2: sure,  /
+aa^r          B.34 utt3: sure. /  
+
+qy          A.35 utt1:  {D Well, } do you have any? /  
+
+ny          B.36 utt1:  Yes,  /
+sd^e          B.36 utt2: we have a dog, a little white Lhasa.  /
+sd          B.36 utt3:  {C And } her name is Angel.  /
+sd          B.36 utt4: {C And } we have a cat, [ who, + ] a white cat. [ He's, + he's ] just a Tabby,   just a, - /
+sd          B.36 utt5: {C and } his name is Dominique.  /
+sd          B.36 utt6:  We call him Neek. /  
+
+b          A.37 utt1:  {F Um, } <laughter>. /  
+
+%          B.38 utt1:  {C But, } -/  
+
+qw          A.39 utt1:  How do they get along together? /  
+
+sd          B.40 utt1:  Pretty good.  /
+sd          B.40 utt2:  {F Uh, }  [ we've, + we ] had [ the, + the ] dog first,  /
+sd          B.40 utt3:  {C and, }  {F uh, } she's kind of a wimp  /
+sd          B.40 utt4: [ {C and, } +   
+
+x          A.41 utt1:  <Laughter>.   
+
++          B.42 utt1:  {C and } ] the cat kind of rules,  /
+sd          B.42 utt2:  {C but, }  {F uh, } she likes him all right.  /
+sd          B.42 utt3: [ He, + we ] had another cat about two years ago.  /
+sd          B.42 utt4: It got [ leukemia, <noise> +  feline leukemia  -- ]   
+
+b          A.43 utt1:  {F Um. } /  
+
++          B.44 utt1:  -- {C so } we had to have it put to sleep,  /
+sd          B.44 utt2: {C and, {F uh, } then }  we got this new cat,  /
+sd          B.44 utt3: {C so, } {F uh. }  I have two children  /
+sd          B.44 utt4:  {C and } they really enjoy the animals.  /
+sd          B.44 utt5: {C And then } my mother who's very elderly lives with us,  /
+sd          B.44 utt6: {C and } she's really good friends with the dog.  /
+sd          B.44 utt7: They're very,   
+
+b          A.45 utt1:  {F Oh, } yeah. /  
+
++          B.46 utt1:  good buddies. /  
+
+sv          A.47 utt1:  <Breathing> That's what are so neat about animals,  /
+sv          A.47 utt2:  {E I mean, } [ [ they are, + {D you know, } like I said, they're, ] + they're ]  really companions, {D you know, }  /
+sv          A.47 utt3: {C and } they're friends,   
+
+aa          B.48 utt1:  That's right. /  
+
++          A.49 utt1:  <Noise> {D you know. }  /
+sv          A.49 utt2: {E I mean, } [ they, + you ]  can love them all you want  /
+sv          A.49 utt3: {C and } they love you right back  /
+%          A.49 utt4: {C and } they don't <laughter>, -/  
+
+ba          B.50 utt1:  That's right.  /
+sv          B.50 utt2:  They don't care what you look like,     
+
+aa          A.51 utt1:  No. /  
+
++          B.52 utt1:  or what you act like, /  
+
+x          A.53 utt1:  <Laughter>.   
+
+sv          B.54 utt1:  They just love you, unconditionally. /  
+
+aa          A.55 utt1:  I know. /  
+
+sv          B.56 utt1:  It's wonderful. /  
+
+sv          A.57 utt1:  It's just so neat.   {D You know, }  /
+%          A.57 utt2:  it's, - /
+%          A.57 utt3: that's, - /
+h          A.57 utt4: I don't know <laughter>,  /
+sd          A.57 utt5: this is just so hard. /  
+
+aa          B.58 utt1:  {F Oh, } I know it has to be. /  
+
+sd          A.59 utt1: [ It's just, + it's like ]  I said, we've had him for two years  /
+%          A.59 utt2: {C and } he's never, - /
+sd          A.59 utt3:   {E I mean, } [ he's, + he's ] gotten out,  /
+sd          A.59 utt4:  {C but } he's always been right there.  /
+sd          A.59 utt5: He's never been gone  for,  at  all -- /  
+
+b          B.60 utt1:  Uh-huh,  /
+b^r          B.60 utt2: uh-huh. /  
+
+sd          A.61 utt1:  -- {D you know, } he's just always been right there when he gets out. /  
+
+b          B.62 utt1:  Oh. /  
+
+sd          A.63 utt1:  {D You know, } it's the first time he's ever been gone like this <laughter>. /  
+
+ba          B.64 utt1:  {F Oh, } that's really too bad,  /
+ba          B.64 utt2: that's awful,  {D well, } /  
+
+sd          A.65 utt1:  {F Uh, } <breathing> [ I, + <lipsmack> I ]  just knew today, {F uh, } {D you know, } that we looked at the pound,  and that we just went all over the place,  /
+sd          A.65 utt2: {C and } I knew we were going to find him, {D you know, }  /
+sd(^q)          A.65 utt3: {C and } when we didn't it was, like,  {F oh, } no, <laughter>.  /
+h          A.65 utt4:  {C So } <lipsmack> I don't know. /  
+
+sd          B.66 utt1:  {D Well, } [ [ I, + I'll, ] + I ] hope you'll find him.  /
+sv          B.66 utt2:  You most likely will. /  
+
+aa          A.67 utt1:  Yeah,  /
+%          A.67 utt2: we keep, {D you know, } - /
+sd(^q)          A.67 utt3:  they told us {D like } at the Humane Society and the adoption center, {D you know, } don't give up hope, {D you know, }   <breathing>  /
+%@          A.67 utt4:  {C and then, }   
+
+qy          B.68 utt1:  {D Well, } have you put any posters up or anything like that? /  
+
++@          A.69 utt1:  {D Well, } not yet.  /
+sd          A.69 utt2: We were talking about that tonight since, {D you know, } [ [ he, + we just, ] + he just ] got out yesterday  /
+sd          A.69 utt3: we  were just talking about  that whether - /
+sd          A.69 utt4: [ we, + we ] were trying to find some pictures of him recently.  /
+sd          A.69 utt5:   We've got so many when he was a puppy <breathing> <laughter>, /  
+
+b          B.70 utt1:  Uh-huh,  /
+b          B.70 utt2: yeah. /  
+
+sd          A.71 utt1:  {D you know, } {C but } we just don't have a whole lot.  /
+sd          A.71 utt2:   We have him on film, {D you know, } on the video camera <laughter>. /  
+
+b          B.72 utt1: Uh-huh,  /
+b^r          B.72 utt2: uh-huh,  /
+b          B.72 utt3: yeah. /  
+
+sd          A.73 utt1:  {D You know, } {C but } you can't put that on the <laughter>, -/  
+
+aa          B.74 utt1:  No,  /
+aa          B.74 utt2: you sure can't. /  
+
+h          A.75 utt1:  {D you know, } [ {C so } + <laughter>,   
+
+ba          B.76 utt1:  {F Oh, } dear. /  
+
++          A.77 utt1:  {C So, } ] I don't know,  /
+sd          A.77 utt2: [ I, + we ] [ will probably + will ] put [ some things up. +  Some posters and stuff up  ] <lipsmack>. /  
+
+ba          B.78 utt1:  {D Well, } that's good. /  
+
+sd          A.79 utt1:  {C And } hopefully that will help, {D you know, } maybe around the neighborhood.  /
+sd          A.79 utt2: {C But, }  <breathing> we know a lot of people that live in this neighborhood,  /
+sd          A.79 utt3: {C so }  that helps, too, {D you know, } if they can keep, -/  
+
+^2          B.80 utt1:  They can keep their eyes open,  /
+%          B.80 utt2: yeah. /  
+
+b^m          A.81 utt1:  yeah,  /
+%          A.81 utt2: {C so, } <lipsmack>. -/  
+
+sv          B.82 utt1:  That will help.  /
+%          B.82 utt2: {D Well, } -/  
+
+sv          A.83 utt1:  I think that if somebody else picks him up, - /
+sd          A.83 utt2:  I think that, {F uh, }  if he gets out he'll come back. /  
+
+b          B.84 utt1:  Yeah. /  
+
+sd          A.85 utt1:  {D You know. }   I really do, because he knows exactly where he lives,  /
+%          A.85 utt2: {C so } - /
+x          A.85 utt3:  <breathing>,   
+
+b          B.86 utt1:  Yeah,  /
+b^r          B.86 utt2: yeah  /
+aa          B.86 utt3: he will.  /
+aa          B.86 utt4:  I bet he does. /  
+
+x          A.87 utt1:  <Lipsmack>.   
+
+sd          B.88 utt1:  I know, that it's hard on you.  /
+sd          B.88 utt2:  I know that I'd be worried, too. /  
+
+aa          A.89 utt1:  <Breathing> I know.  /
+sd          A.89 utt2: [ It's just like, + [ it's, + it's ] just ]  so ironic that this would happen <laughter>  /
+sd          A.89 utt3: {C and } I would get [ this, + this ]  kind of a call <laughter>. /  
+
+aa          B.90 utt1:  Yeah,  /
+bh          B.90 utt2: isn't it, though? /  
+
+na          A.91 utt1:  I know, /  
+
+%          B.92 utt1:  That's, -/  
+
+sd          A.93 utt1:  it's very strange  /
+%          A.93 utt2: {C but, } -/  
+
+sd          B.94 utt1:  {D You know, } I know sometimes our cat [ will, + will ]  stay out all night, <noise>  /
+sd          B.94 utt2: {C and } when he's not right at the door in the morning I really worry that something's happened to him, that [ somebody, +   he's ] got in a fight or, {D you know, } somebody's hit him  /
+sd          B.94 utt3: [ {C and, } +  {C and } ] {F uh, } if he doesn't come by mid morning, then I really get scared.  /
+sd          B.94 utt4: {C But } he's always come back eventually  /
+%          B.94 utt5: {C so, } -/  
+
+ba          A.95 utt1:  {D Well, } that's good.  /
+sv          A.95 utt2:  That's one thing about cats though,  /
+sv          A.95 utt3: they're so small  <breathing> -- /  
+
+b          B.96 utt1:  Yeah. /  
+
+sv          A.97 utt1:  -- {C and, } {D you know, } they can get hurt a lot easier. /  
+
+b          B.98 utt1:  Yeah. /  
+
+sv          A.99 utt1:  {D You know, } they can get hurt a lot easier,    
+
+b          B.100 utt1:  Yeah, /  
+
++          A.101 utt1:  {D you know, } /  
+
+aa          B.102 utt1:  they can. /  
+
+sv          A.103 utt1:  {C so } that would make you really,   
+
+b          B.104 utt1:  Yeah. /  
+
++          A.105 utt1:  tend to worry about them <laughter>, {D you know, }   if they're not right there  /
+x          A.105 utt2: <breathing>.   
+
+aa          B.106 utt1:  Yeah.  /
+sd          B.106 utt2:  {D Well, } {C but } he's a real feisty guy.  /
+sd          B.106 utt3:  He fights with other cats in the neighborhood because he doesn't want them on our property. /  
+
+bh          A.107 utt1:  Is that right? /  
+
+%          B.108 utt1:  He's, - /
+sd          B.108 utt2: cats are really almost more territorial [ than, + than ]  dogs  are.  /
+sd          B.108 utt3: They just really do not want other animals on their property.  /
+%          B.108 utt4: They're [ very, + very ] - /
+%          B.108 utt5:  <breathing>, [ he, + he ] just - /
+sd          B.108 utt6: any cat that comes near,  and even a dog [ he won't, +  he won't ] jump at them or anything,  /
+sd          B.108 utt7: {C but } he'll sit  /
+sd          B.108 utt8: {C and } he'll watch,  /
+sd          B.108 utt9: {C and, }  I think maybe he would if it came real close,  /
+sd          B.108 utt10: {C but } he's very protective of our property. /  
+
+b          A.109 utt1:  Huh.  /
+%          A.109 utt2: That's really, - /
+sd          A.109 utt3: [ I, + I ] guess I really don't know cats that well because my mother never liked them, /  
+
+b          B.110 utt1:  Uh-huh. /  
+
+sd          A.111 utt1:  {C so } I never had them growing up, /  
+
+b          B.112 utt1:  Yeah. /  
+
+sd          A.113 utt1:  {C so, } {D you know, } I never really had them around me, <breathing> {D you know, }  /
+sd          A.113 utt2: {C so } I've never owned one <laughter>, {D you know, } since I, -/  
+
+sd          B.114 utt1:  {D Well, } they're really a lot different than dogs because [ they're not, + they're  very ] independent,  /
+sd          B.114 utt2: {C and } [ they're very, + he's very ]  affectionate when he wants to be,  /
+sd         B.114 utt3: {C but } if you want him to be and he doesn't want to be, [ he'll just, + he'll, ] {D you know } either scratch you or run away. /  
+
+b          A.115 utt1:  {F Huh. } /  
+
+sd          B.116 utt1:  {C But } when he wants to be, {F uh, } he's really affectionate.  /
+sd          B.116 utt2:   He likes to lay next to you  and have you scratch his head [ [ and, + and, ] + and ]  snuggle up to you,  /
+sd          B.116 utt3: [ {C and, } + {C but } ] if he's not in the mood, you'd better stay away from him. /  
+
+b          A.117 utt1:  {F Huh } <laughter>. /  
+
+sv          B.118 utt1:  {C But, }  dogs seem to be always in the mood.  /
+sv          B.118 utt2:  They're always, {D you know, } right there, and [ like, + like ] you to pet them and loving. /  
+
+aa          A.119 utt1:  Yeah,  /
+aa          A.119 utt2: that's true <laughter>.  /
+sd          A.119 utt3:  [ I, + I ] like the way they come up  /
+sv          A.119 utt4: {C and } [ they'll, + they'll ] put their head underneath your hand, {D you know. } /  
+
+b          B.120 utt1:   Yeah,  /
+b^r          B.120 utt2: yeah,  {F oh. } /  
+
+%          A.121 utt1:  <Laughter> that, - /
+sv          A.121 utt2: {C and, }  {F uh, } most dogs do that.  /
+%          A.121 utt3: {E I mean, } -/  
+
+aa          B.122 utt1:  Yeah,  /
+aa          B.122 utt2: they do. /  
+
+sd          A.123 utt1:  I don't know any that really don't.  /
+sv          A.123 utt2:  {E I mean, } {D you know, } they know exactly how to get that attention, {D you know, } /  
+
+aa          B.124 utt1:  They sure do. /  
+
+sv          A.125 utt1:  they just, {D you know, } come up,  /
+sv          A.125 utt2: {C and } they put your, {D you know } -- -/  
+
+b          B.126 utt1:  Yeah. /  
+
+sv          A.127 utt1:  -- {C or } they'll rub [ their, + their ]  head against you, {D you know } <laughter>. /  
+
+qy          B.128 utt1:  {D Now, } do you keep him indoors most of the time other than to go outs-, /  
+
+nn          A.129 utt1:  {D Well, } no.  /
+sd^e          A.129 utt2:  {D Well, }  {D well, }  he's outside during the day  /
+sd          A.129 utt3: {C and then } we get home at night we do bring him in. /  
+
+qy          B.130 utt1:  You have a fenced yard or, -/  
+
+ny          A.131 utt1:  Uh-huh, /  
+
+b^m          B.132 utt1:  Uh-huh. /  
+
+ny          A.133 utt1:  yeah.  /
+sd^e          A.133 utt2: The backyard, it's really big, too, for him to run in and  stuff.  /
+sd          A.133 utt3: That's why we couldn't understand why he would want to get out <laughter>,    
+
+b          B.134 utt1:  Yeah. /  
+
++          A.135 utt1:  {D you know, } because he's had all this room to run in,  /
+%          A.135 utt2:  [ {C and, } +  <breathing> {C but, } ] -/  
+
+qw          B.136 utt1:  {D Well, } how did he get out? /  
+
+sd          A.137 utt1:  He dug a hole under the fence. /  
+
+ba          B.138 utt1:  {F Oh, } boy. /  
+
+sd          A.139 utt1:  {D Well, } {D see, } [ he did, + he did ]  it a couple weeks ago, dug a hole,  /
+sd          A.139 utt2: {C and, } {D you know, } [ we, + we ] filled it back up --   
+
+b          B.140 utt1:  Uh-huh. /  
+
++          A.141 utt1:  -- put him back in there.  /
+sd          A.141 utt2:  He did it again <laughter>  -- /  
+
+b          B.142 utt1:  Uh-huh. /  
+
+sd          A.143 utt1:  -- {C so } we chained him up -- /  
+
+b          B.144 utt1:  Uh-huh. /  
+
+sd          A.145 utt1:  -- {D you know, } {C but } we really didn't want to keep him chained up because, {D you know, } we feel like that's just too restricting for him. /  
+
+b          B.146 utt1:  Right,  /
+b^r          B.146 utt2: right. /  
+
+sd          A.147 utt1:  {C So, } {F uh, } [ we got, + [ we, + we ] put ] dirt in the hole  and then put some chicken wire around it, {D you know, } so that he couldn't get out. /  
+
+b          B.148 utt1:  Uh-huh. /  
+
+sd          A.149 utt1:  {D Well, } he kind of ripped through the chicken wire <breathing>. /  
+
+bk          B.150 utt1:  Oh. /  
+
+%          A.151 utt1:  {C So } I can't, - /
+%          A.151 utt2: [ [ I, + I, ] + I ] just have not, - /
+sd          A.151 utt3: I don't understand, {D you know, } because it's, like, he's got a good home, {D you know, }  /
+%          A.151 utt4: he's got, - /
+sd          A.151 utt5:  {E I mean, } we have two kids, {D you know, } that just love him a lot, /  
+
+b          B.152 utt1:  Yeah,  /
+b^r          B.152 utt2: yeah. /  
+
+sd          A.153 utt1:  {D You know, } it's like we can't understand why he kept wanting to get out, {D you know, }  /
+sd          A.153 utt2: we just couldn't, -/  
+
+sv          B.154 utt1:  {D Well, } you know, that, animals  are like that.   /
+sv          B.154 utt2: They like to roam and  investigate.    
+
+aa          A.155 utt1:  Yeah <breathing>.  /
+%          A.155 utt2:  I guess that's, -/  
+
++          B.156 utt1:  And see what's going on. /  
+
+aa          A.157 utt1:  Yeah,  /
+aa          A.157 utt2: I guess that's probably true.  /
+sv          A.157 utt3: I don't think it's anything we did <laughter>. /  
+
+aa          B.158 utt1:  No. /  
+
+sd          A.159 utt1:  Least I hope not <laughter>. /  
+
+aa          B.160 utt1:  No.  /
+sv          B.160 utt2: I'm sure that, {D yeah, } -/  
+
+aa          A.161 utt1:  No,  /
+aa          A.161 utt2: [ I, + I ] know,  /
+sd          A.161 utt3: {E I mean } [ he's always, + {D you know, } <lipsmack> he really ] does have a good home.  /
+sd          A.161 utt4:  I think that's what really bothers me the most about it <laughter>. /  
+
+b          B.162 utt1:  Yeah. /  
+
+%          A.163 utt1:  {D You know, } it's like, -/  
+
+qo          B.164 utt1:  How are your kids handling it? /  
+
+sd          A.165 utt1:  {D Well, } <breathing> <lipsmack> I don't know if it's quite [ hit him, +  hit them. ] /  
+
+b          B.166 utt1:  Uh-huh. /  
+
+sd          A.167 utt1:  <Laughter> I have two girls, /  
+
+b          B.168 utt1:  Uh-huh. /  
+
+sd          A.169 utt1:  {C and } [ they, + they ] just been real, {F uh, } <breathing> - /
+h          A.169 utt2: I don't know,  /
+sd          A.169 utt3: at first, {D you know, } they seemed to be upset,  /
+sd(^q)          A.169 utt4: {C but } now it's like, {F uh, } {D well } if he doesn't come home, can we get another dog <laughter>. /  
+
+b          B.170 utt1:  <Laughter> yeah,  /
+sv          B.170 utt2: that sounds like kids. /  
+
+sd(^q)          A.171 utt1:  <Laughter>.  It's like, <laughter>, wait a minute <laughter>, {D you know, } <laughter>. /  
+
+b          B.172 utt1:  <Laughter> Oh. /  
+
+^q          A.173 utt1:  <Laughter> poor Buddy, {D you know. }  /
+sd(^q)          A.173 utt2:  <laughter> I said, he's only been gone a day  /
+^q          A.173 utt3: {C and } you already want to replace him <breathing>. /  
+
+qw          B.174 utt1:  What's his name,  /
+qy          B.174 utt2: did you call? /  
+
+sd          A.175 utt1:  Buddy. /  
+
+qy^m          B.176 utt1:  Buddy? /  
+
+ny          A.177 utt1:  Uh-huh. /  
+
+sd          B.178 utt1:  [ We, + that's ] was our cat's name [ [ that, + that, ] + that ] died. /  
+
+bh          A.179 utt1:  Is that right <laughter>? /  
+
+ny          B.180 utt1:  {F Oh, } yeah.  /
+sd^e          B.180 utt2:  [ We named him, + {F uh, } we named him ]  Buddy after, {F uh, } Buddy Bell, {F uh, } the Ranger baseball player that used to be here. /  
+
+bk          A.181 utt1:  Oh <laughter>. /  
+
+%          B.182 utt1:  {C And } we used to, - /
+sd          B.182 utt2:  we  were really into that when we got him going to the Ranger games,  /
+sd          B.182 utt3: {C and } we named him Buddy Beaner for some reason. /  
+
+x          A.183 utt1:  <Laughter>.   
+
+sd          B.184 utt1:  {C But, }  Buddy after Buddy Bell,  /
+%          B.184 utt2: {C so, } -/  
+
+ba          A.185 utt1:  That's funny. /  
+
+sd          B.186 utt1:  {C But, } [ he was, + he was ]  a good cat, too.  /
+sd          B.186 utt2: We miss him a lot, /  
+
+b          A.187 utt1:  Yeah. /  
+
+sd          B.188 utt1:  {C and } [ I, + I ]  feel real guilty because <breathing> we had him, {D like, } for six years  /
+sd          B.188 utt2: {C and } one year I forgot to get him his leukemia booster  /
+sd          B.188 utt3: {C and } he got it. /  
+
+b          A.189 utt1:  <Lipsmack> Oh. /  
+
+sd          B.190 utt1:  {C And } I just felt so bad,  /
+sd          B.190 utt2: [ I, + it's ]  real contagious  /
+%          B.190 utt3: {C and } it's, - /
+sd          B.190 utt4: {C and } the vet <noise> said it runs rampant in this area <breathing>, /  
+
+sd          A.191 utt1:  I didn't know that. /  
+
+sd          B.192 utt1:  {C and } if they don't have their booster, <breathing> any kind of saliva or  anything from another cat,  if they get in a fight it automatically, {D like, } - /
+sd          B.192 utt2: they get it if the other cat has it  /
+%          B.192 utt3: {C so, } -/  
+
+sd          A.193 utt1: [ I had, + I had ] no idea. /  
+
+b          B.194 utt1:  Oh. /  
+
+sd          A.195 utt1:  I did not know that. /  
+
+b          B.196 utt1:  Oh.   /
+%          B.196 utt2:  It was, - /
+sd          B.196 utt3: I just felt terrible.  /
+sd          B.196 utt4:   I knew something was wrong with him because his appetite was, - /
+sd          B.196 utt5: he was just getting real skinny. <<voices fade out.>> / 

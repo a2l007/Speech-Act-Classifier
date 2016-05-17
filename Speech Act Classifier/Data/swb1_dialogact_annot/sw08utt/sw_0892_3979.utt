@@ -1,0 +1,143 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3979_1402_1376
+TOPIC#:		336
+DATE:		920218
+TRANSCRIBER:	GL
+UTT_CODER:      aabo
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+fp          A.1 utt1:  Afternoon, Doug,  /
+fp          A.1 utt2: it certainly is, {F uh, } going to be a pleasure to chat with you. /  
+
+b          B.2 utt1:  Uh-huh. /  
+
+sd^t          A.3 utt1:  <Laughter> {C And } I'm, {F uh, } certainly was surprised [ to, + {F uh, } to ] hear from you.  /
+sd^t          A.3 utt2: Normally I talk to people in Plano, Texas. /  
+
+aa          B.4 utt1:  Yeah,  /
+aa          B.4 utt2: me too. /  
+
+qw^t          A.5 utt1:  How did you get on this list? /  
+
+sd^t          B.6 utt1:  {F Uh, } through Nancy Dahlgren.  /
+sd^t          B.6 utt2: [  She, + {F um, } she ] had somehow gotten the information from T I --    
+
+bk          A.7 utt1:  {D Well, } okay. /  
+
++          B.8 utt1:  -- and was distributing it around. /  
+
+b          A.9 utt1:  All right.  /
+qw          A.9 utt2:  {D Well, } {D now, } what would you say about these everyday invasions of our privacy?  /
+qo          A.9 utt3:  What ideas do you have on that, Doug? /  
+
+%          @B.10 utt1:  {F Um, } {D see, } I'm not sure that, - /
+sd          @B.10 utt2: I don't think they're necessarily widespread in this country,  /
+sv          @B.10 utt3: {C but } I think that the opportunity is definitely there for, {F um, } people to invade your privacy when they want to,  /
+%          @B.10 utt4: I think it's, {F um, } -/  
+
+qw          A.11 utt1:  In what manner? /  
+
+sd          B.12 utt1:  {D Well, } it's certainly not that difficult to tap a phone.  /
+sv          B.12 utt2: It's completely trivial to, for instance, listen in on someone's car phone or walk around phone, since they're just radio signals. /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+%          B.14 utt1:  It's, {F um, } - /
+^h          B.14 utt2: {C and } let's see,  /
+qo          B.14 utt3: {D well, } what's the first thing that comes to your mind? /  
+
+sv          A.15 utt1:  {D Well, } the thing that I thought they were, {F uh, } concerned about [ was, + was ] people calling on the phone from all over the country to sell you something -- /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  -- {C and } in reality in many cases,  they knew, or they had information about you that was purchased from some other organizations.  /
+sd          A.17 utt2:  {C And } I thought was, {F uh, } beginning to invade the privacy of people, because the things about where you live [ and, + and ] maybe what you purchased in past months is then put down and  sent to someone else in the same business,  /
+sd          A.17 utt3: {C and } they in return, come back and  try to sell you something with this additional knowledge.  /
+sv          A.17 utt4:  To me that's an invasion of privacy. /  
+
+aa          B.18 utt1:  Yeah,  /
+aa          B.18 utt2: I agree with you there, for sure.  /
+sv          B.18 utt3:  {F Um, } {C and } I think that all that information is quite easy for anyone to get.  /
+sd          B.18 utt4:  It's possible for almost anyone to get information about your credit history, for instance, if they just, {F um, } twist the right arm or claim to be from the right organization when they're calling the credit company. /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sv          B.20 utt1:  It's, {D you know, } possible for a thirteen year old hacker with a modem to find out almost anything about your personal history, not to mention, change it if he wants to. /  
+
+br^m          A.21 utt1:  You mean your history in regards to, {F uh } --   
+
+%          B.22 utt1:  {D Well, } {F um. } -/  
+
++          A.23 utt1:  -- the charge card company or something like that? /  
+
+ny          B.24 utt1:  {D Well, } yes,  /
+ny          B.24 utt2: {D well, } for instance, yes, {F um, }  /
+sd^e          B.24 utt3: {C and } they'll probably goes into other things, like, {D you know, } your records with the government or utility companies or anything. /  
+
+qy          A.25 utt1:  Do you consider these serious, {F uh, } problems? /  
+
+ng          B.26 utt1:  {F Um, } {F uh, } [ not, + not ] yet anyways, because I don't think they're widespread enough,  /
+sv          B.26 utt2: {C but } I think they have the potential of becoming serious problems. /  
+
+b          A.27 utt1:  Uh-huh.  /
+qw          A.27 utt2:  {D Well, } what should we do about it,  /
+qrr          A.27 utt3: {C or } what could be done about it, do you think --   
+
+sv          B.28 utt1:  {F Um } --   
+
++          A.29 utt1:  -- to correct it? /  
+
++          B.30 utt1:  -- I'm not really sure, because the, {E I mean } society is going more and more electronic,  /
+sv          B.30 utt2: {C and } there are certainly benefits to its doing so,  /
+sd          B.30 utt3: {C and } it's [ hard to, + hard to ] say whether the, {F um, } risks have potential of outweighing the benefits or not,  /
+sd          B.30 utt4: {C and } I'm not sure what can be done to ensure that they don't.  /
+qw          B.30 utt5: ((   ))  Why,  /
+qy          B.30 utt6: do you see any out for us? /  
+
+na          A.31 utt1:  {D Well, } I would think that, {F uh, } information held on records, {F uh, } by any company or charge card dealer or person should be absolutely private [ and, + and ] not be allowed to be, {F uh, } [ to, + ] given out by those companies. /  
+
+b          B.32 utt1:  Uh-huh. /  
+
+sd          A.33 utt1:  {E I mean, } it should be made [ a, + a, ] {F uh, } national or a state law to protect people so that, {F uh, } you would then feel more free to deal direct with these companies. /  
+
+b          B.34 utt1:  Uh-huh. /  
+
+sv          A.35 utt1:  In other words, if you call the company yourself, directly, {F uh, } and then know that what you tell them will be on their records but will not be available to anyone else, {F uh, } {D you know, } from the outside, so to speak --   
+
+b          B.36 utt1:  Uh-huh. /  
+
++          A.37 utt1:  -- then [ you would, + you would ] feel more free [ to, + {F uh, } to ] go into detail with them -- /  
+
+b          B.38 utt1:  Yeah,  /
+%          B.38 utt2: I. -/  
+
+sd          A.39 utt1:  -- [ {C but, } + {C but } ] we have no control of that now -- /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+sv          A.41 utt1:  -- {C and then, } {F uh, } [ [ you, + you're, ] + when you're ] talking with them you really don't want to tell them everything that's on your mind because [ you, + you ] feel that it someday might be used against you. / 

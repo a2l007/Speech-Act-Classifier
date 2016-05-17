@@ -1,0 +1,143 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4784_1190_1594
+TOPIC#:		353
+DATE:		920422
+TRANSCRIBER:	nk
+UTT_CODER:      mmab
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+o          A.1 utt1:  Yeah.  /
+sv          A.1 utt2: I guess, {F uh, } {F uh, } it's an easy  one for me.  /
+sv          A.1 utt3:  I think [ that's, +  {F uh, } there's ] something seriously wrong,  /
+b          A.1 utt4: yeah. /  
+
+qw          B.2 utt1:  What is it that you are, {D you know, }  particularly # upset about? # /  
+
+sv          A.3 utt1:  # {F Uh, } # [ I guess, +  {F uh, } I think ] they've lost their  compass  /
+sv          A.3 utt2: {C and, }  {F uh, } I'm not sure they know exactly what, {F uh, } {F uh, } public education supposed  to be for anymore.  /
+sd          A.3 utt3: {C But, }  {F uh, } I voted with my feet  /
+sd          A.3 utt4: {C and, }  {F uh, }  my kids go to parochial school. /  
+
+b          B.4 utt1:  Uh-huh. /  
+
+%          A.5 utt1:  {D So, } {F uh, } -/  
+
+qo          B.6 utt1:  What do you feel that your kids are getting in the parochial  schools that they wouldn't get in [ a, + the ] public school system? /  
+
+sv          A.7 utt1:  {D Well, } one hundred percent of the, {F uh, } customers care.  /
+sv          A.7 utt2:   That's one thing.  /
+sv          A.7 utt3: Everybody cares about the education the kids are getting.  /
+sv          A.7 utt4:  {C And, }  {F uh, } they, {F uh, } take an [ active, + relatively active ] part.  /
+sv          A.7 utt5:   [ Which, + ] {F uh, } {E I mean } if  you're, {F uh, } sending two thousand dollars that way every year, you, {F uh, }  watch what goes on and you, {F uh, } {F uh, } pay attention and participate  /
+sv          A.7 utt6: [ {C and, } + {C and } ] you can influence the way things are. /  
+
+bf          B.8 utt1:  {C So } you're saying that the taxpayer who also is  really paying through the pocketbook for the education of the child may not be quite so conscious of the fact that they are paying the tuition for that child in the form  of, {F uh, } real estate or other taxes  /
+bf          B.8 utt2: [ {C and, } + {C and, } ]   consequently, they're not so motivated to get involved and make sure things happen the way they'd  like to see them happen? /  
+
+aa          A.9 utt1:  Yeah.  /
+sv          A.9 utt2:  The immediacy just isn't there. /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+sv          A.11 utt1:  {C And, }  {F uh, } {F uh, } I also think that one of  the problems - /
+sv          A.11 utt2: {C and, }  {D actually, } [ I don't think this, + I think this ] is a cultural problem.  /
+sv          A.11 utt3:   The, {F uh, } problem with public education is [ really, + {F uh, } really ]  a problem with the culture.  /
+sv          A.11 utt4: {C And, }  I guess my evidence for that is the school districts in places like California, for example, where only a minority of the taxpayers have children  in school  /
+sv          A.11 utt5: {C and } you can't get a tax levy passed.  /
+sv          A.11 utt6:  {F Uh, } people are, {F uh, }  reluctant to pass, {F uh, } school tax levies even, {F uh, } when the money is  needed or would be well spent because [ it's, + ] {F uh, } they don't have kids in the schools. /  
+
+b          B.12 utt1:  Right. /  
+
+sv          A.13 utt1:  I think that's [ a, + a ] loss of civic  virtue and a loss of, {F uh, } {F uh, } the cultural attitude that we used to have that education was first even if it wasn't our kids.  /
+sv          A.13 utt2:  I think [ that's, + {F uh, } that's ]  the principal problem is that, {F uh, } people no longer see it [ as, + {F uh, } as ]  their problem  /
+sv          A.13 utt3: {C and } there's an immediate problem. /  
+
+aa          B.14 utt1:  Right.  /
+sv          B.14 utt2:  It troubles me too [ tha-, +  that ] the priority  seems to be with my particular purse strings rather than the public good  /
+sv          B.14 utt3: {C and } by definition, <laughter> for some of us, at least, the public good includes having an educated populace  and #  (( then ))  # --   
+
+b          A.15 utt1:  # Right. # /  
+
++          B.16 utt1:  -- idea that, {F uh, } you can make a sound judgment  with respect to small votes [ in the, + at the ] local level or bigger votes at --   
+
+b          A.17 utt1:  Yeah. /  
+
++          B.18 utt1:  -- the national level.  /
+sv          B.18 utt2:  {F Uh, } it means that you've  got to be informed  /
+sv          B.18 utt3: {C and } you've got to have a certain level of education to do the reading --   
+
+b          A.19 utt1:  Yeah. /  
+
++          B.20 utt1:  -- and the critical thinking involved to come up with a decision. /  
+
+sv          A.21 utt1:  {D You know, } [ I, + I ] believe that the original  idea of public education in the United States, which I guess was controversial at the time of the constitution.  /
+sv          A.21 utt2:  {F Uh, } {D you know, } it barely made it.  /
+sv          A.21 utt3:   I think it was added afterwards <throat_clearing>.  /
+sv          A.21 utt4:  I think [ the real, +    the principal ] was, {F uh, } education for civic participation. /  
+
+b          B.22 utt1:  Right. /  
+
+sv          A.23 utt1:  The idea was that everybody should have an  education so that they would be a better voter  /
+sv          A.23 utt2: {C and } you couldn't pull the wool over their eyes. /  
+
+aa          B.24 utt1:  Right.  /
+sv          B.24 utt2:  It has taken on a more profound,  /
+sv          B.24 utt3:  {C and } you'd think we'd notice it, economic # {F uh, } thrust.  /
+b          B.24 utt4:  Yeah. # /  
+
+sd          A.25 utt1:  # {D Well, } that's exactly what I was going to say.  /
+sv          A.25 utt2:   Now # there seem to be really three reasons for education.  /
+sv          A.25 utt3: One is education for civic  duty.  /
+sv          A.25 utt4: One is education for economic reasons.  /
+sv          A.25 utt5: {C And } one is education for  civilization.  /
+sv          A.25 utt6:   # {E I mean }  {C and } I think that one, # -/  
+
+sd          B.26 utt1:  # <Laughter> {D Well } I'm glad that you # added  that one.  /
+%          B.26 utt2:  Yeah,  /
+sv          B.26 utt3: I think that one's significant. /  
+
+sd          A.27 utt1:  That's what I used to think education was all about  when I was a college professor  /
+sd          A.27 utt2: {C and then } I quit and got disabused of that   notion <noise>.  /
+sv          A.27 utt3:  {C But, }  {F uh, } [ the, +  {F uh, } {F uh, } {D now } the ] only thing people seem to  agree on is that education is, {F uh, } an economic enterprise to train people for jobs.  /
+sv          A.27 utt4:   {C And, }  {F uh, } I'm not sure that people in the education establishment really know what their purpose  is.  /
+sd          A.27 utt5: {C And } I'm really sad to say this,  /
+sd          A.27 utt6: I never thought I  would have  /
+sv          A.27 utt7: {C but } I really think that, {F uh, } the educational establishment has  become part of the problem.  /
+sd          A.27 utt8: {C And, }  {F uh, } that's why I guess I'm sort of,  reluctantly, {F uh, } in favor of these, {F uh, } choice programs. /  
+
+aa          B.28 utt1:  Right.  /
+aa          B.28 utt2: {D Well } [ I, + I ] [ g-, + ] agree with  everything that you've said so far  /
+sv          B.28 utt3: {C and } the only that I'd want to add is that I'm a little more in contact, I think, with public school teachers than perhaps you are, {F uh, } except as  a parent of your child  /
+sd          B.28 utt4: {C and } the sense that I get from public school teachers  that I know is that they are very conscious of what they feel they should be  doing  /
+sd          B.28 utt5: {C and } they are the three things that you mentioned.  /
+sd          B.28 utt6: {C But } they find that  they are also being asked to do a bunch of other stuff which they think is only tangentially related -- /  
+
+aa          A.29 utt1:  Right.  /
+%          A.29 utt2:  # That's what, # /  
+
+%          B.30 utt1:  -- # like consumer, # / 

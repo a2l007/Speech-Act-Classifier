@@ -1,0 +1,381 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2645_1209_1078
+TOPIC#:		364
+DATE:		910423
+TRANSCRIBER:	LAB
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	5
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        Both speakers failed to discuss the topic.
+
+============================================================================
+  
+
+sd^t          A.1 utt1:  {D So } the general topic is hobbies. /  
+
+aa          B.2 utt1:  Yes. /  
+
+ad          A.3 utt1:  Let's hear about your hobbies. /  
+
+^h          @B.4 utt1:  {D Well, } let's see,  /
+qw^h          @B.4 utt2: what kind of hobbies   do I have?  /
+sd          @B.4 utt3: I guess, {F uh, }  [ I, +  it's ] more not so much a hobby but things I enjoy doing.  /
+sd          @B.4 utt4:   I enjoy playing basketball [ and, +  and ] basically all kinds of sports.  /
+%          @B.4 utt5:  {C And, } {F uh, } -/  
+
+qy          A.5 utt1:  Any handicrafts? /  
+
+br          B.6 utt1:  Excuse me. /  
+
+qy^r          A.7 utt1:  Any handicrafts? /  
+
+nn          B.8 utt1:  No,  /
+sd^e          B.8 utt2: [ not, + not ] really, {F um, }  /
+nn          B.8 utt3: no,  /
+sd          B.8 utt4:  I'm really not too creative  /
+sd          B.8 utt5: {D well, } I, {F uh, } {D you know, } around with my hands and things like  that - /
+sd          B.8 utt6: I leave that more up to my Mom <laughter>. /  
+
+sd          A.9 utt1:  {D So, } {F um, } I think I'm  ((   ))  in handicraft. /  
+
+b          B.10 utt1:  {F Oh, } yeah. /  
+
+sd          A.11 utt1:  I think it will become resume writing. /  
+
+ba          B.12 utt1:  {F Oh, } <laughter> {D well, } let's hope  that [ you, +  you ] aren't employed by that craft for too long. /  
+
+aa          A.13 utt1:  {F Uh, } yeah,  /
+sd          A.13 utt2: [ I, +  I ]  hate to think about it  /
+sd          A.13 utt3: [ {C and, } + {C and } ]  I'm getting rather good at reading want ads. /  
+
+b          B.14 utt1:  Uh-huh. /  
+
+b          A.15 utt1:  Yeah,  /
+%          A.15 utt2: [ it, +  it, ] -/  
+
+qw          B.16 utt1:  [ Wh-, +  what ] kind of time frame  is it, {F uh, } looking for the, {F uh, } different shifts up there? /  
+
+%          A.17 utt1:  I <breathing>, - /
+qh          A.17 utt2: who knows. /  
+
+%          B.18 utt1:  Is it, {F uh, } - /
+sd          B.18 utt2: basically, I had read  that they're just looking at relocating them all to McKinney is it, Texas, /  
+
+ar          A.19 utt1:  No,  /
+sd          A.19 utt2: all means about fifteen to twenty percent,   
+
+ba          B.20 utt1:  # {F Oh, } wow.  # /  
+
++          A.21 utt1:  # [ of, +  of, ] # {F oh, } - /
+sd          A.21 utt2:  I'm sure the numbers   [ s-, +  somewhere ]  classified  /
+sd          A.21 utt3: {C but } some of the internal news and the news services, - /
+sd          A.21 utt4: {C so, }  it's approximately six fifty, /  
+
+b          B.22 utt1:  # Uh-huh. # /  
+
+sd          A.23 utt1:  # {C so } # ten percent of six fifty,  is sixty-five  /
+sd          A.23 utt2: {C and } twenty percent would be one thirty. /  
+
+ba          B.24 utt1:  Wow,  /
+bh          B.24 utt2: how about that.  /
+b          B.24 utt3:  Yeah,  /
+sd          B.24 utt4:  that's what it did report was a hundred and  thirty relocating down to McKinney. /  
+
+aa          A.25 utt1:  Yeah,  /
+aap          A.25 utt2: that's possible. /  
+
+bh          B.26 utt1:  How about that.  /
+ba          B.26 utt2: {D Well, } [ that's, +   {F uh, } that's ] unfortunate  /
+%          B.26 utt3: is there many other, - /
+qy          B.26 utt4:  are you in the defense? /  
+
+ny          A.27 utt1:  {F Oh, } yes,  ((   )) . /  
+
+qy          B.28 utt1:  Is it, {F uh, } many other corporations in the area? /  
+
+no          A.29 utt1:  {F Uh, } I saw Seven Eleven that was hiring. /  
+
+%          B.30 utt1:  <Laughter>  {D Well, } I'm sure with the new,  {F uh, } [ aw-, +  contract awarding ] - /
+qy^g          B.30 utt2: [ I, +  I ] think it went to Lockheed, didn't it? /  
+
+ny          A.31 utt1:  Yes. /  
+
+sd          B.32 utt1:  [ That, +  {F uh, }   I ] hear they're hiring all over the place for that. /  
+
+aa          A.33 utt1:  Yeah, {F uh, }  /
+ar          A.33 utt2: no,  /
+sd          A.33 utt3: Apple's coming to town  /
+sd          A.33 utt4: [ {C and, } +    
+
+bh          B.34 utt1:  # {F Oh, } really? # /  
+
++          A.35 utt1:  # {C and } ] that # has some opportunities  /
+%          A.35 utt2:  [ {C and, } + {F uh, } {C and, } ] -/  
+
+qr          B.36 utt1:  Now is that  (( ad good ))  just to  Colorado or to Colorado Springs? /  
+
+sd          A.37 utt1:  Colorado Springs specifically,  /
+ny          A.37 utt2: yes. /  
+
+bh          B.38 utt1:  How about that. /  
+
+sd          A.39 utt1:  [ {C And, } +  {F uh, } {C and, } ]  {F uh, } M C I -s coming [ if, +  if, ] telemarketing is your bag. /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+sd          A.41 utt1:  Personally I'd rather die a slow painful death  /
+%          A.41 utt2: {C but, } -/  
+
+qr          B.42 utt1:  {D Well, } you in the, {F uh, } computer  operations or in the actual, {F uh, } manufacturing? /  
+
+sd          A.43 utt1:  {F Uh, } I'm a defense worker.  /
+sd          A.43 utt2:   I'm, government tool control specialist. /  
+
+b          B.44 utt1:  Right,  /
+b          B.44 utt2: yeah,  /
+sd          B.44 utt3: that's why I was in the   (( Deseg ))  down here in Plano also. /  
+
+qy          A.45 utt1:  Are you still employed? /  
+
+qy          B.46 utt1:  Am I still employed by T I,  /
+nn          B.46 utt2: no,  /
+sd^e          B.46 utt3:  I took a leave [ of, +  of ] T I back in November. /  
+
+b          A.47 utt1:  Oh. /  
+
+sd          B.48 utt1:  Actually, December was my first month away from them. /  
+
+qr          A.49 utt1:  Exempt or ((   )) ? /  
+
+sd          B.50 utt1:  Exempt. /  
+
+bk          A.51 utt1:  {F Oh, } yes. /  
+
+sd          B.52 utt1:  [ [ It, +  {F uh, }   unfortunately I guess for myself it  wasn't, ] +    {F uh, } it was ] purely by my own choice.  /
+sd          B.52 utt2:  [ It wasn't, +  {F uh, } there was no ]  incentive for myself to leave,  /
+sd          B.52 utt3: {C but } it was just an opportunity arose  /
+sd          B.52 utt4: {C and } decided to take it. /  
+
+qy^d          A.53 utt1:  {F Oh, } {C so, } you didn't even get the severance package. /  
+
+nn          B.54 utt1:  No.  /
+sd          B.54 utt2:  I should have taken [ [ the, +  the, ] +   the, ] {D you know, } {F uh, } option when that was there,  /
+sd          B.54 utt3: {C but } it was just,   I missed it by a couple months.  /
+qh          B.54 utt4:  {C But, } {D you know, } what can one do.  /
+sd          B.54 utt5:  I'm just happy still to have a job. /  
+
+qy          A.55 utt1:  {D So, } are you happy with what you are doing now? /  
+
+ny          B.56 utt1:  Yeah,  /
+sd^e          B.56 utt2: I am kind of happy with it,  /
+sd        B.56 utt3:  it's getting better all the time,  /
+sd          B.56 utt4: I knew it would be different from the very beginning,  /
+sd          B.56 utt5:  {C but, } {D you know, } as you get to know more of the people that work there and  more of what's going on with the system, - /
+sd          B.56 utt6: {D so } I was in the computer operations  /
+sd          B.56 utt7:  [ it's, +  {F uh, } {D you know, } it all starts ] to become similar  /
+sd          B.56 utt8: [ there's, +  {D you know, } there's ]  benefits  /
+sd          B.56 utt9: {C and } there's things that weren't as good, /  
+
+b          A.57 utt1:  # Yeah. # /  
+
+sd          B.58 utt1:  # {C but } # as an overall package,   (( I'd say ))  I'm pretty happy so far with the way it's turned out. /  
+
+ba          A.59 utt1:  Good,  /
+ba^r          A.59 utt2: good.   /
+sd          A.59 utt3: {D Well, } it hasn't   been a long time  ((   ))  T I  /
+sd          A.59 utt4: {C or } [ I, +    
+
+b          B.60 utt1:  # Uh-huh. # /  
+
++          A.61 utt1:  # I'm # ] significantly shaken by the situation,   
+
+b          B.62 utt1:  # Right. # /  
+
++          A.63 utt1:  # but # not devastated. /  
+
+b          B.64 utt1:  Uh-huh.  /
+sv          B.64 utt2:  {D Well, } the one thing  I guess at least in your favor is [ the, +  the ] fact that, that is more in the support of  the manufacturing  /
+sv          B.64 utt3: {C and } there's lots  and lots of companies that have maybe not  in [ the de-, +  the defense ] area but  manufacturing in general. -/  
+
+sd          A.65 utt1:  To tell you the truth, [ [ I'm, +  I'm, ] +   I'm ] not really worried. /  
+
+b          B.66 utt1:  Uh-huh.  /
+ba          B.66 utt2:  That's great.  /
+ba          B.66 utt3:  That's good. /  
+
+sd          A.67 utt1:  [ {C And, } +  {C and } ]  I seem rather happy about it most of the time,   
+
+b          B.68 utt1:  # Uh-huh. # /  
+
++          A.69 utt1:  # [ just, +  # just ] to know, what's, possibilities are,   
+
+b          B.70 utt1:  # Sure,  /
+b          B.70 utt2: yeah. # /  
+
++          A.71 utt1:  # {D you know, } # what might happen. /  
+
+ba          B.72 utt1:  Sometimes it's good just to have everything out on the table. /  
+
+sd          A.73 utt1:  {C But } still in all,   
+
+sv          B.74 utt1:  # It may be a blessing in disguise. # /  
+
++          A.75 utt1:  # it feels funny.  # /  
+
+sd          B.76 utt1:  I know a number of people who are, {F uh, }  surplused  /
+%          B.76 utt2: {C and } they're just, - /
+sv          B.76 utt3:  actually, what the positions that they  found outside of the company were much, much better than the ones that they currently had inside. /  
+
+sd          A.77 utt1:  {C So, } despite the fact that I should  be tying flies or fly fishing [ or, +  or ] going for walks in the mountains,   
+
+ba          B.78 utt1:  # Exactly.  # /  
+
++          A.79 utt1:  # I # can't seem to get into it right now. /  
+
+b          B.80 utt1:  Uh-huh,  /
+sv          B.80 utt2: {D well, } I'm sure it's just  with [ [ [ the, + the, ] the, ] + the ] way that things are so topsy-turvy right now as soon as you [ dec-, +   decide ] on a  (( pass )) , -/  
+
+%          A.81 utt1:  {F Uh, } situational.  /
+sd          A.81 utt2:  [ I've, +  I doubt  I'll ] be here in six months. /  
+
+b          B.82 utt1:  Uh-huh.  /
+qy          B.82 utt2:  {D Well, } would you like to be there? /  
+
+%          A.83 utt1:  I, <breathing> - /
+na          A.83 utt2: all things being equal, yes. /  
+
+b          B.84 utt1:  Uh-huh. /  
+
+sd^e          A.85 utt1:  [ [ {C But, } + {C or, } ] + {C or } ] even somewhere better, /  
+
+ba          B.86 utt1:  # Sure.  # /  
+
+sv          A.87 utt1:  # {C but, } # God this is much better than west Texas. /  
+
+b          B.88 utt1:  Uh-huh <laughter>.  /
+%          B.88 utt2: {D Well, } just take the day, -/  
+
+sd          A.89 utt1:  {C But   then } [ they, + they ]  tell me Hell is much better than west Texas. /  
+
+sv          B.90 utt1:  <Laughter>  {D Well, } actually, {F uh, }  [ the, +  the ] Plano, Dallas, Houston, {D you know, } Austin that whole area [ is, +  is ]  actually [ quite, + quite ] nice. /  
+
+sd          A.91 utt1:  [ I, +  my ] little brother lives in Austin right now. /  
+
+sd          B.92 utt1:  {F Oh, } that's a beautiful place. /  
+
+sd          A.93 utt1:  Goes to U T. /  
+
+b          B.94 utt1:  Uh-huh.  /
+sd          B.94 utt2:  That's just fantastic down there.  /
+%          B.94 utt3:   Take it more as a, - /
+sv          B.94 utt4: this is your opportunity to do whatever you want,  /
+ad          B.94 utt5:   pick out where you want to live,  /
+ad          B.94 utt6: {C and then } once you pick that spot out, pick out what you want to do. /  
+
+sd          A.95 utt1:  I <breathing>, {D see } that's the problem.  /
+sd          A.95 utt2:  For the last many years I've more or less let them direct what I want to do,   
+
+b          B.96 utt1:  # Uh-huh. # /  
+
++          A.97 utt1:  # and # where I want to go.   
+
+b          B.98 utt1:  Uh-huh. /  
+
++          A.99 utt1:  And just kind of go with the punches. /  
+
+ba          B.100 utt1:  Sure. /  
+
+sd          A.101 utt1:  {C And } now I feel lost. /  
+
+b          B.102 utt1:  Uh-huh.  /
+b          B.102 utt2:  Yeah,  /
+%          B.102 utt3: that's a, - / 
+qy^g           B.102 utt4:  [ it, + it ] takes a bit of a shift doesn't it. /  
+
+no          A.103 utt1:  {F Oh, } I had job offers. /
+
+b          B.104 utt1:  Uh-huh. /  
+
+sd          A.105 utt1:  {C But, } <breathing> I never found  the one that was worth it for me to leave.  /
+%          A.105 utt2: {C And } that, -/  
+
+b          B.106 utt1:  Uh-huh.  /
+sv          B.106 utt2:  {D Well, } the best thing  about it is that you can, {F uh, } try something  /
+ad          B.106 utt3: if you don't like it, shoot, move on to something else.  /
+sd          B.106 utt4:   That's the way  (( I would have ))  looked at the whole thing here,  /
+sd          B.106 utt5:  I'll take a chance,  /
+sd          B.106 utt6: if I don't like it, I'll go someplace else, do something different. /  
+
+qy          A.107 utt1:  {F Oh } {D so, } had you been with T I long when you changed? /  
+
+no          B.108 utt1:  Five years. /  
+
+sv@          A.109 utt1:  {F Huh. }  {D Well, } there's a noticeable difference there. /  *[[two utts?]]
+
+b          B.110 utt1:  Yeah. /  
+
+sd          A.111 utt1:  I've been with them sixteen. /  
+
+b          B.112 utt1:  Yeah,  /
+sv          B.112 utt2: I can imagine, {D you know, }  the longer and longer it goes, -/  
+
+sd          A.113 utt1:  Actually, seventeen now,  /
+aa          A.113 utt2:  {C and, } {F oh, } yeah,  /
+sv          A.113 utt3: momentum is, {F uh, }   driving force in our lives. /  
+
+b          B.114 utt1:  Uh-huh. /  
+
+%          A.115 utt1:  [ {C But } +  <breathing>, {C so, } ] yeah,  /
+sd          A.115 utt2:  I'm looking [ as, +  as ] a opportunity. /  
+
+ba          B.116 utt1:  {D Well, } that's good,  /
+sv          B.116 utt2:  you've got a good attitude about it. /  
+
+sd          A.117 utt1:  [ {C And, } + {C and } ] I'm looking at it as a change. /  
+
+b          B.118 utt1:  Uh-huh. /  
+
+sd          A.119 utt1:  {C And } I'm looking at it [ as, +  as ] an adventure. /  
+
+ba          B.120 utt1:  Right,  /
+ba          B.120 utt2: there you go.  /
+ba          B.120 utt3:  That's the way to do it. /  
+
+sd          A.121 utt1:  {C And } maybe I'll wet a fly line this year  and do some camping if I don't get laid off between now and then. /  
+
+ba          @@B.122 utt1:  There you go,  /
+ba          @@B.122 utt2: that's the thing to do.  /
+ba          @@B.122 utt3:   That's much funner than doing any kind of job. /  
+
+qy          A.123 utt1:  {F Ha, }  how about we end this? /  
+
+no          B.124 utt1:  That will work out just fine. /  
+
+fc          A.125 utt1:  Nice talking to you. /  
+
+fc          B.126 utt1:  All right,  /
+fc          B.126 utt2: nice talking to you. /  
+
+fc          A.127 utt1:  Bye. /  
+
+fc          B.128 utt1:  Good-bye. / 

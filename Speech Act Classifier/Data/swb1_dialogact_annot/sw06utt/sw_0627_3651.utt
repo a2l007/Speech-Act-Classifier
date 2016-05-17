@@ -1,0 +1,225 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3651_1425_1474
+TOPIC#:		370
+DATE:		920101
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	3
+REMARKS:        None.
+
+========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+sd          A.1 utt2: I guess tonight's subject is, {F uh, } woodworking. /  
+
+qw          B.2 utt1:  What --   
+
+qy          A.3 utt1:  # Do you, {F uh, } # -/  
+
++          B.4 utt1:  -- # kind of woodworking # do you do? /  
+
+sd          @A.5 utt1:  {D Well, } [ k-, +  kind ] of, mainly  the woodworking I've done lately is, {F uh, } made {D like, } {F uh, } for example a little nativity scene.    
+
+b          B.6 utt1:  Uh-huh. /  
+
++          A.7 utt1:  {F Uh, } not [ the, +  {F uh, } the ]  whole figurines and so forth, but mainly the stable, put some shelves in [ and, +  and ] some odd  stuff around the house  /
+sd          A.7 utt2: {C and so } [ I, + I ] enjoy doing a little bit of woodworking  /
+sd          A.7 utt3:  {C and } I do it out of hobby more than, {F uh, } {D you know, } something I have to do.  /
+qo          A.7 utt4: How about yourself? /  
+
+sd          B.8 utt1:  {F Uh, } {D well, } I like to think of it  as a hobby, but [ I, +  I ] guess also, partly out of necessity.  Just repairing things around the house. /  
+
+x          A.9 utt1:  <Laughter>.   
+
+sd          B.10 utt1:  {F Uh, } a few years ago, {F uh, }  [ we needed, +  {F uh, } they needed ]  some book shelves  /
+sd          B.10 utt2: {C and } I kind of drew up some simple plans to make  some book shelves  /
+sv          B.10 utt3: {C and, } {F uh, } it actually worked pretty well  /
+sd          B.10 utt4: {C and } over the years  [ I've, +  I've ] refined those plans.  /
+sd          B.10 utt5: I got myself a router  /
+sd          B.10 utt6: {C and } [ I'm, +   I'm ] very good at making book shelves. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sv          B.12 utt1:  [ It's, +  it's ] also a way of relieving  stress.  /
+sd          B.12 utt2: My wife kind of laughs,   
+
+x          A.13 utt1:  <Laughter>.   
+
++          B.14 utt1:  at me that anytime I get stressed  out I just go out in the garage and  we've got more book shelves. /  
+
+co          A.15 utt1:  {D Well, } I'll have to come and  see them <laughter>.  /
+sv          A.15 utt2:  That sounds like a good idea.  /
+%          A.15 utt3: I, {D you know, } - /
+sv          A.15 utt4: {C and } [ that's, +   that is ] right,  /
+sv          A.15 utt5:  it is out of necessity  /
+sd          A.15 utt6: {C because } lot of the things [ that, + ] {F uh, } {D well, } we can't be able to afford,  /
+sd          A.15 utt7: {C but } also [ I, + I ] sometimes think that, {F uh, } I enjoy doing that  /
+sd          A.15 utt8:  {C and } I like to get out [ and, +  and, ]  {F uh, } to work with my hands  /
+qy^d          A.15 utt9:  {C and, } {F uh, } sounds like you got some real nice tools, too.  /
+qy          A.15 utt10: Do you think you would be able to do   some more if you had more tools and  different tools? /  
+
+ny          B.16 utt1:  {F Uh, } {D well, } yeah,  /
+sd^e          B.16 utt2: {E I mean, }   little by little, [ I, +  I ] started out <laughter> with just basic hand tools and kind of added on to things. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  {F Uh, } gotten [ a, +  a ] good belt  sander  /
+sd          B.18 utt2: [ {C and, } +  {C and, } ] the router, {F uh, } helps a lot because you can make better joints with a router. /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sd          B.20 utt1:  The latest project that I've been  working on {A {C and } this has been kind of sitting here for a few months } is [ a, +  a ]  cabinet [ to, +  to ] put a T V in. /  
+
+bf          A.21 utt1:  {F Oh, } a entertainment type center? /  
+
+aa          B.22 utt1:  Right. /  
+
+b          A.23 utt1:  Oh. /  
+
+sv          B.24 utt1:  {C And }  it, [ that's + ] works well  because you can design it [ to, +  to ] suit whatever equipment you have  /
+sd          B.24 utt2: {C so } I --   
+
+b          A.25 utt1:  Right. /  
+
++          B.26 utt1:  -- designed a space just the right  size for the T V  and then [ the, +  the ] V C R and shelves on the side for my stereo equipment. /  
+
+b^r          A.27 utt1:  Right,  /
+b^r          A.27 utt2: right. /  
+
+sd          B.28 utt1:  {C And, } {F uh, } that's worked  pretty well.  /
+sd          B.28 utt2:  {F Uh, } [ with, +  {F uh, } with ] the router you can make nice, {F uh, } <lipsmack> - /
+sv          B.28 utt3: I guess dado joints is what it's called. /  
+
+aa          A.29 utt1:  Right,  /
+aa          A.29 utt2: {E or } yes,  /
+%          A.29 utt3: I, - /
+%          A.29 utt4: yeah,  /
+sd          A.29 utt5: I'm --   
+
+%          B.30 utt1:  {F Uh, }   
+
++          A.31 utt1:  -- aware of that. /  
+
++          B.32 utt1:  {C And } it's, {F uh, } -/  
+
+sd          A.33 utt1:  {C And } also with a router, you can,  {F uh, } make ornamental facings, too better than a just straight wood edge.   
+
+aa          B.34 utt1:  That's right. /  
+
++          A.35 utt1:  [ And, +    
+
+aa^r          B.36 utt1:  That's right. /  
+
++          A.37 utt1:  {F Uh, }   
+
+%          B.38 utt1:  {D So, } -/  
+
++          A.39 utt1:  And, ] {F uh, } casings and so forth  [ that are, +  that are ] real nice,  /
+sv          A.39 utt2: {C so } [ that's, +  that's ] good.  /
+sv^r          A.39 utt3: That's good. /  
+
+sd          B.40 utt1:  {C But } what I need next is a good table saw. /  
+
+b          A.41 utt1:  Yeah <laughter>. /  
+
+sd          B.42 utt1:  {C And } [ I, +  I ] debate whether  it's better to get [ a, +  {F uh, } just a ] straight table saw or to get one of these, {F uh, } rotary arm saws. /  
+
+b          A.43 utt1:  {F Oh. } /  
+
+sv          B.44 utt1:  Radial arm saw is, I guess, what they're called. /  
+
+b          A.45 utt1:  Uh-huh. /  
+
+sv          B.46 utt1:  {F Uh, } it [ t-, + seems to ] me  the radial arm saw [ is, +  is ] better,  /
+sv          B.46 utt2: {D well, } [ it, +  it ] takes up less room. /  
+
+b          A.47 utt1:  Yeah. /  
+
+sd          B.48 utt1:  {E I mean, } [ you, +  you ]  set the wood down  /
+sd          B.48 utt2: {C and } you move the saw. /  
+
+b          A.49 utt1:  Yeah. /  
+
+sv          B.50 utt1:  Whereas if you're ripping wood,  you're probably better off with [ a, +  a ] table saw. /  
+
+sv          A.51 utt1:  {D Well } {C and } with a radial arm saw,  if you do have [ a, +  a ] big piece of wood that you need to rip, like you say, or cut, you  wouldn't be able to do that.  /
+%          A.51 utt2:  {F Uh, } {C but, } {F uh, } yeah,  /
+sv          A.51 utt3: a table saw does  take [ a lot of time, + {E excuse me } a lot of space ] and is a pretty big investment. /  
+
+aa          B.52 utt1:  Yeah. /  
+
+%          A.53 utt1:  {C And, } -/  
+
+sd          B.54 utt1:  {F Uh, } [ that, +  that's ]  partly my problem now.  /
+sd          B.54 utt2:  I don't have room for this.  /
+%          B.54 utt3:  [ I, +  {F uh, } I, ] - /
+sd          B.54 utt4: [ where, +  {F uh, } where ]  we lived before up north, {F uh } --   
+
+b          A.55 utt1:  Uh-huh. /  
+
++          B.56 utt1:  -- basements [ were, +  were ] common  /
+sd          B.56 utt2: {C and, }   
+
+x          A.57 utt1:  <Laughter>.   
+
++          B.58 utt1:  I used to put all the stuff in my basement,  /
+sd          B.58 utt2: {C but } --   
+
+b          A.59 utt1:  Uh-huh. /  
+
++          B.60 utt1:  -- not so here in Texas. /  
+
+aa          A.61 utt1:  No,  /
+sd          A.61 utt2: they don't have basements.  /
+sd          A.61 utt3:    {D Well, } I'm from up north also  /
+aa          A.61 utt4: [ {C and, } +  {C and, } ] {F uh, } no  /
+sd          A.61 utt5: there's no [ t-, + basements ] down here  /
+sv          A.61 utt6:  {C and } it's kind of, {F uh, } hard to get, {F uh, } shop space unless you have a dedicated shop or a dedicated room --   
+
+b          B.62 utt1:  Yeah. /  
+
++          A.63 utt1:  -- for that.  /
+%          A.63 utt2:  Yeah,  /
+sd          A.63 utt3: lot of the equipment,  too, that [ I've, +  I've ] used in the past, {F uh, } [ I w-, +  {D you know, } I've ]  used in school  /
+sd          A.63 utt4: {C and, } {F uh, } I would, - /
+h          A.63 utt5: I don't know,  /
+sd          A.63 utt6: [ I'd, + I'd  ] kind of like [ to, +  to ]  look at equipment like a lathe or like you say, a table saw and some of those things that  would make, {F uh, } some pretty nice, {F uh, } pieces of, {F uh, } {D well, } wood,  [ for, +  for ] different things for tables,  [ for, +  for, ] {F uh, } chairs, for, {D you know, } decks and so forth  /
+h          A.63 utt7: {C so, }   
+
+b          B.64 utt1:  Uh-huh. /  
+
++          A.65 utt1:  I don't know,  /
+sd          A.65 utt2: [ I, +  I ] just enjoy  woodworking  /
+sv          A.65 utt3: {C and } I think [ the, +  the ] main thing is, like you say, [ it's a, +  it's a ] good out.  /
+sv          A.65 utt4:  It's an opportunity to get out and  relieve some of the pressure that you feel  day to day  /
+sv          A.65 utt5: {C and } it's a great [ stress, +  stress ] reliever. /  
+
+qy          B.66 utt1:  Have you ever used a lathe? /  
+
+ny          A.67 utt1:  Yes,  /
+sd^e          A.67 utt2: [ I have, +  in school I have ]  /
+sd          A.67 utt3:   {C and } I've made, {F uh, } {F uh, }  different things, {F uh, } [ la-, + {F uh, } tables ] for chairs  /
+sd          A.67 utt4:  {C and } I've made, {F uh, } bowls,  /
+%          A.67 utt5:  [ {C and, } +  {F uh, } {C and, } ] {F uh, } -/ 

@@ -1,0 +1,295 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3580_1451_1325
+TOPIC#:		368
+DATE:		911217
+TRANSCRIBER:	GL
+UTT_CODER:	TC
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+======================================================================== 
+  
+
+%          A.1 utt1: {F Uh, } {D well, } {F uh, } to begin,  /
+sv          A.1 utt2: I guess, {F uh, } space is, {F uh, } real important, I think,  /
+sv          A.1 utt3: {C so } it's real vital to the future of not only our kids but every generation until the end of time, I guess.  /
+%          A.1 utt4: {D So. } -/  
+
+aa          B.2 utt1:  Yeah,  /
+aa          B.2 utt2: [ I, + I ] agree -- /  
+
+%          A.3 utt1:  {F Uh. } /  
+
+sv          B.4 utt1:  -- it's definitely new frontier stuff. /  
+
+%          A.5 utt1: {D So, } {F uh, } - /
+h          A.5 utt2: {C but, } {F uh, } I'm not too up-to-date [ on the space, + on the space ] frontier,  /
+sv          A.5 utt3: {C but, } {F uh, } I guess they're [ going, + going ] pretty far into it now.  /
+sv          A.5 utt4: {F Um, } Star Wars is not too far <laughter> I don't think. /  
+
+x          B.6 utt1:  <Laughter>.   
+
+%          A.7 utt1:  {C But, } {F uh, } -/  
+
+sd          B.8 utt1: [ [ I, + I, ] + I ] worked on some of it at T I --   
+
+qh          A.9 utt1:  {F Oh, } have you. /  
+
++          B.10 utt1: -- once upon a time.  /
+ny          B.10 utt2: Yeah. /  
+
+qw          A.11 utt1: {D So } what do you know about it. /  
+
+sd          B.12 utt1: {D Well, } actually [ [ I'm, + I, ] + I'm ] quite versed lately.  /
+sd          B.12 utt2: I get on a computer network all the time,  /
+sd          B.12 utt3: {C and } people are talking [ about, + about ] the current space program all the time.  /
+sd          B.12 utt4: They're talking about new rockets that they're designing now that, {D you know, } are just like science fiction, {D you know, }  /
+sd          B.12 utt5: it's like they,   
+
+x          A.13 utt1:  <Laughter>.   
+
++          B.14 utt1: take off, {D you know, }  /
+sd          B.14 utt2: {C and then } they land, [ with the, + with the, ]  {D you know, } - /
+sd          B.14 utt3: the afterburners are going, {D you know, } not like space shuttle landing, {D you know, } gliding down, but --   
+
+b          A.15 utt1:  Really. /  
+
++          B.16 utt1:  -- straight down to the landing pad. /  
+
+ba          A.17 utt1:  {F Oh, } my gosh. /  
+
+b          B.18 utt1: Yeah,  /
+sd          B.18 utt2: it's called V C X or something like that.  /
+sd          B.18 utt3: Also called Delta Clipper, which is a decent name for --   
+
+ba          A.19 utt1:  Wow. /  
+
++          B.20 utt1:  -- something like that. /  
+
+h          A.21 utt1: {D Well, } I don't know.  /
+qy          A.21 utt2: [ You think you'd, + you think you'd, ] {F uh, } go up in space if you had a chance? /  
+
+ny          B.22 utt1:  {F Oh, } yeah -- /  
+
+bh          A.23 utt1:  Do you, /  
+
+sd^e          B.24 utt1:  -- I think I would.  /
+sv          B.24 utt2:  I think that'd be neat. /  
+
+sv          A.25 utt1: I think I would just sitting here talking about it,  /
+sv          A.25 utt2: {C but } if the time came, it'd be real nervous. /  
+
+x          B.26 utt1:  <Laughter>.     
+
+sd          A.27 utt1: I'd be scared,  /
+sd          A.27 utt2: scared me worse than Six Flags <laughter> roller coaster.  /
+sv          A.27 utt3: That'd be pretty hairy. /  
+
+sd          B.28 utt1: {D Well, } {D you know, } I had [ a car, + {F uh, } {F uh, } a tire ] come off of a car,  /
+sd          B.28 utt2: {C so } {D you know, } [ I, + {D like } I ] know what it's like to <laughter>, -/  
+
+aa          A.29 utt1:  <Laughter> Yeah,  /
+ba          A.29 utt2: imagine. /  
+
+sd          B.30 utt1: Depending on what was left of my technology to get me home <laughter>. /  
+
+aa          A.31 utt1: Right,  /
+aa^r          A.31 utt2: right.  /
+sv          A.31 utt3: {D So, } {D well, } I guess they're talking about people going to the moon and stuff, now, wherever.    
+
+aa          B.32 utt1:  Yeah,  /
+sd          B.32 utt2: they're talking about doing that again, too. /  
+
++          A.33 utt1: And opening up those stations, whatever, filling them. /  
+
+b          B.34 utt1:  Uh-huh. /  
+
+sv          A.35 utt1: I don't know if we'll ever see that up there. /  
+
+sd          B.36 utt1: {D Well } at least we're going to have a space station supposedly in the next few years. /  
+
+bh          A.37 utt1:  {F Oh, } really. /  
+
+ny          B.38 utt1:  Yeah,  /
+sd^e          B.38 utt2: {C and } they're going to put, -/  
+
+sd          A.39 utt1:  That's all <laughter> beyond my imagination really. /  
+
+b          B.40 utt1:  Yeah. /  
+
+sd          A.41 utt1: {C But, } science fiction books,  /
+sv          A.41 utt2: {E I mean, } you look at the Jetsons, {D you know, } cartoon show, and it's not too far fetched [ what, + what ] they all had in those cartoons,  /
+sv          A.41 utt3: {C so } you never know. /  
+
+b          B.42 utt1:  {F Oh, } yeah,  /
+b^r          B.42 utt2: yeah. /  
+
+sv          A.43 utt1: Any of that stuff from the Jetsons, from that cartoon, that you would never imagine would [ come, + become ] possible, and now [ you, + we ] have a lot of those,  /
+%          A.43 utt2: {D so, } -/  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sv          A.45 utt1:  {C So } you never know [ what, + what ] may occur,  /
+sd          A.45 utt2: {C but } --   
+
+b          B.46 utt1:  Yeah. /  
+
++          A.47 utt1:  -- as far as me seeing it, {D you know, }    
+
+x          B.48 utt1:  <Laughter>.   
+
++          A.49 utt1: I don't know <laughter>.  /
+sd          A.49 utt2: I don't know,  /
+sv          A.49 utt3: {C but } I think it's real vital important for the future, {D you know } --   
+
+b          B.50 utt1:  Uh-huh. /  
+
++          A.51 utt1:  -- generations to come,  /
+%          A.51 utt2: {D so. } -/  
+
+b          B.52 utt1: Yeah,  /
+%          B.52 utt2: I, {F uh, } - /
+sv          B.52 utt3: [ [ it's, + it's, ] + it's ] something definitely that, {F uh, } {D you know, } - /
+sv          B.52 utt4: [ it's, + it's, ] {F uh, } got the extra little oomph of interest. /  
+
+b          A.53 utt1:  Yeah. /  
+
+%          B.54 utt1:  {F Uh. } /  
+
+sv          A.55 utt1: I'm sure it'll draw a lot more interest too, once [ it becomes, + {D you know, } {D like } it's ] more possible,  /
+sv          A.55 utt2: {C but } --   
+
+b          B.56 utt1:  Yeah. /  
+
++          A.57 utt1: -- when they start showing the drawings and all that, I'm sure, {D you know, } when they, -/  
+
+b^r          B.58 utt1: Yeah,  /
+sd          B.58 utt2: I wish, {F uh, } - /
+sd          B.58 utt3: {D like, } {F uh, } Boeing or --   
+
+b          A.59 utt1:  Right. /  
+
++          B.60 utt1: -- McDonald Douglas or something like that was supposed to buy, {F uh, } a space shuttle sooner or later and just make it, {D you know, } purely commercial -- /  
+
+b          A.61 utt1:  Uh-huh. /  
+
+sd          B.62 utt1: -- {C and } they'd go up, {D you know, } and do things  /
+%          B.62 utt2: {C and, } -/  
+
+qy          A.63 utt1: {D So } did they scratch [ those, + {F uh, } that ] Star Wars deal, {D you know, } they one we was all worried about -- <+ the "they" in this sentence should probably be a "the"+>   
+
+b          B.64 utt1:  Oh. /  
+
++          A.65 utt1:  -- Russia and all that? /  
+
+nn          B.66 utt1: No,  /
+sv^e          B.66 utt2: it's still probably going,  /
+sd          B.66 utt3: {C but } I don't know whether, [ [ it, + it, ] + research ] will go on. /  
+
+b          A.67 utt1: Yeah,  /
+sv          A.67 utt2: {C but } the economy the way it is all over, they probably cut back [ on -- +    
+
+b          B.68 utt1:  {F Oh, } yeah. /  
+
++          A.69 utt1:  -- on ] that, because it's not, -/  
+
+sd          B.70 utt1: {D Well, } [ they're, + they're ] going to be cutting back so much on just, {D you know, } the number of troops we've got in Europe and the number --   
+
+b          A.71 utt1:  Right. /  
+
++          B.72 utt1:  -- of troops we have here. /  
+
+b          A.73 utt1:  Yeah,  /
+sd          A.73 utt2: I know,  /
+%          A.73 utt3: {C and then, } -/  
+
+sd          B.74 utt1: {C But, } {F uh, } Russia's still going to have missiles,  /
+sd          B.74 utt2: they're still going to be subs and things. /  
+
+b          A.75 utt1:  Yeah,  /
+sd          A.75 utt2: {C and } we don't know who's handling them now -- /  
+
+b          B.76 utt1:  Yeah. /  
+
+sd          A.77 utt1: -- {C so } that's a whole different story now. /  
+
+sd          B.78 utt1: Latest I heard it was just going to be [ Russia that, + Russia itself that ] was going to have them. /  
+
+bh          A.79 utt1:  {F Oh, } really. /  
+
+h          B.80 utt1: At least [ that was, + {D you know, } that's ] what everybody says.  /
+^q          B.80 utt2: {F Oh, } yeah,  /
+^q          B.80 utt3: yeah,  /
+^q          B.80 utt4: we want only Russia to have them. /  
+
+b          A.81 utt1:  Uh-huh. /  
+
+sd(^q)          B.82 utt1: {C And } now they're saying, Yeah,  /
+^q          B.82 utt2: yeah,  /
+^q          B.82 utt3: you're a republic,  /
+^q          B.82 utt4: you don't want those,  /
+^q          B.82 utt5: you don't want those.  (( )). /  
+
+sv          A.83 utt1:  Some crazy hit man over there  {D so, }     
+
+x          B.84 utt1:  <Laughter>.   
+
++          A.85 utt1: with those little [ republican-, + republics ] or whatever  /
+sd          A.85 utt2: they splitting it all up now,  /
+sv          A.85 utt3: {C and } one of them [ crazy -- +   
+
+b          B.86 utt1:  Uh-huh. /  
+
++          A.87 utt1:  -- crazy ] guys get a hold of it,  /
+sv          A.87 utt2: you never know. /  
+
+x          B.88 utt1:  <Laughter>.   
+
+qy^g          A.89 utt1: {C But } [ that, + the ] guy that's taken over for Gorbachev, [ he's supposed to be, + he's supposed to be ] on our side, isn't he. /  
+
+x          B.90 utt1:  <Laughter>.     
+
+sv          A.91 utt1:  Pretty much. /  
+
+sv          B.92 utt1:  One hopes. /  
+
+b          A.93 utt1:  Uh-huh. /  
+
+x          B.94 utt1:  <Laughter>.   
+
+sv          A.95 utt1:  I think we went through him though to get to Gorbachev on a lot of subjects  /
+%          A.95 utt2: {D so, } -/  
+
+b          B.96 utt1:  Uh-huh. /  
+
+sv          A.97 utt1:  {C But } that way, <laughter> you can't never tell that. /  
+
+b          B.98 utt1:  Yeah. /  
+
+bf          A.99 utt1:  Kiss some butt,  /
+%          A.99 utt2: [ {C but, } +   
+
+x          B.100 utt1:  <Laughter>.   
+
++          A.101 utt1:  {C but, } ] {F uh, } -/ 

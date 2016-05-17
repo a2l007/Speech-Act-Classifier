@@ -1,0 +1,50 @@
+KEY:
+----
+%%% Switched DA and AP with another unit (because the ^2 or ^m was put on
+    the wrong DA unit).
+### Removed label ^2 or ^m (because they were wrongly labeled).  An "FBH"
+    was inserted in the Comment field.
+!!! Genuinely out of order based on start time (which could happen if the
+    mimic or completion occurred in a later portion of the DA segment).
+$$$ Mimic of a person not on a close-talking mic.  (There is no DA segment
+    to pair up with, since only dialog on close-talking mics are included
+    in the MRDA corpus.)
+*** Mimic of a backchannel (backchannels by rule cannot have APs).
+
+
+Lines with No AP:
+-----------------
+$$$ 2671.47 Bed004-c2 s^m^na agent yeah agent whatever you wan- - wanna say yeah .
+$$$ 2706.44 Bed004-c2 s^m turn a crank in the belief-net .
+$$$ 2937.95 Bed004-c2 s^m the bayes-nets will be dec- - specific for each decision .
+### 909.478 Bmr010-cb s^2 and collections at nist .
+### 2279.88 Bmr011-cb s^2.%- got uh six- - sixty minutes of ==
+*** 521.362 Bmr018-c3 s^m uh-huh .
+### 502.39 Bmr025-c4 s^2 james christie .
+### 1446.24 Bro011-c1 qy^2^rt is it sonorant in that band ?
+### 2476.25 Bro017-c5 s^m absinthe .
+### 1277.11 Bro026-c2 s^2 mini-traps .
+
+
+Lines with only Problem APs:
+----------------------------
+%%% 2001.15 Bed003-c1 s^aa^m it's like yawning .
+%%% 679.52 Bed008-c2 s^aa^m doesn't matter .
+%%% 680.551 Bed008-c5 s^2 doesn't matter .
+### 1660.1 Bed009-c0 s^2^t1 of - of special interest .
+!!! 2530.31 Bmr005-c1 s^bk^m no .
+!!! 2667.26 Bmr008-c3 s^2 so it - we can regenerate a lot of this information .
+!!! 3055.9 Bmr011-cb s^2 legal .
+!!! 1886.92 Bmr019-c1 s^bk^m uh if we - we have two .
+$$$ 1546.25 Bmr020-c2 s^m^na the training .
+### 2470.99 Bmr028-c5 s^m^na they can do experiments .
+!!! 701.934 Bmr031-c1 s^bk^m forty - forty-four .
+!!! 4323.71 Bns002-c4 s^m^na eh gigahertz .
+!!! 2154.71 Bro003-c2 s^m oh italian .
+### 3730.15 Bro005-c4 s^bk^m no .
+!!! 176.216 Bro007-c1 s^2 no the k_l_t .
+!!! 178.411 Bro007-c1 s^2 and those two together .
+!!! 113.589 Bro008-c1 s^m.%- eight- ==
+!!! 2304.37 Btr002-c7 s^bk^m the - the person .
+!!! 140.63 Buw001-cb s^bu^m^rt la- - landay .
+$$$ 4077.13 Buw001-ca s^m^na not in the congressional hearings .

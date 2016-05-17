@@ -1,0 +1,243 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3207_1334_1389
+TOPIC#:		305
+DATE:		911004
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Both speakers were disjointed.
+
+=============================================================================
+  
+
+o          @A.1 utt1:  {F Um, } I don't,  /
+sd          @A.1 utt2: I am only twenty-eight  /
+sd          @A.1 utt3: {C and } I haven't  had much experience with nursing homes.  /
+sd          @A.1 utt4:  [ I don't, + I have never ] visited any of  them  /
+sd          @A.1 utt5: {C and, }  {F uh, } I don't think I've ever even been in one.  /
+qy          @A.1 utt6: Have you? /  
+
+na          B.2 utt1:  {F Um, } {D actually } [ [ I have, + {F um, } I've, ] + I've ]  been in them but, {F um, } just visiting  /
+sd          B.2 utt2: {C and, }  {F uh, } we used to g-, when we were {D like } [ in, + in ]  our  (( teen ages ))  /
+sd          B.2 utt3:  we'd go on Sundays and visit, {D you know, } the older people.  /
+sd          B.2 utt4:  {C But, }  {F um, }  I have an elderly grandma that lives with us. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  {C And } she's lived with us for {D like } five years.  /
+sd          B.4 utt2:   {C So } I kind of know [ how it is to, + how to ] decide if you want to put somebody in a rest  home  /
+sd          B.4 utt3: {C or, }  {F um, } {D like } [ we, +   {E I mean } we've ] had those discussions, {D you know, }  about should we put her in [ or + ]  because she's pretty senile  /
+%          B.4 utt4: {C and } <laughter>, -/  
+
+sv          A.5 utt1:  {C And } [ it, +  it ] takes a lot of care  /
+sd          A.5 utt2: {D like }  twenty-four hours a day someone,   
+
+b          B.6 utt1:  Yeah. /  
+
++          A.7 utt1:  has to be,     
+
+%          B.8 utt1:  It's rea-, -/  
+
++          A.9 utt1:  {D Well, } there's someone in [ my, + my ] fiancee's  family.  /
+sd          A.9 utt2:  His grandmother too and   they're, [ that hi-, + ] her son, his uncle,  whatever, {D you know, } {D anyway. } -/  
+
+x          B.10 utt1:  <Laughter>.   
+
+sd          A.11 utt1:  [ [ He, + he has, ] + he's ] recently retired  /
+sd          A.11 utt2:  {C and so } he's the one who she moved in with when she had a stroke  /
+sd          A.11 utt3: [ {C and, } +  {C and } ] all the other children  are working or whatever. /  
+
+b          B.12 utt1:  Uh-huh. /  
+
+sd          A.13 utt1:  They're all my parents age.  /
+sd          A.13 utt2: [ {C And, } + {F uh, } {C so } ] he's got, {D you know, } his retirement though is really twenty-four hours a day.  /
+sd          A.13 utt3: They have a day care two days a week.  /
+sd          A.13 utt4: They call it senior citizen day care.  /
+sd          A.13 utt5:   {C But } she goes in the senior citizen center. /  
+
+bh          B.14 utt1:  {F Oh, } really? /  
+
+sd          A.15 utt1:  {C So } [ sh-, +  he ] gets a break two days a  week  /
+sd          A.15 utt2: {C but } it's only for like two or three hours at a time. /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  {C And, } {D you know, }  just,  you see a lot of things like  {D [ you, +  you ] know, } ((   ))  was a great golfer and wanted to play golf when he retired,  /
+sd          A.17 utt2: {C and }  you know that a lot of the things he thought he would do when he retired he's not able to do now. /  
+
+b          B.18 utt1:  Right. /  
+
+sd          A.19 utt1:  {C But } he refuses to consider any other,  /
+%          A.19 utt2: I don't, -/  
+
+qy          B.20 utt1:  To put her in a rest home? /  
+
+ny          A.21 utt1:  Yeah,  /
+qy          A.21 utt2: {C and } is that how your parents feel  /
+%          A.21 utt3: {C or, } -/  
+
+nd          B.22 utt1:  {F Um, } <throat_clearing> {D well, } {D see } it's more  my grandma that feels that way. /  
+
+b          A.23 utt1:  <<Very faint>> Uh-huh. /  
+
+sd          B.24 utt1:  She says that when her husband died [ that he said, + {F oh, }  that my uncle had said ] that he would never [ ha-, + ] put her in a rest home.  /
+%          B.24 utt2:   {C So } it's kind of,  {F uh, } - /
+h          B.24 utt3: I don't know.  /
+sd          B.24 utt4: {E I mean, } [ I don't, + I don't ] think my  parents would  /
+sd          B.24 utt5: {C but } she is getting pretty bad  /
+sd          B.24 utt6: {D like } she has to have {D like } a little  toilet right by her bed  /
+%          B.24 utt7: {C and, }   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  it's, - /
+sd          B.26 utt2: {C and } my mom has to take care of her  pretty much  /
+%          B.26 utt3: {C so } it gets, - /
+h          B.26 utt4: I don't know.  /
+sv          B.26 utt5: [ It's, + it's ] a hard decision,  /
+sd          B.26 utt6: {C but } I don't think  I would do it to my parents personally <laughter>. /  
+
+%          A.27 utt1:  I know at this, - /
+sd          A.27 utt2: I know I feel like I would never do that  with my parents either, {D you know. }  /
+sd          A.27 utt3:  {C But } [ I, + I ] really feel  bad for the people I see th-, not very, - /
+sd          A.27 utt4: I'm not [ really, + really ] experienced  /
+sd          A.27 utt5: {C but } like  I said I just have that one family,  /
+sd          A.27 utt6: {C and } I just really feel bad for the guy  who his whole life is different now  /
+sd          A.27 utt7: {C and, } than he thought it would be.  /
+%          A.27 utt8: {C But, } -/  
+
+qw          B.28 utt1:  When he retired? /  
+
+ny          A.29 utt1:  Yeah,  /
+sd^e          A.29 utt2: {C and } he's got, {D you know, }  seven brothers and sisters  /
+sd          A.29 utt3: [ {C and, } + {C and, } ]  {F uh, } he's the one because he's the one that isn't going to work  every day and that she moved in with when she needed to move in with someone.  /
+%          A.29 utt4: {C And, } -/  
+
+b          B.30 utt1:  Yeah,  /
+sd          B.30 utt2: it's like that  (( good ))  for us just  because my uncle [ and my, + and my ] mom switch off like we have her for three months  /
+sd          B.30 utt3: {C and then }  he has her for three months. /  
+
+ba          A.31 utt1:  {F Oh, } {D well, } that's great. /  
+
+sd          B.32 utt1:  {C So } [ that, +   
+
+ba          A.33 utt1:  That's a good idea.  /
+%          A.33 utt2:  We ought to, -/  
+
++          B.34 utt1:  that ] works out good. /  
+
+b          A.35 utt1:  Yeah,  /
+sd          A.35 utt2: {C and } maybe when the other brothers  and sisters retire or whatever, I don't know what they're going to do.  /
+sd          A.35 utt3: It's really not my family.  /
+sd          A.35 utt4: It's my fiancee's  /
+sd          A.35 utt5: {C so } [ I don't, +  I can't ] say much. /  
+
+b          B.36 utt1:  Uh-huh. /  
+
+sd          A.37 utt1:  {C But } I always feel like I would never put my  parents in either  /
+sd          A.37 utt2: {C and } I wonder, I'm going to be the only sibling that isn't going to have  children  /
+sd          A.37 utt3: {C so } if my parents do need to live with someone, it will probably be with me because all my brothers and sisters will be having teenagers  around and everything to care for.    
+
+bh          B.38 utt1:  Really? /  
+
++          A.39 utt1:  {D You know, }  /
+%          A.39 utt2: {C and } [ I'm, +  I, ] - /
+sd          A.39 utt3: that's fine with me.  /
+sd          A.39 utt4:   [ I-, +  my fiancee and I ] both figure that's what's, we're going to end up with both  of the parents or  whoever.  /
+%          A.39 utt5: If the-, -/  
+
+x          B.40 utt1:  <Laughter>.   
+
+qh          A.41 utt1:  You know what I mean?  /
+sd          A.41 utt2: We feel like,    
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  it's our responsibility,  /
+sd          A.43 utt2: {C and } I feel like I would  never put them in a home.  /
+sd          A.43 utt3: {C But } I wonder how much, {D you know, } if one of us is  going to have to quit work someday or retire early or something. /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sv          A.45 utt1:  You think about it  /
+%          A.45 utt2: {C and } it's really, - /
+h          A.45 utt3:  I don't know.  /
+sv          A.45 utt4: This country kind of takes the worst care of the elderly of any other country. /  
+
+bh          B.46 utt1:  You think?  /
+sd          B.46 utt2:  [ [ I, + I -- ] +   
+
+sv          A.47 utt1:  {C And, }   
+
++          B.48 utt1:  -- I'm ] not really familiar with how other countries, /  
+
++          A.49 utt1:  It's really more of [ a, + {F um, } like a ]  respect issue [ th-, + ] that the [ older, + older ] people in other countries that I've been to seem to really have a lot more respect for the elderly people  /
+sv          A.49 utt2: [ {C and, } +  {C and } ] they  really  (( seem ))  as wise  /
+sv          A.49 utt3: [ {C and, } +  {C and } ] in this country [ nobody really, +   
+
+sv          B.50 utt1:  They're seen as senile <laughter>. /  
+
++          A.51 utt1:   {D Yeah, } nobody really ] pays attention  /
+sv          A.51 utt2:  {C and } [ they, + ] {F oh, } the old-timer made with the old way  /
+sv          A.51 utt3: {C and } nobody respects the traditions.  /
+%          A.51 utt4:  {C And, } {D you know, } it's I, - /
+sd          A.51 utt5: I'm not saying that I do either  /
+sv          A.51 utt6: {C but } <laughter> --   
+
+b          B.52 utt1:  Right. /  
+
++          A.53 utt1:  -- {D you know, } it's just funny  /
+sv          A.53 utt2: [ {C and, } + {C and } ]  we really don't have any that don't have the Social Security  /
+sv          A.53 utt3: {C and } everything really isn't that much --   
+
+b          B.54 utt1:  Uh-huh. /  
+
++          A.55 utt1:  -- for elderly people to live on.  /
+sv          A.55 utt2:  {D You know, }  even if they're in good health it's incredible. /  
+
+b          B.56 utt1:  Right. /  
+
+sv          A.57 utt1:   They don't have any, - /
+sv          A.57 utt2: they don't get special  treatment and maybe they should, {D you know } --   
+
+b          B.58 utt1:  Uh-huh. /  
+
++          @@A.59 utt1:  -- because we're all going to get old someday. /  
+
+aa          B.60 utt1:  I know. /  
+
+sv          A.61 utt1:  {C And so } [ it's a, + it's  kind of a ] depressing  <laughter> topic though.  /
+qw          A.61 utt2:  How old are you? /  
+
+sd          B.62 utt1:  {F Um, } I'm twenty. /  
+
+qy^d          A.63 utt1:  {C So } [ it is, +  {D yeah, } {C and }  it must be ] rough for you too to see your grandmother. /  
+
+ny          B.64 utt1:  Yeah,  /
+sd^e          B.64 utt2: [ it's, +   
+
+x          A.65 utt1:   ((   )) . /  
+
++          B.66 utt1:  it  really is ]  /
+sd          B.66 utt2: [ {C but, } + {C and } ]  [ she, + she ] drives us craz-, / 

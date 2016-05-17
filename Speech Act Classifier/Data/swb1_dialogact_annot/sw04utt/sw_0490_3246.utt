@@ -1,0 +1,267 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3246_1324_1410
+TOPIC#:		353
+DATE:		911011
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+==========================================================================
+  
+
+qy          A.1 utt1:  Do you see anything wrong with public school systems? /  
+
+ny          @B.2 utt1:  {D Well, } yes,  /
+sd^e          @B.2 utt2: I do.  /
+sd          @B.2 utt3:  {F Um, } I think I'm concerned about the large number of children that each teacher is expected [ to, + to ] deal with in some quality way.  /
+sv          @B.2 utt4: I think maybe we've given our teachers a almost impossible job. /  
+
+aa          A.3 utt1:  I agree. /  
+
+qy          B.4 utt1:  Do you?  /
+qy          B.4 utt2:  Do you have children in the public school system? /  
+
+ny          A.5 utt1:  Yes,  /
+sd^e          A.5 utt2: {C and } I taught for fourteen years --   
+
+b          B.6 utt1:  Is that right. /  
+
++          A.7 utt1:  -- before we moved to Texas,  /
+sd          A.7 utt2: {C and } [ the, + the ] one thing I see is changing is I was held accountable so much  /
+sd          A.7 utt3: I had to document and create a paper chase for all of my students,  /
+sd          A.7 utt4: {C and } instead of spending my time coming up with creative learning stations and things like that I was filling out all these forms --   
+
+bf          B.8 utt1:  You were a bookkeeper <laughter>. /  
+
++          A.9 utt1:  -- for all the children -- /  
+
+b          B.10 utt1:  Oh. /  
+
+sd          A.11 utt1:  -- everything had to be documented,  /
+sd          A.11 utt2: {C and } I had file cabinets that weren't filled with neat stuff for kids,  /
+sd          A.11 utt3: it was filled with documentation -- /  
+
+ba          B.12 utt1:  {F Oh, } no. /  
+
+aa          A.13 utt1:  -- yes. /  
+
+sd          B.14 utt1:  {D Well, } {F um, } [ I'm, + I have ] three years toward a teaching degree and am trying to get headed back,  /
+sd          B.14 utt2: [ {C and, } + {C and } ] I'm just really in a dilemma if that's what, {D you know, } - /
+sd          B.14 utt3: I love to work with children and --   
+
+sd          A.15 utt1:  Me, too. /  
+
++          B.16 utt1:  -- to teach them,  /
+sd          B.16 utt2: {C but } I'm really having questions [ if, + if ] I can deal with that system [ and, + and ] have a good conscience about, {D you know, } what I do.  /
+sv          B.16 utt3:  [ I don't think, + I don't think ] it's the teachers,  /
+sv          B.16 utt4: I think it's the system -- /  
+
+aa          A.17 utt1:  I think so too. /  
+
+%          B.18 utt1:  -- {C but, }  {F um. } -/  
+
+sv          A.19 utt1:  They're so worried about lawsuits and the scores the children get on tests now --   
+
+b          B.20 utt1:  Right. /  
+
++          A.21 utt1:  -- and teacher competency, {D you know, }  /
+sv          A.21 utt2: {C and } it's not like the teacher can just get in there and do her best,  /
+sv          A.21 utt3: she's always worried whose looking over her shoulder  /
+%          A.21 utt4: {C and, } -/  
+
+sv          B.22 utt1:  What child's going to say something --    
+
+aa          A.23 utt1:  That's right. /  
+
++          B.24 utt1:  -- some parent's going to overreact to -- /  
+
+aa          A.25 utt1:  I know. /  
+
+aa          B.26 utt1:  -- [ that's, + that's ] true.   /
+sv          B.26 utt2: {D Well, } [ it's, + it's ] hard on the children too,  /
+sv          B.26 utt3: I think, {D you know, } because [ the, + {F um, } the ] teachers are overworked  /
+sv          B.26 utt4: {C and } just like a mommy that's overworked --   
+
+aa          A.27 utt1:  That's right. /  
+
++          B.28 utt1:  -- you're not at your best, {D you know, }  {F um. } /  
+
+qy          A.29 utt1:  Do you have children in the system? /  
+
+na          B.30 utt1:  I have two,  /
+na          B.30 utt2:  I have, in the system - /
+sd          B.30 utt3: one is in ninth grade  /
+sd          B.30 utt4: {C and } one is in seventh grade,  /
+%          B.30 utt5: {C and } them, - /
+sd          B.30 utt6: {F um, } I'm home schooling my kindergartner this year. /  
+
+bk          A.31 utt1:  Oh. /  
+
+sd          B.32 utt1:  We, {F um, } live in a district that has open classrooms,  /
+sd          B.32 utt2: {C and } I wasn't particularly comfortable with that for her. /  
+
+b          A.33 utt1:  Yep.  /
+qy          A.33 utt2:  Are you in Plano? /  
+
+ny          B.34 utt1:  Yes. /  
+
+b          A.35 utt1:  Yep,  /
+sd          A.35 utt2: I am too. /  
+
+b          B.36 utt1:  You too. /  
+
+sd          A.37 utt1:  {C And } I have one in ninth grade at Clark  /
+sd          A.37 utt2: {C and } one at Hendrick this year,  /
+sd          A.37 utt3: {C and } [ [ he, + my nin-, ] + my, {F uh, } sixth grader ] came from an open classroom at Matthews,  /
+sd          A.37 utt4: {C and } the very first year I taught back in seventy-three, we had open classroom  /
+sd          A.37 utt5: {C and } it didn't work then -- /  
+
+b          B.38 utt1:  Oh. /  
+
+sd          A.39 utt1:  -- {C and } when we moved down here, I was just appalled that they were still doing --   
+
+b          B.40 utt1:  Still at it. /  
+
++          A.41 utt1:  -- it here, /  
+
+sd          B.42 utt1:  {D Well } the explanation <noise> I [ was, + was ] given about, {D you know, } - /
+sd          B.42 utt2: [ they, + they ] seemed to admit that it wasn't working,  /
+sd          B.42 utt3: {C but } they didn't have the money to restructure,  /
+sv          B.42 utt4: {C but } looks to me that it wouldn't take really that much money to at least come up with, {E I mean, } some kind of partitions --    
+
+b          A.43 utt1:  Partitions -- /  
+
++          B.44 utt1:  -- {D you know, } /  
+
+sv          A.45 utt1:  -- or just to face the children different directions  or to do something -- /  
+
+%          B.46 utt1:  Just, - /
+%          B.46 utt2: yeah. /  
+
+sd          A.47 utt1:  -- I know last year my son had to eat in the classroom because there was no cafeteria at his school -- /  
+
+ba          B.48 utt1:  {F Oh, } goodness. /  
+
+sd          A.49 utt1:  -- {C so } he spent all day --   
+
+b          B.50 utt1:  Oh. /  
+
++          A.51 utt1:  -- in this one large open area,  /
+sd          A.51 utt2: {C so, } I didn't really care for that.  /
+sd          A.51 utt3: It seems like the schools in Michigan were much better than they are down here. /  
+
+bh          B.52 utt1:  Were they? /  
+
+sd          A.53 utt1:  That was our last tour, in Michigan. /  
+
+sd          B.54 utt1:  {D Well, } we were from North, {F um, } Carolina,  /
+sd          B.54 utt2: {C and } of course [ North, + North ] Carolina has a terrible reputation as far as education.   /
+sd          B.54 utt3: I think they rank about forty-ninth -- /  
+
+b          A.55 utt1:  Oh. /  
+
+sd          B.56 utt1:  -- {C but } our children got a very good education there -- /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+sd          B.58 utt1:  -- they were in the magnet school program,  /
+sd          B.58 utt2: [ {C and } a lot of their classes, + from the time they were about third grade, [ they, + they ] changed classes ] several times during the day, which has its pros and cons,  /
+sd          B.58 utt3: {C but } a lot of their classes there were only eight or ten children in their classes -- /  
+
+ba          A.59 utt1:  {F Oh, } wow. /  
+
+sd          B.60 utt1:  -- {C and } it was wonderful -- /  
+
+aa          A.61 utt1:  Yes. /  
+
+sd(^q)          B.62 utt1:  -- {C so, } {D you know, } I'm coming [ to, + to ] Plano thinking, {D Well, } gosh, it's going to be really great,  /
+sd          B.62 utt2: it's ranked so much better <laughter>. /  
+
+aa          A.63 utt1:  Yes,  /
+aa          A.63 utt2: that's right.  /
+sd          A.63 utt3: We heard wonderful things about it until we actually got in the system. /  
+
+ba          B.64 utt1:  Isn't that interesting,  /
+sv          B.64 utt2: [ [ I, + I, ] + I ] don't understand how they get [ this, + this ] reputation unless it's just that they spend a lot of money,  /
+h          B.64 utt3: I don't know. /  
+
+aa          A.65 utt1:  Probably so, on publicity and letting realtors know and key people how wonderful the schools are -- /  
+
+aa          B.66 utt1:  I guess so. /  
+
+%          A.67 utt1:  -- {D so. } -/  
+
+sd          B.68 utt1:  {D Well, } my son is at Clark this year too,  /
+%          B.68 utt2: {C so, } {F uh, } we're -/  
+
+qy          A.69 utt1:  As a freshman? /  
+
+ny          B.70 utt1:  Yeah. /  
+
+b          A.71 utt1:  Yep. /  
+
+sd          B.72 utt1:  {C And, }  {F uh, } <noise> he's pleased with his classes.  /
+sd          B.72 utt2:  [ [ I, +  I, ] + I ] don't guess I've been in <noise> the high school long enough <noise> [ to, + to ] know what to expect really --   
+
+b          A.73 utt1:  Yeah. /  
+
++          B.74 utt1:  -- {D you know, } how to judge it. /  
+
+sd          A.75 utt1:  My daughter seems to be having a good time,  /
+sd          A.75 utt2: she was absent with strep throat the last three days,  /
+sd          A.75 utt3: {C and } I ran over and picked up her report card,  /
+sd          A.75 utt4: {C and } she did very good,  /
+sd          A.75 utt5: [ {C so } -- +   
+
+ba          B.76 utt1:  {D Well, } that's good. /  
+
++          A.77 utt1:  -- {C and } ] she seems to be studying and has just about the right amount of home work I would expect --   
+
+b          B.78 utt1:  Yeah. /  
+
++          A.79 utt1:  -- for a freshman to have.  /
+sd          A.79 utt2:  She's not bogged down,  /
+sd          A.79 utt3: {C but } yet she has some every night. /  
+
+sd          B.80 utt1:  {D Well, } Eric seems to have quite a few nights where he doesn't have any,  /
+ba          B.80 utt2: {C so, }  that's interesting,  /
+sd          B.80 utt3: {C but, } [ he, + his ] grades, I haven't seen them yet,  /
+sd          B.80 utt4: {C but } supposedly they're good,  /
+%          B.80 utt5: {C so, } -/  
+
+b          A.81 utt1:  Yes,  /
+sv          A.81 utt2: you always hear how good.  /
+sd          A.81 utt3:  Now my son's at,   
+
+x          B.82 utt1:  <Laughter>.   
+
++          A.83 utt1:  junior high  and says that his grades are going to be wonderful  /
+qh          A.83 utt2: {C but, }   
+
+x          B.84 utt1:  <Laughter>.   
+
++          A.85 utt1:  who knows what he's going to bring home. /  
+
+aa          B.86 utt1:  That's right. / 

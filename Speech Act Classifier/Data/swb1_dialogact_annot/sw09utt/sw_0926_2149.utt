@@ -1,0 +1,569 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2149_1028_1106
+TOPIC#:		327
+DATE:		910313
+TRANSCRIBER:	GLP
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	Speaker A had either a television or radio in background.
+Speaker B has a tendency of breathing heavily and often sounds out of
+breath.
+
+===========================================================================
+  
+
+qo          A.1 utt1:  <Noise> <<TV or radio>> {D So } what do you think?  /
+qy          A.1 utt2:  [ Should they, + {F uh, } should young Americans ] be forced to do a year of service? /  
+
+sv          B.2 utt1:  [ I don't, + I don't ] think they should be forced,  /
+sv          B.2 utt2: {C but } I think they should be, I guess, encouraged [ to, + to ] do some kind of public work, I guess [ to, + just to ] get them, I guess involved with community maybe, {D you know, }  /
+sv          B.2 utt3: just community activity.  /
+sv          B.2 utt4:  If nothing else, see how the city works, stuff like that. /  
+
+b          A.3 utt1:  Yeah,  /
+sv          A.3 utt2: I think something like the Peace Corps is a bit harsh. /  
+
+b          B.4 utt1:  Yeah, /  
+
+sv          A.5 utt1:  <Laughter> No kids, /  
+
+aa          B.6 utt1:  [ I <laughter> kind of, + I ] think so, too.  /
+sv          B.6 utt2:  I think that's a bit dramatic,  /
+sv          B.6 utt3: [ {C but, } + {C but } ] other than that I think [ it's, + it's ] a good idea to get them involved in city and community activities and, {D you know, } {D like } the, {F uh, } shelters and,  {F uh, } <breathing> <lipsmack>, that kind of, thing,   
+
+%          A.7 utt1:  Vol-, -/  
+
++          B.8 utt1:  helping out, {F uh, } volunteering, I guess, if they can. /  
+
+aa          A.9 utt1:  Yeah.  /
+sv          A.9 utt2:  I think it's a little harsh to say that they should have to spend a year or two. /  
+
+b          B.10 utt1:  Yeah. /  
+
+sv          A.11 utt1:  [ [ I, + I, ] + I'd ] force them.  /
+sv          A.11 utt2:  [ [ [ I think that, + {F uh, } I think it would be, ] + I think mo-, ] + I think a lot ] of kids actually do a lot of work  /
+sv          A.11 utt3: {C and } no one just realizes it. /  
+
+aa          B.12 utt1:  Your right,  /
+aa          B.12 utt2: I do, too,  /
+sv          B.12 utt3: I think they start out young, like in, {F uh, } Girl  Scouts and Boy Scouts <Noise> <<like a video game>> --   
+
+aa          A.13 utt1:  Right,  /
+aa          A.13 utt2: exactly. /  
+
++          B.14 utt1:  -- doing s-, -/  
+
+sd          A.15 utt1:  [ I was a, + I was a ] Boy Scout.  /
+sd          A.15 utt2:  As part of being a Boy Scout, you had to do, {D you know, } projects all throughout  /
+sd          A.15 utt3: {C and then } to become --   
+
+%          B.16 utt1:  Ex-, -/  
+
++          A.17 utt1:  -- an Eagle Scout you have to [ spend a, + do a ] yearlong project. /  
+
+aa          B.18 utt1:  Right,  /
+sd          B.18 utt2: [ that's, + see that's ] what we did in Girl Scouts  /
+sd          B.18 utt3: {C and } that got you involved real good  /
+sv          B.18 utt4: {C and } [ it, + I think it ] starts kids out on the right track  /
+sv          B.18 utt5: {C and  then } it lets them decide if that's what they enjoy doing. /  
+
+b          A.19 utt1:  Yeah. /  
+
+%          B.20 utt1:  Something, -/  
+
+sv          A.21 utt1:  [ [ [ I think, + I, ] + I, ] + {D now } I think ] people generally volunteer. /  
+
+b          B.22 utt1:  Yeah. /  
+
+sv          A.23 utt1:  That there's no problem with getting them to,   
+
+x          B.24 utt1:  <Throat_clearing>.   
+
++          A.25 utt1:  do stuff. /  
+
+aa          B.26 utt1:  I do, too.  /
+sv          B.26 utt2:  [ I think, + I think ] [ a lot of people, + a lot more people ] volunteer [ [ [ than, + than, ] + {F uh, } than we, ] + than get ] credit for it [ as, + {D you know, } {D like } in ] hospitals [ and, + {F uh, } and ] the shelters and stuff like that.  <Sniffing>  /
+sv          B.26 utt3: {C And } even if it is a couple times a year like at the holidays, {E I mean } at least they're getting out and doing it and <throat_clearing> {D you know, } [ helping, + helping ] out.  /
+sv          B.26 utt4: I think that's good  /
+%          B.26 utt5: {C and, } -/  
+
+sd          A.27 utt1:  {D Well, } we have a funny commercial around here.  /
+sd(^q)          A.27 utt2:  It says something like, if people were to give five,   
+
+x          B.28 utt1:  <Sniffing>.   
+
++          A.29 utt1:  hours a week or five percent of their salary,   
+
+x          B.30 utt1:  <Laughter>.   
+
++          A.31 utt1:  [ we could, + they could ] solve all the world's problems or something. /  
+
+x          B.32 utt1:  <Laughter>.   
+
+sv          A.33 utt1:  {C So, }    
+
+b          B.34 utt1:  Yeah,  /
+b^r          B.34 utt2: # yeah. # /  
+
++          A.35 utt1:  # I guess # if we all give five hours a week or five percent of our salary we could, {F uh, } -/  
+
+x          B.36 utt1:  <Laughter>.   
+
+sv          A.37 utt1:  [ [ [ [ or just, + or just gave, ] + or, ] + or, ] + or just ] [ forced our kids just [ to, + to, ] + force kids to ] serve for, {F uh, } parents, I guess. -/  
+
+aa          B.38 utt1:  Yeah <laughter>.  /
+aa          B.38 utt2:  There you go. /  
+
+sv          A.39 utt1:  Substitute.  /
+%          A.39 utt2:  [ [ My, + my, ] +   
+
+b          B.40 utt1:  Right. /  
+
++          A.41 utt1:  yeah,  /
+sv          A.41 utt2: my ] kid will do four or five hours this week for me.  /
+sv          A.41 utt3:  # No problem. # /  
+
+aa          B.42 utt1:  # Yeah,  /
+ba          B.42 utt2: it # sounds pretty good <laughter>.  /
+ba          B.42 utt3:  That sounds good.  /
+sd          B.42 utt4: I've noticed a lot of, {F uh, } <throat_clearing>, different organizations in our community, {F uh, } pick up, like on the highway and stuff,  /
+sv          B.42 utt5: {C and } I think that's pretty neat.  /
+sd          B.42 utt6: They, {F uh, } go along and have so many miles I guess of highway to take over -- /  
+
+b          A.43 utt1:  Uh-huh. /  
+
+sd          B.44 utt1:  -- {C and } they clean it up. /  
+
+
+sd          A.45 utt1:  I've seen that.  /
+%          A.45 utt2:  # Yeah. # /  
+
+sd          B.46 utt1:  # And keep it # clean.  /
+sv          B.46 utt2:  I think that's I pretty good idea.  /
+%          B.46 utt3: {C And } I think, {D you  know, } {D again } - /
+sd          B.46 utt4: I've seen a lot of young kids doing that  /
+sv          B.46 utt5: {C and } I think it gets them prepared [ to, + to ] learn how to volunteer as they get older.  /
+sd          B.46 utt6:  I know I did, {D you know, } in Girl Scouts and everything  /
+sd          B.46 utt7: and after that in high school I would volunteer at a nursing home and stuff <sniffing> like that <throat_clearing>. /  
+
+sd          A.47 utt1:  [ They, + they, ]   
+
+%          B.48 utt1:  {C So, } -/  
+
++          A.49 utt1:  just started trying to get [ them, + something ] together [ [ [ l-, + l-, ] + like, ] + like ]  that around here [ [ from, + for, ] + from ] the community because, {F uh, } we had a big ice storm --   
+
+b          B.50 utt1:  Oh. /  
+
++          A.51 utt1:  -- {F uh, } [ very, + very ] recently.  /
+qy^d          A.51 utt2:  You don't sound like you're in the north.  /
+qy^d          A.51 utt3:  You sound like you're in the south somewhere. /  
+
+ny          B.52 utt1:  Yeah,  /
+sd^e          B.52 utt2: I'm in Texas.  /
+qw          B.52 utt3: Where are you at? /  
+
+b          A.53 utt1:  Yeah, {F uh, }  /
+sd          A.53 utt2: I'm in, {F uh, } New York. /  
+
+bk^m          B.54 utt1:  New York. /  
+
+sd          A.55 utt1:  Upstate New York,  /
+%          A.55 utt2: yeah. /  
+
+ba          B.56 utt1:  {F Oh, } gosh. /  
+
+%          A.57 utt1:  {C And, } {F uh, } -/  
+
+x         B.58 utt1:  <Sniffing>.   
+
+x          A.59 utt1:  <Laughter>.   
+
+b          B.60 utt1:  <Sniffing> Yeah. /  
+
+sv          A.61 utt1:  Long way, {F uh, } /  
+
+b          B.62 utt1:  Yeah <Laughter>. /  
+
+sd          A.63 utt1:  {C And } we just had a really big ice storm.  /
+sd          A.63 utt2:  {C And, } basically, [ half the trees [ in, + in ] our city, + {A I'm in Rochester which is, {F uh } --   
+
+b          B.64 utt1:  Uh-huh. /  
+
++          A.65 utt1:  -- right upstate. }  Half of the trees in the city, ] {F uh, } are no good anymore. /  
+
+ba          B.66 utt1:  # {F Oh, } no. # /  
+
+sd          A.67 utt1:  # <Lipsmack> That's how bad it was.  /
+sd          A.67 utt2: #  Everything is just down everywhere. /  
+
+b          B.68 utt1:  Oh. /  
+
+sd          A.69 utt1:  {D You know, } we had three hundred thousand people without power. /  
+
+ba          B.70 utt1:  # Golly. # /  
+
+%          A.71 utt1:  # {D You know, } it was, - /
+sd          A.71 utt2: # [ [ [ {C and, } +  {D you know, } {C and, } ] + {C and } they, ] + {C and } we ] didn't have power for a week  /
+sd          A.71 utt3: {C and } there are still people who don't have # power. # /  
+
+bh          B.72 utt1:  # Are # you serious? <Breath>. /  
+
+ny          A.73 utt1:  {F Oh, } yeah,  /
+sd^e          A.73 utt2: [ [ it's been, + it's been, ] + it's been ] ten days already  /
+sd          A.73 utt3: {C and } there are still something like ten thousand people without power. /  
+
+ba          B.74 utt1:  {F Oh } my God,  /
+qh          B.74 utt2: # how do they live? # /  
+
+sd          A.75 utt1:  # [ {C and } were officially, + # yeah,  /
+sd          A.75 utt2: {C and } we're officially ] in a state of  emergency.  /
+sd          A.75 utt3: Funny thing is [ the news, + the national news ] how they covered it. {F Uh, } <lipsmack> /  
+
+b          B.76 utt1:  Yeah.  /
+sd          B.76 utt2:  I haven't heard a thing. /  
+
+b          A.77 utt1:  Yeah.  /
+sd          A.77 utt2:  I think it made about three minutes on one of the national news stations or something  /
+sd          A.77 utt3: [ {C and, } +   
+
+x          B.78 utt1:  <Breathing>.   
+
++          A.79 utt1:  {C and } ] we've been in a state of emergency [ for over, + {D you know, } for ] ten or  eleven days. /  
+
+ba          B.80 utt1:  Lord. /  
+
+b          A.81 utt1:  {D You know. }  /
+sd          A.81 utt2:  We just got our phone back today, {F uh, } /  
+
+%          B.82 utt1:  Go-, <laughter>. -/  
+
+sd          A.83 utt1: [ {C and, } + {C and, } ] they're {D you know, } putting out ads now for people to come volunteer,   
+
+x          B.84 utt1:  <Throat_clearing>.   
+
++          A.85 utt1:  or to have their organizations come,   
+
+x          B.86 utt1:  <Throat_clearing>.   
+
++          A.87 utt1:  volunteer to help clean up the streets. /  
+
+ba          B.88 utt1:  {D Well, } that's good.  /
+ba          B.88 utt2:  # That's great. # /  
+
+sd          A.89 utt1:  # {C Because } we have, # {D you know, } - /
+sd          A.89 utt2: [ every-, + everywhere ] that a tree is down people need help  /
+sd          A.89 utt3: {C and, }   
+
+b          B.90 utt1:  # Right. # /  
+
++          A.91 utt1:  # [ we're [ all, + # all, ] + a lot of older folks ] need help getting,   
+
+b          B.92 utt1:  # Yeah. # /  
+
++          A.93 utt1:  # their yards # cleaned out because they can't afford to pay anyone  /
+sd          A.93 utt2: [ {C and } they, +   
+
+b          B.94 utt1:  Right. /  
+
++          A.95 utt1: [ {C and, } + {C and } ] they ] certainly can't carry it themselves  /
+%          A.95 utt2: {C and, } -/  
+
+o@          B.96 utt1:  Right <Sniffing>.    *[[slash error]]
+
+%          A.97 utt1:  {C So, } -/  
+
++@          B.98 utt1:  [ That's + ] one thing we do at our church is, {F uh, } <throat_clearing> we have a group called Hearts and Hammers,  /
+sd          B.98 utt2: {C and } we go along  /
+sd          B.98 utt3: {C and, } I'm really not sure how we find the individuals,  /
+sd          B.98 utt4: {C but } we find older people that cannot afford to fix up their homes that [ n-, + desperately need ] it,  /
+sd          B.98 utt5: {C and, } {F uh, } we go along with all the material and in one day, more or less, go in and say, roof, paint, fix whatever we can. /  
+
+ba          A.99 utt1:  {F Oh, } that's great. /  
+
+aa          B.100 utt1:  Yeah,  /
+sd          B.100 utt2: and spend a day doing, - /
+ba          B.100 utt3: that's really neat.  /
+sd          B.100 utt4:  {E I mean, } it's not a lot because you're just doing a house at a time,  /
+sd          B.100 utt5: {C but } {D you know, } every little bit helps. /  
+
+qy          A.101 utt1:  {C And } is that supported by all donations to the church and so forth  /
+%          A.101 utt2: {C or, } -/  
+
+ny          B.102 utt1:  {F Uh, } yeah.  /
+sd^e          B.102 utt2:  [ They, + {F uh, } <throat_clearing> luckily we ] have [ a, + a ] man who owns a building company. /  
+
+%          A.103 utt1:  {F Oh, } {C so } he, -/  
+
+sd          B.104 utt1:  {C So } he donates a lot, not everything, but a lot of the material.  /
+sd          B.104 utt2:  Then what he doesn't donate we just go out and buy. /  
+
+ba          A.105 utt1:  That's real nice. /  
+
+b          B.106 utt1:  <Throat_clearing> Yeah. /  
+
+x          A.107 utt1:  <Noise>.   
+
+sd          B.108 utt1:  {C And } [ it's not, + {D you know, } we don't ] promote it a lot outside the community because we don't want recognition for it, {D you know } --   
+
+b          A.109 utt1:  <Laughter> Right. /  
+
++          B.110 utt1:  -- so much as, we just want to help people out.  /
+ba          B.110 utt2: {C So } it's real neat. /  
+
+ba          A.111 utt1:  # [ That, + #   
+
+%          B.112 utt1:  # [ It's, + #   
+
++          A.113 utt1:  that's ] real good.  /
+qy^d          A.113 utt2:  [ {C And } I, + {C and } I ] bet it gives you a real good feeling --   
+
++          B.114 utt1:  # Yeah,  /
+sd          B.114 utt2: it's # ] --   
+
++          A.115 utt1:  -- # to be doing that. # /  
+
++          B.116 utt1:  -- like I say,  /
+sd          B.116 utt2: it's not a lot,  /
+sd          B.116 utt3: {C but } it helps people.  /
+sd          B.116 utt4:  {D Like } this last couple we helped, {D you know, } they were in their eighties  /
+sd          B.116 utt5: {C and } she was bedridden  /
+sd          B.116 utt6: {C and, } [ I just, + {D you know, } just ] tears your heart out [ to -- +   
+
+b          A.117 utt1:  Yeah. /  
+
++          B.118 utt1:  -- to ] see this kind of thing  /
+sv          B.118 utt2: {C and } {D you know, } if you can do any a little bit, it helps,  /
+%          B.118 utt3: {C so } <sniffing>, -/  
+
+ba          A.119 utt1:  [ [ That's, + that's, ] + {F uh, } that's ] real good. /  
+
+b          B.120 utt1:  # Yeah. # /  
+
+sd          A.121 utt1:  # [ We had, + # {F uh, } we had ] organizations like that in college, {D you know. }  /
+sd          A.121 utt2:  We had a community service group in college that had all sorts of different groups  /
+sd          A.121 utt3: {C and } [ some did like that, + some did elderly visits, ] /  
+
+b          B.122 utt1:  # Yeah. # /  
+
+sd          A.123 utt1: # [ some did, + {F uh, } # some did, ] {D you know, } Big Brother, Big Sister, stuff like  that.  /
+sd          A.123 utt2:  {C And } I'm convinced [ [ that, + that, ] + that ] at least twenty-five percent of our school participated in [ some sort of a, + some sort of ] group.  {D You know, }   
+
+ba          B.124 utt1:  Gosh. /  
+
++          A.125 utt1:  [ ac-, + activity ] {D like } that. /  
+
+ba          B.126 utt1:  That's great.  /
+ba          B.126 utt2: That's a lot. /  
+
+t3          A.127 utt1:  {D You know. } Twenty-five, I don't know.  Twenty-five percent?  <<speaker A asks someone else in the room>>.  /
+%          A.127 utt2: Yeah,  /
+sd          A.127 utt3: my wife was big in that <Laughter>. /  
+
+sv          B.128 utt1:  [ That's, + # that's ] a lot of kids, though. # /  
+
+sd          A.129 utt1:  # {C And } she thinks, {A yeah,  /
+sd          A.129 utt2: } twenty-five # percent.  /
+sd          A.129 utt3:  [ It, + it ] was a small school <laughter>. /  
+
+sv          B.130 utt1:  {F Oh, } <laughter> {D well, }   
+
+%          A.131 utt1:  {C But, } {F uh, } -/  
+
++          B.132 utt1:  still [ that's a, + {D you know, } that's a ] good # chunk of kids. # /  
+
+aa          A.133 utt1:  # Yeah,  /
+sd          A.133 utt2: {C but, } {E I mean, } # [ [ a, + a, ] + a ] lot of people would get involved  /
+sd          A.133 utt3: [ {C and, } + {D you know, } {C because } ] there were all different,   
+
+x          B.134 utt1:  <Sniffing>.   
+
++          A.135 utt1:  organizations to do.  /
+sd          A.135 utt2:  There was Big Brother, Big Sister, /  
+
+b          B.136 utt1:  # Yeah. # /  
+
+sd          A.137 utt1:  # they had a # yearly auction,  /
+sd          A.137 utt2: they had a dance marathon for charity or,  [ to, + to ] support that,   
+
+x          B.138 utt1:  <Noise>.   
+
++          A.139 utt1:  group. /  
+
+b          B.140 utt1:  Yeah.  /
+ba          B.140 utt2:  # That's neat. # /  
+
+sd          A.141 utt1:  # Such that, {D you know, } # lots of people got involved that way. /  
+
+ba          B.142 utt1:  That's great. /  
+
+b          A.143 utt1:  Yeah. /  
+
+ba          B.144 utt1:  That's great.  /
+aa          B.144 utt2:  {C But, } {F uh, } {D like, } I'll agree with you, though,  /
+sv          B.144 utt3: I don't think they should have to do a year <laughter>. /  
+
+aa          A.145 utt1:  Yeah,  /
+aa          A.145 utt2: no,  /
+aa          A.145 utt3: neither do I. /  
+
+x          B.146 utt1:  <Sniffing>.   
+
+sd          A.147 utt1:  I think it should be completely optional  /
+%          A.147 utt2: {C and } --   
+
+b          B.148 utt1:  Yeah. /  
+
++          A.149 utt1:  -- {D you know. } -/  
+
+sv          B.150 utt1:  [ I don't think that, + some people I don't think ] have, {F uh, } a year in them to volunteer if you know what I mean.  /
+sv          B.150 utt2:  They're not worth it <laughter>. /  
+
+aa          A.151 utt1:  Yeah,  /
+aa          A.151 utt2: they're not worth a year.  /
+sv          A.151 utt3:  {C Or } some people [ [ unfort-, + just, ] + just ] can't even afford it,   
+
+x          B.152 utt1:  <Noise> <<paper unraveling>>.   
+
++          A.153 utt1:  {D you know, } whatever.  /
+sv          A.153 utt2:  {E I mean, }   
+
+b          B.154 utt1:  Right. /  
+
++          A.155 utt1:  the Peace Corps doesn't pay very well.  {D You know? } /  
+
+aa          B.156 utt1:  {F Oh, } yeah,  /
+aa          B.156 utt2: that's true,  /
+aa^r          B.156 utt3: that's true. /  
+
+sv          A.157 utt1:  People get shipped off  /
+sv          A.157 utt2: [ [ {C and then, } {D you know, } + {C and then, } ] + {C and then } ] their parents, - /
+sd          A.157 utt3: I have [ [ a, + {F uh, } a, ] + a ] friend [ whose, + whose ] [ son is in the Peace Corps in Guatemala, + {E or } daughter is in the Peace Corps in Guatemala ] right now. /  
+
+b          B.158 utt1:  Oh. /  
+
+sd          A.159 utt1:  {C And, } {D you know, } he and his wife just went off to visit her  /
+sd          A.159 utt2: {C and, } {D you know, } I know I could never afford to go visit a kid in Guatemala. /  
+
+sd          B.160 utt1:  <Laughter> I couldn't either. /  
+
+%          A.161 utt1:  {D You know, } {C so } <laughter>, -/  
+
+sd^r          B.162 utt1:  I couldn't either. /  
+
+%          A.163 utt1:  {C so } I think, {D you know, } - /
+sv          A.163 utt2: [ [ {C and, } + {C and, } ] + {C and } ] the kid's certainly not making much money. /  
+
+aa          B.164 utt1:  Right,  /
+aa^r          B.164 utt2: # right. # /  
+
+sv          A.165 utt1:  # {C So } I can # see where [ that, + that, ]   
+
+x          B.166 utt1:  <Sniffing>.   
+
++          A.167 utt1:  may be a problem. /  
+
+aa          B.168 utt1:  Yeah.  /
+sd          B.168 utt2:  I just know one person that's in the Peace Corps  /
+sd          B.168 utt3: {C and, } <throat_clearing> {E I mean, } she's a teacher [ and, + and ] just wanted to do it.  /
+sd          B.168 utt4: She'd been a teacher for a while.  /
+sd          B.168 utt5:  Just decided she wanted to do it,  /
+sd          B.168 utt6: {C so. } {E I mean, } I'm grateful for people like that,  /
+sd          B.168 utt7: {C but, }   
+
+x          A.169 utt1:  <Laughter>.   
+
++          B.170 utt1:  I don't see how they can [ just, +   
+
+^2          A.171 utt1:  Just take off a year. /  
+
++          B.172 utt1:  Yeah,  /
+%          B.172 utt2: just, ]   
+
+x          A.173 utt1:  <Noise>.   
+
++          B.174 utt1:  pick up and <lipsmack> head on out. /  
+
+aa          A.175 utt1:  Yeah,  /
+aa          A.175 utt2: I don't, -/  
+
+sd          B.176 utt1:  I wish I could do something like that,  /
+sd          B.176 utt2: {C but } <breathing> # I can't,  /
+%          B.176 utt3: {C so }  <laughter>, # -/  
+
+b          A.177 utt1:  # Yeah,  /
+b^r          A.177 utt2: # yeah,  /
+sd          A.177 utt3: {D well } neither can I,  /
+sd          A.177 utt4: {C so, } [ [ [ [ [ I, + I, ] + I, ] + I, ] + I, ] + I, ]   
+
+x          B.178 utt1:  <Sniffing>.   
+
++          A.179 utt1:  did my service before  /
+sd          A.179 utt2: {C and } I'll do my little community service throughout, but [ never -- +   
+
+b          B.180 utt1:  # Right,  /
+sd          B.180 utt2: that's the way I am. # /  
+
++          A.181 utt1:  -- # never ] for a year again. # /  
+
+ba          B.182 utt1:  <Laughter> I know the feeling. /  
+
+qy^d          A.183 utt1:  [ {D So, } + {D so } ] I guess our vote is no <laughter>. /  
+
+na          B.184 utt1:  That's right <laughter>.  /
+sd          B.184 utt2:  We're against it <laughter>.  /
+na^r          B.184 utt3:  That's right. /  
+
+fc          A.185 utt1:  {D Well, } it's been nice talking to you again. /  
+
+fc          B.186 utt1:  You, too,  /
+fc          B.186 utt2: {C and } I hope everything works out up there. /  
+
+fc          A.187 utt1:  {D Well, } yeah,  /
+fc          A.187 utt2: [ we're, + we're ] slowly getting everything back together again.  /
+fc          A.187 utt3: {D You know, } [ it, + it's ] taking time,  /
+fc          A.187 utt4: {C but } --   
+
+fc          B.188 utt1:  Yeah. /  
+
++          A.189 utt1:  -- everything, {D you know, } - /
+fc          A.189 utt2: we got lucky.  /
+fc          A.189 utt3:  We had no damage to our house or  anything  /
+fc          A.189 utt4: {C so, }    
+
+fc          B.190 utt1:  Good,  /
+fc^r          B.190 utt2: good,  /
+fc          B.190 utt3: that's great. /  
+
++          A.191 utt1:  The rest will just have to come with time. /  
+
+fc          B.192 utt1:  Yeah.  /
+fc          B.192 utt2:  {D Well, } good luck. /  
+
+fc^m          A.193 utt1:  {D Well, } good luck to you, too. /  
+
+fc          B.194 utt1:  Thanks. /  
+
+fc          A.195 utt1:  Bye-bye </Noise> <<TV or radio>>. /
+
+fc          B.196 utt1:  Bye </Noise> <<like video game>>. /

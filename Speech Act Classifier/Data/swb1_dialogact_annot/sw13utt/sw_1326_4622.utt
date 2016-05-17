@@ -1,0 +1,199 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+FILENAME:	4622_1671_1528
+TOPIC#:		303
+DATE:		920409
+TRANSCRIBER:	nk
+UTT_CODER:	TC
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+qw          A.1 utt1:  What do you usually wear to, -/  
+
+^h          B.2 utt1:  Well, let's see.  /
+sd          B.2 utt2:  It turns out that, uh, TEK-, - /
+sd          B.2 utt3: I work at TEKTRONIX  /
+sd          B.2 utt4: and it's a very, uh, low key place as far as dress goes. /  
+
+b          @A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  You just wear, uh, - /
+^h          B.4 utt2: let's see.   /
+sd          B.4 utt3: When I first came here, I wore suits  /
+sd          B.4 utt4: but after a while I got, uh, found out that that wasn't all that important.  /
+sd          B.4 utt5:  I'm an engineer. /  
+
+b          A.5 utt1:  Oh, I see. /  
+
+sd          B.6 utt1:  And, uh, so, I get to wear just, uh, how shall I say it, uh, walking shoes as --   
+
+b          A.7 utt1:  Uh-huh. /  
+
++          B.8 utt1:  -- opposed to dress shoes and well walking, how shall I say it, kind of like Avia, uh, walking shoes, uh, /  
+
+sv          A.9 utt1:  Well, that's nice comfortable stuff. /  
+
+aa          B.10 utt1:  Yes.  /
+sd          B.10 utt2:  Open shirt, open at the neck, you know, no tie. /  
+
+ba          A.11 utt1:  Wow. /  
+
+sd          B.12 utt1:  And, uh, just, uh, reasonable looking, how shall I say it, uh, sports clothes or some guys wear, some people even wear Levis. /  
+
+ba          A.13 utt1:  Wow.  /
+sv          A.13 utt2:  That's nice. /  
+
+qy^g          B.14 utt1:  Now, being from Philadelphia, I don't expect your dress code to be quite that relaxed, right? /  
+
+sd          A.15 utt1:  Well <laughter>, actually right now I'm a full time college student  /
+ng          A.15 utt2: so my dress code is very, very <laughter> #(( )).# -/  
+
+bk          B.16 utt1:  #Oh, okay.#  /  
+
+b          A.17 utt1:  Yeah,  /
+sd          A.17 utt2: I usually wear jeans and stuff to classes or shorts in the summertime.  /
+sd          A.17 utt3:  But over the summers I've had a job, internships with the newspaper. /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+%          A.19 utt1:  And that's (( )) so, - /
+sd          A.19 utt2: generally then I dress, you know, nicer.  /
+sd          A.19 utt3:  Usually nice summer slacks or more, sometimes skirts, stuff like that.  /
+sd          A.19 utt4:  So, then it's still, you know, the emphasis is on comfort a lot because it's a lot of walking and coming ((in, out of the)) office  /
+sv          A.19 utt5: but you still have to have a professional imagine kind of thing.   
+
+b          B.20 utt1:  Yes. /  
+
++          A.21 utt1:  To go out to meet people and interview people and stuff like that  /
+%          A.21 utt2: so. -/  
+
+b          B.22 utt1:  <Breathing> Yeah,  /
+sd          B.22 utt2: well I, uh, I just recently applied for a different job in the company here  /
+sd          B.22 utt3: and --   
+
+b          A.23 utt1:  Oh, really. /  
+
++          B.24 utt1:  -- so I decided well I'd wear a suit. /  
+
+b          A.25 utt1:  #Uh-huh.# /  
+
+sv          B.26 utt1:  #And it,# it was very interesting,  /
+sd          B.26 utt2: uh, like I said, most of the people at, at this company don't wear suits.  /
+sd          B.26 utt3:  Uh, most of the engineers and technical people are just very casual, almost the same clothes that, that you'd wear to school. /  
+
+ba          A.27 utt1:  Wow.  /
+qy^d          A.27 utt2:  That must be nice atmosphere then. /  
+
+na          B.28 utt1:  <Laughter> Well, it has been.  /
+sd          B.28 utt2:  Although the new president and C E O of the company is from a much more formal eastern, uh, background. /  
+
+b          A.29 utt1:  Oh. /  
+
+%          B.30 utt1:  And so the result is that, uh, - /
+sd          B.30 utt2: so anyway I wore this suit  /
+sd          B.30 utt3: and I went over to, uh, uh, to one of the buildings that has a lot more of the financial people in it -- /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  -- and it, and I, I was almost converted because, uh, the effect of that suit on the way people res-, reacted and responded to me as opposed to the, - /
+%          B.32 utt2: uh, just to kind of, - /
+h          B.32 utt3: how shall I say it,  /
+sv          B.32 utt4: they know you're there  /
+sv          B.32 utt5: but they don't <sigh>, - /
+%          B.32 utt6: uh, you don't, - /
+sv          B.32 utt7: there's no notice at all.  /
+sd          B.32 utt8:  But when I wore a suit that day, uh, it was obvious that people didn't know whether I was a worker bee or a manager. /  
+
+ba          A.33 utt1:  Wow. /  
+
+sd          B.34 utt1:  So people, uh, how shall I say it, made a, made much more effort to notice you, acknowledge your presence, say hello and, uh, things like that,  /
+%          B.34 utt2: so. -/  
+
+ba          A.35 utt1:  That's interesting.  /
+sv          A.35 utt2:  It's like a mini, little study there <laughter>.   /  
+
+b          B.36 utt1:  Yeah. /  
+
+ba          A.37 utt1:  That's really interesting. /  
+
+sv          B.38 utt1:  And so this dress for success thing, I think is, uh, - /
+sv          B.38 utt2: by and large I've, I'm kind of, uh, convinced that, uh, by that, just that one, uh, uh, experience and then having talked to several other people that, that, uh, <sigh> unless you're in a, an environment where they're going to make fun of, of, of --   
+
+b          A.39 utt1:  Right. /  
+
++          B.40 utt1:  -- better clothes, that better clothes always pay off. /  
+
+b          A.41 utt1:  Huh.  /
+ba          A.41 utt2:  That's interesting.  /  
+
+sd          B.42 utt1:  Doesn't mean they have to be, uh, - /
+h          B.42 utt2: how shall I say it,  /
+sv          B.42 utt3: th-, they don't have to be the, the most, uh, the absolute best -- /  
+
+b          A.43 utt1:  Uh-huh. /  
+
+sv          B.44 utt1:  -- but, uh, a little dressing a little bit above the standard, I think, would, uh, pay off  /
+sd          B.44 utt2: so I'm in the process of telling my wife we got to go shopping for clothes #again.# /  
+
+ba          A.45 utt1:  #<Laughter># That's neat,  /
+ba^r          A.45 utt2: that's neat <laughter>. /  
+
+h          B.46 utt1:  And, uh, I, I don't know,  /
+sd          B.46 utt2: now I, I know eastern, - /
+sd          B.46 utt3: now the other thing we do here, of course, is a single, not quite a single climate.  /
+sd          B.46 utt4:  We have, uh, we do have some snow in the wintertime  /
+sd          B.46 utt5: and it can be quite warm in the summertime. /  
+
+b          A.47 utt1:  Uh-huh. /  
+
+sd          B.48 utt1:  Not hot like, uh, - /
+sd          B.48 utt2: I lived in the midwest for a while. /  
+
+b          A.49 utt1:  Oh. /  
+
+sd          B.50 utt1:  And I know that, uh, you know, it can be freezing cold in the wintertime,   
+
+x          A.51 utt1:  <Sigh>. /  
+
++          B.52 utt1:  and hot and, uh, sticky in the summertime.   /  
+
+b          A.53 utt1:  Uh-huh. /  
+
+sd          B.54 utt1:  We don't have that much.  /
+sd          B.54 utt2:  It's, uh, it's a very mild climate. /  
+
+ba          A.55 utt1:  Oh, well that's nice.  /
+qy^d          A.55 utt2:  That's good for the clothes budget, I #would imagine.# /  
+
+ny          B.56 utt1:  #Yes,  /
+sd^e          B.56 utt2: it is.#  /  
+
+sd          A.57 utt1:  Because here, gosh, we had, uh, - /
+sd          A.57 utt2: the winter hasn't been bad this winter.  /
+sd          A.57 utt3: It's, it (( )) it's only snowed maybe once or twice  /
+sd          A.57 utt4: but it's been cold.  /
+sd          A.57 utt5:  Low twenties, let's say,  /
+sd          A.57 utt6: and then the summer gets up to eighties, nineties  /
+%          A.57 utt7: so, -/ 

@@ -1,0 +1,380 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3049_1264_1094
+TOPIC#:		348
+DATE:		910611
+TRANSCRIBER:	MS
+UTT_CODER:	TC
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	5
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Speaker A mostly dominates the conversation.  The tape
+ended prior to speakers finishing their conversation. 
+
+==========================================================================
+  
+
+qw          A.1 utt1:  What was one of the latest ones that you've seen, {D actually? } /  
+
+sd          B.2 utt1:  {F Oh, } [ I gue-, +  I think ]  we rented PRETTY WOMAN --   
+
+b          A.3 utt1:  {F Uh. } /  
+
++          B.4 utt1:  --  a couple [ weeks, +  months ] ago. /  
+
+b          A.5 utt1:  Right.  /
+sd          A.5 utt2:  The last two years,  I have done more theater movie going than I have actually watched videos at home.  /
+sd          A.5 utt3: I've, {F uh, }   
+
+b          B.6 utt1:  # Uh-huh. # /  
+
++          A.7 utt1:  # {F uh, } # become available to come   and go more often,  /
+sd(^q)          A.7 utt2: {C so } I said "hey, it's worth it,  /
+^q          A.7 utt3: I'll just go at the matinee hour  /
+^q          A.7 utt4:  {C and } I can see what I please." /  
+
+b          B.8 utt1:  Yeah. /  
+
+sd          A.9 utt1:  It's no more costly than renting one.  /
+%          A.9 utt2:   The last, - /
+sd          A.9 utt3: {D see } I went about two or  three weeks ago and saw F X TWO  /
+sv          A.9 utt4:  {C and } that is a really good movie, if you like  special effects,  /
+sd          A.9 utt5: kind of gory and lots of, {D you know } --   
+
+b          B.10 utt1:  Uh-huh. /  
+
++          A.11 utt1:  -- action. /  
+
+sd          B.12 utt1:  I have not done that one,  /
+sd          B.12 utt2:  I don't know if I have even heard of that one. /  
+
+sd          A.13 utt1:  {F Um, } <laughter>  do you know that  I don't follow performers, /  
+
+b          B.14 utt1:  # Oh.  # /  
+
+sd          A.15 utt1:  # I # don't follow actors.  <laughter>  /
+sd          A.15 utt2:  Some I know, /  
+
+b          B.16 utt1:  # Uh-huh. # /  
+
+sd          A.17 utt1:  # some # I don't. /  
+
+b          B.18 utt1:  Yeah. /  
+
+%          A.19 utt1:  {F Uh, } {C and } he was - /
+sd          A.19 utt2: [ [ the guy, +  the guy ]  that played in it, + {A he was not the star, } {C but } the one that played in it ] that I liked best  was the one who was in, {F uh, } <sigh> {F oh, } the one about the old people. /  
+
+qy^d          B.20 utt1:  COCOON? /  
+
+sd^m          A.21 utt1:  COCOON,  /
+ny          A.21 utt2: uh-huh. /  
+
+b          B.22 utt1:  Okay. /  
+
+sd          A.23 utt1:  He was a blond haired, heavyset alien in COCOON. /  
+
+b          B.24 utt1:  {F Oh, } okay. /  
+
+sd          A.25 utt1:  [ I don't, +  I don't ] know what his name is. /  
+
+sd          B.26 utt1:  {F Uh, } I think I know who you are talking about though. /  
+
+b          A.27 utt1:  Yeah.  /
+sd          A.27 utt2:  At any rate, I also saw  not long ago ONCE AROUND.  /
+sd          A.27 utt3: That was with Richard Dreyfuss. /  
+
+b          B.28 utt1:  Okay. /  
+
+sv          A.29 utt1:  {C And, } that one was just  a very poignant story,  /
+sd          A.29 utt2: [ [ it, + it, ] +  it ] had  people,  /
+sd          A.29 utt3: [ [ it was, + it was ] +  <noise>  {D you know, } a lot of people said it was ] a really funny movie,  /
+sv          A.29 utt4: {C but } [ it was,   
+
+b          B.30 utt1:  # Uh-huh. # /  
+
++          A.31 utt1:  # a # very, +  it was a ] poignant humor  /
+sv          A.31 utt2:  {C and } [ there was, +  it was ] like, {F uh, } {F uh, } STEEL MAGNOLIAS.  /
+sv          A.31 utt3:   The characters played very well off one another. /  
+
+b          B.32 utt1:  Uh-huh. /  
+
+sd          A.33 utt1:  {C And } there was humor involved,  /
+sv          A.33 utt2:  {C but } the story was a very dramatic story,  /
+sd          A.33 utt3: {C and } I enjoyed it very much.  /
+qw          A.33 utt4:   What are some others that you have seen lately? /  
+
+^h          B.34 utt1:  {F Oh, } I'm trying to think, {F uh, }  /
+sd          B.34 utt2:  just the other night on H B O we watched THE HUNT FOR RED OCTOBER,    
+
+ba          A.35 utt1:  # {F Oh, } whoa,  /
+b          A.35 utt2: yes.  # /  
+
++          B.36 utt1:  # again  /
+%          B.36 utt2: and that's # one that, -/  
+
+sd^2          A.37 utt1:  That's one I can watch,   
+
+aa          B.38 utt1:  # Yeah. # /  
+
++          A.39 utt1:  # over # and over and over again. /  
+
+sd          B.40 utt1:  I was going to read while it was on,  /
+sd          B.40 utt2:  {C but } then when it started, I just couldn't, {D you know, } read.  /
+sv          B.40 utt3: That was a really good movie. /  
+
+aa          A.41 utt1:  It sure was.  /
+sv          A.41 utt2: {C And, } {D you know, }  the second time you see it, you understand more subtleties in it.  /
+sv          A.41 utt3:   There are a number of good movies like that. /  
+
+b          B.42 utt1:  Yeah,  /
+sd          B.42 utt2: there's quite a few, {F uh, }  movies out now that I would like to go see.  /
+sd          B.42 utt3: My husband,   
+
+b          A.43 utt1:  # Uh-huh. # /  
+
++          B.44 utt1:  # is # not a real big movie goer, /  
+
+b^r          A.45 utt1:  # Uh-huh. # /  
+
+sd          B.46 utt1:  # {C and } # I guess, more than  anything, that is why we don't go. /  
+
+b          A.47 utt1:  Yeah. /  
+
+sv          B.48 utt1:  {C Plus, } by the time you get a baby-sitter,  and then pay to go to the movies --   
+
+b          A.49 utt1:  Uh-huh. /  
+
++          B.50 utt1:  -- it just gets pretty expensive. /  
+
+b          A.51 utt1:  <Laughter>  Right.  /
+qy^d          A.51 utt2:  You don't work? /  
+
+nn          B.52 utt1:  No,  /
+sd^e          B.52 utt2: I stay at home. /  
+
+bk          A.53 utt1:  Okay.   /
+ad          A.53 utt2: {D Well, } you are going  to have to find a mother's day out and have him call in sick one day. /  
+
+b          B.54 utt1:  Yeah.  <laughter>  /
+bf          B.54 utt2:  Go during the day,  /
+aa          B.54 utt3: that's right. /  
+
+sd^m          A.55 utt1:  That's right.  /
+sv          A.55 utt2:  There's nothing wrong with that.  /
+ad          A.55 utt3:   Go in the early hours,  /
+sd          A.55 utt4: it's a matinee,  /
+sd          A.55 utt5: it's not crowded  /
+sv          A.55 utt6:  {C and } the price is as reasonable as renting a video. /  
+
+b          B.56 utt1:  Yeah. /  
+
+sd          A.57 utt1:  {C And } that's the way I do it  /
+sd          A.57 utt2:  {C and } I go quite frequently. /  
+
+b          B.58 utt1:  Uh-huh. /  
+
+sd          A.59 utt1:  If you are going to be planning  on doing that, - /
+sd          A.59 utt2: {D now } I was WARLOCK too, which is supposed to be the story of a, {F uh, }  witch hunt that is, {D you know, } magically shot into the present time. /  
+
+b          B.60 utt1:  Uh-huh. /  
+
+sd          A.61 utt1:  {C And, } the first five minutes  or ten minutes of the movie [ was, + I was ] very well persuaded to walk out.   Very well persuaded,  /
+sd          A.61 utt2: there was more gore than I was interested in seeing. /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+sd          A.63 utt1:  {C But, } as the movie settles down  to a comfortable action, {F uh, } I can't really   that it would have gotten more than a star  and a half from me either.  /
+sd          A.63 utt2: {C But, }   
+
+b         B.64 utt1:  # Yeah. # /  
+
++          A.65 utt1:  # {F uh, } # the action was comfortable  /
+sd          A.65 utt2:  {C and, } of course, I enjoyed those good guy, bad guy type conflicts things.  /
+sd          A.65 utt3:   {C So, } I enjoyed that movie, after the first few minutes of gore.  /
+sd          A.65 utt4: {C And } there were some others,  /
+sv          A.65 utt5:  {C but } they were done a little more tastefully. /  
+
+b          B.66 utt1:  Yeah. /  
+
+sd          A.67 utt1:  {C But, } {F uh, } in the first scene,  the warlock chopped off a guy's finger because he wanted the ring and then --   
+
+b          B.68 utt1:  {F Uh. } /  
+
++          A.69 utt1:  -- bit his tongue out and  spit it off in the omelet  /
+sd          A.69 utt2: {C and } I could not handle that.  /
+sd(^q)          A.69 utt3:  I said "whoa, <laughter>  I'm glad  I have not had dinner".  /
+sd          A.69 utt4: Then, {F uh, } I saw AWAKENING,  /
+sv          A.69 utt5: that's a wonderful, wonderful job  by Robin Williams and Peter De Niro.  /
+%          A.69 utt6: [ I, + {F uh, } I, ] {F uh, } -/  
+
+br          B.70 utt1:  Robert De Niro? /  
+
+sd^m          A.71 utt1:  Robert De Niro,  /
+qw^g          A.71 utt2: what did I say, Peter? /  
+
+sd          B.72 utt1:  I think you said Peter. /  
+
+sd          A.73 utt1:  I said Robert De Niro. /  
+
+b          B.74 utt1:  Yeah. /  
+
+sv          A.75 utt1:  {C And, } he has done a really good  job of characterizing the, {F uh, } disabled person. /  
+
+b          B.76 utt1:  Uh-huh. /  
+
+sv          A.77 utt1:  {C And, } of course, Robin Williams  always just has [ a, +  an ] air about him that you can't help  but enjoy what he is doing.  <sigh>  /
+sv          A.77 utt2:   Even when he's sad, {D you know, } you great faith that he will get happy again. /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+sd          A.79 utt1:  {C And then, } {F oh, } let's see,  there's a couple or three that I would like to go see before they go into videos.  /
+sd          A.79 utt2:   I guess, I can wait another month  /
+sd          A.79 utt3: {C and } they will be videos. /  
+
+b          B.80 utt1:  Yeah <laughter>. /  
+
+sd          A.81 utt1:  One is SILENCE OF THE LAMBS.  /
+sd          A.81 utt2:   I've heard a lot about that one.  /
+sd          A.81 utt3:  They say if [ you really want to be, + {F uh, } you really  want ] some suspense, that's the one to see.  /
+sd          A.81 utt4: {C And, } I understand that's a sequel  to an earlier movie that showed about two weeks ago on television.  {F Uh. } /  
+
+sd          B.82 utt1:  {D Well, } {D you know, } I think I read about that too. /  
+
+b          A.83 utt1:  Uh-huh.  /
+sd          A.83 utt2:  And then THELMA AND LOUISE,  /
+sv          A.83 utt3:  I think it's time we had a lady abuse the guys movie.  <laughter>  /
+sv          A.83 utt4: It's about time for one of those.  /
+sd          A.83 utt5:  I want to go see that. /  
+
+b          B.84 utt1:  Yeah. /  
+
+sd          A.85 utt1:  {C And } I'm going to try to get in DANCES WITH WOLVES. /  
+
+qy^d          B.86 utt1:  {F Oh, } you haven't, - /
+sd          B.86 utt2: I've  heard that is wonderful. /  
+
+b          A.87 utt1:  Uh-huh,  /
+sd          A.87 utt2: I've heard it's wonderful too,  /
+sd          A.87 utt3:  {C but } [ I, + it's ] just that they are both very long --   
+
+b          B.88 utt1:  Yeah. /  
+
++          A.89 utt1:  -- {F uh, } movies,  /
+sd          A.89 utt2:  {C and } the matinee starts before I can get away from work. /  
+
+b          B.90 utt1:  Oh. /  
+
+sd          A.91 utt1:  {C And, } [ after, +  after ] that I get  involved in other things and [ don't want to -- +    
+
+b          B.92 utt1:  Yeah. /  
+
++          A.93 utt1:  -- don't want to ] go back. /  
+
+b          B.94 utt1:  Yeah,  /
+sd          B.94 utt2: I've heard that's, - /
+sd          B.94 utt3: [ we, +   {F uh, } we, ] {F uh, } rented the other one,  /
+sd          B.94 utt4: I was trying to think of the other one that  we had rented lately, {F uh, } was PRESUMED INNOCENT, with, {F uh, } <sigh>  Harrison Ford,  /
+sd          B.94 utt5: I guess he's in there. /  
+
+b          A.95 utt1:  Uh-huh. /  
+
+sv          B.96 utt1:  {C And, } I thought that was really good. /  
+
+sd          A.97 utt1:  {D You know, } I saw that  /
+sd          A.97 utt2:  {C and } [ I really +  <laughter>  I ] cannot remember too much about it. /  
+
+sd          B.98 utt1:  It was the one where he was a defense, - /
+ar          B.98 utt2:  {F uh, } not defense,  /
+sd          B.98 utt3: he was a prosecu-, -cuter. /  
+
+b          A.99 utt1:  Uh-huh. /  
+
+sd          B.100 utt1:  {C And } there was a murder of one  of the women that was in [ the, +  the ] D A -'s office. /  
+
+b          A.101 utt1:  Uh-huh. /  
+
+sd          B.102 utt1:  {C And then } he ended up being accused of it. /  
+
+aa          A.103 utt1:  {F Oh, } that's right,  /
+sd          A.103 utt2: I remember now.  /
+aa         A.103 utt3:  Yeah,  /
+sd          A.103 utt4: I remember. /  
+
+b          B.104 utt1:  Yeah,  /
+sd          B.104 utt2: {C so, } {E I mean } it really  kind of had a turn at the end, when you found out who it was <laughter>. /  
+
+b          A.105 utt1:  Uh-huh.  /
+sd          A.105 utt2:  {D Well, } I've had a hard  time enjoying Harrison Ford in anything since the Indiana Jones movies.  /
+sv          A.105 utt3:   I think he ought to stay <laughter> Indiana Jones. <laughter>  /
+sd          A.105 utt4: I realize that he would like  his career to develop,  /
+sd          A.105 utt5: {C but } I don't want to see him in other things.  <laughter>  /
+sd          A.105 utt6:  {C But, } {F uh, } I tell you, Sean Connery in the HUNT FOR RED OCTOBER,  /
+sd          A.105 utt7:  [ I, + I ] never did care for him [ as, + in ] the James Bond movies.  /
+h          A.105 utt8:  (( I don't know  /
+%          A.105 utt9: he was too )) . -/  
+
+aa          B.106 utt1:  I was never into those movies, either. /  
+
+b          A.107 utt1:  Yeah,  /
+sd          A.107 utt2: I didn't care for the type of movie,  /
+sv          A.107 utt3:  {C but } he was always slick, and  greasy, and seemed to be conceited and  had more women than he needed  /
+sd          A.107 utt4: {C and } <laughter>  I didn't like him.  /
+sv          A.107 utt5: {C But, } he  has really developed into a marvelous character actor as he has come older. /  
+
+b          B.108 utt1:  Yeah,  /
+sv          B.108 utt2: I thought he looked real good with a beard, too. /  
+
+aa          A.109 utt1:  {F Oh, } yeah,  /
+aa^r          A.109 utt2: yeah,  /
+sv          A.109 utt3: he does  /
+%          A.109 utt4:  {C and } [ there is just a, +  there's a, ] - /
+h          A.109 utt5:   I don't know, {F uh, }  /
+sv          A.109 utt6: I think that beard gives him a look that he is  always grinning, whether he is or  not. /  
+
+b          B.110 utt1:  Yeah. /  
+
+sv          A.111 utt1:  {C And } [ he, +  he ] has that  merry look about his eyes that looks like he stays in mischief all time.  <laughter>  /
+sd          A.111 utt2:  {C And, } I enjoy those,  /
+sd          A.111 utt3: {C and } I enjoy some of the Michael J.  Fox movies.  /
+sd          A.111 utt4:  I didn't care too much  for the last one either.  /
+sv          A.111 utt5: It just was not enough to it. /  
+
+qw          B.112 utt1:  What was the last one?  /
+sd          B.112 utt2: I'm trying to think. /  
+
+%          A.113 utt1:  {F Uh. } /  
+
+%          B.114 utt1:  {F Uh, } the last, - /
+sd          B.114 utt2: {D like, } BACK TO THE FUTURE  then  (( was the last one )) . /  
+
+ar          A.115 utt1:  No,  /
+ar^r          A.115 utt2: no,  /
+ar^r          A.115 utt3: no,  /
+sd          A.115 utt4: it was called, {F uh, }  <noise>  HARD WAY, where he was an actor, [ trying to portray -- +    
+
+b          B.116 utt1:  {F Oh, } okay,  /
+o@          B.116 utt2: trying to  ((   )) ,     
+
++          A.117 utt1:  -- trying to [ portray, +  portray ] ] a policeman. /  
+
++@          B.118 utt1:  Yeah. /  
+
+%          A.119 utt1:  {C And } that, -/ 

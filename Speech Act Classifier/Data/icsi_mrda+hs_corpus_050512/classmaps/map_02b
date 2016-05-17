@@ -1,0 +1,35 @@
+Classmap 2
+
+
+
+fg*|s*    F|S
+fh*|s*    F|S
+h*|s*     F|S
+
+fg*|q*    F|Q
+fh*|q*    F|Q
+h*|q*     F|Q
+
+s*|s*     S|S
+s*|q*     S|Q
+q*|s*     Q|S      
+
+s*        S
+br*       S
+
+q*        Q
+
+fg*       F
+fh*       F
+h*        F
+
+
+b*        B
+
+*%        D
+*%-       D
+*%--      D
+*x        D
+
+z         Z
+

@@ -1,0 +1,437 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2020_1176_1169
+TOPIC#:		308
+DATE:		910307
+TRANSCRIBER:	sk
+UTT_CODER:	mlg
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	4
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:	Parts of this were difficult to transcribe because of 
+the laughter going on by both callers.
+
+===========================================================================
+  
+
+fp          A.1 utt1:  Hi. /  
+
+fp^m          B.2 utt1:  Hi,  /
+%          B.2 utt2: {F um, } okay  /
+qw          B.2 utt3: [ [ what, + {D now, } {F uh, } what ] particularly, + particularly what ] kind of music do you like? /  
+
+sd          A.3 utt1:  {D Well, } I mostly listen to popular music.  /
+sd          A.3 utt2:  I, {F uh, } listen to it all the time [ in, + in ] my car,  /
+sd          A.3 utt3: {C so, } [ I, + I ] tend to be one of those people who switches stations a lot because I don't like commercials.  /
+sd          A.3 utt4: {C But, }   
+
+b          B.4 utt1:  Yeah. /  
+
++          A.5 utt1:  {F uh, } I find myself listening to popular music,  /
+sd          A.5 utt2: {C and, }  {F uh, } quite honestly, I, I have some little children  /
+sd          A.5 utt3: {C and } I, unfortunately, found myself listening to a lot of nursery rhyme music here lately,  /
+sd          A.5 utt4: {C but } that's not by my choice. /  
+
+b          B.6 utt1:  {F Oh, } really. /  
+
+qo          A.7 utt1:  How about you? /  
+
+sd          B.8 utt1:  {D Well, } {F um, } <laughter> [ I don't have that, + I don't have that ] <<both are laughing>>, experience to share <laughter>. /  
+
+ba          A.9 utt1:  Lucky you. /  
+
+sd          B.10 utt1: [ [ I, + I do, ] + I do ] listen to a lot of, - /
+sd          B.10 utt2: {D you know, } [ I do, + I switch ] the stations a lot because I don't have a cassette player in my car. /  
+
+b          A.11 utt1:  {F Um, } {F um. } Uh-huh. /  
+
+sd          B.12 utt1:  {F Uh, } {F uh, } however, [ [ I, + I do, ] + I do ] like a lot of different forms of music  /
+sd          B.12 utt2: {C so } I switch quite often.  /
+sd          B.12 utt3:  {F Um, } I think I like, - /
+sd          B.12 utt4: [ I, + I'm ] really particular about the type of music that I listen to. /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+%          B.14 utt1:  {C But, }  the, {F uh, } - /
+sd          B.14 utt2: there's such a wide selection,  /
+sd          B.14 utt3: [ I think I like a lot, + I like a little bit of a lot of ] different types of music.  /
+sd          B.14 utt4: {D You know, } [ [ I, + I, ] + I ] like music  [ that  is, +  that I feel ] - /
+sd          B.14 utt5: if it is performed correctly or if it's done right, or if the version is done right, I like it <laughter>, /  
+
+b          A.15 utt1:  Yeah. /  
+
+sd          B.16 utt1:  {C but, }  [ if, + if ] it's not, then I won't.  /
+sd          B.16 utt2: [  I, + I ] really don't, -/  
+
+qo          A.17 utt1:  How do you feel about rap music? /  
+
+b^m          B.18 utt1:  Rap. /  
+
+sv          A.19 utt1:  It seems to be so popular these days. /  
+
+b          B.20 utt1:  Yeah.  /
+sd          B.20 utt2: {D Well, } [ I, + I ] don't really have anything against rap music.  /
+%          B.20 utt3:  I, - /
+sd          B.20 utt4: the one thing I do object to about rap music [ is, + is ] when it becomes militant,    
+
+b          A.21 utt1:  Uh-huh. /  
+
++          B.22 utt1:  or, if it's, {F uh, } violence oriented. /  
+
+b          A.23 utt1:  Right. /  
+
+sd          B.24 utt1:  [ I, + I ] have strong objections to that.  /
+sd          B.24 utt2: {F Um, } {D actually } I listen to, - /
+sd          B.24 utt3: one time I remember, this was back when, even, {F uh, } - /
+sd          B.24 utt4: I would say about ten or fifteen years ago I, -/  
+
+qy^d          A.25 utt1:  When it was really just starting. /  
+
+ny          B.26 utt1:  Yeah,  /
+b          B.26 utt2: right  /
+sd^m          B.26 utt3: when it was just starting,    
+
+b          A.27 utt1:  Yeah. /  
+
++          B.28 utt1:  I heard what was called talking blues,   
+
+b          A.29 utt1:  Uh-huh. /  
+
++          B.30 utt1:  which actually is rap. /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  {C And, }  {F uh, } it was about, - /
+sd          B.32 utt2: [ [ the, + the piece of music, ] + the piece of music ] was [ about, + I think about ] forty or fifty years old.  /
+sd          B.32 utt3: {C And, }  it was incredible, {E I mean, } the parallel, {D you know, } between it and rap. /  
+
+b          A.33 utt1:  Right. /  
+
+sv          B.34 utt1:  {C And, }  {F um, } [ you, + you ] listen a lot, - /
+sv          B.34 utt2: [ if you, + if you ] hear a lot of old gospel, {F uh, } {F uh, } especially {D well, } the black gospel.  /
+sv          B.34 utt3:  {D You know, } [ you will, + {D you know, } you can ] really pick it up.  {E I mean, } /  
+
+b          A.35 utt1:  Yeah,  /
+%          A.35 utt2: you really. - /
+sv          A.35 utt3: It seemed to be influenced by a lot of different music.  /
+sd          A.35 utt4: A lot of times you'll hear songs that {D you know, } they're not original,   
+
+b          B.36 utt1:  Yeah. /  
+
++          A.37 utt1:  but have been put to a rap kind of a rhythm.  /
+sv          A.37 utt2:  {C And, }  {F uh, } [ sounds, + it sounds ] so much different  /
+sd          A.37 utt3: {C and } yet, [ I, + I ] have a much younger sister who listens to a lot of rap music  /
+sd          A.37 utt4: {C and, }  {F uh, } she thinks its pretty funny how often I know all of the words to songs that she's listening to,  /
+sd          A.37 utt5: {C and } yet,   
+
+b          B.38 utt1:  Yeah. /  
+
++          A.39 utt1:  she thought they were brand new,    
+
+b          B.40 utt1:  Yeah. /  
+
++          A.41 utt1:  original pieces. /  
+
+sd          B.42 utt1: [ [ [ they, + they do, ] + they do  copy versions, ] + they do cover versions ] [ of, + of, ] {D you know, } {D like } standards, I guess you could call it. /  
+
+ba          A.43 utt1:  That's right. /  
+
+sv          B.44 utt1:  <Laughter> I think it's kind of absurd, {D you know, } the fact that, {D you know, } [ they don't really, + they don't really ] give, {D you know, } the original artist, or  the original composer,   
+
+ aa         A.45 utt1:  No. /  
+
+ +         B.46 utt1:  the credit that is really due to them. /  
+
+b          A.47 utt1:  Yeah,  /
+sv          A.47 utt2: I guess there was even [ a, + a ] bit of ruckus caused by the M C Hammer, who's really, {D you know, } /  
+
+b          B.48 utt1:  Yeah. /  
+
+sv          A.49 utt1:  seems to be the hot one [ of, + of ] today.  /
+sd          A.49 utt2:  He used, {F um, } WILD THING.  /
+qy          A.49 utt3:  Do you remember [ that, + that ] song. /  
+
+ny          B.50 utt1:  Yeah. /  
+
+sd          A.51 utt1:  he used, {F um, } - /
+sd          A.51 utt2: I can't remember who the artist was on that. /  
+
+sd          B.52 utt1:  Jimi Hendrix was the original. /  
+
+br          A.53 utt1:  Who? /  
+
+sd^r          B.54 utt1:  Jimi Hendrix was the original.  /
+sd          B.54 utt2:  He wrote <noise>, -/  
+
+qy          A.55 utt1:  Was it, - /
+sd          A.55 utt2: {D well, } [ ma-, + maybe ] it wasn't that one.  /
+sd(^q)          A.55 utt3: {C Because, } [ it was a living, + it was a living ] person that [ I'm, + I'm ] thinking of [ that, +   
+
+b          B.56 utt1:  Okay. /  
+
++          A.57 utt1:  {F um, } that ] said, "You know, hey that, those are my words."  /
+sd          A.57 utt2:  {C And, }  {F uh, } I guess that [ they, + [ because + ] they ] hadn't originally gotten, {F um, } permission,   
+
+b          B.58 utt1:  Uh-huh. /  
+
++          A.59 utt1:  from him to use it.  /
+sd          A.59 utt2:  {C And, } [ he, + he ] since then [ has, + has ] amended that, and  paid them his royalties every time [ the, + the ] song goes on  /
+%          A.59 utt3: {C but, } -/  
+
+b          B.60 utt1:  Yeah.  /
+h          B.60 utt2:  I don't know  /
+sd          B.60 utt3: [ it may have, + it may have ] been somebody else, because [ I think, + I think ] that even Jimi Hendrix did it,  /
+sd          B.60 utt4: I think that was a cov-, - /
+sd          B.60 utt5: {D you know, } come to think of it, I think that was a cover version of, {D like } a John Lee Hooker song, or something, /  
+
+ba          A.61 utt1:  Maybe so.  /
+h          A.61 utt2: [ I, +   
+
+sd          B.62 utt1:  {E I mean } it was just like, - /
+sd          B.62 utt2: it was really old. /  
+
++          A.63 utt1:  I, ] can't think. /  
+
+%          B.64 utt1: {E I mean } [ I, + I, ] - /
+sd          B.64 utt2: [ there are a lot, + there are so many ] different songs,  /
+sd          B.64 utt3: {E I mean } {D like } the whole thing about cover versions a lot of times.  {E I mean } I've heard some songs [ that, + that ] I just thought were horrendous cover versions of, - /
+sd(^q)          B.64 utt4: I'm like, {D you know, } [ I, + I ] don't want to listen to this.    
+
+b          A.65 utt1:  Yeah. /  
+
++          B.66 utt1: <Laughter> Because {D you know, } you think of the original is {D like, } - /
+^q          B.66 utt2: {D you know, } {F oh, } that was really great.  /
+^q          B.66 utt3: That was [ a, + {D you know, } a ] really good piece of work,  /
+sv(^q)          B.66 utt4: {C and then } when you hear the cover it's like, {D you know, } God,  what are they doing. /  
+
+b          A.67 utt1:  Right.  /
+sv          A.67 utt2: They destroyed it. /  
+
+sv          B.68 utt1:  <Laughter> [ I, + I ] think a good one was, {F um, } - /
+sd          B.68 utt2: there was a Peter Frampton song, /  
+
+ba          A.69 utt1:  {F Oh, } yeah! /  
+
+sv         B.70 utt1:  {C and, then } the cover version, [ I think, + {E I mean, } I thought, ] [  was absolutely, + it was pitiful. ] /  
+
+sd          A.71 utt1: [ I, + I ] remember seeing the video of it on M T V,  /
+sv          A.71 utt2: {C and } I thought it was hideous. /  
+
+aa          B.72 utt1:  Yeah.  /
+sv          B.72 utt2:  I did too. /  
+
+%          A.73 utt1:  It was, - /
+sv          A.73 utt2: ugh,  I didn't like that either. /  
+
+b          B.74 utt1:  Yeah,  /
+qw^d          B.74 utt2: {C but } {D you know, } whatever became of Peter Frampton.  /
+sv          B.74 utt3:     {E I mean, } there was nothing, - /
+sv          B.74 utt4: he was a phenomenon,  /
+sv          B.74 utt5: {E I me-, }  there was no reason for him to really come into, {D you know, } great stardom or anything. /  
+
+sd          A.75 utt1:  I remember, I saw him in a concert, when I was, -/  
+
+b          B.76 utt1:  Yeah.  /
+b^r          B.76 utt2:  Yeah,  /
+%          B.76 utt3: [ I think, + I think ] it, -/  
+
+sd          A.77 utt1:  I think it was in high school. /  
+
+b          B.78 utt1:  Yeah,  /
+sv          B.78 utt2: I think that probably what did it for him was the fact that he was a good stage performer. /  
+
+b          A.79 utt1:  Uh-huh.  /
+sv          A.79 utt2:  He was very good.  /
+sd          A.79 utt3:  I remember I saw him in a huge stadium in, {F uh, } Philadelphia.  /
+sd          A.79 utt4:  It was in J F K Stadium, if I can remember. /  
+
+ba          B.80 utt1:  {F Oh } man. /  
+
+ sd         A.81 utt1:  Hundreds of thousands of people is what it seemed like. /  
+
+b          B.82 utt1:  Yeah.  /
+sd          B.82 utt2: [  I've, + I ] graduated back in seventy-nine,  /
+%          B.82 utt3: {C so, } -/  
+
+b          A.83 utt1:  {F Um, } {F um. } Uh-huh. /  
+
+%          B.84 utt1: [ {C but, } + {C but } ] I've really, - /
+sd          B.84 utt2: [ I, + I ] loved, - /
+sd          B.84 utt3: {E I mean, } [ I was, + I was ] really into the album oriented music, even then, /  
+
+b          A.85 utt1:  Uh-huh. /  
+
+sd          B.86 utt1:  {C so } I was really familiar [ with a lot, + with a lot ] [ of, + of ] the A O R type music.  /
+sd          B.86 utt2:  {F Um, } the album oriented like [ the, + ] {F uh, } James Taylor,   
+
+b          A.87 utt1:  {F Oh, } yeah. /  
+
++          B.88 utt1:  and, [ the, + {F uh, } the ] Beatles,  /
+sd(^q)          B.88 utt2: {C and } {D you know, } {E I mean, } a lot of people they go, they're better than the Beatles,  /
+sd(^q)          B.88 utt3: {C and } I'm like, {D you know, }   
+
+x          A.89 utt1:  <Laughter>.   
+
++          B.90 utt1:  you don't know what you're talking about. /  
+
+aa          A.91 utt1:  No <laughter>. /  
+
+sv          B.92 utt1:  {E I mean, } the comparison made between New Kids On The Block with the Beatles <laughter>.   It was just, -/  
+
+sv          A.93 utt1:  You can only laugh <laughter>. /  
+
+b          B.94 utt1:  Yeah,  /
+%          B.94 utt2: you just sort of,  - /
+sv          B.94 utt3: {D you know, } {D well } I guess I can just humor them, {D you know } <laughter>.  At this point. /  
+
+b          A.95 utt1:  Right  /
+%          A.95 utt2: <laughter> {D well, } they, - /
+sv          A.95 utt3: I guess our age is showing when, [ we, + we ] think that. /  
+
+b          B.96 utt1:  Yeah,  /
+sd          B.96 utt2: {C but } {D well, } {D you know, } [ [ I, + I, ] + I've ] liked a lot of the new music.  /
+%          B.96 utt3:  I think, {F um, }   
+
+b          A.97 utt1:  Uh-huh. /  
+
++          B.98 utt1:  {F um, }  when - /
+sd          B.98 utt2: I saw some promise, {D you know, } [ with, + with ] a lot of the new wave, [ when it, + when it ] came out, {F uh, }   
+
+b          A.99 utt1:  Yeah. /  
+
++          B.100 utt1:  back in the mid and early eighties.  /
+h          B.100 utt2:  {C And then, } {F um, } I don't know  /
+sv          B.100 utt3: music [ is kind of in a weird, + it's in a very weird  ] position right now.  /
+%          B.100 utt4: I think that, - /
+sv          B.100 utt5: {E I mean, } I like, {D you know, } [ things + ] {D like } to hear, {D you know, } what they call world music.  Which is, {D you know, } using all these natural forms of music  /
+%          B.100 utt6: {C and, } -/  
+
+qy^d          A.101 utt1:  Like Paul Simon.  /
+%          A.101 utt2: Like, -/  
+
+ny          B.102 utt1:  Yeah,  /
+ny^r          B.102 utt2: yeah,  /
+sd^m          B.102 utt3: Paul Simon. /  
+
+b          A.103 utt1:  Yeah. /  
+
+sv          B.104 utt1:  {D Well, } {D you know, } really that's not world music.  /
+sv          B.104 utt2:  {C But, }  [ what, + what ] Paul Simon's doing, I think [ [ is, + is, ] + is ] great because he's, {D you know } [ [ I think, + I think ] that + ] using, {A I guess what they call it is eclectic, } {D you know. }   
+
+b          A.105 utt1:  Yeah. /  
+
++          B.106 utt1:  drawing from a lot of different sources and making, {D you know, } a synthesis of a new type of music.  {F Um, } /  
+
+qw          A.107 utt1:  What do you mean by world music? /  
+
+sd          B.108 utt1:  {D Well, } world music is, {F um, } - /
+sd          B.108 utt2: [ a lot of the, + a lot of ] [ where they, + where they ] make music that they adapt [ [ to a, + to  another kind of, ] + to another type of ] listener. /  
+
+b          A.109 utt1:  Uh-huh. /  
+
+sd          B.110 utt1:  {F Uh, } for example, let's say you're taking {D like } an original Brazilian form of music [ and, + ] with a certain style,  /
+sd          B.110 utt2: {C and then } you try to make it a little bit more listenable for, let's say another audience, let's say a North American. /  
+
+b          A.111 utt1:  Uh-huh. /  
+
+sd          B.112 utt1:  {C And, then } when they hear it, [ [ it, + it's  a really, ] + it's ] another form of music,  and,    
+
+b          A.113 utt1:  {F Um. } /  
+
++          B.114 utt1:  {D you know, } sort of, {F um, } trying to draw out the best sources.  /
+sd          B.114 utt2: [  The, + the ] best of every type of music. /  
+
+b          A.115 utt1:  Right. /  
+
+%          B.116 utt1:  Because, {E I mean, } there are some, {E I mean, } - /
+%          B.116 utt2: [ I, + I ] li-, - /
+sd          B.116 utt3: there are some, {D you know, } types of heavy metal that I really like,  /
+sd          B.116 utt4: [ {C but, } +  {C but } ] [ I wouldn't, + I wouldn't ] say that [ I, + I ] completely like heavy metal. /  
+
+aa          A.117 utt1:  No. /  
+
+%          B.118 utt1: [ I, + I ] think, - /
+sd          B.118 utt2: {D you know, } {C and } it's the same way with, - /
+sd          B.118 utt3: {D you know, } world music takes the forms that have really been, {F um, } - /
+%          B.118 utt4: I guess, I - /
+sd          B.118 utt5: {D you know, } [ the best example + {E or, } {D you know, } the cream of the crop, ] I guess you could say, - /
+sd          B.118 utt6: [ {C and then, } + {C and then } ] taking [ those, + those ] qualities, and then applying, in the styles, [ that are really, + {F um, } that are ] extremely enjoyable, and then taking, -/  
+
+qy^d          A.119 utt1:  {C So } then it becomes a kind of music [ of, + of ] it's own,  so to speak,  /
+%          A.119 utt2: {C or, } {F uh, } -/  
+
+ny          B.120 utt1:  Yeah,  /
+ny^r          B.120 utt2: yeah,  /
+sd^e          B.120 utt3: it becomes a kind of music of it's own.  /
+sv          B.120 utt4:  {E I mean, } when you listen to it, it's {F um, } {F uh, } - /
+sv          B.120 utt5: I think that they don't use, elec-, - /
+sv          B.120 utt6: some of it, - /
+%          B.120 utt7:  it's, - /
+sv          B.120 utt8: they use electronic and acoustic interchangeably, /  
+
+ b         A.121 utt1:  Uh-huh. /  
+
+ sd        B.122 utt1:  {C so, } {D you know, } {D well } a lot of the stuff you hear coming from South Africa now, and from West Africa, that's considered world music, because it's not particularly using certain types of folk styles. /  
+
+b          A.123 utt1:  Right. /  
+
+sd         B.124 utt1:  {C But, } [ they're, + they're ] trying to make it somewhat more modern.  /
+%          B.124 utt2: [ [ I, + I, ] + I, ] - /
+sd          B.124 utt3: [ a good, + another good ] example was I heard Miles Davis,  /
+sd          B.124 utt4: {C and } Miles Davis worked with Robbie Shoncar,   
+
+b          A.125 utt1:  Uh-huh. /  
+
++          B.126 utt1:  if you can believe it, {E I mean, } /  
+
+b          A.127 utt1:  Uh-huh <laughter>. /  
+
+sd          B.128 utt1:  <Static> <laughter> {D You know, } he's a jazz performer,  /
+sd          B.128 utt2: {C and then } he's playing with Robbie Shoncar,  /
+sd          B.128 utt3: [ who's a very good, + he's a very good arranger. ]  /
+sd          B.128 utt4:  {F Uh, } arrangement to, {F uh, } - /
+ad^t          B.128 utt5: we're going to have to get off. /  
+
+%          A.129 utt1:  The, - /
+qy          A.129 utt2: are they trying to  ((   )) , -/  
+
+no          B.130 utt1:  I don't know.  /
+%          B.130 utt2: {C But, }  {F uh, } -/  
+
+sd^t          A.131 utt1:   ((   ))  We've talked our five minutes though. /  
+
+b          B.132 utt1:  Yeah,  /
+b          B.132 utt2: okay,  /
+sd          B.132 utt3: {C but, }  {E I mean, } when I heard his album, I heard it and it was just incredible. /  
+
+sd          A.133 utt1:  I've been listening to that a lot lately. /  
+
+b          B.134 utt1:  Yeah,  /
+sd          B.134 utt2: [ I, + I ] listened - /
+sd          B.134 utt3: {C and, }  I heard, - /
+sd          B.134 utt4: {D you know, } you hear this guitar,  /
+sd          B.134 utt5: {C and then } you hear the muted trumpet.  /
+%          B.134 utt6:  I - /
+%          B.134 utt7: me, - /
+sv          B.134 utt8: {C and } you never would think [ that they, + that they ] can actually play together  /
+%          B.134 utt9: {C but, } -/  
+
+b          A.135 utt1:  {F Oh } yeah. / 

@@ -1,0 +1,329 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3018_1022_1278
+TOPIC#:		339
+DATE:		910606
+TRANSCRIBER:	MS
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	4
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS: 	There's a lot of breathing noise by Speaker B  It's
+too frequent to note every time.
+
+=========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qy          A.1 utt2: what are your favorite things to watch? /  
+
+^h          B.2 utt1:  {F Oh, } {F uh, } <noise>  let's see,  /
+sd          B.2 utt2: [ I, + {F uh, } I ] have enjoyed, {F uh, } THIRTYSOMETHING --   
+
+b          A.3 utt1:  Uh-huh. /  
+
++          B.4 utt1:  -- in the past, {F uh, } now that it has gone off <laughter>. /  
+
+x          A.5 utt1:  <Laughter>.   
+
+sd          B.6 utt1:  {F Uh, } <noise>  some comedy shows, {F uh, }  I [ can not, + can not ] think of, off hand, /  
+
+b          A.7 utt1:  # Yeah. # /  
+
+qw          B.8 utt1:  # {C but, } # [ what, + what ]  are your, - /
+qw          B.8 utt2: what is, -/  
+
+sd          A.9 utt1:  We do not watch a lot of T V,  /
+sd          A.9 utt2: we try to watch it on  Thursday nights,  /
+sd          A.9 utt3: we usually watch L A LAW,  /
+sd          A.9 utt4: I like that real well.    
+
+b          B.10 utt1:  Yeah. /  
+
++          A.11 utt1:  And CHEERS -- /  
+
+b          B.12 utt1:  Yeah. /  
+
+sd          A.13 utt1:  -- we like to watch that.  /
+sd          A.13 utt2:  {F Uh, } we sort of got  hooked on LA LAW.  /
+qy          A.13 utt3:  {F Uh, } do you ever watch that? /  
+
+ny          B.14 utt1:  Yeah,  /
+ny^r          B.14 utt2: {F uh, }  ((   ))  yeah,  /
+ny^r          B.14 utt3: yeah,  /
+sd^e          B.14 utt4: [ [ we, + we wa-, + we ]  try to catch that [ most, + most ] nights. /  
+
+b          A.15 utt1:  Yeah  /
+sd          A.15 utt2: <inhaling>.  {C And } [ I, +  I ]  have watched THIRTYSOMETHING some in the last couple seasons.  /
+sd          A.15 utt3:  I was sort of sorry to see it go --   
+
+b          B.16 utt1:  Yeah. /  
+
++          A.17 utt1:  -- too. /  
+
+sd          B.18 utt1:  [ It, + it ] was kind of interesting, {F uh, }  some people complained about, {F uh, } {F uh, } the kind of whining or whatever on it.  /
+sd          B.18 utt2: [  I, + I ] really did not think [ it, + it ] was,   
+
+b          A.19 utt1:  # Yeah. # /  
+
++          B.20 utt1:  # that # way.  /
+sd          B.20 utt2:  I think it had [ some, + some ] [ good, + {F uh, } good ] situations that it presented. /  
+
+aa          A.21 utt1:  Yeah,  /
+sd          A.21 utt2: I thought a lot of the, - /
+sd           A.21 utt3: {D like } the  problems that Michael and Hope had in their marriage and stuff, <laughter>  I can relate to some of those things. /  
+
+b          B.22 utt1:  Yeah. /  
+
+sd          A.23 utt1:  Just the dynamics of it and everything. /  
+
+sv          B.24 utt1:  {D Well, } [ I think, + I think ] a lot of people, {D you know, } kind of felt that way,  /
+sd          B.24 utt2: {C but } they had a lot of, {F uh, } {F uh, }  counseling groups that use some of the episodes [ as, +   
+
+b          A.25 utt1:  # {F Oh, } really.  # /  
+
++          B.26 utt1:  # as ] examples # of things that were going on  /
+sd          B.26 utt2:  [ {C and, } + {C and } ] {F uh, } [ yo-, + ] {D you know, } that they  (( called )) interaction between  people and (( sort of ))  to use as, {F uh, } as a way of getting people to talk about their problems, /  
+
+b          A.27 utt1:  # Yeah. # /  
+
+sd          B.28 utt1:  # and # that sort of thing <inhaling>.  /
+%          B.28 utt2:  {F Uh, } we <throat_clearing>  kind of, - /
+sd          B.28 utt3:  {F uh, }  ((   ))  our T V viewing has, {F uh, }  slowed down a little bit since [ our + <inhaling>  our ] daughter came along,  /
+%          B.28 utt4: {C so, } {F uh, } -/  
+
+b          A.29 utt1:  # Uh-huh. # /  
+
+sv          B.30 utt1:  # [ that, + # that ]  tends to, {F uh, } put a cramp in your viewing, because by the time you get through <noise>  getting her ready for  bed and everything, {F uh, } <inhaling>  it's, {F uh, } very little T V time left. /  
+
+aa          A.31 utt1:  Yeah,  /
+bf          A.31 utt2: you are too tired <laughter>  --   
+
+b          B.32 utt1:  Yeah. /  
+
++          A.33 utt1:  -- to do anything.  /
+sv          A.33 utt2: {F Oh, } it's better to spend time with your kids, {A I think though, }  than glued in front of the T V anyway. /  
+
+aa          B.34 utt1:  <Sniffing> Yeah,  /
+aa          B.34 utt2: that's right. /  
+
+sv          A.35 utt1:  Probably more worthwhile.  /
+sv          A.35 utt2:  [ I just don't, + I don't ]  think there's as many good things to watch as there used to be, really. /  
+
+aa          B.36 utt1:  No,  /
+sd*         B.36 utt2: [ I, + I ] can not, {F uh, }  / *[[typo? cannot?]]
+sv          B.36 utt3:  I don't think there were, {F Uh, } - /
+sd          B.36 utt4: [ [ I have not, + I have  not, ] + {F uh, } {F uh, } there are not ] as many good shows [ that I, + that I ] continuously like to watch as much as I used to <inhaling>.  /
+%          B.36 utt5:   I, {F uh, } {D you know, } [ ther-, + ] - /
+sd          B.36 utt6: [ I, + {F uh, } I ] used to [ could + ]  be able to name ten shows or so, {D you know, } that I felt were worth my time to  watch,  /
+sd          B.36 utt7: {C but, } {F uh, } I  (( {F uh, } {D you know } ))   very seldom like to watch  (( {D you know } ))  those,  /
+sd          B.36 utt8:  there's a couple now that I tend to want to watch.  /
+sd          B.36 utt9:   I like, {F uh, } home improvement shows like Bob Vela's, {F uh, }  HOME AGAIN on Saturday morning, /  
+
+b          A.37 utt1:  # Right,  /
+b          A.37 utt2: yeah. # /  
+
+sd          B.38 utt1:  # [ it's, + I # notice [ it's  like, + it's like ] ]  THIS OLD HOUSE,  /
+%          B.38 utt2: (( yeah  /
+%          B.38 utt3: ))  {C but } [ it's, + {F uh, } it's ] on - /
+sd          B.38 utt4: instead of being on [ pub-, +   P B S ] it's on regular T V. /  
+
+b          A.39 utt1:  Oh. /  
+
+sd          B.40 utt1:  {C But, } [ it's, + {F uh, } it's ]  kind of interesting because they renovate an old house  /
+%          B.40 utt2: {C and, } -/  
+
+b          A.41 utt1:  Uh-huh.  /
+b          A.41 utt2:  Yeah,  /
+sd          A.41 utt3: I have seen parts of that before,  /
+sv          A.41 utt4:  it is interesting. /  
+
+aa          B.42 utt1:  Yeah,  /
+sd          B.42 utt2: {C so } I like to watch that  /
+sd          B.42 utt3: {C and } <inhaling> {F uh, } [ some, + some ] things on P B S I like to watch  /
+%          B.42 utt4: {C but, } {F uh. } -/  
+
+qy          A.43 utt1:  Do you watch sports much on T V? /  
+
+ny          B.44 utt1:  <Inhaling> Yeah,  /
+sd^e         B.44 utt2: [ if it's someb-, + if it's ]  a team or something that I am really interested in I am not one to just watch a  football game [ just, + just ] to be watching it  /
+sd          B.44 utt3: [ {C or, } +   
+
+b          A.45 utt1:  # Yeah. # /  
+
++          B.46 utt1:  # {C or } ] # I am not a big basketball or  baseball fan, [ if it, + unless it's ] baseball, [ if it's some, + if it's ]  a team I really like, I may watch  /
+sd          B.46 utt2: {C but, } {F uh, } <inhaling>  baseball to me is a little hard to watch on T V,   
+
+b          A.47 utt1:  # Yeah. # /  
+
++          B.48 utt1:  # for # an extended period. /  
+
+sv          A.49 utt1:  It's slow. /  
+
+aa          B.50 utt1:  Yeah,  /
+bf          B.50 utt2: it's so slow that you just get bored, {D you know, }  /
+sd          B.50 utt3: [ I, + I ] will switch between <inhaling> something else [ and, + and ]  a baseball game going back and  forth, {D you know } watching it.  /
+%          B.50 utt4: {C But, } I usually, - /
+sd          B.50 utt5:  [ [ if, + if, ] + if ] it's a football team  I really like, ((   ))  a college team [ or, + or ]  pro team <inhaling> that I am fond of, I usually will sit and watch that.  /
+%          B.50 utt6:  {C But, } {F uh, }  that's the <inhaling>, -/  
+
+aa          A.51 utt1:  Yeah,  /
+sd          A.51 utt2: we are like that  /
+sd          A.51 utt3: {C and } occasionally we  will, {D like } [ on, + ] if we do not have anything to do or kind of bored  and we just want to  sit in the house or  something,   
+
+x          B.52 utt1:  # <Inhaling>.  #   
+
++          A.53 utt1:  # we # will watch a little bit of a golf tournament.  /
+sv          A.53 utt2:  {C But, } {F uh, }   
+
+b          B.54 utt1:  # Yeah. # /  
+
++          A.55 utt1:  # you # can not take a whole lot of that either,  /
+sv          A.55 utt2:  it's pretty slow. /  
+
+aa          B.56 utt1:  Yeah,  /
+sv          B.56 utt2: it's kind of [ like, +   
+
+b          A.57 utt1:  # Yeah. # /  
+
++          B.58 utt1:  # like ] # baseball <laughter>. /  
+
+%          A.59 utt1:  Do you wa-, - /
+sd          A.59 utt2: we went to the movies a lot on weekends and watch them at home, because [ there's just, +   
+
+x          B.60 utt1:  # <Inhaling>.  #   
+
++          A.61 utt1:  # on # Friday and Saturday nights there's ]  nothing good on  /
+%          A.61 utt2: {C and, } -/  
+
+aa          B.62 utt1:  Right.  /
+sv          B.62 utt2:  I think that that's what more people are doing  /
+sv          B.62 utt3: {C and } I think that's,  {D you know, } - /
+%          B.62 utt4: [ as, + as ]  T V, - /
+sd          B.62 utt5: I think the less good shows being on T V has caused a lot of people [ to do, + to do ] that, {F uh, } {D you know, }  get more movies and watch. /  
+
+b          A.63 utt1:  # Uh-huh. # /  
+
+sd          B.64 utt1:  # I # know [ we, + <inhaling> we ] have done that too in the past,  {F uh, }  /
+sd          B.64 utt2: we do not do it quite as much now, cause <laughter> our baby will not let us watch them. /  
+
+b          A.65 utt1:  Yeah. /  
+
+sd          B.66 utt1:  {C But, } {F uh, } {D you know, } [ we usually will, +  we ] used to rent, {F uh, } two or three movies on a weekend [ and, + and ] try to watch. /  
+
+b          A.67 utt1:  Uh-huh.  /
+qy          A.67 utt2:  Do you have cable T V? /  
+
+nn          B.68 utt1:  No, {F uh, } /  
+
+sd          A.69 utt1:  We do # not either. # /  
+
+sd          B.70 utt1:  # we live in, # -/  
+
+sd          A.71 utt1:  I thought we were the only ones <laughter>,   
+
+aa          B.72 utt1:  # No.  # /  
+
++          A.73 utt1:  # who # did not have it. /  
+
+aa          B.74 utt1:  No,  /
+%          B.74 utt2: we, {F uh, } - /
+sd          B.74 utt3: the, {F uh, } development we  moved into was, - /
+sd          B.74 utt4: they have it on one si-, {D like } right across the street from us, -/  
+
+b          A.75 utt1:  # Uh-huh. # /  
+
+sd          B.76 utt1:  # {C but } # when they built our section  [ they did not, + did not put ] it in  /
+sd          B.76 utt2: {C and } <sigh>  we have been there about two years now. /  
+
+ba          A.77 utt1:  # Gosh.  # /  
+
+sd         B.78 utt1:  # {C and } # they [ are + ] [ still, + still ]  do not have it  /
+sd          B.78 utt2: {C so } <inhaling>,   
+
+b          A.79 utt1:  # Yeah. # /  
+
++          B.80 utt1:  # I # am hoping [ that, + that ] soon [ they will, + they will, ]  /
+sd          B.80 utt2:  I have contacted them about this  /
+sd          B.80 utt3: {C and } they say that {D well, } [ it's, + it's, ] - /
+%          B.80 utt4:   they look, - /
+sd          B.80 utt5: [ they, +  every year they ] look at, {F uh, } different areas and try to determine  [ where, + where, ] {F uh, } the most houses will be, /  
+
+b          A.81 utt1:  # Uh-huh. # /  
+
+sd          B.82 utt1:  # {C and # so } [ they, + {F uh, } they ]  look  /
+sd          B.82 utt2: {C and } [ [ they, + when they, ] + when we ]  reach a certain number of people in that area they will [ put one in, + put,   
+
+b          A.83 utt1:  # Huh.  # /  
+
++          B.84 utt1:  # some # in, ] {C or } they will at,   
+
+b          A.85 utt1:  # Yeah. # /  
+
++          B.86 utt1:  # least # consider it,  /
+%          B.86 utt2: {C so. } -/  
+
+b          A.87 utt1:  Yeah.  /
+sd          A.87 utt2:  {D Well, } we had it for awhile  /
+sd          A.87 utt3: {C and }  it just seemed like we never watched it  /
+sd          A.87 utt4: (( [ any + ] ))  we did not have the  movie channels,  /
+sd          A.87 utt5: we just had all the normal ones,   
+
+b          B.88 utt1:  # Yeah. # /  
+
++          A.89 utt1:  # that # come  /
+sd          A.89 utt2: {C and } we just never watched  any of them,  /
+sd          A.89 utt3: we kept a log for a month of every time we watched it  /
+sd          A.89 utt4: {C and } it seemed like we did not watch even half an hour, /  
+
+b          B.90 utt1:  # {F Um. }  Yeah. # /  
+
+sd          A.91 utt1:  # {C so } we # decided to just cancel it.  /
+sd          A.91 utt2:   It does improve the reception a little bit though,  /
+sd          A.91 utt3: that's the only thing. /  
+
+aa          B.92 utt1:  <Sigh> Yeah.  /
+sd          B.92 utt2:  [ I have, +  I [ put some, + put in [ some, + ] ] ]  {F uh, } an antenna, a really good antenna  /
+sd          B.92 utt3: {C and, } {F uh, } it's really helped, {D you know, }  ours  /
+sd          B.92 utt4: {C and } it's not been too bad.  /
+sd          B.92 utt5:  I have not really missed it that much,  /
+sd          B.92 utt6:  there's certain things that I have, that I want to see, {D you know, } occasionally, like  a football game, a college game or something that happens to be on cable, <sigh> or  some old movie,  /
+%          B.92 utt7: {C but } the, {F uh, } - /
+sd          B.92 utt8: [ I, + I ]  have not been bothered by it too much. /  
+
+b          A.93 utt1:  Yeah. /  
+
+%          B.94 utt1:  {C So, } -/  
+
+sd^t*         A.95 utt1:  {D Well, } I can not, <laughter>  {F uh, } think of  too much else to say.     *[[typo cannot?]]
+
+b          B.96 utt1:  Right. /  
+
++          A.97 utt1:  Since we are not big watchers. /  
+
+b          B.98 utt1:  Okay. /  
+
+fc          A.99 utt1:  {D Well, } it was nice talking to you. /  
+
+fc          B.100 utt1:  Alright,  /
+fc          B.100 utt2: bye. /  
+
+fc          A.101 utt1:  Bye. / 

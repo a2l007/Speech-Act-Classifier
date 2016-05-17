@@ -1,0 +1,186 @@
+The MRDA data are divided into two files, .dadb and .trans files.  We will
+describe each file below.
+
+----------------------------------------------------------------------
+DA database file format description (.dadb):
+
+The DA database files (files ending in .dadb) consist of a sequence of
+lines, each corresponding to one DA unit. Each line contains
+comma-separated fields, which are ordered from left to right as follows:
+
+
+Start Time: Start time of the words in the transcription field.  This
+	is taken from the forced alignment time of the first word of the
+	transcript.  Note: word times are based on forced alignments from
+	the SRI recognizer.  These forced alignments are based on the
+	true words from the MRT files from the ICSI Meeting Corpus
+	version 1.0 transcripts.
+
+End Time: End time of the words in the transcription field.  This is
+	taken from the forced alignment time of the last word of the
+	transcript.  Note: word times are based on forced alignments
+	from the SRI recognizer.  These forced alignments are based on
+	the true words from the MRT files from the ICSI Meeting Corpus
+	version 1.0 transcripts.
+
+Utterance ID: Unique ID for each utterance in the following format:
+
+	<Meeting/Channel Info>_<Start Time (in ms)>_<End Time (in ms)>
+
+	e.g. Bdb001-cb_1595340_1599520
+	     Bed009-c2_0001990_0002170
+
+	Note that the times are always 7 digits, with the appropriate number
+        of leading and trailing zeroes.  Also note that this field is
+	redundant, and can be generated from other fields, but we include it
+	in the database for convenience.
+
+Error Code: Code that describes errors in the alignment of
+	transcription words to forced alignment output.  The code is
+	required to have one uppercase letter, and can optionally have
+	one or two digits that follow.  Example error codes are A, A1, B, B2,
+	W, W12, etc.  The code can be interpreted by the key below:
+
+       CODE  Meaning
+       -------------
+       A     All words in Transcription field matched forced alignment words.
+	     Therefore all words have individual start and end times.  In
+	     addition, there are no added MRT words to the DA unit, unless
+	     the A code is followed by a 2 code.
+
+       B     Bleeped line. (Material removed from official corpus release
+	     due to participant censoring.)
+
+       D     Digits task portion.  (Material removed from the DA corpus
+	     corresponding to the MRT segments marked with the "DigitTask"
+	     tag.)
+
+       M     All words in Transcription field matched forced alignment words.
+	     However, the DA unit has one or more MRT words, surrounded by
+	     angled braces <>, added into the the DA unit, not including MRT
+	     words added to the beginning of the DA unit, which is denoted by
+	     a 2 code.
+
+       V     One or more words from the beginning and end of the Transcription
+	     field did not match a word from forced alignment.  The start time
+	     given for the whole utterance (field 1) is assigned the start
+	     time of the first matched word from the Transcription field.
+	     The end time given for the whole utterance (field 2) is assigned
+	     the end time of the last matched word from the Transcription
+	     field.  The unmatched words are given XXXX times in the Internal
+	     Word Times field and are enclosed by curly braces {} in the
+	     Transcription field.
+
+       W     One or more words from the beginning of the Transcription field
+	     did not match a word from forced alignment.  The start time
+	     given for the whole utterance (field 1) is assigned the start
+	     time of the first matched word from the Transcription field.
+	     The unmatched words are given XXXX times in the Internal Word
+	     Times field and are enclosed by curly braces {} in the
+	     Transcription field.
+
+       X     One or more words from the middle of the Transcription field
+	     did not match a word from forced alignment.  The unmatched words
+	     are given XXXX times in the Internal Word Times field and are
+	     enclosed by curly braces {} in the Transcription field.
+
+       Y     One or more words from the end of the Transcription field did
+	     not match a word from forced alignment.  The end time given
+	     for the whole utterance (field 2) is assigned the end time of
+	     the last matched word from the Transcription field.  The
+	     unmatched words are given XXXX times in the Internal Word Times
+	     field and are enclosed by curly braces {} in the Transcription
+	     field.
+
+       Z     No words from the Transcription field matched words from forced
+	     alignment.  All internal word times are assigned XXXX and the
+	     Start Time and End Time fields reflect times originally given to
+	     the labelers (based on older versions of the meeting data).  All
+	     words in the Transcription field are enclosed by curly braces {}.
+
+       1     Transcription seems to contain some type of error, but we
+             did not make any changes to the transcript in order to remain
+	     consistent with the officially released MRT transcripts.
+
+       2     One or more MRT words are added to the beginning of the DA unit.
+	     These words are surrounded by angled braces <>.
+
+Internal Word Times: Start and end times of each word in the
+	transcription field.  These are taken from the forced
+	alignment times.  This field is formatted as follows:
+	tA1+tA2+A|tB1+tB2+B|tC1+tC2+C|...
+
+	where
+		tA1 = start time of word A
+		tA2 = end time of word A
+		A = word A
+		etc.
+
+	If a transcription word did not find a match in the forced
+	alignment, tA1 and tA2 are assigned "XXXX" since there is no
+	start or end time associated with them, and A is enclosed in
+	curly braces {} (e.g. XXXX+XXXX+{you}).  If the word is an
+	unmatched MRT word, A is enclosed in angled braces <> (e.g.
+	tA1+tA2+<me>).
+
+DA Label: Dialog Act annotations, as described in the document"Meeting
+	Recorder Project: Dialog Act Labeling Guide."  Note that for digit
+	task lines (see digit-reading.txt) and bleeped lines (see
+	bleeped.txt) there is no DA label.
+
+Meeting/Channel Info: Meeting name (according to the Meeting Recorder
+	Naming Conventions) and channel number (based on the Participant
+	and Channel tags in the MRT files, except channel letters are
+	lower-cased.)  The info in this field is according to the format:
+	<meeting name>-c<channel>
+
+Speaker: Speaker label, in the format [mf][en]### (see Meeting Recorder
+	 documentation for more details).
+
+Original DA Label: Dialog Act annotations with original sj labels.
+	The annotations are described in further detail in the
+	document, "Meeting Recorder Project: Dialog Act Labeling
+	Guide."  Note that for digit task lines (see digit-reading.txt) and
+	bleeped lines (see doc/bleeped.txt) there is no DA label.
+
+Adjacency Pair: Adjacency pair annotations after renumbering (see
+	doc/ap-indexing.txt).  APs are described in "Meeting Recorder
+	Project: Dialog Act Labeling Guide."
+
+Original Adjacency Pair: Adjacency pair annotations made by labelers,
+	described in "Meeting Recorder Project: Dialog Act Labeling Guide"
+	and doc/ap-indexing.txt.
+
+Hot Spot: Hot spot annotation as described in the Hot spot annotation guide.
+
+Hot Spot Comment: Comments made by the hot spot labelers in regards to the
+	hot spot annotations.
+
+Comment: Comments made by the dialog act annotators in regards to DA and AP
+	annotations.
+
+
+
+----------------------------------------------------------------------
+Transcript file format description (.trans):
+
+The transcript files (files ending in .trans) consist of a sequence of
+lines, each corresponding to one DA unit.  Each line contains
+comma-separated fields, which are ordered from left to right as follows:
+
+
+
+Utterance ID: Same as in the .dadb file (see above for explanation).
+
+Original CSV Transcription: Original word and punctuation
+	transcription after annotation by the labelers.
+	Transcription and punctuation conventions are described in
+	"Meeting Recorder Project: Dialog Act Labeling Guide."
+
+Transcription: Word and punctuation transcription just as in the
+	Original CSV Transcription field, except words are updated to
+	be consistent with the MRT words.  Transcription and
+	punctuation conventions are described in "Meeting Recorder
+	Project: Dialog Act Labeling Guide" and the Hot Spot Annotation Guide
+	(for understanding the double star markings '**').
+

@@ -1,0 +1,278 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3009_1120_1204
+TOPIC#:		323
+DATE:		910604
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Good.  Only one spot of line noise.
+
+========================================================================
+  
+
+o          A.1 utt1:  <Beep>  Okay. /  
+
+qy^d          B.2 utt1:  {D Well, } I take it since you selected this topic that you have children. /  
+
+nn          A.3 utt1:  No,  /
+sd^e          A.3 utt2: I don't, /  
+
+bh          B.4 utt1:  You don't? /  
+
+sd          A.5 utt1:  {C but } I have nine younger brothers and sisters. /  
+
+ba          B.6 utt1:  My goodness. /  
+
+x          A.7 utt1:  <Laughter>.   
+
+sd          B.8 utt1:  <Laughter> {C So. }  {D Well, } I have two daughters  /
+sd          B.8 utt2: {C and, } {F um, } [ they're past this, + they've been ] latchkey children for a while,  /
+sd          B.8 utt3: {C and } they're almost where I can start saying they're, {D you know, } young adults, /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1:  {C so } I don't have to worry about child care too much anymore.  /
+ad^t          B.10 utt2: {F Um, } we're supposed to discuss what criteria we would ask,   
+
+b          A.11 utt1:  Uh-huh. /  
+
++          B.12 utt1:  or expect. /  
+
+%          @A.13 utt1:  I would assume [ it's, + {D you know, } if you were ] looking for a day-care center or something like that. -/  
+
+%          B.14 utt1:  {D Well, } if I were look-, -/  
+
+sv          A.15 utt1:  {C Or } probably even baby-sitters would be the same thing. /  
+
+aa          B.16 utt1:  Exactly.  /
+aa^r          B.16 utt2:  Exactly.  /
+sd          B.16 utt3:  {F Um, } I think [ my, + my ] top priority would be that it would be someone who would be responsible and someone that would actually like  children. /  
+
+aa          A.17 utt1:  Yes,  /
+sd          A.17 utt2: I would think someone older  /
+sd          A.17 utt3: {C and } I would want to know if they've had any past experience with children. /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+b^m          A.19 utt1:  <<Very faint>> Uh-huh. /  
+
+sv          B.20 utt1:  {C And } I think that varies.  /
+sv          B.20 utt2:  I think a lot of your criteria vary with the age of your child. /  
+
+aa          A.21 utt1:  Yes,  /
+aa          A.21 utt2: that's true also. /  
+
+sv          B.22 utt1:  {F Um, } {D you know, } [ [ it's, + it's, ] + once they get to a certain age it's ] almost more important that it's someone that can entertain your child as opposed to someone who's, {D you know, } [ really, + really ] qualified --   
+
+b          A.23 utt1:  Uh-huh. /  
+
++          B.24 utt1:  -- per se.  /
+sv          B.24 utt2:  {F Um, } [ with a, + with a ] baby, definitely have to be someone who knows how to handle a baby and would know how to respond to an emergency. /  
+
+b          A.25 utt1:  Uh-huh. /  
+
+%          B.26 utt1:  {C So, } -/  
+
+sd          A.27 utt1:  {D Well, } {F um, } I did a lot of baby-sitting when I was younger.  /
+sd          A.27 utt2:  I'm twenty-two now  /
+sd          A.27 utt3: {C and } I did most of my baby-sitting when I was between the ages of thirteen and sixteen.  /
+sd          A.27 utt4: {C But, } {F um, } the only thing people ever asked me, - /
+sd          A.27 utt5: {D well, } of course, they knew I came from a family with younger kids,  /
+sd          A.27 utt6: {C but } they really didn't ask me if I was used to children or not.  /
+sd          A.27 utt7: The only other thing they asked me is what I would expect in pay. /  
+
+b          B.28 utt1:  {F Oh, } uh-huh,  /
+b^r          B.28 utt2: uh-huh. /  
+
+sd          A.29 utt1:  {D You know, } {C and, } {F um, } I was pretty surprised because if I had a child and  someone, {D you know, } [ I would want to know, + I personally would ask ] for people that that person has baby-sit for before. /  
+
+sd          B.30 utt1:  {D Well, } [ [ I, + my experience, ] + I ] baby-sat a lot also [ at, + when ] I grew up  /
+sv          B.30 utt2: {C and, } {F um, } coming from, {D you know, } that background and the background as a parent now, I think the reason that people don't ask a whole lot of questions is [ a, + a ] lot of times baby-sitters, - /
+sd          B.30 utt3: I know I did this with my children,  /
+sv          B.30 utt4: [ it's, + you get ] somebody where you kind of know the family already. /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sv          B.32 utt1:  {C And } that gives you so much basic knowledge that you don't ask a whole lot of questions. /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  [ {C Becaus-, } + {C because } ] I had three younger brothers and sisters myself  /
+sd(^q)          B.34 utt2: {C so } [ they, + they ] thought, okay,  /
+^q          B.34 utt3: she knows [ how to, + how to ] treat children. /  
+
+b          A.35 utt1:  Yes.  /
+sd          A.35 utt2:  {D Well, } {D see } [ when, {F um, } I first got my mai-, + my first baby-sitting job was ] pretty strange.  /
+sd          A.35 utt3: {F Um, } this lady saw us at church  /
+sd          A.35 utt4: {C and } [ she was a you-, + {D you know, } she was a younger ] lady.  /
+sd          A.35 utt5:  She didn't really know my mom.  /
+sd          A.35 utt6:  She knew my mom by name  /
+sd          A.35 utt7: {C and } that was it.  /
+sd          A.35 utt8: {C And, } {F um, } she knew that I was one of the oldest girls in my family  /
+sd          A.35 utt9: {C so } she just asked my mom if I could baby-sit. /  
+
+b          B.36 utt1:  Uh-huh,  /
+b^r          B.36 utt2: uh-huh. /  
+
+sd          A.37 utt1:  {D You know, } she really didn't know my name or anything, {D you know, }  /
+sd          A.37 utt2: I thought that was pretty strange.  /
+sd          A.37 utt3:  {D You know, } {C and } she had two children.  /
+sd          A.37 utt4:  One was still in diapers when I started baby-sitting. /  
+
+ba          B.38 utt1:  Wow. /  
+
+sd          A.39 utt1:  {C So, } {F um, } she pretty much, {D you know, } just assumed that I would know, {D you know, } how to handle them.  /
+sd          A.39 utt2:  {D So, } [ I wa-, + {D you know, } I enjoy ] kids  /
+sd          A.39 utt3: {C and } I get along with them very well  /
+sd          A.39 utt4: {C so } there's no problem.  /
+sd          A.39 utt5:  {C But, } {F uh, } with today's world and  the kids today, {F uh, } [ there's no way, + I can't say ] that I would just ask someone, {D you know, } that I didn't know like that to baby-sit. /  
+
+aa          B.40 utt1:  {F Oh, } I agree with you,  /
+sv          B.40 utt2: {C but } there again [ she, + {D you know, } she [ knew, + knew ] ] of your family, /  
+
+aa          A.41 utt1:  Uh-huh,  /
+aa          A.41 utt2: that's true. /  
+
+sv          B.42 utt1:  [ {C and } she, + {C and } she ] met in a safe setting, such as church. /  
+
+b          A.43 utt1:  Uh-huh. /  
+
+sv          B.44 utt1:  {C So } she was going on those two instincts.  /
+sd          B.44 utt2: Just the same I know myself,  /
+%          B.44 utt3: I never, - /
+sd          B.44 utt4: {C and } I was very very protective on who baby-sat my children. /  
+
+sd          A.45 utt1:  {F Oh, } I would be too <laughter>. /  
+
+sd          B.46 utt1:  [ {C And, } + {C and } ] [ [ in + i-, ] + it ] really shocked me  /
+sd          B.46 utt2: {C because } just about six months ago someone came to my front door, rang the doorbell.  /
+sd          B.46 utt3:  She had just moved in the neighborhood.  /
+sd          B.46 utt4: She had her daughter with her,  /
+sd          B.46 utt5: {C and } the daughter was, {F oh, } about a second grader.  /
+sd          B.46 utt6:  {C And } she was actively looking for people who would baby-sit her child. /  
+
+ba          A.47 utt1:  {F Oh, } my. /  
+
+sd(^q)          B.48 utt1:  {C And } I thought, {D well } she doesn't know me or my children from anything. /  
+
+b          A.49 utt1:  Huh-uh. /  
+
+sd          B.50 utt1:  {C And } [ it was, + I was ] almost more reluctant of letting my older children go baby-sit for her because I didn't know her --   
+
+b          A.51 utt1:  Uh-huh,  /
+b          A.51 utt2: yes. /  
+
++          B.52 utt1:  -- <Laughter> then she was reluctant of letting strangers into her house. /  
+
+b          A.53 utt1:  Uh-huh. /  
+
+sv          B.54 utt1:  {C So, } {E I mean } people are so different. /  
+
+aa          A.55 utt1:  {F Oh, } I know.  /
+qy^d          A.55 utt2: {F Um, } {D well, } [ [ I real-, + I, ] + obviously you've ] never had to look for a day care or anything. /  
+
+nd          B.56 utt1:  {D Well, } [ I did, + I did ] have, {F um, } [ my, + my ] child, {F uh, } in a day care for just a short time [ a-, + when ] my oldest was about two and a half -- /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+sd          B.58 utt1:  -- {C and } I worked just a part-time job  /
+sd          B.58 utt2: {C and, } {F uh, } [ in, + in ] those situations, {F um, } what I did is [ I'd, + I went ] in  /
+sd          B.58 utt3: {C and, } {D you know, } I made  (( a few ))  phone calls,  /
+sd          B.58 utt4: I went in and visited.  /
+sd          B.58 utt5:  I asked questions such as how they would discipline a child. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:  {F Um, } that was a concern with me.  /
+sv          B.60 utt2: {F Um, } {D you know, } [ [ c-, + you, ] + you ] learn a lot by going in there  /
+sv          B.60 utt3: {C and } [ they e-, + they explain ] to you, {D you know, } what their day consists of and what their general rules are,  /
+sd          B.60 utt4: {C and, } {F um, } [ that's, + {D you know, } that's ] as much as I know.  /
+sv          B.60 utt5:  You probably could get really good feedback from a lot of other working mothers --   
+
+b          A.61 utt1:  Uh-huh. /  
+
++          B.62 utt1:  -- {D you know, } that have done this over and over again. /  
+
+%          A.63 utt1:  # {D Well, } # -/  
+
+%          B.64 utt1:  # {C But } I, - /
+ad          B.64 utt2: # go ahead. /  
+
+qw          A.65 utt1:  How did you stumble upon the day-care center?  /
+qy          A.65 utt2:  Did you just look it up in a phone book  /
+qw          A.65 utt3: {C or } what was it? /  
+
+sv          B.66 utt1:  {F Um, } [ [ I think lots of people, + I, ] + I think I ] went by location for one thing. /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sv          B.68 utt1:  I think most people do that.  /
+sv(^q)          B.68 utt2: I think you start out with the criteria of, {D you know, } do I know of anything  /
+^q          B.68 utt3: {C or } do I know anyone who has their child in a day care  /
+%          B.68 utt4: {C and, } -/  
+
+b          A.69 utt1:  Yeah,  /
+sv          A.69 utt2:  [ (( there is )) , + I would ] say most people would probably go by word of mouth. /  
+
+aa          B.70 utt1:  Right.  /
+aa^r          B.70 utt2:  Right.  /
+sv          B.70 utt3:  {C And then, } {D you know, } {E I mean, } even at that you have to consider the logistics of it. /  
+
+b          A.71 utt1:  Uh-huh. /  
+
+sv          B.72 utt1:  {D You know, } {E I mean, } you're not going to take your child south of town if you work north.   
+
+aa          A.73 utt1:  Yes,  /
+aa          A.73 utt2: exactly. /  
+
++          B.74 utt1:  [ Yo-, + even ] if that's the best one in the whole wide world <laughter>. /  
+
+b          A.75 utt1:  Uh-huh. /  
+
+sv          B.76 utt1:  {C So } [ there, + there ] are just so many considerations. /  
+
+aa          A.77 utt1:  Uh-huh.  /
+qy          A.77 utt2:  Then again, did, {F um, } money come into play with it at all? /  
+
+na          B.78 utt1:  {F Oh, } money is always a factor in my life,   
+
+x          A.79 utt1:  <Laughter>.   
+
++          B.80 utt1:  <Laughter> definitely.  /
+sd          B.80 utt2:  [ I've never, + {D you know, } I've never ] had the luxury of not having that be a factor.  {F Um, } even in something as important as day care.  /
+sd          B.80 utt3:  I know if I didn't have that stipulation, I would have done things differently --   
+
+b          A.81 utt1:  Uh-huh. /  
+
++          B.82 utt1:  -- {D you know. }  /
+sd          B.82 utt2: {F Um, } Montessori school would be something that I would have pursued,  /
+sd          B.82 utt3: {C but } that's always a little bit more expensive than what I could look at. /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  {F Um, } {C and } I was very very fortunate in that I didn't have to do that on a full-time basis. /  
+
+b          A.85 utt1:  Yes. /  
+
+%          B.86 utt1:  [ [ {C So, } + {C and, } ] + {C and then } ] [ when you get, + {D you know, } when you get ] into the full-time basis day care, -/ 

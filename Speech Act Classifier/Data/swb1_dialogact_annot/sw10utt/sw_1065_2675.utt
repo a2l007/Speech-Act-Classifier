@@ -1,0 +1,436 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2675_1043_1052
+TOPIC#:		341
+DATE:		910425
+TRANSCRIBER:	GL
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+o          B.1 utt1:  There you go. /  
+
+b          A.2 utt1:  Uh-huh. /  
+
+sd^t          @B.3 utt1:  {D Well, } Jean, the subject is jury trials  /
+sd^t          @B.3 utt2: {C and } should the jury recommend, {F uh, } sentencing. /  
+
+b          A.4 utt1:  Uh-huh. /  
+
+sd          B.5 utt1:  {D Now } my personal opinion, - /
+h          B.5 utt2: I don't know.  /
+sv          B.5 utt3:  {F Uh, } {F uh, } here lately it seems, - /
+sv          B.5 utt4: {D well } up until a few years ago, I guess, there just too many liberals about and  permitting too many, {F oh, } - /
+sv          B.5 utt5: they just broaden the human rights [ to, + to ] cover just about [ ev-, + everybody, ] {C and } I don't think those guilty of committing capital crimes should be permitted to go spend a few years in jail and be turned lose on parole. /  
+
+b          A.6 utt1:  Uh-huh. /  
+
+sv          B.7 utt1:  It's just not right. /  
+
+sv          A.8 utt1:  I think I agree with that very much. /  
+
+sv          B.9 utt1:  {C And } therefore --   
+
+%          A.10 utt1:  I, - /
+qy          A.10 utt2: do you, -/  
+
++          B.11 utt1:  -- I think juries should be able to recommend sentencing. /  
+
+ qy         A.12 utt1:  Do you think a lot of people, when they are listening to a trial, put themselves in a position like that and say, I would never do something like  that,  /
+qy          A.12 utt2: {C and } it's for them to believe that somebody else could do the things that have been done? /  
+
+ny           B.13 utt1:  Yes,  /
+sd^e          B.13 utt2: very possibly.  /
+sv          B.13 utt3:  So many of us have led sheltered lives --   
+
+b          A.14 utt1:  Uh-huh. /  
+
++          B.15 utt1:  -- that, {F uh, } when we  [ go into a, + ] sit in on, a jury, - /
+sd          B.15 utt2: I've never done it myself --   
+
+sd          A.16 utt1:  I never have either. /  
+
++          B.17 utt1:  -- unfortunately,  /
+sd          B.17 utt2: I wish I could have. /  
+
+qy@          A.18 utt1:  Is there a reason why you have never,   
+
+sd          B.19 utt1:  I've just never been called up. /  
+
++@          A.20 utt1:  Uh-huh.  /
+sd          A.20 utt2:  My husband works as a police man,  /
+sd          A.20 utt3: {C so } I always assumed that that was why I was never called. /  
+
+sv          B.21 utt1:  {D Well } {D now, } that's possible. /  
+
+b          A.22 utt1:  Uh-huh. /  
+
+sd          B.23 utt1:  {C But, } {F uh, } I was called up as an alternate once,  /
+sd          B.23 utt2: {C but } I --   
+
+b          A.24 utt1:  Uh-huh. /  
+
++          B.25 utt1:  -- never made it to the jury. /  
+
+b          A.26 utt1:  Uh-huh.  /
+qy          A.26 utt2:  {F Uh, } do they have such a thing now as a six man jury? /  
+
+ng          B.27 utt1:  Not that I know of. /  
+
+sd          A.28 utt1:  Somebody told me the other day that there is,  ((   ))  what they call a six man jury,  /
+sd          A.28 utt2: {C and } I had never heard of such thing,  /
+sd          A.28 utt3: {C and } I wondered if it was true. /  
+
+b          B.29 utt1:  Uh-huh  /
+sd          B.29 utt2: <<pause>>. {F Uh, } I've never heard of it. /  
+
+sd          A.30 utt1:  I never had either,  /
+sd          A.30 utt2: {C but } I just wondered.  {F Uh, } - /
+sd^t          A.30 utt3: another question was, [ should +  a criminal case, should ] the jury be unanimous on their decision,  /
+sd          A.30 utt4: {C and } that I wasn't sure on either, whether it should be unanimous or not. /  
+
+sv          B.31 utt1:  <Throat_clearing>  <cough>  {F Uh, } {D well, } there again, {F uh, } I suppose it should be. /  
+
+qy^d          A.32 utt1:  That would mean they all would have to decide --   
+
+na          B.33 utt1:  Exactly. /  
+
++          A.34 utt1:  -- one way or the other. /  
+
+^2          B.35 utt1:  Is it guilt or innocence.  /
+sv          B.35 utt2: {C But } then again, so many times you get one or two holdouts,  /
+sv          B.35 utt3: [ {C and, } + {C and } ] --   
+
+b          A.36 utt1:  Uh-huh. /  
+
++          B.37 utt1:  -- it permits the criminal to get a retrial. /  
+
+ b         A.38 utt1:  Yeah,  /
+b^r          A.38 utt2: yeah. /  
+
+%          B.39 utt1:  {C And } there, - /
+sv          B.39 utt2: that's not too bad in this sense, because you might get someone in their that's a victim of circumstances -- /  
+
+b          A.40 utt1:  Uh-huh. /  
+
+sv          B.41 utt1:  -- {E I mean, } that's happened --   
+
+b          A.42 utt1:  Uh-huh,  /
+b^r          A.42 utt2: uh-huh. /  
+
++          B.43 utt1:  -- and giving them another trial might give them additional time to, {F uh, } prove their innocence. /  
+
+^2          A.44 utt1:  Bring some of these things out. /  
+
+aa         B.45 utt1:  Yes. /  
+
+b          A.46 utt1:  Uh-huh. /  
+
+sv          B.47 utt1:  We can't overlook the fact that there are innocent people that do get involved in jury trials. /  
+
+sv          A.48 utt1:  {F Un, } apparently there are.  /
+%          A.48 utt2: [ [  I, + I, ] + I, ] - /
+sv          A.48 utt3: since my husband worked as a policeman, I can't believe there are very many people that come to trial that [ have, + ] are not guilty of [ something + ] --   
+
+b          B.49 utt1:  Uh-huh. /  
+
++          A.50 utt1:  -- some part of whatever they're accused of. /  
+
+b          B.51 utt1:  Uh-huh. /  
+
+sd          A.52 utt1: [ I have, + I still have ] a little bit of a problem with that.  /
+sv          A.52 utt2: {F Uh, } {C but, } I would suppose there are circumstances, you're in the wrong place at the right time, or know the wrong person at the right time. /  
+
+ba          B.53 utt1:  {F Oh, } that's it,  /
+sv          B.53 utt2: {C and } you just might resemble somebody. /  
+
+b          A.54 utt1:  Uh-huh. /  
+
+sd          B.55 utt1:  {F Uh, } out here in Texas we had [ [ a, + a, ] + a, ] great miscarriage of  justice.  /
+sd          B.55 utt2: [ It was finally, + after nine years, it was finally, ] {F uh, } taken care of. /  
+
+b          A.56 utt1:  Uh-huh. /  
+
+%          B.57 utt1:  We had, - /
+sd          B.57 utt2: a Black man was accused simply because he resembled --   
+
+b          A.58 utt1:  Oh.   
+
++          B.59 utt1:  -- {F uh, } someone [ who stuc-, + who held ] up, a, Seven Eleven, I think it was. /  
+
++          A.60 utt1:  Uh-huh,  /
+b^r          A.60 utt2: uh-huh. /  
+
+sd          B.61 utt1:  {C And } even though he had witnesses that said that, {F uh, } he was at work,  /
+sd          B.61 utt2: {C and } he had all sorts of character witnesses and what not, /  
+
+qy^d          A.62 utt1:  They still found him guilty? /  
+
+na^m          B.63 utt1:  They found him guilty. /  
+
+qy^d          A.64 utt1:  When people said he was at work? /  
+
+na          B.65 utt1:  {D Well, } they said [ it w-, + ] [ this, + this ] happened during lunch time. /  
+
+b          A.66 utt1:  Uh-huh. /  
+
+sd          B.67 utt1:  {C And } he could have [ disap-, + ] gotten away at lunch time --   
+
+b          A.68 utt1:  Uh-huh. /  
+
++          B.69 utt1:  -- and committed the robbery. /  
+
+b          A.70 utt1:  Yeah. /  
+
+sd          B.71 utt1:  {C But } after nine years, - /
+ sd         B.71 utt2: {D well } as a matter of fact they made a T V show about it, after nine years, they finally came up with evidence [ and proved, + ] to prove that he was innocent. /  
+
+ba          A.72 utt1:  {F Oh, } for heaven's sake.  /
+sd          A.72 utt2: {C So } there's nine years of that man's life gone. /  
+
+ba          B.73 utt1:  Exactly. /  
+
+b          A.74 utt1:  Uh-huh. /  
+
+sv          B.75 utt1:  {D Now } that just was not fair. /  
+
+aa          A.76 utt1:  No,  /
+b          A.76 utt2: huh-uh. /  
+
+%          B.77 utt1:  {D So. } -/  
+
+b          A.78 utt1:  Yeah,  /
+sv          A.78 utt2: I guess that's where a lot of the problem lies,  /
+sv          A.78 utt3: [ we're, + we ] bend over backwards protecting the guilty people, the one's that are on trial. /  
+
+b          B.79 utt1:  Yes. /  
+
+sv          A.80 utt1:  [ {C And, } +   
+
+sv          B.81 utt1:  Unfortunately, that's what happens. /  
+
++          A.82 utt1:  {C And } ] we often forget about the one the injustice has been done [ to, + ] because I [ bet, + ] they still say our system is the best in the world. /  
+
+sv          B.83 utt1:  {D Well, } [ it's not, the, + {F uh, } {F uh, } it's not the ] best system,  /
+sv          B.83 utt2: {C but } it's the best one in the world. /  
+
+b          A.84 utt1:  Yeah,  /
+sv          A.84 utt2: it's the best one that exists, I guess. /  
+
+  b        B.85 utt1:  Uh-huh.  /
+ sv         B.85 utt2:  {C And } unfortunately, we just have to put up with a lot of things,  /
+sv          B.85 utt3: {C and } they try to solve them and everything,  /
+h          B.85 utt4: {C but, } {F uh, } I don't know,  /
+%          B.85 utt5: the Supreme Court, - /
+sd          B.85 utt6: {D well, } [ [ I'm, + I'm, ] + I'm ] still rancled about their decision to permit burning of the flag. /  
+
+ sv         A.86 utt1:  {F Oh, } I think a lot of people are.  /
+sv          A.86 utt2: I think they've lost sight of some things that are very important to our country. /  
+
+%          B.87 utt1:  {D Well, } it, - /
+sv          B.87 utt2: [ [ the, + the, ] + the ] First Amendment definitely says freedom of speech --   
+
+b          A.88 utt1:  Uh-huh. /  
+
+ +         B.89 utt1:  -- not freedom of action. /  
+
+b          A.90 utt1:  Yeah. /  
+
+sd          B.91 utt1:  {C And, } {F uh, } {F uh, } {D well } that just rancles me  /
+%          B.91 utt2: no,  /
+sd          B.91 utt3: I swear, if I ever saw somebody [ to, + ] {F uh, } burning a flag, [ I'd, + I'd ] try to kill them, I would. /  
+
+b          A.92 utt1:  <Laughter>  That bad, {F huh. }  /
+sd          A.92 utt2:  I wouldn't like it,  /
+sv          A.92 utt3: {C but } I don't know if I'd go that far. /  
+
+sd          B.93 utt1:  {D Well, } I happen to be a flag freak.  /
+sd          B.93 utt2: [  I served, + I ] was in the service -- /  
+
+b          A.94 utt1:  Uh-huh. /  
+
+sd          B.95 utt1:  -- I was in Korea -- /  
+
+b          A.96 utt1:  Uh-huh. /  
+
+ sd         B.97 utt1:  -- {C and, } {F uh, } {D well, } I saw what the red in the flag represents. /  
+
+b          A.98 utt1: Yeah,  /
+sv          A.98 utt2: {D well, } I think pride in our country and our flag is so important.  /
+sv          A.98 utt3: It's important in so many facets of our lives. /  
+
+b          B.99 utt1:  Uh-huh. /  
+
+sv          A.100 utt1:  {C And, } {F uh, } [ I, + I ] feel like if [ they don't, + people don't ] like what our flag stands for, they're welcome to go some place else. /  
+
+b          B.101 utt1:  Yeah,  /
+%          B.101 utt2: {D see } what they, -/  
+
+sv          A.102 utt1:  There's nobody holding them here. /  
+
+sv          B.103 utt1:  {D See } how they'd like it under another flag. /  
+
+b          A.104 utt1:  Right.  /
+sv          A.104 utt2:  They'd soon be back,  /
+sv          A.104 utt3: I'm sure. /  
+
+b          B.105 utt1:  Uh-huh. /  
+
+b          A.106 utt1:  Yeah. /  
+
+sv          B.107 utt1:  {D Well, } Jean, we seem to be of the same opinions here. /  
+
+b          A.108 utt1:  Uh-huh. /  
+
+sd^t          B.109 utt1:  I hope they get something out of this. /  
+
+b          A.110 utt1:  Yeah,  /
+sv          A.110 utt2: I don't know about the judge making the decision, if that's, - /
+qy          A.110 utt3: do you think that's good --   
+
+qy          B.111 utt1:  {F Oh } --   
+
++          A.112 utt1:  -- {D you know, } like if a jury, -/  
+
++@          B.113 utt1:  -- passing sentence?   
+
+ny          A.114 utt1:  Uh-huh. /  
+
++@          B.115 utt1:  {D Well, } {F uh, } {F uh, } yes,  /
+sv          B.115 utt2: {C but } I think the jury should be able to recommend, /  
+
+qy^d          A.116 utt1:  Make a recommendation? /  
+
+ny          B.117 utt1:  Yes. /  
+
+qy          A.118 utt1:  Do they sometimes make a recommendation? /  
+
+ny          B.119 utt1:  {F Oh, } yes,  /
+ny^r          B.119 utt2: yes. /  
+
+sd          A.120 utt1:  That's what I was thinking [ they, + they ] sometimes do. /  
+
+sd          B.121 utt1:  I don't know if that's a regular procedure or what.  /
+sd          B.121 utt2:  {C But } I know I'm always hearing that, {F uh, }  /
+sd          B.121 utt3: {D well, } the jury came in with a guilty verdict  /
+sd          B.121 utt4: {C and } they recommended,   
+
+^2          A.122 utt1:  # {C And } they recommend.  # /  
+
++          B.123 utt1:  # twenty years or # something. /  
+
+b          A.124 utt1:  Yeah.  /
+sd          A.124 utt2:  {C And then } the judge has the final decision --   
+
+b          B.125 utt1:  Yes. /  
+
++          A.126 utt1:  -- on what does really happen.  Yeah. /  
+
+sv          B.127 utt1:  Of course, {D now, } the jury may not be completely aware of all the ramifications of a sentence. /  
+
+b          A.128 utt1:  Uh-huh. /  
+
+sd          B.129 utt1:  They may not know that if you give him twenty years he can get out in five. /  
+
+sv          A.130 utt1:  {D Well, } I think that's where a lot of people think, boy they're getting put away for a long time,  /
+sv          A.130 utt2: {C but } actually, their chance, course, when, - /
+sv          A.130 utt3: a lot of times when they come up for parole, they're denied.  /
+sv          A.130 utt4:  It depends on --   
+
+b          B.131 utt1:  Uh-huh. /  
+
++          A.132 utt1:  -- {D you know, } [ what they're, + what they'd ] been guilty of, and a lot of different things, I guess. /  
+
+b          B.133 utt1:  Yeah,  /
+sv          B.133 utt2: {C but } too many times [ they, + they ] are permitted to go out on parole  /
+%          B.133 utt3: {C and, } -/  
+
+b          A.134 utt1:  Uh-huh.  /
+sv          A.134 utt2:  A lot slip through the protective whatever they have to do.  /
+sv          A.134 utt3:  {C And } there are bad ones that do slip back out and end up hurting somebody again. /  
+
+b          B.135 utt1:  Yes.  /
+sv          B.135 utt2:  They just go out and repeat their crimes. /  
+
+b          A.136 utt1:  Uh-huh,  /
+b^r          A.136 utt2: uh-huh. /  
+
+%          B.137 utt1:  {D Well } there, - /
+sd         B.137 utt2: {D well, } they say after three offenses its automatically life in prison,  /
+sv          B.137 utt3: {C but } I think they ought to make it two offenses. /  
+
+b          A.138 utt1:  Uh-huh.  /
+sv          A.138 utt2:  I always thought [ there was, + there was ] wrong, - /
+sv          A.138 utt3: it seems sometimes that like somebody who is stealing a loaf of bread to feed his family got more jail sentence than somebody maybe that killed  somebody. /  
+
+b          B.139 utt1:  Uh-huh. /  
+
+sv          A.140 utt1:  It seemed like [ there, + sometimes there's ] not a good, - /
+sv          A.140 utt2: the balance isn't right.  /
+sv          A.140 utt3: It doesn't make sense. /  
+
+b          B.141 utt1:  Yeah,  /
+ba          B.141 utt2: very true.  /
+sv          B.141 utt3:  {D Well, } here again now, there is where race seems to rear its ugly head so frequently. /  
+
+b          A.142 utt1:  Uh-huh. /  
+
+sv          B.143 utt1:  Race or nationality even. /  
+
+b          A.144 utt1:  Uh-huh,  /
+b          A.144 utt2: yeah. /  
+
+sv          B.145 utt1:  <<Pause>> {C But, } {F uh, } like you said, [ it's, + it's ] not the best system,  /
+sv          B.145 utt2: {C but } it's the best one we've got. /  
+
+b          A.146 utt1:  Yeah,  /
+b          A.146 utt2: right.  /
+%          A.146 utt3:  {C So, } let's put up with it, I guess. /  
+
+b          B.147 utt1:  Uh-huh. /  
+
+ sv         A.148 utt1:  Improve it if we can, if we ever get a chance. /  
+
+ ba         B.149 utt1:  Sure enough. /  
+
+%          A.150 utt1:  {D So. } -/  
+
+fc          B.151 utt1:  Jean, it's been awful nice talking to you. /  
+
+fc^m          A.152 utt1:  {D Well, } it's been nice talking to you, Jack,  /
+fc          A.152 utt2: {C and } I hope you have a real good day and week. /  
+
+fc          B.153 utt1:  {D Well } let's hope neither one of us ever has to run into this subject we were discussing. /  
+
+fc          A.154 utt1:  <Laughter>  I hope not. /  
+
+fc          B.155 utt1:  Take care now. /  
+
+fc          A.156 utt1:  You, too. /  
+
+fc          B.157 utt1:  Bye. /  
+
+fc          A.158 utt1:  Bye-bye. / 

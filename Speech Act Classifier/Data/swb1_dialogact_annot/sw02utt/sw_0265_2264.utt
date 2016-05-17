@@ -1,0 +1,251 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2264_1096_1094
+TOPIC#:		335
+DATE:		910326
+TRANSCRIBER:	CAP
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	5
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+============================================================================
+  
+
+sd          A.1 utt1:  {D Well, } since you live close, I don't know if you know, {F um, } about what Louisville is doing with recycling,  /
+qy          A.1 utt2: {C or } are you familiar with any of that? /  
+
+sd          B.2 utt1:  {D Well, } I know that we have some relatives that live around, {D like } the  ((   )) area in there, /  
+
+b          A.3 utt1:  Huh-uh. /  
+
+sd          B.4 utt1:  I know they're doing some curbside recycling as a kind of a test there. /  
+
+b          A.5 utt1:  Yeah.  /
+%          A.5 utt2:  {D You know, } I read, {D you know, } - /
+sd          A.5 utt3: when they first started doing that in the paper,  [ and + ] I read about that,  /
+sd          A.5 utt4: I was just praying that, that would be in our area, because we've been recycling for quite some time.  /
+sd          A.5 utt5:  {C And, } {D you know, } we separate everything out,  and then have to haul it up to a  (( Metco )) ,   
+
+b          B.6 utt1:  Huh-uh. /  
+
++          A.7 utt1:  {D you know, } which is a real pain.  /
+sd          A.7 utt2:  {C So } if they would come up,   
+
+^2          B.8 utt1:  they'll help you,    
+
++          A.9 utt1:  curbside recycling, /  
+
++          B.10 utt1:  recycle, because  [ we, + ] there is some bins, {D like } behind Wal-Mart, that take some things. /  
+
+qy          A.11 utt1:  {D Well, } {D now } have they moved them behind Wal-Mart? /  
+
+ny          B.12 utt1:  Yeah. /  
+
+ba          A.13 utt1:  {F Oh, } God. /  
+
+sd          B.14 utt1:  {C Because } I finally asked because, {D you know, } we had all of those milk cartons  /
+sd          B.14 utt2: {C and } there was nowhere else to take them  /
+sd          B.14 utt3: {C and } they had it in front of Wal-Mart  /
+sd          B.14 utt4: {C and } I ask in Wal-Mart  /
+sd          B.14 utt5: {C and } they said they moved it just behind. /  
+
+b          A.15 utt1: Oh.  /
+sd          A.15 utt2:  That's really nice to know, because we were doing the same thing.  /
+sd          A.15 utt3: Because to take it to a  (( Metco )) , you have to take it when they're open, {D you know, }   
+
+b          B.16 utt1:  Huh-uh. /  
+
++          A.17 utt1:  which is always a real pain.  /
+sd          A.17 utt2:  {C And so } when that thing came up in Wal-Mart parking lot, we thought, {F oh, } this is great.  /
+sd          A.17 utt3:  {C And } we started taking them up there.  /
+sd          A.17 utt4: {C And then, } all the sudden, it disappeared, {D you know } <laughter>.  /
+sd          A.17 utt5:  I didn't know.  /
+sd          A.17 utt6:  {C And } we're going, {F oh, } no, there goes our recycling place. /  
+
+b          B.18 utt1:  Yeah. /  
+
+sd          A.19 utt1:  That's really nice to find out that it's behind there <laughter>.  /
+sd          A.19 utt2:  {D Well, } we pretty much do, {F um, } plastic milk cartons  and, {F um, } {F um, } {F um, } newspapers.  /
+sd          A.19 utt3:  I couldn't even think of what you call them. /  
+
+b          B.20 utt1:  Yeah. /  
+
+sd          A.21 utt1:  Plastic milk cartons, newspapers and cans, and glass, I guess, [ is the four, + is really the four ] things that we do. /  
+
+qy^d          B.22 utt1:  {D Like } aluminum cans? /  
+
+ny          A.23 utt1:  Yeah.  /
+ny^r          A.23 utt2: Yeah. /  
+
+sd          B.24 utt1:  That's about what we do too. /  
+
+sd          A.25 utt1:  {C And } {D really, } [ that's about, + that's really about ] it.  /
+qy          A.25 utt2:  Is there [ anything, + any place ] else that really takes anything other than that, that you know of? /  
+
+na          B.26 utt1:  {D Well, } I guess, {F um, } down [ in, + kind of in  ] North Dallas, there is a place that will take almost anything. /  
+
+b          A.27 utt1:  {F Oh, } really. /  
+
+sd          B.28 utt1:  {F Uh, } [ I don't, + we just don't ] have the room to store all that much, {D you know, } /  
+
+ba          A.29 utt1:  I know. /  
+
+sd          B.30 utt1:  I don't want to be running down there every week,   
+
+ba          A.31 utt1:  I know.  /
+ba^r          A.31 utt2: I know. /  
+
++          B.32 utt1:  or whatever. /  
+
+sd          A.33 utt1:  We're kind of the same way.  /
+%          A.33 utt2:  {D You know, } at first, {D you know, } you, - /
+sd          A.33 utt3: at first [ it was a real, + it was a real ] hassle,  /
+sd          A.33 utt4: {C and } I'm wondering are we really going to do this,  /
+sd          A.33 utt5: {C but } you kind of get, I guess, into a little routine, {D you know, } where it [ becomes, + is ] automatic, {D now, } to throw,   
+
+b          B.34 utt1:  Yeah. /  
+
++          A.35 utt1:  different things in different places,  /
+%          A.35 utt2: {D you know. }  {C So } I just go, {D you know, } - /
+sd          A.35 utt3:  we have a pretty good size pantry in our kitchen  /
+sd          A.35 utt4: {C and } I've just got three trash cans sitting in there,  /
+sd          A.35 utt5: {D you know, } we just kind of dump things in each one, [ if, + {D you know, }   
+
+b          B.36 utt1:  Yeah. /  
+
++          A.37 utt1:  if ] we get them,  /
+%          A.37 utt2: {C so. } -/  
+
+sd          B.38 utt1:  Those milk cartons take up so much room. /  
+
+ba          A.39 utt1:  {F Oh, } they do, too. /  
+
+x          B.40 utt1:  <Laughter>.   
+
+sd          A.41 utt1:  {C And } they're impossible to crush.  /
+sd          A.41 utt2:  {E I mean, } you can't get the down to any size,  {D you know. }  /
+sd          A.41 utt3:  If you get four milk cartons and that fills up trash bag, {D you know } <laughter> pretty easily,  /
+%          A.41 utt4: {C so. }   {D You know, } -/  
+
+sd          B.42 utt1:  I guess we kind of started recycling after I moved here about a year and a half ago. /  
+
+bh          A.43 utt1:  {F Oh, } really. /  
+
+sd          B.44 utt1:  We were using baby food  /
+sd          B.44 utt2: {C and } there was so many baby food jars,    
+
+b          A.45 utt1:  Yeah. /  
+
++          B.46 utt1:  kind of what started it. /  
+
+b          A.47 utt1:  Yeah. /  
+
+sd          B.48 utt1:  Some of our neighbors were doing it  /
+sd          B.48 utt2: {C and so, } {D you know, } when I found out some places to take it, - /
+sd          B.48 utt3: {C and, }  {F um, } {D like, }  {F um, } they also take some things at the Flower Mound dump behind the fire station there,  /
+sd          B.48 utt4: {C and } I know that they're going to use, {D you know, } the money for that to build some kind of multipurpose field and  that type of thing.    
+
+ba          A.49 utt1:  {F Oh, } that will be good. /  
+
++         B.50 utt1:   (( Put lights ))  and stuff  /
+sd          B.50 utt2: {C so, } {D you know, } if I'm not going to get the money for aluminum, I would just assume give it to the city of Flower Mound.    
+
+b          A.51 utt1:  Sure. /  
+
++          B.52 utt1:  to do something with, {D you know. } /  
+
+^2          A.53 utt1:  Let somebody get something out of it. /  
+
+aa          B.54 utt1:  Yeah.   /
+ba          B.54 utt2: That's true.  /
+sv          B.54 utt3: {C And } they won't raise our taxes. /  
+
+b          A.55 utt1:  Yeah <laughter>. /  
+
+b          B.56 utt1:   (( Yeah )) . /  
+
+o          A.57 utt1:  Ha-ha  <laughter>. /  
+
+x          B.58 utt1:  <Laughter>.   
+
+sd          A.59 utt1:  {D Well, } I was kind of hoping with, - /
+qy          A.59 utt2: {D you know, } do you work for T I? /  
+
+nn          B.60 utt1:  No,  /
+sd^e          B.60 utt2: I don't.  /
+sd          B.60 utt3:  I have a friend,   
+
+b^m          A.61 utt1:  No. /  
+
++          B.62 utt1:  of mine told me about this program, is the reason that I'm, -/  
+
+b          A.63 utt1:  Yeah.  /
+%          A.63 utt2:  There was a, - /
+sd          A.63 utt3: T I has got this organization called T A D which is T I'ers Against Drugs.  /
+sd          A.63 utt4: {C And, } {D you know, } we're recycling aluminum cans up here [ and, + ] {F uh, } just what you would buy out of the machines and drink here  /
+sd          A.63 utt5: {C and } there was crushers out in all of the hallways {D you know, }  /
+%          A.63 utt6: {C and } that's, - /
+sd          A.63 utt7: they use the money from that to fund this T I'ers Against Drugs Program.  /
+%          A.63 utt8:  It's, - /
+sd          A.63 utt9: {D you know, } T I doesn't give them any money, [ all, + ] everything is made from that.  /
+sd          A.63 utt10:  {C And } they had talked about having a thing like, one Saturday a month, you could come and  drop your aluminum cans off from home, {D you know, } /  
+
+b          B.64 utt1:  Yeah. /  
+
+sd(^q)          A.65 utt1:  {C And } I'm kind of like, yeah.  /
+%          A.65 utt2: I shall, - /
+sd          A.65 utt3: they would do that because at least somebody was getting the money out of it, {D you know. }   That was going to use it for good,  /
+%          A.65 utt4: {C so, } -/  
+
+fa          B.66 utt1:  <<Speaker is talking to someone in background>>.  Sorry.  /  
+
+sv          A.67 utt1:  Sounds like you have a little one just like I do <laughter>. /  
+
+sd          B.68 utt1:  She'll be two in July. /  
+
+b          A.69 utt1:  Yeah.  /
+sd          A.69 utt2: Mine was two in December <laughter>. /  
+
+b          B.70 utt1:  Oh. /  
+
+fc          A.71 utt1:  {D Well, } it was good to talk to you. /  
+
+fc          B.72 utt1:  {D Well, } it was nice to talk to you.  /
+sd          B.72 utt2:  I know they've started over in Richardson where my dad lives.  /
+sd          B.72 utt3:  They pick up newspapers, I think. /  
+
+b          A.73 utt1:  {F Oh, } do they really.  /
+qy^d          A.73 utt2:  Curbside pick up? /  
+
+ny          B.74 utt1:  Yeah. /  
+
+sd          A.75 utt1:  I really hope they do that in Louisville.  /
+sd          A.75 utt2:  It would make it a lot easier on all of us. /  
+
+x          B.76 utt1:  <Baby>  ((   )) .   
+
+fc          A.77 utt1:  Talk to you later. /  
+
+fc          B.78 utt1:  Okay. /  
+
+fc          A.79 utt1:  Bye-bye. / 

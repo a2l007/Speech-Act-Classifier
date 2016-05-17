@@ -1,0 +1,246 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:        4821_1423_1594
+TOPIC#:          349
+DATE:            920425
+UTT_CODER:	 lsh
+TRANSCRIBER:     nk
+DIFFICULTY:      3
+TOPICALITY:      1
+NATURALNESS:     1
+ECHO_FROM_B:     1
+ECHO_FROM_A:     1
+STATIC_ON_A:     1
+STATIC_ON_B:     1
+BACKGROUND_A:    3
+BACKGROUND_B:    1
+REMARKS:         It is hard to understand A at times as she has
+constant noise and children talking in her background.
+
+==============================================================================
+  
+
+o          A.1 utt1:  <Noise> <children_talking> Okay.  /
+^h          A.1 utt2:  {F Uh, } let me see <laughter>.  /
+sd          A.1 utt3: I've been sitting here awhile.  /
+sd^t          A.1 utt4:  I almost forgot the topic.  /
+sd          A.1 utt5:  {C But, } {F uh, } it seems like I get most of my news from television.  /
+sd          A.1 utt6: [ I'm, + we ]  only get the paper on the weekends  /
+sd          A.1 utt7: {C and so } I'm not much [ of a, + of a ]  paper reader  /
+sd          A.1 utt8: [ [ {C or } + {C but } ] [ I, + <whistling> I ] +  {C and } I'm ] don't, rarely listen to the, {F uh, } radio  /
+sd          A.1 utt9: {C so } I get most of  my news {D like } from documentaries like FORTY-EIGHT HOURS,  TWENTY TWENTY, {D you know, } the news at night.   
+
+b          @B.2 utt1:  Uh-huh. /  
+
++          A.3 utt1:  News in the afternoon, that kind of thing. /  
+
+b          B.4 utt1:  Uh-huh.  /
+sd          B.4 utt2:  {D Well } I get a,   
+
+x          A.5 utt1:  <Whistling>.   
+
++          B.6 utt1:  weekend paper as well  /
+sd          B.6 utt2: {C and, } {F uh, } in addition to  that I get a local weekly.  /
+sd          B.6 utt3: [ I, + I ] live in suburb of Milwaukee -- /  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sd          B.8 utt1:  -- {C and } [ they get, + they have ]  community newspapers around here  so [ the local, + their extremely local ] <laughter> stuff --   
+
+b          A.9 utt1:  Uh-huh. /  
+
++          B.10 utt1:  -- {F uh, } is in the local paper that comes  out once a week  /
+sd          B.10 utt2: {C and then } I get the Sunday, {F uh, } MILWAUKEE JOURNAL because I don't have time  to read a paper.  /
+sd          B.10 utt3:  {F Uh, } # mostly # --   
+
+b          A.11 utt1:  # Right. # /  
+
++          B.12 utt1:  -- that's my difficulty.  /
+sd          B.12 utt2: [ I, + {F uh, } I ]  get my news pretty much from the same sources as you do, although I do listen to N P R <swallowing>  [ which has very good, + {A and that's National Public Radio } # which # --   
+
+b          A.13 utt1:  # Uh-huh. # /  
+
++          B.14 utt1:  -- has very good, ] {F uh, } coverage of the national and  international news,  [ I feel + ] --   
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  -- and does a pretty good job of # analysis as well. # /  
+
+qy          A.17 utt1:  # Are you in # the car quite a bit  /
+%          A.17 utt2: {C or, } -/  
+
+nn          B.18 utt1:  No,  /
+sd^e          B.18 utt2: I'm not {D actually. }   {F Uh, }  /
+sd          B.18 utt3: {C but } I can  run my radio in my office.  /
+sd          B.18 utt4: # [ I, + I ] # --   
+
+b          A.19 utt1:  # Oh. # /  
+
++          B.20 utt1:  -- teach at the university  /
+sd          B.20 utt2: {C and } when I'm not --   
+
+b          A.21 utt1:  Oh. /  
+
++          B.22 utt1:  -- teaching, if I choose to have the radio on I  can listen to that station,  /
+%          B.22 utt2: {C so. } -/  
+
+b          A.23 utt1:  Uh-huh.  /
+bk          A.23 utt2:  {F Oh, } I see.  {F Uh, } /  
+
+qy          B.24 utt1:  [ How are you, + are you ] satisfied with the  TWENTY TWENTY and FORTY-EIGHT HOURS and the things that you do # watch? # /  
+
+ny          A.25 utt1:  # Yeah.  /
+sd^e          A.25 utt2: #  [ [ I, + I, ] + I ] pretty much  am  /
+sd          A.25 utt3: {C and } I watch the news at least twice a day. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sd          A.27 utt1:  {C So, } {F uh, } if I've missed something [ and, + and ]  I've just recently decided to stay home with my children  /
+sd          A.27 utt2: {C and so } <laughter> it seems  as if I catch the news [ ris-, + right ] as it happens, {D you know. } /  
+
+b          B.28 utt1:  Uh-huh. /  
+
+sd          A.29 utt1:  There was the explosions and that kind of thing.  /
+sd(^q)       A.29 utt2:   My husband will say how did you know about that.  /
+^q          A.29 utt3: Yes,  /
+^q          A.29 utt4: it happened at such and  such time <laughter>.  /
+sd          A.29 utt5: {C And } [ [ that's so, + that, ] + that's ]  different for me.   /
+sd          A.29 utt6: {C So } I usually find out exactly when it happens and that # kind of thing. # /  
+
+qy          B.30 utt1:  # Is that # the aspect of the news that you're most  interested in [ is, + is ] the timely [ yo-, + ] noting of the events as they happen?  /
+qy          B.30 utt2:  Is that what you feel good about # in the news coverage? # /  
+
+nn          A.31 utt1:  # {F Uh, } no  /
+sd^e          A.31 utt2: it # just seems like since I've recently  stayed home, that is what's happened, {D you know. }  /
+sd          A.31 utt3:  It's just that, {F uh, }  now that I've stayed home, [ I'm, + I'm ] usually aware of when these things # occurred # -- /  
+
+b          B.32 utt1:  # <Noise> Uh-huh. # /  
+
+sd          A.33 utt1:  -- {C and } it happened  /
+%          A.33 utt2: {C and, } -/  
+
+sd          B.34 utt1:  {D Well, } I, myself, {F uh, } [ th-, + the ]  reason why I listen to N P R and the reason why I watch MACNEIL LEHRER,   
+
+x          A.35 utt1:  <Whistling>.   
+
++          B.36 utt1:  rather [ than the, + than the ]  network news shows at night, although I do [ o-, + ] watch a local ten o'clock in the evening news which  carries over a lot of the national news stories --   
+
+b          A.37 utt1:  Right,  /
+b^r          A.37 utt2: right. /  
+
++          B.38 utt1:  -- {F uh, } is that quite often it seems to  me <sigh> the national doesn't do a very good job of analysis. /  
+
+x          A.39 utt1:  <Whistling>.   
+
+sd          B.40 utt1:  The local doesn't either  /
+sv          B.40 utt2: {C but } I feel that MACNEIL  LEHRER get a little more deeply into [ some, + some ]  of the issues that are really current. /  
+
+b          A.41 utt1:  Uh-huh  /
+x@          A.41 utt2: <<very faint>>.  *[[slash unit, plus is this considered non-speech?]] 
+
+sv          B.42 utt1:  {C And } perhaps newspapers do that  /
+sd          B.42 utt2: {C but } as I said,  I don't have time to sit down and read a newspaper  /
+sd          B.42 utt3: {C and } frankly when I have <laughter>  read a newspaper --   
+
+b          A.43 utt1:  Uh-huh. /  
+
++          B.44 utt1:  -- I haven't noticed that kind of analysis either. /  
+
+b          A.45 utt1:  Huh. /  
+
+sv          B.46 utt1:  {C So. } {F Uh, } [ there's, + there is ]  some danger to that, of course, too.  /
+qh          B.46 utt2: {C Because } if the analysis is inaccurate or biased or whatever then, {D you know, }   how good is it.  /
+sd          B.46 utt3: {C But, } {F uh, } I like a little more indepth  coverage  /
+sv          B.46 utt4: {C and } I think that's what [ you're, + ] maybe appealing to you too on  something like TWENTY TWENTY or --   
+
+aa          A.47 utt1:  Right. /  
+
++          B.48 utt1:  -- FORTY-EIGHT # HOURS. # /  
+
+aa          A.49 utt1:  # Right.  /
+sv          A.49 utt2: #  It kind of gives you the whole story or  more of the story. /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+h          A.51 utt1:  That kind of thing. /  
+
+b          B.52 utt1:  Yeah. /  
+
+%          A.53 utt1:  {C So. } {F Uh, } -/  
+
+sd          B.54 utt1:  I'm more interested in trying to understand  what's going on in the # world # --   
+
+b          A.55 utt1:  # Yeah. # /  
+
++          B.56 utt1:  -- rather than simply being aware [ that, + {D you know, }  there, that ] an event has occurred <laughter>. /  
+
+b          A.57 utt1:  <Laughter> Yeah. /  
+
+sd          B.58 utt1:  [ I, + I ] like to stand back and get a slightly bigger   picture.  /
+sd          B.58 utt2:  Maybe because I'm easily confused by detail.  /
+h          B.58 utt3:  I don't know <laughter>. /  
+
+b          A.59 utt1:  Uh-huh.  /
+b          A.59 utt2:  Yeah,  /
+sd          A.59 utt3: I know what you're saying.  /
+%          A.59 utt4: # Yeah. # /  
+
+%          B.60 utt1:  # {C So. } # -/  
+
+sd          A.61 utt1:  {C But } I try and catch most of those  programs <throat_clearing> on Wednesday's and Friday's  /
+sd          A.61 utt2: {C and } if I miss them, [ I try + <laughter>,  {D you know, } I try ] [ and, + and ] tape them if I'm out  ((   ))  that kind of thing,  /
+sd^r          A.61 utt3: I try  and tape them  /
+sd          A.61 utt4: {C and } <sniffing> {C so } I can sit back and watch them.  /
+sd          A.61 utt5:  {C And }  it's pretty interesting. /  
+
+%          B.62 utt1:  When, - /
+qy^g          B.62 utt2: you have young children, right? /  
+
+ny          A.63 utt1:  Uh-huh. /  
+
+qy^d          B.64 utt1:  {C So } those evening shows are probably also  at a time when you're at liberty to take some time off and be in front of the T V set for  awhile # without interruption. # /  
+
+ny          A.65 utt1:  # {D Well, } yeah.  /
+sd^e          A.65 utt2:  {C Plus, } # I find that I have  to video tape quite a bit of things <laughter>. /  
+
+bh          B.66 utt1:  {F Oh, } you do?  /
+b          B.66 utt2: Uh-huh. /  
+
+sd          A.67 utt1:  If I don't want any interruptions, # {D you know. } # /  
+
+b          B.68 utt1:  # Uh-huh. # /  
+
+h          A.69 utt1:  That kind of thing. /  
+
+qw          B.70 utt1:  When is your good watching time? /  
+
+sd          A.71 utt1:  {F Uh, } it seems like ten o'clock at night <laughter>. /  
+
+b          B.72 utt1:  Uh-huh.  /
+b          B.72 utt2:  Yes.  /
+b          B.72 utt3: Yeah,  /
+%          B.72 utt4: # that's what, # -/  
+
+sd          A.73 utt1:  # Unfortunately, #  /
+sd^r          A.73 utt2: {C but } [ that, + that's ]  what it seems like, ten o'clock at night. /  
+
+sd          B.74 utt1:  I have older children --   
+
+b          A.75 utt1:  Uh-huh  </noise> </children_talking>. /  
+
++          B.76 utt1:  -- and getting dinner on the table.  /
+sd          B.76 utt2:  I come from the east coast  /
+%          B.76 utt3: {C and }  I was, - /
+sd          B.76 utt4:  <laughter> it amazed me when I got out here to the midwest and  found out that even though they're an hour earlier in time, they still watch the news when, -/ 

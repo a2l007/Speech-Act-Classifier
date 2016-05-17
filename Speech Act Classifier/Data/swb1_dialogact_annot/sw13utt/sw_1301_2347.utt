@@ -1,0 +1,411 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+FILENAME:	2347_1180_1020
+TOPIC#:		329
+DATE:		910401
+TRANSCRIBER:	CAP
+UTT_CODER:	TC
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	3
+STATIC_ON_B:	3
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        The voices were breaking up several times.  Speakers
+overlap a lot.  Both callers speak rapidly.  Children and noises in
+Speaker B's background.
+
+============================================================================
+  
+
+o          B.1 utt1:  Um, all right.  /  
+
+%          A.2 utt1:  I've, uh, - /
+sv          A.2 utt2: as far as I'm concerned, I find that the young women have lost so much because they have become more aggressive and more dominating,   /
+sv          A.2 utt3: and I think that comes about from their being a definite factor in the job market now. /  
+
+aa          B.3 utt1:  Uh-huh.  /
+aa          B.3 utt2: Oh, well, I tend, I tend to agree.  /
+sv          B.3 utt3:  Uh, in some ways I think it's, uh, I think if anything, a lot of, um, <lipsmack> the changes that have occurred, uh, - /
+sv          B.3 utt4: in some ways they're for the better  /
+sv          B.3 utt5: because I think women should have a choice,  /
+sv          B.3 utt6: and I do believe in the, being able to have a choice as to, as far as, what you would like to do with your life.  /
+sd          B.3 utt7:  But by the same token, and I know this for myself because I've worked and I've not <laughter> worked, um,  /
+sv          B.3 utt8: that it makes it, uh, sometimes it makes life more difficult.  /
+sv          B.3 utt9:  I think when the roles now are less defined, as far as, you know, what, uh, women should or should not be doing, <children> that it, it, it could make life more difficult.  /
+sv          B.3 utt10:  There are more things to work out.  /
+sv          B.3 utt11:  I know when I was working, you know, you have all these problems with, with the child care and, and with, uh, pleasing, you know, your boss on the job,  /
+sv          B.3 utt12: so you have added stresses from there  /
+sv          B.3 utt13: and then you still have all the things that, um, that you need to do at home  /
+sv          B.3 utt14: and that doesn't change, you know,  /
+sv          B.3 utt15: just because your going out of the house for so many hours a day doesn't, uh, make those other things go away  /
+sv          B.3 utt16: and the other responsibilities are still important.  /
+%          B.3 utt17:  Um, - /
+qy          B.3 utt18: so, um, have you, have you worked outside, also and, um, feel that, it, that, - /
+qo          B.3 utt19: well, how do you feel, as far as, uh, - /
+qw          B.3 utt20: what would be a happy medium  /
+qo         B.3 utt21: or, or what would you like to see?  </children>. /  
+
+sv          A.4 utt1:  I would like, uh, - /
+ny          A.4 utt2: yes,  /
+sd^e          A.4 utt3: I have worked outside of the home  /
+sd          A.4 utt4: #and,#    
+
+b          B.5 utt1:  #Yes.#   /  
+
++          A.6 utt1:  I was in one of those safe occupations.  /
+sd          A.6 utt2:  I was a school teacher, /  
+
+b          B.7 utt1:  Uh-huh.  /  
+
+sd          A.8 utt1:  and we had one child when I taught for my two year career. /  
+
+b          B.9 utt1:  Uh-huh <children>.  /  
+
+%          A.10 utt1:  Uh, we, - /
+sd          A.10 utt2: uh, then I stopped teaching after my husband's bus-, business was established,  /
+sd          A.10 utt3: and we had two children  /
+sd          A.10 utt4: and I stayed home with those children,   
+
+b          B.11 utt1:  Yes.  /  
+
++          A.12 utt1:  and raised those children  /
+sd          A.12 utt2: and now that my husband has retired, I am back substitute teaching, /  
+
+b^r          B.13 utt1:  #Yes.#   /  
+
+sv          A.14 utt1:  #which# if anyone has ever been involved in that, some days it's fun  /
+sv          A.14 utt2: and some days you wonder why you're even bothering, /  
+
+b          B.15 utt1:  #Right# <laughter>. /  
+
+sv          A.16 utt1:  #because# your fighting for your life. /  
+
+%          B.17 utt1:  #But, - /
+b          B.17 utt2: yeah.#  /  
+
+sd          A.18 utt1:  #But, I am# a fighter  /
+sd          A.18 utt2: and I've always been a disciplinarian.  /
+sv          A.18 utt3:  Uh, I'm, I'm not real sure that the young girls of today are being forced into the job market as many of them imply.  /
+sv          A.18 utt4:  I think they're going in by choice. /  
+
+aa          B.19 utt1:  </Children> Oh, I think so.  /
+aa          B.19 utt2: #Yes.#  /  
+
+b^m          A.20 utt1:  #Yes.#  /
+sv          A.20 utt2:  And, and I have no problem with that,  /
+sv          A.20 utt3: but I think the male needs to be the dominant person.  /
+sv          A.20 utt4:  And I think <children> too many of the young professional wives in our small town of five thousand, uh,   
+
+b          B.21 utt1:  Uh-huh.   /  
+
++          A.22 utt1:  are not letting that happen.  /
+sv          A.22 utt2:  They are very aggressive. /  
+
+b^r          B.23 utt1:  Uh-huh.  /  
+
+sv          A.24 utt1:  They're, uh, they almost have what I would call a killer e-, killer bee instinct. /  
+
+b          B.25 utt1:  <Laughter> #Yeah.#   /  
+
+sv          A.26 utt1:  #And# they have to be in charge.  /
+sv          A.26 utt2:  And,      
+
+b          B.27 utt1:  Uh-huh.  /  
+
++          A.28 utt1:  and I th-, I think they lose a lot by what I call neutering their husbands. /  
+
+qw          B.29 utt1:  [Children] Well, what do you think, <noise> {water running}  /
+%          B.29 utt2: though, um, um, - /
+h          B.29 utt3: I don't know.  /
+%          B.29 utt4:  I, - /
+sv          B.29 utt5: the, the one problem I guess I have, - /
+sv          B.29 utt6: and maybe what <noise> so many women, younger women now are choosing to go outside is,  /
+sv          B.29 utt7: I feel that in general, in this society, that being at home is not looked upon as, um, a job in itself.  /
+sd          B.29 utt8:  Whereas, you know, you hear a lot of women that are home saying that it is a job in itself,  /
+sd          B.29 utt9: but I know when I was working, - /
+sd          B.29 utt10: <noise> and I was a-, an engineer so I was always with men,  /
+sd          B.29 utt11: uh, and they were single, many of them,  /
+sd(^q)          B.29 utt12: and I tried to explain to them, well, my day doesn't end when I leave at, - /
+sd          B.29 utt13: I used to leave at three,    
+
+b          A.30 utt1:  Uh-huh.   /  
+
++          B.31 utt1:  I keep going to </noise> eleven at night  /
+sd          B.31 utt2: and they had, they used to look down on women that were home,  /
+sd(^q)          B.31 utt3: they'd say, oh, I bet you go home and, - /
+^q          B.31 utt4: you know, at least you get out of here at three  /
+^q          B.31 utt5: and you can go home and put your #feet up and watch soap operas,# /  
+
+b          A.32 utt1:  #Oh, sure <laughter>.# /  
+
+sd          B.33 utt1:  and I used to be #infuriated,# /  
+
+b          A.34 utt1:  #Uh-huh.#   /  
+
+sd          B.35 utt1:  because they really had no idea <noise> what was involved once I got home.  /
+sd          B.35 utt2:  Now taking care of them, running them everywhere, helping with homework, the bath, the whole, you know, everything.  /
+sv          B.35 utt3:  Um, and I think that one reason <children> that so many younger women feel im-, i-, compelled to go into a profession is that they feel that if they stay home they are not respected,    
+
+b          A.36 utt1:  Huh.  /  
+
++          B.37 utt1:  and that being home is not a respectable, uh, position in society.  /
+sv          B.37 utt2: And, there's a lot of truth to that  /
+sd          B.37 utt3: and I don't know how you feel.  /
+sd          B.37 utt4: I don't know how you felt when you were home and what kind of feedback you got,  /
+sv          B.37 utt5: but I can see with the younger men that they definitely are looking down upon women <children> that are home.  /
+sv          B.37 utt6:  And yet by the same token, I think some of it is jealousy,  /
+%          B.37 utt7: you, you, - /
+sd(^q)          B.37 utt8: once in a while, you hear them say things like, I wish I had the choice,    
+
+b          A.38 utt1:  Uh-huh. /  
+
++          B.39 utt1:  you know.  /
+^q          B.39 utt2:  I wish I was the one,  /
+^q          B.39 utt3: I would stay home with my kids if my wife would go out and support us, <laughter>. /  
+
+^2          A.40 utt1:  If my wife had an education and could support us, - /
+sv          A.40 utt2: and the only value I see coming #out of,#   
+
+b          B.41 utt1:  #</Children> Uh-huh.#  /  
+
++          A.42 utt1:  this is that children now in, in a two parent home, they now actually  have two parents, /  
+
+b          B.43 utt1:  Yeah. /  
+
+sd          A.44 utt1:  because I see my sons-in-law, - /
+sd          A.44 utt2: I have a daughter who's a nurse  /
+sd          A.44 utt3: and I have a daughter,   
+
+b          B.45 utt1:  #Right.#   /  
+
++          A.46 utt1:  #who's a# beautician.  /
+sd          A.46 utt2:  And I see,   
+
+b          B.47 utt1:  Uh-huh.  /  
+
++          A.48 utt1:  my sons-in-law cooking and,      
+
+b          B.49 utt1:  #Right.#   /  
+
++          A.50 utt1:  #dropping# children off at the sitter and,      
+
+b^r          B.51 utt1:  #Right.  /
+b^r          B.51 utt2:  Right <noise>.# /  
+
++          A.52 utt1:  #picking children up from school# and,      
+
+b          B.53 utt1:  Uh-huh.  /  
+
++          A.54 utt1:  and having a much better relationship with their children,    
+
+sv          B.55 utt1:  #That's true.# /  
+
++          A.56 utt1:  #than my husband# ever did  /
+sd          A.56 utt2: because he,      
+
+sv          B.57 utt1:  That's true. /  
+
++          A.58 utt1:  left home at five thirty in the morning,  /
+sd          A.58 utt2: and he got home at six fifteen. /  
+
+b          B.59 utt1:  <Noise> Yes. /  
+
+sd          A.60 utt1:  And, uh, he ate his dinner  /
+sd          A.60 utt2: and he was asleep in his chair because he was exhausted. /  
+
+b          B.61 utt1:  Right. /  
+
+sv          A.62 utt1:  So, now the young fathers are having a chance to parent,  /
+sv          A.62 utt2: and I think,   
+
+^2          B.63 utt1:  <Noise> #And they enjoy it.# /  
+
++          A.64 utt1:  #that's an advantage.#  /  
+
+aa          B.65 utt1:  Yeah.  /
+sv          B.65 utt2:  <swallowing> And they do enjoy it.  /
+sd          B.65 utt3:  I,      
+
+b          A.66 utt1:  Uh-huh. /  
+
++          B.67 utt1:  I see,  /
+aa          B.67 utt2: you're right.  /
+sd          B.67 utt3:  I see many more men in the supermarket,   
+
+b          A.68 utt1:  #Uh-huh,  /
+b^r          A.68 utt2: uh-huh.# /  
+
++          B.69 utt1:  #in the parks with their# children,  /
+sv          B.69 utt2: and I think that is healthy because ch-, -/  
+
+sv          A.70 utt1:  And I think it's a, a wonderful advantage for the young, for the, for the, particularly for the males, for the little boys to have,   
+
+aa          B.71 utt1:  Right.  /
+aa          B.71 utt2:  #Oh, yeah.#  /  
+
++          A.72 utt1:  #a relationship# with their father,  /
+sv          A.72 utt2: and, and I #don't,#      
+
+aa          B.73 utt1:  #Yes.# /  
+
++          A.74 utt1:  think you, we get into so much of the mother dominating figure, if, if the father has more input there. /  
+
+b          B.75 utt1:  #Yeah.#  /  
+
+sv          A.76 utt1:  #But,# uh, I don't understand why the young girls feel like they have to build roads,  /
+sd          A.76 utt2: and they have to,    
+
+x          B.77 utt1:  <Gasp> (( )). /  
+
++          A.78 utt1:  that kind of job, uh, to go out there and shovel that tar and, and drive those big trucks.  /
+sd          A.78 utt2:  And we just recently finished a long drive through the west, a little over five thousand #miles,# /  
+
+b          B.79 utt1:  #Uh-huh.# /  
+
+sd          A.80 utt1:  and at one point we sat down, uh, - /
+sd          A.80 utt2: I didn't realize it,  /
+sd          A.80 utt3: but I sat at a counter to have a cup of coffee that happened to be for truck drivers only. /  
+
+b^r          B.81 utt1:  Uh-huh.  /  
+
+sd          A.82 utt1:  And here's this young girl with the tattoos  /
+sd          A.82 utt2: and she w-, has just, had just driven a load of meat from Minneapolis to some place in #Arizona,# /  
+
+b^r          B.83 utt1:  #Uh-huh.#  /  
+
+sd          A.84 utt1:  and she'd been, - /
+sd          A.84 utt2: and I ask her how old she was  /
+sd          A.84 utt3: and she was the ag-, between the age of our daughters  /
+sd          A.84 utt4: and she had been driving,   
+
+b          B.85 utt1:  Uh-huh. /  
+
++          A.86 utt1:  a truck for seven years.  /
+sd(^q)          A.86 utt2:  And I thought, gosh,  /
+sv          A.86 utt3: I mean,      
+
+b          B.87 utt1:  #Yeah.# /  
+
++          A.88 utt1:  #why# would a woman choose that rough and tumble life-style when, - /
+sv          A.88 utt2: I guess I'm s-, I'm a-, maybe Victorian  /
+sv          A.88 utt3: and my husband is a little bit of a male chauvinist,  /
+sv          A.88 utt4: in that,   
+
+x          B.89 utt1:  <Noise> <laughter>.    
+
++          A.90 utt1:  he's a very considerate person,  /
+sd          A.90 utt2: but he also thinks a woman should be taken care of and, and in the home,  /
+sd          A.90 utt3: and she should vote,  /
+sd          A.90 utt4: but after she talks to her husband about how she ought to vote. /  
+
+ba          B.91 utt1:  #Oh, boy <laughter>.# /  
+
+sd          A.92 utt1:  #Now it probably# doesn't work that way in our household because I have strong opinions about #things,#   
+
+b          B.93 utt1:  #Yeah.# /  
+
++          A.94 utt1:  too,  /
+sd          A.94 utt2: but, uh, I like being taken care of.  /
+sd          A.94 utt3: I like my #luggage,#   
+
+h          B.95 utt1:  #Well,# -/  
+
++          A.96 utt1:  carried and, my door opened,  /
+sv          A.96 utt2: and I think the young women are losing that  /
+sv          A.96 utt3: and I think that's sad. /  
+
+aa          B.97 utt1:  well, that, that's true.  /
+sv          B.97 utt2:  There is that part, too,  /
+sv          B.97 utt3: and I guess we also have to examine though - /
+sv          B.97 utt4: and although your husband's probably been as much conditioned as, you know, <laughter> anybody else, -/  
+
+sd          A.98 utt1:  #He was raised in the south,#  /  
+
+b          B.99 utt1:  #um,# /  
+
+sv          A.100 utt1:  I think that's a little ((war)) condition, <laughter>. /  
+
+%          B.101 utt1:  #I guess ha-#,  -/  
+
+%          A.102 utt1:  #both.#  -/  
+
+b          B.103 utt1:  Oh, oh, yeah.  /
+sv          B.103 utt2:  And, and you have to, I guess you have to question too, why a lot of the men, especially, I think middle age and older men, why they feel that way  /
+sv          B.103 utt3: and, and I think it gets scary for them to see change, also.  /
+sv          B.103 utt4:  They've been used to being, really to be honest, in, in society, and in a way, number one,  /
+sd          B.103 utt5: and they come home  /
+sd          B.103 utt6: and everything's done for #them.# /  
+
+b          A.104 utt1:  #Uh-huh.#  /
+b          A.104 utt2:  Huh.  /  
+
+sd          B.105 utt1:  And their meal is served  /
+sv          B.105 utt2: and I think it's frightening to them to see the  roles switching. /  
+
+aa          A.106 utt1:  Sure.  /  
+
+sv          B.107 utt1:  And I think, I think this reaction comes more out of fear.  /
+sd          B.107 utt2:  Now, my husband is, um, he's ten years older than me,  /
+%          B.107 utt3: and, - /
+sv          B.107 utt4: but he has, his attitudes are very much pro-women, pro-career, which is kind of interesting. /  
+
+b          A.108 utt1:  Uh-huh. /  
+
+sd          B.109 utt1:  He comes from a culture where women are, stay at home and do #everything,# /  
+
+b^r          A.110 utt1:  #Uh-huh.#   /  
+
+sd          B.111 utt1:  um, and yet, <noise> um, he's the type that he is willing to have to take on more responsibility, um, if that meant, <bell>, {door} you know, for me to be able to, uh, uh, advance or go back to work or whatever.  /
+sd          B.111 utt2:  I'm kind of more, - /
+t3          B.111 utt3: {talking to someone in background}, thank you, {resumes talking to speaker A}  /
+sd          B.111 utt4: I'm kind of more middle of the road.  /
+sv          B.111 utt5:  I think that when children are small, I think it's okay for women to work especially,  /
+sv          B.111 utt6: there should be some, a lot more part time,  /
+sv          B.111 utt7: but I think it's, um, - /
+sv          B.111 utt8: I don't believe in this career, you know, this career drive when, when they're small, because I think, -/  
+
+b          A.112 utt1:  Uh-huh.  /  
+
+t3          B.113 utt1:  {talking to someone in background}, they're downstairs ((Aaron)), {resumes talking to A}  /
+sv          B.113 utt2: I think that's very, um, unfair to, to children,  /
+sd          B.113 utt3: like, uh, engineers usually work fifty or sixty hours a week, /  
+
+b          A.114 utt1:  #Uh-huh.  /
+b          A.114 utt2:  Huh.  /
+b^r          A.114 utt3:  Huh.# /  
+
+sd          B.115 utt1:  #I refused to work more than thirty.# /  
+
+b          A.116 utt1:  Uh-huh. /  
+
+sd          B.117 utt1:  I was part-time  /
+sv          B.117 utt2: and even that was a rat race, /  
+
+b          A.118 utt1:  Huh. /  
+
+sv          B.119 utt1:  but I think you have to put in perspective, that, you know, when the kids came home from school, I wanted to be here.  /
+sd          B.119 utt2:  I didn't want, I don't want a job <noise> where I'm traveling around and an-, I'm away and, uh, - /
+sv          B.119 utt3: so I think you can have both.  /
+sv          B.119 utt4:  It's more hectic,  /
+sv          B.119 utt5: but I think you have to put into perspective what your kids need,   
+
+sv          A.120 utt1:  I think a lot of,      
+
++          B.121 utt1:  first then </noise>, -/  
+
++          A.122 utt1:  my problem with the young mothers i-, ...    -/ 

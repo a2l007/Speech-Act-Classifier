@@ -1,0 +1,273 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3148_1316_1315
+TOPIC#:		302
+DATE:		910720
+TRANSCRIBER:	lya
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	3
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	There is a hum and then actual static.  A speaks very faintly.
+
+============================================================================
+  
+
+ o          A.1 utt1:  Okay. <<very faintly>> {F Um, } /  
+
+qw          B.2 utt1:  Where do you live? /  
+
+sd          A.3 utt1:  In Plano. /  
+
+qy^d        B.4 utt1:  In Plano? /  
+
+ny          A.5 utt1:  Yes.  /
+qw          A.5 utt2:  Where do you live? /  
+
+sd          B.6 utt1:  In Dallas. /  
+
+bk          A.7 utt1:  {F Oh, } okay <breathing>. /  
+
+sd          B.8 utt1:  {F Uh, } the air pollution isn't too bad in our area.  /
+sd          B.8 utt2:  {C So, }  we're very fortunate --   
+
+b          @A.9 utt1:  Huh <<very faintly>>. /  
+
++          B.10 utt1:  -- {C but } <noise> I know in some areas, [ [ [ it's really, + it, ] + it really is ] bad. /  
+
+sd          A.11 utt1:  <Lipsmack> {F Um, } I was trying to think, {F uh, } - /
+sd          A.11 utt2: something we were watching the other day - /
+sd          A.11 utt3: {C and } they were doing an overview of Los Angeles, {F uh, } from an area that was up higher  /
+sd          A.11 utt4: {C and } you literally could see the band of smog.  /
+%          A.11 utt5:  That, {F uh, } - /
+sd          A.11 utt6:  I've never been out there,  /
+sd          A.11 utt7: {C but, }   
+
+sd          B.12 utt1:  I haven't either. /  
+
++          A.13 utt1:  <Swallowing> [ it was, + it was ] quite evident <laughter> that,   
+
+ b         B.14 utt1:  Uh-huh. /  
+
++          A.15 utt1:  it was a real brown area  /
+ %         A.15 utt2: {C and, } -/  
+
+sv          B.16 utt1:  {D Well, } I think it would be terrible to live in an area like that  /
+sv          B.16 utt2: {C and, } unfortunately, I think there are a lot of areas that are, [ that, + that ] bad. /  
+
+b          A.17 utt1:  Yeah. /  
+
+sv          B.18 utt1:  Particularly in the areas where there are industries, {F uh, } where they are burning a lot of coal,   
+
+b          A.19 utt1:  # Yes. # /  
+
++          B.20 utt1:  # and oil # --   
+
+b          A.21 utt1:  Yeah <<very faint>>. /  
+
++          B.22 utt1:  -- [ up, + more up ] north, I guess, {F uh, }  /
+sv          B.22 utt2: I think it's a bigger problem.  With the car pollution, anti-pollution devices,  /
+sv          B.22 utt3: I think, {F uh, } air isn't as bad it once was, from the cars, because we certainly have plenty of cars in our area. /  
+
+b          A.23 utt1:  Yes.  /
+sd          A.23 utt2:  {D Well, } I know, {F uh, } that's been the concern in Europe.  /
+%          A.23 utt3:  They hadn't, - /
+sd          A.23 utt4:  {F uh, } we have friends in Germany and, {F uh, } <swallowing> have family that live near the Black Forest area  /
+sd          A.23 utt5: {C and } <sigh> large areas of the forest are being hurt from the cars because when we, [ s-, + {F uh, } switched ] to the unleaded gas [ and, + and ] had the emission control [ advice, + {F uh, } <laughter>, devices ] required on the cars, {F uh, }  /
+sd          A.23 utt6: that's something that Europe didn't do right away  /
+sd          A.23 utt7: {C and } now they're doing that  /
+sd          A.23 utt8: {C and } I guess it started in the last few years because they have found that in that particular part of the country, that's the only pollution that's been there.  /
+sd          A.23 utt9:  It's not an area that is industry  /
+sd          A.23 utt10: {C but } they were losing a lot of, {F uh, } trees # and a lot of, # -/  
+
+qy^d          B.24 utt1:  # From # acid rain? /  
+
+na          A.25 utt1:  {F Um, } I guess.  [ From, + from ] something that the car [ was, + {F uh, } # was ] giving, # /  
+
+sd          B.26 utt1:  # I think # [ it gives off, + {F uh, } in the emissions, it gives off ] gases which combine up in the atmosphere, {F uh, } and form [ a, + a ] weak acid. /  
+
+b          A.27 utt1:  # Yes,  /
+%          A.27 utt2: {C and, }  # -/  
+
+sd          B.28 utt1:  # It # just makes the rain fall on the acid side  /
+sd          B.28 utt2: {C and } after a period of time, I think that accumulates in, {F uh, } trees because they take it up through their roots, as well as it landing on the leaves, on surfaces,  /
+sd          B.28 utt3: {D like } you've seen what it's done to buildings even --     
+
+b          A.29 utt1:  Yes. /  
+
++          B.30 utt1:  -- where it's really bad. /  
+
+b          A.31 utt1:  Yeah. /  
+
+sd          B.32 utt1:  <Swallowing> What's interesting, several years ago, I took a course, {F uh, } on, {F uh, } <lipsmack> {D well, } - /
+sd          B.32 utt2: [ it was actually, + it was  ] put on by the power companies [ and, + ] about the various sources of energy and how much pollution there was,  /
+sd          B.32 utt3: {C and }  there wasn't from various kinds [ of, + of ] energy. - /
+sd          B.32 utt4: {C And, }  {F uh, } at that point in time, one person that was a speaker brought up the topic of acid rain  /
+sd          B.32 utt5: {C and } it was kind of pooh-poohed, {D you know. }  /
+sd          B.32 utt6: {F Oh, } you're making a mountain out of a molehill, kind of thing.  /
+sd          B.32 utt7:  {C And } it's turned out that, that's been very true, what he was forecasting about the accumulation [ of, + of ] the pollutants in the air and the acid rain and what it would do to foliage.  /
+sd          B.32 utt8: {C So, }  it's kind of interesting the change in perspective from when I took that course.  /
+sd          B.32 utt9:  Now, a lot of people are really afraid of nuclear.  /
+sd          B.32 utt10:  {F Uh, } I'm not afraid of nuclear, having had that course because of how the nuclear that, {F uh, } they use is not bomb quality,  /
+sd          B.32 utt11: {C and, }  we're so strict with all our controls in the United States. The chances [ of, + of ] an accident are slight,  /
+sd          B.32 utt12: {C and, }  it doesn't pollute the air at all.  <laughter>  /
+sd          B.32 utt13: It's safer to be around a nuclear plant then it is to be around a coal plant.  /
+sd          B.32 utt14:  Many more deaths have occurred in and dealing with coal plants then ever around nuclear plants.  /
+sd          B.32 utt15:  It's kind of funny because people are just petrified, at least some are, at the thought of nuclear. /  
+
+b          A.33 utt1:  Yes. /  
+
+h          B.34 utt1:  {C So, }  I don't know.  /
+sd          B.34 utt2: In Europe there's a lot of dependency on nuclear power  /
+sd          B.34 utt3: {C and } they recycle the fuel  /
+%          B.34 utt4: {C and then } instead [ of, + of, ] - /
+sd          B.34 utt5: some people are really afraid to recycle the fuel because they're afraid it could become, {F uh, } bomb quality.  <sigh>  /
+sv          B.34 utt6:  {C But, }  that's the only sensible thing to do, is recycle and  reuse the fuel and not store it down in the ground.  As far as I'm concerned, where it could eventually, perhaps, there's some problem, {F uh, } pollute the groundwater.  /
+h          B.34 utt7: {C So, }  I don't know what the answer is.  /
+sv          B.34 utt8: The best answer, of course, would be solar or, {F uh, } <static> fusion, or something clean <laughter>. /  
+
+b          A.35 utt1:  Yes. /  
+
+qy^g^c          B.36 utt1:  {D Well, } we've got a problem on the line, </static> don't we. /  
+
+ny          A.37 utt1:  Yeah.  /
+sd^c          A.37 utt2: [  I, + I ] get that sometimes, {F um, }  /
+sd          A.37 utt3: my line gets some static.  /
+sd          A.37 utt4: I don't # know why. # /  
+
+b          B.38 utt1:  # Uh-huh. #  /
+sv          B.38 utt2:  {C But, }  {F uh, } solar, of course, would be [ the clean, + the cleanest. ] /  
+
+%          A.39 utt1:  {D Well, } I know it's  ((   )) , {F um, } -/  
+
+x          B.40 utt1:  <Static>.   
+
+sd          A.41 utt1:  we did have a solar water heater when we lived in Houston  /
+sv          A.41 utt2: {C and, }  {F uh, } oddly enough I thought our part of the country was ideal. /  
+
+sd^c          B.42 utt1:  I can't hear you at all for all # this static. # /  
+
+sd^c          A.43 utt1:  # {F Oh. } <throat_clearing> # <noise> I don't know what to, <laughter> - /
+sd^c          A.43 utt2: usually it's the other phone I have trouble with.  /
+sd^c          A.43 utt3:  It must just,   
+
+x          B.44 utt1:  </Static>.   
+
++          A.45 utt1:  be on the line.  /
+qy^c          A.45 utt2:  Can you hear me? /  
+
+sd^c          B.46 utt1:  Now I can again. /  
+
+b          A.47 utt1:  Okay. /  
+
+x          B.48 utt1:  <Static>.   
+
+sd^c          A.49 utt1: [ I don't know what, + {F uh, } [ I, + I ] don't know what ] the problem is  /
+sd          A.49 utt2: {C but, }  {F uh, } when we lived in Houston we had a solar water heater  /
+sd          A.49 utt3: # {C and } # --   
+
+b@          B.50 utt1:  # Uh-huh. #   
+
++          A.51 utt1:  -- we had thought this part of the country would be ideal for <noise> solar homes and solar energy  /
+sd          A.51 utt2: {C and } we have enough clouds that, {F uh, } there are other areas that would be better suited.  /
+sd          A.51 utt3:  That surprised me because I think,   
+
++@          B.52 utt1:  </Static>.   
+
++          A.53 utt1:  we have a tremendous amount of, {F um, } sunny days. /  
+
+b          B.54 utt1:  Uh-huh. /  
+
+%          A.55 utt1: [ {C And, } +  {C and } ] it, - /
+b          A.55 utt2: yes,  /
+sd          A.55 utt3: it can be used  /
+sd          A.55 utt4: {C and } it can help  /
+sd          A.55 utt5: {C but, }  {F uh, } that was a problem that they were still working on.  /
+%          A.55 utt6:  {C But, } -/  
+
+b          B.56 utt1:  {F Oh } yeah.  /
+sv          B.56 utt2: [  It, + it's ] still got a long way to go. /  
+
+%          A.57 utt1:  # {D Well } I, # -/  
+
+sv          B.58 utt1:  # It's just, # {D you know, } a possible solution --   
+
+b          A.59 utt1:  Yes. /  
+
+ +         B.60 utt1:  -- in the future, I think, maybe to help in some ways.  /
+sd          B.60 utt2:  It may not in all ways.  /
+sd          B.60 utt3:  Maybe they'll come up with fusion.   <Lipsmack> {D You know, } [ con-, +  be able to control  ] it.  /
+sd          B.60 utt4: I don't know how long that'll take,  /
+sv          B.60 utt5: {C but, }  <laughter> one of these days, - /
+sv          B.60 utt6: {C because } that's perfectly clean. /  
+
+b          A.61 utt1:  Yes. /  
+
+sd          B.62 utt1:  It's just we can't control it.  /
+sd          B.62 utt2:  Right now it takes more energy to cause fusion to occur then you get out,  /
+%          B.62 utt3: {C so, }  it isn't, not at all, - /
+sd          B.62 utt4: {C and } you can't control it unless you gotten a huge electromagnetic field,  /
+sd          B.62 utt5: {C so } that's not going to work.  At least not now.  /
+sv          B.62 utt6: {C But, }  {F uh, } <static> who knows what the future will hold.  {F Uh, } as far as energy goes,  /
+sv          B.62 utt7: [ I, + I ] think, <sigh> with solving some of the [ energy, + future energy ] problems, we'll probably solve some of the pollution problems as well. /  
+
+ba          A.63 utt1:  {F Uh, } I hope so <laughter>. /  
+
+sd          B.64 utt1:  I do to.  /
+sd          B.64 utt2: <laughter> I like to be optimistic,  /
+sd          B.64 utt3: I don't like to be pessimistic <laughter> about these things. /  
+
+%          A.65 utt1:  {D Well, } I do think, {F um, } - /
+sv          A.65 utt2: {E I mean, } you've already mentioned several things, I think, {F uh, } just the change in attitude and the fact that more people are aware there is a problem and more people are interested in, {F uh, } -/  
+
+sv          B.66 utt1:  We have one earth,    
+
+b          A.67 utt1:  Yes <<very faint>>. /  
+
++          B.68 utt1:  to live on  /
+sv          B.68 utt2: {C and } we got to take care of it. /  
+
+b          A.69 utt1:  Yes.  /
+sv          A.69 utt2: # {D Well, } # --   
+
+b          B.70 utt1:  # Uh-huh. # /  
+
++          A.71 utt1:  -- [ {C and, } +  {C and } ] for the future generations, too.  {F Uh, } /  
+
+sd          B.72 utt1:  I've noticed [ students [ are, + are ] much more, + {D you know, }  [ young, + young ] people are much more  ] receptive to ideas about the environment --   
+
+b          A.73 utt1:  # Yes. # /  
+
++          B.74 utt1:  -- # and # protecting the earth.  /
+sv          B.74 utt2:  {C And so, } if we can raise [ it, + ] {F uh, } {D you know, } generations with those concerns, we'll solve a lot of our problems.  /
+%          B.74 utt3: I'm afraid, - /
+sd          B.74 utt4: I know I was part of the me generation where [ [ they didn't, +  ((   ))  so  many of them didn't, ] + people didn't ] care.  /
+%          B.74 utt5:  {D You know, }  /
+%          B.74 utt6: it's whatever, {D you know, } - /
+^q          B.74 utt7:  recycle, {D well, } if it's a problem, forget that.  /
+^q          B.74 utt8: {F Uh, } not throw the trash out the car window  /
+^q          B.74 utt9: {C and } leave it in the car and then throw it away?  /
+sv          B.74 utt10:  How horrible, <laughter> {D you know. } /  
+
+x          A.75 utt1:  <Laughter>.   
+
+sd          B.76 utt1:  {D Now, } I've always done those kinds of things because I just didn't like  messes,  /
+%          B.76 utt2: {C and } <<voices fade off>> ... -/ 

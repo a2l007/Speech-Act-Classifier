@@ -1,0 +1,424 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2252_1078_1140
+TOPIC#:		338
+DATE:		910325
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	4
+TOPICALITY:	2
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        This was rather difficult because both speakers'
+conversations were very disjointed. 
+
+===========================================================================
+  
+
+qy          A.1 utt1:  {D Well, } what is your view, do you consider the Soviet Union a threat? /  
+
+ng          B.2 utt1:  I don't know that it's so much a military threat anymore as a, - /
+sv          B.2 utt2: <laughter>, {D well, } {D you know, } [ it's, + it's ] real confusing right now to know what kind [ [ of a, + of, ] + of a ] threat it is, I guess, /  
+
+b          A.3 utt1:  Sure. /  
+
+sv          B.4 utt1:  [ it, + it ] takes awhile [ to, + to ] get used to something,  /
+%          B.4 utt2: {D you know, } [ if, + if ] they have completely chain-, - /
+sv          B.4 utt3: [ on + ] the, place has completely turned that much around to where they're [ not, + {D you know, } not ] what they used to be, /  
+
+b          A.5 utt1:  Right. /  
+
+%          B.6 utt1:  {F uh } <laughter>. /  
+
+sv          A.7 utt1: [ It's, + it's ] hard [ to, + to ] know anymore if it's [ a, + a ] threat one way or another because, {F uh, } it used to be [ s-, + ] so, [ f-, + ] much in the past that whatever the top said the rest fell, {D you know, } rank and file in behind it. /  
+
+ b         B.8 utt1:  Uh-huh. /  
+
+sv          A.9 utt1:  {C And } now that with Gorbachev is introducing more, I guess, [ freedoms + {E or }  expressions of freedom, ] it doesn't look as though, {D you know, } everybody's following the same pattern. /  
+
+b          B.10 utt1:  Yeah. /  
+
+%          A.11 utt1:  {C And, }  those, - /
+sv          A.11 utt2: the people who are, {D you know, } the staunch military conservative people, - /
+sv          A.11 utt3: you never know, {D well, } Gorbachev's future is like [ whereas, +   
+
+b          B.12 utt1:  Yeah. /  
+
++          A.13 utt1:  whereas ] in the past it was seen as, {D you know, } whoever was the head of [ the, + the ] communist party was seen as, {D you know, } untouchable. /  
+
+b          B.14 utt1:  Yeah.  /
+%          B.14 utt2:  I thi-, - /
+b^r          B.14 utt3: yeah,  /
+sv          B.14 utt4: the thing that keeps happening is happening so fast and so, {F uh, } dramatic that you almost think, now wait a minute, {D you know, } we're getting stuck into something here, {D you know, }  /
+ sv         B.14 utt5: [ if, +   
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  if ] somebody's about [ to, + to ] clobber you, the first thing they do is sort of say, {D well, } {D you know, } [ we're, + we're ] ashamed, we're not going to do that anymore. /  
+
+ba          A.17 utt1:  Exactly. /  
+
+sd          B.18 utt1:  {C And, }  {F uh, } <throat_clearing>, {F um, } {D you know, } [ I'd, + I'd ] like to think that that isn't true  /
+%          B.18 utt2: {C but } [ I, + I, ] - /
+sv          B.18 utt3: {D you know, } the evidence is that, {F uh, } {D you know, } [ he's, + he's ] let [ some, + some ] stuff go, {D you know, } the east German situation. /  
+
+b          A.19 utt1:  Right. /  
+
+sv          B.20 utt1:  It's just the whole thing is so incomprehensible,  /
+sd          B.20 utt2: {D you know, } if I'd have been asleep for five years,   
+
+x          A.21 utt1:  <Laughter>.   
+
++          B.22 utt1:  and read it in a book, I said, [ [ no, + no, ] + no, ] that [ didn't, + couldn't ] have happened that way. /  
+
+b          A.23 utt1:  Right.  /
+sv          A.23 utt2:  {D Well, } it's amazing just because of the drain that's been on, {D you know, } both economies that our economy [ is, + ] of course, been able to, {F uh, } withstand that a little better, /  
+
+b          B.24 utt1:  Uh-huh. /  
+
+sv          A.25 utt1:  {C but, }  {F uh, } the Russian economy - /
+%          A.25 utt2: [ they, + {D you know, } they, ] - /
+h          A.25 utt3: I don't know what the percentages are,  /
+sd          A.25 utt4: {C but } I heard it one time,  /
+sd          A.25 utt5: it's just some ungodly number just to support the military machine. /  
+
+b          B.26 utt1:  <<Very faint>> Uh-huh,  /
+b^r          B.26 utt2: uh-huh. /  
+
+%          A.27 utt1: {C And } finally, {D you know, } who knows  /
+sv(^q)          A.27 utt2: maybe they're finally waking up {C and } saying, {D you know, } we can't afford this.  /
+sv          A.27 utt3: {F Uh, } the U S isn't the threat that we've always made them out to be,   
+
+b          B.28 utt1:  Uh-huh. /  
+
++          A.29 utt1:  {D you know, } even if they're saying that beneath the doors.  /
+sv          A.29 utt2: {C But } it's hard to thing that just one person can bring that much of a radical change in that  short of period. /  
+
+ b         B.30 utt1:  Yeah. /  
+
+sv          A.31 utt1:  Even if it is, {D you know, } the best thing in the long run,  it just steps on too many people's toes,   
+
+b          B.32 utt1:  Yeah. /  
+
++          A.33 utt1:  who are comfortable with the way the situation is. /  
+
+b          B.34 utt1:  Yeah,  /
+sv          B.34 utt2: [ I, + I ] think, {D you know, } what I'd have to, - /
+sv          B.34 utt3: [ [ I, + I  gues-, ] + I guess ] to answer the question directly, I'm still just [ a, + a ] little bit, {D you know, } leery of the whole thing. /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sv          B.36 utt1:  What I haven't seen is [ the, + ] {F uh, } {D you know, } a great stepping back in the military,   
+
+b          A.37 utt1:  Right. /  
+
++          B.38 utt1:  situation.  /
+sv          B.38 utt2:  {D You know, } [ it's, + it's ] one thing, {D you know, } to let us go ahead and sort of disarm  /
+sv          B.38 utt3: {C and, } {D you know, } I even had a thought once that the whole Iraqi thing might have been just [ a, + a ] deal to go ahead and let us, {F uh, } {D you know, }   
+
+^2          A.39 utt1:  Expend? /  
+
++          B.40 utt1:  expend [ some, + some ] military hardware.  /
+sd          B.40 utt2: Of course, it didn't turn out that way. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+sv          B.42 utt1:  {C And, }  {F uh, } {F uh, } [ that, + that ] may have been [ [ a, + a, ] + a ] kind of far out way of thinking about it I don't know. /  
+
+sv          A.43 utt1:  {D Well, } it's interesting, anymore the world's getting so small that it doesn't seem to tolerate anymore any kind of the expansionism,   
+
+b          B.44 utt1:  Uh-huh. /  
+
++          A.45 utt1:  philosophy [ that, + that ] was here [ in, + ]   
+
+b          B.46 utt1:  <<Very faint>> Yeah. /  
+
++          A.47 utt1:  {D you know, } twenty years ago.  /
+sv          A.47 utt2:  {F Uh, } {C but, }  of course, the people who have challenged that or tried to do, [ on-, + ] [ have cor-, + have ] not been world powers.  /
+sv          A.47 utt3: {C So, }  it's easier for us to say, {D you know, } to an Iraq, {D you know, }   
+
+b          B.48 utt1:  Uh-huh. /  
+
++          A.49 utt1:  {F uh, } you can't do this, get back, {D you know, } or we're going to force you. /  
+
+b          B.50 utt1:  Yeah,  /
+^2          B.50 utt2: [ {C or, } +  {C or } ] we can do something about it.  /
+b^r          B.50 utt3:  Yeah. /  
+
+sv          A.51 utt1:  Whereas, {D you know, } if the Soviet Union would have, who knows what taking over Mongolia [ or, + or ] something like that, [ who is really, + ] will we have been more just rhetoric,   
+
+b          B.52 utt1:  Uh-huh. /  
+
++          A.53 utt1:  {F uh, } rather than going in there officially or, {D you know, }   
+
+b          B.54 utt1:  Yeah. /  
+
++          A.55 utt1:  physically and try [ to, + to ] remove them. /  
+
+sv          B.56 utt1:  {D Well, } [ the, + the ] China situation, {D you know, } the when, it looked like that thing [ was, + was ] turning around  /
+sv          B.56 utt2: {C and } all of a sudden it was like somebody [ in the, + in the ] Red Square or wherever said, okay,  /
+sv          B.56 utt3: {C and } that's enough. /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+sd          B.58 utt1:  {C And } the tanks came in  and,    
+
+aa          A.59 utt1:  Exactly. /  
+
++          B.60 utt1:  {D you know, } pretty much took care of that.  /
+%          B.60 utt2:  {C And, } -/  
+
+b          A.61 utt1:  Yeah,  /
+%          A.61 utt2: {F uh, } that, - /
+sv          A.61 utt3: ((   ))  personally I don't see as Gorbachev as being maybe a threat,  /
+sv          A.61 utt4: {C and } I think he's actually, honestly trying to do some change. /  
+
+b          B.62 utt1:  <<Very faint>> Uh-huh. /  
+
+sv          A.63 utt1:  {C But } I don't believe that he, in this first pass around, {D you know, } being the first one to really turn things around or attempt to is going to be allowed to get away with it either. /  
+
+b          B.64 utt1:  Yeah.  /
+sv          B.64 utt2: {D Well, } this would be like if somebody was elected president of the United States and suddenly took off toward, {D you know, } just some pretty hard by the socialism, /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+%          B.66 utt1:  {C and, }  {F uh, } {D you know, } [ the, + the ] reaction, {F uh, } <throat_clearing> - /
+%          B.66 utt2: {D you know, } [ the, + the ] economic, - /
+sv          B.66 utt3: {D well, } [ the, + {F uh, } the ] social structure of the Soviet Union, {D you know, } [ [ it, + it's, ] + it's ] coming apart at the seams. /  
+
+b         A.67 utt1:  Uh-huh. /  
+
+sd(^q)          B.68 utt1:  {D You know, } {C and } I've heard people say, {D well, } {D you know, } it's just like the American Civil War, will there be a union or not?  /
+sv          B.68 utt2:  {D Well, } no,  /
+sv          B.68 utt3: it's not the same sort of a thing at all because that, the whole Soviet system was put together under total force,  /
+%          B.68 utt4: {D you know, } there was no, - /
+sv          B.68 utt5: [ as, + as ] we are seeing now with a lot of those,   
+
+b          A.69 utt1:  Right. /  
+
++          B.70 utt1:  areas wanting out of it, /  
+
+b          A.71 utt1:  Uh-huh. /  
+
+%          B.72 utt1:  {D you know, } they, {F uh, } nobody vo-, - /
+%          B.72 utt2: {D you know, } a lot - /
+sd          B.72 utt3: (( man )) , those people didn't vote to become part of the Soviet Union,  /
+sd          B.72 utt4: they had no choice. /  
+
+b          A.73 utt1:  Yeah,  /
+sv          A.73 utt2: that was always kind of interesting,  /
+%          A.73 utt3: people, - /
+sd          A.73 utt4: {D you know, } a lot of my friends have  [ a + ] taken us down, the stance of, {D you know, } these people are just trying to be free and trying to get away  /
+sd          A.73 utt5: {C and } I'm thinking more of it from a nationalistic,  /
+sd          A.73 utt6: {D you know, } if I'm a Soviet and if part of, {D you know, } south, let's say South Dakota wanted to [ succ-, + {D you know, } succeed, ] am I going to stand for that. /  
+
+b          B.74 utt1:  Yeah. /  
+
+sd          A.75 utt1:  {D Now } I realize that the origins [ are, + are ] different and that we all joined under a common direction and a common bond to begin with,   
+
+b          B.76 utt1:  Uh-huh. /  
+
++          A.77 utt1:  and that they may have been forced, I'm not that familiar with their future,  /
+%          A.77 utt2: {C but } [ I, + {D you know, } I, ] - /
+sv          A.77 utt3: it's easy to believe that they were probably more forced into a pact than, {F uh, } a volunteer or willingness to join. /  
+
+b          B.78 utt1:  Yeah. /  
+
+%          A.79 utt1:  {C But, } -/  
+
+sd         B.80 utt1: [ There, + there ] was the whole thing was put together, {D you know, } by force.  /
+sv          B.80 utt2: [ There's, + there's ] [ no, + no ] real question about that. /  
+
+b          A.81 utt1:  Uh-huh. /  
+
+sd          B.82 utt1:  {C And } some of the countries that were forced in at [ th-, + ] later dates is the three Baltic countries, {D you know, } came [ in, + in ] the forties, /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  {C and, }  {F uh, } [ it's, + {D well, } it's ] not that they came in, it's they were conquered by the Germans, /  
+
+sd          A.85 utt1:  {C And then, }   
+
+^2          B.86 utt1:  {C and then } the Russians even,   
+
++          A.87 utt1:  just never given back. /  
+
++          B.88 utt1:  took it back from the Germans and never bothered to give it back,   
+
+aa          A.89 utt1:  Yep. /  
+
++          B.90 utt1:  {D you know, }  /
+sv          B.90 utt2: {C so. }  That's a,   
+
+%          A.91 utt1:  {D Well, } that whole a, -/  
+
++          B.92 utt1:  a little different situation. /  
+
+sv          A.93 utt1:  the whole [ i-, + idea ] if you look at the Russian history  {A and I guess all countries the way it used to be } is, the only way to truly protect your borders was to have a buffer. /  
+
+b          B.94 utt1:  Uh-huh. /  
+
+sv          A.95 utt1:  {C And } that was the whole idea why they had so many buffers  /
+sv          A.95 utt2: {C and } maybe, {D you know, } more and more people are seeing, {F oh, } countries hopefully are seeing that that buffer isn't going to help you,  /
+%          A.95 utt3: you can, - /
+sv          A.95 utt4: {D well, } I guess {D like, }   
+
+b          B.96 utt1:  Yeah. /  
+
++          A.97 utt1:  with, {F uh, } Israel is a perfect example.  /
+sv          A.97 utt2: The reason they have the (( Angolan Heights ))  and [ [ the, + the, ] + ] {F uh, } all their buffer area is between Jordan and [ the, + the ] Sinai [ and, + and ] Lebanon was just as a buffer  /
+sd          A.97 utt3: {C but, } {D you know, } as you can see with [ the, + the ] scuds go right over there. /  
+
+b          B.98 utt1:  Uh-huh.  /
+b          B.98 utt2:  Yeah,  /
+sd          B.98 utt3: they don't really pay a whole lot of attention to buffers. /  
+
+b          A.99 utt1:  Yeah,  /
+sv          A.99 utt2: [ there's, + there's ] very little [ that, + that ] binds you anymore in today's technology. /  
+
+sd          B.100 utt1:  I knew a lot of guys in the service when they were sent to Germany they said that's the safest place in the world because if a war starts, all the bombs are going to go right over Germany  /
+sd          B.100 utt2: {C and } they're going to land in other places, /  
+
+x          A.101 utt1:  <Laughter>.   
+
+sd          B.102 utt1:  {D you know, } that's going to be the safest place to be. /  
+
+ba          A.103 utt1:  That's probably very true.  /
+%          A.103 utt2:  Ve-, - /
+sv          A.103 utt3: that's very interesting, never thought of that. /  
+
+b          B.104 utt1:  Yeah,  /
+sd          B.104 utt2: {D well, } {F uh, } [ I, + I ] guess, what they'd have to do to, - /
+h          B.104 utt3: I really don't know,  /
+sv          B.104 utt4: {D you know, } [ in, + in ] the, [ in, + ] {D you know, } I hope that what's happening is exactly the way it appears. /  
+
+ b         A.105 utt1:  Uh-huh. /  
+
+ sv(^q)         B.106 utt1:  {D You know, } some reason or other, {D you know, } is, {F uh, } it's kind of a strange thing we've been trying to make something like this happen for so long that when it finally happens you say,   
+
+sv          A.107 utt1:  Nobody knows what to do. /  
+
++          B.108 utt1:  whoa, wait a minute,  /
+qh          B.108 utt2: {D you know. } [ [ What's, + {F uh, }   
+
+bh          A.109 utt1:  Is it real? /  
+
++          B.110 utt1:  what's, ] +  what's ] really happening here. /  
+
+b          A.111 utt1:  Uh-huh. /  
+
+sv          B.112 utt1:  {C But } you wonder how, {D well, } this thing, - /
+sd          B.112 utt2: [ w-, + who, ] was it Boris Yeltsin, [ the guy that's running the, + ] {F uh, } [ or + ] evidently was elected president of the Soviet,   
+
+b          A.113 utt1:  Right. /  
+
++          B.114 utt1:  for the Russian republic,   
+
+aa          A.115 utt1:  Exactly. /  
+
++          B.116 utt1:  which is, I guess, the, {F uh, } the biggest, /  
+
+sd          A.117 utt1:  I get confused between [ all the, + ] which is the Soviet provinces versus which are [ the, + the ] Russian provinces,   
+
+b          B.118 utt1:  Uh-huh. /  
+
++          A.119 utt1:  versus what are, -/  
+
+sd          B.120 utt1:  {D Well, } in the center - /
+sd          B.120 utt2: {C but } you got [ a, + the, ] the great big area that's [ just, + ] was traditionally known as Russia  /
+sd          B.120 utt3: {C and then } all these little nationality groups,   
+
+b          A.121 utt1:  Uh-huh. /  
+
++          B.122 utt1:  around it, {D you know, } [ that were, + ] {D you know, } was there nineteen of them [ or, +  or ] whatever,  /
+sd          B.122 utt2: {D you know, } {C and } these were all the Soviet economists,  (( [ us + ] ))  {D you know, } they had some real fancy names for them. /  
+
+b          A.123 utt1:  Right. /  
+
+%          B.124 utt1:  Matter of fact when the, - /
+b          B.124 utt2: {F uh, } <throat_clearing> yeah,  /
+sd          B.124 utt3: what I read when the, {F uh, } [ lee-, + ] {F uh, } United Nations was setup [ in, + in ] San Francisco, one of the first things the Russians wanted to do was bring in each one [ of the, + {F uh, } of these, ] {D you know, } republics,   
+
+^2          A.125 utt1:  {F Oh, } as a, -/  
+
++          B.126 utt1:  as a separate country,  /
+sd          B.126 utt2: {D you know, }   
+
+ ^2         A.127 utt1:  as a vote. /  
+
++          B.128 utt1:  {C so } [ there would be, + there would be ] nineteen,   
+
+b          A.129 utt1:  Sure. /  
+
++          B.130 utt1:  rather than one. /  
+
+b          A.131 utt1:  Sure. /  
+
+sd(^q)          B.132 utt1:  {C And, }  {F uh, } the United States said, {D well, } that mean we get to bring in forty-eight, {D you know. } /  
+
+x          A.133 utt1:  <Laughter>.   
+
+%          B.134 utt1:  {C And, }  {F uh, } that sort of, - /
+sd          B.134 utt2: {D you know, } they backed down on that. /  
+
+^2          A.135 utt1:  Died down on that.  /
+sd          A.135 utt2: I thought it was interesting that recently here the Warsaw Pact no longer exists as a [ militor-, + ] military force,  /
+sd          A.135 utt3: {C but } it's merely an economic now. /  
+
+b          B.136 utt1:  Yeah,  /
+%          B.136 utt2: {D well, } wonder if that <laughter>, -/  
+
+%          A.137 utt1:   (( {D Well, } {E I mean } at )) , -/  
+
+qh          B.138 utt1:  wh-, {F uh, } w-,   
+
+b          A.139 utt1:  Yeah,  /
+aa          A.139 utt2: exactly. /  
+
++          B.140 utt1:  what do you get shot by something that's called [ a, + an ] economic force or  what is called a military pact,  /
+%          B.140 utt2: {D you know, } it's all, - /
+sd          B.140 utt3: you can change the name of something  /
+sd          B.140 utt4: {C but } I wonder if it's still, exists. /  
+
+b          A.141 utt1:  Uh-huh. /  
+
+sd          B.142 utt1:  Although, I've seen some evidence that, {D you know, } the, {F uh, } the Russian soldiers are, - /
+%          B.142 utt2: {D well, } you, - /
+sv          B.142 utt3: the funny thing there is they're not particularly welcome back home because  [ there's, + ] they're having housing shortages now.  /
+qh          B.142 utt4:  What do you do with all these troops that have been taken care of by, {F uh, } Bulgaria [ and, +    
+
+aa          A.143 utt1:  Exactly  /
+%          A.143 utt2: [ {C and, } +  {C and } ] all the, -/  
+
++          B.144 utt1:  and ] Czechoslovakia  /
+sd          B.144 utt2: {C and } now all of a sudden they're going home  /
+sd          B.144 utt3: {C and } somebody's got to pay for their, -/  
+
+sd          A.145 utt1:  {D Well, } that's what they're saying the whole problem, {D you know, } with, if we were to demilitarize Europe,  /
+qh         A.145 utt2: <cough>, what are we going to do with all the soldiers over there? /  
+
+b          B.146 utt1:  Yeah.  /
+%          B.146 utt2:  {D Well, } that's not, -/  
+
+qh          A.147 utt1:  What's going to happen to the economies that are no longer have [ a, + a ] million plus people [ in the indu-, + {D you know, }     
+
+b          B.148 utt1:  Yeah. /  
+
++          A.149 utt1:  in each country ] from the U S ... / 

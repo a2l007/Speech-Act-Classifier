@@ -1,0 +1,480 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2469_1018_1026
+TOPIC#:		364
+DATE:		910405
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+o          @A.1 utt1:  Okay,  /
+qo          @A.1 utt2: what kind of hobbies do you have? /  
+
+sd          B.2 utt1:  {F Um, } mostly what I do, - /
+sd          B.2 utt2: I [ do + do ] some crafts like it mentioned in the thing,  /
+sd          B.2 utt3: {C and then } [ I, + I ] read a lot. /  
+
+b          A.3 utt1:  Uh-huh.  /
+sd          A.3 utt2: I like to read, too <laughter>.  /
+sd          A.3 utt3:  I was trying to think of some [ while, + while ] it was, {F uh, } talking about it,  /
+%          A.3 utt4: {C and then } I, - /
+sd          A.3 utt5: it took so long for someone to answer,  /
+sd          A.3 utt6: I started reading the --   
+
+b          B.4 utt1:  Oh. /  
+
++          A.5 utt1:  -- newspaper, and kind of forgot about it <laughter>. /  
+
+x          B.6 utt1:  <Laughter>.   
+
+b          A.7 utt1:  {C But, }  {F uh, } yeah,  /
+sd          A.7 utt2: I'd say reading is probably one of my biggest ones, because it's the type of thing that [ you can, + you can ] do a little bit at a time,  whereas, I would love to do crafts and stuff if I just had the time to do it  --   
+
+b          B.8 utt1:  Uh-huh. /  
+
++          A.9 utt1:  -- or if I had the space.  /
+sd          A.9 utt2:  I live in a pretty small apartment,  /
+sd          A.9 utt3: {C and, }  {F uh, } I would have to, {D you know, } put stuff away.  /
+sd          A.9 utt4:  I have two cats,  /
+sd          A.9 utt5: {C so } I couldn't really leave it out if I was working on something. /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+sv          A.11 utt1:  Reading is a little bit easier to work around. /  
+
+aa          B.12 utt1:  Yeah,  /
+sv          B.12 utt2: you can pick it up and take it wherever you go.    
+
+aa          A.13 utt1:  That's right. /  
+
++          B.14 utt1:   ((   ))  any  ((   ))  space.  /
+sd          B.14 utt2: I get too involved in reading sometimes that I neglect what I should be doing. /  
+
+aa          A.15 utt1:  That's true,  /
+sd          A.15 utt2: I do the same thing <laughter>. /  
+
+sv          B.16 utt1:  <Laughter> You get so involved in what you're reading. /  
+
+qo          A.17 utt1:  What types of crafts do you do? /  
+
+sd          B.18 utt1:  I do a little bit of woodworking,  /
+sd          B.18 utt2: {D well, } I used to.  /
+sd          B.18 utt3:  I don't have the equipment here.  /
+sd          B.18 utt4:  We moved to Dallas about a year ago -- /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sd          B.20 utt1:  -- {C and } my dad had a lot of woodworking equipment -- /  
+
+b          A.21 utt1:  Uh-huh. /  
+
+sd          B.22 utt1:  -- {C and } I did some of that.   {F Um, }  /
+sd          B.22 utt2: here I've mostly done things that I can do strictly by hand, {F um, } sewing and quilting and, {F um, } - /
+t1          B.22 utt3: <<pause>> what else have I done <laughter>?   /
+sd          B.22 utt4: Things to hang on the wall. /  
+
+b          A.23 utt1:  Uh-huh. /  
+
+sd          B.24 utt1:  Mostly just stuff that I can, {D you know, } use right around the house --   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  -- or give away as gifts. /  
+
+b          A.27 utt1:  Right. /  
+
+sd          B.28 utt1:  I've been making a lot of quilts, {D well, } not a lot, but several quilts lately. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+%          B.30 utt1:  {D So. } -/  
+
+sd          A.31 utt1:  I enjoy, {F uh, } sewing and needlework also.  /
+sd          A.31 utt2: [ I've, + I've, ] {F uh, } made some small things, cross stitch things.  /
+sd          A.31 utt3:  {C And, }  {F um } --   
+
+b          B.32 utt1:  Uh-huh. /  
+
++          A.33 utt1:  -- back when I was in high school, I worked at a needlework shop,  /
+sd          A.33 utt2: {C and } [ I, + I ] used to do the latch hook rugs and needlepoint and things like that,  /
+sd          A.33 utt3: {C and } [ I, + I ] still remember how to do it.  /
+sd          A.33 utt4:  It's just been so long since I've actually sat down and taken the time to do something like that.  /
+sd          A.33 utt5: {C But } I have recently done some cross stitch. /  
+
+b          B.34 utt1:  Uh-huh. /  
+
+sd          A.35 utt1:  {C And } I enjoy doing that.  /
+sv          A.35 utt2: It's just the same old thing,  /
+sv          A.35 utt3: it's just getting the time to do it <laughter>. /  
+
+aa          B.36 utt1:  Yeah.  /
+sd          B.36 utt2: I've done some [ cross, + {F um, } cross ] stitch,  /
+sd          B.36 utt3: {C but } I never count right,  /
+sd          B.36 utt4: {C and } I always have to either take it out or have my picture slightly off centered  --   
+
+b          A.37 utt1:  Uh-huh <laughter>. /  
+
++          B.38 utt1:  -- [ or, + or ] something.  /
+sd          B.38 utt2:  It never has worked out completely. /  
+
+b          A.39 utt1:  Yeah,  /
+sv          A.39 utt2: it takes a lot of concentration.  /
+sd          A.39 utt3:  {E I mean, } it was the type of thing,  /
+sd          A.39 utt4: [ I was, + I was ] making some little things for Christmas,  /
+sd          A.39 utt5: {C and } I also made a little thing for a baby gift,  /
+sd(^q)          A.39 utt6: {C and, }  {F uh, } I thought, {F Oh, } I can do this while I watch T V.  /
+sd          A.39 utt7: Wrong <laughter>. /  
+
+b          B.40 utt1:  <Laughter>  Right. /  
+
+ar          A.41 utt1:  No,  /
+sv          A.41 utt2: you must pay all attention to what you're doing.  /
+sv          A.41 utt3: [  It's, + it is ] a lot more difficult than it seems like it would be.  /
+sd          A.41 utt4: It took me, {F uh, } quite a bit of time.  /
+sd(^q)          A.41 utt5: I though, {F Oh, } this won't take long at all.  /
+sd          A.41 utt6: {C But } --   
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  -- I was wrong.   /
+sd          A.43 utt2: [ It took, + it took ] a while to do.  /
+sd          A.43 utt3: {C But, }  it was fun,  /
+sd          A.43 utt4: I  enjoyed it. /  
+
+b          B.44 utt1:  Yeah.  /
+sd          B.44 utt2: The first project I started out one was a big one,  /
+sd          B.44 utt3: [ it was, + {F uh, } it was ] of a lady  /
+sd          B.44 utt4: {C and } she was kneeling,  /
+sd          B.44 utt5: {C and } it was about fifteen by twenty maybe. /  
+
+ba          A.45 utt1:  {F Oh } my gosh. /  
+
+%          B.46 utt1:  {C And } I, - /
+sd          B.46 utt2: it was just too much to start with.  /
+sd          B.46 utt3:  {C And } I still haven't finished it, because [ I, + I ] stopped,  /
+sd(^q)          B.46 utt4: {C and } I thought I better do some simple things and  work up to this --   
+
+b          A.47 utt1:  Uh-huh. /  
+
++          B.48 utt1:  -- because it was just so difficult --    
+
+b          A.49 utt1: Yeah. /  
+
++          B.50 utt1:  -- to get it done.  /
+sd          B.50 utt2:  {C And } there were so many different shadings and colors,  /
+sd          B.50 utt3: [ {C and, } +  {C and, } ] it was just too much to begin with.  /
+sd          B.50 utt4: {C And } I think kind of discouraged me from doing much more <laughter> with it. /  
+
+b          A.51 utt1:  Yeah.  /
+ba          A.51 utt2: That's pretty understandable. /  
+
+sd          B.52 utt1:  {C And } I've done some of the crewel  and [ the, + ] {F um } --   
+
+b          A.53 utt1:  Uh-huh. /  
+
++          B.54 utt1:  -- something similar to that  /
+sd          B.54 utt2: {C but } it doesn't have the specific stitches.  /
+sd          B.54 utt3: Anyway, it's a little bit more loose,  and not quite as structured,  /
+sd          B.54 utt4: {C and } I like  that a little bit better --    
+
+b          A.55 utt1:  Uh-huh. /  
+
++          B.56 utt1:  -- the variety of stitches and stuff in that.  /
+sd          B.56 utt2:   More like embroidery or  something. -/  
+
+sd          A.57 utt1:  <<Pause>> I'm trying to think of anything else I do as a hobby.  {F Um. }  I don't even watch T V very much.  /
+sd          A.57 utt2: I was tonight,  /
+%          A.57 utt3: {C but } <laughter>, -/  
+
+b          B.58 utt1:  Yeah.  /
+sd          B.58 utt2: I was reading when you called. /  
+
+b          A.59 utt1:  Yeah. /  
+
+qo          B.60 utt1:  How about movies,  /
+qy          B.60 utt2: do you like to go to movies? /  
+
+ny          A.61 utt1:  Yeah  /
+sd^e          A.61 utt2: [ I do, + I do ] like to go to movies,  /
+sd          A.61 utt3: {C and } I have a V C R,  /
+sd          A.61 utt4: {C so } I like to rent movies,  /
+sd          A.61 utt5: {C and, }  {F um, } [ I have, + right now I have ] the movie channel,  /
+sd          A.61 utt6: {C so } I've recorded quite a few movies off of that.  {F Um, }  /
+sd          A.61 utt7: just, I've kind of got a collection going of tapes now,  /
+sd(^q)          A.61 utt8: {C and } whenever I go visit my parents, they're always saying, {D Well, } bring some of your tapes <laughter>. /  
+
+x          B.62 utt1:  <Laughter>.   
+
+sd          A.63 utt1:  They always borrow a few of them.  /
+sd          A.63 utt2:  I was over there,  /
+sd          A.63 utt3: they live in Duncanville -- /  
+
+b          B.64 utt1:  Uh-huh. /  
+
+sd          A.65 utt1:  -- {C and } I was over there at Easter,  /
+sd(^q)          A.65 utt2: {C and } they said, Bring some tapes with you.  /
+sd          A.65 utt3: {C So } they are always borrowing my tapes. /  
+
+b          B.66 utt1:  Yeah. /  
+
+%          A.67 utt1:  {C But, }  {F uh, } -/  
+
+%          B.68 utt1:  {D Well } we, -/  
+
+sd          A.69 utt1: [ I like to, + I like to ] do, {F uh, } stuff with plants.  /
+sd          A.69 utt2: [ I like, + {F um, } I have ] a lot of plants in my apartment,  /
+sd          A.69 utt3: {C and } I've got a pretty small porch,  /
+%          A.69 utt4: {C but } [ it's, + it's, ] {F uh, } - /
+sd          A.69 utt5: I've got a few planters out there that [ I, +  I'll, ]  {F uh, } {D you know, } - /
+sd          A.69 utt6: in the winter time I usually plant some pansies in there,  /
+sd          A.69 utt7: {C and then } in the summer I'll plant petunias,  /
+sd          A.69 utt8: {C or } something that's colorful  /
+sd          A.69 utt9: {C and } {D like, } that blooms a lot.  /
+sd          A.69 utt10:  {C But } --   
+
+b          B.70 utt1:  Uh-huh. /  
+
++          A.71 utt1:  -- haven't done that yet.  /
+sd          A.71 utt2:  I kept thinking that it was going to get cold one more time,  /
+sd          A.71 utt3: {C but } I think we're probably past that now.  /
+sd          A.71 utt4:  I probably should go buy some. /  
+
+b          B.72 utt1:  Yeah. /  
+
+sd          A.73 utt1:  I guess if I had a house I might enjoy gardening, some.  /
+sd          A.73 utt2: I'm not real crazy about pulling weeds and things like that. /  
+
+b          B.74 utt1:  Yeah,  /
+sv          B.74 utt2: it's the hard work. /  
+
+aa          A.75 utt1:  Yeah,  /
+sd          A.75 utt2:  I like the planting, and watering is okay. /  
+
+sv          B.76 utt1:  It's so nice though when you have a nice yard full of flowers,  /
+sv          B.76 utt2: it's so  beau-, - /
+sd          B.76 utt3: {E I mean, } we don't.  /
+sd          B.76 utt4: We live in an apartment also. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  I've got a few plants here,  /
+sd          B.78 utt2: {C but } I'm not really knowledgeable.  /
+sd          B.78 utt3: I feel real good if I water them  /
+sd          B.78 utt4: {C and } they continue to grow.  /
+sd(^q)          B.78 utt5:  {D You know, } I feel like, {F Oh, } I've accomplished something. /  
+
+b          A.79 utt1:  Uh-huh. /  
+
+sd          B.80 utt1:  {C So } I enjoy it,  /
+sd          B.80 utt2: {C but } I'm just not experienced enough with  /
+%@          B.80 utt3: [ it. + ]   
+
+b          A.81 utt1:  Yeah.   /
+sd          A.81 utt2: I don't know too much about it either.  /
+sd          A.81 utt3: Mine's pretty limited to my little, {F uh, } porch plants <laughter>. /  
+
++@          B.82 utt1:  Uh-huh. /  
+
+sd          A.83 utt1:  {C And then } the ones in my apartment, half of which don't look real healthy,  /
+sd          A.83 utt2: {C but } I don't always get direct sun except in certain spots. /  
+
+b          B.84 utt1:  {F Oh, } yeah. /  
+
+sd          A.85 utt1:  {C And so } that's probably my problem there.  /
+%          A.85 utt2:  {C But, } -/  
+
+qy          B.86 utt1:  Have you tried [ any, + growing any, ] {F um, } {D like } fruits and vegetables or  anything?  /
+qy          B.86 utt2: I guess vegetables are [ [ in, + insi-, ] + {D like } in ] pots and stuff? /  
+
+nn          A.87 utt1:  No,  /
+sd^e          A.87 utt2: I never have tried that, just because I don't have that much space on this little porch here in this apartment  --   
+
+b          B.88 utt1:  Uh-huh. /  
+
++          A.89 utt1:  -- or this little balcony.  /
+sd          A.89 utt2:  {C And } my other two pots are, - /
+sd          A.89 utt3: [ they're kind of, + they're ] pretty big,  /
+sd          A.89 utt4: {C and } I have enough plants in them that it takes up a lot of my porch area,  /
+sd          A.89 utt5: {C so } between that and the chairs and the barbecue grill and the fireplace wood,   
+
+x          B.90 utt1:  <Laughter>.   
+
++          A.91 utt1:  there's no room for much else.  /
+sd          A.91 utt2:  {C But } [ my dad, + {F uh, } my dad ] used to grow tomatoes and things at the house.  /
+sd          A.91 utt3: {C And } [ I'd, + I ] think when I was real little I probably had a finger in on that every time he did it --   
+
+b          B.92 utt1:  Uh-huh. /  
+
++          A.93 utt1:  -- and had to be out there and watch and that type of stuff.  /
+sd          A.93 utt2: {C But } I've never really tried anything like that since then. /  
+
+sd          B.94 utt1:  {D Well, } I considered it last year  /
+sd          B.94 utt2: {C and } this year both, - /
+sd          B.94 utt3: {C but } I haven't done anything about it. /  
+
+b          A.95 utt1:  Uh-huh. /  
+
+sv          B.96 utt1:  {C So. }   I think it would be nice to just go out and pick some tomatoes off the porch.  /
+sd          B.96 utt2:  We get lots of sunlight here,  /
+sd          B.96 utt3: {C and } the porch is screened in  /
+sd          B.96 utt4: {C and } it's pretty large. /  
+
+ba          A.97 utt1:  {F Oh, } wow. /  
+
+%          B.98 utt1:  {C So, }  {F um, } I think if I just would be, - /
+sd          B.98 utt2: if I'd do something, be motivated enough to do something,  I think it would work out well. /  
+
+b          A.99 utt1:  Uh-huh. /  
+
+sd          B.100 utt1: [ {C But, } + {C but } ] there goes that motivation thing again <laughter>. /  
+
+aa          A.101 utt1:  Right.  /
+sd          A.101 utt2:  {D Well, } I enjoy playing with my cats.  /
+qy^d          A.101 utt3:  I don't know if you'd call that a hobby,  /
+sd          A.101 utt4: {C but } I have two cats,  /
+sd          A.101 utt5: {C and } I gave them a bath tonight,  /
+sd          A.101 utt6: {C so } they're a little bit angry at me <laughter>. /  
+
+qy          B.102 utt1:  <Laughter>  ((   )) . [ Can you + --   
+
+sd          A.103 utt1:  They didn't like it too much. /  
+
++          B.104 utt1:  -- can you ] put them right in the water? /  
+
+ny          A.105 utt1:  Yeah,  /
+ny^r          A.105 utt2: {F oh } yeah -- /  
+
+ba          B.106 utt1:  {F Oh, } that's good, /  
+
+sd^e          A.107 utt1:  -- right in the tub,  /
+sd          A.107 utt2: {C and } it helps because its the time of the year that they're shedding a lot, and cleaning cat fur off the couch and off the floor is not a hobby of mine.  /
+sd(^q)          A.107 utt3:  {C So } I thought,   
+
+x          B.108 utt1:  <Laughter>.   
+
++          A.109 utt1:  this'll [ help, + {D you know, } help ] them shed,  /
+sd          A.109 utt2: {C and } sure enough, boy the fur just came off like crazy once I got them --   
+
+b          B.110 utt1:  {F Oh, } yeah. /  
+
++          A.111 utt1:  -- in the tub.  /
+sd          A.111 utt2: {C So, }  they're pretty content now,  /
+sd          A.111 utt3: {C but } they were mad at me for quite a while.  /
+sd          A.111 utt4: They went and hid [ after  they, +   after  they ] got dried off. /  
+
+qy^g          B.112 utt1:  Sulked for a while, {F huh } <laughter>. /  
+
+ny          A.113 utt1:  Yeah. /  
+
+sd          B.114 utt1:  {D Well, } I like animals,  /
+sd          B.114 utt2: {C but } we don't have any yet.  /
+sd          B.114 utt3:  We have a nine month old with another on the way -- /  
+
+b          A.115 utt1: Uh-huh. /  
+
+sd          B.116 utt1:  -- {C and } we thought, {D well } maybe when they're a little bit bigger --   
+
+b          A.117 utt1:  Yeah. /  
+
++          B.118 utt1:  -- then we'll, - /
+sd          B.118 utt2: {C or } get into a house with a little more space.  /
+sd          B.118 utt3:  I'd love to [ have, + have ] some animals. /  
+
+b          A.119 utt1:  Uh-huh. /  
+
+sd          B.120 utt1:  {C But } I like dogs  /
+sd          B.120 utt2: {C and } my husband likes cats.  /
+sd          B.120 utt3: {C So } we haven't reached a real agreement on that yet.  /
+sd          B.120 utt4: If we get a place where we can have both, it'll be great,  /
+%          B.120 utt5: {C but } until then, -/  
+
+b          A.121 utt1:  Yeah,  /
+sd          A.121 utt2: I like both,  /
+sv          A.121 utt3: {C but } since I'm in an apartment, [ I just, + I ] don't think an apartment is big enough for a dog.  /
+sv          A.121 utt4: [  Dogs, + to me, dogs ] need a yard, even little dogs. /  
+
+b          B.122 utt1:  Uh-huh. /  
+
+sv          A.123 utt1:  They just need a yard.  /
+sv          A.123 utt2: Cats can deal with being inside all the time just fine.  /
+sv          A.123 utt3:  {C But } I just think dogs [ need, + need ] to be outside, though.   /
+%          A.123 utt4: {C So, } -/  
+
+aa          B.124 utt1:  I agree with you.  /
+%          B.124 utt2: I, - /
+sd          B.124 utt3: if we were going to get anything now it would definitely be a cat, or even a bird or a fish tank or [ something, + {D you know } <laughter>.   
+
+b          A.125 utt1:  Yeah,  /
+ba          A.125 utt2: now that's an idea <laughter> -- /  
+
++          B.126 utt1:  Something ] small -- /  
+
+%          A.127 utt1:  -- with the small babies. -/  
+
+sd          B.128 utt1:  -- that she can watch, but won't take too much care. /  
+
+b          A.129 utt1:  Yeah,  /
+%          A.129 utt2: {C because, } you kind of, - /
+sv          A.129 utt3: [ even, + even ] a cat, you never know when they might bite or scratch or something. /  
+
+b          B.130 utt1:  Uh-huh. /  
+
+sv          A.131 utt1:  There not as likely to as a dog might, I guess.  /
+sd          A.131 utt2:  {C But } with little ones, I'd be kind of scared <laughter>, to get anything that has teeth or claws. /  
+
+sv          B.132 utt1:  Especially when they're not quite to the age of understanding that they're hurting, {D you know, }  /
+%          B.132 utt2: that - /
+sv          B.132 utt3: they grab hold with both hands  and then just jerk. /  
+
+b          A.133 utt1:  {F Oh } yeah. /  
+
+sd          B.134 utt1:  {C And } if I was a cat or dog, I'd respond probably by biting or something.  /
+h          B.134 utt2:  I don't know. /  
+
+b          A.135 utt1:  {F Oh, } yeah <laughter>. /  
+
+sd          B.136 utt1:  That'd be my self defense.  /
+fc          B.136 utt2:  {C But, }   
+
+fc          A.137 utt1:  Uh-huh <<pause>>. /  
+
++          B.138 utt1:  {D Well, } I think we probably reached our time limit. /  
+
+fc          A.139 utt1:  Yeah,  /
+fc          A.139 utt2: probably  /
+fc          A.139 utt3: [ {C so, } + {C and } ] I'm [ out of, + out of ] good ideas for a hobby <laughter> anyway. /  
+
+fc          B.140 utt1:  <Laughter>  {F Oh, } okay. /  
+
+fc          A.141 utt1:  {D Well } it was good talking to you. /  
+
+fc          B.142 utt1:  Thank you for calling. /  
+
+fc          A.143 utt1:  All right.  /
+fc          A.143 utt2: Bye-bye. /  
+
+fc^m          B.144 utt1:  Bye-bye. / 

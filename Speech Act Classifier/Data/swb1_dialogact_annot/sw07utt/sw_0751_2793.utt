@@ -1,0 +1,288 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2793_1209_1156
+TOPIC#:		327
+DATE:		910504
+TRANSCRIBER:	LAB
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:	No comment.
+
+========================================================================
+  
+
+sd          B.1 utt1:  {F Uh, } {D you know, } [ I, + when I ] was much  younger, {F uh, } than I am now, [ I, + I ] had wanted to go to the Peace Corps  /
+sd          B.1 utt2: {C and, } {F uh, }  it seems like [ [ I, + it, ] + it ] was something that [ I, + I ] really [ wanted, + wanted ] to do. /  
+
+ad^c          A.2 utt1:  Can you speak up, please. /  
+
+sd          B.3 utt1:  Seems like wanting to go to the Peace Corps was something that I had really wanted to do when I was young. /  
+
+b          A.4 utt1:  Yes. /  
+
+sv          B.5 utt1:  {C But, } {F uh, } I don't believe they accept you  [ after you, + {D you know, } after you're ] married  /
+sv          B.5 utt2: {C and } you have, {F uh, } kids and all that  /
+sd          B.5 utt3:  {C so } I got into,   
+
+b          A.6 utt1:  {F Uh, } /  
+
++          B.7 utt1:  that  /
+sd          B.7 utt2: {C and then } I wasn't able  [ to, + to, ] {F uh, } participate. /  
+
+sd          A.8 utt1:  {C But } they will accept you later in life also. /  
+
+qy^d          B.9 utt1:  {F Oh, } they will? /  
+
+ny          A.10 utt1:  Yeah,  /
+sd^e          A.10 utt2: after your children are grown. /  
+
+sd          B.11 utt1:  {F Oh, } I didn't know that. /  
+
+b          A.12 utt1:  Yes. /  
+
+qy^d          B.13 utt1:  Then there's no age limit? /  
+
+nn          A.14 utt1:  No. /  
+
+qy^d*         B.15 utt1:  Your kidding. /   *[[typo -> you're]]
+
+nn          A.16 utt1:  No,  /
+ng          A.16 utt2: I'm not.  /
+sd          A.16 utt3:  Some of the people that have been  involved with Peace Corps, among other things, were retired teachers.  /
+sd          A.16 utt4:  {F Uh, } there was a retired plumber that went to, {F uh, } {F uh, } Uruguay I think and  helped them quite a bit with concepts in plumbing, {D you know, }  providing [ for a, + for ] better public hygiene. /  
+
+ba          B.17 utt1:   Goodness I'm surprised.  /
+sd          B.17 utt2: I really had no idea. /  
+
+b          A.18 utt1:  Yeah,  /
+qy          A.18 utt2: {C but, } {C so, } do you think that people should be required to give a couple years for the good of the country? /  
+
+sd          B.19 utt1:  {D Well, } <breathing>,  [ (( I don't )) , + I don't ]  really think that [ [ they sh-, + they should be, ] + it should be ]  mandatory.  /
+h          B.19 utt2:  {E I mean, }   
+
+qw          A.20 utt1:  Why? /  
+
++          B.21 utt1:  <Breathing> {D well, } I don't know,  /
+%          B.21 utt2:  I, - /
+%          B.21 utt3: it's, - /
+sd          B.21 utt4: that just might not be something that everybody wants to do,  /
+sd          B.21 utt5: {E I mean, } there are a lot of  people who would like  to do it,  /
+sd         B.21 utt6: {C and } there are a lot of people who get  into other things  /
+sd          B.21 utt7: {C and } they get all involved  /
+sd          B.21 utt8: {C and } they just, {D you know, }  don't want to or don't have the time. /  
+
+ba          A.22 utt1:  {D Well, } I understand,  /
+qy          A.22 utt2: {C but } if it  were  (( told to us ))  that we would find the time somewhere between our seventeenth and,  {F uh, } twenty-sixth birthday to give a year or two to the, to the country in the form of maybe building better roads or the parks service or the Peace Corps or [ somet-, + ] {D you know, } the military service or something.  Wouldn't we have, {F uh, }  maybe a better class of Americans? /  
+
+sd          B.23 utt1:  I don't see how that [ can, + can ] make a better class  of Americans [ to make everybody, + to make it ] mandatory for everybody to participate. /  
+
+sd          A.24 utt1:  [ A lot of these peop-, + a lot of our, ] {F uh, } - /
+fa          A.24 utt2:  pardon the terminology,  /
+sv          A.24 utt3: {C but } yuppies, now, are interested in one thing and one thing only  /
+sv          A.24 utt4:  and that's themselves. /  
+
+aa          B.25 utt1:  That's true.  /
+sd          B.25 utt2: {D Well, } # [ I don't, + I don't ] think that, # -/  
+
+sv          A.26 utt1:  # {C And } at least if you legislated, #   
+
+x          B.27 utt1:  <Throat_clearing>.   
+
++           A.28 utt1:  giving for a couple years of their  lives [ or, + or, ] {F uh, } [ a + ] (( honestly )) purely giving [ but, + but ] some sort of equitable  exchange, then at least the country would have gotten two years from them  where, {F um, } they would have given something to the country instead of [ take, + taking ]  away all their lives. /  
+
+b          B.29 utt1:  Yeah,  /
+qy          B.29 utt2: [ are, + are ] you suggesting then that [ [ if, +  if, ] + {F uh, } if ] I have to go [ and, +  and ] do something for the country for two years that the country will compensate me in some way. /  
+
+%          A.30 utt1:  {F Uh, } /  
+
+qy^d          B.31 utt1:  [ (( I )) , +  I ]  will be compensated for this,  /
+qy^d          B.31 utt2: I'm not just going to, -/  
+
+bf,nn,o@         A.32 utt1:  [ Give them your ti-, + give them your ] entire life for two years, {D no. } /  *[[ I think this really should be 2 slash units, with the respective labels. ]] 
+
+bk          B.33 utt1:  Okay. /  
+
+sd          A.34 utt1:  It will be a job of sorts,  /
+sv          A.34 utt2:  I'm sure, that the Peace Corps  [ pays, it + ] doesn't pay well,  /
+sv          A.34 utt3: it's not top wages, /  
+
+b          B.35 utt1:  <<Very faint>> Uh-huh. /  
+
+sd          A.36 utt1:  [ {C but, } + {C but } ] it does pay. /  
+
+b          B.37 utt1:  Uh-huh. /  
+
+sd          A.38 utt1:  The military, - /
+sd          A.38 utt2: for young  (( hiring in ))  soldiers does pay, - /
+sd          A.38 utt3: it doesn't pay well. /  
+
+b          B.39 utt1:  Uh-huh. /  
+
+sd          A.40 utt1: {D Okay, } currently in our country, especially in some regions, there's an employment problem.  /
+qy^d          A.40 utt2: You're aware of that I'm sure. /  
+
+aa          B.41 utt1:  [ [ That, + that, ] + that's ] true.  /
+sd          B.41 utt2:   {C But } [ in, + even in ]  our region there's an employment problem.   /
+sd          B.41 utt3: There's a lot of, {F uh, } people gotten laid off lately.    {D You know, } from (( just ))  companies like General Dynamics, [ and, +    
+
+^2          A.42 utt1:  And Texas Instruments. /  
+
++          B.43 utt1:  and ] Texas Instruments,  <laughter>.  /
+sd          B.43 utt2:   Thousands, and thousands of people are out there looking for jobs. /  
+
+sd          A.44 utt1:   (( {D You know } [ in + )) , in ]  another time we had the W P A,   
+
+ar          B.45 utt1:  <<Very faint>>, no,  /
+sd          B.45 utt2: [ I'm not, +   
+
++          A.46 utt1:  Works Progress Administration,   
+
++          B.47 utt1:  I'm not ] familiar with that. /  
+
++          A.48 utt1:  during the great depression,   
+
+b          B.49 utt1:  Oh. /  
+
++          A.50 utt1:  though I can't see why it was great. /  
+
+x          B.51 utt1:  <Laughter>.   
+
+sd          A.52 utt1:  {F Uh, } that gave people pay that was halfway between relief which was welfare,   
+
+b          B.53 utt1:  Uh-huh. /  
+
++          A.54 utt1:  and the minimum wage. /  
+
+b          B.55 utt1:  I see,  /
+bf          B.55 utt2: {C and } [ [ that was, + that was   simi-, + that was ] [ some, + some ] program where people gave their time,   
+
+^2          A.56 utt1:  In trade for,   
+
++          B.57 utt1:  in trade [ for, +   
+
++          A.58 utt1:  money,   
+
++          B.59 utt1:  <<very faint>> for ] money,  /
+bk          B.59 utt2: okay. /  
+
++          A.60 utt1:  [ and, + and ] living. /  
+
+b          B.61 utt1:  Uh-huh. /  
+
+sd          A.62 utt1:  They gave them food and uniforms  /
+sd          A.62 utt2: {C and, }   
+
+x          B.63 utt1:  <Throat_clearing>.   
+
++          A.64 utt1:  {F uh, } here in Colorado you'll find a great many things.  /
+sd           A.64 utt2:   Public roads that were worked on by the W P A, {F uh, } dams that were built by the W P A,   
+
+b          B.65 utt1:  <<Very faint>> uh-huh. /  
+
++          A.66 utt1:  {F uh, } scenic overlooks, parks, -/  
+
+b          B.67 utt1:  Uh-huh. /  
+
+sv          A.68 utt1:  [ We are road, + our road ]  system's falling apart.  /
+sv^r          A.68 utt2: [ Our air-, + our ] national road [ system, + system ] of highways,   
+
+b          B.69 utt1:  Uh-huh. /  
+
++          A.70 utt1:  and roads, is falling apart. /  
+
+sv           B.71 utt1:  {D Well, } then I guess there are [ a lot of, + a lot of ]  things that people could do to contribute to the good of the country. /  
+
+bf          A.72 utt1:  [ Ther-, + there's ] a lot of work to be done. /  
+
+b          B.73 utt1:  Uh-huh.  /
+sd          B.73 utt2:  [ I, + I ]  really don't see anything wrong with it,  /
+sv          B.73 utt3: I just don't think that it should be mandatory that every person have to do that. /  
+
+sd          A.74 utt1:  [ I, + I ] can't see the problem in it for a year.  /
+%          A.74 utt2:  Th-, -/  
+
+%          B.75 utt1:  {D Well, } -/  
+
+sd          A.76 utt1:  [ what, + what ] I'm saying is that if it were mandatory,   
+
+b          B.77 utt1:  <<Very faint>> uh-huh. /  
+
++          A.78 utt1:  that every person, right after graduation from high school,   
+
+b          B.79 utt1:  Uh-huh. /  
+
++          A.80 utt1:  that were able-bodied,   
+
+b          B.81 utt1:  Uh-huh. /  
+
++          A.82 utt1:  would [ give a year, + {D well, } {E or, } not give a  year ] [ but, + but ] trade a year, - /
+%          A.82 utt2: then they, - /
+sv          A.82 utt3: at least one not more than {D say } three or four, then it would definitely effect unemployment. -/  
+
+aa          B.83 utt1:  All right,  /
+qy^d           B.83 utt2: I wonder [ if, + if ] they didn't make it mandatory if they would actually get enough people volunteering [ to, + to ]  do it [ that it, + {D you know, } that they ] would have enough. /  
+
+no          A.84 utt1:  I don't know. /  
+
+%          B.85 utt1:  {E I mean, } [ I, + I'd ] probably, -/  
+
+sd           A.86 utt1:  {D Well, } {D you know, } Texas, New Mexico, Colorado,  huge numbers of other western states, have no real welfare system. /  
+
+b          B.87 utt1:  Uh-huh. /  
+
+sd          A.88 utt1:  There's Aid to Dependent Children, and Aid to Mothers of Dependent Children,  /
+sd          A.88 utt2: {C but } there's no real welfare system. /  
+
+b          B.89 utt1:  Uh-huh. /  
+
+sv          A.90 utt1:  {C But } if we took these people [ off, + off ]  the streets for a year, there would darn sure be more hours labor available in the nation  for everyone else.  /
+sv          A.90 utt2:  {C And }  who knows, maybe some of our graduating high school  seniors would find out a little bit more of [ th-, + ]  what the traditional American work ethic means.  /
+sv          A.90 utt3: {D You know, }  we have had some problem with that in recent years. /  
+
+aa          B.91 utt1:  {F Oh, } {D well, } yes,  /
+sv          B.91 utt2: we have.  /
+sd          B.91 utt3: [ With, + with, ] {F uh, } recent generations [ I, + I ] know exactly what you are talking about,  /
+sd          B.91 utt4:  [ I, +  {E I  mean, } I ]  know several people who do not wish to work. /  
+
+bf          A.92 utt1:  {F Uh, } they wish only for the paycheck. /  
+
+sd          B.93 utt1:  <Laughter> {D Well, } they wish for the money  /
+sv            B.93 utt2: {C and }  [ they, + they ] decide that they're going to get the money anyway they can [ [ [ with, + {D you know, } without, ] + {F uh, }   
+
+^2          A.94 utt1:  Really producing. /  
+
++          B.95 utt1:  without, ] + without ] working in [ the, + the ]  traditional American job market. /  
+
+aa          A.96 utt1:  Yeah,  /
+bf          A.96 utt2: be it selling drugs or whatever. /  
+
+aa          B.97 utt1:  Right.  /
+sd          B.97 utt2:   (( {C So, } one ))  other thing, - /
+sv          B.97 utt3:  {C and } [ they, + they ] get the money anyway they can. /  
+
+aa          A.98 utt1:  Yeah,  /
+aa^r          A.98 utt2: yeah.  /
+sv          A.98 utt3:  {C And } maybe if we instilled the work ethic, {D you know, } - /
+sd          A.98 utt4: [ I enjoy the, + I enjoy ] working. /  
+
+b          B.99 utt1:  Yeah. / 

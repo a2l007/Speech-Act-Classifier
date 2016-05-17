@@ -1,0 +1,193 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3985_1402_1457
+TOPIC#:		345
+DATE:		920219
+TRANSCRIBER:	GL
+UTT_CODER:      aabo
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:  	None.
+
+=========================================================================
+  
+
+o          A.1 utt1:  Okay, Bill, {F um, }  /
+sd          A.1 utt2: as you think over the plans and so forth that the company you're working with now, - /
+qw          A.1 utt3: who do you work with at this time? /  
+
+sd          B.2 utt1:  {D Well, } I own the company. /  
+
+b^m          A.3 utt1:  You own the company.  /
+ba          A.3 utt2:  # All right. # /  
+
+sd          B.4 utt1:  # I'm the president # and C E O of the company. /  
+
+ba          A.5 utt1:  My goodness. /  
+
+sv          @B.6 utt1:  {C So, } {F uh, } I guess, {F uh, } I determine what the benefits are <laughter>. /  
+
+aa          A.7 utt1:  Yeah,  /
+aa          A.7 utt2: I guess you do. /  
+
+qw          B.8 utt1: [ {C But, } + {F uh, } {C so ] } what are you asking me,  /
+qw          B.8 utt2: [ what, + what ] benefits I think are most important? /  
+
+qw          A.9 utt1:  {D Well, } [ what, + what ] do you think of the, - /
+^h          A.9 utt2: let's put it this way,  /
+qw          A.9 utt3:    what do you think are the most important benefits for those working for you, [ other than, + other than ] their present salary? /  
+
+sv          B.10 utt1:  {F Um, } I'd say in today's economy, besides basic benefits, {F uh, } such as, {F um, } health insurance and life insurance and [ the, + ] some type of retirement plan --   
+
+b          A.11 utt1:  Uh-huh. /  
+
++          B.12 utt1:  -- I'd say that, {F uh, } most of the employees, {F uh, } {F um, } that we have really like [ a, + a ] profit sharing plan. /  
+
+b^m          A.13 utt1:  A profit sharing plan,  /
+sd          A.13 utt2: that's interesting,  /
+b          A.13 utt3: uh-huh. /  
+
+sv          B.14 utt1:  They like to participate in the profits of the company like they're,  {D you know, } - /
+sv          B.14 utt2: because they feel like, {D well, } we're contributing to it,  /
+sd          B.14 utt3: {C so } we'd like to participate in it,  /
+sd          B.14 utt4: {C and so } that means I make a little bit less,  /
+sd          B.14 utt5: {C but } the thing is that really you make a little more, because everybody has a interest [ in, + in ] it working. /  
+
+b          A.15 utt1:  Yes,  /
+bf          A.15 utt2: {C because } [ they + <throat_clearing>, they ] have a specific reason to do so,  because they themselves benefit from doing a better job. /  
+
+b          B.16 utt1:  Right.  /
+sv          B.16 utt2:  I think most people, {F uh, } don't want money, {F um, }  /
+sv          B.16 utt3: it's been my experience, most people want, {F uh, } to feel like they're participating in something [ that, + {F uh, } that ] is not a drudgery, {D you know, } that they --   
+
+b          A.17 utt1:  Uh-huh,  /
+x       A.17 utt2: # <throat_clearing>. #   
+
++          B.18 utt1:  -- # enjoy, # and that they can get some benefits out of. /  
+
+^2         A.19 utt1:  {C And } it's a contribution. /  
+
+aa          B.20 utt1:  Right. /  
+
+sd          A.21 utt1:  {D Well, } Bill, {F uh, } that idea fits me exactly.  /
+sd          A.21 utt2: I just retired from, {F uh, } the university here,  /
+sd          A.21 utt3: {C and } that's been the goal in my life, was to contribute [ and, + ]  to the work that I was doing in my research,  /
+sd          A.21 utt4: {C and } that's what made me happy,  /
+sv          A.21 utt5: {C and, } {F uh, } that's the type of goal I think most people ought to look for,  /
+sv          A.21 utt6: {C and } I'm sure a lot of them don't.  /
+sv          A.21 utt7: You can't stand in front of a counter and do that kind of stuff all day and feel like that you're contributing something to a scientific level of knowledge or so forth. /  
+
+b          B.22 utt1:  Yeah, /  
+
+x          A.23 utt1:  <Laughter>.   
+
+sv          B.24 utt1:  {D well, } {F uh, } our people get a lot of satisfaction.  /
+sd          B.24 utt2:  {F Um, } we're a financial planning firm. /  
+
+b^m          A.25 utt1:  You're a financial planning firm? /  
+
+aa          B.26 utt1:  Yes. /  
+
+qw          A.27 utt1:  How many, {F uh. } /  
+
+qy^d         B.28 utt1:  You said you retired,  /
+sd          B.28 utt2: I just happen to have a person that I happened to do some planning for this morning,  /
+sd          B.28 utt3: {C but } --   
+
+b          A.29 utt1:  # Uh-huh. # /  
+
++          B.30 utt1:  -- # {D anyway, } # {F uh, } {F uh, } [ we do, + we ] deal with a lot of people that are retired or trying to retire <laughter> -- /  
+
+b          A.31 utt1:  Uh-huh,  /
+%          A.31 utt2: {D well. } -/  
+
+sv          B.32 utt1:  -- {C and, } {F uh, } it's real important, {F uh, } that their benefit plans that they get from their companies and from their work [ that, + ] where they were, that, {F uh, } {F uh, } that it take care of them.   /
+%          B.32 utt2: They don't, - /
+sv          B.32 utt3: none of them really want to be rich,  /
+sv          B.32 utt4: {C but } they like to have enough to be comfortable. /  
+
+qw          A.33 utt1:  {D Well, } [ what, + what ] changes [ would you, + ] have you considered, {F uh, } in doing it, [ to, + to ] your company, that might benefit the employees or perhaps the company itself better? /  
+
+sd          B.34 utt1:  {D Well, } {F um, } we, considering instead of tying a profit sharing plan to [ a, + a ] salary [ is, + {F uh, } is ] tie, {F um, } {F uh, } a percentage, {F um } of business [ that, + {F uh, } that ] a person would participate and bring into the company.  /
+sd          B.34 utt2:  {F Uh, } pay them, {F uh, } based on the percentage of business they bring, instead of based on their salary.  /
+%          B.34 utt3: # {C And } the re-, # -/  
+
+qy          A.35 utt1:  # When you # say bring in, do you mean that they negotiated with people [ to, + to ] come in and, {F uh, } ask for your support? /  
+
+nn          B.36 utt1:  No,  /
+sd^e          B.36 utt2: not necessarily.  /
+sd          B.36 utt3: {F Um, } it can be in-house people who help you handle # X amount of dollars. # /  
+
+bk          A.37 utt1:  # {F Oh, } okay.  /
+b          A.37 utt2: # Uh-huh.  /
+sv         A.37 utt3:  Even though they didn't bring it in, they help it once it's there. /  
+
+b          B.38 utt1:  Right  /
+sd          B.38 utt2: {D well } --   
+
+b          A.39 utt1:  Yeah. /  
+
++          B.40 utt1:  -- {D see, } [ we have dif-, + we have ] marketing people,  /
+sd          B.40 utt2: {C and then } we have financial planners,  /
+sd          B.40 utt3: [ {C and, } + {F uh, } {C then ] } we have, {F uh, } staff secretaries and administrative assistants,  /
+sd          B.40 utt4: {C and } these secretaries and administrative assistants, {F um, } {D you know, } if we don't have their cooperation and they're not participating in the profit of the company, [ they, + they ] can get very dissatisfied very quickly. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+sd          B.42 utt1:  {C And, so, } {F uh, } we're thinking about paying them, instead of a percentage on salary, paying them a percentage on the business they handle.  /
+sv          B.42 utt2:  {C So } administrative assistant that would handle two million dollars worth of business is a lot more valuable than a person that handles a hundred thousand dollars worth of business.  /
+%          B.42 utt3: # {C And, } {F uh, } # -/  
+
+b          A.43 utt1:  # Yes,  /
+sv          A.43 utt2: {C but } [ it, + # it ] might not be necessarily because he did a good or bad job,  /
+sv          A.43 utt3: {C but } it might be whether the locality there, those people want that kind of support. /  
+
+%          B.44 utt1:  {D Well, } [ [ {C and, } + {C and, } ] + {C but } ] to, - /
+sv(^q)          B.44 utt2: {D see } the thing is that they give support to the financial planner that they're the assistant to, or that they usually have several people they report to [ that, + {D you know, }  that ] they work --   
+
+b          A.45 utt1:  Uh-huh. /  
+
++          B.46 utt1:  -- together with --   
+
+b          A.47 utt1:  Uh-huh. /  
+
++          B.48 utt1:  -- it encourages them not to, {F uh, } complain when they realize that they get a part [ of the, + of the ] action based on their efforts and not based on being sitting back saying, {D well } make me do it. /  
+
+b          A.49 utt1:  Uh-huh. /  
+
+sv(^q)          B.50 utt1:  {D See, } we don't want anybody around here that says make me do it.  /
+sv          B.50 utt2:  I don't think [ anyb-, +  # any ] # -- -/  
+
+b          A.51 utt1:  # Yeah. # /  
+
+sv          B.52 utt1:  -- I think most people want to be, lack of better [ term-, + terminology, ] they want to be self-employed,  /
+sv          B.52 utt2: {C but } they don't want to take the risk.  /
+sv          B.52 utt3:  In other words, they like to control their own future,  /
+sv          B.52 utt4: {C but } they also want to be somewhat content to go and come as they please --   
+
+aa          A.53 utt1:  That's true. /  
+
++          B.54 utt1:  -- without some real strict adherence,  /
+%          B.54 utt2: which, - /
+sd          B.54 utt3: that's what we have. /  
+
+b          A.55 utt1:  Uh-huh. / 

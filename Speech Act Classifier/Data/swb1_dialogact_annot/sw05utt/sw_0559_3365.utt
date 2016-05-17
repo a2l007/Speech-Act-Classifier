@@ -1,0 +1,295 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3365_1073_1367
+TOPIC#:		306
+DATE:		911107
+TRANSCRIBER:	LAB
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	3
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:       Static on speaker B
+
+============================================================
+  
+
+fp          B.1 utt1:   Hi,  /
+fp          B.1 utt2: this is Donna Donahue. /  
+
+fp          A.2 utt1:   Hi, Donna. /  
+
+fp          B.3 utt1:   Hi. /  
+
+qy^t          A.4 utt1:   Ready to get started? /  
+
+ny^t          B.5 utt1:   {F Uh, } yeah,  /
+sd^e^t          B.5 utt2: I think so. /  
+
+o          A.6 utt1:   Okay.  <beep>  /
+sd^t          A.6 utt2:  Sort of an interesting topic since I just got back from lunch here  <laughter>. /  
+
+b          B.7 utt1:   Okay.  /
+qw          B.7 utt2: {D Well, } what did you have for lunch? /  
+
+%          A.8 utt1:   {F Oh, } [ it was, + {F uh, } <laughter> it was,  ] - /
+sd          A.8 utt2: I'm an officer in the Air Force, /  
+
+b          B.9 utt1:   Oh. /  
+
+sd@          A.10 utt1:   {C and } we went to the Officers' Club for a little Mexican food  /  *[[slash error with utt2: one utt]]
+%@          A.10 utt2: today.   *[[slash error]]
+
+b          B.11 utt1:   Oh.  /
+ba          B.11 utt2: {D Well, } that's interesting. /  
+
++          A.12 utt1:   Yeah. /  
+
+b          B.13 utt1:   Okay.  /
+sd^t          B.13 utt2: {C So } our topic [ is, + is  ] food today,  /
+%          B.13 utt3: is that, -/  
+
+b          A.14 utt1:   Yeah. /  
+
+b          B.15 utt1: Okay. /  
+
+qw          A.16 utt1:   If you're having a dinner party, [ what, + what  ] would you serve? /  
+
+^h          B.17 utt1:   Okay, <lipsmack> {F uh, }  /
+qy          B.17 utt2: do you want me to go first? /  
+
+na          A.18 utt1:   Sure. /  
+
+^h          @B.19 utt1:  Okay.  /
+sd          @B.19 utt2: If I was having a dinner party I would probably, {F um, } have [ [ some, + {F um, } some,  ] + {F uh, } {F um, } some  ] fruit to start with with some apples sliced up and maybe some cheddar cheese and crackers and  grapes and, {F um, } probably serve maybe some wine and beer and maybe have some, {F uh, } {F uh, } salsa and chips around and peanuts.  /
+sd          @B.19 utt3: {C And then } [ I would have, +  {F um, } let's see. I usually have ] {D like } a little theme when I have a dinner party  /
+%@          @B.19 utt4: {C so. }     *[[slash error]]
+
+b          A.20 utt1:   Uh-huh. /  
+
++          B.21 utt1:   {F Um, } I would have maybe, {F um, } say if it was {D like } Greek night or  something --   *[[sd]]
+
+b          A.22 utt1:   Uh-huh. /  
+
++          B.23 utt1:   -- {F um, } maybe, {F um, } <lipsmack> on the barbecue we'd put, {F uh, } cubes of lamb or I guess lamb used for Greek.   And, {F um, } {D like } a shish kabob,    
+
+b          A.24 utt1:   Uh-huh. /  
+
++          B.25 utt1:  and, {F um, } mushrooms and tomatoes and onions  /
+sd          B.25 utt2: {C and then } we'd have, {F um, } <lipsmack> {D like } a big Greek tossed salad kind of like a Caesar salad. /  
+
+b          A.26 utt1:   Uh-huh. /  
+
+t1          B.27 utt1:   {C And, } {F um, } let's see what else.  /
+sd          B.27 utt2: {F Um, } maybe some rolls and, {F um, } I guess some, {F uh, } some rice or something like that.  /
+qw          B.27 utt3: How does that sound?  <laughter>. /  
+
+fe          A.28 utt1:   Jeez,  /
+qh          A.28 utt2:  [ {D well, } +  {D well, } ]  when is the party here?  <laughter>. /  
+
+b          B.29 utt1:   Yeah.  /
+%          B.29 utt2:  <laughter>  {F Um, } yeah,  /
+sd          B.29 utt3: that would take some planning  /
+%          B.29 utt4: {C but, } -/  
+
+h          A.30 utt1:   I don't know  /
+sd          A.30 utt2: [ being a, + being  ] the bachelor here that I am, [ I, + I ] don't think [ I'd, + I'd ] [ be a-, + b-,  ] - /
+sd          A.30 utt3: {E I mean } [ it, +  it's ] not a question of capability here to do something like that.  /
+sd          A.30 utt4: It's just  [ there's, + there's  ] no motivation. /  
+
+aa          B.31 utt1:   That's right. /  
+
+sd          A.32 utt1:   {D You know, } [ I want to, + I want to ] throw some charcoal on the grill [ and, + and ] throw a steak on there and some baked potatoes and  stuff like that  /
+%          A.32 utt2: {C but, } {F um, } -/  
+
+ba          B.33 utt1:   {D Well, } that sounds good too.  /
+sd          B.33 utt2: [ I have, + {F um, } I have  ] three kids -- /  
+
+b          A.34 utt1:   Uh-huh. /  
+
+sd          B.35 utt1:   -- {C so, } {F um, } when we have friends over I have my oldest kind of baby-sit for the little two younger ones upstairs  /
+sd          B.35 utt2: {C and, } {F um, } usually we just have very plain kind of, {D you know, } [ interesting, + not very interesting  ] meals.    
+
+b          A.36 utt1:   Uh-huh. /  
+
++          B.37 utt1:   Pizza and that  (( all /
+sd         B.37 utt2:   {C so } ))  once in a while when we do something like that it's kind of fun,  /
+sd          B.37 utt3: {C but } it's  [ not a, +   
+
+b          A.38 utt1:   Yeah. /  
+
++          B.39 utt1:  not a ] regular thing.  <laughter>  /
+%@          B.39 utt2: {F Um, }    *[[slash error]]
+
+b          A.40 utt1:   Yeah. /  
+
++          B.41 utt1:   {D Now } are we supposed to talk for about five minutes,  /
+qy@          B.41 utt2: is that - / *[[slash error with utt3; one unit]]
+qy          B.41 utt3:  it?   
+
+ny          A.42 utt1:   Yeah,  /
+sd^e          A.42 utt2: that's what [ they, +   
+
++@          B.43 utt1:   Okay. /  *[[slash error]]
+
++          A.44 utt1:  they  ] are shooting for here. /  
+
+bk          B.45 utt1:   Okay.  /
+^h          B.45 utt2: {F Um, } let's see now  /
+%          B.45 utt3: wh-, - /
+%          B.45 utt4: okay,  /
+qy^g          B.45 utt5: {D so } you would have a barbecue wouldn-, -/  
+
+no          A.46 utt1:   {D Well, } [ I live on a, + I live on a ] lake here, /  
+
+b          B.47 utt1:   Uh-huh. /  
+
+%          A.48 utt1:  [ {C and, } + {F uh, } {C so }  ] it, - /
+sd          A.48 utt2: {C and then } during the summertime it's real nice to be able to entertain outdoors, /  
+
+ba          B.49 utt1:   {F Oh, } sure. /  
+
+sd          A.50 utt1:  {D like } that's a little more a casual thing.  /
+sd          A.50 utt2:  {C But } in  [ (( mine )) + ]  the wintertime it's not bad too because then I've got [ a, + a  ] fireplace and a nice, nice house and all that  /
+sd          A.50 utt3: {C so } we,   
+
+b          B.51 utt1:   Uh-huh. /  
+
++@          A.52 utt1:  sort of, a,    *[[slash error with a.54--two utts]]
+
+ba          B.53 utt1:   {F Oh, } that sounds wonderful. /  
+
++          A.54 utt1:  really good place to do entertaining like that. - /
+sd          A.54 utt2: I just haven't, {F uh, } really tried a whole lot  /
+h          A.54 utt3: {C but, } {F uh } --   
+
+b          B.55 utt1:   Uh-huh. /  
+
++          A.56 utt1:   -- I don't know,  /
+^h          A.56 utt2: let's see.  /
+sd          A.56 utt3:  [ I have had, +  {D well, } one time I did have ] a dinner party.  /
+%          A.56 utt4: I served a, {F uh, } {F uh, } - /
+sd          A.56 utt5: I had a gang of people over and kind of made a fried chicken thing and biscuits,   
+
+b          B.57 utt1:   Uh-huh. /  
+
++          A.58 utt1:  and kind of [ southern, + {F uh, } southern  ] food even though I'm up here in New York,  /
+%          A.58 utt2: {C so } <laughter>. -/  
+
+qy^d          B.59 utt1:   {F Oh, } you are in New York right now? /  
+
+ny          A.60 utt1:   Yeah. /  
+
+b          B.61 utt1:   Oh.  /
+sd          B.61 utt2: [ I'm, + I'm  ] in Texas.  /
+sd^t          B.61 utt3: I didn't know this was [ all, + from all  ] over the whole country. /  
+
+aa          A.62 utt1:   {F Oh, } yeah.  /
+aa^r          A.62 utt2:  Yeah, /  
+
+bk          B.63 utt1:   {F Oh, } I see. /  
+
+sd          A.64 utt1:  it is.  /
+%          A.64 utt2: It's, -/  
+
+sd          B.65 utt1:   {C And } I'm [ fr-, + originally from  ] Long Island. /  
+
+qy          A.66 utt1:   {F Oh, } no kidding? /  
+
+ny          B.67 utt1:   Yes,  /
+qw          B.67 utt2: {C and } {D now } where are you in New York? /  
+
+sd          A.68 utt1:   Upstate. /  
+
+b^m          B.69 utt1:   {F Oh, } upstate. /  
+
+sd          A.70 utt1:   Rome.  /
+sd          A.70 utt2:  In, {F uh, }   
+
+bk          B.71 utt1:   {F Oh, } okay. /  
+
++          A.72 utt1:   (( Griffins ))  Air Force Base. /  
+
+bk          B.73 utt1:   {F Oh, } okay.  /
+qy          B.73 utt2:  Is that where [ you, + you ] are originally from around there? /  
+
+no@          A.74 utt1:   {D Well, } I was born in Buffalo, /  *[[slash error with a.76; one utt]]
+
+bk          B.75 utt1:   {F Oh, } okay. /  
+
+sd          A.76 utt1:  {C and, } {F uh, } been all over the place. /  
+
+ba          B.77 utt1:   {F Oh, } wow.  /
+ba          B.77 utt2: That's interesting.  /
+^h          B.77 utt3:  Okay,  /
+^h          B.77 utt4: let's see.  /
+sd          B.77 utt5:  {F Um, } {D well, } [ I like to have, +  {F um, } sometimes when I have a dinner party I'll have, ]   {F um, } everybody bring something, /  
+
+b          A.78 utt1:   Yeah. /  
+
+sd          B.79 utt1:  {C and } that's real interesting because then you get  [ different, + {F um, } different  ] kinds of foods and new recipes  /
+sd          B.79 utt2: {C and, } {F um, } {F uh, } sometimes somebody will be bring something that you really like, /  
+
+b          A.80 utt1:   Right. /  
+
+sd          B.81 utt1:  {C and } get the recipe from them or whatever.  /
+sd          B.81 utt2: {C And } we are just getting interested [ in, + in  ] Mexican food  /
+sd          B.81 utt3: {C because } here in Texas they have lots of,   
+
+b          A.82 utt1:   Uh-huh. /  
+
++          B.83 utt1:  really good Mexican restaurants  /
+sd          B.83 utt2: {C and, }   
+
+ba          A.84 utt1:   Sure. /  
+
++          B.85 utt1:  {F um, } [ we're, + we're  ] just getting into the fajitas and all that stuff that you could, - /
+qy          B.85 utt2: do you know what a fajita is? /  
+
+ny          A.86 utt1:   Yeah.  /
+ny^r          A.86 utt2:  Yeah, /  
+
+b          B.87 utt1:   Yeah. /  
+
+sd          A.88 utt1:  I've been down to Texas a few times,    
+
+bk          B.89 utt1:   Okay. /  
+
++          A.90 utt1:  and, {F uh, } had, {F uh, } the pleasure of their good Mexican,   
+
+b          B.91 utt1:   Yes. /  
+
++          A.92 utt1:  cuisine down there. /  
+
+sv          B.93 utt1:   They have some delicious, delicious things,  /
+%          B.93 utt2: {C and } I, {F um, } - /
+sd          B.93 utt3: since I always make chicken burritos and just --   
+
+b          A.94 utt1:   Uh-huh. /  
+
++          B.95 utt1: -- take chicken breasts  /
+sd          B.95 utt2: {C and } you boil them, maybe like four chicken breasts,  /
+sd          B.95 utt3: {C and } you boil them until they are cooked.    
+
+b          A.96 utt1:   Uh-huh. /  
+
++          B.97 utt1:   Maybe like thirty minutes  /
+sd          B.97 utt2: {C and } then you debone them [ and, + and  ]  kind of shred them up into the meat  (( that has gotten ))  cooled  /
+sd          B.97 utt3: {C and } you take, {F um, } [ s-, + ] little bit, maybe two tablespoons of butter  [ and  a fr-, + ] in a big frying pan.  And chop up some onion and put in oregano and salt, / 

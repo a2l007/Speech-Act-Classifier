@@ -1,0 +1,214 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3367_1426_1350
+TOPIC#:		322
+DATE:		911107
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:       Background noise on Speaker A
+
+=======================================================================
+  
+
+br          A.1 utt1:   What?  /
+qy^t          A.1 utt2:  Do you want to start? /  
+
+sd          B.2 utt1: {F Uh, } <laughter> [ you hit, + you hit, ] {F uh, } - /
+sd          B.2 utt2: it doesn't matter.  /
+sd^t          B.2 utt3: {F Um, } we're discussing the capital punishment, I believe. /  
+
+b          @A.3 utt1:  Right.  /
+sd^t          @A.3 utt2:  You are right.  /
+%          @A.3 utt3: Yeah.  /
+sv          @A.3 utt4: [  I, + I ] suppose I should have, /  
+
+%          B.4 utt1:   {F Uh, } which - /
+sd          B.4 utt2: I [ am, + am ] pro capital punishment except that I don't like the way it's done. /  
+
+ b         A.5 utt1:   Uh-huh.  /
+ ^h         A.5 utt2:  {F Uh, } yeah,  /
+sd          A.5 utt3: {F uh, } [ I, + {F uh, } I ] guess, [ I, + I ] hate to see anyone die, {F uh } -- /  
+
+b          B.6 utt1:   Uh-huh. /  
+
+ sv         A.7 utt1:   -- {C but, }  {F uh, } I guess these people that go around [ and, + and ] kill children and women and everything else without any remorse, {F uh, } I don't think they deserve [ to, + to ] live and be supported by us the rest of their lives. /  
+
+aa          B.8 utt1:  [ I, + I ] agree.  /
+%          B.8 utt2: [ I, + I'm, ] - /
+%          B.8 utt3: capital - /
+%          B.8 utt4: [ the, + the, ] - /
+sv          B.8 utt5: capital punishment is necessary [ in, + in ] many cases  /
+%          B.8 utt6: {C but, }  {F uh, } the, - /
+sv          B.8 utt7: it's not a deterrent, {F um, } or our jails would not be so full.  /
+sv          B.8 utt8:  There wouldn't be so many people in Death Row. /  
+
+b          A.9 utt1:   Uh-huh. /  
+
+sv          B.10 utt1:   I think it needs to be something, {F uh, } {F uh, } a throwback to where they did a, {F uh, } public execution where it's visible. /  
+
+b          A.11 utt1:   Yeah. /  
+
+sv          B.12 utt1:   {F Uh, } something, {D you know, } not gruesome  /
+sv          B.12 utt2: [ {C but, } +  {C but } ] something more where people know that [ it, + it ] was a deterrent  and it was equal for all people.  /
+sv          B.12 utt3: If you committed a certain crime, you were going to receive a death penalty  /
+sv          B.12 utt4: {C and } it was going to happen to you. /  
+
+b          A.13 utt1:   Yeah. /  
+
+sv          B.14 utt1:   No stays of execution.  /
+sv          B.14 utt2: [ No, + no ] loopholes,  /
+%          B.14 utt3: no, -/  
+
+sv          A.15 utt1:   {D Well, } {C and } [ even, + even ] that I don't really know if that would help.  /
+sv          A.15 utt2: I think a lot of these people do it, {F uh, } mainly because of, of T V  /
+ %         A.15 utt3: {C and, }  a-, -/  
+
+bf          B.16 utt1:   Notoriety. /  
+
+sv          A.17 utt1:  the double reason [ ma-, + ] [ they, + they ] see it being done on T V  and  also the fact [ of, + of ] notoriety.  /
+sv          A.17 utt2: {E I mean, } they become well known.  /
+sv          A.17 utt3: They are almost [ like, + like ] a big star. /  
+
+b          B.18 utt1:  [ Ye-, + yes, ]  /
+sv          B.18 utt2: [ {C but, } + {C but } ] [ they, + they ] know that their chances of actually receiving the death penalty are minimal. /  
+
+b          A.19 utt1:   Yeah. /  
+
+sv          B.20 utt1:   They know that they will probably be out in ten to twelve years. /  
+
+b          A.21 utt1:   Uh-huh. /  
+
+sv          B.22 utt1:   That they are going to write a book.  /
+sv          B.22 utt2:  They are going to go on talk shows  /
+%          B.22 utt3: they're goin-, - /
+sv          B.22 utt4: [ [ that, + that, ] + that's ] a reward --   
+
+b          A.23 utt1:   Yeah. /  
+
++          B.24 utt1:   -- {F uh, } for a  (( heinous ))  crime rather than, {F uh, } having them pay the penalty which is forfeiture of their life. /  
+
+b          A.25 utt1:   Right. /  
+
+%          B.26 utt1:  [ In, + in ] complete, {F uh, } - /
+sv          B.26 utt2: ((   ))  of any notoriety. -/  
+
+b          A.27 utt1:   Yeah.  /
+sv(^q)          A.27 utt2:  {D Well, } [ [ I, + I, ] + I ] think if they went according to, {F uh, } the BIBLE where it does say,   
+
+b          B.28 utt1:   Uh-huh. /  
+
++          A.29 utt1:  an eye for an eye,   
+
+b          B.30 utt1:   Right. /  
+
+ +         A.31 utt1:  a tooth for a tooth, a life for a life,  /
+ sv         A.31 utt2: {F uh, } you take a life you give yours. /  
+
+b          B.32 utt1:   Right. /  
+
+ba          A.33 utt1:   {F Uh, } {F uh, } that's for sure.  /
+sv          A.33 utt2:  {F Uh, } there's exceptions to the rule  /
+sv          A.33 utt3: {E I mean } [ if, + if ] it's an accidental taking then, {F uh, } you look at that  /
+sv          A.33 utt4: {C but, } {D you know, } most of these people that down right go right [ and, +  and ] do it out of pure pleasure --   
+
+b          B.34 utt1:   Uh-huh. /  
+
++          A.35 utt1:   -- {F uh, } I don't, {F uh, } like to see that.  /
+sv          A.35 utt2:  I guess also the fact that they say it's not a deterrent, - /
+sv          A.35 utt3: it is a deterrent [ in the, + in the ] sense that that person will never do it again <laughter>. /  
+
+ar          B.36 utt1:   {D Well, } yes,  /
+sd          B.36 utt2: they will. /  
+
+sv          A.37 utt1:  [ [ Not, +   
+
+%          B.38 utt1:   It, -/  
+
++          A.39 utt1:  not, ] + not ] if he's killed he can't,   
+
+b          B.40 utt1:   {F Oh, }  ((   )) , /  
+
++          A.41 utt1:  do it again. /  
+
+ba          B.42 utt1:  {D well, } that's correct,  /
+b          B.42 utt2: yes.  /
+sv          B.42 utt3:  [ Ye-, + ] [ if, + if ] he indeed receives --   
+
+b^m          A.43 utt1:   The death penalty. /  
+
++          B.44 utt1:   -- the death penalty and [ it is, + it is ] executed. /  
+
+b          A.45 utt1:   Uh-huh. /  
+
+b          B.46 utt1:   Yeah.  /
+sv          B.46 utt2: [ {C But, } +  {C but } ] [ [ the, + the, ] + the ] chances are not great that that will happen. /  
+
+b          A.47 utt1:   Right. /  
+
+sv          B.48 utt1:   {C But } there's a greater chance that he'll be back out on the streets in twelve years. /  
+
+b          A.49 utt1:   Uh-huh,  /
+b          A.49 utt2: yeah.  /
+sd          A.49 utt3:  {D Well, } [ I, + I ] guess I'm also looking at beyond even that.  /
+sd          A.49 utt4: [ [  I, + I, ] + I ] guess I been thinking about it  /
+sd          A.49 utt5: {C and } I don't have a definite opinion  /
+sv          A.49 utt6: {C but, }  {F uh, } repeat, {F uh, } crimes --   
+
+b          B.50 utt1:   Uh-huh. /  
+
++          A.51 utt1:   -- {F uh, } maybe not [ the, + the ] more mild ones but, {D you know, } [ a + ] more severe ones especially [ on, + on ] armed robbery and stuff where they been taking from elderly people,   
+
+b          B.52 utt1:   Uh-huh. /  
+
++          A.53 utt1:  and not just taking the money but beating them half to death. /  
+
+ba          B.54 utt1:   That's right. /  
+
+^2          A.55 utt1:   Just for pleasure too  /
+sv          A.55 utt2: {C and } --   
+
+aa          B.56 utt1:   Yes. /  
+
++          A.57 utt1:   -- I guess you've got to look at something like that.  /
+bh          A.57 utt2:  Do they deserve to, {F uh, } remain on this earth too? /  
+
+sv          B.58 utt1:   {D Why, } <sigh> {D you know, } [ [ y-, + y-, ] + you ] could carry it to that [ if, + {F uh, } if ] they are a repeat offender  /
+sv          B.58 utt2: [ {C and, } +  {C and } ] you know that as soon as you let them out on the streets they are going to do this.  /
+sv          B.58 utt3: Unfortunately the way our system of jurisprudence is set up, {F um, } you only receive the death penalty for capital crimes, /  
+
+b          A.59 utt1:   Right. /  
+
+sd          B.60 utt1:   (( {C and } of course ))  {F uh, } of battery or assault or, that is not a capital crime {D see. }  /
+sd          B.60 utt2: [  You, + you ] wouldn't be able to under our system. /  
+
+b          A.61 utt1:   Right. /  
+
+sv          B.62 utt1:   {D Now } China and a few other countries have a little different view of that.  /
+sv          B.62 utt2: {F Um, } you get caught with dope there and you die, period. /  
+
+b          A.63 utt1:   Yeah.  /
+b          A.63 utt2:  Uh-huh. /  
+
+sv          B.64 utt1:   [ There is, + there is ] [ no, + no ] appeals.  /
+%          B.64 utt2:  There is no, -/ 

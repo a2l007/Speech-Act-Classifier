@@ -1,0 +1,236 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3387_1353_1350
+TOPIC#:		359
+DATE:		911112
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Radio on in the background of B
+
+=======================================================================
+  
+
+sd          A.1 utt1:   {D Well, } I don't know what to do about the federal budget.  /
+sd          A.1 utt2:  {F Um, } there certainly have been ideas surfaced, {F uh, } recently, {F uh, } matter of fact repeatedly by many people  /
+qw^d          A.1 utt3: {C and } I sort of wondered [ what your, + what ] thoughts you had on that area. /  
+
+sv          B.2 utt1:  [ The, + the ] first one is we need people in there [ that, + that ] understand, {F uh, } numbers.  The numbers that are being thrown around [ when, + when ] we're talking in trillions of dollars.    
+
+b          A.3 utt1:   Uh-huh. /  
+
++          B.4 utt1:   {F Uh, } which is an astronomical sum  /
+sv          B.4 utt2: [ {C and, } + {C and } ] the people that are talking this numbers have no concept of what that number means. /  
+
+qy          A.5 utt1:   {D Now } [ are you, + are you ] talking about the elected people  /
+qrr          A.5 utt2: {C or } are you talking about # others? # /  
+
+sd          B.6 utt1:   # The elected # people.  /
+ny          B.6 utt2: Yes.  /
+ny          B.6 utt3:   Uh-huh. /  
+
+b          A.7 utt1:   Uh-huh. /  
+
+sv          B.8 utt1:  [ [ Our, + our, ] + our ] Senate and Congress [ and, + and ] people [ that, + that ] deal everyday [ and, + and ] what's going to be done with those monies --   
+
+b          A.9 utt1:   Yes. /  
+
++          B.10 utt1:   -- {F um, } and don't really understand what that is or how a budget even works. /  
+
+b          A.11 utt1:   Uh-huh. /  
+
+sv          B.12 utt1:   {F Uh, } we need to elect people that are more, {F uh, } - /
+%          B.12 utt2: {C or } ... -/  
+
+sd          A.13 utt1:   I'm not sure how you would ach-, - /
+qw          A.13 utt2: how would you achieve that?  /
+%          A.13 utt3: {E I mean } if, -/  
+
+sv          B.14 utt1:   {D Well, } [ let's, + let's ] make them have a degree in [ economy, + {F uh, } {E or }  economics. ] /  
+
+qy          A.15 utt1:   {C So } you would trust the decision making [ dec-, + ] economists? /  
+
+nd          B.16 utt1:   {D Well } <laughter>, -/  
+
+sd          A.17 utt1:   Sometimes called the dismal science. /  
+
+b          B.18 utt1:   <Laughter> Yeah.  /
+sd          B.18 utt2: [ {C But, } +  {C but } ] people [ [ that, + that ] know the value of a dollar + that understand the # value of a dollar,  ] # /  
+
+b          A.19 utt1:   # Uh-huh. #  /
+b          A.19 utt2:  Yes. /  
+
+%          B.20 utt1:   {F um, } {C and } wh-, - /
+%          B.20 utt2: [ [ in, + in, ] + in ] - /
+sv          B.20 utt3: [ the, + the, ] {F uh, } lobbyists,   
+
+b          A.21 utt1:   # Uh-huh. # /  
+
++          B.22 utt1:   # needs # them to be eliminated, {F uh, }   
+
+b          A.23 utt1:   # Uh-huh. # /  
+
++          B.24 utt1:   # from # Congress.  {F Um, } -/  
+
+b          A.25 utt1:   Yes. /  
+
+sv          B.26 utt1:   They don't make pragmatic decisions.  /
+sv          B.26 utt2:  They make a decision based on [ consti-, + constituency ] --   
+
+b          A.27 utt1:   Yes. /  
+
++          B.28 utt1:   -- instead of a decision based on what they really believe. /  
+
+b          A.29 utt1:   Uh-huh. /  
+
+sv          B.30 utt1:   {F Um, } {D you know, } [ th-, + ] {C or } they tack on this, {F uh, } pork bellies [ and, +  and ] do things [ that, + that ] are good for their area to pass something [ that is, + that is ] not good for the country. /  
+
+b          A.31 utt1:   Right.  /
+bf          A.31 utt2: [ {D So, } +  {D so } ] you would favor a law which said there could not be lobbyists.  /
+sv          A.31 utt3:  {E I mean } right now lobbyists require to register you'd just say,   
+
+na          B.32 utt1:   {F Oh, } [ I, + I ] definitely would.  /
+ny          B.32 utt2:  Yeah.  /
+^2          B.32 utt3: Get rid of them. /  
+
++          A.33 utt1:    (( [ Ma-, + make ] them all )) . /  
+
+aa          B.34 utt1:   Totally.  {F Uh, } /  
+
+qy^d          A.35 utt1:   No causes that you think the lobbyists would be good for? /  
+
+sv          B.36 utt1:  [ I, + I ] think that any company or anything that wants to contribute to a fund --   
+
+b          A.37 utt1:   Uh-huh. /  
+
++          B.38 utt1:   -- should be able to do that, and be registered with what they ever contribute.  /
+sv          B.38 utt2: {C But } they should not have a one-on-one relationship with the people making the decisions that affect them. /  
+
+b          A.39 utt1:   Uh-huh. /  
+
+sv          B.40 utt1:  [ That, + that's ] a conflict of interest as far as I'm concerned. /  
+
+b          A.41 utt1:   Yeah. /  
+
+sv          B.42 utt1:   When you are talking again, {F uh, } billions and trillions of dollars --   
+
+b          A.43 utt1:   Uh-huh. /  
+
++          B.44 utt1:   -- {F uh, } [ you're, + you're ] jeopardizing the future of the country, {F uh, } for today.  /
+%          B.44 utt2:  That, -/  
+
+ sv         A.45 utt1:   {C So, }  {F uh, } you talk about jeopardizing the future.  /
+qy          A.45 utt2:  Would you be against any deficit spending? /  
+
+na          B.46 utt1:  [ I, + I ] think to bring it in line you are going to have to have a generation that's going to really bite the bullet to bring it in line.  /
+sv          B.46 utt2:  You can't ease into it.  /
+sv          B.46 utt3:  It took years and years to build up the momentum that's there now. /  
+
+b          A.47 utt1:   Uh-huh. /  
+
+h          B.48 utt1:   {F Uh, } [ I, + I ] forget the figures on the interest rate  /
+sv          B.48 utt2: {C but } it's something like, {F uh, } hundreds of thousands of dollars a second --   
+
+b          A.49 utt1:   Uh-huh. /  
+
++          B.50 utt1:   -- in interest. /  
+
+b          A.51 utt1:   # Yeah. # /  
+
+ sv         B.52 utt1:   # Part # of the problem is we don't loan from ourselves.  /
+sv          B.52 utt2: [  We, + we ] buy from intimate international banking.  /
+sv          B.52 utt3:  That's why we have interest. /  
+
+b          A.53 utt1:   Uh-huh. /  
+
+sv          B.54 utt1:  [ {C And, } + {C and } ] [ [ I, + I, ] + I ] really feel [ [ that, + that, ] + that ] is part of the problem that [ we, + we've ] let things get so out of control [ that, + that ] we don't want to put the brakes on them. /  
+
+qw          A.55 utt1:   {C But } [ wha-, + what ] practical steps [ could on-, + could one ] take? {F Um, } /  
+
+sd          B.56 utt1:  [ By, + by ] having [ [ a, + a, ] + a ] budget [ that [ is, + is ] feasible, + that is reasonable. ] /  
+
+sv          A.57 utt1:   {D Well, } {C but } everybody will say that he is for that.  # {F Uh, }  /
+qw          A.57 utt2: {C and, }  #   
+
+ba          B.58 utt1:   # {F Oh, } of course. #  /
+b          B.58 utt2:   (( Sure )) . /  
+
++          A.59 utt1:   # {C and } how will you, #   
+
+sv          B.60 utt1:   # {C And then } add on to it. # -/  
+
++          A.61 utt1:   make that actually happen? /  
+
+sv          B.62 utt1:   You take the gross national income  --   
+
+b          A.63 utt1:   Uh-huh. /  
+
++          B.64 utt1:   -- and you say our budget is X number of percent of this gross national income.  /
+sv          B.64 utt2:  One thing we could do is give a ten percent income tax.    
+
+b          A.65 utt1:   Uh-huh. /  
+
+  +        B.66 utt1:   Across-the-board,  /
+sv          B.66 utt2: everyone no matter what,   
+
+aa          A.67 utt1:   # Yep. # /  
+
++          B.68 utt1:   # pays a # ten percent income tax. /  
+
+ ba         A.69 utt1:   Sounds like a good idea. /  
+
+ %         B.70 utt1:   # {F Uh, } # /  
+
+qy^g          A.71 utt1:   # Nothing # escapes, right?  /
+qy^d          A.71 utt2: [ No, + no, ]   
+
+na          B.72 utt1:   # That's right. # /  
+
++          A.73 utt1:   # deductions, # nothing. /  
+
+na          B.74 utt1:   # Right.  /
+sv^e          B.74 utt2:  No deductions. # /  
+
+sv          A.75 utt1:   # Just ten percent. # /  
+
+bf          B.76 utt1:   You pay a ten percent income tax. /  
+
+aa          A.77 utt1:   Yep. /  
+
+sv          B.78 utt1:   That's what you pay  /
+sv          B.78 utt2: if you make forty million dollars, {F uh, } then you're going to pay four million. /  
+
+b          A.79 utt1:   Right. /  
+
+%          B.80 utt1:   I-, - /
+sv          B.80 utt2: if you make forty dollars, you're going to pay four dollars.  /
+sv          B.80 utt3: [ {C And, } + {C and } ] that's it. /  
+
+aa          A.81 utt1:   Yep.  /
+sv          A.81 utt2: {C So } [ that, + that's ] it.  /
+%          A.81 utt3:  That's  {E I mean } - /
+sv          A.81 utt4: [ I, + I ] agree with that  /
+sv          A.81 utt5: that's a good idea  /
+qr          A.81 utt6: {C and } is it your expectation that that would raise the total revenues collected [ or, + or ] lower them or what? /  
+
+nd          B.82 utt1:   I don't know that it would or wouldn't. / 

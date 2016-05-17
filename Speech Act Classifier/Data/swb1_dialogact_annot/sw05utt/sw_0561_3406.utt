@@ -1,0 +1,204 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3406_1426_1343
+TOPIC#:		302
+DATE:		911115
+TRANSCRIBER:	GL
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+========================================================================
+  
+
+o          B.1 utt1:  Okay. /  
+
+qw          A.2 utt1:  {D So } what do you, {F uh, } think is [ the, + {F uh, } the  ] worst culprit for air pollution? /  
+
+sv          B.3 utt1:  {D Well, } I think [ it's, + it's ] probably a combination of things.   /
+sv          B.3 utt2: {F Um, } factories [ that, + that  ] burn coal as [ a, + an  ] energy source with sulfur and nitrogen contaminants, {D you know, }  /
+sv          B.3 utt3: {C and } you get sulfur oxides and nitrogen oxides. /  
+
+b          A.4 utt1:  Uh-huh. /  
+
+sv          B.5 utt1:  {F Uh, } those are the ones I think primarily contribute to acid rain,  /
+sv          B.5 utt2: {C and } I think [ that's, + that's  ] probably hurting us a little bit.  /
+sv          B.5 utt3:  [ It's   hurting, +   {D you know, } it's hurting ] Germany, for example, too,  and some other parts of Europe [ where they, + where they  ] have high industry.  /
+sv          B.5 utt4: {C So } we're not the lone ranger here. /  
+
+b          A.6 utt1:  Yeah.  /
+%          A.6 utt2:  [ I, + {F uh, } I,  ] - /
+sv          A.6 utt3: it's hard to put the finger on, {F uh, } what's worse,  [ you +  know, ] the acid rain situation or the ozone depletion, {F um, } with, {F uh, } your hydrocarbons, {F uh } --   
+
+b          B.7 utt1:  Yeah. /  
+
++          A.8 utt1:  -- causing the damage in which, -/  
+
+sv          B.9 utt1:  Hopefully we're backing off from that a little bit,  /
+sv          B.9 utt2: {C but } I know we haven't cured it yet by a long shot. /  
+
+sd          A.10 utt1:  {D Well, } I notice on one of these, {F uh, } home shopping networks they were selling these, {F uh, } halogen, {F uh, } fire extinguishers -- /  
+
+b          B.11 utt1:  Yeah. /  
+
+sd          A.12 utt1:  -- {C and } the halogen is, {F uh, } an ozone depleter,  /
+sd          A.12 utt2: {C and } it got hydrocarbons in there.  /
+sd          A.12 utt3: It's a very clean, {F uh, } fire extinguisher,  /
+sd          A.12 utt4: {C but } it's, {D you know, } really bad on the environment. /  
+
+b          B.13 utt1:  Yeah.  /
+b          B.13 utt2: {F Huh. }  /
+b          B.13 utt3: Yeah,  /
+ba          B.13 utt4: I guess I missed that one.  /
+%          B.13 utt5: {F Uh. } /  
+
+b          A.14 utt1:  Yeah. /  
+
+sv          B.15 utt1:  Automobiles of course are contributing, too,  /
+sv          B.15 utt2: {C and, } you know, [ how, + how ] we are with our love affair with the auto -- /  
+
+b          A.16 utt1:  Yeah. /  
+
+sv          B.17 utt1:  -- kind of hard to do anything about that, I guess. /  
+
+aa          A.18 utt1:  I know,  /
+%          A.18 utt2: {F uh, } in the Twin Cities area, - /
+sd          A.18 utt3: I just moved out of there and was kind of happy I timed it just right,  /
+sd          A.18 utt4: {C but } they had a new policy where in order to get [ your, + {F uh, } your ] [ license, + {F uh, } your car license,  ] {F uh, } renewed, you had to meet the pollution standards -- /  
+
+b          B.19 utt1:  Yeah. /  
+
+%          A.20 utt1:  -- {C and, } {F uh. } -/  
+
+sd          B.21 utt1:  We have that here, too,  /
+sd          B.21 utt2: {C but } it's part of the inspection sticker, {D you know, }  /
+sd          B.21 utt3: they put a probe in your exhaust pipe  /
+sd          B.21 utt4: [ {C and, } + {C and }  ] the computer reads whatever the ionization is coming out,  /
+sd          B.21 utt5: {C and --    
+
+b          A.22 utt1:  Yeah. /  
+
++          B.23 utt1:  -- so } [ that's, + {D you know, } that's  ] the way they're dealing with it here. /  
+
+b          A.24 utt1:  Yeah, {F uh, }  /
+b^r          A.24 utt2: yeah  /
+sd          A.24 utt3: I guess that was just mainly in the cities there,  /
+sd          A.24 utt4: {C and } as far as where I live, I don't have to do that,  /
+sd          A.24 utt5: {C but } --   
+
+b          B.25 utt1:  Yeah. /  
+
++          A.26 utt1:  -- I have an old car which I doubt [ would, + {F uh, } would,  ] {F uh, } pass the inspection, a seventy-six,  /
+sd          A.26 utt2: {C and, } {F uh, } {D you know, } there's no way I would put in a lot of money [ to, + to  ] repair it --   
+
+b          B.27 utt1:  Yeah. /  
+
++          A.28 utt1:  -- to meet standards. /  
+
+sv          B.29 utt1:  It'd probably be difficult anyway. /  
+
+b          A.30 utt1:  Yeah.  /
+sd          A.30 utt2:  {C So, } although I do what I can [ to, + to  ] cut down pollution,  /
+%          A.30 utt3: {C but, } {F uh. } -/  
+
+sd          B.31 utt1:  I was just reading an article in, {F uh, } [ MOTHER EARTH NEWS, + MOTHER EARTH NEWS  ] magazine -- /  
+
+b          A.32 utt1:  Yeah. /  
+
+%          B.33 utt1:  -- {C and, } {F uh, } they've got a new, {F uh, } - /
+sd          B.33 utt2: {D you know } a lot of places are burning wood -- /  
+
+b          A.34 utt1:  Yeah. /  
+
+sd          B.35 utt1:  -- [ a lot, + a lot  ] of people are burning wood,  /
+%          B.35 utt2: those of us who have, - /
+sd          B.35 utt3: I've got a place in the country, {D you know } -- /  
+
+b          A.36 utt1:  Uh-huh. /  
+
+sd          B.37 utt1:  -- {C and, } {F uh, } they've had [ catalytic con-, + {D you know, } catalytic converters  ] on those, on, - /
+sd          B.37 utt2: {F uh, } I think they're required in California and Oregon [ and, + and  ]  Washington,  /
+sd          B.37 utt3: {C but } they've had up those for quite a while,  /
+sd          B.37 utt4: {C and } somebody's come up with a new one that, {F uh, } sort of, - /
+sd          B.37 utt5: [ it's a, + it's a  ] catalytic converter,  /
+sd          B.37 utt6:  [ it's, + it's  ] a plate that fits [ in, + {D you know, } into ] the smoke pipe -- /  
+
+b          A.38 utt1:  Yeah. /  
+
+sd          B.39 utt1:  -- {C and, } {F uh, } apparently it sort of feeds itself.  /
+sd          B.39 utt2:  The more smoke is produced, {D you know, } - /
+sd          B.39 utt3: after you get to like five hundred degrees, the higher it gets the more complete the combustion is.   /
+sd          B.39 utt4: {C And } it sounds real neat.  /
+sd          B.39 utt5: I haven't seen them priced anywhere yet,  /
+sd          B.39 utt6: {C but } [ that, + that  ] sounds like that might help solve that problem even on --   
+
+b          A.40 utt1:  Yeah. /  
+
++          B.41 utt1:  -- {D you know, } [ [ old, + old, ] + {F uh, } older ] stoves that don't have any kind of E P A requirements on them.  /
+sv          B.41 utt2: That might help a little bit, especially in some places.  /
+sd          B.41 utt3:  We're really lucky here.  /
+sd          B.41 utt4: We have a prevailing southerly wind that blows just about everything out. /  
+
+b          A.42 utt1:  Yeah. /  
+
+sd          B.43 utt1:  {D Now } sometimes we get a kind of a, - /
+sd          B.43 utt2: especially [ in, + in, ] {F uh, } autumn it seem like we get kind of a brown haze sitting on us,  /
+sd          B.43 utt3: {C but } most of the time it's blowing out pretty well. /  
+
+b          A.44 utt1:  Yeah. /  
+
+sv          B.45 utt1:  Probably blowing up there to you guys <laughter>. /  
+
+b          A.46 utt1:  Yeah,  /
+%          A.46 utt2:  {D well, }  {D well } around here [ I, + we  ] get, {F uh, } - /
+sd          A.46 utt3: {D well } it depends, {D you know, }  /
+sd          A.46 utt4: {C either } [ in the, + in the  ] winter time [ it, + it ] blows it your way,  /
+sd          A.46 utt5: {C and } in the --   
+
+b          B.47 utt1:  Yeah. /  
+
++          A.48 utt1:  -- summer time <laughter> --   
+
+^2          B.49 utt1:  It comes back. /  
+
++          A.50 utt1:  -- we probably get yours. /  
+
+b          B.51 utt1:  <Laughter> Yeah.  /
+sv          B.51 utt2:  I really think, {F uh, } {D you know, } we're doing [ some, + some ] important things.  /
+sv          B.51 utt3:  Education, raising consciousness awareness, - /
+%          B.51 utt4: {F uh, } I know school kids, - /
+sd          B.51 utt5: I work for the school district here,  /
+sd          B.51 utt6: {C and, } {F uh, } {D you know, } this is one of the big things with kids.  /
+sd          B.51 utt7: Kids are writing letters to the newspapers [ about, + ] {D you know, } telling adults to --   
+
+b          A.52 utt1:  Yeah. /  
+
++          B.53 utt1:  -- clean up their act  /
+%          B.53 utt2: {C and, } it's {F uh, } {D you know, } - /
+sv          B.53 utt3: I hope we're not too late with it.  /
+sd          B.53 utt4: [ [ We're, + we're, ] + {F uh, } we're ] having   all  kinds of recycling. /  
+
+aa          A.54 utt1:  Yeah,  /
+sv          A.54 utt2: {D well, } it, {F uh, } [ th-, + that's ] a big thing, too.  /
+sd          A.54 utt3: I know it has nothing to do with air pollution,  /
+%          A.54 utt4: {C but } I kind of look at the way people treat our, -/ 

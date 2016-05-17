@@ -1,0 +1,771 @@
+This file contains a list of uncertain spoken syllables found in the MRT files
+of the ICSI Meeting Corpus Release.  They are denoted in the MRTs as:
+    <Uncertain NumSyllables="#"> @@ </Uncertain>
+where # is the number of syllables heard but undecipherable.
+
+These are rejected by the recognizer used for forced alignment, and thus do
+not output timing information.  In the DADB files, these rejects are seen
+as follows (refer to the key in meeting-labeler.txt for explanations on CO,
+DB, JA1, and JA2):
+
+    From CO      : almost none of the rejects are there, the ones that remain
+		   are seen as "@reject@"
+    From DB      : most, but not all, of the rejects are there as "@reject@"
+    From JA1,JA2 : retains all rejects as "@@"
+
+
+This file has one line per MRT segment that contains a "@@" and is formatted
+as follows:
+
+Meeting Spkr Chan MRT_segment_start MRT_segment_end MRT_transcript_words
+
+
+
+Bdb001 fe016 chanB 48.600 55.714 In fact, if you listen to just the channels of people not talking, it's like "@@".
+Bdb001 me011 chan3 62.011 62.586 @@
+Bdb001 me011 chan3 468.103 473.690 @@ More compact, which I think is - is better. I mean, if you did it at this -
+Bdb001 mn017 chan1 976.205 977.997 @@ We should - we should find out.
+Bdb001 mn017 chan1 1337.743 1340.167 y- So for instance @@ sup-
+Bdb001 mn017 chan1 1394.959 1396.282 @@ Right.
+Bdb001 fe016 chanB 1726.829 1727.887 @@ O_K.
+Bdb001 me018 chan4 1767.354 1768.561 @@ Yeah.
+Bdb001 mn017 chan1 2112.208 2112.736 @@
+Bdb001 me018 chan4 2278.113 2281.164 Well, th- overlap codes. I'm not sure what that @@ -
+Bed002 mn015 chan1 695.710 697.420 Wel- we- I - uh - I - I - @@
+Bed002 me012 chanB 1211.530 1213.104 Now @@ this email that you sent, actually.
+Bed002 mn015 chan1 1755.563 1756.007 @@
+Bed002 fe004 chan4 2064.299 2065.053 @@
+Bed002 fe004 chan4 2074.851 2076.880 the experimental subject. @@
+Bed002 mn015 chan1 2345.964 2348.619 Or after the fourth. Some find - @@ Forget that for now.
+Bed002 fe004 chan4 2420.690 2421.920 @@ there.
+Bed002 fe004 chan4 2715.450 2716.420 Yeah, it's @@.
+Bed002 me010 chan2 2926.600 2931.115 O_K, and you wanna it s- You know, the standard things you want it stable, you want it - yeah, @@.
+Bed002 me010 chan2 3026.885 3027.444 @@
+Bed002 mn015 chan1 3309.762 3310.930 @@
+Bed002 me003 chan8 3404.511 3408.472 So we're supposed to @@ about features and whatnot, and -
+Bed003 mn015 chan1 79.643 80.649 @@
+Bed003 mn015 chan1 81.601 82.380 @@
+Bed003 fe004 chan4 661.604 666.482 either world knowledge or situational things. Right? So that you have no distinction between those and @@ O_K.
+Bed003 fe004 chan4 679.080 682.231 "Unmark @@ Time of Day"
+Bed003 me012 chan3 2756.913 2757.449 @@
+Bed004 me003 chan1 1025.410 1026.580 Yeah, that's so @@.
+Bed004 me010 chan2 1145.430 1150.670 Oh, yeah, and then of course as she does it she'll - she'll learn @@. So that's great. Um
+Bed004 me010 chan2 1632.984 1638.850 that is, you know, with fill - you know, actually f- uh, fill it @@ in, then uh -
+Bed005 me012 chan3 596.782 599.100 @@ Are pl- playing at the cinema?
+Bed005 mn015 chan2 682.415 685.715 and this is what I had to do. I had to change, @@
+Bed005 me010 chan1 1195.393 1197.049 Alright. Uh @@
+Bed005 mn015 chan2 1236.960 1241.670 by @@ the restriction seed and this is exa- "I want -"
+Bed005 mn015 chan2 1397.967 1398.175 @@
+Bed005 mn015 chan2 1539.155 1540.060 @@
+Bed005 me010 chan1 1772.320 1775.870 Oh. It's beyond Source-Path-Goal, but I think we don't need to get beyond it @@ -
+Bed005 me012 chan3 2090.228 2091.594 @@
+Bed005 me010 chan1 2134.454 2134.693 @@
+Bed005 mn015 chan2 2553.709 2556.356 @@
+Bed005 fe004 chan4 2836.323 2837.186 Yeah, @@.
+Bed005 me012 chan3 3642.009 3642.921 @@.
+Bed005 me010 chan1 3725.157 3729.452 So, I will, e- e- before next week, uh, @@
+Bed006 me012 chan5 21.077 22.030 @@
+Bed006 mn015 chan2 1038.321 1039.159 @@
+Bed006 me045 chan4 1243.152 1246.230 "Die Dukes Von Hazard" @@
+Bed006 mn015 chan2 2056.410 2070.574 That's @@ but it's soon. So it's g- it's - the spec is there and it's gonna part of the M_-three-L_ A_P - A_P_I filed by the end of this year so that this means we can start using it basically now. But this is a technical detail.
+Bed006 fe004 chanA 2946.443 2947.236 @@
+Bed006 fe004 chanA 3046.210 3051.736 So like unless @@ - Are there reasons why one is better than the other I mean that come from other sources?
+Bed006 fe004 chanA 3109.897 3110.963 @@
+Bed006 mn015 chan2 3242.797 3243.451 @@
+Bed006 mn015 chan2 3376.184 3376.783 @@
+Bed006 mn036 chan0 3389.800 3393.410 So it's at Friday at three? there that's @@
+Bed006 fe004 chanA 3459.795 3460.738 @@
+Bed008 me010 chan2 462.878 464.290 So - so @@
+Bed008 me010 chan2 472.740 476.590 uh current @@ and so forth and so on or not at all, right?
+Bed008 me010 chan2 888.210 889.770 No, that's - that's a @@
+Bed008 me010 chan2 898.029 899.190 Well, that's @@
+Bed008 me010 chan2 1948.646 1951.438 is have an - and this will give you the flavor of the - of what @@
+Bed008 me012 chan4 2076.640 2084.260 No but, it's more than that, like the - the more sort of you break it up @@ like because if you have everything pointing to one node it's like exponential
+Bed008 mn015 chan5 2102.711 2103.629 @@
+Bed008 me012 chan4 2590.310 2591.690 That definitely interes- @@
+Bed009 me010 chan5 540.408 541.053 @@
+Bed009 mn015 chan1 685.010 686.490 @@
+Bed009 me010 chan5 1657.638 1658.685 @@
+Bed009 mn047 chan3 2307.586 2308.270 @@
+Bed009 mn047 chan3 2541.527 2542.080 @@
+Bed009 mn047 chan3 2608.480 2609.670 @@
+Bed009 mn048 chan0 2771.099 2771.296 @@
+Bed010 me045 chan1 0.000 0.550 @@
+Bed010 mn015 chan4 804.830 811.910 did it without th- all the shortcuts that they built in for the uh October @@ version". So we're actually maybe ahead of the System Gruppe by now,
+Bed010 me010 chan2 1427.151 1431.730 that takes a lot more data, and it's not as @@ and so forth and so on. So uh
+Bed010 mn015 chan4 1775.689 1777.006 @@
+Bed010 mn036 chan0 2667.030 2668.170 @@ It's possible yeah.
+Bed010 me003 chan3 3166.770 3169.010 Hi @@
+Bed011 mn015 chan2 2.432 2.672 @@
+Bed011 mn015 chan2 1599.732 1600.496 @@
+Bed011 mn015 chan2 1660.640 1663.338 Yeah. @@ O_K. @@
+Bed011 mn036 chan5 1744.510 1746.070 @@ function, yeah.
+Bed011 me010 chan3 2219.680 2222.780 Skateboards @@ right, anyway.
+Bed011 me045 chan1 2286.763 2288.020 Overrider @@
+Bed012 fn050 chan4 102.402 104.457 There were, like, the - you know, @@ and all that stuff. But.
+Bed012 mn015 chan2 152.575 152.835 @@
+Bed012 mn015 chan2 208.420 211.790 um, @@ of the Location that the car is near."
+Bed012 mn015 chan2 498.560 500.200 Yeah, exactly. The - @@
+Bed012 mn015 chan2 543.631 544.442 @@
+Bed012 mn015 chan2 1033.174 1034.220 Yeah. @@
+Bed012 me012 chan1 1132.402 1132.660 @@
+Bed012 me012 chan1 1343.714 1344.398 @@
+Bed012 mn015 chan2 1357.146 1357.940 @@
+Bed012 mn015 chan2 1736.327 1737.380 @@
+Bed012 me003 chan3 2339.621 2340.621 @@
+Bed013 mn015 chan3 420.300 422.160 Or not. @@
+Bed013 mn015 chan3 441.581 442.456 @@
+Bed013 me003 chan1 503.296 504.088 @@
+Bed013 mn015 chan3 560.297 564.960 And so, @@ whatever that is, it's the generic default intention.
+Bed013 me003 chan1 760.230 764.530 As far as - That's @@ - That's big. Actually - Oh! We calculated a different number before. How did we do that?
+Bed013 fn050 chan2 791.431 793.590 @@
+Bed013 me003 chan1 904.307 906.116 I th- @@ It's not like it's a blank slate.
+Bed013 mn015 chan3 1124.247 1124.813 @@
+Bed013 fe004 chan0 1124.801 1127.100 @@ figure this out.
+Bed013 mn015 chan3 1238.050 1239.020 @@
+Bed013 mn015 chan3 1419.417 1424.310 They don't have a TeX f- style @@ guide. They just want ASCII. Pure ASCII
+Bed013 me045 chan4 1618.710 1619.823 @@.
+Bed013 mn015 chan3 1704.040 1709.372 Yeah, and you can - you can just point to the - to the literature, you can say that construction-based @@
+Bed013 fe004 chan0 1729.940 1731.830 @@ I mean you could definitely -
+Bed013 me045 chan4 1936.863 1938.133 @@ in here
+Bed013 fe004 chan0 1976.812 1979.056 @@
+Bed013 fe004 chan0 2102.298 2103.040 @@
+Bed013 mn015 chan3 2591.060 2597.090 this is prototypically @@ found in the "where is something" question, surface structure,
+Bed013 mn015 chan3 2805.718 2805.968 @@
+Bed013 me003 chan1 2837.395 2840.660 I mean it just seems like @@ has to have uh - a node for the construction
+Bed014 me003 chan3 42.354 44.479 @@
+Bed014 mn015 chan4 338.320 339.010 No, I - @@
+Bed014 me010 chan2 452.150 453.971 Oregon @@ Graduate Institute
+Bed014 fe004 chan1 589.760 591.244 @@
+Bed014 fe004 chan1 1552.204 1554.360 Renew @@ Yeah.
+Bed014 mn015 chan4 1834.592 1835.190 @@
+Bed014 me010 chan2 2060.030 2060.589 D- i- @@
+Bed014 fe004 chan1 2112.075 2112.491 @@
+Bed014 fe004 chan1 2121.957 2122.273 @@
+Bed014 me010 chan2 2195.730 2198.343 Yeah. @@ That's - Me too. I'm basically - I'm here. So.
+Bed014 me010 chan2 2387.170 2391.423 Well m- @@ you know, w- maybe Mond- Maybe we can put - This is part of what we can do Monday, if we want.
+Bed014 me045 chan0 2504.599 2505.766 It's more general @@
+Bed014 me010 chan2 2662.821 2667.548 In - in logic, it's - it's - @@ it's actual- Huh? What?
+Bed014 fn050 chan5 3103.193 3103.450 @@
+Bed015 me003 chan1 505.428 506.495 @@
+Bed015 fe004 chan5 640.837 641.464 @@ it.
+Bed015 mn015 chan0 4621.025 4626.537 And then - then instantiate them. That's ma- maybe the - the way - the only way it works. @@
+Bed016 mn015 chan3 285.592 290.158 But, with a focus on @@
+Bed016 fe004 chan1 1267.025 1269.100 That's not about that, @@ is it?
+Bed016 fe004 chan1 1657.440 1658.410 @@
+Bed016 fe004 chan1 2491.088 2492.179 Right? @@
+Bed017 mn015 chan1 19.659 27.531 @@ You know how to toggle the display width function -
+Bed017 me003 chan4 36.990 40.700 @@ You should be - at least be self-satisfied enough to laugh at your own jokes.
+Bed017 mn015 chan1 271.092 274.978 um, he @@ might tell us a little bit about what he's actually doing, and
+Bed017 mn015 chan1 822.007 831.042 Um, uh these - @@ these - w- w- when these are instantiated they take on the same values? that we had before? or are they -
+Bed017 mn015 chan1 974.738 979.010 until then we'll come up with a something that's - @@
+Bed017 mn059 chan2 1606.077 1613.627 m- @@ and basically what I - what I envision is that you - rather than just supplying a bunch of keywords you could basically - for - for an F_A_Q for example you could state
+Bed017 mn059 chan2 1674.977 1678.710 So I think that's - that's crucial for - for the success of - or @@ -
+Bed017 mn059 chan2 1837.435 1838.434 @@
+Bed017 mn059 chan2 1841.232 1841.872 @@
+Bed017 mn059 chan2 1843.254 1843.863 @@
+Bed017 fe004 chan0 1910.915 1911.691 @@
+Bed017 me010 chan5 1914.410 1919.240 I don't know why he @@ - oh, I, who knows? Anyway, s- yeah, you'll see - you'll certainly see a lot of the people there.
+Bmr001 me013 chan0 106.487 109.927 I think listening to this is gonna be like watching somebody's home movies. @@
+Bmr001 me025 chan8 1285.396 1286.005 @@
+Bmr001 me025 chan8 1407.046 1408.662 Well, but the @@ -
+Bmr001 me025 chan8 1556.457 1562.610 Right. But I mean if we - if we want Jerry's group to use it then we probably @@ won't ask them to read any numbers, right? Cuz.
+Bmr001 me025 chan8 1707.800 1709.216 For one of - one of @@.
+Bmr001 me025 chan8 1721.183 1724.714 cut it out when there's no energy. So you don't @@ noise.
+Bmr002 me011 chan1 97.602 98.906 @@ Uh
+Bmr002 me025 chan2 535.188 535.802 @@
+Bmr002 me025 chan2 1132.617 1134.367 a lot of @@ these things.
+Bmr002 me025 chan2 1308.081 1309.141 although that might @@
+Bmr002 me025 chan2 1389.595 1390.202 @@
+Bmr002 fe008 chan3 1744.792 1745.746 @@
+Bmr003 me028 chan3 72.610 75.270 @@ How - how many are there, one to five?
+Bmr003 me025 chan1 492.582 494.796 @@ No, we don't.
+Bmr003 me028 chan3 751.215 752.227 things after the f- then @@
+Bmr003 me028 chan3 2060.321 2062.630 @@
+Bmr003 fe008 chan4 2550.120 2551.830 was sort of the way I felt @@ -
+Bmr003 me022 chan2 2555.360 2560.050 Well, yeah, what I mean is wh- I mean, when somebody says "uh-huh" in the middle of, uh, a @@ -
+Bmr003 fe008 chan4 2634.543 2634.949 @@
+Bmr003 fe008 chan4 2775.542 2778.070 @@ this utterance plus an overlap.
+Bmr003 me028 chan3 2786.910 2795.956 I think whenever we use these speech words we should always do the thing like you're talking about, accent, @@ @@.
+Bmr003 me025 chan1 3132.650 3134.740 No. But it's something @@ that I feel
+Bmr003 me028 chan3 3411.700 3413.289 @@ d- we - we out of tape - out of disk?
+Bmr003 me025 chan1 3714.810 3720.505 But I subtracted the four that I did have from the mix and got a pretty good approximation of the @@. Yeah.
+Bmr003 me028 chan3 3931.480 3936.060 No, and he - he had, reque- @@ - my - my proposal is you have a laptop. You don't?
+Bmr005 me011 chan8 32.473 34.922 So - @@ So they should be right
+Bmr005 mn017 chan5 834.658 836.934 I f- f- f- I've - @@ d-
+Bmr005 fe016 chan2 2347.734 2351.271 O_K, I'm sorry I missed the - @@
+Bmr005 fe008 chan1 2531.050 2531.925 @@
+Bmr005 me018 chan0 2531.182 2531.709 @@
+Bmr005 mn005 chan3 2592.980 2595.800 How many? Eh, not @@ I-
+Bmr005 mn017 chan5 2679.200 2679.857 @@
+Bmr005 fe016 chan2 2860.870 2862.436 Actually I have o- @@
+Bmr005 me013 chan4 3647.765 3648.031 @@
+Bmr005 me011 chan8 3754.737 3755.072 @@
+Bmr005 me013 chan4 3794.518 3798.240 If they really have something they wanna talk about as opposed to something @@ - I mean,
+Bmr006 me013 chan3 80.590 81.110 @@
+Bmr006 fe016 chan9 311.894 312.112 @@
+Bmr006 me011 chan1 441.574 442.134 @@
+Bmr006 fe016 chan9 902.549 904.086 @@ You - you can. You can use -
+Bmr006 me013 chan3 1535.041 1536.473 @@ So, uh,
+Bmr006 mn005 chan2 1610.680 1613.239 I - I - I do- I don- I don't @@ -
+Bmr006 mn005 chan2 1814.099 1815.310 @@
+Bmr006 me013 chan3 1816.828 1817.676 @@ Go ahead.
+Bmr006 mn005 chan2 1881.702 1882.142 @@
+Bmr006 mn005 chan2 2014.050 2015.706 For - for the - by the @@
+Bmr006 mn005 chan2 2015.706 2018.901 no, @@ because I - I - I - I want to limit
+Bmr006 me013 chan3 2030.244 2030.640 @@
+Bmr006 mn005 chan2 2089.980 2092.059 @@ h- here yet,
+Bmr006 mn005 chan2 2155.560 2158.701 @@
+Bmr006 me011 chan1 2308.007 2311.365 @@ Unimodal? So is it just one cluster per -
+Bmr006 mn005 chan2 2310.151 2316.963 W- with a model, is - is only to cluster using a eh, @@ or a similarity.
+Bmr006 me013 chan3 2438.054 2438.370 @@
+Bmr006 me013 chan3 2446.960 2450.380 you may wanna build @@ - build a Markov model of some sort
+Bmr006 mn005 chan2 2674.030 2675.150 another model will @@
+Bmr006 fe008 chan4 2687.810 2689.134 @@
+Bmr006 me013 chan3 2957.443 2957.920 @@
+Bmr006 mn005 chan2 2994.840 2996.942 Ah, yeah, yeah yeah yeah. @@
+Bmr006 me013 chan3 3208.518 3210.360 That's - So - so i- @@
+Bmr006 me013 chan3 3389.251 3390.410 @@
+Bmr006 me011 chan1 3422.695 3424.651 Big micro @@ arrays.
+Bmr006 me013 chan3 3603.917 3604.096 @@
+Bmr006 me013 chan3 3604.096 3605.150 O_K. @@
+Bmr006 me011 chan1 3836.681 3838.264 O_K. @@
+Bmr006 me018 chan0 3986.770 3988.881 They're just gonna write "Bob" on it or do @@ -
+Bmr006 me011 chan1 3988.179 3989.968 Yeah, @@ they're just gonna write "Bob".
+Bmr006 mn005 chan2 4101.727 4102.871 @@ Yeah.
+Bmr006 fe008 chan4 4119.070 4119.620 @@
+Bmr006 fe008 chan4 4370.706 4371.070 @@
+Bmr007 mn005 chan4 0.000 0.353 @@
+Bmr007 mn005 chan4 84.906 85.481 @@
+Bmr007 me013 chan3 627.662 628.768 @@
+Bmr007 mn005 chan4 663.738 667.170 mmm, Because the - the uh, @@ is @@.
+Bmr007 mn014 chan2 855.162 855.542 @@
+Bmr007 fe016 chan1 859.674 860.039 @@
+Bmr007 me013 chan3 1378.731 1380.221 a fair number of times today. @@ But.
+Bmr007 fe016 chan1 1383.199 1384.089 @@
+Bmr007 me013 chan3 1579.460 1580.041 @@
+Bmr007 mn005 chan4 1833.205 1833.892 @@
+Bmr007 fe016 chan1 2846.273 2848.130 But then there's just one @@, like.
+Bmr007 me013 chan3 2929.276 2934.708 I did have this other agenda item which is, uh @@ - it's uh a list which I sent to uh - a couple folks,
+Bmr007 mn014 chan2 3095.573 3096.735 @@
+Bmr007 mn014 chan2 3159.935 3160.637 @@
+Bmr008 mn005 chan2 196.046 197.668 @@
+Bmr008 mn005 chan2 406.906 407.842 @@
+Bmr008 fe016 chan0 428.872 429.353 @@ -
+Bmr008 fe008 chan8 1954.219 1954.488 @@
+Bmr008 mn005 chan2 2029.837 2030.635 @@
+Bmr008 fe008 chan8 2499.635 2500.136 @@
+Bmr008 fe008 chan8 2569.353 2569.854 @@
+Bmr008 fe008 chan8 2574.561 2576.798 how you're perceived and how y- and how the other @@ -
+Bmr008 me013 chan1 2825.208 2831.400 And the other thing is that, if that isn't @@ uh so much of the issue, then probably -
+Bmr008 mn005 chan2 3225.172 3226.762 @@
+Bmr008 mn005 chan2 3352.535 3353.976 For most @@.
+Bmr008 me013 chan1 3396.089 3400.273 I mean, @@ this is something to - to experimentally determine, but I mean,
+Bmr009 mn005 chan4 72.561 73.493 The @@ -
+Bmr009 mn005 chan4 169.502 170.018 @@
+Bmr009 mn005 chan4 543.222 546.510 Because there reach very many @@
+Bmr009 mn005 chan4 1026.616 1027.689 @@
+Bmr009 fe008 chan1 1388.985 1390.734 in this small @@
+Bmr009 fe016 chan3 1430.354 1430.563 @@
+Bmr009 fe016 chan3 1584.518 1585.112 @@
+Bmr009 fe008 chan1 1675.919 1677.036 @@
+Bmr009 fe008 chan1 2005.016 2006.409 Oh, @@. - O_K.
+Bmr009 me011 chan0 2105.421 2105.962 @@
+Bmr009 mn005 chan4 2136.562 2137.649 @@ style.
+Bmr009 me013 chan2 2143.262 2145.205 Well, Boston's @@, too.
+Bmr009 fe016 chan3 2264.998 2265.642 @@
+Bmr009 me013 chan2 2339.749 2341.742 in - in there. I forget what it is @@.
+Bmr009 mn005 chan4 2346.955 2350.424 Southern Midland. @@
+Bmr009 fe008 chan1 2691.331 2692.314 @@.
+Bmr010 me013 chanB 4.668 5.412 @@
+Bmr010 fe008 chan8 492.421 496.457 Well, O_K. So @@ the limits of the over- of - of the interface are
+Bmr010 me011 chan0 932.586 933.846 @@ Cross-correlation.
+Bmr010 mn005 chan3 1194.898 1195.529 @@
+Bmr010 mn005 chan3 1311.274 1312.192 Yeah. @@
+Bmr010 mn005 chan3 1648.168 1648.979 @@
+Bmr010 me013 chanB 1673.145 1673.826 @@
+Bmr010 me013 chanB 2028.645 2029.381 @@
+Bmr010 mn005 chan3 2374.464 2383.380 Eh, um, eh, @@ in the - in the measurement, uh, the average, uh, dividing by the - by the, um, variance.
+Bmr010 me013 chanB 2439.709 2440.910 @@
+Bmr010 me013 chanB 2449.819 2456.103 Um, I - I'm - I'm still a little f- think that's a little funny. These things l- @@ seems like there should be, but -
+Bmr010 me011 chan0 2653.323 2653.950 @@
+Bmr010 me013 chanB 2758.531 2759.806 Yeah, I mean, I - @@
+Bmr010 fe008 chan8 2760.546 2761.229 @@
+Bmr011 me013 chan1 48.180 54.943 Uh, @@ tuss- close talking mikes, better quality. O_K, uh, we can talk about that. You were gonna - starting to say something?
+Bmr011 me013 chan1 351.504 351.692 @@
+Bmr011 fe008 chan8 526.738 526.870 @@
+Bmr011 me013 chan1 1274.120 1278.320 I think for @@ I mean, how we're gonna decide -
+Bmr011 fe016 chan0 2171.133 2171.900 @@
+Bmr011 me013 chan1 3262.020 3266.675 I had as my fourth thing here processing of wave forms. What did we mean by that? Remember @@?
+Bmr011 mn005 chan3 3438.522 3445.075 uh, few situation, eh, I consider for acoustic event is enough to @@. I -
+Bmr011 mn005 chan3 3454.353 3454.451 @@
+Bmr012 fe008 chan8 62.003 66.335 I could - can this be adjuste- like this? Is that @@? O_K, thank you.
+Bmr012 mn017 chan0 72.298 74.282 Basically there were no counts @@
+Bmr012 fe016 chan2 550.706 557.408 and a different topic and they're talking about things in the news that happened after Switchboard-one so there was @@ so that's great.
+Bmr012 mn017 chan0 1319.500 1323.433 shouldn't use - you should s- you know, get @@
+Bmr012 mn017 chan0 1791.730 1798.059 Yeah. @@
+Bmr012 mn017 chan0 1875.090 1876.420 @@
+Bmr013 fe008 chan2 654.147 654.466 @@.
+Bmr013 mn014 chan1 804.179 806.112 @@
+Bmr014 me018 chan2 126.900 128.870 No I'm just - @@
+Bmr014 fe008 chanB 1803.265 1804.357 @@
+Bmr014 me013 chan8 2338.623 2343.377 See I'm @@ worried about this interface so much fun that people start bleeping stuff out
+Bmr014 me011 chan4 2523.930 2526.620 That was all mumbled? I think Microsoft is @@
+Bmr014 fe008 chanB 2526.003 2527.655 Yeah exactly @@
+Bmr014 me011 chan4 2532.610 2533.549 @@
+Bmr014 me018 chan2 2609.720 2611.418 Any sub-word level thing. @@
+Bmr014 me011 chan4 2721.578 2724.500 j- I don't know. @@
+Bmr015 me013 chan1 36.022 36.863 Uh. @@
+Bmr015 mn005 chan3 1904.970 1907.814 And I change the - the - the @@,
+Bmr015 mn005 chan3 2022.044 2023.169 @@
+Bmr016 me013 chan8 3.989 4.544 @@
+Bmr016 me013 chan8 10.806 11.429 @@
+Bmr016 fe016 chanB 1411.387 1414.514 some of yours, and @@ we'll move on.
+Bmr016 me013 chan8 1470.157 1472.022 No, I didn't notice that actually. @@
+Bmr016 mn014 chan1 1802.211 1803.165 @@
+Bmr016 me013 chan8 1895.860 1897.665 So, @@.
+Bmr016 fe008 chan5 1931.217 1931.606 @@
+Bmr016 mn014 chan1 2263.252 2264.579 @@
+Bmr016 fe016 chanB 2463.009 2464.576 @@
+Bmr016 fe008 chan5 2465.609 2466.288 @@
+Bmr016 me011 chan4 2468.850 2469.824 @@ -
+Bmr016 fe016 chanB 2493.320 2494.081 @@
+Bmr016 me011 chan4 2564.630 2568.240 @@ Them Canadians.
+Bmr016 fe008 chan5 2635.095 2638.110 Question mark is punctuation. So it - they said that @@ -
+Bmr016 fe016 chanB 2823.497 2826.013 Well there's not @@.
+Bmr016 fe008 chan5 2940.443 2941.320 @@
+Bmr016 me001 chan3 3717.274 3720.340 And I know - I've seen @@ - I've seen they've been channelized, but
+Bmr016 me018 chan2 3830.790 3837.708 @@ that will be ma- you know primarily come from what you've done, um, we'll need to work on a channelized version of those originals.
+Bmr018 me018 chan1 306.360 310.680 I don't know, maybe we can figure out how long it'll take @@ to - to do.
+Bmr018 me013 chan2 413.760 417.830 Why wouldn't we s- @@ w- i- if they were going sequentially through it, why wouldn't
+Bmr018 mn017 chan5 643.944 644.821 @@
+Bmr018 me013 chan2 655.450 662.870 So - but there's markers of some sort that have been happening automatically, and those show up on the mixed signal? There's a @@ clicks?
+Bmr018 me013 chan2 976.030 979.260 Done with that? @@ Does any - I forget, does anybody, uh,
+Bmr018 mn017 chan5 1152.696 1155.738 for it. And the grammar wasn't tuned either. It was just a @@.
+Bmr018 fe008 chan0 1195.833 1196.234 @@
+Bmr018 fe008 chan0 1196.602 1196.936 @@
+Bmr018 me013 chan2 1394.156 1394.845 @@
+Bmr018 mn017 chan5 1494.214 1499.120 uh, infer from the alignment that someone spoke who didn't. @@ so, so -
+Bmr018 me011 chan4 1530.915 1532.650 @@ So a meeting with me in it.
+Bmr018 fe008 chan0 1852.773 1859.529 on the t- on the text line and i- and otherwise you just use an arrow to get down - I mean, i- it depends on how lar- @@ th- there's so many
+Bmr018 fe016 chan3 2379.820 2383.990 Maybe the - yeah, the s- thing that you have tightened @@, oh.
+Bmr018 me001 chan8 2398.341 2399.320 @@
+Bmr018 me013 chan2 2924.070 2934.330 But I mea- i- wh- it - @@ that's - that's dissing it, uh, improperly, I mean, it was a nice study. Uh, they were doing this - it wasn't word-sense disambiguation, it was - was it w- was it word-sense? Yes.
+Bmr018 me013 chan2 2964.970 2970.560 And then they had this log scale showing a - @@ you know, and - and naturally everything gets -
+Bmr018 me013 chan2 2970.900 2977.378 they - well, it's a big company, @@ I didn't - I didn't mean it as a ne- anything negative, but i- i- i-
+Bmr018 me013 chan2 3044.612 3050.352 which is not at - n- t- as for as I know in - in tasks I'm more familiar with @@ is not at all true.
+Bmr018 me013 chan2 3259.460 3266.811 There's just plain cost, you know, so - so these, I mean th- the - in the - in the speech side, the thing that @@ always occurs to me is that if you -
+Bmr018 me013 chan2 3360.160 3363.680 Let's do it all at once. We - @@ - let's try that again.
+Bmr019 me013 chan1 21.685 23.425 @@
+Bmr019 me013 chan1 97.366 98.336 @@
+Bmr019 fe008 chan2 1977.541 1978.444 So it @@, like, I mean -
+Bmr019 mn005 chanA 2303.329 2307.425 Here @@ -
+Bmr019 me013 chan1 2663.762 2667.592 @@ Oh, now it's out in the public, this - this - this secret information. Yeah.
+Bmr019 me013 chan1 2708.704 2709.260 @@
+Bmr019 mn005 chanA 2754.679 2755.896 @@
+Bmr019 me013 chan1 3028.943 3029.813 @@
+Bmr019 mn005 chanA 3065.057 3066.405 @@
+Bmr019 mn005 chanA 3240.056 3250.779 And I - I would like to - to - to say thank you very much, eh, to all people in the group and at ICSI, because I - I enjoyed @@ very much, uh.
+Bmr019 mn005 chanA 3299.833 3302.687 the following @@ scholarship, eh, eh,
+Bmr020 me001 chan4 59.026 59.590 @@
+Bmr020 fe008 chan2 393.420 394.165 @@
+Bmr020 mn017 chanA 419.427 420.530 @@
+Bmr020 mn017 chanA 559.670 562.143 uh, well Don's been working hard. @@
+Bmr020 mn017 chanA 646.956 647.800 @@
+Bmr020 mn014 chan1 1009.190 1009.478 @@
+Bmr020 mn017 chanA 1221.322 1221.960 @@
+Bmr020 me001 chan4 1287.344 1287.946 @@
+Bmr020 fe008 chan2 2127.271 2131.843 um, you know, the backchannels per-se wouldn't be so hard, but then there's this question of the time @@
+Bmr020 mn014 chan1 2290.542 2291.743 I'm @@ - now I'm confused.
+Bmr020 fe008 chan2 2446.930 2448.896 I'm - I'm open to that, it was - @@
+Bmr020 mn014 chan1 2601.651 2602.326 What - @@
+Bmr020 me011 chan0 2667.887 2672.057 Yeah, cuz @@ uh- what I had originally said to Brian was well they'll have to mark,
+Bmr020 fe008 chan2 2749.877 2750.755 Just @@
+Bmr020 mn014 chan1 3172.762 3173.101 @@
+Bmr020 mn014 chan1 3174.423 3175.040 @@
+Bmr020 me011 chan0 3311.259 3315.027 four seven O_, @@ O_ four eight, O_ five O_
+Bmr021 mn017 chan1 1137.650 1139.750 @@ you know, I did uh run
+Bmr021 mn017 chan1 1540.603 1549.370 And then maybe another up - I don't know how much the C_zero normalization business really matters I can't it see, I mean can't see it - the @@
+Bmr021 mn017 chan1 2194.574 2195.828 @@
+Bmr022 fe008 chanA 1423.859 1424.767 @@ Huh.
+Bmr022 fe016 chan2 2348.803 2349.000 @@
+Bmr023 fe016 chan9 383.707 384.857 @@
+Bmr023 mn014 chan4 624.284 626.836 It should @@ be finished today or something. Yeah.
+Bmr023 me018 chan3 655.171 658.880 @@ we can get a better estimate from this one that we send them.
+Bmr023 fe008 chan0 1023.742 1027.679 And, um - @@ - I, uh - the -
+Bmr023 fe008 chan0 1033.133 1033.984 @@
+Bmr023 fe008 chan0 1300.981 1308.359 The other thing, too, is there can be subtleties where a person uses this word instead of that word, which @@ could've been transcribed in the other way.
+Bmr023 mn017 chan2 1966.288 1971.822 you know, Chuck and I talked and the @@ next thing to do is probably to tune the -
+Bmr023 mn017 chan2 1974.551 1980.198 um, @@ to - to this - to this feature vector, which we haven't done at all. We just used the same
+Bmr023 mn017 chan2 1985.861 1987.046 Dan - @@
+Bmr023 mn017 chan2 1993.568 1994.310 @@
+Bmr023 mn017 chan2 2055.654 2056.685 @@
+Bmr023 mn017 chan2 2069.889 2077.028 uh, with, you know, just @@ actually doing both training and test normalization, um, with, um,
+Bmr023 mn017 chan2 2154.618 2156.150 @@ um,
+Bmr023 me013 chan5 2204.860 2208.465 @@ they're essentially the same scale but the - but - but - but
+Bmr023 me018 chan3 2570.956 2576.002 So, Morgan, an- another thing that Andreas and I were talking about was, so @@ in the first experiment that he did
+Bmr023 me013 chan5 3065.786 3068.654 @@ Not to mention the fact that we're missing snacks. Yeah.
+Bmr023 me013 chan5 3097.365 3098.287 @@
+Bmr024 me018 chan1 181.370 183.058 That - that was basically it. Not - not much @@ -
+Bmr024 me018 chan1 320.841 323.781 @@ uh, like a beep sounds like it's cut into two beeps.
+Bmr024 me018 chan1 427.577 427.718 @@
+Bmr024 me011 chan5 1563.754 1564.047 @@
+Bmr024 me011 chan5 1589.932 1590.976 Mmm. Mmm. @@
+Bmr024 mn017 chanB 1888.819 1893.461 And we do our own back-up once and for all - all, and then - and we don't have to bother this @@ up?
+Bmr024 mn017 chanB 1991.053 1992.253 Well, I'm saying is @@
+Bmr024 me011 chan5 2113.810 2113.935 @@
+Bmr024 me013 chan3 2395.954 2396.807 @@
+Bmr024 mn017 chanB 2767.664 2768.093 @@
+Bmr025 me018 chan5 519.690 522.930 What about issues of playing sound files @@ between the two platforms?
+Bmr026 me011 chan0 1081.515 1081.728 @@
+Bmr026 mn017 chan3 1803.096 1806.790 You wanna - You wanna see where that stands? @@
+Bmr026 me013 chan1 2493.485 2494.060 @@
+Bmr026 me013 chan1 2689.996 2691.735 de-ba-de. de-ba-de @@
+Bmr027 me018 chan2 1.454 4.153 @@ Adam, what is the mike that, uh, Jeremy's wearing?
+Bmr027 me013 chan1 96.239 98.660 Yeah. @@ Um.
+Bmr027 fe008 chan0 136.248 136.485 @@
+Bmr027 mn017 chanB 413.919 415.857 @@
+Bmr027 fe008 chan0 448.880 449.565 @@
+Bmr027 mn017 chanB 509.577 512.386 @@
+Bmr027 mn017 chanB 553.059 553.890 @@ Right.
+Bmr027 me013 chan1 817.261 818.467 @@
+Bmr027 fe008 chan0 905.293 910.883 @@ us try to contact them, u- just in case they hadn't gotten their email. I think they'd appreciate it.
+Bmr027 fe008 chan0 1845.058 1846.293 Um @@
+Bmr027 fe008 chan0 1865.130 1865.639 @@
+Bmr027 mn017 chanB 2031.902 2037.935 you know, un- until you actually get a decent language model, @@ Adam's right. You probably won't notice a difference.
+Bmr027 mn017 chanB 2513.976 2514.840 @@
+Bmr027 fe016 chan4 2615.660 2618.010 Funny @@
+Bmr028 me013 chan2 433.876 434.840 Oh, yeah that @@.
+Bmr028 mn014 chan3 735.618 739.198 @@
+Bmr028 me018 chan1 783.858 784.827 @@
+Bmr028 mn017 chanB 824.720 826.970 Stalk them @@ at their -
+Bmr028 mn017 chanB 837.146 837.824 @@
+Bmr028 fe008 chan5 2337.123 2339.311 how you get them into the vocabulary, but it would seem @@ -
+Bmr029 mn017 chan9 759.886 761.176 @@
+Bmr030 me011 chan5 188.748 189.427 @@
+Bmr030 me001 chan1 265.101 266.480 I could @@
+Bmr030 me001 chan1 281.033 281.460 @@
+Bmr030 me001 chan1 364.810 365.670 @@
+Bmr030 me018 chan2 513.135 513.700 @@
+Bmr030 me018 chan2 947.429 947.782 @@
+Bmr031 me011 chan5 60.668 60.982 @@
+Bmr031 me013 chan2 66.949 75.472 Yeah. So I - I - @@ Adam sent around this thing about what we were going to talk about and - and th- we had had this discussion of, uh, flipping back and forth between an emphasis on -
+Bmr031 me013 chan2 830.530 835.288 it's @@ - sixty kilohertz is plenty. So - so -
+Bmr031 fe016 chan1 886.930 892.029 Yeah. They were g- they said they were gonna record @@ - I don't know if there were fifty, but there were definitely above, like, twenty.
+Bmr031 me018 chanB 957.549 959.314 S- seventeen. @@
+Bmr031 me013 chan2 1052.436 1054.592 @@
+Bmr031 me013 chan2 2040.611 2041.210 @@
+Bmr031 mn017 chan9 2148.160 2149.460 @@
+Bmr031 me013 chan2 2304.613 2311.121 So I should mention, Dave and I have sort of been pushing through - thinking in terms of an A_S_R_U paper. But I'm still - @@
+Bmr031 me013 chan2 2413.025 2419.237 @@ been thinking of doing, is there's a whole lot of work that's been going on in noise suppression in the - in the Aurora, uh, team.
+Bmr031 fe016 chan1 2621.932 2623.310 @@
+Bmr031 me011 chan5 2638.838 2639.643 @@
+Bmr031 me013 chan2 2760.550 2760.960 @@
+Bmr031 mn017 chan9 2978.060 2979.320 version of @@.
+Bmr031 fe016 chan1 3018.280 3018.692 @@
+Bns001 mn035 chan0 3.644 5.106 @@
+Bns001 mn021 chan1 650.244 654.619 uh, networking @@. So this kind of things I think I'm
+Bns001 mn082 chan3 1010.341 1014.196 Was it also related with - with these things. No? O_K, It was @@.
+Bns001 mn081 chan2 1324.860 1327.980 that translates everything to that uh w- local @@.
+Bns001 mn082 chan3 1473.382 1475.090 Yeah, non-null @@
+Bns001 mn035 chan0 1964.815 1968.090 @@ ist fertig.
+Bns001 mn082 chan3 2154.084 2155.947 That's a fun @@
+Bns001 mn082 chan3 2241.936 2243.813 Yeah? @@ O_K.
+Bns001 mn082 chan3 2458.535 2460.274 You mean now for G_S_M, @@, or -?
+Bns001 mn081 chan2 3641.063 3641.972 But @@
+Bns001 mn082 chan3 3641.063 3643.650 @@ of the contents, in principle.
+Bns001 mn082 chan3 4149.285 4150.717 really Multicast @@
+Bns001 mn082 chan3 4839.894 4841.259 @@
+Bns001 mn082 chan3 5313.088 5315.997 eh institutions and - @@
+Bns001 mn081 chan2 5447.777 5450.112 I mean the Bay Area @@
+Bns001 mn082 chan3 5772.888 5773.587 @@
+Bns001 mn082 chan3 5777.309 5778.098 @@
+Bns001 mn082 chan3 5804.268 5806.947 @@ Well, that's my final vision you know.
+Bns001 mn082 chan3 5953.013 5956.142 So maybe I will find him @@.
+Bns002 mn082 chan3 511.767 513.300 @@
+Bns002 mn035 chan0 1073.610 1074.344 @@
+Bns002 mn082 chan3 1601.440 1602.655 Naja to - to - @@
+Bns002 mn082 chan3 1605.661 1607.506 Mm-hmm. Yeah, @@. O_K.
+Bns002 mn021 chan4 2328.647 2337.179 @@ for - for the transmission range, will be O_K for a given number of nodes, if we -
+Bns002 mn021 chan4 2653.932 2659.348 It shou- should be something ipsh @@
+Bns002 mn021 chan4 2664.681 2668.923 uh @@
+Bns002 mn082 chan3 3054.783 3058.500 for batteries, and - and - and - @@ and sofort so on
+Bns002 mn040 chanB 3294.820 3298.430 Excuse me @@. If I understood correctly, the mechanism
+Bns002 mn082 chan3 5184.824 5187.700 will be more flexible. There's a @@ for uh current -
+Bns002 mn082 chan3 5395.850 5400.060 I hope that everybody is doing his homework concerning @@ for instance
+Bns002 mn082 chan3 6108.080 6116.180 So I suggest, @@ now we will have - in a few minutes we will have the coffee break, tea, cake, whatever, @@ will - will be offered,
+Bns003 mn082 chan4 296.531 298.944 Nah, but nevertheless thanks to Dietmar that he @@.
+Bns003 mn082 chan4 711.960 716.830 uh so that we can update these last @@ you know @@ present the last major
+Bns003 mn082 chan4 921.217 921.730 @@
+Bns003 mn082 chan4 1349.790 1350.861 @@
+Bns003 mn082 chan4 2095.345 2096.499 @@ this is.
+Bns003 mn082 chan4 2214.090 2214.660 @@
+Bns003 mn082 chan4 2345.171 2348.812 contact list and @@ the interests of each partner
+Bns003 mn082 chan4 2431.830 2433.645 Because that is a major @@,
+Bns003 mn082 chan4 2599.420 2603.840 Where it should be ada- @@ - where should be, uh, the adaptation process performed
+Bns003 mn082 chan4 2634.440 2635.990 work, I @@.
+Bns003 mn082 chan4 2671.972 2672.583 @@
+Bns003 mn082 chan4 2721.411 2724.459 And I will call Herr Janin and that - Adam @@.
+Bns003 mn081 chan8 2906.794 2907.885 @@ oh, oh,
+Bro003 mn007 chan9 684.781 685.692 And, @@
+Bro003 me006 chan2 741.747 743.818 @@ Tell him about the cube.
+Bro003 me013 chan8 882.628 886.528 I said - @@, there's - there's - there's an O_G_I language I_D, not the - not the, uh -
+Bro003 me013 chan8 1030.542 1031.066 @@
+Bro003 me013 chan8 1104.965 1109.054 in principle, I mean conceptually, it's sort of like they want a re- @@
+Bro003 mn007 chan9 1266.618 1270.329 which can include the test - the test @@ the target language, or -
+Bro003 me013 chan8 1645.105 1647.096 Oh yeah, but still @@ probably use it.
+Bro003 me013 chan8 1838.991 1846.912 Yeah, especially in a system like ours, which is a discriminative system. You know, you're really asking this net to learn. @@ It's - it's kind of hard. So.
+Bro003 mn007 chan9 1988.264 1990.152 @@ P_L_P.
+Bro003 mn007 chan9 2862.545 2866.825 it's - yeah. But it's - it's - it's not so long. It @@ - Yeah.
+Bro003 fn002 chan4 3249.837 3251.660 and the @@.
+Bro003 mn007 chan9 4676.292 4679.480 Yeah, yeah, with the @@ three languages, and -
+Bro004 mn007 chan3 149.875 168.215 Mmm, so there's our result tables here, for the tandem approach, and um, actually what we - we @@ observed is that if the network is trained on the task data it works pretty well.
+Bro004 mn007 chan3 329.564 333.461 So for Italian on the Italian speech @@.
+Bro004 mn007 chan3 1933.371 1935.951 @@ um, these -
+Bro004 fn002 chan4 2483.896 2484.949 We are @@.
+Bro004 fn002 chan4 2621.241 2622.306 @@ it's one.
+Bro004 fn002 chan4 2673.761 2676.745 @@
+Bro004 fn002 chan4 2681.907 2684.166 We have one. @@
+Bro004 me013 chan1 4119.340 4121.060 @@ You know Herve's coming tomorrow, right?
+Bro005 fn002 chan1 55.906 56.858 Uh, do you want @@.
+Bro005 mn007 chan0 63.853 64.829 @@
+Bro005 mn007 chan0 319.014 322.190 Uh, @@ with SPINE and
+Bro005 mn007 chan0 379.305 380.609 @@.
+Bro005 fn002 chan1 748.100 748.904 @@
+Bro005 mn007 chan0 761.151 762.383 @@ Yeah, sorry. Yeah.
+Bro005 fn002 chan1 1101.410 1103.837 No, but they - they feature @@ without -
+Bro005 fn002 chan1 1842.040 1846.010 I say this morning that @@ thought it was the -
+Bro005 me013 chan4 2241.810 2244.385 Might be interesting to look at it. @@ Because, I mean,
+Bro005 fn002 chan1 2273.090 2273.940 Yeah. @@
+Bro005 mn007 chan0 2293.386 2294.330 @@
+Bro005 me013 chan4 2336.300 2339.790 O_K, yeah, just don't - just need more - more results there with that @@.
+Bro005 me013 chan4 2722.980 2723.528 @@
+Bro005 mn007 chan0 2811.584 2811.975 @@
+Bro005 mn007 chan0 2828.463 2829.979 Oh yeah. @@
+Bro005 mn007 chan0 3296.070 3299.835 Perhaps be- because if it's - if it's too large or - large or @@ -
+Bro005 me013 chan4 3623.836 3624.372 @@
+Bro005 me013 chan4 3638.852 3640.483 @@
+Bro005 fn002 chan1 3890.319 3892.374 @@ batteries?
+Bro007 mn007 chan2 125.874 126.588 @@
+Bro007 mn007 chan2 1109.488 1113.821 perhaps some kind of printing and some - some other @@.
+Bro008 fn002 chan5 2032.610 2033.695 @@ I'm sorry.
+Bro010 me013 chan4 1595.134 1595.687 @@
+Bro010 me006 chan8 1700.280 1700.473 @@
+Bro010 me026 chanB 2537.066 2537.220 @@
+Bro010 me026 chanB 2585.310 2585.660 @@
+Bro010 mn007 chan3 2748.150 2751.080 Well, @@ there - there's someone working on this on
+Bro011 fn002 chan4 496.673 500.456 to take @@ the first step the spectral subtraction.
+Bro012 me013 chan0 309.347 312.555 So I think we'll change our - our picture on the web, when we're @@.
+Bro012 me013 chan0 1730.410 1749.750 Well that - that - that's O_K. But for the - the visual, just, you know, I'd like to have uh uh, you know, the spectrogram again, because you're - you're - you're visual uh abilities as a human being are so good you can pick out - you know, you - you look at the good one, you look at the cru- the screwed up one, and - and you can see the features in it without trying to @@ - yeah.
+Bro012 me013 chan0 1857.740 1869.449 it - it's um - it's the first six seconds or something of it and it's in the seventh or eighth second or something where @@ the second voice comes in. So we - we would like to actually see
+Bro012 me013 chan0 1889.481 1891.950 @@
+Bro012 fn002 chan3 1933.990 1936.630 You can @@.
+Bro012 fn002 chan3 2620.450 2621.459 I don't @@.
+Bro013 mn007 chan5 399.650 400.413 @@
+Bro013 fn002 chan4 1225.239 1227.898 But I meant to have see @@ two - two the picture.
+Bro013 fn002 chan4 1318.224 1319.244 if s- @@
+Bro013 fn002 chan4 1324.730 1326.620 low values @@
+Bro014 me018 chan2 769.654 770.267 @@
+Bro014 fn002 chan5 1607.603 1609.372 Isn't it @@
+Bro014 fn002 chan5 2286.080 2286.881 At the n- @@
+Bro014 me013 chan1 2826.523 2828.224 @@
+Bro014 me026 chan3 3467.542 3468.788 @@
+Bro015 mn007 chan2 252.319 257.068 So @@ it was t-
+Bro016 me013 chan4 120.792 121.438 @@
+Bro016 me013 chan4 149.041 152.821 and @@ with, uh, you know, how many states and so forth,
+Bro016 me013 chan4 234.041 238.474 I think that's, uh, @@ that's kind of a first-order thing that - that we should try.
+Bro016 me013 chan4 514.867 517.880 @@ I know the V_A_D takes pre- care of part of that, but -
+Bro016 me013 chan4 600.899 604.392 uh, the most obvious thing is just the insertions, @@. But -
+Bro016 mn007 chan1 1168.184 1169.170 @@
+Bro016 me013 chan4 1773.695 1775.560 so, uh - @@
+Bro016 me013 chan4 2492.940 2494.760 @@ auditory event.
+Bro017 mn049 chan1 1689.240 1696.189 Morgan was @@ and he was - he was saying well this might be the alternative way how to play with a - with a fudge factor, you know,
+Bro018 fn002 chan4 157.300 162.240 Auto-correlation? Yes, yes, the variance of the auto-correlation function that uses that @@
+Bro018 fn002 chan4 628.340 631.199 I remember @@ that I can't show that.
+Bro018 fn002 chan4 773.956 780.703 carefully what they are doing with the program @@ and I begin to - to work also in that.
+Bro018 fn002 chan4 892.426 895.672 @@ I can understand the effect of this, no? because it's to -
+Bro019 mn052 chan0 672.181 676.050 Yeah, yeah, yeah. Yep. O_K, sure @@
+Bro019 mn052 chan0 756.496 760.474 I mean, if - if I combine it with L_D_A, it gives @@ improvement over theirs.
+Bro019 me013 chan2 1482.390 1487.040 good matches ordinarily for what any @@ - particular person's car
+Bro019 mn052 chan0 2185.040 2186.010 work @@.
+Bro019 me026 chan4 3389.892 3390.780 @@
+Bro021 mn052 chan3 177.013 178.714 @@
+Bro021 mn052 chan3 807.856 808.856 @@
+Bro021 mn007 chan2 854.302 855.113 @@
+Bro021 mn052 chan3 1070.199 1071.230 mmm - @@
+Bro021 mn052 chan3 1811.522 1812.448 but @@ -
+Bro021 mn052 chan3 1837.389 1841.899 I just @@ some small block of things which I needed to put together for
+Bro021 me013 chan1 1923.210 1924.911 I see. So that @@
+Bro021 fn002 chan4 2734.659 2735.630 @@
+Bro021 me013 chan1 3174.987 3175.423 @@
+Bro021 mn052 chan3 3299.325 3300.848 @@
+Bro022 me013 chan1 2.620 3.253 @@
+Bro023 mn052 chan1 1033.990 1035.408 Mmm. @@
+Bro023 me013 chan2 1291.397 1292.060 @@
+Bro023 mn007 chan3 1409.281 1411.572 Yeah, some @@.
+Bro023 mn052 chan1 1573.607 1576.435 discontinuities across the spectrum because @@ the filter.
+Bro023 me018 chan0 1669.643 1670.866 So you're sort of trying @@ them all.
+Bro023 mn052 chan1 1670.090 1676.842 Y- Yeah, @@ we just wanted to have a few noise production - compensation techniques and then pick some from that - pick one.
+Bro023 mn052 chan1 2239.368 2243.189 But you end up reducing some neighboring frequency bins - @@ in the average, right?
+Bro023 mn007 chan3 2628.730 2640.944 But they also have two - two different smoothing @@. One in the time domain and one in the frequency domain by just taking the first, um, coefficients of the impulse response.
+Bro023 mn052 chan1 2631.989 2635.374 I mean, I'm - I'm @@. But.
+Bro023 mn007 chan3 3050.891 3051.796 @@
+Bro023 mn007 chan3 3150.580 3160.626 Um. So, yeah, there are other things in the, um, algorithm that I didn't, uh, @@ a lot yet, which -
+Bro023 mn052 chan1 4133.938 4135.947 @@
+Bro024 me026 chan2 227.270 228.348 @@
+Bro024 me013 chan3 849.470 849.712 @@
+Bro024 me013 chan3 898.583 898.833 @@
+Bro024 me026 chan2 1043.060 1043.782 @@
+Bro024 mn052 chan1 1328.704 1330.367 Mmm, @@.
+Bro024 mn052 chan1 1450.630 1456.731 Uh, and in that twenty percent @@ it's very inconsistent across different noise conditions. So I have like
+Bro024 mn052 chan1 1551.721 1554.900 I mean, it's consistent in the SpeechDat-Car @@ and in the
+Bro024 mn052 chan1 1728.290 1735.294 Yeah. And if it changes to point five point five, which is equal @@ for transition and self loop where it becomes eighty-eight percent.
+Bro024 me013 chan3 1774.221 1775.872 @@ if it's music.
+Bro024 mn052 chan1 2130.757 2131.253 @@
+Bro024 mn052 chan1 2227.880 2231.134 @@ - those negative values or whatever you get. Yeah.
+Bro024 mn052 chan1 2331.180 2331.980 what @@ -
+Bro024 mn058 chanA 2517.197 2518.222 @@
+Bro024 mn007 chan4 2554.052 2557.731 Where does the comprish- compression in decoding delay comes from? @@
+Bro024 mn007 chan4 2649.000 2651.660 the five. There should be five sheets. @@
+Bro024 mn007 chan4 2891.706 2892.089 @@
+Bro024 fn002 chanB 2925.736 2926.336 @@.
+Bro024 mn052 chan1 2957.890 2959.560 @@.
+Bro024 mn052 chan1 3098.505 3099.640 @@
+Bro024 mn058 chanA 3434.231 3434.734 @@
+Bro024 mn007 chan4 3685.810 3689.017 Yeah, so I would try to somewhat reduce this @@.
+Bro024 mn058 chanA 3705.876 3706.383 @@
+Bro024 mn007 chan4 3802.241 3802.979 @@
+Bro024 mn058 chanA 3813.755 3815.320 @@
+Bro024 mn052 chan1 3834.425 3837.820 So, before estimating the S_N_R, @@ smooth the envelope.
+Bro024 fn002 chanB 3948.587 3949.310 @@
+Bro024 fn002 chanB 3949.931 3950.884 @@
+Bro024 mn052 chan1 4009.022 4011.870 T- we are - we may also have to do something similar @@.
+Bro024 fn002 chanB 4076.636 4077.150 @@
+Bro024 mn052 chan1 4244.963 4245.746 @@.
+Bro024 mn052 chan1 4249.652 4250.565 @@
+Bro024 mn058 chanA 4298.954 4300.013 @@
+Bro024 me013 chan3 4386.414 4388.109 @@
+Bro024 fn002 chanB 4466.620 4471.404 @@
+Bro024 mn058 chanA 4563.297 4564.744 @@
+Bro025 mn007 chan5 178.230 178.874 @@
+Bro025 me013 chan1 194.773 195.109 @@
+Bro025 me013 chan1 326.070 326.472 @@
+Bro025 mn052 chan2 405.945 407.350 @@ Best system.
+Bro025 mn007 chan5 711.300 711.656 @@
+Bro025 me013 chan1 1054.849 1055.324 @@
+Bro025 me013 chan1 1079.922 1087.190 But like we're saying, if there's four or five things like that then pretty sho- soon you're talking real improvement. @@ Yeah.
+Bro025 me013 chan1 1218.679 1219.075 @@
+Bro025 mn052 chan2 1479.571 1481.320 @@ V_A_D.
+Bro025 me013 chan1 1738.546 1742.680 @@ I guess the week after he'll be, uh, going back to Europe, and so we wanna -
+Bro025 mn052 chan2 1803.173 1804.350 @@
+Bro026 mn052 chan4 120.137 120.527 @@
+Bro026 mn007 chan0 1407.778 1411.510 But, yeah, I think there are plenty of issues to work on for the feature net @@.
+Bro027 mn052 chan4 120.631 122.717 Yeah. @@
+Bro027 me013 chan1 185.035 188.187 So I wonder, is it - @@ Was there - their experimentation
+Bro027 me013 chan1 715.660 723.142 Uh @@ you know, it's a dialogue between two of you about what - you know, what does he think about this and what - what - you know - what could be done about it. Um,
+Bro027 mn052 chan4 752.023 756.263 Oh. @@ So this is now - it's - it's compiled under Solaris?
+Bro027 mn052 chan4 869.203 871.090 @@
+Bro027 me013 chan1 1054.027 1057.522 @@
+Bro027 mn007 chan3 1064.919 1065.217 @@ -
+Bro027 me013 chan1 1070.905 1072.045 @@
+Bro027 me013 chan1 1247.535 1253.497 mill- a hundred milliseconds for smoothing is sort of an arbitrary amount. It could be eighty and - and probably do @@ -
+Bro027 mn007 chan3 1257.636 1258.255 @@
+Bro027 mn007 chan3 1368.502 1370.072 @@
+Bro027 mn007 chan3 1689.890 1690.766 @@
+Bro027 mn052 chan4 1862.520 1864.270 @@
+Bro027 mn007 chan3 2202.808 2204.459 Yeah. @@?
+Bro027 mn052 chan4 2274.506 2275.960 @@
+Bro027 mn052 chan4 2299.551 2301.951 So the net saw all the S_N_R @@
+Bro027 mn052 chan4 2340.789 2343.550 On the test set, yeah. @@
+Bro027 mn052 chan4 3230.572 3233.039 So it's like a scale @@ probability value.
+Bro027 mn052 chan4 3537.033 3541.220 @@ to - Yeah. So it- it's an - additional discriminating information.
+Bro027 me013 chan1 3614.810 3618.150 Yeah, I mean, y- you'd have to actually run it continuously, but it's - @@ -
+Bro028 mn007 chan4 786.836 790.795 cuz @@ - all the - all the, um, excitation - all the -
+Bro028 me013 chan1 829.109 831.497 Uh, so, let's see, how would you do -? So, fo- @@
+Bro028 me013 chan1 867.539 868.862 @@
+Bro028 me013 chan1 963.664 964.250 @@
+Bro028 me013 chan1 990.571 991.123 @@
+Bro028 mn007 chan4 1003.078 1007.395 um, of a - a periodic sound and, @@
+Bro028 mn007 chan4 1022.320 1023.437 @@
+Bro028 mn007 chan4 1148.779 1149.145 @@
+Bro028 me013 chan1 1258.645 1259.099 @@
+Bro028 me013 chan1 1325.372 1326.001 @@
+Bro028 me013 chan1 1599.000 1602.038 uh, @@ the range of the likelihoods rather than -
+Bro028 me013 chan1 1879.090 1881.920 uh, over in Germany and - and, @@
+Bro028 me013 chan1 2103.709 2103.810 @@
+Bro028 me026 chan2 2305.080 2307.906 @@ in there that isn't already modeled in something like,
+Bro028 me026 chan2 2333.572 2334.478 @@
+Bro028 me026 chan2 2366.163 2369.516 @@ for - for one thing, you could use it,
+Bro028 me013 chan1 2578.973 2579.972 @@
+Bro028 me013 chan1 2590.182 2591.946 @@
+Bro028 me026 chan2 2864.150 2864.902 @@
+Bsr001 fe016 chan9 3.307 10.372 have this secret thing that would play music if you're - if you got bored. Give you stock quotes @@. Nobody would know, right?
+Bsr001 mn038 chan0 72.532 74.875 @@ and Mike are coming on my channel.
+Bsr001 mn038 chan0 230.879 232.700 but that's a @@ fine. I mean -
+Bsr001 fe008 chan3 314.693 317.493 Hey, whi- what - where are @@?
+Bsr001 fe008 chan3 321.440 322.829 I don't @@ -
+Bsr001 mn038 chan0 895.594 897.610 Yeah. Always @@.
+Bsr001 me025 chanA 1150.774 1152.220 But it @@ - bu-
+Bsr001 mn038 chan0 1258.671 1262.970 the only way - I mean, if I learn anything on speech in - for the last, you know @@ -
+Bsr001 me055 chan1 1634.697 1636.539 That's gonna be @@.
+Bsr001 me055 chan1 1943.804 1945.750 Two of @@. Yeah.
+Bsr001 mn038 chan0 2004.773 2009.232 Well, some peo- people speak with their mouth full, you know that's a @@.
+Bsr001 me056 chan4 2301.192 2304.634 If you wanted - if you wanted to transcribe, you have the @@ yes, @@ you'll be fine.
+Bsr001 mn038 chan0 2524.405 2530.510 well, indeed. I mean, most people, you know, after this evaluation and conference @@ should be working
+Bsr001 mn038 chan0 2556.225 2559.381 you know, develop the systems to an @@.
+Bsr001 me056 chan4 2597.007 2603.479 And so tha- yeah. So, @@ Yeah, it's coincidence that it's very fortunate cuz - Yeah.
+Bsr001 fe016 chan9 2631.840 2634.459 @@ uh, who are looking at aspects that are sort of -
+Bsr001 me056 chan4 2670.450 2674.421 I mean, all those issues yeah I'm sure we - I mean, @@ like I say. I'm - I'm personally not
+Bsr001 me025 chanA 2779.138 2780.524 Hmm, @@.
+Bsr001 me025 chanA 3199.280 3206.660 whe- the pauses between these digit strings. And then when they finish, the actual - the whole sheet, there's this nice, wonderful - yeah, phrase @@. And it -
+Bsr001 me055 chan1 3358.421 3359.380 @@
+Bsr001 me025 chanA 3367.375 3368.444 I - @@
+Btr001 fe008 chan9 47.264 53.254 @@ benefit from your involvement in the data, all the things that - that you've been exposed to in these many months.
+Btr001 fe008 chan9 107.990 111.789 issues of the - @@ the tar- ti- up there at the top of -
+Btr001 fe066 chan0 176.724 179.387 @@
+Btr001 fe069 chan6 196.581 196.780 @@
+Btr001 fe008 chan9 241.374 244.878 then, you know, you - @@ in context you can tell which one it's -
+Btr001 fe066 chan0 380.100 383.330 Uh, somebody who speaks like Chinese or something, @@.
+Btr001 me070 chan7 620.850 621.171 @@
+Btr001 fe008 chan9 639.192 642.915 probably continental Spain versus @@ y- you know other Spanish -
+Btr001 fe008 chan9 1189.187 1192.984 And, you know, maybe there are times that I haven't detected it and I'm not @@ -
+Btr001 fe008 chan9 1223.235 1227.868 and so I'm not gonna be checking them all I don't think in the @@ for throughout the whole rest of the project.
+Btr001 fe008 chan9 1385.340 1385.780 i- @@
+Btr001 fe008 chan9 1644.920 1653.131 O_K, good. Alright, so, I'll - I'll so- settle on that. O_K now, I wanted to say, you've been through a couple of different, uh, @@ improvements in the methods, the pre-segmentation.
+Btr001 fe008 chan9 2004.730 2009.109 we don't know exactly how they do it and I think that that's by intention, that - @@ - not just me who thinks that - it's that
+Btr001 me070 chan7 2228.860 2230.856 @@ yeah, sometimes the segmenter will -
+Btr001 fe068 chan3 2288.736 2294.076 Um, cuz everyone's laughing. @@ Someone has just said something funny and everyone's like, "Ah-ha-ha-ha-ha". Yeah.
+Btr001 me070 chan7 2561.080 2561.729 @@
+Btr001 fe008 chan9 2601.875 2604.536 Yes. @@ um, it's mainly a matter of -
+Btr001 fe008 chan9 2636.630 2639.560 And, you know - I mean, th- that was the meeting where, um, @@
+Btr001 me070 chan7 2954.592 2955.316 @@
+Btr001 fe008 chan9 2959.527 2960.319 @@
+Btr001 me070 chan7 3151.753 3164.882 Like one time everybody was doing the, um, digits, and they were all doing it at the same time, and they started off kind of shaky, they were like, "Oh, do we wanna do this at the same time, you know, that's - @@ - you know, wh- let's not all start laughing" and then they all did it at the same time and
+Btr001 fe008 chan9 3227.002 3230.409 @@ mutual condescending joking thing going on, and he says,
+Btr001 fe008 chan9 3472.230 3475.081 So the idea is @@ to pause when you see that.
+Btr001 fe008 chan9 3556.748 3559.354 @@ Transcript L_ four three two.
+Btr001 me070 chan7 3636.872 3645.261 Yeah. I mean, I got all the way down and then the very last one came and I was like, "I haven't laughed." And then I was @@. And then I just couldn't help it.
+Btr001 me070 chan7 3663.245 3663.869 @@
+Btr002 fe066 chan5 90.891 93.737 O_K. @@ Not sure. Thank you.
+Btr002 fe066 chan5 872.468 876.051 @@
+Btr002 fe008 chan7 1038.420 1039.152 @@
+Btr002 fe008 chan7 1800.029 1800.500 @@
+Btr002 fe008 chan7 2149.700 2151.036 So you can @@ -
+Btr002 fe008 chan7 2392.680 2400.188 It would be a kick - Yeah, in a - uh, in a good-natured way @@. It would be really fun to have a collage of all these things, like, "Well, the transcribers -" so, "Rer-rer-rer-rer"
+Btr002 fe008 chan7 2400.188 2404.489 and then s- be some horrible thing, "The transcriber's gonna have trouble with this. @@"
+Btr002 fe008 chan7 2694.137 2699.532 That was really - it was like m- transcription, a meta-transcription and meta meta meta. It's really @@.
+Btr002 fe069 chan6 3462.011 3463.516 That's more like the "@@".
+Btr002 fe069 chan6 3528.112 3529.681 Yeah. Me too. @@
+Btr002 fe008 chan7 3664.437 3665.004 @@
+Btr002 fe008 chan7 4135.225 4136.060 @@
+Btr002 fe008 chan7 4209.836 4214.399 Have you run across that where they're - they're saying @@ and then they say a word.
+Btr002 fe008 chan7 4234.548 4241.029 almost kicking in, they're almost gonna say @@ but it hasn't - somehow this - somehow this vibration hit before the rest of it and -
+Btr002 fe008 chan7 4252.320 4256.635 Or if it's @@ then I - then I put six or seven or however many it is -
+Btr002 fe008 chan7 4296.193 4304.398 that's not necessary. It's just sometimes it works out that way that they @@, they do this thing. I shouldn't do that so often. I'm sorry about that. They do this sound,
+Buw001 fe008 chanB 2848.710 2850.663 Yeah. Well, but - you know, but you could get again @@ -
+Buw001 me013 chan3 3208.871 3210.354 Yeah. @@
+Buw001 me025 chan8 3487.253 3488.915 @@ turn off
+Buw001 fe016 chan1 3693.042 3693.488 @@
+Buw001 me013 chan3 3704.236 3709.909 Actually, th- @@ the C_M_U folk have collected a lot of data. Is that - is that going to be publicly available, or -?
+Buw001 me011 chanA 3722.749 3725.856 I think @@ gonna add that to one of my action items.
+Buw001 fe008 chanB 4084.433 4084.849 @@

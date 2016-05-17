@@ -1,0 +1,392 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2819_1171_1059
+TOPIC#:		334
+DATE:		910507
+TRANSCRIBER:	GL
+UTT_CODER:	mlg
+DIFFICULTY:	3
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+=======================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: {C so, }  {F um, } [ how do think, + how do you think ] we've changed in the last ten to twenty years? /  
+
+sd          B.2 utt1:  {F Uh, } I'm at a little bit of a loss,  /
+h          B.2 utt2: {D you know, } I don't know,  /
+%          B.2 utt3: ten years ago, - /
+sd          B.2 utt4:  {D see } [ I'm what, + I'm ] about, {F uh, } twenty-eight now  /
+sv          B.2 utt5: {C so } --   
+
+b          A.3 utt1:  Uh-huh. /  
+
++          B.4 utt1:  -- when I was eighteen, - /
+sd          B.4 utt2: things haven't changed a whole lot. /  
+
+b          A.5 utt1:  Really. /  
+
+sv          B.6 utt1: People are being [ [ a little more, + {F oh, } I don't know, a little le-, ] + a little less ] bigoted in some ways,  /
+h          B.6 utt2:  I don't know -- /  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sv          B.8 utt1:  -- seems to me. /  
+
+%          A.9 utt1:  {D Well, } -/  
+
+sd          B.10 utt1:  I guess I'm like my parents.  /
+sv          B.10 utt2:  The younger generation gets away with hell,  /
+%          B.10 utt3: {C but, }  {F uh, } -/  
+
+b          A.11 utt1:  <Laughter>  Yeah. /  
+
+sv          B.12 utt1:  {D Well, } it seems to me that civic freedoms are more restricted  /
+sd          B.12 utt2: {C but } that may just be because I've changed.  /
+sd          B.12 utt3: {D You know, } I used to live up north.  /
+sv          B.12 utt4:  Down here, Dallas, seems to me, the police are militant -- /  
+
+b          A.13 utt1:  Really. /  
+
+%          B.14 utt1:  -- {C but, }  {F uh, } -/  
+
+qw          A.15 utt1:  Where'd you live up, - /
+qw^d          A.15 utt2: where'd you live at, /  
+
+sd          B.16 utt1:  I lived in Akron, Ohio. /  
+
+bh          A.17 utt1:  {F Oh, } did you?  /
+sd          A.17 utt2: I'm from  ((   )) , Illinois,  /
+%          A.17 utt3: {C so. } -/  
+
+b          B.18 utt1:  Oh. /  
+
+qw          A.19 utt1:  [ How long, + how long ] you been in Dallas? /  
+
+sd          B.20 utt1:  {F Oh, } about eight years. /  
+
+bh          A.21 utt1:  {F Oh, } really? /  
+
+sv          B.22 utt1:  In fact in the eight years I've been here it seems to me it [ gets more and  more, + gets to be more and more ] restrictive place to live.   
+
+b          A.23 utt1:  Yeah, {F uh } -- /  
+
++          B.24 utt1:  I think, /  
+
+sv          A.25 utt1:  -- {D you know, } {F uh, } as you're talking like police and stuff like that it's definitely a tough job to do. /  
+
+b          B.26 utt1:  Yeah,  /
+%          B.26 utt2: I think it's, - /
+sv          B.26 utt3: crime has [ gone, + ] got a lot worse in the [ last -- +   
+
+aa          A.27 utt1:  {F Oh, } yeah,  /
+sd          A.27 utt2: I agree. /  
+
++          B.28 utt1:  -- last ] ten, fifteen years,  /
+sd          B.28 utt2: {C and } maybe that has a lot to do with it. /  
+
+b          A.29 utt1:  Yeah,  /
+sv          A.29 utt2: [ I, + I ] definitely think that has gotten a lot worse,  /
+%         A.29 utt3: {C and } {D you know, } [ I, + I ] think there's, - /
+sv          A.29 utt4: to me there seems to be a little bit of a decline in the family values. /  
+
+aa          B.30 utt1:  Yeah,  /
+ba          B.30 utt2: that's true. /  
+
+%          A.31 utt1:  {D So, } -/  
+
+ba^r          B.32 utt1:  That's true, /  
+
+%          A.33 utt1:  {C But, }  {F uh, } -/  
+
+ sd         B.34 utt1:  I'd say my own personal lifestyle has improved -- /  
+
+b          A.35 utt1:  Yeah. /  
+
+%          B.36 utt1:  -- {C but } that's more a matter of, - /
+ sd         B.36 utt2: {D you know } --   
+
+b          A.37 utt1:  Yeah. /  
+
++          B.38 utt1:  -- I'm no longer a teenager in high school. /  
+
+b          A.39 utt1:  Yeah,  /
+sd          A.39 utt2: I think there's more pressure {D like } on both parents to work, and  things like that than there used to be  /
+%          A.39 utt3: {C and, } -/  
+
+t3          B.40 utt1:  Hello.  /
+sd^c          B.40 utt2:  Somebody's at the door. /  
+
+%          A.41 utt1:  {D So. } -/  
+
+ad          B.42 utt1:  Hang on just a second. /  
+
+aa          A.43 utt1:  Okay. /  
+
+t3          B.44 utt1:  <Noise>  <<talking off phone>>. Okay. /  
+
+h          A.45 utt1:  {C But, }  {F uh, } I don't know,  /
+sv          A.45 utt2: [ that's just, + that's one ] thing [ I see, + I see ] a lot more, {D you know, } double income families and a lot more {D like } baby sitters raising the kids and things like that, I guess. /  
+
+aa          B.46 utt1:  Yeah,  /
+ba          B.46 utt2: that's true,  /
+sv          B.46 utt3: it's getting more and more expensive to live. /  
+
+aa          A.47 utt1:  Yeah,  /
+ba          A.47 utt2: that's for sure. /  
+
+sv          B.48 utt1: [ You can't, + you can't ] make it, /  
+
+b          A.49 utt1:  Yeah,  /
+%          A.49 utt2: without it hardly, - /
+ba          A.49 utt3: that's right. /  
+
+sd          B.50 utt1:  I guess, when I was growing up, [ it was, + it was ] still the ideal to [ get a, + get a ] home and buy house,  /
+sd          B.50 utt2:  ((   ))  {C and } these days you see a lot of people living in apartments --   
+
+b          A.51 utt1:  Yeah. /  
+
++          B.52 utt1:  -- forever -- /  
+
+b          A.53 utt1:  Yeah -- /  
+
+sv          B.54 utt1:  -- {D you know, } you just don't buy a house, /  
+
+^2          A.55 utt1:  -- just because they can't get into one,  /
+ aa         A.55 utt2: yeah,  /
+ ba         A.55 utt3: that's right.  /
+b          A.55 utt4:  Yeah,  /
+sv          A.55 utt5: the ways our tax laws and stuff are structured, you can't ever catch a break until you can get into a house --   
+
+b          B.56 utt1:  Yeah. /  
+
++          A.57 utt1:  -- in a lot of ways,  /
+b          A.57 utt2: {C so. }   Yeah,  /
+ba          A.57 utt3: [ that's, +  that's ] a good point  /
+^h          A.57 utt4: {C so, }  I'm trying to think of anything else that's changed over the last ten or twenty years. /  
+
+b          B.58 utt1:  Yeah,  /
+sd          B.58 utt2: for me it's kind of hard,  /
+h          B.58 utt3: I don't know.  /
+%          B.58 utt4:  I think, - /
+sv          B.58 utt5: I don't know, I think the middle class is shrinking and the, {F uh, } lower class is expanding -- /  
+
+aa          A.59 utt1:  {F Oh, } yeah,  /
+aa          A.59 utt2: I agree. /  
+
+sv          B.60 utt1:  -- {C and } sooner or later [ there's going to, + there's going to ] be a turn around. /  
+
+sd          A.61 utt1:  {D Well, } I hope so,  {D you know, } at some point  /
+sd          A.61 utt2: {C but } I don't know at what point, /  
+
+sv          B.62 utt1:  {C But } I think it's going to be at the expense of the middle class, {F uh } -- /  
+
+b          A.63 utt1:  Yeah, /  
+
+sv          B.64 utt1:  -- {C so, }  usually is --   
+
+b          A.65 utt1:  Yeah. /  
+
++          B.66 utt1:  -- I think. /  
+
+%          A.67 utt1:  It's, {F uh, } -/  
+
+sd          B.68 utt1:  It's hard for me to say.  /
+sd          B.68 utt2:  I hope it happens, because I'd be one of those that gets caught.  /
+sv          B.68 utt3:  {C But } on the other hand, there's a lot of injustice that needs to [ be, + be ] changed. /  
+
+b          @@A.69 utt1:  Yeah,  /
+ba          @@A.69 utt2: that's right.  /
+qy          @@A.69 utt3: Do you work at T I? /  
+
+ny          B.70 utt1:  Yeah. /  
+
+bh          A.71 utt1:  Do you? /  
+
+ny          B.72 utt1:  Yeah. /  
+
+qw          A.73 utt1:  What, {F uh, } department do you work in? /  
+
+sd          B.74 utt1:  I'm in semiconductor. /  
+
+bh          A.75 utt1:  Are you?  /
+sd          A.75 utt2: I'm in semiconductor division too. /  
+
+b          B.76 utt1:  Yeah. /  
+
+qw          A.77 utt1:  {D So. }   How long you been with them, since you moved down here? /  
+
+sd          B.78 utt1:  About eight years,  /
+%          B.78 utt2: yeah. /  
+
+sd          A.79 utt1:  {F Um, } I'm over at the Center One building. /  
+
+b          B.80 utt1:  Yeah,  /
+sd          B.80 utt2: so am I. /  
+
+ba          A.81 utt1:  Are you really.  /
+qw          A.81 utt2: What floor? /  
+
+sd          B.82 utt1:  Two. /  
+
+sd          A.83 utt1:  I'm on the seventh floor. /  
+
+%          B.84 utt1:  {D Well, } -/  
+
+fe          A.85 utt1:  How about that.  /
+sd          A.85 utt2: {D Well, } it's a small world.  /
+^h          A.85 utt3: [ {C So, } +  {C so } ] let's see,  /
+qy^d          A.85 utt4: second floor, you work with, {F uh, } linear. /  
+
+ny          B.86 utt1:  Yeah. /  
+
+qy          A.87 utt1: [ [ Do you. +  Do you, ] + {F uh, } do you ] know Alec Morton? /  
+
+ny          B.88 utt1:  Yeah,  /
+sd^e          B.88 utt2: I've probably seen him around. /  
+
+ba          A.89 utt1:  {F Oh, } you do, {F huh. }  /
+sd          A.89 utt2:  {D Well, } he comes up and pushes us around  /
+sd          A.89 utt3: [ {C so, } + {F uh, } {C so } ] I'm pretty familiar with, -/  
+
+qy          B.90 utt1:  Are you D A D or something up there? /  
+
+br          A.91 utt1:  {F Huh? } /  
+
+qy^r          B.92 utt1:  Are you D A D or something? /  
+
+ny          A.93 utt1:  Yeah <laughter>.  /
+ny          A.93 utt2: Yep,  /
+sv^e          A.93 utt3: you must know him.  /
+sd          A.93 utt4:  His reputation precedes him. /  
+
+b          B.94 utt1:  Yeah,  /
+sd          B.94 utt2: {D well, } seventh floor. /  
+
+b          A.95 utt1:  Yeah, /  
+
+sd          B.96 utt1:  T A D, /  
+
+sd          A.97 utt1:  {D Well, } {F uh, } [ he, + {F uh, } boy, he ] comes up there and gives us all kinds of grief.  /
+sd          A.97 utt2: [ They, + they ] say it's what makes him happy is to give us D A D -ers grief,  /
+sd          A.97 utt3: {C so } I can believe it  /
+%          A.97 utt4: {C but, } -/  
+
+%          B.98 utt1:  {D Well. } -/  
+
+b          A.99 utt1:  Yeah,  /
+sv          A.99 utt2: let's see, if you've been in Dallas eight years, I guess that's about how long, - /
+sd          A.99 utt3: I've been in here about eight years, too, I guess.  /
+sd          A.99 utt4:  {F Um, } been with T I like twelve,  /
+sd          A.99 utt5: {C but } I started out in Lubbock. /  
+
+o@          B.100 utt1:   ((   )) .   
+
+sd          A.101 utt1: Lubbock is, - /
+h          A.101 utt2: I don't know,  /
+sv          A.101 utt3: I guess if this is the only place you've lived, Lubbock is a lot different than Dallas. /  
+
+b          B.102 utt1:  Yeah,  /
+sd          B.102 utt2: flat, dry --   
+
+b          A.103 utt1:  Yeah. /  
+
++          B.104 utt1:  -- and dirty, /  
+
+b          A.105 utt1:  Yeah,  /
+sd          A.105 utt2: {C but } the people all seem to be a lot more laid back, too,  /
+sd          A.105 utt3: {E I mean, } here in Dallas everything is just real rush, rush. /  
+
+b          B.106 utt1:  Yeah,  /
+sd          B.106 utt2: I lived in the country for several years,  /
+sd          B.106 utt3: {C and } living in the city is a whole different --   
+
+b          A.107 utt1:  {F Oh } yeah. /  
+
++          B.108 utt1:  -- {F uh, } social structure  /
+%          B.108 utt2: {C but, }  {F uh, } -/  
+
+sd          A.109 utt1:  {D Well, } I got some friends that, {F uh, } - /
+sd          A.109 utt2: seems like he went to school at {D like } DeVry.  /
+qy          A.109 utt3: Is there a DeVry in Akron? /  
+
+no          B.110 utt1:  I don't even know -- /  
+
+bk          A.111 utt1:  Oh, /  
+
+sd          B.112 utt1:  -- I haven't been up there in years. /  
+
+bk          A.113 utt1:  {F Oh, } I see,  /
+sd          A.113 utt2: {D well, } he went to school somewhere in Ohio,  /
+sd          A.113 utt3: {C and } he's from that area,  /
+sd          A.113 utt4: {C and, }  {F uh, } he works over in the [ Park, + Park ] Central building I think  /
+sd          A.113 utt5: {C but, } {F uh, } I haven't talked to him in a while,  /
+%          A.113 utt6: {C but, }  {F um, } yeah,  /
+sd          A.113 utt7: [ he, + he ] misses it.  /
+sd          A.113 utt8: He used to go back twice or three times a year, {D you know, } because he missed it.  /
+sv          A.113 utt9: Sounds like you haven't been back there in a while. /  
+
+aa          B.114 utt1:  No,  /
+sd          B.114 utt2: I haven't been back in [ fi-, +  ten, fifteen ] years. /  
+
+qy^d          A.115 utt1:  You still have relatives back there  /
+%          A.115 utt2: {C or, } -/  
+
+ny          B.116 utt1:  Yeah,  /
+sd^e          B.116 utt2:  I do,  /
+sd          B.116 utt3: I just haven't had a chance to get back <laughter>. /  
+
+b          A.117 utt1:  Oh. /  
+
+sv          B.118 utt1:  Catch them next year probably. /  
+
+b          A.119 utt1:  Really.  /
+^h          A.119 utt2:  {D Well, } let's see,  /
+qw^t          A.119 utt3: [ how, + how ] long are we supposed to talk here? /  
+
+no          B.120 utt1:  I don't know,  /
+sv^t          B.120 utt2: I think we ran out of [ social, +   
+
+x          A.121 utt1:  <Laughter>.   
+
++          B.122 utt1:  social ] changes to talk about,  /
+%          B.122 utt2: {C so. } -/  
+
+b          A.123 utt1:  Yeah,  /
+sd          A.123 utt2: {D well } my kids are probably needing me to go  /
+%          A.123 utt3: {C so } -- -/  
+
+b          B.124 utt1:  Okay, /  
+
+fc          A.125 utt1:  -- all right,  /
+fc          A.125 utt2: {D well, } it's nice talking to you. /  
+
+fc          B.126 utt1:  Yeah, /  
+
+fc         A.127 utt1:  Talk to you later. /  
+
+ fc         B.128 utt1:  All righty,  /
+ fc         B.128 utt2: bye. /  
+
+fc^m         A.129 utt1:  Bye. / 

@@ -1,0 +1,140 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3870_1402_1490
+TOPIC#:		342
+DATE:		920129
+TRANSCRIBER:	SS
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Child background of B
+
+=============================================================================
+  
+
+o          A.1 utt1:  Okay, Lee.  /
+ad^t          A.1 utt2: Tell me about your ideas on this,  {F uh, } the U S government supporting health insurance and so forth. /  
+
+sv          @B.2 utt1:  {D Well, } I think it's inevitable that we are  going to see national health care  /
+sv          @B.2 utt2: {C and } the reason is because the market place  doesn't seem to have performed adequately, {F uh, } the invisible hand that which  Adam Smith wrote has, {F uh, } provided some very good health care and, {F uh, } much,  {A I think } inadequate health care.  {F Uh, }  /
+sv          @B.2 utt3: {C and } in some cases, the absence of  health care has resulted from market place forces /
+sv^r          @B.2 utt4: {C and } I think, {F uh, } it's inevitable.  /
+sv          @B.2 utt5:   It is just a matter of, {F uh, } time and mistakes <children>  /
+sv          @B.2 utt6: {C and } they're both inevitable. /  
+
+qw          A.3 utt1:  {D Well } what is this going to do the insurance  companies who are supporting this work now and hopefully are doing, {F uh, } a good job? /  
+
+sv          B.4 utt1:  {D Well, } it's going to make it tough for them  /
+sv          B.4 utt2: {C and }  it's going to be a difficult transition.  /
+sd          B.4 utt3:  I don't know, {F uh, } how it's going to,  {F uh, } play out in terms of the particulars, /
+sv          B.4 utt4: {C but } I don't think that society will be  willing to tolerate the current health care crisis for too long.  /
+sv          B.4 utt5:  Our, {F uh, } physical and mental and  spiritual health, {F uh, } it's really, {F uh, } very costly. /  
+
+aa          A.5 utt1:  Yes. /  
+
+sv          B.6 utt1:  {C And, } {F uh, } as a society <laughter>  we are paying a staggering price for this. /  
+
+sd          A.7 utt1:  # {D Well } # --   
+
+%          B.8 utt1:  # My, # -/  
+
++          A.9 utt1:  -- this is what's bothering me, Lee,  another question,  /
+qy          A.9 utt2: do you think that there should be some control, {F uh, } innovated such that  the doctors are not allowed to charge ridiculously over priced things.  /
+sv          A.9 utt3:   We realize that for the individual person, some things are very important.  /
+sv          A.9 utt4:  {F Uh, } matter of fact, in some respects their life might depend on it. /  
+
+b          B.10 utt1:  Right. /  
+
+sv           A.11 utt1:  {C But, } by the same token some of these  charges they make for {D well, } minor endeavors, {A shall we say } --   
+
+b          B.12 utt1:  Uh-huh.  /
+b          B.12 utt2:  Yeah. /  
+
++          A.13 utt1:  -- on the parts the doctors are really out of line. /  
+
+aa          B.14 utt1:  Yeah,  /
+sv          B.14 utt2: # [ there are abus-, + #  --     
+
+sv          A.15 utt1:  # There should be some control of that. # /  
+
++          B.16 utt1:  -- they're abusive ] of privileges <children>. /  
+
+aa          A.17 utt1:  Yes  /
+sv          A.17 utt2: {C and } that is what is giving the local, {F uh, }  insurance companies hard times.  /
+sv          A.17 utt3: That is the one thing we have no control  over are these charges that happen when you go to hospitals  /
+sd          A.17 utt4: {C and }  you get something done  /
+sv          A.17 utt5: {C and } they want to charge twenty thousand dollars for it. /  
+
+aa          B.18 utt1:  Right.  /
+sv          B.18 utt2:  {D Well, } this I think is one of the  things that national health care of some sort of evolutionary process over the next ten, or  twenty or thirty years will address.  /
+sd          B.18 utt3: {C Because } I know this is,  addressed [ by, + ] {F uh, }  in Canada.  /
+sd          B.18 utt4:  [ I, + I ] have a good friend who is, {F uh, }  a physician practicing in Canada.  /
+sd          B.18 utt5: {C And } they made the transition, {F uh, }  /
+sd          B.18 utt6: {C and } I think that  the, {F uh, } - /
+sd          B.18 utt7: for example the duplication of magnetic resonance imageries --   
+
+b          A.19 utt1:  Yes. /  
+
++          B.20 utt1:  -- {F uh, } -/  
+
+sd          A.21 utt1:  We have had several of them.  /
+sd          A.21 utt2:  My wife and I both have had  that recently. /  
+
+sd          B.22 utt1:  [ I've, + I've ] had one myself  /
+sd          B.22 utt2: {C and, } {F uh, }  they're wonderful technology,  /
+sv          B.22 utt3: {C but } cities have three or four more than they need or three or four times  the number they need.  /
+sv          B.22 utt4: {C So, } I think that what the market place  doesn't do because of the way the system has worked  /
+sv           B.22 utt5: {C and } it doesn't allocate  resources oftenly because [ there is a tendency, + {F uh, } at least there has been a tendency ]  to drive up the price of medical care primarily because the insurance companies could pass on the bills, /
+sv          B.22 utt6: {C but } it's begun to change all of that.  /
+sd          B.22 utt7:   The people paying the bills, {F uh, } - /
+sv          B.22 utt8:  employers ultimately, have begun to squawk because  they have seen their health care cost rise two hundred percent in the past ten years. /  
+
+b          A.23 utt1:  Yeah. /  
+
+sv          B.24 utt1:  {C So, } I think the evolution will be interesting.  /
+sd          B.24 utt2:   {F Uh, } Hawaii has a system that is apparently working  /
+sv          B.24 utt3: {C and, } {F uh, } it will be  interesting to see [ how, + how, ] {F uh, } much more attention we pay to that.  /
+sv          B.24 utt4:   <child> I do think though that it is inevitable primarily because of the pain, {F uh, } that people are feeling, {F uh, } under the circumstances.  /
+sv          B.24 utt5: {F Uh, } I believe that it will  contribute to something that we would at this point call national health  care, whether it's subsidized by the government [ and + and ] operated by  private insurers, {F uh, }  /
+h          B.24 utt6: I don't know.  /
+sd          B.24 utt7:  I like that idea.  /
+sd          B.24 utt8: I tend to be one of those people who  believes the market place can under varied circumstances with the profit  incentive work very very well.  /
+sv          B.24 utt9:  {F Uh, } [ I, + we ] would be a lot better  off [ if we, + if we, ] contracted our national defense to a group  who rather that operated as a government entity because we would probably have much less waste. /  
+
+sd          A.25 utt1:  {D See, } [ that, + that ] bothers me about the government  {D see, } #  /
+%          A.25 utt2: {F uh, } my, # -/  
+
+sv          B.26 utt1:  # {D Well } [ that's, + # that's ]  the problem with government, {F uh, } administration of these programs <child>  /
+sv          B.26 utt2: {C and } that is one of the  things that we as society are going to have to deal with.  /
+sv          B.26 utt3: Government is going to have to change in this regard. /  
+
+qr          A.27 utt1:  Do you think that that these insurance things  should be covered on a State basis or U S government basis? /  
+
+^h          B.28 utt1:  {D You know, } that is really a tough one for me to answer.  /
+sd          B.28 utt2:   [ I don't, + {F uh, } I would like ] to see the greatest improvement in management.  /
+sd          B.28 utt3: [ [  My, + my, ] + my ] field is the cognitive sciences  /
+sd          B.28 utt4: {C and } I recognize that a lot of  these things that are done, <child_whining> are done, {F uh, } as a function  of the operating systems in place.  /
+sv          B.28 utt5: {C And } those operating systems have to change  /
+sv          B.28 utt6:  [ {C and } + {C and } ] as we become more efficient in developing machine operating systems we're going to develop more efficient human operating systems  /
+sv          B.28 utt7:  {C and so } a State or federal application, {F uh, } could work.  /
+sv          B.28 utt8: {F Uh, } it all depends upon the way you  structure the environment.  /
+sv          B.28 utt9: We may have to deal with, -/ 

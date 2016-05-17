@@ -1,0 +1,439 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2168_1071_1039
+TOPIC#:		353
+DATE:		910318
+TRANSCRIBER:	GL
+UTT_CODER:      aabo
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Speaker A is sniffing a lot as if she has a cold.
+                Much television noise behind Speaker B
+
+============================================================================
+  
+
+sd^t          A.1 utt1:  I've kind of gotten out of the habit of doing this.  /
+sd^t          A.1 utt2:  It's been down this weekend. /  
+
+sd^t          B.2 utt1:  <<T V in background>> {D Well, } I haven't tried,  /
+%          B.2 utt2: {C but } this is, - /
+sd^t          B.2 utt3: I haven't called in a couple of days,  /
+sd^t          B.2 utt4: {C but } education in public schools.  /
+sd          B.2 utt5:  I have a son who's graduating, {F uh, } in May,  /
+qh          B.2 utt6: {C and } there's some interesting problems [ [ of, + of, ] + of ] [ how d-, you, + how do you ] challenge the kids today.  /
+sd          B.2 utt7:  {C And } I have some real hang-ups.  /
+sv          B.2 utt8: I think that, {F uh, } [ if your, + if your ] kid's not ambitious, he can sure get lost. /  
+
+qy          @A.3 utt1:  In the school systems? /  
+
+ny          B.4 utt1:  # Yes. # /  
+
+aa          A.5 utt1:  # That's right. #  /
+qw          A.5 utt2:  What school system does he go to? /  
+
+sd          B.6 utt1:  In North Garland,  /
+%          B.6 utt2: he goes t-, -/  
+
+bk          A.7 utt1:  Okay. /  
+
+qw          B.8 utt1:  What school system are you familiar with? /  
+
+^h          A.9 utt1:  Okay,  /
+sd          A.9 utt2: my children go to Garland,  /
+sd          A.9 utt3: {C and } I teach in Dallas. /  
+
+%          B.10 utt1:  Y-, {F oh, } - /
+bk          B.10 utt2: okay,  /
+sd          B.10 utt3: # {D well, } I have a daughter that's [ [ in the, + in, ] + #   
+
+sd@          A.11 utt1:  # {C And } my husband teaches # with Plano.   
+
++          B.12 utt1:  in the ] I B program at Garland. /  
+
++@         A.13 utt1:  In the what? /  
+
+%          B.14 utt1:  In the, - /
+qy          B.14 utt2: are you familiar with the International Baccalaureate program. /  
+
+ny          A.15 utt1:  {D Well, } yeah,  /
+ny          A.15 utt2: yeah,  /
+ny          A.15 utt3: yeah. /  
+
+qy^g          B.16 utt1:  {F Uh, } do your kids go to Garland High, you said? /  
+
+nn          A.17 utt1:  No,  /
+nn          A.17 utt2: no,  /
+sd^e          A.17 utt3: they're still in elementary. /  
+
+bk          B.18 utt1:  {F Oh, } okay. /  
+
+b          A.19 utt1:  {C So, } yeah. /  
+
+%          B.20 utt1:  {D Well, } there's a, - /
+%          B.20 utt2: it's, {F um, } - /
+sd          B.20 utt3: she went from Austin Academy when it opened up,   
+
+b          A.21 utt1:  Uh-huh. /  
+
++          B.22 utt1:  over [ to, + {F uh, } to ] North Garland for ninth grade.  /
+sv          B.22 utt2:  {C But } at North Garland, [ the, + the ] difficulty I see with the education system [ is that, + {F uh, } is that, ] [ [  you can, + you can, ] + you can ] get some masses,  /
+sv          B.22 utt3: {C but } unless, if the kid's really dedicated, it seems like they do all right.  /
+sv          B.22 utt4:  {C But } [ [ if, + if, ] + if ] your child is just pressing along, {F uh, } - /
+sv          B.22 utt5: I, I'm firmly convinced that teachers aren't being paid enough.  /
+qy          B.22 utt6:  Would you, argue with that? /  
+
+nn          A.23 utt1:  I'm definitely not,  /
+qh          A.23 utt2: are you kidding?  /
+nn          A.23 utt3:  <sniffing> # No. # /  
+
+sv          B.24 utt1:  # {D Well } {D you know } # [ [ the, + the, ] + the ] thing that I don't see, and maybe you would take issue with it is that [ [  if, + if  we went to, ] + if there was ] an opportunity for teachers to teach year around. -/  
+
+aa          A.25 utt1:  No,  /
+sd          A.25 utt2: I want that <laughter>. /  
+
+%          B.26 utt1:  {D Well } would, -/  
+
+sv          A.27 utt1:  I think it would be better for the teachers and for the children, because we would do away with so much of the burn-out that we have.  /
+sv          A.27 utt2:  I know when you get the kids that have gone the summer being out of school, then it's like  they've lost so much ground, we spend at least the first six weeks just backing up, reteaching what they had the year before.  {D You know. } /  
+
+qw          B.28 utt1:  {D Well } [ how do we accom-, + how do we ] get that? /  
+
+sv          A.29 utt1:  {D Well, } we're starting pilot schools.  /
+%          A.29 utt2:  It's a-, - /
+sd          A.29 utt3: Dallas is doing it I know.  /
+qy^d          A.29 utt4: I think Plano, don't they have some,  /
+sd          A.29 utt5: {C and } Richardson's supposed to start some pilot schools, going to school year around. /  
+
+b          B.30 utt1:  Yeah. /  
+
+sd          A.31 utt1:  {C And then } [ we, + {D you know, } we ] investigated this by flying some people out from Dallas to observe some of the schools in California that already had it. /  
+
+qy          B.32 utt1:  Does it work well out there? /  
+
+ny          A.33 utt1:  Yeah,  /
+sv^e          A.33 utt2: it seems to, - /
+sv          A.33 utt3: {C and } one thing, it'll save us money, because we've got the buildings sitting there,  /
+b          A.33 utt4: right,  /
+sv          A.33 utt5: {C and } we might as well use them. /  
+
+qh          B.34 utt1:  {D Well, } [ what about the, + what about the ] issue of air conditioning.  /
+qy          B.34 utt2:  Isn't that [ a s-, + ] an area of concern in the cost of air conditioning? /  
+
+^h          A.35 utt1:  {D Well, } air conditioning, [ what's, + ]  [ and, + and ] heating. /  
+
+b          B.36 utt1:  {F Oh, } yeah. /  
+
+qy^h          A.37 utt1:  Isn't air conditioning less than heating, because we have to, just up - /
+sd          A.37 utt2: {D like, } if we get in the thirties, we raise it up to the seventies,  /
+b          A.37 utt3: right,  /
+sd          A.37 utt4: that's forty degrees. /  
+
+b          B.38 utt1:  Yeah. /  
+
+qy          A.39 utt1:  Isn't it less? /  
+
+ny          B.40 utt1:  Yeah,  /
+sd^e          B.40 utt2: [ it's, + it's ] less degree days,  /
+sd          B.40 utt3: you're right.  /
+%          B.40 utt4:  {C But } [ I think, + I think, ] -/  
+
+sv          A.41 utt1:  {C And } it's not like the kids are going to go a lot longer,  /
+sv          A.41 utt2: {D really, } if you go year around --   
+
+b          B.42 utt1:  Yeah. /  
+
++          A.43 utt1:  -- there's not thirty days difference. /  
+
+qw          B.44 utt1: [ W-, + {D well } ] how do they do it?  /
+qy          B.44 utt2:  Do they put, {F uh, } long, - /
+qy          B.44 utt3: do they put two or  three week breaks between? /  
+
+^h          A.45 utt1:  There's different ways to do it.  /
+sd          A.45 utt2:  {D Like } [  I, + I ] think going two six weeks {C and  then } having two, two weeks off, each after a two six weeks period is one way. /  
+
+qy          B.46 utt1:  Is that, - /
+qy          B.46 utt2: [ from, + from ] what you've seen, is that the desirable way to do it? /  
+
+no          A.47 utt1:  {D See, } I don't know, because I've never seen it in action. /  
+
+sd(^q)          B.48 utt1:  {F Oh, } you said you had some people from California.  /
+sd          B.48 utt2:  {F Oh } I thought you, -/  
+
+nn          A.49 utt1:  No,  /
+sd^e          A.49 utt2: the school system in Dallas has sent people there --   
+
+bk          B.50 utt1:  {F Oh, } okay. /  
+
++          A.51 utt1:  -- to do that.  /
+nn          A.51 utt2:  No. /  
+
+qy^d          B.52 utt1:  {C But } you didn't go. /  
+
+ng          A.53 utt1:  {C But } I think I'd like it,  /
+sd          A.53 utt2: {C and } I know a lot of teachers that would like to try it. /  
+
+sd          B.54 utt1:  {D Well, } [  the, + the ] other issue [ has to, + ] that I hear that the local commentator I listen to  ((   ))  some the idea that the numbers of administration and the fact that the principal, - /
+qy          B.54 utt2: do you see that the principals aren't really in charge? /  
+
+sv          A.55 utt1:  The principal's, [ their t-, + ] hands are tied, by all the administrators,  /
+sd          A.55 utt2: {C and } I heard that in Dallas,  it's one out of every three is actually in the classroom of the educators that were hired <laughter>. /  
+
+sd          B.56 utt1:  {D Well } I had heard that one of the comments # [ when they, + when they ] brought it, # -/  
+
+%          A.57 utt1:  # It's just, - /
+sv          A.57 utt2: you don't # even know who all your bosses are.  /
+sd          A.57 utt3:  It's ridiculous. /  
+
+%          B.58 utt1:  {F Um. }  Then why the, - /
+sd          B.58 utt2: the one they brought in, the new superintendent for Dallas schools, the admini-, {F um, } - /
+sd          B.58 utt3: can't think of his name,  /
+sd          B.58 utt4: {C but } the idea --    
+
+^2          A.59 utt1:  Marvin Edwards. /  
+
++          B.60 utt1:  -- {D yeah, }  that he had suggested [ that, + that ] maybe they could reduce the number of administrators [ and, + and ] some of the people who were administrators saying, [ [ that, + that, ] + {F uh, } that's ] not what he was hired for.  /
+sv          B.60 utt2:  {C But } they resented the fact that he would try to save some costs there. /  
+
+sd          A.61 utt1:  {D Well, } {D you know } he did, supposedly cut administrators,  /
+sv          A.61 utt2: {C but } what they've done is create other offices for those same people, and just [ rehi-, + ] renamed their jobs --    
+
+b          B.62 utt1:  {F Um. } /  
+
++          A.63 utt1:  -- and, {D you know, } opened up [ n-, + ] [ other n-, + other ] things.  /
+sd          A.63 utt2:  One thing we've got going is called reading and initiative,  /
+sd          A.63 utt3: {C and } they've hired all these administrators in on that, {D you know. } /  
+
+sv          B.64 utt1:  {D Well, } {D you know, } the other thing that bothers me is the amount of money [ that it tak-, + that it took ] to contest [ the, + the ] football, {F um, } issue. /  
+
+qw          A.65 utt1:  Pass or no fail, what is it? /  
+
+b          B.66 utt1:  Yeah  /
+%          B.66 utt2: {C but } the -- -/  
+
+sd          A.67 utt1:  No play. /  
+
+sd          B.68 utt1:  -- I can't think of the name of the school,    
+
+sd^r          A.69 utt1:  No play. /  
+
++          B.70 utt1: [  that, + that, ] {F uh, } - /
+sd          B.70 utt2: {C but } in any event [ [ they, + they, ] + they ] kept arguing. /  
+
+^2          A.71 utt1:  Carter High School. /  
+
+aa          B.72 utt1:  Yeah. /  
+
+b          A.73 utt1:  Yeah. /  
+
+sd          B.74 utt1:  {C And } they went to court,  /
+%          B.74 utt2: {E I mean, } i-, {D you know, } - /
+sd          B.74 utt3: guess [ I, + I'm ] sympathetic with the kids,  /
+qh         B.74 utt4: [ {C but, } + {C but } ] how much money did that cost Dallas [ [ to, + to, ] + to ] fight that in court. /  
+
+sv          A.75 utt1:  {C And } all the things that Dallas fights, costs thousands, probably millions of dollars, I bet you. /  
+
+sd          B.76 utt1:  {C But } just think of all [ the, + the, ] all the lawyers you've kept employed,  /
+%          B.76 utt2: {D see. } -/  
+
+b          A.77 utt1:  Yeah,  /
+ba          A.77 utt2: I know. /  
+
+x          B.78 utt1:  <Laughter>.   
+
+sd          A.79 utt1:  {C And } psychologists <laughter> and stuff. /  
+
+aa          B.80 utt1:  That's right, /  
+
+aa^m          A.81 utt1:  That's right. /  
+
+sd          B.82 utt1: [ {C and, } + {C and } ] all these other people are out running around.  /
+sd          B.82 utt2:  I guess that's the only problem with jobs being relatively scarce,  /
+sv          B.82 utt3: [ {C so. } +  {C But } ] you need to keep all these people employed,  /
+^g          B.82 utt4: right? /  
+
+nn          A.83 utt1:  # No,  /
+sv^e          A.83 utt2: we do not. # /  
+
+%          B.84 utt1:  # [ {C And, } + {C and } ] # <laughter>, -/  
+
+nn^r          A.85 utt1:  No <laughter>, /  
+
+sv          B.86 utt1: [ You mean, + you mean, ] we need a little more of our tax money, like maybe, {F uh, } -/  
+
+sv          A.87 utt1:  We need more of the tax money to actually get down to the students, because it's pretty frustrating when you see you don't even have paper,  /
+sv          A.87 utt2: {C and } <laughter> you're trying to ration it, {D you know, }  /
+sv          A.87 utt3: {D now } that's sad, when there's supposed to be what, {D you know, } one thousand, [ what, + ] sixty-five dollars, something like  that, spent on each pupil. /  
+
+b          B.88 utt1:  Yeah.  /
+x          B.88 utt2:   ((   )) .   
+
+sv          A.89 utt1:  {F Um, } [ it's, + it's ] wrong.  /
+sd          A.89 utt2:  {D Anyway, } I was thinking about <sniffing> - /
+sv          A.89 utt3: one thing that's wrong with schools is that we're not teaching to the children's modalities,  /
+sv          A.89 utt4: {C and } I think in nineteen, {F uh, } ninety-three we're supposed to begin that.  /
+sd          A.89 utt5: [  If, + if ] a child is a visual learner, we're supposed to present him with all these visual things,  /
+sd          A.89 utt6: {C and } if he has to learn just by kinesthetic, we're supposed to teach whatever way that that child has to have it, learns the best way.  /
+sv          A.89 utt7: {C And } that's going to be quite a problem. /  
+
+%          B.90 utt1:   ((   ))  {F Oh } that's, -/  
+
+sv          A.91 utt1:  {C But } if we could do something like that I'm sure it would certainly help. /  
+
+ba          B.92 utt1:  {F Um, } that's interesting,  /
+qw          B.92 utt2: {C and } how many administrators is that going to take? /  
+
+h          A.93 utt1:  <Laughter> I don't know,  /
+sd          A.93 utt2: no telling,  /
+h          A.93 utt3: I don't know.  /
+%          A.93 utt4:  {C And, } {D you know, } at nongraded schools. - /
+sd          A.93 utt5: They've had one in Gladewater for years and years and  years.  /
+sv          A.93 utt6: If we could just let these kids go at their own rate.  /
+sd          A.93 utt7:  I have children even, - /
+sd          A.93 utt8: [ I, + I ] teach Chapter One,  /
+sd          A.93 utt9: {C and } it's for kids that have fallen behind in their reading according to, {D like } I T B S scores. /  
+
+b          B.94 utt1:  Yeah. /  
+
+sd          A.95 utt1:  {C And } some of the kids, really they shouldn't be in there,  /
+sd          A.95 utt2: {C and } [ they're, + {D you know, } they're ] not being challenged,  /
+sd          A.95 utt3: {C and } they're not being challenged in their home,  /
+sd          A.95 utt4: {C and } we always have to teach toward the middle of the road. /  
+
+b          B.96 utt1:  Yeah,  /
+sd          B.96 utt2: {D well, } [ that's, + that's ] part of where my son [ is, + ] {F um, } would like to go to Rice,  /
+%          B.96 utt3: {C but } I don't think he's, - /
+sv          B.96 utt4: {D well, } [ the, + the ] difficulty [ [ is, + is, ] + is ] the people that get in [ [ are, + are, ] + are ] overachievers. /  
+
+b          A.97 utt1:  Uh-huh. /  
+
+sd          B.98 utt1:  {C And } he's not an  overachiever.  /
+sv          B.98 utt2:  {C But } the same time, everybody can't go,  /
+%          B.98 utt3: {C but } it, - /
+qh          B.98 utt4: the question [ [ of, + of, ] + {D you know, } of ] how far should you take a kid in the motivation, - /
+h          B.98 utt5: I'm not sure,  /
+sv          B.98 utt6: I think maybe there's too much responsibility put on the teachers to motivate these kids.  /
+sd(^q)          B.98 utt7:  I had [ a, + a ] friend that was administrator in Richardson said if the parents read books, then the kids probably would read books. /  
+
+b          A.99 utt1:  Right. /  
+
+sv          B.100 utt1:  {C But } that a lot of the schools I would think the kids you're talking to, question [ of, + of ] how much reading do those kids' parents do. /  
+
+sd          A.101 utt1:  My children's parents aren't even there at night most of the time --   
+
+%          B.102 utt1:  {D Well. } -/  
+
++          A.103 utt1:  -- to do anything with them. /  
+
+sv          B.104 utt1:  {D Well, } {C but } that's the point, as I would say, {F uh } -- /  
+
+b          A.105 utt1:  Yeah. /  
+
+sv          B.106 utt1:  -- {C and }  [ that   is, + that's ] what makes, - /
+sd          B.106 utt2: there's a lot of problems.  /
+sd^t          B.106 utt3:  {C But } {D anyway, } {F um, } I'm trying to think how much longer.  /
+sd^t          B.106 utt4:  I had a conversation, week or so ago  /
+sd^t          B.106 utt5: {C and } we got carried away,  /
+%          B.106 utt6: {C and } they cut, - /
+sd^t      B.106 utt7: it beeps in at ten minutes.  /
+o@          B.106 utt8:  {C So. }   
+
+sd          A.107 utt1:  I know it,  /
+sd^r          A.107 utt2: I know it <laughter>. /  
+
++@          B.108 utt1:  <Laughter> {D So } {D anyway. } -/  
+
+sd^t          A.109 utt1:  I went for a couple - /
+sd^t       A.109 utt2: {C and } I didn't know that there was even a cut off or  anything.  /
+sv          A.109 utt3: {F Oh } another things that's wrong with schools, - /
+sv          A.109 utt4: this is big,  /
+sv          A.109 utt5: <laughter> there's too much emphasis on test.  /
+sd          A.109 utt6: We're spending the first hour of every day teaching for the  ((   ))  test at my school,  /
+sd          A.109 utt7: {C and } we're going to do that until at least the first part of May. /  
+
+b          B.110 utt1:  {F Huh. }  /
+sd          B.110 utt2: {D Well } {D see, } that's in the Garland schools,  /
+%          B.110 utt3: the numbers, - /
+sd          B.110 utt4: [ they, + I don't think they ] have to do that because most everybody passes. /  
+
+sd          A.111 utt1:  <Laughter>  {C But } {D see, } they're not in Dallas. /  
+
+sv          B.112 utt1:  {D Well, } opportunity,  /
+^g          B.112 utt2: right?  /
+sd          B.112 utt3:  <laughter> If you get graded on percent improvement. - /
+%          B.112 utt4: {C  But } {D see, } that. -/  
+
+ny          A.113 utt1:  Yeah,  /
+sd^e          A.113 utt2: we're not working with the same type of students --    
+
+b          B.114 utt1:  Yeah. /  
+
++          A.115 utt1:  -- that most of these kids in Garland are. /  
+
+ba          B.116 utt1:  {C And } unfortunately, [ the, + ] {F uh, } [  that's, + that's ] tough,  /
+sv          B.116 utt2: that's a real challenge though.  /
+%          B.116 utt3:  {C But, } {F uh. } -/  
+
+sv          A.117 utt1:  {C But } {D see, } what we're doing is we're turning these kids off to school even more than they are. /  
+
+b          B.118 utt1:  Yeah. /  
+
+sd          A.119 utt1:  {C And } we're not teaching toward the test,  /
+sd          A.119 utt2: we're teaching, {D you know, } - /
+sd          A.119 utt3: I always objected, {D you know, }  /
+sv          A.119 utt4: it's like there's not a whole lot of, {D you know, } fun time like we used to have in school.  /
+sd(^q)          A.119 utt5:  {D Like } our principal says, I want every child to be on task all the time. /  
+
+b          B.120 utt1:  Yeah. /  
+
+sv          A.121 utt1:  {C And } you can't do that as adults.  /
+sv          A.121 utt2:  {C But } we're expecting kids to. - /
+%          A.121 utt3: {C And } {D like } [  after, + after ] recess, play -- -/  
+
+b          B.122 utt1:  Yeah. /  
+
+sd          A.123 utt1:  -- we don't get that.  /
+b          A.123 utt2: Okay. /  
+
+b          B.124 utt1:  Yeah. /  
+
+sd          A.125 utt1:  If they finish before their thirty minutes is up, then they can go out and  play for {D like } maybe five or ten minutes, probably be the most. /  
+
+b          B.126 utt1:  Yeah. /  
+
+sd          A.127 utt1:  {C But } we always got that,  /
+^g          A.127 utt2: didn't you?  /
+x           A.127 utt3:  <<Loud dish clanging noises.>>   
+
+ny          B.128 utt1:  {D Well, } yeah,  /
+sd^e          B.128 utt2: {D you know, } our [ s-, + son ] had that,  /
+sd          B.128 utt3: he [ was, +  had ] an attention deficit disorder,  /
+sd          B.128 utt4: {C and } they were keeping him from recess  /
+sd          B.128 utt5: {C and } in reality [ that's, + {F uh, } that's ] one of those really tough situations.  /
+sv          B.128 utt6: I think the kids need some time to play. /  
+
+b          A.129 utt1:  Yeah.  /
+x          A.129 utt2:  <<Dishes clanging.>>   
+
+sv          B.130 utt1:  {C But, }  ((   ))  [ people like, +  if more people like ] you though that understand the problems get in [ and + ((   ))  and ] change some education - /
+sd          B.130 utt2: {C so. } {F Uh, } I got some background noise there  /
+%          B.130 utt3: {C but } I guess <</TV>> ... -/ 

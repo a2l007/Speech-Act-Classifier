@@ -1,0 +1,130 @@
+ ------------------------------------
+| HOT SPOT ANNOTATION TRACKING CHART |
+ ------------------------------------
+
+
+ -----
+| Key |
+ -----
+
+Meeting:
+    Meeting name using 6 character convention
+	 
+Length:
+    Length of meeting
+
+Annotator:
+    - Initials of the individual who annotated the meeting
+    - A slash '/' indicates that two annotators labeled the meeting.
+	There are 2 ways that this may have been done:
+	1) 1 annotator labeled the 1st 10-min chunk and the 2nd annotator
+	   labeled the 2nd 10-min chunk.  Annotation of each chunk
+	   thereafter continues in this alternating fashion.
+	2) 1 annotator labeled the first half of the entire meeting and the
+	   2nd annotator labeled the second half of the entire meeting.
+
+Reliability Chunks:
+    Time stamps of meeting that was annotated for reliability.  If no
+    reliability is available for the meeting, it will read "uncut."
+    Note: The time that the reliability chunks were completed does not
+          necessarily correspond to the time that the meeting was created for
+	  annotation or completed.
+
+Date:
+    Date that the meeting annotation was completed.
+    Note: The date is of the form MM/DD/YY.
+
+
+------------------------------------------------------------------
+Meeting	     Length	Annotator    Reliability chunks   Date	  
+------------------------------------------------------------------
+Bdb001       51min	SB	     uncut		  05/24/04
+
+Bed002       65min	RD	     uncut		  05/12/04
+Bed003       60min      RD	     600-1200		  05/07/04
+Bed004	     55min      SB	     uncut		  04/27/04
+Bed005       66min	RD	     uncut		  05/12/04
+Bed006       62min      RD	     1200-1800		  05/10/04
+Bed008       85min	RD	     uncut		  05/20/04
+Bed009	     53min      RD	     1800-2400		  04/23/04
+Bed010	     51min      RD	     uncut		  04/22/04
+Bed011       54min      RD	     uncut		  04/30/04
+Bed012	     44min	RD	     uncut		  04/19/04
+Bed013       60min	RD	     uncut		  05/07/04
+Bed014       59min	SB	     uncut		  04/30/04
+Bed015	     80min	RD	     uncut		  05/19/04
+Bed016       47min	RD	     uncut		  04/20/04
+Bed017	     40min      RD	     uncut		  05/03/04
+
+Bmr001       36min      RD	     0-600		  04/16/04
+Bmr002	     46min      SB	     uncut		  04/18/04
+Bmr003	     77min	SB	     uncut		  05/19/04
+Bmr005	     71min      SB	     uncut		  05/19/04
+Bmr006	     79min	SB	     uncut		  05/21/04
+Bmr007       55min      SB	     2400-3000,3000-3600  05/07/04
+Bmr008	     64min      SB	     uncut		  05/14/04
+Bmr009	     46min      SB	     uncut		  05/10/04
+Bmr010	     63min      SB	     uncut		  05/13/04
+Bmr011	     67min	SB	     uncut		  05/17/04
+Bmr012	     33min      SB	     0-600,1200-1800	  04/16/04
+Bmr013	     43min      SB	     600-1200,2400-3000	  04/18/04
+Bmr014	     50min      SB	     uncut		  04/19/04
+Bmr015	     50min      SB	     uncut		  04/20/04
+Bmr016       66min	RD	     uncut		  05/17/04
+Bmr018	     56min      RD	     0-600		  05/14/04
+Bmr019       60min	SB	     uncut		  05/12/04
+Bmr020	     56min	SB	     uncut		  05/11/04
+Bmr021	     37min      RD	     uncut		  05/03/04
+Bmr022       59min      RD	     uncut		  04/15/04
+Bmr023       54min      SB	     uncut		  05/06/04
+Bmr024	     50min      SB	     1200-1800,1800-2400  04/22/04
+Bmr025	     33min	RD	     uncut		  04/15/04
+Bmr026       41min      RD	     600-1200		  04/16/04
+Bmr027	     49min	RD	     uncut		  04/19/04
+Bmr028	     55min	SB	     uncut		  04/26/04
+Bmr029	     43min	RD	     uncut		  04/18/04
+Bmr030	     26min	SB	     uncut		  04/15/04
+Bmr031	     54min	SB	     uncut		  04/23/04
+
+Bns001	     99min	RD	     uncut		  05/24/04
+Bns002	     102min	RD	     uncut		  05/26/04
+Bns003       50min	RD	     uncut		  05/20/04
+
+Bro003       87min	RD	     uncut		  05/18/04  
+Bro004	     63min	RD	     uncut		  05/10/04
+Bro005	     63min	RD	     uncut		  05/11/04
+Bro007	     30min      RD	     uncut		  04/26/04
+Bro008	     30min	RD	     uncut		  04/26/04
+Bro010	     49min	RD	     uncut		  05/04/04
+Bro011       37min      RD	     uncut		  04/28/04
+Bro012	     61min	RD	     uncut		  05/06/04
+Bro013	     38min      RD	     uncut		  04/29/04
+Bro014	     58min	RD	     0-600,600-1200	  05/05/04
+				     1200-1800,1800-2400
+				     2400-3000,3000-3600
+Bro015	     14min	RD	     uncut		  04/18/04
+Bro016	     51min	SB	     uncut		  05/03/04
+Bro017       56min	RD	     uncut		  05/05/04
+Bro018	     53min	SB	     uncut		  05/04/04
+Bro019       65min	RD	     uncut		  05/13/04
+Bro021       61min	SB	     uncut		  05/10/04
+Bro022	     53min	SB	     uncut		  05/04/04
+Bro023       74min	SB	     uncut		  05/18/04
+Bro024       79min	RD	     uncut		  05/17/04
+Bro025	     35min      RD	     uncut		  04/27/04
+Bro026	     58min	SB	     uncut		  05/05/04
+Bro027       73min	SB	     uncut		  05/17/04
+Bro028       57min	SB	     uncut		  05/05/04
+
+Bsr001       58min	SB	     uncut		  05/25/04
+
+Btr001       67min	RD	     uncut		  05/24/04
+Btr002       89min	SB	     uncut		  05/26/04
+
+Buw001       68min	RD	     uncut		  05/21/04
+
+
+
+
+
+

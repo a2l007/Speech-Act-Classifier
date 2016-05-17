@@ -1,0 +1,283 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4723_1437_1611
+TOPIC#:		320
+DATE:		920417
+TRANSCRIBER:	nk
+UTT_CODER:	tc
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	1
+REMARKS:        There were background voices and noises throughout A's 
+side.
+
+==========================================================================
+  
+
+x          A.1 utt1:  <Clicking> <talking>.   
+
+qw          B.2 utt1:  {D So, } what sort of car are you  interested in getting next? /  
+
+sd          @A.3 utt1:  {D Well, } actually, I love the car I have.  /
+sd          @A.3 utt2:  I have a Chrysler LeBaron convertible.  /
+sd          @A.3 utt3: # {C And } # --   
+
+b          B.4 utt1:  # Ah. # /  
+
++          A.5 utt1:  -- I love it.  /
+sd          A.5 utt2: {C And } I would get  another one in a minute.  /
+sd          A.5 utt3:  Unless I could afford what I really like which would be a  red Ferrari or, {D you know, } a little Corvette or something like that.  /
+sd          A.5 utt4:  {C And } that's what would influence my decision to change because I like a really sporty car.  /
+sd          A.5 utt5:  {C And } I'd love an expensive one  /
+sv          A.5 utt6: # {C but } I probably, #   
+
+x          B.6 utt1:  # <Laughter>. #   
+
++          A.7 utt1:  can never afford it  /
+%          A.7 utt2: {C so } <laughter>. -/  
+
+sd          B.8 utt1:  {F Uh, } {D well } I understand and  can sympathize with that because I also enjoy driving performance automobiles.  /
+sd          B.8 utt2:  {F Uh, } I currently have an eighty-seven, five liter Mustang G T --   
+
+b          A.9 utt1:  Uh-huh. /  
+
++          B.10 utt1:  -- that I've done a bunch of modifications  [ to, +  to ] make it, {F uh, } handle and  perform better, /  
+
+x          A.11 utt1:  <Noise>.   
+
+sd          B.12 utt1:  {C and } I suspect if I were to be  able to get another car where object was, {F uh, } - /
+sd          B.12 utt2:  the best car I could get regardless of money,  <inhaling> {F uh, } I probably would be tempted by something along the lines of  a Lotus or possibly a Ferrari. /  
+
+b          A.13 utt1:  Uh-huh.  /
+b          A.13 utt2:  Yeah.  /
+sd          A.13 utt3:  {D Well, } I'm  a nurse here  /
+sd          A.13 utt4: {C and } we have a doctor at this hospital that has a beautiful new red Ferrari. /  
+
+qy          B.14 utt1:  [ A, +  a ] three twenty-eight G T S? /  
+
+no          A.15 utt1:  {C And } I couldn't tell you  /
+sv          A.15 utt2:  {C but } it's just beautiful.  /
+sd          A.15 utt3:   {C And } I go out and I love to # touch it  /
+sd          A.15 utt4: {C but } I can't  even do that because <laughter> of the alarm. # /  
+
+qh          B.16 utt1:  # <Laughter> #  # You just go hunting? # /  
+
+sd          A.17 utt1:  # {C So, } I just look # at it a lot # <laughter>. # /  
+
+bf          B.18 utt1:  # Go out and # lust after it. /  
+
+aa          A.19 utt1:  Really <laughter>.  /
+aa          A.19 utt2: Exactly.  /
+sv          A.19 utt3:   {C But } it sure is a pretty thing <laughter>. /  
+
+qy          B.20 utt1:  {D So } have you had the opportunity to drive a Ferrari? /  
+
+nn          A.21 utt1:  No.  /
+sd^e          A.21 utt2: I'm working on it <laughter>.  /
+nn          A.21 utt3:   No,  /
+sd          A.21 utt4: I really haven't,  /
+nn          A.21 utt5: no,  /
+nn          A.21 utt6: huh-uh  /
+sd          A.21 utt7: <talking>.  # I did # --   
+
+x          B.22 utt1:  #  ((   )) . # /  
+
++          A.23 utt1:  -- test drive a Corvette last year. Maybe the year before.  /
+sd          A.23 utt2:  It was brand new, white,  /
+sv          A.23 utt3: it was like a big marshmallow.  /
+sd         A.23 utt4:   When you sat in the seats, they adjusted to fit around you. /  
+
+b          B.24 utt1:  {F uh. } /  
+
+sd          A.25 utt1:  {E I mean } they came in and up and  out  /
+sd          A.25 utt2: {C and } {E I mean, } they did whatever  /
+sd          A.25 utt3:  [ {C and, } +  {C and } ] we went for a test drive in that  /
+sd          A.25 utt4:  {C and } I was able to open that up pretty good  /
+sv          A.25 utt5: {C and } that was really fun.  /
+sd          A.25 utt6:   {C And } I wanted it,  /
+sd          A.25 utt7:  {C but } I had a choice of that or my house  /
+sd          A.25 utt8: {C and } # I thought that I'd continue, #   
+
+x          B.26 utt1:  # <Laughter>. #   
+
++          A.27 utt1:  to live in my house <laughter>  /
+%          A.27 utt2: {C so. } -/  
+
+b          B.28 utt1:  Yeah,  /
+sv          B.28 utt2: [ there, +  there's ]  something about having a place to live, #  /
+h          B.28 utt3: I don't know. # /  
+
+aa          A.29 utt1:  # Yeah,  /
+sv          A.29 utt2: # {D you know, } it's just necessary.  /
+sv          A.29 utt3:  {C And } [ I did, +  I thought ] {D well } a tent wouldn't be bad but probably not practical. /  
+
+sv          B.30 utt1:  Could sleep in the back of the 'vette. /  
+
+b          A.31 utt1:  Yeah,  /
+b          A.31 utt2: right <laughter>.  /
+%          A.31 utt3:  {C So, } -/  
+
+sv          B.32 utt1:  I find [ that, +  {F uh, } that ]  the Corvettes [ are, +  are ] becoming [ really, +  really ] nice cars. /  
+
+qy^g          A.33 utt1:  [ They  are, + they're ] pretty aren't they lately <noise>. /  
+
+ny          B.34 utt1:  Yeah.  /
+sv          B.34 utt2:  # {C And } # --   
+
+sv          A.35 utt1:  # They really # are. /  
+
++          B.36 utt1:  -- [ they, +  they've ] improved,   
+
+x          A.37 utt1:  <Baby_crying>.   
+
++          B.38 utt1:  the performance  and the suspension  such that they're actually a lot of fun to drive. /  
+
+b          A.39 utt1:  Really. /  
+
+sv          B.40 utt1:  It's not like driving [ a, +  a ]  Winnebago or something. /  
+
+aa          A.41 utt1:  {F Oh, } no <laughter>.  /
+aa^r          A.41 utt2: No,  /
+aa^r        A.41 utt3: no.  /
+sd          A.41 utt4:   {D See, } I'm not into station wagons and vans and  things that people are really buying now  /
+sd(^q)          A.41 utt5:  {C and } <noise> they go isn't that a nice van  /
+sd(^q)          A.41 utt6: {C and } I go, um. /  
+
+x          B.42 utt1:  <Laughter>.   
+
+^q          A.43 utt1:  <Laughter> Not really, {D you know. }   /
+^q          A.43 utt2: # How about # --   
+
+sd          B.44 utt1:  # Nice. # /  
+
++          A.45 utt1:  -- a Greyhound bus <laughter>. /  
+
+aa          B.46 utt1:  Yeah.  /
+sd          B.46 utt2:  Nice isn't the word I'd choose.  /
+sd          B.46 utt3: Maybe practical. /  
+
+b          A.47 utt1:  Yeah.  /
+%          A.47 utt2:  # {E I mean } that, {D you know. } # -/  
+
+qy          B.48 utt1:  # Isn't that a practical van. # /  
+
+sv          A.49 utt1:  There's some that are prettier than  others  /
+%          A.49 utt2: {C and } - /
+%          A.49 utt3: yeah,  /
+sv          A.49 utt4: the new type is prettier than what [ their, +  they used ]  to look like  /
+sv          A.49 utt5: {C but } I sure don't think it's attractive, {D you know. }  /
+sv          A.49 utt6:  It's not [ like, +   like ] driving a little sports car. /  
+
+b          B.50 utt1:  Yeah.  /
+sv          B.50 utt2:  [ It, +  it's ] very hard to  find something practical that's also attractive. /  
+
+aa          A.51 utt1:  Yeah.  /
+sv          A.51 utt2:  I don't think that happens  /
+sd          A.51 utt3:  [ {C so, } +  {C but } ] [ I, +  I ]  love mine,  /
+sd          A.51 utt4: [ {C so, } +  {C and } ] [ I, +  I ] bought it because I drove a friend's in Hawaii  /
+sd          A.51 utt5:  {C and } I just went home  /
+sd          A.51 utt6: {C and } I walked in  /
+sd          A.51 utt7: {C and } I picked it out  /
+sd(^q)          A.51 utt8:  {C and } he said take it home and bring it back if you want to,  /
+sd          A.51 utt9: {C and } I never did.  /
+sd          A.51 utt10:   I just went back and signed the papers <laughter>  /
+sd          A.51 utt11: {C and } I knew nothing about  my car when I got it.  /
+sd^r          A.51 utt12:  Nothing.  /
+sd          A.51 utt13:  I didn't know how anything worked. /  
+
+bf          B.52 utt1:  {D Well, } {C so } it was a completely  new experience for you.  /
+sv          B.52 utt2: {C And } I'm sure you enjoyed every minute of it. /  
+
+b          A.53 utt1:  Yeah.  /
+sd          A.53 utt2:  {C And } I've had it,  /
+sd          A.53 utt3:  it's almost three years actually.  /
+sd          A.53 utt4: {C And } [ I've, +  I still love ] it.  /
+sd          A.53 utt5: I put the top down everywhere I go.  /
+sd          A.53 utt6:   I timed it when I first got it  /
+sd          A.53 utt7: {C and } it took [ twenty min-, +   {E I mean } twenty seconds ]  /
+sd          A.53 utt8: {C and so, } I figured there was nowhere I was to late to go that I didn't have twenty more seconds. /  
+
+b          B.54 utt1:  Right. /  
+
+%          A.55 utt1:  {C So. } -/  
+
+%          B.56 utt1:  [ {C And, } + {C and } ]  you couldn't get, - /
+qw^g          B.56 utt2:  how long does it take to go back up?  About the # same time. # /  
+
+sd          A.57 utt1:  # Twenty seconds,  /
+ny          A.57 utt2:  # yeah.  /
+sd          A.57 utt3:   That's all it takes.  /
+sd          A.57 utt4:  {E I mean, } it's just a button, that's # it.  /
+sd          A.57 utt5:  You # --   
+
+b          B.58 utt1:  # Yeah,  /
+%          B.58 utt2: {C so } <noise>. # -/  
+
++          A.59 utt1:  -- release it right <noise> at the top,  /
+sd          A.59 utt2:  {C so } # you don't have to # --   
+
+bf          B.60 utt1:  # {C So } you won't get, # -/  
+
++          A.61 utt1:  -- get out or anything. /  
+
+b          B.62 utt1:  Yeah  /
+sv          B.62 utt2: {C and } twenty seconds you  probably won't get caught in anything too substantial. /  
+
+ar          A.63 utt1:  {D Well } I did, actually.  /
+sd          A.63 utt2:   Last week going to the airport,  /
+sd          A.63 utt3: I just hit a downpour  /
+sd          A.63 utt4: {C and } I was on a highway going like eighty. /  
+
+x          B.64 utt1:  <Laughter>.   
+
+sd          A.65 utt1:  {C So } I really did.  /
+sd          A.65 utt2:  {E I mean } <laughter> I was soaking wet.  /
+sd          A.65 utt3: I thought I would drown <laughter> in the seconds that it took me to pull over <laughter>. /  
+
+ba          B.66 utt1:  Whoops. /  
+
+sd          A.67 utt1:  {C But } it all dried out, {D you know. }  # Didn't # --   
+
+b          B.68 utt1:  # Yeah. # /  
+
++          A.69 utt1:  -- take long when the sun came out  /
+sv          A.69 utt2:  {C but } <laughter> <sniffing> it was kind of funny.  /
+sv          A.69 utt3: I'm sure people around me really   enjoyed it # <laughter>  /
+%          A.69 utt4: {C but, } # -/  
+
+sd          @@B.70 utt1:  # <Laughter> # {F Oh. }  No I was just  down in Austin last week  /
+sd          @@B.70 utt2: {C and } the weather was pretty nice too.  /
+%          @@B.70 utt3:  {C So, } -/  
+
+b          A.71 utt1:  Oh  /
+qy          A.71 utt2: {F {C and } } wasn't it pretty  last week with the # Bluebonnets and everything,  /
+ny          A.71 utt3: yeah,  /
+ny^r          A.71 utt4: yeah. # /  
+
+^2          B.72 utt1:  # With the Bluebonnets out,  /
+aa          B.72 utt2:  yeah.  /
+sv          B.72 utt3:  It # really was.  /
+%          B.72 utt4: Yeah  /
+sd          B.72 utt5: I decided that Austin is certainly someplace that I could handle living. /  
+
+b          A.73 utt1:  <Noise> <<someone is walking>> Yeah.  /
+sd          A.73 utt2:   A lot of people say that  /
+sd          A.73 utt3: {C and } it's pretty far from where I live </talking>. / 

@@ -1,0 +1,134 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4372_1634_1611
+TOPIC#:		340
+DATE:		920325
+TRANSCRIBER:	nk
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        A stutters a lot so it is hard to understand some words.
+
+============================================================================
+  
+
+sv          B.1 utt1: {D So, } let's talk about the, {F uh, } wonderful abuses in the State of Pennsylvania of personal property taxes whereby you can purchase something mail order  /
+sd          B.1 utt2: {C and } after the fact, the State of Pennsylvania can find out about it and send you a bill for the sales tax appropriate to that item that you purchased as well as interest and penalties <inhaling> from the time that you bought it.  /
+qo          B.1 utt3: What do you think?  /
+qy          B.1 utt4: Is Pennsylvania kind of out of line there? /  
+
+ng          A.2 utt1: {D Well, } {D actually, } I don't think they're out of line.  /
+h          A.2 utt2: [ De-, + Devil's ] advocate possibly,  /
+sv          A.2 utt3: {C but } <rustling> <inhaling> [ it, + you ] are trying to avoid paying taxes  /
+sd          A.2 utt4: {C and } [ whe-, + whether ] or not you agree with that law, [ i-, + you're ] still circumventing it.  /
+sd          A.2 utt5: You are legal [ in, + in ] your circumvention of that law. /  
+
+qw          B.3 utt1: [ What, + what ] if you're not doing it in order to circumvent the law though?  /
+qw          B.3 utt2: {E I mean } what if you don't even realize that you're subject to paying, {F uh, } income tax on something that you purchase mail order? /  
+
+sv          A.4 utt1: Really, [ [ I, + I, ] + I ] don't think that's a valid argument.  /
+sv          A.4 utt2: I think that most people are quite aware they're not paying that six percent sales tax.  /
+sd          A.4 utt3: {F Um, } [ [ s-, + s-, ] + naturally [ some, + some ] ] things you just can't find in your local K-Mart [ or, + or, ] {F uh, } Bryn Mawr stereo dealer.  /
+qh          A.4 utt4: {F Uh, } {C but } [ [ [ th-, + th-, ] + th-, ] + then ] why not [ pay, + pay ] the sales tax (( )).  /
+sd          A.4 utt5: Corporations have to,  /
+qh          A.4 utt6: why should an individual [ just because it's, + just because the state ] can't really find out about it, be able to avoid paying sales tax? /  
+
+sv          B.5 utt1: {D Well, } {E I mean, } it seems to me that, generally, at least in my own experience, when I purchase something mail order, it's not to circumvent paying sales tax to the State of Pennsylvania.  /
+sd          B.5 utt2: It's because, {E I'm sorry, } the Commonwealth of # Pennsylvania. # -/  
+
+b          A.6 utt1:  # Yes. # /  
+
+sv          B.7 utt1: {F Uh, } it's because [ I, + I ] can't find the item that I want at a competitive price anywhere in my local area.  /
+sd          B.7 utt2: {C So } I go outside the area for that.  /
+sv          B.7 utt3: {C And } I think that it's not my responsibility to police myself and pay Pennsylvania what they believe they are owed even though, {D you know, } the revenue stream went to another state.  /
+sv          B.7 utt4: [ I don't, + I don't ] think that that's my responsibility [ as a, + as a ] conscientious consumer. /  
+
+aa          A.8 utt1: <Lipsmack> [ I, + I'll ] agree [ it, + it's ] not your responsibility  /
+qh          A.8 utt2: [ {C but, } + {C b-, } ] is it also legal,   
+
+x          B.9 utt1:  <Rustling> <static>.   
+
++          A.10 utt1: for you to do that?  /
+sd          A.10 utt2: [ [ W-, + w-, ] + [ fr-, + from ] what ] I understand from [ [ v-, + v-, ] + various ] net readings, [ [ [ i-, + i-, ] + it, ] + the Federal government ] is going to try to legislate a more aggressive enforcement of state tax schemes, {F uh, } [ in, + into ] place in the next few years.  /
+sd          A.10 utt3: [ It is, + it is ] a lost revenue stream right now  /
+sv          A.10 utt4: {C and } states [ c-, + can ] use all the revenue they can get.  /
+qy          A.10 utt5: [ With some, + with something ] like that, [ d-, + do ] your arguments still apply? /  
+
+no          B.11 utt1: {D Well, } I think that [ if, + if ] policy is established and if a mechanism is put into place to promote the collection of taxes in this fashion, then I don't argue with it.  /
+sv(^q)          B.11 utt2: {C Because } it's not a burden on the consumer to remember that {F oh, } I bought this out of state.  /
+^q          B.11 utt3: I need <sigh> to Xerox the receipt and make out a check for six percent and send it to Pennsylvania. /  
+
+sd          A.12 utt1:  Which is exactly what businesses do at the present. /  
+
+aa          B.13 utt1: Right.  /
+sv          B.13 utt2: {C But } the point is is that businesses do that.  /
+sd          B.13 utt3: The business that you purchase the thing from is responsible for collecting the appropriate sales tax and forwarding it to the state in question.  /
+sv          B.13 utt4: That's a cost of doing business.  /
+sv          B.13 utt5: The # burden # --    
+
+sd          A.14 utt1:  # {C And } [ [ I, + I ] + # --   
+
++          B.15 utt1:  -- shouldn't be placed on the consumer. /  
+
++          A.16 utt1: -- I ] was actually talking about businesses purchasing something mail order and then [ having, + having ] to pay sales tax on it. /  
+
+%          B.17 utt1:  {F Uh. } /  
+
+sd          A.18 utt1: That's my understanding of [ the way, + {F uh, } the way ] it works.  /
+sd          A.18 utt2: Usually, [ the, + the ] person ordering doesn't pay.  /
+sd          A.18 utt3: {C But } the accounting department will, {F uh, } suck up all the bills at the end of the month and realize how much they have to pay.  /
+sd          A.18 utt4: {C And } [ there r-, + there are ] [ s-, + some ] substantial, nasty penalties, {F um, } [ if you, + if businesses ] try to avoid that. /  
+
+qr          B.19 utt1: {F Uh, } do you mean businesses from the point of view [ as, + ] [ of, + of ] selling things to a # consumer and # --   
+
+%          A.20 utt1:  # I-, (( )). # -/  
+
++          B.21 utt1:  -- then being responsible for the sales tax?    
+
+nn          A.22 utt1:  No.  /
+sd          A.22 utt2:  Businesses, {F uh } --   
+
++          B.23 utt1:  Or purchasing. /  
+
++          A.24 utt1: -- if purchasing things mail order,  /
+sd          A.24 utt2: [ if, + if ] I'm a computer consulting firm and I see [ these, + this ] great deal on forty-six mother boards, {F uh, } [ from, + from ] say Utah.  /
+sd          A.24 utt3: {F Um, } [ I, + I ] might buy the mother boards from Utah but then still have to pay Pennsylvania sales tax.  /
+sd          A.24 utt4: My [ a-, + accounting ] department will at the end of the month.  /
+sv          A.24 utt5: [ I think that [ i-, + i-, ] + I think that's ] the way things work in Pennsylvania.   /
+sd          A.24 utt6: {C And } I know they work that way [ in, + {F uh, } {D say } here in ] D C. /  
+
+b          B.25 utt1: Yeah.  /
+sd          B.25 utt2: {D See } I'm unfamiliar with that because [ I don't, + I never  see ] that end of the business. /  
+
+b          A.26 utt1:  Yeah. /  
+
+sd          B.27 utt1: {C So, } my only experience has been from the point of view of a consumer.  /
+sv          B.27 utt2: {F Uh, } {C but, } if that's the case, if the business is responsible for policing themselves, then I think some well defined mechanisms need to be in place so that, {F uh, } the opportunity [ f-, + ] to forget that you owe sales tax for something, {F uh, } can be avoided. /  
+
+aa          A.28 utt1: That's true.  /
+sv(^q)          A.28 utt2: [ [ [ I-, + i-, ] + a r-, ] + a big ] hole does exist right now, {F uh, } in that consumers can just say {F oh, } [ I, + I ] forgot that.  /
+sd          A.28 utt3: [ There, + there ] is no well defined mechanism at all  /
+sv          A.28 utt4: [ {C and, } + {C and } ] that it is [ a + <inhaling> a ] [ l-, + loss. ] [ I, + I ] think is that the Federal government will try to establish a mechanism [ [ ju-, + just ] to do + just [ that + ] [ in or-, + in order ] to ] gain the revenue that's being lost.  /
+sd          A.28 utt5: {F Uh, } {E I mean, } [ I, + I ] don't know if I agree with that.  /
+%          A.28 utt6: [ {C But } it, + {C but, } ] -/  
+
+x          B.29 utt1:  </Rustling> </static>. / 

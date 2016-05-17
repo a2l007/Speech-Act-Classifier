@@ -1,0 +1,318 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2751_1238_1061
+TOPIC#:		320
+DATE:		910501
+TRANSCRIBER:	csw
+UTT_CODER:      lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	3
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	Some line noise on Caller A
+
+===========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: what did you buy? /  
+
+sd          B.2 utt1:  A Ford Explorer. /  
+
+br          A.3 utt1:  I'm sorry, what? /  
+
+sd^r          B.4 utt1:  A Ford Explorer. /  
+
+bh          A.5 utt1:  {F Oh, } really. /  
+
+ny          B.6 utt1:  Yeah,  /
+sd^e          B.6 utt2: one of the new ones. /  
+
+b          A.7 utt1:  Yeah. /  
+
+sd           B.8 utt1:  {C And, } {F um, } [ I'd, + I'd ] probably buy another, this is the first American vehicle I've owned. /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd           B.10 utt1:  {C So } I would probably purchase another one, {F um, }  I would be more selective in the dealership that I purchased it from  /
+sd           B.10 utt2: {C but } as far  as, {F uh, } the quality seems to be there, {F um, } it's quiet, [ it's, + it ]  handles well, {F um, }  /
+sd           B.10 utt3: {C but } I believe I'd get that or a Porsche, one of the two. /  
+
+bh          A.11 utt1:  {F Oh } really? /  
+
+nn          B.12 utt1:  No,  /
+nn          B.12 utt2: not <laughter>, -/  
+
+sd           A.13 utt1:  {F Um, } if I had the money, I think I would love to own a, a B M W. /  
+
+qw          B.14 utt1:  {C And } why would that be? /  
+
+no          A.15 utt1:  I don't know, I, - /
+%          A.15 utt2: from what, or - /
+sd           A.15 utt3:   either that or Mercedes, just because they're put together so well.  /
+sv          A.15 utt4:  It seems like they last forever. /  
+
+qw          B.16 utt1:  What's wrong with the Volvo. /  
+
+sv           A.17 utt1:  {F Oh, } I don't know, [ they're, + they're ] not as nice looking. /  
+
+b          B.18 utt1:  Oh. /  
+
+%          A.19 utt1:  <Laughter> {F Uh, } m-, - /
+sv          A.19 utt2: to me, I don't know,  I'm sure there are some that are,  /
+sd          A.19 utt3: {C but } everyone I've seen is kind of plain,  /
+%          A.19 utt4: {C but. } -/  
+
+qw          B.20 utt1:  [ What, + what ] city are you calling from? /  
+
+sd          A.21 utt1:  Sherman. /  
+
+b          B.22 utt1:  Oh. /  
+
+qw          A.23 utt1:  Where are you? /  
+
+sd          B.24 utt1:  Up in Dallas. /  
+
+b^m          A.25 utt1:  Dallas. /  
+
+%          B.26 utt1:  {F Um. } /  
+
+b          A.27 utt1:  Yeah. /  
+
+b^m          B.28 utt1:  B M W or Mercedes, yeah,  /
+%          B.28 utt2: {D well } [ that's a, + that's a, ] -/  
+
+sd           A.29 utt1:  If I [ had, + {F um, } had ] the money, {E I mean } that's just, - /
+sd          A.29 utt2: I know I never would own one,  /
+h          A.29 utt3: {C but, } {F uh, } I don't know.   I like, - /
+sd          A.29 utt4: my actual favorite cars [ i-, + ] were, {F uh, } like the Ford Thunderbirds --   
+
+b          B.30 utt1:  Uh-huh. /  
+
++          A.31 utt1:  -- of nineteen eighty-five.  /
+sd          A.31 utt2: I really like that  body style,  /
+sd          A.31 utt3: {C but } I don't own one of those either <laughter>. /  
+
+qw          B.32 utt1:  What do you presently drive? /  
+
+sd          A.33 utt1:  {F Uh, } Mercury Topaz. /  
+
+ba          B.34 utt1:  {F Um, } fun. /  
+
+sd           A.35 utt1:  [ Cheap taste, + cheap taste ] in cars, okay <laughter>. /  
+
+sv          B.36 utt1:  {D Well } there nothing wrong with those, {F uh. }   
+
+aa          A.37 utt1:  Yeah,  /
+sd,o@          A.37 utt2: they're all right, it's, it's a good car,  *[[ Looks like A.37 and 39 should = 3 slash units ]] 
+
++          B.38 utt1:  [ [ They're, + they're ] nice veh-, + --   
+
++@          A.39 utt1:  {E I mean, } I've never had any problem with it. / *[[See parsing note above ]]
+
++          B.40 utt1:  -- they're nice vehicles, ] nothing wrong with those.  /
+sd           B.40 utt2:   [ It, + {F um, } it's ] just everybody has their own taste,  /
+sv          B.40 utt3: {C but } {D man } the Mercedes  are expensive.  /
+sd          B.40 utt4: My wife has a Volvo  /
+sd           B.40 utt5: {C and } [ it, + it's ] nice,  {E I mean, } {D you know, } it's okay [ an. + ] /  
+
+fa          A.41 utt1:  {E Sorry } I roped on Volvos then <laughter>. /  
+
+br          B.42 utt1:  Huh? /  
+
+fa^r          A.43 utt1:  {E Sorry } I roped on Volvos then. /  
+
+bd          B.44 utt1:  {F Oh } no,  /
+bd^r         B.44 utt2: no,  /
+bd^r         B.44 utt3: no,  /
+bd^r         B.44 utt4: no,  /
+bd^r         B.44 utt5: no,  /
+bd^r         B.44 utt6: no,  /
+bd^r         B.44 utt7: no  /
+%          B.44 utt8:  it, - /
+%          B.44 utt9: it, - /
+sd           B.44 utt10: [ I, + I ] kind of wish we would have maybe gone for the G L rather than the D L  /
+o@            B.44 utt11: {C but, }  because [ they-, + ] it is the safest car on the road, {F uh. }  *[[  slash error ]]   
+
+bh          A.45 utt1:  {F Oh, } is it? /
+
++@          B.46 utt1:  {F Oh, } yeah. /  *[[ slash error ]]
+
+sd          A.47 utt1:  {D See } I don't much about them I guess. /  
+
+b          B.48 utt1:  Yeah,  /
+sd          B.48 utt2: there just safe to just, - /
+sd          B.48 utt3: that's the reason  why we mainly got it.  /
+sd          B.48 utt4:  We got white  /
+sd           B.48 utt5: {C and } it's the safest four door, {D you know, } [ it's good for, + ] if you have a family, which we do. /  
+
+b          A.49 utt1:  Yeah. /  
+
+%          B.50 utt1:  [ We just, + we just ] - /
+%          B.50 utt2: ((   ))   one out - /
+%           B.50 utt3: {C and so } [ it's, + it's, ]  {F uh, } {F um, } {D you know, } - /
+sd           B.50 utt4:  they're kind of low to the ground after driving the Explorer.  /
+sd          B.50 utt5:   {D You know, } I presently, - /
+sd          B.50 utt6: I used to have a two, eighty Z,  /
+sd          B.50 utt7: {C and } I'm a tall  guy [ an, + ]  /
+sd           B.50 utt8: {C and, } {F uh, } they're hard to get around in traffic to see. /  
+
+b          A.51 utt1:  Really. /  
+
+sd          B.52 utt1:  {C Because } you can't see a car ahead of you,  /
+sd          B.52 utt2:  {C but } they're fast as lightning  and all that crap.  /
+sd           B.52 utt3: {C But } the Explorer, {E I mean, }  you're sitting up on top of everything  /
+sd          B.52 utt4: {C and } you can really see real well.  /
+sd          B.52 utt5:   {C And } I just, - /
+sd          B.52 utt6: it's so comfortable  /
+%,o@          B.52 utt7: [ {C and, } + {C and, } ] {F uh. }   *[[ I'd call this an incomplete slash unit ]]
+
+b          A.53 utt1:  Uh-huh. /  
+
++          B.54 utt1:  {C So, } you're, - /
+qo          B.54 utt2: what are your feelings about American versus European cars? /  
+
+sd          A.55 utt1:  {F Um, } I like anything besides Japanese.  /
+sd           A.55 utt2:   Of course everything has Japanese parts in them anymore.  /
+sd          A.55 utt3: I don't like Japanese cars, /  
+
+qw          B.56 utt1:  Why not. /  
+
+sd           A.57 utt1:  {C But, } {F uh, } European,  I don't [ ha-, + have ] any,  {E I mean, }  /
+sd          A.57 utt2: those are the kind I usually end up liking the most. /
+sd           A.57 utt3:  American cars, a lot of people say [ they, + they ] don't last long  /
+sd           A.57 utt4: {C but } I've never had any problem  with, {F um, } my Mercury,  /
+%          A.57 utt5: or, - /
+%          A.57 utt6:  my cous-, - /
+sd          A.57 utt7: my husband has a, {F uh, } Cougar  /
+sd           A.57 utt8: {C and } he's  never had any problem with it either,  /
+h          A.57 utt9: {C so, } <<pause>> <breathing> I don't know. /  
+
+ba          B.58 utt1:  That's the way it goes, I guess. /  
+
+qw          A.59 utt1:  <Laughter> {D Well } what are your, - /
+qy^d          A.59 utt2: I guess this is  your first time to buy American,  /
+%          A.59 utt3: {C so. } -/  
+
+ny          B.60 utt1:  Yeah,  /
+sd^e          B.60 utt2: I was real hesitant  /
+%          B.60 utt3: {C but } it was <breathing>, /  
+
+b          A.61 utt1:  Yeah. /  
+
+sd           B.62 utt1:  I don't know, {F uh, } {E I mean, } I think European  cars are great, course you've got to have metric wrenches and stuff  /
+sv          B.62 utt2: {C and } they're eas-, - /
+sv          B.62 utt3: [ some, + some ] of them are easy to work on.  /
+sd           B.62 utt4:  A Volvo, being a four cylinder is  very easy to work on. /  
+
+b          A.63 utt1:  Really. /  
+
+sd           B.64 utt1:  {F Uh, } excellent warranty, {E I mean, } just, unbelievable warranty.  /
+sv            B.64 utt2: [ {C And, } + {C and, } ] {F uh, } of course, Ford isn't too bad.  /
+sv          B.64 utt3: I think Chrysler would probably make a good vehicle,  /
+sv           B.64 utt4: {F uh, } {C but } all of it has to do, in my opinion with the service.    
+
+b          A.65 utt1:  Yeah. /  
+
++          B.66 utt1:  and the attitude of the service, of the dealership. /  
+
+b         A.67 utt1:  Yeah. /  
+
+sd           B.68 utt1:  I wouldn't send my dog to buy a car from Middlekauff Ford. /  
+
+br          A.69 utt1:  Where? /  
+
+%          B.70 utt1:  There's, - /
+sd^r          B.70 utt2: Middlekauff Ford in Plano. /  
+
+bk          A.71 utt1:  Okay. /  
+
+%          B.72 utt1:  Their just, - /
+sd          B.72 utt2: their attitude is just slimy.  /
+sd           B.72 utt3:   [ {C And, } + {C and, } ] {F uh, } I've written [ a, + a ] letter to Middlekauff  /
+sd*          B.72 utt4: {C and } I've told them that,  matter of fact I got another letter last night from the Quality Ford Division, their still concerned about my attitude  / *[[spelling "their" should be "they're]]
+sv           B.72 utt5: {C and } [ it, + it ] will never change  about that place. /  
+
+x          A.73 utt1:  <Laughter>.   
+
+%          B.74 utt1:  {C And, } {F uh, } - /
+sd           B.74 utt2: {C but, } {F uh, } anyway that's my own personal comment I guess,  /
+%          B.74 utt3: {C but. } -/  
+
+b          A.75 utt1:  Yeah,  /
+sd           A.75 utt2: this girl that works for me just bought a car down there  /
+%          A.75 utt3: {C and } sh-, - /
+sd          A.75 utt4:  [ they, + they ] had a problem with they, {F uh, } took their  Camaro in to get it traded and [ they, + they ] hadn't signed any papers  /
+sd           A.75 utt5: {C and }  they had all ready, {F uh, } taken it in to paint it and everything  /
+sd          A.75 utt6: {C and } everything was stolen out of it  /
+sd          A.75 utt7: {C and } the people, {F um, } wouldn't [ reim-, + ] reimburse them for anything. /  
+
+qy          B.76 utt1:  Middlekauff wouldn't?  /
+sv          B.76 utt2: She needs to find herself a lawyer.  /
+sv          B.76 utt3:  [ She'd, + she'd ] come out like a champ on that one. /  
+
+aa          A.77 utt1:  Yeah,  /
+sd          A.77 utt2: {C so, } I've heard some stuff about them.  /
+%          A.77 utt3:  {C But, } {F um. } -/
+
+qy           @@B.78 utt1:  {D So } [ ha-, + have ] you been using, {D well } {D anyway. } -/  
+
+br          A.79 utt1:  What. /  
+
+%          B.80 utt1:  That was, - /
+sd^t          B.80 utt2: I was asking you some questions about the telephone [ and how long + and how many ] have you been doing,  /
+%          B.80 utt3: {C but } that's, -/  
+
+b          A.81 utt1:  Oh. /  
+
+sd^t          B.82 utt1:  [ they, + they ] don't want to hear that. /  
+
+sd^t          A.83 utt1:  {F Oh, } just about a week. /  
+
+qy^t          B.84 utt1:  Is that all?  /
+b^m          B.84 utt2: A week. /  
+
+ny          A.85 utt1:  Yeah,  /
+ny^r          A.85 utt2: yeah. /  
+
+ba          B.86 utt1:  Good Lord,  /
+sd^t          B.86 utt2: I think I started in January or February. /  
+
+b          A.87 utt1:  Really. /  
+
+fe          B.88 utt1:  {F Oh } {D God, } I've, - /
+sd^t          B.88 utt2: I'm {D like } twenty  some phone calls. /  
+
+ba          A.89 utt1:  {F Oh, } wow. /  
+
+sd^t           B.90 utt1:  That's why [ I, + I ] wasn't sure if this was the second time around or what.  /
+fc           B.90 utt2: <breathing> <laughter>  {D Well } {D look, } I've enjoyed  speaking with you. /  
+
+fc          A.91 utt1:  Yeah,  /
+fc         A.91 utt2: you too. /  
+
+ad          B.92 utt1:  {C And } keep smiling. /  
+
+aa          A.93 utt1:  Okay,  /
+ft          A.93 utt2: thanks. /  
+
+fc          B.94 utt1:  Bye, bye. /  
+
+fc          A.95 utt1:  Bye. / 

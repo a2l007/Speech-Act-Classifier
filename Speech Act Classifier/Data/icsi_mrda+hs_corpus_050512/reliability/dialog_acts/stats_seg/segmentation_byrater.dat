@@ -1,0 +1,21 @@
+Segmentation Overall, By Ordered Labeler Pair 
+
+
+Overall means using all reliability data chunks combined.
+Results differ by labeler pair order since total count
+depends on the reference labeler's segment boundaries.
+
+
+
+--------------------------------------------------------
+REFERENCE      LABELER         AGREE   TOTAL   PERCENT
+--------------------------------------------------------
+HC             RD              2797    3820    73.2%
+RD             HC              2797    3808    73.5%
+HC             SB              3004    4915    61.1%
+SB             HC              3004    4908    61.2%
+RD             SB              5253    7889    66.6%
+SB             RD              5253    7906    66.4%
+--------------------------------------------------------
+OVER ALL ORDERED PAIRS:       22108   33246    66.5%
+--------------------------------------------------------

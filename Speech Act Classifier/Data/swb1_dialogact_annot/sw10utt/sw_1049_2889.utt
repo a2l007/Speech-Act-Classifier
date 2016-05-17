@@ -1,0 +1,281 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2889_1258_1238
+TOPIC#:		364
+DATE:		910516
+TRANSCRIBER:	GL
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	4
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	4
+BACKGROUND_B:	1
+REMARKS:        Speaker A had a TV or radio on with other person in
+house or room. Speaker B seems to have a cold and sneezes and sniffs
+throughout conversation.
+
+===========================================================================
+  
+
+o          @B.1 utt1:  <Noise>  <<TV or radio>> Okay,  /
+qw          @B.1 utt2: what kind of crafts and hobbies do you have? /  
+
+h          A.2 utt1:  {F Oh, } not very many of those at, {F uh, } - /
+sd          A.2 utt2: sometimes [ I, + I ] play the trumpet,  /
+sd          A.2 utt3: {C and } sometimes I work on trumpet mouthpieces. /  
+
+b          B.3 utt1:  Uh-huh. /  
+
+ sd         A.4 utt1:  {C And then } I have a five year old daughter  /
+sd          A.4 utt2: {C and } we cut out things, [ kind of, + ] {D you know, } and color [ and, + {F uh, } and, ] {F uh, } use markers and things like that. /  
+
+b          B.5 utt1:  Uh-huh. /  
+
+qo          A.6 utt1:  {F Um, } how about you? /  
+
+%          B.7 utt1:  In, - /
+sd          B.7 utt2: {D well } I used to be more into crafts, when I was younger, like high school stuff.  /
+sd          B.7 utt3:  I was in four H  /
+sd          B.7 utt4: {C and } I did a lot of latch hook --   
+
+b          A.8 utt1:  Uh-huh. /  
+
++          B.9 utt1:  -- made rugs and stuff.  /
+sd          B.9 utt2:  {F Um, } {C and, } {F uh, } I've learned how to crochet,  /
+h          B.9 utt3: {C but } I don't really know, - /
+sd          B.9 utt4: {E I mean, } I don't do it that much.  /
+sd          B.9 utt5:  Not really an indoor hobby type person unless the weather's really bad. /  
+
+%          A.10 utt1:  # {F Um. } # /  
+
+sd          B.11 utt1:  # I'd # rather be outside. /  
+
+b          A.12 utt1:  Yeah,  /
+aa          A.12 utt2: exactly. /  
+
+sd          B.13 utt1:  {F Um, } I used to play trombone <laughter>. /  
+
+b          A.14 utt1:  Uh-huh. /  
+
+sd          B.15 utt1:  I don't know if that was a, - /
+%          B.15 utt2: not really, - /
+sd          B.15 utt3: I don't play it that much any more,  /
+%          B.15 utt4: {C but } I, {F um, } - /
+t1          B.15 utt5: what else do I do.  /
+sd          B.15 utt6:  Mainly do reading.  /
+sd          B.15 utt7: I don't have a lot of crafty type things I do. /  
+
+b          A.16 utt1:  Uh-huh. /  
+
+qw          B.17 utt1:  {C But, } {F uh, } <<pause>> what are some other things you enjoy? /  
+
+h          A.18 utt1:  I don't know.  /
+sd          A.18 utt2: [  My, +  my ] father is [ in the, + in the ] antique business. /  
+
+b          B.19 utt1:  Uh-huh  /
+x          B.19 utt2: <Sniffing>.   
+
+sd          A.20 utt1:  {C And } [ he, + {F uh, } he ] goes around to garage sales  /
+sd          A.20 utt2: {C and } he buys all kinds of, {F um, } china and figurines and statues and # stuff. # /  
+
+ b         B.21 utt1:  # Uh-huh. # /  
+
+sd          A.22 utt1:  {C And, } {F um, } there's some stuff that's really for, {F uh, } auto repair.  /
+sd          A.22 utt2:  It's called J B Weld -- /  
+
+b          B.23 utt1:  Uh-huh. /  
+
+sd          A.24 utt1:  -- {C and } I repaired [ a, + a ] gasoline tank with it once.  /
+sd          A.24 utt2:  {C But } he,   
+
+x          B.25 utt1:  <Sniffing>.   
+
++          A.26 utt1:  mixes colors in it.  /
+sd          A.26 utt2: It's an epoxy resin that you mix together. /  
+
+ba          B.27 utt1:  {F Oh, } cool. /  
+
+sd          A.28 utt1:  {C And } he makes like, - /
+sd          A.28 utt2: the other day he was working on a hand that was shattered on [ a, + a ] statue that's real small,  /
+%          A.28 utt3: it's {D like }  about maybe - /
+sd          A.28 utt4: the hand's about  the size of a cricket.    
+
+ba          B.29 utt1:  {F Oh, } wow. /  
+
++          A.30 utt1:  And, {F uh, } has, {F uh, } {D like } the forefinger sticking out and the thumb sticking out,  /
+sd          A.30 utt2: {C and } he was repairing that,  /
+sd          A.30 utt3: {C and, } {F uh, } it came out pretty good.  /
+sd          A.30 utt4: It's [ kind of a, + kind of ] a ivory color all over [ and + --   
+
+b          B.31 utt1:  # Uh-huh. # /  
+
++          A.32 utt1:  -- # and, ] {F uh, } # has some age spots in it,  /
+sd          A.32 utt2: {C and } it looked, {D you know, } just like  [ it, + it ] had been there all the time. /  
+
+%          B.33 utt1:  {F Huh } <sniffing>. /  
+
+sd          A.34 utt1:  {C And } he [ fixed some, + fixes some ] bowls that have the cracks or chips in them, and, {F uh, } molds that in.  /
+sd          A.34 utt2:  He had a [ blue, + blue ] bowl a few weeks ago that [ he, + he ] fixed that way. /  
+
+b          B.35 utt1:  <Sniffing>  Uh-huh. /  
+
+sd          A.36 utt1:  It worked out real well, too.  /
+sd          A.36 utt2:  # [ [ {C And then, } + #   
+
+qy          B.37 utt1:  # Do you #  ever, -/  
+
++          A.38 utt1:  {C And } ] + --   
+
+br          B.39 utt1:  {F Huh? } /  
+
++          A.40 utt1:  -- {C and then } ] [ he, + {F uh, }   
+
+x          B.41 utt1:  <Noise>.   
+
++          A.42 utt1:  he ] thatches, {F uh, } {D you know, } those, {F uh, } thatched chairs. /  
+
+b          B.43 utt1:  Yeah. /  
+
+sv          A.44 utt1:  Course that's like [ that, + that, ] {F uh, } hooking that you were talking about. /  
+
+b          B.45 utt1:  Yeah. /  
+
+sv          A.46 utt1:  That takes a lot of time. /  
+
+sv          B.47 utt1:  That's great that he has a lot of hobbies and stuff. /  
+
+b          A.48 utt1:  Yeah.  /
+sd          A.48 utt2:  {C And } he used to paint, {F um, } a long time ago,  /
+sd          A.48 utt3: {C but } I think he's stopped pretty much now. /  
+
+b          B.49 utt1:  Oh <sniffing>. /  
+
+sd          A.50 utt1:  {C But } [ outside of, + outside of ] art class [ in, + in ] school, [ I, + I ] stopped doing most of that, unless {E [ I, + I ] mean, } {D like } he has a computer,  /
+sd          A.50 utt2: {C and } I use, {F um, } the graphics --   
+
+b          B.51 utt1:  Yeah. /  
+
++          A.52 utt1:  -- {F um, } software on that, <Noise>  <Sigh>  <<pause>> [ to, + {F uh, } to ] do figures and to look at things, {D you know, } see how they work. /  
+
+b          B.53 utt1:  Right.  /
+ba          B.53 utt2:  That sounds interesting. /  
+
+b          A.54 utt1:  Uh-huh. /  
+
+qy          B.55 utt1:  {F Um, } [ does, + does ] he ever, {F uh, } refinish furniture or anything like that? /  
+
+ny          A.56 utt1:  {F Oh, } yeah,  /
+sd^e          A.56 utt2: sometimes,  /
+sd          A.56 utt3: {C but } it's not one of my favorite things, especially from the vapors,  /
+sd          A.56 utt4: {C and } we had, {F uh, } an entertainment center we did last year.  /
+sd          A.56 utt5: {F Uh, } we <talking> bought it at an, unfinished, {F uh, } furniture place --   
+
+b          B.57 utt1:  Uh-huh  /
+x          B.57 utt2: <sniffing>.   
+
++@          A.58 utt1:  -- and sanded it down and, {F uh, } stained it and then lacquered over it </Talking>. /
+
+qy^g          B.59 utt1:  Pretty time consuming, isn't it? /  
+
+ny          A.60 utt1:  {F Oh, } yeah. /  
+
+sv          B.61 utt1:  {C But, } [ it's g-, + it's ] nice to have it when you're done,  /
+sv          B.61 utt2: # {E I mean, } looks pretty. # /  
+
+b          A.62 utt1:  # Uh-huh,  /
+aa          A.62 utt2: sure is. # /  
+
+sd          B.63 utt1:  {C So, } I've done that once  /
+sd          B.63 utt2: {C but } it didn't come out that well. /  
+
+qy          A.64 utt1: [ Did you use a, + did you use a ] Zar stain? /  
+
+no          B.65 utt1:  {F Uh, } I don't remember.  /
+%          B.65 utt2:  It was, - /
+sd          B.65 utt3: I had my parents buy everything,  /
+sd          B.65 utt4: {C and } I ended up, - /
+sd          B.65 utt5: it was [ their table, + their kitchen table. ]  /
+sd          B.65 utt6:  It came out really dark. /  
+
+%          A.66 utt1:  {F Um, } <<pause>> they had a, {F um, } - /
+sd          A.66 utt2: {D well } I saw the commercial on T V,  /
+%          A.66 utt3: {C and } they,  - /
+sd          A.66 utt4: [ {C and, } + {F uh, } {C and } ] the people at the unfinished store recommended it,  /
+%          A.66 utt5: that's called, - /
+sd          A.66 utt6:  it's Z,   
+
+x          B.67 utt1:  <Sniffing>.   
+
++          A.68 utt1:  A R <<spells out>>. /  
+
+b          B.69 utt1:  Uh-huh. /  
+
+sd          A.70 utt1:  {C And, } {F uh, } it spreads real evenly  /
+sd          A.70 utt2: {C and } it doesn't dry too fast,  /
+%          A.70 utt3: {C so } it's, - /
+sd          A.70 utt4: if you get too much in one spot you can smooth it out. /  
+
+b          B.71 utt1:  Yeah. /  
+
+sd          A.72 utt1:  {C And } {F uh, } [ we,   
+
+x          B.73 utt1:  <Sniffing>.   
+
++          A.74 utt1:  put, + we put ] tung oil on it.  /
+sd          A.74 utt2:  Kind of made it sticky for a while.  /
+sd          A.74 utt3:  {C But } after it dried out, [ it was, + {D you know, } it ] [ was + ] real hard,  /
+sd          A.74 utt4: {C and } it was all right. /  
+
+sd          B.75 utt1:  I remember it took me a long time,  /
+sd          B.75 utt2: it took me like [ several months, + {E or }  several weeks ] to do it during the summer,  /
+sd          B.75 utt3: {C and then } after I got it done it was pretty dark, and ended up not being real smooth looking.  /
+sd          B.75 utt4:  Since I've moved away <laughter>  they've had it redone.  /
+sd          B.75 utt5: {C So, } I [ kind of, + kind of ] gave that hobby up real quick. /  
+
+b          A.76 utt1:  Yeah. /  
+
+^h          B.77 utt1:  {C But, } <sigh> I don't know.  /
+sd          B.77 utt2:  <Sigh> Like I said, I like doing a lot of outdoor stuff,  /
+sd          B.77 utt3: [ {C so } + <sniffing> {C but } ] during Four H, {E I mean } they really encouraged to do all kinds of crafty stuff, which is [ in-, + interesting, ]  /
+ sd         B.77 utt4: I like that <Sniffing>. /  
+
+b          A.78 utt1:  Uh-huh  /
+qy          A.78 utt2: <noise>.  [ Were you in a, + were you ] the Girl Scouts, too  /
+%          A.78 utt3: {C or, } -/  
+
+nn          B.79 utt1:  No,  /
+h          B.79 utt2: {D well, } yeah  /
+sd          B.79 utt3: when I was real young I was for a couple,    
+
+x         A.80 utt1:  <Noise>.   
+
++          B.81 utt1:  of years <sneezing>.  /
+fa          B.81 utt2:  Excuse me.   /
+fc          B.81 utt3: {C So, } {F uh, }  <lipsmack>  {D anyway, } it was nice talking to you Dudley. /  
+
+fc          A.82 utt1:  {D Well, } it was nice talking to you. /  
+
+fc          B.83 utt1:  Have a good day now. /  
+
+fc          A.84 utt1:  Okay,  /
+fc          A.84 utt2: you too. /  
+
+fc          B.85 utt1:  Bye <Noise>  <<TV or radio>>. /  
+
+fc          A.86 utt1:  Bye-bye. / 

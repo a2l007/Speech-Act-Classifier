@@ -1,0 +1,261 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3221_1402_1353
+TOPIC#:		325
+DATE:		911008
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+sd^t          B.1 utt1:  {D So, } [ the ques-, + the question ] had something to do with usage of personal computers, {F um. } /  
+
+aa          A.2 utt1:  Yes,  /
+sd^t          A.2 utt2: [ we are, + we are ] talking about computers this morning. /  
+
+sd          @B.3 utt1:  {F Um, } I'm a firm believer [ in, + in ] having lots of them.  /
+sd          @B.3 utt2:  I'm sitting at my desk now with four machines <laughter> in front of me. /  
+
+bf          A.4 utt1:  <Laughter>  [ You have, + you have ] four machines around you,  /
+sd          A.4 utt2: boy, {D well, } [ you've, + {F uh, } you've ] got me beat.  /
+sd          A.4 utt3:  I have [ a, + a ] Zenith here -- /  
+
+b          B.5 utt1:  Uh-huh. /  
+
+sd          A.6 utt1:  -- {C and } at home I have a Commodore --   
+
+b          B.7 utt1:  Uh-huh. /  
+
++          A.8 utt1:  -- and a Zenith,  /
+sd          A.8 utt2: {C and } my wife has an A T and T Twelve Hundred, I believe it is. /  
+
+ba          B.9 utt1:  Good grief.  /
+qo          B.9 utt2:  What do you do with all those? /  
+
+sd          A.10 utt1:  {D Well, } {D actually } on my Commodore I mainly study lottery numbers, would you believe.  /
+sd          A.10 utt2:  I have written some, {F uh, } programs in Basic --   
+
+b          B.11 utt1:  Uh-huh. /  
+
++          A.12 utt1:  -- whereby I can select any number of, {F uh, } drawings --   
+
+b          B.13 utt1:  Uh-huh. /  
+
++          A.14 utt1:  -- and from that extract the numbers that have appeared the most -- /  
+
+b          B.15 utt1:  Right. /  
+
+sd          A.16 utt1:  -- I have another program in which I can look at the cyclical, {F uh, } appearance of these numbers --   
+
+b          B.17 utt1:  Uh-huh. /  
+
++          A.18 utt1:  -- to see if there's anything that's consistent on that.  /
+sd          A.18 utt2:  I have [ another number that allows me, + another program that allows me ] to add all the numbers I want,  /
+sd          A.18 utt3: {C and then } it generates a complete set of numbers so that all combinations are covered -- /  
+
+b          B.19 utt1:  Uh-huh. /  
+
+sd          A.20 utt1:  -- {C so } this is what I do most of the time, {F uh, } /  
+
+qy^d          B.21 utt1:  That's what you do on [ your, +  at least one of your ] machines -- /  
+
+na          A.22 utt1:  On my Commodore -- /  
+
+b          B.23 utt1:  -- on your Commodore. /  
+
+na^r          A.24 utt1:  -- on my Commodore,  /
+%          A.24 utt2: uh-huh.  /
+sd          A.24 utt3:  {C And } of course I have, {F uh, } word processors,  /
+sd          A.24 utt4: {C and } I write all my letters -- /  
+
+b          B.25 utt1:  Yeah. /  
+
+sd          A.26 utt1:  -- it's wonderful, {F uh, }  /
+sd          A.26 utt2: my, {F uh, } thoughts in my head --   
+
+b          B.27 utt1:  Uh-huh. /  
+
++          A.28 utt1:  -- come in bursts of about a paragraph at a time,  /
+sd          A.28 utt2: {C and } I get --   
+
+b          B.29 utt1:  Yes. /  
+
++          A.30 utt1:  -- them all down,  /
+sv          A.30 utt2: {C and } naturally on a computer if you make a mistake, who cares,  /
+sv          A.30 utt3: you can go back and, {F uh, } correct <laughter> it very easily -- /  
+
+aa          B.31 utt1:  Yes,  /
+aa^r          B.31 utt2: yes. /  
+
+sv          A.32 utt1:  -- {C so } that makes it very, very nice.  /
+sd          A.32 utt2:  I get all my thoughts down and go back and clean it <laughter> up very, very readily.  /
+qo          A.32 utt3: {D So } how about you, Charles? /  
+
+sd          B.33 utt1:  {D Well, } [ I, + {F um, } I ] do an awful lot of preparation of documents, {F um, } {F uh, }  /
+sd          B.33 utt2: {C and } I use word processors [ and, + and ] [ fancier programs, + {E I mean } --   
+
+b          A.34 utt1:  Uh-huh. /  
+
++          B.35 utt1:  -- {D you know, } graphics programs ] and simply make all of our slides,  /
+sd          B.35 utt2: some of them I do on a Sun,  /
+sd          B.35 utt3: some I do on an X T -- /  
+
+b          A.36 utt1:  Uh-huh. /  
+
+sv          B.37 utt1:  -- {D now } maybe we don't call these personal computers, {F um, }  /
+sd          B.37 utt2: I started out with, {D you know, } an I B M P C [ back in the, + {D you know, } about a year ] after they came out -- /  
+
+b          A.38 utt1:  Yeah. /  
+
+%          B.39 utt1:  -- {C and, } {D you know. } -/  
+
+qw          A.40 utt1:  {D So, } [ [ whe-, + where, ] + may I ask where ] you work, sir? /  
+
+sd          B.41 utt1:  I work for the government in Washington. /  
+
+sd          A.42 utt1:  I know you work for the government,  /
+qy          A.42 utt2: I just wondering are you an  ((   )) ,  /
+qrr^d          A.42 utt3: or [ [ what, + what, ] + what ] section of it, /  
+
+sd          B.43 utt1:  [ [ [ Of, + in, ] + in, ] + in ] an obscure part of the defense department. /  
+
+b          A.44 utt1:  {F Oh, } uh-huh,  /
+sd          A.44 utt2: {C because, } {D see, } that's my type of work, too.  /
+sd          A.44 utt3:  I work at the Applied Research Lab --   
+
+b          B.45 utt1:  Uh-huh. /  
+
++          A.46 utt1:  -- [ here, + here ] on campus,  /
+sd          A.46 utt2: {C and, } [ my, + my ] field is underwater acoustics -- /  
+
+b          B.47 utt1:  Uh-huh. /  
+
+sd          A.48 utt1:  -- {C and } there's a lot of things we can do with computers into, {F uh, } studying how, {F uh, } things vary in the water, {D you know } --   
+
+b          B.49 utt1:  Uh-huh. /  
+
++          A.50 utt1:  -- and, {F uh, } taking advantage of them, and so forth,  /
+sd          A.50 utt2: {C so } it's a [ very nice, + very nice ] field,  /
+sd          A.50 utt3: {C and } [ I, + I ] am retiring at the [ end of this month. +  End of December, ] {E excuse me. } /  
+
+qy          B.51 utt1:  [ [ [ Are, + are, ] + are you, ] + are you ] also a professor,  /
+qrr          B.51 utt2: [ {C or, } + {C or } ] do you --   
+
+ny          A.52 utt1:  Yes. /  
+
++          B.53 utt1:  -- just research. /  
+
+sd^e          A.54 utt1:  [ I'm a, + I'm an ] associate professor,  /
+sd          A.54 utt2: {C but } [ [ my, + I, ] + I'm ] a full time researcher -- /  
+
+b          B.55 utt1:  Yes. /  
+
+sd          A.56 utt1:  -- {C and } it's, {F uh, } been a very, very interesting career, believe me. /  
+
+ba          B.57 utt1:  I can believe. /  
+
+x          A.58 utt1:  <Laughter>.   
+
+qy          B.59 utt1:  [ What are you going to, + what are you going to ] do when you stop, {E I mean, } take all your machines with you, or, -/  
+
+ng          A.60 utt1:  {D Well, } {F uh, } the ones here in the laboratory obviously [ I'm, + they're ] going to stay,  /
+sd          A.60 utt2: {C but } I have similar machines at home. /  
+
+b          B.61 utt1:  Uh-huh. /  
+
+sd          A.62 utt1:  I would consider doing some more consulting when I get home -- /  
+
+b          B.63 utt1:  Uh-huh. /  
+
+sd          A.64 utt1:  -- {C but } I have a very, very busy extra life anyway.  /
+sd          A.64 utt2:  I'm also a musician,  /
+sd          A.64 utt3: {C and } I play in several symphony orchestras -- /  
+
+b          B.65 utt1:  Yes. /  
+
+sd          A.66 utt1:  -- {C and, } {F uh, } I run a concert band,  /
+sd          A.66 utt2: {C and --   
+
+b          B.67 utt1:  Uh-huh. /  
+
++          A.68 utt1:  -- so } I have a lot of external, {F uh, } interests -- /  
+
+b          B.69 utt1:  Yes. /  
+
+sv          A.70 utt1:  -- {C but } I do want to get [ very deeply, + much more deeply ] into computer work, because obviously the world is going to be controlled --   
+
+b          B.71 utt1:  Yes. /  
+
++          A.72 utt1:  -- run and operated --   
+
+b          B.73 utt1:  Uh-huh. /  
+
++          A.74 utt1:  -- by computers in the future.  /
+sv          A.74 utt2:  There's no doubt about it,  /
+sv          A.74 utt3: {C because } it is really taking over,  /
+sd          A.74 utt4: {C and } the amount of work that we're doing and the depth of things that we are studying can basically only be handled by computers, because, {F uh, } it's so much <laughter> involved -- /  
+
+b          B.75 utt1:  Uh-huh. /  
+
+sd          A.76 utt1:  -- {C and } it sounds as though you're probably more aware of that than I am, because, {F uh, } I don't get to use it in my daily work as much as I would like to.  /
+sd          A.76 utt2:  Here again --   
+
+b          B.77 utt1:  Yeah. /  
+
++          A.78 utt1:  -- let's say I'm starting to getting ready, in preparation for retirement -- /  
+
+b          B.79 utt1:  Yeah. /  
+
+sd          A.80 utt1:  -- [ {C and, } + {F uh, } {C so } ] basically what I'm doing is slowly getting rid of my things.  /
+sd          A.80 utt2:  For many, many years I had a full size acoustics, {F uh, } study laboratory --   
+
+b          B.81 utt1:  Uh-huh. /  
+
++          A.82 utt1:  -- [ whe-, + where ] I could take recordings [ and, + and, ] {F uh, } perform experiments --   
+
+b          B.83 utt1:  Uh-huh. /  
+
++          A.84 utt1:  -- with them and so forth,  /
+sd          A.84 utt2: {C and so } that's gone now,  /
+sd          A.84 utt3: {C and so } I'm sort of out of business. /  
+
+b          B.85 utt1:  {F Um. } /  
+
+sd          A.86 utt1:  {F Uh, } as I say, I worked with  ((   ))  /
+sd          A.86 utt2: fellow named Steve Blazey --   
+
+b          B.87 utt1:  Uh-huh. /  
+
++          A.88 utt1:  -- was the fellow I worked with for many, many years -- /  
+
+b          B.89 utt1:  Uh-huh. /  
+
+sd          A.90 utt1:  -- {C and } he is now retired.  /
+sd          A.90 utt2:  {C So } it's been an interesting life,  /
+sd          A.90 utt3: {C and } computers have come in towards the latter end of that.  /
+sd          A.90 utt4: I wish we had had computers in the very beginning.  /
+
+%          A.90 utt5: It would have been, -/ 

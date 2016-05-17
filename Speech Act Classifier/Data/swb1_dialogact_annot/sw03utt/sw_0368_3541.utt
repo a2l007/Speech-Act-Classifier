@@ -1,0 +1,144 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3541_1378_1168
+TOPIC#:		340
+DATE:		911214
+TRANSCRIBER:	RDL
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Occasional squeaking sound in background on A 
+Popping sound on B
+
+======================================================================
+  
+
+o          A.1 utt1:  Okay.  /
+qy          A.1 utt2:  You think you're getting your money's worth? /  
+
+ng          B.2 utt1:  {F Uh, } never # <laughter>. # /  
+
+x          A.3 utt1:  # <Laughter>. #   
+
+sd          B.4 utt1:  {F Uh, } the only thing [ I'm, + I'm ] thankful of is  that we don't have to pay any income tax [ in, + in ] Texas. /  
+
+sv          A.5 utt1:  {D Well, } that's probably the next year's agenda. /  
+
+aa          B.6 utt1:  Yeah.  /
+^h          B.6 utt2:  Boy,  I tell you what,  /
+sd          B.6 utt3: I sure hope they don't  pass something like  that. /  
+
+aa          A.7 utt1:  {F Oh, } yeah.  /
+sv          A.7 utt2:  They're finding a way to tax you every  time you turn around,  /
+sv          A.7 utt3: {C and } [ I, + I ] think one way or the other, we're going to pay  for the bureaucracy, I guess.  /
+sv          A.7 utt4: {F Uh, } it's one area that is really, [ I, + I ] think  hurting the economy more than anything.  /
+sv          A.7 utt5: I think the taxes [ have just, +  every time you turn around  [ they, + they ] have ] taking more bite out of the dollars  that are available for spending for any kind of products,  /
+sv          A.7 utt6: {C and } [ [ I, + I, ] + I ] think  that is probably as big a item fueling the recession as anything right now. /  
+
+^h          B.8 utt1:  {D Well, } [ I, + I ] tell you, {F um,  }  /
+sd          B.8 utt2: I remember  every time, it seems like, we turned around, they're adding another nickel or --   
+
+aa          A.9 utt1:  That's right. /  
+
++          B.10 utt1:  -- a few more cents onto the price of gasoline. /  
+
+aa          A.11 utt1:  That's right. /  
+
+qw          B.12 utt1:  {C And } {D actually, } that one, [ [ the, +  the, ] + the ]  taxes on gasoline [ don't, + don't ] bug me as much as, {F uh, } {F uh, } what are we,  eight and a quarter percent sales tax? /  
+
+ny          A.13 utt1:  Yep,  /
+aa          A.13 utt2: that's right. /  
+
+sv          B.14 utt1:  {C And } every time you go to buy anything now,  {F uh, } - /
+sv          B.14 utt2: even, {D you know, } [ they, + they ] tax food.  /
+sd          B.14 utt3:  That's the one that really kind of bothers me. /  
+
+sv          A.15 utt1:  {D Well, } I think [ that, + {F uh, } that ] the problem with  the sales tax, of course, is it's an unfair tax across the board, {F uh, } as far as  ability to pay, which [ [ a-, + allegedly, ] + allegedly ] taxes are supposed to be  directed towards.  /
+sv          A.15 utt2:  {C But, }  {F uh, } now people with the lowest income pay a hundred percent  almost of, {D you know, } taxes on everything they buy, and where people that make, {D you know, }  two hundred, three hundred thousand dollars a year, certainly a portion of that, they aren't going to be paying taxes on, {D you know. }  /
+sv          A.15 utt3:  {C And, }  {F uh, }  that's the unfair [ equity, + inequities ] of sales tax as a main source of  revenue,  /
+sd          A.15 utt4: {C but } I don't think it is anymore, not in Texas anyway. /  
+
+sv          B.16 utt1:  {F Oh, } I got you, because people that, {F uh, }  don't make very much money wind up spending it all. /  
+
+aa          A.17 utt1:  That's right,  /
+aa^r          A.17 utt2: # that's right. # /  
+
+b          B.18 utt1:  # Yeah,  /
+sv          B.18 utt2: # whatever they spent it on, they have to pay tax on. /  
+
+aa          A.19 utt1:  That's right,  /
+aa^r          A.19 utt2: that's right.  /
+sv          A.19 utt3:  {C And } that's the  unfairness of the thing,  /
+sv          A.19 utt4: {C but, } {F uh, } I think taxes <laughter> generally are unfair  /
+%          A.19 utt5:  {C so } <laughter>, -/  
+
+qo          B.20 utt1:  [ Wha-, + what ] do you think of that new luxury  car tax, anything over ten [ thou-, +  or thirty thousand ] dollars? /  
+
+nd          A.21 utt1:  {D Well, } {D you know, } like other things, if they don't  affect you, you don't worry about them too much. /  
+
+x          B.22 utt1:  # <Laughter>. #   
+
+sd          A.23 utt1:  # <Laughter> # I have trouble buying a twenty thousand  dollar car still,  /
+%          A.23 utt2: {C so }  it doesn't, - /
+sv          A.23 utt3: [ I, + I ] think, {F uh, } {D you know, }  generally the prices of cars have gotten out of line, which is, {F uh, } # {D you know. } # -/  
+
+aa          B.24 utt1:  # {F Oh, } sure. # /  
+
+sv          A.25 utt1:  {C And, }  {F uh, } I guess if people got thirty,  forty thousand bucks to spend on a car, {F uh, } that's their prerogative, {D you know } <laughter>.  /
+sd          A.25 utt2:   [ [ I, + I, ] + I ] don't have a whole of sympathy  (( on that )) .  /
+qy^d          A.25 utt3:  [ You, +   maybe you ] buy that, {D you know, }  /
+sd          A.25 utt4: {C and } I don't mean to be # knocking, {F uh, } # -/  
+
+nn          B.26 utt1:  # No,  /
+nn          B.26 utt2: # {F uh, } no,  /
+sd^e          B.26 utt3: I haven't,  /
+sv          B.26 utt4: {C but }  [ [ it, + it ] +  to me it ] seems really interesting that they come along and add another ten percent tax, {F uh, }  on top of it.  /
+sv          B.26 utt5: {C And } there's an awful lot of cars that cost more than thirty thousand. /  
+
+aa          A.27 utt1:  Yeah,  /
+aa          A.27 utt2: there are,  /
+aa^r          A.27 utt3: there are.  /
+sv          A.27 utt4: {C And } the idea of that  kind of taxation is to have people think twice on putting their money into that,  I guess, {D you know, } unless they really want it, buy something that, {D you know, } - /
+sv          A.27 utt5:  more,  {D well, } [ it, + it's ] just like having taxes on, or exemptions for kids, {D you know. }  /
+sv          A.27 utt6:   It's a way of increasing the population, [ that, + that ] was one of the  initial ideas of, {D you know, } giving exemptions on kids,  [ on, + on ] federal taxes. /  
+
+b          B.28 utt1:  Yeah. /  
+
+sd          A.29 utt1:  {C And } where you exempt things, like, {F uh, }  {F uh, } one of the best things I heard on taxes to stimulate the economy, someone, brilliant deductor, probably Lloyd Bentsen, said that all, {D you know, } if they gave back the deductions  on credit cards on your federal taxes --   
+
+b          B.30 utt1:  Right. /  
+
++          A.31 utt1:  -- people would probably be, {D you know, } spending more  money using their credit cards. /  
+
+b          B.32 utt1:  Right. /  
+
+sd          A.33 utt1:  {D Now, } I don't know if that's true or not,  /
+sv          A.33 utt2: {C but } if you look  on all interest things, not just credit cards, but on your cars  and, {D you know, } [ a-, + any ] kind of interest that you're paying, from a personal point of view, that might make certain sense in stimulating consumer purchasers. /  
+
+aa          B.34 utt1:  Sure. /  
+
+sv          A.35 utt1:  {C So } that's a lot of the games that politicians  play on where they want to go, {D you know, } tax things that they don't,  {D you know, } to a degree, {D well, } like  booze, {D you know, }  /
+sv          A.35 utt2: example, they keep raising the taxes on  booze,  /
+sv          A.35 utt3: it gets to the point, {D you know, } it makes drunks sober,  {D you know } # <laughter>.  /
+sv          A.35 utt4: They quit buying it. # /  
+
+qo          B.36 utt1:  # <Laughter> #  {D Well, } [ what, + what ]  about the taxes on cigarettes? / 

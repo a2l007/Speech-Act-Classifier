@@ -1,0 +1,427 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2354_1083_1117
+TOPIC#:		311
+DATE:		910401
+TRANSCRIBER:	CLC
+UTT_CODER:      aabo
+DIFFICULTY:	5
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	5
+STATIC_ON_B:	4
+BACKGROUND_A:	5
+BACKGROUND_B:	4
+REMARKS:        None.
+
+===========================================================================
+  
+ 
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: what kind of books do you like to read,   
+
+sd          B.2 utt1:  {F Uh, } mainly,   
+
++          A.3 utt1:  for enjoyment? /  
+
++          B.4 utt1: [ the, + the ] books I read are, {F uh, } business related,   
+
+b          A.5 utt1:  Uh-huh  /
+x          A.5 utt2: <music>.   
+
++          B.6 utt1:  or self improvement.  /
+sd          B.6 utt2:  {F Um, } I've got [ a, + a, ] {F uh, } small company on the side [ that I, + that I ] do things with,  /
+sd          B.6 utt3: {C so, } {F uh, } a lot of the reading that [ I, + I ] do has to do with, {F um, } how can I, {F uh, } do better [ at, + at ] my small-time business {F uh, } important issues such as a,   
+ 
+qw          A.7 utt1:  What kind of business is it? /  
+
++          B.8 utt1:  {D you know } taxes and,    
+
+b          A.9 utt1:  Uh-huh. /  
+
++          B.10 utt1:  business expenses and all those kind things. /  
+
+ba          A.11 utt1:  {D Well, } [ that sounds interest-, + that sounds fun ] <laughter>. /  
+
+x          B.12 utt1:  <Laughter>.   
+
+qw^r          A.13 utt1:  What kind of business is it? /  
+
+sd          B.14 utt1:  {F Um, } I've got a, {F uh, } small distributorship, {F uh. } /  
+ 
+bk          A.15 utt1:  Uh-huh. /  
+
+sd          B.16 utt1:  I, {F uh, } sell a, {F uh, } healthy cookie on the side. /  
+
+bh          A.17 utt1:  Really? /  
+
+sd          B.18 utt1:  {C And, } {F uh, } I have a few health food stores that I send it to.  /
+sd          B.18 utt2:  I can buy the cookies in a larger quantity than they can, /  
+ 
+b          A.19 utt1:  Uh-huh. /  
+
+sd          B.20 utt1:  {C so } I can get a deal [ [ from the, + {F uh, } from the ma-, ] + from the ] supplier, /  
+ 
+ba          A.21 utt1:  {D Well, } that's interesting. /  
+
+sd          B.22 utt1:  {C and then } I distributed them  /
+sd          B.22 utt2: {C and then } [ [ I ca-, + I get, ] + I can ] sell them at a cheaper price.  /
+sd          B.22 utt3:  Plus I've got a, {F uh, } drinking water system business that I've had on the side for years that I've done.  /  
+ 
+br^m        A.23 utt1:  A what? /  
+
+sd^r          B.24 utt1:  A drinking water business,  /
+%          B.24 utt2: {F uh, } yeah  /
+x          B.24 utt3:  ((   )) ,   
+
+bh         A.25 utt1:  {F Oh, } really? /  
+
+ny          B.26 utt1:  Yeah. /  
+
+ba          A.27 utt1:  {D Well } that sounds interesting <sniffing>.  /
+sd          A.27 utt2:  My mom always wants me to open a health food store /
+sd          A.27 utt3: {C but, } [ I'll, + I'm ] not really into it,  /
+sd          A.27 utt4: [ I don't know the infor-, + I don't know ] that much about it,  /
+sd          A.27 utt5: {D so } {D anyway } {C but, } {D well } that's interesting.  /
+sv          A.27 utt6: [ I, + personally, I ] like mostly <lipsmack> {F um, } - /
+sd          A.27 utt7: if I had a book of my choice, [ I like  books, + ] I go to the library a lot  /
+sd          A.27 utt8: {C and } it seems like I always, I never go to the fiction section,  /
+sv          A.27 utt9: {E I mean } that to me is just ridiculous,  /
+sv          A.27 utt10: it's like,    
+
+b          B.28 utt1:  Uh-huh. /  
+
++          A.29 utt1:  life is to interesting to read fiction  /
+sd          A.29 utt2: {C but } I always get books like, {F um, } - /
+sd          A.29 utt3: I like to quilt,  /
+sd          A.29 utt4: {D well } I'm not into quilting  /
+sd          A.29 utt5: {C but } I check a lot of books out to learn how.  /
+sv          A.29 utt6: I just haven't done it yet because it seems to monstrous to do with a book,  /
+sd          A.29 utt7: {C but } I like to, {F um, } can and do food preservation,  /
+sd          A.29 utt8: {C and } mostly canning just for fun to go pick the things and just to have fun doing it and  to give them as gifts and stuff,  /
+sd          A.29 utt9: {C and } I like to check books out like that  /
+sd          A.29 utt10: {C and } I always come away with, - /
+sd          A.29 utt11: I'm a Christian  /
+sd          A.29 utt12: {C and } I enjoy reading books about {F um, } - /
+sd          A.29 utt13:  <lipsmack>  ((   ))  I have a real heart for people involved in cults -- /  
+ 
+b          B.30 utt1:  Uh-huh. /  
+
+sd^r          A.31 utt1:  -- {C and, so } I have a real, {D you know, } heart for them,  /
+sd          A.31 utt2: {C and } <laughter> I'm going to bring my Mormon neighbors some Amish bread today  /
+sd          A.31 utt3: {C and } that's just where my heart is  /
+sd          A.31 utt4: {C so, } I read a lot of books on that  /
+sd          A.31 utt5: {C and, } {D you know } Christian books written by people [ about, + ] {D you know } to help you out and stuff  /
+sd          A.31 utt6: ((   ))  {C and } I read the Bible.  /
+sd          A.31 utt7: I don't read the Bible as much as I should  /
+sd          A.31 utt8: [ {C but } + {C but } ] I think I would always think that no matter what I did  /
+sd          A.31 utt9: [ {C so, } + {C but } ] I do enjoy reading that  /
+sv          A.31 utt10: <lipsmack> {C and, so } pretty much we have different interests, I think, in reading,  /
+sd          A.31 utt11: <noise> <<sounds like a motorcycle>> [ {C but, } +   
+
+aa          B.32 utt1:  <Laughter> Sounds like it. /  
+
++          A.33 utt1:  {C and } ] I have a neighbor with a big motorbike /
+sd          A.33 utt2: {C and } he likes to run down the street with it /
+qy^d        A.33 utt3: {C and } [ you, + you ] can probably hear him.  /
+h          A.33 utt4:   ((   ))  <laughter> {C But, } {F um, } I don't know  /
+qy          A.33 utt5: {C so. }  Do you enjoy reading anything like that? {F Um. } /  
+ 
+ng          B.34 utt1:  {F Um, } I haven't really read anything like that [ [ in, + in, ] + in ] years.  /
+sd          B.34 utt2: There was a time when I was really into the home things, /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sd          B.36 utt1:  {C and } I [ did, + {F uh, } had ] my own garden /
+sd          B.36 utt2: {C and } I did canning, all those kind of things.  /
+sd          B.36 utt3:  That was when I was about, {F uh, } ten years younger  /
+%          B.36 utt4: {C and } {F uh, } I had, -/  
+
+br         A.37 utt1:  Thirty or younger,   
+ 
+x          B.38 utt1:  <Laughter>.   
+
++          A.39 utt1:  Is that what you said? /  
+
+sd^r          B.40 utt1:  About ten years younger,  /
+%          B.40 utt2: yeah. /  
+
+b^m          A.41 utt1:  {F Oh, } ten years younger,  /
+ba          A.41 utt2: {F oh, } that's funny. /  
+
+sv          B.42 utt1:  {C And, } {F uh, } {F uh, } [ th-, + the ] problem that I've had in the past with, {F uh, } my children growing up and moving out of the house  [ and, +  and ] still having three left at home,   
+ 
+b          A.43 utt1:  Uh-huh. /  
+
++          B.44 utt1:  out of the five,  /
+sd          B.44 utt2: {F um, } I've tried to devote more time to them and trying to get them interested [ in, + in ] reading more [ and, + and ] spending more time at the library  /
+%          B.44 utt3: {C and } it, - /
+sd         B.44 utt4: I've been moderately successful,   
+
+b          A.45 utt1:  Uh-huh. /  
+
++          B.46 utt1:  {F uh, } with my daughter and with my son, they both have different interests in books  /
+sd          B.46 utt2: {C but, } {F um, } [ [ they, + they, ] + {F uh, } they ] do read them.  /
+sd          B.46 utt3:  {F Um, } <lipsmack> I have some books [ on, + on ] health that I read all the time.  /
+sd          B.46 utt4:  One's on vitamins that are good for you and that kind of thing, /  
+ 
+bh          A.47 utt1:  {F Oh, } really? /  
+
+ny          B.48 utt1:  Yeah,  /
+o@          B.48 utt2: [ I, + I'm, ]
+
+b          A.49 utt1:  Yeah,  /
+sd          A.49 utt2:  (( Maureen Solomon )) .  I [ had + ] [ a, + a ] friend of mine has a book by her right now called FOODS THAT HEAL. /  
+ 
++@          B.50 utt1:  Uh-huh. /  
+
+sd          A.51 utt1:  They eat a lot of it,  /
+sd          A.51 utt2: {D you know, } you can take your vitamins  /
+sd          A.51 utt3: {C and } she was telling me to take zinc,  /
+sv         A.51 utt4: {C so, } <laughter> {D anyway } I've been taking enough zinc, {D you know } <laughter> to kill a horse probably /
+sd          A.51 utt5: <laughter> I hope it doesn't hurt me  /
+sd          A.51 utt6: {C but, } {D anyway, } <laughter>.  I did read one chapter of that <laughter>. /  
+ 
+sd          B.52 utt1:  There's [ a, + {F uh, } a ] couple called, {F um, } {F oh, } - /
+h@          B.52 utt2: I'm going to forgot his name now, {F uh, } Dirkson, *[[forgot = forget]] /   
+ 
+b          A.53 utt1:  Uh-huh. /  
+
+sd          B.54 utt1:  {F um, } {C and, } {F uh, } there's a book called LIFE EXTENSIONS,  /
+qy^d          B.54 utt2: I don't know if you've ever heard of it, /  
+
+nn          A.55 utt1:  No,  /
+sd^e          A.55 utt2: I haven't. /  
+
+bk          B.56 utt1:  Okay.  /
+sd         B.56 utt2:  It's a book called LIFE EXTENSIONS.  /
+sd          B.56 utt3:  There's also a book called THE LIFE [ EXTANS-, + EXTENSION ] COMPANION, /  
+ 
+b          A.57 utt1:  Uh-huh. /  
+
+sd          B.58 utt1:  {F Uh, } Dirk Pearson and, - /
+sd          B.58 utt2: {F oh, } {A I forgot Sally's last name, anyway } it's a couple.  /
+sd          B.58 utt3: [ I've, + I've ] seen them on T V,  /
+sv          B.58 utt4: {C and, } {F uh, } [ they an-, + they are ] pretty down to earth about {F uh, } <lipsmack> what you can take [ and, + and ] what you can't take  /
+o@          B.58 utt5:  {C and, } {F um, }
+
+^2       A.59 utt1:  The quantities  /
+%          A.59 utt2: {C and, } -/  
+
++@        B.60 utt1:  The quantities, what are good for you, what isn't /
+%          B.60 utt2: {C and, } -/  
+
+qw          A.61 utt1:  What's the name of it again? /  
+
+sd^r          B.62 utt1:  {F Um, } LIFE EXTENSIONS. /  
+
+br^m          A.63 utt1:  LIFE EXTENSIONS? /  
+
+ny          B.64 utt1:  {F Uh, } yeah,  /
+sd^e          B.64 utt2: he's probably about forty years old now, /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+sd          B.66 utt1:  I saw him probably seven years ago,    
+
+b          A.67 utt1:  Uh-huh. /  
+
++          B.68 utt1:  on Johnny Carson show -- /  
+
+bh          A.69 utt1:  {F Oh, } really? /  
+
+sd          B.70 utt1:  -- {C and, } {F uh, } I was pretty impressed.  /
+sd          B.70 utt2: He had a, - /
+%          B.70 utt3: he, - /
+sd          B.70 utt4: before he started out on his experiments he had a battery of tests done on his body to determine the age of each one of his organs --   
+ 
+b          A.71 utt1:  Uh-huh. /  
+
++          B.72 utt1:  -- {D you know } based on how well it was performing, /  
+ 
+b          A.73 utt1:  Uh-huh. /  
+
+sd          B.74 utt1:  {C and then } he embarked on this, {F uh, } vitamin treatment  /
+sd          B.74 utt2: {C and then } every year he had the same tests run, /  
+   
+b          A.75 utt1:  Uh-huh. /  
+
+sd          B.76 utt1:  {C and } at the age of thirty-two, I think it was, his, {F um, } heart was that of a fourteen year old -- /  
+
+bh          A.77 utt1:  Really? /  
+
+sd          B.78 utt1:  -- {C and } all the rest of his organs were [ all greatly, + {D you know, } all tested out greatly ] below his actual age. /
+sd          B.78 utt2: {C And, } of course, Sally, {F uh, } isn't a very big woman, /  
+ 
+b          A.79 utt1:  Uh-huh. /  
+
+sv          B.80 utt1:  {E I mean, } [ she's, + {D you know, } she ] appeared to me to be very petite  /
+sd          B.80 utt2: {C and } {F um, } she took a horse shoe [ and, + and ] [ turned it, + turned it ] into an S, /  
+ 
+bh          A.81 utt1:  {F Oh, } really? /  
+
+sv          B.82 utt1:  {C and, } {F uh, } it was all from taking the right vitamins and things [ that, + that ] give you the strength, /
+sv          B.82 utt2: {C and, } of course, doing Isometric exercises, {F uh, } together they both exercised about five minutes a day,   
+ 
+bh          A.83 utt1:  Really? /  
+
++          B.84 utt1:  doing Isometrics rather than, {D you know } physical strenuous exercises. /  
+ 
+sv          A.85 utt1:  I know there's not any food that you can get,  /
+sv          A.85 utt2: {C and } it's grown on good soil hardly anymore,  /
+sd          A.85 utt3: {C and } I know [ my, + my ] husband's uncle owns [ di-, + ] some acreage in, [ a, + ] Eastland, Texas, which is in West Texas,  /
+%          A.85 utt4: owns -- -/  
+
+b          B.86 utt1:  Uh-huh. /  
+
+sd          A.87 utt1:  -- {C and } he owns a lot of acreage that's been farmed properly, {D you know } -- /  
+
+b          B.88 utt1:  Yes. /  
+
+sd          A.89 utt1:  -- {C and, } {F uh, } we get black-eyed peas off of it and stuff  /
+sv          A.89 utt2: {C but, } I know that, {D you know, } the further we go from Adam the worse the food is for you,  /
+sv          A.89 utt3: {C but } God still somehow makes us all be able to still live.  /
+sv          A.89 utt4:  I think it's a miracle we're all still alive after so many generations,  /
+sd          A.89 utt5: {D well } the last couple of processed foods, - /
+h          A.89 utt6: {D you know, } {E I mean, } {C but, } <lipsmack> I don't know.  /
+sd          A.89 utt7: [ I like  to, + I like to, ] - /
+%          A.89 utt8: my, - /
+sd          A.89 utt9: I like to be able to eat really healthy,  /
+o@          A.89 utt10: {D you know, } {C and } ((   )) ,   
+
+b          B.90 utt1:  Uh-huh. /  
+
++@          A.91 utt1:  I guess I'm going to have to wait for the millennium, I think though because  I [ do, + don't ] think we're going to restore the earth to, - /
+sv          A.91 utt2: {D you know, } I think <laughter> Jesus is the only one that can make this earth be restored to what it should be, /
+sd          A.91 utt3: {C but, } {F uh, } in the meantime we pray over our food because I'm always looking down my plate  /
+sd          A.91 utt4: {C and } I think {D man } this  ((   ))  stuff was probably grown in who knows what, {D you know, } kind of environment /
+sd          A.91 utt5: {C but } I do take some vitamins on the side  /
+sd          A.91 utt6: {C and, } I do like reading books like that [ I just, + I ] have a hard time, a lot of the books are real new age oriented like Mother Earth  /
+sd          A.91 utt7: {C and } we're going to restore the earth.  /
+sd          A.91 utt8: I just don't see that.  /
+sv          A.91 utt9: [ I think, + {E I mean, } I think ] to think that is almost, - /
+sv          A.91 utt10: it's hopeless to think that man can do anything with the, - /
+qy         A.91 utt11: you know what I'm saying? /  
+
+ny          B.92 utt1:  Yes. /  
+
+%          A.93 utt1:  It's  ((   )) - /
+sv          A.93 utt2: {C and } I think God's in charge  /
+sv          A.93 utt3: {C and } God's going to restore it when he wants to /
+sd          A.93 utt4: {C so } sometimes I get bogged down [ in the, + <breathing> {D you know, } in the ] ideology that motivates a lot of health food and motivates a lot of vitamin taking,  /
+sd          A.93 utt5: {C but, } {D you know } there's a balance in it sometimes I read stuff like that  /
+sd          A.93 utt6: {C and then } I just chunk off like water off your back, some of it,  /
+sd          A.93 utt7: [ {C and, } + {D you know, } {C and } ] try and do [ what's, +  what ] I can do out of it that's practical, /  
+ 
+b          B.94 utt1:  Yeah, /  
+
+o@          A.95 utt1:  {C but, }   
+
+%          B.96 utt1:  there's, -/  
+
++@          A.97 utt1:  anyway, {F uh, } /  
+ 
+sd          B.98 utt1: [ I've, + I've ] read a lot of things, {F um, } since I got involved in the water business back in eighty-three, /  
+ 
+b          A.99 utt1:  Uh-huh  /
+x          A.99 utt2: </noise>.
+
+sd          B.100 utt1:  {F um, } {C and } it's amazing that [ the, + the ] legislation they have, {F um, } for food that doesn't apply to water, /
+sv          B.100 utt2: they don't consider water a food -- /  
+
+b          A.101 utt1:  Uh-huh. /  
+
+sv          B.102 utt1:  -- {C and, } {F uh, } the basics premise is that if water was a food [ it would be, + ] {D you know, } they wouldn't be able to sell it to you through your pipes because it's toxic <noise>.  {F Um, } chlorine, /  
+
+br^m          A.103 utt1:  Because it's what? /  
+
+sv^r          B.104 utt1:  It's toxic.  /
+%          B.104 utt2: It's a, -/  
+
+b          A.105 utt1:  Oh. /  
+
+qy^d          B.106 utt1:  I don't know if your on city water,  /
+sd          B.106 utt2: city water has chlorine in it,  /
+sv          B.106 utt3: chlorine,   
+
+b          A.107 utt1:  Uh-huh. /  
+
++          B.108 utt1:  causes cancer, /  
+
+b          A.109 utt1:  Uh-huh. /  
+
+sv          B.110 utt1:  they know that,  /
+sv          B.110 utt2: they've proven that.  /
+sv(^q)          B.110 utt3: {F Um, } yet their saying {D well } we're putting such low doses in there, that, {D well, }     
+
+b          A.111 utt1:  Uh-huh  /
+x          A.111 utt2: <breathing> <<heavily>>.   
+
++          B.112 utt1:  you don't have to worry about dying from it.  /
+sv          B.112 utt2:  The problem is [ that I've, + that I've ] read books that,   
+
+b          A.113 utt1:  Uh-huh  /
+x          A.113 utt2: <noise>.   
+
++          B.114 utt1:  {F uh, } have proven that <noise> there is a link between the ingestation of chlorine and arteriosclerosis, which is heart attack, /  
+ 
+b          A.115 utt1:  {F Um. } /  
+
+sv*         B.116 utt1:  {C and } if you look at the history of hear attacks, heart attacks were nonexistent prior to nineteen twenty, /   *[[typo hear -> heart]]
+ 
+bh          A.117 utt1:  Really? /  
+
+sd          B.118 utt1:  {C and } we started doing, {F um, } large quantities of chlorination of water starting around, {F uh, } where we experimented with it in nineteen oh three and nineteen thirteen </noise> most of the major cities had chlorinated water./
+
+bh          A.119 utt1:  Really?  /
+sv          A.119 utt2:  {D You know } I bet that's why we have some friends that eat only, - /
+sd          A.119 utt3: I just took this Amish bread out of the oven,  /
+sd          A.119 utt4: {D man, } it's going to be good.  /
+sd          A.119 utt5:  I had a starter that friend of mine made,  /
+sd          A.119 utt6: {D anyway, } {F uh, } I had a friend that read a book on that  /
+%          A.119 utt7: {C and, } {F um, } I've, - /
+sd          A.119 utt8: all my relatives my m-, - /
+qy^d          A.119 utt9: {D you know, } you probably read BACK TO EDEN or something,  /
+h          A.119 utt10: I don't know,  /
+sd          A.119 utt11:  ((   ))  we read a lot,  /
+sd          A.119 utt12: I know people have read all those books  /
+%          A.119 utt13: {C but, } the, {F um, } - /
+sd          A.119 utt14: [ they dr-, + they drilled ] a well, I don't know how many feet  /
+sd          A.119 utt15: {C but } it's three or four times deeper than it needed to be, /  
+
+b          B.120 utt1:  Uh-huh. /  
+
+sd          A.121 utt1:  {C and so } their water comes out, - /
+sd          A.121 utt2: they live in Grand Prairie,  /
+%          A.121 utt3: {C but } it's, - /
+sd          A.121 utt4: they live kind of in [ a, + the ] planes go right over from D F W,  /
+sd          A.121 utt5: {C so } it's not real developed,  /
+sd          A.121 utt6: {C and so } they have [ a, + ]   
+
+b          B.122 utt1:  Yeah,  /
+sd          B.122 utt2: I'm very familiar with the area. /  
+
++          A.123 utt1:  probably half an acre,  /
+%          A.123 utt2: {C and, } yeah,  /
+sd          A.123 utt3: {C and } they drilled this well  /
+sd          A.123 utt4: {C and } the water comes out at thirty-two degrees, /
+sd          A.123 utt5: {C so } <laughter> it's kinds of neat.  /
+qy          A.123 utt6: Would that be healthier [ do, + to do ] that, to drill your own fresh water well like that? /  
+ 
+^h          B.124 utt1:  It depends, [ a lot of, + {F uh, } a lot of ] things were thought <breathing> that, {F uh, } as, - /
+sv(^q)          B.124 utt2: {D you know, } the farmers thought, {D okay, } we got chemicals, we're putting chemicals on the field,  /
+^q          B.124 utt3: {D well } the ground will naturally filter out the <<End of document>> ... -/ 

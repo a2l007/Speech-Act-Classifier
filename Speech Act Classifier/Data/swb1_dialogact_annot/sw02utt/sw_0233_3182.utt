@@ -1,0 +1,201 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3182_1357_1381
+TOPIC#:		364
+DATE:		910930
+TRANSCRIBER:	glp
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+qy          @A.1 utt1:   Do you have any hobbies? /  
+
+ny          B.2 utt1:   Yes,  /
+sd^e          B.2 utt2: I do. /  
+
+qw          A.3 utt1:   What are yours? /  
+
+sd          B.4 utt1:   China painting and ceramics. /  
+
+ba          A.5 utt1:   {F Ooh, } how great. /  
+
+sd          B.6 utt1:   I enjoy it.  /
+b          B.6 utt2: Uh-huh <<faint>>. /  
+
+o          A.7 utt1:   {F Oh, } {F uh, } ceramic painting. /  
+
+sd          B.8 utt1:   I enjoy the china more. /  
+
+b^m          A.9 utt1:   The china more. /  
+
+sd          B.10 utt1:   {C And } now that I have my eyes, <laughter> corrected to the point that I can see <breathing> the delicate part of china painting, I do enjoy it. /  
+
+qw          A.11 utt1:   How did you ever get into that?  /
+sv          A.11 utt2: That sounds so interesting. /  
+
+sd          B.12 utt1:   My husband <breathing> kept begging me,  /
+sd          B.12 utt2: {C and } he's been dead now for twenty years,  /
+sd          B.12 utt3: {C so } you understand that this was a long time ago.  /
+sd          B.12 utt4:  {C But } he finally brought me the china, the book, the brushes and he said I have made arrangements for your lessons. /  
+
+ba          A.13 utt1:   How marvel-, - /
+%          A.13 utt2: I, -/  
+
+sd          B.14 utt1:   {C And } I said I'll do it for three months  /
+sd          B.14 utt2: {C and } if I don't like it, that's it.  /
+sd          B.14 utt3: {D Well, } I painted <laughter> an awful lot until his death, which was several years.  /
+sd          B.14 utt4:  {C And } it has just been the most relaxing, enjoyable <breathing>, self-satisfying thing I've had.  /
+%          B.14 utt5: I, -/  
+
+qy          A.15 utt1:   {D Now, } do you do it just for yourself,  /
+qrr          A.15 utt2: {C or } do you do it to give as gifts,  /
+qrr          A.15 utt3: {C or } do you actually sell it? /  
+
+sd          B.16 utt1:   I have sold quite a bit.  /
+sd          B.16 utt2:  I give a lot to our two daughters that are grown and have their home <breathing>,  /
+sd          B.16 utt3: {C and then } I just have the rest of my house with lot of hand painting in it.  /
+b          B.16 utt4:  Uh-huh. /  
+
+ba          A.17 utt1:   {F Oh, } that sounds mar-, - /
+qy          A.17 utt2: {D now, } do you work outside of the home? /  
+
+sd          B.18 utt1:   I have just retired. /  
+
+bf          A.19 utt1:   You've just retired. /  
+
+aa          B.20 utt1:   Yes. /  
+
+sv          A.21 utt1:   {F Oh, } {F oh, } what a <laughter> great --   
+
+nd          B.22 utt1:   No,  /
+sd          B.22 utt2: it's not, /  
+
++          A.23 utt1:   -- hobby <laughter>.  /
+%          A.23 utt2:  I, -/  
+
+sd          B.24 utt1:   <Laughter> It's a great hobby,  /
+ad          B.24 utt2: {C but } don't retire <laughter>. /  
+
+b^m          A.25 utt1:   Don't retire. /  
+
+b          B.26 utt1:   {F Oh, } /  
+
+sd          A.27 utt1:   {D Well, } {D see, } I don't, - /
+sd          A.27 utt2: I never, {F uh, } returned to work for the p-, - /
+sd          A.27 utt3:  I have stayed home for about the last nine years. /  
+
+%          B.28 utt1:   {F Oh, } have, {D well, } -/  
+
+sd          A.29 utt1:   We've transferred around,  /
+sd          A.29 utt2: {C and } our last area was in a rural section right on the lake, {F uh, } on Lake Erie.  /
+sd          A.29 utt3:  {C So } the lake life appealed to me,  /
+sd          A.29 utt4: {C and } my husband's working  /
+sd          A.29 utt5: {C and } he left it up to me if I worked or not. /  
+
+ba          B.30 utt1:   Wow. /  
+
+sd          A.31 utt1:   {C So, }  in my spare time, I love to sew.  /
+sd          A.31 utt2:  There aren't too many people around anymore that really enjoy sewing,  /
+sd          A.31 utt3: {C but } I do make all my own clothes  /
+sd          A.31 utt4: {C and } we recently purchased a new home,  /
+sd          A.31 utt5: {C so } I enjoy <breathing> doing my, {F uh, } toppers for my window applications --   
+
+b          B.32 utt1:   {F Oh, } uh-huh. /  
+
++          A.33 utt1:   -- and things like that.  /
+sd          A.33 utt2:  {C But, }  {F uh, } just when I thought I really enjoyed my hobby, yours sounds great <laughter>. /  
+
+sd          B.34 utt1:   <Laughter> {D Well, } my sister is the seamstress of the two of us.  /
+sd          B.34 utt2: [ {C And, }  + {C but } ] she doesn't china paint  /
+sd          B.34 utt3: {C so } we both have our expertise side. /  
+
+ba          A.35 utt1:   That is excellent. /  
+
+qw          B.36 utt1:   What part of Ohio are you in? /  
+
+sd          A.37 utt1:  [ We're  in the sub-, +  I'm in the suburb ] of Cleveland  /
+sd          A.37 utt2: {C and } I'm about, {F uh, } fifteen miles, probably, from downtown Cleveland, something like that.  /
+sd          A.37 utt3: {C And } Cleveland is located right on Lake Erie  /
+sd          A.37 utt4: {C and } prior to this, we were fifty miles west from here.  /
+sd          A.37 utt5:  {C So } we were right on the lake.  /
+sd          A.37 utt6:  {C And } Cleveland isn't all as bad as what you've heard <laughter>. /  
+
+%          B.38 utt1:   {F Oh, } what's that, -/  
+
+sd          A.39 utt1:   {C And } you do find people, {F uh, } into the crafts and [ the things that, + {F uh, } various things ] for spare time,  /
+sd          A.39 utt2: {C but, }  I have never heard and I have actually never run into anyone into the china painting  /
+sd          A.39 utt3: {C and } I'm just intrigued with it. /  
+
+sd          B.40 utt1:   If you ever start, be sure and start with [ a large piece that you can, +   {E I mean } a large flat plate. ]  /
+sd          B.40 utt2:  {F Um, } that way you can get the feel of, - /
+sd          B.40 utt3: you're not cramped on these smaller objects. /  
+
+b          A.41 utt1:   Right,  /
+sd          A.41 utt2: where you're getting into the delicate work. /  
+
+ba          B.42 utt1:   That's right. /  
+
+qw          A.43 utt1:   {D Now, } [ do you, + where did you ] first get your lessons from? /  
+
+sd          B.44 utt1:   In Abilene, Texas. /  
+
+qy^d          A.45 utt1:   Through [ a, + {F uh, } an ] adult ed, or strictly a china type, /  
+
+sd          B.46 utt1:   She just taught china painting.  /
+b          B.46 utt2:  Uh-huh,  /
+%          B.46 utt3: {C and, } -/  
+
+ba          A.47 utt1:   {F Oh, } how marvelous. /  
+
+sd          B.48 utt1:  [ Then, + then ] we had so much fun there,  /
+sd          B.48 utt2: I had a friend from Albany, which is about thirty-six miles away,  /
+sd          B.48 utt3: {C and } we would meet every Thursday morning at our instructor's home, because she did our firing for us,  /
+sd          B.48 utt4: {C and } she would help us  /
+sd          B.48 utt5: {C and } we bought lots of equipment from her, supplies  /
+sd          B.48 utt6: {C and } it was just such a delightful time.  /
+%          B.48 utt7: {C And then } after I, -/  
+
+ba          A.49 utt1:   {F Oh, } {C and } it's so nice, /  
+
+br          B.50 utt1:   Beg pardon? /  
+
+sv          A.51 utt1:   It must be so nice for you, now that you're retired. /  
+
+sd          B.52 utt1:   I <breathing> have been a little bit negligent about it because I was so tired when I had to go to work after my husband's death.  /
+sd          B.52 utt2: {C So } I have put it aside for a little while,  /
+sd          B.52 utt3: {C but } [ I'm, + I ] have just found me an instructor to get started again,  /
+b          B.52 utt4: uh-huh. /  
+
+ba          A.53 utt1:   {F Oh, } isn't that great.  /
+sd          A.53 utt2:  {C And } you'll probably really, {F uh, } [ re-, + regain ] your enthusiasm for it --   
+
+b          B.54 utt1:   Uh-huh. /  
+
++          A.55 utt1:   -- once you get into [ a, + a ] class again. /  
+
+sd          B.56 utt1:   Of course, I just have one  beautiful [ p-, +  with peonies,  ] {F uh, } umbrella stand,  /
+sd          B.56 utt2: {C and } I have two daughters  /
+%          B.56 utt3: {C and } they're both, -/ 

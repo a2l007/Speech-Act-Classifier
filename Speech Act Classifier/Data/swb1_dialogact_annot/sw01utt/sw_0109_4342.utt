@@ -1,0 +1,233 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4342_1524_1390
+TOPIC#:		349
+DATE:		920323
+TRANSCRIBER:	glp
+UTT_CODER:	lsh
+DIFFICULTY:	3
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	3
+REMARKS:        None.
+
+==========================================================================
+  
+
+qw          A.1 utt1:  {D So } how do you, {F uh, } - /
+sd          A.1 utt2: [ {D so, } + {D so, }  ] it sounds like you've got a television going on there,  /
+sd          A.1 utt3: {D so } I can assume that you probably watch the T V news.  /
+%          A.1 utt4:  Is that, -/  
+
+sd          B.2 utt1:  I almost never watch T V news. /  
+
+bh          A.3 utt1:  Really? /  
+
+x          B.4 utt1:  <Laughter>.   
+
+ba          A.5 utt1:  Wow.  /
+%          A.5 utt2:  (( I )) , -/  
+
+sd          B.6 utt1:  I get most of my news driving back and forth to work listening to the radio. /  
+
+qw          A.7 utt1:  {F Uh, } [ what, + what ] station do you listen to? /  
+
+sd          B.8 utt1: {F Uh, } it's a local radio station.  /
+sd          B.8 utt2: It's called, {F uh, } K L I F, cliff. /  
+
+b^m          A.9 utt1: Cliff, I see,  /
+qy^g          A.9 utt2: {D so, } {F uh, } it's not affiliated with anything, is it.  /
+qy^d          A.9 utt3: [ Not -- +   
+
+nn          B.10 utt1:  No. /  
+
++          A.11 utt1:  -- it's not ] a network station. /  
+
+nn          B.12 utt1:  No. /  
+
+bk          A.13 utt1: Okay,  /
+b          A.13 utt2: yeah,  /
+sd          A.13 utt3: {C because } [ I, + I ] listen to, {F uh, } public radio a lot  /
+sd          A.13 utt4: {C and } [ they have, + they have ] K C R W, which [ [ I, + I, ] + I ] saw a thing recently, they may be trying to start their own, {F uh, } cable TV outlet, <clanking> I guess.  /
+sd          A.13 utt5: They're [ getting a little, + getting a little ] feisty now <laughter>. /  
+
+sd          B.14 utt1:  {D Well, } [ this has, + this station has ]  a lot of just ongoing news -- /  
+
+%          A.15 utt1:  {F Uh, } /  
+
+sd          B.16 utt1:  -- <Throat_clearing> {C and } occasionally in the morning,  I'll pick up something like, {F uh, } C N N or that,  /
+sd          B.16 utt2:  {C but } I hate watching the, {D like, } ten o'clock news  /
+%          B.16 utt3: {C or, } -/  
+
+b          A.17 utt1:  Yeah,  /
+qy^d          A.17 utt2: {C so } you have a paper or something or, -/  
+
+ny          B.18 utt1:  Yeah,  /
+sd^e          B.18 utt2: [ we have a lo-, + {D well, } we have,   {F uh, } DALLAS MORNING NEWS ] which is the big paper in Dallas. /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sd          B.20 utt1:  [ We read, + I read ] it pretty much --   
+
+b          A.21 utt1:  Yeah. /  
+
++          B.22 utt1:  -- from cover to cover. /  
+
+qw          A.23 utt1: How do you like it?  /
+sd          A.23 utt2: [ It's been, + it's been ] a while since I read the Dallas news.  /
+sd          A.23 utt3: [ I, + {F uh, } fact, last time I ] read the [ Dallas, + Dallas ] news I was in Arkansas. /  
+
+x          B.24 utt1:  <Throat_clearing>.   
+
+%          A.25 utt1:   (( I, {F uh } )) , -/  
+
+sd          B.26 utt1:  The TIMES HERALD went out of business here -- /  
+
+bh          A.27 utt1:  {F Oh, } yeah? /  
+
+sd          B.28 utt1:  -- {C and so } we really only have one  Dallas newspaper and one,   
+
+x          A.29 utt1:  <Laughter>.   
+
++          B.30 utt1:  Fort Worth newspaper. /  
+
+sv          A.31 utt1:  {D Well, } that must be pretty bad.  /
+qw          A.31 utt2: {D So, }  how did that happen, anyway? /  
+
+sd          B.32 utt1:  {F Uh, } financial trouble. /  
+
+ar          A.33 utt1:  No,  /
+ar          A.33 utt2: not how,  /
+qw          A.33 utt3: {E I mean, } [ when did it, +  when did they ]  ((   )) , -/  
+
+br^m          B.34 utt1:  {F Oh, } when did it happen? /  
+
+aa          A.35 utt1:  Yeah. /  
+
+sd          B.36 utt1:  I guess they closed down about three months ago. /  
+
+b          A.37 utt1:  {F Oh, } really. /  
+
+x          B.38 utt1:  <Throat_clearing>.   
+
+%          A.39 utt1:  {F Um. } /  
+
+qw          B.40 utt1:  {D So, }  how do you keep up? /  
+
+sd          A.41 utt1: {F Oh, } me, [ I, + {F uh, } <breathing> good grief, I ] read the TIMES, LOS ANGELES TIMES.  /
+sd          A.41 utt2: There's, quite a task if you've ever run into one.  /
+%          A.41 utt3: They're, {F uh } --   
+
+aa          B.42 utt1:  Yes, they're very --   
+
++          A.43 utt1:  --  (( speci-, )) -/  
+
++          B.44 utt1:  -- voluminous. /  
+
+aa          A.45 utt1:  Yeah,  /
+bf          A.45 utt2:  they're thick. /  
+
+x          B.46 utt1:  <Laughter>.   
+
+sv          A.47 utt1: {F Uh, } if there's something you want to know, [ it's, + it's ] in the TIMES [ and then, + [ and ] in detail.  / *[[repair bracketing wrong]]
+sd          A.47 utt2: {F Uh, } [ [ they, + {F uh, } we, ] + we ] used to have two papers here in town  /
+sd          A.47 utt3: {C and then } the HERALD EXAMINER collapsed about two years ago because of, {F oh, } I don't know, just nobody was buying it really. /  
+
+qy^d          B.48 utt1:  {C So } there really is only one major L A now? /  
+
+ny          A.49 utt1:  Yeah,  /
+sd^e          A.49 utt2: pretty much.  /
+sd          A.49 utt3: {F Uh, } there used to be,     
+
+x         B.50 utt1:  <Throat_clearing>.   
+
++          A.51 utt1: fact, I think there still is, [ the, + {F uh, } the ] DAILY NEWS which runs out of the San Fernando Valley  /
+sd          A.51 utt2: {C and, } {F uh, } they're not bad [ as far as a, + {F uh, } {D you know, } as far as a ] local paper goes.  /
+sd          A.51 utt3: In fact, it was kind of weird, because [ [ I met the, + {F uh, } I met the, ] + I met the ] editor, {F uh, } [ while I was on, + {F uh, } while I was ] doing jury service in Santa Monica one time <laughter>.  /
+sd          A.51 utt4: [ It was like we just sat  around and talk about newspapers and stuff.  /
+sd          A.51 utt5: He was a really cool guy. {F Uh, } {D you know, } went to Columbia University and all this stuff. /
+sd          A.51 utt6: {C And, } {F uh } [ it's, + it's ] a pretty good paper,  /
+sd          A.51 utt7: {C but, } {F uh, } {D you know, } [ it's not, + it's not ] the TIMES. /  
+
+b          B.52 utt1:  Yeah. /  
+
+sd          A.53 utt1: Although [ I, + {D you know, } I'm ] sorry to see some of their, {F uh, } - /
+sd          A.53 utt2: [ there's, + there's ] a daily [ news, + {F uh, } news ] rack right around the corner from where I live, which means that [ they're, + they're ] expanding, I guess.  /
+sd          A.53 utt3: [ [ {C But, } + {F uh, } {C a-, } ] + {C and } ] occasionally [ I, + I ] pick up {D like } TIME magazine or something I think, {F uh, } if they've got an interesting lead story,  /
+%          A.53 utt4: {C but } {D you know, } it's, - /
+sd          A.53 utt5: [ I, + I ] don't have time. /  
+
+sd          B.54 utt1: I used to read TIME magazine a lot,  /
+sd          B.54 utt2: {C but } I don't read it much anymore. /  
+
+b          A.55 utt1: Yeah,  /
+sv          A.55 utt2: [ that's, + that's ] kind of a problem for them.  /
+sv          A.55 utt3: There's a lot of people <laughter> who fall into that,   
+
+x          B.56 utt1:  <Laughter>.   
+
++          A.57 utt1:  category. /  
+
+sd          B.58 utt1:  {C And then } we have a local rag here in town that --   
+
+b          A.59 utt1:  Uh-huh. /  
+
++          B.60 utt1:  -- I pick up periodically and read just to see what's going on in our little community.    
+
+bk          A.61 utt1:  I see. /  
+
++          B.62 utt1:  Because we don't get an awful lot of coverage  in the DALLAS MORNING NEWS. /  
+
+b          A.63 utt1: Yeah,  /
+sv          A.63 utt2: <breathing> the big dailies [ don't like to, + don't like to ] step much [ out of their, + {F uh, } out of their ] home turf,  /
+sv          A.63 utt3: I have to admit, the TIMES is kind of provincial, too.  /
+sv          A.63 utt4: It's basically anything that's south of downtown, they don't bother to cover. /  
+
+sd          B.64 utt1: Now, they have started here running a three day, or three times a week Plano section. /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+sd          B.66 utt1: {C And } it's just sort of [ a, + ] {D you know, } four or five pages that covers what's going on in Plano.  /
+sd          B.66 utt2: {C But } it's still not an awful lot of news. /  
+
+aa          A.67 utt1: Yeah,  /
+sd          A.67 utt2: I know.  /
+sd          A.67 utt3: [ [ I, + {F uh, } it was, ] + it was ] a big discovery [ [ when, + when the TIMES, ] + when the TIMES ] found out there was a place called Orange County <laughter>. /  
+
+x          B.68 utt1:  <Laughter>.   
+
+sd          A.69 utt1: {E I mean, } [ the way they, + {E I mean, } the way they've ] been handling it before, [ they practically, + they practically ] acted like their reporters needed to shots to go south of the L A county border <laughter>. /  
+
+sd          B.70 utt1: {F Oh, } I would imagine [ [ in, + {F uh, } {D you know, } in, ] + in ] Dallas they have plenty happening in Dallas to cover, that it gets hard covering all of the [ sub-, + suburbs ]  /
+sd          B.70 utt2: {C and, } of course, they tend to cover the county,  /
+sd          B.70 utt3: {C and } we're not in Dallas county,  /
+sd          B.70 utt4: {C so } they --   
+
+bh          A.71 utt1:  {F Oh, } really? /  
+
++          B.72 utt1:  -- tend to ignore places outside of the county. /  
+
+b          A.73 utt1: Yeah,  /
+b^r          A.73 utt2: yeah,  /
+sd        A.73 utt3: [ [ I, + I, ] + I ] find that attitude kind of arrogant, though.  /
+sd(^q)       A.73 utt4: It's like you're taking our money,  /
+^q          A.73 utt5: {C but } you're not bothering to cover the things that are interesting to us. /  
+
+b          B.74 utt1:  Yeah. / 

@@ -1,0 +1,355 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3830_1476_1493
+TOPIC#:		345
+DATE:		920123
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        Speaker B sniffed continuously.
+
+=========================================================================
+  
+
+fp          A.1 utt1:  Hello? /  
+
+fp          B.2 utt1:  Hello. /  
+
+fp          A.3 utt1:  How you doing? /  
+
+fp          B.4 utt1:  Fine. /  
+
+sd          A.5 utt1:  I'm Lee with, {F uh, } {F uh, } - /
+sd          A.5 utt2: I'm over here in Plano, Texas. /  
+
+b          B.6 utt1: Okay.  /
+qy          B.6 utt2: Let me ask you something, can I run a minute and shut my radio off? /  
+
+na          A.7 utt1:  {F Oh, } sure. /  
+
+bk          B.8 utt1:  Okay. /  
+
+b          A.9 utt1:  <Sniffing> <cough> Oh. /  
+
+b          B.10 utt1:  Okay. /  
+
+qw          A.11 utt1: Where are you calling from  /
+qw          A.11 utt2: {C or } --   
+
+sd          B.12 utt1:  Arlington. /  
+
++          A.13 utt1:  -- where are you at? /  
+
+sd^r          B.14 utt1:  Arlington, Texas. /  
+
+b^m          A.15 utt1:  Arlington. /  
+
+aa          B.16 utt1:  Yes. /  
+
+sv          A.17 utt1: {D Well, } there's a lot of [ s-, + stuff ] going on in Arlington these days. /  
+
+aa          B.18 utt1:  Yes,  /
+sv          B.18 utt2: not all good stuff. /  
+
+qy          A.19 utt1:  Are you involved in any of that? /  
+
+nn          B.20 utt1:  No. /  
+
+b^m          A.21 utt1:  No. /  
+
+nn^r          B.22 utt1:  No,  /
+sd^e          B.22 utt2: I'm [ not, + not ] personally. /  
+
+qw          A.23 utt1: <Inhaling> {D Well, } {F uh, } <breathing> what benefits do, - /
+qy          A.23 utt2: {D now, } do you work? /  
+
+sd          @B.24 utt1:  I'm going to school right now. /  
+
+bh          A.25 utt1:  {F Oh, } you are? /  
+
+co          B.26 utt1:  I can tell you about my last job or --    
+
+aa          A.27 utt1:  Okay. /  
+
++          B.28 utt1: -- whatever you want to talk about that or my husband's or what I think. /  
+
+b          A.29 utt1:  Yeah. /  
+
+sd          B.30 utt1:  I've got a lot of, -/  
+
+sd          A.31 utt1:  {C Because } [ I, + I ] work for myself -- /  
+
+b          B.32 utt1:  Uh-huh. /  
+
+sv          A.33 utt1: -- {C and so, } {F uh, } <sniffing> there's a lot [ that I, + that I ] guess I do miss, {F uh, } a lot of benefits from working for a big corporation.  /
+sd          A.33 utt2: I miss, {F uh } --   
+
+b          B.34 utt1:  Yes. /  
+
++          A.35 utt1:  -- insurance and --    
+
+b          B.36 utt1:  Right. /  
+
++          A.37 utt1:  -- {F uh, } the steady paychecks that come. /  
+
+b          B.38 utt1:  Yes. /  
+
+%          A.39 utt1:  {C But, } {F uh, } -/  
+
+b          B.40 utt1: Yes,  /
+sd          B.40 utt2: I've been in my own business, Mary Kay, in fact,  /
+sd          B.40 utt3: I'm selling in out now to go to school full time  /
+sd          B.40 utt4: {C and } --   
+
+bh          A.41 utt1:  {F Oh, } is that right? /  
+
++          B.42 utt1: -- I enjoyed the freedom of having that, {D you know, }  /
+sd          B.42 utt2: go to work when I wanted to or not -- /  
+
+b          A.43 utt1:  Uh-huh. /  
+
+sd          B.44 utt1: -- {C but, } {D you know, } the benefits weren't there. /  
+
+b          A.45 utt1:  # Yeah. # /  
+
+%          B.46 utt1:  # {D So, } # -/  
+
+sd          A.47 utt1: [ I, + {F uh, } I ] own part of a roofing company. /  
+
+bh          B.48 utt1:  {F Oh, } do you? /  
+
+sd          A.49 utt1: [ In the, + in the ] Dallas, Fort Worth area. /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+sd          A.51 utt1: {C And, } {F uh, } {D you know, } unfortunately [ we, + we ] were part [ of a, + of a ] [ bigger, + bigger ] company -- /  
+
+b^r          B.52 utt1:  Uh-huh. /  
+
+sd          A.53 utt1: -- {C and } [ [ they, + {F uh, } {D you know, } we, ] + we ] had all the benefits there  /
+sd          A.53 utt2: [ {C and, } + {C and } ] I do miss that.    
+
+b          B.54 utt1:  Yeah. /  
+
++          A.55 utt1: {D You know, }  /
+sd          A.55 utt2: {C but, } {F uh, } on the other hand, [ [ I, + I, ] + {F uh, } I ] enjoy having [ the, + the ] time --   
+
+b          B.56 utt1:  Right. /  
+
++          A.57 utt1:  -- that I have with my family and --    
+
+b          B.58 utt1:  Yeah,  /
+b          B.58 utt2: uh-huh. /  
+
++          A.59 utt1:  -- being able to, {D you know, } work when I want  /
+%          A.59 utt2: {C and, } -/  
+
+sd          B.60 utt1: I think today the thing that I, {F uh, } would appreciate the most, - /
+sd          B.60 utt2:  {F uh, } {C because } my husband gets,   
+
+x          A.61 utt1:  <Sniffing>.   
+
++          B.62 utt1:  his medical through his company,  /
+sd          B.62 utt2: {C but } we have --    
+
+b          A.63 utt1:  Uh-huh. /  
+
++          B.64 utt1: -- to pay for mine  /
+sd          B.64 utt2: {C and } [ we're the only one, + I'm the only one ] that's being insured  /
+sd          B.64 utt3: [ {C and } -- +   
+
+bh          A.65 utt1:  {F Oh, } is that right? /  
+
++          B.66 utt1: -- {C and } ] we pay the same amount that someone over there that has four children has, {E I mean, } <laughter>  /
+sv          B.66 utt2: {C so } it's kind of, -/  
+
+b          A.67 utt1:  Yeah. /  
+
+%          B.68 utt1:  {C And } I would, - /
+%          B.68 utt2: I really, - /
+sv          B.68 utt3: {C and } the way medical expenses are --   
+
+%          A.69 utt1:  It's, -/  
+
++          B.70 utt1:  -- I think that's probably one of the biggest --    
+
+b          A.71 utt1:  Yeah. /  
+
++          B.72 utt1:  -- benefits --    
+
+%          A.73 utt1:  [ It, + it, ] -/  
+
++          B.74 utt1:  -- [ to ha-, + # you need to have. # ] /  
+
+aa          A.75 utt1: # Yeah,  /
+o          A.75 utt2: I'll tell you what,  /
+sd          A.75 utt3: # that is the single most --   
+
+b          B.76 utt1:  Right. /  
+
++          A.77 utt1: -- {F uh, } benefit [ that I, + that I ] enjoyed, and I do miss  /
+sd          A.77 utt2: {C because } I looked into picking up some, {F uh, } medical insurance [ for my, + just for my ] family, {D you know, }  [ just, + ] - /
+sv          A.77 utt3: and it is  unbelievable --   
+
+aa          B.78 utt1:  It's out of sight. /  
+
++          A.79 utt1:  -- how much you have to pay for it. /  
+
+aa          B.80 utt1:  Right,  /
+aa          B.80 utt2: it's out of sight. /  
+
+b          A.81 utt1:  {C And, } {F uh, } yeah, /  
+
+sd          B.82 utt1:  Even at a group rate, I couldn't believe how much --    
+
+aa          A.83 utt1:  {F Oh, } yeah -- /  
+
++          B.84 utt1:  -- is our, -/  
+
+aa          A.85 utt1: -- even at a group rate.  /
+sv          A.85 utt2: {F Uh, } [ it's, + it's ] unbelievable  /
+sd          A.85 utt3: {C and, } {F uh, } the amount that you have to pay [ for, + {D you know, } for ] kids  /
+sd          A.85 utt4: [ {C and, } + {C and } ] if you want to add dental to it, {E I mean, } [ that's -- +   
+
+b          B.86 utt1:  Right,  /
+^2          B.86 utt2: # it goes up. # /  
+
++          A.87 utt1:  -- # that ] eats # even more. /  
+
+b          B.88 utt1:  Right. /  
+
+b          A.89 utt1: {D So, } yeah,  /
+sd          A.89 utt2: I guess [ what, + ] the other benefits [ [ that, + {F uh, } that I, ] + {F uh, } that I ] miss, I guess is, {F uh, } {D you know, } some of the bonuses and stuff [ that + --   
+
+b          B.90 utt1:  Uh-huh. /  
+
++          A.91 utt1: -- that ] goes on with just being involved with a big company, {D you know }  /
+sv          A.91 utt2: {C and } <inhaling> course, these days, you can't count on that because <breathing> <laughter> -- -/  
+
+b          B.92 utt1:  Right. /  
+
+sd          A.93 utt1: -- {F uh, } {D you know, } I feel bad for the people that are involved in that, {F uh, } G M deal there in --   
+
+b^r          B.94 utt1:  Right. /  
+
++          A.95 utt1: -- in Arlington  /
+sv          A.95 utt2: {C and } I'm sure it will be, {D you know, } quite a few people are affected by that  /
+%          A.95 utt3: {D so, } -/  
+
+aa          B.96 utt1: Right,  /
+sv          B.96 utt2: it's going to hurt the city,  /
+sd          B.96 utt3: {C although, } {F uh, } I will personally tell you, I used to work at a bank,  /
+sd          B.96 utt4: {C and } I would see the G M people come in when [ they were, + they would ] shut down to retool. /  
+
+b          A.97 utt1:  Uh-huh. /  
+
+sd          B.98 utt1: They were paid that whole time  /
+qy^d          B.98 utt2: {C and } I don't know, if you're aware of this r-, -/  
+
+bh          A.99 utt1:  {F Oh, } really? /  
+
+ny          B.100 utt1: Yes,  /
+sd^e          B.100 utt2: they come in there,  /
+sd          B.100 utt3: {D just, } they go off fishing and stuff and come in [ and, + ] every Friday, and go to the safety deposit box,  /
+sd          B.100 utt4: {C and } I'm sitting there making a hundred dollars a week, {D you know }  /
+%          B.100 utt5: [ {C and, } +   
+
+bh          A.101 utt1:  Is that right? /  
+
++          B.102 utt1: {C And } ] they had all these gr-, - /
+sv          B.102 utt2: [ I, + I ] really believe they have done this to themselves, in a way, because of the unions being # so stocked. # /  
+
+b^m          A.103 utt1:  # The union,  /
+aa          A.103 utt2: # yeah. /  
+
+sd          B.104 utt1: {C And } right now, anybody's that's laid off from G M will have a full year's paycheck.  /
+sd          B.104 utt2: I just read this in the paper the other day. /  
+
+bh          A.105 utt1:  Is that right? /  
+
+sv          B.106 utt1: Plus probably an additional six months through [ the, + the ] worker's stuff that they have [ [ at, + at, ] + {F uh, } through ] the company  /
+sd          B.106 utt2: {C so } [ I'm sor-, + {D you know, } I'm sorry ] it's happening --   
+
+b          A.107 utt1:  Yeah. /  
+
++          B.108 utt1: -- because it's going to hurt,  /
+sd          B.108 utt2: {C but } I don't feel as sorry for them, /  
+
+%          A.109 utt1:  {D Well } -- -/  
+
+sd          B.110 utt1:  # If my husband # --    
+
+%          A.111 utt1:  -- # really the, # -/  
+
++          B.112 utt1: -- were laid off tomorrow, we'd get one more check  /
+sd          B.112 utt2: {C and } that would be it. /  
+
+b          A.113 utt1: Yeah,  /
+sv          A.113 utt2: really the ones it's going to hurt [ is, + is ] actually [ the, + the ] businesses around --   
+
+aa          B.114 utt1:  Yes. /  
+
++          A.115 utt1:  -- in that area. /  
+
+aa          B.116 utt1:  {F Oh, } yeah,  /
+sd          B.116 utt2: that's already --    
+
+sv          A.117 utt1: {D You know, } that's the ones [ [ that -- +   
+
++          B.118 utt1:  -- hurting. /  
+
++          A.119 utt1: -- that ] + that's ] going to hurt because they depend on that, {F uh, } /  
+
+sv          B.120 utt1: {C But } I think there's a case,   
+
+x          A.121 utt1:  <Sniffing>.   
+
++          B.122 utt1: where benefits have gotten, - /
+sd          B.122 utt2: they voted them in  /
+sd          B.122 utt3: {C and } they got so good, {E I mean, } like two dollars for a prescription --   
+
+b          A.123 utt1:  {F Oh, } yeah. /  
+
++          B.124 utt1: -- no deductible on the medical, all these things, {D you know } -- /  
+
+b^r          A.125 utt1:  Yeah. /  
+
+sv          B.126 utt1: -- {C and } it made the prices of cars go up  /
+%          B.126 utt2: [ {C and } -- +   
+
+b          A.127 utt1:  Uh-huh. /  
+
++          B.128 utt1: -- {C and, } ] {D you know, } the, - /
+sd          B.128 utt2: [ [ I, + we, ] + I ] believe in unions,  /
+sv          B.128 utt3: {C but } they went too far. /  
+
+sd          A.129 utt1: {D Well, } I'll tell you, [ I -- +   
+
+sd          B.130 utt1: {E I mean, } I can't make eighteen dollars an hour. /  
+
++          A.131 utt1: -- I've ] had my fill of unions <laughter>.  /
+%          A.131 utt2: I, -/  
+
+sd          B.132 utt1: [ I + {E mean, } I ] know someone out here that makes eighteen dollars an hour. /  
+
+b          A.133 utt1:  {F Oh, } yeah. / 

@@ -1,0 +1,256 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2038_1073_1039
+TOPIC#:		346
+DATE:		910307
+TRANSCRIBER:	csw
+DIFFICULTY:	2
+UTT_CODER:      aabo
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:	Caller B slurs many words together and is difficult to
+understand.
+
+============================================================================
+  
+
+sd^c          B.1 utt1:  Okay, I guess we're on. /  
+
+b             A.2 utt1:  Yeah. /  
+
+qy          B.3 utt1:  Central America, have you ever lived in Central America. /  
+
+ng          A.4 utt1:  I wasn't in Central America  /
+sd^e          A.4 utt2:  {C but, } {F uh, } talking about Latin America, [ I kind of, + I ] consider Latin America to include Central and South America  /
+sd          A.4 utt3: {C and } I did live in, {F uh, }  (( San Polo )) Brazil for four years. /
+  
+qy          B.5 utt1: [ Do you, + do you ] think [ that, + that ] we should have given up the Panama Canal? /  
+
+%          A.6 utt1:  {F Uh, } realistically, I, - /
+ny          A.6 utt2: yes,  /
+sv^e          A.6 utt3: I don't see [  the, +  the ] Panama Canal that hasn't had a whole lot of usefulness to us recently since it's [ not, + not ] really big enough to, {F uh, } accommodate [ the, + the ] shipping that it once did  /
+sv          A.6 utt4: {C and, } {F uh, } maybe it would be better that we let the Panamanians run it however, I think, we're certainly justified in, {F uh, } our actions dealing with, {F uh, } Noriega in this ... /  
+
+sv          B.7 utt1:  {D Well, } there are those [ [ that, + that, ] + that ] think [ [ that, + that, ] + that ] the Panama Canal has some considerable strategic importance, particularly for the military. /
+sd          B.7 utt2:  Interestingly enough my father [ was, + who was ] in World War One, and  [ as, + {F uh, } as ] a civil engineer [ [ they, + they, ] + they ] offered him a commission as a captain if he would, {F uh, } go in [ and, + and, ] {F uh, } help with the defenses of the Panama Canal. /
+sd          B.7 utt3:  He had worked for United Fruit Company there, /  
+
+b          A.8 utt1:  Uh-huh. /  
+
+sd          B.9 utt1:   {C and } [ [ they, + {F uh, } they, ] + in fact, they ] had, - /
+sd          B.9 utt2: this was in [ the, + the ] late twenties  /
+sd          B.9 utt3: {C and } they in fact used some of the equipment that had been left over  /
+sd          B.9 utt4: {C and, } {F uh, } he turned them down.  /
+sd          B.9 utt5: [  It, + it's ] interesting [ that, + that ] most people don't realize how small the canal is.  /
+qy          B.9 utt6:  Have you ever been there? /  
+
+nn          A.10 utt1:  No,  /
+sd^e          A.10 utt2: I haven't. /  
+
+sd          B.11 utt1: [ It's, + it's ] really, - /
+sd          B.11 utt2: [ I, + I ] haven't been there,  /
+sd          B.11 utt3: I've been to, been to Salvador  /
+sd          B.11 utt4: [ {C and, } + {C and, } ] {F uh, } in fact, we went back to visit some friends [ of, + of ] my fathers, that we went in fifty-seven I guess.  /
+sv          B.11 utt5: {C And } interestingly enough the canal is quite small and, and realistically could be sabotaged [ quite, + quite ] easily.  /
+sv          B.11 utt6: The thing I find interesting, though, [ is that, + {F uh, } is ] the whole colonial approach  /
+qh         B.11 utt7: [ [ {C and, } + {C and, } ] + {C and } ] [ do we, + do we ] support the Sandinistas [ or, + or ] do we support, {F uh, } - /
+sv         B.11 utt8: {D you know, } [ when they thought, + {F uh, } they thought ] that Nicaragua, if you gave them a free election, they would vote for the, - /
+%          B.11 utt9: Will you, {F uh, } - /
+qy          B.11 utt10: did you ever studied [ the, + the ] political makeup there, [ [ in, + in, ] + in ] Nicaragua. /  
+
+na          A.12 utt1:  I have [ a, + a ] little bit,  /
+sd^e          A.12 utt2: I can't say that [ I'm, + I ] would be [ an, + an ] expert on, on the region,  /
+%          A.12 utt3: {C but, } {F uh, } certainly, {F uh, } [ I, + ] [ it, + it ] gets, [ it ge-, + ] there, - /
+%          A.12 utt4: your, - /
+sv          A.12 utt5:  you've got [ this, + this ] toss up betw-, - /
+sv         A.12 utt6: {C or } [ not, + not ] so much a toss up  but [ a, + a ] dilemma [ when, + when ] you want a country to have [ its, + its, ] {F um, } own, {F uh, } dominion, or its free rein over [ its, + its ] own people.  /
+o@          A.12 utt7:  {C And then } on the other hand, {F uh, } [ the, + {F uh, } the ] government in power that under [ what seem, + what seems ] to be popular support, {F uh, } the Sandinistas had to a given extent popular, {F uh, } support, {F um, } starts making overtures to the Soviet Union.  [ And, + and ] into what we consider our sphere of influence  /
+sv          A.12 utt8: {C and } {D now } [ we're, + we're ] in this dilemma over, {F uh, } United States [ is, + believes ] in democracy [ and, + and ] self determination, where [ a-, + ] /
+%          A.12 utt9: {C but } that - /
+sv          A.12 utt10: on the other hand we believe in self preservation and, {F uh, } [ agree with the, + {E or, } not so much agree with ] but are terribly concerned about, {F uh, } [ infl-, + Soviet influence ] [ in, + in ] what's considered to be the United States sphere of the world which is not only, [ you, + ] we used to see spheres  /
+sv          A.12 utt11: {C but } now we're in a situation where the United States [ is, + looks ] like we're it now. /  
+
+sv           B.13 utt1:  {D Well } the interesting part about it is that, if, realistically it was economic.  /
+qy^d          B.13 utt2:  I don't know if you read any of the history on where the Panama Canal  /
+sd          B.13 utt3: {C but } there was an option to build it across Nicaragua,  /
+sd          B.13 utt4: {F uh, } {C and, } {F uh, } [ [ there were, + {F uh, } there's  a big, ] + there's a big ] lake, /  
+
+b          A.14 utt1:  Uh-huh. /  
+
+sd          B.15 utt1:  {C and, } {F um, } from a technical standpoint it wouldn't have been a lot more difficult to have built it in Nicaragua, /
+sd          B.15 utt2: {C but } [ the, + the ] United States, {F uh, } had some, - /
+sd          B.15 utt3: {C and } I've forgotten what the political influence was  /
+sd          B.15 utt4: {C but } there were economic ties then.  /
+sd          B.15 utt5:  The issue [ of, + of ] - /
+qh          B.15 utt6: [ if, + if ] it's in the economic interest of the United States, {F uh, } do we go in [ and, + and ]  prevail  /
+qh          B.15 utt7: [ {C and, } + {C and, } ] {F uh, } in other words do we make the world safe for democracy, /  
+
+b          A.16 utt1:  Right. /  
+
+sv          B.17 utt1:  {C but } if there's no economic benefit, - /
+qh           B.17 utt2: {C and } I think particularly [ if you're, + if you're ] looking [ [ at the, + at the, ] + at the ] peasant, {F uh, } whether he's in Central America, regardless of where he is, [ is his life, + is his life ] better off under communism [ [ or, + or ] + {F uh, } or ] Democratic government.  /
+sd          B.17 utt3: You look at Salvador where the, -/  
+
+sv          A.18 utt1:  {D Well } he doesn't care as long as he's feeding [ his, + {F uh, } his ] family. /  
+
+b          B.19 utt1:  Yeah,  /
+qh          B.19 utt2: [ {C and, } + {C and } ] the question is, does the government make a difference.  /
+sv          B.19 utt3:  If they'll mostly leave him alone, {F uh, } - /
+sv          B.19 utt4: {C and } I think that's the difficulty [ they, + ] [ that, + that ] we have that, {F uh, } [ it, + it ] reality [ doesn't make, + {F uh, } doesn't make ] any difference if he has no income.  /
+sv          B.19 utt5: {C And } apparently even some of our alleged, {F uh, } Central American leaders that, {F uh, } are mostly democratic have done some pretty terrible things,  /
+%          B.19 utt6: {C so } it's, {F uh, } -/  
+
+b          A.20 utt1:  Yeah,  /
+%          A.20 utt2: {D well, } yo-, - /
+%          A.20 utt3: in looking, bu-, - /
+sd          A.20 utt4: if you look at the region [ in, + in, ] {F uh, } - /
+sd          A.20 utt5: to their detriment they came from, {F uh, } this, {F uh, } hundreds of years of Spanish control  /
+sd          A.20 utt6: [ {C and } the, + {C and } the ] Spaniards have, {F uh, } horrible history of corrupt, {F uh, } government, greedy, {F uh, } rulers who have been, {F uh, } [ manipulating, + manipulating ] their public for [ their own, + their own ] good.  /
+sd          A.20 utt7: {E I mean, } if you go back to the kings [ and, + and ] [ the, + the ] conquistadors coming in [ and, + and ] the [ hor-, + incredibly horrible ] things they did to [ the, + {F uh, } the ] native tribes,  /
+sv          A.20 utt8: {E I mean } [ they make, + {F uh, } they make ] the things that Custer did look   {D like, }   {F uh, } {D like } trivial. /
+%          A.20 utt9:  {C And, } {F uh, } you get, -/  
+
+sd           B.21 utt1:  [ It is, + it is ] interesting, [ that, + that, ] {D you know } [ we, + we ] look at the exploitation  /
+sv          B.21 utt2: [ [ {C and, } + {C and, } ] + {C and then } ] we accuse some other people of exploiting them  /
+sv          B.21 utt3: [ {C and, } + {C and } ] Americans [ have, + {F uh, } have ] a pretty good reputation of exploiting,  /
+sv          B.21 utt4: {D you know } [ we + basically  the Panama Canal we ] went in [ {C and, } + {C and } ] took it. /  
+
+aa          A.22 utt1:  {F Oh, } absolutely  /
+sd          A.22 utt2: {C and, } {D you know } we set up ... -/  
+
+sv          B.23 utt1:  {C and } we stole it fair and square,  /
+sd@          B.23 utt2: I think is, {F uh, }   
+
+%          A.24 utt1:  An, - /
+sv         A.24 utt2: {E I mean, } [ Ted, + Teddy ] Roosevelt didn't have the reputation, speak softly and carry a big stick [ for, + {F uh, } for ] nothing  /
+%          A.24 utt3: {C and, } {F uh, } -/  
+
++@          B.25 utt1:  {D Well } what's going to be interesting is to the see what the economic impact [ [ of, + of, ] + {F uh, } of ] [ the, + the ] region, {F uh, } {D you know, } at the moment, [ it, + ] the tremendous drug traffic through there, /
+o@          B.25 utt2: {C but, } {F uh, }   
+ 
+b          A.26 utt1:  Right. /  
+     
++@          B.27 utt1:  the idea [ of, + of, ] {F uh, } - /
+qh          B.27 utt2: [ what's the, + what's ] America's role there  /
+%         B.27 utt3: {C and } [ it, + it, ]  {F uh, } - /
+sv          B.27 utt4: [ with, + with ] other things going on, [ it, + it ] seems to have lessened,  /
+sv          B.27 utt5: {C but } you've still got, {F uh, } Cuba that [ accepts, +  exerts ] some influence. /  
+
+ar          A.28 utt1:  [ The only, +  the only ] thing I see about Cuba though, is, {F uh, } after Fidel Castro dies, I don't think they'll be a communist power anymore.  /
+sv          A.28 utt2:  [ I, +  I ] can't see communism in that country carrying on past him. /  
+
+sv          B.29 utt1:  {D Well, } when you take [ a, +  a ] situation where I think in particular in Salvador where there is a significant under class <cough>, {E excuse me, }  /
+%          B.29 utt2: {C and } that, {F uh, } - /
+qh         B.29 utt3: {D you know, } having [ a, + a ] lot of difficulty, {F uh, } surviving, {F uh, } the question is [ would they, + {D you know, } would they ] be better off under communism. /  
+
+b          A.30 utt1:  Yeah. /  
+
+sv          B.31 utt1:  {C and } I  [ wouldn't, + ] don't know that I would advocate communism  /
+qh          B.31 utt2: {C but, } {F uh, } the question is [ [ [ can, + {F uh, } can you, ] + can, ] + {F uh, } can ] a democracy, {F uh, } afford the, - /
+sv          B.31 utt3: it's like the street people that are starting to show up all other the U S, [ is that, + ]   
+
+b          A.32 utt1:  Right. /  
+
++          B.33 utt1:  that's essentially an underclass  /
+sv          B.33 utt2: {C and } when you get enough of them, {F uh, } {D you know } communism would feed them all. /  
+
+%          A.34 utt1:  Ye-, - /
+arp          A.34 utt2: {D well, } [ I, + I ] don't know if maybe communism is [ the right, + the right ] word for it  /
+sd          A.34 utt3: {C but } what we would, - /
+sd          A.34 utt4: there would have to be some kind of, - /
+sv          A.34 utt5:  [ there, +  there ] may be a point [ at which, + at which, ] [ you've, + {F uh, } you ] might want to consider some kind of socialistic, {F uh, } organization or socialistic set up [ to, + to ] deal with the problem and then be able to gradually transform back to a democracy. /  
+
+%          B.35 utt1:  {D Well } that, - /
+%          B.35 utt2: yeah,  /
+sv          B.35 utt3: if the guys got some incentive, - /
+sv          B.35 utt4: if he's got, {F uh, } - /
+sv          B.35 utt5: {D you know, } [ if he, + if he ] can raise enough, {F uh, } coffee and bananas to, {F uh, } where he's got something to protect,  /
+%          B.35 utt6: other, {D you know, } -/  
+
+b          A.36 utt1:  Right,  /
+b^r          A.36 utt2: right. /  
+
+sv          B.37 utt1:  whether he can export or at least, {F uh, } set up trade and all then democracy of a considerable interest. /  
+
+sv          A.38 utt1:  {C But } cocoa leaves sell real well right now, it seems,  /
+%          A.38 utt2: yeah. /  
+
+b          B.39 utt1:  Yeah,  /
+sv          B.39 utt2: as well as some other various things that are growing in tropical environments. /  
+
+aa          A.40 utt1:  Absolutely.  /
+%          A.40 utt2:  I don't, - /
+sv          A.40 utt3: it's going to be hard to, {F um, } - /
+%          A.40 utt4: we, - /
+%          A.40 utt5: if [ you, + you, ] - /
+sv         A.40 utt6: [ that, + that's ] where your absolutely right is we've got to do something in that region to encourage, {F uh, } or [ [ to make, + to make ] him growing bananas profitable again, {E I mean. } /  
+
+aa          B.41 utt1:  Yes,  /
+qh          B.41 utt2: [ {C but } the, + {C but } the ] question is, {D you know, } if somebody offered {D [ you, + you ] know, }  a thousand dollars a day [ to, + to ] grow something in your backyard, would you do it. /  
+
+b          A.42 utt1:  Right. /  
+
+sv          B.43 utt1:  {D Well } not that we could be bought,  /
+%          B.43 utt2: {C but, } {F uh, } -/  
+
+sd          A.44 utt1:   I've got to watch what I say here,  /
+sd          A.44 utt2: I never know when the D I A may be, {F uh, } listening on my phone <laughter>. /  
+
+sd^t          B.45 utt1:  {D Well } of course, everything we're saying is being recorded  /
+%          B.45 utt2: {C and } ... -/  
+
+b          A.46 utt1:  Right, /  
+
+b          B.47 utt1:  Of course,  /
+b^r          B.47 utt2: of course. /  
+
+b          A.48 utt1:  yeah,  /
+sv          A.48 utt2: it's tempting,  /
+sv          A.48 utt3: [ it's got to be, + it's got to be ] horribly tempting for [ those, + those ] peasants. /  
+
+^2          B.49 utt1:  Particularly, if you're hungry. /  
+
+b          A.50 utt1:  Yeah,  /
+b^r          A.50 utt2: yeah,  /
+%          A.50 utt3: you, - /
+sv          A.50 utt4: [ it's not, + it's not ] just a matter [ of, + {F uh, } of ] having an extra car or having a better car, this is a matter for them [ of, + of ] feeding themselves their wife and their family  /
+%          A.50 utt5: [ {C and, } + {C and } ] you, - /
+sv          A.50 utt6: there's a certain degree   of honor in being able to feed your family  /
+sv          A.50 utt7: {C and } there's dishonor in not being able to do it /
+%          A.50 utt8: {C and } ... -/  
+
+sv          B.51 utt1:  {F Uh, } starving to death is [ not a, + not a ] whole lot of fun either  /
+%          B.51 utt2: {C and, } that, - /
+o@          B.51 utt3:  {F uh, } [ {C and, } + {C and, } ] {D you know, }   
+
+aa          A.52 utt1:  No,  /
+aa^r          A.52 utt2: no. /  
+
++@          B.53 utt1:  when somebody comes in an offers, I think that's one of the real problems, particularly [ when, + when ] the, {F uh, } religious organizations, {D you know, } the Catholic church has been accused of a lot of things. /  
+
+b          A.54 utt1:  Uh-huh. /  
+
+sv          B.55 utt1:  In reality, I think, what they were doing is basically going in and  trying to feed some people and help them protect themselves,  /
+%          B.55 utt2: not that they, - /
+sd          B.55 utt3:  [ I'm, + I'm ] not sure the Catholic church [ [ is, + is, ] + is ] particularly political  /
+%          B.55 utt4: {C but, } {D you know, } if ... -/  
+
+b          A.56 utt1:  Right. / 

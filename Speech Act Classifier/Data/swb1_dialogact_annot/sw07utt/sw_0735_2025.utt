@@ -1,0 +1,264 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2025_1061_1064
+TOPIC#:		341
+DATE:		910306
+TRANSCRIBER:	csw
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=======================================================================
+  
+
+o          A.1 utt1:  All right,  /
+fp          A.1 utt2: Amy, how are you doing today? /  
+
+fp          B.2 utt1:  Fine,  /
+fp^r          B.2 utt2: fine. /  
+
+b          A.3 utt1:  All right,  /
+sd^t          A.3 utt2: I think we know what we're going to speak about. /  
+
+b          B.4 utt1:  Yeah. /  
+
+co^t          A.5 utt1:  {F Uh, } I tell you what, I'll start off.  /
+qw          A.5 utt2:  How's that? /  
+
+aa          B.6 utt1:  Okay,  /
+ad          B.6 utt2: you go ahead. /  
+
+sv          A.7 utt1:  {F Um, } I personally think to set a mark with the judicial system and we're talking about [ criminals, +   
+
+b          B.8 utt1:  Uh-huh. /  
+
++       A.9 utt1:  criminal ] cases that they should bring back hangings on weekends,   
+
+^2          B.10 utt1:  In public places. /  
+
++         A.11 utt1:  in public places.  /
+sd         A.11 utt2:  There is one state that does that, by the way. /
+	
+bh       B.12 utt1:  Really?  /
+qw       B.12 utt2: What is that? /  
+
+sd          A.13 utt1:  I want to say Oklahoma,  /
+sd          A.13 utt2:  I saw something the other night about it. /  
+
+%          B.14 utt1:  {F Um. } /  
+
+sd          A.15 utt1:  They don't do them real often.    
+
+b          B.16 utt1:  Yeah. /  
+
++          A.17 utt1:  Which is obviously the death penalty. /  
+
+b          B.18 utt1:  Yeah. /  
+
+sv          A.19 utt1:  {F Um, } {C but } I think if we quit, {F uh, } building, these Taj Mahals with the color T V -s and [ sixty  dol-, + sixty thousand ]  a year to keep an inmate in there [ [ on a, + on a, ] + on a ] life sentence, we should start hanging  them and get it over with  /
+sv          A.19 utt2: {C and } let's just screwing up the system. /  
+
+b          B.20 utt1:  Yeah.  /
+sv          B.20 utt2: {D Well, } the sentences are so unbelievable.  /
+sd          B.20 utt3:   I just saw on the news last night, that they said the average time a sentenced  murderer, {D you know, } is in jail is two years before he's paroled,  and a rapists is  {D like } six months,   
+
+sv          A.21 utt1:  That's pathetic. /  
+
++          B.22 utt1:  and a burglar is {D like } two months. /  
+
+sv^r          A.23 utt1:  That's pathetic. /  
+
+sd          B.24 utt1:  {C Because } they just say there's either no room in the  system, {D you know, } in the jails for them  /
+sv          B.24 utt2: {C or, } {D you know, } it's just that,  it seems like the automatic sentences, [ if, + if ] a judge has leeway, on what he's  going to, {D you know, } sentence someone for between, {D you know, }  two months and fifty years  and, {D you know, } what's  his whim to decide it should be two months. /  
+
+aa          A.25 utt1:  This is true, /  
+
+sv          B.26 utt1:  {D You know, } it's crazy. /  
+
+sd          A.27 utt1:  [ an, + ] {C and } the way the law reads, {F uh, } if they sentence you to life in prison, then he's available for parole.  /
+sd          A.27 utt2:   If it's life and a day, then he's not eligible for parole. /  
+
+b          B.28 utt1:  Yeah. /  
+
+%          A.29 utt1:  {D So, } what, {D you know, } - /
+sv          A.29 utt2:   let's quit B S -ing with the system. /  
+
+sd          B.30 utt1:  {D Well } even if it's life, like you say, we end up spending sixty thousand dollars a year to keep some, {D you know, } joker in there for  life.  /
+sv          B.30 utt2:  We could spend that money, {D you know, } for children that are  starving, or twelve million other things would be more useful than that. /  
+
+aa          A.31 utt1:  Exactly. /  
+
+sv          B.32 utt1:  {C So } to me if somebody has life, {D you know, } beyond a reasonable doubt [ they should, + that should ] be it. /  
+
+bf          A.33 utt1:  A life for a life. /  
+
+sv          B.34 utt1:  You know particularly for some of these really, {E I mean, } - /
+sv         B.34 utt2:  there are so many just major, major serial murders,/
+sv           B.34 utt3: it's not just like one instance, or something, it's just, {F uh, } horrifying, some of the murders that go on. /  
+
+sd          A.35 utt1:  The old Charles Manson case.  /
+sv          A.35 utt2:  {E I mean } the guy [ is really, + ]   
+
+aa          B.36 utt1:  Yeah,  /
+%          B.36 utt2: an, - /
+aa^r          B.36 utt3: yeah,  /
+sd           B.36 utt4: there's just everyday you hear on the news of another one like that. /  
+
++          A.37 utt1:  just shouldn't be allowed [ to, + to ] [ even, + even ] live. /  
+
+b          B.38 utt1:  Yeah. /  
+
+sd           A.39 utt1:  {F Uh, } about the issue about sentencing by the judge. -/  
+
+b          B.40 utt1:  Uh-huh. /  
+
+sd          A.41 utt1:  <Breathing> [ The, + the ] judge presently has an opportunity to intervene, {F uh, } [ when there's a, + {A my understanding, } when there's {F uh, } a ]  verdict  /
+%          A.41 utt2: {C and } it - /
+sd          A.41 utt3: for example there's a hung jury here in Fort Worth, today, in eight to four  /
+sd         A.41 utt4: {C and } bam, bam the guy got off.  /
+sd           A.41 utt5: {F Uh, } [ he was, + he was ]  a veterinarian, and killed two, a father and a son, okay. /  
+
+aa          B.42 utt1:  Right,  /
+aa          B.42 utt2: yeah,  /
+sd          B.42 utt3: I heard about that on the news. /  
+
+sd^t          A.43 utt1:  {F Uh, } it kind of gets back to the second request,  /
+sd^t          A.43 utt2:  we've been asked to look at, [ is + ] most criminal cases requiring an unanimous verdict.  /
+sd(^q)       A.43 utt3:   In a situation like that, I'd say no,  /
+^q          A.43 utt4: let's just go like a regular vote.  /
+sd          A.43 utt5:   Eight to four tells me that there were eight,  /
+sd(^q)        A.43 utt6: there's a certain [ perc-, + percentage ]  of the people there, with [ sixty percent of the people, + {F uh, }  seventy percent of the people ] said, hey,   
+
+b          B.44 utt1:  Right. /  
+
++          A.45 utt1:  they guys guilty. /  
+
+sv         B.46 utt1:  Rather than have to retrial the [ whole, +  whole ] thing and spend all the money for people to, {F uh, } {D you know, }  go back to court and all the lawyers  /
+sv         B.46 utt2: {C and, } {E I mean }  it just winds up costing the taxpayers  [ a, + {D you know, } a ] fortune to keep doing that. /  
+
+aa          A.47 utt1:  Exactly. /  
+
+sv          B.48 utt1:  {C And } the victims, {D you know, } the family of these  people that have been murdered, they just have to have it dragged on for years and years before they ever get any resolution. /  
+
+aa           A.49 utt1:  Exactly,  /
+bf            A.49 utt2: {C because } it's not next day they have, the, start  the trial, it's X number of months and just prolongs the situation that much more. /  
+
+aa           B.50 utt1:  Right,  /
+aa           B.50 utt2: yeah,  /
+aa^r           B.50 utt3: yeah. /  
+
+sv            A.51 utt1:  I think [ that, + that ]  [ if it's, + if it's ] not a split decision, go with the highest number /
+sv           A.51 utt2: {C and } let's just get on with the program. /  
+
+aa           B.52 utt1:  Yeah,  /
+aa^r           B.52 utt2: yeah. /  
+
+sd          A.53 utt1:  {C But } as far as the sentencing by the judge,  I would have to vote against that since there is a jury, because that's what the juries  are for is to make the decision. /  
+
+aa           B.54 utt1:  Yeah,  /
+aa^r           B.54 utt2: yeah, /  
+
+qo          A.55 utt1:  {F Uh, } what are your feelings? /  
+
+%          B.56 utt1:  {D Well } if I, - /
+sd          B.56 utt2:  I  saw on one of the talk shows  this woman judge, I believe from Florida,  /
+sd           B.56 utt3: {C and } she just has, [ just + ]  really stiff penalties  /
+sd           B.56 utt4: {C and } I saw that [ [ in, + in ] the hands of a judge that really was conscientious and  really, {D you know, } took the pains to give a sentence for what was deserved,  [ it could, + you could ] have [ a, + a ] judge that would really make a good impact.  /
+sv           B.56 utt5:   {C But } likewise, you could have the flip side, and have some judge that was paid  off or, {D you know, } had [ go-, + ] a good old boy network  /
+sv           B.56 utt6: {C or } for whatever reasons,  {D you know, } politics, just let all kinds of people through  /
+sv           B.56 utt7: {C so, } [ he, + he ]  would have a heck, or she would have a heck of a lot of power, {D you know, } if used wrongly.  /
+sv          B.56 utt8:   {C So } at least the jury system does something to prevent that, {D you know, } or help it with  it anyway.  /
+sd           B.56 utt9: I don't know if it prevents it,  /
+sv           B.56 utt10: {C but, } seems like the jury system  does have it's advantages.  /
+sd           B.56 utt11: {C But } [ I also, + I've also ]  heard on trials that sometimes they go through {D like } three hundred jurors before they hand  pick these jurors that they think are going to be the ones that are going to be the  most lenient, {D you know, }  /
+sd           B.56 utt12: {C and } I don't know how much  they're getting just a jury of their peers, at that point, they're really getting a select group.  /
+sd           B.56 utt13:  It's not just random people. /  
+
+%          A.57 utt1:  {F Um. } /  
+
+sv         B.58 utt1:  It almost should be the first twelve people that they, {D you know, } have on a list <laughter> are the ones that are on the jury  /
+sv           B.58 utt2: {C and } that's it. /  
+
+aa           A.59 utt1:  Yeah,  /
+sd         A.59 utt2: I get back to Price's comment when he, {F uh, } was found guilty he said {D well } he didn't have any blacks, {F uh, } {D you know, }  from his neck of the woods. /  
+
+x          B.60 utt1:  <Laughter>.   
+
+o           A.61 utt1:  {D Well } give me a break, {D you know. } /  
+
+sv           B.62 utt1:  He'd have to have his whole family up there for him to feel like he's got his peers or something, /
+%           B.62 utt2: yeah. /  
+
+aa           A.63 utt1:  Exactly,  /
+aa          A.63 utt2: yeah,  /
+aa^r          A.63 utt3: yeah.  /
+sd           A.63 utt4:  {E I mean } [ you're, + you're ]  in Dallas  /
+sd          A.63 utt5: {C so } everybody, - /
+sd          A.63 utt6: I can't believe they can, - /
+sd           A.63 utt7: {F uh, } {D like } in a murder situations, they look for juries who don't know anything about the system, well or know  anything about [ the, + the ] occurrence,  /
+sv          A.63 utt8: you'd have to be pretty dense, /  
+
+b          B.64 utt1:  Yeah. /  
+
+sv         A.65 utt1:  [ you'd be, + you'd either have to be ]  in a cave not to know what's going on, or moving it to Lubbock,   
+
+b          B.66 utt1:  Yeah. /  
+
++          A.67 utt1:  or somewhere, possibly is not the answer. /  
+
+sv         B.68 utt1:  {F Oh, } they'd have to move it to Taiwan for people not to know about it practically. /  
+
+aa          A.69 utt1:  This is true, so true. /  
+
+b          B.70 utt1:  Yeah,  /
+b^r          B.70 utt2: yeah. /
+
+sv^t         @@A.71 utt1:  {D Well } this has been an interesting conversation. /  
+
+sd           B.72 utt1:  {D Well, } {D really, } this [ is, + ]  breaks up my afternoon from changing diapers and mopping floors, {E I mean, }  /
+qh          B.72 utt2: what can I say. /  
+
+bf         A.73 utt1:  {D So, } you're at the house you're not at the plant. /  
+
+aa          B.74 utt1:  No,  /
+sd      B.74 utt2: I'm at home with two little [ ki-, + ] preschoolers./
+sd          B.74 utt3: My husband works for T I. /  
+
+ba          A.75 utt1:  {F Oh, } that's good,  /
+ba^r          A.75 utt2: that's good.  /
+sd          A.75 utt3:  I thought I heard a holler there in the background, /
+sd          A.75 utt4: {C but } I wasn't sure. /  
+
+aa          B.76 utt1:  {F Oh } yeah,  /
+sd          B.76 utt2: I've got the dog and two kids waiting  here,  /
+sd        B.76 utt3: I'm just locked up in the laundry room <laughter>./  
+
+ba          A.77 utt1:  {F Oh } goodness,  /
+co          A.77 utt2: {D well, } I'll let you get, -/  
+
+aa          B.78 utt1:  Okay,  /
+ft          B.78 utt2: thanks a lot.  /
+fc          B.78 utt3: Bye-bye. /  
+
+fc          A.79 utt1:  I enjoyed it.   /
+fc          A.79 utt2: Bye. / 

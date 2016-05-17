@@ -1,0 +1,446 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3237_1098_1004
+TOPIC#:		343
+DATE:		911010
+TRANSCRIBER:	GL
+UTT_CODER:		AEE
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qy^d        A.1 utt2: {C so } you said that you live in Coppell. /  
+
+ny          B.2 utt1:  Uh-huh. /  
+
+qw          A.3 utt1:  {C So } what is your house like? /  
+
+sd          B.4 utt1:  It's a two bedroom, two baths duplex. /  
+
+ba          A.5 utt1:  {F Oh, } {D well } that's neat, /  
+
+sd          B.6 utt1:  Brick --   
+
+b          A.7 utt1:  Uh-huh -- /  
+
++          B.8 utt1:  -- and, {F uh, } -/  
+
+qr          A.9 utt1:  -- is it one you're renting or buying? /  
+
+nn          B.10 utt1:  No,  /
+sd^e          B.10 utt2: we own it,  /
+%          B.10 utt3: yeah,  /
+%          B.10 utt4: {D well, } our side <laughter>. -/  
+
+b          A.11 utt1:  Yeah,  /
+b^r          A.11 utt2: yeah,  /
+sv          A.11 utt3: {D well } that's kind of neat that you can --    
+
+b          B.12 utt1:  Uh-huh,  /
+b^r          B.12 utt2: uh-huh. /  
+
++          A.13 utt1:    -- even though it's a duplex, you can still buy.  /
+ba          A.13 utt2: That's good. /  
+
+b          B.14 utt1:  Uh-huh,  /
+b          B.14 utt2: yeah. /  
+
+qy          A.15 utt1:  Do you have any children? /  
+
+nn          B.16 utt1:  No,  /
+nn          B.16 utt2: [ huh-uh.  /
+qy          B.16 utt3: Do you? /  
+
+ny          A.17 utt1:  Yes,  /
+sd^e          A.17 utt2: I have two children,  /
+sd          A.17 utt3: {C and } our home is really too small for us right now <laughter>. /  
+
+sd          B.18 utt1:  <Laughter> Ours is, too. /  
+
+x          A.19 utt1:  <Laughter>.   
+
+sd          B.20 utt1:  We outgrew it when we moved in. /  
+
+b          A.21 utt1:  Yeah, /  
+
+x          B.22 utt1:  <Laughter>.   
+
+sd          A.23 utt1:  we moved from an apartment --   
+
+b          B.24 utt1:  Uh-huh. /  
+
++          A.25 utt1:  -- that was really small,  /
+sd          A.25 utt2: {C and } at the time we just had a little baby that was five months old -- /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sd          A.27 utt1:  -- {C so } we moved into this house in Garland,  /
+sd          A.27 utt2: it's in one of the older areas of town -- /  
+
+b          B.28 utt1:  Uh-huh. /  
+
+sd          A.29 utt1:  -- {C and } one thing I really like is it has big trees everywhere -- /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd          A.31 utt1:  -- {D you know, } lots of shade and squirrels and birds and --   
+
+b          B.32 utt1:  {F Um. } /  
+
++          A.33 utt1:  -- real pretty,  /
+sd          A.33 utt2: {C but } [ the, +  the ] house is real small -- /  
+
+b          B.34 utt1:  Yeah. /  
+
+sd          A.35 utt1:  -- it has less than a thousand square feet -- /  
+
+ba          B.36 utt1:  {F Oh, } wow. /  
+
+b          A.37 utt1:  -- yeah,  /
+sd          A.37 utt2: it's real little. /  
+
+bf          B.38 utt1:  <Laughter> You all are cramped <laughter>. /  
+
+aa          A.39 utt1:  Yeah,  /
+sd          A.39 utt2: {C and } now I have a daughter,  /
+%          A.39 utt3: now my, - /
+sd          A.39 utt4: the one that was five months old is seven years old -- /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+sd          A.41 utt1:  -- {C and } [ the one, + I have another one ]  that's three and a half --   
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  -- and have all these clothes, and <laughter> --   
+
+b          B.44 utt1:  Oh. /  
+
++          A.45 utt1:  -- toys and stuff that we're just trying to find places to put, /  
+
+b          B.46 utt1:  Uh-huh,  /
+qw          B.46 utt2: how many bedrooms is it? /  
+
+nd          A.47 utt1:  {D Well, } they advertised it as a three bedroom house --   
+
+b          B.48 utt1:  Uh-huh /  
+
++          A.49 utt1:  -- because it has a built on addition room, {D you know } -- /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+sd          A.51 utt1:  -- {C but } the room that's built on doesn't have a closet -- /  
+
+bk          B.52 utt1:  Oh. /  
+
+sd          A.53 utt1:  -- {C so, }  {F um, } the people that lived here before us did use it for a bedroom -- /  
+
+b          B.54 utt1:  Uh-huh. /  
+
+sd          A.55 utt1:  -- {C but } we have always just put {D like } our computer and extra toys and books and -- -/  
+
+b          B.56 utt1: Uh-huh. /  
+
+sd          A.57 utt1:  -- {D you know, } it's kind of a catch all room <laughter>. /  
+
+x          B.58 utt1:  <Laughter>.   
+
+sd          A.59 utt1:  {C But } it sure is nice to have it --    
+
+b          B.60 utt1:  Yeah. /  
+
++          A.61 utt1:  -- when the kids come over to play  /
+sd          A.61 utt2: they all go out there to play with the Barbies --    
+
+b          B.62 utt1:  Uh-huh. /  
+
++          A.63 utt1:  -- and that kind of stuff,  /
+%          A.63 utt2: {C so. } -/  
+
+ba          B.64 utt1:  <Laughter> How fun. /  
+
+aa          A.65 utt1:  Yeah,  /
+sd          A.65 utt2: that works out good. /  
+
+x          B.66 utt1:  <Laughter>.   
+
+sd          A.67 utt1:  {C And } I'm thankful I have two girls, because they're in bunk beds,  /
+sd          A.67 utt2: {C and --   
+
+b          B.68 utt1:  Uh-huh. /  
+
++          A.69 utt1:  -- so, } {D you know, } they can share a room --   
+
+b          B.70 utt1:  Uh-huh. /  
+
++          A.71 utt1:  -- and, {F uh, } make for more space that way. /  
+
+qw          B.72 utt1:  {C And } how old's the youngest? /  
+
+sd          A.73 utt1:  She's three and a half -- /  
+
+b          B.74 utt1:  Uh-huh. /  
+
+b          A.75 utt1:  -- yeah,  /
+sd          A.75 utt2: {C so, } {F um, } {C and } right now we have their clothes on, {F uh, } {D like } double racks, {D you know, } in the closet -- /  
+
+b          B.76 utt1:  Uh-huh. /  
+
+sd          A.77 utt1:  -- we made a higher and a lower -- /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+sd          A.79 utt1:  -- {C and } it works out fine,  /
+sd          A.79 utt2: {C but } they're just about to get too tall <laughter>,    
+
+x          B.80 utt1:  <Laughter>.   
+
++          A.81 utt1:  where the dresses are beginning to drag --   
+
+b          B.82 utt1:  Uh-huh. /  
+
++          A.83 utt1:  -- {D you know, }  /
+sd         A.83 utt2: {C and, }  {F um, }  we're going to have to figure out a new idea.  /
+sd          A.83 utt3: {C But } [ we're, +  we're ] kind of looking around and wanting to move into a bigger home --   
+
+b          B.84 utt1:  Yeah. /  
+
++          A.85 utt1:  -- {F uh, } hoping to be able to do that within a year or so -- /  
+
+b          B.86 utt1:  Yeah. /  
+
+sd          A.87 utt1:  -- {C so } that would be nice. /  
+
+sd          B.88 utt1:  That's what we'd like to do. /  
+
+b          A.89 utt1:  Yeah,  /
+qy          A.89 utt2: is Coppell a nice area to live? /  
+
+na          B.90 utt1:  {F Oh, } it's a wonderful place to live,  /
+%          B.90 utt2: {C and }  they, - /
+sd          B.90 utt3:  I  don't have any kids,  /
+sd          B.90 utt4: {C so } I don't really know,  /
+sd          B.90 utt5: {C but } they say that we have wonderful schools. /  
+
+sd          A.91 utt1:  {D Well, } I think I've heard a lot, {F uh, } about Coppell schools, that they're real good -- /  
+
+b          B.92 utt1:  Uh-huh. /  
+
+ba          A.93 utt1:  -- that's neat. /  
+
+b          B.94 utt1:  {F Um. } /  
+
+qy          A.95 utt1:  [ Do you, +  do you ]  hope to have children,  /
+qrr          A.95 utt2: {C or } are you not planning on having any,  /
+%          A.95 utt3: {C or, } -/  
+
+ng          B.96 utt1:  I don't think so,  /
+nn          B.96 utt2: no. /  
+
+bk          A.97 utt1:  I see. /  
+
+x          B.98 utt1:  <Laughter>.   
+
+qy          A.99 utt1:  {D Well, } do you have any pets? /  
+
+na          B.100 utt1:  {F Oh, } of course, those are my kids -- /  
+
+b          A.101 utt1:  {F Oh, } yeah. /  
+
+sd          B.102 utt1:  -- I have two dogs. /  
+
+b          A.103 utt1:  Uh-huh. /  
+
+x          B.104 utt1:  <Laughter>.   
+
+qy          A.105 utt1:  {D Well, } do they stay inside,  /
+%          A.105 utt2: {C or, } -/  
+
+ny          B.106 utt1:  Yeah,  /
+sd^e          B.106 utt2:  they're inside dogs. /  
+
+ba          A.107 utt1:  {D Well, } [ that's, +  that's ] neat. /  
+
+sd          B.108 utt1:  They're my babies. /  
+
+b          A.109 utt1:  Yeah. /  
+
+x          B.110 utt1:  <Laughter>.   
+
+qw          A.111 utt1:  {D Well, } what are the colors in your house? /  
+
+sd          B.112 utt1:  {F Uh, } {F um, } kind of a mauve and gray. /  
+
+qy^d          A.113 utt1:  {F Oh, } I bet that's pretty. /  
+
+ny          B.114 utt1:  Uh-huh,  /
+sd^e          B.114 utt2: {C and then } the kitchen's kind of [ a, + a  ]  country pink and  country blue,  /
+sd          B.114 utt3: {C and } --   
+
+b          A.115 utt1:  Uh-huh. /  
+
++          B.116 utt1:  -- it's all done in cows,  /
+sd          B.116 utt2: I'm a cow nut <laughter>. /  
+
+ba          A.117 utt1:  {F Oh, } that's neat.  /
+sd          A.117 utt2: I like cows, too. /  
+
+b          B.118 utt1:  Uh-huh -- /  
+
+b          A.119 utt1:  Yeah -- /  
+
+%          B.120 utt1:  -- {D so. } -/  
+
+sd          A.121 utt1:  -- {D well, }  our  house was redo-,  {F uh, } - /
+sd          A.121 utt2: our house is very old  also -- /  
+
+b          B.122 utt1:  Uh-huh. /  
+
+sd          A.123 utt1:  -- it's like thirty-seven years old -- /  
+
+ba          B.124 utt1:  Wow. /  
+
+b          A.125 utt1:  -- yeah,  /
+sd          A.125 utt2: {C and } it was redone before we moved in, which, - /
+sd          A.125 utt3: I'm thankful for that,  /
+%          A.125 utt4: {C but } the, - /
+sd          A.125 utt5: it was redone at the time probably when earth tones were in -- /  
+
+b          B.126 utt1:  Yeah. /  
+
+%          A.127 utt1:  -- everything is -- -/  
+
+b          B.128 utt1:  Yeah. /  
+
+sd          A.129 utt1:  -- {D like, }  the carpet's kind of a tan and brown --   
+
+b          B.130 utt1:  Uh-huh. /  
+
++          A.131 utt1:  -- and has, {F um, } paneling in the living room, and  [ lots of, + lots ] of tans and lots of browns -- /  
+
+b          B.132 utt1:  Uh-huh. /  
+
+sv          A.133 utt1:  -- {C but }  the good thing is you can bring out other colors from that -- /  
+
+aa          B.134 utt1:  {F Oh, } yeah,  /
+aa^r          B.134 utt2: yeah, /  
+
+sd          A.135 utt1:  -- {D you know, } {C so, } {F uh, } that's worked out good.  /
+sd          A.135 utt2:   [ In the, +  in the ] kitchen they put real pretty  blue and tan, {F um, } wallpaper --    
+
+b          B.136 utt1:  Uh-huh. /  
+
++          A.137 utt1:  -- had done it up with blues,  /
+ba          A.137 utt2: {C so } that's nice,  /
+%@          A.137 utt3: {C but } --   
+
+ba          B.138 utt1:  {F Oh, } sounds pretty. /  
+
++@          A.139 utt1:  -- yeah,  /
+aa          A.139 utt2: yeah,  /
+sd          A.139 utt3: we've enjoyed living here. /  
+
+x          B.140 utt1:  <Laughter>.   
+
+sd          A.141 utt1:  It's close to my, {F uh, } oldest daughter's school -- /  
+
+b          B.142 utt1:  Oh. /  
+
+sd          A.143 utt1:  -- {C and } that makes it really handy, too -- /  
+
+aa          B.144 utt1:  Uh-huh,  /
+aa^r          B.144 utt2: uh-huh. /  
+
+sd          A.145 utt1:  -- {C and } she really likes her school,  /
+%          A.145 utt2:  {C so } -- -/  
+
+ba          B.146 utt1:  Good. /  
+
+sd          A.147 utt1:  -- {C and } we are so close to shopping  /
+%          A.147 utt2: {C and } ... -/  
+
+sv          B.148 utt1:  <Laughter> That's an important factor there <laughter>. /  
+
+aa          A.149 utt1:  Yeah,  /
+qo          A.149 utt2: how about in Coppell?  /
+sd          A.149 utt3: I've always imagined it kind of [ out, +  away ] from everything. /  
+
+sd          B.150 utt1:  {D Well, } {D you know, } now we have that new mall in Lewisville -- /  
+
+bk          A.151 utt1:  {F Oh, } really, /  
+
+sd          B.152 utt1:  -- {C and } that's just {D like } a mile or two from our house -- /  
+
+ba          A.153 utt1:  {F Oh, } {D well, } that's nice. /  
+
+sd          B.154 utt1:  -- {C but, }  when we first moved to Coppell, {A it's what, six years ago, } we didn't even have a grocery store -- /  
+
+ba          A.155 utt1:  {F Oh, } wow, /  
+
+sd          B.156 utt1:  -- {C and } now we have four <laughter> -- /  
+
+bk          A.157 utt1:  Oh. /  
+
+sd          B.158 utt1:  -- {C and } Coppell's not really big enough to support [ fo-, +  four ] grocery stores -- /  
+
+aa         A.159 utt1:  Yeah,  /
+aa^r          A.159 utt2: yeah -- /  
+
+%          B.160 utt1:  -- {D so, } -/  
+
+bf          A.161 utt1:  -- {C but } it does sound like it's definitely growing. /  
+
+aa          B.162 utt1:  {F Oh, } [ much -- +   
+
+b          A.163 utt1:  Yeah. /  
+
++          B.164 utt1:  -- very much. ]  /
+sd          B.164 utt2: In fact, it's about the size now, - /
+sd          B.164 utt3: I moved down here from Chicago, what, twenty-three years ago --    
+
+b          A.165 utt1:  {F Oh, } uh-huh. /  
+
++          B.166 utt1:  -- [ and, + ] to Lewisville -- /  
+
+b          A.167 utt1:  Uh-huh. /  
+
+sd          B.168 utt1:  -- {C and } Coppell's now about the size that Lewisville was when, when I moved down here. /  
+
+b          A.169 utt1:  {F Oh, } I see. /  
+
+x          B.170 utt1:  <Laughter>.   
+
+sd          A.171 utt1:  {D Well, } when we first moved here, we moved here from Lubbock -- /  
+
+b          B.172 utt1:  Uh-huh. /  
+
+sd          A.173 utt1:  -- {C and } we almost moved to Lewisville,  /
+sd          A.173 utt2: that was --   
+
+b          B.174 utt1:  {F Oh } really, /  
+
++          A.175 utt1:  -- our second choice, {D yeah, } behind Garland,  /
+sd          A.175 utt2: [ we, + at the time we ] thought we might buy a mobile home, / 

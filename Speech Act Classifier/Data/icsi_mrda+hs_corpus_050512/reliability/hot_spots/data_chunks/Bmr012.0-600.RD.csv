@@ -1,0 +1,435 @@
+5.768,6.108,Bmr012-c8,z,,,,o_k .
+6.106,6.406,Bmr012-c5,z,,,,test .
+8.963,9.963,Bmr012-c1,z,,,,let's see i should be ==
+13.964,15.524,Bmr012-c4,z,,,,as close to your mouth as you can get it .
+14.005,14.135,Bmr012-c1,z,,,,two .
+14.129,14.529,Bmr012-c3,z,,,,up high .
+14.529,15.449,Bmr012-c3,z,,,,high as you can get .
+14.855,15.355,Bmr012-c1,z,,,,la ==
+16.032,17.612,Bmr012-cB,z,,,,channel one one one .
+16.366,17.536,Bmr012-c8,z,,,,yeah on your upper lip .
+16.815,17.885,Bmr012-c1,z,,,,is this channel one ?
+18.105,19.385,Bmr012-c1,z,,,,gee o_k .
+20.175,20.395,Bmr012-c1,z,,,,yes .
+21.005,21.125,Bmr012-c1,z,,,,o_k .
+21.346,32.084,Bmr012-c4,z,,,,o_k so for - for - for people wearing the wireless mikes like - like this one i find the easiest way to wear it is sorta this - this sorta like that .
+21.376,29.116,Bmr012-cB,z,,,,this is - chan- - channel - channel one one two three .
+25.425,27.365,Bmr012-c5,z,,,,channel five channel five .
+27.499,28.229,Bmr012-c1,z,,,,yeah .
+33.484,36.834,Bmr012-c4,z,,,,it's actually a lot more comfortable then if you try to put it over your temples .
+33.518,38.492,Bmr012-c1,z,,,,mm-hmm what do you do ?
+34.123,36.023,Bmr012-c5,z,,,,test test test .
+38.054,38.344,Bmr012-c4,z,,,,so ==
+38.492,39.322,Bmr012-c1,z,,,,you do it higher ?
+39.322,39.822,Bmr012-c1,z,,,,mm-hmm .
+40.029,43.149,Bmr012-c3,z,1a,,,adam's just trying to generate good uh - data for the recognizer there .
+43.125,44.495,Bmr012-c8,z,1b,,,yeah i think we're supposed to ==
+44.675,45.175,Bmr012-c8,z,,,,that's right .
+45.434,51.194,Bmr012-c4,z,,,,and then also for - for all of them if your boom is adjustable the boom should be towards the corner of your mouth .
+45.581,46.991,Bmr012-c5,z,,,,test test .
+46.431,47.591,Bmr012-c0,z,2a,,,by the way there was a bug .
+47.841,51.821,Bmr012-c0,z,3b,,,yeah i- - it wasn't using the proper ==
+48.597,49.147,Bmr012-c3,z,2b.3a,,,oh it was ?
+51.734,56.634,Bmr012-c4,z,,,,and about a- - uh - a thumb to a thumb and a half distance away from your mouth .
+52.981,54.281,Bmr012-c0,z,4a,,,basically it wasn't adapting anything .
+54.804,55.104,Bmr012-c3,z,4b,,,oh .
+56.634,57.964,Bmr012-c4,z,,,,so about like i'm wearing it now .
+57.134,57.824,Bmr012-c3,z,4b+,,,oh that's interesting .
+58.794,60.514,Bmr012-c3,z,5a,,,so why didn't you get the same results and the unadapted ?
+60.088,61.128,Bmr012-cB,z,,,,it's not always possible .
+60.2,62.8,Bmr012-c4,z,,,,so- - so jane you could actually do even a little closer to your mouth .
+61.473,61.803,Bmr012-c0,z,5b.6a,,,hmm ?
+62.103,65.233,Bmr012-c8,z,8a,,,i could - can this be adjuste- - like this ?
+62.163,64.063,Bmr012-c3,z,6b.7a,,,why didn't you get the same results and the unadapted ?
+62.8,63.18,Bmr012-c4,z,,,,but ==
+64.245,69.155,Bmr012-c0,z,7b.10a,,,oh because when it estimates the transformer pro- - produces like a single matrix or something .
+64.829,65.059,Bmr012-c4,z,8b.9a,,,yep .
+65.283,65.433,Bmr012-c8,z,,,,is that {@reject@} ?==
+65.623,66.133,Bmr012-c8,z,9b,,,o_k thank you .
+66.341,66.911,Bmr012-c5,z,,,,adam i'm not ==
+67.251,70.071,Bmr012-c5,z,11a,,,uh - looks kinda low on channel five .
+67.74,69.02,Bmr012-c3,z,10b,,,o- - oh oh i see .
+69.21,69.95,Bmr012-c3,z,,,,i see i see .
+70.071,70.311,Bmr012-c5,z,11a+,,,no ?
+70.203,70.573,Bmr012-c1,z,,,,o_k .
+70.87,72.38,Bmr012-c4,z,11b.12a,,,channel five s- - speak again .
+70.929,71.619,Bmr012-c8,z,,,,hello .
+71.091,71.521,Bmr012-c5,z,,,,maybe not .
+72.358,73.408,Bmr012-c0,z,15a,,,basically there were no counts {@reject@} .
+72.38,73.62,Bmr012-c4,z,13b,,,yeah that's alright .
+72.381,72.851,Bmr012-c5,z,12b.13a,,,hello ?
+73.375,73.565,Bmr012-cB,z,,,,yeah .
+73.681,74.051,Bmr012-c5,z,14a,,,it's o_k ?
+73.76,76.35,Bmr012-c4,z,14b,,,i mean - we could - we could up the gain slightly if you wanted to .
+74.051,75.281,Bmr012-c5,z,,,,is this o_k ?
+74.105,74.355,Bmr012-cB,z,,,,o_k .
+74.722,75.492,Bmr012-c3,z,15b,,,i see what you mean .
+76.743,77.773,Bmr012-c2,z,16a,,,who's channel b_ ?
+77.641,77.841,Bmr012-c4,z,,,,but ==
+79.972,82.282,Bmr012-c4,z,16b.17a,,,uh - channel b_ is probably liz .
+82.557,82.877,Bmr012-c2,z,17b-1,,,uh - oh .
+82.566,84.426,Bmr012-cB,z,17b-2,,,uh - channel b_ - i am channel b_ .
+83.805,84.605,Bmr012-c1,z,,,,you wanna close this ?
+83.894,86.874,Bmr012-c8,z,,,,channel eight - eight .
+84.605,84.645,Bmr012-c1,z,,,,or ==
+84.815,85.585,Bmr012-c2,z,17b-1+,,,no i- ==
+85.204,85.674,Bmr012-c4,z,,,,thank you .
+85.336,86.186,Bmr012-cB,z,,,,no channel b_ .
+85.585,85.935,Bmr012-c2,z,,,,yeah .
+86.041,87.471,Bmr012-c0,z,,,,hello hello ?
+86.375,87.395,Bmr012-c2,z,18a,,,yeah you're channel b_ .
+86.726,87.586,Bmr012-cB,z,18b,,,yeah yeah .
+87.835,88.795,Bmr012-c2,z,19a,,,so can you talk a bit ?
+88.795,89.635,Bmr012-c2,z,,,,i thought it might be too ==
+88.921,89.671,Bmr012-cB,z,19b,,,o_k yeah .
+89.671,92.151,Bmr012-cB,z,,,,channel b_ one two three four five .
+90.615,90.865,Bmr012-c2,z,,,,o_k .
+90.931,91.591,Bmr012-c4,z,,,,yeah it's alright .
+91.591,92.661,Bmr012-c4,z,,,,so the gain isn't real good .
+92.863,93.443,Bmr012-c1,s,20a,,,we're recording .
+92.891,93.211,Bmr012-c2,z,,,,o_k .
+92.991,93.251,Bmr012-c4,fg,,,,o_k .
+93.251,94.541,Bmr012-c4,fg|s^aa,20b,,,so | we are recording .
+93.329,94.329,Bmr012-cB,%,,,,ah .
+93.443,93.743,Bmr012-c1,qy^d^g^rt,20a+,,,right ?
+93.833,94.073,Bmr012-c1,b,,,,yeah .
+94.853,95.123,Bmr012-c5,s^bk,,,,oh .
+94.871,99.781,Bmr012-c4,fh|s^t,,,,um - | everyone should have at least two forms possibly three in front of you depending on who you are .
+94.98,95.58,Bmr012-c0,b,,,,o_k .
+100.111,104.561,Bmr012-c4,s^co,,,,um - we - we're doing a new speaker form and you only have to spea- - fill out the speaker form once .
+104.561,105.831,Bmr012-c4,s^co,,,,but everyone does need to do it .
+106.471,109.671,Bmr012-c4,s,,,,and so that's the name sex email et cetera .
+109.635,110.235,Bmr012-cB,b.%,,,,mm-hmm .
+110.471,114.071,Bmr012-c4,s,,,,we - we had a lot of discussion about the variety of english and so on .
+114.071,116.821,Bmr012-c4,s^co,,,,so if you don't know what to put just leave it blank .
+117.261,122.261,Bmr012-c4,fh|s,21a,10=l=a.a,,um - | i - i designed the form and i don't know what to put for my own region .
+122.711,122.921,Bmr012-c4,fh,,c.b,,so ==
+122.824,123.364,Bmr012-c0,b,,,,mmm .
+123.504,123.994,Bmr012-c3,s^cs,21b-1.22a,,,california .
+124.228,124.578,Bmr012-c0,s.%--,,,,i think ==
+124.285,124.885,Bmr012-c4,s^bk^m,22b,,,california .
+124.459,124.979,Bmr012-cB,s^cs,21b-2,,,california .
+125.038,126.578,Bmr012-c0,qy^cs,23a,,,um - may i make one suggestion ?
+126.578,128.988,Bmr012-c0,s^cs,24a,,,instead of age put date of - uh - year of birth .
+126.741,126.971,Bmr012-c4,s^aa,23b,,,sure .
+129.188,134.706,Bmr012-c0,s^df,24a+,20=w+=a;c.a,,because age will change but the year of birth changes - you know - stays the same usually .
+132.127,132.357,Bmr012-c4,s^bk,24b-1,,,oh .
+136.63,137.18,Bmr012-c4,qy^bu^d^rt,24b-1+,,,birth year ?
+136.666,138.076,Bmr012-c2,s^cs,,b,,a- - actually wait a minute .
+136.675,137.355,Bmr012-c8,s.%-,,,,although on ==
+137.84,138.34,Bmr012-c0,b,,,,yeah .
+138.076,139.386,Bmr012-c2,qy,,b,,shouldn't it be the other way around ?
+138.12,138.59,Bmr012-c3,s^j,24b-2,b,,not for me .
+139.297,143.777,Bmr012-c8,s^cs.%-,25a,,,course on the other - on the other hand you could - you view it as the age at the time of the ==
+140.432,141.082,Bmr012-c2,s,,c.b,,on the other side .
+141.482,141.862,Bmr012-c2,b,,,,yeah .
+141.612,145.422,Bmr012-c0,s^nd.%-,25b.26a,30=w+=d;a.a,,well the thing is if ten years from now you look at this form knowing that ==
+144.598,148.408,Bmr012-c8,fg|s^df^nd.%-,26b.27a,b,,yes | but what we care about is the age at - at the recording date rather than the ==
+146.076,147.436,Bmr012-c3,s^nd,27b-1,,,but there's no other date on the form .
+146.471,147.191,Bmr012-c2,b,,,,o- - yeah .
+147.191,149.811,Bmr012-c2,s^j,28a,b,,w- - we don't care how they - old they really are .
+147.813,150.673,Bmr012-c0,s^nd,27b-2,c,,well - well i don't know .
+148.958,151.138,Bmr012-c8,s^aa|s^j,28b,,,yes | unless we wanna send them a card .
+152.48,155.47,Bmr012-c4,s,29a,40=w+=a.a,,well i guess it depends on how long the corpus is gonna be collected for .
+156.861,157.381,Bmr012-c8,s^aa,29b,,,yeah that's true .
+157.022,157.292,Bmr012-c0,s^t1,,,,anyway .
+158.22,159.66,Bmr012-c2,s,,b.e,,i still don't see the problem .
+158.806,159.316,Bmr012-c4,%--,,,,either way ==
+159.956,161.916,Bmr012-c4,fh|s,,,,yeah | i think - i think age is alright .
+161.916,171.087,Bmr012-c4,s,,,,and then um - there will be attached to this a point or two these forms uh - so that you'll be able to extract the date off that .
+162.083,162.443,Bmr012-c0,b,,,,o_k .
+168.722,169.132,Bmr012-c0,%,,,,mm-hmm .
+172.273,173.083,Bmr012-c4,fh,,,,so anyway .
+173.663,180.493,Bmr012-c4,s,,,,and so then you also have a digits form which needs to be filled out every time the speaker form only once the digit form every time .
+180.493,184.773,Bmr012-c4,s^co,,,,even if you don't read the digits you have to fill out the digits form so that we know that you were at the meeting .
+186.667,186.867,Bmr012-c4,qy^d^f^g^rt,,,,o_k ?
+186.867,190.997,Bmr012-c4,s^co,,,,and then also if you haven't filled one out already you do have to fill out a consent form .
+192.217,194.777,Bmr012-c4,s,,,,and that should just be one person whose name i don't know .
+197.649,197.839,Bmr012-c4,qy^d^f^g,,,,o_k ?
+200.777,202.057,Bmr012-c5,qy^rt,30a,,,do you want this adam ?
+203.018,203.418,Bmr012-c4,h|s^aa,30b,,,uh - | sure .
+204.928,205.798,Bmr012-c4,s^ft,,,,thank you .
+209.21,210.21,Bmr012-c1,fg,,,,so uh ==
+209.371,211.791,Bmr012-c4,qy^cs^rt^t,31a,,,o_k so should we do agenda items ?
+212.707,213.977,Bmr012-c1,h|s^ba,31b,,,uh - | oh - that's a good idea .
+214.427,215.607,Bmr012-c1,s^cc,,,,i shouldn't run the meeting .
+219.425,223.375,Bmr012-c4,s^t,,,,uh - well i have - i wanna talk about new microphones and wireless stuff .
+223.923,224.533,Bmr012-c8,b,,,,mmm .
+224.842,228.272,Bmr012-c4,s,,,,and i'm sure liz and andreas wanna talk about recognition results .
+229.845,230.355,Bmr012-c4,qo^d^rt,,,,anything else ?
+231.954,233.714,Bmr012-c2,qw^rt^t3,32a,,,i guess - what time do we have to leave ?
+234.154,234.774,Bmr012-c2,qy^bu^d^rt^t3,32a+,,,three thirty ?
+234.984,235.214,Bmr012-c0,s^aa^t3,32b,,,yeah .
+235.414,235.814,Bmr012-c2,b,,,,yeah .
+235.466,236.356,Bmr012-c4,s^co,33a,,,why don't you go first then .
+236.124,236.604,Bmr012-c2,b,,,,so ==
+236.937,237.117,Bmr012-c1,s^aa,33b,,,yeah .
+237.277,237.757,Bmr012-c1,s^ba,33b+,,,good idea .
+238.067,238.187,Bmr012-c0,%,,,,o_k .
+238.479,244.67,Bmr012-c2,h|s,,,,um - | well i - i sent out an email s- - couple hours ago .
+244.85,245.21,Bmr012-c2,fh,,,,so ==
+246.27,251.76,Bmr012-c2,fh|s,,,,um - | with andreas' help um - andreas put together a sort of no frills recognizer .
+251.76,257.14,Bmr012-c2,s^e,,,,which is uh - gender-dependent but like - no adaptation no cross-word models no trigrams .
+257.14,258.5,Bmr012-c2,s,,,,a bigram recognizer .
+258.93,261.76,Bmr012-c2,s,,,,and that's trained on switchboard which is telephone conversations .
+262.61,265.933,Bmr012-c2,s.%--,,,,um - and thanks to don's help wh- - who ==
+266.003,270.193,Bmr012-c2,s,,,,don took the first meeting that jane had transcribed .
+270.583,277.183,Bmr012-c2,s,,,,and um - you know - separated - used the individual channels we segmented it in- - into the segments that jane had used .
+277.813,280.883,Bmr012-c2,s,,,,and uh - don sampled that so - so eight k_ .
+281.723,285.153,Bmr012-c2,fh|s^rt,,,,um - | and then we ran up to i guess the first twenty minutes .
+285.153,287.083,Bmr012-c2,s,,,,up to synch time of one two zero zero .
+287.653,289.103,Bmr012-c2,qy^d^rt,34a,,,so is that - that's twenty minutes or so ?
+289.963,292.463,Bmr012-c2,fh|s.%--,,,,um - yeah | because i guess there's some ==
+290.309,290.779,Bmr012-c4,s^na,34b,,,or so .
+292.463,293.843,Bmr012-c2,s^cs,,,,and don can talk to jane about this .
+293.843,297.213,Bmr012-c2,s.%--,,,,there's some bug in the actual synch time file that ah - uh ==
+297.633,300.883,Bmr012-c2,s,,,,i'm - we're not sure where it came from but stuff after that was a little messier .
+301.303,303.263,Bmr012-c2,s.%--,,,,anyway so it's twenty minutes and i actually ==
+301.507,301.947,Bmr012-c4,b.%,,,,hmm .
+303.543,304.323,Bmr012-c2,fh,,,,um ==
+304.346,304.566,Bmr012-c4,%--,,,,i ==
+305.536,308.556,Bmr012-c4,qy^rt,35a,,,was that - did that - did that recording have the glitch in the middle ?
+306.073,306.863,Bmr012-c8,s,,,,i'm puzzled by that .
+308.757,309.777,Bmr012-c8,s,,,,i - oh - oh i see .
+309.951,310.661,Bmr012-c2,s.%--,35b,,,there's - there's a ==
+309.977,311.567,Bmr012-c8,s,36a,,,oh there was a glitch somewhere .
+310.931,311.381,Bmr012-c2,s^aa,36b,,,yeah .
+311.381,312.521,Bmr012-c2,s.%--,,,,so that actually ==
+312.591,313.071,Bmr012-c2,fh,,,,um ==
+312.642,313.722,Bmr012-c5,qy^rt,37a,,,was it twenty minutes in ?
+313.033,314.013,Bmr012-c8,s,,,,i forgot about that .
+313.221,315.521,Bmr012-c2,s^no,37b-1,r,,if it was twenty minutes in then i don't know .
+313.722,314.022,Bmr012-c5,s.%-,,,,i thought ==
+314.985,315.585,Bmr012-c8,s.%--,,,,well i mean they ==
+314.988,315.898,Bmr012-c0,s,,,,well it was interesting .
+315.585,317.175,Bmr012-c8,s.%-,,,,but i was able to can- - transcribe ==
+315.925,317.125,Bmr012-c4,s^no,37b-2,,,i don't remember when it is .
+316.038,320.768,Bmr012-c0,s,,,,suddenly - the - the overall error rate when we first ran it was like - eighty percent .
+321.238,325.098,Bmr012-c0,s,,,,but i- - looking at - the first sentences looked much better than that .
+325.428,326.858,Bmr012-c0,s,38a,,,and then suddenly it turned very bad .
+326.858,330.118,Bmr012-c0,s.%-,38a+,,,and then we noticed that the reference was always one off with the ==
+330.584,333.014,Bmr012-c5,fg|s,38b-1,r-,,yeah | that might be - that might be - that might be my fault .
+330.628,331.288,Bmr012-c2,%,,,,wel- ==
+330.688,331.968,Bmr012-c0,s,,,,it was actually recognized .
+330.758,331.748,Bmr012-c4,s^fe,38b-2,,,oh no !
+331.424,333.484,Bmr012-c8,s^fe.%,,,,wow !
+332.118,332.638,Bmr012-c0,fh,,,,so ==
+333.014,333.414,Bmr012-c5,s.%-,,,,i'm not ==
+333.021,335.641,Bmr012-c4,s,39a,,,oh so that was just a parsing mismatch .
+333.599,333.939,Bmr012-c0,b,,,,o_k .
+333.701,335.201,Bmr012-c2,s^ar.%--,39b,,,no actually it was ==
+335.251,337.081,Bmr012-c2,fh|s,39b+.40a,,,yeah | i- - it was a complicated bug .
+337.081,340.151,Bmr012-c2,s^df^rt,,,,because they were sometimes one off and then sometimes totally random .
+340.241,340.531,Bmr012-c2,fh,,,,so ==
+340.368,341.038,Bmr012-c8,b.%,,,,oh .
+340.625,343.385,Bmr012-c5,fg|s,40b.41a,,,yeah | i was pretty certain that it worked up until that time .
+341.098,341.848,Bmr012-c8,%,,,,that's not good .
+341.121,341.541,Bmr012-c2,fh,,,,um ==
+342.975,343.365,Bmr012-c2,s^bk,42b,,,yeah .
+343.385,343.995,Bmr012-c5,fh,,,,so ==
+343.515,344.425,Bmr012-c2,s,,,,so that's what we have .
+343.552,344.222,Bmr012-c0,b,,,,o_k .
+343.723,344.143,Bmr012-c4,b,,,,alright .
+344.249,344.609,Bmr012-c8,b,,,,yeah .
+344.425,348.295,Bmr012-c2,s,,,,but that - that will be completely gone if this synch time problem .
+346.218,348.562,Bmr012-c4,s,,,,the - the glitch .
+347.112,352.692,Bmr012-c0,s.%-,,,,so - so we have everything recognized but we scored only the first uh - whatever up to that time to ==
+347.331,348.371,Bmr012-c8,s.%--,,,,and the only glitch ==
+348.681,348.941,Bmr012-c8,b,,,,yeah .
+348.932,349.072,Bmr012-c4,b.%,,,,yeah .
+349.848,350.988,Bmr012-c2,s,,,,so you guys know .
+351.507,353.157,Bmr012-c1,s^fa,,,,s- - sorry i haven't seen the email .
+351.547,351.897,Bmr012-c2,b,,,,yeah .
+351.963,356.083,Bmr012-c4,%,,,,th- - the ==
+352.135,353.885,Bmr012-c8,%,,,,the - the - well - wait .
+352.924,355.414,Bmr012-c2,s,,,,so here's the actual copy of the email .
+353.157,354.257,Bmr012-c1,qw,,,,what was the score ?
+353.885,355.025,Bmr012-c8,s^cs,,,,we should say something about the glitch .
+355.025,356.155,Bmr012-c8,s^cs,,,,he - he can say something about the glitch .
+355.834,357.074,Bmr012-c2,h|s^bk,,,,um - | oh o_k .
+356.083,356.143,Bmr012-c4,b,,,,yeah .
+356.205,358.495,Bmr012-c8,s^df,,,,cuz it's - it's - it's - h- - it's - it's very small .
+357.164,359.254,Bmr012-c2,qy.%-,43a,,,so does this glitch occur at other ?==
+357.876,365.067,Bmr012-c4,s,43b.44a,,,there - there - there's an acoustic glitch that occurs where um - the channels get slightly asynchronized .
+358.595,359.425,Bmr012-c8,s^r,,,,very small .
+360.938,361.148,Bmr012-c8,b,,,,yep .
+362.506,362.866,Bmr012-c2,s^bk,44b,,,oh .
+365.305,365.685,Bmr012-c2,s^bk,44b+,,,right .
+365.377,374.167,Bmr012-c4,s,43b+,,,so the - that - that problem has gone away in the original driver believe it or not when the s_s_h key gen ran the driver paused for a fraction of a second .
+365.393,365.703,Bmr012-c0,b,,,,mmm .
+373.34,373.88,Bmr012-c5,b,,,,hmm .
+373.61,374.16,Bmr012-c1,b,,,,hmm .
+374.897,376.577,Bmr012-c4,s,,,,and so the channels get a little asynchronous .
+376.577,381.037,Bmr012-c4,s,,,,and so if you listen to it in the middle there's a little part where it starts doing - doing click sounds .
+381.608,381.898,Bmr012-c1,fg,,,,so ==
+381.623,383.323,Bmr012-c2,qy^rt,45a,,,and is it only once that that happens ?
+382.047,382.157,Bmr012-c4,%-,,,,but ==
+383.237,383.457,Bmr012-c4,s^aa,45b,,,yeah .
+383.717,383.967,Bmr012-c4,%--,,,,it ==
+383.873,384.143,Bmr012-c2,s^bk,,,,o_k .
+383.967,384.847,Bmr012-c4,s^aa|s^na,45b+,,,right | once in the middle .
+384.523,388.073,Bmr012-c2,s,46a,,,there's - the previous page has some more information about sort of what was wrong .
+385.071,385.421,Bmr012-c1,fg,,,,so ==
+388.073,388.273,Bmr012-c2,fh,,,,but ==
+388.202,391.184,Bmr012-c4,s,46b.47a,,,um - but that shouldn't affect anything .
+388.276,391.156,Bmr012-c1,fg|s^j,,50=w-=o.a,,so | un- - unsurprisingly adam is the golden voice .
+388.714,390.004,Bmr012-c8,%,,,,s- ==
+388.753,389.103,Bmr012-c2,s^bk,47b,,,o_k .
+389.103,389.983,Bmr012-c2,s.%-,,,,so that's actually ==
+390.004,390.394,Bmr012-c8,%,,,,and it ==
+391.156,391.916,Bmr012-c1,qy^d^rt,,,,you see this here ?
+391.804,392.424,Bmr012-c4,b,,,,yeah yeah .
+391.854,393.404,Bmr012-c2,s.%-,,,,it - y- - it's ==
+392.604,393.334,Bmr012-c4,s^j,,b.e,,bah .
+393.404,393.694,Bmr012-c2,fg,,r-,,o_k .
+393.694,393.954,Bmr012-c2,fg,,,,no ==
+395.122,395.452,Bmr012-c0,fg|%-,,,,oh | and ==
+395.141,398.321,Bmr012-c2,s.%-,,,,what happens is it actually affects the script that don ==
+397.76,398.57,Bmr012-c3,b,,,,huh .
+398.321,401.211,Bmr012-c2,s,,,,i mean - if we know about it then i guess it could always be checked for it .
+399.851,401.701,Bmr012-c4,s,48a,,,well the acoustic one shouldn't do anything .
+401.211,401.701,Bmr012-c2,%-,,,,but they ==
+401.618,403.318,Bmr012-c5,s,,,,yeah i don't know exactly what affected it .
+401.697,402.227,Bmr012-c8,s^aa,,,,i agree .
+402.357,402.887,Bmr012-c8,s^aa,48b,,,i agree .
+403.318,404.448,Bmr012-c5,s^cc,,,,but i'll - i'll talk to you about it .
+403.66,404.19,Bmr012-c0,%-,,,,i - i have ==
+404.144,407.819,Bmr012-c4,s.%-,,,,but i - i do remember ==
+404.19,404.57,Bmr012-c0,b,,,,yeah .
+404.448,405.958,Bmr012-c5,s^cc,,,,i'll show you the point .
+404.485,404.735,Bmr012-c8,b,,,,yeah .
+404.885,406.595,Bmr012-c8,s,,,,it - it had no effect on my transcription .
+404.931,405.551,Bmr012-c2,b,,,,yeah .
+406.595,409.905,Bmr012-c8,s,,,,you know - i mean - i - i had no trouble hearing it and - and having time bins .
+406.905,407.565,Bmr012-c0,b,,,,mmm .
+409.905,411.165,Bmr012-c8,s.%-,,,,but there was a ==
+410.053,416.943,Bmr012-c4,s^r,49a,,,i do remember seeing once the transcriber produce an incorrect x_m_l file where one of the synch numbers was incorrect .
+414.429,414.819,Bmr012-c8,s^bk,49b-1,,,oh .
+416.604,417.614,Bmr012-c5,s^na,49b-2,,,that's what happened .
+416.652,421.212,Bmr012-c2,s,49b-3.50a,,,well the - the synch time - the synch numbers have more significant digits than they should .
+417.823,420.103,Bmr012-c8,s^bk,50b,,,oh .
+417.946,418.246,Bmr012-cB,b,,,,yeah .
+418.535,418.905,Bmr012-c5,%-,,,,there was ==
+418.84,420.26,Bmr012-c4,s,49a+,,,where - where they weren't monotonic .
+420.463,421.003,Bmr012-c5,fg|%-,,,,yeah | i mean ==
+421.212,421.482,Bmr012-c2,qy^d^f^g,,,,right ?
+421.482,424.152,Bmr012-c2,s,51a,,,there's things that are l- - in smaller increments than a frame .
+422.743,423.063,Bmr012-cB,b,,,,yeah .
+424.254,424.994,Bmr012-c8,s^ba,51b-1,,,oh interesting .
+424.852,425.212,Bmr012-c4,s^bk,51b-2,,,oh o_k .
+425.212,425.592,Bmr012-c4,s.%-,,,,so that's ==
+425.221,425.671,Bmr012-c5,b,,,,hmm .
+425.224,431.704,Bmr012-c2,s,52a,,,and so then i mean - you look at that and it's got you know - more than three significant digits in a synch time then that can't be right .
+429.98,431.19,Bmr012-c8,s^bk,52b-1,,,oh .
+431.656,432.516,Bmr012-c4,fg|s^na,52b-2,,,yeah | sounds like a bug .
+431.66,432.34,Bmr012-c8,b,,,,yeah .
+431.744,432.494,Bmr012-c0,b,,,,mmm .
+431.814,433.754,Bmr012-c2,s.%--,,,,so anyway it's - it's just ==
+433.914,435.394,Bmr012-c2,s,,,,that's why we only have twenty minutes .
+435.394,437.684,Bmr012-c2,s.%-,53a,,,but there's a significant amount of ==
+436.618,437.378,Bmr012-c5,qy^2^d^rt,53b,,,non-zero ?
+437.628,442.788,Bmr012-c5,s,,,,um - there are like - more - cuz there's a lot of zeros i tacked on just because of the way the script ran .
+439.257,440.517,Bmr012-c4,s.%-,,,,the other one i saw was that it ==
+442.788,444.108,Bmr012-c5,s,54a,,,i mean - but there were- - there was a point .
+442.895,443.255,Bmr012-c4,b,,,,yeah .
+444.989,445.699,Bmr012-c2,s^na,54b,,,yeah that was fine .
+445.801,448.761,Bmr012-c4,s,,,,the other one i saw was non- - non-monotonic synch times .
+445.989,446.849,Bmr012-c2,s^na,54b+,,,that - that was o_k .
+447.213,447.603,Bmr012-c5,%,,,,o_k .
+448.761,450.701,Bmr012-c4,s,55a,,,and that definitely indicra- - indicates a bug .
+449.306,449.606,Bmr012-c5,fg,,,,uh ==
+449.9,451.51,Bmr012-c2,s,55b,,,well that would really be a problem .
+451.51,451.86,Bmr012-c2,fh,,,,yeah .
+451.86,457.37,Bmr012-c2,s,56a,,,so anyway these are just the ones that are the prebug for one meeting .
+453.911,454.281,Bmr012-c5,b,,,,yeah .
+458.01,459.86,Bmr012-c2,qw.%-,,,,um - and what's - which ?==
+458.615,460.575,Bmr012-c4,s^ba,56b.57a,,,so that's very encouraging .
+459.86,462.36,Bmr012-c2,s,57b,,,this is really encouraging cuz this is free recognition .
+460.149,460.389,Bmr012-cB,b,,,,yeah .
+460.439,460.499,Bmr012-c1,b,,,,hmm .
+461.033,461.283,Bmr012-c1,b,,,,cool .
+462.36,465.75,Bmr012-c2,s,58a,,,there's no i mean - the language model for switchboard is totally different .
+462.698,463.068,Bmr012-c0,b,,,,mmm .
+465.75,469.64,Bmr012-c2,s.%--,59b,**b,,so you can see some like this ** trent lott which ==
+467.299,467.839,Bmr012-c3,s^j,58b.59a,60=w-=g.a,,trent lott .
+469.64,470.57,Bmr012-c2,fh,,c.b,,um - i mean ==
+470.74,471.91,Bmr012-c2,s,,,,these are sort of funny ones .
+470.883,471.703,Bmr012-c3,s,,,,it'll get those though .
+471.91,474.86,Bmr012-c2,s,,,,there's a lot of perfect ones and good ones and all the references .
+474.86,478.63,Bmr012-c2,s^cs,60a,,,i mean you can read them and when we get more results you can look through and see .
+477.389,481.348,Bmr012-c4,s^rt,60b,,,i - and as i said i would like to look at the lattices .
+478.157,478.907,Bmr012-c0,b,,,,mm-hmm .
+478.63,478.91,Bmr012-c2,fh,,,,but ==
+479.5,480.44,Bmr012-c2,s,,,,um - it's pretty good .
+481.348,484.438,Bmr012-c4,s^df,,,,because it sounded like even the ones it got wrong it sort of got it right .
+484.87,486.87,Bmr012-c2,s^cs.%-,,,,well so i guess we can generate ==
+484.968,485.868,Bmr012-c4,%-,,,,sounds likes ==
+486.719,487.859,Bmr012-c8,b,,,,mm-hmm .
+486.864,493.434,Bmr012-c0,s,61a,,,there are a fair number of errors that are you know - where - got the plural s_ wrong or the inflection on the verb wrong .
+487.64,488.51,Bmr012-c2,fh,,,,um ==
+491.723,491.903,Bmr012-c4,s^bk,61b,,,yeah .
+491.903,492.503,Bmr012-c4,qh^nd,61b+,,,and who cares ?
+492.503,499.103,Bmr012-c4,s,62a,,,and - and there were lots of - of course the uh uh - -s in on - -s of uh - -s .
+494.524,495.594,Bmr012-c0,%-,,,,mmm so if ==
+494.535,494.775,Bmr012-c2,%-,,,,there's ==
+497.072,498.292,Bmr012-c2,s^ar.%--,62b,,,no those are actually ==
+497.618,497.758,Bmr012-c0,b,,,,yeah .
+498.762,501.192,Bmr012-c2,s,,,,a lot of the errors i think are out of vocabulary .
+501.192,503.482,Bmr012-c2,s,,,,so is it like p_z_m is three words .
+501.292,502.492,Bmr012-c0,b,,,,mm-hmm .
+503.482,504.772,Bmr012-c2,s^e,,,,it's p_z_m .
+504.352,505.392,Bmr012-c0,b,,,,mm-hmm .
+504.772,505.662,Bmr012-c2,s.%--,,,,i mean - there's nothing ==
+505.637,505.907,Bmr012-c4,b,,,,right .
+506.042,508.572,Bmr012-c2,s.%--,63a,70=w-=a;cs.a,,there's no language model for p_z_m or ==
+506.067,506.737,Bmr012-c4,b,,,,ri- - ri- - right .
+508.572,509.292,Bmr012-c2,fh,,,,um ==
+508.987,510.697,Bmr012-c4,qy^bu^rt,63b.64a,b,,did you say there's no language for p_z_m ?
+510.792,512.242,Bmr012-c2,s^aa.%-,64b,,,no language model i mean - those ==
+512.745,515.185,Bmr012-c4,qy^rt,65a,b,,do you mean so every time someone says p_z_m it's an error ?
+515.585,517.635,Bmr012-c4,s^cs^j,,c.b,,maybe we shouldn't say p_z_m in these meetings .
+517.307,519.617,Bmr012-c2,fg|s^df,65b.66a,80=w0=a.a,,well - | well there's all kinds of other stuff like jimlet .
+519.617,522.317,Bmr012-c2,fh|%--,,,,and i mean - um - | anyway there ==
+519.876,521.116,Bmr012-c4,s^bk^j,66b-1,b.e,,yeah that's right jimlet .
+522.214,523.374,Bmr012-c1,s,67a.66b-2,,,well we don't even know what that means .
+522.317,526.247,Bmr012-c2,s.%--,,,,so but this is really encouraging because ==
+523.271,524.231,Bmr012-c4,s^aa,67b,,,yeah that's right .
+523.374,523.604,Bmr012-c1,%-,,,,so i ==
+526.457,539.717,Bmr012-c2,s,,,,so i mean - the bottom line is even though it's not a huge amount of data um - it should be uh - reasonable to actually run recognition and be like - within the scope of - of r- - reasonable s- - you know switchboard .
+539.717,545.917,Bmr012-c2,s,68a,,,this is like h- - about how well we do on switchboard-two data with the switchboard-one trained - mostly trained recognizer .
+544.769,545.209,Bmr012-c4,b,,,,right .
+545.917,551.747,Bmr012-c2,s,,,,and switchboard-two is got sort of a different population of speakers and a different topic .
+547.572,548.072,Bmr012-c4,s^ba,68b,,,excellent .
+551.917,555.237,Bmr012-c2,s,,,,and they're talking about things in the news that happened after switchboard-one .
+555.237,557.017,Bmr012-c2,s,,,,so there was {@reject@} so that's great .
+556.052,556.192,Bmr012-c1,b,,,,yeah .
+557.172,560.172,Bmr012-c1,s,,,,yeah so we're in better shape than we were - say when we did - had the ninety-three workshop .
+557.697,558.077,Bmr012-c2,fh,,,,um ==
+560.402,563.242,Bmr012-c1,s,69a,,,and we were all getting like seventy percent error on switchboard .
+563.387,565.307,Bmr012-c0,b,,,,mm-hmm .
+563.908,564.328,Bmr012-c2,s^bk,69b,,,oh yeah .
+564.328,565.328,Bmr012-c2,s.%--,,,,i mean - this is really ==
+564.434,564.744,Bmr012-c1,fh,,,,you know ==
+565.307,565.687,Bmr012-c0,b,,,,mmm .
+565.538,567.268,Bmr012-c2,s.%-,70a,,,and thanks to andreas who i mean - this is a ==
+566.066,566.836,Bmr012-c0,b,,,,mmm .
+566.094,569.804,Bmr012-c4,s^na.%--,70b,,,well especially for the very first run i mean you ==
+567.393,567.853,Bmr012-c1,b,,,,yeah .
+567.598,568.418,Bmr012-c2,fh,,,,eh - um ==
+567.645,568.685,Bmr012-c0,s.%-,,,,oh it's the ==
+569.582,569.782,Bmr012-c1,b,,,,yeah .
+569.804,572.774,Bmr012-c4,s,,,,the first run i ran of switchboard i got a hundred twenty percent word error .
+569.918,570.378,Bmr012-c2,b,,,,yeah .
+572.774,572.884,Bmr012-c4,fh,,,,but ==
+574.063,576.203,Bmr012-c2,s.%--,,,,so - and what al- - also this means is that ==
+575.28,575.46,Bmr012-c8,b,,,,right .
+575.896,576.626,Bmr012-c4,s^t3,,,,not switchboard .
+576.203,576.663,Bmr012-c2,fh,,,,um ==
+576.626,578.636,Bmr012-c4,s^t3,,,,uh - broadcast news .
+576.72,577.59,Bmr012-c0,s.%-,,,,well it's ==
+577.073,579.833,Bmr012-c2,s,,,,i mean - there's a bunch of things in this note to various people .
+579.833,583.493,Bmr012-c2,s.%--,,,,especially i guess um - with jane that - that would help for ==
+583.493,593.403,Bmr012-c2,s,,,,since we have this new data now uh - in order to go from the transcripts more easily to um - just the words that the recognizer would use for scoring .
+593.713,598.583,Bmr012-c2,s.%-,,,,i had to deal with some of it by hand but i think a lot of it can be automated s- - by ==
+598.114,599.504,Bmr012-c1,fg|s.%--,,,,oh | one thing i guess i didn't get ==
+599.504,603.304,Bmr012-c1,s^bs,,,,so you know - the language model was straight from - from bigram - from switchboard .

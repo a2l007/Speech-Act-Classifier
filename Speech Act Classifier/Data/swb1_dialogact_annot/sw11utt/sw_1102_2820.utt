@@ -1,0 +1,423 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2820_1074_1028
+TOPIC#:		354
+DATE:		910507
+TRANSCRIBER:	CAP
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:	None.
+
+===========================================================================
+  
+o          A.1 utt1:  Okay.  /
+sd^t          A.1 utt2:  {F Uh, } I really haven't thought about the topic of drug testing.  /
+sv          A.1 utt3: {C But, } {F uh, } just off the top of my head, [ I, + I ] don't think I see much wrong with it.  /
+sv          A.1 utt4: {F Um, } if I owned a company and I wanted to make sure that it was run smoothly and that the people that I had, {F uh, } coming in, {F uh, } were trust worthy, et cetera, and so on, I think [ I would, + I would, ] {F uh, } probably do the random testing just to insure that my company, {F uh, } runs safely and smoothly. /  
+
+b          B.2 utt1:  Yeah.  /
+sd^t          B.2 utt2:  {F Um, } [ I, + I ] also haven't thought too much about it.  /
+sv          B.2 utt3: {F Uh, } {C but } I suspect [ it, + it ] very much depends upon the job. /  
+
+b          A.3 utt1:  Huh-uh. /  
+
+am          B.4 utt1:  Maybe.  /
+sv          B.4 utt2:  There are some jobs where I guess it doesn't really, /  
+
+b          A.5 utt1:  Yeah. /  
+
+sv          B.6 utt1:  {C and } [ [ [ it's, + it's, ] + it's, ] + if it's ] not affecting someone's performance then I'm not sure if it's a problem. /  
+
+b          A.7 utt1:  Yeah. /  
+
+sv@          B.8 utt1:  [ If, + if ] it's a position where it could potentially affect,   *[[slash error]]
+
+aa          A.9 utt1:  That's true  /
+sd          A.9 utt2: I didn't think about that,  /
+sv          A.9 utt3: like for instance,   
+
++          B.10 utt1:  #  ((   ))  [ [ If, + if, ] + if, ] # -/  
+
++          A.11 utt1:  # {F Uh, } if someone's working on # heavy machinery, 
+
+aa          B.12 utt1:  # Right. # /  
+
++          A.13 utt1: # or # say driving trucks or [ buses, + city buses ] or something like that.  /
+sv          A.13 utt2: Then that is something [ that affects the, + that affects the ] community.  /
+sv          A.13 utt3: {D You know, } if [ you're, + you're ] drinking or on drugs or whatever, you're driving a city bus you taking several lives in your hands. /  
+
+aa          B.14 utt1:  Right.  /
+sv          B.14 utt2:  {C And then } if you're a computer operator [ and, + ] {F uh, } there's really no big deal,  /
+sv          B.14 utt3: I think, {D you know, } 
+
+b          A.15 utt1:  # Yeah. # /  
+
++          B.16 utt1:  # that # maybe it's not necessary. /  
+
+sv          A.17 utt1:  {C And } for me, I think that drug testing, it follows the path that society is going in.  /
+sv          A.17 utt2: If more and more people are using drugs then I think that some people have to guard against people that are using drugs. /  
+
+b          B.18 utt1:  Huh-uh. /  
+
+sv          A.19 utt1:  {E I mean, } [ it's just, +  it's just ] where society is right now,  /
+sv          A.19 utt2: {C and } {D you know, } something we have to cope with  /
+sv          A.19 utt3: {C and } I think the drug testing is something that the drug users have to cope with. /  
+
+b          B.20 utt1:  Yeah.  /
+sv          B.20 utt2:  {D Well, } [ [ I think it may, + it may, ] + [ that's in, + in that respect, I think it may ] ] help a lot.  /
+sv          B.20 utt3:  I think it may be [ pushing people, + hopefully push people ] away from drug use,   
+
+b          A.21 utt1:  Yeah. /  
+
++          B.22 utt1:  If they no that, {D you know. } /  *[[spelling:know]]
+
+aa          A.23 utt1:  Yeah,  /
+aap          A.23 utt2: I think that may be. /  
+
+sd          B.24 utt1:  If you use drugs, you won't get the job.  /
+o@          B.24 utt2:  {E I mean, }    *[[slash error]]
+
+sd          A.25 utt1:  That means one of the points of it.  /
+h          A.25 utt2:  Of course [ I think, + {F um, } I'm not sure, ] {D you know, } what the time span is,  /
+sd          A.25 utt3: {C but, } {E I mean, } if I used drugs last week and I had a, {D you know, } job interview that I wouldn't use drugs the day before or  something  /
+sd          A.25 utt4: {C and } they wouldn't even see it.  /
+qy          A.25 utt5:  You know, what I'm saying? /  
+
++@          B.26 utt1:  Yeah.  / *[[slash error]]
+sd          B.26 utt2: I don't know, /  
+
+sd          A.27 utt1:  They may not be able to trace it.  /
+sd          A.27 utt2:  I don't know how far they trace.  /
+sd          A.27 utt3:  I don't know what the, {D you know, } limits are. /  
+
+sd          B.28 utt1:   (( I don't know ))  /
+sd          B.28 utt2: that would actually be an interesting thing to find out, I think.  /
+sd          B.28 utt3:  [ I don't, + I don't ] actually know how long those things stay [ in the blood, + in the system. ]  /
+sd          B.28 utt4:  [ I've heard some, + I've heard some ] things will stay there for six months,  /
+sd          B.28 utt5: some stay for less,  /
+sd         B.28 utt6: some stay for longer. /  
+
+b          A.29 utt1:  Yeah. /  
+
+sd          B.30 utt1:  Things like L S D, I guess, stay forever. /  
+
+%@           A.31 utt1:  {F Um. }   *[[slash error]]
+
+h          B.32 utt1:  In some ways,   /
+sd          B.32 utt2: ((   ))  you get flashbacks for, {F uh, } forever. /  
+
++          A.33 utt1:  {F Oh, } really. /  *[[bh]]
+
+no          B.34 utt1:  [ [ I, + I, ] + I ] guess so. /  
+
+aap          A.35 utt1:  Something like that,  /
+aa          A.35 utt2: yeah. /  
+
+sd          B.36 utt1:   (( {E I mean, } there ))  must be [ [ some, + some, ] + something, ]  /
+sd          B.36 utt2: {E I mean, } people get these little flashback things, {D you know, } 
+
+b          A.37 utt1:  # {F Um. }  #   
+
++          B.38 utt1:  # of # some sort,  /
+sd          B.38 utt2: {C so } I don't really know. /  
+
++          A.39 utt1:  Yeah.  /
+sd          A.39 utt2:  {E I mean, } I don't use any drugs.  /
+sd          A.39 utt3: I don't really drink or anything,  /
+sd          A.39 utt4: {C so }  I'm pretty, {F uh, } {F uh, } I guess, decisive about that,  /
+sd          A.39 utt5: just the fact that since I don't use drugs, I have no problem with taking a test. /  
+
+b          B.40 utt1:  Right.  /
+sv          B.40 utt2:  {D Well, } {D see, } if you actually used drugs at all, -/  
+
+b          A.41 utt1:  # Yeah. # /  
+
+sd          B.42 utt1:  # {C and } # [ I'm, + I'm ] [ at, + at ] most a social drinker, /  
+
+b          A.43 utt1:  # Yeah.  /
+b^r          A.43 utt2:  Yeah. # /  
+
+sd          B.44 utt1:  # {C so } it's # never a problem. /  
+
+sd          A.45 utt1:  {D So } the only thing I would hate is if I were to go and, {F uh, } - /
+sv          A.45 utt2: {E I mean } it's kind of the same thing with the lie detector test.  /
+sv          A.45 utt3:  If you don't have anything to hide, you're not going to mind it.  /
+%@          A.45 utt4: {D You know, } {C but } people that,  *[[slash error with a.47]]
+
+b          B.46 utt1:  # Right. # /  
+
++@          A.47 utt1:  # {D you # know, } don't have anything to hide. - /
+sv          A.47 utt2: {C And then } there are some things that just aren't peoples business,  
+
+aa          B.48 utt1:  # Right.  /
+%          B.48 utt2:  [ [ That, + that, ] + that, ] # -/  
+
++          A.49 utt1:  # that come out at # that point  /
+sv          A.49 utt2: {C so }  I think that a lot of people have trouble with that. /  
+
+sv          B.50 utt1:  {C But, }  
+
+sd          A.51 utt1:  # [ I can, + I can ] understand that.  # /  
+
++          B.52 utt1:  # that's a fine line to draw.  # /  
+
+b          A.53 utt1:  Huh-uh.  /
+b^r          A.53 utt2: Huh-uh. /  
+
+%          B.54 utt1:  {E I mean, } {F uh, } that's really  ((   )) - /
+qh          B.54 utt2: [ do you, + {F uh, }   
+
+b          A.55 utt1:  # Yeah. # /  
+
++          B.56 utt1:  # do # you ] worry about, {D you know, } this or that,  /
+qh          B.56 utt2: {E I mean, } {D you know, } what about the rights,   
+
+b          A.57 utt1:  # Huh-uh.  # /  
+
++          B.58 utt1:  # to # privacy,  /
+qh          B.58 utt2: what  ((   ))  if they're doing something legal,  /
+sv          B.58 utt3: {C but } they would rather have it private,   
+
+aa          A.59 utt1:  # Right. # /  
+
++          B.60 utt1:  # {D you # know. } /  
+
+aa          A.61 utt1:  Right. /  
+
+sv          B.62 utt1:  {D Like, } especially in the case of drinking.  /
+qh         B.62 utt2: {D You know, } if someone is something more than a social drinker, shall we say, yet, they're not an alcoholic, what do you do? /  
+
+b          A.63 utt1:  Yeah.  /
+b^r          A.63 utt2:  Yeah. /  
+
+%          B.64 utt1:  {D So. } -/  
+
+sd          A.65 utt1:  {E I mean, } I took a lie detector once  /
+sd          A.65 utt2: {C and } I didn't mind it,  /
+sd          A.65 utt3: {C but } I was just offended by some of the questions, I guess.  /
+sd(^q)          A.65 utt4: {E I mean, } there was one question, do you like your mother?  /
+qy          A.65 utt5: You know?  /
+sd(^q)          A.65 utt6: I said, yes. /  
+
+x          B.66 utt1:  <Laughter>.   
+
+^q          A.67 utt1:  Do you hate your mother?  /
+^q          A.67 utt2: No.  /
+^q          A.67 utt3: Have you ever killed your mother?  /
+sd(^q)          A.67 utt4: {C And } I was going, {D you know, } 
+
+ba          B.68 utt1:  {D Well, } those are just, - /
+b          B.68 utt2: yeah, /  
+
++          A.69 utt1:  What in the world. /  
+
+sv          B.70 utt1: [ [ Those are just to get, + probably to get  some sort of, ] + those are to get ] the shock value out of you.   /
+sv@          B.70 utt2: {C Or } just to see,   *[[slash error?]]
+
+qy          A.71 utt1:  # Is that what it was? # /  
+
++          B.72 utt1:  #  ((   ))  Shock.  /
+sd          B.72 utt2:  [ I do # some, + I'm ] a graduate student in Psych. /  
+
+bk          A.73 utt1:  {F Oh, } okay. /  
+
+sd          B.74 utt1:  {C And } we sort of, {D you know, } figure out, - /
+sd          B.74 utt2: {F um, } I know a little bit about that kind of stuff. / 
+
+b          A.75 utt1:  Huh-uh. /  
+
+sd         B.76 utt1:  What they're trying to do there is, they want to sort of get a base line measure for you, {D you know. }  /
+sd         B.76 utt2:  How is it that when you see these things [ [ [ {C and, } + {D you know, }   
+
+b          A.77 utt1:  # Huh-uh.  # /  
+
++          B.78 utt1:  # {C and, } ] + # {C and, } ] + {C and, } ] -/  
+
+sd^2          A.79 utt1:  # [ Kind of get, + #  
+
+x          B.80 utt1:  #  ((   )) . #   
+
++          A.81 utt1:  Kind of get ] something to measure my responses by. /  
+
+b          B.82 utt1:  Yeah.  /
+sv          B.82 utt2:  {C But } with them they have no idea if you're just sort of jumping,
+
+b          A.83 utt1:  # Yeah. # /  
+
++          B.84 utt1:  # around # and being fidgety, /  
+
+b          A.85 utt1:  # Yeah. # /  
+
+am          B.86 utt1:  # Maybe #  ((   )) .  /
+sv          B.86 utt2: It can be shocking  /
+sv          B.86 utt3: {C and, }
+
+aa         A.87 utt1:  # Yeah  /
+x          A.87 utt2: <laughter>.  #   
+
++          B.88 utt1:  #  ((   ))  # shock you. /  
+
+sd          A.89 utt1:   ((   ))  they ask why I was going,  /
+^q          A.89 utt2: what in the world are you asking me about here.  /
+qy^d@          A.89 utt3:  {D You know. }   *[[slash error]]
+
+ny          B.90 utt1:  Yeah. /  
+
++          A.91 utt1:  {C But } I guess, I don't know, some people have probably killed their mothers.  /
+h          A.91 utt2: I don't know <laughter>. /  
+
+aa          B.92 utt1:  <Laughter>  Yeah,  /
+h         B.92 utt2: {D well, } I guess so,  /
+h          B.92 utt3: {E I mean, } I guess, I don't know [ how, + what ] actually happens [ if, + {F uh, } if ] you have killed your mother <laughter>. /  
+
+b          A.93 utt1:  <Laughter>  Yeah  /
+x          A.93 utt2:  ((   )) .   
+
+sv          B.94 utt1:  Big jump there.  /
+qy^d@          B.94 utt2:  {D You know. }   *[[slash error]]
+
+b          A.95 utt1:  Yeah. /  
+
++          B.96 utt1:  {C But, } yeah,  /
+sv          B.96 utt2: I think it's their way of saying how well you do,
+
+b          A.97 utt1:  # Huh-uh.  # /  
+
++          B.98 utt1:  # in # a shock situation without worrying about,
+
+b@          A.99 utt1:  # Huh-uh.  #   *[[slash error]]
+
++          B.100 utt1:  # stuff # like that.   /
+%@          B.100 utt2: {D So, }    *[[slash error]]
+
++          A.101 utt1:  I never thought about that,  /
+ba          A.101 utt2: that makes me feel a little better <laughter>. /  
+
++          B.102 utt1:  <Laughter>.   
+
+sd          A.103 utt1:  Of course, that was years and years ago. /  
+
+b          B.104 utt1:  Yeah. /  
+
+o@          A.105 utt1:  {C And } [ I, +    *[[slash error]]
+
+b          B.106 utt1:  Yeah,  /
+sd          B.106 utt2: {C and } I don't think that you killed your mother though,  /
+sv          B.106 utt3: I wouldn't worry about that. /  
+
++@          A.107 utt1:  I ] don't think [ that some, + {E I mean, } there are some ] people, {E I mean, } - /
+sv          A.107 utt2: {C because } in society a lot of people are taking drugs.  /
+sv          A.107 utt3:  There is also people that are getting off drugs and trying to do better with their lives.   /
+sv          A.107 utt4: {C But } they take a lie detector test or a drug test, or whatever  /
+sv          A.107 utt5: {C and } the stuff that happened to them, {D you know, } five years ago comes up  /
+sv          A.107 utt6: {C and } it spoils their chances for just making it a little better.  /
+sv          A.107 utt7: {D You know, } when they might be actually trying to,
+
+b          B.108 utt1:  # Yeah. # /  
+
++          A.109 utt1:  # improve # their lives. /  
+
+b          B.110 utt1:  Yeah.  /
+sv          B.110 utt2:  That's, {F uh, } {D you know, } [ it, + it ] could blow things right away for them, {D you know. } /  
+
+b          A.111 utt1:  Huh-uh. /  
+
+sv(^q)          B.112 utt1:  [ [ Unless they say, + {D well, } {D look, } unless they walk in, ] + they could walk in ] and  say, look, I did do drugs a year ago, /  
+
+b@          A.113 utt1:  # Huh-uh.  #   *[[slash error]]
+
+^q          B.114 utt1:  # {C and } # I'm off them for a year now. /  
+
++          A.115 utt1:  Huh-uh. /  
+
+^q          B.116 utt1:   ((   ))  I'll be happy to take the test,  /
+^q          B.116 utt2: {C but } it will show up positive. /  
+
+b          A.117 utt1:  Yeah.  /
+b^r          A.117 utt2:  Yeah. /  
+
+%          B.118 utt1:  versus, /  
+
+sd          A.119 utt1:  I would probably do that.  /
+sd         A.119 utt2:  {C And } I would probably bring something in showing that I had been to such and such hospital for help or, {D you know, } 
+
+b          B.120 utt1:  # Yeah. # /  
+
++          A.121 utt1:   # Whatever # the twelve month program.  /
+sd          A.121 utt2:  {C Or } whatever it is that they do. /  
+
+b          B.122 utt1:  Yeah.  /
+sv          B.122 utt2:  [ Because, {E I mean } then, + although then, ] they can't legally discriminate, I think on the basis  ((   )) . /  
+
+b          A.123 utt1:  Huh-uh. /  
+
+sd          B.124 utt1:  {C But } I don't really know.  /
+sd          B.124 utt2:  I don't know what the laws are pertaining to this. /  
+
+b          A.125 utt1:  Yeah.  /
+b^r          A.125 utt2:  Yeah. /  
+
+sd          B.126 utt1:  My wife probably does. /  
+
+sd          A.127 utt1:  I'm not sure what they are either. /  
+
+%          B.128 utt1: [ I don't, + I don't ]  ((   )) . -/  
+
+b          A.129 utt1:  Yeah. /  
+
+sd^t          B.130 utt1:  {C But, } it's an interesting topic that I never actually thought about  ((   )) . /  
+
+b^t          A.131 utt1:  Yeah.  /
+sd^t          A.131 utt2:  The other day we had talked about, {F uh, } capital punishment. /  
+
+b          B.132 utt1:  {F Oh, } I  ((   )) . -/  
+
+sd^t          A.133 utt1:  {C And } I really, really hadn't thought about it.  /
+sd          A.133 utt2:  {E I mean, } I think about it because I hear about it,  /
+sd(^q)          A.133 utt3: {C but } I hadn't had to sit down [ and, + and ] well, what do I think about it <laughter>.  /
+sd^t          A.133 utt4:  {D You know, } {C and } that's kind of like today.  /
+sd          A.133 utt5:  I'm not real sure what I think about it.  /
+sd          A.133 utt6: I'm kind of, {D you know, } in the middle on that one. /  
+
+aa          B.134 utt1:  Yeah.  /
+bf          B.134 utt2:  {D Well, } these are tough.  /
+sd          B.134 utt3: I sort of like that stuff,  /
+sv          B.134 utt4: it makes you think. /  
+
+b          A.135 utt1:  Huh-uh.  /
+aa          A.135 utt2: Really,  /
+aa         A.135 utt3: really. /  
+
+sv          B.136 utt1:  {C So } I think that's real good. /  
+
+o          A.137 utt1:  Okay.  /
+fc          A.137 utt2: It was very nice talking to you. /  
+
+fc          B.138 utt1:  Nice talking to you to. /  
+
+fc          A.139 utt1:  Okay.  /
+fc         A.139 utt2: Take care. /  
+
+fc          B.140 utt1:  Bye-bye. /  
+
+fc          A.141 utt1:  Bye-bye. / 

@@ -1,0 +1,392 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2759_1232_1053
+TOPIC#:		354
+DATE:		910501
+TRANSCRIBER:	DLB
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	3
+ECHO_FROM_B:	4
+ECHO_FROM_A:	4
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        All throughout the tape there was a very faint noise.  
+It was not constant.  I marked the places where I could definitely hear
+it.  
+
+===========================================================================
+  
+
+o          A.1 utt1:  All right. /  
+
+qy          @B.2 utt1:  Have you ever been drug tested? /  
+
+nd          A.3 utt1:  {F Um, } that's a good question.  /
+sd          A.3 utt2: {F Um, }    
+
+x          B.4 utt1:  # <Laughter>.  #   
+
++          A.5 utt1:  # I # had a job I had to go get a blood test for. /  
+
+b          B.6 utt1: Uh-huh. /  
+
+%          A.7 utt1:  {F Um, } /  
+
+x          B.8 utt1:  # <Throat_clearing>.  #   
+
+sd          A.9 utt1:  # [ {C and, } +  # {C and } ] they did a full blood screen <noise>  on me,  /
+sd          A.9 utt2: {C but } they didn't call that a drug test.  /
+%          A.9 utt3: {D So }  tha-, - /
+sd          A.9 utt4: I think they  checked for drugs.  /
+sd          A.9 utt5: They just don't <noise>  tell you they did. /  
+
+b          B.10 utt1:  Yeah. /  
+
+x          A.11 utt1:  <Throat_clearing>.   
+
+sd          B.12 utt1:  [ I had, + I've had, ] {F uh, } <noise>  <<faint>> two or three drug tests that I had to get before I could start working at [ a job </noise>  -- +    
+
+b          A.13 utt1:  Uh-huh. /  
+
++          B.14 utt1:  -- {F uh, } different jobs. ]  /
+sd          B.14 utt2: I had one at T I and then one at another engineering company.  /
+sd          B.14 utt3: {C And, }  really,  {E I mean, } I don't mind them. /
+sd          B.14 utt4:  I don't do drugs anyway.  /
+sd          B.14 utt5:  I guess if I did, maybe I would  /
+h          B.14 utt6:  {C but, }  <breathing> {F um, } I don't know.  /
+sd          B.14 utt7:  I know a girl that, she's a nurse,  /
+sd          B.14 utt8:  {C and } they get drug tested randomly.  /
+sd          B.14 utt9: I've,   
+
+b          A.15 utt1:  # Uh-huh.  # /  
+
++          B.16 utt1:  # never # been randomly <noise>  drug tested.  /
+sd          B.16 utt2:  {C But } that would probably bother me to wake up <noise>  one day and find out halfway through the day that you're going to be drug tested  and you didn't know about it. /  
+
+b          A.17 utt1:  Yeah <<pause>> <noise>.  /
+sv          A.17 utt2:   {D Well, } I guess it depends on if you got something to worry about <throat_clearing>. /  
+
+aa          B.18 utt1:  Yeah.  /
+sv          B.18 utt2: I guess so.  /
+sv^r          B.18 utt3:  <breathing>  <<Exhales deeply while saying the first I guess so>> <breathing>  I guess so <<pause>>.  /
+qy          B.18 utt4:  Do you think that it's right? /  
+
+nd          A.19 utt1:  {D Well, } [ [ I, + I, ] + I ]  come from kind of a biased opinion because I'm [ a, + a ] therapist and a drug and alcohol counselor. /  
+
+b          B.20 utt1:  Uh-huh. /  
+
+sd          A.21 utt1:  {C And } I've done employee assistant work  /
+sd          A.21 utt2:  {C and } [ I, +  I ] know the kind of cost businesses go through in terms of accidents,   
+
+b          B.22 utt1:  # Right.  # /  
+
++          A.23 utt1:  # on # the job that are specifically drug and alcohol <noise>  related, /  
+
+b          B.24 utt1: Right. /  
+
+sd          A.25 utt1:  {C and } it's {D like } in the billions of dollars every year.    {F Um, }  /
+sd          A.25 utt2: {C and } [ th-, + the ] only way that they can prevent that [ is, +   <noise>  is, ] {D you know, } making sure that the employees are drug and alcohol free. /  
+
+aa          B.26 utt1: That's true. /  
+
+sv          A.27 utt1:  {C And, } {D you know, } [ the, + the ]  problem in the work place is [ that, +  that ] people are, - /
+sv          A.27 utt2:  {D like }  if your boss is your drinking buddy  or whatever, {E I mean, }  you can [ come to, +  come to ] work drunk and get in an accident  /
+sv          A.27 utt3:  {C and } he'll cover up for you  /
+sv          A.27 utt4: {C and, }   
+
+b          B.28 utt1:  # Right.  # /  
+
++          A.29 utt1:  # nobody # knows about it,  /
+sd          A.29 utt2:  {C but } [ c-, + {D you know, } ends up costing  ] the company lots and lots of money. /  
+
+aa          B.30 utt1:  That's true. /  
+
+%          A.31 utt1:  {D So, } -/  
+
+sv          B.32 utt1:  # I believe, #   
+
+%         A.33 utt1:  #  (( {D you know } )) , # -/  
+
++          B.34 utt1:  it's right,   
+
+x          A.35 utt1:  <Throat_clearing>.   
+
++          B.36 utt1:  especially for certain jobs.  /
+sv          B.36 utt2:   I think anyone [ in a, + in a ] public job like bus drivers, and cab drivers, and --   
+
+b          A.37 utt1:  Uh-huh. /  
+
++          B.38 utt1:  -- police officers, and <noise> things like that, - /
+sv          B.38 utt2:  I think they should be --   
+
+b          A.39 utt1:  Yeah. /  
+
++          B.40 utt1:  -- randomly drug tested.  /
+sv          B.40 utt2: I believe,   
+
+b          A.41 utt1:  # Yeah.  # /  
+
++          B.42 utt1:  # full # force in that.  /
+sv          B.42 utt2:  I don't know that I believe every secretary in every company needs to be. /  
+
+aa          A.43 utt1:  True. /  
+
+sv          B.44 utt1:  {D You know, } secretaries [ aren't, +   aren't ] really going to cost the company that much money if they fall face forward in their typewriter  or something.  /
+h          B.44 utt2: {C So, } <laughter> I don't know.  /
+sd          B.44 utt3: [ I, + I'm ]  kind of biased, too, because I don't do drugs  /
+sd          B.44 utt4: {C and,    
+
+b          A.45 utt1:  # Uh-huh.  # /  
+
++          B.46 utt1:  # so, } # I really don't care one way  or another if anybody wants to pull me up tomorrow and test me.    
+
+b          A.47 utt1:  Yeah. /  
+
++          B.48 utt1:  Because I have nothing to worry about.  /
+sd^r          B.48 utt2:  {C So, }  I guess that's kind of biased. /  
+
+b          A.49 utt1:  Yeah.  /
+%          A.49 utt2: {D Well, } there, - /
+sv          A.49 utt3: it's,  [ I, +  I ] think one of the problems with it is it affects a lot of other folks on the job --   
+
+aa          B.50 utt1:  Yeah.  /
+aa          B.50 utt2: It does. /  
+
++          A.51 utt1:  -- if somebody else is impaired.  /
+sv          A.51 utt2:   {C Because, }  ((   ))  generally you know it.  /
+sv          A.51 utt3: {F Uh, } you find out one way  or another if somebody's got a problem on the job. /  
+
+aa          B.52 utt1:  Yeah.  /
+aa          B.52 utt2: That's true. /  
+
+sv           A.53 utt1:  {C And } [ [ if, e-, +  even if, ] +   like you say, even if ] it's just the secretary,  /
+sv          A.53 utt2: if her work or abilities start affecting her co-workers --   
+
+b          B.54 utt1:  Yeah. /  
+
++          A.55 utt1:  -- then [ it, +  it's ] still a problem. /  
+
+aa          B.56 utt1:  That's true. /  
+
+%          A.57 utt1:  {D So, } -/  
+
+qw          B.58 utt1:  {C But, }  what do you do about,   
+
+x          A.59 utt1:  # <Throat_clearing>.  #   
+
++           B.60 utt1:  # the # occasional user that may have  gone to a party three days before  /
+sd          B.60 utt2: {C and, } {D you know, } [ it's, + it's ]  been the whole weekend since they've done anything  /
+sd          B.60 utt3: {C and } they happen to be tested Monday morning  /
+qy^d          B.60 utt4:  {C and } they could be fired for that? <<pause>> /
+sv          B.60 utt5: {D You know, } [ that, + that's ] kind of unfair, also. /  
+
+aa          A.61 utt1:   (( {D Well, } yeah )) .  /
+sv          A.61 utt2: I guess it comes with the turf. /  
+
+aa          B.62 utt1:  Yeah.  /
+sv          B.62 utt2: I guess so.  /
+sv          B.62 utt3: I  guess if you're  going to do it you need to suffer the consequences <laughter>. /  
+
+b          A.63 utt1:  Yeah.  /
+fe          A.63 utt2:  Man.  /
+sd          A.63 utt3: {C And, }  in terms <noise>  of drugs, they're illegal.  /
+sd          A.63 utt4: {C So } [ you're, +   
+
+aa          B.64 utt1:  # That's true.  # /  
+
++          A.65 utt1:  # you're  ] breaking # the law anyway. /  
+
+aa          B.66 utt1:  That's true. /  
+
+sv          A.67 utt1:  Probably [ the, + the ]  biggest problem with those is they don't do a real good job [ of, + of ] assessing for alcohol. /  
+
+aa          B.68 utt1:  That's true. /  
+
+sv          A.69 utt1:  {C And } that's probably the biggest problem there is # <throat_clearing>. # /  
+
+aa          B.70 utt1:  # Yeah. #  /
+sv          B.70 utt2: I think so, more than drugs <throat_clearing>.  /
+sd          B.70 utt3:   {C And } I know a lot of companies that will <noise> put you in an alcohol rehabilitation before they would put you in a drug rehab. /  
+
+b          A.71 utt1:  # Yeah. # /  
+
+sd          B.72 utt1:  # They #  would pay for an alcohol -- /  
+
+b          A.73 utt1:  Uh-huh. /  
+
+sd          B.74 utt1:  -- {C but } they don't always pay for drug rehabilitation. /  
+
+sv          A.75 utt1:  {D Well, } I guess that's one of the  positive things that [ ha-, + have ] come out of it, some of the employee assistance program.  /
+sd          A.75 utt2:   If you do test positive <noise> for something --   
+
+b          B.76 utt1:  Yeah. /  
+
++          A.77 utt1:  -- they will give you an [ [ op-, +  o-, ] +   opportunity ] to go get your life straight rather than to lose you're job. /   *[[you're -> your]]
+
+aa          B.78 utt1:  That's true. /  
+
+%          A.79 utt1:  {C And } I, -/  
+
+sv          B.80 utt1:  # I, #   
+
+%          A.81 utt1:  # th-, # -/  
+
++          B.82 utt1:  think that's fair. /  
+
+aa          A.83 utt1:  Yeah,  /
+sv          A.83 utt2: I think [ the benef-, + the company benefits ]  in the long run. /  
+
+aa          B.84 utt1:  Yeah <<pause>>.  /
+aa          B.84 utt2: That's true <<pause>>.  /
+sd^t          B.84 utt3:  That's about all I have,   
+
+x          A.85 utt1:  # <Throat_clearing>.  #   
+
++          B.86 utt1:  # to # say <noise>  on it <laughter>. /  
+
+qw          A.87 utt1:  [ What, +  what ] kind of testing do they do when you went? /  
+
+sd          B.88 utt1:  {F Uh, } it's a urine test. /  
+
+b^m          A.89 utt1:  Urine screen. /  
+
+%          B.90 utt1:  {C And, }   
+
+b          A.91 utt1:  # Yeah, # /  
+
++          B.92 utt1:  # they, # {F uh, } - /
+sd          B.92 utt2: it was really very official.  /
+sd          B.92 utt3:   You have to go in a room solely by yourself, sign papers that say  you were totally alone, sign papers that <noise> say this is yours, /  
+
+x          A.93 utt1:  <Throat_clearing>.   
+
+sd          B.94 utt1:  [ {C and, } + {C and } ] you have to seal  the bottle yourself and label it yourself and,    
+
+b          A.95 utt1:  Uh-huh. /  
+
++          B.96 utt1:  all of that.  /
+sd          B.96 utt2:  So that they're sure that  you haven't borrowed anybody's, I guess, or something. /  
+
+sd          A.97 utt1:  {D Well, } that happens. /  
+
+aa          B.98 utt1:  Yeah.  /
+sd          B.98 utt2: I know, /  
+
+x          A.99 utt1:  # <Laughter>.  #   
+
+sv          B.100 utt1:  # [ I # ca-, + it's hard ] to believe, /  
+
+sd          A.101 utt1:  It happens a lot. /  
+
+sv          B.102 utt1:  {C but } I guess it does <laughter>. /  
+
+sd          A.103 utt1:  [ There, + there ] are people that  [ n-, + ] pay other people [ to + <laughter>,   
+
+aa          B.104 utt1:  # I know.  /
+sd          B.104 utt2: I'm amazed, #   
+
++          A.105 utt1:  # to  ] help them out.  # /  
+
++          B.106 utt1:  at the things people,   
+
+x          A.107 utt1:  <Throat_clearing>.   
+
++          B.108 utt1:  will do. /  
+
+b          A.109 utt1:  Yeah. /  
+
+sv          B.110 utt1:  It is amazing.  /
+sd          B.110 utt2:  I guess there are  people that do that.  /
+sv          B.110 utt3: {C And } [ they are, + those are ] expensive tests. /
+sd          B.110 utt4:  I'm,   
+
+b          A.111 utt1:  # Yeah.   # /  
+
++          B.112 utt1:  # glad # I never had to pay for one. /  
+
+b          A.113 utt1:  Yeah.  /
+sd          A.113 utt2: It depends [ [ r-, +  r-, ] +  really ]  on [ how, + how ] strong a test it is.  /
+sd          A.113 utt3:  They've got different degrees,   
+
+aa          B.114 utt1:  # Yeah.  /
+sv          B.114 utt2:  I guess so. # /  
+
++          A.115 utt1:  # as far [ as, +  as # ]  how far back they can check.  /
+sd          A.115 utt2: They got some unusual things besides blood and urine tests.  /
+sd          A.115 utt3:  They've  ((   ))  some companies that are doing, {F uh, } hair tests. /  
+
+bh          B.116 utt1:  {F Oh, } really? /  
+
+ny          A.117 utt1:  Yeah.  /
+%          A.117 utt2:  {D Well, } that, - /
+sd          A.117 utt3:  they'll pull out one of your hairs  /
+sd          A.117 utt4: {C and } they can apparently test, {F um, } <noise> back a certain period of time.    
+
+ba          B.118 utt1:  How weird.  /
+sd          B.118 utt2:  I didn't <noise>  know that. /  
+
++          A.119 utt1:  Because  ((   ))  some of [ the, + the ]  residue ends up in your hair follicles, {D you know, }  /
+%          A.119 utt2:  it's kind of, -/  
+
+ba          B.120 utt1:  {F Oh, } that's weird. /  
+
+sd          A.121 utt1:  Hair follicles, I guess, are just dead protein  /
+%          A.121 utt2:  {C and } they, -/  
+
+b          B.122 utt1:  Yeah. /  
+
+sd          A.123 utt1:  <Breathing>  {C And } [ it, +  it's ] apparently [ al-, +  almost ] like [ a, + a ] calendar.  /
+sd          A.123 utt2:  [ They, +  they've ] got it pretty precise now. /
+sd          A.123 utt3:   They can go back and look at, in terms of growth [ in a, + in a ] hair, when you used  [ and, + and ] that type of thing. /  
+
+ba          B.124 utt1:  That's wild. /  
+
+%          A.125 utt1:  {D So } <<whispering>>, -/  
+
+sv          B.126 utt1:  It's amazing the things <noise> they can find out from different things <noise> on your body. /  
+
+aa          A.127 utt1:  Yeah <noise>.  /
+sv          A.127 utt2: {C So, }  I guess  if they perfect that  ((   )) is not quite as cumbersome as having to go fill a bottle or --   
+
+aa          B.128 utt1:  Yeah.  /
+aa          B.128 utt2: That's true <laughter>. /  
+
++          A.129 utt1:  -- give blood or something like that. /  
+
+aa          B.130 utt1:  <Laughter>  That's true.  /
+sd          B.130 utt2:  I'm glad I never had to do it by giving blood.  /
+sd          B.130 utt3: <noise>  I can't stand the thought of giving blood. /  
+
+b          A.131 utt1:  Uh-huh. /  
+
+sd          B.132 utt1:  I can't even do it for Wadley,  even though it's a good cause <laughter>. /  
+
+b          A.133 utt1:  Yeah. /  
+
+fc          B.134 utt1:  <<Pause>> {D Well, } I enjoyed talking to you. /  
+
+fc          A.135 utt1:  {D Well, } I did, too. /  
+
+ft          B.136 utt1:  Thank you. /  
+
+fc          A.137 utt1:  Uh-huh. /  
+
+fc          B.138 utt1:  Bye-bye. /  
+
+fc          A.139 utt1:  Bye-bye. / 

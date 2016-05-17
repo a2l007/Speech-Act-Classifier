@@ -1,0 +1,68 @@
+Classmap 3
+
+
+
+fg*|s*    FG|S
+fh*|s*    FH|S
+h*|s*     H|S
+
+fg*|qy*   FG|QY
+fg*|qw*   FG|QW
+fg*|qrr*  FG|QRR
+fg*|qr*   FG|QR
+fg*|qo*   FG|QO
+fg*|qh*   FG|QH
+
+fh*|qy*   FH|QY
+fh*|qw*   FH|QW
+fh*|qrr*  FH|QRR
+fh*|qr*   FH|QR
+fh*|qo*   FH|QO
+fh*|qh*   FH|QH
+
+h*|qy*    H|QY
+h*|qw*    H|QW
+h*|qrr*   H|QRR
+h*|qr*    H|QR
+h*|qo*    H|QO
+h*|qh*    H|QH
+
+s*|s*     S|S
+
+s*|qy*    S|QY
+s*|qw*    S|QW
+s*|qrr*   S|QRR
+s*|qr*    S|QR
+s*|qo*    S|QO
+s*|qh*    S|QH
+
+qy*|s*    QY|S      
+qw*|s*    QW|S 
+qrr*|s*   QRR|S 
+qr*|s*    QR|S 
+qo*|s*    QO|S 
+qh*|s*    QH|S 
+
+s*        S
+br*       S
+
+qy*       QY
+qw*       QW
+qrr*      QRR
+qr*       QR
+qo*       QO
+qh*       QH
+
+fg*       FG
+fh*       FH
+h*        H
+
+b*        B
+
+*%*       D
+*%-       D
+*%--      D
+
+*x        X
+
+z         Z

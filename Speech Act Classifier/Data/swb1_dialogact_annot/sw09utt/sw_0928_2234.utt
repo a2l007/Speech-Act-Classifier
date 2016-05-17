@@ -1,0 +1,297 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2234_1148_1094
+TOPIC#:		340
+DATE:		910325
+TRANSCRIBER:	CAP
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+sd          A.1 utt1:  {D Well, } my family moved to Texas about eight years ago.  /
+sd          A.1 utt2:  My husband was raised here, by - /
+sd          A.1 utt3: [ I, + I ] have never lived here,  /
+sd          A.1 utt4: {C so, } {F um, } when we came back to Texas, I was really kind of excited.  /
+sd          A.1 utt5:  There wasn't a state income tax  /
+sd          A.1 utt6: {C and } there wasn't a tax on food that we purchased at [ the, + the ] grocery store and  things. /  
+
+b          B.2 utt1:  Huh-uh. /  
+
+sd          A.3 utt1:  {C And } all of that was new to me,  /
+sd          A.3 utt2:  {C because } I'm sort of feeling like we're getting a better deal here <laughter>, than what I was accustomed to. /  
+
+b          B.4 utt1:  Yeah.  /
+qy          B.4 utt2:  Did you move from the Northeast? /  
+
+nd          A.5 utt1:  {D Well, } I lived in Missouri and then in Utah  /
+sd          A.5 utt2: {C and } [ them, + {F um, } both ] places had pretty good state income tax.  /
+sd          A.5 utt3: {C And, } {F um, } we've always paid tax, {D you know, } on everything we purchased, even food at the grocery store.  /
+sd          A.5 utt4:  {C So, } I thought it was really, {D you know, } kind of a pretty good deal not to have to pay tax on your groceries  /
+sd          A.5 utt5: [ {C and, } + {C but, } ] [ I think, + {E I mean, } I don't enjoy ] paying taxes.  /
+sv          A.5 utt6:  {C And } it's hard,  /
+sv          A.5 utt7: {C but, } {F um, } I think that is what we have to [ have, + {D you know, } have ] our streets and [ have, + have ] our government [ [ and + <throat_clearing>.  {E Excuse me. }  And  have, ] + and have ] the services that we need  /
+sv          A.5 utt8: {C and } we have to pay for them and pay for the employment of the people that run them [ and, + and ] things like that  /
+sv          A.5 utt9: {C and } I think, I guess, what I feel is that most people, {F um, } they don't like to pay taxes because they feel like there's some people that aren't paying their fair share. /  
+
+aa          B.6 utt1:  Yeah.  /
+%          B.6 utt2:  I think, - /
+aa^r          B.6 utt3: yeah. /  
+
+sv          A.7 utt1:  {C And, } {F um, } that makes you feel bad. /  
+
+sv          B.8 utt1:  People that can really influence the government have all the money to throw. /  
+
+aa          A.9 utt1:  Right.  /
+sd          A.9 utt2:  {C And } {D you know, } [ when, + {F um, } when ] last year the elections were going, on the governors election and state and, {D you know. } - /
+sd          A.9 utt3: [ I, + I ] didn't have anything against Clayton Williams personally or anything,  /
+sd          A.9 utt4: {C but, } {F um, } it was kind of hard for me to think, here's someone as wealthy as he is,  /
+sd          A.9 utt5: didn't have to pay any income tax.  /
+%          A.9 utt6: That he said that year, - /
+sd          A.9 utt7: he claimed, [ he had, + he didn't have ] to pay income tax  /
+%          A.9 utt8: {C and } he thought, {D you know, } - /
+sv         A.9 utt9: there's some people are living [ pretty, + pretty ] good life styles,  /
+sv          A.9 utt10: {C but } they're not paying income tax.  /
+sv          A.9 utt11: {C And } that's not fair,   
+
+aa          B.10 utt1:  No. /  
+
++          A.11 utt1:  to me.  /
+sv          A.11 utt2:  {C And } there's, {D you know, } some people, {D you know, } who are abusing the systems that we pay taxes to support  /
+sv          A.11 utt3: {C and } all that makes us feel bad.  /
+sd          A.11 utt4:  {C But } I think, all in all, how I feel, is that, {F um, } I'm willing to pay the taxes because I think I like our country compared to the other countries I've studied and visited.  /
+sd          A.11 utt5:  {C And } I'm willing to pay extra to live here and to enjoy the services that I enjoy.  /
+qo          A.11 utt6:  How do you feel? /  
+
+b          B.12 utt1:  {D Well, } yeah.  /
+aa          B.12 utt2:  I agree that you have to pay taxes for the services you get  /
+sv          B.12 utt3: [ {C and, } +   
+
+b          A.13 utt1:  Huh-uh. /  
+
++          B.14 utt1:  {C and } ] [ I think that, + {D you know, } I don't think that ] there's [ any really, + any system ] that everybody would think is fair, as far as, being taxed. /  
+
+b          A.15 utt1:  Huh-uh. /  
+
+%          B.16 utt1:  {C So, } I guess, in Texas with, - /
+sd          B.16 utt2: we live here also, /  
+
+b          A.17 utt1:  Huh-uh. /  
+
+sv          B.18 utt1:  and that it's mostly sales tax, - /
+sv          B.18 utt2: {C so } [ it's, + ] really the people that have money to buy things are paying the more because they're paying the sales tax on the larger items that they buy and stuff. /  
+
+b          A.19 utt1:  Huh-uh. /  
+
+sd          B.20 utt1:  I've lived in Texas most of my life.  /
+sd          B.20 utt2:  We, {F um, } lived in Kansas City for a couple of years,  /
+sd          B.20 utt3: {C and } we were kind of in for a rude awakening.  /
+sd          B.20 utt4:  They had personal property taxes on {D like } cars  /
+sd          B.20 utt5: {C and, } the first year we were there it was kind of like, eight hundred dollars, /  
+
+ba          A.21 utt1:  {F Oh, } no. /  
+
+sd          B.22 utt1:  {C And } we're {D like }  ((   )) .  /
+sd          B.22 utt2: My husband says I used to complain to pay sixty dollars to get licensed in Texas  /
+%          B.22 utt3: {C and } now,   
+
+x          A.23 utt1:  <Laughter>.   
+
++          B.24 utt1:  {D you know, } -/  
+
+b          A.25 utt1:  Huh-uh. /  
+
+sd          B.26 utt1:  {C So, } {E I mean, } that was kind of different  /
+sd          B.26 utt2: {C and then } to file [ a, + a ] state income tax, was also kind of tough, too.  /
+sd          B.26 utt3:  I guess, since we've been married, we've moved a lot,  /
+sd          B.26 utt4: {C so } it always seems like, {D you know, } we're always paying taxes for something. /  
+
+x          A.27 utt1:  <Laughter>.   
+
+sd          B.28 utt1:  {C And } it was kind of nice this year to finally be able to get a little money back.  /
+sd          B.28 utt2:  {C But, }   
+
+b          A.29 utt1:  Huh-uh. /  
+
++          B.30 utt1:  I, {F um, } have a accounting background,  /
+sd          B.30 utt2: {C so } I then, have also done tax returns in the past for other people when I worked for an accounting firm. /  
+
+b          A.31 utt1:  Huh-uh. /  
+
+sv          B.32 utt1:  {C And, } {F uh, } {D you know, } it is kind of sad to see how the people that have the resources to hire somebody and have the money to spend to put there money in  places, they don't have to pay taxes. /  
+
+b          A.33 utt1:  Right. /  
+
+sv          B.34 utt1:  Or to buy something that loses money so that they can offset the income that they get or whatever. /  
+
+b          A.35 utt1:  Yeah. /  
+
+sd          B.36 utt1:  {C So, } {D you know, } [ I think, if, + I can understand ] why the rich people don't want to pay,   
+
+b          A.37 utt1:  Huh-uh. /  
+
++          B.38 utt1:  {D you know, } a [ large, + large ] percent  /
+sv          B.38 utt2: {C because, } {D you know, } that's not really fair, either.  /
+sv          B.38 utt3: If they've earned money by themselves, {D well, } {D you know, } people just kind of  (( given ))  the money, /  
+
+aa          A.39 utt1:  Yes. /  
+
+sv          B.40 utt1:  it's kind of depressing sometimes, I think. /  
+
+aa          A.41 utt1:  {D Well, } it is,  /
+sv          A.41 utt2: {C and } sometimes, I think, {F um, } {D well, } for myself, that income that we have, we pay a certain salary,  /
+sv          A.41 utt3: {C but, } I think the employer keeps in mind this will be deducted, {D you know, }  /
+sv          A.41 utt4: [ so, + so ] many taxes will be deducted from it  /
+sv          A.41 utt5: {C and so, }  I think, {D you know, } our salaries are a little bit higher because we have to pay taxes on it. /  
+
+b          B.42 utt1:  Yeah. /  
+
+sv          A.43 utt1:  {C And so, } I think, {D you know, } in that way, we're compensated, {F um, } just by our society.  {F Um, }  /
+sv          A.43 utt2: yet, {D you know, } they don't pay you, {F um, } [ what, + just what ] it would take,  /
+sv          A.43 utt3: {C and } if you pay taxes on it, you wouldn't have any money left over.  /
+sv          A.43 utt4:  [ [ {C And, } + {C and, } ] + {F um, } {C but } ] some of the people that make a great deal of money and everything  [ I wish that they would, + {A I guess, because I'm not one of them <laughter>, }   
+
+aa          B.44 utt1:  {D Well, } yeah,  /
+aa          B.44 utt2: that's true <laughter>. /  
+
++          A.45 utt1:  I wish that they would, ] {D you know, } realize that [ they, + they ] couldn't make this kind of money,  /
+sv          A.45 utt2: they couldn't live that kind of life style anywhere else. /  
+
+b          B.46 utt1:  Yeah. /  
+
+%          A.47 utt1:  In that, - /
+sd          A.47 utt2: even if they made that kind of money, there's some countries that have {D like, } fifty percent income tax, {D you know, } that have,   
+
+b          B.48 utt1:  Yeah. /  
+
++          A.49 utt1:  socialized medicines and things that, - /
+sd          A.49 utt2: [ they, + {F um, } they ] wouldn't be able to enjoy the  ((   ))  in that.  /
+sv          A.49 utt3: {C So } [ that, + ] {D you know, } they need to be willing to pay a little bit more for it.  /
+aa          A.49 utt4:  Yes,  /
+sv          A.49 utt5: they've earned it.  /
+aa          A.49 utt6:  And yes,  /
+sv          A.49 utt7: they have such great fortune here,  /
+sv          A.49 utt8: {C but } they need to pay for it, too, because they couldn't do it somewhere else. /  
+
+b          B.50 utt1:  Yeah. /  
+
+sd          A.51 utt1:  {F Um, } I like Texas, {F um, } not having the state income tax  /
+%          A.51 utt2: {C and } I hope that - /
+sv          A.51 utt3:  {C because, } {F um, } we've had enough industry here, that, I guess it, - /
+qy          A.51 utt4: is that why we don't have - /
+qy^d          A.51 utt5: industry here is able [ to, + to ] fund the state because we have oil here and things,  /
+sd          A.51 utt6: {E I mean, } that's what I've always heard.  /
+%          A.51 utt7:  Is that, {F um, } -/  
+
+ng          B.52 utt1:  They must have enough other stuff because the way the oil has been the last few years, [ that, + that ] really has not been,   
+
+^2          A.53 utt1:  Big boom. /  
+
++          B.54 utt1:  the industry that is bringing in the money for the taxes, I wouldn't think. /  
+
+b          A.55 utt1:  Yeah.  /
+sv          A.55 utt2:  There's something about, {F um, } the industry in the state,   
+
+b          B.56 utt1:  Yeah. /  
+
++          A.57 utt1:  That, {F um, } - /
+sv          A.57 utt2: there's enough.  /
+sd          A.57 utt3:  I know, we moved here from Houston  /
+sd          A.57 utt4: {C and } the city had enough money.  /
+sd          A.57 utt5:  It was really nice that they had, {F um, } that - /
+sd          A.57 utt6: they began to cut back because of the oil problems,  /
+sd          A.57 utt7: {C but, } {F um, } they would have, {F um, } so many community outdoor theaters [ and, +    
+
+b          B.58 utt1:  Huh-uh. /  
+
++          A.59 utt1: And ] {D like, } {F uh, } community country club type things.  /
+%          A.59 utt2:  That the, - /
+sd          A.59 utt3: it was such nice services to offer the residents in the city  /
+sd          A.59 utt4: {C and } I really liked that. /  
+
+%          B.60 utt1:  Don't you have to, - /
+sv          B.60 utt2: {D why } people decided to expect certain services, /  
+
+b          A.61 utt1:  Huh-uh. /  
+
+sv          B.62 utt1:  Then, they don't really think they should pay for them, maybe.  /
+h          B.62 utt2:  I don't know. /  
+
+aa          A.63 utt1:  Yeah.  /
+aa          A.63 utt2:  That's true.  /
+%          A.63 utt3:  {C And } I, {D you know, } {D like } - /
+sd          A.63 utt4: the property tax that we pay is so much higher than my parents pay in Missouri.  /
+sd          A.63 utt5:  {C But, } {F um, } [ I'm, + I'm ] comfortable at least in this year, [ with, + with, ] - /
+sv          A.63 utt6: we have some good schools.  /
+sv          A.63 utt7:  The school thing might be changing  /
+sd          A.63 utt8: {C but, }   
+
+b          B.64 utt1:  Yeah. /  
+
++          A.65 utt1:  I'm willing to pay for that for my children.  /
+sd          A.65 utt2:  {C And } I'm willing to sacrifice, I guess.  /
+sd          A.65 utt3:  I'm not going to be the type of person that's going to grumble about the taxes, even though we're paying a pretty high percentage.  /
+sv          A.65 utt4:  I feel like you get what you pay for  /
+sd          A.65 utt5: {C and } I want to be here  /
+sd          A.65 utt6: {C and } [ I enjoy, + I enjoy ] living here in this country  /
+sd          A.65 utt7: {C and } having seen other countries, I'd much rather live here and  pay taxes,   
+
+b          B.66 utt1:  Huh-uh. /  
+
++          A.67 utt1:  than live somewhere else and not <laughter>.  /
+fc          A.67 utt2:  {D Anyway, } {D well, } I guess, I better let you go. / 
+
+fc        @@B.68 utt1:  <Laughter>  {D Well, } it was nice talking to you. /  
+
+fc          A.69 utt1:  Yeah,  /
+fc          A.69 utt2: it was nice. /  
+
+fc^t          B.70 utt1:  [ [ I haven't ever, + I need, ] + I've never ] initiated one of these phone calls.  /
+fc^t          B.70 utt2:  Do you call in  /
+fc^t          B.70 utt3: do you get to pick the subject  /
+fc^t          B.70 utt4: {C or, } -/  
+
+fc         A.71 utt1:  No.  /
+fc^r          A.71 utt2:  No.  /
+fc^t          A.71 utt3: They just define it to you  /
+fc^t          A.71 utt4: {C and so, }    
+
+fc          B.72 utt1:  Oh.  /
+fc          B.72 utt2: I see. /  
+
++          A.73 utt1:  you [ get what, + {F uh, } get luck ] of the draw  /
+%          A.73 utt2: {C but, } -/  
+
+fc          B.74 utt1:  Yeah <laughter>. /  
+
+fc^m          A.75 utt1:  <Laughter> Yeah,  /
+fc          A.75 utt2: {D anyway, } {D well, } good luck to you. /  
+
+fc          B.76 utt1:  Okay,  /
+fc          B.76 utt2: you, too. /  
+
+fc          A.77 utt1:  Bye. /  
+
+fc          B.78 utt1:  Bye-bye. / 

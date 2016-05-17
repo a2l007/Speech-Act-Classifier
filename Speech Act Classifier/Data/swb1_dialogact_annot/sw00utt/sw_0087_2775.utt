@@ -1,0 +1,415 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2775_1254_1122
+TOPIC#:		343
+DATE:		910503
+TRANSCRIBER:	CAP
+DIFFICULTY:	1
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+======================================================================
+  
+
+o          A.1 utt1:  Okay.  /
+ad          A.1 utt2: Tell me about your home. /  
+
+sd          B.2 utt1: {D Well, } it's an older home.  /
+sd          B.2 utt2: It was made back in the early sixties.  /
+sd          B.2 utt3: It's a pier beam house. /  
+
+b          A.3 utt1:  Huh-uh. /  
+
+sd          B.4 utt1: Got three bedrooms, one bath and that just makes me scream. /  
+
+ba          A.5 utt1: <Laughter> That's pretty tough <laughter>.  /
+qw          A.5 utt2: What area do you live in? /  
+
+sd          B.6 utt1: I live in Houston. /  
+
+bk          A.7 utt1: {F Oh, } okay.  /
+b          A.7 utt2: I see.  /
+qy          A.7 utt3: Is that pretty typical for your area? /  
+
+^h          B.8 utt1: {D Well, } for the neighborhood I'm in, - /
+ny          B.8 utt2: yeah, /  
+
+b^m          A.9 utt1:  Yeah. /  
+
+sd          B.10 utt1: This is one of the more established neighborhoods, /  
+
+b          A.11 utt1: Huh-uh.  /
+ba          A.11 utt2: That sounds real interesting.  /
+sd          A.11 utt3: I live in a suburb of Dallas  /
+sd          A.11 utt4: {C and, } {F uh, } I live in the basic three bedroom, two bath home.  /
+sd          A.11 utt5: {C So, } at least, I have two bathrooms.  /
+sv          A.11 utt6: That's not so bad,  /
+sd          A.11 utt7: {C but, } {F uh, } it's pretty typical for the area, as well.  /
+sd          A.11 utt8: {F Uh, } I've always been interested in older homes, personally.  /
+sv          A.11 utt9: {D So, } I think you can end up doing more with them, it seems like.  /
+qo          A.11 utt10: What about yard space?  /
+qy          A.11 utt11: Do you have [ lot of, + a big lot, ] or anything like that? /  
+
+sd          B.12 utt1: The whole lot I'm sitting on is roughly half an acre. /  
+
+bk          A.13 utt1:  {F Oh, } I see. /  
+
+sd          B.14 utt1: About half of that, about a quarter acre of that, I've got a garden. /  
+
+b          A.15 utt1: Huh-uh.  /
+ba          A.15 utt2: {F Oh, } that's nice.  /
+sd          A.15 utt3: {C Because } I have just {D like } [ a very small, + {D you know, } those basic tract ] houses, like that.  /
+sd          A.15 utt4: We have a very small yard  /
+sd          A.15 utt5: {C and, } {F um, } I do have garden,  /
+sd          A.15 utt6: {C but } it's extremely small,  /
+sv          A.15 utt7: {C but, } {F uh, } it seems like, though, for your area [ that, + that ] is sort of different.  /
+sv          A.15 utt8: In a big city like that <throat_clearing> most houses, I would think, would be sort of like what we live in. Just a {D you know, } basic tract house. /  
+
+sd          B.16 utt1: {D Well, } in the, {F uh, } newer neighborhoods and development communities, the houses are so close together, /  
+
+b          A.17 utt1:  # Yeah.  # /  
+
+sd          B.18 utt1: # if # your neighbor is having an argument you can here it blow for blow. /  
+
+sv          A.19 utt1: That's exactly right.  /
+sd          A.19 utt2: That's the way we are.  /
+sd          A.19 utt3: [ We have, + {F uh, } one thing we have ] that we really enjoy here, is we have a hot tub in the back.  /
+sd          A.19 utt4: {C So } [ we have, + we have ] quite a few parties,  /
+sd          A.19 utt5: {C and } {F uh, } seems like everyone that lives around us, ends up, {D you know, } hearing every conversation that goes on outside with everyone.  /
+sv          A.19 utt6: {C So, } {F uh, } that's true  /
+sd          A.19 utt7: that is one thing that I don't enjoy about it, is the houses are too close together.  /
+sd          A.19 utt8: {C But, } {F uh, } {D you know, } it's fine for now,  /
+sd          A.19 utt9: hopefully, eventually, we'll move in a larger home.  /
+sd          A.19 utt10: The only thing that I don't like also is the rooms are so small.  /
+sd          A.19 utt11: {D You know, } it's very difficult to arrange furniture and things like that,  /
+%          A.19 utt12: {C so. } - /
+qy          A.19 utt13: Are your rooms in your house bigger since it's a sixties home?  /
+sv          A.19 utt14: {C Because } it seems like then, that they built the homes much larger  /
+qy          A.19 utt15: is that true? /  
+
+ny          B.20 utt1: Yeah.  /
+sv          B.20 utt2: {C And } they've got better closet space. /  
+
+b          A.21 utt1:  Yeah. /  
+
+sd          B.22 utt1: (( )) new houses that I've seen. /  
+
+aa          A.23 utt1: Yeah.  /
+aa^r          A.23 utt2: Yeah.  /
+aa          A.23 utt3: That's really it.  /
+sv          A.23 utt4: That's a plus.  /
+sd          A.23 utt5: At least we do have {D like } three walk-in closets here.  /
+sv          A.23 utt6: {C So } [ that's, + that's ] maybe not so typical,  /
+%          A.23 utt7: {C but, } {F uh, } -/  
+
+^2          B.24 utt1:  It helps a bunch. /  
+
+aa          A.25 utt1: Yeah.  /
+sd          A.25 utt2: It really does, except when you have to fill them up  /
+sd          A.25 utt3: {C and then } you get those Visa bills in.  /
+%          A.25 utt4: {C And } <laughter>, -/  
+
+b          B.26 utt1:  Yeah. /  
+
+qo          A.27 utt1: {D So anyway, } {F um, } anything else [ about the area, + about, ] {F um, } - /
+qy          A.27 utt2: {D you know, } can you compare yourself to any thing around there. /  
+
+sd          B.28 utt1: Most of the neighborhood I'm in is pretty typical.  /
+sd          B.28 utt2: This whole neighborhood was built between sixty and sixty-five. /  
+
+b          A.29 utt1: Yeah.  /
+%          A.29 utt2: {C So } [ it's, + it's, ] -/  
+
+sd          B.30 utt1:  Everybody has got a (( )), pretty good size yard, /  
+
+b          A.31 utt1:  # Yeah.  # /  
+
+sd          B.32 utt1: # {E I # mean, } I got probably the biggest,  /
+sd          B.32 utt2: if not the biggest yard, I've got pretty close to it,   
+
+b^r          A.33 utt1:  # Yeah.  # /  
+
++          B.34 utt1: # in # the entire neighborhood. /  
+
+ba         A.35 utt1: That's nice.  /
+ba^r          A.35 utt2: That is nice.  /
+sv          A.35 utt3: {C But, } {D you know, } too, the only bad thing, too, is that then you have to keep up, {D you know, } - /
+sd          A.35 utt4: you have to,   
+
+sd          B.36 utt1:  # {D Well, } [ I, # +   
+
++          A.37 utt1:  # the yard # to deal with  /
+%          A.37 utt2: {C and, } -/  
+
++          B.38 utt1:  I ] enjoy that though. /  
+
+bh          A.39 utt1: Do you.  /
+sv          A.39 utt2: You must have more time [ than, + than ] I have.  /
+sd          A.39 utt3: I'm sitting out here right now.  /
+sd          A.39 utt4: We had this terrible rain  /
+sd          A.39 utt5: {C and } I'm looking at the yard and seeing how tall the grass has gotten  /
+%          A.39 utt6: {C and } <laughter> it seems like - /
+%          A.39 utt7: now [ that's, + that's, ] - /
+sd          A.39 utt8: I almost wish I was in an apartment or something. {D You know, } /  
+
+sd          B.40 utt1:  It's rained (( )). /  
+
+b          A.41 utt1: Yeah.  /
+qr^t          A.41 utt2: {D Well, } {F um, } I don't know, do we just terminate this or do you have to talk for a certain amount of time?  /
+qy          A.41 utt3: Do you know? /  
+
+nn          B.42 utt1: No,  /
+%          B.42 utt2: we can,  /
+sd^t          B.42 utt3: after you go to somewhere between five and ten minutes, they'll get a little master recording ((on)),   
+
+bk          A.43 utt1:  # Okay.  # /  
+
++          B.44 utt1:  # this.  # /  
+
+b^r          A.45 utt1: Okay.  /
+qy          A.45 utt2: {D Well, } can you tell me anything else about the house <laughter>.  /
+qy          A.45 utt3: Are you working on it?  /
+qy          A.45 utt4: {E I mean, } do people around that area seem to do a lot of renovation? /  
+
+ny          B.46 utt1: Yeah.  /
+sd^e          B.46 utt2: This entire neighborhood, everybody keeps the places up real nice. /  
+
+b          A.47 utt1: Yeah.  /
+ba          A.47 utt2: [ That's, + that's ] nice.  /
+%          A.47 utt3: Yeah,  /
+sd          A.47 utt4: the town that I came from [ is, + {F uh, } is ] a, {F uh, } older town,  /
+%          A.47 utt5: it like, - /
+sd          A.47 utt6: [ the typical, + the typical ] homes there are {D like, } {D you know, } early nineteen hundreds late eighteen hundreds, /  
+
+ba          B.48 utt1:  # Wow.  # /  
+
+sd          A.49 utt1: # {C and } # I renovated a house there  /
+sd          A.49 utt2: {C and } that was so much fun.  /
+sd          A.49 utt3: {E I mean, } there, if you don't live in a house that's at least seventy-five to hundred years old, {D you know, } you're just nobody, practically <laughter>.  /
+sd          A.49 utt4: {C And } [ that was really, + that was ] a good experience for me to learn a lot of discipline  /
+sd          A.49 utt5: {C and, } {F uh, } (( )) was considered typical for that area.  /
+sd          A.49 utt6: {C So, } {F uh, } it was quite a change for me to come to a house like that now that's just, {D you know, } a very square little box  /
+sv          A.49 utt7: {C and, } {D you know, } there's not a whole lot you can do with it.  /
+%          A.49 utt8: {C But, } {F uh, } {D anyway, } -/  
+
+sv          B.50 utt1:  Living in the city has some advantages. /  
+
+aa          A.51 utt1:  Yeah.  /
+aa          A.51 utt2: That's true. /  
+
+sd          B.52 utt1: If given the choice, I'm getting out. /  
+
+b          A.53 utt1: {F Oh, } really.  /
+sd          A.53 utt2: {D Well, } I have lived in a small town for, {D you know, } - /
+sd          A.53 utt3: [ this, + this ] town was {D like } less than ten thousand people  /
+sd          A.53 utt4: {C and } it was about sixty miles south of Dallas.  /
+sd          A.53 utt5: {C And, } {D you know, } I didn't move out of there until I was, {D you know, } twenty-seven  /
+%          A.53 utt6: {C and } that was just, {D you know, } - /
+sd          A.53 utt7: {C so } I love the big city <laughter>.  /
+sd          A.53 utt8: {D You know, } I had lived in a rural area [ for, + for ] so long  /
+sd          A.53 utt9: {C so } I've enjoyed it,  /
+sv          A.53 utt10: {C but, } {F uh, } [ it can, + it can ] get kind of tough.  /
+sv          A.53 utt11: Its like a rat race sometimes. /  
+
+sd          B.54 utt1: That's just something I'll never adapt to.  /
+sd          B.54 utt2: [ I don't, + I don't ] want to be a part of the rat race.  /
+sd          B.54 utt3: I want to be basically just kind of left alone. /  
+
+b          A.55 utt1:  # Yeah <laughter>.  # /  
+
+sd          B.56 utt1: # If I # want to sit around and mess with my garden, I'll mess with my garden, /  
+
+b^r          A.57 utt1:  # Yeah.  # /  
+
+sd          B.58 utt1: # if # I want to work in the flower beds, -/  
+
+b^r          A.59 utt1: Yeah.  /
+bf          A.59 utt2: It sounds like you enjoy working outside as well.  /
+%          A.59 utt3: [ I, + I, ] -/  
+
+na          B.60 utt1:  # Very much.  # /  
+
+b          A.61 utt1: # yeah.  /
+sd          A.61 utt2: I # really do enjoy that.  /
+sd          A.61 utt3: {C But } I haven't planted anything yet  /
+sd          A.61 utt4: {C or, } {D you know, } I usually have gotten flowers coming out the ((gazoo)),  /
+sd          A.61 utt5: {C but } [ I, + I ] haven't done that, yet.  /
+sd          A.61 utt6: I've had finals this week.  /
+sd          A.61 utt7: {C So, } {F uh, }   
+
+b          B.62 utt1:  # Huh-uh.  # /  
+
++          A.63 utt1: # {D you # know, } I'm just kind of [ trying to, + trying to ] stick in with that,  /
+sd          A.63 utt2: {C but, } {F uh, } since that's over with now, maybe [ I can, + I can ] get this yard in shape.  /
+qy          A.63 utt3: Do you do a lot of gardening? /  
+
+no          B.64 utt1: {F Uh, } landscaping is more, than the gardening, /  
+
+b          A.65 utt1:  # Yeah.  # /  
+
+sd          B.66 utt1: # ((in # the garden)) I've got my beans, peas, /  
+
+b^r          A.67 utt1:  # Yeah.  # /  
+
+sd          B.68 utt1: # I've # got some onions out,   
+
+b^r          A.69 utt1:  # Yeah.  # /  
+
++          B.70 utt1: # tomatoes,  /
+sd          B.70 utt2: # I'm not real sure what they're going to do this year. /  
+
+sd          A.71 utt1: I never have much luck with tomatoes.  /
+sd          A.71 utt2: I do plant a lot of beans, because it seems like, the, {F uh, } bugs get on them so easily  /
+sd          A.71 utt3: {C and } I have a real problem with anything like pesticides or anything like that,  /
+sd          A.71 utt4: {C so, } the only thing that I use is soap.  /
+sd          A.71 utt5: I water, {D you know, } spray the plants, because they say, supposedly, that will keep the bugs off them.  /
+sd          A.71 utt6: {C But, } {F uh, } I don't have luck with that tomato plant,  /
+sd          A.71 utt7: {C so } I hate to spray them with anything.  /
+qw          A.71 utt8: {F Um, } what do you do?  /
+qy          A.71 utt9: <Laughter>.  Do you have any tips you could give me? /  
+
+sd          B.72 utt1: {F Um, } my favorite one is putting on the, {F um, } tomato plant [ is to put, + ] {F uh, } (( )) dust, /  
+
+b          A.73 utt1:  # Yeah.  /
+b^r          A.73 utt2:  Yeah.  # /  
+
+sd          B.74 utt1: # {C and } that # stuff has been around since the beginning of time, /  
+
+aa          A.75 utt1: That's true.  /
+aa^r          A.75 utt2: That's true.  /
+sd          A.75 utt3: My dad is a farmer  /
+sd          A.75 utt4: {D so, } I've heard him talk about that forever.  /
+sv          A.75 utt5: I guess it works,  /
+ad          A.75 utt6: {C but, } {F um, } you have to really wash your vegetables after that  /
+sd          A.75 utt7: {C so } it won't make you sick.  /
+qo          A.75 utt8: Let's see what else do you do to your house? /  
+
+sd          B.76 utt1: {D Well, } I've done some rewiring on it. /  
+
+b          A.77 utt1:  Yeah. /  
+
+sd          B.78 utt1: Eventually, if we stay here, I'm going to have to rewire the entire house. /  
+
+b          A.79 utt1: {F Oh, } really.  /
+qy          A.79 utt2: Do you plan on {D like } adding any rooms or, - /
+sd          A.79 utt3: you have enough space  /
+sv          A.79 utt4: you could probably do that.  /
+%          A.79 utt5: {C Or } is it, -/  
+
+sd          B.80 utt1: I've talked about adding at least one more room and definitely adding another bath on. /  
+
+b          A.81 utt1: Yeah <laughter>.  /
+sv          A.81 utt2: I would think so if you only have one bathroom for three bedrooms,  /
+sv          A.81 utt3: that's tough.  /
+qy          A.81 utt4: Do you not, {D like, } have a half bath. /  
+
+ng^m          B.82 utt1:  Not even a half bath. /  
+
+b          A.83 utt1: Yeah.  /
+b^r          A.83 utt2: Yeah.  /
+sv          A.83 utt3: That's rough.  /
+sd          A.83 utt4: The house that I used to live in had one bath and a half.  /
+sd          A.83 utt5: {C And } that was even just with two people.  /
+sv          A.83 utt6: That was a pain. /  
+
+sd          B.84 utt1: The only thing that saves it, with the schedule I work and the schedule my wife works, we're getting ready to go to work at totally different times.    
+
+ba          A.85 utt1:  That's good. /  
+
++          B.86 utt1: So that. It's not like we're tripping over each other in the morning. /  
+
+b          A.87 utt1: Really.  /
+sv          A.87 utt2: That could account for a lot of marital problems <laughter>. I think <laughter>. /  
+
+x          B.88 utt1:  # <Laughter>.  #   
+
+sv          A.89 utt1: # You # get to know each other very well if you have to share a bathroom <laughter>. /  
+
+sv          B.90 utt1: It doesn't work if you're trying to shave and she's trying to put her eyeliner on  /
+sd          B.90 utt2: {C and, }   
+
+aa          A.91 utt1:  # No.  # /  
+
++          B.92 utt1: # you're # both fighting over the mirror. /  
+
+aa          A.93 utt1: That's right.  /
+sv          A.93 utt2: It does not make for a happy situation.  /
+aa          A.93 utt3: That's true.  /
+qy          A.93 utt4: {D Well, } do you have any children? /  
+
+na          B.94 utt1:  I've got one. /  
+
+b^m          A.95 utt1: One child.  /
+qy^d          A.95 utt2: {C And } they enjoy where they're living? /  
+
+%          B.96 utt1:  We'll, - /
+sd          B.96 utt2: he's nine months old. /  
+
+sd          A.97 utt1: {F Oh, } {C so } he doesn't know, {D right. }  /
+sv          A.97 utt2: I guess, he's a big help out in your garden.  /
+^g          A.97 utt3: Right. /  
+
+sd          B.98 utt1: He likes to dig around a little bit.  /
+sd(^q)          B.98 utt2: His mother comes in and says, why did you let him play in the dirt, /  
+
+x          A.99 utt1:  # <Laughter>.  #   
+
+sv          B.100 utt1: # I # guess he's enjoying himself. /  
+
+aa          A.101 utt1: That's right.  /
+sv          A.101 utt2: It's healthy,  /
+qh          A.101 utt3: why not.  /
+%          A.101 utt4: Yeah. /  
+
+sd          B.102 utt1: He was eating the dirt,  /
+sd          B.102 utt2: I wouldn't worry about it. /  
+
+b          A.103 utt1: No.  /
+sv          A.103 utt2: It won't hurt them.  /
+sd          A.103 utt3: I was a big dirt eater, supposedly, when I was a child  /
+sd          A.103 utt4: {C and } I turned out okay <laughter>, /  
+
+x          B.104 utt1:  # <Laughter>. #   
+
+ad          A.105 utt1: # {C so, } # don't worry about it.  /
+ad          A.105 utt2: Just let him enjoy himself <laughter>.  /
+qy^g          A.105 utt3: {D So } you think that you want to move away from the big city, {F uh? } /  
+
+sd          B.106 utt1: {D Well, } that's what I've always, - /
+sd          B.106 utt2: I was raised up in a town that was about ten thousand people. /  
+
+b          A.107 utt1: Yeah.  /
+sv          A.107 utt2: So you're just the opposite from me.  /
+qy^d          A.107 utt3: You want to go back to that, {F uh, } /  
+
+sd          B.108 utt1: After we got married we [ moved, + ended up moving ] to the Houston area. /  
+
+b          A.109 utt1: Yeah.  /
+b^r          A.109 utt2: Yeah.  /
+qy          A.109 utt3: {D So } are you from Texas? /  
+
+ny          B.110 utt1:  Yeah. /  
+
+b          A.111 utt1: You are.  /
+%          A.111 utt2: {C So } it's not, {D you know, } - /
+aa          A.111 utt3: that's true  /
+sv          A.111 utt4: Houston, in itself, is a pretty tough place. / 

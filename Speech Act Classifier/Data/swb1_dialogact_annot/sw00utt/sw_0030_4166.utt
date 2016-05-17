@@ -1,0 +1,233 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4166_1600_1551
+TOPIC#:		305
+DATE:		920312
+TRANSCRIBER:	nk
+UTT_CODER:	tc
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+x          B.1 utt1:  <Clicking>.   
+
+o          A.2 utt1: Okay.  /
+sd          A.2 utt2: {F Uh, } before a couple of years ago, I had [ a, + a ] very narrow view [ of, + of ] nursing homes  /
+sd          A.2 utt3: {C and } it was, {F uh, } more like a funeral home.  /
+sd          A.2 utt4: I always joked around about it being a funeral home and not really a nursing home.  /
+sd          A.2 utt5: {C And, } {F uh, } then  I had to do some volunteer work here in Tyler, Texas  /
+sd          A.2 utt6: {C and } I went to one  /
+sd          A.2 utt7: {C and } it just had a very good activities director.  /
+sd          A.2 utt8: Everyone was cheerful  /
+sd          A.2 utt9: {C and } now I don't have such a bad view of nursing homes anymore.  /
+sd          A.2 utt10: {C But } [ I, + I ] certainly wouldn't want to send my parent unless it was an absolute last [ re-, + resort. ]  /
+sd          A.2 utt11: {F Uh, } I have a sister that is in nursing school  /
+sd          A.2 utt12: {C and } she's real interested in geriatrics. /  
+
+ba          B.3 utt1:  {D Well, } that sounds good. /  
+
+b          A.4 utt1: Yeah.  /
+sd          A.4 utt2: {D So, } {F uh, } [ she, + she's ] real interested in, {F uh, } what Ann Richards has been doing.  /
+sd          A.4 utt3: [ She's, + Ann Richards ] is really cracking down on, {F uh, } the nursing homes  /
+sv          A.4 utt4: {C and, } [ I don't know, + you wouldn't know ] anything about a Texas governor <laughter>. /  
+
+sd          B.5 utt1:  I've heard the name  /
+sd          B.5 utt2: {C and } that's about all it goes. /  
+
+b          A.6 utt1: Okay.  /
+sd          A.6 utt2: Ann Richards is our governor in Texas  /
+sd          A.6 utt3: {C and } she's really cracking down on restrictions and what goes on in nursing homes.  /
+sd          A.6 utt4: {C And, } {F uh, } my sister's real interested in that [ and, + and ] getting into [ [ the, + to ] + that ] side of nursing. /  
+
+b          B.7 utt1: Yeah.  /
+sv          B.7 utt2: That's one problem with [ the, + the ] nursing home environment.  /
+sv          B.7 utt3: [ It, + the ] elderly, even out of the nursing home, are very open to abuse. /  
+
+b          A.8 utt1:  Right. /  
+
+sv          B.9 utt1: {F Uh, } {D you know, } they don't always have their full wits about them. /  
+
+b          A.10 utt1:  Uh-huh. /  
+
+sv          B.11 utt1: They're not completely up on what should be going on or what's not going on. /  
+
+b^r          A.12 utt1:  Uh-huh. /  
+
+sv         B.13 utt1: {C And } it can be pretty sad.  /
+sd          B.13 utt2: I've [ got a, + had a ] grandmother who had a stroke.  /
+sd          B.13 utt3: {C And } she was in a nursing home for four or five years before she died. /  
+
+b          A.14 utt1:  Oh. /  
+
+sd          B.15 utt1: {C And, } {D you know, } it's the type of thing that she was living down in Florida.  /
+sd          B.15 utt2: My [ in-, + families ] was up in Maryland -- /  
+
+b          A.16 utt1:  Uh-huh. /  
+
+sd          B.17 utt1: -- {C and } the other part of her family was up in, {F uh, } New York state. /  
+
+b          A.18 utt1:  Right. /  
+
+sd          B.19 utt1: {C And, } {D you know, } it was very difficult for either them or my grandfather to take care of her since she [ was, + {F uh, } {D you know, } could ] not do very much for herself after the stroke. /  
+
+b^r          A.20 utt1:  Right. /  
+
+sv          B.21 utt1: {C And, } {D you know, } the nursing home was the, {D you know, } best facility to put her in.   
+
+b          A.22 utt1:  Uh-huh. /  
+
++          B.23 utt1: {D You know, } besides moving her up which is not a practical solution since both my parents work  /
+sv          B.23 utt2: {C and } both my, {F uh, } aunts and uncle work.   
+
+b          A.24 utt1:  Right. /  
+
++          B.25 utt1: Which means it's, {D you know, } very difficult for some-, - /
+sv          B.25 utt2: you essentially need to have someone taking care of the person full-time. /  
+
+b^r          A.26 utt1:  Right. /  
+
+sv          B.27 utt1: {C And, } {D you know, } there's also a lot of medical problems that can't always be completely handled in the home.    
+
+b^r          A.28 utt1:  Right. /  
+
++          B.29 utt1: Which makes it, {D you know, } - /
+sv          B.29 utt2: it's a necessary evil I think. /  
+
+aa          A.30 utt1: Uh-huh.  /
+aa          A.30 utt2: It sure is.  /
+sv          A.30 utt3: {C And } some of the really nice ones that really take care of their people are so expensive. # [ Because # -- +   
+
+b          B.31 utt1:  # Yeah. # /  
+
++          A.32 utt1: -- cause ] they can afford to hire the people that are really going to care for the older. /  
+
+b^r          B.33 utt1: Yeah.  /
+sv          B.33 utt2: {C And, } {D you know, } even there you have to watch out for, {D you know, } - /
+sv          B.33 utt3: you get one person who's a little bit dishonest working in there  /
+sv          B.33 utt4: {C and, } {D you know, } the elderly sometimes have a lot of jewelry --   
+
+b          A.34 utt1:  {F Oh, } yeah. /  
+
++          B.35 utt1: -- and other stuff that just very easily tends to disappear in the nursing homes. /  
+
+b          A.36 utt1: Right.  /
+sd          A.36 utt2: My grandfather passed away several years ago.  /
+sd          A.36 utt3: I was much younger.  /
+sd          A.36 utt4: {C But, } {F uh, } he was in the nursing home the last several years of his life  /
+sd          A.36 utt5: {C and } someone visited him every day.  /
+sd          A.36 utt6: My grandmother did.  /
+sd          A.36 utt7: {C But, } {F uh, } if she couldn't, someone visited him every day.  /
+sd          A.36 utt8: It was in a very small town nursing home. /  
+
+b          B.37 utt1:  Uh-huh. /  
+
+sd          A.38 utt1: {C And, } {F uh, } people didn't get paid much there at all.  /
+sd          A.38 utt2: They didn't care about what went on. /  
+
+b          B.39 utt1:  Yeah. /  
+
+sd          A.40 utt1: They would [ let a, + let a ] patient get a lot of bed sores. /  
+
+b          B.41 utt1:  Uh-huh. /  
+
+sd          A.42 utt1: {C And, } {F uh, } [ the, + the ] people living in the nursing home would have all kinds of needs that wouldn't get met because they were just old people.  /
+sd          A.42 utt2: {C And then, } the nurses and doctors really didn't put [ any for, + forth any ] loving care for them. /  
+
+sv          B.43 utt1: Either that or they're just so understaffed that they can't afford --   
+
+b          A.44 utt1:  Right. /  
+
++          B.45 utt1:  -- to put in the, {F uh, } care that they need.     
+
+b^r          A.46 utt1:  Right. /  
+
++          B.47 utt1: Cause it's, {D you know, } - /
+sd          B.47 utt2: an elderly person can, {D you know, } - /
+sv          B.47 utt3: it's like a newborn baby.  /
+sv          B.47 utt4: You need --   
+
+b          A.48 utt1:  Uh-huh. /  
+
++          B.49 utt1:  -- to have twenty-four hour care --   
+
+b          A.50 utt1:  Right. /  
+
++          B.51 utt1: -- {F uh, } answering all the needs cause they can't do much for themselves at certain points. /  
+
+b^r          A.52 utt1: Right.  /
+sv          A.52 utt2: {C And } nurses get so worn down. /  
+
+b          B.53 utt1: Uh-huh.  /
+sv          B.53 utt2: {C And, } {D you know, } there's a [ lot of, + number of ] - /
+sv          B.53 utt3: the elderly are very, {D you know, } complaining because they remember the way that things used to be.    
+
+b          A.54 utt1:  Right. /  
+
++          B.55 utt1: And remember being able to do things for themselves which, {D you know, } they no longer can. /  
+
+aa          A.56 utt1:  {F Oh, } sure.  /
+sv          A.56 utt2:  # {C And } [ they feel # -- +   
+
+sv          B.57 utt1: # {C And } it, very, very hard # <<mispronounced>> for them to accept that. /  
+
++          A.58 utt1:  -- they feel ] pretty helpless. /  
+
+sd          B.59 utt1: We just, {F uh, } moved my grandfather into, not a nursing home {C but, } {D you know, } a transitional type facility. /  
+
+qy          A.60 utt1:  Is it, {F uh, } like a retirement center? /  
+
+no          B.61 utt1: More of a retirement home.  /
+sd^e          B.61 utt2: He's got his own efficiency apartment. /  
+
+bk          A.62 utt1:  Uh-huh. /  
+
+sd          B.63 utt1: {C And } they provide one meal a day. /  
+
+b^r          A.64 utt1:  Uh-huh. /  
+
+sd          B.65 utt1: {C And, } {D you know, } the rest of the housekeeping and other meals a day are up to him. /  
+
+b^r          A.66 utt1:  Uh-huh. /  
+
+sd          B.67 utt1: {C But } they do have, {D you know, } group activities going on. /  
+
+qw          A.68 utt1:  How's he handling that? /  
+
+sd          B.69 utt1: {F Uh, } he'd much rather be living alone in his apartment down in Florida. /  
+
+b          A.70 utt1:  Uh-huh. /  
+
+sd          B.71 utt1: {F Uh, } {D you know, } to move into that facility we moved him from Florida up to Maryland  /
+sd          B.71 utt2: {C and } --   
+
+ba          A.72 utt1:  {F Ooh. } /  
+
++          B.73 utt1: -- [ it's, + it's ] a bit of a shock to the system, weather-wise, if nothing else. /  
+
+ba          A.74 utt1: {F Oh, } sure.  /
+qy          A.74 utt2: There wasn't anything like that, that you could do in Florida? /  
+
+na          B.75 utt1: {D Well } there was stuff like that in Florida  /
+%          B.75 utt2: {C but, } -/ 

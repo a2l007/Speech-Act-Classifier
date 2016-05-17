@@ -1,0 +1,168 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:        4165_1425_1552
+TOPIC#:          323
+DATE:            920312
+TRANSCRIBER:     nk
+UTT_CODER:       aabo
+DIFFICULTY:      1
+TOPICALITY:      1
+NATURALNESS:     1
+ECHO_FROM_B:     1
+ECHO_FROM_A:     1
+STATIC_ON_A:     1
+STATIC_ON_B:     1
+BACKGROUND_A:    1
+BACKGROUND_B:    3
+REMARKS:         None.
+
+=============================================================================
+  
+
+%          A.1 utt1:  <Click> Steve, this is, - /
+sd^t          A.1 utt2: like I mentioned, Brian and I guess we're going to want to be talking about child care.  /
+qy          A.1 utt3:  {F Uh, } do you have any experience in, {F uh, } finding child care? /  
+
+ng          B.2 utt1:  <TV> {D Well, } ourselves, we have <sigh>, I guess never had to look for child care. /  
+
+b          @A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  Our kids are now fourteen and eighteen. /  
+
+x          A.5 utt1:  <Laughter>.   
+
+sd          B.6 utt1: [ {C But, } + {F uh, } <throat_clearing> {C and so, } ] {D you know, } you go back those many years and, {F uh, } we didn't do it very much. /  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sd          B.8 utt1:  [ We, + I guess, we ] were in a situation where we didn't need to be looking at, {F uh, } two family income at the time <swallowing>. /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1:  {C And } our kids were older.  /
+sd          B.10 utt2:  {C But } I've had to deal with, {F uh, } {D you know, } friends of ours that have used child care and that kind of thing. /  
+
+b          A.11 utt1:  Right. /  
+
+%          B.12 utt1:  {F Uh, } {C so } it, - /
+sd          B.12 utt2: my involvement hasn't been direct  /
+sd          B.12 utt3: {C but } still have been, {D you know, } certainly exposed to criteria people are using. /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+qo          B.14 utt1:  How about yourself? /  
+
+sd          A.15 utt1:  {D Well, } {F uh, } we're kind of lucky.  /
+sd          A.15 utt2: [ [  I, + I'm, ] + {F uh, } I'm ] working.  /
+sd          A.15 utt3:  My wife isn't working  /
+sd          A.15 utt4: {C and } she is taking care of the kids also.  /
+sd          A.15 utt5: [ {C And, } + {C and so } ] we haven't had to look for child care either which has been very nice.  /
+sd          A.15 utt6:  {C But } I do have, like  you mentioned, a lot of friends, a lot of, {F uh, } co-workers and associates that are looking for child care  /
+sd          A.15 utt7: {C and } some of the things that they're very critical about is the number of kids that are in the child care.    {F Uh, } what kind of, {D you know, } {F uh, } guidance counselor to student or, {D you know, } {F uh, } adult to child relationship.  /
+sd          A.15 utt8:  # How many # -- -/  
+
+b          B.16 utt1:  # Right. # /  
+
+sv          A.17 utt1:  -- {D you know, } you don't want to have thirty or forty <laughter> kids and  only one adult.  /
+sd          A.17 utt2: # Then # --   
+
+b          B.18 utt1:  # Right. # /  
+
++          A.19 utt1:  -- {F uh, } something happens and the adult wouldn't be able to, {F uh, } accommodate or take care of the kids very well. /  
+
+b          B.20 utt1:   (( Right ))  <throat_clearing>. /  
+
+sd          A.21 utt1:  {C And, } {F uh, } they also want to make sure that the kids are being taught and not just playing around all the time.  /
+sd          A.21 utt2: {C So, } {D you know, } depends also upon [ the, + the ] level of the child.  /
+sd          A.21 utt3: We, {F uh, } we, {F uh, } take a very close look at finding [ [ a, + a preschool, ] + a good preschool ] for our kid. /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sd          A.23 utt1:  {C And } I kind of relate that to that [ in, + in ] making sure that [ the, + the, ] {F uh, } teachers are very well educated themselves.   They have a good curriculum  and  that they're willing to teach the kids and have a fun time with them.  /
+sv          A.23 utt2: {C And } it's very important, I feel, {F uh, } that the kids interact with other children also.  /
+sd          A.23 utt3: [  It's a, + it's a ] good way to develop --   
+
+b          B.24 utt1:  Yeah. /  
+
++          A.25 utt1:  -- relationships with other kids their age and, {F uh, } get to know and work with kids.  /
+sv          A.25 utt2: {C So. } I don't know. [ I, + I ] guess we're kind of in the same boat.  /
+sd          A.25 utt3:  We haven't had to look very carefully for child care. /  
+
+b          B.26 utt1:  Yeah.  /
+sd          B.26 utt2: [ I, + <throat_clearing> I ] kind of think that, {F uh, } {D you know, } some of our friends or even our own children will be in a situation where they may need to look for child care. /  
+
+b          A.27 utt1:  Uh-huh. /  
+
+sd          B.28 utt1:  {C But } even, {D you know, } here.  I guess we have <inhaling> in one sense two forms <sigh> of, {F uh, } child care.  /
+sd          B.28 utt2: There's where individuals will <swallowing> in one, primarily babysit --   
+
+b          A.29 utt1:  Uh-huh <<faint>>. /  
+
++          B.30 utt1:  -- children in their own home.  /
+sd          B.30 utt2: {C And } that will be groups of anywhere <<mispronounced>> from one or two to, maybe, seven or eight children. /  
+
+b          A.31 utt1:  Uh-huh <<faint>>. /  
+
+sd          B.32 utt1:  {C And then } otherwise,  there will be - /
+sd          B.32 utt2: <throat_clearing>, the majority are co-operative day-cares.  /
+sd          B.32 utt3: {F Uh, } people form a co-op and, {F uh, } parents will work in the co-op and put a fair number of hours.  /
+sd          B.32 utt4:  Frequently, they will hire staff to be at the day-care  /
+sd          B.32 utt5: {C and } the emphasis is primarily, {F uh, } someplace for the children to be. -/  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  {C But, } at the same time, there's some fairly good training programs  [ and, + and ] some of them formal two year programs. /  
+
+b          A.35 utt1:  Right,  /
+b^r          A.35 utt2: right <noise>. /  
+
+%          B.36 utt1:  {F Uh, } {C so } that, - /
+sd          B.36 utt2: {D you know, } there is some definite, {F uh, } creative play, good social interaction, that kind of thing. /  
+
+sv          A.37 utt1:  I think it's, {F uh, } important.  Like you mentioned, that's a good idea on the, {F uh, } parent co-op because, {F uh, } <swallowing> I'm very concerned about the welfare of my kids  /
+sd          A.37 utt2: {C and } I don't want to just take them to somebody I pick out of the yellow pages or out of some ad somewhere.  /
+sd          A.37 utt3: I want to trust the people <swallowing>. /  
+
+b          B.38 utt1:  Yeah. /  
+
+sd          A.39 utt1:  {C And, } {F uh, } {D you know, } [ you hear in the newspa-, + you hear on the T V ] and you read the newspaper quite often [ of, + of ] people that, {D you know, } don't treat or  take care of your kids the way you think they ought to be taken care of,  /
+sd          A.39 utt2: [ {C so. } + {C And } ] hope to never get into that situation where we [ have to, + have to ] find somebody and we have to trust someone with the welfare of our children.  /
+sd          A.39 utt3: {C And } hope that we can stay in this situation <laughter> for awhile.  /
+%          A.39 utt4: {C So. } -/  
+
+b          B.40 utt1:  Yeah.  /
+sd          B.40 utt2:  {D You know, } we've even had some of those kinds of situations publicized here -- /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+%          B.42 utt1:  -- {C and } <throat_clearing> I guess, {D you know, } it, are, - /
+sd          B.42 utt2: it's, {F uh, } typically, {F uh, } whether it's been child care in a home <swallowing> --   
+
+b          A.43 utt1:  Uh-huh. /  
+
++          B.44 utt1:  -- or in a larger situation where actually it's more of an institution.  /
+sd          B.44 utt2: {C And } you've actually got children that most people would consider problem children  /
+sv          B.44 utt3: [ {C and } it's not, + {C and } it's ] more of a group home rather # than # --   
+
+b          A.45 utt1:  # Yeah. # /  
+
++          B.46 utt1:  -- actually day-care # [ s-, + ] type of facility. # /  
+
+aa          A.47 utt1:  # <Laughter> # That's true,  /
+aa^r          A.47 utt2: that's true. /  
+
+b          B.48 utt1:  {F Uh } </TV>. /  
+
+fc          A.49 utt1:  {D Well, } Steven, it's been, -/ 

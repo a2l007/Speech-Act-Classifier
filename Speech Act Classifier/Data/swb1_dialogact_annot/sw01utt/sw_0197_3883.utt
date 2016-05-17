@@ -1,0 +1,252 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3883_1461_1393
+TOPIC#:		303
+DATE:		920130
+TRANSCRIBER:	LAB
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	3
+REMARKS:        Echo from A on B, and background noise in B sounded
+like a radio or a television.
+
+=============================================================================
+  
+
+o          A.1 utt1:   Okay.  /
+qw          A.1 utt2: {D So } how do you just figure  ((   )) , -/  
+
+sd          B.2 utt1:  {D Well, } {D you know, } it depends  upon our weather here.  {D You know, }  /
+sd          B.2 utt2: today was a beautiful day  /
+sd          B.2 utt3: it was like, {F uh, } {F uh, } summer day.  /
+sd          B.2 utt4:  It was seventy degrees  /
+sd          B.2 utt5: [ {C so } -- +   
+
+ba          A.3 utt1:  Wow. /  
+
++          B.4 utt1:  -- {C so } ] I dressed in, {F uh, } {F uh, }  a light weight  skirt,  /
+sd          B.4 utt2: it's a, {F uh, } ultra suede skirt and a blouse with a sweater, cardigan --   
+
+b          A.5 utt1:  Uh-huh. /  
+
++          B.6 utt1:  -- over it.  /
+sd          B.6 utt2: Because I had some appointments  at the office today, some interviews  /
+sd          B.6 utt3: {C and so } I had to dress up anyway  /
+sd          B.6 utt4:  {C and then } I wore heels, {D you know. } /  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sd          B.8 utt1:  {C But } when it rains a lot,  which is has been doing here a lot lately, {F uh, } very often, {D you know, } wear, {F uh, } pants and boots --   
+
+b          A.9 utt1:  Oh. /  
+
++          B.10 utt1:  -- {D you know. }  /
+qw          B.10 utt2: {D So } how do you dress? /  
+
+co          A.11 utt1:  {D Well, } {F um, } <lipsmack> I'm going  to talk about when I was working as a teacher and when I # was <laughter> (( working ))  at now. # /  
+
+aa          B.12 utt1:  # Okay. # /  
+
+sd          A.13 utt1:  {F Um, } when I was a teacher, {F um, } in Utah, I would generally wear, {F um, } dresses and heels and things like that, /  
+
+b          B.14 utt1:  # Uh-huh. # /  
+
+sd          A.15 utt1:  # {C and } # even when it, {F um, } rained  and snowed I just braved it  /
+sd          A.15 utt2: {C and } I wore heels anyway <laughter>. /  
+
+b          B.16 utt1:  Yeah. /  
+
+%          A.17 utt1:  # {C And, }  # -/  
+
+sd          B.18 utt1:  # [ I, + # I ] can see, - /
+sd          B.18 utt2: [ I, + I've ]  been a teacher so has my daughter  /
+sd          B.18 utt3: {C and } I know that we very often wore heels despite the fact that,   
+
+aa          A.19 utt1:  # I know, # /  
+
++          B.20 utt1:  # it was tiring. # /  
+
+bf          A.21 utt1:  it might kill you to go up and <laughter>,   
+
+aa          B.22 utt1:  # That's right. # /  
+
++          A.23 utt1:  # walk up to # the door  /
+bf          A.23 utt2:  {C but } you're going to look nice for the kids <laughter>. /  
+
+aa          B.24 utt1:  That's right  /
+qy^g          B.24 utt2: {C and } it always makes you feel like you're a bigger person than the kids, right? /  
+
+aa          A.25 utt1:  {F Oh, } {F oh, } yeah.  /
+sd          A.25 utt2:   {D Well, } I need all the height I can get <laughter>. /  
+
+aa          B.26 utt1:  Yeah,  /
+sd          B.26 utt2: I do too.  /
+sd          B.26 utt3: <laughter> {C So  } to be taller than some of the boys in the [ bigger grades, +    
+
+aa          A.27 utt1:  # {F Oh, } yeah. # /  
+
++          B.28 utt1:  # {F uh, } older grades, ] I had # to wear heels. /  
+
+aa          A.29 utt1:  Uh-huh.  /
+aa^r          A.29 utt2: Yeah,  /
+sd          A.29 utt3: we too.   {F Um, }  /
+sd          A.29 utt4:  <lipsmack> if [ it was real-, + it looked really ] dangerous then I would wear boots  /
+sd          A.29 utt5:  {C but then } I would change, {F um, } into heels,   
+
+b          B.30 utt1:  # Uh-huh. # /  
+
++          A.31 utt1:  # as soon as I got # to my desk.  /
+%          A.31 utt2:  {C So, }  {F um, } -/  
+
+sd          B.32 utt1:  Of course, we wear, {F uh, } an unlined  boots, {D you know, }  /
+sd          B.32 utt2: it has a heel on it.  /
+sd          B.32 utt3: They're the kind of boots that I wear to work  /
+sd          B.32 utt4:  {C and } we wear them, {D you know, }  /
+sd          B.32 utt5: they're a leather boot that you wear  /
+sd          B.32 utt6:  {C and } as I said they have a regular heel on them, high heel. /  
+
+b          A.33 utt1:  Oh. /  
+
+sd          B.34 utt1:  {C And } [ they wear them, +  we wear them ]  a lot with shirts and things.  /
+sd          B.34 utt2: {F Uh, } it's kind of a, <laughter> - /
+sd          B.34 utt3: I can't say constant  down here in Texas that you wear these boots. - /
+sd          B.34 utt4: They're not a cowboy boot,  /
+sd          B.34 utt5:  {C but } they're just a real pretty boot,  /
+sd          B.34 utt6: {C but } they keep your feet nice and toasty from the rain. /  
+
+b          A.35 utt1:  Oh. /  
+
+sd(^q)      B.36 utt1:  As I have a private high school that I run here [ and so + ] when I'm interviewing a parent, of course I feel  like I need to wear heels --   
+
+b          A.37 utt1:  <Laughter>  Sure.  /
+b          A.37 utt2:  Uh-huh. /  
+
++          B.38 utt1:  -- {D you know, } and look like I'm a business <laughter> person.    
+
+b          A.39 utt1:  Uh-huh.  /
+b          A.39 utt2: Yeah. /  
+
++          B.40 utt1:  {D You know, } because the children will  tease about where's your motorcycle,   
+
+x          A.41 utt1:  <Laughter> .   
+
++          B.42 utt1:  if you wear boots too often, {D you know. } /  
+
+%          A.43 utt1:  {F Huh. }  {D Well, } {F um, } -/  
+
+sv          B.44 utt1:  Of course, you probably wear coats a lot. /  
+
+aa          A.45 utt1:  Yeah, {F um, }  /
+sd          A.45 utt2: <lipsmack> the first  two years I was in a room where they didn't heat it <laughter>. #  /
+sd          A.45 utt3: {C So } I did, # -/  
+
+ba          B.46 utt1:  # {F Oh, } my goodness #  /
+bf          B.46 utt2: {C so } then you had to. /  
+
+aa          A.47 utt1:  Yeah,  /
+sd          A.47 utt2: {C and then } the third year we,  {F um, } got heating  /
+sd          A.47 utt3: {C so } it was nice <laughter>. /  
+
+aa          B.48 utt1:  Yes.  /
+qy^g          B.48 utt2: Then things improved, right? /  
+
+na          A.49 utt1:  Right,  /
+ny          A.49 utt2: uh-huh. /  
+
+sd          B.50 utt1:  {C But } of course, here we wear a light  weight jacket a lot # {D you know, } {D you know, # } /  
+
+ba          A.51 utt1:  # {F Oh, } that's # nice. /  
+
+sd          B.52 utt1:  {C and, }  {F uh, } that's very seldom  /
+sd          B.52 utt2:  [ we, +  it ] depends upon our winter.  /
+sd          B.52 utt3: We have a few days you might wear a [ coat, +  winter coat, ]  {D you know, }  /
+sd          B.52 utt4: {C but } most of the time you can wear a sweater  /
+sd          B.52 utt5: {C and } we just don't wear coats much.  /
+sd          B.52 utt6:  We often laugh about even when it turns chilly.  /
+sd          B.52 utt7:   We're wearing something lightweight or no jacket because we're so used to running around like that. /  
+
+b          A.53 utt1:  Uh-huh.  /
+ba          A.53 utt2: {F Oh. }  Nice.  /
+%          A.53 utt3:  {D Well } <laughter>, -/  
+
+sd          B.54 utt1:  It's really different.  /
+h          B.54 utt2:   <laughter> Let's put it that way.  /
+qy          B.54 utt3:  Are you not teaching anymore? /  
+
+nn          A.55 utt1:  {F Uh, } no,  /
+sd^e          A.55 utt2: [ we, + we ]  moved to Iowa  /
+sd          A.55 utt3: {C and, }  {F um, } I'm working at a day care right now. /  
+
+bk          B.56 utt1:  I see. /  
+
+sd          A.57 utt1:  {C And so } the way I dress is  really different because I'm working in the nursery room with kids from six months to like twenty months. /  
+
+bf          B.58 utt1:  {F Oh, } {C so } you don't wear heels anymore I'll bet. /  
+
+aa          A.59 utt1:  Yeah,  /
+sd          A.59 utt2: I wear, {F uh, } tennis shoes,   
+
+b          B.60 utt1:  # Yeah,  /
+b          B.60 utt2: uh-huh. # /  
+
++          A.61 utt1:  # and # jeans and things that, {D you know, } are sort of, {F um, } -/  
+
+^2          B.62 utt1:  # More practical. # /  
+
+%          A.63 utt1:  # not, # - /
+aa          A.63 utt2: yes,  /
+sd          A.63 utt3: it doesn't matter if I have to wash it a hundred times or something. /  
+
+qy          B.64 utt1:  When you were teaching, did you ever have, {F uh, } {F uh, } a blue jean day or anything like that? /  
+
+ny          A.65 utt1:  Yeah,  /
+sd^e          A.65 utt2: {C but } I never wore jeans because,  {F um, } I thought that was too casual <laughter>. /  
+
+b          B.66 utt1:  Yeah,  {D well, } /  
+
+%          A.67 utt1:  # For, # -/  
+
+sd          B.68 utt1:  # I know that # some of the schools  they have, {F uh, } country western day or  something like that one, {D you know, }  or tacky day,  /
+sd          B.68 utt2: {C and } I always thought it [ was kind of out of, +  got out of ] hand when the teachers looked real <laughter> tacky too. /  
+
+aa          A.69 utt1:  Yeah,  /
+aa          A.69 utt2: really. /  
+
+sv          B.70 utt1:  It's all right for the students,  /
+sv          B.70 utt2:  they look tacky a lot  /
+sv          B.70 utt3: {C but } I didn't think teachers should, {D you know. } /  
+
+aa          A.71 utt1:  <Laughter>  Yeah,  /
+sd          A.71 utt2:  that's how I feel too. /  
+
+b          @@B.72 utt1:  Yeah.  /
+qy          @@B.72 utt2:  Do you like, {F uh, } {F uh, } Iowa? /  
+
+nd          A.73 utt1:  {F Um, } <lipsmack> {F oh, } [ it, +  there's ]  some good things about it  /
+sd          A.73 utt2: {C but } I've seen.  A lot of things I'm not used to yet, {F um, } /  
+
+qw          B.74 utt1:   Where did you live before? /  
+
+sd          A.75 utt1:   {F Um, } we lived in Utah before  /
+sd          A.75 utt2:  [ {C and, } +  {C and } ] I grew up in California. /  
+
+bf         B.76 utt1:   {F Oh, } {D well, } that's quite a change from California to Utah, / 

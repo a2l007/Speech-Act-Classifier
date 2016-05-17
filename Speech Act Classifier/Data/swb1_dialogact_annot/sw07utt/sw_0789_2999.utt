@@ -1,0 +1,470 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2999_1022_1235
+TOPIC#:		304
+DATE:		910603
+TRANSCRIBER:	LAB
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        None.
+
+=========================================================================
+  
+
+o          A.1 utt1:  Okay. /  
+
+fp          @B.2 utt1:  Hi.  /
+qy          @B.2 utt2:  Do you have lots of credit cards <laughter>? /  
+
+ny          A.3 utt1:  Yeah,  /
+sd^e          A.3 utt2: [ we, + {D well, } we ]  have quite a few  /
+sd          A.3 utt3: {C but } we don't really use them a lot.  /
+sd          A.3 utt4:  [ We have, + {D well, } we like ] a lot of gasoline credit cards,   
+
+b          B.4 utt1:  Uh-huh. /  
+
++          A.5 utt1:  because we like to be able to stop, {D you know, }  when we're traveling and  stuff wherever there's a station,  /
+sd          A.5 utt2: {C but } as far as like  MasterCard and Visa, we don't use those too often.  /
+qo          A.5 utt3: What about you? /  
+
+sd          B.6 utt1:  <TV> {F Um, } I used to have a ton of gas credit cards,  /
+sd          B.6 utt2:  {C and } now I have one or  two of them,  /
+sd          B.6 utt3: {C but } I think I've even let some of them expire.  /
+sd          B.6 utt4:   {C But } I was living out of the country for a while  /
+sd          B.6 utt5: {C so } I wasn't using them too much -- /  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sd          B.8 utt1:  -- {C and } I don't drive that much.  /
+sd          B.8 utt2: {C But }  I have, {D you know, } MasterCard and Visa (( as you know, ))   /
+sd          B.8 utt3: I have a MasterCard and an American Express now.  /
+sd          B.8 utt4:  I got rid of the Visa because it was getting out of hand having fifteen million <laughter> cards. /  
+
+b          A.9 utt1:  Right. /  
+
+sd          B.10 utt1:  {C But, } as long as, - /
+sd          B.10 utt2: {D like } my MasterCard  is, {F um, } free as long as you spend (( about, {A I don't know } )) three thousand dollars a year or  something like that. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1:  {C And so, } I tend to buy almost all major  purchases on a credit card,   
+
+b          A.13 utt1:  Yeah. /  
+
++          B.14 utt1:  when I have the choice.  /
+sd          B.14 utt2: {C And, } {F um, } I used to  even use it for my grocery shopping and stuff.  /
+sd          B.14 utt3:  The stores around here don't let  you do it too much. /  
+
+bh          A.15 utt1:  {F Oh, } really? /  
+
+sd          B.16 utt1:  {C And so } I don't.  /
+sd          B.16 utt2:  {C But } I was living in  France  /
+sd          B.16 utt3: {C and } there you pay for everything by credit card, /  
+
+b          A.17 utt1:  Huh. /  
+
+sd          B.18 utt1:  {C but } it's not really a credit card <baby_crying>. /  
+
+qy          A.19 utt1:  {F Oh, } is it like an automatic debit  /
+%          A.19 utt2: {C or } s-, -/  
+
+na          B.20 utt1:  [ It's a, + it's a ] debit card,  /
+ny          B.20 utt2: yeah. /  
+
+b          A.21 utt1:  {F Oh, } huh. /  
+
+sd          B.22 utt1:  {C And, } {F um, } just, {D you know, } [ it's sha-, + ] many times <baby> you get out of the store faster if you pay with that than if you pay  with cash.  /
+t3          B.22 utt2: <<Talks to person in background>> # Bye,  /
+t3          B.22 utt3: thanks. # /  
+
+bh          A.23 utt1:  # {F Oh, } really? # /  
+
+ny          B.24 utt1:  {F Um, } yeah.  /
+sd^e          B.24 utt2:  {C Because } they're just so  well set up with it <laughter>. /  
+
+b          A.25 utt1:  Yeah.  /
+sd          A.25 utt2:  We use our credit cards sometimes for a big purchase,  /
+sd          A.25 utt3:  {C but } we always have the money set aside already [ to, + ]  /
+sd          A.25 utt4: {C and then }  we just pay it off the next,   
+
+b          B.26 utt1:  </TV>  Right,  /
+%          B.26 utt2: {D well, } -/  
+
++          A.27 utt1:  month.  /
+sd          A.27 utt2:  [ We never pay, + we don't like to pay ]  interest on the <laughter> credit cards at all. /  
+
+aa          B.28 utt1:  Yeah,  /
+sd          B.28 utt2: [ I, + I ] never pay finance charges on  them except when I screw up which I occasionally <laughter> do. /  
+
+b          A.29 utt1:  <Laughter> Yeah. /  
+
+sd          B.30 utt1:  {C And, } {D you know, } I'll forget to pay the  bill by the due date,  /
+sd          B.30 utt2: {C or } this last month I mailed a check to them on the twenty-second  /
+sd          B.30 utt3: {C and }  they didn't get it until the thirtieth,  /
+sd          B.30 utt4: {C and } it was,   
+
+ba          A.31 utt1:  Gosh. /  
+
++          B.32 utt1:  due the twenty-fifth. /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  {C And } {D you know, }  {C so } I thought I, - /
+sd          B.34 utt2: {C and so }  I got hit up with a [ cre-, + ] {F uh, } finance charge on it which pissed me off --   
+
+b          A.35 utt1:  Yeah. /  
+
++          B.36 utt1:  -- because, {F um, } {D you know, }  I really did mail it in time. /  
+
+b          A.37 utt1:  Right.  /
+b          A.37 utt2:  Yeah. /  
+
+sd          B.38 utt1:  {C But } they have no proof of that.  /
+sd          B.38 utt2: [  I don't, + I  (( don't ] want to ))  probably talk to them some more discuss it,  /
+sd          B.38 utt3: {C but } [ I, + I ]  [ never, + {F um, } usually never ] pay <laughter> finance charges. /  
+
+b          A.39 utt1:  <Laughter> Yeah,  /
+%          A.39 utt2: that, - /
+%          A.39 utt3: yeah,  /
+sd          A.39 utt4: [ we, + we ]  screwed up one time like that too.  /
+sd          A.39 utt5:  We mailed it  /
+sd          A.39 utt6: {C and } they just never did get it,  /
+sd          A.39 utt7: {C and } we  had to finally mail them another check. /  
+
+sd          B.40 utt1:  I had that hassle one time  /
+sd          B.40 utt2: {C and } [ I-, + ]  that went on for months and months and  months [ because, + ]  /
+sd          B.40 utt3: {C and } they eventually found the  check and deposited it -- /  
+
+b          A.41 utt1:  Huh. /  
+
+sd          B.42 utt1:  -- {C and } months later they were still telling  me that I owed them finance charges and, {F um, } late fees and things like that.  /
+sd(^q)       B.42 utt2:  {C And } I said, {D well, } I mailed you a check  /
+^q          B.42 utt3: {C and } you eventually did deposit it.  /
+sd          B.42 utt4:   {C So, } {D you know, } I guess I don't know who [ the, + the ] burden of proof is on. /  
+
+aa          A.43 utt1:  Yeah,  /
+sd          A.43 utt2: I don't either. /  
+
+sd          B.44 utt1:  {D You know, }  (( kind of the )) , - /
+sd          B.44 utt2:  {C because } you never d-, - /
+sd          B.44 utt3: when I pay bills I don't make a Xerox copy of it  /
+sd          B.44 utt4: {C or } I don't --   
+
+aa          A.45 utt1:  No,  /
+bf          A.45 utt2: you figure,   
+
++          B.46 utt1:  -- {F um, } -/  
+
++          A.47 utt1:  you'll get your check back if you have to. /  
+
+aa          B.48 utt1:  Right.  /
+sd          B.48 utt2:  {C Or } [ I don't get a, + I don't mail ]  them all a signed receipt whatever I,   
+
+b          A.49 utt1:  Yeah. /  
+
++          B.50 utt1:  {D you know, } at the bank to have a proof of when I mailed it.  /
+sv          B.50 utt2:   {C And, }  (( {E I mean } ))  you can't do that,  /
+sv          B.50 utt3:  it would be ridiculous. /  
+
+aa          A.51 utt1:  <Laughter> Really.  /
+sd          A.51 utt2: I like to use my card if I buy  something through the mail which I don't do real often or something from out of state,  {D you know, } where if something is wrong,   
+
+b          B.52 utt1:  Right. /  
+
++          A.53 utt1:  you don't want to end up having to pay for it. /  
+
+sd          B.54 utt1:  {D Well, } you can, -/  
+
+sd(^q)       A.55 utt1:  A couple times I've had to write big credit  card companies and say, {D you know, } I didn't really  get this  /
+^q          A.55 utt2: {C or } # I don't know what this is. # /  
+
+aa          B.56 utt1:  # Right.  /
+sd(^q)      B.56 utt2:  {C Or } I returned it #  /
+^q          B.56 utt3: {C so }  don't charge it,  /
+%          B.56 utt4: yeah. /  
+
+b          A.57 utt1:  Yeah. /  
+
+sd          B.58 utt1:  {D Well, } that's basically what happened with us  is we bought a computer,  /
+sd          B.58 utt2: {C and } the computer, {F um, } [ [ d-, + wasn't, ] + didn't ]  do what these people said it would do. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:   (( We need to just put ))  external cards in  /
+sd          B.60 utt2:  {C and } it wouldn't do that  /
+sd          B.60 utt3: {C so } he brought it back to them,  /
+sd          B.60 utt4: {C and } they're supposed to modify it.  /
+sd(^q)       B.60 utt5:   {C And so } I called the credit card company and said, {D well, } we haven't  really taken possession because it's not useful for us.  /
+^q          B.60 utt6:  We can't use it. /  
+
+b          A.61 utt1:  Uh-huh. /  
+
+sd(^q)       B.62 utt1:  {C And then } they said, {D well } then don't pay it.  /
+sd          B.62 utt2:   {C And then } a month later, I had to dispute it in writing,  /
+sd          B.62 utt3: {C and } I was out of the country and  got back,  /
+sd          B.62 utt4: {C and } I took care of it [ as soo-, + as soon ]  as we got the computer back  /
+sd          B.62 utt5: {C and } it was okay.  /
+sd          B.62 utt6: I mailed off a check  /
+sd          B.62 utt7: {C but then } it was too late.  /
+sd          B.62 utt8:  {C So } now they're hitting  (( me up there ))  <laughter> with a finance charge. /  
+
+b          A.63 utt1:  Oh <laughter>. /  
+
+sd          B.64 utt1:  {C But } it's sort of, {D you know, } - /
+sd          B.64 utt2: [ it's, + it's ]  half our fault. /  
+
+aa          A.65 utt1:  Yes,  /
+%          A.65 utt2: it's, - /
+%          A.65 utt3: i-, -/  
+
+%          B.66 utt1:  {C And so } w-, -/  
+
+%          A.67 utt1:  w-, - /
+b          A.67 utt2: yeah,  /
+bf          A.67 utt3: if you filed that letter with  them then they will kind of, -/  
+
+aa          B.68 utt1:  Right,  /
+sd          B.68 utt2: if I had filed the letter to  dispute it and then paid it eventually, it would have been okay. /  
+
+b          A.69 utt1:  Yeah. /  
+
+sd          B.70 utt1: {C So } I learned that for the next time. /  
+
+sd          A.71 utt1:  <Breathing>  I'm like you, too,   
+
+b          B.72 utt1:   (( Yeah. )) /  
+
++          A.73 utt1:  about the yearly fees.  /
+sd          A.73 utt2: [ I don't, + {F uh, } I don't ]  like to pay the yearly fee for a card.  /
+sd          A.73 utt3:  Right now both the MasterCard and  the Visa, we don't have to pay a yearly fee on  /
+sd          A.73 utt4: {C and } --   
+
+b          B.74 utt1:  Uh-huh. /  
+
++          A.75 utt1:  -- since we don't pay the interest  it doesn't really matter what the interest rate,   
+
+b          B.76 utt1:  Right,  /
+b          B.76 utt2: yeah. /  
+
++          A.77 utt1:  is  (( too, just ))  as long as we don't  have to pay that yearly fee.  /
+sd          A.77 utt2:  {D Now } we had American Express cards  /
+sd          A.77 utt3: {C and } my husband had always  had that before we got married,  /
+sd          A.77 utt4: {C and } those got so high we finally decided  for him and me both to have a card it was {D like } ninety dollars <laughter> or something I think, /  
+
+b          B.78 utt1:  Yeah. /  
+
+sd          A.79 utt1:  I can't remember  /
+sd          A.79 utt2: {C but } we decided let that  one go  /
+%          A.79 utt3: {C and, } -/  
+
+sd          B.80 utt1:  {D Well, } my husband and I both have  that  /
+sd          B.80 utt2: {C and } I don't know what we pay for his card,  /
+sd          B.80 utt3: I pay I think, - /
+sd          B.80 utt4: I have a gold one  /
+sd          B.80 utt5: {C so, }    
+
+b          A.81 utt1:  Uh-huh. /  
+
++          B.82 utt1:  I think it's like seventy-five dollars for me -- /  
+
+b          A.83 utt1:  Yeah. /  
+
+sd          B.84 utt1:  -- {C and } I'm not quite sure what it is for him.  /
+sd          B.84 utt2:  {C But } I had really like w-, - /
+%          B.84 utt3:  there <lipsmack> - /
+sd          B.84 utt4: nowadays I'm not [ su-, + so sure ]  that it's worth it, /  
+
+b          A.85 utt1:  Uh-huh. /  
+
+sd          B.86 utt1:  {C but, } {F um, } in the past [ there, + {D you know, } there ]  are some places that only take American Express -- /  
+
+b          A.87 utt1:  Yeah. /  
+
+sd         B.88 utt1:  -- {C and then } they don't have the credit limit  because I've over done the credit limit on the other card,  /
+sd          B.88 utt2: if my husband and I both travel,   
+
+b          A.89 utt1:  Yeah. /  
+
++          B.90 utt1:  [ it, + ] {D you know, } a couple of plain tickets and  a little bit more and you're over the limit on the credit card.  /
+sd          B.90 utt2: {C And, } {F um, }  with the American Express they say there is no limit.  /
+sd          B.90 utt3:  There really is  /
+sd          B.90 utt4: {C but } they,   
+
+x          A.91 utt1:  <Laughter>.   
+
++          B.92 utt1:  tell you that,  /
+sd          B.92 utt2: {C but } then that was one  advantage  /
+sd          B.92 utt3: {C but } [ th-, + that's ] like, - /
+sd          B.92 utt4: I don't, - /
+sd          B.92 utt5: I think it's seventy-five dollars for me and forty  for him --   
+
+b          A.93 utt1:  Uh-huh. /  
+
++          B.94 utt1:  -- for a year which is a lot. /  
+
+b          A.95 utt1:  Yeah. /  
+
+%          B.96 utt1:  Be n-, -/  
+
+aa          A.97 utt1:  {C But, } yeah,  /
+sv          A.97 utt2: like you said,  [ if you really, + if you need ] that extra for charging tickets and stuff,   
+
+b          B.98 utt1:  Yeah,  /
+sd          B.98 utt2: {D well, }   
+
++          A.99 utt1:  it's more worth it. /  
+
++          B.100 utt1:  we should probably get another, {F um, } Visa card,   
+
+b          A.101 utt1:  Uh-huh. /  
+
++          B.102 utt1:  [ ye-, + ] [ one, + another one ] that's free.  /
+sd          B.102 utt2:  {C Because } there are some, - /
+sd          B.102 utt3: {D like } I think A T and T has one that's free if you make two purchases a year. /  
+
+b          A.103 utt1:  Oh. /  
+
+%          B.104 utt1:  {D Well } {C so, } -/  
+
+b          A.105 utt1:  <Laughter> Yeah,  /
+sv          A.105 utt2: that wouldn't be too hard to do <laughter>. /  
+
+b          B.106 utt1:  Yeah,  /
+sv          B.106 utt2: {C and so } that's easy enough to  do,  /
+sd          B.106 utt3: {C and } if that's true, [ that's, + ] {F um, } it might be better off to have that as a second card  just to have the credit.   
+
+b          A.107 utt1:  Yeah. /  
+
++          B.108 utt1:  And get rid of the American Express   because it costs so much. /  
+
+qy          A.109 utt1:  Have you ever run into problems of  charging up more than you meant to and  having to,   
+
+nn          B.110 utt1:  No. /  
+
++          A.111 utt1:  be stuck with that?  /
+sd          A.111 utt2: We've never had,   
+
+nn          B.112 utt1:  No. /  
+
++          A.113 utt1:  that problem either. /  
+
+%          B.114 utt1:  I, - /
+sd          B.114 utt2: {C and } [ I don't under-, + {E I mean, } I guess I do  understand ] the mentality of people doing it  /
+sd          B.114 utt3: {C but } I don't understand.  /
+%          B.114 utt4: Yea-, - /
+sv          B.114 utt5:  {C because } people think it doesn't really cost them anything to pay.  /
+sd          B.114 utt6:   I have had months where I was shocked at how much had come in because {D like } I thought I would  buy a big expense and  think that it would take one or two months to process -- /  
+
+b          A.115 utt1:  Uh-huh. /  
+
+sd          B.116 utt1:  -- {C and } sometimes it comes in right away  /
+sd(^q)       B.116 utt2:  {C and } it's like, {F oh, } {D well, } guess,   
+
+x          A.117 utt1:  <Laughter>.   
+
++          B.118 utt1:  I have to pay that too. /  
+
+b          A.119 utt1:  Yeah. /  
+
+sd(^q)       B.120 utt1:  {C Because }  ((   ))  {D like } many times [ I'll tr-, + I'll ]  buy some things towards the end of the month thinking, hey, I won't get that bill  until the next bill,   
+
+b          A.121 utt1:  Right. /  
+
++          B.122 utt1:  not this bill.  /
+sd          B.122 utt2:  {C And } it will come in on the  next one,  /
+sd          B.122 utt3: you have to pay for it right away anyway. /  
+
+b          A.123 utt1:  Yeah  /
+x          A.123 utt2: <laughter>.   
+
+sd          B.124 utt1:  {C But } sometimes the  ((   ))  is  (( long )) . - /
+sd          B.124 utt2:  {D Like } I've had things that I didn't get billed on for two or three months. /  
+
+aa          A.125 utt1:  Yeah,  /
+sd          A.125 utt2: I guess it depends on whoever  you buy it from how fast they turn them in or something. /  
+
+b          B.126 utt1:  Yeah. /  
+
+sd          A.127 utt1:  Lot of places have tho-, - /
+sd          A.127 utt2:  I guess they're called those pointed sale terminals where it's like it goes in the minute,   
+
+bf          B.128 utt1:  # Immediately. # /  
+
++          A.129 utt1:  # you charge it. # /  
+
+b          B.130 utt1:  Yeah, /  
+
+b          A.131 utt1:  Yeah. /  
+
+sd          B.132 utt1:  {C but, } that's what happened with us  /
+sd          B.132 utt2: {D like } we bought a washing machine (( seven ))  months ago, /  
+
+b          A.133 utt1:  Oh. /  
+
+sd          B.134 utt1:  {C and } [ that + ] I got billed {D like } the next day <laughter>. /  
+
+ba          A.135 utt1:  {F Oh, } gosh. /  
+
+sd          B.136 utt1:  It didn't matter because we couldn't  have paid for it by check  /
+sd         B.136 utt2: {C but } we prefer g-, - /
+sd          B.136 utt3: {D like } with the credit card you get  the automatic, {F um, } one year guarantee so if something breaks, things like that. /  
+
+b          A.137 utt1:  Yeah,  /
+ba          A.137 utt2: that's nice. /  
+
+sd          B.138 utt1:  You can, {F uh, } return it so {D like } the washing machine  we bought it in October - /
+sd          B.138 utt2:  {C and, } {D you know, } if something goes wrong with  it within the first year we've got an automatic guarantee on it besides the manufacturer's guarantee. /  
+
+b          A.139 utt1:  Right. /  
+
+sd          B.140 utt1:  {C And } somethings like that are, -/  
+
+b          A.141 utt1:  Yeah,  /
+sd          A.141 utt2: I like that feature  /
+sd          A.141 utt3: {C and } the insur-, {D like }  if you break it yourself even, {D you know, } -/  
+
+b          B.142 utt1:  Right. /  
+
+sd          A.143 utt1:  if you buy something that's breakable. -/  
+
+bf          B.144 utt1:  {C Or } if it gets stolen or if you lose it or  whatever it might be -- /  
+
+b          A.145 utt1:  Yeah. /  
+
+sd          B.146 utt1:  -- {C and } [ {C so, } + {C so } ]  that's, {D you know, } another advantage.   {C And then } even things like airline tickets you automatically  get flight insurance which, {F um, } (( [ you )) , + hopefully you ] never use. /  
+
+x          A.147 utt1:  <Laughter>.   
+
+sd          B.148 utt1:  {C But } like if your bagga-, - /
+sd          B.148 utt2: {C but } things like  if your baggage gets lost, you get money for that --    
+
+bh          A.149 utt1:  {F Oh, } really? /  
+
++          B.150 utt1:  -- to buy new bags # and things like that. # /  
+
+sd          A.151 utt1:  # {F Oh, } I didn't know that. # /  
+
+aa          @@B.152 utt1:  {C And } yeah,  /
+sd          @@B.152 utt2: when you rent a car,  you get that  /
+sd          @@B.152 utt3: {C and } sometimes you get discounts with the cards  /
+%          @@B.152 utt4: {C and so } ... -/ 

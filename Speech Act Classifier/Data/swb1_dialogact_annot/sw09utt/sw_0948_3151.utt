@@ -1,0 +1,472 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3151_1043_1090
+TOPIC#:         354
+DATE:           910725
+TRANSCRIBER:    lya
+UTT_CODER:      mmab
+DIFFICULTY:     3
+TOPICALITY:     2
+NATURALNESS:    1
+ECHO_FROM_B:    1
+ECHO_FROM_A:    2
+STATIC_ON_A:    3
+STATIC_ON_B:    2
+BACKGROUND_A:   2
+BACKGROUND_B:   2
+REMARKS:        You can frequently hear a baby in the background of voice
+A  Speaker A pauses a lot and her voice fades away.  There is a constant
+line noise or static throughout with sharper spots of static on A's side.
+
+===========================================================================
+  
+
+qo          B.1 utt1:  {D Well, } how do you feel about [ spot test-, + spot testing ] for drugs? /  
+
+nd          @A.2 utt1:  <Noise> {D Well, } basically I think it would be a good idea myself.  /
+sv          @A.2 utt2:  [ I, + {F uh, } I ] think if somebody's not on drugs, they have no reason, {D you know, } to be afraid of it. /  
+
+b          B.3 utt1:  Uh-huh. /  
+
+sv          A.4 utt1:  {F Uh, } I do think that there has to be some controls, {F uh, }  /
+sd          A.4 utt2: {D like, } I don't think one test positive should, {F uh, } be, {F uh, } <<pause>> the end of it, {D you know. } /  
+
+b          B.5 utt1:  # Right. # /  
+
+sv          A.6 utt1:  # [ I, + # I ] think they should test more than once. /  
+
+aa          B.7 utt1:  Yeah,  /
+sv          B.7 utt2: # [ [ it's, + it's # -- ] +   
+
+%          A.8 utt1:  # It, # -- -/  
+
++          B.9 utt1:  it's ] refreshing to hear somebody,   
+
+x          A.10 utt1:  <Static>.   
+
++          B.11 utt1:  that has a similar opinion as mine.  /
+sv          B.11 utt2:  {E I mean, } all these people that are against it [ [ that may, + the-, ] + {D you know, } they may ] not even be on drugs.  /
+sv          B.11 utt3: [ They, + they ] call it an invasion of privacy. /  
+
+b          A.12 utt1:  Uh-huh <baby>. /  
+
+sv          B.13 utt1:  {C And } I don't see that.  /
+sv          B.13 utt2:  To me that just doesn't sound like a valid argument because this company is paying you good money that you're working for -- /  
+
+aa          A.14 utt1:  That's right. /  
+
+sv          B.15 utt1:  -- {C and } [ they, + I believe that,   
+
+x          A.16 utt1:  <Baby> <<very faint>>.   
+
++          B.17 utt1:  they ] have the right to know if you're using [ a, + a ] dangerous substance <laughter>. /  
+
+aa          A.18 utt1:  Uh-huh.  /
+aa^r          A.18 utt2:  Uh-huh. /  
+
+%          B.19 utt1:  # {C But, } # -/  
+
+sv          A.20 utt1:  # There's # so many jobs that, {F uh, }   
+
+x          B.21 utt1:  <Barking>.   
+
++          A.22 utt1:  really have other people's lives in their hands or even their own life <baby>  /
+%          A.22 utt2: [ {C and, } + {D you know, } {C and } ] it's, {F uh } -- -/  
+
+b          B.23 utt1:  Uh-huh. /  
+
+qh          A.24 utt1:  -- {F uh, } how can you do anything about a problem besides if you don't know about it? /  
+
+b          B.25 utt1:  Right. /  
+
+sv          A.26 utt1:  {D You know, } {C and } [ [ I just, + {F um, } I, ] + # I ] think # --   
+
+b          B.27 utt1:  #  (( Right )) . # /  
+
++          A.28 utt1:  -- there definitely needs to be some control to it.  /
+sv          A.28 utt2:  I guess it is possible to have a false <baby> positive report. /  
+
+aa          B.29 utt1:  </Barking> Yes. /
+ar          B.29 utt2: No,  /
+sv          B.29 utt3: [ [ I, + I, ] + I ] agree that, {D you know, } [ you, +  there ] needs to be [ a, + a ] well thought out, sane approach to,   
+
+x          A.30 utt1:  <Baby>.   
+
++          B.31 utt1:  how to administer that program. /  
+
+b          A.32 utt1:  # Uh-huh. # /  
+
+sv          B.33 utt1:  # Just because # [ [ you, + you, ] + something ] can get mixed in the mail,  /
+sv          B.33 utt2: {C or } --   
+
+b          A.34 utt1:  Uh-huh. /  
+
++          B.35 utt1:  -- {F uh, } the chemicals could react incorrectly [ than, + than ] what you would expect them to.  /
+%          B.35 utt2:  # {C And, } yeah,  /
+%          B.35 utt3: [ you, + {D you know } ] <<very faintly>>, # /  
+
+sv          A.36 utt1:  # {C Or } somebody's # test gets mixed up with somebody else's. /  
+
+b          B.37 utt1:  # Right. # /  
+
+sv          A.38 utt1:  # {E I mean, } # those things do happen. /  
+
+b          B.39 utt1:  Yeah. /  
+
+sd          A.40 utt1:  {F Uh, } I certainly wouldn't want people's lives ruined --   
+
+aa          B.41 utt1:  Right,  /
+%          B.41 utt2: # {C and, } {D you know, } I've # -- -/  
+
++          A.42 utt1:  -- # {F uh, } <noise> wrongly. # /  
+
+sd          B.43 utt1:  -- [ [ the, + the, ] + the ] company that I work for, {F uh, } has just [ recently, + {D well, } {D you know, } within the last couple of years, ] instituted for all new hired employees, - /
+sd          B.43 utt2:  they submit to a urine test. /  
+
+b          A.44 utt1:  Uh-huh <noise>. /  
+
+sd          B.45 utt1:  {C And, } [ they, + they ] say that [ [ [ there's been, + {D you know, } they, ] + they, ] + they've ] also implemented random testing. /  
+
+b          A.46 utt1:  Uh-huh. /  
+
+sd          B.47 utt1:  {C And }  ((   )) , it hasn't happened to me in the couple of years that, {D you know, } it's been in progress -- /  
+
+b          A.48 utt1:  # Uh-huh. # /  
+
+sd          B.49 utt1:  -- # {C but, } {F uh, } # [ I, + I ] fully agree with it  /
+sd          B.49 utt2: {C and } [ there's, + {D you know, } there's ] all these memos going around about folks that are disgruntled and feel it's an invasion of privacy,  /
+aa          B.49 utt3: {C and } --   
+
+b          A.50 utt1:  Uh-huh. /  
+
++          B.51 utt1:  -- [ I, + I ] agree with you.  /
+sv          B.51 utt2: [ [ If, + if, ] + if ] you feel it's an invasion of privacy, [ you've, + you've ] probably got something you're trying to hide <laughter>. /  
+
+aa          A.52 utt1:  Yeah  /
+sv          A.52 utt2: {C and } you maybe need to look for some other type of job to do --   
+
+b          B.53 utt1:  # Yeah. # /  
+
++          A.54 utt1:  -- # that, # {F uh, } doesn't require the testing. /  
+
+b          B.55 utt1:  Right. /  
+
+sv          A.56 utt1:  {F Uh, } [ to me, it's, + to me it's ] not an invasion or privacy.  /
+sv          A.56 utt2:  I think [ it's +  people have ] a right to know [ if, + if, ] {F uh, } [ their, + their ] life maybe's in jeopardy [ or, + {F uh, }   
+
+^2          B.57 utt1:  Or, ] the quality of their product. /  
+
++          A.58 utt1:  Yeah.  /
+sv          A.58 utt2:  [ Their work, + the work ] they're doing for their company.   /
+sv          A.58 utt3:   {F Uh, } those things are all affected.  /
+sv          A.58 utt4:  If not immediately, it certainly does eventually. /  
+
+b          B.59 utt1:  Yeah. /  
+
+sv          A.60 utt1:  I think that's where a lot of the problem is at first.  /
+sv          A.60 utt2:  It doesn't seem to, {F uh, } bother the quality of work -- /  
+
+b          B.61 utt1:  Uh-huh. /  
+
+sv          A.62 utt1:  -- {C but } eventually it does. /  
+
+aa          B.63 utt1:  Right,  /
+sv          B.63 utt2: because it usually requires more and more of that substance that you're misusing --   
+
+aa          A.64 utt1:  Uh-huh,  /
+aa^r          A.64 utt2: uh-huh. /  
+
++          B.65 utt1:  -- to get the same effect. /  
+
+b          A.66 utt1:  Uh-huh. /  
+
+b          B.67 utt1:  {F Um. } /  
+
+sd          A.68 utt1:  Course, I feel the same way on the AIDS problem.  /
+sv          A.68 utt2:  [ I, + I ] don't think that's an invasion of privacy,  /
+sd          A.68 utt3: that's <static> the only communicable disease that they're not allowed to test for <noise>,   
+
+x          B.69 utt1:  <Laughter>.   
+
++          A.70 utt1:  {D you know, }  /
+sv          A.70 utt2: {C and } it's destroying a # lot of # --   
+
+sd          B.71 utt1:  # [ {C and then } # -- +   
+
++          A.72 utt1:  -- # people's lives <static>. # /  
+
++          B.73 utt1:  -- # and ] one of the # few that they don't have a cure for <laughter>. /  
+
+aa          A.74 utt1:  Yeah,  /
+sv          A.74 utt2: {C and } [ [ it's, + {D you know, } it's, ] + it's ] destroying people's lives  /
+sv          A.74 utt3: {C and } [ I, + I ] think that person, plus anybody in danger [ should, + should ] [ b-, + know ] about it and  be aware of it. /  
+
+aa          B.75 utt1:  Yeah.  /
+x          B.75 utt2:   ((   ))  <<very faint>>. /  
+
+h          A.76 utt1:  I don't know.  /
+sv          A.76 utt2:  [ It's, + it's ] kind of hard to <<pause>> <lipsmack> - /
+sv          A.76 utt3: I guess the gay movement has had a lot to do with considering [ that, + that, ] {F uh, } an invasion of privacy.  /
+sd^t          A.76 utt4: Of course, that's not supposed to be <laughter> what we're talking about today, I guess.  /
+sd          A.76 utt5:  {C So, }    
+
+b          B.77 utt1:  Yeah <laughter>. /  
+
++          A.78 utt1:  <Laughter> I kind of get off on a tangent here.  /
+qy          A.78 utt2:  {F Uh, } do you work for, {F uh, } Texas Instruments? /  
+
+ny          B.79 utt1:  Yes,  /
+sd^e          B.79 utt2: I do. /  
+
+b          A.80 utt1:  Uh-huh. /  
+
+sd          B.81 utt1:  {C And } [ I'm, + I'm ] down in [ the, + the ] central,  /
+qw^d          B.81 utt2: {C but } I don't know how familiar you are with Texas,  /
+sd          B.81 utt3: {C but } [ I'm in a, + we live [ in a town, + {F uh, } near a town ] ] called Temple.   
+
+b          A.82 utt1:  <Baby> {F Um. } /  
+
++          B.83 utt1:  Which is right in between Waco and Austin on the freeway. /  
+
+sd          A.84 utt1:  {F Oh, } that's probably why,  /
+sd          A.84 utt2: my brother did live in Grapevine, Texas.  /
+sd          A.84 utt3:  That's near Dallas. /  
+
+b          B.85 utt1:  Right. /  
+
+b          A.86 utt1:  Uh-huh. /  
+
+sd          B.87 utt1:  We're probably about two, two and a half hours south of him. /  
+
+b          A.88 utt1:  Uh-huh,  /
+b^r          A.88 utt2: uh-huh. /  
+
+%          B.89 utt1:  {D So. } -/  
+
+qy^d          A.90 utt1:  It's pretty hot down there probably. /  
+
+na          B.91 utt1:  {F Oh } my! /  
+
+b          A.92 utt1:  Yeah <laughter>. /  
+
+sd          B.93 utt1:  [ It's, + {D actually, } we got ] about two inches of rain in about three hours, yesterday. /  
+
+bh          A.94 utt1:  {F Oh, } did you # really? # /  
+
+sd          B.95 utt1:  # {C And } it's # --   
+
+ba          A.96 utt1:  # {F Oh, } that's great. # /  
+
++          B.97 utt1:  -- # cooled things # down somewhat.  /
+sd          B.97 utt2:  It's getting more humid # now,  /
+%          B.97 utt3: {C but, } # -/  
+
+b          A.98 utt1:  # Uh-huh.  /
+sd          A.98 utt2: #   [ We, + we ] need rain real bad up here. /  
+
+b          B.99 utt1:  Uh-huh <<very faintly>>. /  
+
+sd          A.100 utt1:  [ It's, + {F uh, } everything's ] really getting dry.  /
+%          A.100 utt2:  It's, {F uh, } -/  
+
+b          B.101 utt1:  Yeah <<very faintly>>.  /
+sd          B.101 utt2: It's been about three weeks since we've had any. /  
+
+b          A.102 utt1: <Baby> Yeah.  /
+sd          A.102 utt2:  It's kind of at a dangerous level here.  /
+sd          A.102 utt3:  People hauling water,  /
+sd          A.102 utt4: {C and, } {F uh } --   
+
+b          B.103 utt1:  {F Um. } /  
+
++          A.104 utt1:  -- it's getting real bad. /  
+
+ba          B.105 utt1:  Wow. /  
+
+%          A.106 utt1:  {D So. } -/  
+
+bh          B.107 utt1:  How about that? /  
+
+%          A.108 utt1:  {D So. } -/  
+
+sd          B.109 utt1:  {D Well, } I hope you do get some rain up there. /  
+
+aa          A.110 utt1:  {F Um } <<pause>>.  So do I <laughter>. /  
+
+%          B.111 utt1:  <Laughter> I <<very faintly>>, -/  
+
+sd          A.112 utt1:  {F Uh, } I can't think of anything else, {F uh. } /  
+
+b          B.113 utt1:  Yeah,  /
+sv          B.113 utt2: [ I, + I ] guess being in # agreement # --   
+
+b          A.114 utt1:  # Uh-huh. # /  
+
++          B.115 utt1:  -- kind of tends to limit the conversation --   
+
+b          A.116 utt1:  # Uh-huh. # /  
+
++          B.117 utt1:  -- # {D you know } # <laughter>. /  
+
+ba          A.118 utt1:  {F Uh, } I can understand <baby>.  /
+sv          A.118 utt2: I know if somebody is using drugs and  doesn't think there's anything wrong with them, I can see <static> them objecting. {D You know? } /  
+
+x          B.119 utt1:  <Noise>.   
+
+sv          A.120 utt1:  there's a lot of people that <breathing> think that there's nothing wrong with <<pause>>  ((   )) . /  
+
+sd          B.121 utt1:  One of the things I found interesting, - /
+sd          B.121 utt2: [ it, + it's ] funny that you mentioned that,  /
+sd          B.121 utt3: T I is pretty much a worldwide company -- /  
+
+b          A.122 utt1:  Uh-huh. /  
+
+sd          B.123 utt1:  -- {C and } we have manufacturing plants all around the world --   
+
+b          A.124 utt1:  Uh-huh. /  
+
++          B.125 utt1:  -- including some places where the use of certain drugs that are illegal here are not illegal. /  
+
+b          A.126 utt1:  {F Um. }  Uh-huh,  /
+b^r          A.126 utt2: # uh-huh. # /  
+
+b          B.127 utt1:  # Yeah,  /
+sd          B.127 utt2: # <laughter> they don't have to submit to drug testing [ like, + like ]  they do here in the States and some places abroad. /  
+
+ba          A.128 utt1:  {F Oh, } I'll be darn. /  
+
+b          B.129 utt1:  Yeah,  /
+sd          B.129 utt2: I thought that was kind of interesting # too. # /  
+
+b          A.130 utt1:  # Yeah,  /
+b^r          A.130 utt2: # yeah,  /
+sd          A.130 utt3: <noise> the different cultures and that --   
+
+b          B.131 utt1:  Yeah. /  
+
++          A.132 utt1:  -- # too, {F uh } <static>. # /  
+
+sv          B.133 utt1:  # {E I mean, } {F uh, } {F uh, } # from a quality standpoint, [ that's not, + {E I mean, } just because it's not ] illegal doesn't mean it doesn't affect you the same way. /  
+
+aa          A.134 utt1:  No,  /
+aa^r          A.134 utt2: no.  /
+sv          A.134 utt3: I'm sure it would have to affect you the same way.  /
+sv          A.134 utt4: [ I, + I ] can't think that would make any <laughter> difference --   
+
+b          B.135 utt1:  # Yeah. # /  
+
++          A.136 utt1:  -- # whether # it was legal or not, /  
+
+b          B.137 utt1:  <Noise> # Right. # /  
+
+sv          A.138 utt1:  # [ it, + # <static> it ] would still have to affect you the same way. /  
+
+aa          B.139 utt1:  Yeah,  /
+sv          B.139 utt2: {C but, } {D like } if you're going to do business in another country, you've got to respect their rules. /  
+
+b          A.140 utt1:  Uh-huh. /  
+
+sv          B.141 utt1:  I mean [ if, + if, + ] {D you know, } [ that, + that's ] the trade off. /  
+
+aa          A.142 utt1:  Oh yeah.  /
+aa          A.142 utt2:  [ You can't + you go ] by their laws. /  
+
+b          B.143 utt1:  Yeah. /  
+
+sv          A.144 utt1:  The same way <static> our people have to go by their laws when they're over there.  /
+sv          A.144 utt2:  That's why a lot get in trouble <laughter> --   
+
+b          B.145 utt1:  {F Huh } <laughter>. /  
+
++          A.146 utt1:  -- because they have to follow their rules  /
+sv          A.146 utt2: {C and, } {F uh } --   
+
+b          B.147 utt1:  Right. /  
+
++          A.148 utt1:  -- some of the countries are very much against drugs  /
+sv          A.148 utt2: {C and } you use them, you <<pause>> pay for it <laughter>.  /
+x          A.148 utt3:  ((   )) .   
+
+sv          B.149 utt1:  Usually <laughter> with you life in some # places. # /  
+
+aa          A.150 utt1:  # Yeah,  /
+sv          A.150 utt2: # a lot of them.  /
+aa^r          A.150 utt3:  Yeah.  /
+qw          A.150 utt4:  # [ Where, + where # -- ]   
+
+aa          B.151 utt1:  # That's right. # /  
+
++          A.152 utt1:  -- is it [ they lose the, + if they steal they lose a ] # thumb or a finger? # /  
+
+b          B.153 utt1:  # Yeah,  /
+sd          B.153 utt2: from the Middle East. # /  
+
+qy          A.154 utt1:  Is that where it is? /  
+
+ny          B.155 utt1:  Yeah.  /
+sd^e          B.155 utt2: # Iraq, Iran, in that area. # /  
+
+ba          A.156 utt1:  # I thought, wow # <laughter>. /  
+
+b          B.157 utt1:  Yeah <laughter>. /  
+
+sv          A.158 utt1:  {D You know, } that's quite a deterrent <laughter>. /  
+
+sd          B.159 utt1:  {D Well, } in Saudi Arabia, {D you know, } using, {F uh, } alcohol and drugs and something like that, you get the death penalty. /  
+
+b          A.160 utt1:  Yeah.  /
+b^r          A.160 utt2:  Yeah. /  
+
+sv          B.161 utt1:  {C So, } it's pretty strict over there <laughter>. /  
+
+aa          A.162 utt1:  Yeah.  /
+sv          A.162 utt2:  {C So } I guess, {D you know, } [ we, re-, + we have ] so many freedoms over here we sometimes forget about <<pause>> # how # --   
+
+sv(^q)          B.163 utt1:  # {D Well, } # # people tend to # --   
+
++          A.164 utt1:  -- # great out country # really is. /  
+
++          B.165 utt1:  -- take the first amendment out of context.   
+
+b          A.166 utt1:  Uh-huh. /  
+
++          B.167 utt1:  [ Which, + which ] means --   
+
+b          A.168 utt1:  Uh-huh. /  
+
++          B.169 utt1:  -- {D you know, } I could do anything I want to  /
+^q          B.169 utt2: {C and } you can't stop me,  /
+%          B.169 utt3: {C and } {D you know } <laughter>, -/  
+
+sv          A.170 utt1:  [ They, + they ] abuse it --   
+
+b          B.171 utt1:  Yeah. /  
+
++          A.172 utt1:  -- is what they do. /  
+
+b          B.173 utt1:  Yeah. /  
+
+b^m          A.174 utt1:  Yeah. /  
+
+b^m          B.175 utt1:  Yeah. /  
+
+b^m        A.176 utt1:  Yeah. /  
+
+%          B.177 utt1:  {C So, } that's, -/  
+
+%          A.178 utt1:  {D So, } -/  
+
+h          B.179 utt1:  I don't know.  /
+sd          B.179 utt2:  [ I'm, + I'm ] glad to see more and more companies implementing the policy, / 

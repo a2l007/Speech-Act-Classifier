@@ -1,0 +1,149 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4908_1165_1689
+TOPIC#:		335
+DATE:		920504
+TRANSCRIBER:	nk
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+x          B.1 utt1:  <Clicking>.   
+
+sd          A.2 utt1:  {F Uh, } around here we have a program where,  {F uh, }  [ [ we, + we put out [ the, +  the, ] + we separate the ] bottles and the cans  and the plastic stuff from the newspapers.  /
+sd          A.2 utt2: {C And } we keep the newspapers [ in a, + in a, ] - /
+sd          A.2 utt3:  they're collected twice a month  and the trash [ and, + and ] this bottled stuff  that is put [ in a, + in a ] little blue bin that's picked up and sorted out into a truck.  /
+sd          A.2 utt4:   {C So } they [ ma-, + actually have ] about three passes at this collection. # One for # --   
+
+%          B.3 utt1:  # Sounds, # -/  
+
++          A.4 utt1:  -- the regular trash, one for the,  {F uh, } {F uh, } {D you know, } the bottles and cans and one for the newspapers. /  
+
+bf          B.5 utt1:  {C But } I gather  you do not separate,  {F uh, } the bottles and cans. /  
+
+aa          A.6 utt1:  No,  /
+sd          A.6 utt2: [ they, + they ] do that on the truck. /  
+
+b          B.7 utt1:  # Uh-huh. # /  
+
+sd          A.8 utt1:  # They # separate them [ as they, +  as they, ] {D you know, } dump them.  /
+sd          A.8 utt2:   {C And, } {D you know, } one guy comes around with his truck [ and, + and ]  dumps it all in there. /
+sd          A.8 utt3: {C And } I think [ they're, + they're ] running out of,  {F uh, } {D you know, }  ((   )) .  /
+sd          A.8 utt4:  The sanitary landfill, I think, {F uh, } is, {D you know, } running out.  /
+sv          A.8 utt5:   Of course, {F uh, } you being from New Mexico, you've probably been [ n-, + ] to Washington. Especially if you're, your present location. /  
+
+aa          B.9 utt1:  # Yes. # /  
+
+qy^d          A.10 utt1:  # You # must have come to Washington at least once. /  
+
+ny          B.11 utt1:  Yes,  /
+sd^e          B.11 utt2: I know.  /
+sd          B.11 utt3:  Not only have I come  to Washington but, {F uh, } I find it very amusing that, {F uh, } the thing that was  just instituted here is very similar.  /
+sd          B.11 utt4: That is we also have blue bins.  /
+sd          B.11 utt5:   We also separate newspapers from all of the other stuff which goes into the bin and  gets separated in the truck and, {F uh, } landfill space is, in deed,   the driving factor here.  /
+sd          B.11 utt6:  {C And, }  in fact, {F uh, } despite all of our open space out here, landfill space is still, {F uh, } very hard to come by. /  
+
+sv          A.12 utt1:   My,  you've  got [ a lot + [ a, + a ] lot ]  of nothing out there.    
+
+%          B.13 utt1:  A-, -/  
+
++          A.14 utt1:  {D You know, }  /
+%          A.14 utt2: they got, - /
+sv          A.14 utt3: {E I mean }   [ there, + there's ] got to be a crevice between two mountains that nobody gives a doggone about that  [ you could, + you could ] use for landfill.  #  ((   ))  <static>. # /  
+
+b          B.15 utt1:  # Ah,  /
+sv          B.15 utt2: {C but } # if somebody can make  a regulation about it, they will. /  
+
+qw          A.16 utt1:  {D Well } [ what other, + [ [ [ we-, + we-, ] what, ] +  {F uh, } what ] unique ] things you think, {F uh, } that you can do about it [ [ in, + in what, ] + in Los Alamos? ] /  
+
+%          B.17 utt1:  {D Well, } {F uh, } -/  
+
+sd@          A.18 utt1:  {F Uh, } [ other, + other ] than nuking it. /  *[[ This really should be the continuation "+" of A.16 since it's not a clause or an answer to a question. ]]
+
+b          B.19 utt1:  <Laughter> Yes,  /
+b^m          B.19 utt2: other than nuking it. /  
+
+x          A.20 utt1:  <Laughter>.   
+
+sd         B.21 utt1:  {F Um, } in fact, Los Alamos, {F uh, }  has, {F uh, } done a fair amount of research, {F uh, } in recycling things in general.  /
+sd          B.21 utt2: {F Um, } [ it, + it ]  involves, for instance, {F uh, } creating biological organisms which can remove  heavy elements like selenium, and barium and, {F uh, } other things from,  {F uh, } waste material in general. [ And, + {F uh, } and ] purify the waste of specific,  {F uh, } {F uh, } nasty elements. /  
+
+sv          A.22 utt1:  {D Well, } [ [ isn't that a, + that's a, ] +  that's ] pretty, {F uh, } upscale, {F uh, } trash, {F uh, } {F uh, } situation.  /
+sv          A.22 utt2: I don't think anybody  around here would understand [ all the, +   
+
+x          B.23 utt1:  <Laughter>.   
+
++          A.24 utt1:  all those ] exotic techniques, {D you know, } # getting # --   
+
+sd          B.25 utt1:  # {C And } # --   
+
++          A.26 utt1:  -- rid of the heavy metals. /  
+
++          B.27 utt1:  -- the thing that just was in the local  news bulletin was, <sniffing> somebody [ [ has, + {F uh, } ter-, ] + made ]  some special, {F uh, } polymers that have the ability to, {F uh, } make certain actinide elements adhere to them. /
+sd          B.27 utt2:   {F Uh, } {F uh, } they've, {F uh, } looked at, {F uh, } plutonium and uranium  and, {F uh, } some other similar things # to # --   
+
+%          A.28 utt1:  # {F Huh. } # /  
+
++          B.29 utt1:  -- try to remove those from radio active waste  /
+sd          B.29 utt2:  {C and, }  again, this is driven by all of the documentation and, {F uh, } E S  and H, {F uh, } {F uh, } considerations that, {F uh, } people are, {F uh, } worrying about,  I  think, much more than they should.  /
+sd          B.29 utt3: # {D Actually } # --   
+
+%          A.30 utt1:   # We-, # -/  
+
++          B.31 utt1:  -- I've been involved in recycling  for long before it became fashionable.  /
+sd          B.31 utt2: Back when I was in graduate school,  I did all of the recycling of the, {F uh, } paper from the computer center  /
+sd          B.31 utt3:  {C and, }  {F uh, } in fact I think I was the first person in our department to have my thesis published on  [ recyclable pa-, + recycled paper. ] /  
+
+%          A.32 utt1:  {F Huh. } /  
+
+x          B.33 utt1:  <Laughter>.   
+
+sv          A.34 utt1:  {D Well } that's certainly, {F uh, }  {D you know, } {F uh, } getting into the swim of things.  /
+sv(^q)        A.34 utt2: [ I, + I ] think [ it should be, + [ i-, + it ] should go ]  [ to the, + to the ] heart of the matter though  and say, okay guy,  /
+^q          A.34 utt3: [ [ you, + y-, ] +  everybody ] gets, {D you know, } five pounds of garbage that they can throw away, {D you know. }  /
+^q          A.34 utt4:   {F Uh, } {C but } more than that every week, {F uh, } you've got to pay by the pound. #  /
+sv          A.34 utt5: [ [ I, + I ] think # -- +   
+
+sv          B.35 utt1:  # I think that's # a wonderful idea. /  
+
++          A.36 utt1:  -- I think ]  [ people [ would be, +  would get ]  [ very, + very, ] + {D you know, } they'd be  very ] careful about how they bought stuff. /  
+
+sv          B.37 utt1:  The only alternative I would see is, {F uh, }   {A and this would actually be a little more workable since weighing everybody's  garbage would be a real pain. }  {F Uh, } if you did it by volume rather than by weight --   
+
+b          A.38 utt1:  Uh-huh. /  
+
++          B.39 utt1:  -- it would, {F uh, } speak more  directly to the space needs and the landfill  /
+sv          B.39 utt2: {C and } it <sniffing> # would # --   
+
+b          A.40 utt1:  # Yeah. # /  
+
++          B.41 utt1:  -- also cause people to compact their garbage more. /  
+
+b          A.42 utt1:  Uh-huh. /  
+
+sv          B.43 utt1:  {F Uh, } [ {C and, } + {F uh, } {C and } ]  limiting the volume is probably a little bit closer to the real problem than limiting the weight. /  
+
+sv          A.44 utt1:  {D Well, } of course,  [ that, + {F uh, } {D you know, } those ] big trucks  [ [ can, + can, ] + probably are ] far more efficient in packing  than any kind of little household compactor. / 

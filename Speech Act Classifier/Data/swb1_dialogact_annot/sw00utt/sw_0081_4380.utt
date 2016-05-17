@@ -1,0 +1,241 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:        4380_1534_1537
+TOPIC#:          353
+DATE:            920325
+TRANSCRIBER:     nk
+UTT_CODER:	tc
+DIFFICULTY:      3
+TOPICALITY:      1
+NATURALNESS:     1
+ECHO_FROM_B:     1
+ECHO_FROM_A:     1
+STATIC_ON_A:     1
+STATIC_ON_B:     1
+BACKGROUND_A:    1
+BACKGROUND_B:    1
+REMARKS:         Both speakers tended to mumble and their voices would fade.
+A tended not to finish his sentences.
+
+============================================================================
+  
+
+sd          A.1 utt1: Recently graduated from high school.  Meaning like, {F uh, } {D you know, } three or four years ago.  /
+sd          A.1 utt2: I'm a senior [ in, + in, ] {F uh, } college now. /  
+
+b          B.2 utt1:  Uh-huh. /  
+
+sd          A.3 utt1: {C And, } {F uh, } I can't really talk too much about <laughter> the problems with, {F uh, } public education in detail because the school system I went to was, {F uh, } really superb even though it was a # public school # --   
+
+bh          B.4 utt1:  # Really? # /  
+
++          A.5 utt1:  -- system. /  
+
+ny          B.6 utt1: Yeah.  /
+sv          B.6 utt2: I feel that my, {F uh, } - /
+sd          B.6 utt3: I'm a junior in college now.  /
+sd          B.6 utt4: # {C And } # --   
+
+b          A.7 utt1:  # Oh.  #  /
+sd          A.7 utt2:  Okay. /  
+
++          B.8 utt1:  -- I go to Tech, Georgia Tech? /  
+
+b          A.9 utt1:  Yeah. /  
+
+%          B.10 utt1:  # {C And } I, # -/  
+
+sd          A.11 utt1: # I got # a friend who goes there, by the way <laughter>.  /
+sd          A.11 utt2: I want to [ as-, + talk ] to you about that # afterward,  /
+^g          A.11 utt3: okay. # /  
+
+na^r          B.12 utt1: # <Laughter> # Okay <sniffing>.  /
+%          B.12 utt2: {F Uh, } I've, - /
+sd          B.12 utt3: the high school I went to [ was, + {F uh, } was ] a good one also.  /
+sv          B.12 utt4: {C And } [ I, + {D well, } I ] guess you could say one of the problems with the public education system is the disparity between different schools.  /
+sv          B.12 utt5: {C Because } the one I went to was, {D you know, } I'm sure [ a, + a ] lot nicer than, {D you know, } a lot of the inner city schools and --   
+
+b          A.13 utt1:  <Sniffing> Yeah. /  
+
++          B.14 utt1:  -- the things around Atlanta. /  
+
+b^r          A.15 utt1: Yeah.  /
+qy^d          A.15 utt2: [ ((It was [ a, + a, ] + it's a)) ] more or less a suburban school system? /  
+
+ny          B.16 utt1:  Yeah. /  
+
+b          A.17 utt1: Yes.  /
+sd          A.17 utt2: [ That, + that ] was true for mine too.  /
+sv          A.17 utt3: {F Uh, } although I <throat_clearing> I'm sure to some extent, that money is part of the problem in the disparity, /  
+
+x          B.18 utt1:  <Sniffing>.   
+
+sv          A.19 utt1: {C but } [ I don't think, + I honestly don't think ] that's the biggest part of it.  /
+sv          A.19 utt2: # {D You know, } [ I # --   
+
+qw          B.20 utt1:  # What d-, # -/  
+
++          A.21 utt1: -- think that, + {F uh, } {E I mean } I know that ] in my town, {D you know, } [ most of the, + most of the ] parents, they're valued education.  /
+sv          A.21 utt2: # [ {C And, } + {F uh } # --   
+
+aa          B.22 utt1:  # Yeah,  /
+aa          B.22 utt2: that's # true. /  
+
++          A.23 utt1: -- {D you know, } {C and so } ] the students were, {D you know, } to some extent, motivated to <laughter> learn.  /
+%          A.23 utt2: I {E mean } --    
+
+b          B.24 utt1:  Yeah.  /
+%          B.24 utt2:  # {C And } I'm also # -- -/  
+
++          A.25 utt1:  -- # {E ((you know })) <laughter>. # -/  
+
+sv          B.26 utt1: -- {E I mean, } [ in the, + in those ] places where, {F uh, } {D like } the economy is really bad, they might, {D you know, } be more tempted [ to, + to ] quit school and get jobs and that kind of thing because they need the, {D you know, } money to put food on the table and stuff like that.  More than they would <sigh>, {D you know, } in areas where they <sniffing> - /
+%          B.26 utt2: ((yeah)), /  
+
+aa          A.27 utt1: <Inhaling> Yeah,  /
+aa          A.27 utt2: that's true.  /
+sv          A.27 utt3: [ {C But } + <throat_clearing>, {C but, } ] {F uh, } I think, {E I mean } even more than that, even, {E I mean } if you drop out in high school --   
+
+b          B.28 utt1:  Uh-huh. /  
+
++          A.29 utt1:  -- you should still be able to read <laughter>, {D you know? }    
+
+aa          B.30 utt1:  Yeah.  /
+aa         B.30 utt2:  # That's true. # /  
+
++          A.31 utt1: # Which # [ it + (( )), <laughter> {E I mean } it ] sounds like, {F uh, } - /
+sv          A.31 utt2: now I think maybe it's started changing in the past few years because, {F uh, } they have [ of + ] these, {F uh, } sort of [ mandatory + <<mispronounced>>, -tory ] tests [ if + ] you have to take before # you get # --   
+
+b          B.32 utt1:  # Right. # /  
+
++          A.33 utt1:  -- a diploma.  /
+sd          A.33 utt2:  [ {C But, } + {F uh, }    
+
+x          B.34 utt1:  <Sniffing>.   
+
++          A.35 utt1: {C but, } ] {F uh, } certainly before that, there were people that, {D you know, } would graduate from high school and could barely read.  /
+sv          A.35 utt2: {F Uh, } {C and } that's just sort of inexcusable  /
+%          A.35 utt3: {C and } you can't really,  /
+sd          A.35 utt4: {E [ [ I, + I, ] + I ] mean } I just can't even picture how that could happen.   
+
+b          B.36 utt1:  Yeah. /  
+
++          A.37 utt1: {D You know, } except maybe to someone whose, {D you know, } really badly learning, {F uh, } disabled or something.  /
+sd          A.37 utt2: {C But } these people obviously <laughter> weren't. /  
+
+sd          B.38 utt1:  That's hard for me to say since [ I didn't, +   
+
+x          A.39 utt1:  <Noise> <<sounds likes a burp>>.   
+
++          B.40 utt1: I didn't ] really grow, - /
+sd          B.40 utt2: {D well } when I went to elementary school [ it, + it ] wasn't in a great area  /
+sd          B.40 utt3: {C but } [ [ I still, + {E I mean, } I learned to read, ] + started learning to read ] when I was in kindergarten, {D you know. } /  
+
+b          A.41 utt1:  # Yeah. # /  
+
+sv          B.42 utt1:  # {C So } # I guess [ I can't really -- +   
+
+b^r          A.43 utt1:  Yeah. /  
+
++          B.44 utt1: -- I can't ] say what it would be like to, {F uh, } grow up in a really oppressed region <rustling>. /  
+
+b^r          A.45 utt1:  Yeah. /  
+
+sv          B.46 utt1: {D You know, } I guess [ the whole, + the whole ] environment and attitude towards school and learning is different for the # (( )) people. # /  
+
+aa          A.47 utt1:  # Yeah.  /
+sv          A.47 utt2:  {C And } # I think that's almost a bigger factor,   
+
+x          B.48 utt1:  <Sniffing>.   
+
++          A.49 utt1: than anything else probably.  /
+sv          A.49 utt2: {E I mean, } [ I don't, + I think # ] {D you know, } people just, # -/  
+
+sv          B.50 utt1: # {C So, } I guess [ the # problem is the, + the thing to do is ] to try [ to, + {F uh, } to ] get some kind of motivation to learn  /
+%          B.50 utt2: {C and, } -/  
+
+b          A.51 utt1: Yeah.  /
+%          A.51 utt2: {C And, } again, I don't, {E I mean } - /
+%          A.51 utt3: ((they got to)) know [ the, + ] {D you know, } how qualified, {E I mean, } (( )) - /
+sv          A.51 utt4: I think it'd be interesting --   
+
+b          B.52 utt1:  Uh-huh. /  
+
++          A.53 utt1: -- [ to, + {D you know, } to ] spend a couple of days just looking around an inner city school. {F Uh, } {D you know, } [ sort, + sort ] of maybe from elementary through, {F uh, } high school.   
+
+b          B.54 utt1:  # Yeah. # /  
+
++          A.55 utt1: # {D You know, } # just sort of to get a feel for what it's like. /  
+
+b          B.56 utt1:  Uh-huh. /  
+
+sv          A.57 utt1: I think that'd be an interesting experience.  /
+sd          A.57 utt2: {C But, } {F uh, } I haven't done that <laughter> <sniffing>. /  
+
+b          B.58 utt1:  No,  /
+sd          B.58 utt2: [ I, + I ] can't say that I have either. /  
+
+x          A.59 utt1:  <Throat_clearing>.     
+
+%          B.60 utt1:  <Sniffing> {C But, } {F uh, } -/  
+
+sv          A.61 utt1: {C But } [ I do, + I do ] think that, {F uh, } {E I mean, } public education in general I think can work.  /
+sv          A.61 utt2: {C And } I think it's a good thing. /  
+
+b          B.62 utt1: Yeah.  /
+sd          B.62 utt2: [ [ I've, + I've ] heard some, + {E I mean } I've heard [ [ sta-, + sta-, ] + statistics ] ] and things [ that, + that ] compare a public education to a private education. {E I mean } [ within + {D like, } within ] the <thumping> same, {F uh, } income groups. /  
+
+b          A.63 utt1:  Yeah. /  
+
+sd          B.64 utt1: If you compare [ the, + {D like } the ] people [ that could have, + that could have ] sent their kids to private schools and [ the people that, + {D you know, } the people that, ] {F uh, } did send their kids # to private # --   
+
+b          A.65 utt1:  # Yes. # /  
+
++          B.66 utt1: -- schools.  /
+sv          B.66 utt2: I think they compare [ fair-, + {D you know, } fairly ] well. /  
+
+b          A.67 utt1: Yeah.  /
+b^r          A.67 utt2: Yeah.  /
+sv          A.67 utt3: {E I mean, } [ I don't, + I honestly don't ] really think I could have, {D you know, } done much better than I did in the school system I was in.   
+
+b          B.68 utt1:  Yeah. /  
+
++          A.69 utt1:  {E ((I mean })). /  
+
+%          B.70 utt1: [ [ [ I, + I, ] + I, ] + my schools, ] {E I mean, } there, - /
+sd          B.70 utt2: I have a lot of - /
+sd          B.70 utt3: [ once, + once ] it seemed I got into high school, they had a lot of, {F uh, } (( )) accelerated programs and all kinds of --   
+
+b          A.71 utt1:  Yeah. /  
+
++          B.72 utt1: -- stuff like that.  /
+sv          B.72 utt2: [ That, + {E I mean, } that ] makes a big difference  /
+sd          B.72 utt3: {C cause } I wondered when they're taking classes [ with, + {F uh, } with ] people that [ are really, + are ] interested in [ the, + the ] subject # and stuff like that. # -/  
+
+b          A.73 utt1: # <Throat_clearing> Yeah.  /
+%          A.73 utt2: {E I mean, } [ {C and } + # {C and } ] in the, -/  
+
+x          B.74 utt1:  <Sniffing>.   
+
+sd          A.75 utt1: <Sigh> once you [ ((book)) junior high, + {F uh, } start junior high, ] starting in eighth grade all the way through high school, there were four levels.  /
+ar          A.75 utt2: {D Well, } no,  /
+sd          A.75 utt3: I guess [ it wa-, + in junior high, it was ] still three.  /
+sd          A.75 utt4: Then in high school it changed into four levels [ of, + {F uh, } of ] instruction in the major subjects.   
+
+b          B.76 utt1:  Uh-huh. /  
+
++          A.77 utt1: {F Uh, } which, - /
+sv          A.77 utt2: {E I mean, } actually I think that works pretty well.  /
+%          A.77 utt3: (( )) {C and } [ that, + that ] makes, -/ 

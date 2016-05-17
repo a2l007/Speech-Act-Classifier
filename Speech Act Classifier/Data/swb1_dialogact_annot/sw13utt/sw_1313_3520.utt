@@ -1,0 +1,141 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+FILENAME:	3520_1458_1382
+TOPIC#:		355
+DATE:		911212
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	3
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=======================================================================
+  
+
+sv          A.1 utt1:  Well, seems to me the, one of the reasons that people don't go out to vote is maybe they're bored with the whole election process. /  
+
+aa          B.2 utt1:  Well, I agree with the boredom of the election process,  /
+sv          B.2 utt2: but I also, uh, think that people don't realize that their boat, vote will make a difference.  /
+sv          B.2 utt3: Uh, they feel like that, you know, it's going to go however it's going to go  /
+sv          B.2 utt4: and their one little vote is not going to make that much difference  /
+sd(^q)          B.2 utt5: and it's,  just why make the effort. /  
+
+sv          A.3 utt1:  Well, sometimes, strangely enough, one vote has made the difference. /  
+
+aa          B.4 utt1:  Well, I agree with that  /
+sd          B.4 utt2: and I, and I do know that, you know, all those votes are counted  /
+sv          B.4 utt3: and, and they do make a difference.  /
+sv          B.4 utt4:  Uh, also I think that people have a tendency to, to vote in the larger elections and not vote in the, the more local elections. /  
+
+sv          A.5 utt1:  Well, it's kind of strange  /
+sd          A.5 utt2: because in the local elections is the ones that have the most influence on their day-to-day lives. /  
+
+aa          B.6 utt1:  Exactly,  /
+sd          B.6 utt2: and, I, I even have a tendency to do that myself.  /
+sd          B.6 utt3:  And I have to really make a concerted effort to, to get involved.  /
+sd          B.6 utt4:  I live, I live in a suburb in Mesquite  /
+sd          B.6 utt5: and, uh, <breathing> so I really have to make an effort to read the local paper and to see what's going to because that directly affects me.  /
+sv          B.6 utt6:  But I, I think on the whole, most people don't, uh, feel that way.  /
+sv          B.6 utt7:  Or don't look, even look at that.  /
+sv          B.6 utt8:  I think they just don't even, - /
+sv          B.6 utt9: I, I don't think they're conscious of it. /  
+
+sv          A.7 utt1:  Well, maybe part of the problem is they don't, they think they have enough choices. /  
+
+sv          B.8 utt1:  Well, that may be true, too.  /
+sd          B.8 utt2:  I hadn't thought of that.   /  
+
+sd          A.9 utt1:  You know, in some of the European countries, they have numbers of parties that run  /
+sd          A.9 utt2: and then lot of more voters come out to vote than vote in this country. /  
+
+b          B.10 utt1:  Uh-huh,  /
+b          B.10 utt2: right.  /
+%          B.10 utt3:  And sometimes it's, uh, - /
+sv          B.10 utt4: well, not sometimes, but many times it's who has the most money to spend on the largest campaign  /
+sd          B.10 utt5: and, and issues get, uh, bogged down. /  
+
+sv          A.11 utt1:  Well, maybe it's a matter of, you know, voter awareness.   /  
+
+%          B.12 utt1:  Uh, I think voter awareness, - /
+sd          B.12 utt2: I, I did some work for the, uh, Women's League of, uh, Voters, uh, several years ago  /
+sv          B.12 utt3: and, I think there are some organizations that used to, uh, do some voter awareness, uh, things.  /
+sd          B.12 utt4:  They don't get a lot of participation.  /
+sd          B.12 utt5:  They don't get a lot of, uh, activity.  /
+sd          B.12 utt6: Most of the League of Women Voters, what they did was they put out information, so that it, it would just be made available to everyone.  /
+sd          B.12 utt7:  Now, other areas that I've worked in, like in the chambers, they would just have the candidates come  /
+%          B.12 utt8: and it would just, you know, - /
+sv          B.12 utt9: that was not a lot of community involvement  /
+sv          B.12 utt10: and those were people that would mostly vote anyway. /  
+
+sv          A.13 utt1:  Well, I think part of the problem is the election goes on way too long.  /
+sd          A.13 utt2:  In Britain, you know, they have a set period of time  /
+sd          A.13 utt3: and, and for campaign, that's it.  /
+sv          A.13 utt4:  In this country, it seems like it's a continuous ongoing campaign. /  
+
+aa^m          B.14 utt1:  It's a, it's an ongoing campaign  /
+sv          B.14 utt2: and it's expensive campaign  /
+sv        B.14 utt3: and it, it, uh, eliminates a lot of qualified people.  /
+sv          B.14 utt4:  Uh, maybe more qualified and, uh, more dedicated to the issues. /  
+
+sv          A.15 utt1:  Well, the, they don't want to spend the time  /
+sv          A.15 utt2: or they don't have the money. /  
+
+aa          B.16 utt1:  Exactly,  /
+aa^r          B.16 utt2: exactly  /
+%          B.16 utt3: and it, it, - /
+sd          B.16 utt4: I, I can't b-, I just can't believe, - /
+sd          B.16 utt5: I've, I've worked in a couple of local campaigns.  /
+sd          B.16 utt6:  I just cannot believe the dollars that are spent just even locally. /  
+
+sv          A.17 utt1:  Well, it's a matter of name recognition.  /
+sv          A.17 utt2:  People aren't going to vote for someone they've never heard of. /  
+
+aa          B.18 utt1:  Oh, well, I agree with that,  /
+%          B.18 utt2: but also, - /
+sd          B.18 utt3: and I, and I'm not for controlling how much is spent,  /
+%          B.18 utt4: but do you know,  /
+sv          B.18 utt5: that's one thing,  /
+%          B.18 utt6: if a, if the time wasn't so, - /
+sd          B.18 utt7: if it wasn't such a long, uh, campaigning time, then they couldn't spend as much money. /  
+
+sv          A.19 utt1:  And even debates don't seem to help much.   /  
+
+aa          B.20 utt1:  No,  /
+sv          B.20 utt2: they really don't.  /
+sv          B.20 utt3:  Uh, it's al-, it's, a lot of it is who looks the best, who, uh, who happens to say the right thing at the right time, who, not, who may not be the most qualified and can get the b-, uh, the job done. /  
+
+bf          A.21 utt1:  So we're really voting for the best makeup person and the best handlers. /  
+
+aa          B.22 utt1:  Exactly.  /
+%          B.22 utt2:  And it's a, it's a lot, - /
+sd          B.22 utt3: I've worked in public relations a lot  /
+sd          B.22 utt4: and, uh, that kind of thing can make and break, make or break you  /
+sd@          B.22 utt5: as you can remember <laughter>, uh, Clayton Williams' campaign.   
+
+sv          A.23 utt1:  Well, that was certainly a media event.   /  
+
++@          B.24 utt1:  It really was  /
+%          B.24 utt2: and it's just, uh, uh, - /
+sv          B.24 utt3: he possibly could have, uh, won that election had it not been for some of the <lipsmack>, the, uh, the way he presented himself. /  
+
+sv          A.25 utt1:  Well, he had a classic case of hoof in mouth disease. /  
+
+aa          B.26 utt1:  <Laughter> Hoof, is, is, I guess the right term for him. / 

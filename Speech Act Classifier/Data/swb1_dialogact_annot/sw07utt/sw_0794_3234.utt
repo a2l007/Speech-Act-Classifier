@@ -1,0 +1,191 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3234_1409_1366
+TOPIC#:		351
+DATE:		911009
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+=========================================================================
+  
+
+sd          A.1 utt1:  Carolyn, I have a [ little Schnauzer, +  little miniature Schnauzer. ] /  
+
+b          B.2 utt1:  Oh. /  
+
+qw          A.3 utt1:  What do you have? /  
+
+sd          B.4 utt1:  {D Well, } it's kind of a mixed breed that we got  from the Humane Society <laughter>. /  
+
+sv          A.5 utt1:  You know, those make the  [ best animals, + {F uh, } [ pe-, + best pets. ] ]  /
+sd          A.5 utt2:   My, {F uh, } son has [ a, + ] {F uh, } {F oh, } - /
+sd          A.5 utt3:  it's a real mixture,  /
+sd          A.5 utt4: it's part, {F uh, } Doberman and part Husky <laughter>. /  
+
+ba          B.6 utt1:  {F Oh, } my. /  
+
+b          A.7 utt1:  <Laughter> Yes,  /
+sd          A.7 utt2: {C and } [ they, + ]  gentlest dog you ever met,  /
+sd          A.7 utt3: {C and } they got him from the, {F uh, } Humane Society here in Oklahoma City -- /  
+
+b          B.8 utt1:  {F Oh, } /  
+
+sd          A.9 utt1:  -- {C and } she's just turned out to be a jewel.  /
+sd          A.9 utt2: [  My, + my ] little <child_yelling> Schnauzer [ is, + is ] my friend.  /
+sd          A.9 utt3: She is so spoiled.  /
+sd          A.9 utt4:    She's a year and a half old now,  /
+sd          A.9 utt5: {C and } being single,  she's become very important in my life -- /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+sd          A.11 utt1:  -- it's so nice to [ have, + ] come home and  find something, or someone who's really so happy to see you. /  
+
+sd          B.12 utt1:  {D Well, } my children are the ones that wanted  our pet,  /
+sd          B.12 utt2: {C and } this one is probably the best one that we have had.  /
+sd          B.12 utt3: {F Um, }  as I say, we got it from the Humane Society,  /
+sd          B.12 utt4: {C and, } {F uh, } we had lost a pet,  /
+sd          B.12 utt5:  {C and } we really went there looking for the one that we had lost.  /
+sd          B.12 utt6:  It got out under the  fence while we were on vacation,  /
+sd          B.12 utt7: {C and } we just looked all over for it and  couldn't find it,  /
+sd          B.12 utt8: {C but, } {F uh, } when we walked in [ to the, + to the ]  Humane Society, this little dog was, {F uh, } in the office and would sit up and beg,  /
+sd          B.12 utt9: {C and } just, {F oh, }  he was so cute,  /
+sd          B.12 utt10: {C and } the kids just fell in love with it.  /
+sd          B.12 utt11:   We just couldn't leave without it.  /
+sd          B.12 utt12:  {C But, } [ it's, + {F um, } whoever had it ]  before must have trained it real well, because [ it's just, + {D you know, } it's, ] {F uh, } a good house dog.  /
+sd          B.12 utt13:   I've never had one that I could keep in the house before and tolerate it <laughter>. /  
+
+sd          A.13 utt1:  Sometimes I wish I had not gotten this one,  it's a puppy, because I work  /
+sd          A.13 utt2: {C and } I'm not home -- /  
+
+b          B.14 utt1:  Uh-huh. /  
+
+sd          A.15 utt1:  -- {C and } unfortunately she's not as well   trained [ as, + as ] I would like her to be -- /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  -- {C and } I realize it's my fault,  /
+sd          A.17 utt2:  I'm not doing a really great job as a disciplinarian,  /
+%          A.17 utt3: {C but, } {F uh, } -/  
+
+sv          B.18 utt1:  It's hard to do that when you're not there constantly, /  
+
+aa          A.19 utt1:  It is,  /
+aa^r          A.19 utt2: it is.  /
+sd          A.19 utt3:  [ She's, + {D you know, } she's ]  real good,  /
+sd          A.19 utt4: I can leave her all day in the bathroom --   
+
+%          B.20 utt1:  {F Um. } /  
+
++          A.21 utt1:  -- with her toys and her food and everything,  /
+sd          A.21 utt2:  [ {C and, } + {C and, } ] not one mess does she make -- /  
+
+b          B.22 utt1:  Oh. /  
+
+sd          A.23 utt1:  -- {C and then } we go outside,  /
+sd           A.23 utt2: {C and } she'll stay  outside for, {F oh, } thirty minutes to an hour, come inside and use the restroom. /  
+
+%          B.24 utt1:  {F Um. } /  
+
+sd          A.25 utt1:  I just want to kill her <laughter> at --   
+
+b          B.26 utt1:  Oh. /  
+
++          A.27 utt1:  -- those times.  /
+sd          A.27 utt2:  {C But } she's a doll,  /
+sd          A.27 utt3:  she's a love,  /
+sd          A.27 utt4: she really is. /  
+
+sd          B.28 utt1:  About the only time we have, - /
+h          B.28 utt2:  {D well, } I shouldn't say the only time,  /
+sd          B.28 utt3: {C but } most of the time when we have problems with restroom is in  the night,  /
+sd          B.28 utt4: {C and, } {F uh, } she usually stays inside at night.  /
+sd          B.28 utt5:  We try to take her out right before we go to sleep,  /
+sd          B.28 utt6: {C but, } {F uh, } sometimes it doesn't work <laughter>. /  
+
+sd          A.29 utt1:  {D You know, } [ [ I, + I, ] + we ]  always had a pet when I was growing up, {F oh } always had a dog.  /
+sd          A.29 utt2: My mother did not like cats.  /
+sd          A.29 utt3: {C So } we always  had a dog,  /
+sd          A.29 utt4: [ {C and, } + {C and then, } ] course, when my children were growing up,  we always had a dog, and always said it was because the children wanted the pet -- /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd          A.31 utt1:  -- {C and } I find that I'm enjoying this one  far more than I ever did when it was the children's dog, /  
+
+b          B.32 utt1:  Oh. /  
+
+sd          A.33 utt1:  [ I, + ]  {F uh, } in fact my children gave me [ this, + this ]  little puppy for Christmas. /  
+
+ba          B.34 utt1:  What a cute idea. /  
+
+aa          A.35 utt1:  Yeah,  /
+sd          A.35 utt2: I think so <laughter>. /  
+
+sd          B.36 utt1:  {D Well, } we got one one year for Christmas,  /
+sd          B.36 utt2:  {C and, } {F uh, } I had a baby the next day -- /  
+
+ba          A.37 utt1:  {F Oh, } my goodness. /  
+
+sd          B.38 utt1:  -- {C and, } {F uh, } {C so } --   
+
+bf          A.39 utt1:  Two babies,  /
+b          A.39 utt2: huh. /  
+
++          B.40 utt1:  -- that one wasn't really well trained <laughter>. /  
+
+b          A.41 utt1:  Oh. /  
+
+sd          B.42 utt1:  {F Oh, } I just didn't have time to take care  of baby and train puppy at the same time,  /
+%          B.42 utt2: {C so, } -/  
+
+sv          A.43 utt1:  [ That, + that ] is really probably bad timing. /  
+
+aa          B.44 utt1:  Yeah,  /
+%          B.44 utt2: I thin-, - /
+sd          B.44 utt3: it was,  /
+sd          B.44 utt4: it really was.  /
+sd          B.44 utt5:  The older kids had wanted one, though,  /
+sd          B.44 utt6: {C and, } {D you know, } we thought, {D well }  that would be a fun time for them to [ have it, + {D you know, } get it ] at Christmas time.  /
+sd          B.44 utt7:  It was a little Spitz, wi-, a little white --   
+
+ba          A.45 utt1:  {F Oh, } yes, /  
+
++          B.46 utt1:  -- fluffy and, {D you know, } looked like it came right  from the north pole, - /
+sd          B.46 utt2: {C and } that was fun,  /
+sd          B.46 utt3: {C but, } {F um, } [ I, + I ]  sure wasn't good at training it -- /  
+
+%          A.47 utt1:  Do you -- -/  
+
+sv          B.48 utt1:  -- I think you have to have time, {D you know } --   
+
+^2          A.49 utt1:  -- and patience -- /  
+
++          B.50 utt1:  -- to do those things. /  
+
+sv          A.51 utt1:  -- {C and } [ you have to, + you really have to ]  be, just like your children,  /
+sv          A.51 utt2: when you set a rule you have to stand by it, and be consistent -- /  
+
+aa          B.52 utt1:  That's right. /  
+
+%          A.53 utt1:  -- {C and } ... -/ 

@@ -1,0 +1,145 @@
+2442.68,2457.06,Bro028-c2,s,3a,,whichever sub-vector um works the - the best i guess he says - the - the fe- - feature that didn't use was the most useless feature .
+2451.47,2452.1,Bro028-c1,b,,,y- - yeah .
+2455.32,2455.94,Bro028-c1,s^2,3b,,gets thrown out .
+2457.35,2457.61,Bro028-c1,b,,,yeah .
+2457.6,2458.73,Bro028-c2,s,,,so we'll throw it out .
+2458.73,2464.25,Bro028-c2,s,4a,,and we're gonna randomly select another feature from the set of possible basis functions .
+2465.15,2465.3,Bro028-c0,s^bk,4b,,hmm .
+2465.93,2466.05,Bro028-c1,s^bk,,,yeah .
+2466.49,2466.85,Bro028-c0,s.%-,,,so it's a ==
+2466.59,2467.68,Bro028-c1,s.%-,,,so i- - so it's actuall- ==
+2467.09,2470.04,Bro028-c0,s,5a,,it's a little bit like a genetic algorithm or something in a way .
+2469.42,2470.65,Bro028-c5,s.%-,,,it's like a greedy ==
+2469.72,2470.88,Bro028-c1,s^ng,5b,,well it's - it's much simpler .
+2470.88,2474.1,Bro028-c1,s,,,but it's - but it's - uh it's - there's a lot - number of things i like about it let me just say .
+2471.51,2471.91,Bro028-c0,s^e,,,greedy .
+2474.54,2476.23,Bro028-c1,s,,,so first thing well you're absolutely right .
+2476.23,2482.97,Bro028-c1,s,,,i mean i- - i- - in truth both pieces of this are - have their analogies in stuff we already do .
+2483.5,2486.38,Bro028-c1,s,,,but it's a different take at how to approach it .
+2486.51,2490.48,Bro028-c1,s,,,and potentially one that's m- - maybe a bit more systematic than what we've done .
+2491.11,2494.9,Bro028-c1,s,,,uh and a b- - a bit more inspiration from - from auditory things .
+2494.9,2496.74,Bro028-c1,s,,,so it's - so i think it's a neat thing to try .
+2497.19,2500.32,Bro028-c1,s.%--,,,the primary features um are in fact ==
+2500.64,2505.42,Bro028-c1,s,,,yeah essentially it's - it's uh you know p_l_p or - or mel cepstrum or something like that .
+2505.42,2507.82,Bro028-c1,s,,,you've - you've got some uh compression .
+2507.82,2509.24,Bro028-c1,s,,,we always have some compression .
+2509.24,2515.25,Bro028-c1,s,,,we always have some - you know the - the - the kind of filter bank with a kind of quasi-log scaling .
+2515.95,2519.1,Bro028-c1,s.%--,,,um if you put in - if you also include the rasta in it ==
+2519.1,2531.46,Bro028-c1,s,,,i- - rasta - the filtering being done in the log domain has an a_g_c-like uh characteristic which you know people typi- - typically put in these kind of uh um uh auditory front-ends .
+2531.46,2532.56,Bro028-c1,s,,,so it's very very similar .
+2533.07,2534.66,Bro028-c1,s,,,uh but it's not exactly the same .
+2535.06,2535.43,Bro028-c1,fh,,,um ==
+2535.97,2539.1,Bro028-c1,s,,,i would agree that the second one is - is somewhat more different .
+2539.18,2549.68,Bro028-c1,s,,,but um it's mainly different in that the things that we have been doing like that have been - um had a different kind of motivation and have ended up with different kinds of constraints .
+2550.14,2559.16,Bro028-c1,s|qy^d^f^g,,,so for instance if you look at the l_d_a rasta stuff you know basically what they do is they - they look at the different eigenvectors out of the l_d_a and they form filters out of it | right ?
+2559.82,2565.16,Bro028-c1,s,,,and those filters have different uh kinds of temporal extents and temporal characteristics .
+2565.67,2567.17,Bro028-c1,s,,,and so in fact they're multi-scale .
+2568.13,2573.9,Bro028-c1,s,6a,,but they're not sort of systematically multi-scale like let's start here and go to there and go to there and go to there and so forth .
+2573.9,2578.25,Bro028-c1,s,6a+,,it's more like you run it on this you do discriminant analysis and you find out what's helpful .
+2578.53,2581.38,Bro028-c2,qy^bu^d^rt,6b.7a,,i- - it's multi-scale because you use several of these in parallel ?
+2578.97,2579.97,Bro028-c1,%,,,@@ ==
+2581.38,2581.97,Bro028-c2,qy^rt,6b+.7a+,,is that right ?
+2581.61,2582.61,Bro028-c1,s^aa|s^na,7b,,yeah | they use several of them .
+2581.97,2582.11,Bro028-c2,%-,,,of ==
+2582.58,2582.77,Bro028-c2,s^bk,8b,,o_k .
+2582.61,2582.83,Bro028-c1,s^aa,7b+.8a,,yeah .
+2583.48,2584.74,Bro028-c1,fg|s,,,uh | i mean you don't have to .
+2584.74,2586.42,Bro028-c1,s^df,,,but - but - but uh hynek has .
+2587.17,2587.6,Bro028-c1,fh,,,um ==
+2588.05,2590.02,Bro028-c1,s.%--,,,but it's also uh ==
+2590.18,2591.95,Bro028-c1,%,,,@@ ==
+2592.17,2596.73,Bro028-c1,s,,,hyn- - when hynek's had people do this kind of l_d_a analysis they've done it on frequency direction .
+2596.73,2598.42,Bro028-c1,s,,,and they've done it on the time direction .
+2598.98,2602.92,Bro028-c1,s,,,i think he may have had people sometimes doing it on both simultaneously .
+2602.92,2603.46,Bro028-c1,s^e,,,some two-d_ .
+2603.46,2605.94,Bro028-c1,s,,,and that would be the closest to these gabor function kind of things .
+2606.7,2608.81,Bro028-c1,s,,,uh but i don't think they've done that much of that .
+2609.56,2613.78,Bro028-c1,s.%--,,,and uh the other thing that's interesting - the - the uh - the feature selection thing ==
+2613.78,2614.68,Bro028-c1,s,,,it's a simple method .
+2615.16,2616.03,Bro028-c1,s,,,but i kinda like it .
+2616.08,2619.87,Bro028-c1,s,,,um there's a - a old old method for feature selection .
+2619.87,2624.37,Bro028-c1,s,,,i mean eh uh i remember people referring to it as old when i was playing with it twenty years ago .
+2624.37,2625.3,Bro028-c1,s,,,so i know it's pretty old .
+2625.86,2628.35,Bro028-c1,s,,,uh called stepwise linear discriminant analysis .
+2628.35,2629.19,Bro028-c1,s.%--,,,in which you - which ==
+2629.19,2631.17,Bro028-c1,s,,,i think it's used in social sciences a lot .
+2631.79,2633.86,Bro028-c1,s,,,so you - you - you - you pick the best feature .
+2634.76,2639.68,Bro028-c1,s,,,and then you take - y- - you find the next feature that's the best in combination with it .
+2640,2641.02,Bro028-c1,s,,,and then so on and so on .
+2641.5,2644.55,Bro028-c1,s,,,and what - what michael's describing seems to me much much better .
+2645.08,2652.1,Bro028-c1,s^df,,,because the problem with the stepwise discriminant analysis is that you don't know that - you know if you've picked the right set of features .
+2652.1,2654.67,Bro028-c1,s^df,,,just because something's a good feature doesn't mean that you should be adding it .
+2654.67,2656.75,Bro028-c1,fh,,,so um uh ==
+2656.75,2658.55,Bro028-c1,s,,,here at least you're starting off with all of them .
+2659.06,2661.06,Bro028-c1,s,,,and you're throwing out useless features .
+2661.06,2663.96,Bro028-c1,s^ba,,,i think that's - that seems uh - that seems like a lot better idea .
+2664.82,2667.79,Bro028-c1,s,,,uh you're always looking at things in combination with other features .
+2668.04,2668.31,Bro028-c1,fh,,,um ==
+2668.84,2676.68,Bro028-c1,s,,,so the only thing is of course there's this - this artificial question of - of uh exactly how you - how you a- - how you assess it .
+2676.68,2679.27,Bro028-c1,s,,,and if - if your order had been different in throwing them out .
+2679.75,2681.46,Bro028-c1,s,,,i mean it still isn't necessarily really optimal .
+2681.46,2682.91,Bro028-c1,s^ba^df,,,but it seems like a pretty good heuristic .
+2684.05,2684.2,Bro028-c5,b,,,hmm .
+2684.38,2686.57,Bro028-c1,s,,,so i th- - i think it's - it's - i think it's kinda neat stuff .
+2686.57,2688.19,Bro028-c1,fh,,,and - and - and uh ==
+2689.06,2694.12,Bro028-c1,s,,,the thing that i wanted to - to add to it also was to have us use this in a multi-stream way .
+2696.24,2696.65,Bro028-c5,b,,,hmm .
+2697.43,2697.93,Bro028-c1,fh,,,um ==
+2698.67,2708.56,Bro028-c1,s,,,so - so that um when you come up with these different things and these different functions you don't necessarily just put them all into one huge vector .
+2709.39,2715.13,Bro028-c1,s,,,but perhaps you have some of them in one stream and some of them in another stream and so forth .
+2716.03,2720.61,Bro028-c1,fh,,,and um um um ==
+2723.91,2729.01,Bro028-c1,s,,,and we've also talked a little bit about uh - uh shihab shamma's stuff .
+2729.01,2732.73,Bro028-c1,s,,,in which you - the way you look at it is that there's these different mappings .
+2732.73,2738.22,Bro028-c1,s,,,and some of them emphasize uh upward moving uh energy and fre- - and frequency .
+2738.22,2739.9,Bro028-c1,s,,,and some are emphasizing downward .
+2739.9,2743.94,Bro028-c1,s^e,,,and fast things and slow things and - and so forth .
+2744.16,2744.48,Bro028-c1,fh,,,so ==
+2745.11,2746.41,Bro028-c1,s,,,so there's a bunch of stuff to look at .
+2746.41,2751.67,Bro028-c1,s,,,but uh i think we're sorta gonna start off with what he uh came here with .
+2751.67,2753.8,Bro028-c1,s,,,and branch out - branch out from there .
+2755.31,2758.36,Bro028-c1,s,,,and his advisor is here too at the same time .
+2758.42,2758.65,Bro028-c1,fh,,,so ==
+2759.16,2762.46,Bro028-c1,s,,,he'll be another interesting source of wisdom .
+2763.28,2764.01,Bro028-c5,b,,,hmm .
+2764.8,2765.04,Bro028-c1,fh,,,so ==
+2766.44,2782.1,Bro028-c5,s^rt^tc,,,as - as we were talking about this i was thinking um whether there's a relationship between - um between michael's approach to uh some - some sort of optimal brain damage or optimal brain surgeon on the neural nets .
+2768.55,2768.63,Bro028-c1,b,,,yeah .
+2782.94,2784.17,Bro028-c5,s.%--,,,so like if we have ==
+2783.14,2783.34,Bro028-c2,b,,,hmm .
+2784.54,2784.91,Bro028-c5,fh,,,um ==
+2785.9,2788.21,Bro028-c5,s.%--,,,we have our - we have our rasta features and ==
+2788.57,2800.53,Bro028-c5,s,,,and presumably the neural nets are - are learning some sort of a nonlinear mapping uh from the - the - the features to - to this - this probability posterior space .
+2796.95,2797.38,Bro028-c1,b.%,,,mm-hmm .
+2801.04,2801.29,Bro028-c5,qy^d^f^g,,,right ?
+2801.29,2808.23,Bro028-c5,fh|s,,,and um - | and each of the hidden units is learning some sort of - some sort of - some sort of pattern .
+2808.7,2809.01,Bro028-c5,s^f,,,right .
+2809.01,2814.79,Bro028-c5,s,9a,,and it could be like - like these um - these auditory patterns that michael is looking at .
+2815.18,2828.61,Bro028-c5,s,9a+,,and then when you're looking at the - the uh um the best features you know you can take out - you can do the - do this uh brain surgery by taking out um hidden units that don't really help at all .
+2823.79,2824.29,Bro028-c1,b,,,mm-hmm .
+2828.69,2829.8,Bro028-c5,s.%-,,,and this is k- - sorta like ==
+2828.9,2830.01,Bro028-c1,s^2,9b,,or the - or features .
+2830.26,2830.53,Bro028-c1,qy^d^f^g,9b+,,right ?
+2830.66,2830.81,Bro028-c5,b,,,yeah .
+2831.38,2845.92,Bro028-c1,s^rt,,,i mean y- - actually you make me think a - a very important point here is that um if we a- - again try to look at how is this different from what we're already doing uh there's a - a uh - a nasty argument that could be made th- - that it's - it's not different at - at all .
+2846.84,2850.45,Bro028-c1,s^df,,,because uh - if you ignore the - the selection part .
+2851.13,2855.56,Bro028-c1,s^df,,,because we are going into a - a very powerful uh nonlinearity .
+2855.99,2859.38,Bro028-c1,s,,,that uh in fact is combining over time and frequency .
+2860.01,2862.88,Bro028-c1,s,,,and is coming up with its own - you know better than gabor functions .
+2862.88,2863.1,Bro028-c5,b,,,mm-hmm .
+2862.94,2864.46,Bro028-c1,s,,,its you know neural net functions .
+2864.15,2864.9,Bro028-c2,%,,,@@ ==
+2864.46,2866.27,Bro028-c1,s,,,its whatever it finds to be best .
+2866.89,2869.5,Bro028-c1,s.%--,,,um so you could argue that in fact it ==
+2869.77,2871.86,Bro028-c1,s,,,but i - i don't actually believe that argument .
+2871.96,2875.44,Bro028-c1,s^df.%--,,,because i know that um you can uh ==
+2876.05,2877.53,Bro028-c1,s,,,computing features is useful .
+2878.74,2882.84,Bro028-c1,s,,,even though in principle you haven't added anything .
+2883.09,2885.85,Bro028-c1,s,,,in fact you subtracted something from the original waveform .
+2886.88,2891.91,Bro028-c1,s,,,you know uh if you've - you've processed it in some way you've typically lost something - some information .
+2892.04,2897.55,Bro028-c1,fh|s,,,and so | you've lost information and yet it does better with - with features than it does with the waveform .
+2897.55,2897.91,Bro028-c1,fh,,,so ==
+2898.71,2902.72,Bro028-c1,s,,,uh i - i know that i- - sometimes it's useful to - to constrain things .
+2902.72,2908.17,Bro028-c1,s,10a,,so that's why it really seems like the constraint - in - in all this stuff it's the constraints that are actually what matters .
+2908.6,2912.91,Bro028-c1,s^df,10a+,,because if it wasn't the constraints that mattered then we would've completely solved this problem long ago .
+2912.91,2917.05,Bro028-c1,s^df,10a++,,because long ago we already knew how to put waveforms into powerful statistical mechanisms .
+2917.83,2917.89,Bro028-c1,fh,,,so ==

@@ -1,0 +1,243 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+FILENAME:	3469_1449_1297
+TOPIC#:		344
+DATE:		911206
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	3
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:        Speaker A had a lot of talking in the background.
+
+=======================================================================
+  
+
+o          A.1 utt1:  Okay.  /
+qo          A.1 utt2:  What do you think about it?   /  
+
+sd          B.2 utt1:  Uh, well, immigration,  /
+sd          B.2 utt2: I know they're really strict right now because my hundr-, husband is from out of the country  /
+sd          B.2 utt3: and, uh, we had to go through a whole, very long process to, uh, to, assure the government that he was, uh, marrying me --    
+
+b          @A.3 utt1:  Uh-huh. /  
+
++          B.4 utt1:  -- and not to be a resident here. /  
+
+sv          A.5 utt1:  That's interest-, - /
+b          A.5 utt2: yeah,  /
+sv          A.5 utt3: I think that's, uh, I think it's a little crazy.  /
+sd          A.5 utt4:  I worked with Spanish people --   
+
+b          B.6 utt1:  Uh-huh. /  
+
++          A.7 utt1:  -- for about two years  /
+sv          A.7 utt2: and just, it was incredible to me to see the things that they had to go through when they were really some of the best workers. /  
+
+aa          B.8 utt1:  Yeah,  /
+aa          B.8 utt2: that's true.  /
+sv          B.8 utt3:  I mean, you can't just come over to the country because, uh, you want to. /  
+
+b          A.9 utt1:  Right. /  
+
+sv          B.10 utt1:  You know, that's not good enough.  /
+sv          B.10 utt2:  You have to have a, have to have a darn good reason of, political or whatever. /  
+
+aa          A.11 utt1:  Right,  /
+aa          A.11 utt2: exactly. /  
+
+sv          B.12 utt1:  Not a good, not a good easy way to get in. /  
+
+b          A.13 utt1:  Yeah,  /
+sv          A.13 utt2: I think, you know, I think in a lot of ways the law is good because it tries to, to protect, you know, the people who are in the states. /  
+
+aa          B.14 utt1:  Exactly.  /
+sd          B.14 utt2:  My mother, uh, actually knew a woman <breathing> in another state that used to marry men --    
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  -- just, - /
+sd          B.16 utt2: n-, she'd never even meet them  /
+sd          B.16 utt3: and she'd just get money for it. /  
+
+bh          A.17 utt1:  Oh, you're kidding.   /  
+
+nn          B.18 utt1:  Huh-uh.  /
+%          B.18 utt2: So, uh,-/  
+
+x          A.19 utt1:  <Laughter>.    
+
+x          B.20 utt1:  <Breathing>.   
+
+sv          A.21 utt1:  Sounds like a lot of fun.  /
+%          A.21 utt2:  Yeah,  /
+sv          A.21 utt3: it's amazing to me how, how many things they would allow to occur before, you know, you can come in. /  
+
+aa          B.22 utt1:  Exactly.  /
+sv          B.22 utt2:  But, I mean, with the new laws, it's --    
+
+b          A.23 utt1:  Right.   /  
+
++          B.24 utt1:  -- it's tough now.   /  
+
+b          A.25 utt1:  Yeah,  /
+sv          A.25 utt2: it's kind of frustrating, too, for those who are legitimate now. /  
+
+aa          B.26 utt1:  Exactly. /  
+
+%          A.27 utt1:  You know, I think,  -/  
+
+sd          B.28 utt1:  Well, and, you know, uh, my grandparents came to this country just wanting a better life, you know -- /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sd          B.30 utt1:  -- and they got here,  /
+sv          B.30 utt2: but now it's a, you know, it's so strict that you can't just do <door> that. /  
+
+aa          A.31 utt1:  Right,  /
+aa          A.31 utt2: exactly.  /
+sv          A.31 utt3:  And I think it's important that they, you know, they allow a good number of people in every year  /
+sv          A.31 utt4: because really they're the ones who work the hardest and do the jobs that, that we don't want to do. /  
+
+aa          B.32 utt1:  I agree. /  
+
+%          A.33 utt1:  And I just, - /
+h          A.33 utt2: I don't know,  /
+sd          A.33 utt3: I have, personally I have a problem with it,  /
+sv          A.33 utt4: I think, that, you know, if someone wants to come in and they can prove that they're going to work and they're going to be a good citizen that --   
+
+aa          B.34 utt1:  Exactly. /  
+
++          A.35 utt1:  -- we shouldn't close our door. /  
+
+sv          B.36 utt1:  If they're not going to be on welfare or, or, or whatever.  /
+sv          B.36 utt2:  They're going to be a productive citizen Zen. /  
+
+sv          A.37 utt1:  And, you know, I, I believe that if someone goes on welfare that's when, you, you know, send them back to their country. /  
+
+b          B.38 utt1:  Yeah. /  
+
+sv          A.39 utt1:  And, I think a lot of times we're so busy trying to keep them out that we're spending twice as much money as we would just allowing them in  /
+%          A.39 utt2: and, -/  
+
+sv          B.40 utt1:  Well, think of how many illegal aliens have, have, have been, uh, uh, sent back to Mexico just to find their way back. /  
+
+b          A.41 utt1:  Yeah,  /
+sv          A.41 utt2: and that's, that's what I think.  /
+sd          A.41 utt3:  You know, I, I have to laugh  /
+sd          A.41 utt4: because, like I said, I worked with a lot of those  /
+sd          A.41 utt5: and they'd been deported two or three times  /
+sd          A.41 utt6: and just basically what they do is they get caught when they wanted to go home for Christmas.   
+
+sv          B.42 utt1:  That's right,  /
+sv          B.42 utt2: that's our money. /  
+
++          A.43 utt1:  Or for any other time.  /  
+
+aa          B.44 utt1:  Yes, <breathing>  /
+sv          B.44 utt2: that's true. /  
+
+sv          A.45 utt1:  But, I think, you know, I think all in all there's a lot of improvements.  /
+sv          A.45 utt2: I think the general idea is good  /
+sv          A.45 utt3: but, but there could be some work done in the area. /  
+
+%          B.46 utt1:  I, I think - /
+aa          B.46 utt2: I, I agree. /  
+
+ba          A.47 utt1:  Well good <laughter>.   /  
+
+x          B.48 utt1:  <Laughter>.    
+
+qy          A.49 utt1:  Anyway, do you have anything else in the, the subject, uh --    
+
+%          B.50 utt1:  Uh, I, uh, - /
+fe          B.50 utt2: boy --  /  
+
++          A.51 utt1:  -- that you might want to talk about?  /  
+
+h          B.52 utt1:  -- this is spur of the moment, uh,  /
+sv          B.52 utt2: but, I, I don't really see any, any changes that I think of really blatant right now  /
+sv          B.52 utt3: other than I think they ought to take, you know, on a case by case basis and not necessarily make it a, uh, political refugee. /  
+
+aa          A.53 utt1:  Yeah,  /
+aa          A.53 utt2: absolutely.  /
+sv          A.53 utt3:  I think a lot of times we take, you know, basically who we want to  /
+sv          A.53 utt4: because if you, if you have connections, it's a lot easier to get in. /  
+
+aa          B.54 utt1:  Exactly.  /
+^2          B.54 utt2:  Connections and money. /  
+
+aa          A.55 utt1:  Yeah,  /
+sv          A.55 utt2: and I think, you know, it should be more of a thing that's based upon someone's intent, you know.    
+
+b          B.56 utt1:  Yeah. /  
+
++          A.57 utt1:  And that it should be equal to all  /
+sv          A.57 utt2: and then not like the United States, - /
+sv          A.57 utt3: basically, it's not who you know,  /
+sv          A.57 utt4: it d-, it doesn't become a thing of who you know, but, but how the type of person you are. /  
+
+aa          B.58 utt1:  I agree. /  
+
+sv          A.59 utt1:  And it should be based on those kinds of things so the good people, like probably your husband, can get in <laughter>. /  
+
+b          B.60 utt1:  Yeah <laughter>.  /
+sd          B.60 utt2:  Well, we got him past that,  /
+%          B.60 utt3: but, uh, <laughter> -- -/  
+
+ba          A.61 utt1:  Well, great. /  
+
+sv          B.62 utt1:  -- I know there's a lot of other people out there,     
+
+x          A.63 utt1:  <Laughter>. /  
+
++          B.64 utt1:  would probably do a good job here. /  
+
+b          @@A.65 utt1:  Yep.  /
+^h          @@A.65 utt2:  Well, let's see,  /
+qy          @@A.65 utt3: is there anything I believe in <laughter>. /  
+
+sv          B.66 utt1:  I think that's it.  /
+qy          B.66 utt2:  Is this like a very short call?  <Laughter>. /  
+
+nn          A.67 utt1:  No,  /
+sd          A.67 utt2: I'm not sure how long they're supposed to be,  /
+sd          A.67 utt3: but, I've enjoyed it.  /
+sd          A.67 utt4: It's good hearing your, your point of view  /
+sv          A.67 utt5: and I think that's neat.  /
+sv          A.67 utt6:  I think we agree a lot on that  /
+sd          A.67 utt7: and --   
+
+aa          B.68 utt1:  I did, too. /  
+
++          A.69 utt1:  -- I've learned something from it.  /  
+
+fc          B.70 utt1:  <Laughter> Well, it was nice talking to you. /  
+
+ft          A.71 utt1:  Well, thanks,  /
+fc          A.71 utt2: I'm glad you're home.  /
+fc          A.71 utt3:  You have a good evening, all right? /  
+
+fc          B.72 utt1:  You, too.  /  
+
+ft          A.73 utt1:  Thanks,  /
+fc          A.73 utt2: #bye-bye.#  /  
+
+fc          B.74 utt1:  #Bye.# / 

@@ -1,0 +1,284 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2749_1110_1045
+TOPIC#:		341
+DATE:		910501
+TRANSCRIBER:	GLP
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.  
+
+============================================================================
+  
+
+qy^g          A.1 utt1:  {D Well, } {F uh, } I don't have strong  feelings about changes to be made in the, {F uh, } jury system, do you? /  
+
+ng          B.2 utt1:  {F Uh, } not at all.  /
+sd          B.2 utt2: In fact,  I'm graduating from college in about a week /
+sd          B.2 utt3: {C and } this past semester I've taken two criminal justice classes and have discussed a lot on trials. /  
+
+sv          A.3 utt1:  {F Uh, } {D well } then you must know a lot more about this than I do <breathing>. /  
+
+sv          B.4 utt1:  <Laughter>  {F Uh, } [ I think, +  I think, ]  {F uh, } [ s-, +  the system ] right now, {D you know, } [ should, +  {D you know, } is ] fine.  /
+sv          B.4 utt2:  I think it should be by a jury.  /
+sv          B.4 utt3:  I don't think the judge should have, {E I mean  } - /
+sv          B.4 utt4:  he's just there kind of like the referee <laughter>. /  
+
+b          A.5 utt1:  Uh-huh,  /
+b^r          A.5 utt2: Uh-huh. /  
+
+sv          B.6 utt1:  {F Uh, } [ I don't, + I don't ]  even think that it should be unanimous either. {F Uh, } /  
+
+qo          A.7 utt1:  {D Well, } what about the idea that one  is only guilty, {F uh, } when proven guilty beyond a reasonable doubt?  /
+sd           A.7 utt2:  I thought that was the point of, {F uh, } a unanimous jury was the idea that if everyone agrees --   
+
+b          B.8 utt1:  Uh-huh. /  
+
++          A.9 utt1:  -- then there shouldn't be any reasonable doubt. /  
+
+b          B.10 utt1:  Right. /  
+
+sv           A.11 utt1:  {C But, }  if there are some people who don't agree --   
+
+aa          B.12 utt1:  Exactly. /  
+
++           A.13 utt1:  -- {F uh, } [ then there must be, +   it seems to be there must be ]  at least a reasonable doubt for some people. /  
+
+b          B.14 utt1:  Uh-huh.  /
+h          B.14 utt2: {F Uh, } <lipsmack> I don't know.  /
+%          B.14 utt3:   I, {F uh, } - /
+sd         B.14 utt4: [ [ you, + you ] rarely hear,  +  you hear, ] of course there's cases where someone   has been put [ [ in, +  in, ] + in, ] {F uh, } prison, {F uh, } falsely accused  /
+sv          B.14 utt5:  {C but, }  {F uh, } more than likely the people that are on [ the, +  the ] jury know what they're doing.  /
+%          B.14 utt6:  {F Uh, } {E I mean } you, -/  
+
+bh          A.15 utt1:  Really?  /
+qy          A.15 utt2: Have you served on a jury? /  
+
+ng          B.16 utt1:  Never. /  
+
+sd          A.17 utt1:  I never have either,  /
+sd          A.17 utt2:  {C but } [ my friends, +  my few friends ]  who have, {F uh, } say just the opposite <breathing>.  /
+sd          A.17 utt3:  They say they're, {F uh, } remarkably incompetent. And,  {F uh, } don't know what they're doing   {C and } say one thing in the courtroom and then as soon as they get in the back room they just start letting all their prejudices hang out [ and + ] [ to, +  to ] air, and all that. /  
+
+sv          B.18 utt1:  {F Huh. }  {D Well, } you would think  that they would get that in the, {F uh, } - /
+sv          B.18 utt2: when the prosecution and defense are choosing the jury  you would think that those would come out  /
+sv          B.18 utt3: {C and } [ I, +  I ] know they  automatically, - /
+sv          B.18 utt4: [ when you go through, +  {F uh, } when you're chosen ] is, you're automatically like  [ [ a, +  a, ] +  a ] professor in criminal justice or  something like that,  /
+sv          B.18 utt5: that you're automatically, - /
+%          B.18 utt6:   no  /
+sv          B.18 utt7: they don't want you on the jury. /  
+
+aa          A.19 utt1:  Right,   /
+sd          A.19 utt2: ((   )) , they don't want  [ anyone with exper-, + <throat_clearings>  --   
+
+aa          B.20 utt1:  Exactly. /  
+
++          A.21 utt1:  -- anyone with particular experience ]  or knowledge of the legal system. /  
+
+aa          B.22 utt1:  Uh-huh,  /
+aa          B.22 utt2: exactly.  /
+%          B.22 utt3:  {F Uh, } /  
+
+sv          A.23 utt1:  {C And } they tend, - /
+sv          A.23 utt2:  {C and } since anyone can get out of it who basically says they don't want to do it, - /
+sv          A.23 utt3: {E I mean, }   {D you know, } [ it's, + it's ] anyone can get out of jury just about, - /
+sv          A.23 utt4: [ {C and, } + {F uh, } {C so, } ] [ [ it, + it's, ] +   {F uh, } it's ] not really my peers that, - /
+sd           A.23 utt5:  [ if I were ar-, + let's say I were arrested  ] falsely or not --   
+
+b          B.24 utt1:  Uh-huh. /  
+
++          A.25 utt1:  -- and put up for a jury I wouldn't feel that, {F uh, }   I would be being tried by a jury of my peers.  /
+sv           A.25 utt2:  [ I'd be, + {E I mean } I'd be ]  tried by a jury of <breathing>, {D you know, }  people who had nothing else to do  and weren't very knowledgeable about certain sorts of things,  /
+h          A.25 utt3: {C and, }  {F uh, }   
+
+b          B.26 utt1:  Uh-huh. /  
+
++          A.27 utt1:  I don't know,  /
+sd          A.27 utt2: [ I, + I ]  get a little bit nervous about it,  /
+%          A.27 utt3: {C and, }  {F uh, } -/  
+
+sd          B.28 utt1:  [ [ I've, + I've ] never  +  <throat_clearing>, I've never ] even been called to jury duty. /  
+
+b          A.29 utt1:  Yeah,  /
+sd          A.29 utt2: [ I, + I ] was called once,  /
+sd          A.29 utt3:  {C but } I was out of  the country,  /
+sd          A.29 utt4: {C and } [ apparently I, + apparently ] they thought I served  /
+sd          A.29 utt5: {C  so } [ I didn't, +  I didn't ] make any noise about it <laughter>. /  
+
+x          B.30 utt1:  <Laughter>.   
+
+sd          A.31 utt1:  I came back  /
+sd          A.31 utt2: {C and } they said the record  showed I served,  /
+sd          A.31 utt3: {C but } I was out of the country at the time,  /
+sd          A.31 utt4: {C so } I'm pretty sure I didn't.  /
+%          A.31 utt5: {F Uh, } /  
+
+b          B.32 utt1:  <Laughter> Yeah.  /
+h          B.32 utt2: [ I, +   {F uh, } <<pause>> I ] don't know,  /
+sv          B.32 utt3: [ I think the, + I guess there's ] a lot of problems with the legal system <laughter>. /  
+
+b          A.33 utt1:  Yeah,  /
+h          A.33 utt2: {D well, } [ [ I +  <throat_clearing>, I, ] +   I ] don't know,  /
+sv           A.33 utt3: I definitely feel like we need to keep it at least unanimous  /
+sv          A.33 utt4:  {C because, } <breathing> {F uh, } {D you know, } there's the classic sort of TO KILL A MOCKINGBIRD kind of story where you get, {D you know, }   
+
+b          B.34 utt1:  # Uh-huh.  # /  
+
++@          A.35 utt1:  # jury # which <breathing>  can have  all kinds of prejudices and things that, a judge at least officially isn't supposed to have.    Though, of course they can, too. / *[[ This last sentence really appears to be an independent slash unit ]]
+
+b          B.36 utt1:  Uh-huh. /  
+
+sv          A.37 utt1: {C And, } {F uh, } it seems to me that if you could just have a simple majority or something you could pretty much [ brow-, + {D you know, } <breathing> browbeat ] the jury,    
+
+b          B.38 utt1:  # Uh-huh.  # /  
+
++          A.39 utt1: # [ a # majority, [ in the, + of the, ] + a majority of the ] jury,  /
+h          A.39 utt2: that's hard to say.  /
+sv(^q)        A.39 utt3: {F Uh, } {C so, } [ it's, + it's, ]  {F uh, } {D you know, } saying, {D well, } look  we don't like the way he looks  /
+^q          A.39 utt4: {C and, } [ let's, + {F uh, } let's ]  throw the rascal in jail and stuff. /  
+
+b          B.40 utt1:  Right. /  
+
+sv          A.41 utt1:  {C And } you also get a lot of, {F uh, }  juries are extremely, {F uh, } - /
+h          A.41 utt2: {C and } from what I hear, - /
+sd          A.41 utt3: [ [ I, + I ] have,  + I have ]  some friends who do expert [ wis-, + witness ] testimony  /
+sd          A.41 utt4: {C and } they say that, {F uh, } juries are extremely  vulnerable to, {F uh, } sort of emotional pitches, {D you know, }  /
+sd           A.41 utt5:  the prosecutor will want to, <breathing>  {F oh, }  {A I don't know } [ show the, + show the ] mugging victim, {D you know, }  show [ what + ] the nice person he was and what a family life, and  basically get the jury to be very sympathetic with the victim,  /
+sd           A.41 utt6: [ [ {C and, } + {F uh, } {C or, } ] +   {C or, } ] {F uh, } if it's a corporation,  that was, {F uh, } {D you know, } [ har-, +  harming ] some individual or something like that,  they get very much, {D well, } {D you know, } - /
+sd          A.41 utt7: it's just a big faceless  [ corp-, +  corporation. ] /
+sd(^q)      A.41 utt8:  [ Let's, +  let's ] make them pay as much as possible.    
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  Things like that.  /
+%          A.43 utt2:  {D So, }  not, - /
+%          A.43 utt3: {E [ I, + I ] mean, }    I'm, - /
+sv          A.43 utt4: the problem is I can't  guarantee that a judge would [ be +  necessarily  be ] much better than a jury,  /
+sd          A.43 utt5: {C but } I'd be real nervous having a jury not at least fully agree on what the settlements would be,   
+
+%          B.44 utt1:  # Ri-, # -/  
+
++          A.45 utt1:  # things # like that. /  
+
+sv          B.46 utt1:  [ [ I, + {F uh, } I ] do-,  +  [ I, +  I ] don't ] think the judge should just make the decision alone. /  
+
+b          A.47 utt1:  Yeah. /  
+
+sd           B.48 utt1:  Least with the jury you have twelve people, {D you know } --   
+
+b          A.49 utt1:  Uh-huh. /  
+
++          B.50 utt1:  -- that are going to decide, {D you know, }  /
+sd@          B.50 utt2:  you're [ the, + the ] person's fate. /  *[[ This really is part of utt1 ]]
+
+qo          A.51 utt1:  {D Well, } how about having a [ j-, +  jury ]  and a judge work together on it somehow?  /
+qy^d          A.51 utt2: I wonder if that's possible?  /
+sv          A.51 utt3:  <breathing> I guess the judge's time is worth too much, though. /  
+
+aa          B.52 utt1:  Exac-, - /
+%          B.52 utt2: ((   ))  judge <laughter>. -/  
+
+sv          A.53 utt1:  <Laughter>  [ They pay that judge,  + they pay those jury members  very little money compared to that judge ] <laughter>. /  
+
+aa          B.54 utt1:  Right,  /
+aa          B.54 utt2: exactly <laughter>. /  
+
+sv          A.55 utt1:  He makes more money in an hour than  all twelve of them put together. /  
+
+am          B.56 utt1:  Probably,  /
+aa          B.56 utt2: yeah <laughter>.  /
+aa^r          B.56 utt3: Yeah.  /
+%          B.56 utt4:  {C But, }  {F uh, } no,  /
+sv          B.56 utt5: [ it's, + it's ] sad, though, [ [ that, +  {F uh, } that ] + the people, though, that ] - /
+sd          B.56 utt6:   [ [ you, + you, ] +  somebody's ] life is in twelve people's hands  /
+sv          B.56 utt7: {C and } sometimes those twelve people could care less. /  
+
+b          A.57 utt1:  Uh-huh,  /
+b^r          A.57 utt2: uh-huh. /  
+
+sv          B.58 utt1:  [ {C And, } +   {F uh, } {C or } ] they fool  [ the, +  the ] defense in thinking that they're, {D you know, } - /
+sv          B.58 utt2:  {C because } when they go through those processes they kind of pick out who they want. /  
+
+aa          A.59 utt1:  {F Oh, } of course.  /
+sv          A.59 utt2: [ It's, +  it's ]  political maneuvering.  /
+sv          A.59 utt3:  [ The, +  the ] one side is looking for someone whose face they think will, {D you know, }  want to hang everyone,  /
+sv          A.59 utt4: {C and } the other one is going to look  for someone very sympathetic.  /
+sv          A.59 utt5: They're not looking for someone whose  going to be the most reasoned or  sensible or rational juror.  / *[[whose -> who's]]
+sv          A.59 utt6: Neither side wants that.  /
+sv          A.59 utt7:  They want to find a juror that's going to, {F uh, } be most  persuadable by their arguments, {D you know. } /  
+
+aa          B.60 utt1:  Exactly. /  
+
+sd          A.61 utt1:  {F Uh, } I wish it were a little bit  harder to not serve on juries actually.  /
+sd          A.61 utt2:  {E I mean, } I know, [ [ it, +  it, ] +  it's ] tricky  /
+sd          A.61 utt3: {C because } I know, {D you know, } an awful lot of intelligent people who just, {D well } - /
+^q          A.61 utt4:  I'm too busy to serve on a jury, /  
+
+b          B.62 utt1:  # Uh-huh.  # /  
+
+sd          A.63 utt1:  # {C so } # I'll tell them that  /
+sd          A.63 utt2:  {C and } they [ won't, +  {E or } [ just, + {D you know, } just ] answer ] one of the questions the wrong way because you can do that, {D you know, } /  
+
+b          B.64 utt1:  # {F Oh, } yeah.  /
+%          B.64 utt2: {D Well, } # -/  
+
+sd(^q)       A.65 utt1:  # they just say # do you believe in such and such. /
+%          A.65 utt2: {F Uh, } /  
+
+sv          B.66 utt1:  I guess it's just that maybe people are,  {D you know, } upset at court, {D you know. }  /
+sv          B.66 utt2:  [ If it was, +  if it was ] [ a, +  a ]  family member of theirs, though that was innocent  /
+sv          B.66 utt3: {C and, then } they'd want to be on that jury. /  
+
+aa         A.67 utt1:  Right.  /
+sv          A.67 utt2: Course, [ they'd be, +  they would be ]  barred,  /
+%          A.67 utt3: {C but } <laughter>, -/  
+
+sv          B.68 utt1:  <Laughter>  {C But, }  {F uh, } [ if everyone would take it, +  I think if everyone took it ] seriously -- -/  
+
+b          A.69 utt1:  Uh-huh. /  
+
+sv@        B.70 utt1:  -- {C and, }  {F uh, } {E I mean, }  something you have to do <laughter>. -/  *[[ This really seems to be just a continuation of B.68, not an indep slash unit ]]
+
+b          A.71 utt1:  Yeah,  /
+sv          A.71 utt2: {D well } it sounds like we both need to get out there and serve on a jury. /  
+
+b          B.72 utt1:  Yeah. /  
+
+sd          A.73 utt1:  I hope we're called up before too long. /  
+
+sd          B.74 utt1:  I would love to be called,  /
+sd          B.74 utt2:  I'm ready to go <laughter>.  /
+sd          B.74 utt3: They just haven't called me up yet <laughter>. /  
+
+sv          A.75 utt1:  [ They will, +  they will ] eventually. /  
+
+x          B.76 utt1:  <Laughter>.   
+
+b          A.77 utt1:  <Laughter>  Okay,  /
+fc          A.77 utt2: {D well } it was nice talking with you. /  
+
+fc          B.78 utt1:  It was nice talking to you. /  
+
+fc          A.79 utt1:  Bye-bye. /  
+
+fc          B.80 utt1:  Bye-bye. / 

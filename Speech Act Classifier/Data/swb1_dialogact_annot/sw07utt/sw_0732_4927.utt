@@ -1,0 +1,301 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:        4927_1423_1567
+TOPIC#:          327
+DATE:            920506
+TRANSCRIBER:     nk
+UTT_CODER:	 lsh
+DIFFICULTY:      2
+TOPICALITY:      3
+NATURALNESS:     1
+ECHO_FROM_B:     1
+ECHO_FROM_A:     1
+STATIC_ON_A:     1
+STATIC_ON_B:     2
+BACKGROUND_A:    2
+BACKGROUND_B:    1
+REMARKS:         The static on B's side was due to his using a radio phone.
+
+============================================================================
+  
+
+x          A.1 utt1:  <TV>.   
+
+o          B.2 utt1:  Okay.  /
+sv           B.2 utt2: {F Uh, } mandatory service.  {D Yeah. }  I don't think it's a good idea, {F uh, }  /
+sv           B.2 utt3: {C because } we'd have to change the constitution [ to, + to, ]  {F uh, } allow, {F uh, } involuntary servitude, {F uh, } in service to the government.  /
+sv          B.2 utt4:    {C And } I'm not sure that we could,   
+
+x          A.3 utt1:  <Noise>.   
+
++           B.4 utt1:  do that in such a way that we could avoid  winding up a slave state. /  
+
+b          @A.5 utt1:  Uh-huh. /  
+
+%          B.6 utt1:  It's, - /
+sd          B.6 utt2: I like # the, # --   
+
+%          A.7 utt1:  # {C And, } # -/  
+
++          B.8 utt1:  -- idea. /  
+
+qw          A.9 utt1:  In what way are you talking about. /  
+
+sd           B.10 utt1:  {D Well, } <throat_clearing> I like the idea of [ volunteer, + voluntary ] support. /  
+
+b          A.11 utt1:  Right. /  
+
+sd           B.12 utt1:  {E I mean } they might be able to,  {F ah, } say that anyone who does that, {F uh, } gets certain benefits that <throat_clearing> would not be available to someone who didn't do it.  /
+sv           B.12 utt2:  {C But } to use force, {F uh, } <swallowing> [ really sets us a, a, i-, i-, + ] essentially says that [ your body, + ] there's a title to your body and that title belongs to the government. /  
+
+%          A.13 utt1:   ((   )) .   
+
+sv          B.14 utt1:  {C And } you are not a free # American # --   
+
+b          A.15 utt1:  # Yeah. # /  
+
++          B.16 utt1:  -- citizen. /  
+
+b          A.17 utt1:  Right. /  
+
+sv          B.18 utt1:  The idea itself of service is good  /
+sv           B.18 utt2: {C and } when someone  is {D say, } out of high school and not sure about college or out of college and  not ready to go into a career and they're not committed to huge amounts of  debt, that's the best time to be able to do work that doesn't pay very well. /  
+
+%          A.19 utt1:  {D See, } I, - /
+b          A.19 utt2: yeah.  /
+sd           A.19 utt3:  {C And } I also thought that, {F uh, } that would interfere [ with, + with ] college work. /  
+
+aa          B.20 utt1:  Yeah.  /
+sv          B.20 utt2:  # Unless it were tied # --   
+
+%          A.21 utt1:  # {C And } they didn't, # -/  
+
++          B.22 utt1:  -- directly. /  
+
+b          A.23 utt1:  <Inhaling> Yeah. /  
+
+sv            B.24 utt1:  {D You know, } if someone were studying something, ((   ))  take something obscure.   Somebody was studying  economics, the State Department  could offer to send them to the Soviet Union for two years to teach them how to run their country. /  
+
+aa          A.25 utt1:  Yeah.  /
+aa,o@          A.25 utt2:  # That's true. #  *[[ Should be a slash unit ]]  
+
+qy^g          B.26 utt1:  # <Laughter> As an # extreme example, right? /  
+
++@          A.27 utt1:  Yeah  /  *[[ See note above--as an indep. slash unit this would be an 'ny' ]]
+x          A.27 utt2: <laughter>.   
+
+sv           B.28 utt1:  {C But, } in reality, I think what you would wind up with is a political football where they would see all these body counts  that they can use [ to, + ] for their own will  /
+sv          B.28 utt2: {C and } I just don't think it would work. /  
+
+qw           A.29 utt1:  When do they assume this is going to be proposed or mandatory?  /
+%          A.29 utt2:  {C Or }  when, - /
+%          A.29 utt3:  when, - /
+qw          A.29 utt4: [ what, + what ] year are they looking at? /  
+
+nd          B.30 utt1:  {D Well, } they're not.  /
+sd          B.30 utt2:  It's been suggested. /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  {C And } it's sort of a topic of debate. /  
+
+x          A.33 utt1:  <Child_talking>.   
+
+sd          B.34 utt1:  Every time it comes up it gets voted down.  /
+sd           B.34 utt2:   The people who are promilitary oppose because they don't want people to have the right to opt out of the military into something else. / 
+
+b          A.35 utt1:  Yeah. /  
+
+sd            B.36 utt1:  {C And } the people who are proconstitution oppose it on the grounds that the government shouldn't even have the right to enforce  you to join the military # unless # --   
+
+b          A.37 utt1:  # Yeah. # /  
+
++           B.38 utt1:  -- the United States is actually under attack <static>. /  
+
+b          A.39 utt1:  Right.  /
+b^r          A.39 utt2:  Right <<very faint>>. /  
+
+sv           B.40 utt1:  {C So, } mostly, it's just kind of one of those things that goes away. /  
+
+b          A.41 utt1:  Yeah. /  
+
+sd^c          B.42 utt1:  {F Ah! }  They've got a noisy line. /  
+
+sd^c          A.43 utt1:  I thought that was your line # <laughter>. # /  
+
+b          B.44 utt1:  # Yeah.  /
+sd^c          B.44 utt2: #  {D Well, } it's somewhere between  here and there. /  
+
+qw           A.45 utt1:  {F Uh, } what age group [ i-, + ] [ are, +  are   ] they looking at? /  
+
+sd          B.46 utt1:  {F Uh, } {F oh } eighteen.  /
+sd          B.46 utt2: The draft age. /  
+
+b^m          A.47 utt1:  Eighteen. /  
+
+b          B.48 utt1:  Yeah. /  
+
+b          A.49 utt1:  Yeah,  /
+%          A.49 utt2: that seems, # - /
+sv           A.49 utt3:  normally that would interfere with college, I would think. # /  
+
+%          B.50 utt1:  # Wait a, - /
+%          B.50 utt2: yeah.  /
+co^c          B.50 utt3: # Let me see if I can get on a  cleaner line.  /
+sd^c          B.50 utt4: If it's my line, {F uh. } -/  
+
+sd          A.51 utt1:  I moved.  /
+ad^c          A.51 utt2: Maybe [ that is, + that's ]  part of it. /  
+
+b          B.52 utt1:  <Click> </Static> Yeah  /
+sd^c          B.52 utt2: it is my line.  /
+sd^c          B.52 utt3:  I was on a radio phone. /  
+
+b          A.53 utt1:  Oh. /  
+
+o          B.54 utt1:  All right.  /
+sd          B.54 utt2:  That's better <swallowing>.  /
+%          B.54 utt3:   Yeah,  /
+%          B.54 utt4: now their, - /
+sd           B.54 utt5: [ they, + they ] figure that they can draft you at eighteen.  /
+sd          B.54 utt6:  They usually do draft you at nineteen.  /
+sd          B.54 utt7: {C And } that's the,   
+
+x          A.55 utt1:  <Thumping> <child>.   
+
++          B.56 utt1:  age they're looking at. /  
+
+b          A.57 utt1:  Oh.  # {F Um. } # /  
+
+sd           B.58 utt1:  # {C And, } # of course, [ they're, + ]  this one the women would be equally grabbed  /
+sd           B.58 utt2: {C and } they're almost on the verge of saying that [ you, + ]  if you're going to draft men, you're going to have to draft women.  /
+sd           B.58 utt3:  {C And }  you're going to have to put them in front of the guns just the same. /  
+
+b          A.59 utt1:  Right. /  
+
+ad         B.60 utt1:  {C So, } {F uh, } if you're near that  age <laughter> or you know somebody who is --   
+
+b          A.61 utt1:  Uh-huh. /  
+
++          B.62 utt1:  -- {F uh, } {D you know, } be aware of that. /  
+
+b          A.63 utt1:  Yeah  /
+sv           A.63 utt2: <lipsmack>.  {D Well, } that's kind of scary # <laughter>. # /  
+
+b          B.64 utt1:  # Yeah. # /  
+
+sd          A.65 utt1:  I'm not near that age <laughter>.  /
+sd          A.65 utt2:   I'm way over it #  /
+sd          A.65 utt3: {C but } I # --   
+
+bk          B.66 utt1:  # {F Oh, } okay. # /  
+
++          A.67 utt1:  -- do have children to think about, # {D you know. } # /  
+
+aa          B.68 utt1:  # Yep. #  /
+sv           B.68 utt2:  {C And } you don't want them # sent  off to the Middle East to # --   
+
+sv^r          A.69 utt1:  # That's kind of scary. # /  
+
++           B.70 utt1:  -- help defend Bush from Saddam after Bush  gets done arming him. /  
+
+aa          A.71 utt1:  Right. /  
+
+sd           B.72 utt1:  <Laughter> {D You know, } we only find out about that a year after the fact. /  
+
+b          A.73 utt1:  Yeah. /  
+
+sd          B.74 utt1:  {C So, } it's another thing.  /
+sv           B.74 utt2:  When in doubt, don't trust the government at all <laughter>.  /
+sv          B.74 utt3:  It's really # reached # --   
+
+b          A.75 utt1:  # Oh. # /  
+
++          B.76 utt1:  -- that point. /  
+
+b          A.77 utt1:  Uh-huh.  /
+%          A.77 utt2:  Huh. / 
+
+sd         @@B.78 utt1:  {D Hey, } you're in Perot country./
+sv           B.78 utt2:  I'm really thinking that this guy might be good for us. /  
+
+aa          A.79 utt1:  I do too # <laughter>. # /  
+
+%          B.80 utt1:  # I've been, # I-, - /
+sv          B.80 utt2: it seemed dangerous.  /
+sd(^q)      B.80 utt3:  I thought is the guy a closet fascist?  /
+sd           B.80 utt4: {C And then } I find out that he helped rid the United States of the gablers. /  
+
+sv          A.81 utt1:  [ He's, + he's ] helped out in a lot of ways.  /
+b          A.81 utt2:   Yeah,  /
+sd          A.81 utt3: [ he's, + he's ] from Dallas.  /
+sd          A.81 utt4:  {C Or } he's in the Dallas area. /  
+
+b          B.82 utt1:  Yeah. /  
+
+sd          A.83 utt1:  {C And, } {F uh, } he's very well known around here.  /
+%          A.83 utt2:  # {C So. } # -/  
+
+b          B.84 utt1:  # Okay. #  /
+sd          B.84 utt2: {D Well, } I'm in the computer biz  too  /
+sd          B.84 utt3: {C so } I know he's well known in the industry. /  
+
+b          A.85 utt1:  Uh-huh. /  
+
+%          B.86 utt1:  They, {F uh, } - /
+sd          B.86 utt2: [ I, + I ] have high hopes for him.  /
+sd           B.86 utt3:  {C And } I think that <laughter>, {D you know, } if he could get  people interested and encouraged and to believe that the government was actually for us, then I'm for him. /  
+
+b          A.87 utt1:  Yeah.  /
+%          A.87 utt2:  # I, I. # -/  
+
+sd           B.88 utt1:  # {E I mean } # in the Democratic primary, I'm going to  vote for Brown just because I kind of like Brown and his attitude.  /
+sd           B.88 utt2: {C But }  [ when, + {F uh, } when ] it really  comes down in the fall, I think I know where it's going to go. /  
+
+b          A.89 utt1:  Yeah.  /
+b^r          A.89 utt2:  Yeah.  /
+sv          A.89 utt3:  [ I, + I ] think he's got a very good chance.   /
+sd          A.89 utt4: {C So, } there's a lot of people here pulling for him. /  
+
+b          B.90 utt1:  Uh-huh. /  
+
+h          A.91 utt1:  {C So. } I don't know <laughter>. /  
+
+b          B.92 utt1:  Yeah  /
+x          B.92 utt2: <laughter>.   
+
+h          A.93 utt1:  We'll just see.  /
+%          A.93 utt2:  # How # -- -/  
+
+%          B.94 utt1:  # {D You know, } th-, # -/  
+
+qy           A.95 utt1:  -- did [ you, + {F uh, } you ] work in the, {F uh, }  computer business, is that what you said? /  
+
+ny          B.96 utt1:  Yeah.  /
+sd^e          B.96 utt2:  I'm an end user.  /
+sd           B.96 utt3: I teach people how to use  MacIntoshes and how to buy equipment and desktop publishing magazine production and things related to that. /  
+
+bk          A.97 utt1:  {F Oh, } okay.  /
+sd           A.97 utt2:  {F Uh, } my husband works for, {F uh, }  Texas Instruments. /  
+
+b          B.98 utt1:  Uh-huh. /  
+
+sd^t           A.99 utt1:  {C And, so, } {F uh, } that's how we found out about the Switchboard. /  
+
+b          B.100 utt1:  {F Oh, } yeah.  /
+qy^g^t      B.100 utt2:  {F Oh, } that's their project  too, isn't it?/
+sd^t          B.100 utt3: I found about it on the network. /  
+
+x          A.101 utt1:   ((   ))  </T V>. -/ 

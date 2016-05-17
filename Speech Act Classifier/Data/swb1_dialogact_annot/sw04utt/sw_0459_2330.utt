@@ -1,0 +1,191 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2330_1170_1016
+TOPIC#:		313
+DATE:		910328
+TRANSCRIBER:	GL
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+============================================================================= 
+  
+
+o          A.1 utt1:  There we go. /  
+
+b          B.2 utt1:  Yeah.  /
+sv          B.2 utt2:  {D Well, } {F uh, } I think the weather lately has been a bit warmer than I would expect this time of year. /  
+
+aa          A.3 utt1:  I think that's true.  /
+sd          A.3 utt2: [ The, + {F uh, } the ] Bermuda grass is greening up in March,  /
+sd          A.3 utt3: {C and } sometimes doesn't really start doing that until the first part of April.  /
+sv          A.3 utt4: [ {C So. } +   
+
+b          B.4 utt1:  Yeah. /  
+
++          A.5 utt1:  {C So } ] I think we're a little [ hea-, + ahead ] of schedule on that. /  
+
+b          B.6 utt1:  Yeah,  /
+sd          B.6 utt2: I was out in my yard yesterday afternoon,  /
+sd          B.6 utt3: {C and } I noticed all that grass coming up,  /
+sd(^q)          B.6 utt4: {C and } I thought, ooh,  /
+^q          B.6 utt5: we've got to start this mowing bit soon <laughter>. /  
+
+aa          A.7 utt1:  That's true.  /
+sd          A.7 utt2: It's been [ a, + a ] fun break,  /
+sd          A.7 utt3: {C but } the break is over. /  
+
+b          B.8 utt1:  Yeah.  /
+sv          B.8 utt2:  {D Well, } {F um, } {F oh, } I guess another thing I've noticed, too, here lately is that even though we've had some pretty warm days, it's been awfully gray, {D you know, } just, -/  
+
+b          A.9 utt1:  Yeah,  /
+sd          A.9 utt2: {D now, } the last couple of weekends have been nice and sunny. /  
+
+b          B.10 utt1:  Yeah.  /
+sd          B.10 utt2: {C But } it seems like every time at work I look out my window it's gray <laughter>. /  
+
+b          A.11 utt1:  {D Well, } yeah,  /
+sv          A.11 utt2: {C but } I'd rather have a sunny weekend than a gray weekend. /  
+
+aa          B.12 utt1:  {F Oh, } I go for that,  /
+aa          B.12 utt2: yeah. /  
+
+b          A.13 utt1:  Yeah. /  
+
+sd          B.14 utt1:  In fact, I'm a little worried about this one coming up here.  /
+sd          B.14 utt2: We have a long weekend  /
+sd          B.14 utt3: {C and, }  it sounds like it's going to be a little bit on the cool side. /  
+
+b          A.15 utt1:  Yeah.  /
+sd          A.15 utt2: I haven't heard whether it's going to rain or not. /  
+
+sd          B.16 utt1:  I think there's an eighty percent chance this evening,  /
+sd          B.16 utt2: {C but } it's supposed to be cleared out at least by noon tomorrow  /
+sd          B.16 utt3: {C and then } the rest will be without rain. /  
+
+ba          A.17 utt1:  {D Well, } that's good. /  
+
+sd          B.18 utt1:  {C But } I think the highs are going to be in the sixties, and the lows in the forties.  /
+sd          B.18 utt2: That's getting back to a little bit chillier. /  
+
+b          A.19 utt1:  Yeah,  /
+sv          A.19 utt2: that probably is a little bit under what it is for this time of year.  /
+%          A.19 utt3: I think,  /
+sd          A.19 utt4: I haven't seen [ the wea-, + the weather ] on the news in the evening lately,  /
+sd          A.19 utt5: {C but } I think the average high [ would be, + should be ] about seventy. /  
+
+b          B.20 utt1:  Yeah.   /
+sd          B.20 utt2:  I'm not certain either,  /
+sv          B.20 utt3:  {C but } you're probably right. /  
+
+b          A.21 utt1:  Yeah. /  
+
+sd          B.22 utt1:  {D Well, } I like it when it's sort of a medium temperature, {F uh, } maybe seventy-five to eighty, somewhere in there.  /
+sd          B.22 utt2: I don't like it when it's too cool or too warm.  /
+sd          B.22 utt3:  I'm much more apt to get things done when it's at that sort of in between temperature. /  
+
+aa          A.23 utt1:  Yeah,  /
+aa          A.23 utt2: that's true.  /
+sd          A.23 utt3: {F Um, }  one of the remarkable things about the weather in the summertime here is that quite often the average daytime high of say ninety-nine degrees is within five or six degrees of the all time record high. /  
+
+b          B.24 utt1:  {F Um. } /  
+
+sv          A.25 utt1:  {C And } what that tells me, is that the summer weather is very predictable, that it doesn't vary very much. /  
+
+aa          B.26 utt1:  Yeah.  /
+aap          B.26 utt2:  You're probably right. /  
+
+sd          A.27 utt1:  {E I mean, } any other time of year,  that's not the case, because it could be very warm or very cold. /  
+
+b          B.28 utt1:  Yes,  /
+sd          B.28 utt2: as a matter of fact, I heard the weather the other day on T V  /
+%          B.28 utt3: and I think it was one day this week a year ago -- /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sd          B.30 utt1:  -- they said that we had a freeze and some kind of bad weather.  {D You know } -- /  
+
+b          A.31 utt1:  Right. /  
+
+sd          B.32 utt1:  -- it wasn't just a super bad storm,  /
+sd          B.32 utt2: {C but } [ it was + --   
+
+b          A.33 utt1:  Right. /  
+
++          B.34 utt1:  -- it was ] that sort of thing that we never like to see in [ the, + the ]  late spring time. /  
+
+b          A.35 utt1:  Yeah.  /
+sd          A.35 utt2: One of the weirdest things I saw, I think it was around this time last year was a twenty-six degree lightening storm. /  
+
+ba          B.36 utt1:  {F Oh, } wow. /  
+
+sd          A.37 utt1: [ I, + {D you know, } I ] was going into the grocery store,  /
+sd          A.37 utt2: {C and } [ a, + a ] lightening bolt was almost directly overhead,  /
+sd          A.37 utt3: {C and } it was twenty- six degrees out. /  
+
+b          B.38 utt1:  {F Um. } /  
+
+sd(^q)          A.39 utt1:  {C And } I thought, {D Well } gee, [ I've, + I've ] never known it to lightening at that temperature. /  
+
+aa          B.40 utt1:  Yeah,  /
+sd          B.40 utt2: [ that, + that ] is pretty unusual.  /
+sd          B.40 utt3:  {C And } you really take notice of it, too. /  
+
+aa          A.41 utt1:  That's right.  /
+sv          A.41 utt2: [ It, + {F uh, } it ] probably was a lot warmer up high.  /
+sd          A.41 utt3:  Sometimes they get those inversions, like when we had that twelve and a half days a few years ago that it never got up as high as freezing.  /
+sd          A.41 utt4: The air temperature at five thousand feet was fifty degrees. /  
+
+b          B.42 utt1:  {F Um. } /  
+
+sd          A.43 utt1:  The cold weather was just simply trapped along the ground and couldn't get away. /  
+
+ba          B.44 utt1:  Wow.  /
+sd          B.44 utt2: I [ don't, + don't ] like that super cold stuff. /  
+
+aa          A.45 utt1:  Nope. /  
+
+sd          B.46 utt1:  I just don't move very well <laughter> when it's that cold. /  
+
+aa          A.47 utt1:   Yep,  /
+sd          A.47 utt2: [ I, + I'm ] really enjoying this now.  /
+sv          A.47 utt3: {D Well, } this has been interesting. /  
+
+aa          B.48 utt1:  Yeah,  {D well. } /  
+
+sv          A.49 utt1:  Not too challenging to the brain. /  
+
+sv          B.50 utt1:  <Laughter>  [ Not, +  not ] a real in depth topic, but --   
+
+aa          A.51 utt1:  Nope. /  
+
++          B.52 utt1:  -- enjoyed talking to you. /  
+
+o          A.53 utt1:  All right, Ellen,  /
+fc          A.53 utt2: {D well } you have a good day. /  
+
+fc          B.54 utt1:  Okay. /  
+
+fc          A.55 utt1:  Bye. /  
+
+fc          B.56 utt1:  Bye-bye. / 

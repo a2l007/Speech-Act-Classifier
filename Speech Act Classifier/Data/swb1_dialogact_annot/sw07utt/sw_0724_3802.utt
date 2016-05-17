@@ -1,0 +1,279 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3802_1436_1459
+TOPIC#:		326
+DATE:		920120
+TRANSCRIBER:	glp
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	4
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.
+
+===========================================================================
+  
+
+fp          A.1 utt1:  Mike, I'm calling from Dallas, from Richardson. /  
+
+ba          B.2 utt1:  {F Oh, } okay, great.  /
+fp          B.2 utt2:  I'm in Addison here. /  
+
+b          A.3 utt1:  Okay,  /
+ba          A.3 utt2: {D well, } good.  /
+sd^t           A.3 utt3:  {D You know, }  our subject is on boating and sailing -- /  
+
+b          B.4 utt1:  Right. /  
+
+sd           @A.5 utt1:  -- {C and, } quite honestly, with the  exception <laughter> of being involved in a part ownership of a little bass boat, I have never really got into sailing or boating. /  
+
+sd          B.6 utt1:  I do, {F uh, } quite a bit of sailing.  /
+sd          B.6 utt2:   I own a sailboat  that I --   
+
+ba          A.7 utt1:  {F Oh, } do you, {D well, } great. /  
+
++          B.8 utt1:  -- keep [ it + ] parked up on the scout lot of my scout troop <breathing>, /  
+
+x          A.9 utt1:  <Laughter>.   
+
+sd          B.10 utt1:  {C and } we take it out  /
+sd          B.10 utt2: {C and } we do some teaching  of sailing with the scouts,  /
+sd          B.10 utt3: {C but } --   
+
+ba          A.11 utt1:  {D Well, } that's neat. /  
+
++          B.12 utt1:  -- <Inhaling> I haven't really been taking it out,   
+
+x          A.13 utt1:  <Throat_clearing>.   
+
++          B.14 utt1:  recreationally too much lately <laughter>.  /
+sd          B.14 utt2: It's just --   
+
+b          A.15 utt1:  Right. /  
+
++          B.16 utt1:  -- I don't have a trailer hitch on my car anymore/
+sd          B.16 utt2: {C so } it's hard for me to get it somewhere  /
+%          B.16 utt3: {C but, } -/  
+
+sd          A.17 utt1:  I've seen some nice, nice sailboats.  /
+sd           A.17 utt2:  The guy that used to  live next to us in Richardson before we moved twelve years ago, or whatever, he had a sailboat, used to park it right in the, {F uh, }  driveway  /
+sd          A.17 utt3: {C and } it seemed, {F uh, } - /
+sd          A.17 utt4: I think it held probably, {F uh, } - /
+sd         A.17 utt5:  it must have slept four people anyway. /  
+
+b          B.18 utt1:  Yeah,  /
+sd          B.18 utt2: this one is not that big.  /
+sd          B.18 utt3:  It's a day sailer.  /
+sd           B.18 utt4:   It does have a little kind of cabin thing that you can store things in -- /  
+
+b          A.19 utt1:  Right. /  
+
+sd           B.20 utt1:  -- {C but } you couldn't really sleep in there unless you sort of stuck your body out the hole,   
+
+x          A.21 utt1:  <Laughter>.   
+
++          B.22 utt1:  <Laughter> back into the main part of the sailboat./  
+
+ba          A.23 utt1:  [  I -- +    
+
+%          B.24 utt1:  [ {C But, } +   
+
++          A.25 utt1:  -- I ] understand. /  
+
++          B.26 utt1:  {C but } ] it's, - /
+%          B.26 utt2: they're, - /
+sv           B.26 utt3: they can be black holes to throw money into <laughter>. /  
+
+aa          A.27 utt1:  I tell you,   
+
+sv          B.28 utt1:  Boats are kind of expensive to maintain. /  
+
++          A.29 utt1:  {F Oh, } they are,  /
+sd           A.29 utt2: {C and, } {D you know, } we have a swimming pool at our house  /
+sd            A.29 utt3: {C and } I think of all the time, now that my kids are gone and away and married and going to college or whatever, that I put in  there, I just could not imagine a boat because I know it's a lot of maintenance. /  
+
+sv          B.30 utt1:  Especially a bigger one. /  
+
+ba          A.31 utt1:  {F Oh, } gosh -- /  
+
+sv          B.32 utt1:  The bigger --   
+
+b          A.33 utt1:  -- yeah. /  
+
++          B.34 utt1:  -- they are, if you get a big cabin cruiser or --   
+
+aa          A.35 utt1:  You bet. /  
+
++          B.36 utt1:  -- or a big ski boat,   
+
+x          A.37 utt1:  <Throat_clearing>.   
+
++           B.38 utt1:  power boat, then there's always, {F uh, } stuff to go wrong with it.  /
+sd          B.38 utt2:  A sailboat at least doesn't have an engine to mess up,  /
+sv          B.38 utt3:  {C but } you still have to --   
+
+aa          A.39 utt1:  Sure. /  
+
++            B.40 utt1:  -- worry with the hull and the condition of the sails and  spars and  rigging, {F uh, } everything that's in it.  /
+sv           B.40 utt2:   It takes a, <lipsmack> a pretty good amount of maintenance to keep one up  /
+sv,o@          B.40 utt3: {C but, }  *[[ Oh, come on--this if followed by a 14-utterance turn by speaker A; it must be an incomplete slash unit! ]] 
+
+aa          A.41 utt1:  You bet.  /
+sd          A.41 utt2:  I know, my wife and I were first married here  /
+%          A.41 utt3: aunt and uncle, - /
+%          A.41 utt4:  un-, - /
+sd           A.41 utt5: aunt and uncle up in New York, they kept a boat on Jamaica Bay  /
+sd           A.41 utt6: {C and } we used to go out with them and back then they had bought an  older Chris Craft  /
+sd           A.41 utt7: {C and } we were involved every weekend in just, {F uh, } - /
+sd           A.41 utt8:  as we visited, we were involved every weekend in just helping them redo this and refinish that.  /
+sd          A.41 utt9:   We just worked all the time.  /
+sd           A.41 utt10: {C But } their boat slept about four people plus had a little kitchen.  /
+sd          A.41 utt11: It was sort of neat.  /
+%          A.41 utt12:  We, - /
+sd           A.41 utt13: {C but } I think that was the last time we were really involved,  /
+sd          A.41 utt14: {C and } that was twenty years ago, or twenty-five --   
+
++@          B.42 utt1:  {D Well } --   *[[ See note on B.40 utt 3 ]] 
+
++          A.43 utt1:  -- years ago. /  
+
++          B.44 utt1:  -- it's a lot of fun, I think --   
+
+aa^m          A.45 utt1:  It is a lot of fun. /  
+
++           B.46 utt1:  -- {F uh, } just from the standpoint of <inhaling> getting away from the dodge here,  /
+sv           B.46 utt2: {C and } when you work hard and you're under  pressure and everything all week long, a boat can be a lot of relaxation, {F uh, }  [ to + ] especially with a group of friends and --   
+
+aa          A.47 utt1:  You bet. /  
+
++           B.48 utt1:  -- cook out or camp out or whatever, {F uh, } or a cabin or something, depending on how much you like to rough it.  /
+%          B.48 utt2: [ {C But, } + {C but } ]  it's, {F uh } <lipsmack>, -/  
+
+sd           A.49 utt1:  I visited my cousin a couple of years ago,  my wife and I  /
+sd           A.49 utt2: {C and } our daughter and he had a place on Lake of the Ozarks  /
+sd          A.49 utt3: {C and } he had a boat  /
+sd           A.49 utt4: {C and, } {F uh, } <sneezing> <<in the background>> I never seen so many boats in all my life.  /
+sd           A.49 utt5:  People actually park their car when they get to their place they're staying, townhouse or condominium, whatever they own/
+sd          A.49 utt6: {C and } --   
+
+^2          B.50 utt1:  Use the boat --   
+
++          A.51 utt1:  -- [ they, + they ] go boat. -/  
+
++          B.52 utt1:  -- for transportation. /  
+
+sd          A.53 utt1:  {E I mean } they go, - /
+sd           A.53 utt2: if they want to go to the lounge to have a cocktail, they use the boat. /  
+
+bf           B.54 utt1:  They just go across the boat [ and get a, + ]   and tie it up and go in, huh  /
+x          B.54 utt2: <laughter>.   
+
+sd          A.55 utt1:  {C And } that was sort of neat.  /
+aa           A.55 utt2:  [ [ That, + that, ] + that's ]  true, that's exactly how they do it.  /
+sd          A.55 utt3:  They go to dinner that way,  go to all the restaurants  /
+sd          A.55 utt4: {C and } that was sort of a neat setup.  /
+sd          A.55 utt5:  I enjoyed that.  /
+sd          A.55 utt6:   We spent a week with them.  /
+sd^r          A.55 utt7:  I enjoyed that.  /
+sd          A.55 utt8:  [ I'm envious, +   
+
+sv          B.56 utt1:  That would be fun. /  
+
++          A.57 utt1:  I'm envious ] of people that have the  big boats  /
+%          A.57 utt2: {C and, } {F uh, } -/  
+
+%          B.58 utt1:  <Inhaling> I've just never <breathing>, - /
+sd          B.58 utt2:  I've never moved up to a really big class of sailboat.  /
+sd           B.58 utt3: {F Uh, } once I get my son into and through with college, he's going to be starting, {F uh, } Rice next year  /
+sd          B.58 utt4:  {C so } he's going off,  /
+sd           B.58 utt5: {C but } {F uh, } once I get to that stage where I'm not paying for something else --   
+
+aa          A.59 utt1:  You bet. /  
+
++          B.60 utt1:  -- and, {F uh, } I don't have to worry about a lot of other scheduling things, where I've actually got the time to go out and enjoy it, {F uh, }  I might do something differently.  /
+sd           B.60 utt2: I might just donate my little one to the scout troop and let them,   
+
+x          A.61 utt1:  <Laughter>.   
+
++           B.62 utt1:  keep it and maybe consider getting [ a, + a ] better one for me.  {F Uh, } /  
+
+%          A.63 utt1:  Think, - /
+qy          A.63 utt2: you <ringing> think you'd really enjoy it? /  
+
+ny          B.64 utt1:  Yeah,  /
+na          B.64 utt2: I think I would.  /
+sd           B.64 utt3: {F Uh, } the sailing part  of it I like because it's so  quiet. /  
+
+b          A.65 utt1:  Yeah. /  
+
+sd            B.66 utt1:  {C And } if you get a big enough one, then you've got a little motor on it also, where if it's light wind, you can still putt around a  little bit and have fun. /  
+
+%          A.67 utt1:  {F Oh } # I, # -/  
+
+sd           B.68 utt1:  # [ {C Or } if, + # {C or } if ]  the wind dies, you're not stuck in the,   
+
+x          A.69 utt1:  <Noise>.   
+
++          B.70 utt1:  middle of the lake. /  
+
+x          A.71 utt1:  <Squeak>.   
+
+%          B.72 utt1:  I've, - /
+sd          B.72 utt2: with my little one, I've been out there many times --   
+
+b          A.73 utt1:  Yeah,  /
+ba          A.73 utt2: that's great. /  
+
++          B.74 utt1:  -- on a calm summer day,   
+
+x          A.75 utt1:  <Laughter>.   
+
++          B.76 utt1:  where all of a sudden the wind stops  /
+sd           B.76 utt2: {C and } you're  just stranded out there trying to pick up what little gusts you can to work your way back in  /
+sv          B.76 utt3: [ {C and } + --   
+
+aa          A.77 utt1:  {F Oh, } I know. /  
+
++          B.78 utt1:  -- {C and } ] that gets hot [ and, + and  ] wearisome,   
+
+x          A.79 utt1:  <Laughter>.   
+
++          B.80 utt1:  doing that.  /
+sd           B.80 utt2:  {C And } [ if you h-, + if you're ]  a big enough boat to have the little auxiliary motor on there, at least you can kind of  drop the sails and --   
+
+^2          A.81 utt1:  {C And } putt putt. /  
+
++          B.82 utt1:  -- putt on back in <laughter>. /  
+
+aa          A.83 utt1:  <Laughter> Sure.  /
+ba          A.83 utt2: {D Well, } that's neat. /  
+
+sv          B.84 utt1:  <Lipsmack> {C But } it's fun. /  
+
+qw          A.85 utt1:  Where do you work?  /
+qw          A.85 utt2: Who are you with? /  
+ 
+sd           B.86 utt1:  I own an insurance agency, a managing general, a wholesaler of insurance, {F uh } --   
+
+ba          A.87 utt1:  {D Well, } good. /  
+
++          B.88 utt1:  -- out in Addison  /
+sd          B.88 utt2: {C and, } {F uh, } I'm a scout leader,  though,  /
+sd          B.88 utt3: {C so } [ I'm, + I'm ] out with, -/ 

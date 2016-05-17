@@ -1,0 +1,274 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2094_1072_1056
+TOPIC#:		302
+DATE:		910310
+TRANSCRIBER:	csw
+UTT_CODER:	mlg	
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	0
+STATIC_ON_A:	0
+STATIC_ON_B:	0
+BACKGROUND_A:	0
+BACKGROUND_B:	0
+REMARKS:        None.
+
+=============================================================================
+  
+
+qw          @A.1 utt1:  {F Uh, } Robert [ what do you, {F uh, } think, + what substances do you think ] are the most, {F uh, } likely causes of air pollution? /  
+
+fe          B.2 utt1:  {F Um, } gee,  /
+sd          B.2 utt2: I don't, {E I mean, } - /
+sv          B.2 utt3: [ I, + I ] guess it's the stuff that comes out of automobile exhaust, {D you know, }  /
+sd          B.2 utt4: they say in the paper nitrous oxides and ozone and all that. /  
+
+b          A.3 utt1:  Right. /  
+
+sd          B.4 utt1:  {D So, }  I believe them  /
+h          B.4 utt2: {C but } I'm not a chemist. /  
+
+qy          A.5 utt1:  <Laughter> [ Do you, + {F uh, } do you ] think that those are bigger contributors than things like [ ai-, + acid ] rain and some of the pollutants that come from, {F uh, } industrial areas, factories and so on? /  
+
+no          B.6 utt1:  I don't really know, {F um, }  /
+sd          B.6 utt2: I grew up in Los Angeles and have felt like I was victimized by air pollution. /  
+
+sd          A.7 utt1:  I was going to say, - /
+qy^d          A.7 utt2: [ [ {C and, } +  {C and } ]  you,  + {C so } you ] understand smog <laughter>. /  
+
+na          B.8 utt1:  I understand it very well  /
+sd          B.8 utt2: {C and } in fact I was a private pilot there, /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1:  {C and } I can remember [ very + ] [ etched, + etched ] clearly in my mind, {F uh, } flying and coming up above the smog layer at about three thousand feet and looking back down [ and, + and ] really being unbelieving at,   
+
+ba          A.11 utt1:  Wow. /  
+
++          B.12 utt1:  what looked like a, {F uh, } - /
+sv          B.12 utt2: it just looked liked peanut butter. /  
+
+ba          A.13 utt1:  My word. /  
+
+sd          B.14 utt1:  Thick and brown and so on. /  
+
+qy^d          A.15 utt1:  {C And } that was, a few years ago? /  
+
+na          B.16 utt1:  This was quite a few years ago.  /
+sd          B.16 utt2:  This was in the nineteen sixties. /  
+
+qy^d          A.17 utt1: [ I, + I ] wonder if it's any better now.    
+
+sd          B.18 utt1:  People say that it is somewhat better. /  
+
++          A.19 utt1:  Because [ they, + {F uh, } California ] has such strict rules,    
+
+b          B.20 utt1:  Right. /  
+
++          A.21 utt1:  {F um, } about emissions and so on.  /
+sd          A.21 utt2:  {F Um, } [ I, + I ] don't know if you [ he-, + [ re-, + ] heard ] about the, {F uh, } recent legislation in, {F uh, } Colorado, {F uh, } against a power company, {F uh, } that's actually on Indian land, I believe,  /
+sd          A.21 utt3: {C but, }  {F uh, } it has been ruled against, {F uh, } regarding air pollution because they think that it's causing terrible smog over the Grand Canyon.    
+
+%          B.22 utt1:  {F Um. } /  
+
++          A.23 utt1:  And, {F um, } particularly in the winter months.  /
+%          A.23 utt2:  {C So } they, - /
+sd          A.23 utt3: it was, {F uh, } a landmark case because it's unusual to, {F um, } - /
+%          A.23 utt4: I can, - /
+sd          A.23 utt5: [ they, + they ] were talking about shutting it down, [ or + ] if it didn't comply and so on. /  
+
+qy          B.24 utt1:  {D So } did it burn coal? /  
+
+no          A.25 utt1:  I don't know that,  /
+sd          A.25 utt2: the information is one of those wire services kind of [ news, + pieces of news, ]  {D you know, }  /
+sv          A.25 utt3: {C so } it's hard,  /
+sd          A.25 utt4: I never did see the full story,  /
+sd          A.25 utt5: {C so } I don't know. /  
+
+b          B.26 utt1:  Yeah. /  
+
+sd          A.27 utt1:  {C But } they said [ that, + that ] it really caused so much smog over, {F uh, } the Grand Canyon in the winter months that they couldn't do the, {F uh, } piloting, {F uh, } {D you know, } the helicopter trips and that sort of thing.    
+
+%          B.28 utt1:  {F Um. } /  
+
++          A.29 utt1:  Which would be horrible,   
+
+b          B.30 utt1:  Yeah. /  
+
++          A.31 utt1:  because [ the, +  there's ] nothing,  /
+sv          A.31 utt2: {E I mean } that's such a spectacle.  /
+sv          A.31 utt3:  It would be a shame to ruin it. /  
+
+b^r          B.32 utt1:  Yeah. /  
+
+qw          A.33 utt1:  {F Uh, } what do you think individuals could do, or society could do to alleviate this problem. /  
+
+sv          B.34 utt1:  {F Uh, } [ I don't, + {F uh, } I don't ] know whether we could do a whole lot as individuals.  {F Uh, } maybe just take good care of our cars,   
+
+b          A.35 utt1:  Right. /  
+
++          B.36 utt1:  and make sure we keep our pollution devices clean and all that sort of thing.   {F Um, }  /
+sd          B.36 utt2: apart from that, [ I, + I ] don't know what we can do as individuals.  /
+qw          B.36 utt3: What do you think we can do? /  
+
+b          A.37 utt1:  Uh-huh,  /
+bf          A.37 utt2: you think, it's [ more, + more ] to society.  /
+sd          A.37 utt3:  {D Well } I guess I kind of agree there.  /
+%          A.37 utt4:  I, {F uh, } - /
+sv          A.37 utt5: on an individual basis there isn't a lot we can do about a lot of things  /
+sv          A.37 utt6: {C but } if we are concerned about it then we certainly can, {F uh, } force, {F uh, } government, {F uh, } that we elect to deal more seriously with it. /  
+
+b          B.38 utt1:  Yeah. /  
+
+sv          A.39 utt1:  {C And } I do think that we have a responsibility there.  /
+sd          A.39 utt2:  I must admit I'm not always real politically active  /
+sv          A.39 utt3: {C but } I do think that, {F um, } Congress has backed down much too much on some of the air pollution standards. /  
+
+b^r          B.40 utt1:  Yeah. /  
+
+sv          A.41 utt1:  {C And } it's brought the, - /
+sv          A.41 utt2: they, {F uh, } really listen to - /
+sv          A.41 utt3: [ the, + the, ]  {F uh, } lobbyist  {C and, } {F uh, } the car manufacturing companies [ have, + {F uh, } {D you know, } have  ] really pushed,  /
+%          A.41 utt4:  (( they )) , - /
+^q          A.41 utt5: all those [ re-, + restrictions ] are really too hard,  /
+^q          A.41 utt6: [ we can't, + we can't ] quite make that go  /
+%         A.41 utt7: {C and } they don't - /
+sd          A.41 utt8: {C and then } we still live with air pollution. /  
+
+b^r          B.42 utt1:  Yeah. /  
+
+sv          A.43 utt1: {F Um, } {C so } I suspect that that's one thing [ that, + that ] as individuals, we can do, make our voices known, perhaps to our legislators.  /
+sv          A.43 utt2: {C But, } {F um, } as a society, I think we can do more  /
+sv          A.43 utt3: {C and } that's probably how we ought to do it.  {F Uh, } [ individ-, + being individually responsible ] [ as, {F uh, } gro-, + in order to be group responsible. ] /  
+
+b          B.44 utt1:  Yeah,  /
+sv          B.44 utt2: I guess [ I'm, + I'm ] to the point where I'm cynical enough that I really don't believe anything will happen [ unless, + unless ] there's something economically justifiable about it. /  
+
+b          A.45 utt1:  Right. /  
+
+sd          B.46 utt1:  {C And } in the case of air pollution, it simply might turn out at some point down the road, to be so costly to have to live with air pollution in terms of health problems,   
+
+b          A.47 utt1:  Uh-huh. /  
+
++          B.48 utt1:  and everything else that we'll spend the money that's necessary [ to, + {F uh, } to ] get rid of the source of it. /  
+
+sv          A.49 utt1:  I suspect [ that the pub-, + ] that there's going to have to be a lot of pressure, {F uh, } come to bear on the companies that deal with it  /
+sv          A.49 utt2: {C and } probably the only way that can happen is for, {F um, } governments to realize that they have to pay if companies don't. /  
+
+b          B.50 utt1:  Yeah. /  
+
+sd          A.51 utt1:  {C And, }  {F uh, } I don't know how long [ that, + that ] will take. /  
+
+sv          B.52 utt1:  People also have to realize they can't have their cake and eat it.  /
+qh          B.52 utt2:  {C So, } if you don't want to burn coal for power,   
+
+b          A.53 utt1:  Sure. /  
+
++          B.54 utt1:  how about [ nucle-, + nuclear ] energy.  /
+sv          B.54 utt2:  {D Well } we don't want that either. /  
+
+aa          A.55 utt1:  Exactly,  /
+aa          A.55 utt2: yeah,  /
+aa          A.55 utt3: right. /  
+
+qh          B.56 utt1:  How about investing in the sun.  /
+sv          B.56 utt2:  {D Well } nobody wants to pay twenty-five cents a kilowatt hour, I don't think. /  
+
+b          A.57 utt1:  Right. /  
+
+sv          B.58 utt1:  {F Uh, } I probably wouldn't mind if it really came down to it. /  
+
+sv          A.59 utt1:  {D Well } it's just the same thing with [ the car, + {F uh, } {F uh, } the gasoline, ]  /
+sv          A.59 utt2: now is a wonderful time to smack a fifty cent a gallon tax on gasoline,   
+
+aa          B.60 utt1:  {F Oh } yes,  /
+aa^r          B.60 utt2: yes,  /
+aa^r          B.60 utt3: yes. /  
+
++          A.61 utt1:  so that we don't, {F uh, } run into the kind of problems we recently had  /
+sv          A.61 utt2: {C and } yet the government is not going to do that because people are too dependent  /
+sv          A.61 utt3: {C and } [ they don't want, + they don't want ] to pay for it.  /
+sv          A.61 utt4:  {C So } instead, we spend billions of dollars going to war. /  
+
+aa          B.62 utt1:  Yes. /  
+
+%          A.63 utt1:  {F Uh, } {D you know, } wha-, - /
+h          A.63 utt2: however, it might have had other causes.  /
+sv          A.63 utt3: Certainly oil was a big factor. /  
+
+aa          B.64 utt1:  {F Oh } certainly,  /
+aa          B.64 utt2: yes. /  
+
+sv          A.65 utt1:  {F Um, } {C and } I think that's probably going to happen [ with, + with ] such things as air pollution,   
+
+b          B.66 utt1:  Yeah. /  
+
++          A.67 utt1:  [ when we, + when we ] [ se-, + get serious ] [ about cleaning, + about our motors ] in our automobiles [ then, + {F uh, } then ] maybe, {D you know, } we'll have a little bit of help. {F Um, } {F uh, }  /
+qy          A.67 utt2: do you have any air pollution in your area? /  
+
+ng          B.68 utt1:  There's not really a lot here in Raleigh.  /
+sd          B.68 utt2:  {F Uh, } once in a while we'll get some, {F uh, }  /
+sv          B.68 utt3: I think it kind of washes down [ from, + {F uh, } from ] your area Linda <laughter>. /  
+
+ba          A.69 utt1:  {F Oh } no.  <laughter> /  
+
+%          B.70 utt1: [ That's what they, + that's what they, ] -/  
+
+qy^d          A.71 utt1:  Your talking about [ from, + from ] [ the, + {F uh, } the ] [ middle, + middle ] states,   
+
+ny          B.72 utt1:  Yeah. /  
+
++          A.73 utt1: [ that, + that ] have more factories and so on. /  
+
+ny          B.74 utt1:  Yeah,  /
+ny^r          B.74 utt2: yeah,  /
+sd^e          B.74 utt3: that's what they say  /
+sd          B.74 utt4: {C but } [ [ it's + it's not, ] + it's not ] very usual  /
+sd          B.74 utt5: {C and } certainly we don't have the eye stinging variety that you get in the big cities. /  
+
+b          A.75 utt1:  Yeah,  /
+sd          A.75 utt2: we really don't have that either.  /
+sv          A.75 utt3: [ Although I think I can tell a difference in, + I lived in this area for about twenty-five years and I think I can tell a difference in ] the comfort level, {F uh, } particularly in the summer. {F Uh, } {D you know, } when it gets hot,   
+
+b          B.76 utt1:  Uh-huh,  /
+b^r          B.76 utt2: uh-huh. /  
+
++          A.77 utt1:  and you have, [ the, + that ] kind of a pressure from the pockets of air, {F uh, } usually they say caused by exhaust. /  
+
+b          B.78 utt1:  Yeah. /  
+
+sv          A.79 utt1:  It seems to me that I'm more uncomfortable  /
+sd          A.79 utt2: {C and, } {D you know, } my eyes sting more  and so on and so on.  /
+sv          A.79 utt3:  {C So } I suspect that [ it's, + it's ] an ever growing problem. /  
+
+b^r          B.80 utt1:  Yeah. /  
+
+sv          A.81 utt1: {D Well } I suspect that we've probably covered everything that we need to here. /  
+
+aa          B.82 utt1:  Right,  /
+sd          B.82 utt2: I think,    
+
+fc          A.83 utt1:  It was nice talking to you. /  
+
++          B.84 utt1:  we've given them about seven minutes according to my watch  /
+fc          B.84 utt2: {C and } I enjoyed the conversation. /  
+
+fc          A.85 utt1:  So did I.  /
+fc          A.85 utt2:  Bye, bye. /  
+
+fc          B.86 utt1:  Bye. / 

@@ -1,0 +1,715 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2566_1106_1027
+TOPIC#:		323
+DATE:		910411
+TRANSCRIBER:	DLB
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:        Other than Speaker A's children in the background, this was
+a good tape.
+
+=============================================================================
+  
+
+o          A.1 utt1:  Okay.  /
+qy          A.1 utt2:  Do you have any children? /  
+
+nn          B.2 utt1:  No.  /
+sd^e          B.2 utt2:  I don't. /  
+
+x          A.3 utt1:  <Laughter>.   
+
+x          B.4 utt1:  <Laughter>.   
+
+bf          A.5 utt1:  You don't. /  
+
+qy          B.6 utt1:  Do you? /  
+
+ny          A.7 utt1:  Yes,  /
+sd^e          A.7 utt2: I have, {F uh, } one.   A five year old daughter. /  
+
+b          B.8 utt1:  Uh-huh.  /
+qy          B.8 utt2:  Did you ever have her in child care? /  
+
+ny          A.9 utt1:  Yes,  /
+sd^e          A.9 utt2: I do.  /
+sd          A.9 utt3:  She was, {F um, } <Lipsmack> at a private, {D well, } - /
+sd          A.9 utt4: I stayed <Breathing> off work with her for little over of a year --   
+
+b          B.10 utt1:  Uh-huh. /  
+
++          A.11 utt1:  -- when she was born.  /
+sd          A.11 utt2:  {C And then } I had her at a private sitter for, I guess, two, two and a half years after that. /  
+
+qh          B.12 utt1:  {C And } how did you choose that sitter? /  
+
+sd          A.13 utt1:  {F Um, } she was referred to me by a couple of people  /
+sd          A.13 utt2: {C and } she turned out to be wonderful.  /
+sd          A.13 utt3:  I couldn't have asked for anything better, I don't think. /  
+
+b          B.14 utt1:  Yeah. /  
+
+sd          A.15 utt1:  I didn't want to [ s-, + send ] her straight to a day care. /  
+
+b          B.16 utt1:  Right. /  
+
+sd          A.17 utt1:  {C And, }  even though she was that old, I still didn't want her to go to a day care. /  
+
+b          B.18 utt1:  Yeah. /  
+
+sd          A.19 utt1:  {C And } this lady, you would think it was her own. /  
+
+bh          B.20 utt1:  Really? /  
+
+ny          A.21 utt1:  Yeah.  /
+sd          A.21 utt2:  She's real good. /  
+
+sv          B.22 utt1:  It's hard to find people like that. /  
+
+aa          A.23 utt1:  <Breathing>  Yes.  /
+sv A.23 utt2:  It is.  /
+sd          A.23 utt3: {C And, }  {F um, } now I have got her in a Montessori school. /  
+
+b          B.24 utt1:  Uh-huh. /  
+
+sd          A.25 utt1:  {C And } she's really, really doing good and learning a lot.  /
+sd          A.25 utt2:  <Throat_clearing> {C And, }  {D actually, } I've started working up there in the afternoons, too.  /
+%          A.25 utt3: {D So, } -/  
+
+ b         B.26 utt1:  {F Oh, } yeah. /  
+
+  x        A.27 utt1:  <Laughter>.   
+
+  ba        B.28 utt1:  {D Well, } that's neat. /  
+
+%          A.29 utt1:  Y-,  /
+aa          A.29 utt2: {D well, } yeah.  /
+sd          A.29 utt3:  I guess.  I'm going to quit as soon as [ school, + the school ] season's over.  /
+sd          A.29 utt4:  {C But, }  {F uh, } I really enjoyed being with her up there.  /
+sd          A.29 utt5: I hate it for her,  /
+sd          A.29 utt6: she has to stay that much longer, /  
+
+b          B.30 utt1:  # Yeah.  # /  
+
+%          A.31 utt1:  # {C but, }  # -/  
+
+qy          B.32 utt1:  Do they have classes for them during the summer, too? /  
+
+ny          A.33 utt1:  Yeah.  /
+sd          A.33 utt2: [ They, + they ] go [ f-, + ] {F uh, } year-round, {F uh } --   
+
+b          B.34 utt1:  Huh. /  
+
++          A.35 utt1:  -- teach them.  /
+sd          A.35 utt2:  Now, in the summer they have {D like } a lot of field trips. /  
+
+b          B.36 utt1:  Yeah. /  
+
+sd          A.37 utt1:  There's a field trip just about every day if they want to go on one, and  stuff like that.  /
+sd          A.37 utt2:  It's a lot more lax.  /
+sd          A.37 utt3: [ {C But, } +  {C but } ] they still go through all their, {F uh, } curriculum as usual. /  
+
+qw          B.38 utt1:  What kind of questions did you ask about the private sitter before you took her over there? /  
+
+^h          A.39 utt1:  {F Um, } gosh <Laughter>.  /
+%          A.39 utt2:  I ca-, - /
+sd          A.39 utt3: my husband and I both went.  /
+sd          A.39 utt4:  We kind of give her the third degree <Laughter>. /  
+
+ba          B.40 utt1:  {F Uh, } good <Laughter>, /  
+
+x          A.41 utt1:  <Laughter>.   
+
+sd          B.42 utt1:  I'm glad to hear that. /  
+
+b          A.43 utt1:  Yeah.  /
+sd          A.43 utt2:  {D Well, } we went over to her house,  /
+sd          A.43 utt3: {C so } we told her, {D you know, } pro-, - /
+sd          A.43 utt4:  {D well, } [ we didn't tell her, + we just told ] here we'd be over that day.  /
+sd          A.43 utt5:  We didn't  tell her when.  /
+sd          A.43 utt6: {C So, }  that way I didn't think, [ {D y-, +   
+
+b          B.44 utt1:  # Yeah. # /  
+
++          A.45 utt1:  # you  # know, } ] the house would be, {D [ y-, + you know, ] } cleaned or anything for me specifically. /  
+
+b          B.46 utt1:  Right. /  
+
+sd          A.47 utt1:  {C And, }  {F um, } she had a daughter,  /
+sd          A.47 utt2: {C and } I want to say her daughter was like six or  seven, right around first, second grade.  /
+sd          A.47 utt3:  <Baby>  {C And, }  {F um, } at the time she kept [ anoth-, + one other ] child, {F um, } about a four year old, I believe.  /
+sd          A.47 utt4: {C But } it was only like a part-time basis.  /
+sd          A.47 utt5:  <Noise>  {C So, }  we went over there  /
+sd          A.47 utt6: {C and } <Breathing>  we questioned her about what she fed them and, {F um, } what she did with them during the day and, {F um, } {D you know, } just how she treated them, [ how, + how ] her daughter was with the children when her daughter got home from school and <Noise>,   
+
+b          B.48 utt1:  # Yeah.  # /  
+
++          A.49 utt1:  # stuff # like that <Noise>.  /
+sd          A.49 utt2:  {C And, }  {F uh, } we really seem to be pleased with her.  /
+%          A.49 utt3: {C And, }  {F um, } <Lipsmack>, -/  
+
+qy          B.50 utt1: [ Did you, + did you ] introduce your daughter to her before you made,   
+
+ny          A.51 utt1:  # Yes, # /  
+
++          B.52 utt1:  # your # decision? /  
+
+ny          A.53 utt1:  {F Oh, } yes.  /
+sd^e          A.53 utt2:  {C And } she still loves her to death.  /
+sd          A.53 utt3: {E I,   
+
+x          B.54 utt1:  # <Breathing>.  #   
+
++          A.55 utt1:  # mean, } # when they see each other, {D you know, } they just love each other to death.  /
+sd          A.55 utt2:  {C And } she literally spent almost the entire amount that I paid her on my daughter.   
+
+ bh         B.56 utt1:  Really? /  
+
++          A.57 utt1:  Either making her clothes or,     
+
+b          B.58 utt1:  # Yeah.  # /  
+
++          A.59 utt1:  # buying # her things. /  
+
+x          B.60 utt1:   ((   )) .   
+
+sd         A.61 utt1:  {C So, }  we're real, real lucky.  /
+%          A.61 utt2:  {C But } aft-, {F uh, } - /
+sd          A.61 utt3: {C so } she stayed with her about, roughly two years,  /
+sd          A.61 utt4: {C and } [ she, + {F um, } she ] had to go back to work,  /
+sd          A.61 utt5: they had some other expenses that came up  /
+sd          A.61 utt6: {C so } she had to go, I guess, get a real job <Laughter>. /  
+
+b          B.62 utt1:  Yeah.  /
+bf          B.62 utt2:  Get a real job, full time. /  
+
+aa          A.63 utt1:  Yeah.   /
+%          A.63 utt2: {C So, }  {F uh, } -/  
+
+qw        B.64 utt1:  {C So, }  what made you decide to put her in a Montessori school? /  
+
+sd          A.65 utt1:  {D Well, } I checked a lot of places out, {D you know, } the Kinder Cares and the,   
+
+b@          B.66 utt1:  # Uh-huh.  #   
+
++          A.67 utt1:  # stuff # like that.  /
+sd          A.67 utt2:  {C And, }  {F uh, } I live in Garland. /  
+
++@          B.68 utt1:  Yeah. /  
+
+sd          A.69 utt1:  {C And, }  there's this Montessori school that's nearby <Baby_talking>  /
+sd          A.69 utt2: {C and, }  {F um, } it had been recommended by some friends of ours  /
+sd          A.69 utt3: {C but, }  {F uh, } [ it, + it's ] an older place.  /
+sd          A.69 utt4: {C And so, } I, {F uh, } checked out all the new places that were near us  /
+sd          A.69 utt5: {C and  then } I checked that place out  /
+sd          A.69 utt6: {C and, }   (( {F uh, } ))  even though it was older, [ it was, + it was ] real comfortable and,    
+
+b          B.70 utt1:  # Uh-huh.  # /  
+
++          A.71 utt1:  # I # guess, kind of homey. /  
+
+b          B.72 utt1:  Yeah. /  
+
+sd          A.73 utt1:  {C And } they didn't just play all day long.  {D You know, }  /
+sd          A.73 utt2: {D like, }  I noticed a lot of these other schools that I went <Talking> <<Child asked: Can I have some Jell-O?  Speaker A answered: Yes.>> and [ interviewed on, + {E or } interviewed at, ] {F um, } they did a lot of play work and stuff.  /
+%          A.73 utt3:  {C And then } they, - /
+sd          A.73 utt4: almost all of them had a Montessori section. /  
+
+b          B.74 utt1:  {F Huh. } /  
+
+sd          A.75 utt1:  {C And } I thought, {D well, } {D gosh, } that must be pretty good, {D you know, } if everybody's trying to incorporate a little bit of it [ into, +   
+
+b          B.76 utt1:  # Yeah.  # /  
+
++          A.77 utt1:  # into, # ]   
+
+b          B.78 utt1:  Yeah. /  
+
+ +         A.79 utt1:  their school.  /
+ sd         A.79 utt2:  {C And } they made sure they pointed it out, {D you know. }  /
+sd          A.79 utt3: {C But } after I looked at this place, and I took Randi with me, {F uh, } <Lipsmack>   I think just about to every place.  /
+sd          A.79 utt4:  One place I think I didn't take her. /  
+
+b          B.80 utt1:  Uh-huh. /  
+
+sd          A.81 utt1:  {C And, }  I just kind of let her go, [ see, + see ] what she felt like doing. /  
+
+b          B.82 utt1:  Yeah. /  
+
+sd          A.83 utt1:  {C And } that place, {D boy, } - /
+sd          A.83 utt2: if somebody came and she liked them and she went outside with them  [ and, + ] it's hard to drag her away <Laughter>. /  
+
+x          B.84 utt1:  <Laughter>.   
+
+sd          A.85 utt1:  {C So, }  I felt more comfortable at,   
+
+ba          B.86 utt1:  # That's, #   
+
++          A.87 utt1:  # that # place. /  
+
++          B.88 utt1:  the true test. /  
+
+ b         A.89 utt1:  Yeah. /  
+
+b          B.90 utt1:  Yeah. /  
+
+sd          A.91 utt1:  {C And } she was real comfortable.  /
+sd          A.91 utt2:  {C And } she has [ really, + really ] done good.  /
+%          A.91 utt3: [ I, + I, ] - /
+sd          A.91 utt4:  it's hard to tell how much has been that or how much is just her. /  
+
+b          B.92 utt1:  Yeah. /  
+
+sd          A.93 utt1:  {C But, }  she seems to me to be, {D you know, } pretty quick and smart  /
+sd          A.93 utt2: {C and } she's already reading and writing and stuff,   
+
+ba          B.94 utt1:  # That's good.  # /  
+
++          A.95 utt1:  # like that.  /
+sd          A.95 utt2:  # {C And } she just turned five last month. /  
+
+ba          B.96 utt1:  {F Huh, }  that,   
+
+%          A.97 utt1:  # {D So, }  # -/  
+
++          B.98 utt1:  # is # good then. /  
+
+aa          A.99 utt1:  Yeah.  /
+sd          A.99 utt2:  I think so.  /
+sd          A.99 utt3: {E I mean, } I didn't want to rush school at her the whole time,  /
+sd          A.99 utt4:  {C but, }   
+
+aa          B.100 utt1:  No,  /
+sv          B.100 utt2: especially we're going to spend the next eighteen years,   
+
++          A.101 utt1:  # <Laughter>.  #   
+
++          B.102 utt1:  # in # school <Laughter>. /  
+
+aa          A.103 utt1:  Exactly.  /
+%          A.103 utt2:  Exact-,  /
+sd          A.103 utt3: I wanted,   
+
+x          B.104 utt1:  # <Laughter>.  #   
+
++          A.105 utt1:  # to # quit my job so I could stay home with her the next five months,   
+
+x          B.106 utt1:  # <Laughter>.  #   
+
++          A.107 utt1:  # because # I know she's going to have to face that <Laughter>. /  
+
+b          B.108 utt1:  Yeah,  /
+b          B.108 utt2: really <Laughter>. /  
+
+ fe         A.109 utt1:  {C And, }  {F oh, } my God.  Here we go,    
+
+ba          B.110 utt1:  # That's right.  # /  
+
++          A.111 utt1:  # {D you know. }  /
+sd          A.111 utt2:  # I just hate that,  /
+sd          A.111 utt3: {C but, }  <Lipsmack>  <Breathing>  {D anyway. }  {C So, } you don't have any children.  /
+qy          A.111 utt4:  Do you have any [ l-, + ] nieces or nephews <Laughter> (( then )) ? /  
+
+ny          B.112 utt1:  Yeah.  /
+ny^r          B.112 utt2:  Yeah.  /
+sd          B.112 utt3: I have a nephew.  /
+sd          B.112 utt4:  He's a little brat. /  
+
+x          A.113 utt1:  <Laughter>  <Barking>.   
+
+sd          B.114 utt1:  <Laughter> He goes to a really crummy day school.  /
+sd          B.114 utt2: <noise> <<Snapped fingers>> My sister's not real bright,  /
+sd          B.114 utt3: <noise> [ {C so, } + {C but } ] [ he, + he's ] <noise> <<Snapped fingers>> <child_talking> always sick.  /
+sd          B.114 utt4:  {E I mean, } <child_talking> he has always got some kind of,   
+
+bh@          A.115 utt1:  {F Oh, } really? <noise>  <<Sounds like a child screams in the distance>>.   
+
++          B.116 utt1: cold or something.  /
+h          B.116 utt2: {C And, } <noise> I don't know, <child_talking>   /
+sd          B.116 utt3: I don't think this place is a very good place for him. /  
+
++@          A.117 utt1:  Oh </child_talking>. /  
+
+sd          B.118 utt1:  It's just kind of convenient  /
+sd          B.118 utt2: {C and } <noise>  she's the kind that goes for convenience over anything else. /  
+
+b          A.119 utt1:  <Noise>  {F Oh, } really.  /
+sv          A.119 utt2:  Just easy <noise>  to get them,   
+
+aa          B.120 utt1:  # Yeah.  # /  
+
++          A.121 utt1:  # there # and stu-, -/  
+
+aa          B.122 utt1:  Exactly. /  
+
+ba          A.123 utt1:  {D Well, } that's a shame. /  
+
+b          B.124 utt1:  Yeah.  /
+sv          B.124 utt2:  I don't think she checks things out very well <children> <barking>.    
+
+bh          A.125 utt1:  {F Oh, } really?  /
+sv          A.125 utt2: That's,   
+
++          B.126 utt1:  # Which, #   
+
++          A.127 utt1:  # scary.  # /  
+
++          B.128 utt1:  really surprises me.  /
+sv          B.128 utt2:  It is scary.  /
+%          B.128 utt3:  Yeah. /  
+
+b          A.129 utt1:  Yeah.  /
+sd          A.129 utt2: [ I w-, + I was ] petrified. /  
+
+ba          B.130 utt1:  I know. /  
+
+x          A.131 utt1:  <Laughter>.   
+
+sd          B.132 utt1:  I would be, too <laughter>. /  
+
+%          A.133 utt1:  {E I mean, } that's, {F uh, } - /
+h          A.133 utt2: I don't know,  /
+sd          A.133 utt3: that's just it.  /
+sd          A.133 utt4:  {C And } that's why <music> I don't mind paying more. /  
+
+b          B.134 utt1:  Yeah. /  
+
+h          A.135 utt1:  {F Um, } I </music>  don't know.  /
+sd          A.135 utt2:  I just feel m-, -/  
+
+sd          B.136 utt1:  Too many horror stories out there that,   
+
+b          A.137 utt1:  # Yes.  # /  
+
++          B.138 utt1:  # {D you # know. } -/  
+
+sd         A.139 utt1:  {C And } that's one reason I like working up there a little bit is,   
+
+ba          B.140 utt1:  # {F Oh, } yeah.  # /  
+
++          A.141 utt1:  # because I # know what's really going on. /  
+
+ba          B.142 utt1:  That's right.  /
+sv          B.142 utt2: I think that's an ideal situation. /  
+
+sv          A.143 utt1:  {C Because } you don't know, {F uh, } - /
+sd          A.143 utt2: {C because } {D like } at her school, <music> {F um, } as soon as you drive up it's got like a circular type drive </music>.  /
+sd          A.143 utt3:  They sit  /
+sd          A.143 utt4: {C and } they have car callers  /
+sd          A.143 utt5: [ {C and, } + {C and } ] some kid goes out and gets the kid  /
+sd          A.143 utt6: {C and, }    
+
+b          B.144 utt1:  # Yeah.  # /  
+
++          A.145 utt1:  # it's # time to go <music>. /  
+
+b          B.146 utt1:  {F Huh. } /  
+
+sd          A.147 utt1:  {D Well, } at first that always kind of bothered me.  /
+h          A.147 utt2:  {E I mean, } not bothered me, - /
+sd          A.147 utt3:  {C but } I thought, {D well, } {D you know, } I'd like to see what she's doing, {D you,   
+
+b          B.148 utt1:  # Yeah.  # /  
+
++          A.149 utt1:  # know } # <laughter>.  /
+sd          A.149 utt2:  {C But } now that I'm there, {E I mean, } [ it's, + it's ] a lot more convenient because there's so many kids that doddle.    
+
+b          B.150 utt1:  Uh-huh. /  
+
++          A.151 utt1:  {D You know, } when their parents come, /  
+
+x          B.152 utt1:  # <Laughter>.  #   
+
+sd          A.153 utt1:  # {C and } # it's hard to get them out,  /
+sd          A.153 utt2: {C and } a lot of parents have places to go [ and -- +   
+
+ba          B.154 utt1:  That's right. /  
+
++          A.155 utt1:  -- and ] things like that.  /
+sd          A.155 utt2:  {C And } it's late at night,  /
+sd          A.155 utt3: {C so, } {D you know, } now it doesn't bother me at all  /
+%          A.155 utt4: {C but, } -/  
+
+qy          B.156 utt1:  Is that where the, - /
+qy          B.156 utt2: over there off of, like, - /
+h          B.156 utt3: I'm not sure what the street is,  /
+qy          B.156 utt4: is it [ off of, + ] near Country Club, /  
+
+ny          A.157 utt1:  # Yeah.  # /  
+
+%          B.158 utt1:  # {C and } # all, -/  
+
+sd          A.159 utt1:  Sixty-six.  /
+qy^d          A.159 utt2:  That one that's,   
+
+ny          B.160 utt1:  yeah. /  
+
++          A.161 utt1:  set back in the woods? /  
+
+ny          B.162 utt1:  Yeah. /  
+
+b          A.163 utt1:  Yeah. /  
+
+sd          B.164 utt1: [ [ I, + I, ] +   
+
+sd^e          A.165 utt1:  # That's it.  # /  
+
++          B.166 utt1:  # I've ] seen # the signs  /
+sd          B.166 utt2: {C but } I've never actually seen the place itself, {D you,   
+
+b          A.167 utt1:  # Yeah.  # /  
+
++          B.168 utt1:  # know. }  #  /
+sd          B.168 utt2: It's [ pretty, + ] set far back,   
+
+b          A.169 utt1:  Right. /  
+
++          B.170 utt1:  off the road. /  
+
+b          A.171 utt1:  Right.  /
+%          A.171 utt2:  It w-, - /
+sd          A.171 utt3: {C and } that's something I like, too, /  
+
+b          B.172 utt1:  # Yeah.  # /  
+
+sd          A.173 utt1:  # {C because } # --   
+
+ba          B.174 utt1:  Definitely. /  
+
++          A.175 utt1:  -- a lot of those places are <lipsmack>,  like, {D you know } the one over here on seventy-eight, Skaggs. /  
+
+b          B.176 utt1:  Uh-huh. /  
+
+qy^d          A.177 utt1:  That little Kinder Care, whatever it is? /  
+
+ny          B.178 utt1:  Yeah. /  
+
+sd          A.179 utt1:  {D You know, } it's right there on, - /
+sd          A.179 utt2: which this is on a highway, too.  /
+sd          A.179 utt3: {C But } it's set back,   
+
+b          B.180 utt1:  # Right.  # /  
+
++          A.181 utt1:  # enough # to, -/  
+
+b          B.182 utt1:  Yeah.  /
+sd          B.182 utt2:  There's a difference. /  
+
+sd          A.183 utt1: [ I'm scared, + I would be scared ] to death my child might accidentally get out,  /
+sd          A.183 utt2: [ {C or } -- +   
+
+b          B.184 utt1:  Uh-huh. /  
+
++          A.185 utt1:  -- {C or, } ]  if that seems like a real accessible place to where you could,   
+
+%         B.186 utt1:  # Ye-, # /  
+
+ +         A.187 utt1:  # {D you # know, } go,   
+
+b          B.188 utt1:  Yep. /  
+
++          A.189 utt1:  in and get one. /  
+
+ba          B.190 utt1:  That's right.  /
+sd          B.190 utt2: [ {C Or, } + {D you know, } {C or } ] a car accident. /  
+
+b          A.191 utt1:  Yeah.  /
+sd          A.191 utt2:  {C And, }   
+
+b          B.192 utt1:  # Yeah.  # /  
+
++          A.193 utt1:  # that # was one of the places I had checked out.  /
+sd          A.193 utt2:  {C And } [ [ it was, + it, ] + it was ] brand new when I checked it out  /
+sd          A.193 utt3: {C and, }  of course, it was beautiful and,    
+
+b          B.194 utt1:  # Yeah.  # /  
+
++          A.195 utt1:  # clean # and smelled wonderful in there,  /
+%         A.195 utt2: {C but, }   
+
+x          B.196 utt1:  <Laughter>.   
+
++          A.197 utt1:  {D you know, } I, that, - /
+sd          A.197 utt2: I didn't base everything on that. /  
+
+x          B.198 utt1:  <Laughter>.   
+
+x          A.199 utt1:  <Laughter>   ((   )) .   
+
+aa          B.200 utt1:  No,  /
+sv          B.200 utt2: because that all wears off. /  
+
+ba          A.201 utt1:  That's right.  /
+aa          A.201 utt2: That's exactly right.  /
+sv          A.201 utt3:  You get some kids in there  /
+sv          A.201 utt4: {C and } it's,   
+
+x          B.202 utt1:  # <Laughter>.  #   
+
++          A.203 utt1:  # over # quick. /  
+
+b          B.204 utt1:  <Breathing>  Yep. /  
+
+sd          A.205 utt1:  {C But, }  {F um, }   
+
+x          B.206 utt1:  <Laughter>.   
+
++          A.207 utt1:  I've been real pleased, knock on wood.  /
+sd          A.207 utt2: I'm scared to death her going to public school. /  
+
+bh          B.208 utt1:  Really? /  
+
+h          A.209 utt1:  I don't know,  /
+%         A.209 utt2: I, w-, - /
+sd          A.209 utt3: I do know why because --   
+
+ba          B.210 utt1:  I would be, too. /  
+
++          A.211 utt1:  -- {D you know, }   
+
+b          B.212 utt1:  # Yeah.  # /  
+
++          A.213 utt1:  # [ d-, + # drugs ] and,    
+
+b          B.214 utt1:  Yeah. /  
+
++          A.215 utt1:  everything else  /
+sd          A.215 utt2: {C and, }   
+
+b          B.216 utt1:  Yeah. /  
+
++          A.217 utt1:  they talk about how soon they start that  /
+sd          A.217 utt2: {C and } that scares me. /  
+
+ba          B.218 utt1:  I know.  /
+sv          B.218 utt2:  It is scary. /  
+
+sv          A.219 utt1:  {E I mean, } you're just with them, -/  
+
+qy          B.220 utt1:  Do they teach them in school <child_talking> right now where she's at about drugs? /  
+
+ny          A.221 utt1:  Yeah.  /
+sd          A.221 utt2: [ They've, + {F um, } they've ] </child_talking> had police officers come in --   
+
+ba          B.222 utt1:   Good. /  
+
++          A.223 utt1:  -- and talk to them about it.  /
+sd          A.223 utt2:  {C But, }  of course, they still have no concept of,   
+
+b          B.224 utt1:  # Right.  # /  
+
++          A.225 utt1:  # <Laughter>  # what in the world drugs are, {D you,   
+
+b          B.226 utt1:  Right. /  
+
++          A.227 utt1:  know }  /
+%          A.227 utt2: {C but, } -/  
+
+^2          B.228 utt1:  {C And } what to do when they're faced with it. /  
+
+b          A.229 utt1:  Right.  /
+sd          A.229 utt2:  {C But } I just think of her, {D you know, }  /
+sd          A.229 utt3: next year she's going to be five, six years old in kindergarten, in same school with, {D you know, } {F uh, } I guess ten year olds.  /
+ qy         A.229 utt4: Isn't that,   
+
+ny          B.230 utt1:  # Yeah.  # /  
+
++          A.231 utt1:  # [ [ six, + # sixth, ] + sixth ] grade, {D you know, }  /
+sd          A.231 utt2: {C and } that's a big gap. /  
+
+ba          B.232 utt1:  It is. /  
+
+sd          A.233 utt1:  {C And } [ that's, + {F uh, } that, ] I can honestly see the peer pressure there. /  
+
+b          B.234 utt1:  Uh-huh. /  
+
+sd          A.235 utt1:  {C And } that,   
+
+aa          B.236 utt1:  # {F Oh, } I can, #   
+
++          A.237 utt1:  # just, #   
+
++          B.238 utt1:  see it, too. /  
+
++          A.239 utt1:  terrifies me to death. And stuff,  /
+sv          A.239 utt2: those kids getting snatched  /
+sd          A.239 utt3: {C and } --   
+
+b          B.240 utt1:  Uh-huh. /  
+
++          A.241 utt1:  -- [ I'm, + I'm ] probably a little too over protective <laughter>  /
+sv          A.241 utt2:  {C but, }   
+
+sv          B.242 utt1:  Nothing wrong with that <laughter>. /  
+
++          A.243 utt1:  {D Well, } nowadays you have to be. /  
+
+aa          B.244 utt1:  Yes.  /
+sv          B.244 utt2:  You do. /  
+
+%          A.245 utt1:  If, -/  
+
+sv          B.246 utt1: [ I don't, + I don't ] think there's anything wrong with that. /  
+
+sd          A.247 utt1:  {D So, }  I at first thought, {D you know, } when I didn't have kids, - /
+sd(^q)          A.247 utt2: I was going, {D God, } how can you be so protective <<Whispers beginning with God>>? {D You,   
+
+b          B.248 utt1:  # Uh-huh <laughter>.  # /  
+
++          A.249 utt1:  # know } <laughter>  #  /
+sd          A.249 utt2: {C but, }  it's easy now <laughter>. /  
+
+b          B.250 utt1:  Uh-huh.  /
+sv          B.250 utt2:  Now you understand <laughter>. /  
+
+aa          A.251 utt1:  Yeah.  /
+aa          A.251 utt2:  Definitely. /  
+
+sd(^q)          B.252 utt1:  That's what I'm thinking what your mom and dad always used to say, when you have kids of your own,   
+
+x          A.253 utt1:  # <Laughter>.  #   
+
++          B.254 utt1:  # you'll # understand <laughter>. /  
+
+ba          A.255 utt1:  <Laughter>  That's exactly right  /
+sd          A.255 utt2: {C and } I do. /  
+
+b          B.256 utt1:  Uh-huh. /  
+
+%          A.257 utt1:  {C But } anyway.  /
+qy          A.257 utt2:  {D Well, } [ [ [ are you ever, + are you, ] + [ b-, + ] are you, ] + are you ] married <laughter>? /  
+
+ny          B.258 utt1:  Yes. /  
+
+qy          A.259 utt1:  Are y'all planning on having kids?  /
+%          A.259 utt2: {C Or, } -/  
+
+na@          B.260 utt1:  Yeah.  We'd like to. *[[should be two slash units]]/  
+
+ba          A.261 utt1:  {D Well, } that's good. /  
+
+b          B.262 utt1:  Yeah. /  
+
+sv          A.263 utt1:  {C Because } they're really neat.  /
+%          A.263 utt2:  It's just. -/ 

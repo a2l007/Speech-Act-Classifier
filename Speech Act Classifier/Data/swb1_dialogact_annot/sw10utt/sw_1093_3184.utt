@@ -1,0 +1,244 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3184_1352_1361
+TOPIC#:		343
+DATE:		910930
+TRANSCRIBER:	glp
+UTT_CODER:	AEE, mlg
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	3
+REMARKS:        Speaker B had some background noise, but not enough to
+interfere with the conversation.
+
+=========================================================================
+  
+
+ad          A.1 utt1:   {D Well, } {D basically, } {F uh, }  did you want to go first, then? /  
+
+aa          B.2 utt1:   {F Uh, } {D well, } I can.  /
+sd          B.2 utt2: [ I, + I ] don't own my home. /  
+
+b          A.3 utt1:   Okay,  /
+b          A.3 utt2: right. /  
+
+sd          B.4 utt1:   {F Uh, } <laughter> {E I mean } [ I, + I ]  live in a nice area  /
+sd          B.4 utt2: {C and } I rent my home  /
+sd          B.4 utt3: {C and } --   
+
+b          A.5 utt1:   Uh-huh. /  
+
++          B.6 utt1:   -- {F uh, } we aren't sure we're  going to buy a house yet because we don't know if we're going to be staying here.    
+
+b          A.7 utt1:   Sure,  /
+b          A.7 utt2: uh-huh. /  
+
++          B.8 utt1:   In, {F uh, } Texas,  /
+%          B.8 utt2: {C so, } -/  
+
+b          A.9 utt1:   Yeah.  /
+sd          A.9 utt2:  I think as far as, {D like, }  our home, it's, {F uh, } in a small residential area.  /
+sd          A.9 utt3:  We're out of the cities  quite a ways,  /
+sd          A.9 utt4: {C so } it's kind of more of a country setting  /
+sd          A.9 utt5:  {C and, } {F uh, } <baby_crying> it's just a typical, {F uh, } three bedroom type of home.  /
+sd         A.9 utt6: [ It's, + it's ] nothing, {D you know, } <baby_crying>  elaborate where it has, {F uh, } this or this or,  {D you know. }  /
+sd          A.9 utt7: [ It's, + it's ] --   
+
+b          B.10 utt1:   Uh-huh. /  
+
++          A.11 utt1:   -- just a typical home with, {F uh, }  three bedrooms, {F uh, } two story type home.  /
+sd          A.11 utt2: {F Uh, } {C and } I think as far as if  it's, for put it into standards of, {F uh, } what other homes are around  here, it would be just about fitting right into the middle part of where the homes are.   /
+sd          A.11 utt3: {F Uh, } there's a river across from us  which has more elaborate homes  /
+%         A.11 utt4: and  yet there's, - /
+sd          A.11 utt5:  where we can view the river from that distance, there's still homes within our area that are, {D you know, } pretty typical of what our home is,  /
+sd          A.11 utt6: {C so } --    
+
+b          B.12 utt1:   Uh-huh /  
+
++          A.13 utt1:   -- it's, {F uh, } pretty much that, {F uh, }  type of, {F uh, } home  /
+%          A.13 utt2:  {C so, } -/  
+
+b          B.14 utt1:   Yeah.  /
+sd          B.14 utt2:  {D Well, } [ our ho-, + --   
+
+%@          A.15 utt1:   {F Uh, }   
+
++          B.16 utt1:   -- our house, ] [ we, + we're ] renting it from an individual who bought it  /
+sd          B.16 utt2: {C and } he lives in Korea. /  
+
++@       A.17 utt1:   Uh-huh,  /
+bh          A.17 utt2: {F oh, } really? /  
+
+sd          B.18 utt1:   {C And, } {F uh, } <baby_crying>  he's recently moved here  /
+sd          B.18 utt2: {C and } he's owns eight or nine properties --   
+
+b          A.19 utt1:   Sure. /  
+
++          B.20 utt1:   -- {F uh, } near here -- /  
+
+b          A.21 utt1:   Uh-huh. /  
+
+%          B.22 utt1:   -- {C and, } {F uh, } {C so, } -/  
+
+b          A.23 utt1:   Yeah. /  
+
+sd@          B.24 utt1:   {C But } the houses around here,  there's [ five, + five ] houses on my street for sale right now.    
+
+b          A.25 utt1:   {F Oh, } yeah,  /
+b^r          A.25 utt2: yeah. /  
+
++          B.26 utt1:   Which is just, {F uh, } in trouble --   
+
+b          A.27 utt1:   Yeah. /  
+
++          B.28 utt1:   -- <Breathing> to me.  /
+sd          B.28 utt2: {C And } they're not very expensive either.  /
+sd          B.28 utt3: It just seems like, - /
+sd          B.28 utt4: we have a three bedroom house.  /
+sd          B.28 utt5:  Ours is one level only. /  
+
+b          A.29 utt1:   Uh-huh. /  
+
+%          B.30 utt1:   {F Uh, } {C but } we, -/  
+
+qy^d          A.31 utt1:   {C So } it's the rambler style. /  
+
+ny         B.32 utt1:   Yeah,  /
+sd^e          B.32 utt2: we have [ two, + two ] living areas and  a dining room and a big kitchen  /
+o@         B.32 utt3: {C and, } 
+
+b          A.33 utt1:   Uh-huh. /  
+
++@          B.34 utt1:   The bedrooms are a little bit small except the master bedroom's a little bigger. /  
+
+b          A.35 utt1:   Yeah,  /
+b^r          A.35 utt2: yeah. /  
+
+%          B.36 utt1:   {C So, } -/  
+
+sd          A.37 utt1:   It's kind of like what ours is.  /
+sd          A.37 utt2: {F Uh, } one of our bedrooms is really small  /
+sd          A.37 utt3: {C and } we've made that into a den because we only have one child,  /
+sd          A.37 utt4: {C so } that was our best way  of going with, {F uh, } the small bedrooms because they are making bedrooms  smaller and smaller.  /
+sv          A.37 utt5:  It seems like they get incredibly small <laughter>. /  
+
+b          B.38 utt1:   Yeah. /  
+
+%          A.39 utt1:   {F Uh, } {C but, } {F uh, } {D anyway, }  {C but, } <lipsmack> okay.  /
+sv          A.39 utt2: {C So } that sounds great,  /
+sd^t          A.39 utt3: {C and, } {F uh, } I don't know if we  need to talk any more or  whatever. / 
+
+qy^t      @@B.40 utt1:  [ Have you d-, + have you done ] this before? /  
+
+qy^d^t          A.41 utt1:   The T I? /  
+
+ny          B.42 utt1:   Uh-huh. /  
+
+ny          A.43 utt1:   {F Uh, } yes,  /
+sd^e          A.43 utt2: {F uh, } about three times before. /  
+
+bh          B.44 utt1:   {F Oh, } have you? /  
+
+sd^t          A.45 utt1:   I'm fairly new to it,  /
+sd^t          A.45 utt2:  {C but } <breathing> it seems to be going okay. /  
+
+b          B.46 utt1:   Yeah.  /
+qy          B.46 utt2:  Are you in Texas? /  
+
+nn          A.47 utt1:   No,  /
+nn          A.47 utt2: huh-uh. /  
+
+b^m          B.48 utt1:   No,  /
+b          B.48 utt2: yeah, /  
+
+nn          A.49 utt1:   No,  /
+sd^e          A.49 utt2:  I'm out of state.  /
+sd          A.49 utt3:  I'm in Wisconsin,  /
+%          A.49 utt4: {C so, } -/  
+
+bh          B.50 utt1:   {F Oh, } really? /  
+
+ny          A.51 utt1:   Yeah,  /
+ny^r          A.51 utt2: yeah. /  
+
+b          B.52 utt1:   Oh. /  
+
+%          A.53 utt1:   {C So } it's, -/  
+
+ba          B.54 utt1:   Sounds interesting. /  
+
+o          A.55 utt1:   <Breathing> {F Uh, } other than that, sure, yeah.  /
+qy^t          A.55 utt2:   Is this your first time? /  
+
+nn          B.56 utt1:   No,  /
+nn          B.56 utt2: huh-uh.   /
+sd^t          B.56 utt3: [ I've, + {D well, } I've ]  gotten several calls. /  
+
+b          A.57 utt1:   Uh-huh. /  
+
+ %         B.58 utt1:   {F Uh, } {C but, } {F uh, }   
+
+sd^t          A.59 utt1:   I'm always the one that initiates the calls because I kind of like it because it's like I can get it done with <laughter>. /  
+
++          B.60 utt1:   Yeah. /  
+
+sd^t          A.61 utt1:   I don't have to wait until somebody calls me even though I have a feeling what's going to happen is I'll probably get tons of calls, {D you know, }  [ so, + ] sooner or later. /  
+
+b          B.62 utt1:   Yeah,  /
+b^r          B.62 utt2: yeah,  /
+sd^t          B.62 utt3: {D well, } [ they've, + I've ]  talked to some people from Cleveland  /
+sd^t          B.62 utt4: {C and } I did talk to someone --   
+
+%          A.63 utt1:   Uh-, -/  
+
++          B.64 utt1:   -- else who lives here --   
+
+b          A.65 utt1:   Uh-huh. /  
+
++          B.66 utt1:   -- in the same city I do,  /
+sd          B.66 utt2: {C so } --   
+
+b          A.67 utt1:   Yeah,  /
+b^r          A.67 utt2: yeah. /  
+
++          B.68 utt1:   -- that was kind of interesting <laughter>. /  
+
+b          A.69 utt1:   Yeah,  /
+b          A.69 utt2: sure. /  
+
+sv^t          B.70 utt1:   [ They're, + they're ]  sure getting their people out,  /
+fc          B.70 utt2: {C so, } {D well } --   
+
+fc          A.71 utt1:   Yeah. /  
+
++          B.72 utt1:   -- it was nice to talk to you, anyway  /
+fc          B.72 utt2: {C and, } -/  
+
+fc          A.73 utt1:   Okay,  /
+fc          A.73 utt2: {D well, } you take it easy, Gail. /  
+
+fc          B.74 utt1:   Okay,  /
+ fc         B.74 utt2: thanks. /  
+
+ fc         A.75 utt1:   Bye, now. /  
+
+fc         B.76 utt1:   Bye-bye. / 
+

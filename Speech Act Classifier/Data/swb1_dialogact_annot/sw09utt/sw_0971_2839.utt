@@ -1,0 +1,488 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2839_1252_1104
+TOPIC#:		340
+DATE:		910509
+UTT_CODER:      MMAB
+TRANSCRIBER:	GL
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	1
+REMARKS:        Television or radio in background of Speaker A  Speaker
+A often breaths heavily into the telephone.
+
+==========================================================================
+  
+
+o          A.1 utt1:  All right. /  
+
+b          B.2 utt1:  <Talking> <<people in background>> Yes,  /
+sv          B.2 utt2: I think we're terribly taxed.  /
+sv          B.2 utt3:  [ I, + I ] think the Republicans have taxed us just as much as the Democrats,  /
+sv          B.2 utt4: {C and } I don't think there's a change between one party than the other.  /
+sv          B.2 utt5:  {F Uh, } I think we get a lot back,  /
+sv          B.2 utt6: {C but } not as much as we should. /  
+
+sv          A.3 utt1:  {F Uh, } I guess what I feel about it is that it's so mismanaged that [ it, + there's ] got to be something.  /
+sv          A.3 utt2: [ When, + when ] we pay so much [ for the, + for the ] debt, instead of using the money for where --   
+
+b          B.4 utt1:  # Right. # /  
+
++          A.5 utt1:  -- # it ought # to go, [ [ it, + it's just, ] + it's ] ridiculous.  /
+%          A.5 utt2:  What kills me is when they had a chance [ to, + to, ] {F uh, } put into [ ac-, + action ] [ [ the, + the g-, ] + the Glen-, Rub-, ] - /
+qw          A.5 utt3: what is it, {F uh, } the act where they had to cut everything across the board -- /  
+
+sd          B.6 utt1:  [ The Gramm, + # the Gramm ] Rudman Act.  /
+%          B.6 utt2:  Yeah. # /  
+
+sv          A.7 utt1:  -- # [ they kept doing, + # they kept putting off doing ] that.  /
+qh          A.7 utt2: Why did they do that?  /
+sv          A.7 utt3: That's exactly what they needed to do to get their act together. /  
+
+b          B.8 utt1:  Yeah,  /
+sv          B.8 utt2: {D well } I think they spend too much.  /
+sv          B.8 utt3:  [ They, + they ] spend too much on themselves, too,  /
+sv          B.8 utt4: [ [ the, + the, ] +    
+
+aa          A.9 utt1:  {F Oh, } yeah,  /
+aa          A.9 utt2: I think so too. /  
+
++          B.10 utt1:  A lot of [ the, + the ] ] taxes gets back to the members of the Congress and  everything all running for twenty years, # rather than. # -/  
+
+aa          A.11 utt1:  # Yeah,  /
+sv          A.11 utt2: {D well. } #  Things like mailings.  /
+sv          A.11 utt3:  They don't use any kind of restraint on some of these things.  /
+sv          A.11 utt4:  They just think once they get there that they can do just anything.  /
+ar          A.11 utt5:  No,  /
+sd          A.11 utt6: [ they don't, + they don't ] try [ to, + {F uh } --   
+
+aa          B.12 utt1:  No,  /
+aa          B.12 utt2: you're right. /  
+
++          A.13 utt1:  -- to ] conserve.  /
+sv          A.13 utt2:  {C And } of course, here at home, we end up conserving and  conserving  /
+sd          A.13 utt3: {C and, } {E I mean, } when I don't have money, I don't buy something. /  
+
+aa          B.14 utt1:  Yeah,  /
+aa          B.14 utt2: no  /
+sv          B.14 utt3: I think, {F uh, } it is the Congress and them just don't have any interest in saving us money, {F uh, } /  
+
+aa          A.15 utt1:  They sure don't seem to. /  
+
+sv          B.16 utt1:  The national debt is terrible.  /
+%          B.16 utt2: {F Uh, } -/  
+
+sv          A.17 utt1:  There are a couple of things I think we need to really work for,  /
+sd          A.17 utt2: {C and } I don't know quite how to do it.  /
+sv          A.17 utt3:  {C But } I think we need to have the one line, {F uh, } {F uh, } veto so that they don't have to spend so much time doing everything.  /
+sv          A.17 utt4:  If it's a good idea --   
+
+b          B.18 utt1:  # Right. # /  
+
++          A.19 utt1:  -- # it can #  be done again. /  
+
+b          B.20 utt1:  # {F Oh, } yeah. # /  
+
+sv          A.21 utt1:  # {D You know, } # {C and } if it's not, so what.  /
+sv          A.21 utt2:  At least you haven't thrown out all the work they've done for months and months and months and months. /  
+
+sd          B.22 utt1:  I saw one on TWENTY TWENTY about a month ago I guess, whereas one, I think that he was a Senator from Pennsylvania or something like that.  /
+sd          B.22 utt2:  Maybe it was, {F uh, } Connecticut,  /
+sd          B.22 utt3: I'm not sure,  /
+sd          B.22 utt4: one of the small states up there, where he had a bill through for [ another, + {F uh, } a ] drug agency that would be located there,  /
+sd          B.22 utt5: {C and } he was the only one that wanted it.  /
+sd          B.22 utt6:  Was going to cost millions of dollars.  /
+sd          B.22 utt7:  The drug agency didn't want it,  /
+sd          B.22 utt8: {C and } he was going to build it in his home town  /
+sd          B.22 utt9: {C and } they were going to hire a lot of people, /  
+
+x          A.23 utt1:  <Laughter>.   
+
+sv          B.24 utt1:  {C and } it was ridiculous, {D you know, } the whole thing <laughter>. /  
+
+aa          A.25 utt1:  # Yeah,  /
+aa          A.25 utt2: [ this is, + that's ] right. # /  
+
+sd          B.26 utt1:  # [ {C And, } + {C and, } ] {D you know, } they asked #  him about it.  /
+^q          B.26 utt2:  Do you really need this?  /
+^q          B.26 utt3: This is going to cost a lot of money.  /
+^q          B.26 utt4:  {F Oh } yes  /
+^q          B.26 utt5: we need it.  /
+^q          B.26 utt6:  {C But } do you know that the drug agency doesn't want this? /  
+
+b          A.27 utt1:  Yeah. /  
+
+sv          B.28 utt1:  {C And } they do things that are, {D you know, } just like # the, {F uh, } # -/  
+
+aa          A.29 utt1:  # Yeah,  /
+sv          A.29 utt2: that's #  just an awful lot of that kind of thing going on. /  
+
+aa          B.30 utt1:  Yeah  /
+aa          B.30 utt2: # that. # /  
+
+sv          A.31 utt1:  # {C And } #  the trouble is, [ you don't, + you have ] so little input about it.  /
+sv          A.31 utt2:  You don't know --   
+
+b          B.32 utt1:  # Right. # /  
+
++          A.33 utt1:  -- # enough #  to know [ what, + what ] to do about some of this stuff. /  
+
+b          B.34 utt1:  Right. /  
+
+%          A.35 utt1:  # I, # -/  
+
+sv          B.36 utt1:  # They're #  supposed to do what we say,  /
+sv          B.36 utt2: {C but } they do what [ they, + they ] # want to do with it. # /  
+
+aa          A.37 utt1:  # Yeah,  /
+aa          A.37 utt2: that's right.  /
+sv          A.37 utt3: #  The other thing about is I think, {F uh, } limiting their time in office would be good.  /
+sd          A.37 utt4: [ I, + I ] just --   
+
+aa          B.38 utt1:  # Absolutely,  /
+aa^r          B.38 utt2: absolutely. # /  
+
++          A.39 utt1:  -- # can't believe there #  aren't other people out there that could do just as well as what we've got. /  
+
+sv          B.40 utt1:  We need to get that through.  /
+sv          B.40 utt2:  [ [ We, + we have said that, ] + I've said it ] several times on different subjects about the government that [ two yea-, + two terms ] is enough for all of them. /  
+
+b          A.41 utt1:  Yeah. /  
+
+sv          B.42 utt1:  {F Uh, } whether you're mayor, all the way up, city council, the works, I think. Certainly President, that, {F uh, } two terms is plenty. /  
+
+aa          A.43 utt1:  Yeah.  /
+aa          A.43 utt2:  I think # that's right. # /  
+
+sv          B.44 utt1:  # {C And then } we get these #  professionals out of there,  /
+sv          B.44 utt2: {C and } they have to learn how to earn a living again themselves, {D you # know, } rather than #  --   
+
+aa          A.45 utt1:  # Yeah,  /
+sv          A.45 utt2: wouldn't that be #  too bad <laughter>. /  
+
++          B.46 utt1:  -- living off of us. /  
+
+aa          A.47 utt1:  {D Well, } that's right.  /
+%          A.47 utt2: I think, - /
+h          A.47 utt3: I don't know,  /
+sv          A.47 utt4: I think, {F uh, } people in general, - /
+sv          A.47 utt5:  [ [ the, + the, ] + the ] idea of what you need [ to, + to ] exist is so outrageous that it's not --   
+
+b          B.48 utt1:  # Uh-huh. # /  
+
++          A.49 utt1:  -- # hardly. - /
+sv          A.49 utt2: #  {D You know, } it starts at the courts,  /
+sv          A.49 utt3: it starts everywhere --   
+
+b          B.50 utt1:  Right. /  
+
++          A.51 utt1:  -- until [ we can't, + we've ] just lost control [ of, + of ] any kind of perspective about what is acceptable and what is not acceptable, {D you know. } /  
+
+sv          B.52 utt1:  {D Well, } it's so much money  /
+sv          B.52 utt2: {C and } you can't even add it up, {D you know, } /  
+
+aa          A.53 utt1:  # No,  /
+sv          A.53 utt2: you [ can't even, + #   
+
+sv          B.54 utt1:  # that's why they #  think, -/  
+
++          A.55 utt1:  can't even ] conceive of what they're talking about. /  
+
+aa          B.56 utt1:  Yeah,  /
+sv          B.56 utt2: when you talk about the trillions of dollars --   
+
+b          A.57 utt1:  Yeah. /  
+
++          B.58 utt1:  -- on this and that.  /
+sd          B.58 utt2: Our # national #  --   
+
+b          A.59 utt1:  # Yeah. # /  
+
++          B.60 utt1:  -- debt in the trillions of dollars, {D you know. } /  
+
+%          A.61 utt1:  {E I mean } [ it jus-, + [ {C and, } + {C and } ] you just, ] - /
+sv          A.61 utt2: the other thing is, [ it's, + it's ] all very well to give money to help [ people, + other people, ]  /
+sv          A.61 utt3: {C and } I think we need to do that.  /
+sv          A.61 utt4: {C But } [ there are, + they need ] to put more limits on them.  /
+sv          A.61 utt5:  They need to # restrain #  --   
+
+^2          B.62 utt1:  # Foreign #  aid,  /
+%          B.62 utt2: yeah. /  
+
++          A.63 utt1:  -- about what they do. /  
+
+sv          B.64 utt1:  Foreign aid means to go down to almost zero unless it's absolutely --   
+
+b          A.65 utt1:  Yeah <<very faintly>>. /  
+
++          B.66 utt1:  -- necessary.  /
+sv          B.66 utt2: # [ They, + they've ] given that away for fifty years. # /  
+
+sv          A.67 utt1:  # [ [ I, + I, ] + {D you know, } I ] think that's probably, # [ un-, + unless ] we can afford it, - /
+sv          A.67 utt2: if we pay off the debts then we can give it to people again. /  
+
+aa          B.68 utt1:  I agree,  /
+aa^r          B.68 utt2: I agree. /  
+
+sd          A.69 utt1:  {D You know, } I don't really mind helping people,  /
+sv          A.69 utt2: {C but } [ you, + you ] need to get rid of this thing [ that's, + that's ] just, {F uh, } eating us up --   
+
+b          B.70 utt1:  Uh-huh. /  
+
++          A.71 utt1:  -- {D you know, } and get things [ on a, + on an ] even, - /
+sv          A.71 utt2: [ if it were, + if it were ] a family, we'd be up before [ the, + the ] magistrate <laughter>  --   
+
+b          B.72 utt1:  Right. /  
+
++          A.73 utt1:  -- [ for, + for ] doing all these wicked things, {D you know, }  /
+sv          A.73 utt2: {C but } the government does it,  /
+sv          A.73 utt3: {C and } it's all right. /  
+
+aa          B.74 utt1:  Yeah,  /
+sv          B.74 utt2: [ I, + I ] know we're taxed to death on [ every, + every ] thing.  /
+sd          B.74 utt3:  I don't know what's the best way to do it,  /
+sv          B.74 utt4: {C but, } {F uh, } they don't even talk about that.  /
+sv          B.74 utt5: They just raise it.  /
+sv          B.74 utt6: They don't even consider it, # like you saying #  --   
+
+aa          A.75 utt1:  # Yeah,  /
+aa          A.75 utt2: that's true. # /  
+
++          B.76 utt1:  -- to cut something back, {D you know. } /  
+
+%          A.77 utt1:  <Lipsmack>  {D Well, } sounds like. -/  
+
+sv          B.78 utt1:  They are at least doing something now, with [ the, + the ] military, {D you know, }  /
+sd          B.78 utt2: they're cutting some of that,  /
+sv          B.78 utt3: {C but } of course, {D now, } you know T I,  /
+sv          B.78 utt4: you know # that's hurting us [ {C but } + although, ] # -/  
+
+aa          A.79 utt1:  # Yeah,  /
+sv          A.79 utt2: it's good to see them #  doing some things there anyway. /  
+
+sv          B.80 utt1:  {C But } T I has gotten a lot of good contracts from the war and everything else.  /
+sv          B.80 utt2:  And if they'll get a lot of programs in the future because of their exotic, {F uh } --   
+
+b          A.81 utt1:  Yeah. /  
+
++          B.82 utt1:  -- weapon systems.  /
+sd          B.82 utt2:  {C But, } {F uh, } that's the only good that I've seen Congress do, {D you know, } and everybody --   
+
+%          A.83 utt1:  {D Well. } -/  
+
++          B.84 utt1:  -- and all the Congressmen and the President and everybody, # {F uh, } # /  
+
+sv          A.85 utt1:  # I think #  we have to accept the fact that whatever happens, we're going to have to bite the bullet.  /
+sv          A.85 utt2: {C And } we're all going to have to do it.  /
+sv          A.85 utt3:  [ I, + it ] just isn't fair, though, that when this happens in some places, it needs to all come off everywhere. /  
+
+aa          B.86 utt1:  Yeah,  /
+aa^r          B.86 utt2: yeah. /  
+
+sd          A.87 utt1:  That's why I thought, {D well, } {D you know, } this is the time.  /
+sv          A.87 utt2:  They need to put that [ into act-, + into action ] and show they mean business.  That [ they've got to cut, + they've got to cut ] costs. /  
+
+aa          B.88 utt1:  Yeah.  /
+sv          B.88 utt2:  The only taxes I think that are well spent, - /
+%          B.88 utt3: {D well } not the only, but,  {F uh, } - /
+sd          B.88 utt4: [ [ I think the, + {D now } I, ] + I don't understand the ] present school thing,  /
+sd          B.88 utt5: {C but, } {F uh, } I have two daughters,  /
+sd          B.88 utt6: one's in college already,  /
+sd          B.88 utt7: {C and } one's about to be in high school.  /
+sv          B.88 utt8:  {C But } {F uh, } I think that paying for [ [ school, + <noise>  schools is the, ] + schools is the ] only answer really to get rid of crime.  /
+sd          B.88 utt9: {C And so } I don't mind paying for school --   
+
+aa          A.89 utt1:  # Yeah,  /
+aa          A.89 utt2: I think that's right. # /  
+
++          B.90 utt1:  -- # taxes even though my kids will be out of it, # {D you know. } /  
+
+sd          A.91 utt1:  <Breathing>  {D Well, } [ I don't, + I don't ] really mind paying taxes [ for, + for ] positive things that are helps, like roads and --   
+
+b          B.92 utt1:  Yeah. /  
+
++          A.93 utt1:  -- making sure that, {F uh, } that water is safe, and some of these things.  /
+sv          A.93 utt2: {C But, } {F um, } {D you know, } [ it, + you ] just feel like it's out of control.  /
+sv          A.93 utt3:  You feel # like # --   
+
+b          B.94 utt1:  # Yeah. # /  
+
++          A.95 utt1:  -- they do not # have control of it. # /  
+
+sv          B.96 utt1:  # The spending is out of control. # /  
+
+sv          A.97 utt1:  [ {C And } that, + {C and so } then it ] just aggravates you, {D you know, }  /
+sv(^q)          A.97 utt2: you think, I could spend my money,  /
+^q          A.97 utt3: I could help the poor people better by myself than they're doing. /  
+
+aa          B.98 utt1:  Yeah,  /
+aa          B.98 utt2: {F oh, } I agree with you. /  
+
+%          A.99 utt1:  {C So } it's, -/  
+
+sv          B.100 utt1:  [ I, + I ] think that's a wide open subject --   
+
+b          A.101 utt1:  Yeah. /  
+
++          B.102 utt1:  -- what you said.  /
+sv          B.102 utt2: People need to take a stand.  /
+sv          B.102 utt3:  I think the people will here shortly, {F uh. } /  
+
+aa          A.103 utt1:  {D Well, } I think that's right.  /
+sv          A.103 utt2:  [ [ If they don't do, + if they don't, ] + if they don't ] pull it in and start doing something, I think they're really going to have to I think. /  
+
+sv          B.104 utt1:  I think the next time we have an election we need to try to get some of the ones that have been there forever out, too, [ that, + what ] they did last election,  /
+sv          B.104 utt2: {C and, } {F uh, } ninety some odd percent of the same old boys got back in, {D you know, }  /
+sv          B.104 utt3: {C so } we need to try to get people to two terms so they respect our wishes, {D you know. }  /
+sv          B.104 utt4:  They're supposed to represent us.  /
+sv          B.104 utt5: That's what they're called -- /  
+
+b          A.105 utt1:  Yeah. /  
+
+sv          B.106 utt1:  -- {C but } they don't. /  
+
+b          A.107 utt1: Yeah <breathing>. /  
+
+sv          B.108 utt1:  [ [ [ May, + may, ] + may, ] + maybe ] we can change and get us rid of some of those guys that are in there, guys and gals whatever they are. /  
+
+b          A.109 utt1:  Yeah,  /
+sv          A.109 utt2: in some ways we're awful lucky I guess.  /
+sd          A.109 utt3: There [ a lot of, + lot of ]  places where it's worse than it is here.  /
+sv          A.109 utt4: {C But } --   
+
+aa          B.110 utt1:  I know,  /
+%          B.110 utt2: {C but } it. -/  
+
++          A.111 utt1:  -- still, you don't want it to get that bad, # good heavens. # /  
+
+aa          B.112 utt1:  # No,  /
+aa          B.112 utt2: that's right,  /
+aa          B.112 utt3: # you don't want to, /  
+
+aa          A.113 utt1:  # No, # /  
+
+sv          B.114 utt1:  # you # want it to stay as # good as it possibly can be. # /  
+
+sv          A.115 utt1:  # we need to [ get, + try ] to get hold #  of it [ and, + and ] have [ it be, + things be ] honest  /
+sd          A.115 utt2: {C and, } I guess, in the fact I don't really mind paying taxes.  /
+sd          A.115 utt3: {C But } I would just like to know that they're not being foolishly spent.  That they're doing something that's positive [ for -- +   
+
+b          B.116 utt1:  Right. /  
+
++          A.117 utt1:  -- for ] somebody.  /
+sd          A.117 utt2:  [ I don't really feel like, + {F uh, } I don't really feel like ] I use taxes very much <laughter>.  /
+h          A.117 utt3:  I don't know  /
+sd          A.117 utt4: maybe --   
+
+aa          B.118 utt1:  # Yeah,  /
+aa          B.118 utt2: [ that's, + you're ] right. # /  
+
++          A.119 utt1:  -- # I do more than I, - /
+sd          A.119 utt2: # I guess I do.  /
+sd          A.119 utt3:  I use them [ in the, + in ] roads and lot of things,  /
+%          A.119 utt4: {C but, } {F uh. } -/  
+
+sv          B.120 utt1:  {D Well } I think one of the good ones in the metroplex, {F uh, } in the last say twenty-five years or so, maybe longer, they've built all these dams.  /
+sd          B.120 utt2:  {D You know, } the Corps of Engineers [ have, + {F uh, } soon as they finish a lake, they'll ] [ go at, + get ] another one.  /
+sd          B.120 utt3:  {C And } [ that we haven't had, + we've had ] droughts here in long summers -- /  
+
+b          A.121 utt1:  Yeah. /  
+
+sv          B.122 utt1:  -- we've had good water supply,  /
+sd          B.122 utt2: {C and } that's due to the Corps of Engineers [ building, + looking years ahead and building ] all these # reservoirs for us, {D you know. } # /  
+
+aa          A.123 utt1:  # Yeah,  /
+aa          A.123 utt2: they've done some good # things.  /
+sv          A.123 utt3:  The state actually did some [ good, + good ] work [ on that, + in that ] a couple of years ago. /  
+
+b          B.124 utt1:  Yeah. /  
+
+sd          A.125 utt1:  {F Uh, } Sam Johnson came out and talked to us [ about that -- +   
+
+b          B.126 utt1:  # Yeah. # /  
+
++          A.127 utt1:  -- # about #  what ] they had done.  /
+sv          A.127 utt2:  {C And } [ they, + they ] really had done [ some good, + some good ] work. /  
+
+aa          B.128 utt1:  Yeah,  /
+sv          B.128 utt2: I think anything for water supply like # that. # /  
+
+b          A.129 utt1:  # Yeah. # /  
+
+sv          B.130 utt1:  California should do more of that too. /  
+
+aa          A.131 utt1:  Yeah,  /
+sv          A.131 utt2: there are a lot of [ p-, + places ] where they're in real trouble,  /
+sv          A.131 utt3: [ {C and } -- +   
+
+b          B.132 utt1:  Right. /  
+
++          A.133 utt1:  -- {C and } ] I think it would be easy enough to be in trouble here too, [ if they don't take, + if they don't take ] that early stand. /  
+
+aa          B.134 utt1:  Right.  /
+sd          B.134 utt2:  They just finished Joe Poole Lake over here,  /
+sv          B.134 utt3: {C and } they need to start another one.  /
+sv          B.134 utt4: I think every time they finish one they ought to just have --   
+
+b          A.135 utt1:  # Yeah # -- /  
+
++          B.136 utt1:  -- # another #  one in line.  /
+sv          B.136 utt2:  # The water's critical. # /  
+
+aa          A.137 utt1:  -- # that's probably right.  /
+sv          A.137 utt2: #  The growth is fast enough so that they can't afford to just dawdle and wait [ until something -- +   
+
+b          B.138 utt1:  Right. /  
+
++          A.139 utt1:  -- til they need them. ]  /
+fc          A.139 utt2:  {D Well, } it's good to talk to you. /  
+
+fc          @@B.140 utt1:  Okay,  /
+%          @@B.140 utt2: yeah.  /
+fc^t          @@B.140 utt3:  How many calls have you made? /  
+
+fc^t          A.141 utt1:  {F Oh, } about nine. /  
+
+fc          B.142 utt1:  {F Oh } yeah,  /
+fc^t          B.142 utt2: I'm up to twenty.  /
+fc          B.142 utt3:  Are you a T I -er. /  
+
+fc          A.143 utt1:  No,  /
+fc          A.143 utt2: [ I just, + just ] a housewife.  /
+fc^t          A.143 utt3:  I just heard about it and # found it fun <Laughter>. # /  
+
+fc          B.144 utt1:  # {F Oh, } {D well, } great,  /
+fc^r          B.144 utt2: # great,  /
+%          B.144 utt3: okay. /  
+
+fc          A.145 utt1:  Guess I like to talk, that's all <laughter>. /  
+
+fc          B.146 utt1:  <Laughter>  {D Well, } it's been some interesting subjects,  /
+fc          B.146 utt2: yeah. /  
+
+fc          A.147 utt1:  Right. /  
+
+fc          B.148 utt1:  Thanks for calling. /  
+
+fc          A.149 utt1:  Uh-huh.  /
+fc          A.149 utt2:  Bye now </TV>. /  
+
+fc          B.150 utt1:  Bye-bye. / 

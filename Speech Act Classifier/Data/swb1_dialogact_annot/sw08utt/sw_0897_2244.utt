@@ -1,0 +1,259 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2244_1130_1107
+TOPIC#:		306
+DATE:		910325
+TRANSCRIBER:	LAB
+UTT_CODER:      aabo
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.
+
+==============================================================================
+  
+
+fp          @A.1 utt1:  {F Um, } hello, {F um, }  /
+qw          @A.1 utt2: what is your favorite, {F um, } food for a dinner party? /  
+
+h          B.2 utt1:  {F Um, } I don't know,  /
+sd          B.2 utt2: [ I, + I ] think I make things, {D you know, } - /
+sd          B.2 utt3: I do things kind of simple because [ I, + {D you know, } I ] just have close friends over.  /
+sd          B.2 utt4: I make {D like }  lasagna  /
+sd          B.2 utt5: {C and, } {F uh, } {F oh, } we like to have barbecues outside  [ so, + ]  {D you know, } when the weather's nice because in Texas you have a lot of nice weather,  /
+sd          B.2 utt6: {C so, } we do a lot of, {F um, } things like that.  /
+sd          B.2 utt7: {F Um, } I'm not really into gourmet cooking,  /
+sd          B.2 utt8: {C so, } I don't know how to do that,  /
+sd          B.2 utt9:  {C so, } I don't have gourmet foods <laughter>. /  
+
+qy          A.3 utt1:  Do you do Tex-Mex? /  
+
+ny          B.4 utt1:  {F Um, } yeah,  /
+sd^e          B.4 utt2: {D you know, } like fajitas and stuff like that,  /
+%          B.4 utt3: {C so. } -/  
+
+b^m          A.5 utt1:  {F Oh, } fajitas,  /
+qw          A.5 utt2: how do you make fajitas? /  
+
+sd          B.6 utt1:  {F Um, } it's kind of {D like } made out of  (( skirt ))  steak  /
+sd          B.6 utt2: {C and } you marinate it. /  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sd          B.8 utt1:  You can buy marinating mixes here  /
+sd          B.8 utt2: I don't know,   
+
+b          A.9 utt1:  Oh. /  
+
++          B.10 utt1:  get it up there.  /
+sd          B.10 utt2:  {F Uh, } you can, {D you know, } marinate it in any kind of barbecue sauce you like  /
+sd          B.10 utt3: {C and then } [ you, + {F uh, } you ] quick fry it real fast [ with, + ] in [ hot, + hot ] grease.  {D You know, } [ [ not a who-, + not, ] + not ] deep frying it  /
+sd          B.10 utt4: {C but } you can {C either } barbecue it which is really good,   
+
+o@         A.11 utt1:  Oh.   
+
++          B.12 utt1:  with, {F uh, } [ green beans, not green beans but + ] green peppers and red peppers and onions. /  
+
++@          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  {C And, } {F uh, } then you put it on a flour, {D like, } {D you know, } - /
+sd          B.14 utt2: you make your meat real, {F uh, } thin, {D you know, } bite-size pieces. /  
+
+b          A.15 utt1:  Uh-huh. /  
+
+sd          B.16 utt1:  Then you put it on flour tortillas with, {D you know, } guacamole and, {F uh, } sour cream and, {D you know, } all kinds of, {D you know, } - /
+sd          B.16 utt2: it's like a Tex-Mex type thing. /  
+
+ba          A.17 utt1:  {F Oh, } it sounds good. /  
+
+sd          B.18 utt1:  It's really good.  /
+sd          B.18 utt2:  You can do it with chicken too.  /
+sd          B.18 utt3:  Chicken fajitas and  stuff. /  
+
+b          A.19 utt1:  Okay. /  
+
+%          B.20 utt1:  {D So. } -/  
+
+ba          A.21 utt1:  {D Well, } that's nice. /  
+
+qw          B.22 utt1:  {C So, } what kind of cooking do you do up there? /  
+
+sd          A.23 utt1:  {F Oh, } {D well, } basically, {F um, } because I lived in the Middle East for a while I tend to fix Middle Eastern foods when I [ have, +   
+
+o@        B.24 utt1:  {F Oh, }    
+
++          A.25 utt1:  have ] people over. /  
+
++@          B.26 utt1:  that sounds interesting. /  
+
+sd          A.27 utt1:  {C And so, } {F um, } some of the dips are like (( chick ))  peas mashed with, {F um, } sesame. /  
+
+b          B.28 utt1:  Uh-huh. /  
+
+%          A.29 utt1:  {C And, } {F uh, } cold foo-, {F um, } - /
+t1          A.29 utt2: what's it called,  /
+sd          A.29 utt3: I forgot, <laughter>, what it's called, /  
+
+x          B.30 utt1:  <Laughter>.   
+
+%          A.31 utt1:  {D anyway } [ {C and, } + {C and } ]  my, -/  
+
+qy^d          B.32 utt1:  You cook them so often you kind of forget their names. /  
+
+na          A.33 utt1:  That's right,  /
+na^r          A.33 utt2: that's right. /  
+
+b          B.34 utt1:  Yeah,  /
+b^r          B.34 utt2: yeah. /  
+
+sd          A.35 utt1:  It's called  ((   )) , - /
+sd          A.35 utt2: now I remember it. /  
+
+b          B.36 utt1:  Oh. /  
+
+sd          A.37 utt1:  {C And, } {F um, } dipping Arabic bread, the thin  (( piece ))  of bread in that. /  
+
+b          B.38 utt1:  Uh-huh. /  
+
+sd          A.39 utt1:  {C Or } another dip is [ made with, + ] very similar but with, {F um, } eggplant which has been actually barbe-, - /
+sd          A.39 utt2: it ends up with a barbecued taste.  /
+%          A.39 utt3:  I, - /
+sd          A.39 utt4: although we usually bake it in the oven  /
+%          A.39 utt5: {C or } if we have, {F uh, } - /
+sd          A.39 utt6: those of us that have gas stoves bake it on top just like putting it in the gas flame and sort of getting it black,   
+
+b          B.40 utt1:  Oh. /  
+
++          A.41 utt1:  on the outside but mushy on the inside. /  
+
+sd          B.42 utt1:  {F Oh, } that's unusual I'd never heard of anything like that, {D you know. } /  
+
+x          A.43 utt1:  <Laughter>.   
+
+sd          B.44 utt1:  Here in Texas it's all, {D you know, } Tex-Mex cooking and barbecue  /
+o@          B.44 utt2: {C and, }   
+
+x          A.45 utt1:  <Laughter>.   
+
++@          B.46 utt1:  they're really big on stuff like that  /
+%          B.46 utt2: {C and, } -/  
+
+qy          A.47 utt1:  {C But } barbecue is it like steaks  /
+qrr          A.47 utt2: {C or } is it,   
+
+b          B.48 utt1:  Yeah,  /
+%          B.48 utt2: you barbecue s-, -/  
+
++          A.49 utt1:  {F uh, } turkey? /  
+
+br          B.50 utt1:  Pardon me? /  
+
+qr          A.51 utt1:  Would you barbecue a turkey or a chicken  /
+%          A.51 utt2: {C or, } -/  
+
+ny          B.52 utt1:  {F Oh, } yeah,  /
+sd^e          B.52 utt2: you can barbecue turkey if you have a big enough grill  /
+sd          B.52 utt3: {C but } [ my, + I cook my ] turkeys inside, {D you know, }  /
+%          B.52 utt4: it b-, - /
+sd          B.52 utt5: you can buy smoked turkeys. /  
+
+b          A.53 utt1:  Uh-huh. /  
+
+sd          B.54 utt1: [ [ {C And } + {C or, } ] + {F uh, } {C but } ] most the stuff that we barbecue is like steak and chicken and hamburgers, hot dogs,   
+
+b          A.55 utt1:  Uh-huh. /  
+
++          B.56 utt1:  {D you know, }  /
+sd          B.56 utt2: the simple things like that,  /
+o@          B.56 utt3: {C and, }   
+
+b          A.57 utt1:  Uh-huh. /  
+
++@          B.58 utt1:  {D you know, } [ we, + we ] like things like that.  /
+sd          B.58 utt2:  {D You know, } barbecue beans and  baked beans  /
+%          B.58 utt3: {C and, } -/  
+
+b          A.59 utt1:  Uh-huh.  /
+sd          A.59 utt2:  I'm sure that the chicken that we barbecue from the Middle East has a lemon garlic sauce.  /
+sd          A.59 utt3:  I wouldn't imagine that a barbecued chicken would. /  
+
+nn          B.60 utt1:  No,  /
+nn^r          B.60 utt2: no,  /
+sd^e          B.60 utt3: this is more like [ hickories, + hickory ] type, {D you know, } /  
+
+b          A.61 utt1:  Uh-huh. /  
+
+sd          B.62 utt1:  depending on the barbe-, - /
+sd          B.62 utt2: it's like a smokey flavor,   
+
+b          A.63 utt1:  Uh-huh. /  
+
++          B.64 utt1:  if you've ever, {D you know, } had stuff like that.  /
+%          B.64 utt2: Yeah,  /
+sd          B.64 utt3: it's totally different.  /
+sd          B.64 utt4:  Sounds like it would be interesting to eat some of the Middle Eastern cooking,  /
+%          B.64 utt5: {C so. } -/  
+
+b          A.65 utt1:  Right,  /
+b^r          A.65 utt2: right. /  
+
+b          B.66 utt1:  Yeah. /  
+
+fc          A.67 utt1:  {D Well, } it's been fun talking to you. /  
+
+fc          B.68 utt1:  Yeah,  /
+fc^m          B.68 utt2: it's been fun,  /
+fc          B.68 utt3: it's been nice,  /
+fc          B.68 utt4: it's, {F uh, } {D you know, } new to learn [ some, + ] what different people eat,  /
+fc@          B.68 utt5: {C so. }   
+
+fc          A.69 utt1:  Right. /  
+
++@          B.70 utt1:  You get to think, {D you know, }  /
+fc          B.70 utt2: I come from Wyoming  /
+fc          B.70 utt3: {C and } it's basically the [ same, + same ] type of thing except for you do eat more the Tex-Mex down here,  /
+fc          B.70 utt4: {C so. } -/  
+
+fc          A.71 utt1:  {F Uh, } in Wyoming it would be less spicy? /  
+
+fc          B.72 utt1:  Yeah,  /
+fc^r          B.72 utt2: yeah,  /
+fc          B.72 utt3: you, {D you know, } - /
+fc          B.72 utt4: down there it's just like meat and potatoes, {D you know. } /  
+
+fc          @@A.73 utt1:  <Laughter> Vegetables once in a while. /  
+
+fc          B.74 utt1:  Yeah,  /
+fc          B.74 utt2: right <laughter>. /  
+
+fc          A.75 utt1:  {F Oh, } dear. /  
+
+fc          B.76 utt1:  {D Well, } it's been interesting to talk to you. /  
+
+fc          A.77 utt1:  Okay,  /
+fc          A.77 utt2: very good. /  
+
+fc          B.78 utt1:  Thank you for calling. /  
+
+fc          A.79 utt1:  Okay,  /
+fc          A.79 utt2: bye-bye. /  
+
+fc^m          B.80 utt1:  Bye-bye. / 

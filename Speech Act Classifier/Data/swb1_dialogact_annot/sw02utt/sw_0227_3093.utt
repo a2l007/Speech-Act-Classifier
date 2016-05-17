@@ -1,0 +1,289 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3093_1290_1278
+TOPIC#:		310
+DATE:		910619
+TRANSCRIBER:	MS
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:	None.
+
+=========================================================================
+  
+
+sd          A.1 utt1:  {D Well, } this is the season for vacations.  /
+sd          A.1 utt2:  {C And, }  {F uh, } I guess for places I like  to go, I enjoy going to the beach and [ [ having, + having outdoor, ] + being outdoors ] somewhere.  /
+sd          A.1 utt3: Someplace that's very different than Texas. /  
+
+b          B.2 utt1:  Right. /  
+
+%          A.3 utt1:  {C And } I, - /
+ sd         A.3 utt2: [ as far as, + ] [ maybe, + maybe ] as the summer heat comes along I would sort of like going somewhere where it's not so hot.  And being able to be outside, enjoy [ (( outsor-, )) +  outside ] activities,  /
+%          A.3 utt3: {C so. } -/  
+
+b          B.4 utt1:  Yeah. /  
+
+sd          A.5 utt1:  Enjoy going places where, - /
+sd          A.5 utt2: I enjoy playing tennis,  /
+sd          A.5 utt3: {C so } I like to have a tennis court there,  /
+sd          A.5 utt4: [ {C or, } +  {C or } ] if it's at the beach, the beach is great.  /
+sd          A.5 utt5:  A pool is great.  /
+%          A.5 utt6:  (( {C And, }  I )) , -/  
+
+qw          B.6 utt1: [ Where, + where ] do you usually go? /  
+
+^h          A.7 utt1:  {F Oh, } {D well, } let's see,  /
+sd          A.7 utt2: we have plans this year to drive up to the, {F uh, } to Colorado. /  
+
+b          B.8 utt1:  Uh-huh. /  
+
+sd          A.9 utt1:  {C And, }  we will be going to Estes Park, and Colorado Springs,  /
+%          A.9 utt2: {C so. } -/  
+
+b          B.10 utt1:  Uh-huh. /  
+
+sd          A.11 utt1:  One year we went to the southwest corner of Colorado, into Durango and  north of the area there. /  
+
+ b         B.12 utt1:  Uh-huh. /  
+
+%          A.13 utt1:  {C And } I, - /
+sv          A.13 utt2: boy that's [ a nice, + a nice ] place to visit.  /
+sv          A.13 utt3:  It's really nice at, - /
+sd          A.13 utt4:  there's a [ nice, + nice ] train ride that goes up to the city of Silverton where they used to do a lot of silver mining. /  
+
+b          B.14 utt1:  Right. /  
+
+sd          A.15 utt1: [ {C And, } + {F uh, } {C and then } ] {D actually, } [ north, + north ] of that is another town [ and, + ] [ a smaller, + on a smaller ] scale, I guess, than Silverton.  /
+sd          A.15 utt2: [ {C But, } + I, {C and then } ] there's lots and lots [ of real, + of mountains ] that are covered with, {F uh, } boulders. /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  {C So, }  I guess people Jeep through that area  /
+sd          A.17 utt2: {C and } we did not have a chance to do that.  /
+sd          A.17 utt3:  {C But, }  I sure would like to go back there and do that again. /  
+
+b          B.18 utt1:  Right.  /
+sd          B.18 utt2: [ We are, + {F uh, } we have ]  not had a vacation in several years,  /
+sd          B.18 utt3: {C so, } <throat_clearing> be our first chance in awhile, {F uh, }  /
+sd          B.18 utt4: we are going to go to, {F uh, } Destin, Florida, which is a very nice beach area, if you are not familiar with it. /  
+
+ sd         A.19 utt1:  I have not been,  /
+sd          A.19 utt2: {C but } I have heard it's wonderful. /  
+
+sd          B.20 utt1:  {F Oh, } [ it's, + it's ] gorgeous.  /
+sd          B.20 utt2:  {F Uh, } we used to go quite a bit, {F uh, } before I moved out here.  /
+sd          B.20 utt3:  We were closer  and, {F uh, } used to go almost every summer, {F uh, } and,  rent a condo there on the beach.  /
+sd          B.20 utt4:  {F Uh, } [ there's quite a few, + {F uh, }  there's a lot  ] of development [ of, + of ] condominiums there on the beach front. /  
+
+b          A.21 utt1:  Right. /  
+
+ sd         B.22 utt1:  [ {C And, } + {F uh, } <noise> {C  so } ] [ they have, + {F uh, } they are ] [ very, + very ] large condos.  /
+ sd         B.22 utt2:  {C And, } they have quite a few rooms, [ {C and, } + {F uh, } {C so } ] [ we, + we ] will usually rent one for about a week or so.  /
+%          B.22 utt3: {C And, } -/  
+
+b          A.23 utt1:  Right,  /
+sd          A.23 utt2: {C and } the,   
+
+sd          B.24 utt1:  go down. /  
+
++          A.25 utt1:  beach is nice, /  
+
+b          B.26 utt1:  Oh. /  
+
+qy^g          A.27 utt1:  the beach is really nice, isn't it. /  
+
+ny          B.28 utt1:  Yes,  /
+sd^e          B.28 utt2: [ it's, + {F uh, } it's ] beautiful white sand and very clear blue green water,  and a,   
+
+b          A.29 utt1:  Oh. /  
+
++          B.30 utt1:  lot of nice waves usually, {F uh, } /  
+
+^2          A.31 utt1:  Sea shells. /  
+
+sd          B.32 utt1:  [ enough, +  enough ] to make it. - /
+fa          B.32 utt2: I am sorry. /  
+
+sd          A.33 utt1:  Sea shells. /  
+
+sd          B.34 utt1:  {F Uh, } there's not as many sea shells along there, {F uh, }  /
+sd          B.34 utt2: that's the only thing that they really do not, - /
+sd          B.34 utt3: they have some, but not, not so much. /  
+
+b          A.35 utt1:  Yeah. /  
+
+sd          B.36 utt1:  {F Um, } if you go further down, {F uh, } you will usually find some,  but not right in there.  /
+sd          B.36 utt2:  {F Uh, } I do not know why it is,  /
+%          B.36 utt3: {C but, }  {F uh, } it  (( just, )) - /
+sd          B.36 utt4: [ it seems not, + it seems not ] to have as many [ there, + right there. ]  /
+sd          B.36 utt5:  {C But, }  {F uh, } [ we, + we ] enjoy it, {F uh, }  /
+%          B.36 utt6: it's, - /
+sd          B.36 utt7: [ the place where we stay is, + we usually stay ] at the same place every year,  /
+sd          B.36 utt8: {C and } <throat_clearing> they are, like I say right on the beach.  /
+%          B.36 utt9: {C So, } -/  
+
+qw          A.37 utt1:  {F Oh, } where do you stay?  /
+sd          A.37 utt2:  My husband always wants to go to Destin,  /
+sd          A.37 utt3: we just have not gone that direction yet. /  
+
+sd          B.38 utt1:  It's a place called Jetty East, {F uh, }  J E T T Y E A S T,  /
+sd          B.38 utt2: {C and } it's, {F uh, } called that because it's at the very end of, {F uh, } a jetty there, which is,   
+
+b          A.39 utt1:  Okay. /  
+
++          B.40 utt1:  {F uh, } sort of at the end of this [ little, + little ] point  /
+sd          B.40 utt2: {C and, }  {F uh, } it's [ a, + ] at the very end,  /
+sd          B.40 utt3: it's the last set of condominiums there,  /
+sd          B.40 utt4: {C and } [ it's, + {F uh, } it's ] very nice.  {F Uh,  }  /
+sd          B.40 utt5: it's not very expensive, {F uh, }  /
+sd          B.40 utt6: you can, - /
+sd          B.40 utt7: I think we are going to go with another couple and their kids.  /
+sd          B.40 utt8:  {C And, }  {F uh, } [ they have a, + we have a, ] {F uh, } I think it's three bedroom or two bedroom, {F uh, } condominium, which will sleep, <inhaling> I do not know, quite a few  (( about )) ,   
+
+b          A.41 utt1:  Right. /  
+
++          B.42 utt1:  six or eight.   {C And, }  {F uh, } cause it's got, {D you know, } pull out couches and  all that,  /
+sd          B.42 utt2:  {C and, } {F uh, } I think it's going to cost us, per couple, about three hundred dollars for the week. /  
+
+ba          A.43 utt1:  {F Oh. }  <laughter> That's nice. /  
+
+aa          B.44 utt1:  Yeah,  /
+sd          B.44 utt2: it really is,  /
+sd          B.44 utt3: {C because, } {F uh, } [ the, + ] {F uh, } {D you know, } it has got its own [ kitchen, + full size,   
+
+ba          A.45 utt1:  Great. /  
+
+ +         B.46 utt1:  kitchen ] and everything.  /
+sd          B.46 utt2:  {C And, }  this one, I think has two baths,  /
+%          B.46 utt3: {C and } it's, - /
+sd          B.46 utt4:  the one we got is [ on the, + on the ] beach side.  /
+%          B.46 utt5:  {C So, } -/  
+
+ba          A.47 utt1:  {F Oh, } nice. /  
+
+sd          B.48 utt1:  We have got a beautiful view and balcony,  /
+%          B.48 utt2: {C and, }  {F uh, } just, - /
+sd          B.48 utt3: {D you know, } it's really a nice stay.   {F Uh, }  /
+sd          B.48 utt4: in fact, we stayed there on our honeymoon,  /
+sd          B.48 utt5: [ we, + I ] had won a trip to the Bahamas, but did not get to take it on our honeymoon time,  /
+sd          B.48 utt6: {C so } we instead went there, {F uh, } and loved it just as much [ as, + as ] if we had gone to the Bahamas.  /
+sd          B.48 utt7:  [ We, +    
+
+ b         A.49 utt1:  Oh. /  
+
+  +        B.50 utt1:  in fact, we  ] stayed an extra day or so, because we liked - /
+ sd         B.50 utt2: [ the, + {F uh, } the ] particular [ ro-, + ] {F uh, } {F uh, } {F uh, } suite we had gotten was very nice  /
+sd          B.50 utt3: {C and,    
+
+ba          A.51 utt1:  Great. /  
+
++          B.52 utt1:  so } we decided to stay. /  
+
+b          A.53 utt1:  Oh. /  
+
+sd          B.54 utt1:  {C But, }  {F uh, } it's a pretty nice place,  /
+sd          B.54 utt2: you will need to try to go and,    
+
+sd          A.55 utt1:  {D Well, } [ we have just -- +   
+
++          B.56 utt1:  stay there sometime. /  
+
++          A.57 utt1:  -- we have just, ] -/  
+
+sd          B.58 utt1:  It's a little far from here,  /
+%          B.58 utt2: {C but, }  {F uh, } -/  
+
+qy          A.59 utt1:  Are you driving? /  
+
+ny          B.60 utt1:  Yeah,  /
+sd^e          B.60 utt2: we are.  /
+sd^r          B.60 utt3:  We are,  /
+sd          B.60 utt4: it will take, {F uh, } a day and a half to get there, probably. /  
+
+b          A.61 utt1:  Oh. /  
+
+%          B.62 utt1:  {C So. } -/  
+
+sd          A.63 utt1:  {D Well, } we are, - /
+sd          A.63 utt2: the neighborhood that we live, they are switching to an alternate calendar this year,  /
+%          A.63 utt3: {C so } it, - /
+sd          A.63 utt4: [ starting, + {D well, } starting ] at the end of July, we will have two vacation weeks in October and two vacation weeks in March. /  
+
+b          B.64 utt1:  Uh-huh. /  
+
+ sd         A.65 utt1:  {C So } that will be an interesting turn on vacations for our family.  /
+%          A.65 utt2:  {C So, }  I, -/  
+
+qw          B.66 utt1:  {F Uh, } [ what does, + what does ] that mean, alternate? /  
+
+%         A.67 utt1:  {D Well, } it's, - /
+sd          A.67 utt2: what it truly is supposed to mean is nine weeks of school, three weeks of vacation,   
+
+b          B.68 utt1:  Oh. /  
+
++          A.69 utt1:  nine weeks of school, three weeks of vacation. /  
+
+b          B.70 utt1:  Uh-huh. /  
+
+  sd        A.71 utt1:  [ {C And, }  {F uh, } in, + {C and } in  ] the summer would be more like a [ two month, + two month ] break. /  
+
+ b         B.72 utt1:  Right. /  
+
+sd          A.73 utt1:  [ {C So, } + {C and } ] [ they hope to boost the, + they hope to boost the ] learning of the children.    
+
+bk          B.74 utt1:  I see. /  
+
++          A.75 utt1:  Just the retention of the material for them.  /
+%          A.75 utt2: {C So, }  {F uh, } -/  
+
+sd          B.76 utt1:  Kind of scattering the vacation [ out, + throughout  ] the year. /  
+
+b          A.77 utt1:  Yeah, /  
+
+b          B.78 utt1:  Yeah. /  
+
+b          A.79 utt1:  yeah.  /
+%          A.79 utt2:  {C So, }  <noise> it's <noise> - /
+sd          A.79 utt3: [ {C so, } +  {D anyway, } {C so }  ]  [ maybe, + maybe ] within a year, we will see how that falls <laughter>. /  
+
+b          B.80 utt1:  Right. /  
+
+sd          A.81 utt1: [ We will head for, + we will head for ] Florida, maybe in somewhat of an off season, instead of summer. /  
+
+ b         B.82 utt1:  Right. /  
+
+%          A.83 utt1:  {D So, }  {F uh. } -/  
+
+b          B.84 utt1:  Okay. /  
+
+ad^t          A.85 utt1:  {D Well, } that's probably [ ne-, + ] all we need to do today. /  
+
+aa          B.86 utt1:  Okay. /  
+
+fc          A.87 utt1:  Alright. /  
+
+fc          B.88 utt1:  So long. /  
+
+fc          A.89 utt1:  Thanks a lot. /  
+
+fc          B.90 utt1:  Bye-bye. / 

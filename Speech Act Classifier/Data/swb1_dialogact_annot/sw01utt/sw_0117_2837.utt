@@ -1,0 +1,570 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2837_1244_1254
+TOPIC#:		332
+DATE:		910509
+TRANSCRIBER:	GLP
+UTT_CODER:	lsh
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:	None.
+
+===========================================================================
+  
+
+qy          A.1 utt1:  Are you going to tell me what you've been doing lately in the -- -/  
+
+na          B.2 utt1:  Sure, {F uh, } /  
+
+bk          A.3 utt1:  -- okay. /  
+
+sd          B.4 utt1:  I'll offer anything that I can on the subject.  /
+sd          B.4 utt2:   {F Uh, } my husband and I [ just bought a, + just moved here ] recently  /
+sd          B.4 utt3:  {C and, }  {F uh, } we bought, {F uh, } this house about, {F uh, } I don't know, year and a half ago. /
+sd          B.4 utt4:   What we have here now is just a basic three bedroom, two bath, brick house which  is, {F uh, } completely different from what I had had before.  /
+sd          B.4 utt5: When I was working and  before I married, {F uh, } I lived in a little town south of here that is just full of old homes and, {F uh, } historic old houses and things like that  /
+sd          B.4 utt6: {C  so } I, {F uh, } tried to, - /
+sd          B.4 utt7: I was in the process of renovating a house  [ and, + ] {F uh, } that was about seventy-five years old. /  
+
+ba          A.5 utt1:  {F Oh, } my. /  
+
+sd          B.6 utt1:  {C So, }  {F uh, } it had to have everything  done from top to bottom to having it leveled, jacked up, {F uh, } new plumbing,  new wiring, wallpaper, paint,  /
+sd          B.6 utt2:  everything  you can think of,   
+
+sv          A.7 utt1:  # [ You, # +   
+
++          B.8 utt1:  # that # house had to have <laughter>. /  
+
++          A.9 utt1:  You ] are experienced I would say. /  
+
+sd          B.10 utt1:  {D Well, } [ I, + I ] really did enjoy it, {F uh, } {D you know, }  /
+sd          B.10 utt2:  it was amazing what I found out I could do on my own if I just put my mind to it. /  
+
+aa          A.11 utt1:  {D Well, } I agree. /  
+
+b          B.12 utt1:  Yeah. /  
+
+sd          A.13 utt1:  I have done something, {F uh, } like that, too,  only not nearly as extensive. /  
+
+b          B.14 utt1:  Uh-huh. /  
+
+sv          A.15 utt1:  {C But } it must be interesting now trying to do  something to a basic ranch,   
+
+sd          B.16 utt1:  # It is.  # /  
+
++          A.17 utt1:  # style home.  #    
+
+sd^r          B.18 utt1:  It is. /  
+
++          A.19 utt1:  {F Uh, }    
+
+b          B.20 utt1:  # Yeah.  # /  
+
++          A.21 utt1:  # after # having a one that was historical looking. /  
+
+aa          B.22 utt1:  [ That's, + that's ] true.  /
+sd          B.22 utt2:   When, {F uh, } I met my husband, he was living in an apartment at the time   /
+sd          B.22 utt3: [ {C and, } +  {C and, } ]   {F uh, } the town that I was living in only about eighty miles from here. /
+%          B.22 utt4:  {C So, }  {F uh, } {D you know, }  [ I, + we, ] - /
+sd          B.22 utt5: really it was just - /
+sd          B.22 utt6: the market was so good,  /
+sd          B.22 utt7: we hadn't really planned on buying  /
+sd          B.22 utt8:  {C and, }  as you probably heard [ from the, + in the ] Dallas and Texas area period the  housing market is just unreal.  /
+sd          B.22 utt9:  {E I mean } you can get things for such a song. /  
+
+b          A.23 utt1:  Yes. /  
+
+sd          B.24 utt1:  {C So, }  [ that's, + that's ] really why we  ended up in a house like this.  /
+sd          B.24 utt2:  This is not [ what we, + {D you know, } what we ]  want to stay in forever, because [ I have to have my, +  I've found that after doing this other house,  I have to have my ] hands into stuff  /
+sd          B.24 utt3: {C and, }   
+
+b          A.25 utt1:  # Uh-huh.  # /  
+
++          B.26 utt1:  # {D you # know, } I'm always just wanting to paint  [ and, + and ] wallpaper and redo and redo,  /
+sd          B.26 utt2: {C so, }  {F uh, } {D you know, }  [ I, + I'm ] ready to get ahold of another one that I can have a little more input into <laughter>  /
+%          B.26 utt3:  {C so, } -/  
+
+ad          A.27 utt1:  {D Well, } maybe you can, {F uh, } make that  one charming [ and, + and ] make a little bit money, {F uh, } /  
+
+aa          B.28 utt1:  Yeah.  /
+sd          B.28 utt2: [ That's, + that's ] the key, {D you know, }  /
+sd          B.28 utt3:  the thing is, {F uh, } when we moved in they had just, {F uh, } painted,  [ wallpa-, +  we're, {D you know, }  wallpapered, ] new carpet and everything  /
+sd          B.28 utt4: {C so } I feel sort of, {F uh, }  {D you know, } like it's sort of defeating my purpose to go rip everything out now <laughter> and do it over just because I'm in the mood to do it.  /
+sd          B.28 utt5:  {C So, } {F uh, } [ we'll see, +   
+
+b          A.29 utt1:  # Yes.  # /  
+
++          B.30 utt1:  # we'll # see ] how much longer we're here. /  
+
+sd          A.31 utt1:  {D Well, } we just moved to Charlotte,   
+
+b          B.32 utt1:  # Uh-huh.  # /  
+
++          A.33 utt1:  # from # Enid, Oklahoma. /  
+
+ba          B.34 utt1:  {F Oh, } Oklahoma of all places. /  
+
+sd          A.35 utt1:  {C So } I know,   
+
+b          B.36 utt1:  # Yeah.  # /  
+
++          A.37 utt1:  # of # what you're talking about,   
+
+b          B.38 utt1:  # Uh-huh.  # /  
+
++          A.39 utt1:  # as # far as the market was concerned -- /  
+
+b          B.40 utt1:  Right. /  
+
+sd          A.41 utt1:  -- {C and } I'll tell you, {F uh, } [ we, + we ]  had kind of a charming house.  /
+sd          A.41 utt2:  It was a cedar shake house,   
+
+ba          B.42 utt1:  # {F Oh, } yes.  # /  
+
++         A.43 utt1:  # and very # weathered.  /
+sd          A.43 utt2: {C And, }  {F uh, }   
+
+b          B.44 utt1:  # Uh-huh.  # /  
+
++          A.45 utt1:  # it # was about fifty years old,   
+
+b          B.46 utt1:  # Uh-huh.  # /  
+
++          A.47 utt1:  # but # [ not tra-, + not really, {F uh, } traditional ] looking,   
+
+b          B.48 utt1:  # Uh-huh,  /
+b^r          B.48 utt2: uh-huh. # /  
+
++          A.49 utt1:  # particularly.  # /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+sd          A.51 utt1:  [ {C And, } + {F uh, } {C so } ] I tried to make it, after  I sold my business - /
+%          A.51 utt2:  I, [ in, + in, ] - /
+sd          A.51 utt3: I  spent almost three years redoing. /  
+
+b          B.52 utt1:  {F Oh, } yeah. /  
+
+sd          A.53 utt1:  {C And } I considered it a full time job -- /  
+
+sv          B.54 utt1:  {F Oh, } it is,  /
+aa          B.54 utt2: yeah. /  
+
+sd         A.55 utt1:  -- {C and } when we did, {F uh, } - /
+sd          A.55 utt2: we kind of had  planned this, {F uh, } trek to the east,   
+
+b          B.56 utt1:  # Uh-huh,  /
+b^r          B.56 utt2: uh-huh.  # /  
+
++          A.57 utt1:  # because we're # both originally from this part of the country. /  
+
+bk          B.58 utt1:  I see,  /
+b          B.58 utt2: uh-huh. /  
+
+sd          A.59 utt1:  {C And so, } I think some of the things that  I did paid off.  /
+sd          A.59 utt2:  For instance,   
+
+b          B.60 utt1:  # Uh-huh.  # /  
+
++          A.61 utt1:  # one # thing that I did that might even be a  good suggestion for you --   
+
+b          B.62 utt1:  Uh-huh. /  
+
++          A.63 utt1:  -- {F uh, } was something I did on the outside.  /
+sd          A.63 utt2:  I love old [ estate, + estate ] sales. /  
+
+b          B.64 utt1:  Yes,  /
+b^r          B.64 utt2: yes. /  
+
+sd          A.65 utt1:  I happened to go to just a little estate sale [ that, + ]     
+
+b          B.66 utt1:  # Uh-huh.  # /  
+
++          A.67 utt1:  # just # a little white frame house,   
+
+b          B.68 utt1:  # Uh-huh.  # /  
+
++          A.69 utt1:  # where # the couple, {F uh, } was very old,   
+
+b          B.70 utt1:  # Uh-huh.  # /  
+
++          A.71 utt1:  # and # had gone into nursing homes  /
+sd          A.71 utt2: {C and } --   
+
+b          B.72 utt1:  {F Oh, } yeah. /  
+
++          A.73 utt1:  -- {F uh, } all the men started going down to the barn. /  
+
+b          B.74 utt1:  Uh, oh <laughter>. /  
+
+sd          A.75 utt1:  {C And so } I, th-, - /
+^q          A.75 utt2: {D well } shoot I'm going, -/  
+
+bf          B.76 utt1:  That's where I need to go <laughter>. /  
+
+aa          A.77 utt1:  Yes,  /
+^q          A.77 utt2: I'm going to the barn, too. /  
+
+aa          B.78 utt1:  Exactly. /  
+
+sd          A.79 utt1:  They, {F uh, } auctioned some tools and,   
+
+b          B.80 utt1:  # Yeah.  # /  
+
++          A.81 utt1:  # things # like that, /  
+
+b          B.82 utt1:  # Uh-huh.  # /  
+
+sd          A.83 utt1:  # {C but } # then they went over and started,  {F uh, } auctioning this big stack of bricks. /  
+
+b          B.84 utt1:  <Breathing>  Oh. /  
+
+sd(^q)       A.85 utt1:  {C And, so, } {D well, } I thought, gee, I've been wanting to,   
+
+b          B.86 utt1:  # Uh-huh.  # /  
+
++          A.87 utt1:  # do # some brick, {F uh, } walkways --   
+
+bf          B.88 utt1:  Work,  /
+aa          B.88 utt2: right,  /
+aa^r          B.88 utt3: right. /  
+
++          A.89 utt1:  -- for a time. /  
+
+b          B.90 utt1:  Uh-huh. /  
+
+sd          A.91 utt1:  {D Anyway, } it ended up after some pretty, {F uh, } heavy bidding,   
+
+b          B.92 utt1:  # Uh-huh.  # /  
+
++          A.93 utt1:  # that # I got all those bricks for forty dollars. /  
+
+ba          B.94 utt1:  {F Oh, } my word. /  
+
+sd          A.95 utt1:  {C And, so } my husband and I loaded bricks in his,   
+
+ba          B.96 utt1:  # <Laughter>  {F Oh, } no.  # /  
+
++          A.97 utt1:  # pickup truck for # days. /  
+
+ba          B.98 utt1:  {F Oh, } my word. /  
+
+sd          A.99 utt1:  {C But, }  what we ended up with was about four thousand. /  
+
+qy          B.100 utt1:  <Breathing>  For forty dollars? /  
+
+na^m          A.101 utt1:  For forty dollars. /  
+
+ba          B.102 utt1:  {F Oh, } my. /  
+
+sd          A.103 utt1:  {C And so } what we did, - /
+sd          A.103 utt2: we had built a deck  on the back of that house, /  
+
+b          B.104 utt1:  # Uh-huh.  # /  
+
+sd          A.105 utt1:  # {C but } # it needed - /
+sd          A.105 utt2: {C and, }    
+
+^2          B.106 utt1:  # Something.  # /  
+
++          A.107 utt1:  # it # was quite large [ out to, +   
+
+b          B.108 utt1:  # Uh-huh.  # /  
+
++          A.109 utt1:  # into ] # the yard  /
+sd          A.109 utt2: {C but, }   
+
+b          B.110 utt1:  # Uh-huh.  # /  
+
++          A.111 utt1:  # on # either side of it to the ends of the house  it just needed to be all tied together.  /
+sd          A.111 utt2: {C So } we,   
+
+b          B.112 utt1:  # Right.  # /  
+
++          A.113 utt1:  # made # brick patios, # and walkways.  # /  
+
+ba          B.114 utt1:  # {F Oh, } how # fun.  /
+ba          B.114 utt2: {F Oh, } how nice. /  
+
+%          A.115 utt1:  {C And so } for, - /
+sd          A.115 utt2: {C and } [ he, + he ] did the digging,   
+
+b          B.116 utt1:  # Uh-huh.  # /  
+
++          A.117 utt1:  # which # was about six inches,  /
+sd          A.117 utt2:  {C but } I figured the sand and all,    
+
+b          B.118 utt1:  # Uh-huh.  # /  
+
++          A.119 utt1:  # had # that delivered and,    
+
+b          B.120 utt1:  # Right.  # /  
+
++          A.121 utt1:  # leveled # it [ and, + and, ]    
+
+b          B.122 utt1:  # Right.  # /  
+
++          A.123 utt1:  # placed # most all the bricks. /  
+
+b          B.124 utt1:  Uh-huh. /  
+
+sd          A.125 utt1:  {C And } it turned out beautifully. /  
+
+ba          B.126 utt1:  {F Oh, } I bet.   /
+sv          B.126 utt2: {C And } what satisfaction  to know that you did it in such an inexpensive way <laughter>. /  
+
+aa          A.127 utt1:  Yes.  /
+sd          A.127 utt2: {D Well, } it nearly killed me <laughter>. /  
+
+aa          B.128 utt1:  Yeah,  /
+sv(^q)       B.128 utt2: [ {C but, } + {C but } ] you did  [ stag-, + stagger ] back  and say, {F oh, } doesn't this look nice. /  
+
+sd          A.129 utt1:  I hated to leave it. /  
+
+^h          B.130 utt1:  {D Well, } let me ask you,  /
+sd          B.130 utt2: when you laid those bricks, - /
+sd          B.130 utt3:  I know my parents bought a house about ten years ago,  /
+sd          B.130 utt4: they're fixing to sell it again,   [ but, + and ] move again.  /
+sd          B.130 utt5: They're kind of, - /
+sd          B.130 utt6: my mom's like  I am.  /
+sd          B.130 utt7:   She's a renovator, a lover of old things -- /  
+
+b          A.131 utt1:  Uh-huh. /  
+
+sd          B.132 utt1:  -- {C and, } {D you know, } they have to be  doing something constantly.  /
+sd          B.132 utt2:  {C And } the patio that came with that house, {F uh, } was not laid on  a, {D like, } - /
+qy^d           B.132 utt3: I don't know if you can put some sort of a plastic sheeting or something  [ [ un-, + on, ] + on ] top of the sand  and then lay the bricks. /  
+
+nn          A.133 utt1:  No  /
+%          A.133 utt2: we, -/  
+
+sd          B.134 utt1:  {C But } [ they have, + they have ] a problem  with these little [ tin-, + ] {D like } sand bugs or something --   
+
+%          A.135 utt1:  {D Well, } I, -/  
+
++          B.136 utt1:  -- that drill in between all these bricks.  /
+sd          B.136 utt2:  {C And, }  of course {D you know } you have [ the, + {F uh, } the ] weeds that come up in  between the bricks [ or, + and ] things like  that. /  
+
+ar          A.137 utt1:  {D Well, } no,  /
+sd          A.137 utt2: [ I, + I ] didn't have that  trouble because, {F uh, } we laid the, - /
+sd          A.137 utt3: I did get some material <throat_clearing>  --   
+
+b          B.138 utt1:  Uh-huh. /  
+
++          A.139 utt1:  -- and studied every bit of material that  I could study,  /
+sd          A.139 utt2: {C but } --   
+
+b          B.140 utt1:  Yeah. /  
+
++          A.141 utt1:  -- we laid those bricks about as close as you can get them, /  
+
+bk          B.142 utt1:  # I see.  # /  
+
+sd         A.143 utt1:  # {C because } when # you start - /
+sd          A.143 utt2: {C and } we put them  on a base of four inches of [ s-, + sand -- ] /  
+
+b          B.144 utt1:  Okay,  /
+b          B.144 utt2: yeah. /  
+
+sd          A.145 utt1:  -- {C and then } [ we, + {F uh, } we ]  swept sand in between,  /
+sd          A.145 utt2: [ {C but } -- +   
+
+b          B.146 utt1:  Uh-huh. /  
+
++          A.147 utt1:  -- {C but } ] it was an error [ to, + to ]  leave like an eighth of an inch or whatever.  /
+sd          A.147 utt2: You just put them together as close as you can. /  
+
+bf          B.148 utt1:  As tight as you can.  /
+sd          B.148 utt2: That's probably,  because they had, {D you know } - /
+sd(^q)       B.148 utt3: every spring my mom says we're going to have [ a par-, + a barbecue ]  and tell everybody, guess what,  /
+^q          B.148 utt4: [ we're going to, + we're going to ]  redo the patio, {D you know, }  /
+^q          B.148 utt5: we're going to pull up all the bricks, /  
+
+b          A.149 utt1:  # Uh-huh.  # /  
+
+sd          B.150 utt1:  # {C but, }  # {F uh, } [ they just, + they just ]  haven't brought themselves to do it. /  
+
+b          A.151 utt1:  Yeah,  /
+%          A.151 utt2: {D well, } -/  
+
+%          B.152 utt1:  # {D So, }  # -/  
+
+sd          A.153 utt1:  # {C and } # I also used a rubber hammer, a lot,   
+
+b          B.154 utt1:  # Uh-huh.  # /  
+
++          A.155 utt1:  # to, # {F uh, }   
+
+b          B.156 utt1:  # Uh-huh.  # /  
+
++          A.157 utt1:  # {D you # know, } - /
+sd          A.157 utt2: if it wasn't quite level  or something, I'd just get that,   
+
+b          B.158 utt1:  # Right.  # /  
+
++          A.159 utt1:  # rubber # hammer [ [ and, + {F uh, } and, ] + and ]  prob-, {D you know, } - /
+sd          A.159 utt2: I think that they could, - /
+sd          A.159 utt3: if they have problems with, {F uh, } sand bugs of some kind --     
+
+b          B.160 utt1:  Uh-huh. /  
+
++          A.161 utt1:  -- I think all they need to do is probably  put some insecticide down in there --   
+
+b          B.162 utt1:  Yeah. /  
+
++          A.163 utt1:  -- on [ a, + {F oh, } a ] fairly regular basis,   
+
+b          B.164 utt1:  # Right.  # /  
+
++          A.165 utt1:  # for # a while anyway. /  
+
+b          B.166 utt1:  Right,  /
+sd           B.166 utt2: {D well } the thing that's funny is  [ they've done, + {F uh, } they've done ] things like that, {D you know, }  /
+sd          B.166 utt3: I'll catch her out  there spraying around,  /
+sd          B.166 utt4: {C and then } it's like, in two days time they'll come home from work  /
+sd          B.166 utt5: {C and } those little things are back.  /
+sd          B.166 utt6:  It's just,  they're the most resilient  little characters  /
+sd          B.166 utt7: {C and so, } I don't know what they're finally going to do.  /
+sd          B.166 utt8:  She may just, - /
+sd          B.166 utt9:  hopefully they'll sell the house,   
+
+x          A.167 utt1:  # <Laughter>.  #   
+
++          B.168 utt1:  # and # go somewhere else <laughter>. /  
+
+sv          A.169 utt1:  {D Well, } [ I think, +   
+
+bf          B.170 utt1:  {C And then } she won't have to worry about it. /  
+
++          A.171 utt1:  I think ] she needs to take them to the  extension agent and ask him what they are  /
+%          A.171 utt2: {C and, } -/  
+
+^q          B.172 utt1:  # <Laughter>  What are these things? # /  
+
+aa          A.173 utt1:  # yeah,  /
+^q          A.173 utt2: is it  (( diazinon ))  /
+^q          A.173 utt3:   {C or } # what is it that will, {F uh, } -/  
+
+b          B.174 utt1:  Right. /  
+
+sd          A.175 utt1:   (( Dursban ))  or something like that. /  
+
+b          B.176 utt1:  Yeah,  /
+bf          B.176 utt2: [ what it, + what it ] is [ that'll, + that'll, ]   
+
+sd^r          A.177 utt1:  #  (( Dursban )) , # /  
+
++          B.178 utt1:  # take # care of them. /  
+
+sd          A.179 utt1:  I think in this area or most all areas they use, {D you know, }   
+
+b          B.180 utt1:  # Yeah.  # /  
+
++          A.181 utt1:  # for # ticks and fleas.  /
+sv          A.181 utt2:  {C And } {D you know, } they're,   
+
+b          B.182 utt1:  # Right.  # /  
+
++          A.183 utt1:  # awful # hard to do anything with. /  
+
+aa          B.184 utt1:  {F Oh, } that's true.  /
+aa^r          B.184 utt2: That's true.  /
+sd          B.184 utt3:   {C But } [ my, + my ] dad farms  /
+sd(^q)       B.184 utt4: {C and, } {D you know, } she's always telling him, isn't there something [ that, + that ]  you can bring home with you that kills everything that you spray, {D you know, }  [ out in the, + out in the ] field, that you can get rid of,
+   
+b          A.185 utt1:  # Yeah.  # /  
+
++          B.186 utt1:  # these # bugs,  /
+%          B.186 utt2: {C but, }  {F uh, } -/  
+
+sv          A.187 utt1:  I bet  (( Dursban ))  would do it. /  
+
+am          B.188 utt1:  [ It might, + it might ] do it,  /
+%          B.188 utt2: yeah.  /
+sd          B.188 utt3:   [ She's got so many flow-, + she's got just a gorgeous yard, so many, {F uh, } flowers ]  and [ her, + her ] four cats, {D you know, }  /
+sd          B.188 utt4:  {C so } she's sort of, {F uh, } real funny about what she sprays. /  
+
+aa          A.189 utt1:  Yeah.  /
+sv          A.189 utt2: I think, {F uh, } you probably  just need to make sure that it dries,   
+
+b          B.190 utt1:  # Uh-huh.  # /  
+
++          A.191 utt1:  # very, # very [ careful-, + {F uh, } well, ]   
+
+b          B.192 utt1:  # Uh-huh.  # /  
+
++          A.193 utt1:  # before # she lets her cats out, or something,   
+
+b          B.194 utt1:  # Yeah.  # /  
+
++          A.195 utt1:  # like # that. /  
+
+b          B.196 utt1:  Yeah. /  
+
+qy^g          A.197 utt1:  {D Well, } gosh, Deb, we could talk all day couldn't we <laughter>. /  
+
+na          B.198 utt1:  I know,  /
+%          B.198 utt2: [ [ I, + I ] was just, + {D you know, }  it just seems ] - /
+sd(^q)^t        B.198 utt3: [ like I, + as I ] said when I heard [ the, + ] what the subject was,  I thought {F oh, } gosh I haven't thought about, {F uh, } what I went through at that other house in so long.  /
+sd          B.198 utt4:   I've been so busy.  /
+h          B.198 utt5: {C But, }  {F uh, } I don't know  /
+sd          B.198 utt6:  of  everything  that I did, I guess I enjoyed probably wallpapering the most  /
+sd          B.198 utt7: {C and } I thought that  would be the hardest thing to do. /  
+
+b          A.199 utt1:  Yes. /  
+
+sd          B.200 utt1:  {C But, }  {F uh, } gosh, {D you know, }  I ended up wallpapering every bedroom in that house, {F uh, } up the stairway,   
+
+ba          A.201 utt1:  # Wow.  # /  
+
++          B.202 utt1:  # even.  /
+sd          B.202 utt2:  # {D You know, } I just had a ball with  it, /  
+
+b          A.203 utt1:  # Oh.  # /  
+
+sd          B.204 utt1:  # it #  was so much fun. /  
+
+ba          A.205 utt1:  {F Oh, } good. /  
+
+b          B.206 utt1:  Yeah.  /
+sd          B.206 utt2: {C And } I've sworn up and down,  /
+sd          B.206 utt3:  [ my mom's, + {F uh, } my mom's ] great grandparents had this huge Victorian house in Paris, Texas, /
+sd          B.206 utt4:  {C and } the one thing that she ended up with [ is, + was ] the old door,   
+
+b          A.207 utt1:  # Uh-huh.  # /  
+
++          B.208 utt1:  # [ that # was, + that was ] on the front door of that house -- /  
+
+b          A.209 utt1:  Yes. /  
+
+sd          B.210 utt1:  -- {C and } she has that up in her attic  /
+sd          B.210 utt2:  {C and } I have sworn that it, - /
+sd          B.210 utt3: I'm going to find a house to put that door on before she does <laughter>. /  
+
+x          A.211 utt1:  <Laughter>.   
+
+sd          B.212 utt1:  {C So, }  as far as looking toward the future,  {D you know, } that's my plan.  /
+sd          B.212 utt2:  I'm going to have to move fast,   
+
+x          A.213 utt1:  # <Laughter>.  #   
+
++          B.214 utt1:  # I # think, though, because, {F uh, } {D you know, } as a, -/ 

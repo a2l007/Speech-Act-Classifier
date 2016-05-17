@@ -1,0 +1,294 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3647_1425_1437
+TOPIC#:		345
+DATE:		911231
+TRANSCRIBER:	glp
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	4
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+fp          A.1 utt1:  Brian in Plano, Texas.  How are you doing today? /  
+
+fp          B.2 utt1:  Hi,  /
+fp          B.2 utt2: fine,  /
+sd          B.2 utt3: I'm Nancy.   /
+qw          B.2 utt4: How are you? /  
+
+sd          A.3 utt1:  Great, Nancy. /  
+
+sd          B.4 utt1:  I'm in Plano also <laughter>. /  
+
+sd          A.5 utt1:  You're in Plano also, {F huh? } /  
+
+b          B.6 utt1:  Yes,  /
+sd^t          B.6 utt2: we're not too long distance today. /  
+
+x          A.7 utt1:  <Laughter>.   
+
+x          B.8 utt1:  <Laughter>.   
+
+b          A.9 utt1:  {D Well, } good to hear.   /
+sd^t          A.9 utt2:  I was just talking to  someone the other day from Pennsylvania. /  
+
+ba          B.10 utt1:  {F Oh, } that was good.  /
+sd^t        B.10 utt2: Utah, I've  had a couple of,  /
+sd^t          B.10 utt3: {C but } that was it. /  
+
+qy          A.11 utt1:  Really? /  
+
+ny          B.12 utt1:  Yeah. /  
+
+bk          A.13 utt1:  All right. /  
+
+x          B.14 utt1:  <Laughter>.   
+
+b          A.15 utt1:  {D Well, } good to hear,  /
+b^r          A.15 utt2: good to hear. /  
+
+sd          B.16 utt1:  Learned about their basketball team <laughter>. /  
+
+qw          A.17 utt1:  <Laughter> Which one? /  
+
+sd          B.18 utt1:  {F Uh, } Jazz. /  
+
+b          A.19 utt1:  {F Oh, } yeah. /  
+
+b          B.20 utt1:  Yeah. /  
+
+sd          A.21 utt1:  The Utah Jazz. /  
+
+b          B.22 utt1:  Yeah. /  
+
+b          A.23 utt1:  Yeah,  /
+sv          A.23 utt2: [ they're, + they're ] pretty good.  /
+sv          A.23 utt3:   They've got [ some --   
+
+sd@          B.24 utt1:  That's what I heard.   
+
++          A.25 utt1:  -- [ good -- +   
+
++@          B.26 utt1:  Yeah. /  
+
++          A.27 utt1:  --  good, ] + some good, ]  {F uh, } good players out there. /  
+
+b          B.28 utt1:  Yeah. /  
+
+qy          A.29 utt1:  {D Well, } you ready for New Year's Eve? /  
+
+na          B.30 utt1:  I am. /  
+
+ba          A.31 utt1:  Good.  /
+ad          A.31 utt2:  Should we, {F uh, } start this so we can, -/  
+
+aa          B.32 utt1:  Okay. /  
+
+qw          A.33 utt1:  What was your name again? /  
+
+sd          B.34 utt1:  Nancy. /  
+
+sd          A.35 utt1:  Nancy, that's --   
+
+b          B.36 utt1:  Right. /  
+
+ +         A.37 utt1:  -- right,  /
+sd          A.37 utt2: {C and } I'm Brian. /  
+
+b          B.38 utt1:  Right. /  
+
+ ad^t         A.39 utt1:  Just a moment <beep>.  /
+sd^t          A.39 utt2:  Okay Nancy, then I guess  [ the, + ] today's subject is benefits --   
+
+b          @B.40 utt1:  Right. /  
+
++          A.41 utt1:  -- in the job other than salary.  /
+qw          A.41 utt2: [ What, + {F uh } --   
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  -- what ] do you feel are important to  you or other people [ as, + as ] crucial benefits? /  
+
+sv          B.44 utt1:  {D Well, } I'm a little different than other  people because I don't have benefits with my job. /  
+
+b          A.45 utt1:  Uh-huh. /  
+
+sd          B.46 utt1:  I'm a nurse  /
+sd          B.46 utt2: {C and } I --   
+
+b          A.47 utt1:  Oh <laughter>. /  
+
++          B.48 utt1:  -- work,  /
+sd          B.48 utt2: I float --   
+
+b          A.49 utt1:  Uh-huh. /  
+
++          B.50 utt1:  -- so that I have no benefits except higher pay --   
+
+b          A.51 utt1:  Right. /  
+
++          B.52 utt1:  -- for doing that. /  
+
+b          A.53 utt1:  Uh-huh. /  
+
+sd          B.54 utt1:  {C So } I find that it makes up for what I  pay for insurance  /
+sd          B.54 utt2: {C and } [ I, + I ] make enough money by the hour to make up for that. /  
+
+qy^d          A.55 utt1:  [ To, + to ] compensate --   
+
+na          B.56 utt1:  Right. /  
+
++          A.57 utt1:  -- for some of the benefits. /  
+
+ny          B.58 utt1:  Uh-huh. /  
+
+bk          A.59 utt1:  Oh. /  
+
+b          B.60 utt1:  Yeah,  /
+sd          B.60 utt2: it's cheaper for me to buy insurance  by the month than to work staff someplace. /  
+
+b          A.61 utt1:  Yes. /  
+
+sd          B.62 utt1:  {C And then } I have my freedom.  /
+sd          B.62 utt2:  I can work seven  days in a row and take a week  off or whatever I want to do. /  
+
+ba          A.63 utt1:  {D Well, } [ that, + that's ] an excellent, - /
+qy^d          A.63 utt2: {C so }  {D actually } that is a benefit, {F uh, } /  
+
+na          B.64 utt1:  {D Well, } it is to me.  /
+sv          B.64 utt2:  Most people prefer the  security of nine to five,   
+
+x          A.65 utt1:  <Laughter>.   
+
++          B.66 utt1:  and weekends off and --   
+
+b          A.67 utt1:  Yeah. /  
+
++          B.68 utt1:  -- knowing that their insurance is  paid and their retirement,  /
+sd          B.68 utt2: {C and } I'm just really not interested <laughter> in --   
+
+b          A.69 utt1:  Right. /  
+
++          B.70 utt1:  -- all that. /  
+
+b          A.71 utt1:  Right,  /
+sv          A.71 utt2: {D well } I guess that's a good point, {F uh, } /  
+
+b          B.72 utt1:  Uh-huh. /  
+
+sd          A.73 utt1:  I do belong to [ a, + a ] large  corporation  /
+sd          A.73 utt2: {C or } [ my, + that where I'm ] currently employed  /
+sd          A.73 utt3: {C and } [ there's, + {F uh, } there's ]  some different things, {F uh, } one that you've already mentioned [ is, + is ] health insurance.  /
+sd          A.73 utt4:  I think through our health insurance that I can get better rates [ as a, + through a ]  group plan --   
+
+b          B.74 utt1:  Right. /  
+
++          A.75 utt1:  -- as opposed to going out and getting health insurance  on an individual basis because I had to do that at one time when I wasn't  employed with a large corporation  /
+sd          A.75 utt2: {C and } that got to be somewhat expensive,  /
+sd          A.75 utt3:  {C so } [ I + --   
+
+b          B.76 utt1:  Yeah. /  
+
++          A.77 utt1:  -- I ] think one of the benefits [ I, + I ]  see [ is the, + {F uh, } is the ] [ group, + {F uh, } group ] discount. /  
+
+b          B.78 utt1:  Right,  /
+sv          B.78 utt2: {C and } especially if you have a family. /  
+
+b          A.79 utt1:  Yes. /  
+
+sv          B.80 utt1:  Then I think it makes a big difference. /  
+
+b          A.81 utt1:  <Laughter> Yes,  /
+sd          A.81 utt2: {C and } [ that's, + that's ]  one thing I do have. /  
+
+b          B.82 utt1:  Yeah. /  
+
+sd          A.83 utt1:  If I didn't have a family, I don't think I  would have, [ as, + as ] a male or [ as a, + as an ] individual [ of, + in ] this stage of my  life,  /
+sd          A.83 utt2: I don't think I would have insurance, {F uh, }  [ other, + ] /  
+
+b          B.84 utt1:  Right. /  
+
+sd          A.85 utt1:  I don't think I would go through that expense.  /
+sd          A.85 utt2:   One other benefit that you mentioned is the flexible work hours  /
+sd          A.85 utt3: {C and } in my previous  job, I really enjoyed because they had what was called flex schedule  where I could go and I could work, {F uh, } nine hour days and have {D like } Friday only  work four hours -- /  
+
+b          B.86 utt1:  {F Oh, } yeah. /  
+
+sd          A.87 utt1:  -- {C or } I could  do, {F uh, } work four days a week at  ten hours a day and have a, {D you know, } three [ w-, + ] day weekend.    
+
+b          B.88 utt1:  Right. /  
+
++          A.89 utt1:  And [ make, + {F uh, } make ] my job flexible in that case. /  
+
+qy          B.90 utt1:  Could you change that as you felt like it  /
+qrr          B.90 utt2: {C or } did you  have to do it the same every week? /  
+
+sd          A.91 utt1:  {D Well, } {D basically, } yeah  /
+sd          A.91 utt2: I had to  do, that, {F uh, } the same, {F uh, } for about every quarter of the year.  /
+sd          A.91 utt3:  {E I mean -- }   
+
+ b         B.92 utt1:  Uh-huh. /  
+
++          A.93 utt1:  -- {F uh, } {C because } I was [ in a, + in a ]  position of management I had responsibilities over people that, {F uh, }  I needed to make my schedule, {F uh, } so  that if I was not there I would have coverage by some other management personnel,  /
+sd          A.93 utt2: [ {C so, } + {C so } ] [ I, + I ]  think that, {F uh, } [ that was a, + that was an ] excellent benefit --   
+
+b          B.94 utt1:  Yeah. /  
+
++          A.95 utt1:  -- that I really enjoyed  /
+sd          A.95 utt2: {C and } I don't [ c-, + ]  have that in my current operation,  /
+sd          A.95 utt3: {C but, } {F uh, } you mentioned, {F uh, } flexible work  schedule  /
+sv          A.95 utt4: {C and } [ that's, + that's ] good. /  
+
+b          B.96 utt1:  Yeah. /  
+
+qw          A.97 utt1:  {C And, } {F uh, } what other benefits do you  think are important? /  
+
+sv          B.98 utt1:  {F Oh, } {D well, } I guess,   
+
+x          A.99 utt1:  <Laughter>.   
+
++          B.100 utt1:  retirement, that kind of thing which I  don't worry much about [ so + ] <laughter>, /  
+
+b          A.101 utt1:  Yeah,  /
+b^r          A.101 utt2: yeah,  /
+ba          A.101 utt3: that's true. /  
+
+sd          B.102 utt1:  I just prefer to worry about today,  /
+sd          B.102 utt2:  probably not a practical attitude  /
+sd          B.102 utt3: {C but } that's who I am  /
+%          B.102 utt4: {C so, } -/  
+
+sv          A.103 utt1:  {D Well, } {C and } that's an individual thing. /  
+
+b          B.104 utt1:  Uh-huh. /  
+
+b          A.105 utt1:  Yeah,  /
+sd          A.105 utt2: [ with, + {F uh, } with ]  our current, {F uh, } organization, we do have a nice retirement package  /
+sd          A.105 utt3: {C and } also [ a, + a ] nice thing  [ that, + that ] we have in our corporation [ is a, + {F uh, } is a ] profit sharing plan  where we can, {F uh, } participate in [ the, + the ] profits of the company.  [ If we're, + {D you know, } if we've ] been there a while and we're vested, {F uh, } which means  that, {D you know, } we have [ a, + an ] interest, {F uh, } in the company --   
+
+b          B.106 utt1:  Right. /  
+
++          A.107 utt1:  -- that we can, {F uh, } get some of the benefits  of [ the, + ] either the profit high times [ or, + or ] in a sense, suffer  during the low times  /
+sd          A.107 utt2: {C and, } {F uh, } also, {F uh, } in one of my wife's, {F uh, } companies where she worked,  they'd had a real nice profit sharing plan [ that, +  that, ] -/ 

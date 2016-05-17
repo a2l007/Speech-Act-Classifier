@@ -1,0 +1,456 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2709_1130_1251
+TOPIC#:		344
+DATE:		910427
+TRANSCRIBER:	jkp
+UTT_CODER:      aabo
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        First spoken comment on recording is made by Speaker B
+Background echo at various times throughout recording on Speaker A side.
+Child on Speaker A could be heard making noise in background throughout
+recording.  Speaker A dominated the conversation.
+
+=============================================================================
+  
+
+x          A.1 utt1:  <Child>.   
+
+sd          B.2 utt1:  {D Well, } I'll tell you why I feel so, - /
+sd^t          B.2 utt2: I feel strongly about this topic.  /
+sd          B.2 utt3: I don't know a whole lot about the immigration laws.  /
+sd          B.2 utt4:  {C But } I do know that in the, where I live and I teach school, there are so many Orientals that have come here  /
+sd          B.2 utt5: {C and } there's a lot of Mexican people too.  Which is not, neither here nor there,  /
+sv          B.2 utt6: {C but } the fact is that all the Orientals that are here are very affluent, {F uh, } very wise in money matters and [ have ta-, + have taken ] over a lot of businesses, <laughter>  /
+%          B.2 utt7: {C and } have, - /
+%          B.2 utt8: <child_talking> {D Really, } ki-, - /
+sv          B.2 utt9: it's kind of scary because they're so bright.  /
+sv          B.2 utt10: [ They're, + ] all the kids that I have that are Oriental are really far above the American kids.  /
+%          B.2 utt11:  {C And } they, - /
+sv          B.2 utt12: {C and } [ the, + the ] parents are unbelievable because they are just on the way up.  /
+sv          B.2 utt13:  {C And } money is their main goal.  /
+sv          B.2 utt14:  {C And } [ it's k-, + it ] really is kind of scary <laughter> because [ there's, + there's ] just oodles of them.  /
+sv          B.2 utt15:  {C And } you can not believe the businesses and corporations that have been taken over by Orientals.  /
+sv          B.2 utt16: {C And } [ it's k-, + it's kind ] of scares me, not that I don't want them here and not that I don't appreciate the fact [ that, + {D you know, } that ] they have rights too.  /
+sv          B.2 utt17:  {C But } <sigh> on the other hand, you feel like almost [ they're, + they're ] invading us to the point where they're going to take over </Child>. /  
+
+aa          A.3 utt1:  Right.  /
+sd(^q)          A.3 utt2:  {D Actually } my son once said [ that, + that, ] perhaps, {F uh, } what we should do [ is, + is ] buy a little square of land some place in the Midwest.  /
+sv          A.3 utt3: [ {C And, } + {C and } ] that might be the solution <laughter>. /  
+
+aa          B.4 utt1:  I think probably that's,   
+
+x          A.5 utt1:  <Laughter>.   
+
++@          B.6 utt1:  a good idea.    
+
+b          A.7 utt1:  Uh-huh. /  
+
++@          B.8 utt1:  Because I lived in Iowa [ for, + for ] about <child_talking> ten years before I came here.  /
+sd          B.8 utt2: {C And } I was born in Ohio, /  
+
+b          A.9 utt1:  # Uh-huh. # /  
+
+%          B.10 utt1:  # {C so } # [ it, + it ] really - /
+sd          B.10 utt2: {C and } [ there is, + there are ] a lot of Mexican people here because we're so close to the border. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1: [ {C And, } + {C and } ] they are wonderful people  /
+sd          B.12 utt2: [ {C and, } + {C and } ] [ I'm not, + <child> {D you know, } I don't ] want to deny them their rights.  /
+sv          B.12 utt3: Just that you, you feel like when you were born and raised here and you worked [ re-, + ] very hard to make this country what it is, {F uh, } it scares you when you feel like somebody's taking over.  /
+sv          B.12 utt4:  {C And } a lot of these people plan one day to go back, {D you know, } [ to, + to ] Vietnam or to, {D you know, } Taiwan or wherever they're from.  And take with them a lot of American dollars plus a lot of power in American [ [ com-, + com-, ] + companies. ]  /
+sv          B.12 utt5: {C And } it's kind of scary <Laughter>. /  
+
+b          A.13 utt1:  # Uh-huh,  /
+b^r          A.13 utt2: uh-huh. # /  
+
+h          B.14 utt1:  # {C And, } {D you know, } # I don't know,  /
+sd          B.14 utt2: I don't know the immigration laws [ that, + {F uh, } that ] - /
+h          B.14 utt3: {D well } {C and } I do not,  /
+sd          B.14 utt4: {C and } in fact I don't know them at all.  /
+sd          B.14 utt5:  I don't know how many people they allow in the United States per year or if there's even a, - /
+sd          B.14 utt6: I don't even know if there is a number that they allow in anymore.  /
+qy          B.14 utt7:  Do you know anything about # that? # /  
+
+nn          A.15 utt1:  # No,  /
+sd^e          A.15 utt2: # I don't,  /
+h          A.15 utt3: I don't know.  /
+sd          A.15 utt4: I lived in the Middle East for sometime  /
+sd          A.15 utt5: {C and } [ I, + I ] --   
+
+b          B.16 utt1:  # Oh. # /  
+
++          A.17 utt1:  -- # do # believe there must have been some sort of quota system because, {F uh, } <lipsmack> I know a lot of people that [ were, + in a sense,  [ not, + ]  {A qualified is the wrong word, }  [ but + ] certainly were ] deserving to come. /  
+
+b          B.18 utt1:  # Uh-huh. # /  
+
+sv          A.19 utt1:  # {C And } #  it seemed to take them a long time  /
+sd          A.19 utt2: [ {C or, } + {C or } ] there was a lot of uncertainty as to whether they would be able to come <lipsmack>. /  
+
+b          B.20 utt1:  Yeah. /  
+
+sv          A.21 utt1:  <Lipsmack>  {C And so } I would guess that, {D you know, } there are quotas for different places. /  
+
+aa          B.22 utt1:  I would think so too.  /
+%          B.22 utt2:  It, -/  
+
+sv          A.23 utt1:  {D You know, } [ [ I, + I, ] + I ] think there's something about being able [ to, + to ] claim, {F um, } imminent danger  /
+sd          A.23 utt2: {C or, } I'm not sure what the terminology is. /  
+
+b          B.24 utt1:  Uh-huh,  /
+b^r          B.24 utt2: uh-huh. /  
+
+sv          A.25 utt1:  Maybe political a-, -/  
+
+^2          B.26 utt1:  Asylum, of some sort. /  
+
+aa          A.27 utt1:  Yeah.  /
+aa          A.27 utt2: [ There, + there ] you go.  /
+aa          A.27 utt3: You got the term. /  
+
+b          B.28 utt1:  Uh-huh. /  
+
+sv          A.29 utt1:  {C And } maybe that's [ a, + an ] issue with [ a, + a ] lot of people.  /
+h          A.29 utt2:  I don't know.  /
+o@          A.29 utt3: # {C But, } #   
+
+o@          B.30 utt1:  # {D Well, } #   
+
++@          A.31 utt1:  Yeah,  /
+sd          A.31 utt2: [ I, + I ] guess I haven't been in a situation where [ it's, + it's ] been threatening [ to, + to ] me.  {F Uh, } /  
+
++@          B.32 utt1:  {D Well, } I teach in the suburb of Dallas  /
+sd          B.32 utt2: [ {C and, } + {C and, } ] {F uh, } my kids go to school in another suburb of Dallas.  [ And, + ] with very, very good school systems.  /
+sd          B.32 utt3: {C And } they're considered, {D you know } one of the top three in the state.  Both of them, {D you know. } /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sv          B.34 utt1:  {C And } it seems like a lot of the Orientals make sure that their kids go to these schools. /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sd          B.36 utt1:  {C And } they're head and shoulders above a lot of the kids here.  /
+sd          B.36 utt2:  {C And } the kids in this area are very bright. And come from, {D you know, } parents that are professionals or semiprofessionals [ and, + and, ] {F uh, } very interested in their education.  /
+sv          B.36 utt3: {C But, } {F uh, } I think in the, last year, [ I'm not, + if I'm not ] mistaken, in four of the six high schools, the graduating class valedictorian and  salutatorian were, {F uh, } [ alm-, + ] half or more Oriental. /  
+
+b          A.37 utt1:  Uh-huh,  /
+b^r          A.37 utt2: uh-huh. /  
+
+sd          B.38 utt1:  {C And, } {D you know, } they're just extremely bright kids.  /
+sd          B.38 utt2:  {C And } also they value learning. /  
+
+sv          A.39 utt1:  I was going to say, [ I'm not s-, + ] [ I, + I ] would guess that it's not that they are any brighter,  /
+sv          A.39 utt2: {C but } they just maybe work harder  /
+%          A.39 utt3: {C or, } -/  
+
+sv          B.40 utt1:  {D Well, } [ I, + I ] think things come easy for them too.  /
+sv          B.40 utt2:  {C But } I do think that they have that work ethic that we somehow have missed the boat in with a lot of kids in the United States.  /
+sv          B.40 utt3: [  I  don't, + they,    {F uh, } don't ] want to work for anything.  /
+sv          B.40 utt4:  They want it to come to them  [ but + and ] be there  /
+sv          B.40 utt5: {C but } they don't want to work hard.  /
+sd          B.40 utt6: {C And } these kids work really hard. /  
+
+b          A.41 utt1:  Right,  /
+b^r          A.41 utt2: right.  /
+%          A.41 utt3:  # May-, # -/  
+
+sd          B.42 utt1:  # [ {C And, } + # {C and } ] they have, -/  
+
+sv          A.43 utt1:  {C but } maybe part of that's the problem that here [ we've, + we've ] let this value slip. /  
+
+aa          B.44 utt1:  Yeah.  /
+aa          B.44 utt2:  I know,  /
+aa          B.44 utt3: I agree with that. /  
+
+sv          A.45 utt1:  {C And } they need to have some competition. /  
+
+sv          B.46 utt1:  {C But } what I see is y-, - /
+sd          B.46 utt2: the competition is there,  /
+sv          B.46 utt3: {C but } instead of meeting the challenge, they're starting to resent them. /  
+
+b          A.47 utt1:  Uh-huh. /  
+
+sv          B.48 utt1:  {C And } it's causing, {D you know, } I think [ some, + some ] problems. /  
+
+sv          A.49 utt1:  {D Well, } that's too bad. /  
+
+aa@          B.50 utt1:  It really is.    
+
+b          A.51 utt1:  Uh-huh. /  
+
++@          B.52 utt1:  Because we see a lot of racial problems in [ Dal-, + the Dallas ] area anyway,   
+
+b          A.53 utt1:  # Uh-huh. # /  
+
++@          B.54 utt1:  # especially # in Dallas.  /
+sv          B.54 utt2: {C And } it's mainly Black [ [ and, + and, ] + and ] Hispanic. /  
+
+b          A.55 utt1:  Uh-huh,  /
+b^r          A.55 utt2: uh-huh. /  
+
+sd          B.56 utt1:  {C But, } {F uh, } [ there is some, + there has been some ] resentment with Orientals in the Black community because they've started businesses there,  /
+sv          B.56 utt2: {C and } the Blacks resent them coming in and taking their money,  /
+sd          B.56 utt3: {C and } there's been some violence because of it. /  
+
+sv          A.57 utt1:  {F Oh, } that's really sad. /  
+
+aa          B.58 utt1:  It is.  /
+aa^r          B.58 utt2: [  It's, + it is ] very sad. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+%          B.60 utt1:  {C So, } {D you know, } I really, - /
+sv          B.60 utt2: [ [ I, + I've, ] + I've ] always prided myself <laughter>  on not being prejudiced and [ being, + ] {D you know, } {F uh, } [ welcome, + welcoming ] everyone --   
+
+b          A.61 utt1:  Uh-huh. /  
+
++          B.62 utt1:  -- that wants to come here.  /
+sd          B.62 utt2:  {C And } even when I was younger [ wh-, +  when ] I was in college, I was a member of the N A A C P because I lived up north,  /
+sd          B.62 utt3: {C and } I was very into [ that, + ] the human rights part of everything. /  
+
+b          A.63 utt1:  Uh-huh. /  
+
+sd          B.64 utt1:  {C But } [ [ I, + I've, ] + I've ] become very cynical --   
+
+b          A.65 utt1:  Uh-huh. /  
+
++          B.66 utt1:  -- in the last three, four years living in Texas. /  
+
+sv          A.67 utt1:  {D Well, } {C and } it sounds like you feel that there is need for change.  /
+%          A.67 utt2: Maybe [ the, + <lipsmack> <<pause>> {F uh, } {D you know, } the ] e-, - /
+sv          A.67 utt3: there is too big of a concentration coming all at once [ to, + to ] allow for adequate melting into the society. /  
+
+aa          B.68 utt1:  Uh-huh,  /
+aa^r          B.68 utt2: uh-huh.  /
+aa          B.68 utt3:  {D Well, } {C and } exactly,  /
+aa          B.68 utt4: that's exactly true.  /
+sv          B.68 utt5:  Plus the fact that these people do come for a short period of time.  Two, two, three, four maybe five years and then go back.  And pick our brains, which is wonderful, and take all that back with them.  /
+sv          B.68 utt6:  [ {C And, } + {C and, } ] {F uh, } plus a lot of American dollars.  /
+sv          B.68 utt7:  {C But } [ in, + in ] the long run maybe that's going to make a better world too. /  
+
+aa          A.69 utt1:  # Right. # /  
+
+sv          B.70 utt1:  # {D You know, } # you just don't know. /  
+
+aa          A.71 utt1:  Exactly. /  
+
+%          B.72 utt1:  An-, - /
+%          B.72 utt2: {C and } yet, {D you know, } [ with, + {F uh, } with, ] {F uh, } - /
+sd          B.72 utt3: <<pause>> there's somebody on my other line  /
+sd          B.72 utt4: {C but } I'm going to ignore <laughter>  --   
+
+b          A.73 utt1:  # Oh. # /  
+
++          B.74 utt1:  -- # that. #  /
+%          B.74 utt2:  {F Uh, } {D anyway } I just, - /
+sv          B.74 utt3: [ [ [ you, + you  kind of, ] + you don-, ] + you really don't ] know what to do.  /
+sd          B.74 utt4: [ {C And, } + {C and } ] I don't, - /
+sd          B.74 utt5: I want my kids to have values where they're accepting and so forth. /  
+
+b          A.75 utt1:  Uh-huh. /  
+
+sd          B.76 utt1:  {C And } both of my children are really [ tol-, + more tolerant ] of Blacks and [ H-, + Hispanics ] than they are of the Orientals,   
+
+b          A.77 utt1:  # {F Um. }  # /  
+
++          B.78 utt1:  # for # some reason.  /
+sd          B.78 utt2: They feel, {D you know, } like they've taken over.  /
+sd          B.78 utt3: They feel like, {F uh, } {D you know, } they're taking some of [ the, + the ] rewards that they should have. /  
+
+b          A.79 utt1:  Right. /  
+
+sd          B.80 utt1:  {C And } I really don't want that to happen. /  
+
+b          A.81 utt1:  Right, /  
+
+sd          B.82 utt1:  # [ {C But, } + #   
+
+b          A.83 utt1:  # right.  # /  
+
++          B.84 utt1:  {C but } ] it's happening. /  
+
+b          A.85 utt1:  Right. /  
+
+sd          B.86 utt1:  {C And } I think a lot of their friends feel the same way too. /  
+
+b          A.87 utt1:  Uh-huh,  /
+b^r          A.87 utt2: uh-huh. /  
+
+sd          B.88 utt1:  [ {C So, } + {C and } ] I really do wish I knew about quotas and really wish I - /
+sd@          B.88 utt2: <talking> <<voice in background says, Hi.  Speaker responds, Hi.>>  <<Speaker resumes talking>> I really do wish [ I, + I ] knew more about immigration laws because I have no idea any more.    
+
+b          A.89 utt1:  Right. /  
+
++@          B.90 utt1:  Because they've changed a great deal. /  
+
+aa          A.91 utt1:  [ I would, + I would ] suspect that they have.  /
+sd          A.91 utt2:  {D Well, } I guess, {F um, } I don't have much, <laughter> much more to contribute to the topic. /  
+
+b          B.92 utt1:  Yeah.  /
+sd          B.92 utt2:  I don't really either.  /
+sd          B.92 utt3: I wish I knew more. /  
+
+b          A.93 utt1:  Yeah. /  
+
+sv          B.94 utt1:  Probably if I did, <child>  I might be a little bit more, {F uh, } tolerant,   
+
+b          A.95 utt1:  # Uh-huh. # /  
+
++          B.96 utt1:  # perhaps.  /
+%          B.96 utt2: # {C And } I, - /
+sd          B.96 utt3: {C and } even if [ I, + I ] really wish I knew the situations they were going back to or coming from. /  
+
+b          A.97 utt1:  Uh-huh. /  
+
+sv          B.98 utt1:  You don't know any of that  /
+sv          B.98 utt2: {C and } you feel, {D you know, } you can't put yourself in their shoes or really understand them. /  
+
+b          A.99 utt1:  Right. /  
+
+%          B.100 utt1:  Unless, - /
+sv        B.100 utt2: {C and } for some reason Orientals are very, {F uh, } - /
+sd          B.100 utt3: my good friend calls them pushy,  /
+sd          B.100 utt4: {C but } I call them very,  that - /
+sv      B.100 utt5: they know what they want  /
+sv          B.100 utt6: {C and } they go get it. /  
+
+b          A.101 utt1:  Uh-huh. /  
+
+sd          B.102 utt1:  {C And } in stores [ and so -- +   
+
+bf          A.103 utt1:  # Goal directed. # /  
+
++          B.104 utt1:  -- # and so ] forth # it's,  wh-, - /
+b^r          B.104 utt2: pardon me? /  
+
+bf^r         A.105 utt1:  Goal directed. /  
+
+aa          B.106 utt1:  Yeah.  /
+sv          B.106 utt2:  {C But } in stores and things, sometimes they can be very impolite because [ they can, + they get ] in front of you --   
+
+b          A.107 utt1:  Oh.  /
+ba          A.107 utt2: I see. /  
+
++          B.108 utt1:  -- or [ they, + {F uh, } they ] take something that you had in mind to get before you did.  /
+sd          B.108 utt2:  {D You know, } just going for it, they take it quickly. /  
+
+b          A.109 utt1:  Uh-huh. /  
+
+sv          B.110 utt1:  {C And, } {F uh, } they don't think anything of that.  /
+h          B.110 utt2:  {C And } I don't, {D you know, } - /
+sv          B.110 utt3: that's makes people resentful too.  /
+sv          B.110 utt4: [ {C And so, } +   
+
+aa          A.111 utt1:  Sure,  /
+aa^r          A.111 utt2: sure. /  
+
++          B.112 utt1:  {C And } ] yet [ they have, + they have ] a right to be here  /
+sd          B.112 utt2: {C and } I know that. /  
+
+b          A.113 utt1:  Uh-huh. /  
+
+sd          B.114 utt1:  {C But } [ [ it's, + it ] + sometimes it's ] gets touchy. /  
+
+b          A.115 utt1:  Uh-huh,  /
+b^r          A.115 utt2: uh-huh. /  
+
+sd          B.116 utt1:  [ {C So, } + {C and } ] I'm sure it's a lot different,  /
+qy^d        B.116 utt2: you're from Maryland,    
+
+ny          A.117 utt1:  # Yes, # /  
+
++           B.118 utt1:  # You said?  /
+qw          B.118 utt2: # What part of Maryland are you from? /  
+
+sd          A.119 utt1:  Up in the Gaithersburg area. /  
+
+bk          B.120 utt1:  {F Oh, } okay.  /
+sd          B.120 utt2:  My sister used to live # there, #   
+
+b          A.121 utt1:  # Uh-huh. # /  
+
++          B.122 utt1:  in that area.  /
+sv          B.122 utt2: {C And } [ I, + I'm ] sure that it's a lot different there.  /
+sv          B.122 utt3: {F Uh, } it's a lot different [ in I-, + [ than, + in Iowa ] than ] # it is here. # /  
+
+ar          A.123 utt1:  # {D Well, } no.  /
+sv@          A.123 utt2: #  [ I think, + I think ] [ there, + as I recall in my son's class, there ] [ were, + were ] [ an awfu-, + an awful ] lot of  [ mi-, +  minorities. ]    
+
+qh          B.124 utt1:  Is that right? /  
+
++@            A.125 utt1:  And, {F uh, } [ of all, + of all ] varieties.  /
+sd          A.125 utt2: {C And } <<pause>> with [ the same, +  {D you know, } [ some of the, + some of ] the same ] problems that you've mentioned.  /
+h          A.125 utt3:  {C But, } {F uh, } I don't know,  /
+sd          A.125 utt4: I guess I wasn't involved enough [ to, + to, ] {F uh, } really stop to think about it. /  
+
+b          B.126 utt1:  Uh-huh.  /
+sd          B.126 utt2:  {D Well, } [ I, + {D you know, } since I ] teach, I [ see th-, +  see ] it.  /
+%          B.126 utt3: [ {C And, } + {C and } ] I feel - /
+sd          B.126 utt4: {C and } I love the example that most of these children give [ the, + ] our American children.  /
+sd          B.126 utt5: {C And } yet, {D you know, } I can see why some of the parents [ are fear-, + [ that + ] are # fearful ] too. # /  
+
+b          A.127 utt1:  # Uh-huh,  /
+b^r          A.127 utt2: uh-huh. # /  
+
+sd          B.128 utt1: [ {C And, } + {C and } ] it's a kind of a touchy situation. /  
+
+b          A.129 utt1:  Uh-huh. /  
+
+sv          B.130 utt1:  {C And } I wish that we could all just learn from each other and not feel threatened.  /
+sv          B.130 utt2:  {C But } --   
+
+aa          A.131 utt1:  Exactly,  /
+aa^r          A.131 utt2: exactly. /  
+
++          B.132 utt1:  -- it doesn't happen that way --   
+
+aa          A.133 utt1:  Right, /  
+
++          B.134 utt1:  -- all the time. /  
+
+aa          A.135 utt1:  right. /  
+
+b          B.136 utt1:  {D So } anyway, /  
+
+fc          A.137 utt1:  {D Well, } it was good talking to you. /  
+
+fc^m          B.138 utt1:  It was good to talk [ to, + # to ] you too. # /  
+
+%          A.139 utt1:  # {C And } I h-, # -/  
+
+fc          B.140 utt1:  {C And } have a good trip in California. /  
+
+fc          A.141 utt1:  Okay.  /
+fc          A.141 utt2: {C And } have a good weekend. /  
+
+fc          B.142 utt1:   All right.  /
+fc          B.142 utt2: {D Well } thank you. /  
+
+fc          A.143 utt1:  [ A- + all ] righty, /  
+
+fc          B.144 utt1:   # Bye-bye. # /  
+
+fc^m          A.145 utt1:   # Bye-bye # <noise>. /  
+
+x          B.146 utt1:   <noise>. 

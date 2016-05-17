@@ -1,0 +1,258 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3319_1414_1409
+TOPIC#:		362
+DATE:		911028
+TRANSCRIBER:	glp
+UTT_CODER:      aabo
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	4
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.
+
+==========================================================================
+  
+
+qy          A.1 utt1:   Golfer? /  
+
+ny          B.2 utt1:   {D Well, } yes,  /
+sd^e          B.2 utt2: I am as a matter of fact. /  
+
+%          A.3 utt1:   {D Well, } -/  
+
+sd          B.4 utt1:   Not a good one,  /
+sd          B.4 utt2: {C but } I am a golfer. /  
+
+aa                   A.5 utt1:   {D Well, } that's about the way I am.  /
+sd          A.5 utt2: I don't consider myself a good one,  /
+sd          A.5 utt3: {C but } I do enjoy it. /  
+
+sd          B.6 utt1:   I, {F uh, } haven't been out all year.  /
+sd          B.6 utt2:  I didn't get out this year,  /
+sd          B.6 utt3: {C but, } {F uh, } I enjoy both watching it and playing it. /  
+
+sd           A.7 utt1:   I usually play a couple of times a month.  /
+sd          A.7 utt2:  Sometimes more,  /
+sd          A.7 utt3: {C but } lately it's been just about that.  /
+sd          A.7 utt4:  {C But, } I do enjoy, - /
+sv          A.7 utt5: I think [ the, + ] one of the things I enjoy the most is the beauty of the golf courses. /  
+
+aa          B.8 utt1:   Yes,  /
+^2          B.8 utt2: {C and, } [ the, + the ] peacefulness. /  
+
+aa          A.9 utt1:   Uh-huh.  /
+sd          A.9 utt2:  You can get out there, /  
+
+^2          B.10 utt1:   {C And } the little critters that are around. /  
+
+x          A.11 utt1:   <Laughter>.   
+
+x          B.12 utt1:   <Laughter>.   
+
+b          A.13 utt1:   Yeah,  /
+sd          A.13 utt2: that's really neat.  /
+sv          A.13 utt3:  You can just get out there and lose yourself in it and forget everything else in the world except what you're seeing out there. /  
+
+aa          B.14 utt1:   That's right  /
+^2          B.14 utt2: {C and } it's such a personal challenge. /  
+
+aa          A.15 utt1:   Uh-huh,  /
+aa          A.15 utt2: yeah,  /
+aa          A.15 utt3: it really is. /  
+
+sv          B.16 utt1:   More than competitiveness against someone else.  /
+sv          B.16 utt2: [  It's, + it's ] a competitiveness against yourself. /  
+
+sd          A.17 utt1:   <Laughter> {C And, } {D you know, } it's so frustrating,  /
+qh          A.17 utt2: I keep wondering sometimes why do I do this because it's so frustrating.  /
+sd          A.17 utt3: You think you do pretty good one day  /
+sd          A.17 utt4: {C and } you're doing a whole lot better, {D you know, }  /
+sd          A.17 utt5: {C and then } all of a sudden you go back out  /
+sd          A.17 utt6: {C and } it's just terrible. /  
+
+%          B.18 utt1:   {D Well, } you'll, -/  
+
+sd          A.19 utt1:   You can't do anything,   
+
+x          B.20 utt1:   <Throat_clearing>.   
+
++          A.21 utt1:   right <laughter>. /  
+
+sd          B.22 utt1:   {C Or } you'll hear thirty and think, {D boy } --   
+
+^2@          A.23 utt1:   Boy, I'm improving.   
+
++          B.24 utt1:   -- I got my game together.  /
+sd          B.24 utt2:  I've had a par and a birdie,   
+
++@          A.25 utt1:   <Laughter>.   
+
++          B.26 utt1:   and a bogey  /
+sd          B.26 utt2: {C and then } you quadruple bogey <laughter>. /  
+
++@          A.27 utt1:   Uh-huh  /
+qh          A.27 utt2: <laughter>.  {C And } you think, {D my goodness, } why did I think I was doing better <laughter>. /  
+
+qr          B.28 utt1:   Being down there, do you, {F uh, } get to see, {D like } the colonial or any of those? /  
+
+%          A.29 utt1:   I don't, - /
+^h          A.29 utt2: I guess I could.  /
+ng          A.29 utt3:  I've never been [ to a golf, + to a major golf ] tournament. /  
+
+b          B.30 utt1:   Oh. /  
+
+sd          A.31 utt1:   I, {F uh, } watch them on T V a lot. /  
+
+ad          B.32 utt1:   You really should go at least once.  /
+sd          B.32 utt2:  {D You know, } we've --   
+
+b          A.33 utt1:   Uh-huh. /  
+
++          B.34 utt1:   -- had, {F uh, } the P G A up here. /  
+
+b          A.35 utt1:   Uh-huh. /  
+
+sd          B.36 utt1:   {F Uh, } [ a-, + ]  [ and in + ] Tulsa  /
+sd          B.36 utt2: {C and } I've been to both of them  /
+sd          B.36 utt3: {C and } [ it's + <breathing>, it ] is so much fun to --   
+
+bh          A.37 utt1:   Really? /  
+
++          B.38 utt1:   -- see these players you see on T V [ to, + ] {C and } to hear that ball go whizzing by. /  
+
+b          A.39 utt1:   Uh-huh. /  
+
+sv          B.40 utt1:   {E I mean, } [ it's, + it's ] like a bullet going by. /  
+
+ba          A.41 utt1:   I'll bet, {F um. } /  
+
+sd          B.42 utt1:   {C And, } {D you know, } [ to, + to ] see their concentration and yet to see [ them, + ] how friendly they are when they're, walk by you, {D you know, }  and --   
+
+b          A.43 utt1:   Uh-huh. /  
+
++          B.44 utt1:   -- how good they are to their spectators. /  
+
+sd          A.45 utt1:   {D Well, } I've only been playing {D like } about three years now.  /
+sd          A.45 utt2:  My husband's played for twenty-five.  /
+sd          A.45 utt3:  {C But, } I just took it up about three years ago  /
+sd          A.45 utt4: {C and, } {F uh, } we play in a lot of couple's scramble tournaments.  /
+sd          A.45 utt5:  We belong to a country club a little ways outside of Dallas,  /
+o@          A.45 utt6: {C and } --   
+
+%          B.46 utt1:   Both, -/  
+
++@          A.47 utt1:   -- we have developed a tremendous number of friends that --   
+
+b          B.48 utt1:   Yes. /  
+
++@          A.49 utt1:   -- couples do this  /
+sv          A.49 utt2: {C and, } {D you know, } it's fun to go on vacations and things and go to golf courses. /  
+
+aa          B.50 utt1:   Yes,  /
+aa          B.50 utt2: it is. /  
+
+sv          A.51 utt1:   You can meet some really neat people. /  
+
+sv          B.52 utt1:   The scrambles are fun. /  
+
+aa          A.53 utt1:   Uh-huh,  /
+aa          A.53 utt2: they really are.  /
+sd          A.53 utt3:  I just love them. /  
+
+sd          B.54 utt1:   I belong to the country club there in El Reno when I lived there  /
+o@          B.54 utt2: {C and } --   
+
+b          A.55 utt1:   Uh-huh. /  
+
++@          B.56 utt1:   -- [ [ it, + {D you know, } it, ] + it's ] fun because it's so uncompetitive. /  
+
+b          A.57 utt1:   Uh-huh. /  
+
+sv          B.58 utt1:  [ You really, + on those, you really ] go out for fun. /  
+
+aa          A.59 utt1:   That's right. /  
+
+sd          B.60 utt1:   {C And, } {D you know, } you won't, - /
+sv          B.60 utt2: you know you're stroke is just one of one or two or three --   
+
+b          A.61 utt1:   Uh-huh. /  
+
++          B.62 utt1:   -- or four, {D you know, } that's going to make any difference. /  
+
+aa          A.63 utt1:   That's right.  /
+sv          A.63 utt2: {C And } you just do your own thing and be relaxed and enjoy it <laughter>. /  
+
+aa          B.64 utt1:   That's right.  /
+sd          B.64 utt2: [  I used to, + when I worked at Kerr McGee, I used to ] play in their tournaments. /  
+
+bh          A.65 utt1:   Really? /  
+
+sd          B.66 utt1:   {C And, } {F uh, } now that was very competitive. /  
+
+bh          A.67 utt1:   Really? /  
+
+sd          B.68 utt1:   {C And, } I enjoyed it tremendously,  /
+sd          B.68 utt2: {C but, } {F uh, } [ [ I, + I'm  more, ] + I think I get more ] enjoyment just couple friends going out. /  
+
+b          A.69 utt1:   Uh-huh. /  
+
+sd          B.70 utt1:   {C And } [ if, + if ] it takes one of us ten shots to get up to the green, so be it. /  
+
+b          A.71 utt1:   Uh-huh. /  
+
+sd          B.72 utt1:   {D You know, } we just think, {D well, } the next time has got to be better <laughter>. /  
+
+b          A.73 utt1:   <Laughter> Yeah,  /
+sd          A.73 utt2: I have never played in any tournament except just a scramble.  /
+sd          A.73 utt3:  They have a lot of them there at the club, {D you know, }  /
+sd          A.73 utt4: they have A B C D type tournaments  /
+sd          A.73 utt5: {C and then } [ they, + they ] have the club championships and everything with the women's slots as well,  /
+h          A.73 utt6: {C but, } I don't know,  /
+sd          A.73 utt7: I've just never really gotten into that.  /
+sd          A.73 utt8: {D Now, } my husband and all the men, {E I mean, } they love the real competitiveness of playing for money, {D you know. } /  
+
+b          B.74 utt1:   {F Oh, } yes,  /
+bf          B.74 utt2: every hole. /  
+
+b          A.75 utt1:   Uh-huh.  /
+sd          A.75 utt2:  {C But } [ I, + I'm ] not good enough for that <laughter>. /  
+
+qy          B.76 utt1:   Does your club have a good woman's association? /  
+
+ny          A.77 utt1:   Yes,  /
+sd^e          A.77 utt2: they do.  /
+sd          A.77 utt3:  I don't do much with it since, {F uh, } most of theirs, - /
+sd          A.77 utt4: they have a traveling league,  /
+sd          A.77 utt5: {C and, } {F uh, } most of their meetings and all are during the week  /
+sd          A.77 utt6: {C and } I [ don't, + don't ] get to play except on the weekend.  /
+sd          A.77 utt7:  I work during the week all the time. /  
+
+sv          B.78 utt1:   It's hard to be a weekend golfer and improve your game. /  
+
+b          A.79 utt1:   Uh-huh.  /
+sd          A.79 utt2:  Someday when [ I, + I ] get where I live closer to the club  and partially retired, maybe I'll, {F uh, } be able to play a little more  /
+%          A.79 utt3: {C but, } -/  
+
+sd          B.80 utt1:  [ [ [ It, + {F uh, } it's, ] + it's a, ] + it's ] a good game.  /
+sd          B.80 utt2: [  I, + {F uh, } I ] wish I had more time to play  /
+sd          B.80 utt3: {C and } I felt, {D you know, } had more energy to play it, too. /  
+
+b          A.81 utt1:   Uh-huh. / 

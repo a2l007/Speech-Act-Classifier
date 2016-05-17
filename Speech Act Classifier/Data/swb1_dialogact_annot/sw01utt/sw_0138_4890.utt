@@ -1,0 +1,217 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:        4890_1165_1696
+TOPIC#:          341
+DATE:            920502
+TRANSCRIBER:     nk
+UTT_CODER:	 lsh
+DIFFICULTY:      1
+TOPICALITY:      2
+NATURALNESS:     1
+ECHO_FROM_B:     1
+ECHO_FROM_A:     1
+STATIC_ON_A:     1
+STATIC_ON_B:     1
+BACKGROUND_A:    1
+BACKGROUND_B:    1
+REMARKS:         None.
+
+===============================================================================
+  
+
+sv          A.1 utt1:  {F Uh, } with regard [ to, + {F uh, } to ] jury trials.  [ [ I, + {D you know, } I, ] + I ] really feel as though, {F uh, } [ jury trials [ are, + are, ] +   {F uh, } whatever system has [ been, + been ] ] used  historically, in particular jurisdiction, {D you know, }  is really [ the, + the ] only kinds of things that you can use. Because  [ the, + the ] jurisprudence is, {D you know, } based [ [ on, + on, ] + {F uh, } {D you know, }  on ] accumulated [ n-, +  body ] of law.  /
+sv           A.1 utt2: {C And } [ if, + if ] you have a situation where you change that body of law, then all of sudden [ [ they, + they start, ] + they could start ]  going back and digging up all these cases [ that, + {F uh, } that ] would be handled differently # were # --   
+
+x          @B.2 utt1:  # <TV>  ((   )) . #     
+
++          A.3 utt1:  -- they judged by today's standards.  /
+sv          A.3 utt2:   {C So } [ I, + I ] really don't think [ it, + they ] can really do much of anything to change it.  /
+qo          A.3 utt3: What do you think?  <Noise>. /  
+
+sv          B.4 utt1:  <Lipsmack> {F Uh, } [ I, + I ] don't think so.  /
+sv          B.4 utt2:  Possibly in the jury selection would be the only, -/  
+
+x          A.5 utt1:  <Bird_squawk>.   
+
+sd          B.6 utt1:  just for example, what we're seeing in California I guess.  /
+sv          B.6 utt2:   It makes you wonder, {F uh, } had the jury been a different group of people what would have happened with that outcome.  /
+sv@          B.6 utt3: {F Uh, } [ {C and } th-, +  {C and } the ] problems [ [ that, + that has come ] + <cough> <<someone in background>> that has come ]  from this decision that that  jury came to after all of us witnessed what we did with the video tape beating.  {F Uh } <lipsmack> just makes you wonder I guess #  whether or not they, # -/  *[[ Seems as though this should be 2 slash units--the first ending after "beating." ]]
+
+%          A.7 utt1:  # {D Well } won't, - /
+sv          A.7 utt2: {D well } #  maybe they used a little bit too much force with stuff like that  /
+sd          A.7 utt3: {C but } [ then -- +   
+
+b          B.8 utt1:  Uh-huh. /  
+
++          A.9 utt1:  -- then, ] {D you know, } the defense  lawyer addressed each and every one of those blows apparently # /
+sd          A.9 utt2: {C and, } {D you know, } the # --   
+
+sv          B.10 utt1:  # [ That's, +  (( that's ] bad )) . # /  
+
++          A.11 utt1:  -- other two guys sat in the car -- /  
+
+b          B.12 utt1:  Uh-huh. /  
+
+sd          A.13 utt1:  -- {C and } they didn't get beat up.    
+
+aa          B.14 utt1:  No.   /
+%          B.14 utt2: (( It )) , -/  
+
++          A.15 utt1:  {D You know. }  /
+sv          A.15 utt2: Rodney got beat up because  [ [ [ he, + he, ] + {D you know, } he pur-, ] + {D you know, } he involved ] himself in some [ sub, + self-destructive ] behavior. /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sv          A.17 utt1:  {C And, }  {F uh, } {F uh, } <swallowing>  just like the burning and looting --   
+
+b          B.18 utt1:  Uh-huh. /  
+
++          A.19 utt1:  -- is self-destruct.  /
+sv(^q)       A.19 utt2: # Everybody # --   
+
+aa          B.20 utt1:  # {F Oh, } yes. # /  
+
++          A.21 utt1:  -- says {D well } this is the nineties  /
+^q          A.21 utt2:  {C and } they're going to rebuild  /
+^q          A.21 utt3: {C and } it'll be even better.  /
+qh          A.21 utt4: Hey, what do you think,  /
+qh          A.21 utt5:  {D you know, } [ some, + some ] black guy with capital is going to come in and invest in that area? /  
+
+aa          B.22 utt1:  That's right. /  
+
+sv          A.23 utt1:  With everybody with that mind set.    # [ [ They, + [ they're # -- +   
+
+sv          B.24 utt1:  # They're only going # to suffer. /  
+
++          A.25 utt1:  -- they're ] going to, ] + that whole area is going to ]  be turned into residential ghetto, {D you know, }  /
+sv          A.25 utt2: {C and } you might  even be able [ to, + to ] use it [ for, + for ] a bombing test site, {D you know. } /  
+
+sv^r          B.26 utt1:  [ T-, + they're ] only going to suffer.  /
+sv          B.26 utt2:   [ They, + they've ] defeated themselves [ with, + with ] their looting and violence.  /
+sd          B.26 utt3:  {F Uh, } I understand why they were upset by the verdict just because even those of us that aren't black  or, {F uh, } don't live there or whatever, we all saw the same thing  [ on the, + on the ] tape  /
+%          B.26 utt4: {C and, }  {F uh, } -/  
+
+sv          A.27 utt1:  {D Well } [ e-, + everybody ]  is saying this is going to be a new era  /
+sv          A.27 utt2: {C and } we're going to reexamine this thing.  /
+sv(^q)       A.27 utt3:  Hey, [ the b-, +  the average ] person is going to take a look at that and say, suspicions confirmed. /
+^q          A.27 utt4:  They're a bunch of animals, {D you know. }  /
+qh          A.27 utt5: How can you really deal with  an environment where you're going to lose everything.  /
+sd          A.27 utt6:  Forty deaths.  /
+sd          A.27 utt7: {E I mean } there are # forty people # --   
+
+aa          B.28 utt1:  # I know. # /  
+
++          A.29 utt1:  -- that are dead as a result of that. /  
+
+aa          B.30 utt1:  Yeah,  /
+sv          B.30 utt2: it's really ridiculous. /  
+
+sd          A.31 utt1:  {C And } I'm just trying to determine,  {D you know, } [ how you address, + how you weigh, ] {D you know, } Rodney [ getting, + getting ]  the hell beat out of him against, {D you know, } forty deaths. /  
+
+bf          B.32 utt1:  Against forty other people being, -/  
+
+aa          A.33 utt1:  Yeah.  /
+sd          A.33 utt2: {C And } there's no other, - /
+sd          A.33 utt3:  I'm not [ su-, + exactly sure, ] {F uh, } what the circumstances surrounding the deaths. - /
+sd          A.33 utt4:  {C And } I'm very upset that the news media has not identified those deaths --   
+
+b^m          B.34 utt1:  Those deaths. /  
+
++          A.35 utt1:  -- [ and, + and ] pursued it, {D you know, }   because I'm interested in the circumstances surrounding # this thing. # /  
+
+b          B.36 utt1:  # Uh-huh. # /  
+
+qy          A.37 utt1:  Is it a looter that got shot by a store owner?  /
+%          A.37 utt2:   # I, {D you know, } - /
+o          A.37 utt3: no tears. # /  
+
+qr          B.38 utt1:  # Or just [ a by-, + # an innocent bystander ]  or somebody got actually beat to death or what. /  
+
+b          A.39 utt1:  Yeah.  /
+sd          A.39 utt2: [ [ # {C And } # -- +   
+
+%          B.40 utt1:  # {F Um. } # /  
+
++          A.41 utt1:  -- {C and so } ] I, +  {C but } [ I, +   
+
+x          B.42 utt1:  <Noise>.   
+
++          A.43 utt1:  I ] ] suspect a number of them.  /
+sd          A.43 utt2: {D You know, }    [ you, + you ] see film of people being pulled out of a car and shot, {D you know, } [ in, + in ] the street. /  
+
+^2          B.44 utt1:   ((   ))  [ Or, + or ] beaten. /  
+
+sd          A.45 utt1:  [ {C And, } + {C and } ] my reaction is  I would have run over fifty people [ before, + ] rather than stop.  /
+sd          A.45 utt2: [ {C And, } +  {F uh, } {C and } ]  [ there, + there ] would have been just nothing but carnage [ [ after, + after, ] + after -- ]   
+
+%          B.46 utt1:  {F Um } <<very, very faint>>. /  
+
++          A.47 utt1:  -- if I'd been at the wheel.  /
+sd          A.47 utt2: # No one # --   
+
+b          B.48 utt1:  # Right. # /  
+
++          A.49 utt1:  -- would have stopped me. /  
+
+aa          B.50 utt1:  [ That's, + that's ] exactly how I feel too.  /
+sd          B.50 utt2:  [ I wouldn't have, + {F uh, } they wouldn't have ] stopped my car for [ any, + anything ]  had I seen them coming.  /
+sv          B.50 utt3: {C But } I was just wondering since [ [ you're, + you're in, ] + you're back ]  east, {F uh, } and a little closer to [ the, + the ] bigger cities than we are in Idaho here. /  
+
+aa          @@A.51 utt1:  Right.  /
+sd          @@A.51 utt2:  I'm inside the beltway. /  
+
+b          B.52 utt1:  Oh. /  
+
+sd(^q)       A.53 utt1:  {D You know } how capital gang,   they always say {D well } inside the beltway,  they think thus  /
+sd(^q)       A.53 utt2: [ {C and so } + {C and } ] I say {D well } wait a minute,  /
+^q          A.53 utt3:  I'm inside the beltway  /
+^q          A.53 utt4: {C and } I don't think like that. /  
+
+b          B.54 utt1:  Uh-huh. /  
+
+sd          A.55 utt1:  I'm a government employee. /  
+
+b          B.56 utt1:  Oh.  /
+qw          B.56 utt2: In what, {F uh, } section  of the government # do you work? # /  
+
+sd          A.57 utt1:  # I'm with # the F B I. /  
+
+b          B.58 utt1:  Oh  <laughter>.  /
+ba          B.58 utt2:  {F Oh, } that's interesting <laughter>. /  
+
+aa          A.59 utt1:  Yes.  /
+sd^t          A.59 utt2:  [ [ [ {C An-, } + {C and so, } ] +  {F uh, } {F uh, } {C and, } ] + {C and } ]  the reason I'm doing this whole thing is because Rick,   
+
+x          B.60 utt1:  <Talking>.   
+
++          A.61 utt1:  whose another government employee  wanted [ a spe-, + segments ] of my speech,   
+
+x          B.62 utt1:  <Noise>.   
+
++          A.63 utt1:  [ that -- +   
+
+b          B.64 utt1:  Uh-huh. /  
+
++          A.65 utt1:  -- that ] were done a year ago  /
+sd^t          A.65 utt2:  {C and } he wanted another collection a year later. /  
+
+b          B.66 utt1:  Oh. /  
+
+sd^t          A.67 utt1:  {C And so } this is my seventh call.  /
+sd^t          A.67 utt2:   A year ago I did eleven calls. /  
+
+bk          B.68 utt1:  {F Oh, } I see </TV>. /  
+
+sd^t          A.69 utt1:  {C And so } [ [ that's, + that's why, ] +  {F uh, } <swallowing> {F uh, } that's why ] I'm religiously getting on the phone because [ I have a unique, +  {D you know, } I have a unique ] situation here in that  if I don't participate, -/ 

@@ -1,0 +1,478 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2457_1148_1064
+TOPIC#:		313
+DATE:		910405
+TRANSCRIBER:	CLC
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	5
+ECHO_FROM_A:	5
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+============================================================================
+  
+
+sd          A.1 utt1:  {D Well } Amy it's been, {F uh, } kind of overcast today and cloudy. /  
+
+b          B.2 utt1:  Yeah. /  
+
+%          A.3 utt1:  We have, - /
+%          A.3 utt2: our, - /
+sd          A.3 utt3: I have a son in kindergarten,  /
+sd          A.3 utt4: he was having a kite day, /  
+
+b          B.4 utt1:  {F Oh, } boy. /  
+
+sd          A.5 utt1:  {C and } I was really worried about it raining because [ it has, + ] there's been some dark clouds  /
+sd          A.5 utt2: [ {C and } it's been, + {F um, } <lipsmack> {C and } it's been ] pretty rainy --   
+
+b          B.6 utt1:  Yeah -- /  
+
++          A.7 utt1:  -- looking. /  
+
+sd          B.8 utt1:  -- I've been trying to put weed spray on the lawn for the whole week  /
+sd          B.8 utt2: {C and } you can't put it on if it's suppose to rain within forty-eight hours, /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1:  {C and so } I keep hearing the forecast it's going to rain, it's going to rain, it's going to rain,  /
+^2          B.10 utt2: {C but } it really hasn't rained <laughter>. /  
+
+sd          A.11 utt1:  I know it just --   
+
+sd          B.12 utt1:  I know. /  
+
++          A.13 utt1:  -- has that, - /
+%          A.13 utt2: I, - /
+sd          A.13 utt3: it looks, - /
+sd          A.13 utt4: several times in the last couple of weeks it has looked rainy that day --   
+
+b          B.14 utt1:  Yeah. /  
+
++          A.15 utt1:  -- and [ not, + not ] done anything. /  
+
+b          B.16 utt1:  Yeah. /  
+
+sd          A.17 utt1:  {C And } we have a lot of trees in our yard  /
+sd         A.17 utt2: {C and } I probably, - /
+sd          A.17 utt3: they're pretty old, big tall trees, /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+sd@          A.19 utt1:  {C and so } if it's an overcast day then the weather is pretty blah <laughter>.    
+
+b          B.20 utt1:  Yeah,  /
+b^r          B.20 utt2: yeah. /  
+
++@          A.21 utt1:  Because I really have to catch some sunshine or else I feel like I live in a cave all the time, /  
+
+sd          B.22 utt1:  <Laughter> {D Well, } I get tired with the ki-, - /
+sd          B.22 utt2: I have two [ ki-, + ] preschoolers, a three year old and a two year old, /  
+
+b          A.23 utt1:  Uh-huh. /  
+
+sd          B.24 utt1:  {C and } if it's not nice and they can't go out, it's really the pits <laughter>. /  
+
+ba          A.25 utt1:  {F Oh, } I bet. /  
+
+sd          B.26 utt1:  {C But } I appreciate it <child> when they can at least go play in the backyard for an hour or something, {D you know. } /  
+
+b          A.27 utt1:  Yeah. /  
+
+b          B.28 utt1:  Yeah. /  
+
+sv          A.29 utt1:  That makes a big difference -- /  
+
+b          B.30 utt1:  Yeah. /  
+
+%          A.31 utt1:  -- {C but } I, {F uh, } - /
+sd          A.31 utt2: we're kind of new to Plano  /
+sd          A.31 utt3: {C and } I'm working on a carnival that's going to be in a couple of weeks for our school  /
+sd          A.31 utt4: {C and } I'm thinking that this has been <child> pretty, {D you know, } rainy season,  /
+sd          A.31 utt5: {C and } it's been kind of scary,  /
+sd          A.31 utt6: it's kind of been [ sc-, + ] cloudy every day,  /
+sd          A.31 utt7: {C and } <children>,   
+
+b          B.32 utt1:  Yeah. /  
+
++          A.33 utt1:  I thought, {D well, } I'm just not anxious to have worry about the weather. /  
+
+ b         B.34 utt1:  Yeah.  /
+sd          B.34 utt2:  {D Well, } my three and half year old, he really wants <children> to have the pool out in the backyard <laughter>, {D you know } --   
+
+b          A.35 utt1:  {D Well, } yeah. /  
+
++          B.36 utt1:  -- any day,  /
+sd          B.36 utt2: {E I mean } all Winter long <laughter> he's been wanting a pool in the backyard.  /
+sd          B.36 utt3:  {C So, } I'm hoping, {D you know, } that, - /
+sd          B.36 utt4: it just seems like the weather around here goes so quickly from being Winter to, {D you know, } muggy, and hot,  /
+sd          B.36 utt5: {C and } it's just you never really have like nice cool sixty-five or seventy degree weather with sunshine --   
+
+b          A.37 utt1:  Uh-huh. /  
+
++        B.38 utt1:  -- {D you know? }  /
+sd          B.38 utt2:  I really miss that,  /
+sd          B.38 utt3: I'm from Chicago originally,  /
+sd          B.38 utt4: {C and } I miss the  ((   ))  seasons [ that, + {D you know, } that ] we used to get up there that you just don't have down here. /  
+
+%          A.39 utt1:  {D Well, } I know in, {F um, } - /
+sd          A.39 utt2: I'm from Missouri  /
+sd          A.39 utt3: {C and } we always had pretty nice four seasons  /
+%          A.39 utt4: [ {C and, } + {C and } ] {D you know, } ex-, - /
+sd          A.39 utt5: we have some extreme weather in each season, /  
+
+b          B.40 utt1:  Yeah. /  
+
+%          A.41 utt1:  {C but, } {F uh, } I like that  /
+sd          A.41 utt2: {C and } we moved here from Houston [ in, + in, ] {F uh, } July  /
+sd(^q)          A.41 utt3: {C and } everyone kept saying, {F oh, } you're going up north it's not going to be so hot,  /
+^q          A.41 utt4: it's not going to be so humid, /  
+
+b          B.42 utt1:  Oh <laughter>. /  
+
+b          A.43 utt1:  Yeah,  /
+sd          A.43 utt2: that has just not been the case. /  
+
+b          B.44 utt1:  {F Oh, } really -- /  
+
+sd          A.45 utt1:  It --   
+
+b          B.46 utt1:  -- yeah. /  
+
++          A.47 utt1:  -- has been, -/  
+
+sd          B.48 utt1:  It's pretty hot here during the Summer <laughter> --   
+
+aa          A.49 utt1:  {F Oh } --   
+
++        B.50 utt1:  -- gosh. /  
+
++          A.51 utt1:  -- it was extremely hot,  /
+sd          A.51 utt2: I thought I was going to die,  /
+sd          A.51 utt3: my car, I thought it was going die last Summer  /
+%          A.51 utt4: {C but, } -/  
+
+qy          B.52 utt1:  Do have air conditioning in your car  /
+%          B.52 utt2: {C or, } -/  
+
+sd          A.53 utt1:  {D Well, } the air conditioning was  broke,  /
+%          A.53 utt2: {C but } broken, - /
+sv          A.53 utt3: I guess it just couldn't handle,   
+
+b          B.54 utt1:  Yeah. /  
+
++          A.55 utt1:  the stress, and [ the heat, + the record heat, ]  /
+sd          A.55 utt2: {C and, } {D you know, } I was worried about every time we came to an intersection <laughter> --   
+
+o@          B.56 utt1:   ((   )) .   
+
++          A.57 utt1:  -- the car started idling rough, {D you know, }   
+
+b          B.58 utt1:  Yeah. /  
+
++          A.59 utt1:  because --   
+
+b          B.60 utt1:  Yeah. /  
+
++          A.61 utt1:  -- of the extreme heat. /  
+
+b          B.62 utt1:  Yeah.  /
+sd          B.62 utt2:  I know, my husband doesn't have air conditioning in his car and [ he, + when he ] comes home from work, {D you know, } during the Summer --   
+
+b          A.63 utt1:  Uh-huh. /  
+
++          B.64 utt1:  -- [ he's just wa-, + ] he feels like he's burning like he's been baking for an hour <laughter>. /  
+
+ba          A.65 utt1:  {F Oh, } I # know. # /  
+
+fe          B.66 utt1:  # Gosh. # /  
+
+ba          A.67 utt1:  That's really awful,  /
+sd          A.67 utt2: [ {C but, } + {C but } ] I, {F uh, } understand that this is kind of typical for this time of year --   
+
+b          B.68 utt1:  Yeah. /  
+
++          A.69 utt1:  -- that rainy season. /  
+
+%          B.70 utt1:  What I hate is, - /
+sd          B.70 utt2: I hate having to water so much around here --   
+
+b          A.71 utt1:  Uh-huh. /  
+
++          B.72 utt1:  -- {D you know, }  /
+sd          B.72 utt2: we never used to have to water our lawns -- /  
+
+b          A.73 utt1:   No. /  
+
+sd          B.74 utt1:  -- {D you know } in Chicago it was always enough rain here and there -- /  
+
+b          A.75 utt1:  Sure. /  
+
+sd          B.76 utt1:  -- {C so } here if you don't water it just looks awful. /  
+
+sd          A.77 utt1:  Brown. /  
+
+sd          B.78 utt1:  I just hate to spend the money just going down the drain and watering grass, {D you know. } /  
+
+b          A.79 utt1:  Yeah.  /
+sv          A.79 utt2:  [ That is, + that is ] awful {C and } [ it, + it ] takes time  /
+sd          A.79 utt3: {C and } [ the, + the ] kids, they, - /
+sv          A.79 utt4: you have to water your lawn  /
+sv          A.79 utt5: {C and } they want to go out and run in it and  get all muddy,   
+
+b          B.80 utt1:  Yeah  /
+x          B.80 utt2: <laughter>.   
+
++          A.81 utt1:  {D You know, }  /
+qh          A.81 utt2: {C so } you're going do I want [ a di-, + a ] green lawn or a muddy feet <laughter>,   
+
+x          B.82 utt1:  <Laughter>.   
++          A.83 utt1:  in the house. /  
+
+b          B.84 utt1:  Yeah,  /
+sd          B.84 utt2: we have a dog too  /
+sd          B.84 utt3: {C so } that adds to it --   
+
+ ba         A.85 utt1:  {F Oh, } no <laughter>. /  
+
++          B.86 utt1:  -- {D you know, } traipse in and out with whatever the weather is like out there  /
+%          B.86 utt2: {C so, } -/  
+
+^h          A.87 utt1:  {D Well, } I don't know,  /
+ %         A.87 utt2: do, - /
+sd          A.87 utt3: the nice thing I'm looking forward to is, {F uh, } not having a hurricane  season. /  
+
+b          B.88 utt1: {F Oh, } yeah,  /
+qy^g          B.88 utt2: because Houston was really hurricane alley, wasn't it, /  
+
+x          A.89 utt1:  <Laughter>.   
+
+qy          B.90 utt1:  weren't there a lot of hurricanes there? /  
+
+ny          A.91 utt1:  Yes,  /
+sd^e          A.91 utt2: we always had, {F uh, } big concern about hurricanes,  /
+sd          A.91 utt3: {C and } they're close enough to the coast  /
+sd          A.91 utt4: {C and, } {D you know, } you had to have a supply like, {F uh, } emergency supply on hand all the time --   
+
+ba          B.92 utt1:  {F Oh, } boy. /  
+
++          A.93 utt1:  -- during the hurricane season,  /
+sd@          A.93 utt2: [ {C and, } + {C and } ] it was pretty spooky <laughter>.    
+
+aa          B.94 utt1:  Yeah,  /
+sd          B.94 utt2: that would be, -/  
+
++@          A.95 utt1:  because --   
+
+b          B.96 utt1:  Gosh. /  
+
++          A.97 utt1:  -- you always have to think, {D you know, } what's the weather doing, /  
+
+qy^d          B.98 utt1:  Keep the weather radio close by and stuff like that? /  
+
+na          A.99 utt1:  Right.  /
+sd          A.99 utt2:  {C And } do we have enough, {D you know, } {F um, } <lipsmack> food storage, and  enough, {F uh, } batteries and --   
+
+b          B.100 utt1:  Yeah. /  
+
++          A.101 utt1:  -- all the kinds of things. /  
+
+b          B.102 utt1:  Yeah,  /
+sd          B.102 utt2: {D really, } every time I store batteries, I wind up going to use them and  they're dead  /
+sd          B.102 utt3: <laughter> they've been stored so long. /  
+
+ba          A.103 utt1:  That's right. /  
+
+fe          B.104 utt1:  <Laughter> {F Oh, } boy. /  
+
+%          A.105 utt1:  {D So, } -/  
+
+sd          B.106 utt1:  {D Well, } now this is a little bit of relief, although they still have warnings all the time around here for, {D you know, } tornado season --   
+
+b          A.107 utt1:  Uh-huh. /  
+
++          B.108 utt1:  -- hurricanes and stuff,  /
+%          B.108 utt2: {C so, }    
+
+sd          A.109 utt1:  {D Well } --   
+
++          B.110 utt1:  I, -/  
+
++          A.111 utt1:  -- [ I, + {D yeah, } I ] don't really like tornadoes either, /  
+
+b          B.112 utt1:  Yeah. /  
+
+sd          A.113 utt1:  {C but, } {F uh, } at least there isn't, - /
+sd          A.113 utt2: [ we fe-, + I feel ] like I got rid of something, /  
+
+x          B.114 utt1:  <Laughter>.   
+
+sd          A.115 utt1:  hurricanes, - /
+sd          A.115 utt2: {C so, }    
+
+x          B.116 utt1:  <Laughter>.   
+
++          A.117 utt1:  not too much of that. /  
+
+b          B.118 utt1:  Yeah.  /
+sd          B.118 utt2:  {D Well, } I've been worried about mostly with having <child_talking> little kids now with taking them out in the Summer and getting them burnt up,  /
+sd          B.118 utt3: {E I mean } I have to keep the sun screen on them just constantly when they go outside --   
+
+b          A.119 utt1:  Yeah. /  
+
++          B.120 utt1:  -- because they say it's just so dangerous for little ones to get a bad sunburn -- /  
+
+%          A.121 utt1:  {C and } --   
+
+%          B.122 utt1:  -- {C so, } -/  
+
++          A.123 utt1:  -- it is, - /
+sd          A.123 utt2: {C and, } [ I just, + I ] can't believe [ the, + the ] record temperatures that --   
+
+b          B.124 utt1:  Yeah. /  
+
+ +         A.125 utt1:  -- [ have, + ] were here last Summer that, -/  
+
+sd          B.126 utt1:  a hundred and ten degrees  /
+%          B.126 utt2: {C and, } -/  
+
+sd          A.127 utt1:  {F oh, } it was just unbelievably hot. /  
+
+sd          B.128 utt1:  {C And } I can't stand to be outside at all when it's like that,  /
+sd          B.128 utt2: I just don't even want to go out, {D you know, } of the house to get the mail even <laughter>, /  
+
+x          A.129 utt1:  <Laughter>.   
+
+ad          B.130 utt1:  leave me in the air conditioning. /  
+
+aa          A.131 utt1:  That is pretty bad. /  
+
+sd          B.132 utt1:  We had our air conditioning [ broke, + break ] [ last + <laughter>, last ] Summer.  /
+sd          B.132 utt2:  The switch got something wrong with the switch  /
+sd          B.132 utt3: {C and } we had to call somebody out to fix it, because I couldn't take it more than a few hours without it on. /  
+
+ba          A.133 utt1:  {F Oh, } I know.  /
+ba          A.133 utt2: I can't imagine. /  
+
+b          B.134 utt1:  Yeah. /  
+
+%          A.135 utt1:  Even, - /
+%          A.135 utt2: {D well, } that would, - /
+sv          A.135 utt3: it is just pretty bad,  /
+sv          A.135 utt4: {C but } [ I guess, + {F um, } <lipsmack> I guess ] the weather hasn't changed too much from here to Houston  /
+%          A.135 utt5: [ {C and, } +   
+
+b          B.136 utt1:  Yeah. /  
+
++          A.137 utt1:  {C But ] } it is, - /
+sd          A.137 utt2: like you say coming a little bit further up north.    
+
+b          B.138 utt1:  Yeah,  /
+b^r          B.138 utt2: yeah. /  
+
++@          A.139 utt1:  It's a little bit nicer to have a Spring and a Fall season,   
+
+b          B.140 utt1:  Yeah. /  
+
++          A.141 utt1:  where you have some pleasant weather everyday where you can feel like you just want to open your windows  /
+%          A.141 utt2: {C and, } -/  
+
+aa          B.142 utt1:  Yeah,  /
+ba          B.142 utt2: that's really nice  /
+sd          B.142 utt3: I hate having to leave the house [ clo-, + {D you know, } closed ] up all the time. /  
+
+b          A.143 utt1:  Uh-huh. /  
+
+b          B.144 utt1:  Yeah. /  
+
+sd          A.145 utt1:  {C And } get some fresh air in the house  /
+sv          A.145 utt2: {C and, } it feels good  /
+%          A.145 utt3: [ {C but, } +   
+
+b          B.146 utt1:  Yeah. /  
+
++          A.147 utt1:  {C but, } ] I guess, -/  
+
+qy          B.148 utt1:  {D Well, } have you been here during the real heavy, heavy rains?  /
+sd          B.148 utt2:    {E I mean } I can't remember what time of year, - /
+sv          B.148 utt3: I think it's usually this time of year when we get some, just torrential down pours. /  
+
+nn          A.149 utt1:  No -- /  
+
+fe          B.150 utt1:  Gosh -- /  
+
+%          A.151 utt1:  -- {C but } I --   
+
+sd          B.152 utt1:  -- flooding. /  
+
++          A.153 utt1:  -- remember, -/  
+
+sd          B.154 utt1:  Our neighbors had flooding,   
+
+x          A.155 utt1:  <Breathing>.   
+
++          B.156 utt1:  so badly it was like a foot deep in their house last year. /  
+
+ba          A.157 utt1:  {F Oh, } no. /  
+
+sd          B.158 utt1:  They had to replace all their carpeting and everything,  /
+sd          B.158 utt2: it was miserable. /  
+
+ba          A.159 utt1:  {D Now, } that sounds awful. /  
+
+aa          B.160 utt1:  Yeah.  /
+sv          B.160 utt2:  That would not be fun. /  
+
+sd          A.161 utt1:  {D Now, } I have seen those.  /
+sd          A.161 utt2:  I have driven around in the neighborhoods and seen those little flood gauges --   
+
+b          B.162 utt1:  Uh-huh. /  
+
++          A.163 utt1:  -- that will be at little yellow signs,  /
+ sd         A.163 utt2: it's, {D you know, }  has it like from one foot to four foot  /
+sd          A.163 utt3: {C and } I thought I would never buy a house --   
+
+b          B.164 utt1:  <Laughter> {F Oh, } really. /  
+
++          A.165 utt1:  -- with a flood gauge down the street. /  
+
+b          B.166 utt1:  {F Oh, } gosh,  /
+ba          B.166 utt2: no kidding.  /
+qh          B.166 utt3: Talk about asking for trouble, {F huh? } /  
+
+aa          A.167 utt1:  Yeah,  /
+sd          A.167 utt2: that would be awful. /  
+
+b          B.168 utt1:  Yeah,  /
+b^r          B.168 utt2: yeah. /  
+
+fc          A.169 utt1:  {D Well, } I've got some kids out on the trampoline I need to go look and see what they're doing. /  
+
+fc          B.170 utt1:  Okay,  /
+fc          B.170 utt2: {D well, } have a good day. /  
+
+fc          A.171 utt1:  {D Well, } you too. /  
+
+fc          B.172 utt1:  Thanks.  /
+fc          B.172 utt2: # Bye-bye. # /  
+
+fc          A.173 utt1:  # Bye-bye. # / 

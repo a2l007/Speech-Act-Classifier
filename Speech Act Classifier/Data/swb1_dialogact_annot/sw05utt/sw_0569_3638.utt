@@ -1,0 +1,262 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3638_1451_1409
+TOPIC#:		307
+DATE:		911229
+TRANSCRIBER:	glp
+UTT_CODER:	stm
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+sd          A.1 utt1:  {F Uh, } {D well, } {F uh, } the Cowboys are my favorite team.  /
+sd          A.1 utt2: That's pretty easy to say nowadays <laughter>. /  
+
+x          B.2 utt1:  <Laughter>. 
+
+sd          A.3 utt1:  Lot easier than it was a couple years ago,  /
+sd          A.3 utt2: {C but } they had a big win today.  /
+qy          A.3 utt3: {F Uh, } did you get to watch it? /  
+
+nn          B.4 utt1:  No,  /
+sd^e          B.4 utt2: I didn't.  /
+sd          B.4 utt3: I, {F uh, } have been at my computer all day  /
+%          B.4 utt4: {C so, } -/  
+
+b          A.5 utt1:  Oh.  /
+qy          A.5 utt2: Are you a Cowboy fan? /  
+
+no          B.6 utt1:  {D Well, } I used to be a real big Cowboy fan  /
+sd          B.6 utt2: [ {C and, } + {C and, }  ] {F uh, } I'm not a Jimmy Johnson fan. /  
+
+x          A.7 utt1:  <Laughter>.  
+
+sd          B.8 utt1:  <Laughter> Being an Okie <laughter> --   
+
+aa          A.9 utt1:  Right,  /
+aa          A.9 utt2: yeah. /  
+
++          B.10 utt1:  -- I just really don't care much, {F uh, }  /
+sd          B.10 utt2: [ it's, + it's  ] kind of hard not to be a Cowboy fan, though. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1:  They've always been, {D you know, } my favorite. /  
+
+b          A.13 utt1:  Right. /  
+
+sd          B.14 utt1:   [ [ {C But, } +  {F uh, }  {C and } ] +  --    
+
+b          A.15 utt1:  Yeah. /  
+
++          B.16 utt1:  -- {C and } ] I guess I still have a soft spot.  /
+sd          B.16 utt2:  I just hate that that's the coach <laughter> --    
+
+aa          A.17 utt1:  Right. /  
+
++          B.18 utt1:  -- that's leading them. /  
+
+b          A.19 utt1:  Right. /  
+
+%          B.20 utt1:  {C So, } now  have they, - /
+qy^g          B.20 utt2: they're  in the playoffs, right? /  
+
+ny          A.21 utt1:  Yeah,  /
+sd^e          A.21 utt2: they made it to the playoffs finally  /
+sd          A.21 utt3: {D like } just, {D you know, } two years ago they were one and fifteen.  /
+sd          A.21 utt4: They won {D like } just one game  /
+sd          A.21 utt5:  {C and so } pretty fast turnaround.  /
+sd          A.21 utt6: {C But } this year they made it to playoffs  /
+sd          A.21 utt7: {C and } today was the first game  /
+sd          A.21 utt8: {C and } they beat the Chicago Bears  /
+sd          A.21 utt9: {C so } everybody's really going crazy,  {D you know, } down here. /  
+
+ba          B.22 utt1:  I'll bet they are. /  
+
+sd          A.23 utt1:  <Laughter> They're going crazy,  /
+sd          A.23 utt2: [ {C so, } + {C so } ] they turned it around,  /
+sd          A.23 utt3: {C but, }  {D you know, } they have a lot of young exciting players now, {F uh, }  /
+sd          A.23 utt4: {E I mean, } everybody was real upset, {D you know, } when they fired Tom Landry,  /
+sd          A.23 utt5: {C but, } {D you know, } now it's like, {D you know, } they're doing good so everybody's forgotten <laughter> about that. /  
+
+sv          B.24 utt1:  {F Uh, } football fans are probably the most fickle people in the world. /  
+
+b          A.25 utt1:  Uh-huh. /  
+
+sd          B.26 utt1:  Hit a bad season  /
+sv          B.26 utt2: {C and } it's, {D you know, } the coach's fault,  /
+sv          B.26 utt3: [ let's, + let's ] dump him. /  
+
+aa          A.27 utt1:  Right. /  
+
+sv          B.28 utt1:  First good season, the coach can do no wrong. /  
+
+aa          A.29 utt1:  Right,  /
+aa          A.29 utt2: exactly.    
+
+sd          B.30 utt1:  {C But } [ they +  --    
+
++          A.31 utt1:  {D You know. } /  
+
++          B.32 utt1:  -- Dallas ] has always been good ahead, {D you know, } heading good players and --   
+
+b          A.33 utt1:  Uh-huh. /  
+
++          B.34 utt1:  -- both [ running, + running ] backs [ and, + and ] defense. /  
+
+b          A.35 utt1:  Right,  /
+b          A.35 utt2: yeah,  /
+sd          A.35 utt3: {F uh, } {D you know, } they have a young team.  /
+sv         A.35 utt4:  It's, {D you know, } a lot different than the teams they used to have where it's the same old, {D you know, } players every year and, {D you know, } same coach, same everything,  /
+sv         A.35 utt5: {C so, } now it's, {D you know, } like a taste of something different.  /
+sv         A.35 utt6: They're all not, {D you know, } mister nice guys like they used to be. /  
+
+x          B.36 utt1:  <Laughter>.  
+
+sv          A.37 utt1:  Now it's {D like, } {D you know, } tough and dirty team  /
+sd          A.37 utt2: {C so } everybody is really excited.  /
+%          A.37 utt3: {C And, } -/  
+
+qw          B.38 utt1:  Who is the competition going to be? /  
+
+sd          A.39 utt1:  {D Well, } it's supposed to be the Redskins, but {D you know, } we beat them already.  /
+sd          A.39 utt2: We beat them this year [ in, + in  ] Washington  /
+sd          A.39 utt3: [ {C so, } + {D you know, } {C so }  ] everybody has the feeling like we can go all the way to the Super Bowl,  /
+sd          A.39 utt4: {C but, } {D you know, } it's just that we have to play every game away, {D you know, }  /
+sv          A.39 utt5: it's going to be tough,  /
+%          A.39 utt6:  [ {C but, } + {C but }  ] every-, - /
+sd          A.39 utt7: the competition [ is, + are  ] teams that they've already beat this year,  /
+sd          A.39 utt8: {C so, } {E I mean, } Atlanta, they're in it, too,  /
+sd          A.39 utt9: {C and } we beat them  /
+sd          A.39 utt10: {C and, } {F uh, } {D see, } Detroit, we play them next week,  /
+sv          A.39 utt11: {C but, } {D you know, } we should beat them.  /
+sv          A.39 utt12: Everybody feels like we should be able to beat them  /
+sv          A.39 utt13: [ {C so, } it's, +  {C so } everything's, ]  {F uh, } looking real good. /  
+
+sv          B.40 utt1:  Course, I think, {D you know, } you can't really go by what happened earlier in the season --   
+
+b          A.41 utt1:  Uh-huh. /  
+
++@          B.42 utt1:  -- because teams jell together or they've had --   
+
+b          A.43 utt1:  Right. /  
+
++          B.44 utt1:  -- injuries that heal  /
+sd          B.44 utt2: [ {C and, } {D you know } --   
+
+b          A.45 utt1:  Right. /  
+
++          B.46 utt1:  --  it can be a tot-, +   {A or injuries that, {F uh, } have newly happened } --   
+
+b          A.47 utt1:  Right. /  
+
++          B.48 utt1:  -- {C and } it could be almost a totally ] new team out there than the one we played. /  
+
+b          A.49 utt1:  Yeah,  /
+sd          A.49 utt2: {D well } the Cowboys are on a roll.  /
+sd         A.49 utt3:  They've won, {D like, } I think six or  seven in a row now,  /
+sd          A.49 utt4: {C so } they're supposed to be the hottest team [ in the, + in the  ] league going into the playoffs  /
+%          A.49 utt5: {C so, } -/  
+
+%          B.50 utt1:  [ {C But, } + {C but } ] since you have an O U drop out   <laughter> as a quarterback, -/  
+
+b          A.51 utt1:  Right,  /
+b          A.51 utt2: yeah,  /
+sd          A.51 utt3: Troy Aikman,  /
+sd          A.51 utt4: he got hurt at O U,  /
+sd          A.51 utt5: {C so } he transferred --   
+
+sd          B.52 utt1:  [ {D Well, } +     
+
++         A.53 utt1:  -- to U C L A. /  
+
++          B.54 utt1:  {D Well, } ] [ he, + he  ] really didn't feel like he'd be able to do a lot of passing at O U. /  
+
+b          A.55 utt1:  Right. /  
+
+sd          B.56 utt1:  O U has always been known for their running game. /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+%          B.58 utt1:  More than, -/  
+
+sd          A.59 utt1:  They're playing tonight in fact. /  
+
+b          B.60 utt1:  Right. /  
+
+sd          A.61 utt1:  I'm watching them on T V right now.  /
+sd          A.61 utt2: {C But } they're doing some stomping on <laughter> Virginia. /  
+
+^h          B.62 utt1:  {F Oh, } I tell you,  /
+sv          B.62 utt2: [ they've, + they've  ] not had much of a team this year, bless their little hearts <laughter>. /  
+
+bh          A.63 utt1:  Really?  /
+sd          A.63 utt2: {D Well, } they're doing good tonight. /  
+
+qy          B.64 utt1:  Are they? /  
+
+ny          A.65 utt1:  Yeah -- /  
+
+sd          B.66 utt1:  I haven't --   
+
+sd          A.67 utt1:  -- [ they're winning. +   
+
++          B.68 utt1:  -- been watching. /  
+
++          A.69 utt1:  They're winning  ] forty-one to seven. /  
+
+ba          B.70 utt1:  {D Well, } good --   
+
+b          A.71 utt1:  Yeah. /  
+
++          B.72 utt1:  -- for us <laughter>. /  
+
+b          A.73 utt1:  Right. /  
+
+b          B.74 utt1:  Oh. /  
+
+b          A.75 utt1:  {C But, } yeah,  /
+%          A.75 utt2: {C and, } {F uh, } that's right,  /
+sd          A.75 utt3: Aikman did go to O U.  /
+sd          A.75 utt4: I forgot about that. /  
+
+b          B.76 utt1:  Yeah,  /
+%          B.76 utt2: they h-, - /
+sd          B.76 utt3: then he went out [ to S, + to southern Cal. ]  /
+qy          B.76 utt4: Is that where he went? /  
+
+ny          A.77 utt1:  Yeah,  /
+sd^e          A.77 utt2: {F uh, } U C L A. /  
+
+b          B.78 utt1:  Yeah. /  
+
+b          A.79 utt1:  Yeah. /  
+
+%          B.80 utt1:  {D So, } -/  
+
+sd          A.81 utt1:  {C But, } the Cowboys did good today.  /
+sd          A.81 utt2: {E I mean, } I was proud.  /
+sd          A.81 utt3:  [ I thought, + I thought ] they would get beat today because, {E I mean } they're so young, {D you know, }  /
+%          A.81 utt4:  playoffs, -/ 

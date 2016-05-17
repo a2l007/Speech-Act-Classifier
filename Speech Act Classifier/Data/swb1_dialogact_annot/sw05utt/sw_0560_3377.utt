@@ -1,0 +1,230 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3377_1426_1422
+TOPIC#:		362
+DATE:		911109
+TRANSCRIBER:	LAB
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:        Background noise on Speaker A
+
+==========================================================================
+  
+
+sd          A.1 utt1:    {F Uh, } I guess I've always kind of liked golf.  /
+sd          A.1 utt2: [ I, + I  ] worked on a golf course [ at, + at  ] one time  /
+sd          A.1 utt3: {C and } that's how I picked up golf.  /
+h          A.1 utt4: {C And, } {F uh, } I don't know  /
+sv          A.1 utt5: it's just [ a, + kind of a  ] challenging game. /  
+
+aa          B.2 utt1:   It sure is.  /
+sd          B.2 utt2: I play at least three times a week. /  
+
+b          A.3 utt1:   Uh-huh. /  
+
+sd          B.4 utt1:   I'm on it, /  
+
+sd          A.5 utt1:   I haven't gotten the chance lately though to play.  /
+sd          A.5 utt2: I'm trying to get back into it.  /
+sd          A.5 utt3: {F Uh, } {C so, } {F uh, } I got to start all over again.  /
+sv          A.5 utt4: It's not like riding a bicycle.  /
+sv         A.5 utt5: You do tend to,   
+
+aa          B.6 utt1:   No. /  
+
++          A.7 utt1:   forget. /  
+
+sd          B.8 utt1:   {D Well, } I'm one of those rare left-handed golfers. /  
+
+b          A.9 utt1:   <<Very faint>>  Oh.  /
+b          A.9 utt2: Yeah. /  
+
+sd          B.10 utt1:   {C And } I do enjoy playing. /  
+
+qw          A.11 utt1:   <Throat_clearing>  What is your handicap? /  
+
+sd          B.12 utt1:   Right now it's three. /  
+
+bk          A.13 utt1:   Okay.  /
+sd          A.13 utt2: {F Uh, } I was down at about four or five quite awhile ago.  /
+sd          A.13 utt3: It's probably up there to twenty now if I  ((   ))  [ to + ] start again. /  
+
+sv          B.14 utt1:   {D Well, } if you play with some consistency though, you can get it right back down. /  
+
+b          A.15 utt1:   Yeah.  /
+b^r          A.15 utt2:  Yeah.  /
+sd          A.15 utt3:  I have got to try and get out there.  /
+sd          A.15 utt4: [ I, + I ] know with [ our, + our  ] long winters [ I, + I  ] enjoy watching it.  /
+sd          A.15 utt5: I don't know if it's just because I like the game or I just like [ to, + to  ] see the warm weather. /  
+
+sd          B.16 utt1:   {F Uh, } {D well, } we can usually play here year around.  /
+sd          B.16 utt2: Sometimes in January it's not too comfortable to play. /  
+
+b          A.17 utt1:   Uh-huh. /  
+
+sv          B.18 utt1:   {C But } there is usually two or three days in the week that you can get out there and play,  /
+sd          B.18 utt2: {C and } I'm pretty much addicted to golf,  /
+sd          B.18 utt3: {C so. } I get out there one way or the other. /  
+
+b          A.19 utt1:   <Throat_clearing>  Yeah,  /
+sd          A.19 utt2: that's the problem out here with the long layovers with the winter  /
+sd          A.19 utt3: you almost have to relearn every spring <laughter> [ to, + to  ] get back out. /  
+
+sv          B.20 utt1:   It's a good game though.  /
+sv          B.20 utt2: It's very challenging  /
+sd          B.20 utt3: {C and } the reason I like it so much is because I'm essentially playing against myself. /  
+
+b          A.21 utt1:   Yeah. /  
+
+sd          B.22 utt1:   That's the way I look at it.  /
+sd          B.22 utt2:  [ I, + I  ] play [ in, + in  ]  [ lo-, + a lot  ] of groups  /
+sd          B.22 utt3: [ {C and } + {C but }  ] [ I, +  they ] keep score   [ and, + ] between themselves  /
+sd          B.22 utt4: {C but } I really don't care.  /
+sd          B.22 utt5: {F Um, } I go out  /
+sd          B.22 utt6: {C and } each shot I say, {D well, } this is what I'm going to try to do -- /  
+
+b          A.23 utt1:   Uh-huh. /  
+
+sd          B.24 utt1:   -- {C and then } I see how close I can come to that. /  
+
+aa          A.25 utt1:   Right.  /
+aa          A.25 utt2:  Yeah,  /
+bf          A.25 utt3: you always work on trying to improve each day  /
+%          A.25 utt4: {C and, } -/  
+
+b          B.26 utt1:   Yeah,  /
+sd          B.26 utt2: {C and } [ i-, + inevitably  ] one facet of my game isn't working at one time or another.  /
+sd          B.26 utt3: Either I'm not driving very well  /
+sd          B.26 utt4: {C or } I'm not hitting long irons very well  /
+sd          B.26 utt5: {C or } I'm not putting well  /
+sd          B.26 utt6: [ {C or, } + {C but }  ] sometimes it all comes together. /  
+
+aa          A.27 utt1:   Yeah.  /
+aa          A.27 utt2:  Yeah,  /
+aa          A.27 utt3: I know what you mean.  /
+sd          A.27 utt4:  [ I, + when I  ] used to golf out there I'd putt well but [ I, + I  ] wouldn't, {F uh, } chip well.  /
+sd          A.27 utt5: One of the two, {F uh, }  /
+sd          A.27 utt6: {C or } something would go wrong  /
+sd          A.27 utt7: {C but } I always managed [ to, +  to  ] get near par anyway. /  
+
+sd          B.28 utt1:   {D Well, } we just had the tour championship here in Pine Hurst. /  
+
+b          A.29 utt1:   Oh. /  
+
+sd          B.30 utt1:   {C And } I went to that.  /
+sd          B.30 utt2:  Craig  (( Statler ))  won in a playoff. /  
+
+b          A.31 utt1:   Uh-huh. /  
+
+%          B.32 utt1:   {C But } we, {F uh, } - /
+sd          B.32 utt2: this is a big golf area. /  
+
+b          A.33 utt1:   Yeah. /  
+
+%          B.34 utt1:   We have a lot of, {F uh, } - /
+sd          B.34 utt2: I'd say we probably have <breathing> within fifteen miles, twenty golf communities built around courses that are pretty well designed and then of course, Pine Hurst  /
+sd          B.34 utt3: {C and } we still have the  (( Greensboro ))  Open here every year. /  
+
+b          A.35 utt1:   Uh-huh.  /
+qy          A.35 utt2:  Do you have, {F uh, } long waits, {F uh, } to get on the course? /  
+
+ny          B.36 utt1:   Yes,  /
+sd^e          B.36 utt2: we do as a matter of fact.  /
+sd        B.36 utt3:  [ [ It, + it, ] + {F uh, } it's  ] only been that way in the last five years. /  
+
+b          A.37 utt1:   Yeah. /  
+
+%          B.38 utt1:   {C But } now you, {F uh, } - /
+sd          B.38 utt2: most of the courses have a, {F uh, } two day advance tee time you have to call, /  
+
+b          A.39 utt1:   Yeah.  /
+b          A.39 utt2:  Okay.  /
+sd          A.39 utt3:  I just moved into this small community  /
+sd          A.39 utt4: {C so } I'm going to try and get into one of the golf courses here. /  
+
+x          B.40 utt1:   <Cough>.  
+
+%          A.41 utt1:   I'm hoping that won't be,   
+
+x          B.42 utt1:   <Cough>. 
+
++          A.43 utt1:  cou-, - /
+sd          A.43 utt2: I,   
+
+x          B.44 utt1:   <Cough>. 
+
++          A.45 utt1:  was from the, {F uh, }   
+
+x          B.46 utt1:   <Cough>.  
+
++          A.47 utt1:  twin cities area. /  
+
+qy^g          B.48 utt1:   <Cough> That's some cold golf too, isn't it? /  
+
+ny          A.49 utt1:   Yeah <laughter>. /  
+
+x          B.50 utt1:   <Cough>. 
+
+qy          A.51 utt1:   Are you sure you guys aren't having the bad weather? /  
+
+no          B.52 utt1:   <Cough> We have cold. /  
+
+b          A.53 utt1:   Yeah. /  
+
+sd          B.54 utt1:   Usually January and the first two weeks of February. /  
+
+ba          A.55 utt1:   {D Well, } I wish that's all we had. /  
+
+sd          B.56 utt1:   {C But, } {F uh, } last week we were in the seventies.  /
+sd          B.56 utt2: Something is coming through now  /
+sd          B.56 utt3: {C so } it's like in the low forties right now. /  
+
+b          A.57 utt1:   Oh. /  
+
+sd          B.58 utt1:   {C But, } {F uh, } it's supposed to leave early in the week and then be back in the sixties.  /
+sd          B.58 utt2: We have very windy winters --   
+
+b          A.59 utt1:   <Cough>  Yeah <noise>. /  
+
++          B.60 utt1:  -- <Cough> and very cold.  /
+sd          B.60 utt2: {C But } we don't get any snow anymore.  /
+sd          B.60 utt3:  [ I don't, + I don't  ] know what changed that pattern.  /
+sd          B.60 utt4: We used to get four or five inches a year.  /
+sd          B.60 utt5: Now we get nothing.  /
+sd          B.60 utt6: It's been probably five years since we've had any measurable snowfall. /  
+
+b          A.61 utt1:   I see.  /
+sv          A.61 utt2: {D Well, } at least [ it, + that  ] doesn't, {F uh, } get in the way of golfing  /
+%          A.61 utt3: {C so } that <noise>, -/  
+
+aa          B.62 utt1:   No,  /
+sd@          B.62 utt2: {C but } I have played golf in the snow before.    *[[slash error]]
+
+b          A.63 utt1:   <Noise>  Yeah. /  
+
++          B.64 utt1:   Get out my orange golf ball and go out. /  
+
+b          A.65 utt1:   <Laughter>  Yeah,  /
+sd          A.65 utt2: that's what they do here sometimes.  /
+sd          A.65 utt3:  You hear about it where they will take the orange ball out there  /
+%          A.65 utt4: {C but, } if you got, -/ 

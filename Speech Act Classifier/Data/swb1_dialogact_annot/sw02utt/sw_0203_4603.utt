@@ -1,0 +1,163 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4603_1199_1540
+TOPIC#:		327
+DATE:		920407
+TRANSCRIBER:	nk
+UTT_CODER:	mlg
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        B dominated the conversation and did not speak clearly at 
+times.
+
+============================================================================
+  
+
+o          B.1 utt1:  Okay.  /
+ad          B.1 utt2:  Go ahead. /  
+
+sv          @A.2 utt1:  {F Uh, } {D well, } {D you know, } {F uh, } I think public service is a worthy thing  /
+sd          @A.2 utt2: {C and } as a matter of fact there are a lot of programs, {F uh, } such as Peace Corps that promote that. /  
+
+b          B.3 utt1:  Uh-huh <<faint>>. /  
+
+sv          A.4 utt1:  Probably the most popular one but, {F uh, } one that is not typically recognized as such is the Boy Scouts. /  
+
+%          B.5 utt1:  {F Huh } <<faint>>. /  
+
+sd          A.6 utt1:  {F Uh, } I know that [ f-, + ] because  my son is [ a, + a ] scout now and, {F uh, } is thinking about his Eagle  /
+sd          A.6 utt2: {C and, }  {F uh, } in order to get Eagle, you have to have merit badges in, {F uh, } citizenship in the community --   
+
+b          B.7 utt1:   (( Right )) . /  
+
++          A.8 utt1:  -- citizenship in the nation, citizenship in the world  /
+sv          A.8 utt2: {C and } you have to do a public service project.          
+
+b          B.9 utt1:  Uh-huh. /  
+
++          A.10 utt1:  {F Uh, } in which leadership is the key element.  /
+sv          A.10 utt2: [ I, + {F uh, } <<pause>> <lipsmack> I ] think the question is posed somewhat strangely because, {F uh, } it's talking about a requirement for --   
+
+b          B.11 utt1:   (( Uh-huh ))  <<very faint>>. /  
+
++          A.12 utt1:  -- public service  /
+sd          A.12 utt2: {C and, }  of course, [ Pe-, + the Peace ] Corps, the Boy Scouts [ is a, o-, + is a ] voluntary activity. /  
+
+b          B.13 utt1:  Right. /  
+
+%          A.14 utt1:  {F Uh, } /  
+
+sv          B.15 utt1: [ I, + I ] think that might be [ talking, + referring ] to, {F uh, } something, kind of, {F uh, } alternative to the draft, {D you know. }  /
+sv          B.15 utt2:  Either you have, {F uh, } military service or  some sort of alternative, nonmilitary service # for a few years. # /  
+
+b          A.16 utt1:  # Right,  /
+sv          A.16 utt2: of course, # {F uh, } {F uh, } military service falls under the category, {F uh, } of a public service. /  
+
+b          B.17 utt1:  Right,  /
+b^r          B.17 utt2: right. /  
+
+sv          A.18 utt1:  {C And, so, } {F uh, } one of the things that would fulfill [ the, + at least the ] nominal, {F uh, } qualifications set forth in the charge is military service or  draft. /  
+
+b          B.19 utt1: (( {F Huh } )) .  Right,  /
+b^r          B.19 utt2: right. /  
+
+%         A.20 utt1:  {F Uh, }  /
+aa          A.20 utt2: {C but } I agree with you, that probably is not what was comprehended.  /
+sd          A.20 utt3: # There are other # --   
+
+%          B.21 utt1:  # {D Well, } i-, # -/  
+
++          A.22 utt1:  -- things such as civil service --   
+
+b          B.23 utt1:  Uh-huh. /  
+
++          A.24 utt1:  -- {F uh, } which many people, {F uh, } are lifelong employees of -- /  
+
+b          B.25 utt1:  Right. /  
+
+sv          A.26 utt1:  -- {C but } I suspect that was not what they had in mind either.  /
+sv          A.26 utt2: # More # --   
+
+b          B.27 utt1:  # Yeah. # /  
+
++          A.28 utt1:  -- of a voluntary kind # of thing  /
+%          A.28 utt2: {C or, }  {F uh, } # -/  
+
+b          B.29 utt1:  # Yeah,  /
+b^r          B.29 utt2: yeah  /
+%          B.29 utt3: # [ i-, + i-, ] - /
+sd          B.29 utt4: [ for, + for ] years there has been an idea batted around of having some sort of alternative, {F uh, } public service for, {F uh, } young people to go into, {F uh, } after high school. /  
+
+b          A.30 utt1:  Uh-huh. /  
+
+sd          B.31 utt1: {F Uh, } kind of in lieu of the draft [ for, + for ] people [ who don't, + {F uh, } who, {D you know, } are ] conscientious objectors or don't otherwise want [ [ e-, + e-, ] + to be ] in the military, {D you know. }  /
+sd(^q)          B.31 utt2: {D Say, }  okay,  /
+^q          B.31 utt3: {D well } you can go into the military  /
+^q          B.31 utt4: {C or } you can do this other thing for one or two years to kind of serve the community [ and, + and ] learn about things.  /
+sv          B.31 utt5: {C And } [ i-, + it's ] interesting because [ I, + I'm ] not a particular fan of the military  /
+sd          B.31 utt6: {C but } I have seen [ a lot of people, + a lot of young guys ] go in that don't have really a clue as to what they want to do with their lives and aren't terribly disciplined, {D you know, } even just personal discipline about what they want to do  /
+sd          B.31 utt7: {C and } they come out  /
+sv          B.31 utt8: {C and } [ [ they, + they at least have, ] + now they have at least ] some marginally marketable skills and more discipline.  /
+sv          B.31 utt9: {C And } [ they have, + {F uh, } {D you know, } [ in, + in ] some cases they have ] a greater self-esteem because [ they can say, + they can see ] that, {D you know, } if I do something or [ sub-, + submit  ] my own will to the will of the sargent or whatever, at least for a short period of time, I can accomplish a lot  /
+sv          B.31 utt10: {C and } [ it, + it's ] a good lesson for a lot of young men to learn.  That they don't need to be, {D you know, } cowboys.  /
+sv          B.31 utt11: They don't need to be out there [ and, + ] {F uh, } {D you know, } constantly flaunting their ego to get things accomplished. /  
+
+x          A.32 utt1:  # <Laughter>. #   
+
+sv          B.33 utt1:  # {C And, } {D you know, } # [ for some, + for some ] young men, that's good.  /
+sd          B.33 utt2: For me, it would have been lousy [ i-, + idea, ] {F uh, } # because # --   
+
+qo          A.34 utt1:  # Why? # /  
+
++          B.35 utt1:  -- [ I, + I ] did have [ th-, + the ] personal discipline.  /
+sd          B.35 utt2:  {C And } # I went # --   
+
+qo          A.36 utt1:  # Why is that? # /  
+
++          B.37 utt1: -- to college for four years and got out, {D you know, }  /
+sv          B.37 utt2:  [ {C so. } + {C But, } ] {F uh, } {D you know, } for some people that's good.  /
+sd          B.37 utt3: [ I, + I ] don't particular like the fact that it's the military, {D you know, }  /
+sv          B.37 utt4: (( )) {C and } the whole point of the military is to kill people essentially. [ As, + as ] an instrument of U S # policy. # /  
+
+ar          A.38 utt1:  # {F Oh, } no,  /
+ar^r          A.38 utt2: # no,  /
+ar^r          A.38 utt3: no.  /
+sv          A.38 utt4:  It's to defend the nation against external evils. /  
+
+sv          B.39 utt1:  <Snorting> {D Well, } that's one view <laughter>.  /
+sd          B.39 utt2:   (( [ [ {C And, } +  ))  {C and, } ] + {D you know, } {C and } ] [ that, + that's ] another debate.  /
+%          B.39 utt3:   {C But, }  {F uh, } it's, {F uh, } -/  
+
+sv          A.40 utt1:  {D Well, } it depends on [ whether you, + whether we ] figure [ that we have + that we have ] a defense oriented military or --   
+
+b          B.41 utt1:  Uh-huh. /  
+
++          A.42 utt1:  -- an [ aggressive, + aggression ] oriented military. /  
+
+b          B.43 utt1:  Right,  /
+b^r          B.43 utt2: right <<faint>>  /
+sv          B.43 utt3: {C and, }  {D well, } [ [ it's, + it, ] + it ] seems pretty [ aggre-, + aggressive ] oriented,  /
+sd          B.43 utt4: {E I mean, } [ you, + you ] look at the last [ mis-, + military ] action which was in the Persian Gulf and wasn't anywhere near the United States  /
+sv          B.43 utt5: {C and } [ it was, + {F uh, } {D you know, } it was ] definitely a projection of U S power on the other side of the globe,  /
+sd          B.43 utt6: {C so, } [ at, + at ] any rate, this is getting off the topic  /
+%          B.43 utt7: {C but } i-, - /
+sv          B.43 utt8:  [ my, + my ] point was that [ there is, + for people who don't want to do the military service, [ there, +  it would be neat if there ] were ] an alternative that could instill the same sort of personal discipline and sense of purpose and, {F uh, } sense of community that the Boy Scouts, -/ 

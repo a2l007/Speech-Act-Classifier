@@ -1,0 +1,314 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3464_1446_1438
+TOPIC#:		348
+DATE:		911206
+TRANSCRIBER:	glp
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+qw          A.1 utt1:  {F Uh, } which ones have you seen lately? /  
+
+sd          B.2 utt1:  {F Oh, } I just sort of blanking tonight.  /
+sd          B.2 utt2:  I just got done saying I just saw one, {F uh, } fairly recently.  /
+sd          B.2 utt3:  {F Uh, } {F oh, } gosh, {F oh, }  I know, {F uh, } {F uh, } the one with the two girls that take off from, {F uh, } {F uh, }  [ [ a-, + across, ] + across ] the country on a crime spree. /  
+
+sd          A.3 utt1:  THELMA AND LOUISE, /  
+
+b^m          B.4 utt1:  THELMA AND LOUISE,  /
+aa          B.4 utt2: yeah. /  
+
+b          A.5 utt1:  Yeah.  /
+sd          A.5 utt2:  I haven't seen that.  /
+qy          A.5 utt3: Is it good? /  
+
+ny          B.6 utt1:  Yeah,  /
+sd^e          B.6 utt2: it really is,  /
+sv          B.6 utt3: [ it's, + it's ] interesting. /  
+
+bh          A.7 utt1:  Is it? /  
+
+ny          B.8 utt1:  {F Oh, } yeah,  /
+sd^e          B.8 utt2: I enjoyed it.  /
+sd          B.8 utt3:   I was going to go see, {F uh, } the Billy Crystal movie, also, which was, - /
+sd          B.8 utt4: I'm a little bit behind.  /
+sd          B.8 utt5:  I usually rent them <laughter>. /  
+
+b          A.9 utt1:  Yeah,  /
+sd          A.9 utt2: [ I, + I'm ] not familiar.  /
+qw          A.9 utt3: [  Which, + which ] Billy Crystal movie? /  
+
+sd          B.10 utt1:  {F Oh, } this is the, - /
+sd          B.10 utt2: {F uh, } just the one, {F oh, } - /
+fe          B.10 utt3:  gosh, - /
+sd          B.10 utt4: it was the, {F uh, }   
+
+^2          A.11 utt1:  {F Oh, } CITY SLICKERS, /  
+
++          B.12 utt1:  CITY SLICKERS,  /
+aa          B.12 utt2: right. /  
+
+sv          A.13 utt1:  That's a real good show. /  
+
+qy          B.14 utt1:  Have you seen that? /  
+
+ny          A.15 utt1:  Yeah,  /
+sv^e          A.15 utt2: it's great.  /
+sv          A.15 utt3: {F Uh, } it says a lot about,    {F uh, } {F uh, } {D you know, } - /
+sd          A.15 utt4: [ I, + I'm ] young,  /
+sv          A.15 utt5: {C  but } it says a lot about middle life --   
+
+b          B.16 utt1:  Uh-huh. /  
+
++          A.17 utt1:  -- {D you know, }  /
+sv          A.17 utt2:  {C and, } {F uh, } {F uh, } it's a really good show. /  
+
+b          B.18 utt1:  Yeah,  /
+sd          B.18 utt2: [ [ I, + I, ] + I've ]  heard lots of good things about it  /
+sd          B.18 utt3: {C and } I [ would have, + would have ] liked to have seen it,  /
+sd          B.18 utt4: {C but } I was with my wife  /
+sd          B.18 utt5:  {C and } I figured she'd like  THELMA AND LOUISE better  /
+%          B.18 utt6: {C so, } -/  
+
+b          A.19 utt1:  Yeah. /  
+
+sd          B.20 utt1:  {C And } I'd heard it was really good, too  /
+%          B.20 utt2: {C so, } -/  
+
+b          A.21 utt1:  Yeah.  /
+%          A.21 utt2:  {F Uh, } <throat_clearing> yeah,  /
+sd          A.21 utt3:  I'm not too familiar with THELMA AND LOUISE.  /
+sd          A.21 utt4:  {F Uh, } <throat_clearing> {F uh, } {F uh, } recently  [ I, + I've ] seen, {F uh, } the FISHER KING.  /
+qy          A.21 utt5:  Have you seen that? /  
+
+nn          B.22 utt1:  No. /  
+
+sv          A.23 utt1:  It's a really good show. /  
+
+b          B.24 utt1:  Okay. /  
+
+sd          A.25 utt1:  {F Uh, } has Jeff Bridges [ and, + and, ]  {F uh, } <lipsmack> Robin Williams. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sv          A.27 utt1:  {F Uh, } really, really good. /  
+
+b          B.28 utt1:  Yeah,  /
+sv          B.28 utt2: [ there's, + there's ]  been [ a, + a ] fair number [ of, + of ] pretty good movies out recently. /  
+
+b          A.29 utt1:  Yeah. /  
+
+sv          B.30 utt1:  {E I mean } it kind of runs in, <laughter>  in batches,  /
+sd          B.30 utt2: {E I mean, } for a while, sometimes they  come in a whole bunch of them that just,  {A I don't even, } {D you know } --   
+
+b          A.31 utt1:  Yeah. /  
+
++          B.32 utt1:  -- doesn't even sound like something I want to see. /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+qw          B.34 utt1:  [ What, + what ]  kind of movies in general do you like to watch? /  
+
+sd          A.35 utt1:  {F Uh, } <throat_clearing> {D well, } I like to be  entertained once in a while  /
+sd          A.35 utt2: {C but, } [ I, + I ] really enjoy watching a movie [ that, + ]  {F uh, } where they don't really try and  attract [ the, + {D you know, } the ] great audience, but  rather put out [ a, + a ] real good movie. /  
+
+b          B.36 utt1:  Uh-huh. /  
+
+%          A.37 utt1:  {F Uh, } it always, - /
+sd          A.37 utt2: [ my, + my ]  favorite movie of all time has been, {F uh, } {F uh, } THE MISSION.  /
+qy          A.37 utt3: Did you ever see that? /  
+
+nn          B.38 utt1:  No,  /
+sd^e          B.38 utt2: in fact, I'm not even familiar with it,  /
+h          B.38 utt3: I don't think. /  
+
+%          A.39 utt1:  {F Uh, } it's [ a, + a ] <throat_clearing>, - /
+sd          A.39 utt2:  I think it's put out by Landmark Productions, the same people who put out CHARIOTS OF FIRE. /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+%          A.41 utt1:  {F Uh, } [ it's a, + it's a, ] - /
+sd          A.41 utt2: has Robert DeNiro in it.  /
+sd          A.41 utt3:  {F Uh, } he plays one of the main characters  /
+sd          A.41 utt4: {C and, } {F uh, } it's about, {F uh, }  Jesuit community [ in, + {F uh, } <lipsmack> at ] the Inca Falls [ in, + in, ] {F uh, } South America, Northern Argentina. /  
+
+b          B.42 utt1:  {F Oh, } uh-huh  /
+o          B.42 utt2: <<very faint>>.   
+
+sd          A.43 utt1:  {F Uh, } really, really good show. /  
+
++          B.44 utt1:  No,  /
+sd          B.44 utt2: in fact, [ [ [ I, + I, ] + I'll, ] + I'll ]  look for it because I <laughter>, -/  
+
+b          A.45 utt1:  Yeah,  /
+sv          A.45 utt2: [ it's, + it's ] something that, {D you know, } - /
+sv          A.45 utt3: [ it's, + it's ] really stirring.  /
+sv          A.45 utt4:  The cinematography is just beautiful {C and } really beautiful scenes and  real good music. /  
+
+b          B.46 utt1:   {D Actually } yeah,  /
+sd          B.46 utt2: my wife's from down in that region  [ around the s-, + ] [ the, +  called [ the, + the ] ] Seven Missions [ which are, + which are ] right down [ in this, + ] where I'm sure where it was filmed at. /  
+
+b          A.47 utt1:  Oh. /  
+
+sd          B.48 utt1:  {C And, } {F uh, }   
+
+b          A.49 utt1:  Yeah. /  
+
++          B.50 utt1:  I'm sure that, that would make it [ worth, + worth ]  her watching.  /
+%          B.50 utt2: She, - /
+sd          B.50 utt3: [ [ my, + my, ] + {F uh, } my ] movie watching [ [ has, + has, ]  severely, + {F uh, } [ has, + has ] changed ] a lot since I got married. /  
+
+bh          A.51 utt1:  {F Oh, } yeah? /  
+
+ny          B.52 utt1:  Yeah,  /
+sd^e          B.52 utt2: [ she, + she ] likes, {F uh, }  action movies [ [ and, + {F uh, } and, ] + and ]  comedies  /
+sd          B.52 utt3: {C and so }  anything [ that's, + has ] anything --   
+
+b          A.53 utt1:  Uh-huh. /  
+
++          B.54 utt1:  -- [ [ little, + is a little, ] + little bit less ] than sort of mainstream Hollywood [ is + --   
+
+b          A.55 utt1:  Uh-huh. /  
+
++          B.56 utt1:  -- is ] boring to her <laughter>. /  
+
+b          A.57 utt1:  Oh. /  
+
+sd          B.58 utt1:  [ {C And, } + {C and so } [ [ [ [ [ I, + I, ] + I, ] + I ]  really, + I used ] to watch a fair number of foreign films.  /
+sd          B.58 utt2: I used to watch a lot of,  sort of, [ the less, + the less ] popular films. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:  {C And } I find I don't do it anymore or else I have to  watch them on my own. /  
+
+sd          A.61 utt1:  <Laughter> I'm much the same way.  /
+sd          A.61 utt2:   [ [ [ I, + I, ] + I, ] + I ] have a fiance  /
+sd          A.61 utt3: {C and, } [ it, + it ] gets very difficult to, {F uh, } {F uh, } -/  
+
+^2          B.62 utt1:  Find something both of you will watch. /  
+
+aa          A.63 utt1:  Yeah,  /
+aa^r          A.63 utt2: yeah. /  
+
+%          B.64 utt1:  She, - /
+sv          B.64 utt2: it's funny because most women aren't really, - /
+sd          B.64 utt3:  she's sort of Schwarzenegger fan type of. /  
+
+bh          A.65 utt1:  {F Oh, } really? /  
+
+ny          B.66 utt1:  Yeah,  /
+sd^e          B.66 utt2: she really likes all these gory --   
+
+b          A.67 utt1:  Uh-huh. /  
+
++          B.68 utt1:  -- shoot them up films. /  
+
+b          A.69 utt1:  Uh-huh. /  
+
+sd          B.70 utt1:  Keep her on the edge of her seat. /  
+
+x          A.71 utt1:  <Laughter>.   
+
+sd          B.72 utt1:  I'll watch them, {D you know, }  /
+sv          B.72 utt2:  they're kind of fun to watch in a way. /  
+
+aa          A.73 utt1:  Yeah,  /
+sv          A.73 utt2: they are.  /
+sv          A.73 utt3: Sometimes you're in the mood for it even. /  
+
+sd          B.74 utt1:  <Laughter> {C But, } {F uh, } {C so } [ [ it, + it, ] + it ]  varies,  /
+sd          B.74 utt2: I don't seem to get, {D you know, } as much variety these days lately --   
+
+b          A.75 utt1:  Uh-huh. /  
+
++          B.76 utt1:  -- as I used to. /  
+
+sd           A.77 utt1:  I found [ [ when, + when ] I get, + when I get ]  with my, {F uh, } old college buddy, [ we, + we ] usually rent, {F uh, } good gladiator movie or two <breathing>. /  
+
+x          B.78 utt1:  <Laughter>.   
+
+sd          A.79 utt1:  {F Uh, }  ((   ))  I still enjoy watching those.  /
+sv          A.79 utt2:  You can't just watch them by yourself or else,   
+
+x          B.80 utt1:  <Laughter>.   
+
++          A.81 utt1:  it's not bearable.  /
+sv          A.81 utt2:  {C But } [ it's, + it's ] fun to, -/  
+
+aa          B.82 utt1:  {D Well, } yeah,  /
+sd          B.82 utt2: on the other hand, {D you know, }  given that my wife likes those, [ [ I, + I, ] + {D say, } I ] occasionally like to watch them  /
+sd          B.82 utt3: [ {C and, } + {C and } ] [ {C so, } + {F uh, } {D you know, } {C so } ] [ it's, + you ] can always count on her to  watch something like that <noise>.  /
+sd          B.82 utt4: {C And } she'll even watch things like karate movies and stuff like that.   
+
+bh          A.83 utt1:  {F Oh, } yeah? /  
+
++          B.84 utt1:  {D You know, } which [ most, + most ] women now <laughter> --   
+
+aa          A.85 utt1:  Yeah,  /
+aa^r          A.85 utt2: yeah,  /
+bf          A.85 utt3: [ that's, + that's, ]   
+
++          B.86 utt1:  -- won't,  /
+sv          B.86 utt2: they won't come within ten feet of,   
+
++          A.87 utt1:  <Laughter> The ones where they [ dub in, + dub in ] the English. /  
+
++          B.88 utt1:  [ All  the, + all the ]  (( ya ))  <laughter>.    
+
+x          A.89 utt1:  <Laughter>.   
+
++          B.90 utt1:  All the sounds of the karate chops  flying through the air <laughter>. /  
+
+x          A.91 utt1:  <Laughter>.   
+
+fe          B.92 utt1:   (( A-cha! )) . /  
+
+ba          A.93 utt1:  That's great.  /
+qy          A.93 utt2: {F Uh, } {F uh, }  on foreign films [ [ did, + {F uh, } did ] you, +  did you ] watch, - /
+qy          A.93 utt3:  are you, {F uh, } fluent in another language  /
+%          A.93 utt4: {C or, } -/  
+
+%          B.94 utt1:  I s-, - /
+ny          B.94 utt2: yeah,  /
+sd^e          B.94 utt3: I speak several, {F uh, }  /
+sd          B.94 utt4: {C but, }  [ I, + I ] don't mind watching subtitle movies.  {F Uh, } /  
+
+bh          A.95 utt1:  {F Oh, } you don't? /  
+
+nn          B.96 utt1:  No,  /
+%          B.96 utt2: [ I, + I, ] -/  
+
+sd          A.97 utt1:  I don't either.  /
+sd          A.97 utt2: [ I, + I ] feel foolish sometimes  because [ I, + I ] don't speak another language fluently  /
+sd          A.97 utt3: {C but } I do enjoy watching --   
+
+b          B.98 utt1:  Yeah. /  
+
++          A.99 utt1:  -- {D you know, } subtitles. /  
+
+sv          B.100 utt1:  {E I mean, } for some people, that's just, {D you know, }  that's out of the question, {D you know. }  /
+sv          B.100 utt2:  You give it subtitles, they won't watch, / 

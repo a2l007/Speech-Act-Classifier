@@ -1,0 +1,207 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3813_1461_1402
+TOPIC#:		357
+DATE:		920121
+TRANSCRIBER:	glp
+UTT_CODER:      aabo
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	3
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        None.
+
+========================================================================
+  
+
+qy          A.1 utt1:  Do you, {F uh, } have a family budget,  /
+qrr          A.1 utt2: {C or, } how do you work your budgeting? /  
+
+sd          @B.2 utt1:  {D Well, } <throat_clearing> for many, many years, {F uh, } my wife and I did have a budget.  /
+sd          @B.2 utt2: {F Uh, } we were both working at the time and so forth  /
+%          @B.2 utt3: {C and, } {F uh, } that, - /
+sd          @B.2 utt4: we had to do that until we finally got the house paid for [ and, + and ] other big bills taken care of. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  {F Uh, } we have [ a, + a ] budget,  /
+sd          B.4 utt2: {C but } not as strict now as we used to because we don't have quite such a tight financial situation. /  
+
+b          A.5 utt1:  Yeah. /  
+
+sd          B.6 utt1:  {C So } [ [ it, + it's, ] + {F uh, } it's ] helpful.  /
+ny          B.6 utt2:  {E I mean, } yes,  /
+sd^e          B.6 utt3: having a budget is very, very important  /
+sd          B.6 utt4: {C and } that did get us so that, {D you know, } the house is paid for and,  {F uh, } other major things are taken care of  /
+sd          B.6 utt5: {C and } now we can relax a little bit more because basically we don't really require as much on a daily or a monthly basis as we did before,  /
+sd          B.6 utt6: {C so } we don't have to have quite as strict, {F uh, } a budget as we did. /  
+
+sd          A.7 utt1:  {F Oh, } {D well, } we don't have a real strict budget.  /
+sd          A.7 utt2:  {F Uh, } we have [ a, + a ] low budget to work on,  /
+%          A.7 utt3: {C but } we, {F uh, } {D you know, } - /
+sd          A.7 utt4: for like groceries, we say about this much per week  /
+sd          A.7 utt5: {C and then } --   
+
+b          B.8 utt1:  Sure,  /
+b          B.8 utt2: uh-huh. /  
+
++          A.9 utt1:  -- we just spend about so much.  /
+sd          A.9 utt2: [ We don't, + [ I, + I ] don't ] know of a written figure of expenses that we, {D you know, } keep to or anything,  /
+sd          A.9 utt3: {C but } I know that I go to the grocery store that we always stick within, {D you know, } five dollars between here and there. /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+sd          A.11 utt1:  A certain amount. /  
+
+sd          B.12 utt1:  I think [ I've, + ] I do that automatically myself. /  
+
+b          A.13 utt1:  Yeah. /  
+
+sd          B.14 utt1:  {E I mean, } I unconsciously, {F uh, } {D you know, } stay [ in a, + ] [ within a, + with a ] certain amount because [ I, + I ] have enough food already stored here --   
+
+b          A.15 utt1:  Oh. /  
+
++          B.16 utt1:  -- that I don't have to make any large purchase at any one time.  /
+sd          B.16 utt2:  All I normally do now is pick up little things here and there.  If the salt goes out or we need sugar or <laughter> something like that. /  
+
+ba          A.17 utt1:  Wow,  /
+ba          A.17 utt2: that's great. /  
+
+b          B.18 utt1:  <Throat_clearing> Yeah,  /
+sd          B.18 utt2: we have two freezers,  /
+sd          B.18 utt3: {C and, } course, we have a large garden here that we grow a lot of our own stuff  /
+sd          B.18 utt4: {C and } we freeze a lot of that,  /
+sd          B.18 utt5: {C so } a lot of the vegetables are taken care of in our own --   
+
+b          A.19 utt1:  Oh. /  
+
++          B.20 utt1:  -- [ p-, + personal ] storage. /  
+
+sv          A.21 utt1:  {F Oh, } you guys sound pretty self sufficient <laughter>. /  
+
+sd          B.22 utt1:  <Laughter> {D Well, } [ we, + we ] keep a little note pad [ on a, + on a ] wall.  /
+%          B.22 utt2:  W-, - /
+sd          B.22 utt3: if anything is absolutely out, make a note of it  /
+sd          B.22 utt4: {C and then, } {F uh, } the next time I go to the store, why, I pick it up and fill it up. /  
+
+b          A.23 utt1:  Huh. /  
+
+sd          B.24 utt1:  {C So } [ it's, + it's ] worked very well that way.  /
+sd          B.24 utt2:  That way [ we + ] <throat_clearing>, {D you know, } if each of us finds something is missing, {F uh, } we put it up.  /
+sd          B.24 utt3:  {F Uh, } the other person might not know about it. /  
+
+b          A.25 utt1:  Yeah. /  
+
+sd          B.26 utt1:  That way we --   
+
+ba          A.27 utt1:  {D Well, } that's a good idea. /  
+
++          B.28 utt1:  -- keep up to date <throat_clearing>. /  
+
+^h          A.29 utt1:  Let's see,  /
+sd^t          A.29 utt2: the other thing there the topic was talking about was, [ if, + if, ]  {F uh, } - /
+qh          A.29 utt3: all I can think of is if you don't keep [ a real, + a real ] tight budget, how do you control expenses,  /
+%          A.29 utt4: {C but, } {F uh, } one, - /
+sd          A.29 utt5: another thing that we do is we always fly back to California and Washington each Christmas.  /
+sd          A.29 utt6:  {D Well, } not fly back, - /
+sd          A.29 utt7: {C but } somehow we get back there. /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd          A.31 utt1:  {C And, } {F uh, } this year we did it by train because it was the least expensive  /
+%          A.31 utt2: {C and, } -/  
+
+sd          B.32 utt1:  {D Well, } {D actually, } it's more interesting, too, if you've --   
+
+br          A.33 utt1:  Huh? /  
+
++          B.34 utt1:  -- got the time. /  
+
+b          A.35 utt1:  {F Oh, } yeah. /  
+
+x          B.36 utt1:  <Throat_clearing>.   
+
+sd          A.37 utt1:  {C And, } {F uh, } {D you know, } we could go to both places without having to spend so  much for --   
+
+b          B.38 utt1:  Yeah. /  
+
++          A.39 utt1:  -- plane fare.  /
+sd@          A.39 utt2:  {C And so, } {F uh, } we find that if we're careful with our, {D you know, } just everyday things like grocery shopping [ and, + and ] gas and  entertainment, things like that, then, {F uh, } somewhere [ in, + out in ] the wash, it will come out that we have enough to get back there.    
+
+b          B.40 utt1:  Sure. /  
+
++@          A.41 utt1:  {D You know. } /  
+
+sd          B.42 utt1:  {D Well, } I think we unconsciously <throat_clearing> do the same thing.  /
+fa          B.42 utt2:  {E Excuse me, } my throat's not as clear today as it should be. /  
+
+b          A.43 utt1:  Uh-huh,  /
+bd          A.43 utt2: that's all right. /  
+
+sd          B.44 utt1:  {F Uh, } we are, {F uh, } going to be traveling to Europe with a choral.  /
+sd          B.44 utt2:  We sing with a so called Pennsylvania choral -- /  
+
+b          A.45 utt1:  Uh-huh. /  
+
+sd          B.46 utt1:  -- {C and } we make a two weeks tour [ of, + of, ] {F uh, } foreign countries  /
+sd          B.46 utt2: {C and, } of course, that costs money.  /
+%          B.46 utt3:  {C So } we, {F uh, } - /
+sd          B.46 utt4: each of us watches the funds that we spend and make sure [ that, + that ] we gather together over a period a time enough money [ to, + to ] make this trip.  /
+sd          B.46 utt5:  {C So } [ th-, + that ] is another way of, {F uh, } budgeting -- /  
+
+aa          A.47 utt1:  Uh-huh,  /
+aa          A.47 utt2: that's right. /  
+
+sd          B.48 utt1:  -- {C and } I think we just sort of unconsciously do it.  /
+sd          B.48 utt2:  We, {F uh, } just live a normal life,  /
+sd          B.48 utt3: {C but } we don't throw any money away, particularly.  /
+sd          B.48 utt4:  We save it for this trip, which is, {F uh, } always very, very nice. /  
+
+b          A.49 utt1:  Yeah,  /
+%          A.49 utt2: {D well, } whenever <laughter>, - /
+sd^t          A.49 utt3: I don't know if this is part of the topic,  /
+sd          A.49 utt4: {C but } whenever I find, {D you know, } a dime or something on the ground, I, I'll probably pick it up <laughter>. /  
+
+aa          B.50 utt1:  <Laughter> I do the same thing.  /
+sd          B.50 utt2:  I have a whole pile of them saved that I have found by parking meters <laughter>. /  
+
+b          A.51 utt1:  Uh-huh,  /
+%          A.51 utt2: yeah,  /
+sd          A.51 utt3: I have a special little jar that I keep all the money I found in.  /
+sd          A.51 utt4:  {D You know, } just --   
+
+b          B.52 utt1:  Yeah. /  
+
++          A.53 utt1:  -- count it up at the end of the year, something. /  
+
+b          B.54 utt1:  Yeah  /
+x          B.54 utt2: <laughter>.   
+
+b          A.55 utt1:  {C But, } yeah. /  
+
+ad          B.56 utt1:  {D Well, } let's face it,  /
+sv          B.56 utt2: [ the, + ] when we're talking budget, it is important [ to, + to ] have a budget <throat_clearing>,  /
+sd          B.56 utt3: {C and, } {F uh, } [ I, + I ] keep track of mine on a more rough basis now by just watching the level of my checking account  /
+sd          B.56 utt4: {C and } I have a money market account also. /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+sd          B.58 utt1:  {C And, } {F uh, } I keep those levels up above a certain minimum,  /
+sd          B.58 utt2: {C and } I'm always trying to, -/ 

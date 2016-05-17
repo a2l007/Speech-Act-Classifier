@@ -1,0 +1,1497 @@
+Start	Info	  Old AP	 Fixed AP	Notes
+------- --------- -------------- -------------  ----------------------------
+558.75	Bdb001-c3 44b+		 43b+		Wrong label
+562.185	Bdb001-c3 44b++		 43b++		Wrong label
+568.317	Bdb001-c3 44b+++.45a	 43b+++.45a	Wrong label
+573.611	Bdb001-c3 44b++++	 43b++++	Wrong label
+575.301	Bdb001-c3 44b+++++.46a	 43b+++++.46a	Wrong label
+577.241	Bdb001-c3 44b++++++	 43b++++++	Wrong label
+581.901	Bdb001-c3 44b+++++++	 43b+++++++	Wrong label
+582.081	Bdb001-c3 44b++++++++	 43b++++++++	Wrong label
+587.991	Bdb001-c3 44b+++++++++	 43b+++++++++	Wrong label
+595.332	Bdb001-c3 44b++++++++++	 43b++++++++++	Wrong label
+597.152	Bdb001-c3 44b+++++++++++ 43b+++++++++++	Wrong label
+599.787	Bdb001-c3 44b++++++++++++ 43b++++++++++++ Wrong label
+601.937	Bdb001-c3 44b+++++++++++++.47a 43b+++++++++++++.47a Wrong label
+1436.04	Bdb001-cB 22b++++23a++	 22b++++.23a++	Malformed AP
+1919.08	Bdb001-c3 4a+		 4a++		Extra Plus was missing
+1996.29	Bed002-c2 16b-1.17a	 16b-1.16_a	Two 17a APs, make one 16_a
+1997.54	Bed002-c4 17b		 16_b		Two 17b APs, make one 16_b
+3054.73	Bed002-c4 2b		 2b.3a		Label was missing
+3199	Bed002-c1 9b-2		 9b-1+		Wrong label
+3469.02	Bed002-c1 29b+		 29b		Adjusted for fg/fh/b problem
+3825.46	Bed002-c8 16b.17a	 15b+.16a+	Wrong label
+3827.31	Bed002-c1 17b		 16b		Wrong label
+178.55	Bed003-c2 9b+		 9b		Extra Plus removed
+187.87	Bed003-c2 9b++		 9b+		Extra Plus removed
+264.029	Bed003-c3 7b-2		 7b-1+		Wrong label
+265.18	Bed003-c2 7b-3.8a	 7b-2.8a	Wrong label
+470.553	Bed003-c2 5b		 4b		Wrong label
+632.98	Bed003-c3 FBH				No AP, FBH moved to Comments
+742.719	Bed003-c2 1b		 10b-1.1a	Wrong label
+743.878	Bed003-c4 10b-1.1a	 1b		Wrong label
+801.167	Bed003-c3 7b+.8a	 7b.8a		Extra Plus removed
+875.74	Bed003-c3 7b+		 7b++		Extra Plus was missing
+875.81	Bed003-c2 8b+9a+	 8b+.9a+	Malformed AP
+879.021	Bed003-c1 9b+		 9b		Adjusted for fg/fh/b problem
+887.87	Bed003-c3 10b+.1a	 10b+		Adjusted for fg/fh/b problem
+915.52	Bed003-c4 3a+.5a+	 3a+.5a		Extra Plus removed?
+916.14	Bed003-c4 3a++.5a++	 3a++.5a+	Extra Plus removed?
+918.51	Bed003-c3 3b+.4a	 3b.4a		Adjusted for fg/fh/b problem
+952.62	Bed003-c1 FBH				No AP, FBH moved to Comments
+1682.5	Bed003-c4 8b+9a+	 8b+.9a+	Malformed AP
+1869.44	Bed003-c3 7b-1		 7b-2		Wrong label
+2001.15	Bed003-c1 10b		 10a		Wrong label
+2001.4	Bed003-c4 10a		 10b		Wrong label
+2251.63	Bed003-c3 1b-1		 1b		Wrong label
+2254.95	Bed003-c3 1b-2		 1b+		Wrong label
+250.94	Bed004-c1 3b.41		 3b.4a		Malformed AP
+382.4	Bed004-c1 9b.10a	 9b.9_a		Two 10a APs, make one 9_a
+382.59	Bed004-c4 10b		 9_b		Two 10b APs, make one 9_b
+978.04	Bed004-c4		 11_a		Inserted for m/2 problem
+981.12	Bed004-c3		 11_b		Inserted for m/2 problem
+1450.15	Bed004-c2 5b		 5b+		Plus was missing
+1567.71	Bed004-c4		 6_a		Inserted for m/2 problem
+1569.19	Bed004-c1		 6_b		Inserted for m/2 problem
+2098.61	Bed004-c4 3a		 3a.3_a		Inserted for m/2 problem
+2102.23	Bed004-c2		 3_b		Inserted for m/2 problem
+2114.43	Bed004-c4 4b.51		 4b.5a		Malformed AP
+2279.1	Bed004-c2 11b+.12a	 11b+.11_a	Two 12a APs, make one 11_a
+2279.62	Bed004-c1 12b		 11_b		Two 12b APs, make one 11_b
+2360	Bed004-c2 15a		 14_a		Two 15a APs, make one 14_a
+2361.36	Bed004-c1 15b		 14_b		Two 15b APs, make one 14_b
+2371.71	Bed004-c2		 14__a		Inserted for m/2 problem
+2376.92	Bed004-c1		 14__b.14___a	Inserted for m/2 problem
+2378.38	Bed004-c2		 14___b		Inserted for m/2 problem
+2486.99	Bed004-c2		 17a		Inserted for m/2 problem
+2492.17	Bed004-c4		 17b		Inserted for m/2 problem
+2966	Bed004-c2		 16a		Inserted for m/2 problem
+2967.15	Bed004-c4		 16b		Inserted for m/2 problem
+771.03	Bed005-c2 16b+.17a	 16b++.17a	Extra Plus was missing
+1068.11	Bed005-c1 32b-1		 32b		Wrong label
+1068.26	Bed005-c1 32b-2		 32b+		Wrong label
+1165.35	Bed005-c3 44b		 44a		Wrong label
+1166.51	Bed005-c3 44b+		 44a+		Wrong label
+1170.53	Bed005-c2 45b		 44b		Wrong label
+1170.75	Bed005-c2 45b+		 44b+		Wrong label
+1174.15	Bed005-c1 46b.47a	 46b.46_a	Two 47a APs, make one 46_a
+1174.78	Bed005-c3 47b		 46_b		Two 47b APs, make one 46_b
+1190.48	Bed005-c1 28b-2		 48b-2		Wrong label
+1746.87	Bed005-c0 39b		 30b		Wrong label
+1974	Bed005-c5 8a+		 8a++		Extra Plus was missing
+2322.98	Bed005-c1 29b++		 29b+		Adjusted for fg/fh/b problem
+2324.98	Bed005-c1 29b+++	 29b++		Adjusted for fg/fh/b problem
+2326.33	Bed005-c1 29b++++	 29b+++		Adjusted for fg/fh/b problem
+2327.77	Bed005-c1 29b+++++	 29b++++	Adjusted for fg/fh/b problem
+2564.63	Bed005-c5 20b-1		 20b		No need for -1
+2568.64	Bed005-c5 20b-1		 20b+		No need for -1
+3183.75	Bed005-c1 20b+		 20b		Adjusted for fg/fh/b problem
+3184.82	Bed005-c1 20b++		 20b+		Adjusted for fg/fh/b problem
+3225.85	Bed005-c3 21b-1		 21b		Wrong label
+3226.62	Bed005-c3 21b-2.22a	 21b+.22a	Wrong label
+3398.94	Bed005-c2 31a		 31a+		Plus was missing
+3406.48	Bed005-c2 32b++		 32b+		Adjusted for fg/fh/b problem
+131.828	Bed006-cA 20b.20a	 20b.21a	Wrong label
+698.464	Bed006-c3		 12a		Label was missing
+1234.62	Bed006-ca 9b+.10a	 9b+		Adjusted for fg/fh/b problem
+1727.43	Bed006-c1 38b+.39a+	 37b+.38a+	Wrong label
+1952.14	Bed006-c1 8b+		 8b++		Extra Plus was missing
+2117.54	Bed006-c5 17b		 17a+		Wrong label
+2119.43	Bed006-c5 17b+		 17a++		Wrong label
+2120.87	Bed006-c2 17b++		 17b		Wrong label
+2467.24	Bed006-c2 4a				Adjusted for fg/fh/b problem
+2533.18	Bed006-c0 7a++		 7a+		Adjusted for fg/fh/b problem
+2562.38	Bed006-c2 8a++		 8a+		Adjusted for fg/fh/b problem
+2568.07	Bed006-c0 10b-1++	 10b-1+		Adjusted for fg/fh/b problem
+2967.8	Bed006-c2 37a++		 37a+++		Extra Plus was missing
+3367.77	Bed006-cA 30b.30a	 30b.31a	Wrong label
+3377.89	Bed006-c2 33b		 32b.33a	Wrong and missing label
+3697	Bed006-c2 12b/13a	 12b.13a	Malformed AP
+3709.72	Bed006-ca 16b.17a	 16b		Adjusted for fg/fh/b problem
+427.378	Bed008-c2 6b+		 6b++		Extra Plus was missing
+632.01	Bed008-c5		 2_a		Inserted for m/2 problem
+636.32	Bed008-c2		 2_b		Inserted for m/2 problem
+679.52	Bed008-c2 6b		 6a		Wrong label
+680.551	Bed008-c5 6a		 6b		Wrong label
+892.356	Bed008-c4 17b-1		 17b		No need for -1
+934.83	Bed008-c0		 22_a		Inserted for m/2 problem
+936.18	Bed008-c5		 22_b		Inserted for m/2 problem
+1114.55	Bed008-c2 31a		 31a.31_a	Inserted for m/2 problem
+1119.49	Bed008-c5		 31_b		Inserted for m/2 problem
+1180.89	Bed008-c0		 36b+		Inserted for m/2 problem
+1519.93	Bed008-c2		 20_a		Inserted for m/2 problem
+1527.39	Bed008-c5		 20_b		Inserted for m/2 problem
+1695.1	Bed008-c2 31b.32a	 31b.31_a	Two 32a APs, make one 31_a
+1696.49	Bed008-c5 32b		 31_b		Two 32b APs, make one 31_b
+1994.74	Bed008-c2 14b+		 13b+		Wrong label
+2317.27	Bed008-c0 34b+.35a	 33b+.35a	Wrong label
+2686.86	Bed008-c2		 17_a		Inserted for m/2 problem
+2692.71	Bed008-c4		 17_b		Inserted for m/2 problem
+2754.71	Bed008-c2 26b		 26b-1		Wrong label
+2757.76	Bed008-c4 26b+		 26b-2		Wrong label
+3094.55 Bed008-c2 4b		 4b.4_a		Inserted for m/2 problem
+3095.14	Bed008-c5		 4_b		Inserted for m/2 problem
+3193.04	Bed008-c2 16b-2+	 17b-2+		Wrong label
+3343.96	Bed008-c3 24b		 24b-1		Wrong label
+3345.61	Bed008-c4 24b+		 24b-2		Wrong label
+3537.42	Bed008-c5 24b.25a	 34b.25a	Wrong label
+3694.04	Bed008-c4 3b.4a		 4a		Adjusted for fg/fh/b problem
+233.037	Bed009-c0 9b-1.10a-1	 9b.10a		Adjusted for fg/fh/b problem
+457.715	Bed009-c5 50aa		 50a		Malformed AP
+543.882	Bed009-c5 1b1b+		 1b		Malformed AP
+1327.62	Bed009-c5		 1_a		Inserted for m/2 problem
+1332.45	Bed009-c0		 1_b		Inserted for m/2 problem
+2768.6	Bed009-c0 10b-2+.1a	 10b-2+.11a	Two 1a APs, make one 11a
+2770.88	Bed009-c5 1b		 11b		Two 1b APs, make one 11b
+2771.2	Bed009-c5 2a		 12a		Two 2a APs, make one 12a
+2771.84	Bed009-c0 2b		 12b		Two 2b APs, make one 12b
+76.124	Bed010-c2 2a		 2a.2_a		Inserted for m/2 problem
+81.61	Bed010-c1		 2_b		Inserted for m/2 problem
+237.814	Bed010-c1		 5b+		Inserted for m/2 problem
+2673.17	Bed010-c1 24b		 24b.24_a	Inserted for m/2 problem
+2673.56	Bed010-c2		 24_b		Inserted for m/2 problem
+2961.39	Bed010-c2 39b		 39a+		Wrong label
+3137.93	Bed010-c2		 8_a		Inserted for m/2 problem
+3145.68	Bed010-c1		 8_b		Inserted for m/2 problem
+3163.51	Bed010-c2 11a		 11a.11_a	Inserted for m/2 problem
+3168.16	Bed010-c1		 11_b		Inserted for m/2 problem
+591.765	Bed011-c4 10b+.11a	 10b++.11a	Extra Plus was missing
+1489.09	Bed011-c2 9b		 9b+		Plus was missing
+2033.65	Bed011-c1 3b		 3b-1		Wrong label
+2035.98	Bed011-c3 3b+		 3b-2		Wrong label
+2179.3	Bed011-c3 2b-1+		 2b-1++		Extra Plus was missing
+2182.69	Bed011-c3 2b-1++	 2b-1+++	Need extra plus b/c of prev.
+2185.97	Bed011-c0 12a		 2_a		To keep no. order consistent
+2188.04	Bed011-c2 12b.3a	 2_b.3a		To keep no. order consistent
+2196.16	Bed011-c3 3b		 3b-1		Wrong label
+2196.78	Bed011-c4 3b+		 3b-2		Wrong label
+2313.97	Bed011-c2 5b-1		 5b		Adjusted for fg/fh/b problem
+2572.87	Bed011-c3 5a		 6a		Wrong label
+2573.67	Bed011-c2 5b.7a		 6b.7a		Wrong label
+2579.56	Bed011-c3 7a		 7_a		Two 7a APs, make one 7_a
+2581.01	Bed011-c3 7a+		 7_a+		Two 7a+ APs, make one 7_a+
+2581.56	Bed011-c2 7b		 7_b		Two 7b APs, make one 7_b
+2542.28	Bed011-c2 FBH				No AP, FBH moved to Comments
+2791.14	Bed011-c1 4a.		 4a		Malformed AP
+3102.82	Bed011-c1 5b+		 5b		Adjusted for fg/fh/b problem
+782.922	Bed012-c3 8b+		 8a+		Wrong label
+859.18	Bed012-c2		 12_a		Inserted for m/2 problem
+860.347	Bed012-c3 13a		 12_b.13a	Inserted for m/2 problem
+875.015	Bed012-c3 14a				Adjusted for fg/fh/b problem
+1009.51	Bed012-c1 30b.31a	 30b+.31a	Plus was missing
+1211.88	Bed012-c3 2b				Adjusted for fg/fh/b problem
+1516.18	Bed012-c3 22a		 22a+		Plus was missing
+1715.03	Bed012-c4 32b-2.34a	 32b-2+.34a	Plus was missing
+1800.23	Bed012-c3 38a		 39a		Two 38a APs, make one 39a
+1803.2	Bed012-c1 38b.1a	 39b.1a		Two 38b APs, make one 39b
+1919.13	Bed012-c2 b				No AP
+1920.73	Bed012-c1 11b-1.12a	 11b-1+.12a	Plus was missing
+1936.06	Bed012-c3 15b-2.16a	 15b+.16a	Wrong label
+2135.79	Bed012-c2 38b		 37b		Wrong label
+2172.33	Bed012-c3 46a		 45_a		Two 46a APs, make one 45_a
+2181.62	Bed012-c2 46b		 45_b		Two 46b APs, make one 45_b
+2271.21	Bed012-c2		 54_a		Inserted for m/2 problem
+2277.39	Bed012-c1		 54_b		Inserted for m/2 problem
+2353.42	Bed012-c2		 69b-1+		Inserted for m/2 problem
+2448.89	Bed012-c3		 2_a		Inserted for m/2 problem
+2452.5	Bed012-c2		 2_b		Inserted for m/2 problem
+2491.65	Bed012-c3		 9_a		Inserted for m/2 problem
+2495.08	Bed012-c2		 9_b		Inserted for m/2 problem
+273.53	Bed013-c1 19		 19a		Malformed AP
+659.533	Bed013-c1 3b+.5a+	 3b++.5a+	Extra Plus was missing
+1118.33	Bed013-c0 58b.58a	 58b.59a	Wrong label
+1340.44	Bed013-c4 22b		 22b-1		Wrong label
+1343.33	Bed013-c3 22b+.23a	 22b-2.23a	Wrong label
+1600.07	Bed013-3  78b.79a+	 78b+.79a+	Plus was missing
+1951.95	Bed013-c4 27a				Adjusted for fg/fh/b problem
+2476.31	Bed013-c0 1b+.2a+	 1b++.2a+	Extra Plus was missing
+3074.03	Bed013-c0 3b.4a+	 3b+.4a+	Plus was missing
+3075.88	Bed013-c0 3b+.4a++	 3b++.4a++	Extra Plus was missing
+3167	Bed013-c4 13b		 13b-1		Wrong label
+3169.33	Bed013-c3 13b+		 13b-2		Wrong label
+3496.63	Bed013-c3 30a++		 30a+		Adjusted for fg/fh/b problem
+3498.58	Bed013-c3 30a+++	 30a++		Adjusted for fg/fh/b problem
+117.43	Bed014-c4 4b+.5a+	 4b-2+.5a+	Wrong label
+331.069	Bed014-c3 33b-2+.33a	 33b-2+.34a	Two 33a APs, make one 33_a
+332.286	Bed014-c4 33b.34a	 33_b.34a	Two 33b APs, make one 33_b
+344.717	Bed014-c4 35b+		 35b++		Extra Plus was missing
+359.45	Bed014-c2 37b-1		 37b		Wrong label
+363.28	Bed014-c2 37b-2		 37b+		Wrong label
+397.071	Bed014-c3 38b+39a+	 38b+.39a+	Malformed AP
+452.382	Bed014-c1 52b-3+.53a	 52b-3.53a	Extra Plus removed
+510.627	Bed014-c4 55b-2++.56a+++ 55b-2++.56a++	Extra Plus removed
+516.31	Bed014-c1 56b		 56b+		Plus was missing
+1165.49	Bed014-c2 47b.48a	 47b.47_a	Two 48a APs, make one 47_a
+1166.78	Bed014-c1 48b		 47_b		Two 48b APs, make one 47_b
+1221.26	Bed014-c0 3b+.4a+	 3b.4a		Adjusted for fg/fh/b problem
+1648.89	Bed014-c4 29b-3+.30a++	 29b-3++.30a++	Extra Plus was missing
+1702.94	Bed014-c1 35b.35a	 35b.35_a	Two 35a APs, make one 35_a
+1704.81	Bed014-c2 35b.36a	 35_b.36a	Two 35b APs, make one 35_b
+1902.92	Bed014-c1 8b.9a		 8b+.9a		Plus was missing
+1999.34	Bed014-c4 29b-2.30a+	 29b-2+.30a+	Plus was missing
+2003.01	Bed014-c1 30b-2		 30b-2+		Plus was missing
+2140.07	Bed014-c1 50b-2.	 50b-2		Malformed AP
+2184.66	Bed014-c0 60+		 60a+		Malformed AP
+2205.45	Bed014-c4 64b.65a+	 64b+.65a+	Plus was missing
+2248.12	Bed014-c4 76a		 75b-1.76a	Adjusted for m/2 problem
+2249.06	Bed014-c0 77b		 75b-2.77b	Inserted for m/2 problem
+2311.44	Bed014-c0 90a		 90a+		Plus was missing
+2414.75	Bed014-c0 3b+4a+	 3b+.4a+	Malformed AP
+2752.34	Bed014-c1 49b-1++	 49b-1+		Extra Plus removed
+2753.15	Bed014-c1 49b-1+++	 49b-1++	Extra Plus removed
+2766.94	Bed014-c0 50b.50a	 50b.51a	Wrong label
+2930.42	Bed014-c1 61b-1		 61b		Wrong label
+2931.42	Bed014-c1 61b-2.62a	 61b+.62a	Wrong label
+811.64	Bed015-c2 21b		 21b-1		Wrong label
+812.59	Bed015-c5 21b+		 21b-2		Wrong label
+1101.92	Bed015-c4 59b		 59b+		Plus was missing
+1310.1	Bed015-c4 7b+.8a+	 7b++.8a+	Extra Plus was missing
+1696.06	Bed015-c5		 35b		Inserted for m/2 problem
+1697.54	Bed015-c5 35b		 35b+		Adjusted for m/2 problem
+1799.43	Bed015-c0 41b		 41b-1		Wrong label
+1800.18	Bed015-c5 41b+		 41b-2		Wrong label
+1877.84	Bed015-c4 8b+		 7b+		Wrong label
+2120.24	Bed015-c5 35b.26a	 35b.36a	Wrong label
+2368.31	Bed015-c2 40b.40a	 40b.41a	Wrong label
+2375.73	Bed015-c5 42a+		 42a++		Extra Plus was missing
+2496.77	Bed015-c5 4b=1		 4b-1		Malformed AP
+2497.26	Bed015-c0 4a+		 4a++		Extra Plus was missing
+2753.56	Bed015-c4 26a		 26a+		Plus was missing
+2928.58	Bed015-c5 38a		 38a+		Plus was missing
+3158.42	Bed015-c5 11a+		 11a++		Extra Plus was missing
+3184.58	Bed015-c0 14b+.15a	 14b+.15a+	Plus was missing
+3198.38	Bed015-c2		 19b-1+		Inserted for m/1 problem
+3464.87	Bed015-c5 41a+		 41a++		Extra Plus was missing
+3879.74	Bed015-c5 44b.44a	 44b.45a	Wrong label
+3983.18	Bed015-c0 56b.57a+	 56b+.57a+	Plus was missing
+3988.77	Bed015-c0 56b.57a++	 56b++.57a++	Pluses were missing
+4229.26	Bed015-c4 7b		 7b-2		Wrong label
+4242.78	Bed015-c4 12b-2.13a	 12b.13a	Adjusted for fg/fh/b problem
+4253.17	Bed015-c4 12b-2.13a+	 12b+.13a+	Adjusted for fg/fh/b problem
+4253.48	Bed015-c5 13b-1		 13b		Wrong label
+4256.86	Bed015-c5 13b-2		 13b+		Wrong label
+4270.34	Bed015-c2 16b-1		 16b		Wrong label
+4272.42	Bed015-c2 16b-2.17a	 16b+.17a	Wrong label
+4619.51	Bed015-c2 41b+.42a+	 41b++.42a+	Extra Plus was missing
+4620.63	Bed015-c2 41b++.42a++	 41b+++.42a++	Extra Plus was missing
+4778.04	Bed015-c5 64b		 64b+		Plus was missing
+4779.5	Bed015-c5 64b		 64b++		Pluses were missing
+4806.25	Bed015-c5 70b+.61a	 70b+.71a	Wrong label
+233.78	Bed016-c1 28b		 28b+		Plus was missing
+1866.56	Bed016-c1 5b-1		 5b		Wrong label
+1871.75	Bed016-c1 5b-2.6a	 5b+.6a		Wrong label
+1875.56	Bed016-c1 5b-2+.6a+	 5b++.6a+	Wrong label
+1924.36	Bed016-c9 18b.19a	 18b.18_a	Two 19a APs, make one 18_a
+1926.61	Bed016-c1 19b		 18_b		Two 19b APs, make one 18_b
+1997.87	Bed016-c1 28b++.29a	 28b++.28_a	Two 29a APs, make one 28_a
+1999.93	Bed016-c5 29b		 28_b		Two 29b APs, make one 28_b
+2078.11	Bed016-c1 36a				Adjusted for fg/fh/b problem
+2088.03	Bed016-c5 38b-1		 38b		Wrong label
+2090.34	Bed016-c5 38b-2		 38b+		Wrong label
+2118.87	Bed016-c9 42b-2		 42b-2+		Plus was missing
+2359.22	Bed016-c3		 60_a		Inserted for m/2 problem
+2369.24	Bed016-c5		 60_b		Inserted for m/2 problem
+237.226	Bed017-c0		 5_a		Inserted for m/2 problem
+238.03	Bed017-c1		 5_b		Inserted for m/2 problem
+582.062	Bed017-c5		 12_a		Inserted for m/2 problem
+586.459	Bed017-c3		 12_b		Inserted for m/2 problem
+1845.71	Bed017-c2 19b-1		 19b		Wrong label
+1851.18	Bed017-c2 19b-2		 19b+		Wrong label
+37.335	Bmr001-c1 7b-1.8a	 7b-1.8a-1	Wrong label
+37.719	Bmr001-c8 7b-2.8a	 7b-2.8a-2	Wrong label
+38.226	Bmr001-c0 8b		 8b.8_a		Inserted for m/2 problem
+39.281	Bmr001-c1		 8_b		Inserted for m/2 problem
+63.146	Bmr001-c1 10b|11a	 10b.11a	Malformed AP
+153.326	Bmr001-c0 24b		 24b+		Plus was missing
+1131.75	Bmr001-c8 106a		 106a+		Plus was missing
+1363.38	Bmr001-c0 14a		 15_a		Two 14a APs, make one 15_a
+1365.24	Bmr001-c0 14a+		 15_a+		Two 14a APs, make one 15_a
+1365.47	Bmr001-c0 14a++		 15_a++		Two 14a APs, make one 15_a
+1365.66	Bmr001-c8 14b		 15_b		Two 14b APs, make one 15_b
+1550.62	Bmr001-c8 35a				Adjusted for fg/fh/b problem
+1553.11	Bmr001-c8 35a+				Adjusted for fg/fh/b problem
+1642.78	Bmr001-c0 46a		 46a+		Plus was missing
+1658.35	Bmr001-c0 46a+		 46a++++	Extra Pluses were missing
+1690.2	Bmr001-c1 52b-1		 52b		Wrong label
+1694.72	Bmr001-c1 52b-2		 52b+		Wrong label
+1884.28	Bmr001-c8 8b		 8b-1		Wrong label
+1885.49	Bmr001-c1 8b+		 8b-2		Wrong label
+19.93	Bmr002-c2 5b		 5b-1		Wrong label
+47.415	Bmr002-c2 9b+.10a	 9b+.9_a	Two 10a APs, make one 9_a
+47.832	Bmr002-c1 10b		 9_b		Two 10b APs, make one 9_b
+57.709	Bmr002-c2 10b-1		 10b		Wrong label
+58.728	Bmr002-c2 10b-2		 10b+		Wrong label
+81.52	Bmr002-c0 11b-2		 12b-2		Wrong label
+100.083	Bmr002-c0 17b-1.18a	 17b.18a	Wrong label
+240.452	Bmr002-c0		 40_a		Inserted for m/2 problem
+241.652	Bmr002-c2		 40_b		Inserted for m/2 problem
+304.839	Bmr002-c3 42a				Adjusted for fg/fh/b problem
+528.028	Bmr002-c2		 51_a		Inserted for m/2 problem
+529.825	Bmr002-c3		 51_b		Inserted for m/2 problem
+679.191	Bmr002-c3 12a		 12a.12_a	Inserted for m/2 problem
+684.831	Bmr002-c1		 12_b		Inserted for m/2 problem
+848.057	Bmr002-c3 33b+		 32b+		Wrong label
+923.826	Bmr002-c2 44b		 43b		Wrong label
+1067.76	Bmr002-c1 55b		 54b		Wrong label
+1113.44	Bmr002-c1		 60_a		Inserted for m/2 problem
+1115.26	Bmr002-c2		 60_b		Inserted for m/2 problem
+1556.01	Bmr002-c3 41b+|		 41b+		Malformed AP
+1572.41	Bmr002-c3 43a		 42_a		Two 43a APs, make one 42_a
+1575.91	Bmr002-c2 43b		 42_b		Two 43b APs, make one 42_b
+1679.6	Bmr002-c3 59b+		 59b		Extra Plus removed?
+1859.78	Bmr002-c0		 10b		Inserted for m/2 problem
+1861.02	Bmr002-c0 10b		 10b+		Adjusted for m/2 problem
+1861.3	Bmr002-c1 9b-1+		 9b-1+.10_a	Inserted for m/2 problem
+1865.55	Bmr002-c3		 10_b		Inserted for m/2 problem
+2016.82	Bmr002-c1 29b-1		 29b		Wrong label
+2188.05	Bmr002-c2 52b-1.53a	 52b.53a	Wrong label
+2309.81	Bmr002-c3		 59_a		Inserted for m/2 problem
+2310.45	Bmr002-c1		 59_b		Inserted for m/2 problem
+2312.61	Bmr002-c1		 59_b+		Inserted for m/2 problem
+2313.15	Bmr002-c1		 59_b++		Inserted for m/2 problem
+2509.57	Bmr002-c2 16b++		 15b++		Wrong label
+2526.8	Bmr002-c0 19b		 18b		Wrong label
+2527.51	Bmr002-c0 19b+		 18b+		Wrong label
+745.963	Bmr003-c4 20b-2+	 20b-1+		Wrong label
+1030.29	Bmr003-c0 68b.69a	 68b.68_a	Two 69a APs, make one 68_a
+1034.37	Bmr003-c2 69b		 68_b		Two 69b APs, make one 68_b
+1571.39	Bmr003-c1 43b		 43b-1		Wrong label
+1572.06	Bmr003-c2 43b+		 43b-2		Wrong label
+1719.83	Bmr003-c4 71a		 72a		Wrong label
+1722.55	Bmr003-c4 71a+		 72a+		Wrong label
+1838.37	Bmr003-c0 6a		 4_a		Two 6a APs, make one 4_a
+1840.6	Bmr003-c1 6b		 4_b		Two 6b APs, make one 4_b
+2088.84	Bmr003-c1 37a+++.38a+++			Wrong label
+2089.94	Bmr003-c2 37a++++.38a++++ 37a+++.38a+++	Extra Plus removed
+2091	Bmr003-c2 37a+++++.38a+++++ 37a++++.38a++++ Extra Plus removed
+2094.48	Bmr003-c2 38a++++++	 38a+++++	Extra Plus removed
+2096.08	Bmr003-c2 38a+++++++	 38a++++++	Extra Plus removed
+2138.7	Bmr003-c0 46b++.47a	 46b++.47a+	Plus was missing
+2143.1	Bmr003-c0 46b+++.47a+	 46b+++.47a++	Extra Plus was missing
+2320.46	Bmr003-c0 72b.74a	 72b+.74a	Plus was missing
+2654.05	Bmr003-c4 31b+		 31b++		Extra Plus was missing
+2849.24	Bmr003-c0 53b-1.54a	 53b-1.53_a	Two 54a APs, make one 53_a
+2849.39	Bmr003-c3 54b		 53_b		Two 54b APs, make one 53_b
+3449.33	Bmr003-c4 82b		 82b-1		Wrong label
+3449.74	Bmr003-c1 82b+		 82b-2		Wrong label
+3542.53	Bmr003-c3 89b.90b	 89b.90a	Wrong label
+3692.55	Bmr003-c0 15b		 15b-1		Wrong label
+3694.54	Bmr003-c1 15b+		 15b-2		Wrong label
+3696.52	Bmr003-c1 15b++.16a	 15b-2+.16a	Wrong label
+3700.88	Bmr003-c1 15b+++	 15b-2++	Wrong label
+3704.76	Bmr003-c1 15b++++	 15b-2+++	Wrong label
+3706.35	Bmr003-c1 15b+++++	 15b-2++++	Wrong label
+3707.56	Bmr003-c1 15b++++++.17a	 15b-2+++++.17a	Wrong label
+4105.51	Bmr003-c3 89b++90a+	 89b++.90a+	Malformed AP
+501.93	Bmr005-c4 7a+++		 7a++		Extra Plus removed?
+523.558	Bmr005-c4 FBH				No AP, FBH moved to Comments
+748.024	Bmr005-c2 5a++		 5a+++		Extra Plus was missing
+943.328	Bmr005-c4 27b-1+	 27b-2		Wrong label
+943.598	Bmr005-c5 27b-2		 27b-3		Wrong label
+947.639	Bmr005-c4 28b+.29a	 28b-1++.29a	Wrong label
+1071.77	Bmr005-c8 33a		 33a++		Pluses were missing
+1191	Bmr005-c0		 42b-1		Inserted for m/2 problem
+1193.03	Bmr005-c8 42b		 42b-2		Adjusted for m/2 problem
+1297.92	Bmr005-c2 10b.11a	 10b.10_a	Two 11a APs, make one 10_a
+1298.18	Bmr005-c3 11b		 10_b		Two 11b APs, make one 10_b
+1471.63	Bmr005-c2		 21_a		Inserted for m/2 problem
+1473.8	Bmr005-c8		 21_b		Inserted for m/2 problem
+1480.22	Bmr005-c3 22b+		 22b++		Extra Plus was missing
+1487.53	Bmr005-c2 24b.25a	 23b.25a	Wrong label
+1573.04	Bmr005-c8 31b		 31b.31_a	Inserted for m/2 problem
+1573.31	Bmr005-c3		 31_b		Inserted for m/2 problem
+1766.08	Bmr005-c8 41b		 40b		Wrong label
+1944.79	Bmr005-c3 9a				Adjusted for fg/fh/b problem
+2022.67	Bmr005-c3 19b-1		 19b		No need for -1
+2030.81	Bmr005-c3 19b-1+	 19b+		No need for -1
+2162.13	Bmr005-c4 35a		 35_a		Two 35a APs, make one 35_a
+2162.38	Bmr005-c3 35b		 35_b		Two 35b APs, make one 35_b
+2418.69	Bmr005-c2 FBH				No AP, FBH moved to Comments
+2452.95 Bmr005-c1 3a		 2_a		Two 3a APs, make one 2_a
+2454.24	Bmr005-c8 3b-1		 2_b-1		Two 3b APs, make one 2_b
+2455.22	Bmr005-c4 3b-2		 2_b-2		Two 3b APs, make one 2_b
+2553.7	Bmr005-c8		 12_a		AP moved from Comments
+2664.14	Bmr005-c4 21b		 20b		Wrong label
+2670.99	Bmr005-c4 21b+		 20b+		Wrong label
+2677.14	Bmr005-c4 21b++		 20b++		Wrong label
+2685.39	Bmr005-c4 21b+++	 20b+++		Wrong label
+3395.52	Bmr005-c4		 7_a		Inserted for m/2 problem
+3396.41	Bmr005-c0		 7_b		Inserted for m/2 problem
+3794.83	Bmr005-c4 2b+		 2b		Extra Plus removed
+3797.59	Bmr005-c4 2b++		 2b+		Extra Plus removed
+3802.39	Bmr005-c4 2b+++		 2b++		Extra Plus removed
+3802.73	Bmr005-c4 2b++++	 2b+++		Extra Plus removed
+3876.17 Bmr005-c2 4b.5a		 4b.4_a		Two 5a APs, make one 4_a
+3877.48	Bmr005-c0 5b		 4_b		Two 5b APs, make one 4_b
+3960.56	Bmr005-c4 8_a		 8__a		Two 8_a APs, make one 8__a
+3968.63	Bmr005-c8 8_b		 8__b		Two 8_b APs, make one 8__b
+140.6	Bmr006-c9 8b+.9a+	 8b+++.9a+++	Extra Pluses were missing
+348.28	Bmr006-c3 16b++		 16b+++		Extra Plus was missing
+356.27	Bmr006-c3 16b+++	 16b++++	Extra Plus was missing
+358.79	Bmr006-c3 16b++++	 16b+++++	Extra Plus was missing
+366.083	Bmr006-c3 16b+++++	 16b++++++	Extra Plus was missing
+1077.1	Bmr006-c9 35b-1.36a	 35b-1.35_a	Two 36a APs, make one 35_a
+1077.91	Bmr006-c1 36b		 35_b		Two 36b APs, make one 35_b
+1185.29	Bmr006-c9 49a+		 49a++		Extra Plus was missing
+1288.77	Bmr006-c1 10b-2+	 10b-2++	Extra Plus was missing
+1290.93	Bmr006-c1 12b13a	 12b.13a	Malformed AP
+1316.16	Bmr006-c1 15b++17a	 15b++.17a	Malformed AP
+1359.73	Bmr006-c1 23b+		 23b++		Extra Plus was missing
+1361.6	Bmr006-c1 23b++		 23b+++		Extra Plus was missing
+1521.11	Bmr006-c1 36b+.37a	 35b+.37a	Wrong label
+1605.01	Bmr006-c1 42b+		 42b++		Extra Plus was missing
+1752.66	Bmr006-c4 50b		 50b+		Plus was missing
+1753.49	Bmr006-c4 50b		 50b++		Pluses were missing
+1916.21	Bmr006-c2 3b+++.^b	 3b+++		Malformed AP
+2746.13	Bmr006-c2 4a		 4a+		Plus was missing
+2758.02	Bmr006-c3 4b+		 4b++		Extra Plus was missing
+2761.63	Bmr006-c3 4b++		 4b+++		Extra Plus was missing
+2762.39	Bmr006-c3 4b+++		 4b++++		Extra Plus was missing
+2769.79	Bmr006-c3 4b++++	 4b+++++	Extra Plus was missing
+2774.5	Bmr006-c3 4b+++++	 4b++++++	Extra Plus was missing
+2779.34	Bmr006-c3 4b++++++	 4b+++++++	Extra Plus was missing
+2780.8	Bmr006-c3 4b+++++++	 4b++++++++	Extra Plus was missing
+2784.04	Bmr006-c3 4b++++++++.5a	 4b+++++++++.5a	Extra Plus was missing
+2945.38	Bmr006-c3 15b+		 15b++		Extra Plus was missing
+2955.95	Bmr006-c3 15b++		 15b+++		Extra Plus was missing
+2977.62	Bmr006-c3 15b+++	 15b++++	Extra Plus was missing
+2981.42	Bmr006-c3 15b++++	 15b+++++	Extra Plus was missing
+2985.6	Bmr006-c3 15b+++++	 15b++++++	Extra Plus was missing
+3124.08	Bmr006-c3 12b++		 12b+++		Extra Plus was missing
+3129.22	Bmr006-c3 12b+++.13a	 12b++++.13a	Extra Plus was missing
+3134.01	Bmr006-c3 12b++++	 12b+++++	Extra Plus was missing
+3136.01	Bmr006-c3 12b+++++.14a	 12b++++++.14a	Extra Plus was missing
+3137.41	Bmr006-c3 12b++++++.15a	 12b+++++++.15a	Extra Plus was missing
+3138.31	Bmr006-c3 12b+++++++	 12b++++++++	Extra Plus was missing
+3155.65	Bmr006-c1 17b		 17b+		Plus was missing
+3506.27	Bmr006-c1 62b+		 62b++		Extra Plus was missing
+3617.58	Bmr006-c4 1b+		 1b++		Extra Plus was missing
+3619.3	Bmr006-c4 1b++.4a	 1b+++.4a	Extra Plus was missing
+3627.62	Bmr006-c4 1b+++.4a+	 1b++++.4a+	Extra Plus was missing
+3628.46	Bmr006-c4 1b++++	 1b+++++	Extra Plus was missing
+3630.56	Bmr006-c4 1b+++++	 1b++++++	Extra Plus was missing
+3632.5	Bmr006-c4 1b++++++	 1b+++++++	Extra Plus was missing
+3839.84	Bmr006-c3 15b+++.17a	 15b++++.17a	Extra Plus was missing
+3987.11	Bmr006-c1 25b.26a	 25b+.26a+	Plus was missing
+104.405	Bmr007-c3 11b.12a	 11b.11_a	Two 12a APs, make one 11_a
+106.269	Bmr007-c0 12b		 11_b		Two 12b APs, make one 11_b
+494.518	Bmr007-c8 26b				Adjusted for fg/fh/b problem
+495.358	Bmr007-c8 26b+				Adjusted for fg/fh/b problem
+960.729	Bmr007-c1 19b		 19b+		Plus was missing
+1445.59	Bmr007-c1 15b-1		 15b		Wrong label
+1459.7	Bmr007-c1 15b-1+	 15b+		Wrong label
+1465.75	Bmr007-c1 15b-2.16a	 15b++.16a	Wrong label
+1473.75	Bmr007-c0 16b		 16b+		Plus was missing
+2730.64	Bmr007-cB 15b+		 15b++		Extra Plus was missing
+2735.43	Bmr007-cB 15b++		 15b+++		Extra Plus was missing
+3254.56	Bmr007-c8 32b.33a	 32b+.33a+	Plus was missing
+242.979	Bmr008-c1 2a+		 2a++		Extra Plus was missing
+322.447	Bmr008-c8 9b		 9a+		Wrong label
+376.264	Bmr008-c8 4b.5a		 4b+.5a		Plus was missing
+406.213	Bmr008-c4 9b+.10a	 9b+.10a+	Plus was missing
+505.131	Bmr008-c1 1a		 1a+		Plus was missing
+559.641	Bmr008-c3 8a		 7_a		Two 8a APs, make one 7_a
+563.381	Bmr008-c0 8b		 7_b		Two 8b APs, make one 7_b
+1074.41	Bmr008-c1 4b.5a+	 4b.5a		Extra Plus removed
+1076.42	Bmr008-c1 4b+.5a++	 4b+.5a+	Extra Plus removed
+1188.26	Bmr008-c0 10a		 10a+		Plus was missing
+1189.39	Bmr008-c0 10a		 10a++		Pluses were missing
+1191.39	Bmr008-c0 10a		 10a+++		Pluses were missing
+1626.9	Bmr008-c3 15b-1		 15b-2		Wrong label
+1628.92	Bmr008-c3 15b-1+.16a	 15b-2+.16a	Wrong label
+1856.5	Bmr008-c0 8a+		 8a++		Extra Plus was missing
+1956.1	Bmr008-c3 10b-4		 10b-1		Wrong label
+1956.65	Bmr008-c3 10b-1		 10b-1+		Plus was missing
+2165.17	Bmr008-c8 3b-2		 3b-1+		Wrong label
+2166.23	Bmr008-c1 3b-3		 3b-2		Wrong label
+2166.57	Bmr008-c1 3b-3+		 3b-2+		Wrong label
+2317.43	Bmr008-c8 2a++		 2a+++		Extra Plus was missing
+2404.49	Bmr008-c0 1a+		 1a++		Extra Plus was missing
+2622.34	Bmr008-c8 7a				Adjusted for fg/fh/b problem
+2788.44	Bmr008-c4 5b+		 5b++		Extra Plus was missing
+2800.01	Bmr008-c4 7b		 7b-1		Wrong label
+2800.5	Bmr008-c1 7b-1.8a	 7b-2		Wrong label/Adjusted fg/fh/b
+2802.14	Bmr008-c2 9a+		 9a		Adjusted for fg/fh/b problem
+2871.21	Bmr008-c2 10b-1		 10b		Wrong label
+2873.41	Bmr008-c2 10b-2.11a	 10b+.11a	Wrong label
+3097.14	Bmr008-c0 12a				Adjusted for fg/fh/b problem
+3099.08	Bmr008-c0 12a+				Adjusted for fg/fh/b problem
+3127.35	Bmr008-c2 16b+.17a	 16b.17a	Adjusted for fg/fh/b problem
+3177.3	Bmr008-c1 23b		 23b+		Plus was missing
+713.004	Bmr009-c3 4b-2.5a-2	 4b-2.5a-1	Wrong label
+713.325	Bmr009-c1 4b-1.5a-1	 4b-1.5a-2	Wrong label
+1436.04	Bmr009-c3 4b+.5a+.6a	 4b+.5a+.6a+	Plus was missing
+1603.04	Bmr009-c0 4b.		 4b		Malformed AP
+1967.34	Bmr009-c0 4a		 4a.4_a		Inserted for m/2 problem
+1969.12	Bmr009-c1		 4_b		Inserted for m/2 problem
+2091	Bmr009-c3 7b+		 7b+++		Extra Pluses were missing
+2164.38	Bmr009-c3 6a.7a		 6a		No need for AP 7
+2165.45	Bmr009-c2 6b.7a		 6b		No need for AP 7
+2175.36	Bmr009-c2 7b		 6b+		Wrong label
+2200.93	Bmr009-c0 11b+		 11b++		Extra Plus was missing
+2202.18	Bmr009-c0 11b++.12a	 11b+++.12a	Extra Plus was missing
+2204.33	Bmr009-c0 11b+++.12a+	 11b++++.12a+	Extra Plus was missing
+2205.66	Bmr009-c0 11b++++.12a++	 11b+++++.12a++	Extra Plus was missing
+2339.53	Bmr009-c3 4b		 4b-1		Wrong label
+2341.35	Bmr009-c1 4b+		 4b-2		Wrong label
+2362.58	Bmr009-c2 7b.8a		 7b-1.8a	Wrong label
+2362.61	Bmr009-c0 7a+		 7b-2		Wrong label
+2392.56	Bmr009-c3 11b-1.12a-2	 11b-1.12a-1	Wrong label
+2393.03	Bmr009-c0 11b-2.12a-1.13a 11b-2.12a-2.13a Wrong label
+2410.72	Bmr009-c0 1b+		 1b		Adjusted for fg/fh/b problem
+2412.3	Bmr009-c0 1b++.2a	 1b+.2a		Adjusted for fg/fh/b problem
+2513.3	Bmr009-c1 9b-2+		 9b-1+		Wrong label
+2573.03	Bmr009-c1 5b+.6a	 5b.6a		Adjusted for fg/fh/b problem
+2575.47	Bmr009-c1 5b++.		 5b+		Malformed AP/Adjusted fg/fh/b
+2754.67	Bmr009-c0 5b-4		 5b-3+		Wrong label
+243.059	Bmr010-c2 22b-2.23a	 21b-2.23a	Wrong label
+279.977	Bmr010-c2		 23_a		Inserted for m/2 problem
+287.634	Bmr010-c3		 23_b		Inserted for m/2 problem
+305.335	Bmr010-c8 25b		 24b		Wrong label
+307.625	Bmr010-c8 25b+		 24b+		Wrong label
+793.416	Bmr010-c0 15b .16a	 15b.16a	Malformed AP
+932.966	Bmr010-c0		 24_a		Inserted for m/2 problem
+934.838	Bmr010-cb 25b		 24_b		Wrong label/Inserted for m/2
+935.343	Bmr010-c2 24b.25a	 24b		Wrong label
+1091.37	Bmr010-c3 33b.33a	 33b.34a	Wrong label
+1171.34	Bmr010-cb 42b+++.43a++	 42b+++.43a+	Extra Plus removed
+1172.07	Bmr010-cb 42b++++.43a+++ 42b++++.43a++	Extra Plus removed
+1459.82	Bmr010-c8 12a		 11_a		Two 12a APs, make one 11_a
+1465.11	Bmr010-c0 12b		 11_b		Two 12b APs, make one 11_b
+1526.09	Bmr010-c1 14a		 13_a.14a	Inserted for m/2 problem
+1528.36	Bmr010-c0		 13_b		Inserted for m/2 problem
+1699.19	Bmr010-c0 34b+		 34b		Extra Plus removed
+1700.34	Bmr010-c0 34b++		 34b+		Extra Plus removed
+2161.51	Bmr010-cb 23		 23a		Malformed AP
+2292.78	Bmr010-c8 s				No AP
+2759.79	Bmr010-cb 29a		 28_a		Two 29a APs, make one 28_a
+2761.4	Bmr010-c3 29b		 28_b		Two 29b APs, make one 28_b
+2851.77	Bmr010-cb		 32_a		Inserted for m/2 problem
+2857.52	Bmr010-c3		 32_b		Inserted for m/2 problem
+2876.46	Bmr010-cb		 32__a		Inserted for m/2 problem
+2877.08	Bmr010-c3		 32__b		Inserted for m/2 problem
+377.396	Bmr011-cb 32b+.		 32b+.33a	Malformed AP
+439.35	Bmr011-cb 37b+.38a	 37b.38a	Adjusted for fg/fh/b problem
+514.03	Bmr011-cb 39b+.40a	 39b+		Adjusted for fg/fh/b problem
+515.95	Bmr011-cb 39b++.40a+	 39b++		Adjusted for fg/fh/b problem
+627.076	Bmr011-c1		 1_a		Inserted for m/2 problem
+629.894	Bmr011-cb		 1_b		Inserted for m/2 problem
+642.3	Bmr011-cb 4b-2		 4b-2.4_a	Inserted for m/2 problem
+643.204	Bmr011-c4		 4_b		Inserted for m/2 problem
+779.513	Bmr011-c4 14a		 14a.14_a	Inserted for m/2 problem
+785.98	Bmr011-cb		 14_b		Inserted for m/2 problem
+1350.26	Bmr011-c0 7b.9a		 7b.8a		Wrong label
+1635.01	Bmr011-cb 42b		 41b		Wrong label
+1635.13	Bmr011-cb 42b+		 41b+		Wrong label
+1635.93	Bmr011-cb 42b++		 41b++		Wrong label
+1794.45	Bmr011-c4		 1a		Inserted for m/2 problem
+1801.37	Bmr011-c8		 1b		Inserted for m/2 problem
+1889.3	Bmr011-c4 6a		 6_a		Two 6a APs, make one 6_a
+1892.34	Bmr011-cb 6b		 6_b		Two 6b APs, make one 6_b
+1902.81	Bmr011-c4 8b		 8b+		Plus was missing
+1953.74	Bmr011-cb 15b		 15b.15_a	Inserted for m/2 problem
+1955.02	Bmr011-c3		 15_b		Inserted for m/2 problem
+1976.17	Bmr011-cb		 17b-1		Inserted for m/2 problem
+1977.36	Bmr011-c8 17b		 17b-2		Adjusted for m/2 problem
+2167.77	Bmr011-c2		 30_a		Inserted for m/2 problem
+2171.14	Bmr011-cb		 30_b		Inserted for m/2 problem
+2196.27	Bmr011-c0		 30__a		Inserted for m/2 problem
+2197.93	Bmr011-cb		 30__b		Inserted for m/2 problem
+2229.66	Bmr011-c0 33b+		 33b+.33_a	Inserted for m/2 problem
+2233.02	Bmr011-cb		 33_b		Inserted for m/2 problem
+2603.72	Bmr011-cb 9b-1		 9b		No need for -1
+2759.8	Bmr011-c0 19b.20a	 19b.20a.20_a	Inserted for m/2 problem
+2765.34	Bmr011-c3		 20_b		Inserted for m/2 problem
+2794.52	Bmr011-c0 23b		 23b+		Plus was missing
+2991.01	Bmr011-cb 38b++.39a	 38b.39a	Adjusted for fg/fh/b problem
+2992.39	Bmr011-cb 38b+++.39a+	 38b+.39a+	Adjusted for fg/fh/b problem
+3024.31	Bmr011-c0 2b-2		 2b-2.3_a	Inserted for m/2 problem
+3029.51	Bmr011-c1 6b-2.7a	 6b-2.7a.7_a	Inserted for m/2 problem
+3030.27	Bmr011-c3		 3_b		Inserted for m/2 problem
+3055.9	Bmr011-cb		 7_b		Inserted for m/2 problem
+3167.2	Bmr011-c1 21a+		 21a+.21_a	Inserted for m/2 problem
+3168.84	Bmr011-c3		 21_b		Inserted for m/2 problem
+3181.1	Bmr011-c4 24a		 24a.24_a	Inserted for m/2 problem
+3182.92	Bmr011-c3		 24_b		Inserted for m/2 problem
+3205.28	Bmr011-c1 27.5a		 27_a		Malformed AP
+3208.22	Bmr011-c0 27.5b		 27_b		Malformed AP
+3220.46	Bmr011-cb		 29_a		Inserted for m/2 problem
+3226.37	Bmr011-c0		 29_b		Inserted for m/2 problem
+3246.05	Bmr011-cb 32b-2		 32b-3		Two 32b-2 APs, make one 32b-3
+3273.29	Bmr011-c1		 35b+		Inserted for m/2 problem
+3298.98	Bmr011-c0 27b+		 37b+		Wrong label
+3345.85	Bmr011-c0 35a		 34_a		Two 35a APs, make one 34_a
+3347.71	Bmr011-cb 35b		 34_b		Two 35b APs, make one 34_b
+3403.07	Bmr011-c0 37b-2.38a	 37b-2.37_a	Two 38a APs, make one 37_a
+3404.11	Bmr011-c3 38b		 37_b		Two 38b APs, make one 37_b
+701.613	Bmr012-c1		 12_a		Inserted for m/2 problem
+706.48	Bmr012-c4		 12_b		Inserted for m/2 problem
+1157.33	Bmr012-c4 52b		 51b		Wrong label
+1231.5	Bmr012-c0 6a+		 6b+		Wrong label
+1251.23	Bmr012-c1 10b		 10b.10_a	Inserted for m/2 problem
+1251.61	Bmr012-c0		 10_b		Inserted for m/2 problem
+1358.23	Bmr012-c4 23b-1+.24a	 23b-1+.23_a	Two 24a APs, make one 23_a
+1360.72	Bmr012-c8 24b		 23_b		Two 24b APs, make one 23_b
+1783.54	Bmr012-c4 75b-2.75a	 75b-2.75_a	Two 75a APs, make one 75_a
+1786.48	Bmr012-c2 75b		 75_b		Two 75b APs, make one 75_b
+1821.54	Bmr012-c1 5b.		 5b		Malformed AP
+1865.06	Bmr012-c1 17b-2		 17b-1		Wrong label
+1934.88	Bmr012-c1 25b-3+	 25b-2+		Wrong label
+1965.37	Bmr012-c8 32b-2		 31b-2		Wrong label
+2135.11	Bmr012-c4 48a+.		 48a+		Malformed AP
+2230.7	Bmr012-c0 51b.52.a	 51b.52a	Malformed AP
+100.188	Bmr013-c3 1b-2		 1b		Wrong label
+101.238	Bmr013-c3 1b-2		 1b+		Wrong label
+291.983	Bmr013-c2 15b++++	 15b+++++	Extra Plus was missing
+394.45	Bmr013-c3		 21_a		Inserted for m/2 problem
+400.758	Bmr013-c1		 21_b		Inserted for m/2 problem
+559.927	Bmr013-cB		 34_a		Inserted for m/2 problem
+560.952	Bmr013-c4		 34_b		Inserted for m/2 problem
+666.751	Bmr013-c8 2b-1		 2b		Adjusted for fg/fh/b problem
+742.37	Bmr013-c8 3b.3.5a	 3b.3_a		Malformed AP
+745.042	Bmr013-c4 3.5b		 3_b		Malformed AP
+806.342	Bmr013-c4		 9_a		Inserted for m/2 problem
+806.52	Bmr013-c3		 9_b-1		Inserted for m/2 problem
+807.942	Bmr013-c2 9b.10a	 9b.9_b-2.10a	Inserted for m/2 problem
+1045.29	Bmr013-c4 13.5a		 13_a		Malformed AP
+1055.13	Bmr013-cB 13.5b		 13_b		Malformed AP
+1055.78	Bmr013-cB 13.5b+	 13_b+		Malformed AP
+1056.57	Bmr013-cB 13.5b++	 13_b++		Malformed AP
+1081.74	Bmr013-c4		 13__a		Inserted for m/2 problem
+1082.54	Bmr013-c3		 13__b		Inserted for m/2 problem
+1108.62	Bmr013-c4 14.5a		 13___a		Malformed AP
+1110.9	Bmr013-cB 14.5b		 13___b		Malformed AP
+1331.89	Bmr013-c4		 6b		Inserted for m/2 problem
+1332.71	Bmr013-c4 6b		 6b+		Adjusted for m/2 problem
+1412.2	Bmr013-c3 12a		 12+		Plus was missing
+1424.93	Bmr013-c3 13a				Adjusted for fg/fh/b problem
+1552.93	Bmr013-c1 FBH				No AP, FBH moved to Comments
+1594.33	Bmr013-c1 23b-1		 23b		Wrong label
+1594.99	Bmr013-c1 23b-2		 23b+		Wrong label
+1709.37	Bmr013-c1 31b.32a	 31b.31_a.32a	Inserted for m/2 problem
+1712.74	Bmr013-c2		 31_b		Inserted for m/2 problem
+1745.41	Bmr013-c1 35b-1.36a	 35b.36a	No need for -1
+1746.52	Bmr013-c1 35b-1+	 35b+		No need for -1
+1780.49	Bmr013-cB		 40a		Inserted for m/2 problem
+1797.91	Bmr013-c2		 40b		Inserted for m/2 problem
+1837.18	Bmr013-cB		 1_a		Inserted for m/2 problem
+1840.74	Bmr013-c1		 1_b		Inserted for m/2 problem
+1880.46	Bmr013-c1 2b+		 2b++		Extra Plus was missing
+1987.03	Bmr013-c2 10a		 9_a		Two 10a APs, make one 9_a
+1989.35	Bmr013-c3 10b		 9_b		Two 10b APs, make one 9_b
+2579.97	Bmr013-c8		 24b.25a	Label was missing
+792.341	Bmr014-c4 s^aa				No AP
+1871.79	Bmr014-c4 10b.11a	 10b		Adjusted for fg/fh/b problem
+2215.72	Bmr014-c8 9b		 9b.10a		Label was missing
+2219.84	Bmr014-cB 9b+.10a.11a	 9b+.10a+.11a	Plus was missing
+2351.54	Bmr014-c8 1b+		 1b		Extra Plus removed
+2352	Bmr014-c8 1b++.2a	 1b+.2a		Extra Plus removed
+2354.36	Bmr014-c8 1b+++		 1b++		Extra Plus removed
+3006.49	Bmr014-c4 1b-1		 1b-2		Wrong label
+3007.41	Bmr014-c4 1b+		 1b-2+		Wrong label
+213.247	Bmr015-c2 33b.33a	 33b.34a	Wrong label
+346.231	Bmr015-c1 53a		 53a+		Plus was missing
+369.715	Bmr015-c1 55b+.56a++	 55b++.56a++	Extra Plus was missing
+571.64	Bmr015-c1 77b		 77b+		Plus was missing
+687.048	Bmr015-c2 6b-2.7a	 6b.7a		Adjusted for fg/fh/b problem
+885.245	Bmr015-c2 19a+		 19a++		Extra Plus was missing
+886.785	Bmr015-c2 19a++		 19a+++		Extra Plus was missing
+889.867	Bmr015-c8 19b		 19b+		Plus was missing
+931.814	Bmr015-c2 22b.23a	 22b+.23a	Plus was missing
+935.474	Bmr015-c2 22b++.23a++	 22b++.23a+	Extra Plus removed?
+938.324	Bmr015-c2 22b+++.23a+++	 22b+++.23a++	Extra Plus removed?
+2318.43	Bmr015-c2 19b.20a	 18b.20a	Wrong label
+239.347	Bmr016-cB 19b.20a	 19b+.20a	Plus was missing
+243.831	Bmr016-cB 21a				Adjusted for fg/fh/b problem
+269.988	Bmr016-cB 25a+		 25a++		Extra Plus was missing
+284.25	Bmr016-c8 28b.		 28b		Malformed AP
+448.36	Bmr016-c8 48b.49a	 48b.48_a	Two 49a APs, make one 48_a
+449.444	Bmr016-c5 49b		 48_b		Two 49b APs, make one 48_b
+702.909	Bmr016-cB 9b10a		 9b.10a		Malformed AP
+833.15	Bmr016-cB 31b		 31b+		Plus was missing
+836.07	Bmr016-cB 31b+		 31b++		Extra Plus was missing
+993.32	Bmr016-c3 56b-1.57a	 56a+.57a	Wrong label
+993.5	Bmr016-c4 56b-2		 56b-1		Wrong label
+993.591	Bmr016-c8 56b-3		 56b-2		Wrong label
+995.91	Bmr016-c5		 56b-3		Inserted for m/2 problem
+1155.51	Bmr016-c4 68b.68a	 68b.69a	Wrong label
+1311	Bmr016-cB 11a		 11a++++++	Pluses were missing
+1967.13	Bmr016-c5 23b		 23b+		Plus was missing
+1967.65	Bmr016-c5 23b+		 23b++		Extra Plus was missing
+1974.81	Bmr016-c2 24b		 24a+		Wrong label
+1976.4	Bmr016-c5 24b+		 24b		Extra Plus removed
+1981.94	Bmr016-c5 26b+.27a	 26b++.27a	Extra Plus was missing
+2831.75	Bmr016-c5 87b-1		 87b-1+		Plus was missing
+2863.49	Bmr016-c5 91		 91a		Malformed AP
+3141.07	Bmr016-c5 19b++		 19b		Adjusted for fg/fh/b problem
+3303.06	Bmr016-c5 33b.34b	 33b.34a	Wrong label
+3725.91	Bmr016-c5 15b+		 15b		Extra Plus removed
+3728.77	Bmr016-c5 15b++		 15b+		Extra Plus removed
+3730.71	Bmr016-c5 15b+++	 15b++		Extra Plus removed
+3746.28	Bmr016-c3 18a		 18a+		Plus was missing
+3748.87	Bmr016-c3 18a		 18a++		Pluses were missing
+0.8	Bmr018-c2 1b.2a		 1b.1_a		Two 2a APs, make one 1_a
+1.55	Bmr018-c8 2b		 1_b		Two 2b APs, make one 1_b
+15.371	Bmr018-c4 3a+		 3a++		Extra Plus was missing
+19.53	Bmr018-c3 3b++		 3b+		Extra Plus removed
+87.635	Bmr018-c3 11a		 11a+		Plus was missing
+92.873	Bmr018-c4 13a		 12_a		Two 13a APs, make one 12_a
+93.53	Bmr018-c1 13b		 12_b		Two 13b APs, make one 12_b
+159.368	Bmr018-c2		 28_a		Inserted for m/2 problem
+160.971	Bmr018-c4		 28_b		Inserted for m/2 problem
+310.82	Bmr018-c4		 42b-2+.43a+	Label was missing
+612.35	Bmr018-c0 2a		 1_a		Two 2a APs, make one 1_a
+613.381	Bmr018-c4 2b		 1_b		Two 2b APs, make one 1_b
+661.65	Bmr018-c0 5b+.6a+	 5b+.6a+.6_a	Inserted for m/2 problem
+663.372	Bmr018-c2		 6_b		Inserted for m/2 problem
+804.163	Bmr018-c3 19b		 19b.19_a	Inserted for m/2 problem
+810.828	Bmr018-c4		 19_b		Inserted for m/2 problem
+1007.74	Bmr018-c2 32a		 32a+		Plus was missing
+1066.92	Bmr018-c5 35b+		 35a+		Wrong label
+1104.65	Bmr018-c4 43b.44a	 43b.44a.44_a	Inserted for m/2 problem
+1106.75	Bmr018-c5		 44_b		Inserted for m/2 problem
+1181.82	Bmr018-c5		 49a		Inserted for m/2 problem
+1185.86	Bmr018-c4		 49b		Inserted for m/2 problem
+1337.58	Bmr018-c3		 2_a		Inserted for m/2 problem
+1340.05	Bmr018-c4		 2_b		Inserted for m/2 problem
+1548.78	Bmr018-c3		 10_a		Inserted for m/2 problem
+1550.71	Bmr018-c5		 10_b		Inserted for m/2 problem
+1715.71	Bmr018-c0 18b-1		 18b		No need for -1
+1795.52	Bmr018-c0		 20a		Inserted for m/2 problem
+1800.47	Bmr018-c4		 20b		Inserted for m/2 problem
+1824.35	Bmr018-c3		 2_a		Inserted for m/2 problem
+1829.41	Bmr018-c4		 2_b		Inserted for m/2 problem
+1947.28	Bmr018-c4		 6_a		Inserted for m/2 problem
+1948.21	Bmr018-c3		 6_b		Inserted for m/2 problem
+2065.5	Bmr018-c0		 14_a		Inserted for m/2 problem
+2072.63	Bmr018-c4		 14_b		Inserted for m/2 problem
+2216.17	Bmr018-c2		 20_a		Inserted for m/2 problem
+2218.44	Bmr018-c4		 20_b		Inserted for m/2 problem
+2255.25	Bmr018-c2		 20__a		Inserted for m/2 problem
+2257.95	Bmr018-c4		 20__b		Inserted for m/2 problem
+2286.69	Bmr018-c2 21a++		 21a++.21_a	Inserted for m/2 problem
+2287.23	Bmr018-c4		 21_b		Inserted for m/2 problem
+2317.23	Bmr018-c0 25a		 24_a		Two 25a APs, make one 24_a
+2318.18	Bmr018-c0 25a+		 24_a+		Two 25a APs, make one 24_a
+2318.92	Bmr018-c8 25b		 24_b		Two 25b APs, make one 24_b
+2438.27	Bmr018-c1		 3a++		Inserted for m/2 problem
+2441.53	Bmr018-c4		 3b+		Inserted for m/2 problem
+2503.12	Bmr018-c4		 9_a		Inserted for m/2 problem
+2504.71	Bmr018-c1		 9_b		Inserted for m/2 problem
+2625.13	Bmr018-c3		 13_a		Inserted for m/2 problem
+2628.94	Bmr018-c4		 13_b		Inserted for m/2 problem
+2631.25	Bmr018-c4 15b+		 14b+		Wrong label
+2775.57	Bmr018-c2 23a		 22_a.23a	Inserted for m/2 problem
+2777.38	Bmr018-c4		 22_b		Inserted for m/2 problem
+2826.54	Bmr018-c2 27b-2		 27a+		Wrong label
+2826.89	Bmr018-c3 27b-1		 27b		Wrong label
+2849.05	Bmr018-c3		 27_a		Inserted for m/2 problem
+2850.33	Bmr018-c4		 27_b		Inserted for m/2 problem
+2878.5	Bmr018-c3		 27__a		Inserted for m/2 problem
+2879.37	Bmr018-c4		 27__b		Inserted for m/2 problem
+3029.62	Bmr018-c2 4b+		 4b		Adjusted for fg/fh/b problem
+3198.97	Bmr018-c2		 12_a		Inserted for m/2 problem
+3201.79	Bmr018-c4		 12_b		Inserted for m/2 problem
+3300.13	Bmr018-c0		 16_a		Inserted for m/2 problem
+3305.68	Bmr018-c4		 16_b		Inserted for m/2 problem
+206.36	Bmr019-c5 30b.30a	 30b.31a	Wrong label
+258.103	Bmr019-c4 34b-1.35a	 34b.35a	No need for -1
+258.773	Bmr019-c4 34b-1+.35a+	 34b+.35a+	No need for -1
+355.32	Bmr019-c5 41a		 41a++		Pluses were missing
+494.465	Bmr019-c1 51		 51a		Malformed AP
+545.471	Bmr019-c1 56b-257a	 56b-2.57a	Malformed AP
+620.709	Bmr019-c5 1a+		 1a		Extra Plus removed?
+830.616	Bmr019-c5 23b.24a	 23b.23_a	Two 24a APs, make one 23_a
+832.046	Bmr019-c5 24a+		 23_a+		Two 24a APs, make one 23_a
+832.956	Bmr019-c5 24a++		 23_a++		Two 24a APs, make one 23_a
+833.609	Bmr019-c0 23b		 23_b		Wrong label
+1063.04	Bmr019-c4 54b		 54b+		Plus was missing
+1224.11	Bmr019-c5 1b.2a		 1b+.2a		Plus was missing
+1232.46	Bmr019-c5 1b+.2a+	 1b++.2a+	Extra Plus was missing
+1434.07	Bmr019-c0 15b.16a+	 15b+.16a+	Plus was missing
+1584.19	Bmr019-c0 20a++		 20a+++		Extra Plus was missing
+1588.24	Bmr019-c0 20a+++	 20a++++	Extra Plus was missing
+1589.64	Bmr019-c0 20a++++	 20a+++++	Extra Plus was missing
+1661.85	Bmr019-c4 21b.22a+	 21b+.22a+	Plus was missing
+1845.76	Bmr019-c5 6b.7a		 6b+.7a		Plus was missing
+1854.97	Bmr019-c5 6b+.7a+	 6b++.7a+	Extra Plus was missing
+2226.02	Bmr019-c0 51b		 51b+		Plus was missing
+2239.04	Bmr019-c4 53b+		 53b		Adjusted for fg/fh/b problem
+2239.6	Bmr019-c4 53b++.54a	 53b+.54a	Adjusted for fg/fh/b problem
+2242.85	Bmr019-c4 53b+++.54a+	 53b++.54a+	Adjusted for fg/fh/b problem
+2304.69	Bmr019-c1 62b-2		 62b-1+		Wrong label
+2306.04	Bmr019-c0 62b-3.63a	 62b-2.63a	Wrong label
+2468.9	Bmr019-c5 3s		 2a		Malformed AP
+2682.24	Bmr019-c1 19b.20a+	 19b.20a	Extra Plus removed
+2840.55	Bmr019-c1 48b+		 48b++		Extra Plus was missing
+2845.19	Bmr019-c1 48b++		 48b+++		Extra Plus was missing
+2850.64	Bmr019-c1 48b+++	 48b++++	Extra Plus was missing
+2987.65	Bmr019-c4 59b.60a	 59b		Adjusted for fg/fh/b problem
+3057.85	Bmr019-c5 13b.14a+	 13b+.14a+	Plus was missing
+3222.55	Bmr019-c1 42b-1		 42b		Wrong label
+3222.75	Bmr019-c1 42b-2		 42b+		Wrong label
+3224.66	Bmr019-c1 42b-2+	 42b++		Wrong label
+3227.67	Bmr019-c1 42b-2++.43a	 42b+++.43a	Wrong label
+3317.74	Bmr019-c4 52a		 52a+		Plus was missing
+3340.16	Bmr019-c0 53b		 53b-1		Wrong label
+3355.29	Bmr019-c0 54b-3		 54b-4		Wrong label
+3399.96	Bmr019-c2 63b-1+	 63b-3		Wrong label
+3400.87	Bmr019-c0 63b-3		 63b-1+		Wrong label
+3400.97	Bmr019-c2 63b-1++	 63b-3+		Wrong label
+3412.47	Bmr019-ca 66b		 66b-1		Adjusted for m/2 problem
+3413.68	Bmr019-c3		 66b-2		Inserted for m/2 problem
+3497.97	Bmr019-c5		 91b+		Inserted for m/2 problem
+3499.5	Bmr019-c5 91a		 92_a		Two 91a APs, make one 92_a
+3502.24	Bmr019-c5 91a+		 92_a+		Two 91a APs, make one 92_a
+3502.94	Bmr019-c1 91b		 92_b		Two 91b APs, make one 92_b
+340.41	Bmr020-ca 32b+++++++++++++++++ 32b++++++++++++++++++ Need Extra Plus
+362.324	Bmr020-ca 34a		 34a+		Plus was missing
+1066.77	Bmr020-ca 29b++.30.5a	 29b++.30_a	Malformed AP
+1070.94	Bmr020-c4 30.5b		 30_b		Malformed AP
+1369.7	Bmr020-c4 22b+.23a	 22b+.23a+	Plus was missing
+1371.62	Bmr020-ca 23b		 23b+		Plus was missing
+1546.25	Bmr020-c2 45b+.		 45b+		Malformed AP
+1688.68	Bmr020-ca 65b++		 65b+		Adjusted for fg/fh/b problem
+1689.41	Bmr020-ca 65b+++	 65b++		Adjusted for fg/fh/b problem
+1691.49	Bmr020-ca 65b++++	 65b+++		Adjusted for fg/fh/b problem
+1692.68	Bmr020-ca 65b+++++	 65b++++	Adjusted for fg/fh/b problem
+1693.61	Bmr020-ca 65b++++++	 65b+++++	Adjusted for fg/fh/b problem
+2526.53	Bmr020-c2		 17b+.18a	Label was missing
+2533.17	Bmr020-c1 19b		 19b-1		Wrong label
+2534.91	Bmr020-c5 19b+		 19b-2		Wrong label
+112.32	Bmr021-c1 19b-2+.19a+	 18b-2+.19a+	Wrong label
+226.42	Bmr021-c5 35a+.36a	 35a++.36a	Plus was missing
+231.51	Bmr021-c0 36b+.37a++	 36b++.37a++	Extra Plus was missing
+308.07	Bmr021-c0 51a+		 52a+		Wrong label
+610.508	Bmr021-c1		 1a		Label was missing
+613.788	Bmr021-c1 1a		 1a+		Plus was missing
+637.78	Bmr021-c1		 3_a		Inserted for m/2 problem
+639.471	Bmr021-c3		 3_b		Inserted for m/2 problem
+947.7	Bmr021-c5 48b+.49a+	 48b-2+.49a+	Wrong label
+1000.17	Bmr021-c3 55b		 54b		Wrong label
+1008.68	Bmr021-c0 56b.57a+	 56b.57a	Extra Plus removed
+1095.6	Bmr021-c5 70a+		 70a++		Extra Plus was missing
+2094.46	Bmr021-c1 6a+.7a+	 7a		Adjusted for fg/fh/b problem
+61.63	Bmr022-c0		 6a		Label was missing
+71.501	Bmr022-c0		 6a+		Label was missing
+343.301	Bmr022-c1		 37b		Inserted for m/2 problem
+380.05	Bmr022-c1 41b		 41a		Wrong label
+564.26	Bmr022-c5		 59a		Label was missing
+575.349	Bmr022-ca 59b		 59b.60a	Label was missing
+596	Bmr022-c5 62a		 62a+		Plus was missing
+1734.29	Bmr022-c1 69a++++	 69a+++		Adjusted for fg/fh/b problem
+2015.56	Bmr022-c0 19b.20a+	 19b+.20a+	Plus was missing
+2021.07	Bmr022-c0 19b+.20a+	 19b++.20a++	Extra Plus was missing
+2130.38	Bmr022-c2 40b++.41++	 40b++.41a++	Malformed AP
+2144.54	Bmr022-ca 42b-2.43a	 42b-1+.43a	Wrong label
+2179.72	Bmr022-c2 46b		 46b+		Plus was missing
+2182.78	Bmr022-c2 46b+		 46b++		Extra Plus was missing
+2252.5	Bmr022-c0 51+		 51a+		Malformed AP
+2231.16	Bmr022-c2 50a+		 50a++		Extra Plus was missing
+264.621	Bmr023-c5 22b		 22b.22_a	Inserted for m/2 problem
+266.032	Bmr023-c5		 22_b		Inserted for m/2 problem
+551.032	Bmr023-c0 50.5a		 49_a		Malformed AP
+553.64	Bmr023-c3 50.5b		 49_b		Malformed AP
+1080.32	Bmr023-c3 26a+		 26b+		Wrong label
+1447.06	Bmr023-c9		 8_a		Inserted for m/2 problem
+1453.03	Bmr023-c5		 8_b		Inserted for m/2 problem
+1479.71	Bmr023-c9 9b-1+.10a	 9b-1+.9_a.10a	Inserted for m/2 problem
+1480.23	Bmr023-c3		 9_b		Inserted for m/2 problem
+1507.85	Bmr023-c5 15b		 15b.15_a	Inserted for m/2 problem
+1511.58	Bmr023-c0		 15_b		Inserted for m/2 problem
+1628.82	Bmr023-c9 22b-1		 22b-1+		Plus was missing
+1642.58	Bmr023-c1		 25b-1		Inserted for m/2 problem
+1643.8	Bmr023-c1 25b-1		 25b-1+		Adjusted for m/2 problem
+1651.56	Bmr023-c9 26b-2		 26b-2+		Plus was missing
+2395.01	Bmr023-c5 102b		 102b-2		Wrong label
+2598.8	Bmr023-c3 13b		 13b+		Plus was missing
+2766.59	Bmr023-c3 30+		 30a+		Malformed AP
+372.754	Bmr024-c4 29b-2+	 29b-2		Extra Plus removed
+400.43	Bmr024-c3 32b.33a	 31b.33a	Wrong label
+593.339	Bmr024-c0 39a		 40a		Two 39a APs, make one 40a
+599.262	Bmr024-c5 39b		 40b		Two 39b APs, make one 40b
+814.502	Bmr024-c5 18b-3		 18b-2+		Wrong label
+1204.67	Bmr024-c5 1b+2a		 1b+.2a		Malformed AP
+1488.28	Bmr024-c3 33b-2		 33b-2+		Plus was missing
+1836.24	Bmr024-c5 2b+		 2b++		Extra Plus was missing
+1842.99	Bmr024-c5 2b++		 2b+++		Extra Plus was missing
+1844.59	Bmr024-c5 2b+++		 2b++++		Extra Plus was missing
+1976.09	Bmr024-c5 20b-1.21a	 20b.21a	Wrong label
+1976.66	Bmr024-c5 20b-2		 20b+		Wrong label
+1977.59	Bmr024-c5 20b-2+.22a	 20b++.22a	Wrong label
+2060.57	Bmr024-c0 36b-2.37a+	 36b-2+.37a+	Plus was missing
+2311.6	Bmr024-cB 58a		 58a+		Plus was missing
+2763.82	Bmr024-cB 22a		 23_a		Two 22a APs, make one 23_a
+2765.28	Bmr024-c3 22b.24a	 23_b.24a	Two 22b APs, make one 23_b
+348.652	Bmr025-ca 36b		 36b.36_a	Inserted for m/2 problem
+349.347	Bmr025-c5		 36_b		Inserted for m/2 problem
+367.974	Bmr025-c1 37b		 37b+		Plus was missing
+1014.27	Bmr025-ca 47b		 47b+		Plus was missing
+1015.29	Bmr025-c5 47a		 47_a		Two 47a APs, make one 47_a
+1016.98	Bmr025-ca 47b		 47_b		Two 47b APs, make one 47_b
+1253.42	Bmr025-ca 7b-2.8a	 7b-2.8_a	Two 8a APs, make one 8_a
+1254.78	Bmr025-ca 8b		 8_b		Two 8b APs, make one 8_b
+1380.42	Bmr025-c9 1				No AP
+1684.09	Bmr025-ca 32a		 32a+		Plus was missing
+1829.03	Bmr025-ca 3b				No AP
+1829.49	Bmr025-ca 3b+		 3b		Extra Plus removed
+1904.7	Bmr025-c1 9a				Adjusted for fg/fh/b problem
+75.23	Bmr026-c5 7b-1		 7b-1++		Pluses were missing
+141.83	Bmr026-c3 12.5b				No AP
+143.059	Bmr026-c1 12.5a				No AP
+147.653	Bmr026-c3		 12_a		Inserted for m/2 problem
+148.846	Bmr026-c0		 12_b		Inserted for m/2 problem
+539.016	Bmr026-c2		 6b		Inserted for m/2 problem
+693	Bmr026-c5 7a		 7b		Wrong label
+694.72	Bmr026-c5 7a+		 7b+		Wrong label
+725.6	Bmr026-c3 12b.12.5a	 12b.12_a	Malformed AP
+729.55	Bmr026-c0 12.5b		 12_b		Malformed AP
+749.153	Bmr026-c1 16b-1		 16b		Wrong label
+750.153	Bmr026-c1 16b-2		 16b+		Wrong label
+1045.66	Bmr026-c0		 4b-1		Label was missing
+1046.56	Bmr026-c3		 4b-2		Inserted for m/2 problem
+1186.49	Bmr026-c3		 18a		AP moved from Comments
+1189.82	Bmr026-c3		 18a+		AP moved from Comments
+1196.81	Bmr026-c3		 18a++		AP moved from Comments
+1307.19	Bmr026-c1 8b				Adjusted for fg/fh/b problem
+1374.18	Bmr026-c0 3a+.4a	 3b.4a		Wrong label
+1376.62	Bmr026-c0 4b+		 4a+		Wrong label
+1379.91	Bmr026-c3 4a		 4_a		Two 4a APs, make one 4_a
+1385.17	Bmr026-c0 4b		 4_b		Two 4b APs, make one 4_b
+2156.55	Bmr026-c3 17b		 17b-1		Wrong label
+2159.27	Bmr026-c0 17b.18a	 17b-2.18a	Wrong label
+2171.62	Bmr026-c1 18b+		 18b		Adjusted for fg/fh/b problem
+2194.26	Bmr026-c0 22b-2+.23a	 22b-1+.23a	Wrong label
+2221.64	Bmr026-c3 26.5a		 26_a		Malformed AP
+2227.07	Bmr026-c1 26.5b		 26_b		Malformed AP
+7.87	Bmr027-c2 2a		 2_a		Two 2a APs, make one 2_a
+8.92	Bmr027-c2 2a+		 2_a+		Two 2a APs, make one 2_a
+9.11	Bmr027-c5 2b.3a		 2_b.3a		Two 2b APs, make one 2_b
+71.052	Bmr027-c2 12b-1		 12b-2		Wrong label
+80.173	Bmr027-c5 14a		 14a+		Plus was missing
+286.75	Bmr027-c0 38b		 38b-1		Wrong label
+292.653	Bmr027-c2 38b.39a	 38b-2.39a	Wrong label
+623.33	Bmr027-c5 2a++		 2a+++		Extra Plus was missing
+1348.27	Bmr027-c5 11b		 11b+		Plus was missing
+1370.77	Bmr027-c5 19a		 19a+		Plus was missing
+1372.22	Bmr027-c4 19b		 19b+		Plus was missing
+1596.66	Bmr027-c5 61b-2		 60b-2		Wrong label
+2150.43	Bmr027-c3 45b-1		 45b		Wrong label
+2151.91	Bmr027-c3 45b-2		 45b+		Wrong label
+282.502	Bmr028-c0 29b.30a	 29b.29_a	Two 30a APs, make one 29_a
+283.592	Bmr028-c0 29b+.30a+	 29b+.29_a+	Two 30a APs, make one 29_a
+285.861	Bmr028-c5 30b		 29_b		Two 30b APs, make one 29_b
+286.411	Bmr028-c0 29b+++	 29b++		Extra Plus removed
+410.226	Bmr028-c2 43b-1		 43b		Wrong label
+412.184	Bmr028-c2 43b-2		 43b+		Wrong label
+535.502	Bmr028-ca 60.5a		 60_a		Malformed AP
+540.32	Bmr028-c0 60.5b		 60_b		Malformed AP
+614.775	Bmr028-c2		 3_a		Inserted for m/2 problem
+615.554	Bmr028-c0 s		 3_b		Wrong AP/Inserted for m/2
+847.991	Bmr028-c0 36b		 36b+		Plus was missing
+875.415	Bmr028-c5 39b.40a	 38b.40a	Wrong label
+1191.84	Bmr028-c0 82b-1		 82b		Wrong label
+1194.71	Bmr028-c0 82b-2		 82b+		Wrong label
+1299.63	Bmr028-c5 14b-2		 14b		Adjusted for fg/fh/b problem
+1465.5	Bmr028-c2		 28_a		Inserted for m/2 problem
+1478.77	Bmr028-cb		 28_b		Inserted for m/2 problem
+1629.81	Bmr028-c5 47b		 47b+		Plus was missing
+1915.86	Bmr028-c2 13a		 13a+		Plus was missing
+1918.55	Bmr028-cb 13b-1		 13b		Wrong label
+1920.05	Bmr028-cb 13b-2.14a	 13b+.14a	Wrong label
+1921.39	Bmr028-cb 13b-2.14a+	 13b++.14a+	Plus was missing
+1982.56	Bmr028-c1 28b-1.29a	 28b-1.28_a	Two 29a APs, make one 28_a
+1983.65	Bmr028-c3 29b		 28_b		Two 29b APs, make one 28_b
+2107.72	Bmr028-ca 56b.47a	 46b.47a	Wrong label
+2331.6	Bmr028-c5 75b.75a	 75b.76a	Wrong label
+2469.91	Bmr028-ca 4b-1		 4b		Wrong label
+2470.99	Bmr028-c5 5b				Wrong label
+2471.77	Bmr028-ca 4b+.5a	 4b+		Wrong label
+2471.77	Bmr028-ca 4b-2.5a	 4b+.5a		Wrong label
+2683.98	Bmr028-c2 26a+		 26a++		Extra Plus was missing
+3023.86	Bmr028-c5 2a+		 2a++		Extra Plus was missing
+3120.3	Bmr028-c0 16a+		 16a		Extra Plus removed
+3264.77	Bmr028-c5 37b-1		 37b		Wrong label
+3265.61	Bmr028-c5 37b-2		 37b+		Wrong label
+113.56	Bmr029-c2 11b-1		 11b		Wrong label
+115.885	Bmr029-c2 11b-2		 11b+		Wrong label
+902.994	Bmr029-c2 31a				Adjusted for fg/fh/b problem
+910.789	Bmr029-c2 31a+				Adjusted for fg/fh/b problem
+1854.44	Bmr029-c9		 11b		Inserted for m/2 problem
+1859.26	Bmr029-c9 11b.12a	 11b+.12a	Adjusted for m/2 problem
+2085.59	Bmr029-c9 32b-1		 32b		No need for -1
+2110.39	Bmr029-c2 35b-1		 35b		No need for -1
+2196.95	Bmr029-c1 42b-1		 42b-2		Wrong label
+2199.97	Bmr029-c9 43a+		 43a		Extra Plus removed
+2243.32	Bmr029-c2 48b.48.5a	 48b.48_a	Malformed AP
+2243.51	Bmr029-c4 48.5b		 48_b		Malformed AP
+685.031	Bmr030-c2 18b		 18b+		Plus was missing
+688.93	Bmr030-c2 18b+		 18b++		Extra Plus was missing
+693.43	Bmr030-c2 18b++		 18b+++		Extra Plus was missing
+724.165	Bmr030-c1 20b.21a	 20b		Adjusted for fg/fh/b problem
+822.668	Bmr030-c3 33b-1		 33b		Wrong label
+823.706	Bmr030-c3 33b-2		 33b+		Wrong label
+825.836	Bmr030-c3 33b-2+	 33b++		Wrong label
+897.908	Bmr030-c1 43a		 42_a		Two 43a APs, make one 42_a
+900.03	Bmr030-c5 42b		 42_b		Two 42b APs, make one 42_b
+2.652	Bmr031-c9 1a+		 1a		Extra Plus removed
+22.603	Bmr031-c5 6b-3		 6b-2+		Wrong label
+129.357	Bmr031-cb 18b		 18b+		Plus was missing
+172.96	Bmr031-c5 27b-1		 27b-1.27_a	Inserted for m/2 problem
+176.43	Bmr031-c1		 27_b		Inserted for m/2 problem
+184.24	Bmr031-c0 28a		 28_a		Two 28a APs, make one 28_a
+187.872	Bmr031-c0 28a+		 28_a+		Two 28a APs, make one 28_a
+189.63	Bmr031-cb 28b		 28_b		Two 28b APs, make one 28_b
+253.738	Bmr031-c5 39b-1		 39b		Wrong label
+255.008	Bmr031-c5 39b-2		 39b+		Wrong label
+388.365	Bmr031-c5 52a+		 52a		Extra Plus removed
+391.815	Bmr031-c5 52a		 52a+		Plus was missing
+485.275	Bmr031-c2 62a++		 62a+++		Extra Plus was missing
+491.365	Bmr031-c2 62a+++	 62a++++	Extra Plus was missing
+844.108	Bmr031-c9 26a				Adjusted for fg/fh/b problem
+878.37	Bmr031-c2 33b.34a	 32b.34a	Wrong label
+1087.17	Bmr031-cb 78b+		 78b++		Extra Plus was missing
+2772.52	Bmr031-c1 12b+13a+	 12b+.13a+	Malformed AP
+661.711	Bns001-c1 1a		 1_a		Two 1a APs, make one 1_a
+682.332	Bns001-c1 1a+		 1_a+		Two 1a APs, make one 1_a
+683.014	Bns001-c3 1b		 1_b		Two 1b APs, make one 1_b
+1076.82	Bmr031-c5 77a				Adjusted for fg/fh/b problem
+1259.37	Bns001-c2 2a		 2a+		Plus was missing
+1266.03	Bns001-c2 2a+		 2a++		Extra Plus was missing
+2392.23	Bns001-c3		 3b+		Label was missing
+3518.99	Bns001-c1 13a		 13a+		Plus was missing
+3521.31	Bns001-c1 13a		 13a++		Pluses were missing
+3524.79	Bns001-c1 13a		 13a+++		Pluses were missing
+5437.32	Bns001-c2 5a++		 5b		Wrong label
+5444.98	Bns001-c2 5b		 5b+		Plus was missing
+5711.02	Bns001-c2 11b.12a.13a	 11b.13a	Adjusted for fg/fh/b problem
+5767.41	Bns001-c3 20b.20a	 20b.21a	Wrong label
+408.689	Bns002-c4 16b++18a	 16b++.18a	Malformed AP
+1847.07	Bns002-c4 4b+++.	 4b+++		Malformed AP
+3276.82	Bns002-c4 7b		 7b+		Plus was missing
+3277.25	Bns002-c4 7b		 7b++		Pluses were missing
+3277.86	Bns002-c4 7b.8a		 7b+++.8a	Pluses were missing
+3295.3	Bns002-c4 9b				Adjusted for fg/fh/b problem
+3326.01	Bns002-cB 11b-1		 11a+		Wrong label
+3326.4	Bns002-c3 11b-2		 11b		Wrong label
+3735.52	Bns002-c4 1a		 1a+		Plus was missing
+3743.45	Bns002-c4 2b.3a		 2b+.3a		Plus was missing
+3806.75	Bns002-c3 5a++++	 5a+++		Adjusted for fg/fh/b problem
+3810	Bns002-c3 5a+++++	 5a++++		Adjusted for fg/fh/b problem
+3812.5	Bns002-c3 5a++++++	 5a+++++	Adjusted for fg/fh/b problem
+1104.34	Bns003-c4 43b+		 43a+		Wrong label
+1110.59	Bns003-c4 43b++		 43a++		Wrong label
+1239.86	Bns003-c4 3a				Adjusted for fg/fh/b problem
+1243.38	Bns003-c4 3a+				Adjusted for fg/fh/b problem
+1248.25	Bns003-c4 4b				Adjusted for fg/fh/b problem
+1551.84	Bns003-c8 29b.30a	 29b.29_a	Two 30a APs, make one 29_a
+1552.43	Bns003-c4 30b		 29_b		Two 30b APs, make one 29_b
+867.061	Bro003-c8 1a		 16a		Wrong label
+886.872	Bro003-c8 17b-2++.18	 17b-2++.18a	Malformed AP
+1014.4	Bro003-c9 25b		 24b		Wrong label
+1016.55	Bro003-c9 25b+.26a	 24b+.26a	Wrong label
+1019.44	Bro003-c9 25b++		 24b++		Wrong label
+1997.12	Bro003-c9		 23_a		Inserted for m/2 problem
+1998.79	Bro003-c2		 23_b		Inserted for m/2 problem
+2002.63	Bro003-c9		 23__a		Inserted for m/2 problem
+2004.91	Bro003-c2		 23__b		Inserted for m/2 problem
+2011.23	Bro003-c9		 23___a		Inserted for m/2 problem
+2012.81	Bro003-c2		 23___b		Inserted for m/2 problem
+2316.34	Bro003-c2 58b		 58b-1		Adjusted for m/2 problem
+2317.58	Bro003-c8		 58b-2		Inserted for m/2 problem
+2556.27	Bro003-c2 17b+		 17b-1		Wrong label
+2556.64	Bro003-c9 17b		 17b-2		Wrong label
+2556.93	Bro003-c2 17b++		 17b-1+		Wrong label
+2782.2	Bro003-c0		 35a		Label was missing
+2880.14	Bro004-c1		 2_a		Inserted for m/2 problem
+2882.43	Bro004-c2		 2_b		Inserted for m/2 problem
+2952.71	Bro003-c8 51a+		 51b+		Wrong label
+2958.96	Bro003-c8 51a++		 51b++		Wrong label
+4163.66	Bro003-c8 21b++		 21b+		Extra Plus removed
+4187.88	Bro003-c8 1a				No AP needed
+4341.1	Bro003-c9 5b+++/6a+++	 5b+++.6a+++	Malformed AP
+4873.58	Bro003-c9 5b+		 5a+		Wrong label
+4875.43	Bro003-c9 5b++		 5a++		Wrong label
+4879.69	Bro003-c9 5b+++		 5a+++		Wrong label
+4884.07	Bro003-c9 5b++++	 5a++++		Wrong label
+4887.69	Bro003-c9 5b+++++.6a	 5a+++++.6a	Wrong label
+444.344	Bro004-c3 6b+.7a	 6a+.7a		Wrong label
+445.94	Bro004-c0 7b.8a		 7b		Adjusted for fg/fh/b problem
+1185.32	Bro004-c1 9a.10b	 9a++.10b	Pluses were missing
+1201.22	Bro004-c3 11a.12a	 11b.12a	Wrong label
+1297.13	Bro004-c0 7b-1.8a	 7b-1.8a-1	Wrong label
+1297.3	Bro004-c3 7b-2.8a+	 7b-2.8a-2	Wrong label
+1297.78	Bro004-c0 7b-1+.8a++	 7b-1+.8a-1+	Wrong label
+1562.18	Bro004-c3 6b6b+		 6b		Malformed AP
+1694.94	Bro004-c0 2b.3a		 2b		Adjusted for fg/fh/b problem
+1720.76	Bro004-c3 7a		 5a		Two 7a APs, make one 5a
+1723.24	Bro004-c4 7b		 5a		Two 7b APs, make one 5b
+1725.43	Bro004-c1 6a				Adjusted for fg/fh/b problem
+2358.17	Bro004-c4 9b+.10a	 9b.10a		Extra Plus removed
+2813.18	Bro004-c1 10a				Adjusted for fg/fh/b problem
+2818.84	Bro004-c1 10a+				Adjusted for fg/fh/b problem
+3650.94	Bro004-c1 10b.11	 10b.11a	Malformed AP
+444.174	Bro005-c1 9a|		 9a+		Malformed AP
+467.87	Bro005-c4 3b+		 3b-1+		Wrong label
+1255.99	Bro005-c1 4a+		 4a++		Extra Plus was missing
+1962.54	Bro005-c0 4b+.5a+	 4b++.5a++	Extra Plus was missing
+1963.74	Bro005-c4 5b.		 5b		Malformed AP
+1974.93	Bro005-c4 6a		 6a+		Plus was missing
+2230.39	Bro005-c4 19a+		 18a++		Wrong label
+2234.49	Bro005-c0 19b		 18b		Wrong label
+2338.99	Bro005-c0 29bb		 29b		Malformed AP
+2771.1	Bro005-c4 8a++		 8a+		Extra Plus removed
+2772.41	Bro005-c4 8a		 8a++		Pluses were missing
+3730.15	Bro005-c4 9b				No AP
+3730.46	Bro005-c4 9b+				No AP
+289.858	Bro007-c2 21b+.22a	 21b+.22a+	Plus was missing
+646.061	Bro007-c1 1a		 1a+		Plus was missing
+850.856	Bro007-c1 15b-2.16a	 15b-2+.16a	Plus was missing
+665.545	Bro008-c1 4b.5a		 4b.4_a		Two 5a APs, make one 4_a
+665.852	Bro008-c4 5b		 4_b		Two 5b APs, make one 4_b
+729.19	Bro010-c4 10b++.11a	 10b+.11a	Extra Plus removed
+1797	Bro010-c4 30b++++.31a	 30b++++.32a	Two 31a APs, make one 32a
+1799.76	Bro010-c8 31b		 32b		Two 31b APs, make one 32b
+2368.9	Bro010-c8 23b-1.24a	 23b-1.23_a	Two 24a APs, make one 23_a
+2369.8	Bro010-c4 24b		 23_b		Two 24b APs, make one 23_b
+2383.68	Bro010-c4 24b++.25a+	 24b++.25a++	Extra Plus was missing
+2819.36	Bro010-c4 16b.17a	 16b.16_a	Two 17a APs, make one 16_a
+2820.76	Bro010-c3 17b		 16_b		Two 17b APs, make one 16_b
+62.22	Bro011-c2 4a		 3_a		Two 4a APs, make one 3_a
+62.823	Bro011-c1 4b		 3_b		Two 4b APs, make one 3_b
+173.177	Bro011-c3 9b.10a	 9b.9_a		Two 10a APs, make one 9_a
+174.284	Bro011-c1 10b		 9_b		Two 10b APs, make one 9_b
+417.676	Bro011-c3		 13_a		Inserted for m/2 problem
+418.834	Bro011-c1		 13_b		Inserted for m/2 problem
+539.74	Bro011-c4 18a		 18a+		Plus was missing
+1452.02	Bro011-c1 8a		 7_a		Two 8a APs, make one 7_a
+1459.7	Bro011-c2 8b		 7_b		Two 8b APs, make one 7_b
+1054.24	Bro012-c5 FBH		 11b		Swapped AP and Comments
+1156.76	Bro012-c0 1b.2a		 2a		Adjusted for fg/fh/b problem
+1158.07	Bro012-c0 1b+.2a+	 2a+		Adjusted for fg/fh/b problem
+1221.84	Bro012-c1 11a		 11a++		Pluses were missing
+1581.02	Bro012-c0 1b-2a-2	 1b-2.2a-2	Malformed AP
+1656.03	Bro012-c1 8a++		 8a+++		Extra Plus was missing
+1777.53	Bro012-c1 8a		 7_a		Two 8a APs, make one 7_a
+1782.4	Bro012-c0 8b		 7_b		Two 8b APs, make one 7_b
+1828.74	Bro012-c2 8b+9a+	 8b+.9a+	Malformed AP
+1981.6	Bro012-c1 10a		 10a+		Plus was missing
+2222.28	Bro012-c5 6a		 7a		Wrong label
+2448.09	Bro012-c0 10b+		 10b		Adjusted for fg/fh/b problem
+2451.07	Bro012-c0 10b++		 10b+		Adjusted for fg/fh/b problem
+2454.72	Bro012-c0 10b+++	 10b++		Adjusted for fg/fh/b problem
+2459.66	Bro012-c0 10b++++	 10b+++		Adjusted for fg/fh/b problem
+2818.86	Bro012-c1 2b.3a+	 2b+.3a+	Plus was missing
+3030.63	Bro012-c1 11b		 11b+		Plus was missing
+153.83	Bro013-c5 9b++.10a+	 9b++.10a++	Extra Plus was missing
+166.827	Bro013-c0 11a++		 11a+++		Extra Plus was missing
+170.207	Bro013-c0 11a+++	 11a++++	Extra Plus was missing
+1152.43	Bro013-c0 23a2		 23a		Malformed AP
+1245.92	Bro013-c4 4b+		 4b++		Extra Plus was missing
+1311.84	Bro013-c4 8b-2		 7b-2		Wrong label
+1994.59	Bro013-c3 6b		 6b-1		Wrong label
+1994.92	Bro013-c5 6b+.7a	 6b-2.7a	Wrong label
+1999.34	Bro013-c5 6b++.7a+	 6b-2+.7a+	Wrong label
+2002.57	Bro013-c5 6b+++		 6b-2++		Wrong label
+409.52	Bro014-c2 27b+		 27a+		Wrong label
+439.39	Bro014-c0 29b++		 29b+		Adjusted for fg/fh/b problem
+445.838	Bro014-c0 29b+++	 29b++		Adjusted for fg/fh/b problem
+449.788	Bro014-c0 29b++++	 29b+++		Adjusted for fg/fh/b problem
+1897.7	Bro014-c0 9b+		 9a+		Wrong label
+1906.2	Bro014-c0 9b++		 9a++		Wrong label
+1909.23	Bro014-c0 9b+++		 9a+++		Wrong label
+1911.9	Bro014-c0 9b++++	 9a++++		Wrong label
+1921.78	Bro014-c1 20b.21a	 10b.21a	Wrong label
+2775.72	Bro014-c1 47a.48a	 48a		Adjusted for fg/fh/b problem
+2777.26	Bro014-c1 47a+.48a+	 48a+		Adjusted for fg/fh/b problem
+3152.59	Bro014-c1 10b+++13a	 10b+++.13a	Malformed AP
+389.14	Bro015-c2 25+++		 25b+++		Malformed AP
+1424.87	Bro016-c4 15b+16a+	 15b+.16a+	Malformed AP
+1933.41	Bro016-c1 9b+++		 9b++		Extra Plus removed
+2087.08	Bro016-c1 16a++		 16b+		Extra Plus removed
+2458.58	Bro016-c5 6b+		 6b+++		Extra Plus was missing
+2460.73	Bro016-c5 6b++		 6b++++		Extra Plus was missing
+2462.98	Bro016-c5 6b+++		 6b+++++	Extra Plus was missing
+2464.86	Bro016-c5 6b++++	 6b++++++	Extra Plus was missing
+2465.66	Bro016-c5 6b+++++	 6b+++++++	Extra Plus was missing
+2466.78	Bro016-c5 6b++++++	 6b++++++++	Extra Plus was missing
+2467.84	Bro016-c5 6b+++++++	 6b+++++++++	Extra Plus was missing
+2473.09	Bro016-c5 6b++++++++	 6b++++++++++	Extra Plus was missing
+2483.34	Bro016-c5 6b+++++++++	 6b+++++++++++	Extra Plus was missing
+2486.05	Bro016-c5 6b++++++++++	 6b++++++++++++	Extra Plus was missing
+21.671	Bro017-c5 4a		 3_a		Two 4a APs, make one 3_a
+21.89	Bro017-c1 4b		 3_b		Two 4b APs, make one 3_b
+107.24	Bro017-c1 FBH				No AP, FBH moved to comments
+1132.18	Bro017-c1		 18_a		Inserted for m/2 problem
+1134.26	Bro017-c5		 18_b		Inserted for m/2 problem
+1331.64	Bro017-c1		 12_a		Inserted for m/2 problem
+1333.37	Bro017-c5		 12_b		Inserted for m/2 problem
+1575.35	Bro017-c3		 26_a		Inserted for m/2 problem
+1577.48	Bro017-c4		 26_b		Inserted for m/2 problem
+1615.82	Bro017-c3		 28b		Inserted for m/2 problem
+1616.77	Bro017-c3 28b		 28b+		Adjusted for m/2 problem
+1617.18	Bro017-c3 28b+.29a	 28b++.29a	Adjusted for m/2 problem
+1617.8	Bro017-c5		 29b		Inserted for m/2 problem
+1619.01	Bro017-c5 29b		 29b+		Adjusted for m/2 problem
+1862.69	Bro017-c1		 6b		Inserted for m/2 problem
+1867.44	Bro017-c1 6b		 6b+		Adjusted for m/2 problem
+1869.01	Bro017-c1 6b+		 6b++		Adjusted for m/2 problem
+1962.29	Bro017-c1 16b		 16b+		Plus was missing
+1974.3	Bro017-c5 18a+		 18a++		Extra Plus was missing
+2345.43	Bro017-c5 36a		 35_a.36a	Inserted for m/2 problem
+2347.92	Bro017-c3		 35_b		Inserted for m/2 problem
+2395.85	Bro017-c5		 37a		Inserted for m/2 problem
+2398.78	Bro017-c1		 37b		Inserted for m/2 problem
+2535.01	Bro017-c1		 7_a		Inserted for m/2 problem
+2541.36	Bro017-c5		 7_b		Inserted for m/2 problem
+2541.97	Bro017-c5		 7_b+		Inserted for m/2 problem
+3063.81	Bro017-c1		 3_a		Inserted for m/2 problem
+3067.49	Bro017-c1		 3_a+		Inserted for m/2 problem
+3068.38	Bro017-c3		 3_b.3__a	Inserted for m/2 problem
+3069.86	Bro017-c1		 3__b		Inserted for m/2 problem
+518.899	Bro018-c5 7b-1		 7b		Adjusted for fg/fh/b problem
+1550.08	Bro018-c0 2b		 1b		Wrong label
+1550.75	Bro018-c0 2b+		 1b+		Wrong label
+1551.16	Bro018-c0 2b++		 1b++		Wrong label
+1559.91	Bro018-c0 2b+++		 1b+++		Wrong label
+1622.46	Bro018-c0 4b-1+		 4b-1		Adjusted for fg/fh/b problem
+1624.16	Bro018-c0 4b-1++	 4b-1+		Adjusted for fg/fh/b problem
+1627.79	Bro018-c0 4b-1+++	 4b-1++		Adjusted for fg/fh/b problem
+1632.63	Bro018-c0 4b-1++++	 4b-1+++	Adjusted for fg/fh/b problem
+2149.95	Bro018-c2 2b+		 2b		Adjusted for fg/fh/b problem
+2150.34	Bro018-c2 2b++.3a	 2b+.3a		Adjusted for fg/fh/b problem
+2154.62	Bro018-c2 2b+++3a+	 2b++.3a+	Malformed AP/Adjusted fg/fh/b
+2253.46	Bro018-c2 8a		 7_a		Two 8a APs, make one 7_a
+2258	Bro018-c5 8b		 7_b		Two 8b APs, make one 7_b
+2336.11	Bro018-c2 8b+.9a	 8b.9a		Adjusted for fg/fh/b problem
+2486.44	Bro018-c5 8b++.9a+	 8b+.9a+	Extra Plus removed
+2949.6	Bro018-c2 3b+.4a+	 3b.4a		Extra Plus removed
+2952.38	Bro018-c2 3b.4a		 3b+.4a+	Plus was missing
+3001.3	Bro018-c2 1a|		 1a+		Malformed AP
+907.81	Bro019-c0 22b+++.23a	 21b+++.23a	Wrong label
+912.56	Bro019-c0 22b++++.24a	 21b++++.24a	Wrong label
+913.49	Bro019-c0 22b+++++	 21b+++++	Wrong label
+1540.42	Bro019-c5 23b		 23b-1		Wrong label
+1541.05	Bro019-c2 23b+		 23b-2		Wrong label
+1579.62	Bro019-c0 30a		 30_a		Two 30a APs, make one 30_a
+1585.62	Bro019-c2 30b.31a	 30_b.31a	Two 30b APs, make one 30_b
+2031.06	Bro019-c2 16b-27a	 16b-2.17a	Malformed AP
+2904.67	Bro019-c0 29a		 29_a		Two 29a APs, make one 29_a
+2908.3	Bro019-c2 29b		 29_b		Two 29b APs, make one 29_b
+3199.81	Bro019-c0 12b.13a	 12b.12_a	Two 13a APs, make one 12_a
+3203.51	Bro019-c2 13b		 12_b		Two 13b APs, make one 12_b
+3203.96	Bro019-c2 13b+		 12_b+		Two 13b APs, make one 12_b
+2405.51	Bro021-c1 1b+		 1b+.2_a	Inserted for m/2 problem
+2411.55	Bro021-c4		 2_b		Inserted for m/2 problem
+1534.94	Bro022-c2 25b		 24b		Wrong label
+1535.3	Bro022-c2 25b+		 24b+		Wrong label
+1537.53	Bro022-c2 25b++		 24b++		Wrong label
+1678.73	Bro022-c2 32b++.33a	 32b+.33a	Adjusted for fg/fh/b problem
+1690.52	Bro022-c2 32b+++.33a+	 32b++.33a+	Adjusted for fg/fh/b problem
+2268.03	Bro022-c2 1b+		 11b+		Wrong label
+63.922	Bro023-c2 12b.13a	 12b.12_a	Two 13a APs, make one 12_a
+65.186	Bro023-c0 13b		 12_b		Two 13b APs, make one 12_b
+819.1	Bro023-c1 6b.7a		 6b.6_a		Two 7a APs, make one 6_a
+819.43	Bro023-c0 7b		 6_b		Two 7b APs, make one 6_b
+834.06	Bro023-c1 10b.11a	 10b.10_a	Two 11a APs, make one 10_a
+834.83	Bro023-c2 11b		 10_b		Two 11b APs, make one 10_b
+1498.05	Bro023-c0 28b		 28b-1		Wrong label
+1499.03	Bro023-c1 28b+		 28b-2		Wrong label
+1501.24	Bro023-c1 28b++.29a	 28b-2+.29a	Wrong label
+2596.67	Bro023-c1 18b+.19a	 18b__.19a	Extra Plus was missing
+3324.94	Bro023-c2 31a				Adjusted for fg/fh/b problem
+3327.49	Bro023-c3 32b				Adjusted for fg/fh/b problem
+3329.05	Bro023-c3 32b+				Adjusted for fg/fh/b problem
+905.16	Bro024-c3 14a+		 14a++		Extra Plus was missing
+2980.28	Bro024-c3 48b.49a	 48b.48_a	Two 49a APs, make one 48_a
+2981.07	Bro024-c1 49b		 48_b		Two 49b APs, make one 48_b
+2984.52	Bro024-c1 49b+		 48_b+		Two 49b APs, make one 48_b
+775.252	Bro025-c5 14b+		 14b+.14_a	Inserted for m/2 problem
+786.264	Bro025-c3		 14_b		Inserted for m/2 problem
+863.65	Bro025-c2 233a		 23a		Wrong label
+950.055	Bro025-c1 36b+		 36a+		Wrong label
+1095.16	Bro025-c1 44b-1		 44b		Wrong label
+1098.03	Bro025-c1 44b-2		 44b+		Wrong label
+1122.44	Bro025-c5 47a+				Adjusted for fg/fh/b problem
+1183.97	Bro025-c0 53b+		 52b+		Wrong label
+1514.76	Bro025-c5		 13_a		Inserted for m/2 problem
+1516.97	Bro025-c2		 13_b		Inserted for m/2 problem
+214.49	Bro026-c2		 25_a		Inserted for m/2 problem
+223.926	Bro026-c0		 25_b		Inserted for m/2 problem
+248.35	Bro026-c5 28a				Adjusted for fg/fh/b problem
+668.84	Bro026-c0		 6_a		Inserted for m/2 problem
+669.723	Bro026-c2		 6_b		Inserted for m/2 problem
+672.432	Bro026-c0		 6__a		Inserted for m/2 problem
+676.142	Bro026-c2		 6__b		Inserted for m/2 problem
+928.28	Bro026-c0		 19_a		Inserted for m/2 problem
+930.83	Bro026-c4		 19_b		Inserted for m/2 problem
+999.065	Bro026-c2 22a		 21_a.22a	Inserted for m/2 problem
+1001.53	Bro026-c3		 21_b		Inserted for m/2 problem
+1853.24	Bro026-c4 5a		 4_a		Two 5a APs, make one 4_a
+1854.07	Bro026-c2 5b		 4_b		Two 5b APs, make one 4_b
+1968.17	Bro026-c4		 16_a		Inserted for m/2 problem
+1970.45	Bro026-c3		 16_b		Inserted for m/2 problem
+2083.02	Bro026-c5 27b.		 27b		Malformed AP
+1082.2	Bro027-c3 .59a		 59a		Malformed AP
+1174.01	Bro027-c3 73b.74	 73b.74a	Malformed AP
+2878.42	Bro027-c0 36b		 36b+		Plus was missing
+3140.08	Bro027-c3 13a+		 13a		Extra Plus removed
+3758.38	Bro027-c1 18b=2		 18b-2		Malformed AP
+3974.88	Bro027-c3 31b-2+	 31b-2		Extra Plus removed
+4218.33	Bro027-c1 2b++		 2b+		Extra Plus removed
+833.181	Bro028-c1 16b		 15b		Wrong label
+835.571	Bro028-c1 15b.16a.	 15b+.16a	Malformed AP
+1185.49	Bro028-c0 38a		 38b		Wrong label
+1761.52	Bro028-c1 47b.48a+	 47b+.48a+	Plus was missing
+1831.2	Bro028-c0 4b		 2b+.3a+	Wrong label
+1831.66	Bro028-c1 4a		 2a+		Wrong label
+1923.36	Bro028-c1 12b.13a	 12b.12_a	Two 13a APs, make one 12_a
+1923.78	Bro028-c4 13b		 12_b		Two 13b APs, make one 12_b
+2086.98	Bro028-c1 24b.25a	 24b+.25a	Plus was missing
+2171.53	Bro028-c4 26b+27a+	 26b+.27a+	Malformed AP
+481.19	Bsr001-c9 57b.58a	 57b.57_a	Two 58a APs, make one 57_a
+482.536	Bsr001-c0 58b		 57_b		Two 58b APs, make one 57_b
+509.584	Bsr001-c0 60b671a	 60b.61a	Malformed AP
+1115.6	Bsr001-c8 52b+		 51b+		Wrong label
+1661.11	Bsr001-c4 53b++++++.	 53b++++++	Malformed AP
+1779.13	Bsr001-c4 63b-2+.64aa	 63b-2+.64a	Malformed AP
+2369.13	Bsr001-c4 85b.86a	 85b.85_a	Two 86a APs, make one 85_a
+2370.21	Bsr001-cA 86b		 85_b		Two 86b APs, make one 85_b
+2733.47	Bsr001-cA 47b-2		 47b-1++	Wrong label
+2736.1	Bsr001-c9 47b-3.48a	 47b-2.48a	Wrong label
+2736.52	Bsr001-cA 47b-2+	 47b-1+++	Wrong label
+2739.63	Bsr001-c9 47b-3+	 47b-2+		Wrong label
+2999.67	Bsr001-c4 53b-1+++++	 53b-1+++++++	Extra Pluses were missing
+3425.8	Bsr001-c1 31b		 31b-1		Wrong label
+3426.41	Bsr001-c8 31b+		 31b-2		Wrong label
+562.61	Btr001-c9 40b-1		 50b-1		Wrong label
+562.81	Btr001-c3 49b-2		 50b-2		Wrong label
+563.473	Btr001-c7 49b-3		 50b-3		Wrong label
+565.14	Btr001-c3 49b-2+	 50b-2+		Wrong label
+573.82	Btr001-c6 50a		 50_a		Two 50a APs, make one 50_a
+576.07	Btr001-c3 50b		 50_b		Two 50b APs, make one 50_b
+1423.66	Btr001-c7 19b-3		 19b-2+		Wrong label
+1644.42	Btr001-c6 43b-2.44a	 43b-2.44_a	Two 44a APs, make one 44_a
+1644.98	Btr001-c9 44b		 44_b		Two 44b APs, make one 44_b
+1715.19	Btr001-c7 53b-2+.54aa	 53b-2+.54a	Malformed AP
+2718.51	Btr001-c0 40a-2		 40b-2		Wrong label
+2718.51	Btr001-c6 40a-1		 40b-1		Wrong label
+13.151	Btr002-c6 1b		 2b		Wrong label
+163.29	Btr002-c7 11b		 11b.11_a	Inserted for m/2 problem
+164.477	Btr002-c5		 11_b		Inserted for m/2 problem
+411.42	Btr002-c9 28b		 28b+.28_a	Plus missing/Inserted for m/2
+412.221	Btr002-c7		 28_b		Inserted for m/2 problem
+635.12	Btr002-c9 6a				Adjusted for fg/fh/b problem
+937.74	Btr002-c5 41b.42a	 41b		Wrong label
+1081.16	Btr002-c6 52b-2+	 52b-1+		Wrong label
+1081.46	Btr002-c5 52b-4		 52b-3		Adjusted for fg/fh/b problem
+1181.6	Btr002-c3 65b-2		 65a+		Wrong label
+1181.8	Btr002-c7 65b-1		 65b		Wrong label
+1212.17	Btr002-c9 4a++++	 4a+++		Extra Plus removed
+1214.43	Btr002-c9 4a+++++	 4a++++		Extra Plus removed
+1276.82	Btr002-c3 18a+		 18a		Extra Plus removed
+1311.45	Btr002-c9 24b++.25a++	 24b-2++.25a++	Wrong label
+1373.02	Btr002-c9 41b-1+	 41b-2		Wrong label
+1374.46	Btr002-c6 41b-2		 41b-1+		Wrong label
+1378.84	Btr002-c6		 42_a		Inserted for m/2 problem
+1379.44	Btr002-c3		 42_b		Inserted for m/2 problem
+1460.04	Btr002-c3 67b+.68a+..69a 67b.68a.69a	Malformed AP/Adjusted fg/fh/b
+1462.56	Btr002-c3 67b++.69a	 67b+.69a	Adjusted for fg/fh/b problem
+1521.61	Btr002-c6 79b-2		 79b		Adjusted for fg/fh/b problem
+1524.93	Btr002-c6 80b.81a	 80b+.81a	Plus was missing
+1630.53	Btr002-c7 109b-1	 109b		Wrong label
+1631.55	Btr002-c7 109b-1+	 109b+		Wrong label
+1632.81	Btr002-c7 109b-2.110a	 109b++.110a	Wrong label
+1660.8	Btr002-c9 118b.119a+	 118b+.119a+	Plus was missing
+1901.76	Btr002-c9 8b-1		 8b		Wrong label
+1906.19	Btr002-c9 8b-2.9a	 8b+.9a		Wrong label
+1907.57	Btr002-c9 8b-2+.9a+	 8b++.9a+	Wrong label
+2052.67	Btr002-c5 22a+		 22a++		Extra Plus was missing
+2237.9	Btr002-c5 60b.6a+	 60b+.61a+	Plus was missing, Wrong label
+2563.75	Btr002-c4 17a		 17_a		Two 17a APs, make one 17_a
+2565.31	Btr002-c6 17b		 17_b		Two 17b APs, make one 17_b
+2647.77	Btr002-c6 26b-1		 26b		No need for -1
+2664.63	Btr002-c3 29b+		 29b		Adjusted for fg/fh/b problem
+2773.75	Btr002-c5 41b-1		 41b		No need for -1
+2776.26	Btr002-c9 42a		 42a+		Plus was missing
+2879.18	Btr002-c6 50b		 50b.51_a	Inserted for m/2 problem
+2880.96	Btr002-c5		 51_b		Inserted for m/2 problem
+2918.95	Btr002-c6 59b-2		 59b-1+		Wrong label
+2927.38	Btr002-c7 60b.61a	 60b+.61a	Plus was missing
+3170.4	Btr002-c6 20b-2		 20b-1+		Wrong label
+3172.62	Btr002-c7 20b-3		 20b-2		Wrong label
+3175.33	Btr002-c7 20b-3+	 20b-2+		Wrong label
+3291.84	Btr002-c5 27b-2		 27b-1		Wrong label
+3432.03	Btr002-c6 39b-1		 39b		No need for -1
+3434.72	Btr002-c6 39b-1+	 39b+		No need for -1
+3437.82	Btr002-c7 41b-1		 41b		No need for -1
+3447.37	Btr002-c7 45b-1		 45b		Wrong label
+3448	Btr002-c7 45b-2		 45b+		Wrong label
+4052.87	Btr002-c6 47b++++	 47b+++		Adjusted for fg/fh/b problem
+4057.92	Btr002-c6 47b+++++	 47b++++	Adjusted for fg/fh/b problem
+4104.22	Btr002-c7 51a++		 51a+++		Extra Plus was missing
+4105.27	Btr002-c7 51a+++	 51a++++	Extra Plus was missing
+4106.92	Btr002-c7 51a++++	 51a+++++	Extra Plus was missing
+4252.36	Btr002-c7		 3_a		Inserted for m/2 problem
+4254.36	Btr002-c6		 3_b		Inserted for m/2 problem
+4411.58	Btr002-c7 31b-3		 31b-2+		Wrong label
+4428.41	Btr002-c7 33b-1		 33b		Wrong label
+4428.89	Btr002-c7 33b-2		 33b+		Wrong label
+4645.02	Btr002-c7 57a		 56_a		Two 57a APs, make one 56_a
+4656.59	Btr002-c9 57b-1		 56_b-1		Two 57b APs, make one 56_b
+4658.45	Btr002-c6 57b-2		 56_b-2		Two 57b APs, make one 56_b
+4663.61	Btr002-c9 57b-1+	 56_b-1+	Two 57b APs, make one 56_b
+4795.31	Btr002-c6 69b-2.69a	 68b-2.69a	Wrong label
+4921.43	Btr002-c7 17b.18a	 17b+.18a	Plus was missing
+4934.36	Btr002-c7 23b+		 23a+		Wrong label
+4935.84	Btr002-c7 23b++		 23a++		Wrong label
+4936.29	Btr002-c7 23b+++.24a	 23a+++.24a	Wrong label
+4936.98	Btr002-c7 23b++++	 23a++++	Wrong label
+108.506	Buw001-c3 17a+		 17a++		Extra Plus was missing
+429.66	Buw001-cA 51a		 50a		Wrong label
+431.293	Buw001-cA 51a+		 50a+		Wrong label
+508.539	Buw001-c8 58a+		 58b+		Wrong label
+600.162	Buw001-c0 68b-2		 67b-2		Wrong label
+694.249	Buw001-c0 9a				Adjusted for fg/fh/b problem
+744.668	Buw001-c0 11b.12a+	 11b+.12a+	Plus was missing
+748.911	Buw001-c0 11b++.12a++	 11b+.12a++	Extra Plus was missing
+1182.25	Buw001-c8 54b		 54b.55a	Label was missing
+1314.92	Buw001-c1 13b		 13b+		Plus was missing
+1346.57	Buw001-cB 18b		 18b-1		Wrong label
+1348.5	Buw001-cA 18b+		 18b-2		Wrong label
+1397.88	Buw001-cA 21b+.22a+	 21a+.22a+	Wrong label
+1770.7	Buw001-c0 61b-1.62a	 61b.62a	No need for -1
+1831.98	Buw001-cA 2a++		 2a+		Adjusted for fg/fh/b problem
+1835.62	Buw001-cA 2a+++		 2a++		Adjusted for fg/fh/b problem
+2026.17	Buw001-c1 34b		 33b		Wrong label
+2079.36	Buw001-cA 48b-1.49a	 48b-1.48_a	Two 49a APs, make one 48_a
+2079.7	Buw001-c0 49b		 48_b		Two 49b APs, make one 48_b
+2117.38	Buw001-cA 52a++++++++	 52a++++++	Extra Pluses removed
+2161.23	Buw001-c9		 56_a		Inserted for m/2 problem
+2163.52	Buw001-c1 57a		 56_b.57a	Inserted for m/2 problem
+2221.55	Buw001-cA 66b.67	 66b.67a	Malformed AP
+2277.77	Buw001-cA 76a+		 76a++		Extra Plus was missing
+2313.93	Buw001-c2 79b-4+..75a+	 79b-4+.75a+	Malformed AP
+2317	Buw001-c3 75b-2.76a	 75b-2.75_a	Two 76a APs, make one 75_a
+2317.43	Buw001-c8 76b		 75_b		Two 76b APs, make one 75_b
+2850.6	Buw001-c0 49b-2.51a	 49b-2+.51a	Plus was missing
+2853.92	Buw001-c3 51b-2.52a	 51b-2+.52a	Plus was missing
+2921.57	Buw001-c0 64a		 64a+		Plus was missing
+2932	Buw001-c3 66b+++	 66b++		Adjusted for fg/fh/b problem
+2999.49	Buw001-c3 77a+		 77a++		Extra Plus was missing
+3036.46	Buw001-c3 2b++		 2b-1		Wrong label
+3037.32	Buw001-c1 2b.3a		 2b-2.3a	Wrong label
+3140.32	Buw001-c0 19a+		 19a++		Extra Plus was missing
+3352.63	Buw001-c0 51a		 51a+		Plus was missing
+3355.17	Buw001-c0 51a+		 51a++		Extra Plus was missing
+3356.35	Buw001-c0 51a++		 51a+++		Extra Plus was missing
+3534.15	Buw001-c1 73b		 73a		Wrong label
+3731.3	Buw001-cA 15b-1		 15b-1+		Plus was missing
+3944.24	Buw001-cA 54b.55a	 54b.54_a	Two 55a APs, make one 54_a
+3946.11	Buw001-c8 55b.55a	 54_b.55a	Two 55b APs, make one 54_b
+3946.54	Buw001-c8 55b+.55a+	 54_b+.55a+	Two 55b APs, make one 54_b
+4055.39	Buw001-c8 66b-1		 66b		Wrong label
+4056.82	Buw001-c8 66b-2.67a	 66b+.67a	Wrong label
+4067.5	Buw001-c8 69b		 69b-1		Wrong label
+4068.2	Buw001-c3 69b+		 69b-2		Wrong label
+4084.81	Buw001-c3 73b-4		 73b-5		Wrong label

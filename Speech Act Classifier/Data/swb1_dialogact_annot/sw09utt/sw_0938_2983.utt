@@ -1,0 +1,467 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2983_1022_1264
+TOPIC#:		362
+DATE:		910530
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qy          A.1 utt2: is, {F uh, } that a sport you like to participate in? /  
+
+nn          B.2 utt1:  No.  /
+sd^e          B.2 utt2:  Actually I'm a spectator,  /
+sd          B.2 utt3: {C and } I'm a second hand spectator as a result of [ my first husband's, + {E or } my late husband's, ] interest in golf. /  
+
+b          A.3 utt1:  Uh-huh.  /
+sd          A.3 utt2:  My husband likes golf also,  /
+sd          A.3 utt3: [ he's, + {F uh, } I guess he'd ] be a fanatic if he thought he could get away with it <laughter>. /  
+
+x          B.4 utt1:  <Laughter>.   
+
+sd          A.5 utt1:  {C But } [ he, + he ] limits it pretty good.  /
+sd          A.5 utt2:  I, {F um, } have tried to go out and play golf.  /
+sd          A.5 utt3: He would love it if I would go out and play with him,  /
+sd          A.5 utt4: {C but } --   
+
+b          B.6 utt1:  Uh-huh. /  
+
++          A.7 utt1:  -- I stand there and swing and swing,  /
+sd          A.7 utt2: {C and } I can't even hit the ball <laughter>. /  
+
+sd          B.8 utt1:  I can't even play miniature golf well. /  
+
+b          A.9 utt1:  Yeah,  /
+sd          A.9 utt2: I don't either <laughter>. /  
+
+sv          B.10 utt1:  <Laughter> {D Well, } there are just some things that we're good at and other things that we're not,  /
+sd          B.10 utt2: {C but } I am very good at watching it on television. /  
+
+b          A.11 utt1:  Right. /  
+
+sd          B.12 utt1:  {C And } he was really, {F uh, } enthusiastic about keeping up with the tournaments.  /
+sd          B.12 utt2: He could tell me exactly what day and what time of year and where the tournaments were going to be held, and what the nature of the hole was and, -/  
+
+bf          A.13 utt1:  {F Oh, } {C so } he's really into it. /  
+
+aa          B.14 utt1:  {F Oh, } yeah,  /
+sd          B.14 utt2: he was a good golfer. /  
+
+ba          A.15 utt1:  Wow. /  
+
+sd          B.16 utt1:  [ And as, + and did some, ] {D you know, } instructions at the country club for a while. /  
+
+b          A.17 utt1:  Oh. /  
+
+%          B.18 utt1:  {C But, } {F uh, } golf tended to be so-, - /
+sd          B.18 utt2: I am not really deeply involved in [ any, + following any ] of the sports. /  
+
+b          A.19 utt1:  Yeah. /  
+
+sd          B.20 utt1:  {C But } golf was one that I developed a working knowledge of a lot of the golfers,  /
+sd          B.20 utt2: {C and } therefore I enjoyed following those particular players. /  
+
+b          A.21 utt1:  Right,  /
+qy^d          A.21 utt2: more because of their personalities --   
+
+b          B.22 utt1:  Uh-huh. /  
+
++          A.23 utt1:  -- than their sportsman <laughter>. /  
+
+nd          B.24 utt1:  {D Well } part of it was the personality and their sportsmanship.  /
+sd          B.24 utt2: Another part of it was I'd pick one out that was different than what my husband was rooting for  /
+sd          B.24 utt3: {D so } <laughter>,   
+
+x          A.25 utt1:  <Laughter>.   
+
++          B.26 utt1:  {D you know, } the competitor,  /
+sd          B.26 utt2: {C and } I became involved in following his career. /  
+
+b          A.27 utt1:  Right <laughter>. /  
+
+sd          B.28 utt1:  {C And, } {F uh, } I know [ that, + that ] my husband, - /
+sd          B.28 utt2: Tom Kite was his fair haired boy. /  
+
+b          A.29 utt1:  Oh. /  
+
+sd          B.30 utt1:  {C And } he thought he was spectacular.  /
+sd(^q)          B.30 utt2:  I said, Whoa.  /
+^q          B.30 utt3:  [ I'm not going to, + I'm not going to ] stay interested in him.  /
+sd          B.30 utt4:  {C So } I decided Andy Bean was good competition <laughter>. /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  Any time they both played, {D why, } he was just real excited when Tom was, {D you know, } shown on the television, /  
+
+x          A.33 utt1:  <Laughter>.   
+
+sd          B.34 utt1:  {C and } I followed Andy Bean. /  
+
+b          A.35 utt1:  Uh-huh <laughter>. /  
+
+sd          B.36 utt1:  We both followed Lee Trevino into the Seniors. /  
+
+sv          A.37 utt1:  {F Oh, } he's interesting. /  
+
+aa          B.38 utt1:  He is. /  
+
+sd          A.39 utt1:  I like to watch him. /  
+
+sv          B.40 utt1:  He is a character --   
+
+b          A.41 utt1:  Yeah. /  
+
++          B.42 utt1:  -- not just a golfer,  /
+sv          B.42 utt2: {C but } he's quite a character. /  
+
+b          A.43 utt1:  Yeah. /  
+
+sv          B.44 utt1:  {C And } there are some really, really wonderful people in the game of golf who do give wonderful role models. /  
+
+aa          A.45 utt1:  Yeah,  /
+aa^r          A.45 utt2: yeah,  /
+aa          A.45 utt3: I think you're right. /  
+
+sv          B.46 utt1:  {C And } I think [ it's critical, + it's critical ] to have a good role model --   
+
+b          A.47 utt1:  Yeah. /  
+
++          B.48 utt1:  -- in [ any field, + any sports. ] /  
+
+sd          A.49 utt1:  I like to watch those skins games. /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+qy          A.51 utt1:  Do you ever watch those where they just play for a certain amou-, {D you know, } - /
+sd          A.51 utt2:  for each hole they win they get the money --   
+
+ny          B.52 utt1:  Uh-huh. /  
+
++          A.53 utt1:  -- for it.  /
+sv          A.53 utt2: I think those are pretty exciting. /  
+
+sd          B.54 utt1:  {D Well, } I myself, really have not seen a whole lot of point to the game of golf.  /
+sv          B.54 utt2: You hit a little ball, /  
+
+x          A.55 utt1:  <Laughter>.   
+
+sv          B.56 utt1:  you chase it,  /
+sv          B.56 utt2: you go find it,  /
+sv          B.56 utt3: {C and then } you hit it again and lose it again. /  
+
+aa          A.57 utt1:  Uh-huh,  /
+aa          A.57 utt2: yeah. /  
+
+sv          B.58 utt1:  {C And } I know the whole point is to get it in that little bitty hole, /  
+
+x          A.59 utt1:  <Laughter>.   
+
+sv          B.60 utt1:  {C but } seems to me like if they made the hole bigger it'd be easier. /  
+
+b          A.61 utt1:  {F Oh } really <laughter>. /  
+
+x          B.62 utt1:  <Laughter>.   
+
+sd          A.63 utt1:  I sometimes wonder why men like it so much because they get so frustrated --   
+
+aa          B.64 utt1:  {F Oh, } I know. /  
+
++          A.65 utt1:  -- {C and } mad at themselves --   
+
+b          B.66 utt1:  {F Oh, } yeah. /  
+
++          A.67 utt1:  -- when they don't do well.  /
+sd          A.67 utt2:  My husband and  his buddies are not very good.  /
+sd          A.67 utt3: They play {D like } maybe once a month or less -- /  
+
+b          B.68 utt1:  Uh-huh,  /
+b^r          B.68 utt2: uh-huh. /  
+
+sd          A.69 utt1:  -- {C and so } they all hit {D like } in the low nineties,  /
+sd          A.69 utt2: {C and } they think they're having a really good game <laughter>. /  
+
+b          B.70 utt1:  {F Oh, } yeah. /  
+
+%          A.71 utt1:  {D So. } -/  
+
+sd          B.72 utt1:  {D Well, } my husband's average ran in the mid seventies -- /  
+
+ba          A.73 utt1:  Wow. /  
+
+sv          B.74 utt1:  -- {C so } he wasn't bad. /  
+
+aa          A.75 utt1:  Yeah,  /
+ba          A.75 utt2: that is good. /  
+
+sv          B.76 utt1:  He was pretty good,  /
+sv          B.76 utt2: {C but } as far as influencing young people, I think that [ that is, + {F uh, } that is ] one of the sports that you can carry into old age.  /
+sv          B.76 utt3:  You can't play football at fifty-five. /  
+
+b          A.77 utt1:  Right. /  
+
+sv          B.78 utt1:  {C But } it is a good healthy, wholesome lifestyle, {F uh, }  /
+sv          B.78 utt2: anything can be warped. /  
+
+b          A.79 utt1:  Yeah. /  
+
+sv          B.80 utt1:  {C But } I think that that is one of the sports that's a good healthy way [ to, + to ] move into maturity --   
+
+b          A.81 utt1:  Uh-huh. /  
+
++          B.82 utt1:  -- safely. /  
+
+sv          A.83 utt1:  Something to stay active at --   
+
+aa          B.84 utt1:  Uh-huh,  /
+aa^r          B.84 utt2: uh-huh. /  
+
++          A.85 utt1:  -- for a long time. /  
+
+aa          B.86 utt1:  That's right,  /
+aa^r          B.86 utt2: that's right. /  
+
+b          A.87 utt1:  Yeah,  /
+b^r          A.87 utt2: yeah. /  
+
+sv          B.88 utt1:  {C And } [ a lot of seniors, + a lot of elderly people ] don't even take up golf until they're, {D you know, } in their later years. /  
+
+aa          A.89 utt1:  Yeah,  /
+sv          A.89 utt2: {C and } they can still get good at it. /  
+
+aa          B.90 utt1:  That's right,  /
+aa^r          B.90 utt2: that's absolutely right.  /
+%          B.90 utt3:  {C And } it's something that, -/  
+
+sd          A.91 utt1:  {D Well, } maybe that's what I'll do when I have time later on, /  
+
+b          B.92 utt1:  Yeah,  /
+sv          B.92 utt2: when you're too old to do anything else --   
+
+b          A.93 utt1:  Yeah <laughter>. /  
+
++          B.94 utt1:  -- go play golf,  /
+%          B.94 utt2: yeah <laughter>.  /
+sv          B.94 utt3:  {C But } [ it's, + it's ] also something that husband and wife can participate in -- /  
+
+b          A.95 utt1:  Uh-huh. /  
+
+sv          B.96 utt1:  -- {C or, } you can both enjoy the same sport and participate in separate circles. /  
+
+ba          A.97 utt1:  True. /  
+
+sv          B.98 utt1:  {D You know, } you can go to the country club together.  /
+sv          B.98 utt2: You can play with your friends,  /
+sv          B.98 utt3: he can play with his friends,  /
+sv          B.98 utt4:  {C but } you've both been out and exercised,  /
+sv          B.98 utt5: {C and } you have enjoyed the day. /  
+
+aa          A.99 utt1:  Right,  /
+aa          A.99 utt2: yeah.  /
+sd          A.99 utt3:  Or my favorite,  /
+sv          A.99 utt4: just ride around in the cart with him <laughter>. /  
+
+ba          B.100 utt1:  <Laughter> You bet,  /
+sv          B.100 utt2: you get a lot of exercise that way. /  
+
+sv          A.101 utt1:  Go somewhere really nice, like Hawaii, and just <laughter> --   
+
+aa          B.102 utt1:  Uh-huh,  /
+sv          B.102 utt2: {D well, } I'll tell you what, [ if -- +   
+
++          A.103 utt1:  -- look at the golf course. /  
+
++          B.104 utt1:  -- if ] they're not real good golfers, sometimes it is not fun to ride around and listen to their exclamations all day long. /  
+
+aa          A.105 utt1:  {F Oh, } yeah.  /
+sd          A.105 utt2:  {C But } my husband's pretty tolerant,  /
+sd          A.105 utt3: {C so } he's not too bad --   
+
+b          B.106 utt1:  Uh-huh. /  
+
++          A.107 utt1:  -- to watch. /  
+
+sd          B.108 utt1:  {F Oh, } mine had a very short fuse.  /
+sd          B.108 utt2:  If he did something bad, he's liable to take that club and throw it as far as he can throw it. /  
+
+ba          A.109 utt1:  {F Oh, } no,  /
+%          A.109 utt2: yeah. /  
+
+sd          B.110 utt1:  He's replaced almost as many clubs as he has balls.  /
+sd          B.110 utt2:  {E I mean, } just get so  mad, he'd just wham that club up against a tree and break that rascal. /  
+
+ba          A.111 utt1:  Gosh.  /
+sd          A.111 utt2:  Now my husband has a temper,  /
+sd          A.111 utt3: {C but } he doesn't seem to show it on the golf course.  /
+sd          A.111 utt4: [ He's, + {C because } he'll ] talk about the other guys he plays with doing that --   
+
+b          B.112 utt1:  Uh-huh. /  
+
++          A.113 utt1:  -- and how immature he thought it was and stuff. /  
+
+b          B.114 utt1:  Uh-huh,  /
+b^r          B.114 utt2: uh-huh. /  
+
+sd          A.115 utt1:  {C So } I guess he's real laid back about it. /  
+
+b          B.116 utt1:  Uh-huh. /  
+
+sd          A.117 utt1:  [ He, + he'll ] come home though, [ {C and } he'll shoot + when he was shooting ] in the hundreds,  /
+sd          A.117 utt2: {C and } he'll tell me what a great day he had, and about this great shot he made and everything <laughter>  ((   )) . /  
+
+b          B.118 utt1:  Uh-huh,  /
+^q          B.118 utt2: {D well } I shot in the hundreds,  /
+^q          B.118 utt3: {C but } I made this one good one <laughter>. /  
+
+aa          A.119 utt1:  Yeah,  /
+^q          A.119 utt2: this one, on this one hole <laughter>. /  
+
+x          B.120 utt1:  <Laughter>.   
+
+qy(^q)          A.121 utt1:  Did you have to listen to long stories about, {D now } on the seventeenth hole I hit it and went this way -- /  
+
+ny          B.122 utt1:  Uh-huh. /  
+
+sd          A.123 utt1:  -- [ those are, + it's hard ] for me to,   
+
+x          B.124 utt1:  <Laughter>.   
+
++          A.125 utt1:  act nice about that when it goes on and on, /  
+
+sv          B.126 utt1:  {D Well, } one thing that [ is a, + is a ] drawback about it, I think, is the cost. /  
+
+aa          A.127 utt1:  Yes. /  
+
+sv          B.128 utt1:  Membership in the clubs is expensive,  /
+sv          B.128 utt2: the equipment is very expensive,  /
+sv          B.128 utt3: requires special shoes,  /
+sv          B.128 utt4: requires [ special, + {D you know, } special ] equipment.  /
+sv          B.128 utt5: There's so many, -/  
+
+aa          A.129 utt1:  Right,  /
+sv          A.129 utt2: {C and then } they want to play another course [ that's not, + they're not ] a member of -- /  
+
+aa          B.130 utt1:  That's right. /  
+
+sv          A.131 utt1:  -- and other fees. /  
+
+aa          B.132 utt1:  That's right,  /
+aa^r          B.132 utt2: that's right. /  
+
+sv          A.133 utt1:  It really is high. /  
+
+aa          B.134 utt1:  It can get very expensive,  /
+sd          B.134 utt2: {C and } I can imagine what kind of costs are involved if you're going to try to go pro, because you spend hours and hours and hours --   
+
+b          A.135 utt1:  {F Oh, } yeah. /  
+
++          B.136 utt1:  -- practicing. /  
+
+b          A.137 utt1:  Yeah. /  
+
+sd          B.138 utt1:  {C And } they don't give those sessions away. /  
+
+x          A.139 utt1:  <Laughter>.   
+
+sd          B.140 utt1:  {C And } nor do they give, {F uh, } instructions away. /  
+
+b          A.141 utt1:  Right. /  
+
+sd          B.142 utt1:  As a matter of fact a friend of mine asked me if I thought I'd be interested in golf.  /
+sd(^q)          B.142 utt2:  I said I don't know,  /
+^q          B.142 utt3: I'll have to try it and see.  /
+^q          B.142 utt4:  I've always watched it. /  
+
+b          A.143 utt1:  Uh-huh. /  
+
+sd(^q)          B.144 utt1:  {C And } he said, {D well, } fine,  /
+sd(^q)          B.144 utt2: he said, [ we'll just take you over to the course, + {A he lives near Brookhaven } --   
+
+b          A.145 utt1:  Uh-huh /  
+
++          B.146 utt1:  -- we'll just take you over to the course ] and get you some lessons and let you see if you like it.  /
+^q          B.146 utt2:  If you do, then we can go golf together. /  
+
+b          A.147 utt1:  Uh-huh. /  
+
+ba          B.148 utt1:  {F Oh, } whoa,  /
+ba          B.148 utt2: great,  /
+sd          B.148 utt3: I get to walk all around a little green field all day. /  
+
+x          A.149 utt1:  <Laughter>.   
+
+sv          B.150 utt1:  {C But } those kinds of things happen, though,  /
+sv          B.150 utt2: [ you, + you ] get a little taste of it  /
+sv(^q)          B.150 utt3: {C and } you say, Hey, this is not bad. /  
+
+b          A.151 utt1:  Uh-huh. /  
+
+sv          B.152 utt1:  {C And } you really begin to develop an interest in it.  /
+sd          B.152 utt2:  {C But } I am not an athlete at all. /  
+
+sd          A.153 utt1:  Me either. /  
+
+sd          B.154 utt1:  {D You know, } I'm always the one that got hit by the bat in baseball,   
+
+x          A.155 utt1:  <Laughter>.   
+
++          B.156 utt1:  and, [ [ hu-, + hu-, ] + hung ] my fingernails in the net in volleyball. /  
+
+x          A.157 utt1:  <Laughter>.   
+
+sd          B.158 utt1:  {C So } I am not an athlete.  /
+sd          B.158 utt2:  Maybe golf is a forgiving sport.  /
+h          B.158 utt3:  I don't know. /  
+
+b          A.159 utt1:  Yeah  /
+sv          A.159 utt2: at least [ you're just com-, -- +   
+
+sv          B.160 utt1:  It doesn't appear to be <laughter>. /  
+
++          A.161 utt1:  -- you're competing ] against yourself, I guess, more than everybody else out there. /  
+
+aa          B.162 utt1:  Uh-huh.  /
+sd          B.162 utt2:  [ [ I really, + I, ] + I haven't really ] acquired an interest in it,  /
+sd          B.162 utt3: {C but } I'm open to try anything,   
+
+b          A.163 utt1:  Yeah  /
+sd          A.163 utt2: that's,   
+
++          B.164 utt1:  {D you know. } /  
+
++          A.165 utt1:  kind of the way I feel. /  
+
+sd          B.166 utt1:  The one thing that is also detrimental as far I'm concerned, my skin is very fair -- /  
+
+b          A.167 utt1:  Oh. /  
+
+sd          B.168 utt1:  -- {C so } I'm going to have to golf in the evening  /
+sd          B.168 utt2: {C or } I'm going to have to golf at a time when the heat of the day does not cook me. /  
+
+b          A.169 utt1:  Right. /  
+
+%          B.170 utt1:  {C And } I don't think the, -/ 

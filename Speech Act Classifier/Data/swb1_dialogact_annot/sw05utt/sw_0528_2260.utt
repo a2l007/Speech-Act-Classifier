@@ -1,0 +1,558 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2260_1047_1005
+TOPIC#:		340
+DATE:		910325
+TRANSCRIBER:	CAP
+UTT_CODER:	stm
+DIFFICULTY:	3
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Voices echoed quite a bit. 
+
+=========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+^h          A.1 utt2: let's see.  /
+%          A.1 utt3:  I think, {F uh, } - /
+sv^t          A.1 utt4: I guess, if I call I'm supposed to start.  /
+sd^t          A.1 utt5: I think, {F uh, } that's the way everybody has done it so far. /  
+
+aa          B.2 utt1:  Okay. /  
+
+sv          A.3 utt1:  {C But, } anyway I think that, {F um, } we are paying a lot in taxes,  /
+sv          A.3 utt2: {C but } I think that we have a government and we have a lot of freedoms,  and we have a lot of things that the governments do with our money.  /
+sv          A.3 utt3: {F Um, }  we're probably one of  [ the, + the  ] only countries in the world that has all the things that we have.  /
+%          A.3 utt4: The, {D you know, } - /
+sv          A.3 utt5: as far as the quality of the streets, the school systems, {F um, } the hospital stuff that the government gives money to.  {F Um, } the, {D you know, } all the things that the government does like that.  [ I, + {F uh, } I ] think they need to manage it a little bit better,  /
+sv          A.3 utt6: {C but } I don't think, {F uh, } anybody is just going to come in and fix it in a couple of weeks,  because  they've been messing it up for many years, now.  /
+%          A.3 utt7: {C So, } -/  
+
+aa*          B.4 utt1:  I have to agree that <laughter>. /  *[[listen]]
+
+b          A.5 utt1:  Yeah. /  
+
+aa          B.6 utt1:  {C And } you're right.  /
+sv          B.6 utt2: [ [ We, + {E I mean, } we, ] + {D you know, } we ] do have a good government.  /
+sv          B.6 utt3: We do have a lot of things [ that, + {D you know, } that, ] {D you know, } the taxes are there to support,  /
+sv          B.6 utt4: {C but } I do think they're mismanaged  /
+sv          B.6 utt5: {C and } I think that sometimes it's [ too easy of a, + I don't know, to easy of an ] answer.  /
+sv          B.6 utt6: It seems to say, I'll tax them if you can't get enough money, instead of trying to figure out how to cut budgets or cut spending [ or, + or, ] {D you know, } get all of the waste out of the spending. /  
+
+b          A.7 utt1:  Huh-uh. /  
+
+qh          B.8 utt1:  {F Uh, } I don't know what y'all are paying in Dallas,  /
+sv          B.8 utt2: {C but, } {D you know, } it seems like we pay the  (( state )) , - /
+%          B.8 utt3: {D you know } there's a, - /
+sv          B.8 utt4: the taxes set by, {D you know, } the state and the city can add theirs,  /
+sv          B.8 utt5: {C and } the county adds theirs,  /
+sv         B.8 utt6: {C and, } {D you know, } we're paying almost eight percent sales tax, right now.  Which seems to me nuts.  /
+sd          B.8 utt7: I came from California  /
+sd         B.8 utt8: {C and, } {D you know, } when I left there, we paid six cents on the dollar,  /
+sd          B.8 utt9: {C and } that was {D like } one of the highest in the nation. /  
+
+b          A.9 utt1:  Right.  /
+sd          A.9 utt2:  I think it's seven here. /  
+
+b          B.10 utt1:  Yeah. /  
+
+sd          A.11 utt1:  Seven point something. /  
+
+b          B.12 utt1:  Yeah.  /
+sd          B.12 utt2:  Ourselves is seven point seven five. /  
+
+b          A.13 utt1:  Huh-uh. /  
+
+sd          B.14 utt1:  Whole state. /  
+
+b          A.15 utt1:  Yeah  <laughter>. /  
+
+sd          B.16 utt1:  It drives me crazy.  /
+sv(^q)          B.16 utt2: I'm thinking, {D you know, } everybody is sitting here screaming about, we don't want a state income tax,  /
+sv          B.16 utt3: {C but } yet they allow the sales tax to go up and up and up and up  /
+sv          B.16 utt4: {C and } they don't do anything about it.    
+
+aa          A.17 utt1:  Right. /  
+
++          B.18 utt1:  {D You know. } /  
+
+qw          A.19 utt1:  Where are you at?  /
+qw          A.19 utt2:  What state? /  
+
+sd          B.20 utt1:  I'm in Lubbock, Texas. /  
+
+bh          A.21 utt1:  {F Oh, } really. /  
+
+ny          B.22 utt1:  Yeah. /  
+
+b          A.23 utt1:  Yeah.  /
+%          A.23 utt2:  There's, - /
+sd          A.23 utt3: [ we're still, + we're still ] one of few that don't have the, {F uh, } state tax  ((   )) . /  
+
+aa          B.24 utt1:  That's true.  /
+sd          B.24 utt2: {C And } I did pay state tax in California,  /
+fe          B.24 utt3: {C but } my goodness,  /
+%          B.24 utt4:  [ that, + that,  ] - /
+sv          B.24 utt5: [ the, +   what did you call it, the ] sales tax, is just getting outrageous to pay. /  
+
+aa          A.25 utt1:  Yeah.  /
+aa          A.25 utt2:  That's true. /  
+
+sv          B.26 utt1:  You don't sound like you're from Dallas.  /
+qw          B.26 utt2: Where [ do you, + do you ] come from originally  /
+qy          B.26 utt3: Texas? /  
+
+ny          A.27 utt1:  Yeah.  /
+sd^e          A.27 utt2:  I do.  /
+sd          A.27 utt3: I've lived [ in, + in  ] the Dallas area here since I was like four. /  
+
+bk          B.28 utt1:  {F Oh, } okay. /  
+
+sv          A.29 utt1:  {D So. }  {F Uh, } it's, I don't know, an urban area, I guess  /
+o          A.29 utt2: whatever.    /
+sd          A.29 utt3: I don't know. /  
+
+qy^d          B.30 utt1:  [ You just, + you just ] managed to escape the real Texan accent, /  
+
+ny          A.31 utt1:  Yeah. /  
+
+sv          B.32 utt1:  I thought maybe you had come from somewhere else and had some experience with taxes there. /  
+
+ar          A.33 utt1:  No.  /
+ar^r          A.33 utt2:  No.  /
+sd          A.33 utt3:  I've just lived here,  /
+
+b          B.34 utt1:  Yeah. /  
+
+%          A.35 utt1:  {C But, } I don't know,  /
+%          A.35 utt2: I do,  /
+sd          A.35 utt3: I can think of all the biblical things about it, too.  /
+%          A.35 utt4:  [ Where, + what ] did they say to, {F uh, } - /
+sd          A.35 utt5: I can't think of the scripture.  /
+^q*          A.35 utt6: Render unto Caesar's what is Caesar's. /  *[[listen]]
+
+aa          B.36 utt1:  That's right. /  
+
+sd          A.37 utt1:  {D So, } {D you know, } [ even, + even  ] in the story where they had to pay the taxes, the disciples,   
+
+b          B.38 utt1:  Yeah. /  
+
++          A.39 utt1:  and, {F uh, } Jesus said the money in the fishes mouth or in the fisher, inside the fish.  /
+sd          A.39 utt2: {C And, } {F uh, } I thought of those two things when [ I was, + I was ] holding for a long time. /  
+
+qy          B.40 utt1:  {F Oh, } were you really,    
+
+ny          A.41 utt1:  Yeah. /  
+
++          B.42 utt1:  trying to find someone at home? /  
+
+ny          A.43 utt1:  Yeah. /  
+
+sd          B.44 utt1:  {D Well, } {D you know, } {F um, } back then what they tried to do, {D you know, } - /
+sd          B.44 utt2: the  ((   )) would always try to stump Jesus, try to give him something that would contradict himself, /  
+
+b          A.45 utt1:  Right. /  
+
+sd          B.46 utt1:  {C And so } that's what they were trying to do with the tax situation.  /
+sd(^q)          B.46 utt2: {C And, } of course, that's when he said well you render unto Caesar's what is Caesar's,  /  
+^q          B.46 utt3: you render unto God what is God's. /  
+
+b          A.47 utt1:  Right. /  
+
+%          B.48 utt1:  {C And, } {F uh, } {D you know, } of course, there, - /
+sv          B.48 utt2: I don't think they really cared about the answer, /  
+
+b          A.49 utt1:  Right. /  
+
+sv          B.50 utt1:  they just wanted to try and catch him in something <laughter>. /  
+
+b          A.51 utt1:  Yeah. /  
+
+sv          B.52 utt1:  [ {C But, } +  {C but } ] I believe in paying taxes  /
+%          B.52 utt2: {C and, }  {E I mean, } yeah,  /
+sd          B.52 utt3: like everybody else, I try to take as many deductions as I can, /  
+
+ba          A.53 utt1:  {F Oh, } sure. /  
+
+sd          B.54 utt1:   ((   ))  {D you know, } I don't want to pay more than I have to, /  
+
+ba          A.55 utt1:  Sure. /  
+
+sv          B.56 utt1:  {C And } I get outraged when I feel like they go up for useless reasons,  /
+sv          B.56 utt2: {C but } I believe that they're necessary. /  
+
+b          A.57 utt1:  Right. /  
+
+sd          B.58 utt1:  {D So, } I really do, /  
+
+b          A.59 utt1:  Yeah  /
+%          A.59 utt2: are, -/  
+
+qy          B.60 utt1:  [ Do you, + do you ] deal with taxes much in what you do when you work  /
+%          B.60 utt2: {C or, } -/  
+
+nn          A.61 utt1:  No,  /
+sd^e          A.61 utt2: not really.  /
+sd          A.61 utt3:  [ I've, + I ] spends a lot of time with our income tax, though.  [ This, + especially, this  ] year and last year.  /
+sd          A.61 utt4: {F Um, } I have been married for just a few years,  /
+sd          A.61 utt5: {C so } I've had to really switch around from the E Z form to the, {F uh, } -/  
+
+^2          B.62 utt1:  Schedule A /  
+
+aa          A.63 utt1:  Right  <laughter>. /  
+
+b          B.64 utt1:  {D Well, } yeah. /  
+
+sd          A.65 utt1:  All the deductions and all that. /  
+
+qy          B.66 utt1:  Did you notice that when they passed the new simplified tax act, it seemed like it made everything harder? /  
+
+ny          A.67 utt1:  Yeah.  /
+sd^e          A.67 utt2:  It really did. /  
+
+x          B.68 utt1:  <Laughter>.    
+
+sd          A.69 utt1:  [ I, + I ] saw,  that, too. /  
+
+sd          B.70 utt1:  I didn't notice anything simplified about it, except that they took away the deductions,    
+
+b          A.71 utt1:  Right. /  
+
++          B.72 utt1:  the interest and,    
+
+b          A.73 utt1:  Right. /  
+
++          B.74 utt1:  other things <laughter>. /  
+
+sd          A.75 utt1:  We're looking at buying a house, /  
+
+b          B.76 utt1:  Yeah. /  
+
+sd          A.77 utt1:  {C And } that was one of the main pluses that we have about buying a house. /  
+
+sv          B.78 utt1:  {C And } it will help tremendously. /  
+
+b          A.79 utt1:  Yeah. /  
+
+sd          B.80 utt1:  We bought ours five years ago  /
+%          B.80 utt2: {C and } it's - /
+%          B.80 utt3: the one thing, - /
+sv          B.80 utt4: it seems like you make those payments every month  /
+sv          B.80 utt5: {C and } at the end of the year you've paid all interest and no principles. /  
+
+b          A.81 utt1:  Right. /  
+
+sv          B.82 utt1:  {C So } that will definitely help in taxes and what you will get back. /  
+
+b          A.83 utt1:  Yeah.  /
+%          A.83 utt2:  There's a thing  I just, - /
+sd          A.83 utt3: I've been trying to learn as much as I can about it,  /
+%          A.83 utt4: if you pay, - /
+sd          A.83 utt5: I know I get paid twice a month, every two weeks, /  
+
+b          B.84 utt1:  Huh-uh. /  
+
+sd          A.85 utt1:  that's once a month. /  
+
+b          B.86 utt1:  Huh-uh. /  
+
+sd          A.87 utt1:  {D Well, } I get twenty six paychecks,    
+
+aa          B.88 utt1:  That's right. /  
+
++          A.89 utt1:  which would come out to be in thirteen months.  /
+sv          A.89 utt2:  {C So } if you pay your rent or your house payment every two weeks,   
+
+b          B.90 utt1:  Huh-uh. /  
+
++          A.91 utt1:  Instead of once a month, you'll come out paying [ a, + ] {F uh, } one month extra every year. /  
+
+aa          B.92 utt1:  That's right. /  
+
+sv          A.93 utt1:  {C And } [ it will, + if have you a thirty year note, it will ] take like seven or  plus years off of your note. /  
+
+aa          B.94 utt1:  That's right.  /
+sd          B.94 utt2: My parents, {F uh, } bought a home in San Diego about four or  five years ago, /  
+
+x          A.95 utt1:  <Throat_clearing>.    
+
+sd          B.96 utt1:  {C And } they did that.  /
+sd          B.96 utt2: They thought their payment was automatically taken out like every other Wednesday, /  
+
+b          A.97 utt1:  {F Oh, } yeah. /  
+
+aa          B.98 utt1:  {C And } that's exactly right.  /
+%          B.98 utt2:  Everyone, - /
+sd          B.98 utt3: though the note is thirty years,  she said it's going be paid off in twenty or twenty one years,    
+
+b          A.99 utt1:  Right. /  
+
++          B.100 utt1:  or something like that. /  
+
+b          A.101 utt1:  Yeah. /  
+
+sd          B.102 utt1:  Just because of exactly what you said, /  
+
+b          A.103 utt1:  Right. /  
+
+sd          B.104 utt1:  You're making one more months payment every year. /  
+
+sd          A.105 utt1:  {C And } that's going on the principle,  /
+sd          A.105 utt2: it doesn't pay any interest, /  
+
+b          B.106 utt1:  Yeah. /  
+
+sd          A.107 utt1:  {C or, }     
+
+%@          B.108 utt1:  {C So, }    *[[needs slash?]]
+
++          A.109 utt1:  usually it doesn't. /  
+
++          B.110 utt1:  That's a good way to do it. /  *[[ba]]
+
+b          A.111 utt1:  Yeah. /  
+
+sd          B.112 utt1:  {C And } when we bought this house, we looked at doing a fifteen year note, because it added more to the payment,    
+
+b          A.113 utt1:  Huh-uh. /  
+
++          B.114 utt1:  but not significant amounts, {D you know, }  /
+sv          B.114 utt2: it was a good payoff for being able to pay it off sooner. /  
+
+aa          A.115 utt1:  Right.  /
+sd          A.115 utt2:  That's what we're looking at, fifteen or maybe twenty. /  
+
+b          B.116 utt1:  Yeah. /  
+
+sd          A.117 utt1:  We're not going to go longer than twenty. /  
+
+b          B.118 utt1:  Yeah. /  
+
+sd          A.119 utt1:  {C But, } we're taking our time.  /
+sd          A.119 utt2:  We're going to try to make our decision by July. /  
+
+ba          B.120 utt1:  {D Well, } that's good, though. /  
+
+sd          A.121 utt1:  {D Well, } we just started two or three weeks ago. /  
+
+b          B.122 utt1:  Yeah. /  
+
+sd          A.123 utt1:  {C And } we're not going to just kill ourselves  /
+sd          A.123 utt2: just two or three houses a week at the most. /  
+
+ba          B.124 utt1:  {D Well, } that's good, though. /  
+
+aa          A.125 utt1:  Yeah. /  
+
+qy          B.126 utt1:  Is it kind of a buyers market down there? /  
+
+na          A.127 utt1:  Absolutely.  /
+ny          A.127 utt2:  Yeah. /  
+
+ba          B.128 utt1:  {D Well, } that's good. /  
+
+sd          A.129 utt1:  Credit union has nine percent interest. /  
+
+ba          B.130 utt1:  That's pretty excellent. /  
+
+aa          A.131 utt1:  Yeah.  /
+%          A.131 utt2:  {C So } that's, - /
+%          A.131 utt3: I don't know,  /
+sd          A.131 utt4: we couldn't think of a better time to buy than now. /  
+
+ba          B.132 utt1:  That's good. /  
+
+fc          A.133 utt1:  {C But, } anyway.  {D Well, } {F um, } I can't think of a whole lot more to say. /  
+
+fc          B.134 utt1:  {D Well, } I can't either.  /
+fc          B.134 utt2: I appreciate the call, though. /  
+
+fc          A.135 utt1:  Yeah.  /
+fc          A.135 utt2:  Me, too. /  
+
+fc          B.136 utt1:  I enjoyed talking to you. /  
+
+fc          A.137 utt1:  Yeah,  /
+fc          A.137 utt2: same here.  /
+fc          A.137 utt3: My wife, {F uh, } she went to, {F uh, } the school out there in Lubbock. /  
+
+qy          B.138 utt1:  In Lubbock? /  
+
+na          A.139 utt1:  She was there for two or three years before we got married.  /
+sd^e          A.139 utt2:  I guess, before I even met her. /  
+
+t3          B.140 utt1:  <<Speaker is talking to child in background>>.  Just a second. /  
+
+b          A.141 utt1:  Okay. /  
+
+ad          B.142 utt1:  Go ahead. /  
+
+%          A.143 utt1:  {C But } anyway, -/  
+
+qy          B.144 utt1:  {C So } she was at school out here? /  
+
+na          A.145 utt1:  She went to school there. /  
+
+qw          B.146 utt1:  {D Well, } what was her name? /  
+
+sd          A.147 utt1:  Cathy Walker. /  
+
+nn          B.148 utt1:  No.  /
+sd          B.148 utt2:  I didn't know any Walker's. /  
+
+b          A.149 utt1:  Yeah. /  
+
+fc          B.150 utt1:  {D Well, } good luck in your house hunting. /  
+
+fc          A.151 utt1:  Yeah.  /
+fc          A.151 utt2:  Thanks a lot.   /
+qy          A.151 utt3: [ You, + y'all ] work at T I? /  
+
+na          B.152 utt1:  I do. /  
+
+bh^m          A.153 utt1:  You do. /  
+
+ny          B.154 utt1:  Yeah,  /
+sd^e          B.154 utt2: I'm in human resources. /  
+
+bh          A.155 utt1:  {F Oh, } really. /  
+
+ny          B.156 utt1:  Yeah. /  
+
+ba          A.157 utt1:  That's interesting.  /
+sd          A.157 utt2: I work in the  (( waiver )) . /  
+
+bh          B.158 utt1:  Do you really,  /
+%          B.158 utt2: {C because } that's, - /
+sd          B.158 utt3: I work with Elma. /  
+
+bh          A.159 utt1:  {F Oh, } really. /  
+
+ny          B.160 utt1:  Yeah. /  
+
+b          A.161 utt1:  Yeah. /  
+
+sd          B.162 utt1:  {C And } I used to work, - /
+sd          B.162 utt2: [ I, + I ] did all of their  (( capital ))  and financial planning for about eight years. /  
+
+ba          A.163 utt1:  {F Oh, } wow. /  
+
+sd          B.164 utt1:  {C And then } I have been in Human Resources for the last two years  /
+sd          B.164 utt2: {C and } I work with those same people all those nine years,  /
+sd          B.164 utt3: {C so, }     
+
+b          A.165 utt1:  Yeah. /  
+
++          B.166 utt1:  I feel kind of part of the  (( staff )) . /  
+
+b          A.167 utt1:  Yeah.  /
+b^r          A.167 utt2:  Yeah,  /
+sd          A.167 utt3: I'm, {F uh, } turning in a capital request right now, /  
+
+bh          B.168 utt1:  You are. /  
+
+ny          A.169 utt1:  Yeah.  /
+sv          A.169 utt2:  That's funny that's where you're from. /  
+
+qw*          B.170 utt1:  What are trying to get? /  *[[listen]]
+
+sd          A.171 utt1:  A machine that puts  (( back grind ))  tape on and off the  (( waivers )) . /  
+
+b          B.172 utt1:  Oh.  /
+bk          B.172 utt2: Okay.  /
+qy          B.172 utt3: {C So } you work in  (( back grind )) ? /  
+
+ny          A.173 utt1:  Yeah.  /
+sd^e          A.173 utt2:  [ I'm, +  I'm ] sort of an acting process engineer. /  
+
+bk          B.174 utt1:  {F Oh, } okay. /  
+
+sd          A.175 utt1:  Not officially,  /
+sd          A.175 utt2: {C but } that's pretty much what I do. /  
+
+bh^m          B.176 utt1:  That's what you do, {F uh, } /  
+
+ny          A.177 utt1:  Yeah. /  
+
+qy          B.178 utt1:  {C And } do you  ((   )) ? -/  
+
+na          A.179 utt1:  Right  /
+%          A.179 utt2: {C and }  ((   )) . -/  
+
+ba          B.180 utt1:  {D Well } good deal.  /
+qo          B.180 utt2:  What did you think of Sam? /  
+
+sd          A.181 utt1:  {F Uh, } {F oh, } I like him,  /
+sv          A.181 utt2: he's hard,  /
+sv          A.181 utt3: {C but } we needed that. /  
+
+ba          B.182 utt1:  {D Well, } that's good. /  
+
+b          A.183 utt1:  Yeah  /
+%          A.183 utt2: he's, -/  
+
+sv          B.184 utt1:  He was very good for Lubbock when he came to, {D you know, } - /
+sv          B.184 utt2: it was the same kind of thing,  /
+sv          B.184 utt3: he had a lot of good results. /  
+
+aa          A.185 utt1:  Yeah.  /
+sd          A.185 utt2:  [ That's, + that's ] what he said here. /  
+
+ba          B.186 utt1:  Good. /  
+
+sd          A.187 utt1:  He's gotten us into a linear flow that we've never been in before. /  
+
+ba          B.188 utt1:  {D Well, } good. /  
+
+sv          A.189 utt1:  That's been a real big plus. /  
+
+ba          B.190 utt1:  Good. /  
+
+sd          A.191 utt1:  He's broadened, [ our, + ] {F um, } the devices that we're making, too,    
+
+b          B.192 utt1:  {F Oh, } okay. /  
+
++          A.193 utt1:  which has made us as lot more stable. /  
+
+ba          B.194 utt1:  {D Well, } that's good. /  
+
+fc          A.195 utt1:  Anyway, {D well, } it was nice to talk to you. /  
+
+fc          B.196 utt1:  {D Well, } you too,  /
+%          B.196 utt2: {C and, } -/  
+
+fc          A.197 utt1:  They're are going to interrupt us any minute now,  /
+fc          A.197 utt2: I can tell. /  
+
+fc          B.198 utt1:  {D well, } I know they will,  /
+fc          B.198 utt2: {C and } besides my daughter wants me to put her to bed. /  
+
+fc         A.199 utt1:  Okay,  /
+fc          A.199 utt2: yeah,  /
+fc          A.199 utt3: me, too. /  
+
+fc          B.200 utt1:  {D Well, } have a good day. /  
+
+fc          A.201 utt1:  You, too.  /
+fc          A.201 utt2: Bye. /  
+
+fc          B.202 utt1:  Bye-bye. / 

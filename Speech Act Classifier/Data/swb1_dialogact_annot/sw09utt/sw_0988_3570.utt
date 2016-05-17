@@ -1,0 +1,224 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3570_1415_1345
+TOPIC#:		368
+DATE:		911216
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+o          A.1 utt1:  Okay, Howard,  /
+qo          A.1 utt2: what do you think of our space budget  /
+qy          A.1 utt3: {C and } should we go ahead [ and, + and ] keep exploring,  /
+qrr          A.1 utt4: {C or } should we call a halt to it,  /
+qy          A.1 utt5: is it doing any good? /  
+
+sv          @B.2 utt1:  I think that the space program has done a lot of good for the country.  /
+sv          @B.2 utt2: {D Now } I think [ what, + ] we made a major wrong turn when we went [ into the, + {F uh, } to the ] current generation of space craft, the reusable ones, like they are now --   
+
+b          A.3 utt1:  Uh-huh. /  
+
++          B.4 utt1:  -- because they have not proven as reliable as they should have,  /
+sv          B.4 utt2: {C and } I think some of the earlier approaches were [ much more, + {F uh, } much better ] in many ways.  /
+sv          B.4 utt3:  However, {F uh, } {D you know, } we've gained an awful lot from the space program, all the way from remote monitoring to teflon to, {F uh, } some new space age materials, plastics and all that.  /
+sv          B.4 utt4: {C So } I think it's been a good investment.  /
+sd          B.4 utt5: {F Uh, } somebody was telling me the return was about twenty-five or thirty dollars for every dollar spent --   
+
+b          A.5 utt1:  {F Oh, } really. /  
+
++          B.6 utt1:  -- which is amazing for any governmental financed --   
+
+b          A.7 utt1:  # {F Oh, } yes. # /  
+
++          B.8 utt1:  -- # program. # /  
+
+sd          A.9 utt1:  Wish our post office could do that <laughter>. /  
+
+sd          B.10 utt1:  <Laughter> I wish the post office would just stop raising our rates. /  
+
+aa          A.11 utt1:  <Laughter> That's right.  /
+sd          A.11 utt2:  I wish they'd just deliver stuff. /  
+
+sv          B.12 utt1:  I think, though, [ that + now that ] we're finally starting to get over the fears and [ the, + {F uh, } {F oh, } {A I don't know, } the ] guilt that we had out of, {F uh, } Challenger,  /
+sv          B.12 utt2: I think maybe # we can # --   
+
+b          A.13 utt1:  # Uh-huh. # /  
+
++          B.14 utt1:  -- pick up and go on now.  /
+h          B.14 utt2:  {C But, } [ I, + I ] don't know.  /
+sv          B.14 utt3:  I don't think we really have all of our act together yet as far as clear objectives. /  
+
+aa          A.15 utt1:  # I agree. # /  
+
+sv          B.16 utt1:  # The space # station's where we should go --   
+
+aa          A.17 utt1:  # I agree. # /  
+
++          B.18 utt1:  -- # at this # point. /  
+
+sv          A.19 utt1:  Seems like that we've kind of gotten side tracked with putting all these different things up there to monitor  /
+sd          A.19 utt2: [ {C and, } + {D you know, } {D you know, } {C and } ] I'm in favor of, {D you know, } getting closer to seeing certain things,  /
+sd          A.19 utt3: {C but } I'd like to see them also [ go, + {D you know, } go ] back up there, see, {D you know, } what they can do. See about setting a space station up.  /
+sd          A.19 utt4: I'm all in favor of the space program,  /
+sv          A.19 utt5: {C and } I don't think we should stop,  /
+sv          A.19 utt6: {C and } I don't think we should cut the money. /  
+
+qo          B.20 utt1:  {D Well, } where do you think we ought to go with it? /  
+
+^h          A.21 utt1:  {F Uh. } /  
+
+qy          B.22 utt1:  You talking about, {F uh, } {F uh, } a fully manned space station that we'll keep up there? /  
+
+ny          A.23 utt1:  Yeah,  /
+sd^e          A.23 utt2: [ I would like, + I'd like ] to see that.  /
+sd          A.23 utt3: I'd like for us to really find out more about the actual universe and get up there and see what's going on, even if, {D you know, } there's no life up there or anything, {D you know. }  /
+h          A.23 utt4:  {C But } who knows.  /
+sd          A.23 utt5:  {C And } I would like to see them do something like that. /  
+
+%          B.24 utt1:  # {D Well, } # -/  
+
+sv          A.25 utt1:  # [ I, + # I ] hate to see them just, {D you know, } keep getting diverted off to spying on other nations and putting up defense things  /
+sv          A.25 utt2: {C and, } [ I think they, + I think they ] lose sight [ of, + of ] probably what they're supposed to be doing. /  
+
+qy^g          B.26 utt1:  {D Well, } I think about half the nations now [ are, + are ] military related, are  they not? /  
+
+ny          A.27 utt1:  Yes,  /
+ny^r          A.27 utt2: yes. /  
+
+sv          B.28 utt1:  {C And, } {F uh, }   
+
+sd^e          A.29 utt1:  I believe they are. /  
+
++          B.30 utt1:  It seems like [ it's + that ] high a percentage. /  
+
+ad          A.31 utt1:  {D You know, } let's go back to our original thing with, {D you know, } our experiments and all [ the, + {D you know, } our ] actual exploring of space [ and, + and ] all that,  /
+sv          A.31 utt2: and, {D you know, } [ with, + with ] Russia, {F uh, } seemingly not going to be as big a threat. /  
+
+sv          B.32 utt1:  {D Well, } it can't afford to <laughter>. /  
+
+aa          A.33 utt1:  Huh-uh, {D you know. }  /
+qy          A.33 utt2: Have you gone out to, {F uh, } Fort Worth to see the [ space, + Soviet space ] exhibit? /  
+
+nn          B.34 utt1:  No,  /
+sd^e          B.34 utt2: we were talking about that this weekend.  /
+sd          B.34 utt3:  [ We, + it's ] only going to be there a couple of more # weeks. # /  
+
+b          A.35 utt1:  # Uh-huh,  /
+b^r          A.35 utt2: # # uh-huh. # /  
+
+sd          B.36 utt1:  # We need # to go. /  
+
+sd          A.37 utt1:  We went, {F uh, }  /
+sd          A.37 utt2: we took our grandsons and went, {F uh, } the weekend before last,  /
+sd          A.37 utt3: {C and } it is marvelous.  /
+sd          A.37 utt4:  {E I mean, } it's really neat how [ they, + they ] have done it.  /
+sd          A.37 utt5: They have done a beautiful job. /  
+
+bh          B.38 utt1:  Have they? /  
+
+sd          A.39 utt1:  {C And } they have a, {F uh, } scaled down model showing [ how they, {D you know, } fuel it, + {E or, } {D you know, } how [ they, + {F uh, } {F oh, } the fuel trucks ] ] and things run out there to it and how they, {F uh, } - /
+sd          A.39 utt2: all the things that are against the actual [ space mission, + {F uh, } space ship, ] {D you know, } how they fall away from it,  /
+sd          A.39 utt3: and the loading of it -- /  
+
+b          B.40 utt1:  {F Oh, } yes. /  
+
+sd          A.41 utt1:  -- {C and then } it's actually, {D you know, } - /
+sd          A.41 utt2: the smoke comes out like it's taking off.  /
+sd          A.41 utt3:  It is really interesting. /  
+
+sv          B.42 utt1:  {D Well, } maybe I need to run out there this weekend. /  
+
+aa          A.43 utt1:  You really do.  /
+sd          A.43 utt2: [ It's, + it's ] well worth the time and effort.  /
+sd          A.43 utt3:  We went, {F uh, } early on Sunday.  /
+sd          A.43 utt4:  We got out there about, {F uh, } ten, ten thirty,  /
+%          A.43 utt5: # {C and } the, # -/  
+
+qy          B.44 utt1:  # {D Now } do # you have to have tickets ahead?  /
+fa          B.44 utt2:  # Excuse me. # /  
+
+nn          A.45 utt1:  # No,  /
+sd^e          A.45 utt2: we # bought tickets there,  /
+sd          A.45 utt3: {C and } if you have children, if you go to McDonald's, [ you co-, + they have ] coupons, or did have.  /
+sd          A.45 utt4:  {D Now } they may be through with them now.  /
+sd          A.45 utt5:  {C But, } {F uh, } buy one adult  /
+sd          A.45 utt6: {C and } one child gets in free. /  
+
+sd          B.46 utt1:  {F Um, } I think both of my kids are too old for that -- /  
+
+b          A.47 utt1:  {F Oh, } okay,  /
+b^r          A.47 utt2: # {F oh, } okay. # /  
+
+%          B.48 utt1:  -- # they're both, # {F uh, } -/  
+
+qy^d          A.49 utt1:  You have teenagers or something. /  
+
+ny          B.50 utt1:  Yes,  /
+ny^r          B.50 utt2: # yes. # /  
+
+b^m          A.51 utt1:  # Yes,  /
+x          A.51 utt2: #  /
+sd          A.51 utt3: {D well } I had grandchildren <laughter> [ {C so, } three of them, + {C so } between their mother ] and their grandfather and I, - /
+sd          A.51 utt4: {C because } their dad was at work  /
+sd          A.51 utt5: [ [ {C and, } {F uh, } +   
+
+%          B.52 utt1:  Did you, -/  
+
++          A.53 utt1:  {C But, } ] + {C and } ] the boys loved it, {D you know, }  /
+sd          A.53 utt2: they really did like it. /  
+
+qy^d          B.54 utt1:  It's very impressive, I'm sure. /  
+
+ny          A.55 utt1:  Uh-huh,  /
+sd^e          A.55 utt2: it is,  /
+sd          A.55 utt3: {C and } I felt the, {F uh, } six year old [ would, {D you know, } + that he'd ] be kind of bored,  /
+sd          A.55 utt4: {C but } he wasn't.  /
+sd          A.55 utt5:  Even the three year old enjoyed it -- /  
+
+x          B.56 utt1:   ((   )) .   
+
+sd          A.57 utt1:  -- {C because } they [ had one, + had one ] of those moon vehicles --   
+
+b          B.58 utt1:  Uh-huh. /  
+
++          A.59 utt1:  -- and had it so it looked like it was on the moon, and showed it moving around and stuff.  /
+sd          A.59 utt2: {C So } it was really neat. /  
+
+ba          B.60 utt1:  {D Well, } {D see, } that's something else.  /
+sd          B.60 utt2: The Russians have had [ space stations, + manned [ stat-, + space stations ] ] for years now.  /
+sd          B.60 utt3:  {D You know, } they had the # Merv # -- /  
+
+b          A.61 utt1:  # Uh-huh,  /
+b^r          A.61 utt2: # uh-huh. /  
+
+sd          B.62 utt1:  -- {C and } see we've yet to keep anyone up [ over -- +   
+
+b          A.63 utt1:  Right. /  
+
++          B.64 utt1:  -- over ] a week or ten days. /  
+
+sd          A.65 utt1:  {D Well, } in going through it, I got the impression that actually they were farther ahead, / 

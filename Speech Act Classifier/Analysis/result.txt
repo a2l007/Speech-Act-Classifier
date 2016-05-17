@@ -1,0 +1,127 @@
+50% train, 10% test
+
+Data loaded in 4.29149985313 sec
+Feature extracted in 3.25223612785 sec
+110808
+Model trained in 235.76353097 sec
+total_correct 18472
+total wrong 3689
+accuracy 83.3536392762
+
+
+sigmoid 50% train, 10% test
+
+Data loaded in 6.28361582756 sec
+Feature extracted in 3.53600001335 sec
+110808
+Model trained in 372.217646122 sec
+total_correct 18153
+total wrong 4008
+accuracy 81.9141735481
+
+
+linear 50% train, 10% test, after change
+
+Data loaded in 4.19059300423 sec
+Feature extracted in 6.60396099091 sec
+110808
+Model trained in 233.066212177 sec
+total_correct 18422
+total wrong 3739
+accuracy 83.1280176887
+
+
+poly 80% train, 10% test, after change
+
+Data loaded in 4.75998592377 sec
+Feature extracted in 10.1417019367 sec
+177292
+Model trained in 869.687960148 sec
+total_correct 37878
+total wrong 6445
+accuracy 85.4590167633
+
+
+
+
+MRDA 80%, 10% test, poly, 
+
+Data loaded in 0.741994142532 sec
+Feature extracted in 4.84587597847 sec
+89621
+set(['qy', 'qrr', 'other', 'qo', 'qw'])
+Model trained in 384.694689989 sec
+set(['qy', 'qrr', 'other', 'qo', 'qw'])
+total_correct 21883
+total wrong 522
+accuracy 97.6701629101
+Classification_report:
+/Library/Python/2.7/site-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+             precision    recall  f1-score   support
+
+      other       1.00      0.98      0.99     21333
+         qo       0.00      0.00      0.00        10
+        qrr       0.00      0.00      0.00        25
+         qw       0.54      0.83      0.66       230
+         qy       0.70      0.90      0.79       807
+
+avg / total       0.98      0.98      0.98     22405
+
+accuracy_score: 0.98
+
+
+
+poly 80% train, 10% test, Probability = true
+
+
+Data loaded in 4.75998592377 sec
+Feature extracted in 10.1417019367 sec
+177292
+Model trained in 869.687960148 sec
+total_correct 37878
+total wrong 6445
+accuracy 85.4590167633
+Chiteshs-MacBook-Pro:Code ctewani$ /usr/bin/python swa_classifier.py 
+Data loaded in 5.22273397446 sec
+Feature extracted in 10.5321521759 sec
+177292
+Model trained in 35920.8492038 sec
+total_correct 37306
+total wrong 7017
+accuracy 84.1684904
+
+
+
+Data loaded in 59.6527199745 sec
+Space populated extracted in 0.020968914032 sec
+Space lenght: 1973
+Feature extracted in 0.0839560031891 sec
+2216
+Model trained in 13.1619300842 sec
+total_correct 38445
+total wrong 5878
+accuracy 86.7382623017
+Classification_report:
+             precision    recall  f1-score   support
+
+          b       0.76      0.81      0.78      8081
+         fa       0.00      0.00      0.00        11
+         ft       0.20      0.38      0.26        16
+          h       0.48      0.47      0.47       210
+         nn       0.37      0.90      0.53       222
+         ny       0.00      0.00      0.00       576
+      other       0.92      0.92      0.92     33178
+         qw       0.34      0.18      0.23       310
+         qy       0.50      0.31      0.39       713
+       qy^d       0.03      0.01      0.01       248
+          x       0.71      0.95      0.81       758
+
+avg / total       0.85      0.87      0.86     44323
+
+accuracy_score:/Library/Python/2.7/site-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+ 0.87
+
+
+

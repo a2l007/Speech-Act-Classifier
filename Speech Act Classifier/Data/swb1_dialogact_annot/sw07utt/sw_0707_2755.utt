@@ -1,0 +1,295 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2755_1209_1026
+TOPIC#:		323
+DATE:		910501
+TRANSCRIBER:	HJR
+UTT_CODER:      lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        At the end of the conversation, that is with both 
+A & B speaking, the tape started skipping pretty bad.
+
+============================================================================
+  
+
+sd^t          @A.1 utt1:  {D So, } child care, your views. /  
+
+sd           B.2 utt1:  {F Uh, } {D well, } we only have one child right now and another one on the way  /
+sd           B.2 utt2: {C and } right now [ I'm, + I'm ] all with her during the day.  /
+%          B.2 utt3:   I, - /
+sd           B.2 utt4: if I was looking for outside care I probably would stay away from professional  child care centers and try to find, if I was close to home, relatives or people with  [ it is + ] same values and possibly religious faith or something similar so that she would be raised  in an environment that would be similar to what we would have in our own homes [ as, + as ] parents. /  
+
+qw          A.3 utt1:  {C And } what religious faith? /  
+
+sd          B.4 utt1:  {F Uh, } Latter Day Saints. /  
+
+ba          A.5 utt1:  {F Oh } --   
+
+sd          B.6 utt1:  [ {C So } + --   
+
++          A.7 utt1:  -- [ that's, + that's ] good. /  
+
++          B.8 utt1:  -- {C so } ] that's what I would try to do.  /
+sd           B.8 utt2: With a teaching background I've, {F um, } had a little bit of experience with the child day care  type situations  /
+sd          B.8 utt3: {C but } I've seen some good ones  /
+sd          B.8 utt4: {C and } I've seen some really bad ones. /  
+
+qy^g         A.9 utt1:  {F Uh, } they do seem to be at the outside edge of both extremes don't they? /  
+
+ny          B.10 utt1:  Uh-huh,  /
+sd^e@           B.10 utt2: and everything in between, {D yeah, } in most states there's nothing to regulate them, /  *[[ This would seem to be 2 or even 3 slash units ]]
+
+sv          A.11 utt1:  # {C And, } #   
+
+%          B.12 utt1:  # {C and # so, } -/  
+
++           A.13 utt1:  whenever they are they seem to regulate the good toward the bad instead of bad toward the good. /  
+
+aa          B.14 utt1:  Right.  /
+sv          B.14 utt2:  By trying to get them to conform to concern standards  they, {F uh, } kind of, {F uh, } eliminate a lot of the, {F uh, } -/  
+
+^2          A.15 utt1:  Better situations. /  
+
+aa          B.16 utt1:  Yeah.  /
+%          B.16 utt2:  The, the, {F uh, } - /
+t1           B.16 utt3: what am I trying to think of that, <<pause>> not the imagination but the creativity [ in, + in ] the situation - /
+%          B.16 utt4: {C and so, } -/  
+
+aa          A.17 utt1:  Yeah,  /
+aa          A.17 utt2: yeah  /
+sv          A.17 utt3: [ that's, + that's  ] very well phrased. /  
+
+x          B.18 utt1:  <Laughter>.   
+
+qy           A.19 utt1:  {F Uh, } {C so, } have you ever used outside child care? /  
+
+nn          B.20 utt1:  No,  /
+ng          B.20 utt2: I haven't.  /
+sd          B.20 utt3:  We've had {D like } people come  in and baby-sit for an hour or two  /
+sd          B.20 utt4: {C but } I've never had, {F um, } -/  
+
+^2          A.21 utt1:  Real day care. /  
+
+aa          B.22 utt1:  Right.  /
+sd          B.22 utt2:  [ She's, + she's  ] not even a year yet,  /
+sd          B.22 utt3: {C so, }    
+
+%          A.23 utt1:  # {F Uh } # -- /  
+
++           B.24 utt1:  # we haven't # been in, {D you know, } a lot of need yet. /  
+
+sd          A.25 utt1:  -- our step daughter's ten now -- /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sd           A.27 utt1:  -- {C and } most of the day care has been provide for by Grandma. /  
+
+sd,o@        B.28 utt1:  I like that situation, that's usually real good <laughter>. / *[[ 2 slash units? ]] 
+
+sd           A.29 utt1:  {C But, } quite honestly what I believe to be the best day care situation was while we lived up, the Pass of Woodland Park --   
+
+b          B.30 utt1:  Uh-huh. /  
+
++           A.31 utt1:  -- there was, {F uh, } ex-school teacher that, {F uh, }  did a small amount of before school and after school, {D you know, } kindergartners,  or half dayers --   
+
+b          B.32 utt1:  Uh-huh. /  
+
++          A.33 utt1:  -- in her home <<pause>>  /
+sd          A.33 utt2: {C and } they would read and play, /  
+
+bf           B.34 utt1:  # Have [ a + ] [ relative struct-, + ] [ a + ] structured, #   
+
+%          A.35 utt1:  # seem to be, # /  
+ 
++           B.36 utt1:  activities and not just, {D you know, } stick them in a corner and say you're on your own. /  
+
+aa          A.37 utt1:  {F Uh, } yeah,  /
+sd           A.37 utt2: {C and, } {F uh, } despite our beliefs,  she was, {F uh, } one of the more, {F uh, } <<pause>> Charismatic Christian faiths -- /  
+
+b          B.38 utt1:  Uh-huh. /  
+
+sd          A.39 utt1:  -- {C and } it worked out wonderfully. /  
+
+b          B.40 utt1:  Yeah.  /
+sv           B.40 utt2:  I know [ that, + {F uh, } that ] I guess if you have the opportunity to pick and choose  and you've got the time and that, {F uh, } I don't know if the resources are the proper term, {D you know, } just [ the, +  the ] [ know, + knowledge ] of who's a available, then you could probably find some really good care. /  
+
+aa          A.41 utt1:  {F Uh, } yeah,  /
+sd          A.41 utt2: {C but } I don't know that it would be state approved. /  
+
+aa          B.42 utt1:  That's true.  /
+sd          B.42 utt2: You can get somebody maybe willing to baby-sit  /
+sd           B.42 utt3: {C but } {D actual, } {D you know, } that's sometimes [ different, + ]  done on a different scale.  /
+sd           B.42 utt4:  I have even considered, {D you know, } baby-sitting myself, I have a teaching  degree, and, {F uh, } thought  {D well, } {D you know, } I could structure   and then  for one reason or other decided not to,  /
+sd           B.42 utt5: {C but } I think if you take more than three children in, {D well, } - /
+sd           B.42 utt6:  that was how it was this Virginia, we've recently moved here to  Texas,  but in Virginia I think if you take more than three children  in on more than a several hours a day bases you have to be licensed. /  
+
+%          A.43 utt1:  I, - /
+sd          A.43 utt2: now I don't know what the current Texas laws are  /
+sd           A.43 utt3:  [ {C but } I, + {C but } I ] do know that the license doesn't seem to, {F uh, } <<pause>> guarantee quality. /  
+
+b           B.44 utt1:  Yeah,  /
+sd           B.44 utt2: a lot of times you might just need to go  now and [ feel, + ] file for it just like a business.  /
+sd           B.44 utt3:  You may not have to prove any  type of qualification for it I don't, -/  
+
+sd           A.45 utt1:  {F Uh, } now here I believe that child care meets, by in large, certain standards for, {F uh, } balanced food, if they provide food,  cleanliness, <<pause>> and levels of supervision --   
+
+b          B.46 utt1:  Uh-huh. /  
+
++          A.47 utt1:  -- levels being defined as number of working adults for number of children -- /  
+
+b          B.48 utt1:  Uh-huh. /  
+
+o@          A.49 utt1:  -- {C but, }  *[[ I'd definitely call this an incomplete slash unit. ]]   
+
+sv            B.50 utt1:  That's, {F uh, } kind of a minimum there that you're getting.  /
+sv           B.50 utt2:   Your covering basic care there and not all the extras that most people would like to see done with there children, {D you know, } like the educational  activities, the supervised play and so forth. /  
+
++@          A.51 utt1:  Yeah,  /  *[[ See note on A.49 above ]]
+sd          A.51 utt2: {F uh, } my wife is, {F uh, } agnostic  /
+sd          A.51 utt3: {C and } I'm,  {F uh, } a backsliding Presbyterian  -- /  
+
+sd          B.52 utt1:  <Laughter>  I like that term <laughter>. /  
+
+sd           A.53 utt1:  -- {C and, } {F uh, } <<pause>> [ get, + ] I really believe  that this Charismatic care, or  the Charismatic belief when emphasized on care, or semi Charismatic I might say --   
+
+b          B.54 utt1:  Uh-huh. /  
+
++          A.55 utt1:  -- was quite good. /  
+
+aa          B.56 utt1:  Yeah,  /
+bf          B.56 utt2: it was a good influence for your daughter, {F uh. } /  
+
+aa          A.57 utt1:  Yes,  /
+aa          A.57 utt2: very -- /  
+
+ba          B.58 utt1:  {D Well, } that's good. /  
+
+sv            A.59 utt1:  -- [ {C and, } + {C and, } ] {F uh, } <<pause>> the care is what I guess you should emphasize in the term child care instead of the child. /  
+
+aa          B.60 utt1:  Uh-huh.  /
+aa          B.60 utt2:  Yeah,  /
+sv           B.60 utt3: a little bit of love [ and, + and ]  attention is what most of them need.  /
+sv           B.60 utt4: {D You know, } even if it's not a real educated program you can have good educational program  /
+%          B.60 utt5: [ {C and, } + {C and, } ] /  
+
+^2          A.61 utt1:  And not have any care. /  
+
+aa          B.62 utt1:  Right.  /
+sv           B.62 utt2:  [ {C And, } + {C and } ] that's not certainly what you want for your child or what you would give your child yourself  /
+%          B.62 utt3: {C and so, } -/  
+
+sd           A.63 utt1:  {C And } I'm not sure that really child care per se should instill any education per se.  /
+qy          A.63 utt2:  Do you know had a I'm saying? /  
+
+sv           B.64 utt1:  {D Well, } even educated play, {F uh, } supervised play,  can teach without, - /
+sd           B.64 utt2: {C and } I'm not saying talking about sitting down and teaching them math  [ [ or, + or, ] + or ]  something like that but just kind of promoting social skills  /
+%           B.64 utt3: {C and, } {F uh, } {F uh, } {D you know, } like  [ my, + my ] child that, - /
+sd          B.64 utt4: she want be an only child for  long,  /
+sd          B.64 utt5: {C but, } {D you know, } she was an only child,  /
+sd          B.64 utt6: {C or }  maybe your daughter,   
+
+bf          A.65 utt1:  # Proper interface.  # /  
+
++          B.66 utt1:  # not having, # - /
+aa          B.66 utt2: yeah,  /
+aa          B.66 utt3: yeah,  /
+%          B.66 utt4: just, -/  
+
+sd           A.67 utt1:  It's [ just, + just ] correctness [ of, + of ] <<pause>>  social skills, if you will. /  
+
+aa          B.68 utt1:  Right,  /
+bf          B.68 utt2: those basic things [ that, {F uh, }  [ they would, + that, {D you know, } you would ] be a little bit of, {F uh, } I don't know if manners is a good term or not but,    
+
+x          A.69 utt1:  # <Breathing>.  #   
+
++           B.70 utt1:  # {D you # know, } dealing with other through proper  mannerisms and politeness and so forth, {D you know, } that sort of thing, you'd want  your child to learn that, from the experience of someone else, certainly you wouldn't want your child's day care person  to yell at them and scream at them and say  do this, do that, {D you know, } you'd want them it promote politeness and  niceness, {D you know, } the things that you would want any child to learn  /
+%          B.70 utt2: {C and, }   
+
+x          A.71 utt1:  # <Breathing>.  #   
+
++          B.72 utt1:  # the # reason, - /
+sd           B.72 utt2: that's done through example, {D you know, }  not an actual sit down learn situation  /
+%          B.72 utt3: {C so, } -/  
+
+b          A.73 utt1:  {F Uh, } yeah,  /
+sv          A.73 utt2: {F uh, } it's a very broad issue. /  
+
+aa          B.74 utt1:  Uh-huh,  /
+sv          B.74 utt2: it is <laughter>. /  
+
+sv          A.75 utt1:  {C And, } <<pause>> {D you know, } it's a shame  /
+sd           A.75 utt2:  {C but } most people doing, child care earn almost no money.  /
+sd          A.75 utt3: They operate at, {D you know, } - /
+sd           A.75 utt4:  the owner of the chi-, of a, {D you know, } a large child care facility now, -/  
+
+b          B.76 utt1:  # Uh-huh. # /  
+
+sd          A.77 utt1:  # we're # not talking somebody that does six kids,   
+
+b          B.78 utt1:  # Uh-huh. # /  
+
++          A.79 utt1:  # in # their home or three or whatever. /  
+
+bf           B.80 utt1:  Somebody that doesn't really put a lot of overhead whatever into it.  /
+bf          B.80 utt2: You mean somebody that has an actual establishment. /  
+
+aa          A.81 utt1:  Right. /  
+
+b          B.82 utt1:  Yeah. /  
+
+sd          A.83 utt1:  Their employees earn almost nothing. /  
+
+aa          B.84 utt1:  Yeah.  /
+sd          B.84 utt2:  I know [ I, + I ] did that for  summer <laughter>  /
+sd          B.84 utt3: {C so } [ I can, + I can ] vouch for that <laughter>. /  
+
+sv           A.85 utt1:  {C And } that's really, really a shame too because, <<pause>> - /
+qy          A.85 utt2: do you and your husband both work. /  
+
+nn          B.86 utt1:  No,  /
+sd^e           B.86 utt2: just he does [ I'm, + I'm ] here during the day with her. /  
+
+ba           A.87 utt1:  {D Well, } that's wonderful [ if, + if ] you can make it that way. /  
+
+sd          B.88 utt1:  {D Well, } [ we, + we ] decided to, - /
+sd          B.88 utt2:  we live on a lesser budget so that we have - /
+sd           B.88 utt3: [ that, + that's ] more important to us, {D you know, } [ as, + as, ]  {F uh, } there may come a time when I will be working again, {D you know, }  /
+sd          B.88 utt4: {C but } right now that's what we've chosen  /
+sd          B.88 utt5: {C and } we wanted to have several, - /
+sd          B.88 utt6: we got her  /
+sd          B.88 utt7: {C and } we've got  another on the way,   
+
+sv          A.89 utt1:  # {D Well, } #   
+
++          B.90 utt1:  # and # maybe another,   
+
++          A.91 utt1:  like I said,   
+
++          B.92 utt1:  one soon after that,  /
+%          B.92 utt2: {C so } <laughter>, -/  
+
++          A.93 utt1:  that's grand [ if, + if ] you can pull it off -- /  
+
+b          B.94 utt1:  Right. /  
+
+sv            A.95 utt1:  -- {C but } more and more [ we're being forced into a  situation, + we as Americans are being forced into a situation, ] where you've got to have, -/ 

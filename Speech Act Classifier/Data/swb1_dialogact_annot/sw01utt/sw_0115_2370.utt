@@ -1,0 +1,475 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2370_1138_1084
+TOPIC#:		329
+DATE:		910401
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:  Baby talking behind Speaker B
+
+============================================================
+  
+
+sv          B.1 utt1:  {D So } {D well, } [ you're, + [ you, + you ] take ] this subject much more personally than I do, I suppose. /  
+
+sd          A.2 utt1:  <laughter> I suppose I do because I've seen a lot of those changes, the changes that women have had in [ the last genera-, + {D well, } {D you know, } <baby_talking>  not even the last generation, ] the last fifteen years --   
+
+b          B.3 utt1:  Uh-huh. /  
+
++          A.4 utt1: -- twenty years, going from, - /
+ar          A.4 utt2: {D well, } take it back, thirty years - /
+sd          A.4 utt3: <laughter> I'm going back too far, from my parents' generation when mom stayed home, <baby_talking> period -- -/  
+
+b          B.5 utt1:  Yeah. /  
+
+sd          A.6 utt1: -- {C and } there was no such thing as a job or any hope of a job,  [ unti-, + {D well, }  unless, ] - /
+sd          A.6 utt2: if you were educated [ you got, + {D you know, } you might ] teach for a year or two before you got married. /  
+
+b          B.7 utt1:  Yeah. /  
+
+sd          A.8 utt1:  <baby_talking> {C And } if you really pushed it, you taught until you had kids or something --    
+
+b          B.9 utt1:  Yeah. /  
+
++          A.10 utt1:  -- {D you know, }  /
+sd          A.10 utt2: [ if you had, + if you were ] a teacher. Then, {D you know, } that was it, until the kids were little. /  
+
+aa          B.11 utt1:  Yeah,  /
+sv          B.11 utt2: [ you, + you ] weren't supposed to want a job. /  
+
+aa          A.12 utt1:  Yes.  /
+sv           A.12 utt2:  [ There was not, + there's not ] supposed to be any reason to use this education or this brain that <baby_talking> you might have for anything other than your house and your children </baby_talking> and how clean can the bathroom floors be on any given day. /  
+
+b          B.13 utt1:  Yeah. /  
+
+sv          A.14 utt1:  [ {C And then, } + {C and then } ] of course today it's supposed to be all the other way.  /
+sv          A.14 utt2: You're supposed to only want <baby_talking> the job, /
+sv          A.14 utt3: [ {C and, } + {C and, } ]  {F uh, } your kids should  be totally happy in day care, because everybody else goes to day care -- /  
+
+b          B.15 utt1:  Yeah. /  
+
+sv          A.16 utt1:  -- [ {C and, } + {C and } ] we have these wonderful people  [ who are -- +   
+
+b          B.17 utt1:  Uh-huh. /  
+
++          A.18 utt1:  -- who are ] totally prepared [ to tea-, + to teach ] your child everything they need to know in day care -- /  
+
+b          B.19 utt1:  <baby_talking>  Yeah,  /
+sv          B.19 utt2: [ {C but } -- +   
+
+sd          A.20 utt1:  -- {C and } we'll see how the generations go. /  
+
++          B.21 utt1:  -- {C but, } ]  {F uh, } a really good day care  is probably going to cost more than you're going to make at the job. /  
+
+aa         A.22 utt1:  Yeah,  /
+%          A.22 utt2: I, - /
+sv          A.22 utt3: at least for a lot of women --   
+
+b          B.23 utt1:  Yeah. /  
+
++          A.24 utt1: -- depending [ on, + on ] what she did.  /
+sd          A.24 utt2: [ I've, + I was ] [ an engineer with, + {F uh, } mechanical engineer with ] T I,  /
+sd          A.24 utt3: {C and, } {F uh, } I did it for six years  /
+%          A.24 utt4: {C and } for one, - /
+sd          A.24 utt5: {D well } I had one while I was pregnant,  /
+sd          A.24 utt6: {C and then } one while my oldest was a year old, /
+sd          A.24 utt7: [ {C and, } + {C and } ] it just drove me crazy. /  
+
+%          B.25 utt1:  Did you, -/  
+
+sd          A.26 utt1:  I could not do either well enou-, - /
+sd          A.26 utt2: I couldn't put in enough  overtime that was necess-, or [ that, + ] {D you know, } things that would come up at work, that would require me to stay late or to come in early or to do something on Saturdays --   
+
+b          B.27 utt1:  Uh-huh. /  
+
++          A.28 utt1:  -- [ as is, + {D you know, } as is ] needed, because my husband for a long time was out of the country --   
+
+b          B.29 utt1:  {F Oh, } yeah, /  
+
++          A.30 utt1:  -- also [ with, + {F uh, } with ] work, for {D like } three months  /
+%          A.30 utt2:  {C and, } -/  
+
+bf          B.31 utt1:  {C So } it was you and the kid  /
+bf          B.31 utt2: and your work schedule is. -/  
+
+aa          A.32 utt1:  Yeah. /  
+
+sv          B.33 utt1:  {D Well } that's the thing, {D see, } {D you know, }  /
+sv          B.33 utt2:  maybe if you get along  /
+sv          B.33 utt3: for example if you'd been a technician instead of an engineer.  /
+sd          B.33 utt4: {D You know, } the technicians work the eight to five job --   
+
+aa          A.34 utt1:  Yeah,  /
+sd          A.34 utt2: might have been better. /  
+
++          B.35 utt1:  -- and know when they're going to be there. /  
+
+b          A.36 utt1:  Yeah. /  
+
+sv          B.37 utt1:  {C But } if you're going to be more professional oriented, then you've got to have this, to be able to perform well on the job  /
+sv          B.37 utt2: you've got to have the flexibility that doesn't really go with the family. /  
+
+aa          A.38 utt1:  Yeah,  /
+sd          A.38 utt2: {C and so } it was, - /
+sd          A.38 utt3: in my case,   I just, {F uh, } decided that, as long as my kids were little, I would be better off at home with them, instead of driving myself crazy trying to do everything at once. /  
+
+b          B.39 utt1:  Uh-huh.  /
+qy^d          B.39 utt2:  {C So } you figure one of these days you're going to go back to being an engineer?  /
+qy          B.39 utt3: Is that what you're saying? /  
+
+sd          A.40 utt1:  {D Well, } actually I've found out that I'm not going to go back to being an engineer.  <laughter> /  
+
+qw          B.41 utt1:  What will you, -/  
+
+sd          A.42 utt1:  [ [ I'm, + I'm, ] + I'm ] a photographer now. /  
+
+bk          B.43 utt1:  {F Oh, } okay,  /
+bf          B.43 utt2: you've found something else. /  
+
+sd          A.44 utt1:  [ I have, + I have ] branched out.  /
+sd          A.44 utt2:  I was a photographer before,  /
+sd          A.44 utt3: {C but } when I went to college [ it was, + I felt ] like I couldn't support myself if I decided to be a photographer --   
+
+b          B.45 utt1:  Yeah. /  
+
++          A.46 utt1:  -- that it would just have to be a hobby,  /
+sd          A.46 utt2: {C and } I'm very mechanical,  /
+sd          A.46 utt3: {C and } mechanical engineering interested me,  /
+sd          A.46 utt4: {C so } I did that.  /
+sd          A.46 utt5:  {C And then } [ I, + {D you know, } I ] did that for six years.  /
+sd          A.46 utt6:   {C And then } I stayed home with my son, and did nothing.    
+
+b          B.47 utt1:  Yeah. /  
+
++          A.48 utt1:  And found out [ that I was, + that, {D you know, } it was ]  great,  /
+sd          A.48 utt2: {C but } I was bored part of the time, too.  /
+sd          A.48 utt3:  {C And } I wanted something else to do, /  
+
+aa          B.49 utt1:  Yeah,  /
+bf          B.49 utt2: {E I mean, } you figure there's got to be more to life than sitting here playing with this child. /  
+
+aa          A.50 utt1:  Yeah,  /
+sv          A.50 utt2: [ it's, + it's ] great while they're really little, /
+sv          A.50 utt3:  {C but } as they get older --   
+
+b          B.51 utt1:  Uh-huh. /  
+
++          A.52 utt1: -- and they're more independent, and there's things to do,  then it's good for them to go to different, - /
+sd           A.52 utt2: {E I mean, } [ it, + he ] goes to [ a, + a ] mother's day out program now once a week.  /
+sd          A.52 utt3: Both of my kids do,  /
+sd           A.52 utt4: {C and so } [ they're getting, + they get ] the socialization with other kids, [ and, + {D you know, } and ] not really school, [ but, + but ] a different authority than mom, once in a while, {D you know, } kind of learning how to deal with society. /  
+
+sv          B.53 utt1:  [ {C And, } + {C and } ] they need that, {D you know, }  to be able to relate to other people besides --   
+
+aa          A.54 utt1:  Yeah,  /
+sv          A.54 utt2: I think they do, too. /  
+
++          B.55 utt1:  -- the same person every day. /  
+
+sd          A.56 utt1:  {C And } I need it for the break.  <laughter> /  
+
+b          B.57 utt1:  Yeah,  /
+sv          B.57 utt2: {D well, } that's the other thing, {D you know, } /
+sv          B.57 utt3: they talk about women leaving the home and going out to work,  /
+sv          B.57 utt4: {D well, } still taking care of the children is a very important job. /  
+
+b          A.58 utt1:  Uh-huh. /  
+
+sv           B.59 utt1:  [ {C And, } + {C and } ] someone's got to do it, and be able to do it right,  /
+sv          B.59 utt2: [ {C and } -- +    
+
+^2          A.60 utt1:  And enjoy it,  /
+sv          A.60 utt2: [ that's, + that's ] the whole thing. /  
+
++          B.61 utt1:   -- {C and } ] if it's not mom [ then, + then ] dad or somebody's got to move in there --   
+
+b          A.62 utt1:  Yeah. /  
+
++          B.63 utt1:  -- and do the job, because the kids really need it. /  
+
+sv          A.64 utt1: I think that's the thing that were going to see,  /
+sv          A.64 utt2: {D well, } I think the biggest thing we're going to see coming up in the next ten year, [ even in the, + ] {A even now they're starting to do it,  /
+sv          A.64 utt3: {C but } I think it's going to be more in the next ten to fifteen years, } is that there's going to be a lot of women,  /
+sv          A.64 utt4: {C and } they're going to have to work it out to working part time. /  
+
+b          B.65 utt1:  Uh-huh. /  
+
+sd         A.66 utt1: {C Because } [ if, + if ] I had been allowed to work, {D you know, } maybe thirty hours a week instead of fifty hours a week, I might still be working basically full time or part time,  [ if there was, + if there had been ] --   
+
+b          B.67 utt1:  Yeah. /  
+
++          A.68 utt1:  -- some way to work it out,  /
+sd          A.68 utt2: {C because, } I liked my job really well. /  
+
+b          B.69 utt1:  Uh-huh. /  
+
+sd          A.70 utt1: {C But } I was just pulled in so many different directions  /
+sd          A.70 utt2: [ I was, + it was ] just driving me crazy.  /
+sd          A.70 utt3: {C And } now, with the photography, [ that's, + {D you know, } it's ] working,  /
+sd          A.70 utt4: that's what I'm doing, is working part time because I can put my kids in a day care situation for a few hours in the, {F uh, } week --   
+
+b          B.71 utt1:  Yeah. /  
+
++          A.72 utt1:  -- and use those hours to do. - /
+sd          A.72 utt2: The thing that I'm doing is taking school pictures --   
+
+b          B.73 utt1:  Yeah. /  
+
++          A.74 utt1:  -- in day cares and in Mother's Day Out programs, and --   
+
+b          B.75 utt1:  Yeah. /  
+
++          A.76 utt1:  -- also soccer teams, and, {D you know, } different stuff like  that. /  
+
+b          B.77 utt1:  Uh-huh. /  
+
+sd          A.78 utt1:  {C So } my kids can be in day care for a few hours a week,  /
+sd          A.78 utt2:  {C or } my  husband, [ if it's, + {D you know, } {F uh, } when he's  ] at home, can take care of them. /  
+
+b          B.79 utt1:  Yeah,  /
+sv          B.79 utt2: {C so } jobs have to, I guess, become more flexible. /  
+
+sv          A.80 utt1:  I think they're really going to have to, [ and not, + and not ] just for mothers, for fathers as well. /  
+
+b          B.81 utt1:  Yeah. /  
+
+sv          A.82 utt1:   It's going to have to be both. /  
+
+sv          B.83 utt1: {D Well, } [ {D so, } + {D so } ] that's another thing that has to adapt is, {D you know, } [ the, + the ] father's attitudes about, {D you know, } [ who, + whose ] job is this. /  
+
+b          A.84 utt1:  Yeah. /  
+
+sv          B.85 utt1:  {D Well, } [ it, + it's ] his job too.  /
+%          B.85 utt2:   {C And } I, - /
+sd          B.85 utt3: to me  the only important issue is the children,  /
+sv           B.85 utt4: {C because } as far as housework goes, {D you know, } men can do housework just as easily as women,  /
+sv          B.85 utt5: {C and } thanks to a lot of new inventions, housework doesn't take as much time as it used to. /
+%          B.85 utt6: {C So, }  {F uh, } -/  
+
+sv          A.86 utt1:  It's just convincing your husband --   
+
+b          B.87 utt1:  Yeah  /
+%          B.87 utt2: conv-, - /
+b^r          B.87 utt3: yeah,  /
+%          B.87 utt4: just, - /
+b^r          B.87 utt5: yeah,  /
+%          B.87 utt6: con, -/  
+
++          A.88 utt1:  -- [ that that's important, + {E or } that it's important ] enough for him to do it. /  
+
+b          B.89 utt1:  Yeah,  /
+%          B.89 utt2: {D well. } -/  
+
+sv          A.90 utt1:  {C Because } if he saw mom doing only that --   
+
+b          B.91 utt1:  Uh-huh. /  
+
++          A.92 utt1:  -- {D you know, } all the time he was growing up --   
+
+b          B.93 utt1:  Yeah. /  
+
++          A.94 utt1:  -- then it's hard to think of it --   
+
+%          B.95 utt1:  {C And } [ [ you, + you, ] + you, ] -/  
+
++          A.96 utt1:  -- [ in + ] [ that, other, + {F uh, } that I ] should do it --   
+
+aa          B.97 utt1:  Yeah,  /
+%          B.97 utt2: you talk, - /
+aa          B.97 utt3: yeah, /  
+
++          A.98 utt1:  -- or just to think about doing it rather than having someone --   
+
+b          B.99 utt1:  Yeah. /  
+
++          A.100 utt1:  -- tell him to do it.  /
+sd(^q)       A.100 utt2: I know that was a big thing in our house for a --   
+
+b          B.101 utt1:  Uh-huh. /  
+
++          A.102 utt1: -- long time was that if I wanted my husband to do something to help, {A {C and } even though we were both working the same number of hours, [ and, + and ] doing things, } I had to come in there specifically and say --   
+
+b          B.103 utt1:  Yeah. /  
+
++          A.104 utt1:  -- this needs to be done,  /
+^q          A.104 utt2: this is what you do it now. /  
+
+sd(^q)       B.105 utt1: {C And } a man might say out loud, {D well, } {D you know, } I understand this  /
+^q          B.105 utt2: {C and } I agree,  /
+sd          B.105 utt3: {C but } still he was raised with a mom taking care of him -- /  
+
+b          A.106 utt1:  Yes,  /
+%          A.106 utt2: {C and, } -/  
+
+sv          B.107 utt1:  -- {C and } that's a very hard attitude to change. /  
+
+b          A.108 utt1:  Yeah,  /
+sv          A.108 utt2: [ [ {C and } without, + {C and, } ] +  {C and } ]  it's just they don't look at things.  /
+sv        A.108 utt3: Most of the men don't walk into the kitchen and see that the dishes are there and that yes, you probably ought to unload the dishwasher and load the new ones in and run it. /  
+
+b          B.109 utt1:  Uh-huh. /  
+
+sv          A.110 utt1: They [ just, + {D you know, } just ] scoot it on another spot on the sink and put the next plate down, and in a while get around to it.  /
+sv(^q)       A.110 utt2: {C And } I think most women walk in [ [ and, + and, ] + and ] with, {F Oh, } got to clean all this up.  Got to get this out and this in and this, {D you know, } taken care of, instead of having someone say --   
+
+b          B.111 utt1:  Yeah,  /
+b          B.111 utt2: uh-huh,  /
+b^r          B.111 utt3: yeah. /  
+
++          A.112 utt1:  -- now, [ this needs to be do-, + this is the time this needs --   
+
+b          B.113 utt1:  Uh-huh. /  
+
++          A.114 utt1:  -- to be done, ]  /
+%          A.114 utt2: {C but, } -/  
+
+sv          B.115 utt1:  {C And } a lot of that [ is, + is ] how it was drilled  into you when you were a kid.   
+
+aa          A.116 utt1:  That's right. /  
+
++          B.117 utt1:  Which brings us back to the idea, {D you know, } someone's got to be there taking care of the kids to [ drill in these -- +   
+
+b          A.118 utt1:  Uh-huh. /  
+
++          B.119 utt1:  -- {D you know, } drill in the ] right ideas --   
+
+b          A.120 utt1:  Yeah. /  
+
++          B.121 utt1:  --  to,  so that they know that, {F uh, }   {D you know, } male and female are both responsible for doing this -- /  
+
+b          A.122 utt1:  Uh-huh. /  
+
+%          B.123 utt1:  -- {C and, }  {F uh. } -/  
+
+sv          A.124 utt1:  {C And } I think [ that's, + that's ]  going to show up a lot more now, [ in the, + in the ] next generation  [ of, + of ] boys and girls.  /
+sv(^q)       A.124 utt2:  [ [ It's not, + they're not going to, ] + the boys in this next generation are not going to ] have to be told as much --   
+
+b          B.125 utt1:  Uh-huh. /  
+
++          A.126 utt1:  -- this needs to be done, because mom was there saying --   
+
+b          B.127 utt1:  Yeah. /  
+
++          A.128 utt1:  -- that dad is there, {D you know, }  /
+sv          A.128 utt2: [ you both got to, + they were --   
+
+%          B.129 utt1:  {F Um. } /  
+
++          A.130 utt1:  -- both working at ] whatever things [ were, + needed ] to be done. /  
+
+b          B.131 utt1:  Uh-huh. /  
+
+sv(^q)       A.132 utt1:  They're going to say to the kids --   
+
+b          B.133 utt1:  Uh-huh. /  
+
++          A.134 utt1:  -- you need do this, because it needs to be done --   
+
+b          B.135 utt1:  Yeah. /  
+
++          A.136 utt1:  -- not because it's a woman's job or a man's job, but because it's dirty --    
+
+b          B.137 utt1:  Yeah. /  
+
++          A.138 utt1:  -- and it needs to be clean. /  
+
+sv          B.139 utt1:  {C But } I think in between we got [ a group of kids, + a generation of kids ] who didn't learn to take responsibility because mom left to go get a job and dad didn't move in to fill the gap.  /
+sv          B.139 utt2:  {C And so, }  basically no one was taking the responsibility -- /  
+
+sv          A.140 utt1:  {C And } [ it's going to, +   
+
+sv          B.141 utt1:  -- {C and } I think that's happened in a lot of cases. /  
+
++          A.142 utt1:  It's going to, ] - /
+aa          A.142 utt2: yeah,  /
+sv          A.142 utt3: some kids are really having it. - /
+sv          A.142 utt4: If they'd been in day care the entire time and it wasn't, - /
+%          A.142 utt5: yeah,  /
+sv          A.142 utt6: the ones that are now getting to be teenagers and in some cases, young college. /  
+
+b          B.143 utt1:  Uh-huh.  /
+sv          B.143 utt2:  {F Un, } {D you know } --   
+
+b          A.144 utt1:  Yeah. /  
+
++          B.145 utt1:  -- some time day care is really good,  /
+sv          B.145 utt2: {C but } sometimes, [ it's just, + it's ] baby-sitting.  /  
+
+b          A.146 utt1:  Yeah. /  
+
+sv          B.147 utt1:  It's someone, {D you know, } keeping an eye on the kids  /
+sv(^q)       B.147 utt2:  {C but } the kids are basically doing what they want --   
+
+b          A.148 utt1:  Yeah. /  
+
++          B.149 utt1: -- and not really having any relationship with the adults to say, {D you know, } here's what's right  /
+^q          B.149 utt2: {C and } here's what wrong,  /
+^q          B.149 utt3: {C and } here's what we expect of you. /  
+
+aa         A.150 utt1:  Yeah,  /
+sd          A.150 utt2: I think that was one of the main reasons that I quit, was because I wanted my kids to have my values,  /
+sd          A.150 utt3: {C and } I felt like  when they were young, that was the time to instill it.    
+
+b          B.151 utt1:  Yeah. /  
+
++          A.152 utt1: That [ it could be, + it could be ] added to and strengthened as they grew older, but when they were little, {D you know, } - /
+sd          A.152 utt2: this is the way I feel about this,  /
+sd          A.152 utt3: {C and } this is the way, because [ [ I, + it's ] +  that, ] {D you know, } - /
+sv          A.152 utt4: [ [ [ when you, + when you, ] + if you, ] + if you ] teach them when they're little the way you want them to be, and the things that are important to you, then [ you just, + you ] add onto it as they get older. /  
+
+b          B.153 utt1:  Uh-huh. /  
+
+sv          A.154 utt1:  {C But } if no one does anything when they're little, then it's twice as hard [ as, + I think, as ] they get older. /  
+
+aa          B.155 utt1:  Yes.  /
+sd          B.155 utt2:  I'm saying this as I'm trying to keep my nine month old from trashing something. /  
+
+b          A.156 utt1:  <laughter>  Yes,  /
+ba          A.156 utt2: I understand,  /
+sd          A.156 utt3:  I wait until I put mine in bed before I make my calls.  <laughter> /  
+
+b          B.157 utt1:  <laughter>  Yeah,  /
+sd          B.157 utt2: {D well, } she's usually in bed by this time,  /
+sd          B.157 utt3: {C but } she's staying up late tonight.  /
+%          B.157 utt4: {C But, } - /
+%          B.157 utt5: yeah,  /
+sd          B.157 utt6: I want to have a relationship with her.  /
+sd          B.157 utt7:  {D You know, } my dad was a very traditional dad,  /
+sd          B.157 utt8: {C and } when I was a child I didn't really know my dad very well,  /
+sd          B.157 utt9: {C and } I miss that.   /
+%          B.157 utt10: {C And } I want, -/  
+
+aa          A.158 utt1:  That's the thing,  /
+sv           A.158 utt2: [ if woman's role, + like we said, if women's roles ] change drastically, men's roles will, too. /  
+
+aa          B.159 utt1:  Yeah,  /
+sv          B.159 utt2: {C but } men have to be convinced of that. /  
+
+sv          A.160 utt1: {C And } a lot of it's for the better.  /
+sv          A.160 utt2: [ Some of the, + some of the ] women's roles, I think, are almost for the worse, because we're losing out on some things, <baby_talking> going back to work,  /
+sv          A.160 utt3: {C but } I think [ if we can, + if we can ] expand the men's roles at the same time, like your taking care of your child, and your dad <+ typo: your for you're +> probably didn't very often -- -/  
+
+aa          B.161 utt1:  No. /  
+
+sd          A.162 utt1:  -- I know mine almost never did ... / 

@@ -1,0 +1,304 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4759_1423_1674
+TOPIC#:		357
+DATE:		920421
+TRANSCRIBER:	nk
+UTT_CODER:	lsh
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	4
+REMARKS:        Speakers are hard to understand at times.  They talk over
+each other and speaker B has constant noise in background.
+
+==========================================================================
+  
+
+o          A.1 utt1:  Okay.  {F Uh, }  /
+sd          A.1 utt2: we keep a monthly budget.  /
+sd          A.1 utt3:  I just recently stopped working  so I can be home with my kids <throat_clearing>  /
+sd^r          A.1 utt4: {C so } we keep a  monthly budget  /
+sd          A.1 utt5: {C and } we try to stick to it # <laughter>. # /  
+
+aa           @B.2 utt1:  # <Dishes> <noise> <<there are kitchen noises throughout>> <laughter> # I know.  /
+sd          @B.2 utt2:  [ It, + it's ]  really difficult here.   All because there's always something breaking.  /
+sd          @B.2 utt3:  Car needs tires # or {D you know, } something. # -/  
+
+aa          A.3 utt1:  # Yeah,  /
+aa^r          A.3 utt2: yeah.  /
+sv          A.3 utt3:  That's the kind of things # that throw you off. /  
+
+sd           B.4 utt1:  {F Uh, } {F uh, } we do ours more monthly than long range.  /
+%          B.4 utt2:   {F Uh, } we, {F uh, } - /
+sd          B.4 utt3: <sigh> my husband gets paid once a month -- /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1:  -- {C and } when he gets paid, I pay all the bills./  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sd          B.8 utt1:  {C And } out of his check they take a savings  /
+sd          B.8 utt2: {C and }  out of my check, they take savings --   
+
+b          A.9 utt1:  Uh-huh. /  
+
++          B.10 utt1:  -- and retirement [ both, + ] out of both checks. /  
+
+b          A.11 utt1:  Yeah. /  
+
+sd           B.12 utt1:  {C So, } as far as extra savings, we really don't have that much extra to save. /  
+
+b          A.13 utt1:  Yeah. /  
+
+sd           B.14 utt1:  {F Uh, } his check, once a month, <noise> pays all the bills.  /
+sd          B.14 utt2:   My check, weekly, buys groceries and gas and --   
+
+ba          A.15 utt1:  {F Oh, } how nice. /  
+
++          B.16 utt1:  -- {D you know, } that kind of thing <laughter> --/  
+
+b          A.17 utt1:  Yeah. /  
+
+sd          B.18 utt1:  -- {C and } it works out real well that way.  /
+sd          B.18 utt2:   We don't run into a lot of problems -- /  
+
+b          A.19 utt1:  Yeah,  /
+b^r          A.19 utt2: yeah. /  
+
+sv          B.20 utt1:  -- {C but } --   
+
+aa          A.21 utt1:  # {D Well, } #   
+
++          B.22 utt1:  -- # budgets # are horrible. /  
+
++          A.23 utt1:  I know.  /
+%          A.23 utt2:  We do, - /
+sd          A.23 utt3: my husband gets paid twice a week  /
+sd           A.23 utt4:  {C and so } we pay all of the little bills, {F uh, } # one # --   
+
+b          B.24 utt1:  # Uh-huh. # /  
+
++           A.25 utt1:  -- paycheck and then {D like } the mortgage and the electric bill, {D you know, } those big bills the [ second + --   
+
+b          B.26 utt1:  Yeah. /  
+
++          A.27 utt1:  -- second ] pay  /
+sd           A.27 utt2: {C and then, } again, he does have a savings that comes out, {D you know, } for # Christmas and stuff, that kind of thing. # /  
+
+b          B.28 utt1:  # Yeah,  /
+b^r          B.28 utt2: yeah.  /
+bf(^q)           B.28 utt3: #  When the car insurance is due and  you call the credit union and tell them, {D well } send me some money # <laughter>. # -/  
+
+aa          A.29 utt1:  # <Laughter> Yeah,  /
+sd          A.29 utt2: # that kind of thing. /  
+
+aa          B.30 utt1:  Yeah.  /
+sd           B.30 utt2:   ((   ))  [ it, + {F uh, } it ] would be nice if we didn't have to touch the money he has taken out and put in savings  /
+sd          B.30 utt3: {C but } # we do. # /  
+
+sd          A.31 utt1:  # {C But } it's nice # that it's there, {D you know. } /  
+
+b          B.32 utt1:  Yeah,  /
+%          B.32 utt2: it, - /
+sd          B.32 utt3: I'm just glad that it is there for --   
+
+b          A.33 utt1:  Yeah. /  
+
++           B.34 utt1:  -- car insurance, medical bills, whatever  (( happens )) . /  
+
+b          A.35 utt1:  Yeah. /  
+
+%          B.36 utt1:  # {C But, } {F uh, } # -/  
+
+aa          A.37 utt1:  # Yeah.  /
+sd^r          A.37 utt2:  It's nice # that it's there. /  
+
+aa          B.38 utt1:  I know.  /
+%          B.38 utt2:  {C But } I, - /
+%          B.38 utt3: you, - /
+sd          B.38 utt4: it's just really is difficult.  /
+sd           B.38 utt5:  {F Uh, } neither one of us has had a raise in a couple of years. /  
+
+b          A.39 utt1:  Yeah. /  
+
+sv           B.40 utt1:  {C And, } of course, the cost of living keeps going up so much. /  
+
+b          A.41 utt1:  Yeah. /  
+
+sv          B.42 utt1:  Groceries are outrageous  /
+sd(^q)         B.42 utt2: {C and } I keep saying my check does less and less /
+%          B.42 utt3: <laughter> {C but, } -/  
+
+aa          A.43 utt1:  Yeah,  /
+aa^r          A.43 utt2: yeah.  /
+sd           A.43 utt3:  That's kind of how I felt when I was  working because it seemed like we spent more. /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sd          A.45 utt1:  We bought more things  /
+sd^r          A.45 utt2: {C and } it seemed like we spent more.  /
+sd           A.45 utt3:   Then a lot of it was going to, {F uh, } daycare and that kind of thing. /  
+
+b          B.46 utt1:  Yeah. /  
+
+sd           A.47 utt1:  {C So } it just seems like with me staying home, we had that big cut  /
+sd          A.47 utt2: {C but } we save more <laughter>.  /
+sd          A.47 utt3: I don't know how  /
+sd          A.47 utt4: {C and } I don't know why  /
+%          A.47 utt5:  {C but } # we # -- -/  
+
+sd          B.48 utt1:  # {D Well } # --   
+
+sd          A.49 utt1:  -- it seems like we do. /  
+
++           B.50 utt1:  -- [ I, + {F uh, } I ] know that since I do work, I buy a lot of quicker cuts of meat and, {F uh } --   
+
+b          A.51 utt1:  Yeah. /  
+
++           B.52 utt1:  -- {D well } the frozen things # for the microwave and things  like that. # /  
+
+aa          A.53 utt1:  # Yeah,  /
+bf          A.53 utt2: you kind of try # and buy bigger quantities. /  
+
+sd          B.54 utt1:  {C And } I'll stop by the deli and pick up, {F uh, }  chicken or whatever.   Where if I did not work, I'm sure that the grocery bill could be managed  [ a lot, + a lot, ] {F uh, } better. /  
+
+aa          A.55 utt1:  Yeah.  /
+sd          A.55 utt2:  That's how I felt too.  /
+%          A.55 utt3:  It just, - /
+bf          A.55 utt4:  you could take a little longer.  # And # --   
+
+b          B.56 utt1:  # Yeah. # /  
+
++          A.57 utt1:  -- just watch a little bit more I guess. /  
+
+%          B.58 utt1:  # {D Well, } y-, # -/  
+
+sd          A.59 utt1:  # I guess # that's kind of like the way we do.  /
+%          A.59 utt2:  We, - /
+sd          A.59 utt3: [ [ I, + I ] don't, + I don't know ] how it comes out.  /
+sd          A.59 utt4:  It just seems like we save a little  bit more whereas,   
+
+x          B.60 utt1:  <Barking>.   
+
++          A.61 utt1:  # where I was working, # -/  
+
+sv          B.62 utt1:  # {D Well, } I'm sure you do. #  /
+sd           B.62 utt2: {F Uh, }  [ I do not, + {D well } I do not ] have to pay child care during the winter.  /
+sd          B.62 utt3:  My son's old enough that he likes to come home --   
+
+b          A.63 utt1:  Oh. /  
+
++          B.64 utt1:  -- {F uh, } from school.  /
+sd           B.64 utt2: {C But } in the summer he's still young enough that I cannot leave him by himself. /  
+
+b          A.65 utt1:  Yeah. /  
+
+sd          B.66 utt1:  So in the summer I have that extra  /
+sd           B.66 utt2: {C and } ours is seventy dollars a week plus all activities -- /  
+
+b          A.67 utt1:  Yeah. /  
+
+sd           B.68 utt1:  -- {C and } that's usually movies one day, skating one day <laughter>. /  
+
+b          A.69 utt1:  <Breathing> Yeah. /  
+
+sd          B.70 utt1:  Swimming one day <laughter>. /  
+
+sv          A.71 utt1:  It adds up. /  
+
+aa          B.72 utt1:  Yes.  /
+sd           B.72 utt2: {C So } you usually end up paying close to eighty dollars a week  /
+sv          B.72 utt3: {C and } that's a lot of money. /  
+
+aa          A.73 utt1:  Yeah,  /
+sv          A.73 utt2: it is <laughter>.  /
+sv^r          A.73 utt3:  # It is,  /
+%          A.73 utt4: yeah. # /  
+
+sv       B.74 utt1:  # {C But } {D you know, } # if they're going to be in daycare then they need to have some activities other than just being there. /  
+
+b          A.75 utt1:  Uh-huh. /  
+
+%          B.76 utt1:  Ho-, - /
+qy          B.76 utt2: do you have two children? /  
+
+na          A.77 utt1:  I have two.  /
+sd          A.77 utt2: One is four and a half  /
+sd          A.77 utt3: {C and } the other  one's two and a half,  /
+%          A.77 utt4: {C so. } -/  
+
+sv           B.78 utt1:  {D Well } they're expensive too.   # {F Uh, } just the # --   
+
+aa          A.79 utt1:  # Yes <laughter>. # /  
+
++          B.80 utt1:  -- outgrowing of their clothes  /
+sv          B.80 utt2: {C so } #  I'm sure the budget, # -/  
+
+b          A.81 utt1:  # Yeah,  /
+%          A.81 utt2: that, # - /
+%          A.81 utt3: yeah.  /
+sd          A.81 utt4:  I just came back to find jeans for the little one/
+sd          A.81 utt5: {C and } it does add up.  / 
+%          A.81 utt6:  Yeah. /  
+
+b          B.82 utt1:  # Yeah. # /  
+
+%          A.83 utt1:  # {C But, } {F uh, } # -/  
+
+sv          B.84 utt1:  {C And } medical bill. -/  
+
+b          A.85 utt1:  Yeah. /  
+
+sd           B.86 utt1:  Although the insurance we had was good, {F uh, } when Thomas was younger.  A lot of the stuff had to be paid up front  /
+sd          B.86 utt2: {C and then }  you were reimbursed.  /
+sd           B.86 utt3:  {C So } it was nice when you'd get a couple of hundred dollar check # from the, #   
+
+x          A.87 utt1:  # <Laughter>. #   
+
++          B.88 utt1:  <Laughter> insurance,  /
+sd           B.88 utt2: {C but } in the meantime you had to put out the money first. /
+
+b          @@A.89 utt1:  Yeah,  /
+b          A.89 utt2: # yeah. # /  
+
+%          B.90 utt1:  # <Throat_clearing>. #  # {C But, } # -/  
+
+sv         A.91 utt1:  # {D Well, } # [ [  that, + that's, ] + that's ] hard. /  
+
+aa          B.92 utt1:  Yeah,  /
+sd          B.92 utt2: # it is. # /  
+
+sd           A.93 utt1:  # {C But } # I'm enjoying my stay home for the little time that I can <laughter>. /  
+
+sd          B.94 utt1:  {F Oh, } I would too. /  
+
+%          A.95 utt1:  For the, -/  
+
+sd           B.96 utt1:  [ I would, + I would ] advise anyone that could possibly do it [ to, + to, ] -/  
+
+sd          A.97 utt1:  I know it's not forever  /
+sd          A.97 utt2: {C and } that's what's so sad  /
+%          A.97 utt3: {C but, } -/  
+
+sv           B.98 utt1:  {D Well, } you probably wouldn't want to do it forever.  /
+h          B.98 utt2:  I don't know though </dishes> </noise> <<kitchen noises>>. / 
+

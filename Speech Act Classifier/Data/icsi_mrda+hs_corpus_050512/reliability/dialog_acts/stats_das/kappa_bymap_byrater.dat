@@ -1,0 +1,33 @@
+DA Agreement (Kappa Values) Over All Chunks, By Classmap & Labelers
+
+
+map_01:
+Overall kappa:  0.80061  z: 93.10947
+Rater1: 0  Rater2: 1  #_Obj: 3530  kappa:  0.82304  z: 57.03081
+Rater1: 0  Rater2: 2  #_Obj: 5080  kappa:  0.75083  z: 64.53316
+Rater1: 1  Rater2: 2  #_Obj: 6680  kappa:  0.82040  z: 82.14343
+
+map_02:
+Overall kappa:  0.76439  z: 97.57381
+Rater1: 0  Rater2: 1  #_Obj: 3530  kappa:  0.80866  z: 63.59768
+Rater1: 0  Rater2: 2  #_Obj: 5080  kappa:  0.72869  z: 69.02396
+Rater1: 1  Rater2: 2  #_Obj: 6680  kappa:  0.76844  z: 82.58228
+
+map_03:
+Overall kappa:  0.75209  z: 96.55299
+Rater1: 0  Rater2: 1  #_Obj: 3540  kappa:  0.79729  z: 63.39192
+Rater1: 0  Rater2: 2  #_Obj: 5080  kappa:  0.72314  z: 68.70982
+Rater1: 1  Rater2: 2  #_Obj: 6690  kappa:  0.75319  z: 81.41691
+
+map_04:
+Overall kappa:  0.71422  z: 66.31625
+Rater1: 0  Rater2: 1  #_Obj: 3530  kappa:  0.76076  z: 47.14159
+Rater1: 0  Rater2: 2  #_Obj: 5080  kappa:  0.68027  z: 50.80345
+Rater1: 1  Rater2: 2  #_Obj: 6680  kappa:  0.68649  z: 51.61837
+
+map_05:
+Overall kappa:  0.71814  z: 141.75845
+Rater1: 0  Rater2: 1  #_Obj: 3540  kappa:  0.79193  z: 108.66903
+Rater1: 0  Rater2: 2  #_Obj: 5080  kappa:  0.68676  z: 103.41576
+Rater1: 1  Rater2: 2  #_Obj: 6690  kappa:  0.68482  z: 107.75162
+

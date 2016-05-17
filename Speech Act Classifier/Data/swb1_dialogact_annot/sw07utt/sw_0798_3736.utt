@@ -1,0 +1,295 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3736_1258_1408
+TOPIC#:		335
+DATE:		920113
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	1
+REMARKS:  	Noisy background behind Speaker A
+
+===========================================================================
+  
+
+qy          B.1 utt1:  {F Um, } are you from this area? /  
+
+sd          A.2 utt1:  I'm from Dallas. /  
+
+bk          B.3 utt1:  Okay,  /
+sd          B.3 utt2: I'm in Garland,  /
+%          B.3 utt3: {C so. } -/  
+
+b          A.4 utt1:  Okay. /  
+
+sd          @B.5 utt1:  <Laughter> {D Well, } I'm in Dallas right now,  /
+sd          @B.5 utt2:  {C but } I live in Garland. /  
+
+b          A.6 utt1:  Uh-huh. /  
+
+sd          B.7 utt1:  {F Um, } {D well, } I don't know if you know,  /
+sd          B.7 utt2: {C but }  Garland has got a real big recycling center that, in fact, we went to it yesterday.  /
+sd          B.7 utt3:   You drive up  /
+sd          B.7 utt4: {C and } you take the stuff out of your trunk,  /
+sd          B.7 utt5: {C and } they have  different bins for the different materials, like clear,   
+
+x          A.8 utt1:  <Throat_clearing>.   
+
++          B.9 utt1:  glass and colored glass and plastics  /
+sd          B.9 utt2:  {C and, } {F uh, } they have all the different plastics separated by those little symbols on the bottom.  /
+sd          B.9 utt3:   That's pretty neat.  /
+sd          B.9 utt4: [ My, + my ] daughter is four,  /
+sd          B.9 utt5: {C and } she's real  interested in <laughter> recycling. /  
+
+b          A.10 utt1:  Uh-huh. /  
+
+sd          B.11 utt1:   {C So } [ we're, + we're ]  trying to promote that, because she thought we just put them in a special trash can and threw them away,  /
+sd          B.11 utt2: {C but, }  we went to the recycling center to show her what we actually did with them.  /
+qy          B.11 utt3:   {F Uh, } does Dallas have a curbside recycling program yet? /  
+
+no          A.12 utt1:  {F Um, } {D well, } I don't know Dallas,  /
+sd          A.12 utt2: [ in + ]  Richardson does. /  
+
+bk          B.13 utt1:  {F Oh, } okay. /  
+
+sd          A.14 utt1:  {F Um, } they started with newspapers   and, {F uh, } of course aluminum cans, and --   
+
+b          B.15 utt1:  Yeah. /  
+
++          A.16 utt1:  -- and bottles and plastic.  /
+sd          A.16 utt2:   I didn't know there were different types of plastic, though. /  
+
+aa          B.17 utt1:  Yeah,  /
+sd          B.17 utt2: {F um, } like soda bottles are [ one kin-, + one type ]  of plastic,  /
+sd          B.17 utt3: {C and } milk jugs are one type of plastic.  /
+%          B.17 utt4:  You can te-, - /
+sd          B.17 utt5: it's got little, - /
+sd          B.17 utt6:  most of the recyclable containers have the little symbol on the bottom  [ with the, + with the ] arrows around it --   
+
+b          A.18 utt1:  Uh-huh. /  
+
++          B.19 utt1:  -- that tells whether it's a one or a two or a three. /  
+
+b          A.20 utt1:  Oh. /  
+
+sd          B.21 utt1:  [ It's, + it's ]  just different kinds of plastics, like the clear plastic is different from that milky looking plastic. /  
+
+bk          A.22 utt1:  {F Oh, } okay. /  
+
+sd          B.23 utt1:  {C And } [ that's, + that's ]  what the different types are. /  
+
+b          A.24 utt1:  Yeah. /  
+
+b          B.25 utt1:  Yeah. /  
+
+sd          A.26 utt1:  It seems to be made out of something different. /  
+
+b          B.27 utt1:  Yeah,  /
+b          B.27 utt2: yes -- /  
+
+b          A.28 utt1:  Yeah. /  
+
+sd          B.29 utt1:  -- [ I, + I ]  know there's a long scientific name  /
+sd          B.29 utt2: {C but } it's like  polytechnochloride and all that fun stuff. /  
+
+b          A.30 utt1:  Uh-huh. /  
+
+sd          B.31 utt1:  {F Um, } [ I, + I ]  don't know if they do it all over,  /
+sd          B.31 utt2: {C but } our Kroger does a newspaper recycling every Saturday.  /
+sd          B.31 utt3:   You can drive up,  /
+sd          B.31 utt4: {C and } they have one of [ the clerks up there, + {E no, } the bag boys out there, ]  {F um, } that will take the [ papers, + newspaper ] out of your car,  /
+sd          B.31 utt5: {C and } they'll put it in their little  bin,  /
+sd          B.31 utt6: {C and } they do the recycling,  /
+sd          B.31 utt7: {E I mean, } they collect the newspapers and [ their pla-, + their plastic ] grocery bags --   
+
+b          A.32 utt1:  Yeah. /  
+
++          B.33 utt1:  -- which I think is pretty neat. /  
+
+%          A.34 utt1:   ((   )) .   
+
+sv          B.35 utt1:  That's something since we all seem to  have an abundance of those plastic grocery bags <laughter>. /  
+
+aa          A.36 utt1:  That's right.  /
+aa          A.36 utt2: Yeah. /  
+
+sv          B.37 utt1:  <Laughter>  I know we use them for trash can  liners and --   
+
+b          A.38 utt1:  Uh-huh. /  
+
++          B.39 utt1:  -- a lot of other things. /  
+
+bf          A.40 utt1:  Lunch bags. /  
+
+aa          B.41 utt1:  <Laughter>  Yeah,  /
+sd          B.41 utt2: in fact I have one today. /  
+
+b          A.42 utt1:  Right. /  
+
+sd          B.43 utt1:  The only problem with those is sometimes  they get holes in the bottom. /  
+
+aa          A.44 utt1:  Yeah,  /
+sd          A.44 utt2: they do. /  
+
+sd(^q)       B.45 utt1:  <Laughter>  It's like, whoops, there goes my chips -- /  
+
+b          A.46 utt1:  Yeah. /  
+
+^q          B.47 utt1:  -- okay,  /
+^q          B.47 utt2: fine. /  
+
+b          A.48 utt1:  Uh-huh. /  
+
+%          B.49 utt1:  {D Now, } I, - /
+qy          B.49 utt2:  in fact did you happen to see TWENTY TWENTY the other night? /  
+
+nn          A.50 utt1:  {F Uh, } no. /  
+
+sd          B.51 utt1:  They did a program,  /
+sd          B.51 utt2: {E or } [ th-, + ]  one of their articles was on recycling,  /
+sd          B.51 utt3:  {C and, } {F uh, } it was actually on a town that has a dump that they  charge other cities, or towns to come in and dump their trash there.  /
+sd          B.51 utt4:  They have made so much money from that, that [ they built, + they bought ]  a brand new fire engine,  /
+sd          B.51 utt5: {C and } when the fire engine was delivered the fire house wasn't big enough,  so [ they [ bo-, + bought ] a new, + {E or } built a new ] one --   
+
+%          A.52 utt1:   ((   )) .   
+
++          B.53 utt1:  -- and paid for it in cash with the  money that they've earned from this landfill. /  
+
+b          A.54 utt1:  Yeah. /  
+
+sd          B.55 utt1:  They have built up one mountain.  /
+sd          B.55 utt2:  They call it Mount Trashmore /  
+
+b          A.56 utt1:  Yeah. /  
+
+sd          B.57 utt1:  They built up one mountain, covered it with grass, and  put ski lifts on it, /  
+
+x          A.58 utt1:  <Laughter>.   
+
+sd          B.59 utt1:  {C and } in the winter they put snow on it,  /
+sd          B.59 utt2:  {C and } they charge to ski on it.  /
+sd          B.59 utt3: {C So }  the city gets the money from that,  /
+sd          B.59 utt4:  they built a golf course at the bottom,  /
+sd          B.59 utt5: {C and } they get the money from that. /  
+
+ba          A.60 utt1:  Wow. /  
+
+%          B.61 utt1:  I's like, - /
+%          B.61 utt2: that's, - /
+sd          B.61 utt3: [ it's a, + it's, ]  Riverview, Ohio or some place up there. /  
+
+b          A.62 utt1:  Uh-huh. /  
+
+sd          B.63 utt1:  {C But } [ it was, + I thought it was ]  a pretty neat idea.  /
+sd          B.63 utt2: [ They, + {E I mean, } their ] city hall looked better,  /
+sd          B.63 utt3: it was nicer than Dallas',  /
+sd          B.63 utt4:  {C and } they only have fourteen thousand people in the city. /  
+
+%          A.64 utt1:  {F Um. } /  
+
+sd          B.65 utt1:  {C And } they like the trash.  /
+%          B.65 utt2:   {C So } <laughter>. - /
+%          B.65 utt3: {D Well, } okay <laughter>.  /
+sd          B.65 utt4:  {C But } I thought it was pretty neat.  /
+sv          B.65 utt5: [ It, + it ]  would be nice if more communities could do that,  /
+sv          B.65 utt6: {C but, } you have to know from beginning,  /
+sv          B.65 utt7:  {C and } you have to have the space to do it  /
+%          B.65 utt8: {C and, } -/  
+
+aa          A.66 utt1:  Yeah,  /
+sv          A.66 utt2: they'll run out of space before long. /  
+
+aa          B.67 utt1:  Yeah,  /
+%          B.67 utt2: {D see, } that's, - /
+sd          B.67 utt3: {D well } they're already  planning a second mountain. /  
+
+b          A.68 utt1:  Uh-huh. /  
+
+sd          B.69 utt1: {C So, } they're [ going to get, + going to be ]  called the Twin Peaks.  /
+sd(^q)       B.69 utt2: I was like,  {D uh-huh. }   Go back two T V shows.  /
+sv          B.69 utt3:   [ This, + it ] would be nice if more communities could get really involved in recycling <breathing>.  /
+%          B.69 utt4:   It, - /
+sd          B.69 utt5: I know, I've got a two year old and a four year old,  /
+%          B.69 utt6: {C and } that's, - /
+sd          B.69 utt7:  my daughter thinks that any time she sees newspapers <talking> bundled up, they're being recycled. /  
+
+b          A.70 utt1:  Uh-huh. /  
+
+sd(^q)       B.71 utt1:  {C So, } it's like, {D well, } no, Honey.  /
+%          B.71 utt2:  {C So } that, {D like, } - /
+sd(^q)       B.71 utt3: {C so } that was one reason we went to show her what people did with [ their, + their ]  stuff when they recycled it --   
+
+b          A.72 utt1:  Right. /  
+
++         B.73 utt1:  -- and try to explain {D well, } {D yeah, }   you melt down the cans  /
+^q          B.73 utt2: {C and } you make them into new things,  /
+^q          B.73 utt3: {C and } you get the paper all  wet  /
+^q          B.73 utt4: {C and } you make it into new  paper,  /
+sd          B.73 utt5: {C and, } <breathing> that's fun, trying to explain that  to a four year old <laughter>. /  
+
+b          A.74 utt1:  Right,  /
+b          A.74 utt2: yeah. /  
+
+qy          B.75 utt1: {F Um, } {C so } do you all go ahead, /  
+
+sv          A.76 utt1:  They don't even know that paper comes from trees now,  /
+%          A.76 utt2: {C so. } -/  
+
+aa          B.77 utt1:  {D Well, } yeah,  /
+%          B.77 utt2: she, - /
+sd(^q)       B.77 utt3:  that was her next question, was, how do you grow paper? /  
+
+b^m          A.78 utt1:  How do you grow paper? /  
+
+sd(^q)       B.79 utt1:  Was {D like, } well, from trees --   
+
+b          A.80 utt1:  Uh-huh. /  
+
++          B.81 utt1:  -- {F um. }  That's why you have to cut down  trees and why you have to plant more trees. /  
+
+^q          A.82 utt1:  {C And } how do you grow aluminum? /  
+
+aa          B.83 utt1:  Yeah,  /
+aa          B.83 utt2: exactly. /  
+
+%          A.84 utt1:  {F Um. } /  
+
+^h          B.85 utt1:  {D Well, } let's see, {F um, } <laughter>, /  
+
+x          A.86 utt1:  <Laughter>.   
+
+^q          B.87 utt1:  we really don't,  /
+sd(^q)       B.87 utt2: {C but. }  {C And then }  she was like, {D well, } what do you do with the glass?  /
+^q          B.87 utt3: {D Well, } you crunch it up real small  /
+^q          B.87 utt4: {C and then }  you melt it down.  /
+^q         B.87 utt5: {D Well, } what if it breaks?  /
+^q         B.87 utt6: {D Well, } okay, <laughter>.  /
+sd          B.87 utt7: [ [ It, + it, ] + it ] was an interesting weekend trying to explain all that fun stuff to her. /  
+
+b          A.88 utt1:  Right. /  
+
+sd          B.89 utt1:  {C But } at least she knows that that is  something that people need to be  doing,  /
+sd          B.89 utt2: {C and } she got our baby-sitter to start recycling  her newspapers and cans, because that's all she talked about. /  
+
+b          A.90 utt1:  Uh-huh. /  
+
+%          B.91 utt1:  {C So, } I guess what, -/ 

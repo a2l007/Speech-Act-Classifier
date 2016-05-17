@@ -1,0 +1,325 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3363_1414_1425
+TOPIC#:		320
+DATE:		911106
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: what kind of car are you going to buy next? /  
+
+sd          B.2 utt1:  {D Well, } one of the cars I'm thinking about buying next is, {F uh, } a nice, safe, small car,  /
+sd          B.2 utt2: {C but, } {F um, } {F uh, } the reason being, is we just purchased a van a little while ago because we have --   
+
+b          A.3 utt1:  Uh-huh. /  
+
++          B.4 utt1:  -- a big family,  /
+sd          B.4 utt2: {C and } we use that to get back and forth and haul kids around and --   
+
+b          A.5 utt1:  Uh-huh. /  
+
++          B.6 utt1:  -- so forth,  /
+sd          B.6 utt2: {C and } we have another four door car that I drive to work,  /
+sv          B.6 utt3: {C and } I think it'd be more economical if I were able to  ((   ))  a smaller car --   
+
+b          A.7 utt1:  Uh-huh. /  
+
++          B.8 utt1:  -- and, {F uh, } [ wouldn't be, + wouldn't ] cost much with gas. /  
+
+aa          A.9 utt1:  That's true,  /
+aa^r          A.9 utt2: that's true. /  
+
+qw          B.10 utt1:  [ What, + what ] are you looking at? /  
+
+nd          A.11 utt1:  {D Well, } I'm really not looking at anything for a while,  /
+sv          A.11 utt2: {C but } --   
+
+b          B.12 utt1:  Uh-huh. /  
+
++          A.13 utt1:  -- {D you know, } when you're driving down the road you see all these pretty new ones that are out,  /
+sv(^q)          A.13 utt2: {C and } you think, {F Oh, } {D well, } [ maybe, + maybe ] I would like a new car. /  
+
+b          B.14 utt1:  {F Oh, } yeah <laughter>. /  
+
+sd          A.15 utt1:  {C But } I think I'll be driving mine about two or three more years anyway. /  
+
+b          B.16 utt1:  {F Oh, } yes,  /
+b^r          B.16 utt2: {F oh, } yes. /  
+
+%          A.17 utt1:  {C But, } {F uh. } -/  
+
+sv          B.18 utt1:  {D Well, } the cost of new cars recently are extremely outrageous for the -- -/  
+
+aa          A.19 utt1:  Right,  /
+aa          A.19 utt2: they are. /  
+
+x          B.20 utt1:  --  ((   )) . -/  
+
+sd          A.21 utt1:  I sure do like the looks of that new [ Mit-, + Mitsubishi ] Diamante. /  
+
+b          B.22 utt1:  {F Oh, } yes,  /
+b^r          B.22 utt2: {F oh, } yes. /  
+
+sv          A.23 utt1:  That is a pretty car. /  
+
+sd          B.24 utt1:  <Laughter>  [ I'm, + {F uh, } I really like ] the looks also of the new Mazda --   
+
+b          A.25 utt1:  Uh-huh,  /
+sv          A.25 utt2: that's pretty, too. /  
+
++          B.26 utt1:  -- that they have,  /
+sd          B.26 utt2: {C but } {F um, } [ I, + ] {F uh, } {D you know, } [ the, + the ] costs of a new car and  those new models are extremely out of our price range right now. /  
+
+b          A.27 utt1:  Yeah,  /
+sv          A.27 utt2: they get pretty expensive. /  
+
+aa          B.28 utt1:  Yes,  /
+aa          B.28 utt2: they do. /  
+
+sd          A.29 utt1:  The last one I bought, I bought a, {F uh, } - /
+sd          A.29 utt2: {D well, } [ it's a, + it's ] a Town Car,  /
+sd          A.29 utt3: {C but } it was a demo, returned -- /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd          A.31 utt1:  -- {C and } I got it with {D like, } {D you know, } I think it was {D like } fourteen thousand miles on it --   
+
+b          B.32 utt1:  Right. /  
+
++          A.33 utt1:  -- and nearly ten thousand dollars [ of-, + less ] than what the list price was. /  
+
+sv          B.34 utt1:  <Laughter> {D Well, } you can't go wrong with that kind of opportunity. /  
+
+sd          A.35 utt1:  {C So } I was really pleased to find that,  /
+sd         A.35 utt2: [ {C and } I + then, I ] bought it for cheaper,  /
+sd         A.35 utt3: I was looking at a Honda Accord, a brand new one -- /  
+
+b          B.36 utt1:  Yes. /  
+
+sd          A.37 utt1:  -- {C and } I bought [ [ this, + {F uh, } the, ] + the ] Lincoln Town Car for just a little less money than what I was going to buy the new Honda Accord. /  
+
+ba          B.38 utt1:  Wow.  /
+sv          B.38 utt2:  {D Well, } you get a much bigger, better --   
+
+sd          A.39 utt1:  {C And } the thing about it is --   
+
++          B.40 utt1:  -- comfortable ride. /  
+
++          A.41 utt1:  -- they give you [ that ten, {F uh, } +   
+
+x          B.42 utt1:  <Throat_clearing>.   
+
++          A.43 utt1:  that hundred thousand ] [ mi-, + mile, ] five year warranty --   
+
+b          B.44 utt1:  Yes. /  
+
++          A.45 utt1:  -- where it only costs you twenty-five dollars to have anything repaired. /  
+
+ba          B.46 utt1:  {D Well, } that's fantastic.  /
+ba          B.46 utt2: That's real, real good. /  
+
+sd          A.47 utt1:  {C So, } {F uh, } I have really been impressed.  /
+sd(^q)          A.47 utt2:  I said, I probably never be able,   
+
+x          B.48 utt1:  <Laughter>.   
+
++          A.49 utt1:  to find another one that I can afford, {D you know. } /  
+
+aa          B.50 utt1:  No,  /
+%          B.50 utt2: do you, -/  
+
+sd          A.51 utt1:  {C But } I have loved this car better than anything I've ever driven, because you can go on the road and get there  /
+sd          A.51 utt2: {C and } you're not even tired. /  
+
+qy^g          B.52 utt1:  Very comfortable, smooth ride, {F huh. } /  
+
+sd          A.53 utt1:  {C And } it gets like twenty-six miles to the gallon on the road. /  
+
+bh          B.54 utt1:  {F Oh, } it does? /  
+
+na          A.55 utt1:  It sure does. /  
+
+sv          B.56 utt1:  [ That's, + that's ] unbelievable for that size of car. /  
+
+sd          A.57 utt1:  [ I, + they ] kept telling me that,  /
+sd(^q)          A.57 utt2: {C and } I thought they're crazy, /  
+
+x          B.58 utt1:  <Laughter>.   
+
+sd          A.59 utt1:  {C so } [ the week after I got it, + {D well, } {D actually } before I signed the papers on it, ] I took it over to Boozier City -- /  
+
+b          B.60 utt1:  Yes. /  
+
+sd          A.61 utt1:  -- {C and } it did it. /  
+
+ba          B.62 utt1:  Wow.  /
+ba          B.62 utt2:  That's great. /  
+
+%          A.63 utt1:  {C But } it's, {F uh, } -/  
+
+ba^r          B.64 utt1:  That's great.  /
+sd          B.64 utt2:  That kind of gas mileage, {F uh, } [ we're, + we're ] kind of hoping for on our van. /  
+
+b          A.65 utt1:  Yeah.  /
+sd          A.65 utt2:  {D Well, } that's kind of what we've always been told, {D you know, } they'll do,  /
+sd          A.65 utt3: {C and then } we hope for it,  /
+sd          A.65 utt4: {C and } it never happens -- /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+sd          A.67 utt1:  -- {C but } [ it really, + it ] does get good gas mileage. /  
+
+ba          B.68 utt1:  {D Well, } that's excellent. /  
+
+sd          A.69 utt1:  Most of the time when I don't go anywhere I can drive it for {D like } three weeks [ from + to ] and from work, {D you know, } and then fill it up,  /
+%          A.69 utt2: {C so. } -/  
+
+b          B.70 utt1:  Uh-huh.  /
+qy          B.70 utt2: [ [ Do you, + {F uh, } do, ] + does it, ] {F uh, } need a lot of repairs?  /
+qy          B.70 utt3:  Is it a very reliable kind of car? /  
+
+sd          A.71 utt1:  I haven't had anything, /  
+
+x          B.72 utt1:  <Laughter>.   
+
+sd          A.73 utt1:  I've taken it in twice for {D like } just really minor things,  /
+sd          A.73 utt2: {C and } it cost me the twenty-five dollars.  /
+sd          A.73 utt3:  [ The, + ] {F uh, } really something really silly when we first got it,  /
+sd          A.73 utt4: we couldn't get the light, - /
+sd          A.73 utt5: they have all these lights in the car -- /  
+
+b          B.74 utt1:  Yes. /  
+
+sd          A.75 utt1:  -- {C and } it has this fancy little light that gives you a reading light for the passengers in the back seat -- /  
+
+b         B.76 utt1:  Yes. /  
+
+sd          A.77 utt1:  -- {C and } we couldn't get the light to turn off. /  
+
+b          B.78 utt1:  {F Um. } /  
+
+sd          A.79 utt1:  {C And } we kept trying, {D you know, }  /
+sd          A.79 utt2: {C and } we went out to dinner with some friends,  /
+sd          A.79 utt3: {C and } it stayed on all night, {D you know } --   
+
+ba          B.80 utt1:  {F Oh } dear. /  
+
++          A.81 utt1:  -- just shining right down on them, {D you know } -- /  
+
+ba          B.82 utt1:  {F Oh } dear <laughter>. /  
+
+sd          A.83 utt1:  -- {C and } we couldn't get it to turn off,  /
+sd          A.83 utt2: {C and } the next day my husband goes out there  /
+sd          A.83 utt3: {C and } he tries to get it off,  /
+sd          A.83 utt4: we turn the knob, {D you know, } in the front that's supposed to turn the --   
+
+b          B.84 utt1:  Uh-huh. /  
+
++          A.85 utt1:  -- lights on and off  /
+sd          A.85 utt2: {C and } --   
+
+b          B.86 utt1:  Uh-huh. /  
+
++          A.87 utt1:  -- we turned everything we could,  /
+sd          A.87 utt2: {C and } he took it in,  /
+sd(^q)          A.87 utt3: {C and } they said, {D you know, } you just have to press the switch.  /
+sd(^q)          A.87 utt4:  He says, I've pressed every switch in that car,  /
+^q          A.87 utt5: {C and } I can't get the light off, /  
+
+x          B.88 utt1:  <Laughter>.   
+
+^q          A.89 utt1:  it's broken. /  
+
+b          B.90 utt1:  Yes. /  
+
+sd          A.91 utt1:  {C So } they took it in and charged us the twenty-five dollars,  /
+sd          A.91 utt2: {C and } they called and told us though, that all you have to do is turn the off switch,  /
+sd          A.91 utt3: {C and } they showed us where the switch was. /  
+
+bf          B.92 utt1:  They charged you twenty-five dollars just to tell you that, {F huh. } /  
+
+aa          A.93 utt1:  [ They, + they ] thought there was really something wrong with it when he told them he had already done the switch. /  
+
+b          B.94 utt1:  Uh-huh,  /
+qy^d          B.94 utt2: {F oh, } {C so } they probably went through the, -/  
+
+sd          A.95 utt1:  {C But } [ he hadn't, + he hadn't ] done the right one. /  
+
+b          B.96 utt1:  I see <cough>. /  
+
+sd          A.97 utt1:  {C And } it's right on the arm rest in the back -- /  
+
+b          B.98 utt1:  Uh-huh. /  
+
+sd          A.99 utt1:  -- {C and } we didn't know it was there. /  
+
+b          B.100 utt1:  {F Oh, } okay. /  
+
+sd          A.101 utt1:  {C And } the guy hit it with his arm when he got in the car -- /  
+
+qy^d          B.102 utt1:  And found it right away. /  
+
+sd          A.103 utt1:  -- <Laughter> {C and so } we thought, {D you know, } [ [ there, + there was, ] + it was ] broken. /  
+
+b          B.104 utt1:  Uh-huh. /  
+
+%          A.105 utt1:  {C But } we've had just, {F uh, } - /
+sd          A.105 utt2: I guess it's been in two times.  /
+sd          A.105 utt3:  I've had it three years now. /  
+
+b          B.106 utt1:  Yes. /  
+
+sd          A.107 utt1:  {C And, } {F uh, } it's been in two, maybe three times.  /
+sd          A.107 utt2:  {C But } it's just been real minor things. /  
+
+sv          B.108 utt1:  {D Well, } I think that, {F uh, } you have an excellent deal then,  /
+sv          B.108 utt2: {C and } [ the, + the ] company is able probably to offer that kind of warranty on the car because they know it's so well built that they don't expect any kind of major repairs --   
+
+aa          A.109 utt1:  That's right. /  
+
++          B.110 utt1:  -- whereas with an awful lot of other lower quality cars you would be getting repairs after repair after repair -- /  
+
+b          A.111 utt1:  Uh-huh. /  
+
+sv          B.112 utt1:  -- {C and } those companies wouldn't be able to afford that for that kind of extended warranty or warranty at all,  /
+%          B.112 utt2: {C so. } -/  
+
+aa          A.113 utt1:  That's right.  /
+sd          A.113 utt2: {C But } [ it's really, + it's been ] an enjoyable car.  /
+sd          A.113 utt3:  Like I say, I'll probably never be able to have another one, because I think we bought it for about sixteen thousand, {D you know } -- /  
+
+b          B.114 utt1:  Yes <cough>. /  
+
+sv          A.115 utt1:  -- {C and } I said, I'll never find another one for that price. /  
+
+aa          B.116 utt1:  No, <cough>  /
+aa          B.116 utt2: not at all. /  
+
+sv          A.117 utt1:  {C And } they keep going up,  /
+sd          A.117 utt2: {C so } I'll have to enjoy it, / 

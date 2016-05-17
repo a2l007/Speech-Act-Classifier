@@ -1,0 +1,221 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3398_1367_1422
+TOPIC#:		343
+DATE:		911114
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	3
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Much static behind Speaker A, almost as if wind were
+blowing into the mouthpiece of the telephone.  Can't determine the source.
+
+===========================================================================
+  
+
+fp          B.1 utt1:  Hello. /  
+
+fp          A.2 utt1:  Hi. /  
+
+fp^m          B.3 utt1:  Hi. /  
+
+fp          A.4 utt1:  My name is, {F uh, } Donna Donahue,  /
+fp          A.4 utt2: {C and } I live in  Plano, Texas. /  
+
+fp          B.5 utt1:  Hi.  /
+fp          B.5 utt2:  My name is Lowell,  /
+fp          B.5 utt3: {C and } I live in Raleigh,  North Carolina. /  
+
+b          A.6 utt1:  {F Oh, } okay.  /
+qy          A.6 utt2: {F Um, } do you want to start  /
+qrr          A.6 utt3:  {C or } should I start? /  
+
+ad          @B.7 utt1:  Go right ahead. /  
+
+aa          A.8 utt1:  Okay, {F um, }  /
+sd          A.8 utt2: I would say that our home is a very  typical home for the area that we live in.  /
+sd          A.8 utt3: We have, {F um, } three children,  /
+sd          A.8 utt4:  {C and, }  {F um, } they attend the public school here and are very active in a lot of the sports, soccer and  baseball  /
+sd          A.8 utt5: {C and, }  {D well, } my little girl goes to tap dance,  /
+sd          A.8 utt6: {C and }  my little one goes to preschool  /
+sd          A.8 utt7: {C and, }  {F um, } I'm home with the children,  just do a lot of running around.  /
+sd          A.8 utt8: It seems like a lot of my neighbors kind of have a  similar type, I don't know, life.  /
+qo          A.8 utt9:  {F Um, } what about you?  <Laughter>. /  
+
+sd          B.9 utt1:  [ I'm, + I'm ] single,  /
+sd          B.9 utt2: {C and } [ I, + I ] live in a town home --   
+
+b          A.10 utt1:  Uh-huh. /  
+
++          B.11 utt1:  -- here in Raleigh,  /
+sd          B.11 utt2: {C and } --   
+
+b          A.12 utt1:  Uh-huh. /  
+
++          B.13 utt1:  -- it's pretty typical of the other town homes in the area -- /  
+
+bk          A.14 utt1:  Okay. /  
+
+sd          B.15 utt1:  -- [ ther-, + ] [ we, + we ] have a lot of town  homes here --   
+
+b          A.16 utt1:  Uh-huh. /  
+
++          B.17 utt1:  -- as well as single family homes,  /
+sd          B.17 utt2: {C and } at the time  that I bought this one it was just [ a, + a ] much better arrangement for me personally.  /
+sd          B.17 utt3:   I'm not home a lot.  /
+sd          B.17 utt4: I travel a great deal with --   
+
+b          A.18 utt1:  Uh-huh. /  
+
++          B.19 utt1:  -- my job,  /
+sd          B.19 utt2: [ {C and } + <breathing> {C so } ] it was easier to  have a home [ that  didn't -- +   
+
+^2          A.20 utt1:  Was sort of maintenance free. /  
+
++          B.21 utt1:  -- exactly --   
+
+b          A.22 utt1:  Yeah. /  
+
++          B.23 utt1:  -- that somebody else looks ] out for the maintenance. /  
+
+b          A.24 utt1:  {D Oh } yeah,  /
+ba          A.24 utt2: {D well, } {F um, } [ [ that, + that ]  sounds, + that sounds ] pretty good for - /
+sd          A.24 utt3: I know my husband takes an awful lot of time on the weekends, not so much  now, but  to, {F um, } maintain the lawn and the edging and the flower beds,  /
+sv          A.24 utt4:  {C and } it's a lot of work, owning a home with a little bit of property attached to it.  /
+%          A.24 utt5:   It's -- -/  
+
+aa          B.25 utt1:  It certainly is. /  
+
+sd          A.26 utt1:  -- sometimes I think, {F um, } it would be nice to have a  town home, with <laughter> not having all that responsibility. /  
+
+ad          B.27 utt1:  {D Well, } if you ever get one, be sure the walls  are good and thick because if they're not you can hear.  /
+sd          B.27 utt2:  [ I, +  that's the main thing when I ] was shopping for one,  /
+sd          B.27 utt3: I wanted to make sure [ I could, + I couldn't ] hear my  neighbors  /
+%          B.27 utt4: {C and } that was -- -/  
+
+b          A.28 utt1:  Right. /  
+
+sd          B.29 utt1:  -- {C so } I bought one that's more like living in a, - /
+sd          B.29 utt2:  once you're inside, you don't know you're in a town home. /  
+
+ba          A.30 utt1:  {F Oh, } that sounds lovely. /  
+
+aa          B.31 utt1:  It is.  /
+sd          B.31 utt2:  They're kind of built on a catty-cornered  instead of like side by side -- /  
+
+b          A.32 utt1:  Uh-huh. /  
+
+sd          B.33 utt1:  -- {C so } you don't actually hear anybody next door to you. /  
+
+b          A.34 utt1:  Uh-huh.  /
+qy^d          A.34 utt2: {C So } [ in, + in ] your area then there's  probably a lot of, {F um, } career type people that have those type homes  /
+%          A.34 utt3: {C and } -- -/  
+
+ny          B.35 utt1:  Yes,  /
+sd^e          B.35 utt2: definitely. /  
+
+b          A.36 utt1:  -- uh-huh,  /
+sd          A.36 utt2: {C and, }  {F um, } the area that we're  settled in is, {F um, } definitely [ young, + young ] families [ with, + with ] kids.  /
+sd          A.36 utt3:  They're still  doing, {F um, } a lot of building in the neighborhood.  /
+sd          A.36 utt4:  {C So } the people that move  here seem to move from all over the country, which we're from, {F um, } the  northeast,  /
+sd          A.36 utt5: {C and, } {F um, } <child_talking> seems like a people [ just don't, +   {E or } also don't ] have any family around.  /
+sv          A.36 utt6: {C So } it, {F um, } also gives you a common bond  when you don't have a lot of relatives visiting your neighbors,  /
+%          A.36 utt7: [ {C and } +  {D you know, } {F um }  <laughter>.  {C But, } ] {F um }  ((   )) , -/  
+
+sd          B.37 utt1:  {D Well, } we also in this area seem to have a lot of retirees --   
+
+b          A.38 utt1:  Uh-huh. /  
+
++          B.39 utt1:  -- people who don't want the heat of Florida but don't want [ the  heat of  the, + the cold of the ] northeast  /
+sd          B.39 utt2: {C so } --   
+
+b          A.40 utt1:  Right,  /
+b^r          A.40 utt2: right. /  
+
++          B.41 utt1:  -- they settle sort of in-between. /  
+
+b          A.42 utt1:  Uh-huh.  /
+qy          A.42 utt2: {D Now } [ it's, +  {F um, } is it ] very wooded around  where you are,  /
+qy^d          A.42 utt3: there lots of pretty trees and, -/  
+
+ny          B.43 utt1:  Yes -- /  
+
+b          A.44 utt1:  Yeah. /  
+
+sd          B.45 utt1:  -- as a matter of fact [ this is a, + {F uh, } this   particular community that I live in is ] very wooded. /  
+
+ba          A.46 utt1:  {F Oh, } how pretty. /  
+
+sd          B.47 utt1:  It is nice. /  
+
+sd          A.48 utt1:  I do miss that.  /
+sd          A.48 utt2:  Around here in Plano there are  very few trees  /
+sd          A.48 utt3: {C and } it's pretty flat [ and, + and ] kind of barren  /
+sd          A.48 utt4: {C and } that's the only  thing that we don't like about living in Texas, is we miss all the beautiful  trees and the Fall  /
+sd          A.48 utt5: [ {C and, } +  {C and, } ]  {F um, } {F uh, } the landscape is  much different here in Texas than it is, {D you know, } in the north.  {F Um, } or even where you are. /  
+
+sd          B.49 utt1:  {F Uh, } we definitely have a lot of trees here. /  
+
+qy^d          A.50 utt1:  <Laughter> A lot of leaves to rake up too, I bet. /  
+
+ny          B.51 utt1:  Yes  /
+sd^e          B.51 utt2: {C but } fortunately the home owner's  association does all that. /  
+
+b          A.52 utt1:  Does that,  /
+ba          A.52 utt2: {D well, } {D see, }  that's another plus. /  
+
+aa          B.53 utt1:  Yes,  /
+sd          B.53 utt2: I don't have to worry about that  /
+sd          B.53 utt3: {C and } this is the  time of year we're starting to lose,  /
+sd          B.53 utt4: they're all falling now. /  
+
+aa          A.54 utt1:  That's right,  /
+aa^r          A.54 utt2: that's right,  /
+aa          A.54 utt3: they are.  /
+sd          A.54 utt4:  I'm going to get  the kids to get outside with the other neighbor kids and do the little bit of raking that needs to be done.  /
+sd          A.54 utt5:  We just have a few trees in the front and a few in the back but, [ not, + not ] much.  [ Just, + just ] a little <child_talking> kind of just in more of a make a little bit of a mess for a few weeks  /
+sv          A.54 utt6: {C and }  if you didn't do anything about it, then they'd probably the leaves just blow away <laughter>. /  
+
+b          B.55 utt1:  Right. /  
+
+sd          @@A.56 utt1:  It's not too bad.  /
+%          @@A.56 utt2: Okay,  /
+qy          @@A.56 utt3: do we have to speak for a  certain amount of time? /  
+
+nn          B.57 utt1:  No,  /
+sd^e          B.57 utt2: I don't think so. /  
+
+bk          A.58 utt1:  Okay.  /
+bk^r          A.58 utt2:  Okay.  /
+fc          A.58 utt3: It was really nice speaking to you. /  
+
+fc          B.59 utt1:  It was good to speak with you too. /  
+
+fc          A.60 utt1:  Okay,  /
+fc          A.60 utt2: {C and } have a happy Thanksgiving. /  
+
+fc          B.61 utt1:  Thank you,  /
+fc          B.61 utt2: you too. /  
+
+fc          A.62 utt1:  Bye-bye. /  
+
+fc^m          B.63 utt1:  Bye-bye. / 

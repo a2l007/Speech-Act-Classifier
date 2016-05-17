@@ -1,0 +1,334 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3288_1388_1112
+TOPIC#:		318
+DATE:		911021
+TRANSCRIBER:	LAB
+UTT_CODER:		AEE
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Radio or television in the background of B 
+
+=======================================================================
+  
+
+fp          A.1 utt1:   Hi.  /
+qw          A.1 utt2:  {C So, }  {F uh, } what was the last car repair you had? /  
+
+sd^t          B.2 utt1:   <Laughter> Just recently I was kind of laughing  [ when I, +  when I ] heard the switchboard talking about the question because, {F uh, } I had to have my, {F uh, } radiator flushed -- /  
+
+bk          @A.3 utt1:   Oh. /  
+
+sd          B.4 utt1:   -- {C and } it was getting rusty.  /
+sd          B.4 utt2:  {C And } the thing that they forgot to do was [ to, +  {F um, }  to ] also look at the hose,  /
+sd          B.4 utt3:  {C and } I had gone about {F oh, } two days with my new radiator flushed  /
+sd          B.4 utt4: {C and } the hose burst.  /
+sd          B.4 utt5:  {C So }  I was stranded out on the highway <laughter>. /  
+
+ba          A.5 utt1:   {F Oh, } no.  /
+qy          A.5 utt2:  Did you crack the block or what? /  
+
+nn          B.6 utt1:   No,  /
+sd^e          B.6 utt2: [ I, +  I ] didn't do that thank goodness,  /
+sd          B.6 utt3:  {C but, }  {F uh, } there seemed to be enough antifreeze [ in there, + {D you know, } left  ] to do that  /
+sd          B.6 utt4: {C but } it cost me all kind of money, {D you know, } to have that repaired after they said they were going to,  they had repaired it.  /
+sd         B.6 utt5: {C So } [ that was, +  that was ] a horrible experience --    
+
+bk          A.7 utt1:   Yeah,  /
+bk          A.7 utt2: I see. /  
+
++          B.8 utt1:   -- just recently. /  
+
+sv          A.9 utt1:   You got lucky you didn't ruin the whole engine though. /  
+
+aa          B.10 utt1:   Yes,  /
+aa^r          B.10 utt2: yes. /  
+
+sv          A.11 utt1:   That can be pretty serious. /  
+
+aa          B.12 utt1:   I know.  /
+aa^r          B.12 utt2: I know.  /
+qo          B.12 utt3: What about you? /  
+
+sd          A.13 utt1:   {F Oh, } I guess it's been awhile for me.  /
+%          A.13 utt2: I'd sa-, - /
+sd          A.13 utt3: it's been about a year. /  
+
+b          B.14 utt1:   Uh-huh. /  
+
+b          A.15 utt1:   Yeah,  /
+sd          A.15 utt2: I had [ the, +  {F uh, }  the ] water pump break on my car. /  
+
+bk          B.16 utt1:   Oh. /  
+
+b          A.17 utt1:   Yeah,  /
+sd          A.17 utt2: I was traveling, {F uh, }  /
+sd          A.17 utt3: I was going on my way home from Thanksgiving -- /  
+
+b          B.18 utt1:   Uh-huh. /  
+
+sd          A.19 utt1:   -- {C and } it broke like in the middle of nowhere. /  
+
+b          B.20 utt1:   Uh-huh. /  
+
+sd          A.21 utt1:   {C So, }  I had to get it towed and then fixed  /
+%          A.21 utt2: {C and } -- -/  
+
+b          B.22 utt1:   Uh-huh. /  
+
+sv          A.23 utt1:   -- big pain. -/  
+
+aa          B.24 utt1:   {F Oh, } {F oh, } [ I know. + I know. + ]  /
+sv          B.24 utt2:  Especially when you're out on the highway. /  
+
+aa          A.25 utt1:   Yeah,  /
+sd          A.25 utt2:  that's where I was.  /
+sd          A.25 utt3: Luckily someone came by and gave me a ride. /  
+
+b          B.26 utt1:   Uh-huh.  /
+b^r          B.26 utt2: Uh-huh.  /
+sd          B.26 utt3: I know, {D well, } {D you know, } {F uh, } living in Dallas, - /
+sv          B.26 utt4: {D you know } we've got, {F uh, } bumper to bumper eight lanes of traffic  /
+sd          B.26 utt5: {C and, }  {F uh, } [ that was, +  that was ] horrible. /  
+
+b          A.27 utt1:   Yeah <laughter>. /  
+
+%          B.28 utt1:   {D You know } to have the, {D you know, } - /
+sd          B.28 utt2: your car is  (( fuming )) - /
+sd          B.28 utt3:   and  everything.  /
+sd          B.28 utt4: It's already a hundred degrees  /
+sd          B.28 utt5: you <laughter> don't need that too. /  
+
+x          A.29 utt1:   <Laughter>.   
+
+fe          B.30 utt1:   {F Oh, } shoot <lipsmack>.  /
+sd          B.30 utt2:  {C But } my car is getting old.  /
+sd          B.30 utt3:  {D See } it's about six years old now,  /
+%          B.30 utt4: {C so. } -/  
+
+b          A.31 utt1:   Yeah,  /
+sd          A.31 utt2: so is mine <laughter>. /  
+
+b          B.32 utt1:   Yeah,  /
+sd          B.32 utt2: {C so } I got it right out of college  /
+sd          B.32 utt3: {C and so }  [ it's, +  {F uh, } it's ] starting to show the wear and tear now. /  
+
+b          A.33 utt1:   Yeah,  /
+sd          A.33 utt2: I'm hoping mine gets me through.  /
+sd          A.33 utt3:  I got until May until I'm out.  /
+sd          A.33 utt4:   (( {C So } when I cross ))  that one I'll be okay. /  
+
+b          B.34 utt1:   Uh-huh,  /
+b^r          B.34 utt2: uh-huh.  /
+b          B.34 utt3: Yeah,  /
+sd          B.34 utt4: [ that, +  {F uh, } that ] was my graduation present to myself,  /
+%          B.34 utt5: {C so. } -/  
+
+ba          A.35 utt1:   {F Oh, } that's nice <laughter>. /  
+
+aa          B.36 utt1:   Yeah.  /
+aa^r          B.36 utt2:  Yeah,  /
+aa          B.36 utt3: I know  /
+sd          B.36 utt4: [ {C so } + {C but ] } gosh,   it's really starting [ to, +  to ] wear  /
+sd          B.36 utt5: {C so } I've been thinking, especially now is a good time to buy a car. /  
+
+b          A.37 utt1:   Yeah. /  
+
+%          B.38 utt1:    Go-, - /
+sd          B.38 utt2: {C because } [ I can't, + {F uh, } I don't ]  know if I want to, {D you know, } pay all these repairs now to start getting it fixed when it's starting to breakdown. /  
+
+aa          A.39 utt1:    Yeah,  /
+sd          A.39 utt2: I don't want to do too much on mine because it will be worth more than the car is  /
+sv          A.39 utt3: {C and } it's not worth it <laughter>. /  
+
+aa          B.40 utt1:   Uh-huh,  /
+aa^r          B.40 utt2: uh-huh.  /
+aa          B.40 utt3:  Yeah,  /
+aa          B.40 utt4: that's true.  /
+aa          B.40 utt5: I agree with you there. /  
+
+b          A.41 utt1:   Yeah. /  
+
+h          B.42 utt1:   {C So } I don't know, {F uh, }  /
+sd          B.42 utt2: {C because } [ I, +  I ]  need to have it [ tuned, +  {D you know, }  tuned up ]  and {A I don't know, } replace some of the belts.  /
+sd          B.42 utt3:   {C And } I was looking at the, {F uh, } - /
+sd          B.42 utt4: tires need to be replaced  /
+sd          B.42 utt5: {C and so } I was thinking just a lot of money - /
+%          B.42 utt6: I'm, - /
+sd          B.42 utt7: might as well buy me a new car for that. /  
+
+aa          A.43 utt1:   Yeah,  /
+sd          A.43 utt2: I got new tires last winter too  /
+sd(^q)          A.43 utt3: {C so } I'm like, {D well, } that's the last major purchase for this thing.  /
+^q          A.43 utt4:  It's not worth it. /  
+
+aa          B.44 utt1:   Uh-huh.  /
+qy^d          B.44 utt2:  {D Well, } you have to, in Pennsylvania, boy,  /
+qy^g          B.44 utt3: <noise> you have to really have your car winterized and stuff, {F huh? } /  
+
+ny          A.45 utt1:   Yeah. /  
+
+b          B.46 utt1:   Uh-huh <noise>. /  
+
+ny^r          A.47 utt1:   Yeah,  /
+sd^e          A.47 utt2: we get some killer winters up here in the mountains. /  
+
+bh          B.48 utt1:   {F Oh, } really? /  
+
+ny          A.49 utt1:   Yeah. /  
+
+bk          B.50 utt1:   {F Oh, } okay.  /
+%          B.50 utt2: {C So, } -/  
+
+sv          A.51 utt1:   Lot of snow and a lot of cold. /  
+
+b          B.52 utt1:   Uh-huh.  /
+qy          B.52 utt2:  {D Well, } especially don't you have what, a lot of salt on the ground? /  
+
+ny          A.53 utt1:   Yeah,  /
+sd^e          A.53 utt2: at times there's a lot of it. /  
+
+b          B.54 utt1:   Uh-huh. /  
+
+sd          A.55 utt1:   You got to {D like } clean out the underneath of your car all the time when you get a chance. /  
+
+b          B.56 utt1:   Yeah.  /
+b^r          B.56 utt2: Yeah,  /
+qy^g          B.56 utt3: {D well, } rust [ and the, +  and the ] body too, {F huh? } -/  
+
+ny          A.57 utt1:   Yeah,  /
+sd^e          A.57 utt2: I haven't had a big problem with that though. /  
+
+b          B.58 utt1:   Uh-huh. /  
+
+sd          A.59 utt1:   {C So } I've been pretty lucky there. /  
+
+sd          B.60 utt1:   <Lipsmack>  {D Well, } I think they get the new  (( Z-bart ))  stuff and everything to where you can, {F um, } -/  
+
+aa          A.61 utt1:   Yeah,  /
+ba          A.61 utt2: that's usually pretty good.  /
+sd          A.61 utt3:  You just rinse it off after the winter is over and --   
+
+b          B.62 utt1:   Uh-huh. /  
+
++          A.63 utt1:   -- done with it. /  
+
+aa          B.64 utt1:   Yeah,  /
+%          B.64 utt2: {C and } go like that {C so. } -/  
+
+b          A.65 utt1:   Yeah.  /
+sd          A.65 utt2: I usually like to do most repairs on my own though. /  
+
+bh          B.66 utt1:   Do you? /  
+
+ny          A.67 utt1:   Yeah,  /
+sd^e          A.67 utt2: just because that way I know what's wrong with my car and what it needs and what it really doesn't. /  
+
+b          B.68 utt1:   Uh-huh,  /
+b^r          B.68 utt2: uh-huh. /  
+
+b          A.69 utt1:   Yeah.  /
+sd          A.69 utt2:  {C Plus } if something goes wrong, I know who to blame. /  
+
+x          B.70 utt1:   <Laughter>.   
+
+x          A.71 utt1:   <Laughter>.   
+
+sd          B.72 utt1:   {D Well, } [ I, +  I ] think I'm getting too old for all that.  /
+sd          B.72 utt2: [  My, {F uh, } + I ] had four brothers  /
+sd          B.72 utt3: {C and } they used to drag me out underneath the car, and stuff  /
+sd          B.72 utt4: {C so } [ I can, +  I can do ] all that stuff  /
+sd          B.72 utt5:  {C but } [ I, + I ] think I'd much prefer to pay the twenty-two ninety-five [ to, +  to ] go have it done now  /
+sd          B.72 utt6: {C so } I can get my hands dirty. /  
+
+x          A.73 utt1:   <Laughter>.   
+
+b          B.74 utt1:   {C So, }  yeah.  /
+sd          B.74 utt2:  I'm just [ getting, +  getting ] to that age  I guess.  /
+%          B.74 utt3: You just don't have, - /
+sd          B.74 utt4: your time becomes very precious  /
+sd          B.74 utt5: {C so } working on the car is just not one of those things I want to spend my time on anymore <laughter>. /  
+
+bf          A.75 utt1:   <Laughter> More fun things to do. /  
+
+aa          B.76 utt1:   Absolutely, absolutely.  /
+%          B.76 utt2: {C So, }   
+
+x          A.77 utt1:   <Laughter>.   
+
++          B.78 utt1:   yeah,  /
+sd          B.78 utt2:   I'm trying to,   {D you know,  } - /
+sd          B.78 utt3: I just need one, - /
+sd          B.78 utt4:   I had two cars  there for a while  /
+sd          B.78 utt5: {C so } I wouldn't have to worry about which car was going to run. /  
+
+ba          A.79 utt1:   {D Well, } that's nice. /  
+
+aa          B.80 utt1:   {C And } yeah,  /
+sd          B.80 utt2: [ {C so } +  {C but }  ] it became a hassle trying to keep up and  maintain both of them. /  
+
+b          A.81 utt1:   Yeah. /  
+
+b^m          B.82 utt1:   {C And } yeah,  /
+%          B.82 utt2: {C so } that, -/  
+
+sv          A.83 utt1:   One is bad enough <laughter>. /  
+
+aa          B.84 utt1:   Yes,  /
+aa^m          B.84 utt2: one was bad enough.  /
+sd          B.84 utt3:  {C But } I think I got rid of the wrong one <laughter>. /  
+
+x          A.85 utt1:   <Laughter>.   
+
+sd          B.86 utt1:   [ I soon, +  I need ] a lot of repairs done [ on, +  on ]  this one  /
+%          B.86 utt2: {C so } yeah, /  
+
+x          A.87 utt1:   <Laughter>.   
+
+sd          @@B.88 utt1:   [ that was, +  {F uh, }  that was ] something else <<pause>>.  /
+fc^t          @@B.88 utt2:  {D Well, } are our five minutes up?  <Laughter>. /  
+
+fc          A.89 utt1:   <Laughter> Yeah,  /
+fc^t          A.89 utt2: I was just wondering that <laughter>. /  
+
+fc^t          B.90 utt1:   <Laughter> [ [ I, +  I  didn't, ] +  I didn't ] set the time  or anything to, {F uh, } -/  
+
+fc          A.91 utt1:   Yeah,  /
+fc^t          A.91 utt2: I didn't either. /  
+
+fc          B.92 utt1:   Yeah,  /
+%          B.92 utt2: (( put ))  , -/  
+
+fc          A.93 utt1:   Yeah,  /
+fc          A.93 utt2: this must be [ a, +  a ] hard category. /  
+
+fc          B.94 utt1:   {D Well, } yeah,  /
+fc          B.94 utt2: I guess.  {F Um, } {D you know, }  /
+fc          B.94 utt3:  unless you're, {F um, } {D you know, } big do-it-yourselfer.  {F Um, } to, {D you know, } fix up your own cars [ {C and, } +  {C and } ] things like that.  /
+fc          B.94 utt4: [ {C So, } +  {C but } ]  I guess they were talking about experiences.  /
+%          B.94 utt5: {D You know, } [ I, +  {F uh, } {F uh, }  I ] did, - /
+fc          B.94 utt6:  my parents live in Ohio  /
+fc          B.94 utt7: {C so } [ I, +  I ] do know something about [ the, +  {D you know, } the ]  really cold weather.  /
+fc          B.94 utt8: {C And, }  {F uh, } I've always lived down here in the south,  /
+fc          B.94 utt9: {C and, } {F oh, } I took my car up there to their  house  /
+fc          B.94 utt10: {C and, }  {F um, } I guess I had a crack in the block,  /
+fc          B.94 utt11: {C and } when I got up there the car, -/ 

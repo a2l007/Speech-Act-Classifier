@@ -1,0 +1,165 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x* *x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x* *x*                                                                     *x* *x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3405_1402_1422
+TOPIC#:		361
+DATE:		911115
+TRANSCRIBER:	GL
+UTT_CODER:      aabo
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+o          B.1 utt1:  Okay, Lowell,  /
+qw          B.1 utt2: {D so } I'd like to know, {F um, } [ what, + what ] do you do in lawn and  garden,  /
+qw          B.1 utt3: [ [ what, + {F uh, } what's, ] + what's ] of interest to you  /
+qw          B.1 utt4: {C and } how do you go about it? /  
+
+sd          A.2 utt1:  {D Well, } I have a town home,  /
+sd          A.2 utt2: {C so } I don't do a lot of regular maintenance,  /
+sd          A.2 utt3: {C but } I do have a large garden out in back,  /
+sd          A.2 utt4: {C so } we do a lot of <throat_clearing> things with perennials and, {F uh, } also a few annual plants, {F uh, }  /
+sd          A.2 utt5: {C and then } every year I grow a garden. /  
+
+qy          B.3 utt1:  {F Oh, } [ you do, + you do ] {D actually, } {F uh, } grow a garden to produce food? /  
+
+ny          A.4 utt1:  Yes. /  
+
+b          B.5 utt1:  Uh-huh.  /
+qw          B.5 utt2:  {C So } how much room do you have? /  
+
+sd          A.6 utt1:  {F Um, } we have virtually no room out in front,  /
+sd          A.6 utt2: {C and then } in the back I'd say we have about an eighth of an acre -- /  
+
+b          B.7 utt1:  Uh-huh. /  
+
+sd          A.8 utt1:  -- {C and } we pretty much fill it up with, {F uh, } like I said, perennials, things that [ aren't, + don't ] have to fool with every year,  /
+sd          A.8 utt2: {C but } then I've got, {F uh, } a twenty-five by twenty area that I do gardening, <sniffing> as far as, {D you know, } tomatoes and cucumbers and beans  /
+%          A.8 utt3: {C and. } -/  
+
+bk          B.9 utt1:  {F Oh, } that's what I was curious about,  /
+qy^d          B.9 utt2: I was wondering whether you had actually some of the flowers that you had planted were bulb type that you would dig up [ and, + and then ] put down your garden and then put them back in later, or something like that.  /
+%          B.9 utt3:  {C So } you. -/  
+
+nn          A.10 utt1:  No,  /
+sd^e          A.10 utt2: we have a separate area for the garden. /  
+
+b          B.11 utt1:  Uh-huh,  /
+b^m          B.11 utt2: you do have a separate area. /  
+
+aa          A.12 utt1:  Yeah,  /
+sd          A.12 utt2: {C and } last year was the first year we tried two new things.  /
+sd          A.12 utt3:  We tried corn,  /
+sd          A.12 utt4: {C and } --   
+
+b          B.13 utt1:  Oh. /  
+
++          A.14 utt1:  -- we tried a watermelon. /  
+
+b          B.15 utt1:  Uh-huh.  /
+ad          B.15 utt2:  {D Well, } tell me this, {F uh, } Lowell,  /
+qy          B.15 utt3: [ do you en-, + do you ] enjoy doing that kind of work,  /
+qy          B.15 utt4: {C and } --   
+
+b          A.16 utt1:  {F Uh. } /  
+
++          B.17 utt1:  -- do you have the time to relax so that you can take advantage of it? /  
+
+na          A.18 utt1:  I enjoy doing it on a limited basis.  /
+%          A.18 utt2:  I don't think that if I, - /
+sd          A.18 utt3: the reason I bought a townhouse is so that I wouldn't, - /
+%          A.18 utt4: I get, - /
+sd          A.18 utt5: I'm allergic to grass.  /
+sd          A.18 utt6: {C So } I don't mow grass or anything like that.  /
+sd          A.18 utt7: {C So } I think if I had a big home and a big lawn [ I'd, + I ] don't believe I would enjoy it.  /
+na          A.18 utt8:  {C But } just on the limited basis that I do it, I do enjoy it very much. /  
+
+b          B.19 utt1:  Uh-huh.  /
+sv          B.19 utt2:  {D Well, } I'm a little more fortunate I think from that point of view.  /
+sd          B.19 utt3: I'm not allergic to things,  /
+sd          B.19 utt4: {C and } I moved here in State College quite a while ago and was fortunate to get some land.  /
+sd          B.19 utt5:  {C So, } {D actually } I have nine acres <laughter>. /  
+
+ba          A.20 utt1:  {F Oh, } wow. /  
+
+sd          B.21 utt1:  {C And, } {F uh, } for many years I grew sweet corn,  /
+sd          B.21 utt2: {F uh, } [ {C and, } + {C and } ] my kids were there,  /
+sd          B.21 utt3: {C and so } we set up a shop there,  /
+sd          B.21 utt4: {C and, } {F uh, } I would, {F uh, } collect the corn very carefully, ear by ear,  /
+sd          B.21 utt5: {C and } it was never more than one to two hours old,  /
+sd          B.21 utt6: {C and } people came from miles and miles around to get that corn, because they knew it was individually picked and very, very fresh. /  
+
+ba          A.22 utt1:  How about that. /  
+
+sd          B.23 utt1:  {C So } we had a nice thing going there,  /
+sd          B.23 utt2: {C and } it was delicious.  /
+sd          B.23 utt3:  {F Huh, } I really enjoyed that,  /
+sd          B.23 utt4: {C and then } I also have [ a, + a ] garden.  /
+sd          B.23 utt5:  {F Oh, } it's probably, {F uh, } twenty-five by thirty or forty, something like that, that I put in my normal food garden things each year,  /
+sd          B.23 utt6: {C and, } {F uh, } I have [ a little bit of everything, + {E or } a whole lot of everything ] in the - /
+sd          B.23 utt7: {D actually. }  I love, {F uh, } broccoli, brussels sprouts,  /
+sd          B.23 utt8: {C and } I have all kinds of tomatoes, kale, and all those good things,  /
+sd          B.23 utt9: {C and } I rent out my field that I used to plant in sweet corn to a local farmer,  /
+sd          B.23 utt10: {C and then } he plants about a quarter of an acre of sweet corn for me to use,  /
+sd          B.23 utt11: {C so } I get out of that amount of work at any rate. /  
+
+ba          A.24 utt1:  {D Well, } that's nice. /  
+
+sd          B.25 utt1: [ It is, + it is ] very, very nice.  /
+sd          B.25 utt2: [  I, + I ] really enjoy it.  /
+sd          B.25 utt3:  My problem is not having enough time to do the job as completely and as thoroughly as I would like.  /
+sd          B.25 utt4: I enjoy it very much. /  
+
+bf          A.26 utt1:  That much land requires an awful lot of time. /  
+
+aa          B.27 utt1:  Yes,  /
+aa          B.27 utt2: it does.  /
+sd          B.27 utt3:  {F Uh, } {C and } {D actually } I had a pony there for twenty-five years,  /
+sd          B.27 utt4: {C and } he had two acres that he had for his own grazing <laughter>. /  
+
+ba          A.28 utt1:  How about that. /  
+
+sd          B.29 utt1:  {C So } he had his own backyard garden, too.  /
+sd          B.29 utt2:  {C But } [ that, + that ]  worked out very nicely too.  /
+sd          B.29 utt3:  I built him a barn back there [ where, + ] in the part of my corn field,  /
+sd          B.29 utt4: {C and } he lived in that,  /
+sd          B.29 utt5: {C but, } {F uh, } as far as gardening is concerned, we do enjoy it.  /
+sd          B.29 utt6:  My wife is in charge of the flowers.  /
+sd          B.29 utt7:  She does all of the flower gardening throughout the whole property,  /
+sd          B.29 utt8: {C and } we have, {D you know, } [ an acre, + an acre ] and a half that the house is sitting in the middle of,  /
+sd          B.29 utt9: {C and } she has flower gardens and bulbs, perennials and things.  /
+sd          B.29 utt10:  We have blueberries, blackberries.  /
+sd          B.29 utt11: I have two or three, {F uh, } apple trees,  /
+sd          B.29 utt12: the Golden Delicious were fantastic this year.  /
+sd          B.29 utt13: My neighbor has pear trees, and, {F um, } {F oh, } blueberries, all kinds of food around there,  if we just had time to take advantage of it.  /
+sd          B.29 utt14:  My wife has spent probably I don't know how many hours in the last two or three weeks canning pears, because there were so many of them,  /
+sd          B.29 utt15: {C and } I have been totally engulfed with Golden Delicious apples.  /
+sd          B.29 utt16:  I just couldn't handle [ the, + the ] amount of them we got this year.  /
+sd          B.29 utt17:  It's really been a remarkable year. /  
+
+sv          A.30 utt1:  {D Well, } I bet you could answer a question for me.  /
+qw          A.30 utt2:  What's a good apple to bake pies with? /  
+
+sd          B.31 utt1:  I use my Golden Delicious,  /
+sd          B.31 utt2: {C and } they make delicious pies. /  
+
+qy          A.32 utt1:  Are there m- 'n - /
+%          A.32 utt2: there's an afflu- -/ 

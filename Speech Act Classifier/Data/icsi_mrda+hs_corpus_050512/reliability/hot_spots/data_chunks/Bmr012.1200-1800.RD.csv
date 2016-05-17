@@ -1,0 +1,352 @@
+1200.7,1201.38,Bmr012-c2,%-,,,,but if it's ==
+1200.8,1203.55,Bmr012-c5,s^nd,1b.2a,,,although those eighty meg files take a while to copy into my directories .
+1203.55,1203.75,Bmr012-c5,fh,,,,so ==
+1204.02,1204.3,Bmr012-c2,s^aa,2b,,,yeah .
+1204.17,1204.36,Bmr012-c5,fh,,,,but ==
+1204.36,1204.58,Bmr012-c5,fh,,,,no .
+1204.58,1207.37,Bmr012-c5,s^cs^na,1b+,,,i mean - it's not - i- - it wouldn't be a problem if you're interested in it .
+1205.3,1206.03,Bmr012-c2,s^cs,2b+,,,we could try that .
+1207.41,1207.68,Bmr012-c5,%-,,,,it would ==
+1207.88,1212.45,Bmr012-c0,fg|s.%--,,,,yeah | i mean - it would be uh - you know it would probably take uh - about um - you know ==
+1212.66,1217.73,Bmr012-c0,s.%-,3a,,,minus the transfer time it would - it would take uh - you know - ten minutes to try and - and - and ==
+1214.04,1214.35,Bmr012-c5,s^bk,3b,,,yeah .
+1217.1,1218.3,Bmr012-c4,qy^bu^d^rt,4a,,,it's about a fifty minute drive ?
+1218.3,1218.57,Bmr012-c4,qy^d^g^rt,4a+,,,right ?
+1220.66,1222.04,Bmr012-c2,s,4b,,,well it takes more disk space too .
+1220.7,1226.37,Bmr012-c0,s^cs,5a,,,and - and if for some reason we see that it works better then we might investigate why .
+1222.04,1222.69,Bmr012-c2,%--,,,,so i was just ==
+1226.37,1227.97,Bmr012-c0,fh|%-,,,,and you know - | what ==
+1230.2,1230.3,Bmr012-c5,b,,,,mmm .
+1230.26,1231.08,Bmr012-c0,s^bk,6b,,,yeah .
+1230.56,1231.89,Bmr012-c5,s^cs,5b.6a,,,in the front-end we could do that .
+1231.5,1231.86,Bmr012-c0,s^aa,6a+,,,yeah .
+1232.55,1234.33,Bmr012-c1,qy^bu^d,7a,,,so you just train - just different filters ?
+1232.66,1233.12,Bmr012-c5,fg,,,,yeah i ==
+1234.33,1236.6,Bmr012-c1,qy^bu^d.%-,8a,,,and so you're just wondering whether the filter is ?==
+1234.42,1235.69,Bmr012-c5,fg|s,,,,yeah | i can imagine it would be .
+1235.12,1235.49,Bmr012-c0,s^aa,7b,,,right .
+1236.14,1236.48,Bmr012-c0,s^aa,8b,,,right .
+1236.8,1237.61,Bmr012-c5,s.%-,,,,i mean - i guess there's some ==
+1237.2,1242.38,Bmr012-c2,s^cs,9a,,,so we could try that with this particular twenty minutes of speech and sort of see if there's any differences .
+1241.87,1249.55,Bmr012-c0,s,9b.10a,,,you know - a- - at some point someone might have optimized whatever filtering is done for the actual recognition um - performance .
+1246.08,1246.33,Bmr012-c5,b,,,,hmm .
+1249.87,1251.1,Bmr012-c0,fh|s.%--,,,,so | in other words ==
+1251.23,1251.49,Bmr012-c1,s^bk,10b,,,right .
+1251.61,1252.18,Bmr012-c0,s^m,,,,right .
+1251.78,1259.02,Bmr012-c4,s,,,,it just seems to me that you know - small changes to the language model and the vocabulary will so swamp that - that it may be premature to worry about that .
+1252.18,1252.5,Bmr012-c0,fg,,,,so ==
+1259.27,1262.14,Bmr012-c4,s,,10=l=a.a,,i mean - so one is a half a percent better than the other .
+1262.33,1264.15,Bmr012-c4,s,11a,b,,i don't think that gives you any information .
+1265.27,1268.9,Bmr012-c2,fg|s^nd,11b.12a,c,,well | it's just as easy to - to give you the sixteen k_ individual .
+1267.43,1267.73,Bmr012-c4,s^bk,12b,,,yep .
+1268.9,1272.08,Bmr012-c2,s,,,,it was just more disk space you know - for storing them .
+1271.56,1277.45,Bmr012-c1,qr,13a,,,are you - are you using uh - uh - mel cepstrum or p_l_p over there ?
+1272.13,1272.31,Bmr012-c2,fh,,,,so ==
+1277.53,1278.16,Bmr012-c0,s,13b.14a,,,mel cepstrum .
+1278.94,1279.88,Bmr012-c1,s,14b,20=l=a;s.a,,so probably doesn't matter .
+1282.61,1283.2,Bmr012-c2,s^cs,,b,,well we could try .
+1282.99,1283.65,Bmr012-c5,s^t3,,,,there's - there's your answer .
+1283.8,1284.92,Bmr012-c1,s^cs,14b+.15a,,,but - but it wouldn't hurt to try .
+1284.03,1284.78,Bmr012-c2,s,,c,,could easily try .
+1284.59,1286.44,Bmr012-c0,s^no,15b.16a,,,that's what i would assume but you never know .
+1285.02,1285.12,Bmr012-c1,b,,,,yeah .
+1285.73,1286.46,Bmr012-c2,fh,,,,so ==
+1286.44,1286.66,Bmr012-c0,qy^d,15b+.16a+,,,you know ?
+1286.52,1286.79,Bmr012-c1,s^bk,16b,,,sure .
+1288.08,1288.68,Bmr012-c8,b,,,,just - mm-hmm .
+1288.14,1288.8,Bmr012-c1,fg|%--,,,,no | the reason i say this ==
+1288.8,1295.4,Bmr012-c1,s,,,,p_l_p uses uh - auto-regressive filtering and uh - modeling and so it can be sensitive to the kind of filtering that you're doing .
+1291.46,1292.34,Bmr012-c0,b,,,,mm-hmm .
+1295.66,1302.02,Bmr012-c1,s,,,,but uh - uh - mel cepstrum uh - might not - b- - you wouldn't expect to be so much .
+1302.02,1302.15,Bmr012-c1,fh,,,,but ==
+1303.19,1308.09,Bmr012-c2,s^cs,17a,,,well - we can try it if you generate like - the same set of files just up to that point where we stopped anyway .
+1308.09,1310.23,Bmr012-c2,s^cs,17a+,,,and just sti- - stick them somewhere .
+1308.8,1310.32,Bmr012-c5,s^na,17b-1,,,yeah it's - it's really not a problem .
+1310.23,1311.15,Bmr012-c2,s^cc.%-,,,,and i'll rerun it with ==
+1310.45,1311.18,Bmr012-c0,s^ar,17b-2,,,actually no .
+1311.18,1311.75,Bmr012-c0,s^co,18a,30=w-=a;s.a,,don't stop .
+1312.63,1313.11,Bmr012-c5,s^j,18b,b.c,,keep going .
+1313,1318.85,Bmr012-c0,s^co,,,,don't stop at that part because we're actually using the entire conversation to estimate the speaker parameters .
+1317.99,1318.23,Bmr012-c5,b,,,,yeah .
+1318.97,1322.55,Bmr012-c0,s^co.%-,19a,,,so shouldn't use - you should s- - you know - get ==
+1322.53,1325.86,Bmr012-c5,fg|s,,,,yeah | i mean - i'll - i have to do is eh e- - the reference file would stay the same .
+1323.25,1323.56,Bmr012-c2,s^bk,19b,,,o_k .
+1325.34,1325.41,Bmr012-c0,b,,,,{@reject@} yeah .
+1325.41,1325.5,Bmr012-c0,b.%,,,,right .
+1325.86,1329.45,Bmr012-c5,s,20a,,,it's just the individual segments would be approximately twice as long .
+1326.56,1327.24,Bmr012-c0,b,,,,mmm .
+1328.19,1328.42,Bmr012-c2,s^bk,20b,,,right .
+1329.27,1329.61,Bmr012-c2,s^bk^r,,,,right .
+1329.45,1331.44,Bmr012-c5,s^cc,,,,and i could just replace them with the bigger ones in the directory .
+1331.44,1332.05,Bmr012-c5,s,,,,that's not a problem .
+1331.93,1332.82,Bmr012-c4,b,,,,yeah .
+1332.04,1332.75,Bmr012-c0,b,,,,right .
+1332.18,1333.01,Bmr012-c2,fg|s.%--,,,,i mean - | i corrected all ==
+1333.01,1336.02,Bmr012-c2,s,,,,i mean - i hand-edited the whole - the whole meeting .
+1336.02,1337.3,Bmr012-c2,s,,,,so that can be run .
+1337.3,1337.71,Bmr012-c2,%--,,,,it's just ==
+1338.99,1341.06,Bmr012-c2,s,,,,once we get the - the bug out .
+1340.3,1341.18,Bmr012-c0,b,,,,mmm .
+1341.66,1350.3,Bmr012-c8,s,21a,,,one - one question which is i - i had the impression from this - from this meeting that w- - that i transcribed that um - that there was already automatic downsampling occurring .
+1342.37,1342.62,Bmr012-c0,b,,,,yeah .
+1345.96,1346.71,Bmr012-c0,b,,,,mm-hmm .
+1350.4,1350.67,Bmr012-c8,qy.%--,,,,is that ?==
+1350.82,1352.18,Bmr012-c8,s.%--,,,,i thought that in order to ==
+1351.66,1351.89,Bmr012-c4,s^aa,21b,,,yep .
+1352.37,1353.69,Bmr012-c8,s.%-,,,,so it was - so it's like there's already down ==
+1353.08,1355.71,Bmr012-c4,s,21b+.22a,,,there's one level that's already happening right here .
+1355.78,1356.05,Bmr012-c8,s^bk,22b,,,o_k .
+1355.84,1360.13,Bmr012-c1,s,23a,,,this is being recorded at forty-eight kilohertz which is more that anybody needs .
+1357.64,1357.83,Bmr012-c5,b,,,,oh .
+1357.84,1358.05,Bmr012-c4,s^bk,23b-1,,,right .
+1358.23,1359.88,Bmr012-c4,s,23b-1+.24a,,,and it gets downsampled to sixteen .
+1358.4,1358.71,Bmr012-c8,s^bk,23b-2,,,o_k .
+1360.11,1361.78,Bmr012-c2,s,23b-3,40=w0=a.a.r,FBH,and that's actually said in your meeting .
+1360.13,1360.36,Bmr012-c1,fh,,,,so ==
+1360.6,1360.82,Bmr012-c5,b,,,,hmm .
+1360.72,1361.1,Bmr012-c8,s^bk,24b,,,oh o_k .
+1361.78,1362.67,Bmr012-c2,s,23b-3+.24a,b,,that's how i know that .
+1362.09,1363.56,Bmr012-c8,s^na,24b,b-,,that's exactly - and that's how i know it .
+1363.23,1363.45,Bmr012-c1,b,,,,yeah .
+1363.41,1366.47,Bmr012-c2,qy^j,,b,,i - i - it's like are we downsampling to sixteen ?
+1365.98,1368.3,Bmr012-c1,s,25a,c,,it's a digital audio orientation for the board .
+1367.6,1367.94,Bmr012-c2,s^bk,25b,,,right .
+1368.3,1370.27,Bmr012-c1,s.%--,,,,it's in the monitor so it's ==
+1368.57,1368.99,Bmr012-c0,b,,,,mmm .
+1368.96,1370.99,Bmr012-c2,s^fe,,,,thank god it's not more than that !
+1369.03,1369.36,Bmr012-c4,b.%,,,,so ==
+1371.19,1376.45,Bmr012-c5,qy,26a,,,is eight kilohertz - is - is eighty kilohertz generally accepted as like standard for voice ?
+1371.4,1371.97,Bmr012-c1,b.%,,,,yeah .
+1371.41,1373.13,Bmr012-c4,s,,,,and i have no idea what filter it's using .
+1373.13,1373.36,Bmr012-c4,fh,,,,so ==
+1376.03,1376.85,Bmr012-c4,s,26b-1,,,telephone .
+1376.08,1377.38,Bmr012-c1,s,26b-2.27a,,,for telephone stuff .
+1376.68,1377.11,Bmr012-c3,s,26b-3,,,telephone .
+1376.89,1377.84,Bmr012-c5,s^na,27b,,,yeah that's what i was gonna say .
+1377.84,1378.32,Bmr012-c5,s.%--,,,,i mean - like ==
+1379.37,1379.9,Bmr012-c5,fh,,,,so ==
+1379.41,1384.77,Bmr012-c1,s,28a,,,so it's - it's - it's just that they were operating from switchboard which was a completely telephone database .
+1383.37,1383.92,Bmr012-c5,s^bk,28b,,,oh i see .
+1383.92,1384.35,Bmr012-c5,fh,,,,so ==
+1384.73,1385.09,Bmr012-c5,s^bk,28b+,,,o_k .
+1384.77,1387.61,Bmr012-c1,s.%-,,,,and so that was a standard for that sixteen s- ==
+1385.98,1389.36,Bmr012-c4,s,29a,,,so sixteen seems to be pretty typical for - with this sort of thing .
+1388.21,1388.48,Bmr012-c5,s^bk,29b,,,right .
+1388.59,1392.49,Bmr012-c1,s.%--,30a,,,sixteen is more common for - for uh - broadband stuff that isn't ==
+1392.92,1393.62,Bmr012-c4,s^2,30b.31a,,,that isn't music .
+1394.23,1395.8,Bmr012-c1,s,31b,,,that isn't music and isn't telephone .
+1394.47,1404.65,Bmr012-c2,s^cs,32a,,,and i guess if you're comparing like - uh - if you wanna run recognition on the p_z_m stuff you would want - you don't want to downsample the wh- - that .
+1396.36,1396.51,Bmr012-c1,b,,,,yeah .
+1404.3,1404.73,Bmr012-c4,qw^rt,32b.33a,,,why is that ?
+1404.65,1404.83,Bmr012-c2,qy^d^g.%,,,,right ?
+1405.05,1405.5,Bmr012-c1,s^no,33b,,,i don't know .
+1406.16,1407.62,Bmr012-c2,s,34a,,,well i don- - i mean - if it's any better .
+1408.32,1413.45,Bmr012-c1,s^nd,34b,,,no actually i would think that you would - you would get better - you'd get better high frequencies in the local mike .
+1409.67,1410.7,Bmr012-c4,s,,,,all the way around i'd think .
+1414.44,1415.31,Bmr012-c1,fh|qh,,50=l=a.a,,uh - | but who knows ?
+1415.43,1415.68,Bmr012-c2,b,,,,yeah .
+1415.66,1416.14,Bmr012-c4,b,,b,,yeah .
+1415.73,1418.13,Bmr012-c1,s,,b,,i mean - we do- - we - we - we - we - we wanna find all this stuff out .
+1415.78,1416.54,Bmr012-c2,s^cs,,,,well we could try it .
+1418.13,1418.68,Bmr012-c1,s,,c,,we don't know .
+1418.14,1421.06,Bmr012-c4,s,35a,,,we're gonna have plenty of low frequency on the p_z_ms with the fans .
+1418.73,1419.01,Bmr012-c2,fg,,,,o_k .
+1420.72,1420.95,Bmr012-c2,b,,,,yeah .
+1421.39,1421.85,Bmr012-c1,h|s^aa,35b,,,uh - | yeah .
+1422.93,1423.26,Bmr012-c1,b,,,,yeah .
+1422.95,1423.09,Bmr012-c2,fg,,,,oh yeah .
+1423.09,1427.27,Bmr012-c2,s^tc.%--,,,,there was just one more thing i wanted to say which is totally unrelated to the recognition except that ==
+1427.27,1427.67,Bmr012-c2,fh,,,,um ==
+1428.42,1430.63,Bmr012-c2,s,,,,well - well it's sort of related .
+1430.67,1431.32,Bmr012-c2,fh,,,,but um ==
+1431.59,1432.53,Bmr012-c2,s,,,,good news also .
+1432.99,1433.9,Bmr012-c2,fh|s.%--,,,,uh - | i got ==
+1434.26,1438.45,Bmr012-c2,s,,,,well chuck fillmore agreed to record meetings but he had too many people in his meetings .
+1438.45,1440.36,Bmr012-c2,s,36a,,,and that's too bad cuz they're very animated .
+1440.36,1445.77,Bmr012-c2,s.%-,36a+,,,and - but uh - jerry also agreed so uh - we're starting on - on ==
+1445.41,1446.16,Bmr012-c0,s^j,36b,,,they're less animated .
+1447.28,1448.33,Bmr012-c2,fg|s.%--,,,,well | but he has fewer ==
+1448.45,1450.26,Bmr012-c2,s,,,,he - he won't have more than eight .
+1450.26,1453.36,Bmr012-c2,s,37a,60=l-=a.a,,and it's a meeting on even deeper understanding e_d_u .
+1453.59,1454.59,Bmr012-c2,s,,,,so that sounds interesting .
+1454.73,1455.35,Bmr012-c4,qy^bu^d^rt,37b,,,dot e_d_u ?
+1454.96,1457.01,Bmr012-c2,s,,b,,as a compliment to our front-end meeting .
+1457.99,1459.87,Bmr012-c2,fh|s,,c,,and um - | so that's gonna start monday .
+1459.87,1473.74,Bmr012-c2,s^cs,,,,and one of the things that i was realizing is um - it would be really great if anyone has any ideas on some kind of time synchronous way that people in the meeting can make a comment to the person whose gonna transcribe it .
+1474.28,1481.89,Bmr012-c2,s^cs,,,,or - or put a push a button or something when they wanna make a note about oh boy you should probably erase those last few .
+1481.89,1485.76,Bmr012-c2,s^cs,,,,or uh - wait i want this not to be recorded now .
+1485.76,1488.55,Bmr012-c2,s^cs.%-,,,,or uh - something like that s- ==
+1487.02,1490.36,Bmr012-c1,qy^rt,38a,,,weren't we gonna do something with a pad at one point ?
+1490.07,1490.76,Bmr012-c8,qy^d^rt,38b.39a,,,the cross pads ?
+1490.79,1492.19,Bmr012-c4,s^na,39b,,,yeah we could do it with the cross pads .
+1491.37,1498.04,Bmr012-c2,s.%--,,,,cuz i was thinking you know - if - if the person who sets up the meeting isn't there and it's a group that we don't know ==
+1498.49,1501.54,Bmr012-c2,fh|s,,,,um - | and this came up talking to - to jerry also .
+1501.54,1509.21,Bmr012-c2,qy,,,,that you know - is there any way for them to indicate - to make sure that the qu- - request that they have - that they make - explicitly get addressed somehow ?
+1508.82,1509.13,Bmr012-c1,b,,,,yeah .
+1509.21,1510.76,Bmr012-c2,s,40a,,,so i don't know if anyone has ideas .
+1510.76,1514.24,Bmr012-c2,s^cs.%-,40a+,,,or you could even write down oh it's about three twenty five and ==
+1513.67,1517.66,Bmr012-c1,s^cs,40b.41a,,,well what i was just suggesting is - is we have these - this cross pad just for this purpose .
+1516.42,1517.32,Bmr012-c4,s^cs^na,41b-1,,,yeah and use that .
+1517.32,1518.33,Bmr012-c4,s^ba,41b-1+,,,not a bad idea .
+1517.66,1518.28,Bmr012-c1,s^cs,40b+,,,and just use that .
+1517.99,1518.68,Bmr012-c2,s^ba,41b-2,,,that would be great .
+1518.28,1519.05,Bmr012-c1,s.%--,,,,and if we sink it in ==
+1519.05,1520.39,Bmr012-c1,s.%--,,,,the other thing is eh ==
+1519.3,1519.75,Bmr012-c2,s^ba^r,41b-2+,,,that be great .
+1520.39,1524.09,Bmr012-c1,s,42a,,,i don't know if you know this or if it's a question for the mail to dan .
+1524.09,1531.2,Bmr012-c1,qr^rt,42a+,,,but is this thing of two eight channel boards a maximum for this setup or could we go to a third board ?
+1528.81,1529.24,Bmr012-c4,s^no,42b,,,i don't know .
+1529.78,1530.37,Bmr012-c4,s^no^r,,,,i don't know .
+1531.28,1532.64,Bmr012-c4,s^cc,42b+,,,i'll send mail to dan and ask .
+1532.64,1537.01,Bmr012-c4,s,43a,,,i - i think that it's the maximum we can do without a lot of effort .
+1537.01,1540.97,Bmr012-c4,s,,,,because it's one board with two digital channels .
+1539.56,1540.33,Bmr012-c1,s^bk^m,43b,,,oh it is one board .
+1541.91,1542.57,Bmr012-c4,s^e,,,,e- - eight each .
+1542.64,1544.92,Bmr012-c4,s,,,,so it - it takes two fibers in to the one board .
+1545.29,1548.8,Bmr012-c4,s,,,,and so w- - i think if we wanna do that - more than that we'd have to have two boards .
+1549.12,1550.52,Bmr012-c4,s,44a,,,and then you have the synchronization issue .
+1552.64,1553.95,Bmr012-c1,s.%--,44b,,,but that's a question because that would ==
+1554.1,1556.27,Bmr012-c1,s.%--,,,,if it was possible cuz it is i- ==
+1556.4,1560.4,Bmr012-c1,s,45a,70=l=a.n.b,,you know already we have a - a - a group of people in this room that cannot all be miked .
+1560.34,1560.55,Bmr012-c4,s^bk,45b,,,right .
+1560.98,1562.59,Bmr012-c1,s,,c,,and it's not just cuz we haven't been to the store .
+1562.59,1562.78,Bmr012-c1,qy^d^f^g^rt,,,,right ?
+1562.78,1563.22,Bmr012-c1,%-,,,,it's ==
+1562.92,1565.35,Bmr012-c3,qw,46a,,,what is the limit on each of those f- - fiber channels ?
+1565.35,1566.02,Bmr012-c3,qy.%-,,,,is it the ?==
+1566.01,1566.22,Bmr012-c4,s,46b.47a,,,eight .
+1567.52,1568.84,Bmr012-c3,qy^bu^d^rt,47b,,,it just - it's eight channels come in ?
+1568.8,1569.34,Bmr012-c4,s.%,,,,it's eight .
+1568.84,1570.21,Bmr012-c3,qy^rt,48a,,,does it have do with the sampling rate ?
+1570.28,1570.86,Bmr012-c4,s^no,48b,,,i have no idea .
+1572.62,1576.36,Bmr012-c4,s,,,,but each - each fiber channel has eight - eight channels .
+1576.81,1580.52,Bmr012-c4,s,,,,and there are two ch- - two fibers that go in to the card .
+1581.82,1582.94,Bmr012-c1,s,,,,it might be a hard limitation .
+1582.15,1582.31,Bmr012-c4,fh,,,,so ==
+1582.94,1587.59,Bmr012-c1,s,49a,,,i mean - one thing is it - the whole thing as i said is - is all structured in terms of forty-eight kilohertz sampling .
+1587.59,1590.14,Bmr012-c1,s,,,,so that pushes requirements up a bit .
+1588.94,1589.11,Bmr012-c4,s^aa,49b,,,yeah .
+1589.67,1591.48,Bmr012-c3,s,,,,i was just wondering if - if that could change .
+1590.14,1590.85,Bmr012-c1,fh,,,,but ==
+1590.37,1594.62,Bmr012-c4,s,,,,i mean - then we'd also have to get another a_d_d and another mixer and all that sort of stuff .
+1592.23,1593.13,Bmr012-c3,s,,,,if we could drop that .
+1595.59,1596.43,Bmr012-c1,b,,,,yeah .
+1595.77,1597.26,Bmr012-c4,s^cc,,,,so i - i'll send a mail to dan and ask him .
+1598.25,1598.53,Bmr012-c1,b.%,,,,yeah .
+1598.3,1599.31,Bmr012-c4,qy^bu^t.%--,,,,o_k on the uh ?==
+1599.31,1600.04,Bmr012-c4,qy^rt^t,,,,are we done with that ?
+1600.04,1603.71,Bmr012-c4,s^t^tc,,,,so the oth- - topic is uh - getting more mikes and different mikes .
+1604.07,1604.94,Bmr012-c4,s,,,,so i got a quote .
+1605.17,1605.48,Bmr012-c4,fh,,,,um ==
+1606.33,1608.91,Bmr012-c4,s,,,,we can fit - we have room for one more wireless .
+1609.36,1610.03,Bmr012-c4,s.%--,,,,and the wireless ==
+1610.03,1612.96,Bmr012-c4,s,,,,this unit here is three fifty - three hundred fifty dollars .
+1613.22,1616.65,Bmr012-c4,s^co,,,,it - i didn't realize but we also have to get a tuner - the receiver - the other end .
+1616.65,1617.81,Bmr012-c4,s,50a,,,that's uh - four thirty .
+1618.71,1620.67,Bmr012-c4,fh|s.%-,,,,um - | and then also ==
+1619.76,1620.05,Bmr012-c3,s^fe,,,,wow !
+1619.97,1621,Bmr012-c2,qy^bu^d^rt,50b.51a,,,for - for each ?
+1621.33,1623.3,Bmr012-c2,qy^bsc^bu^d^rt,50b+.51a+,,,i mean - the tuner is four thirty for each ?
+1623.38,1623.62,Bmr012-c4,s^aa,51b.52a,,,yep .
+1623.96,1624.38,Bmr012-c2,s^fe,52b,,,wow !
+1624.37,1626.04,Bmr012-c4,s.%-,,,,and we just need one more so - so ==
+1625.51,1626.95,Bmr012-c1,s,53a,,,yeah at least w- - we got the good ones .
+1627.1,1627.3,Bmr012-c4,s^bk,53b,,,yeah .
+1628.23,1631.42,Bmr012-c4,s,54a,,,so that's you know - something like seven hundred eighty bucks for one more of these .
+1629.12,1629.58,Bmr012-c1,b.%,,,,yeah .
+1631.29,1631.6,Bmr012-c1,s^bk,54b,,,o_k .
+1631.76,1638.56,Bmr012-c4,fh|s,55a,80=l=o.a,,um - | and then also um - it turns out that the connector that this thing uses is proprietary of sony .
+1638.71,1638.74,Bmr012-c3,s^fe,55b,b.c,,oh !
+1639.32,1639.91,Bmr012-c4,s,,,,believe it or not .
+1639.91,1641.97,Bmr012-c4,s,,,,and sony only sells this headset .
+1640,1640.7,Bmr012-c8,b,,,,mmm .
+1643.13,1652.2,Bmr012-c4,s,,,,so if we wanna use a different set - headset the solution that the guy suggested and they - apparently lots of people have done is sony will sell you the jack with just wires coming out the end .
+1652.2,1657.02,Bmr012-c4,s,,,,and then you can buy a headset that has pigtail and solder it yourself .
+1657.87,1659,Bmr012-c4,s,,,,and that's the other solution .
+1659,1661.29,Bmr012-c4,s,,,,and so the jacks are forty bucks apiece .
+1661.71,1669.66,Bmr012-c4,s,,,,and the - he recommended um - a crown c_m three eleven a_e headset for two hundred bucks apiece .
+1669.86,1671.9,Bmr012-c1,qy^d^rt,56a,,,there isn't this some sort of thing that plugs in ?
+1671.9,1674,Bmr012-c1,qy^d^rt,56a+,,,you actually have to go and do the soldering yourself ?
+1674.42,1683.83,Bmr012-c4,s,56b.57a,,,becau- - the reason is the only - only thing you can get that will plug into this is this mike or just the connector .
+1680.49,1681.21,Bmr012-c1,s^bk,57b,,,no i understand .
+1682.84,1688.68,Bmr012-c1,s,,,,the reason i ask is these sort of handmade uh - wiring jobs fall apart in use .
+1689.36,1695.94,Bmr012-c1,s^cs,58a,,,so the other thing is to see if we can uh - get them to do a custom job and put it together for this .
+1695.34,1697.05,Bmr012-c4,s^na,58b.59a,,,oh i'm sure they would they would just charge us .
+1697.08,1698.64,Bmr012-c3,s,59b.60a,,,well and they'd probably want quantity too .
+1697.32,1697.54,Bmr012-c4,fh,,,,so ==
+1698.64,1698.8,Bmr012-c3,%,,,,they'd ==
+1699.09,1699.46,Bmr012-c1,fg,,,,well .
+1700.06,1700.98,Bmr012-c1,s^ar|s^ng,60b,,,no | they'll just charge us more .
+1701.15,1702.48,Bmr012-c1,%-,,,,so it's - this ==
+1701.16,1701.46,Bmr012-c3,b,,,,mmm .
+1702.28,1708.61,Bmr012-c4,qy,61a,,,so - so my question is should we go ahead and get na- - nine identical head-mounted crown mikes ?
+1708.9,1712.9,Bmr012-c1,s^arp^co,61b.62a,,,not before having one come here and have some people try it out .
+1712.7,1712.99,Bmr012-c4,s^bk,62b,,,o_k .
+1714.1,1716.72,Bmr012-c1,s,61b+,,,because there's no point in doing that if it's not gonna be any better .
+1716.86,1720.96,Bmr012-c4,qw^cs,63a,,,so why don't we get one of these with the crown with a different headset ?
+1721.57,1721.91,Bmr012-c1,s^bk,63b,,,yeah .
+1722.41,1723.83,Bmr012-c4,s^cs,63a+.64a,,,and - and see if that works .
+1723.54,1726.21,Bmr012-c1,s^2^cs,64b,,,and see if it's preferable and if it is then we'll get more .
+1725.48,1726.22,Bmr012-c2,s,,,,comfort .
+1726.06,1726.31,Bmr012-c4,b,,,,yeah .
+1727.35,1727.63,Bmr012-c1,b,,,,yeah .
+1728.42,1730.84,Bmr012-c2,s,65a,,,cuz i mean - i think the microphones are o_k .
+1730.84,1731.87,Bmr012-c2,s.%-,66a,,,it's just the - the ==
+1731.01,1731.22,Bmr012-c4,s^bk,65b,,,right .
+1731.22,1732.61,Bmr012-c4,s^2,66b,90=l=as.a,,it's just they're not comfortable to wear .
+1734.24,1734.66,Bmr012-c1,b,,,,right .
+1734.4,1736.24,Bmr012-c2,s^cs^j.%-,,b.c,,could make our own handbands and ==
+1735.98,1739.61,Bmr012-c4,fg|s,,,,um - | and he said they don't have any of these in stock but they have them in l_a .
+1739.66,1741.37,Bmr012-c4,s,,,,and so it will take about a week to get here .
+1741.03,1741.89,Bmr012-c1,s.%--,,,,yeah well it's ==
+1742.04,1743.91,Bmr012-c4,fh|qy^d^rt,67a,,,um - | so o_k to just go order ?
+1742.97,1743.95,Bmr012-c1,s,,,,we're in this for the long term .
+1744.02,1744.28,Bmr012-c1,s^aa,67b,,,yeah .
+1744.44,1744.89,Bmr012-c1,s^co^na,67b+.68a,,,just order it .
+1745.3,1745.56,Bmr012-c4,s^bk,68b,,,o_k .
+1745.3,1746.94,Bmr012-c2,s,69a,100=l=a.n.b,,it's a lot of money for a handband .
+1745.56,1748.75,Bmr012-c4,qw,70a,,,and who is the contact if i wanna do an invoice ?
+1746.84,1747.34,Bmr012-c5,s^aa,69b,c,,yeah .
+1748.75,1750.42,Bmr012-c4,s,,,,cuz i think that's how we did it before .
+1750.24,1752.25,Bmr012-c1,h|s^co,70b.71a,,,uh - | we'll do this off-line yeah .
+1750.62,1751.89,Bmr012-c5,s,,,,it's a long time to get from l_a .
+1751.89,1752.08,Bmr012-c4,s^bk,71b,,,o_k .
+1755.91,1758.16,Bmr012-c4,s,72a,,,and then nine channels is the maximum we can do .
+1758.34,1758.58,Bmr012-c4,fh,,,,so ==
+1759.51,1760.05,Bmr012-c1,fg|s^aa,72b,,,uh | y- - right .
+1759.85,1760.71,Bmr012-c4,s,72a+,,,without getting more stuff .
+1760.05,1760.22,Bmr012-c1,%--,,,,cuz ==
+1760.22,1763.08,Bmr012-c1,s,,,,so one is for the daisy chain so that's fifteen instead of sixteen .
+1763.08,1764.22,Bmr012-c1,s,73a,,,and there's six on the table .
+1764.22,1764.43,Bmr012-c4,s^bk,73b,,,right .
+1764.29,1765.13,Bmr012-c1,s,,,,so that's nine .
+1765.51,1766.74,Bmr012-c2,qy^rt,74a,110=l=as.a.b,,can i ask a really dumb question ?
+1767.07,1767.38,Bmr012-c1,%,,,,yeah .
+1767.12,1767.47,Bmr012-c4,s^aa^j,74b,,,probably .
+1767.17,1778.71,Bmr012-c2,qy^cs.%-,75a,b,,is - is there any way we can have you know - like a - a wireless microphone that you pass around to the people who you know - the extra people for the times they wanna talk that ?==
+1779.03,1779.37,Bmr012-c2,fh,,,,i mean ==
+1779.1,1780.31,Bmr012-c1,s^ba^rt,75b-1,b,,that's a good idea .
+1781.63,1782.46,Bmr012-c1,s,75b-1+,,,that's not a dumb question .
+1782.46,1783.73,Bmr012-c1,s^ba^r,75b-1++,c,,it's a good idea .
+1782.93,1783.85,Bmr012-c2,s.%-,,r,,well i mean ==
+1783.44,1786.8,Bmr012-c0,s^j,,120=w+=a.a,,like uh - like - you know - jerry springer thing .
+1783.54,1785.72,Bmr012-c4,s^no.%-,75b-2.75a,,,i'm just not sure how we would handle that in the ==
+1783.73,1783.79,Bmr012-c1,b,,,,yeah .
+1783.91,1784.71,Bmr012-c5,s^t3,,,,that's like the conch .
+1785.1,1785.77,Bmr012-c2,fg,,r,,well but ==
+1785.46,1786.23,Bmr012-c3,qy^d^rt,,,,like at conferences ?
+1786.48,1790.08,Bmr012-c2,s^df,75b,,,well but there might be a way to say that there are gonna be these different people .
+1786.8,1787.26,Bmr012-c0,qy^d^g.%-,,,,you know r- ?==
+1787.46,1787.86,Bmr012-c5,%,,,,see look .
+1790.41,1791.52,Bmr012-c3,s^co^j,,,,so nail the chairs down .
+1790.81,1793.71,Bmr012-c2,fh|qy^d^rt,76a,,,um - | and i don't know identifying somehow ?
+1791.88,1791.96,Bmr012-c0,b,,,,yeah .
+1793.14,1794,Bmr012-c4,s^nd,76b,,,yeah somehow .
+1793.79,1795.95,Bmr012-c2,s,,b.e,,you know - i was just thinking of jerry springer .
+1794.29,1795.04,Bmr012-c4,s^aap,76b+,,,it's not a bad idea .
+1795.31,1796.45,Bmr012-c1,fg,,r,,no that - no - no .
+1796.24,1796.52,Bmr012-c0,%,,,,{@reject@} ==
+1796.45,1796.93,Bmr012-c1,s.%--,,,,that's a very ==
+1797.1,1800.34,Bmr012-c1,s,,,,if we can't get another board and even if we can i have a feeling they'll be some work .
+1798.94,1799.67,Bmr012-c3,s^j,,,,the springer mike .
+1798.94,1802.4,Bmr012-c2,fg|s,,,,i mean - | for the few times that you might wanna have that .

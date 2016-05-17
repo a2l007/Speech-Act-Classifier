@@ -1,0 +1,682 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2970_1260_1015
+TOPIC#:		312
+DATE:		910527
+TRANSCRIBER:	JKP
+UTT_CODER:		AEE
+DIFFICULTY:	5
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	3
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Distortion of sound on Speaker B side of recording. 
+Sometimes Speaker B comments were inaudible or it was very difficult to 
+understand what she said.  In some places the echo made it difficult to
+tell whether a response was being repeated or whether
+it was an echo. 
+
+==========================================================================
+  
+
+o          B.1 utt1:  Okay. /  
+
+h          A.2 utt1:  {D Well, } I do not know.  /
+qw          A.2 utt2:  How big a city is Rome?  /
+qy^d          A.2 utt3:  {E I mean, } you have heard about Dallas,  /
+sd          A.2 utt4: {C and } [ th-, + the ] crime here is pretty bad <laughter>. /  
+
+nd          B.3 utt1:  {D Well, } Rome is pretty small <laughter>.  /
+%          B.3 utt2: {C But, }  {F uh, } -/  
+
+b          A.4 utt1:  Yeah.  /
+sd          A.4 utt2: I was going to say. /  
+
+sd          B.5 utt1:  we hear a lot about, {F uh, } New York City. /  
+
+b          A.6 utt1:  Uh-huh. /  
+
+sd          B.7 utt1:  There is a lot of crime <laughter> down there.  /
+sd          B.7 utt2:  {C And } [ I am, + I am ] afraid to go down there because, {D you know, } {E I mean, } you hear about people getting mugged.  /
+sv          B.7 utt3: You leave your car for ten minutes  /
+sv          B.7 utt4: {C and } it is stripped when you come back. /  
+
+b          A.8 utt1:  Yeah.  /
+qy          A.8 utt2:  Have you ever been there? /  
+
+nn          B.9 utt1:  No,  /
+sd^e          B.9 utt2:  I have not.  /
+sd          B.9 utt3: Only to the airport. /  
+
+sv          A.10 utt1:  That is, {F uh, } probably enough to see <laughter>. /  
+
+x          B.11 utt1:  <Laughter>.   
+
+qy          A.12 utt1:  {F Um, } are you in college right now? /  
+
+nn          B.13 utt1:  No.  /
+sd^e          B.13 utt2: [  I am, + I work ] [ at, + for ] the Air Force. /  
+
+bk          A.14 utt1:  {F Oh, } okay. /  
+
+sd          B.15 utt1:  {C So, } there is a base up here.  /
+%          B.15 utt2: {C And, } -/  
+
+%          A.16 utt1:  Are base, - /
+sv          A.16 utt2:  that's [ inter-, + interesting ] concept.  /
+qy          A.16 utt3:  Are bases safe, you know? /  
+
+sd          B.17 utt1:  Bases are pretty safe because they check your I D on your way in.  /
+%          B.17 utt2:   {C And, } -/  
+
+b          A.18 utt1:  Yeah.  /
+bf          A.18 utt2: [  The, + they, ] {F uh, } minimize the access. /  
+
+aa          B.19 utt1:  Right.  /
+%          B.19 utt2: {C But } even so we had a, {F uh, } {F uh, } - /
+sd          B.19 utt3: at New Years,    
+
+b          A.20 utt1:  Uh-huh. /  
+
++          B.21 utt1:  we had some people come in and, {F uh, } {D like } attack one of the planes.  Because they were protesting, {F uh, }   
+
+ba          A.22 utt1:  {F Oh, } no. /  
+
++          B.23 utt1:  the presence over in the Persian Gulf. /  
+
+b          A.24 utt1:  Sure.  /
+ba          A.24 utt2:  {F Oh, } great.  /
+ba          A.24 utt3: That --   
+
+%         B.25 utt1:  {D So, } -/  
+
++          A.26 utt1:  -- is wonderful.  /
+%          A.26 utt2: Yeah.  /
+%          A.26 utt3: {D Well, } Dallas, {F uh, } - /
+sd          A.26 utt4:  we lived in Minneapolis.  {F Uh, }  /
+sd          A.26 utt5: we moved here about ten months ago.  /
+sd          A.26 utt6: {C And } Dallas is pretty, {F uh, }  /
+sd          A.26 utt7:  {D well, } we live in [ north Tex-, + north Dallas ] which is [ like a suburb, + near a suburb ]  called Plano.  /
+sd          A.26 utt8: {C So } we are out of the city,  /
+sd          A.26 utt9: {C but } [ it is, + {F uh, } it is ]  bad everywhere in terms of, {F uh, } {D you know, } the handgun situation, {F um, } the number of rapes, the number of muggings.   /
+%          A.26 utt10: Just, [ it is, + it is, ] - /
+sd          A.26 utt11: I would not say it is not as bad as New York,  /
+sd          A.26 utt12: {C but } it is pretty scary. /  
+
+b          B.27 utt1:  Yeah. /  
+
+sd          A.28 utt1:  {D You know, } people put bars on their windows in certain  neighborhoods  /
+%          A.28 utt2: {C and, } -/  
+
+b          B.29 utt1:  Yeah. /  
+
+sv          A.30 utt1:  {D you know. }  They call them ornamental grates.  /
+sv          A.30 utt2: {C But } they are still bars <laughter>. /  
+
+sv          B.31 utt1:  <Laughter> That makes it bad for getting out during a fire. /  
+
+aa          A.32 utt1:  Yeah.  /
+aa          A.32 utt2:  It really does.  /
+sv          A.32 utt3: And if you are a little bit claustrophobic  /
+h          A.32 utt4: {C but, }  {F uh. } I do not know,  /
+sv          A.32 utt5: {E I mean } the jails are crowded.  /
+sd          A.32 utt6: [ [  I, + I, ] + I ]  am not a criminal justice specialist,  /
+sd          A.32 utt7: {C so } I do not know [ what, + {D you know, } what ]  can be done.  /
+%          A.32 utt8: I am,     
+
+h          B.33 utt1: [ I do    not, +    
+
++          A.34 utt1:  {D  you know, } -/  
+
++          B.35 utt1:  I  do not ] know,  /
+%          B.35 utt2: it seems to, - /
+sv          B.35 utt3: I think it is getting worse.   Because I keep hearing things - /
+%          B.35 utt4: like [ I, + ] when [ I  was h-, + I went home, ] - /
+sd          B.35 utt5:   my parents live in Boston. /  
+
+b          A.36 utt1:  Uh-huh. /  
+
+sd          B.37 utt1:  {C But } I went home,  /
+sd          B.37 utt2: {C and } --   
+
+b          A.38 utt1:  Yeah. /  
+
++          B.39 utt1:  -- we were watching T V,  /
+sd          B.39 utt2: {C and } this thing came on where [ these, + a group ] of {D like } five or six guys went and filmed themselves beating up people in the street [ and, + and ] robbing --   
+
+b          A.40 utt1:  Oh. /  
+
++          B.41 utt1:  -- them.  /
+sd          B.41 utt2:  {C And } it was really disgusting.  /
+sd(^q)          B.41 utt3: {C And } my mom was like, "They should  just be all shot right now."  /
+%          B.41 utt4:  {C And } {E I mean, } you he-, -/  
+
+qy          A.42 utt1:  Were they teenagers  /
+%          A.42 utt2: or? -/  
+
+^h          B.43 utt1:  {F Uh, } /  
+
+sd          A.44 utt1:  Like that girl in New York that got beat up by, {D you know, } - /
+sd          A.44 utt2: when she was jogging --    
+
+b          B.45 utt1:  Yeah. /  
+
++          A.46 utt1:  -- in Central Park,   
+
+b          B.47 utt1:  Yeah.  {F Um, } /  
+
++          A.48 utt1:  a couple of years ago? /  
+
+ng          B.49 utt1: [ They were not, + I think they were ] early twenties. /  
+
+b          A.50 utt1:  Yeah. /  
+
+sd          B.51 utt1:  They were young men. /  
+
+b          A.52 utt1:  Yeah.  /
+sd          A.52 utt2:  {C But } [ they, + so   they ] weren't, {D you know. }  /
+qy          A.52 utt3:  {C And } [ [ were they, + {F uh, } were they, ] + were they ] obviously poor or depri-, {D you know? }  /
+sv          A.52 utt4: That is really stra-.  /
+%          A.52 utt5: {D Like } I say, s-, -/  
+
+aa          B.53 utt1:  I know it.  /
+qh          B.53 utt2: How [ s-, + deprived ] could they be if they had a camcorder?   /
+sv          B.53 utt3: Those are a thousand bucks. /  
+
+aa          A.54 utt1:  Yeah.  /
+sv          A.54 utt2:  Unless they stole it.  /
+sd          A.54 utt3: {C And } {E I mean, }  that is one big thing down here.  /
+%          A.54 utt4: {E I mean, } they have {D like, }  {F uh, } - /
+sd          A.54 utt5: {C and } they are not all  young.  /
+sd          A.54 utt6: {E I mean, } they are eighteen to twenty-four, some of the young men and women.  /
+sd          A.54 utt7:  {C But, }  {E I mean, } [ you can, + you can ] see the Crime Stoppers ads on television.  /
+%          A.54 utt8:  {C And } they are, - /
+sd          A.54 utt9:  sometimes it is the same people [ that have been, + that have been ]  observed  /
+sd          A.54 utt10: {C and } they still can't catch them <laughter>. /  
+
+b          B.55 utt1:  Yeah. /  
+
+sv          A.56 utt1:  {C And } you are wondering how, {D you know. }  {F Um, }  we lived in Minneapolis and  Wisconsin.  /
+%          A.56 utt2:  {E I mean, } there was all kind of, - /
+sv          A.56 utt3:  [ [ [ [ I, + I, know, ] + I, ] + I, ] + I know ] it is getting worse.  /
+sd          A.56 utt4:  I do not know what the world is or is not.   {F Uh, }  /
+%          A.56 utt5: the dimi-, - /
+sd          A.56 utt6: in a small town in Wisconsin, near Madison, {F um, } a young boy somehow got a hold of a shotgun.    
+
+b          B.57 utt1: Uh-huh. /  
+
++          A.58 utt1:  And killed his parents  and his three brothers and sisters. /  
+
+x          B.59 utt1:  <Gasp>.   
+
+%          A.60 utt1:  {C And } the child had, - /
+sd          A.60 utt2: {C and } [ he, + they ]  said that he was twelve years old,  /
+sd          A.60 utt3: {C and } [ he had, + {F uh, } he had ] not, {F uh, } displayed any tendencies deviant or disturbed or  whatever, {D you <laughter> know. } /  
+
+b          B.61 utt1:  Yeah. /  
+
+sv          A.62 utt1:  {C And } you are thinking to yourself, {F um. } /  
+
+qh          B.63 utt1:  I wonder where, -/  
+
+aa          A.64 utt1:  I know. /  
+
+h          B.65 utt1:  I do not know.  /
+qh          B.65 utt2: I wonder where he gets it?  /
+%          B.65 utt3:   {D You know, } you must, - /
+sv          B.65 utt4: I think T V is bad.  Because they, {F uh, } show all sorts of violence on, -/  
+
+%          A.66 utt1:  That  /
+sv          A.66 utt2: {C and } I do not think a lot of parents, - /
+qw^d          A.66 utt3: {E I mean, } [ I do not, + I do not ] know how it is in the Air Force base.  /
+sv          A.66 utt4: {C But, }  {F uh, } I just do not think a lot of people, because of the economy, both need to work, {D you know. }  /
+sv          A.66 utt5: I just do not think a lot of parents are that involved any more. /  
+
+aa          B.67 utt1:  Yeah.  /
+sv          B.67 utt2: [  They do not, + they do not ]  talk to their kids and take them out.  /
+sv          B.67 utt3: [ And, + and ] --   
+
+b          A.68 utt1:  {F Uh, } /  
+
++          B.69 utt1:  -- are not there all the time  /
+sv          B.69 utt2: {C so } the kids are off to their own devices a lot. /  
+
+aa          A.70 utt1:  Right.   /
+sv          A.70 utt2: And discipline.  /
+qw^d          A.70 utt3: I do not know how your folks were,  /
+sd          A.70 utt4: {C but } {E I mean } I sure knew as heck when I was growing up that, {F uh, } my parents were <laughter> the superior  /
+sd         A.70 utt5: {C and } I was the subordinate.  /
+sd          A.70 utt6: {C And, } {D you know. }   
+
+aa          B.71 utt1:  {F Oh, } definitely. /  
+
++          A.72 utt1:  It was sort of like there were boundaries.  /
+sv          A.72 utt2: {C And }  [ I do not think, + I do not know, ] I think today a lot of parents, {F um, } are ruled by their kids.  /
+%          A.72 utt3:  [ I, + I, ] -/  
+
+aa          B.73 utt1:  I think so definitely.  /
+sv          B.73 utt2:  When you go to a restaurant, and {D like } kids are running all over the place.  They, -/  
+
+aa          A.74 utt1:  Yeah.  /
+aa          A.74 utt2:  Right.  /
+sv          A.74 utt3: {E I mean, } they are not learning how to,  {F uh, } {D well, } {D like } boundaries. - /
+sd          A.74 utt4: {E I mean, } [ I do not, + I see it ] in work place too, sometimes.  /
+qw^d          A.74 utt5:  I do not know how old you are,  /
+sv          A.74 utt6: {C but } you sound a little bit <laughter> younger than me.  /
+sd          A.74 utt7: {C But, }  I am in my thirties,  /
+sd          A.74 utt8: {C and } [ I, + {F uh, } I ]  see, {F uh, } even people that work with me that are ten years younger.  /
+sd          A.74 utt9: That, {D you know, } they kind of have an attitude that <laughter>, [ I ha-, + I hate ] [ to  + to ] say it,  /
+sd          A.74 utt10: {C but } [ it's, + that's ] just what it is.  /
+sd          A.74 utt11: It is an attitude --   
+
+aa          B.75 utt1:  Yep.  /
+%          B.75 utt2: {C But, }   
+
++          A.76 utt1:  -- like --   
+
++          B.77 utt1:  they, -/  
+
++          A.78 utt1:  -- the world owes them something. /  
+
+aa          B.79 utt1:  Right,  /
+sd          B.79 utt2: [ I, + I ] see that too in the Air Force.  /
+%          B.79 utt3: Espec-, -/  
+
+bh          A.80 utt1:  Do you? /  
+
+ny          B.81 utt1:  {F Oh, } yeah.  /
+%          B.81 utt2: A lot of, {F uh, } - /
+sd^e          B.81 utt3: especially since a lot of us are engineers where I work. /  
+
+qy          A.82 utt1:  Are you in the Air Force? /  
+
+na          B.83 utt1:  I am in the Air Force.  /
+ny          B.83 utt2: Yes. /  
+
+bk          A.84 utt1:  Okay. /  
+
+sd          B.85 utt1:  {C And so, } {F uh, } people outside the Air Force doing engineering get paid a lot more than we do. /  
+
+b          A.86 utt1:  Sure. /  
+
+sd(^q)          B.87 utt1:  {C And so } all the young engineers are {D like, }  {D well, } I am just, going, {D you know, } /  
+
+b          A.88 utt1:  Huh. /  
+
+^q          B.89 utt1:  get it for all it is worth.  /
+%          B.89 utt2:  {C And } that,   
+
+b          A.90 utt1:  Right. /  
+
++          B.91 utt1:  {D you know, } - /
+sd(^q)          B.91 utt2: {C and } I am like, you are the one who signed up.  /
+^q          B.91 utt3:  If you did not want to do it. - /
+%          B.91 utt4: {C And, } -/  
+
+aa          A.92 utt1:   Right,  /
+aa^r          A.92 utt2: right.  /
+sv          A.92 utt3:  {C And } the Air Force is one of the [ bitter, + better ] [ [ [ military, + supposedly m-, ] + m-, ] + military ] experiences. /  
+
+aa          B.93 utt1:  Yep,  /
+aa          B.93 utt2: it is. /  
+
+%          A.94 utt1:  {E I mean, } /  
+
+sd          B.95 utt1:  I like it a lot <laughter>. /  
+
+br          A.96 utt1:  Pardon me? /  
+
+sd          B.97 utt1:  I like it so far. /  
+
+%          A.98 utt1:  {E I mean, } that is, - /
+qy          A.98 utt2: are you going to be a career person?  /
+sd          A.98 utt3:  I'm digressing,  /
+sd          A.98 utt4: {C but, }   
+
+x          B.99 utt1:  <Laughter>.   
+
++          A.100 utt1:  <Laughter> I do not talk to many people in the --   
+
+^h          B.101 utt1:  Oh. /  
+
++          A.102 utt1:  -- military.  /
+%          A.102 utt2: {C So } I am, -/  
+
+ng          B.103 utt1:  Probably not.  /
+sd          B.103 utt2:  {C But, }  {F uh, } they pay for my college.  /
+%          B.103 utt3:   {C So, } -/  
+
+sv          A.104 utt1:  That is the way to do it.  /
+%          A.104 utt2:  {E I mean, } {C and } that's, - /
+%          A.104 utt3: {D you know, } at least the Air Force is, - /
+sd          A.104 utt4: I do not know, [ I just, + {F uh, } I am ] nervous in Dallas.  /
+sd          A.104 utt5:  {E I mean, } [ I, + {D you know, } {E I mean, } I ] go to {D like } an aerobics class or something.  /
+sd          A.104 utt6:  {C And, }  [ I, +  {D you know, } {F uh, } seventy women ] in a Jazzercise class in a public, {F uh, } parks and rec building.  /
+sd          A.104 utt7: {C And } you are supposed to feel safe,  /
+%          A.104 utt8: {C but } then there are all these, - /
+sd          A.104 utt9: [ it + ] does not matter race,  /
+sd          A.104 utt10: {C but, } {D you know, } it is an inter racial mix.  /
+sd          A.104 utt11:  {C And } you see these guys standing there watching you jump around in your <laughter> leotards. /  
+
+b          B.105 utt1:  Yeah. /  
+
+sd          A.106 utt1:  {C And } I do not even think that way,  /
+sv          A.106 utt2: {C but }  {E I mean, } you just think to yourself, <sigh> [ you, + you ] just,  {E I mean, } - /
+sv          A.106 utt3: nobody can think [ that, + that ]  it can't happen to them. /  
+
+%          B.107 utt1:  It, -/  
+
+sv          A.108 utt1:  No matter who they are  /
+sv          A.108 utt2: {C or } where they are at, {D you know. } -/  
+
+aa          B.109 utt1:  Yeah.  /
+sv          B.109 utt2:  {C And } you never know who is watching,  either. /  
+
+%          A.110 utt1:  {E I mean, } did you, - /
+sd          A.110 utt2: I do not know, I was in the grocery store this morning.  /
+sd          A.110 utt3: We, {F uh, } went to New Orleans for four days and came back late last night, driving.  /
+sd         A.110 utt4: {C And } it is about seven hours. /  
+
+b          B.111 utt1:  Huh-uh. /  
+
+%          A.112 utt1:  {F Um, } {C and } that is a very, - /
+sd          A.112 utt2: we had never been there.  /
+sv          A.112 utt3:  That is a very, very neat town to visit.    
+
+b          B.113 utt1:  Uh-huh. /  
+
++          A.114 utt1:  {F Uh, } in terms of the French Quarter {C and } all of the things --    
+
+b          B.115 utt1:  Right. /  
+
++          A.116 utt1:  -- you hear about.  /
+sd          A.116 utt2: {C But } the crime is so bad there.  /
+sd          A.116 utt3:  <laughter> {E I mean, } in all the tourist brochures you read about what you should or should not do.  /
+sd          A.116 utt4: How to carry --   
+
+b          B.117 utt1:  Uh-huh. /  
+
++          A.118 utt1:  -- your wallet, {F uh. } /  
+
+qy          B.119 utt1:  This is New Orleans? /  
+
+na^m          A.120 utt1:  New Orleans,  /
+ny          A.120 utt2: yeah. /  
+
+sd          B.121 utt1:  {F Oh, } I would hate to be there during Mardi Gras.  /
+%          B.121 utt2: Let me tell, -/  
+
+sd          A.122 utt1:  I would never,  /
+%          A.122 utt2: yeah.  /
+sv          A.122 utt3:  You just do not.  /
+sv          A.122 utt4:  Do not even bother.  /
+sv          A.122 utt5:  It is not worth it.   /
+qy^d          A.122 utt6: {F Uh, } [ the, + ] when we came back, I do not know if you have seen.  /
+sd          A.122 utt7:  I was in the super market this morning  /
+sd          A.122 utt8: {C and } on the cover of TIME magazine, there is a girl, she is in Boston?  /
+sd          A.122 utt9: She is on the east coast somewhere.  /
+sd          A.122 utt10:  Real attractive young girl.  /
+sd          A.122 utt11:  College freshman, [ I, + ] college coed.  /
+sd          A.122 utt12:  I think she is a freshman.  /
+sd          A.122 utt13: She had been dating a fellow for several --   
+
+b          B.123 utt1:  Uh-huh. /  
+
++          A.124 utt1:  -- weeks.  /
+sd          A.124 utt2: They went back to her dorm room -- /  
+
+b          B.125 utt1:  Uh-huh. /  
+
+sd          A.126 utt1:  -- and date rape.  /
+%          A.126 utt2: {E I mean, } {C and } it just, - /
+sd          A.126 utt3: [ sh-, + she ]  looked anguished.  /
+sd          A.126 utt4: {E I mean, } it was really just sad.  /
+sd          A.126 utt5:  {E I mean, } did not pick it up and read it,  /
+sd          A.126 utt6: {C but } I should have.  /
+sd(^q)          A.126 utt7: {C But } I just looked at the picture and thought, what a world. /  
+
+aa          B.127 utt1:  I know <laughter>. /  
+
+sd          A.128 utt1:  {E I mean, } I do not,  /
+%          A.128 utt2: yeah, /  
+
+sv          B.129 utt1:  You can't trust anybody. /  
+
+sd          A.130 utt1:  I do not have any, {F uh, } cure, /  
+
+sv          B.131 utt1: [ It is, + it is ] really scary. /  
+
+aa          A.132 utt1:  No,  /
+aa          A.132 utt2:  you really can't.  /
+sd          A.132 utt3:  {E I mean, } [ [ I, +  they, ] + we ]  lease out a really nice two story town home in north Dallas.  /
+sd          A.132 utt4:  {C And } they have a real big thing here.  /
+sd          A.132 utt5: People, {E I mean, } even dry cleaners knock on the door and are soliciting,   [ you know. + ]  /
+sd          A.132 utt6:  [ [ They, +  everybody ] wants your business kind of thing. /  
+
+b          B.133 utt1:  Right. /  
+
+sd          A.134 utt1:  {C And } my husband is the kind of guy, [ he's, + he's ]  sometime, - /
+sd          A.134 utt2: he was raised on a farm in southern Ohio, near Dayton.   /
+sd          A.134 utt3: {C And } I think sometimes  it is just, he and  I are very different in terms of that.  /
+sd          A.134 utt4: [ I, + {E I mean, } I ] basically have started not to trust --   
+
+b          B.135 utt1:  Right. /  
+
++          A.136 utt1:  -- anybody in general street smarts. /  
+
+%          B.137 utt1:  We, -/  
+
+sd          A.138 utt1:  {C And, }  {F uh, } he opened the door.  /
+sd          A.138 utt2:  I came downstairs  /
+sd          A.138 utt3: {C and } I was real upset  /
+sd          A.138 utt4: {C and } I probably got more nasty <laughter> than I should have.  /
+sd(^q)          A.138 utt5: {C But } I just said, Howard, -/  
+
+b          B.139 utt1:  Uh-huh. /  
+
+%          A.140 utt1:  {D you know, } /  
+
+x          B.141 utt1:  <Laughter>.   
+
+fe          A.142 utt1:  {F oh, } my God.  /
+%          A.142 utt2: I would not, {E I mean, } -/  
+
+sv          B.143 utt1:  {D Well, } [ you, + you, ]   
+
+x          A.144 utt1:  <Sigh>.   
+
++          B.145 utt1:  hear about people opening the door  and getting blown  away.  /
+%@          B.145 utt2:  {C Or } people, {D you know, }   
+
+aa          A.146 utt1:  {F Oh, } yeah.  /
+sv          A.146 utt2: {C And } [ [ it does, + {E I mean, } it is, ] + it is ] not a reason.  /
+sd          A.146 utt3: {E I mean, } I have been to New York.  /
+sv          A.146 utt4:  You should not deny yourself going to visit --   
+
++@          B.147 utt1:  Uh-huh. /  
+
++          A.148 utt1:  -- and all that. /  
+
+b          B.149 utt1:  Uh-huh. /  
+
+sd          A.150 utt1:  {F Uh, } {C but } it is not any worse.  /
+sd          A.150 utt2: I used to work for a mortgage company that was owned by, {F uh, } - /
+qy          A.150 utt3: are you from Boston? /  
+
+ny          B.151 utt1:  Yeah. /  
+
+sd          A.152 utt1:  Home Owners Savings and Loan in Boston. /  
+
+b          B.153 utt1:  Uh-huh. /  
+
+sd          A.154 utt1:  {C And } I know I never felt, - /
+sd          A.154 utt2: {E I mean, } I have been to downtown New York City  /
+sd          A.154 utt3: {C and } I have been to downtown Boston.  /
+sd          A.154 utt4: {C And } I never felt any safer on Milk Street in Boston, staying at the Meridian, /  
+
+x          B.155 utt1:  <Laughter>.   
+
+sd          A.156 utt1:  I did not <laughter> pay for. - /
+sd          A.156 utt2: {C But, }   {E I mean, } I never felt any safer there than I did in any other city --    
+
+b          B.157 utt1:  Right. /  
+
++          A.158 utt1:  -- I have been in, {D you know. } /  
+
+b          B.159 utt1:  Right. /  
+
+sd          A.160 utt1:  {C So } I would say one thing.  /
+sv          A.160 utt2:  Do not deny yourself the New York [ [ exper-, + bu-, ] + experience, ] but go with people that you know. /  
+
+aa          B.161 utt1:  Yeah.  /
+sd          B.161 utt2:  I would not want to go by myself. /  
+
+aa          A.162 utt1:  No, {F uh. }  /
+h          A.162 utt2: {C But } {E I mean, } [  it, +  {D yeah, } I ]  do not know.  /
+sd          A.162 utt3: {E I mean, } [ I, + I ] guess I could go on and on about what to do about criminals.  {F Uh,  /
+sv          A.162 utt4:  } I think the handgun, - /
+sd          A.162 utt5: I am not real big on guns --   
+
+b          B.163 utt1:  Uh-huh. /  
+
++          A.164 utt1:  -- myself.  /
+%          A.164 utt2:  {C So, } -/  
+
+sv          B.165 utt1:  I think our --   
+
+%          A.166 utt1:  {E I mean, } /  
+
++          B.167 utt1:  -- justice system needs to be stricter.    {E I mean, } because [ everyone, + they ] do it  /
+sv@          B.167 utt2: {C and then } they get out in a couple of years it seems like.    
+
+%          A.168 utt1: [ Are the New York, + {F uh, } are the New York, ] - /
+qw^d          A.168 utt2:   I do not know how the New York state prison system --   
+
++@          B.169 utt1:  They are --   
+
++          A.170 utt1:  -- is  /
+qy          A.170 utt2: {C but, }   
+
++@          B.171 utt1:  -- booked up <laughter>.  /
+%          B.171 utt2: Yeah. /  
+
++          A.172 utt1:  Are they booked up?  <laughter>  /
+sv          A.172 utt2: That is a way to put it,  /
+sd          A.172 utt3: they are booked up.  /
+qy          A.172 utt4: Are they paroling,  {F uh, } like murderers  /
+sd          A.172 utt5: {C and, }  {E I mean, } here it is just a real big deal.  /
+sd          A.172 utt6: They parole people that have killed police officers  /
+sd          A.172 utt7: {C and then } they are out doing it again. /  
+
+b          B.173 utt1:  Right, {F um, }  /
+no          B.173 utt2: [ I do not, + I do not ] know.   Because I am not real up on --   
+
+b          A.174 utt1:  Uh-huh. /  
+
++          B.175 utt1:  -- a lot of news things.  /
+sv          B.175 utt2: {C But, } {D you know, } you just --   
+
+b          A.176 utt1:  Uh-huh. /  
+
++          B.177 utt1:  -- hear about [ that, + that, ] {D you know, }  /
+sv          B.177 utt2:  it is a lot of repeat crime.  /
+sv(^q)          B.177 utt3:  {C And } you are like, why are they repeating?  /
+sv          B.177 utt4: They should have been in there longer.  /
+%          B.177 utt5: {C Or, } -/  
+
+aa          A.178 utt1:  I know.  /
+sd          A.178 utt2: {C And then } you think, {E I mean, } [ I ha-, +  {E I mean, } I can remember, I have ] not been out of school that long,  /
+sd          A.178 utt3: {C but } it has been at least ten years.  /
+sd(^q)          A.178 utt4: {C And } you think to yourself, was it that bad back then?  /
+%          A.178 utt5: {C Or } is it just, - /
+sv          A.178 utt6: I think that, like you said, television?  /
+qh          A.178 utt7: Is it just that more people think there is {D like }  excitement in it, you know?  /
+sv          A.178 utt8:  {E I mean, } people that may have been close to the edge just go over because they see something or read something. /  
+
+%          B.179 utt1:  It seems like a lot of, i-, - /
+sd          B.179 utt2: that it is more, like in Boston,  /
+sd          B.179 utt3: there was a case of, {F uh, } a couple of kids, fifteen year olds.  /
+sd          B.179 utt4: They wanted to see what it was like to kill someone. /  
+
+b          A.180 utt1:  Uh-huh. /  
+
+sd          B.181 utt1:  {C So } [ they, + they ] picked on this --   
+
+b          A.182 utt1:  Uh-huh. /  
+
++          B.183 utt1:  -- kid who was {D like } new in town.  /
+sd(^q)          B.183 utt2: {C And } they were like, {D well, } no one was going to miss him anyway,  {D you know, }  /
+%          B.183 utt3: {C and } it like, -/  
+
+ba          A.184 utt1:  {F Oh, } god. /  
+
+ba          B.185 utt1:  {F ugh, } that is horrible.  /
+qo          B.185 utt2:  How can you even think like that? /  
+
+qh          A.186 utt1: [ [ [ I-, + i-, ] + it is, ] + {D yeah, } isn't it ] something?  /
+sd          A.186 utt2:   [ I mean, + ] [ [ I, + I have a, ] + I am ] originally from Pittsburgh, Pennsylvania,  /
+sd          A.186 utt3: {C and } I have a niece and nephew.  /
+%          A.186 utt4:  {C And } I just, {F uh, } {E I mean } - /
+sd(^q)          A.186 utt5: my ten year old nephew says things that he is aware of that I am just going, Michael,   
+
+x          B.187 utt1:  <Laughter>.   
+
++          A.188 utt1:  how did you hear about <laughter> that?  /
+sv          A.188 utt2:  {D You know, } it is just, I think kids get too --   
+
+b          B.189 utt1:  Yeah. /  
+
++          A.190 utt1:  -- much too fast.    
+
+b          B.191 utt1:  Yeah. /  
+
++          A.192 utt1:  And all those sort of things.  /
+sd          A.192 utt2: In Atlanta, where my inlaws live, {F uh, } they had that thing, {D you know, } the high top sneakers,   
+
+b          B.193 utt1:  Right. /  
+
++          A.194 utt1:  the Air Jordans, et cetera. /  
+
+b          B.195 utt1:  Right. /  
+
+sd          A.196 utt1:  Kids killing each other and beating their brains out. /  
+
+qy^d          B.197 utt1:  {F Oh, } for the sneakers. /  
+
+na          A.198 utt1:  Right.  /
+sd          A.198 utt2:  [ {C Or } the, + {C or } the ]  jackets, the team like the Raiders --   
+
+b          B.199 utt1:  Yeah. /  
+
++          A.200 utt1:  -- and the caps. /  
+
+b          B.201 utt1:  Yeah. /  
+
+sd          A.202 utt1:  {D You know, } stealing the hundred dollar jackets.  /
+sv          A.202 utt2:  {F Uh, } {E I mean, } it is I guess, it goes from the most petty like that to like what you were saying that [ they, + in Boston. ]  /
+sd          A.202 utt3:  That is crime where they videoed.  /
+sd          A.202 utt4:  That is probably one of the most --   
+
+b          B.203 utt1:  Yeah. /  
+
++          A.204 utt1:  -- bizarre I have heard of.  /
+sd          A.204 utt2:  Where they videotape themselves. /  
+
+aa          B.205 utt1: Yeah.  /
+sv          B.205 utt2: It seems {D like } crime is turning into a pastime instead of {D like, }  {D you know, } be ... -/ 

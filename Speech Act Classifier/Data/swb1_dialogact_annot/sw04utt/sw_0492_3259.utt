@@ -1,0 +1,415 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3259_1399_1351
+TOPIC#:		316
+DATE:		911016
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+o          A.1 utt1:   Okay,  /
+sd          A.1 utt2: I'll just go with you first.  /
+qo          A.1 utt3: What kind of --   
+
+b          B.2 utt1:   Okay. /  
+
++          A.3 utt1:   -- eating out do you enjoy? /  
+
+sd          @B.4 utt1:  {D Well, } I like dining out.  /
+sd          @B.4 utt2:  Of course, it means that I don't have to cook. /  
+
+b          A.5 utt1:   Right <laughter>. /  
+
+sd          B.6 utt1:   {C But, }  {F um, } I'm a divorced woman.  /
+sd          B.6 utt2: I have one child -- /  
+
+b          A.7 utt1:   Uh-huh. /  
+
+sd          B.8 utt1:   --  {C and, } {D you know, } [ when, + when ] we dine out we go to {D like } medium priced restaurants. /  
+
+b          A.9 utt1:   Uh-huh. /  
+
+%          B.10 utt1:    [ I don't, + I don't particularly, ] - /
+sv          B.10 utt2: I think it's sort of a waste of money to go [ real, + to a real ] high priced restaurant. /  
+
+qr          A.11 utt1:   Do you go {D like } home cooking, like Black-Eyed Pea and that kind of thing or --   
+
+ng          B.12 utt1:   <Lipsmack> {F Um, } [ [ e-, + n-, ] +   
+
++          A.13 utt1:   -- cafeteria? /  
+
++          B.14 utt1:   Not ] really.  /
+sd          B.14 utt2:  We go [ wh-, + more ] for the, {F uh, } Chinese --   
+
+sd          A.15 utt1:   Me too <laughter>. /  
+
++          B.16 utt1:   -- and Italian --   
+
+b          A.17 utt1:   Uh-huh. /  
+
++          B.18 utt1:   -- and stuff like that.   Mexican, stuff --   
+
+b^m          A.19 utt1:   Mexican,  /
+b          A.19 utt2: uh-huh. /  
+
++          B.20 utt1:   -- that I can't cook <laughter>. /  
+
+sd          A.21 utt1:   {F Uh, } we do too.  /
+sd          A.21 utt2:  We do the same. /  
+
+b          B.22 utt1:   Yeah. /  
+
+qw          A.23 utt1:   What are your favorite places? /  
+
+sd          B.24 utt1:   {F Um, } {D well, } I like Chinese food. /  
+
+b          A.25 utt1:   Uh-huh. /  
+
+sd          B.26 utt1:   {F Um, } there's a little place down on, {A what is that? }  Coit Road, {F um, }  (( Chinese Pavilion ))  or something.    
+
+b          A.27 utt1:   Uh-huh. /  
+
++          B.28 utt1:   That is really good  /
+sd          B.28 utt2: {C and } I like it.   /
+sd          B.28 utt3: {C And, }  {F um, } [ I do, + I do ] like  Chinese buffets. /  
+
+b          A.29 utt1:   {F Oh, } yeah.  /
+sd          A.29 utt2:  {D Well, } [ we go, + we've gone ] to August Moon  /
+sd          A.29 utt3: {C and } we think that was real good -- /  
+
+b          B.30 utt1:   Uh-huh. /  
+
+sd          A.31 utt1:   -- {C but } our favorite when you have a little more to spend, is to go to Taiwan or May Dragon. /  
+
+b          B.32 utt1:   Uh-huh. /  
+
+sd          A.33 utt1:   {C And } those are excellent.  /
+sd          A.33 utt2: They're really a nice place you could take someone to eat. /  
+
+b          B.34 utt1:   Right. /  
+
+sd          A.35 utt1:   It's not [ the, + the ] rinky Chinese decorations -- /  
+
+b          B.36 utt1:   Uh-huh. /  
+
+sd          A.37 utt1:   -- {C but } it's a very elegant nice place to eat. /  
+
+b          B.38 utt1:   Uh-huh. /  
+
+sd          A.39 utt1:   [ We go, very, + very often we go ] out for fajitas.  /
+%          A.39 utt2:  That's - /
+sd          A.39 utt3: my husband has just gotten stuck. /  
+
+b          B.40 utt1:   Oh <laughter>. /  
+
+sd          A.41 utt1:   {C And } we go to On the Border.    
+
+b          B.42 utt1:   Uh-huh. /  
+
++          A.43 utt1:   And lots of places that have, {F uh, } I think  ((   )) - /
+sd          A.43 utt2: {C and } some of those and get fajitas,  /
+sd          A.43 utt3: {C and } he'll just eat chips until we've got three or four baskets coming back. /  
+
+b          B.44 utt1:   Uh-huh. /  
+
+sd          A.45 utt1:   {C And then, } {F uh, } last weekend we went out for Italian also,  /
+sd          A.45 utt2: {C and } for some reason the cooler weather makes me tend to want to go eat lasagna and garlic bread <laughter>. /  
+
+b          B.46 utt1:   Right,  /
+b          B.46 utt2: uh-huh.  /
+b^r          B.46 utt3:  Uh-huh. /  
+
+sd          A.47 utt1:   {C So, } we went to El Sorrento. /  
+
+%          B.48 utt1:   Ha-, - /
+%          B.48 utt2: yeah,  /
+qy          B.48 utt3: have you ever, {F um } --   
+
+sd          A.49 utt1:   It was fun. /  
+
++          B.50 utt1:   -- tried Pappasito's? /  
+
+qh^h          A.51 utt1:  You know, what?  /
+sd          A.51 utt2: [ This is, + that's ] real funny you said that because we were coming back Sunday on Central from church  /
+sd          A.51 utt3: {C and } Bob pointed to it  /
+sd(^q)          A.51 utt4: {C and } he said, "I keep hearing good things about that place,  /
+^q          A.51 utt5: we're going to have to go." /  
+
+sd          B.52 utt1:   {F Oh, } it is delicious. /  
+
+%          A.53 utt1:   That's what he, - /
+%          A.53 utt2: tha-, - /
+sd          A.53 utt3: in fact, you're about the third or  fourth person in the last month that said that. /  
+
+b          B.54 utt1:   Uh-huh. /  
+
+sd          A.55 utt1:   {C So } I guess we'll have to do it. /  
+
+%          B.56 utt1:   It's, - /
+sd          B.56 utt2: you always stand in line when you go -- /  
+
+%          A.57 utt1:   [ That's what it, + that's what ] -- -/  
+
+sd          B.58 utt1:   -- {C but } it's worth the wait. /  
+
+sd          A.59 utt1:   -- D MAGAZINE said that.  /
+sd          A.59 utt2:  It said there was always a line. /  
+
+b          B.60 utt1:   Uh-huh. /  
+
+sv          A.61 utt1:   {C But } [ [ that's probably, + {E I mean } that's a good, ] + that's a good sign. ] /  
+
+aa          B.62 utt1:   Uh-huh.  /
+qy          B.62 utt2:  {C And } have you ever tried, {F um, } the Macaroni Grill up on, -/  
+
+ny          A.63 utt1:   Yes,  /
+sd^e          A.63 utt2: we did.  /
+sd          A.63 utt3:  {D Now, } my kids didn't like it because they just wanted to get plain old spaghetti --   
+
+b          B.64 utt1:   Uh-huh. /  
+
++          A.65 utt1:   -- <Throat_clearing> or lasagna,  /
+sd          A.65 utt2: {C and } most of those things were a little more northern Italy. /  
+
+b          B.66 utt1:   Right. /  
+
+sd          A.67 utt1:   {C And } they like just the traditional.  /
+sd          A.67 utt2:  They're not very, -/  
+
+qy^d          B.68 utt1:   [ [ Tha-, + th-, ] + they're ] the Spaghetti Warehouse type. /  
+
+ny          A.69 utt1:   Yes,  /
+sd^e          A.69 utt2: they are. /  
+
+x          B.70 utt1:   <Laughter>.   
+
+aa          A.71 utt1:   Exactly <laughter>.  /
+aa^r          A.71 utt2:  Exactly. /  
+
+b          B.72 utt1:   <Laughter> Right. /  
+
+sv          A.73 utt1:   The place of the seventies <laughter>. /  
+
+aa          B.74 utt1:   Yeah,  /
+aa^r          B.74 utt2: yeah,  /
+sd          B.74 utt3: {C but } my little girl likes, {F uh, } Spaghetti Warehouse --   
+
+b          A.75 utt1:   Uh-huh. /  
+
++          B.76 utt1:   -- real well <laughter>. /  
+
+b          A.77 utt1:   Yeah,  /
+sv          A.77 utt2: most kids do. /  
+
+sd          B.78 utt1:   It's real entertaining for her. /  
+
+%          A.79 utt1:   W-, - /
+qy          A.79 utt2: do you ever go for steak?  Just a steak and potato and  salad bar, that kind of thing. /  
+
+ng          B.80 utt1:   {F Um, } not really.  /
+sd          B.80 utt2:  [ That's, + a steak is ] something that I cook at home.    
+
+b          A.81 utt1:   Uh-huh. /  
+
++          B.82 utt1:   {D You know, } [ tha-, + that ] you grill out -- /  
+
+b          A.83 utt1:   Yeah. /  
+
+%          B.84 utt1:   -- {C and } I really don't particularly, {F um, } -/  
+
+sd          A.85 utt1:   {D Well, } [ I'm, + I'm ] real curious to try this one that has such ((   ))  commercials.  [ The + {F uh, } that ] Del Lincoln  /
+t1          A.85 utt2: {C and, }  {F oh, } what is that guy's name?  /
+sv          A.85 utt3: They do those real corny commercials. /  
+
+b          B.86 utt1:   {F Huh. } /  
+
+sd          A.87 utt1:   [ It's, {F uh, } over, + there's one over ] there in Addison.  /
+sd          A.87 utt2: I can't remember his name.  /
+%          A.87 utt3: Anyhow it's some, -/  
+
+qy          B.88 utt1:   Steak. -/  
+
+ny          A.89 utt1:   Yeah,  /
+sd^e          A.89 utt2: it's some famous steak place over in Addison.  /
+sd          A.89 utt3:  [ There's a, + there's a ] second one downtown,  /
+sv          A.89 utt4: {C and } they have these really corny radio commercials -- /  
+
+b          B.90 utt1:   Uh-huh. /  
+
+sd          A.91 utt1:   -- [ {C but } the-, + {C but } they're ] steak is supposed to be wonderful.  /
+sd          A.91 utt2:  {C So, }   [ I ha-, + I had ] not tried that.  /
+sd          A.91 utt3:  My husband was saying that up north they have such nice restaurants where you can go after a theater or  after the movie. /  
+
+b          B.92 utt1:   Uh-huh. /  
+
+%          A.93 utt1:   {C And } it seems like I've been, - /
+sd          A.93 utt2: [ w-, + we ] found those one time  /
+sd          A.93 utt3: {C and then } they discontinued.  /
+sd          A.93 utt4:  It was over in Addison. /  
+
+b          B.94 utt1:    {F Huh. } /  
+
+sd          A.95 utt1:   {C And then } they, {F uh, } closed up <throat_clearing>. /  
+
+b          B.96 utt1:   Yes. /  
+
+sv          A.97 utt1:   {C So } most of these places are pretty much just, {F uh, } theme restaurants --   
+
+aa          B.98 utt1:   Right.  /
+sv          B.98 utt2:  I think that's what --   
+
++          A.99 utt1:   -- around here. /  
+
++          B.100 utt1:   -- [ goes, + {D you know, } really goes ] right now [ in the, + in the ] Dallas area. /  
+
+b          A.101 utt1:   Uh-huh. /  
+
+sv          B.102 utt1:   Of course, {D you know, } down, next to downtown up around McKinney and everything --   
+
+b          A.103 utt1:   Uh-huh. /  
+
++          B.104 utt1:   -- {D you know, } [ there's just a, + there's a ] different class --   
+
+aa          A.105 utt1:   {D Well, } that's exactly true <laughter>. /  
+
++          B.106 utt1:   -- of restaurants up there --   
+
+aa          A.107 utt1:   That's right. /  
+
++          B.108 utt1:   -- that I can't even touch. /  
+
+aa          A.109 utt1:   That's right.  /
+aa          A.109 utt2:  Yeah.  /
+aa^r          A.109 utt3:  That's right. /  
+
+sv          B.110 utt1:   {D You know, } it would probably take my whole paycheck just to go in and --   
+
+%          A.111 utt1:   That's e-, - /
+aa          A.111 utt2: <laughter> yeah,  /
+aa          A.111 utt3: that's right. /  
+
++          B.112 utt1:   -- <Laughter> have one meal --   
+
+b          A.113 utt1:   Uh-huh. /  
+
++          B.114 utt1:   -- up there  /
+%          B.114 utt2: {C but, }  {F um, } -/  
+
+sd          A.115 utt1:   I had a friend who was taken to Lawry's downtown --   
+
+b          B.116 utt1:   Uh-huh. /  
+
++          A.117 utt1:   -- for prime rib  /
+sd          A.117 utt2: {C and } I haven't been.  /
+sd          A.117 utt3:  We usually don't go for beef really anymore. /  
+
+b          B.118 utt1:   Uh-huh. /  
+
+%          A.119 utt1:   Where, - /
+sd          A.119 utt2: we've gotten so used to doing chicken and things at home that [ that's, + that's ] usually the way we'll go --   
+
+b          B.120 utt1:   Right.  /
+b          B.120 utt2:  Uh-huh. /  
+
++          A.121 utt1:   -- if we're not going lasagna. /  
+
+b          B.122 utt1:   Yeah,  /
+sd          B.122 utt2: [ when, + when ] I go out, [ it's, + it's ] normally to get, {F um, } some specialty type of food -- /  
+
+b          A.123 utt1:   Uh-huh. /  
+
+sd          B.124 utt1:   -- besides, {D you know, } [ because y-, + ]  chicken and --   
+
+b          A.125 utt1:   Uh-huh. /  
+
++          B.126 utt1:   -- steaks and everything I grill at home. /  
+
+ba          A.127 utt1:   I know.  /
+ba          A.127 utt2:  {D Well, } I understand. /  
+
+sd          B.128 utt1:   [ {C And, } + {C and } ] really [ it's, + they're ] a lot better than what I get in the restaurant <laughter>. /  
+
+aa          A.129 utt1:   <Laughter> That's right,  /
+sv          A.129 utt2: {C and } save you some money too <laughter>. /  
+
+aa          B.130 utt1:   That's right. /  
+
+%          A.131 utt1:   {D Well } -- -/  
+
+aa          B.132 utt1:   Saves you a little bit money. /  
+
+qw          A.133 utt1:   -- {D now } [ what is your, + what's your ] child's favorite place to eat? /  
+
+^h          B.134 utt1:   {F Um, } favorite place,  /
+sd          B.134 utt2: {F uh, } she has a lot,  /
+sd          B.134 utt3: Taco Bell <laughter>. /  
+
+b          A.135 utt1:   {F Oh, } yeah <laughter>. /  
+
+x          B.136 utt1:   <Laughter>.   
+
+sv          A.137 utt1:   They're easy <laughter>. /  
+
+aa          B.138 utt1:   Yeah,  /
+aa          B.138 utt2: that's right. /  
+
+b          A.139 utt1:   Yeah <laughter>. /  
+
+aa          B.140 utt1:   That's right. /  
+
+sd          A.141 utt1:   {D Well, } mine enjoy that too.  /
+sd          A.141 utt2:  They like to go pretty much where we like to go  /
+%          A.141 utt3: {C and } they'll -- -/  
+
+b          B.142 utt1:   Uh-huh. /  
+
+sd          A.143 utt1:   -- {C and then } our favorite thing on Fridays, we generally order pizza in  /
+sd          A.143 utt2: {C so } --    
+
+b          B.144 utt1:   Right. /  
+
++          A.145 utt1:   -- not Pizza Inn, but pizza to our house. /  
+
+b          @@B.146 utt1:  Right,  /
+b          @@B.146 utt2: uh-huh. /  
+
+%          A.147 utt1:   {C So } (( we've ))  done. - /
+qy          A.147 utt2: {D Well, } {F um, } is there anything else you'd like  to discuss about it? /  
+
+nn          B.148 utt1:   No,  /
+sd^e          B.148 utt2: not that I know of. /  
+
+fc          A.149 utt1:   [ I think we've, + I think it's ] come to an  (( eye ))  conclusion  /
+fc          A.149 utt2: {C so } I'll talk with you later.  /
+fc          A.149 utt3:  Thank you. /  
+
+fc          B.150 utt1:   Uh-huh,  /
+fc^m          B.150 utt2: thank you. /  
+
+fc          A.151 utt1:   # Bye-bye. # /  
+
+fc^m          B.152 utt1:   # Bye-bye. # / 

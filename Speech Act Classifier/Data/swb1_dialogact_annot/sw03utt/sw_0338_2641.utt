@@ -1,0 +1,561 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2641_1211_1235
+TOPIC#:		351
+DATE:		910423
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	3
+BACKGROUND_B:	3
+REMARKS:        Both speakers were a little hard to understand at times.
+
+=========================================================================
+  
+
+o         A.1 utt1:  Okay,  /
+%          A.1 utt2: {D well, } you, -/  
+
+qy          @B.2 utt1:  Do you have any pets? /  
+
+na          A.3 utt1:  {F Um, } we got two cats. /  
+
+b^m          B.4 utt1:  Two cats. /  
+
+b          A.5 utt1:  Yeah,  /
+%          A.5 utt2: {C and, }  {F uh, } {F um, } - /
+%          A.5 utt3: yeah,  /
+sd          A.5 utt4: [ we had  cat, + {D you know, }  my family had cats ] when we were growing up the whole time until my Mom developed an allergies, /  
+
+b          B.6 utt1:  <<Very faint>> Uh-huh. /  
+
+sd          A.7 utt1:  {C so, } {E I mean, } [ I'm used, + I'm used ] to having cats  around,  /
+sd          A.7 utt2: I like them. /  
+
+b          B.8 utt1:  Yeah,  /
+sd          B.8 utt2: I like having [ [ ca-, + cats around ] +  {E or } pets  around ] in general  /
+sd          B.8 utt3: [ I, + I ] favor dogs over cats actually  /
+%          B.8 utt4: {C but, } -/  
+
+sd          A.9 utt1:  {F Oh, } {D see, } [ I'm not, + {F uh, } I'm not ] a dog  person at all <laughter>. /  
+
+sd          B.10 utt1:  {F Oh, } [ I'm, + I'm ] a dog person.  /
+%          B.10 utt2:  I had, - /
+sv          B.10 utt3:  I guess it depends on what you had when he were a kid, right?  <laughter>. /  
+
+aa          A.11 utt1:  Yeah,  /
+aa          A.11 utt2: probably,  /
+sd          A.11 utt3: I was allergic to dogs when I was a kid,   
+
+b          B.12 utt1:  Uh-huh. /  
+
++          A.13 utt1:  in fact,  /
+sd          A.13 utt2: I may still be,  /
+%          A.13 utt3: {F um, } we, -/  
+
+qy^d          B.14 utt1:  {C But } not cats. /  
+
+%          A.15 utt1:   (( That )) , {F um, } - /
+sd          A.15 utt2: I wonder sometimes <laughter>. /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  {F Um, } {C but } [ we, + {F um, } we ] house  sat for [ a, +  {F um, } [ my, + {F um, } my ] ] wife's boss a couple weeks ago  /
+sd          A.17 utt2: {C and, }  {F um, } {F uh, } he has a dog  and everything,  /
+sd          A.17 utt3: [ we were, + {D you know, } we were ] sitting the dog and everything  /
+sd          A.17 utt4: {C and, }  {F uh, }  I felt like just miserable all weekend  /
+sd          A.17 utt5: {C and } it really didn't dawn on me until Sunday,  /
+sd(^q)          A.17 utt6: it was like,  hey, maybe you're still allergic to the dog.  /
+sd(^q)          A.17 utt7:  It was like, {F oh, } that could be it. /  
+
+sv          B.18 utt1:  The thing I don't like about dogs sometimes is  that the house will just reek,   
+
+b          A.19 utt1:  Yeah. /  
+
++          B.20 utt1:  of the dogs,  (( and constantly )) . /  
+
+sv          A.21 utt1:  {D Well, } dogs are real high maintenances,  /
+sv          A.21 utt2: you got to take them for walks  /
+sv          A.21 utt3: {C and } you've got to pay a lot, {D you know, }  /
+sv          A.21 utt4: you need to pay attention  to cats and  everything  /
+sv          A.21 utt5: {C but } it's not quite the same thing. /  
+
+aa          B.22 utt1:  Yeah,  /
+aa          B.22 utt2: that's true. /  
+
+sv          A.23 utt1:  {F Um, } {C and, }  {F um, } {F um, } {D you know, } [ it's, + it's ]  just nice that [ cats, + {D you know, } cats, ] {D yeah, } you don't have to let them outside,  (( {D you know, }  /
+sv          A.23 utt2: all ))  cats are indoor cats, /  
+
+b          B.24 utt1:  Uh-huh. /  
+
+sv          A.25 utt1:  {C so, } {D you know, } [ they're not, +  [ [ yo-, +  w-, ] +  you're ] ] not worried about them running all-around the neighborhood  /
+sv          A.25 utt2: {C and, } {D you know, }  [ [ they, + {D you know, } they, ] + they ] make their mess in the cat pan which is, -/  
+
+^2          B.26 utt1:  Limited. /  
+
+aa          A.27 utt1:  yeah,  /
+sv          A.27 utt2: [ it's, + {D you know, } it's ] a pain to  clean  /
+%          A.27 utt3: {C but, } {D you know, } we used to, - /
+sv          A.27 utt4: {E I mean, }  they got great stuff out now for cleaning cats'  (( pans )) .  /
+%          A.27 utt5:   They didn't, -/  
+
+bh          B.28 utt1:  {F Oh, } really? /  
+
+sd          A.29 utt1:  {D Well, } [ when I was, + {D you know, } when I was ]  growing up I had a clean the cat pan all the time,  /
+sd          A.29 utt2: {C and } I hated it because I had to carry  everything upstairs [ and, +  {D you know, } and ] use this thing to, {D you know, }  [ scoop the, +  take the ] stuff out and  put it in the toilet and everything  /
+sd          A.29 utt3: it was really terrible.  /
+sd          A.29 utt4:   {C But } now [ they have {D like } this, +  you get these ] liners,   
+
+b          B.30 utt1:  Uh-huh. /  
+
++          A.31 utt1:  that is garbage bags, {D you know, }  /
+%          A.31 utt2: [ {C and } you, +  {C and } you, ] {D you know } the, -/  
+
+ba          B.32 utt1:  {F Oh, } that sounds so easy, what I did, /  
+
+aa          A.33 utt1:  Yeah,  /
+sd          A.33 utt2: the cats do it in there,  /
+sd          A.33 utt3: you pull it and take it out  and throw it away,  /
+sd          A.33 utt4: {C and } that's it, <laughter>. /  
+
+b          B.34 utt1:  Yeah,  /
+sd          B.34 utt2: I housesat  (( from ))  cats  for a friend of mine which she was finishing up her thesis, /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sd          B.36 utt1:  {C and } what we used to do was just put, {F um, }  newspaper on the bottom and then put cat litter  /
+sd          B.36 utt2: {C and then } I would just take the whole  thing to the garbage can and dump the whole thing. /  
+
+sv          A.37 utt1:  Same idea <laughter>. /  
+
+sd          B.38 utt1:  Then I would do it, {D you know, } everyday or two days  so I would clean that pan very, very rarely, /  
+
+qy          A.39 utt1:  Everyday? /  
+
+sd          B.40 utt1:  {C and so } it wasn't so bad. /  
+
+b          A.41 utt1:  {F Oh, } okay,  /
+b          A.41 utt2: I see. /  
+
+%          B.42 utt1:   ((   ))  two cats and (( just as easy )) - /
+sd          B.42 utt2: it just never  started smelling,  /
+sd          B.42 utt3: I would put just a little bit of cat litter in there,   
+
+b          A.43 utt1:  Uh-huh. /  
+
++          B.44 utt1:  because if I put a lot, one of the cats would have  been, - /
+sd          B.44 utt2: <laughter>, all of her animals that she ever had were adopted. /  
+
+b          A.45 utt1:  Uh-huh. /  
+
+aa          B.46 utt1:  I that true,  /
+aa          B.46 utt2: yeah.  /
+aa^r          B.46 utt3:  Yeah,  /
+sd          B.46 utt4: [ she's even got, + she's got ]  one dog now and the two cats  /
+sd          B.46 utt5: {C and } her dog there [ is, + is ] basically a  reject,  /
+sd          B.46 utt6: somebody had bought him,   
+
+b          A.47 utt1:  Uh-huh. /  
+
++          B.48 utt1:  and wanted him.  /
+sd          B.48 utt2:  It was her ex boyfriend  and, {D you know, } just was not mature enough to keep the dog, didn't realize how much work  it was  /
+sd          B.48 utt3: {C and } now,   
+
+b          A.49 utt1:  Uh-huh. /  
+
++          B.50 utt1:  she's stuck with it.  /
+sd          B.50 utt2:  {C And } she's just  so kindhearted that she just takes all the animals  /
+sd          B.50 utt3: {C but } I think that for me, {D well, }  my husband just has completely nixed the idea of having a dog or a cat <laughter>. /  
+
+x          A.51 utt1:  <Laughter>.   
+
+sd          B.52 utt1:  {C because } that's all there is to it.  /
+%          B.52 utt2:  {C So, } {D you know, } -/  
+
+qy          A.53 utt1:  {C So, } you don't have anything right now? /  
+
+nn          B.54 utt1:  No,  /
+sd^e          B.54 utt2: we don't have anything right now. /  
+
+qy^d          A.55 utt1:  {F Oh, } except the kid,  /
+%          A.55 utt2: (( {F huh, } that's )) , -/  
+
+na          B.56 utt1:  {F Oh, } right, <laughter>,  /
+sd          B.56 utt2: now we have a kid  /
+sd          B.56 utt3:  {C but } he was,  {E no, } completely against having a dog or cat,  /
+sd(^q)          B.56 utt4: he said, [ they're much, + they're as much ]  work as a kid,  /
+^q          B.56 utt5: {C and } they're harder to get rid of for the weekend, <laughter>.  /
+%          B.56 utt6:   {C And, } -/  
+
+sv          A.57 utt1:  {F Uh, } [ I don't, + I don't ] know because the cats  pretty much, {F um, } - /
+%          A.57 utt2: yeah,  /
+sd          A.57 utt3: we can leave them for a weekend as long as we put plenty of food out, /  
+
+b          B.58 utt1:  Uh-huh. /  
+
+sd          A.59 utt1:  {C and, }  {F um, } {F uh, } it's not a big deal  really,  /
+sd          A.59 utt2: {E I mean } [ they're, + they're ] happier when we're around  /
+sd          A.59 utt3: {C but, } {D you know, } [ they, + they're ]  pretty much okay by themselves,  /
+sv          A.59 utt4: {F um, } {C and } [ I don't, +  {D you know, }  we couldn't ] do that with a dog. /  
+
+aa          B.60 utt1:  That's, {F uh, } {D yeah, } really true.  /
+sd          B.60 utt2: {C But } {D like }  [ the friends, + other friends ] of mine have cats,  /
+sd          B.60 utt3: they have four of them,  /
+sd          B.60 utt4: {C and } if they go away,   [ they have, + they hire ] a pet sitter to come in twice a day and pet them and things like that  /
+sd          B.60 utt5:  {C and } their cats, {D you know, } their so used to the attention,   that if they don't get it, they get really upset, /  
+
+sv          A.61 utt1:   (( {D Well } )) , [ that's, +   
+
+sd          B.62 utt1:  {C and, } {D you know, } they sort of cause trouble  around the house and things like that. /  
+
++          A.63 utt1:  That's, ] {F um, } pampering [ the, + the ] petals <laughter>. /  
+
+sd          B.64 utt1:  [ I, + I ] [ tried to have, +  {F um, } <laughter>,  figured something having, ]  ((   )) - /
+sd          B.64 utt2: {C so } I tried to have a goldfish, /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+sd          B.66 utt1:  {C and, }  {F um, } I killed that one within a very  short amount of time. /  
+
+sv          A.67 utt1:   (( {C But } ))  they're not that much fun,  {D you know, }  /
+sv          A.67 utt2: you can't take them for a walk,  /
+sv          A.67 utt3: you can't, {D you know, } - /
+sv          A.67 utt4: [ they, + [ they  don't, +  they can't ] ] fetch, {D you know, } /  
+
+b          B.68 utt1:  Right. /  
+
+sv          A.69 utt1:  [ they ca-, + they can't ] do anything,  /
+%          A.69 utt2: {C so }  I've never, - /
+sd          A.69 utt3: I think we had fish [ sh-, + ] when I was a kid  /
+%          A.69 utt4: {C but } I don't, -/  
+
+sd          B.70 utt1:  My brother had fish when I was a kid  /
+sd          B.70 utt2: I  remember that,  /
+sd          B.70 utt3: {C and } one of his fish jumped out of the, {F um, } {D gosh, } {A what do you call it, }  fish tank.  And fried itself, <laughter>, on the radiator behind the dresser.  /
+sd          B.70 utt4:  I'll never forget that  /
+sd          B.70 utt5: {C because } I remember my brother,   
+
+b          A.71 utt1:  Oh. /  
+
++          B.72 utt1:  he came home and he counted the fish  /
+sd          B.72 utt2:  {C and } one of the fish was missing  /
+sd          B.72 utt3: {C and } they couldn't find it anyplace,  /
+sd          B.72 utt4: they couldn't figure out what  had happened  /
+sd          B.72 utt5: {C and then } they found it fried  on, <laughter>, the radiator behind. /  
+
+b          A.73 utt1:  Oh. /  
+
+sd          B.74 utt1:   ((   ))  it was not gross,  /
+sd          B.74 utt2: I didn't see  it  /
+%          B.74 utt3: {C but, } {F um, }    
+
+b          A.75 utt1:  Oh. /  
+
++          B.76 utt1:   ((   ))  got them. - /
+sd          B.76 utt2: Trying to remember we  had a dog for a while,  /
+sd          B.76 utt3: {C and } I don't  know if we got rid of the dog  /
+sd          B.76 utt4:  {C because } my brother was allergic to it,  /
+sd          B.76 utt5: my brother had asthma and some allergies  which I think he's outgrown now, /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  {C but } because of that we didn't have very many  pets afterwards  /
+sd          B.78 utt2: {C and then } he had fish. /  
+
+b          A.79 utt1:  Uh-huh. /  
+
+%          B.80 utt1:  {C And } you, - /
+aa          B.80 utt2: [ they're, + like you say, they're ]  not the most exciting pet to have. /  
+
+aa          A.81 utt1:  No,  /
+%          A.81 utt2: it's like, - /
+h          A.81 utt3: [ I just, +  I ] don't know,  /
+sd          A.81 utt4: [ I, + I ]  just never understood [ why, + what ] the attraction, - /
+sd          A.81 utt5: {E I mean, }  [ they're, + {D you know, } they're ] pretty and everything  /
+sd          A.81 utt6: {C but } I've just never [ s-, + seen [ the attraction of  having fish.  /
+sv          A.81 utt7:  It's not as much fun. /  
+
+sd          B.82 utt1:  {D Well, } a friend of mine had, {F um, } an eel, /  
+
+bh          A.83 utt1:  <Breathing>, an eel? /  
+
+%          B.84 utt1:  {C and then } he had a,  {F um, } - /
+^h          B.84 utt2: I forget  what type of fish it was,  /
+sd          B.84 utt3: it was one of these fish that [ [ i-, + it ] would eat, +   it ate ] a big other fish and things like  that.  /
+sd          B.84 utt4:   (( There would be sort of ))   (( moby ))  fish in a tank. /  
+
+sv          A.85 utt1:  {F Oh, } now we really get sick <laughter>. /  
+
+b          B.86 utt1:  Yeah,  /
+%          B.86 utt2: {C and } it, - /
+sd          B.86 utt3: [ I, + I ] couldn't see  having fish like that. /  
+
+b          A.87 utt1:  Yeah. /  
+
+sd          B.88 utt1:  I could see  [ (( some )) +   having, maybe some ] of the tropical fish, that are really, really pretty  /
+%          B.88 utt2: {C but, } -/  
+
+sd          A.89 utt1:  {D Like, }   (( I remember ))  a friend of mine at  work telling me that at his frat in college that they had a tank of piranha,    
+
+b          B.90 utt1:  Uh-huh. /  
+
++          A.91 utt1:  and, {F uh, } {D you know, } used  to drop mice in  ((   ))  /
+sd          A.91 utt2: [ this is not, +  these aren't ] cats, <laughter>, {D you know, } /  
+
+b          B.92 utt1:  Yeah. /  
+
+sv          A.93 utt1:  this is gross. /  
+
+aa          B.94 utt1:  Yeah,  /
+ar          B.94 utt2: no,  /
+%          B.94 utt3: that would be, - /
+qy          B.94 utt4:  what did they do, everyone come around and watch them. /  
+
+ny          A.95 utt1:  Yep. /  
+
+sv          B.96 utt1:  {E I mean, } I guess that's fine if you  have a mouse problem at your frat house,   
+
+aa          A.97 utt1:  Yeah,  /
+%          A.97 utt2: {D well, } -/  
+
++          B.98 utt1:  and (( your things ))  destroyed the mice.  /
+%          B.98 utt2: {C But, } -/  
+
+b          A.99 utt1:  Yeah,  /
+sv          A.99 utt2: {D well, } a cat will do the same trick <laughter>. /  
+
+^h          B.100 utt1:   (( Let's see )) ,  /
+sd          B.100 utt2: I had a pet rat, <laughter>, for a while, /  
+
+x          A.101 utt1:  <Breathing>.   
+
+sd          B.102 utt1:  {C and } it was a live rat,  /
+sd          B.102 utt2:  {C and, }  {F um, } this woman just offered  (( it to me )) while I was  [ in, + in ] graduate school  /
+sd          B.102 utt3: {C and, }   
+
+sd          A.103 utt1:   [ (( I had a friend ))  in col-, +   
+
++          B.104 utt1:  she was actually a very fun pet. /  
+
++          A.105 utt1:  I had a friend in college ] who [ had a, + {F um, } had a ]  pet rat for a while. /  
+
+b          B.106 utt1:  Uh-huh. /  
+
+sd          A.107 utt1:  {F Um, } I forget how she got it,  /
+sd          A.107 utt2: {C but }  [ it was, + {F um, } it was ] the same kind of a deal  /
+sd          A.107 utt3:  I think she got it, - /
+sd          A.107 utt4: I think she was a psych major  /
+sd          A.107 utt5:  {C and } she got it from the psych department. /  
+
+b          B.108 utt1:   (( Yeah )) ,  /
+sd          B.108 utt2: mine had been [ [ a, + a, ] + a ] - /
+t1          B.108 utt3:  how did this work,  /
+sd          B.108 utt4: a mill rat had been bought  /
+sd(^q)          B.108 utt5: and the people in the lab one day  called in my friend and said, {D you know, } this rat is  acting really strange I think he's sick,  /
+sd(^q)          B.108 utt6: {C and } she said, I don't think he's sick, I think she's pregnant, <laughter>. /  
+
+ba          A.109 utt1:  <Laughter> Whoops <laughter>. /  
+
+sd          B.110 utt1:  {C And } they had   (( misclassed ))  the sex of  ((   ))    (( back there )) - /
+sd          B.110 utt2: {C and so, } {F um, } she asked me if I want [ to, + ]  (( one of those ))  babies,  /
+sd          B.110 utt3: {C and } I took the baby  /
+sd          B.110 utt4: {C and } I got her when she was, {D you know, } just this  tiniest little thing like,    
+
+b          A.111 utt1:  Uh-huh. /  
+
++          B.112 utt1:  half the price of a mouse,  /
+sd          B.112 utt2: {C and then } she   grew to be,  {D you know, } - /
+sd          B.112 utt3: I had pictures of her when she would sit on my hand  /
+sd          B.112 utt4:  {C and then } she grew to be pretty big,   
+
+b          A.113 utt1:  Uh-huh. /  
+
++          B.114 utt1:  {D you know, } {D like } a pound or something  /
+sd          B.114 utt2: I don't know  how much,  /
+sd          B.114 utt3: {C and } I had her for over two years  /
+sd          B.114 utt4: {C and } she was very affectionate.  /
+sd          B.114 utt5:   She would, {D you know, } crawl on me  /
+sd          B.114 utt6: {C and } she would sit like on my neck or my shoulder  while I was working,   
+
+b          A.115 utt1:  Uh-huh. /  
+
++          B.116 utt1:  and things like that. {D Yeah, } much more than you would think. /  
+
+b          A.117 utt1: {F Oh, } yeah,  /
+sv          A.117 utt2: {E I mean, } {D you know, } if you get  them young and everything before they go, kind of  (( nuts, - /
+%          A.117 utt3: {C so } )) . -/  
+
+b          B.118 utt1:  Yeah  /
+%          B.118 utt2: {C and, } -/  
+
+b          A.119 utt1:  Yeah,  /
+sd          A.119 utt2: rats are not my favorite animals in  the world,  /
+sd          A.119 utt3: {C but } I could see getting one from birth and everything. /  
+
+b          B.120 utt1:  Yeah,  /
+sd          B.120 utt2: [ I, + ] sort of weird for me to  have had one too  /
+%          B.120 utt3: {C but } there, - /
+sd          B.120 utt4: it was a convenient little pet to have because it stayed in it's  cage  /
+sd          B.120 utt5: {C and, } {D you know, } it was [ easy. +    
+
+b          A.121 utt1:  Yeah. /  
+
++          B.122 utt1:  Easy ] to take care of  /
+%          B.122 utt2: [ {C and } + {C but, } ] -/  
+
+aa          A.123 utt1:  Yeah,  /
+sd          A.123 utt2: [ [ I, + I, ] + I ] have friends  with hamsters and gerbils  /
+sd          A.123 utt3: {C and } [ they, + they ] tell me the same thing. /  
+
+b          B.124 utt1:  Uh-huh. /  
+
+%          A.125 utt1:  I just, - /
+sv          A.125 utt2: again it gets into  (( vivant ))   much fun, <laughter>, {D you know } what, I guess they can be.  /
+%          A.125 utt3:  I, -/  
+
+sv          B.126 utt1:  {D Actually } it was more fun than you would  think. {D Yeah, } starting from the beginning  /
+%          B.126 utt2: {C but, }  {F um, } - /
+%          B.126 utt3: yeah,  /
+sd          B.126 utt4:  we [ live, + also live ]  in the city now, {D actually } in Manhattan. /  
+
+b          A.127 utt1:  Okay. /  
+
+sd          B.128 utt1:  {C And so } it's almost impossible to, - /
+sv          B.128 utt2:  it's not fair to a pet to have a pet here,   
+
+b          A.129 utt1:  Right. /  
+
++          B.130 utt1:  or [ certainly, + certainly ] not a dog,  /
+sd          B.130 utt2:  {E I mean, }  people do, /  
+
+%          A.131 utt1:  {F Oh } people, -/  
+
+%          B.132 utt1:  {C but } it's not, -/  
+
+sd          A.133 utt1:  I don't, {F oh, }  /
+sv          A.133 utt2: {C plus, } {E I mean, }  the pooper scooper  (( one ))  New York, - /
+%          A.133 utt3: (( {C so, } {D you know } )) . -/  
+
+aa          B.134 utt1:  {F Oh, } yeah,  /
+sd          B.134 utt2: you see all [ these people, +  {D yeah, }  these stately people, ] and well dressed people out walking their dogs with their plastic bag  or their piece of paper for them,  /
+sd          B.134 utt3: it's really kind of funny. /  
+
+b          A.135 utt1:  Yeah, (( {F uh } )) ,  /
+sd          A.135 utt2: I was living in northern Jersey  when that  (( law ))  came through, remember hearing all about it, /  
+
+b          B.136 utt1:  Uh-huh. /  
+
+qy^d          A.137 utt1:  we were wondering if [ they, + {F uh, } they ] had  any special law for the horses in Central Park. /  
+
+^h          B.138 utt1:  Right,  /
+nn          B.138 utt2: no,  /
+sd^e          B.138 utt3: they don't.  /
+%          B.138 utt4:   (( I should make you )) , -/  
+
+aa          A.139 utt1:  Of course, not. /  
+
+sd          B.140 utt1:  they have, {F um, } the bags behind them  /
+sv          B.140 utt2: {C but } I  think they're actually supposed to,   
+
+b          A.141 utt1:   (( Hit ))  the bags. /  
+
++          B.142 utt1:   ((   ))  [ keep them, + {D yeah, } keep them ] clean  /
+sd          B.142 utt2:  {C but, }  {F oh, } gosh, I can't even walk by Central Park  (( {D yeah } ))  when summertime,  /
+sd          B.142 utt3: just the smell is so bad <laughter>,   
+
+sd          A.143 utt1:  {F Oh, } {D God, } [ I can't, +    
+
++          B.144 utt1:  of the horses. /  
+
++          A.145 utt1:  Haven't ] been up there,  /
+sd          A.145 utt2: last time I was  there was fall  so probably wasn't that bad <laughter>. /  
+
+sv          B.146 utt1:  {F Oh, } {D well, } it's not that long ago.  /
+sd          B.146 utt2:  (( It was )) ,   
+
+ar          A.147 utt1:  Not this past fall  /
+sd          A.147 utt2: {C but } {E I mean } fall,   
+
++          B.148 utt1:  {F Oh, } twelve times, of the year. /  
+
++          A.149 utt1:  a few years, - /
+sd          A.149 utt2: {E I mean, }  [ [ it w-, + it was ] in the, +  {D yeah, } it was almost ] {D like }  October of eighty-five, /  
+
+b          B.150 utt1:  Uh-huh. /  
+
+sd          A.151 utt1:  I think was the last time I was [ up, + up ] there  and at Center Park. /  
+
+b          B.152 utt1:  Yeah. /  
+
+sd          A.153 utt1:  {F Um, } I had a friend who went to  Colombia  /
+sd          A.153 utt2: {C and } I used to go up and visit her. /  
+
+b          B.154 utt1:  Uh-huh. /  
+
+%          A.155 utt1:  {F Um, } {C so, } -/  
+
+b          B.156 utt1:  Yeah,  /
+sd          B.156 utt2: that's not too far from were we live,  /
+sd          B.156 utt3: [ do you have, +  you said you had ] two cats,  /
+qy          B.156 utt4: [ are they, +  {F um, }  just what  you call it,  are they ] breed cats or anything  /
+%          B.156 utt5: {C or } are they just, -/  
+
+nn          A.157 utt1:  No,  /
+sd^e          A.157 utt2: they're just mutts, /  
+
+b          B.158 utt1:  Uh-huh. /  
+
+b          A.159 utt1:  yeah,  /
+sd          A.159 utt2: my wife got them from, {F uh, } {F um, }  friend of hers at work and  everything, {D you know, } {D you know, } as kittens, /  
+
+b          B.160 utt1:  <<Very faint>> Uh-huh. /  
+
+sd          A.161 utt1:  {C and } [ it was before, + {E I mean, } this was before ]  we even met.  /
+sd          A.161 utt2: {F Um, } she's had them for a couple years.  /
+sd          A.161 utt3:  {C And } {F um, } {D you know, }  they're really cute,  /
+sd          A.161 utt4: [ they're, + they're ] sisters, /  
+
+b          B.162 utt1:  Uh-huh. /  
+
+sd          A.163 utt1:  one of them is a lot bigger than the other one  /
+sd          A.163 utt2:  {C and, }  <laughter>, she pushes the other one away from the food.  /
+sd          A.163 utt3: Apparently [ w-, +  I ] don't know all the details  /
+sd          A.163 utt4: {C but } they were born around Christmas  because one of them is named Tinsel  /
+sd          A.163 utt5: {C and } the other one is named Holly. /  
+
+b          B.164 utt1:  Uh-huh. /  
+
+%          A.165 utt1:  {D You know, } the scr-, -/  
+
+qy          B.166 utt1:  They're both females? /  
+
+na          A.167 utt1:  [ both, + {D yeah, } both ] females,   
+
+b          B.168 utt1:  Uh-huh. /  
+
++          A.169 utt1:  they're both spayed,    
+
+b          B.170 utt1:  Uh-huh. /  
+
++          A.171 utt1:  {F um, } or whatever it is, neutered,  {D you know, } <throat_clearing>, {F um, }  /
+sd          A.171 utt2: {C and } [ they're, + they're ] both declawed at least on [ the, + the ]  front claws. /  
+
+b          B.172 utt1:  Uh-huh. / 

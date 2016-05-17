@@ -1,0 +1,264 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3330_1353_1239
+TOPIC#:		324
+DATE:		911030
+TRANSCRIBER:	GL
+UTT_CODER:	TC
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+======================================================================
+  
+
+o          A.1 utt1:  Jay, {F um, }  /
+sd          A.1 utt2: my kids [ are, +  are ]  both in college, {F um, }  /
+sd          A.1 utt3: {C and } [ I'd, +  I played ] a fairly active part in helping them decide where to go.  /
+sd          A.1 utt4: On the other hand, they really decided themselves. /  
+
+b          B.2 utt1:  Uh-huh. /  
+
+qo          A.3 utt1:  {F Um, } [ what, +  what ] kind of experience did you have? /  
+
+%          B.4 utt1:  {D Well, } I, {F uh, } <breathing> - /
+sd          B.4 utt2:  one girl went [ in, +  in ] state and has graduated,  /
+sd          B.4 utt3: {C and then, } {F uh, } [ that was, +   {F uh, } {D you know, } that was ] her choice pretty much where she wanted to go -- /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1:  -- {C and } I have, {F uh, } [ one, out of, +   two out of ] state, both in Missouri,  /
+sd         B.6 utt2: {C and, } {F um, } I teach, {F uh, }  in a college,  /
+sd         B.6 utt3: {C and so } [ I +  they ] had heard me talk about it, and for years, that I didn't think it really made too much difference where they went for their undergraduate.  /
+%          B.6 utt4: {F Uh, } so, that was --   
+
+%          A.7 utt1:  {F Um. } /  
+
++          B.8 utt1:  -- pretty much, {F uh. } -/  
+
+b          A.9 utt1:  I see,  /
+h          A.9 utt2: {D well, } [ I, +  [ may, +   maybe ] I'm ] wrong,  /
+sv          A.9 utt3: {C but } I think it makes a big difference in terms of finding a school that is sort of right for the child in terms of his or her happiness [ [ and, +   
+
+^2          B.10 utt1:  {F Oh, } {F oh, } [ if they, +  if they're ] content there, /  
+
++          A.11 utt1:   and, ] + and ] the appropriate support environment and things like that. /  
+
+sv          B.12 utt1:  {E I mean } as far as the education, as far as looking at the degree at the end, [ [ that, +  {F uh, } it's ] +   very little difference is ] paid --   
+
+b          A.13 utt1:  Uh-huh. /  
+
++          B.14 utt1:  -- to it, where you get that bachelor's.  /
+sv          B.14 utt2:  {F Uh, } if it's a halfway decent school --   
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  -- they should be happy naturally,  /
+sd          B.16 utt2: {C and } if they can get, {F uh, } {F um, } two out of, - /
+sd          B.16 utt3: let's see, my son got  a full total scholarships -- /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sv          B.18 utt1:  -- {C and so } [ there's, +  {F uh, } there's ]  plenty of scholarships out there,  /
+sv          B.18 utt2: {C and so } people should be  advised to look for those,  /
+%          B.18 utt3: {C and, } {F um, } -/  
+
+qy          A.19 utt1:  [ Did, +  did ] you play [ a, +  a ]  strong role in helping them pick schools  /
+qrr          A.19 utt2: {C or } --   
+
+%         B.20 utt1:  {F Uh. } /  
+
++          A.21 utt1:  -- did you just sort of say listen to your guidance counselors  /
+%          A.21 utt2: {C and, } -/  
+
+^h          B.22 utt1:  {D Well, } they, {F uh, } - /
+sd          B.22 utt2: [ I went, +   we went ] around,  /
+sd          B.22 utt3: my son was a, graduated from a Jesuit high school -- /  
+
+b          A.23 utt1:  Uh-huh. /  
+
+sd          B.24 utt1:  -- {C and so } [ he, +  he ]  was pretty much looking for a Jesuit university,  /
+%          B.24 utt2: {C and so } there --   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  -- {D you know, } - /
+sd          B.26 utt2: that was limited  to five or six different places  /
+sd          B.26 utt3: [ {C and, } +  {F um, } {C so } ] he's in  Saint Louis U,  /
+sv          B.26 utt4: {C and } I guess I played a role in that.  /
+sd          B.26 utt5: [ I, +  I ] just sort of, {F uh, } let  them, {F um, } {D you know, } - /
+sd          B.26 utt6: they'd all been, {F uh } --   
+
+b          A.27 utt1:  Yeah. /  
+
++          B.28 utt1:  -- pretty efficient as far as studies  /
+sd          B.28 utt2:  {C and, } {F uh, } {C so } I didn't have that much to do,  /
+sd          B.28 utt3: [ they just, +  {F uh } --   
+
+b          A.29 utt1:  Yeah. /  
+
++          B.30 utt1:  -- they just ] knew they wanted to go to college,  /
+sd          B.30 utt2: {C and } I, {D you know, } helped them get there as far as --   
+
+b          A.31 utt1:  Yeah. /  
+
++          B.32 utt1:  -- traveling with them to look at different --   
+
+b          A.33 utt1:  Yeah. /  
+
++          B.34 utt1:  -- places.  /
+sd          B.34 utt2: We did do that,  /
+sd          B.34 utt3:  {C and } I would suggest a person always goes and looks at the school before they sign up. /  
+
+b         A.35 utt1:  Yeah,  /
+sv          A.35 utt2: I think that's a great idea,  /
+%          A.35 utt3: {E I mean, } that, -/  
+
+sv          B.36 utt1:  Some people don't do it,  /
+sv          B.36 utt2:  {C and then } they get there and hate it, or whatever,  /
+sd          B.36 utt3: {C so } --   
+
+b          A.37 utt1:  Right. /  
+
++          B.38 utt1:  -- if it's possible. /  
+
+sv          A.39 utt1:  [ It's, +  it seemed ] expensive at  the time you're doing it, [ {C but, } +  {C but } ] [ the -- +    
+
+b          B.40 utt1:  Right. /  
+
++          A.41 utt1:  -- compared to [ the, +  the ] ] total decision it's nothing. /  
+
+sv          B.42 utt1:  I think in the short run it is expensive.  /
+sv          B.42 utt2:  In the long run it's very, {F uh, } reasonable --   
+
+b          A.43 utt1:  Yeah. /  
+
++          B.44 utt1:  -- if the person, - /
+sd          B.44 utt2: my daughter has  been [ in, +  in ] Missouri for a second year,  /
+sd          B.44 utt3: now she's coming home  at the end of the semester -- /  
+
+b          A.45 utt1:  Uh-huh. /  
+
+sd          B.46 utt1:  -- <Inhaling> {C so, } {F uh, } {D you know, }  she's already twenty-one.  /
+sd          B.46 utt2: She started late.  /
+sd          B.46 utt3: {C So } that's, {D you know, }  strictly up to her,  /
+sd          B.46 utt4: {C and, } {F uh, } she'll [ finish down here, +  {F uh, } {F uh, } finish this year down here ]  and then decide what she's  going to do next year. /  
+
+b          A.47 utt1:  Yeah. /  
+
+sd          B.48 utt1:  It'll save me a lot of money because  I'm not going to have to pay out of state tuition -- /  
+
+b          A.49 utt1:  Yeah. /  
+
+sd          B.50 utt1:  -- {C but } again, that's her decision -- /  
+
+b         A.51 utt1:  Right. /  
+
+sd          B.52 utt1:  -- [ {C so, } + {F uh, } {C but } ]  I have so many students in my classes that have dropped out and come back,  /
+sv          B.52 utt2:  {C and } they're much better students at twenty-five, twenty-six, may, twenty-eight.  /
+sd          B.52 utt3:  {C So, } {D you know, } [ I don't, +  I never have ] pushed them.  /
+sd          B.52 utt4:   I just say that education is important, you should do it, {F uh, }  /
+sd          B.52 utt5:  {C but, } {F uh, } they have to do the work -- /  
+
+b          A.53 utt1:  Yeah. /  
+
+%          B.54 utt1:  -- {C so, } {F uh. } -/  
+
+b          A.55 utt1:  Yeah,  /
+ad          A.55 utt2: {D well, } [ back, +  back ]  to this visiting thing,  /
+sd          A.55 utt3: {E I mean, } I found that my kids had no conception what college was really like --    
+
+b          B.56 utt1:  Right. /  
+
++          A.57 utt1:  -- [ {C and, } +  {C and } ] that the  process of going around to a few schools with them really helped them understand -- /  
+
+b          B.58 utt1:  Yeah. /  
+
+sd          A.59 utt1:  -- {C and } being able to go with them to  [ so-, +  at least some ] of them --   
+
+aa          B.60 utt1:  {F Oh, } I think so. /  
+
++          A.61 utt1:  -- gave me a chance to explain things  to them  [ and to, + ] {F uh, } in reference to what we had seen. /  
+
+sv          B.62 utt1:  {C And } also I'm opposed [ to the, +   to the ] size.   /
+sv          B.62 utt2: They've just gotten so huge,  /
+sd          B.62 utt3: {C and so } my daughter first looked at a place that was forty thousand,  /
+sv          B.62 utt4: see that's just too many. /  
+
+ba          A.63 utt1:  Good grief <laughter>. /  
+
+sd          B.64 utt1:  Ended up going to where I used to go,  /
+sd          B.64 utt2:  {C and } that was twenty-five hundred when I went there,  /
+sd         B.64 utt3:  it's twenty-one thousand, now  /
+sv          B.64 utt4: it's too big. /  
+
+ba          A.65 utt1:  Good grief. /  
+
+%          B.66 utt1:  {D So, } -/  
+
+qw          A.67 utt1:  What is twenty-one thousand? /  
+
+br          B.68 utt1:  Pardon? /  
+
+qw          A.69 utt1:  What school is that? /  
+
+sd          B.70 utt1:  It's Southwest Missouri State University -- /  
+
+b          A.71 utt1:  Uh-huh. /  
+
+sd          B.72 utt1:  -- {C and, } {F uh, } it was twenty-five   hundred when I went there forty years ago,  /
+sd          B.72 utt2: {C and, } {F uh, } my son's  in a school about seven thousand,  /
+sv          B.72 utt3: {C and } [ that's, +  that's ] not bad -- /  
+
+b          A.73 utt1:  Uh-huh. /  
+
+sd          B.74 utt1:  -- I teach in a school about eight  thousand,  /
+sv          B.74 utt2: {C and } [ that's, +  that's ] even a little large -- /  
+
+aa          A.75 utt1:  Yes. /  
+
+sv          B.76 utt1:  -- {C but } it's much better than  twenty-one thousand.  /
+sv          B.76 utt2: {C But } they do have to visit,  [ and + ] [ if, +  if ]  the parent can point out all the different places to look [ for -- +    
+
+b          A.77 utt1:  Uh-huh. /  
+
++          B.78 utt1:  -- for ] scholarships,  /
+sd          B.78 utt2: {C and then, }  {F oh, } those rating, {F uh, } - /
+sd          B.78 utt3: the magazines and all those things are doing the ratings now and  everything,  /
+sv          B.78 utt4: I don't think it hurts to look at them -- /  
+
+aa          A.79 utt1:  Yes. /  
+
+sv          B.80 utt1:  -- I don't put that much stock in them,  /
+%          B.80 utt2: {C but } -- -/  
+
+b          A.81 utt1:  Uh-huh. /  
+
+sv          B.82 utt1:  -- probably fine just to compare. /  
+
+bf          A.83 utt1:  Helps to at least set up --   
+
+b          B.84 utt1:  Right. /  
+
++          A.85 utt1:  -- range of things to look at. /  
+
+sv          B.86 utt1:  If [ they, +  {D you know, } {F uh, } they ] need to, -/ 

@@ -1,0 +1,494 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2197_1110_1073
+TOPIC#:		324
+DATE:		910323
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None. 
+
+============================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+sd          A.1 utt2: we're rolling.  /
+%          A.1 utt3: I, {F uh, } - /
+qw          A.1 utt4:  [ [ what, +  what would you, ] +  what [ would, +  has ] your ] experience lead you to advise, {F uh, }  if my child were thinking of going to the Air Force Academy,  /
+qw          A.1 utt5: what would you say? /  
+
+sd          B.2 utt1:  {D Well, } I'd encourage it. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sv          B.4 utt1:  It's a good general [ [ e-, +  ed-, ] +   education ] for [ a, +  a ] bachelor's degree. /  
+
+b          A.5 utt1:  Uh-huh,  /
+b^r          A.5 utt2: uh-huh. /  
+
+sd          B.6 utt1:  [ {C And } obviously, +  {C and } obviously ]  it's where they don't have [ a, +  any ] post graduate program there,  /
+sv          B.6 utt2: {C but } you get  [ a, +  an ] excellent, wide, {F uh, } basis of topics.  /
+sv          B.6 utt3: {D You know, } you get a good broad education out of it. /  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sv          B.8 utt1:  [ You don't, +  they don't ] graduate the  best engineers or the best English majors, but --   
+
+b          A.9 utt1:  Uh-huh. /  
+
++          B.10 utt1:  -- maybe a graduate pretty good  overall students out of there. /  
+
+b^r          A.11 utt1:  Uh-huh,  /
+b^r          A.11 utt2: uh-huh,  /
+b^r          A.11 utt3: uh-huh. /  
+
+%          B.12 utt1:  {F Uh, } /  
+
+qo          A.13 utt1:  How do you feel about, - /
+sv          A.13 utt2: it must be a  somewhat different environment from a regular college.  /
+qw          A.13 utt3: How does that, {F uh, } - /
+qw          A.13 utt4:  how do you feel that is for someone [ at, +  at ] that phase in their life? /  
+
+sv          B.14 utt1:  {D Well, } [ the + ] <breathing> for  some people, it's good because [ they +  maybe they ] need a little discipline, need a little  reining in at [ that, +  that ] stage in their life.  /
+%          B.14 utt2:  {F Uh, } other people, - /
+sv          B.14 utt3:  [ it, +  {F uh, } it's, ] {F uh, } suffocating, /  
+
+b          A.15 utt1:  Uh-huh. /  
+
+sv          B.16 utt1:  {D you know, } you kind of choke on it -- /  
+
+b^r          A.17 utt1:  Uh-huh,  /
+b^r          A.17 utt2: uh-huh,  /
+b^r          A.17 utt3: uh-huh. /  
+
+sv          B.18 utt1:  -- {F uh, } [ it, +  it ] depends [ on the person, +    
+
+b^r          A.19 utt1:  Uh-huh. /  
+
++          B.20 utt1:  on the individual, ]  /
+sv          B.20 utt2: {C but, } {F uh, }  the one factor I think more than anything else in this day and age that's got to be  a big factor in your decision's just [ the, +  the ] cost [ of, + ] how much you're going to pay --   
+
+b^r          A.21 utt1:  Uh-huh. /  
+
++          B.22 utt1:  -- no matter where you go to school. /  
+
+b^r          A.23 utt1:  Uh-huh. /  
+
+sv          B.24 utt1:  {C And } if you've been in for twelve years,  {A I'm sure you've, }   
+
+x          A.25 utt1:  <Laughter>.   
+
++          B.26 utt1:  you've got [ a, +  your ]  share of student loans that, {F uh, } you're probably going to be paying off or have been  /
+%          B.26 utt2: {C or, } -/  
+
+sd          A.27 utt1:  {D Well, } I sort of, - /
+sd          A.27 utt2: one of the  reasons it's taken so long is I've been working [ all, + ] {D you know, }   
+
+b          B.28 utt1:  Uh-huh. /  
+
++          A.29 utt1:  sort of [ half student, +  half working ]  and source of income and stuff,  /
+sd          A.29 utt2: {C so } I'm actually managing to do this with zero debt. /  
+
+ba          B.30 utt1:  {F Oh, } that's good. /  
+
+sv          A.31 utt1:  {F Uh, } [ I couldn't, +  you couldn't ]  do it otherwise. /  
+
+sd          B.32 utt1:  {F Oh, } [ y-, + ] {E I mean } I know  people [ that graduated, +  {E or } that I went to high school ] with that went to civilian colleges  /
+sd          B.32 utt2:  {C and } [ they, +  they've ] got twenty, thirty thousand dollar debts,  /
+sd          B.32 utt3: {E I mean } you could have, {F uh, } -/  
+
+b          A.33 utt1:  Yeah,  /
+sv          A.33 utt2: I think if there's any major  piece of advice [ I'd give, + ] is to find a way of getting an education that doesn't incur that kind of debt. /  
+
+b          B.34 utt1:  Yeah. /  
+
+%          A.35 utt1:  It's not, - /
+sd          A.35 utt2: {E I mean, } I remember  seeing an article one time about, {D you know, } if the average person who spent that much money  going to college just took the same amount of money and put it [ in [ a, + a, ]  + in an ] investment fund, they'd be considerably wealthier than they would be from the <laughter> job they'd get after college. /  
+
+aa          B.36 utt1:  Exactly. /  
+
+sv          A.37 utt1:  {C So, } [ it's, +  it's ] really kind of crazy. /  
+
+sv          B.38 utt1:  [ It's, +  it's ] staggering when you  think that, just here in central New York, is, {F uh, }  /
+sd          B.38 utt2: Hamilton College is just [ a  few miles south of, +  {D you know, } maybe about twenty miles to the south from ] where I am -- /  
+
+b          A.39 utt1:  Uh-huh. /  
+
+sd          B.40 utt1:  -- {C and, } {F uh, } they're looking  for twenty-two thousand dollars for tuition and  room and board now. /  
+
+bh          A.41 utt1:  Really? /  
+
+sd          B.42 utt1:  A year. /  
+
+%          A.43 utt1:  {F Huh. } /  
+
+sd          B.44 utt1:  At just a small, - /
+sv          B.44 utt2: {E I mean }  [ [ [ they, +  they, ] +  they ] are  s-, +   it is a select, ]   
+
+aa          A.45 utt1:  Yes,  /
+aa^r          A.45 utt2: yes,  /
+sd          A.45 utt3: I know. /  
+
++          B.46 utt1:  college. /  
+
+sd          A.47 utt1:  [ I was actually, +  [ I th-, +  I was  thinking ] ] of trying to get a job there <breathing>.  /
+sd          A.47 utt2: I heard of it. /  
+
+b          B.48 utt1:  {F Oh, } yeah.  /
+sv          B.48 utt2:  {C But, } you're talking incredible tuitions now. /  
+
+b          A.49 utt1:  Uh-uh. /  
+
+sd          B.50 utt1:  I don't know how many people actually  pay the whole shot.  /
+sv          B.50 utt2: Very few I would imagine. /  
+
+b          A.51 utt1:  Yeah. /  
+
+%          B.52 utt1:  {C But, } {F uh, } I get, - /
+sd          B.52 utt2:  I just couldn't ima-, - /
+sd          B.52 utt3: {E I mean } it's more money that I make in a year,  /
+%          B.52 utt4: {C so } <laughter>, -/  
+
+x          A.53 utt1:  <Laughter>.   
+
+%          B.54 utt1:  {D You know, } it, {D you know, } - /
+sd          B.54 utt2:  me being one person with a above the median income,   
+
+b          A.55 utt1:  Yeah. /  
+
++          B.56 utt1:  for New York state, {D you know, } - /
+sd          B.56 utt2:  [ I'm a s-, +  I'm a second ] lieutenant in the Air Force now,  /
+%          B.56 utt3: {C and, }   
+
+b          A.57 utt1:  Uh-huh. /  
+
++          B.58 utt1:  {F uh, } I, - /
+sv          B.58 utt2: even as a somebody making  twice what I was making, how could you put half of that [ into, +    
+
+b          A.59 utt1:  Uh-huh. /  
+
++          B.60 utt1:  to ] your child's education  /
+sv          B.60 utt2:  {C and then } just when they [ [ make, +  made, ] + make ] it to the college years it's, -/  
+
+b          A.61 utt1:  Yeah,  /
+b^r          A.61 utt2: yeah. /  
+
+sd          B.62 utt1:  My God, I can't imagine. /  
+
+sv          A.63 utt1:  {D Well, } [ my, +  my ] real feeling  [ about, +  about ] the purpose of undergraduate education is it's really the time,  /
+o          A.63 utt2: yes,  /
+sv          A.63 utt3:  you do get an education, you do learn some things,  /
+sv          A.63 utt4: {C but } you eventually forget most of it. /  
+
+aa          B.64 utt1:  Yes. /  
+
+sv          A.65 utt1:  {C But } what you don't forget is the   growing up.  /
+sv          A.65 utt2: It's really the period when people become adults.  /
+sv          A.65 utt3: {E I mean } people  who don't go to college become adults in other ways.  /
+%          A.65 utt4: {C But, } really,  /
+sv          A.65 utt5:  it's the entry into adulthood, I think.  /
+sv          A.65 utt6:  {C And } I think that the best way to choose a college is  to decide what kind of environment you want to be fostered in [ as you become, +  {D you know, } as you gain ] new social skills,  as you become, {D you know, } more  of a functioning member of society.  /
+sv          A.65 utt7:  {C And } maybe the Air Force Academy is a perfect, - /
+sv          A.65 utt8:  as you said for someone [ who, +  {D you know, } [ a more, + ]  {D you know, } who ]  needs to learn self-discipline and so forth would be appropriate for them. /  
+
+sv          B.66 utt1:  {C Or, } it's also a good environment,  /
+sv          B.66 utt2:  it may be good for someone who already has self discipline, who has a certain amount  of leadership quality in their own,   
+
+b          A.67 utt1:  Yeah, /  
+
++          B.68 utt1:  that, -/  
+
+^2          A.69 utt1:  {C and } want to develop that. /  
+
+%          B.70 utt1:   {C And, } that, - /
+aa          B.70 utt2: yeah,  /
+%          B.70 utt3: the s-, - /
+sv          B.70 utt4: it's the same. /  
+
+b          A.71 utt1:  Uh-huh. /  
+
+sd          B.72 utt1:  It can benefit different people different ways. /  
+
+b          A.73 utt1:  Uh-huh,  /
+b^r          A.73 utt2: uh-huh. /  
+
+sd          B.74 utt1:  {C But, } {F uh, } {D you know, }  [ I, + I ] agree with that, because I see people that I know [ f-, +  again, from ] high school,   
+
+b^r          A.75 utt1:  Uh-huh. /  
+
++          B.76 utt1:  that I still keep in touch with,   
+
+b^r          A.77 utt1:  Uh-huh. /  
+
++          B.78 utt1:  that didn't go to college  /
+sd@          B.78 utt2:  {C and } they do the same old things they did in high school  and,*[[needs slash because following utt by B repeats utt of A; is not necessarily the intended end of this utt]]   
+
+^2^g          A.79 utt1:  The same patterns of behavior, you mean? /  
+
++          B.80 utt1:  Same patterns of behavior,   
+
+b          A.81 utt1:  Yeah,  /
+b^r          A.81 utt2: yeah. /  
+
++          B.82 utt1:  [ same, +  {F uh, } same ] socializing,  same exact crowd that they hang with  /
+sv          B.82 utt2: {C and } [ it's {D like, } + it's {D like } ] frozen time, <laughter> {D you know. } /  
+
+aa          A.83 utt1:  Exactly,  /
+sv          A.83 utt2: [ it's ki-, +  I find it kind ]  of sad,  /
+sd          A.83 utt3: I really do. /  
+
+aa          B.84 utt1:  It is.  /
+sv          B.84 utt2: It really is that they  haven't found [ anything, +  anything ] better that, {F uh, } - /
+sv          B.84 utt3: {C or } [ their, +  their ]  experiences haven't been broadened at all,   
+
+b          A.85 utt1:  Uh-huh. /  
+
++          B.86 utt1:  [ to, +  to ] {D you know, } {D you know, } - /
+sv          B.86 utt2:  [ [ it's, +  it's a, ] +  it's a ] tremendous thing when you sit [ in  a, + in a ] college environment and  discuss some issues and really sit there with people with disagreeing opinions  /
+sv          B.86 utt3:  {C and } you hear all these different sides of the story --   
+
+b          A.87 utt1:  Yeah. /  
+
++          B.88 utt1:  -- that you never thought of -- /  
+
+b          A.89 utt1:  Right. /  
+
+sv          B.90 utt1:  -- {C and, } {F uh, } that's another  big thing I think people get out of college is the appreciation for [ different point, +  differing points ] of view,   
+
+b          A.91 utt1:  Uh-huh,  /
+b^r          A.91 utt2: uh-huh. /  
+
++          B.92 utt1:  {D you know, } or different opinions. /  
+
+b          A.93 utt1:  Yeah,  /
+sv          A.93 utt2: in high school everyone sort  of tries to have the same opinion <laughter> it seems. /  
+
+aa          B.94 utt1:  Yeah,  /
+aa          B.94 utt2: exactly,  /
+aa          B.94 utt3: yeah. /  
+
+b^m          A.95 utt1:  Yeah,  /
+sv          A.95 utt2: [ the, +  the ] one thing I  think that's no good for anyone is these monster institutions.  /
+sd          A.95 utt3: These institutions of  [ th-, +  thirty ] thousand students and such. /  
+
+%          B.96 utt1:  {F Oh } I, -/  
+
+sd          A.97 utt1:  {C And } I see some freshmen wandering  around in there  /
+sv          A.97 utt2: {C and } [ they're +  <breathing>, they're ] just like, {D you know, } someone  from the country lost in the big city,  /
+%          A.97 utt3: {E I mean, }   
+
+b          B.98 utt1:  Yeah. /  
+
++          A.99 utt1:  [ they, +  they, ] - /
+sd          A.99 utt2: I don't see them  getting, - /
+sd          A.99 utt3: {E I mean } when I was undergraduate, I went to a, relatively small school for my first  two years  /
+sd          A.99 utt4: {C and then } I transferred to a very large school. /  
+
+b          B.100 utt1:  Uh-huh. /  
+
+sd          A.101 utt1:  {C And } that worked out pretty well.  /
+sd          A.101 utt2:   I went from [ a, +  {D you know, } a ] second rate institution to a higher rate institution. /  
+
+b          B.102 utt1:  Uh-huh. /  
+
+sd          A.103 utt1:  {C But } the first couple of years it  doesn't matter to me what the quality of the education was.  /
+sd          A.103 utt2: I needed to make friends.  /
+sd          A.103 utt3:   I needed to sort of learn the ropes.  /
+sd          A.103 utt4:  {D You know, } there were things like  that, that mattered a lot more  /
+sd          A.103 utt5: {C and } I needed [ basic, +  really simple ] education  that you can get, pretty much anywhere for the first couple of years. /  
+
+sv          B.104 utt1:  {D Well, } your education's a lot what  you make of it, too,  /
+%          B.104 utt2: {C so, } -/  
+
+aa          A.105 utt1:  Yeah,  /
+aa^r          A.105 utt2: yeah,  /
+aa          A.105 utt3: exactly.  /
+%          A.105 utt4:   {C And } if you're alienated, - /
+sd          A.105 utt5:  {E I mean } I see people at supposedly really good universities who  are just having psychological problems,   
+
+b          B.106 utt1:  Yeah. /  
+
++          A.107 utt1:  that, you think this isn't sinking in. /  
+
+sd          B.108 utt1:  {D Well, } [ I, +  I've ] seen more  graduates from M I T  /
+%          B.108 utt2: {C and } that, -/  
+
+b          A.109 utt1:  Uh-huh. /  
+
+%          B.110 utt1:  being, - /
+sd          B.110 utt2: I work [ [ in a, +  in a labora-, ] +   an Air Force laboratory ]  /
+sd          B.110 utt3: {C and so } we've got a lot of, {F uh, } M I T graduates that are  in there  /
+sv          B.110 utt4: {C and } they are the biggest collection of screwed up people that <laughter>,   I think I've ever run into. /  
+
+b          A.111 utt1:  Yeah,  /
+b^r          A.111 utt2: yeah. /  
+
+sv          B.112 utt1:  [ Even, +  even ] more so, {F uh, }  {D like, } military academy grads are a strange lot, too,  /
+sd          B.112 utt2: {E [ I, +  I ] mean } I have to [ ad-, +  confess ] to that. /  
+
+b          A.113 utt1:  Yeah,  /
+sv          A.113 utt2: it's sort of [ a, +  a ] rare select environment. /  
+
+b          B.114 utt1:  Yeah,  /
+sv          B.114 utt2: {C and } they have their own  quirks and tolerances and,    
+
+x          A.115 utt1:  <Laughter>.   
+
++          B.116 utt1:  {D you know, } certain things that  don't bother us at all,   
+
+b          A.117 utt1:  Yeah. /  
+
++          B.118 utt1:  that would drive other people nuts  /
+sd          B.118 utt2:  {C and then } certain things that - /
+sd          B.118 utt3: [ ways, +  things ] we do, - /
+sv          B.118 utt4: the way we do it that drive  other people nuts that, -/  
+
+aa          A.119 utt1:  Right,  /
+aa^r          A.119 utt2: right,  /
+aa          A.119 utt3: sure. /  
+
+sv          B.120 utt1:  {C But, } these M I T grads are off  in their absolute own world.  /
+%          B.120 utt2: [ It, +  it's ] a, - /
+sd          B.120 utt3: [ [ I, +  I ] have more re-, +  I have a lot of respect ]  for M I T master's and doctorate, {F uh, }    
+
+b          A.121 utt1:  Yeah.  /
+sd          A.121 utt2:   It's a top rated institution  /
+%          A.121 utt3: {C and } now I, -/  
+
++          B.122 utt1:  degrees,  /
+sv          B.122 utt2: {C but } they're undergrads   are like, - /
+sd          B.122 utt3: [ I, +  I'm ] amazed, [ at, +  at ] that's a lot of them even graduated. /  
+
+b          A.123 utt1:  Uh-huh,  /
+b^r          A.123 utt2: uh-huh. /  
+
+h          B.124 utt1:  {C But, } {F uh, } I don't know. /  
+
+sd          A.125 utt1:  {D Well, } [ I, +  I ] had known a lot  of undergraduates who pick schools because they want the best reputation for a school.    
+
+b          B.126 utt1:  Right. /  
+
++          A.127 utt1:  Not realizing that the reputation  for M I T is because [ of the, +  of the ] doctorate research,   
+
+b          B.128 utt1:  Right. /  
+
++          A.129 utt1:  and the professors who go there,  /
+sd          A.129 utt2:  {C and } you're not going to see the professors -- /  
+
+aa          B.130 utt1:  Nope. /  
+
+sd          A.131 utt1:  -- <Laughter> {D you know, } you're going  to see some T A, {D you know. }  /
+sv          A.131 utt2: <breathing> {F Uh, } {C so } [ [ they p-, +  [ they,  +  they ] want, ] +  {D you know, } they want ] the best  /
+sv          A.131 utt3: {C and } [ they don't think, +  they think ] what the best  is, is,   
+
+b          B.132 utt1:  Yeah. /  
+
++          A.133 utt1:  reputation [ for, +  for ] research  /
+sd          A.133 utt2:  {C and } that's a one standard,  /
+sd          A.133 utt3: {C but } it's not relevant,   
+
+aa          B.134 utt1:  No. /  
+
++          A.135 utt1:  to what they need. /  
+
+sv          B.136 utt1:  It's interesting that you mention, - /
+sd          B.136 utt2:  {C and } I didn't think about that before when you were talking,  /
+sd          B.136 utt3: {C but } the service  academies have [ all, +  all ] the faculty, {F uh, } for the most part [ is, +  is ]  military with a few exchange,   
+
+b          A.137 utt1:  Uh-huh. /  
+
++          B.138 utt1:  [ instruct-, +  professors  ] from other,   
+
+b^r          A.139 utt1:  Uh-huh,  /
+b^r          A.139 utt2: uh-huh. /  
+
++          B.140 utt1:  schools.  /
+sv          B.140 utt2:  {C But, } {F uh, } having  the military faculty is really beneficial because they see it as doing their job and  spending time with the cadets there, {F uh, } is investing in the Air Force,  /
+%          B.140 utt3:  {C and } it, -/  
+
+b          A.141 utt1:  Right. /  
+
+sd          B.142 utt1:  {C or } [ the, +  the ] military itself,  it's the future officer corps  /
+sd          B.142 utt2: {C and so, } I hear [ hor-, +  horror ] stories from friends of mine  that they could never see their instructors,  /
+sd          B.142 utt3: they could never get extra help. /  
+
+b          A.143 utt1:  Uh-huh. /  
+
+sd          B.144 utt1:  For me any time I needed extra help any time of the day --   
+
+b^r          A.145 utt1:  Uh-huh. /  
+
++          B.146 utt1:  -- I had all my instructors home phone numbers -- /  
+
+b^r          A.147 utt1:  Uh-huh. /  
+
+sd          B.148 utt1:  -- {C and } could call them,  /
+sd          B.148 utt2:  you go to their office anytime.  /
+sd          B.148 utt3: I had some instructors that, {F uh, } would invite me  over to their house for extended study things on weekends,   
+
+%          A.149 utt1:  {F Huh. } /  
+
++          B.150 utt1:  when I was having trouble with something  /
+%          B.150 utt2: {C and, } -/  
+
+b          A.151 utt1:  Yeah,  /
+sd          A.151 utt2: you won't get that at M I T  [ or +  (( virtually ))  or ] anything like that. /  
+
+aa          B.152 utt1:  No,  /
+aa^r          B.152 utt2: no,  /
+%          B.152 utt3: {C and } that, -/  
+
+sv          A.153 utt1:  [ {C And } you c-, +  {D you know, }  {C and } you can't ] blame the professors either,   
+
+aa          B.154 utt1:  No. /  
+
++          A.155 utt1:  because you look at their job description,  /
+%          A.155 utt2:  you'd s-, {D you know, } - /
+sv          A.155 utt3: teaching is third down on the list of importance things  /
+%          A.155 utt4: {C and, } -/  
+
+aa          B.156 utt1:  Right,  /
+aa^r          B.156 utt2: right.  /
+ad          B.156 utt3:  Publish first,  /
+%          B.156 utt4: {C and the } <laughter>, -/  
+
+b          A.157 utt1:  yeah,  /
+sv          A.157 utt2: [ {C and, } +  {C and } ]  that's appropriate if the university is trying to do serious research, because it's hard to be  a researcher and a teacher at the same time. /  
+
+b          B.158 utt1:  Right. /  
+
+sv          A.159 utt1:  {C So } I'd say [ go to a, +  go to a ]  college that has teachers.  /
+sd          A.159 utt2:  People who really are committed to the students and can afford to  be because that's their job. /  
+
+b          B.160 utt1:  Yeah. /  
+
+%          A.161 utt1:  {C But, } {F oh, } {D well } <laughter>. -/  
+
+b          B.162 utt1:  Yeah,  /
+sv          B.162 utt2: [ it's, +  there's ] a lot of  factors that people don't [ ever, +  ever ] consider --    
+
+b          A.163 utt1:  Uh-huh. /  
+
++          B.164 utt1:  -- [ in, +  in ] their selection of  a college  /
+h          B.164 utt2: {C and, } {F uh, } I don't know,  /
+sd          B.164 utt3: maybe, I wonder [ if, +  if ]  (( they enter ))  these  conversations that people have been having, {F uh } ... -/ 

@@ -1,0 +1,185 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3692_1258_1438
+TOPIC#:		359
+DATE:		920107
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+============================================================================
+  
+
+qy^g^t          A.1 utt1:  They're talking about, {F uh, } <talking> federal government, aren't they? /  
+
+na          B.2 utt1:  I'm sure, - /
+nd          B.2 utt2: {D well, } actually probably any government,  /
+sv          B.2 utt3: {C but } --   
+
+b          A.3 utt1:  Yeah. /  
+
++          @B.4 utt1:  -- <Talking> the federal one's the big one <laughter>.  /
+qo          @B.4 utt2:  [ {D So, } + {F uh, } {D so ] } [ what do you, + what do you ] think in the short term we should be doing [ to, + to ] improve it? /  
+
+sd          A.5 utt1:  {D Well, } I saw a program [ on, + {F uh, } recently, ]  /
+sd          A.5 utt2: [ {C and, } + {C and } ] it said every time they cut, {D you know, } {D like } fifty-five million dollars on a certain thing, then they brag about how much money they cut,  /
+sd          A.5 utt3: {C and then } they go and spend that money somewhere else -- /  
+
+b          B.6 utt1:  Right. /  
+
+sd          A.7 utt1:  -- {C and } that's why the budget is never balanced. /  
+
+b          B.8 utt1:  Right. /  
+
+sv          A.9 utt1:  <Talking> The Gramm Rudman Act didn't solve the problem.  /
+sv          A.9 utt2:  They just take all the money that they say they cut  /
+sv          A.9 utt3: {C and } they spend it somewhere else -- /  
+
+b          B.10 utt1:  Yeah. /  
+
+sv          A.11 utt1:  -- {C or } [ they, + {D you know, } they ] pad out their staff, or, {D you know, } spend it in bounced checks at the,   
+
+x          B.12 utt1:  <Laughter>.   
+
++          A.13 utt1:  commissary,  /
+%          A.13 utt2: {C or. } -/  
+
+b          B.14 utt1:  {F Uh, } yeah,  /
+sv          B.14 utt2: I'm getting [ pretty, + kind of ] disgusted with [ the, + {F uh, } {F uh, } {D you know, } the ] fact that they're counting a reduced deficit as being some big step.  /
+%          B.14 utt3: Right.  /
+sv          B.14 utt4:  {E I mean, } first of all, [ [ we were, + we've ] already hit the largest deficit, + this proposed budget has the largest deficit ] ever,  /
+sv          B.14 utt5: {C and, } two, [ a deficit is, + {E I mean, } the deficit [ [ is only, + {F uh, } is, ] + is ] ] as far from a balanced budget, - /
+sv          B.14 utt6: you reduce the deficit,  /
+sv          B.14 utt7: [ you, + [ [ you're still not, + you're still not, ] + you're still ] ] overspending. /  
+
+b          A.15 utt1:  Uh-huh. /  
+
+b          B.16 utt1:  Right.  /
+sv          B.16 utt2:  {E I mean, } it's just the amount that you're overspending,  /
+sv          B.16 utt3: {C and } this is, <talking> {D you know, } for some reason, the way that the reporting is going on now,  /
+sv          B.16 utt4: it seems [ like, + like ] the goal is to reduce the deficit to some, {D you know, } still outrageous amount, {F um, } <clicking>.  /
+%          B.16 utt5: Yeah,  /
+sv          B.16 utt6: [ [ I, + I, ] + I ] think in the long term something is going to have to be done with, {F uh, } sort of [ the, + the, ] {F uh, }  /
+sv          B.16 utt7: {D well } {E I mean, } it seems to be kind of inherent in the political process, right, that you've got, {F uh, } people, {D you know, } [ trying to, + </talking> trying to ] corner money for their state or for their constituents so that they can get reelected. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sv          B.18 utt1:  {C And, } {F uh, } there isn't any sort of overall accountability,  /
+h          B.18 utt2: [ {C and, } + {C and, } ] {F uh, } I don't know,  /
+sv          B.18 utt3: [ I, + I ] suppose [ [ that, + that, ] + that ] the only kind of solution ultimately that we're going to have, [ [ is, + is, ] + is ] exposure and information.  /
+sv          B.18 utt4:  {C And } I don't know that in general the American people are that interested, {D you know, } to listen [ to, + to ] as much, {F uh, } {F uh, } {D you know, } - /
+sv          B.18 utt5: {E I mean, } you're going to have to know what people are doing, [ and, + {F uh, } {D you know, } [ and how, + and [ how, + how ] ] ] partisan [ and  how + <laughter> and how ] self-interested [ their, + their ] motives are --   
+
+b          A.19 utt1:  Uh-huh. /  
+
++          B.20 utt1:  -- [ and, + and ] take it <talking> to task for it, because it's not going to get solved, {D you know, } if people are still trying, {D you know, } - /
+sv(^q)          B.20 utt2: like you were saying <talking> you say, {D you know, } hey, [ we just, + {D you know, } we just ] cut defense,  /
+^q          B.20 utt3: let me grab some of this money for my state now,  /
+^q          B.20 utt4: {C and then } we can throw in some highway bill,  /
+sv          B.20 utt5: {C or } you can throw </talking> in [ some, + {D you know, } some ] other kind of thing,  /
+sv          B.20 utt6: {C and, } {F uh, } it's a pretty [ vicious, + {F uh, } vicious ] cycle.  /
+h          B.20 utt7:  I don't know. /  
+
+sv          A.21 utt1:  {D Well, } I think [ they should, + they should ] limit the Senate to [ one term, + one six year term. ] /  
+
+%          B.22 utt1:  That's, - /
+%          B.22 utt2: yeah,  /
+sd          B.22 utt3: that's being batted around.  /
+sd          B.22 utt4:  [ [ I, + {F uh, } my, ] + my ] dad was always a [ pro-, + proponent ] of that.  /
+sd          B.22 utt5:  [ He, {F uh } -- +   
+
+b          A.23 utt1:  Uh-huh. /  
+
++          B.24 utt1:  -- he ] felt that that would get people involved [ who were, + who were ] interested in being public servants as opposed to personal servants. /  
+
+aa          A.25 utt1:  Right,  /
+sv          A.25 utt2: [ {C and, } + {C and } ] don't let them come back,  /
+sv          A.25 utt3: [ {C and, } + {C and, } ] {F uh, } keep Congress to, {F um, } two terms of two years a piece -- /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sv          A.27 utt1:  -- {C and then } it'll be overturning  /
+sv          A.27 utt2: {C and } they won't have the same people there all the time -- /  
+
+b          B.28 utt1:  Right. /  
+
+sv          A.29 utt1:  -- {C and then, } all the special interest groups will have to renegotiate all of [ their -- +   
+
+b          B.30 utt1:  Right. /  
+
++          A.31 utt1:  -- their ] payoffs and kickbacks  /
+sv          A.31 utt2: {C and } that'll keep them busy enough so that they won't have as much influence. /  
+
+b          B.32 utt1:  Uh-huh. /  
+
+sv          A.33 utt1:  [ {C Because } that's one of the things, + one of the biggest things is [ that, + {F uh, } the fact that ] ] they're always trying to lean somebody toward one way or  another, whether it's the oil companies, or the automotive companies, and {D like } the air bag thing.  /
+sd          A.33 utt2:  The air bag came out, {D what, } twenty years ago. /  
+
+b          B.34 utt1:  Right <laughter>. /  
+
+sd          A.35 utt1:  {C And } only now they're getting that put in cars. /  
+
+aa          B.36 utt1:  Uh-huh,  /
+aa          B.36 utt2: yeah. /  
+
+sv          A.37 utt1:  {C And } the oil companies [ are, + really aren't ] responsible, {D you know. }  /
+sv          A.37 utt2: The Valdez proved that,  /
+sv          A.37 utt3: {C and then } the government doesn't jump on them hard enough to make them do anything. /  
+
+b          B.38 utt1:  Right. /  
+
+sv          A.39 utt1:  It should have been done immediately. /  
+
+aa          B.40 utt1:  Yeah,  /
+aa^r          B.40 utt2: yeah,  /
+aa          B.40 utt3: [ I think, + I think ] that that's probably right,  /
+sv         B.40 utt4: {C because } in terms of long term, you just got to get people, {F um, } - /
+sv          B.40 utt5: {E I mean, } {F uh, } at one point, at least on a local level, {F um, } going into politics [ is, + {D you know, } what you're doing [ is, + is ] ] really trying to serve the community --   
+
+b          A.41 utt1:  Uh-huh. /  
+
++          B.42 utt1:  -- right,  /
+sv          B.42 utt2: {E I mean, } you don't expect to make any money out of it.  /
+sv          B.42 utt3: {D You know, } maybe you gain a little bit of local fame,  /
+sv          B.42 utt4: [ {C but, } + {C but } ] [ it's, + {F uh, } you put ] in a lot of work in exchange for that. /  
+
+b          A.43 utt1:  Right. /  
+
+sv          B.44 utt1:  {C And } I don't have the feeling that national level politicians [ are, + are ] at all like that. /  
+
+aa          A.45 utt1:  No.  /
+sv          A.45 utt2:  They listen to wherever the money is. /  
+
+aa          B.46 utt1:  Yeah.  /
+sv          B.46 utt2:  {C And, } {F uh, } {D you know, } I think [ [ that, + that, ] + that ] the problem with having, {D you know, } junior people coming in all the time is that you end up kind of wasting a lot of time [ with, + {F uh, } {D you know, } with [ in-, + inept ] ] politicians --   
+
+b          A.47 utt1:  Right. /  
+
++          B.48 utt1:  -- or people who don't know how to deal with it. /  
+
+aa          A.49 utt1:  Yeah,  /
+sv          A.49 utt2: they're not as efficient,  /
+ba          A.49 utt3: that's for sure. /  
+
+sv          B.50 utt1:  {C But } on the other hand, maybe that's, -/ 

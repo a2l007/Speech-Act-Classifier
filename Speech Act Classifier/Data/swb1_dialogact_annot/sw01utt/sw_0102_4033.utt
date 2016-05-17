@@ -1,0 +1,247 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4033_1501_1537
+TOPIC#:		349
+DATE:		920302
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.    
+
+===========================================================================
+  
+
+qw          A.1 utt1:  {D So } how do you get most of your current event information? /  
+
+sd          @B.2 utt1:  {D Well, }  ((   )) , see I'm going to school right now, #  /
+sd          @B.2 utt2:  {C and, }  {F uh, } # --   
+
+b          A.3 utt1:  # Uh-huh. # /  
+
++          B.4 utt1:  -- while I'm working, [ I don't get a, + I don't get a ]  chance to read the paper a lot,  /
+sd          B.4 utt2: {C and } I don't watch T V as much really either, because,  {F uh, } my free time is kind of, - /
+sd          B.4 utt3: {C and } I [ do, + {D like } [ to + ] do ] other stuff  with it. /  
+
+b          A.5 utt1:  Right. /  
+
+sd          B.6 utt1:  While I'm at work sometimes, [ I, + ] on the computer network --    
+
+b          A.7 utt1:  Uh-huh. /  
+
++          B.8 utt1:  -- {F um, } I read the news sometimes,  /
+sd          B.8 utt2: {C and } that's kind  of helpful. /  
+
+sv          A.9 utt1:  I would imagine going to college, though, your professors  and different things, - /
+sv          A.9 utt2: you keep up on what's going on. /  
+
+aa          B.10 utt1:  That's true,  /
+sd          B.10 utt2: {E I mean, } my roommates and stuff, {D you know } --   
+
+b          A.11 utt1:  Yeah. /  
+
++          B.12 utt1:  -- people around me talk about it.  /
+sd          B.12 utt2: {C And } the people  I work with are pretty, {D you know, } [ up, + up-to-date ] on that kind of stuff,  /
+%          B.12 utt3: {C so. } -/  
+
+b          A.13 utt1:  Right.  /
+sd          A.13 utt2: {D Well, } I'm a housewife,  /
+sd          A.13 utt3: I have three kids, #  /
+sd          A.13 utt4:  {C and  so } # --   
+
+b          B.14 utt1:  # Uh-huh. # /  
+
++          A.15 utt1:  -- {F um, } I get most of my information probably  through just the news at six o'clock --   
+
+b          B.16 utt1:  Yeah. /  
+
++          A.17 utt1:  -- and  then, {F um, } talking with people and just hearing  what's going on. #  (( )) . # /  
+
+qy          B.18 utt1:  # [ Do you watch, + # do you watch ] [ the network, +  {D like } major network ] news,  /
+qrr          B.18 utt2: {C or } do you watch {D like } --   
+
+sd          A.19 utt1:  [ Just the # regular channel # -- +   
+
++          B.20 utt1:  -- # the MACNEIL LEHRER HOUR? # /  
+
++          A.21 utt1:  -- just channel eight. ] /  
+
+b          B.22 utt1:  {F Oh, } really. /  
+
+sd          A.23 utt1:  That's our channel here  /
+sd          A.23 utt2: that's the, {F um, } eyewitness news. /  
+
+b          B.24 utt1:  Uh-huh. /  
+
+%          A.25 utt1:  # {D So. }  # -/  
+
+sd          B.26 utt1:  # {F Oh, } [ ch-, + # see channel, ] where I am channel  eight's, {F um, } {D like } public T V, - /
+sd          B.26 utt2: {C so } it's kind of different. /  
+
+b          A.27 utt1:  {F Oh, } uh-huh.  /
+b          A.27 utt2: # Yeah. # /  
+
+sv          B.28 utt1:  # [  I think, # + I think ]  the, {F uh, } - /
+sv          B.28 utt2:  I think  a lot of the commentators on, {D like } the major networks, {D like } right, it's kind of appropriate  right now because of the election stuff going on,  /
+sv          B.28 utt3: {C but, }  {F um, } it seems that, {F um, }  they kind of get to throw their opinions into how they, {D you know, } report on the news. /  
+
+aa          A.29 utt1:  Right.  /
+sv          A.29 utt2:  {C And } I think even in the elections,  they choose who they're going to follow and who they're not,  /
+sv          A.29 utt3: {C and } basically --   
+
+b          B.30 utt1:  Yeah. /  
+
++          A.31 utt1:  -- {D you know, } if a candidate can get them to follow,  then the news will, {D you know, } kind of publicize his name. /  
+
+aa          B.32 utt1:  Yeah,  /
+aa          B.32 utt2: exactly. /  
+
+sv          A.33 utt1:  I don't think that the way I get the news is the right  way to get it.  /
+sv          A.33 utt2: I think you get a very lopsided picture of what's going on. /  
+
+b          B.34 utt1:  Uh-huh,  /
+sv          B.34 utt2: because [ they can, + they can ]  only report on, {E I mean, } - /
+sv          B.34 utt3: they give each candidate perhaps, {D you know, } ten second blurbs in which  [ to, + {D you know, } to ] say, [ you, + you ] just can't get a full picture of, {D you know } --   
+
+b          A.35 utt1:  Right. /  
+
++          B.36 utt1:  -- their message unless you have time to sit down [ and r-, +   and probably read ] something on it. /  
+
+aa          A.37 utt1:  Right.  /
+sv          A.37 utt2: {C And } the news, too, it just doesn't, {F um, }  cover that many stories,  /
+sv          A.37 utt3: {E I mean, } it just covers your basic, {D you know, } violent crimes --   
+
+b          B.38 utt1:  Yeah. /  
+
++          A.39 utt1:  -- [ [ and, + {D you know, } and, ] + and ] your [ ca-, +  catastrophes ] with weather and stuff,  /
+sv          A.39 utt2: {C but } other than that, you really don't know what's going on. /  
+
+b          B.40 utt1:  Yeah. /  
+
+sd          A.41 utt1:  {F Um, } I will read our current letters that come out on  elections  /
+sd          A.41 utt2: {C and, }  I guess I do read that,  /
+sd          A.41 utt3: {C and } I do study who's running in our area,  /
+sd          A.41 utt4:  {C and } I do study what's going on in the economy.  /
+%          A.41 utt5:  It, {D you know, } - /
+sd          A.41 utt6:  {C and, }  I guess I do read other magazines, {F um, } too, to get my information. /  
+
+qw          B.42 utt1:  What kind of, see, - /
+sd          B.42 utt2: I subscribe to {D like } SCIENCE NEWS,  /
+sd          B.42 utt3: {C and } [ that's, + that's ] real good because it gives {D like } a brief summary of,   {C or } {D like } the updates, {D like } of what's going on in science without getting into a lot of detail that would, {D you know, } bog me down that I wouldn't know about -- /  
+
+b          A.43 utt1:  Right. /  
+
+sd          B.44 utt1:  -- {C but } other than that I don't really read,  /
+sd          B.44 utt2:  [ I don't, + I don't ] really subscribe to anything else. /  
+
+sd          A.45 utt1:  I used to read every month a READER'S DIGEST -- /  
+
+b          B.46 utt1:  Uh-huh. /  
+
+sd          A.47 utt1:  -- {C but, }  {F um, } now I guess I just have friends  that clip articles  /
+sd          A.47 utt2: {C or } if I, {D you know, } am interested in something, {A of course, [ during the w-, +  when we were in war, ] } I read up on that just a little in the newspaper --   
+
+b          B.48 utt1:  {F Oh, } yeah. /  
+
++          A.49 utt1:  -- to find out what was going on.  /
+sd          A.49 utt2:  {C But } a lot of  the times, [ I, + {D you know, } I ] wish I had the time to read all the stories in the newspaper,  /
+sd          A.49 utt3:  {C but } I just can't seem to find the time. /  
+
+b          B.50 utt1:  Yeah. /  
+
+sd          A.51 utt1:  If they put it out in a video, or on <laughter>,   
+
+x          B.52 utt1:  <Laughter>.   
+
++          A.53 utt1:  not a video but a cassette tape or something, where you  could just listen to it --   
+
+b          B.54 utt1:  Yeah. /  
+
++          A.55 utt1:  -- I would do that while I was doing other things.  /
+%          A.55 utt2:  {C But, } -/  
+
+sd          B.56 utt1:  {D Well, } I remember back [ during the, + {F uh, } during the ]  war, everyone here at work always had the radio or the T V on, because [ that, + they ]  were going constantly with that stuff. /  
+
+b          A.57 utt1:  Right. /  
+
+%          B.58 utt1:  {C But, }  {F uh. } -/  
+
+sd          A.59 utt1:  <Throat_clearing> {D Well, } [ I, + {F um, } they ]  even did a story on our news here in Texas on what people wanted to see more of,  /
+sd          A.59 utt2: {C and }  people said that they wanted to see more on outside of Texas news.  /
+sd          A.59 utt3: {D You know, }  we just don't want to hear every night all the killings that went on here in Dallas -- /  
+
+b          B.60 utt1:  Yeah. /  
+
+sd          A.61 utt1:  -- that we want to hear what's going on with  the economy, what's being done to help it, what's going on in other countries,  what's, {D you know, } just # more information. # /  
+
+sv          B.62 utt1:  # [ If they reported every, + # if they reported every ]  violent crime in Atlanta [ it would take, + it would probably take ] the whole news hour <laughter>. /  
+
+b          A.63 utt1:  <Laughter>  # Yeah. # /  
+
+%          B.64 utt1:  # {C But, }  {F uh. } # -/  
+
+qy^d          A.65 utt1:  {D Well, } I guess we'll get pretty good news coverage  in a couple of years when you host the, {F uh, } summer olympics <laughter>. /  
+
+ny          B.66 utt1:  {F Oh, } yeah,  /
+%          B.66 utt2: that's, - /
+sd          B.66 utt3: [ they start, + already they're  having ] {D like, }  {F um, } - /
+sd          B.66 utt4: in the newspaper they have a section, I think, every now and then,  on the Olympics, {D you know, }  /
+sd          B.66 utt5: {C and } they've got {D like } a countdown,  /
+sd          B.66 utt6:  it's like sixteen hundred days or  something. /  
+
+sd          A.67 utt1:  I know, we're trying to get tickets to it right now. /  
+
+bh          B.68 utt1:  {F Oh, } really? /  
+
+ny          A.69 utt1:  Yeah. /  
+
+sv          B.70 utt1:  That's going to be crazy that time of year here. /  
+
+x          A.71 utt1:  <Laughter>.   
+
+%          B.72 utt1:  {C But, }  {F uh. } -/  
+
+b          A.73 utt1:  Yeah. /  
+
+sd          B.74 utt1:  I can't believe, {E I mean, } - /
+sd          B.74 utt2: [ they're, + they're ]  stretching out the Olympic news for that much coverage over,  /
+sd          B.74 utt3: I guess people want to hear about it.  /
+sd          B.74 utt4:  Also big in the news right now is the Braves, because [ they're, +  {F uh, } they're ] in, {D you know, } [ tr-, + spring training ] or whatever -- /  
+
+b          A.75 utt1:  Right,  /
+b^r          A.75 utt2: right. /  
+
+sd          B.76 utt1:  -- {C and } they did so well last year. /  
+
+b          A.77 utt1:  Yeah,  /
+sd          A.77 utt2: [ they spent a lot of time, + {A that's another thing, }  they spend a long time ] on sports,  /
+sd          A.77 utt3: {C and } I think [ that, + {F um, } that's ] fine,  I would like to see more time spent on other things. /  
+
+b          B.78 utt1:  Yeah. /  
+
+%          A.79 utt1:  {C But. } -/  
+
+sv          B.80 utt1: It seems like, - /
+h          B.80 utt2: I don't know,  /
+sd          B.80 utt3: they  way they do the newscasts, I wish [ they, + they ] kind of separated it, {D you know, }  /
+sd          B.80 utt4: if you wanted to watch one thing you could turn to some channel for it  /
+sd          B.80 utt5: {C but } I don't have cable. / 

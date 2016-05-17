@@ -1,0 +1,305 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4019_1514_1529
+TOPIC#:		351
+DATE:		920227
+TRANSCRIBER:	GL
+UTT_CODER:	lsh	
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.    
+
+===========================================================================
+  
+
+qy          A.1 utt1:  Okay, {F um, }  Chuck, do you have any pets # there at your home? # /  
+
+ny          B.2 utt1:  # Yeah, I do. # /  
+
+qw          A.3 utt1:  {C And } what kind do you have? /  
+
+sd          B.4 utt1:  I've got a male Siamese about a year old here.  /
+sd          B.4 utt2: I live alone in an apartment, # [ and, + ] {F uh, } # --   
+
+b          A.5 utt1:  # Uh-huh. # /  
+
++          B.6 utt1:  -- except for the cat. /  
+
+b          A.7 utt1:  Uh-huh <laughter>. /  
+
+qo          B.8 utt1:  How about you? /  
+
+sd          A.9 utt1:  {D Well, } we have a cat, {F um, }  /
+sd          A.9 utt2: he's probably, {F oh, } a  good two years old, big, old, fat and sassy tabby. /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+qw          A.11 utt1:  <Laughter> {F Oh. }  {F Uh, } how's the disposition of your Siamese cat? /  
+
+sv          B.12 utt1:  {D Well, } it's, {F uh, } {D you know } they're just,  {F uh, } aggressive by nature -- /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  -- {C and, }  {F uh, } he's been neutered and declawed, #  /
+sd          B.14 utt2: {C so } # --   
+
+b          A.15 utt1:  # Uh-huh. # /  
+
++          B.16 utt1:  -- he's an indoor cat,  /
+sd          B.16 utt2: {C so, }  {F uh, } that kind of calms him down for the most part. /  
+
+x          A.17 utt1:  <Laughter>.   
+
+qo          B.18 utt1:  How about yours? /  
+
+o          A.19 utt1:  {D Well, } yeah,  /
+sd          A.19 utt2: [ he's, + {F uh, } he has ] been really aggressive,  {F uh, } especially towards my little girl, for --   
+
+b          B.20 utt1:  {F Huh. } /  
+
++          A.21 utt1:  -- some reason.  /
+sd          A.21 utt2:  He's, {F uh, } been so mean to her <laughter>. /  
+
+qw^d          B.22 utt1:  [ {C And, } + {C and } ] you say you've had him how long? /  
+
+sd          A.23 utt1:  We've had him for about two years -- /  
+
+b^m          B.24 utt1:  Two years. /  
+
+sd          A.25 utt1:  -- {C and } he was so mean to her, {F um, } right after we first  got him.  /
+sd          A.25 utt2: {D So } we had him neutered, [ and, + and ] declawed,  /
+sd          A.25 utt3: {C and } now he bites her.  /
+sd          A.25 utt4:   <laughter> He can't --   
+
+b          B.26 utt1:  {F Huh. } /  
+
++          A.27 utt1:  -- scratch her any more,  /
+sd^r          A.27 utt2: he bites her. /  
+
+qy          B.28 utt1:  Does he bite her enough to draw blood? /  
+
+ny          A.29 utt1:  Yeah,  /
+ny^r          A.29 utt2: yeah,  /
+sd^e          A.29 utt3: he has a couple of times,  /
+%          A.29 utt4: # {C so. } # -/  
+
+b          B.30 utt1:  # Uh-huh. # /  
+
+sd          A.31 utt1:  {C But } he's a very possessive cat.  /
+sd          A.31 utt2: [ He, + he ]  loves my son,  /
+sd          A.31 utt3: it's his cat,  /
+sd          A.31 utt4: {C and } he's the only one that allows him to touch him {C or } pet him  {C or } love him -- /  
+
+b          B.32 utt1:  Yeah. /  
+
+sd          A.33 utt1:  -- {C and } he's so funny,  /
+sd          A.33 utt2: he just follows my son around just  like a dog. /  
+
+b          B.34 utt1:  {F Huh. } /  
+
+sd          A.35 utt1:  He won't even let my son shower. /  
+
+b          B.36 utt1:  Yeah. /  
+
+sd          A.37 utt1:  He meows and wants to get in the bathroom  /
+sd          A.37 utt2: {C and, }   while he showers, it's so  hilarious.  /
+sd          A.37 utt3: {C So } he's quite a animal <laughter>. /  
+
+b          B.38 utt1:  Yeah,  /
+ba          B.38 utt2: boy,  /
+sv          B.38 utt3: I guess.  /
+sv          B.38 utt4:  {D Well } as long as he doesn't  get too aggressive.  I guess with the daughter he's all right. /  
+
+b          A.39 utt1:  Yeah. /  
+
+sv          B.40 utt1:  You wouldn't want him to carry her off or something. /  
+
+b          A.41 utt1:  Yeah,  /
+sd          A.41 utt2: {D well, } [ we, + we ] did, {F uh, } actually take  him to the pound a couple of times, {D you know } --   
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  -- because we just couldn't have him being --   
+
+b          B.44 utt1:  Sure. /  
+
++          A.45 utt1:  -- so aggressive towards the girl,  /
+sd          A.45 utt2: {C but, } {F uh, } he seems  to have mellowed out a little bit,  /
+sd          A.45 utt3: {C and } we do keep our daughter away from him.  /
+%          A.45 utt4: {C So. } -/  
+
+b          B.46 utt1:  Yeah,  /
+b^r          B.46 utt2: yeah. /  
+
+sd          A.47 utt1:  <Laughter> Were it not for my son, the cat would not be in this house <laughter>. /  
+
+qy          B.48 utt1:  Is that the only pet that you have? /  
+
+na          A.49 utt1:  It is,  /
+ny          A.49 utt2: uh-huh.  /
+sd          A.49 utt3: [ We, + we ] tried a dog about four years ago,  {C and } we ended up with, {F uh, } {F oh, } malamute and some other kind of mix.  /
+sd          A.49 utt4:   Anyway [ it was, + it ended ] up being just a [ huge, + huge ] dog that ate us out of house and home.  /
+sd          A.49 utt5:  {C So, } we gave him up and tried. /  
+
+qy          B.50 utt1:  {D Well, } do you live, [ [ you, + you ] + ] in a house, or a  place where you, {F uh, } -/  
+
+ny          A.51 utt1:  Yes,  /
+ny          A.51 utt2: uh-huh,  /
+sd^e          A.51 utt3: we're in a house,  /
+sd          A.51 utt4: {C but } we're in a subdivision --   
+
+bk          B.52 utt1:  I see. /  
+
++          A.53 utt1:  -- where we really can't allow the dog,  /
+sd          A.53 utt2:  we couldn't allow him to run free,  /
+sd          A.53 utt3: {C so, }  he was just chained up all the time,  /
+sd          A.53 utt4: {C and } [ it was, # +  it was ] # --   
+
+b          B.54 utt1:  # Sure. # /  
+
++          A.55 utt1:  -- unfortunate.  /
+qy          A.55 utt2: {D So } have you tried any other pets? /  
+
+nn          B.56 utt1:  No,  /
+nn^r          B.56 utt2: no.  /
+sd          B.56 utt3: [ I, + I ] live alone in an apartment,  /
+sd          B.56 utt4: {C and, }   {F uh, } [ it's, + it's ] not that big that, {F uh } -- -/  
+
+b          A.57 utt1:  {F Oh } <laughter>. /  
+
+sd          B.58 utt1:  -- although I've heard rabbits are pretty good -- /  
+
+b          A.59 utt1:  Oh. /  
+
+sd          B.60 utt1:  -- {D you know, } I saw something on C N N or on cable here --   
+
+b          A.61 utt1:  Uh-huh. /  
+
++          B.62 utt1:  -- a while ago that showed some people that had rabbits in apartments --   
+
+ba          A.63 utt1:  {F Oh, } my word. /  
+
++          B.64 utt1:  -- and in houses,  /
+sd          B.64 utt2: {C and } they apparently, {F uh, } - /
+sd          B.64 utt3:  especially when they're young when they bring them in -- -/  
+
+ba          A.65 utt1:  {F Oh, } my word. /  
+
+%          B.66 utt1:  -- {F uh, } <laughter>. /  
+
+qy          A.67 utt1:  {C And } do [ they, + they ] just paper train it or something? /  
+
+na          B.68 utt1:  I guess. /  
+
+x          A.69 utt1:  <Laughter>.   
+
+na^r          B.70 utt1:  I guess,  /
+%          B.70 utt2: yeah,  /
+sd          B.70 utt3: {C and } I would imagine that they don't  have many more than one to start with, either. /  
+
+b          A.71 utt1:  Yeah.  /
+sv          A.71 utt2: <laughter> {D Well, } rabbits are darling.  /
+sv          A.71 utt3:  That would be fun if you could get them trained.  /
+sv          A.71 utt4:  Otherwise they're pretty smelly <laughter>. /  
+
+aa          B.72 utt1:  Yep,  /
+aa          B.72 utt2: that's right. /  
+
+%          A.73 utt1:  {F Oh. } /  
+
+qy          B.74 utt1:  Did you see [ the, + the ] C N N, [ the, + the ] dog show, {F uh, } /  
+
+nn          A.75 utt1:  Huh-uh,  /
+sd^e          A.75 utt2: [ we don't have C, + we don't have cable. ] /  
+
+bk          B.76 utt1:  I see.  /
+sd          B.76 utt2:  {D Well } they have, {F uh, } {F uh, } [ a Wesmin-, +  they call it the Westminster ] Dog Show, {F uh, } <child_talking>  /
+sd          B.76 utt3: I think it's in New York City [ at the, +  at  the ] Gardens  /
+sd          B.76 utt4: there once a year live -- -/  
+
+%          A.77 utt1:  {F Oh. } /  
+
+sd          B.78 utt1:  -- {C and } they had that on last week,  /
+sv          B.78 utt2: {C and } that's  really # kind of something # --   
+
+%          A.79 utt1:  # {F Oh. } # /  
+
++          B.80 utt1:  -- to watch, {F uh, }  /
+sd          B.80 utt2: it's on, I think, two or three nights  for maybe an hour or  two -- /  
+
+bh          A.81 utt1:  Is that right? /  
+
+sv          B.82 utt1:  -- {C and } some of the weirdest animals you ever #  want to see in there. # /  
+
+%          A.83 utt1:  # {F Oh } <laughter>. # /  
+
+sv          B.84 utt1:  Some of them are really beautiful, too. /  
+
+b          A.85 utt1:  Uh-huh. /  
+
+%          B.86 utt1:  {D So. } -/  
+
+sd          A.87 utt1:  <Laughter>  {D Well, } I'd be, interesting to watch. /  
+
+qy^g          @@B.88 utt1:  {D So } you live in Utah do you? /  
+
+ny          A.89 utt1:  Yes,  /
+ny          A.89 utt2: uh-huh.  /
+sd^e          A.89 utt3:  # Elton. # /  
+
+ba          B.90 utt1:  # Goodness. # /  
+
+sd          A.91 utt1:  We live <noise> out here [ by, + it's by ] Ogden.  /
+sd          A.91 utt2:   It's north of Salt Lake City, Utah -- /  
+
+b          B.92 utt1:  Uh-huh. /  
+
+sd          A.93 utt1:  -- {C and } we really love it out here.  /
+sd          A.93 utt2:  It's, {F uh, }  kind of country.  /
+sd          A.93 utt3: [ We're, + we're ] only about ten minutes from Ogden. /  
+
+b          B.94 utt1:  Uh-huh. /  
+
+sd          A.95 utt1:  {C So, }  we're kind of country # but not too. # /  
+
+qr          B.96 utt1:  # {D Well } # do you all work for T I, or for, -/  
+
+nn          A.97 utt1:  No,  /
+nn          A.97 utt2: huh-uh.  /
+qy          A.97 utt3: Do you? /  
+
+ny          B.98 utt1:  Yeah,  /
+ny^r          B.98 utt2: # yeah,  /
+ny^r          B.98 utt3: yeah. # /  
+
+sd^t          A.99 utt1:  # {F Oh, } # {D well, } see, I'm getting so many calls to Texas. /  
+
+sd^t          B.100 utt1:  This is the very first one [ I've, + I've ] talked to. /  
+
+ba          A.101 utt1:  {F Oh, } {D well, } great.  /
+b          A.101 utt2:  Yeah,  /
+sd^t          A.101 utt3: I've been doing it  for about two weeks  /
+%          A.101 utt4: {C and, } {F uh, } [ no my, +   
+
+b          B.102 utt1:  Uh-huh. /  
+
++          A.103 utt1:  No my, ] -/ 

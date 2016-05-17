@@ -1,0 +1,259 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3549_1051_1466
+TOPIC#:		306
+DATE:		911215
+TRANSCRIBER:	GL
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+=======================================================================
+  
+
+qo          A.1 utt1:  What are you guys having for Christmas? /  
+
+^h          B.2 utt1: <Throat_clearing> What are we having?  /
+^h          B.2 utt2: Let's see <laughter>.   /
+sd          B.2 utt3: {D Well, } I'm not planning the menu. /  
+
+bh          A.3 utt1:  {F Oh, } you're not. /  
+
+nn          B.4 utt1:  No <laughter>.  /
+sd          B.4 utt2: We usually go out to [  ei-, + either ] one of our folks,  /
+sd          B.4 utt3: they both live close to -- -/  
+
+b          A.5 utt1:  Yeah. /  
+
+sd          B.6 utt1:  -- {C but, } {F um, } I don't know,  /
+sv          B.6 utt2: it seems like [ a, + a ] big thing for Christmas is usually ham. /  
+
+sd          A.7 utt1:  {D Well, } funny you should mention that.  /
+sd          A.7 utt2: I'm a pig farmer <laughter>. /  
+
+bh          B.8 utt1:  {F Oh, } you are -- /  
+
+ny          A.9 utt1:  # Yeah.  # /  
+
+b          B.10 utt1:  -- # {F huh. } # /  
+
+sd          A.11 utt1:  {D Well, } {D now, } it's kind of a hobby more than anything else,  /
+sd          A.11 utt2: {C but } we're going to have, {F uh, } wild boar -- /  
+
+ba          B.12 utt1:  My goodness. /  
+
+sd          A.13 utt1:  -- [ we, + {F uh, } we ] killed a boar the other day,  /
+sd          A.13 utt2: it was, {D you know, } mating with the sows,  /
+sd          A.13 utt3: {C and } you can't use the piglets, {D you know, }  /
+%          A.13 utt4: {C so. } -/  
+
+b          B.14 utt1:  {F Huh. } /  
+
+sd          A.15 utt1:  It's about six months of no use,  /
+sd          A.15 utt2: {C so, } [ we, + {F uh, } we ] shot him and cleaned him out and had him, {D you know, } processed into ham,  /
+sd          A.15 utt3: {C and, } {F uh, } we're also going to have a little roast suckling pig,  because  [ I, + I've ] got one that's got [ a, + a ] hernia -- /  
+
+bh          B.16 utt1:  {F Oh, } really. /  
+
+sd          A.17 utt1:  -- {C and } rather than, {D you know, } pay the vet four hundred dollars for surgery, we'll just cook him and eat him <laughter>. /  
+
+qy          B.18 utt1:  [ Is that, + is that ] hard? /  
+
+nn          A.19 utt1:  {D Well, } no,  /
+sd^e          A.19 utt2: {D hey, } I tell you what, preparing a little pig [ is, + is ] a snap,  /
+
+x          B.20 utt1:  <Laughter>.   
+
+sd          A.21 utt1:  I'm telling you, real  easy,  easier  than chicken. /  
+
+bh          B.22 utt1:  {F Oh, } really. /  
+
+ny          A.23 utt1:  Yeah,  /
+%          A.23 utt2: you just, {F uh, } - /
+sd          A.23 utt3: you kill him, {D you know, }  /   
+%          A.23 utt4: you probably, - /
+sd          A.23 utt5: most guys just shoot them in the head,  /
+sd          A.23 utt6: they go, {D you know, } - /
+sd          A.23 utt7: in a second they're gone -- /  
+
+b          B.24 utt1:  Oh. /  
+
+sd*          A.25 utt1:  -- {C and then } you just dip the carcass in, {F uh, } boiling water, pull it out, {A {C and } [ there's a, + we use a ] little raspy brush, pulls the hair off, } and, {F uh, } gut it, and, {F uh, } just stick it down in a pit with some cloves and, {F uh, } some pineapple, about three pineapples, {D you know, } sliced them up, and, {F uh, } cover him up with, {F uh, } wet, {F uh, } sacks,  {A feed sacks is what I usually use } --   *[[more than one utt??]]
+
+b          B.26 utt1:  # Huh. # /  
+
++          A.27 utt1:  -- # and then # start a charcoal fire on top of him. /  
+
+ba          B.28 utt1:  {F Oh, } my goodness. /  
+
+sd          A.29 utt1:  {C And } after about six hours, you put the fire out and dig that baby out of there,  /
+sd          A.29 utt2: {C and } it's the best eating you ever had. /  
+
+qy          B.30 utt1:  {F Oh, } {D well, } does a boar taste just like regular ham? /  
+
+ny          A.31 utt1:  Yep,  /
+sd^e          A.31 utt2: just like a pig -- /  
+
+bh          B.32 utt1:  # Does it. # /  
+
+sd          A.33 utt1:  -- # {E I mean, } # {D you know, } {F uh, } it has a lot less fat. /  
+
+b          B.34 utt1:  {F Huh. } /  
+
+sd          A.35 utt1:  This wild boar weighed probably about three hundred and thirty pounds -- /  
+
+ba          B.36 utt1:  Oh my. /  
+
+sd          A.37 utt1:  -- {C and } he dressed out to almost two hundred and ten pounds. /  
+
+ba          B.38 utt1:  {F Oh, } my goodness. /  
+
+sd          A.39 utt1:  {D Well, } {D you know, } we took the skin and the head [ and the le-, + and the feet ] off,  /
+sd          A.39 utt2: {C and } that was about, {D you know, } a [ hundred, + hundred ] pounds of just ham. /  
+
+qw          B.40 utt1:  {F Oh, } {D well, } how many people are you planning on serving at Christmas? /  
+
+sd          A.41 utt1:  {F Oh, } {D well, } [ we're, + {D you know, } we're  ] not going to eat the # whole thing <laughter>. # /  
+
+b^m          B.42 utt1:  # Eat it all,  /
+b          B.42 utt2: yeah  <laughter>. # /  
+
+sd          A.43 utt1:  It would take a year.  /
+sd          A.43 utt2: {C But, } {F uh, } {D you know, } we're going to drive up to Kansas City, see my wife's folks,  /
+%          A.43 utt3: {C and, } {F uh, } [ she, + she, ] - /
+qw          A.43 utt4: [ [ what's, + what's ] + what's ] your mother cooking for Christmas <talking>,  /
+%          A.43 utt5: yeah,  /
+sd          A.43 utt6: {D well } her mom's doing brisket. /  
+
+sd          B.44 utt1:  I don't, - /
+qw          B.44 utt2: what is brisket? /  
+
+bh^m          A.45 utt1:  Brisket?  /
+sd          A.45 utt2: It's a part of the cow that they used to throw away. /  
+
+b          B.46 utt1:  {D Huh. } /  
+
+sd          A.47 utt1:  It's just tough as a boot -- /  
+
+b          B.48 utt1:  Oh. /  
+
+sd          A.49 utt1:  -- {C and, } {F uh, } {D you know, } they used to use it for leather, I think <laughter>. /  
+
+ba          B.50 utt1:  # {F Oh, } my goodness. # /  
+
+ar          A.51 utt1:  # {E I mean, } no,  /
+sd          A.51 utt2: # I was kidding. /  
+
+b          B.52 utt1:  Yeah. /  
+
+sd          A.53 utt1:  {C But, } {F uh, } [ it's, + it's ] a  part of the loin, {D you know, } the rib cage,  /
+sd          A.53 utt2: {C and } it has a lot of muscle in it and a lot of,   
+
+x          B.54 utt1:  <Throat_clearing>.   
+
++          A.55 utt1:  gristle where it attaches to the ribs,  /
+sd          A.55 utt2: {C so } it's [ really, + really ] a tough piece of meat -- /  
+
+ba          B.56 utt1:  {F Oh, } my goodness. /  
+
+sd          A.57 utt1:  -- {C but } it's so tasty, you can't stand it. /  
+
+b          B.58 utt1:  {F Huh. } /  
+
+sd          A.59 utt1:  {C So } you just take it  /
+sd          A.59 utt2: {C and } you marinate it for a couple of days -- /  
+
+bf          B.60 utt1:  {C And } that softens it up, huh. /  
+
+x          A.61 utt1:  --  ((   )) .   
+
+b          B.62 utt1:  {F Huh. } /  
+
+sd          A.63 utt1:  {C And then, } {F uh, } you just put it in the oven,  /
+sd          A.63 utt2: takes about four hours to cook one.   /
+sd          A.63 utt3: They weigh about anywhere from ten to twenty pounds. /  
+
+ba          B.64 utt1:  {F Oh, } gee. /  
+
+sd          A.65 utt1:  {C And, } {F uh, } we're going to have that. /  
+
+qw          B.66 utt1:  {D Well, } <throat_clearing> what else do you serve with your pig? /  
+
+sd          A.67 utt1:  {F Oh, } {D well, } we'll have cranberries and hominy  /
+sd          A.67 utt2: {C and, } {F uh, } [ [ we, + we ] are, + we're   ] big on olives and cucumbers and stuff up here. /  
+
+b          B.68 utt1:  {F Huh. } /  
+
+sd          A.69 utt1:  We have [ [ oliv-, + olives, ] + black olives ] and cucumbers and, {F uh, } tomatoes,  /
+sd          A.69 utt2: we still have tomatoes -- /  
+
+bh          B.70 utt1:  {F Oh, } do you? /  
+
+ny          A.71 utt1:  -- yeah,  /
+sd^e          A.71 utt2: fresh tomatoes. /  
+
+sd        B.72 utt1:  {F Oh, } [ we, + we ] just got lots of snow <laughter>. /  
+
+sd          A.73 utt1:  <Laughter> {D Well, } it started to freeze up around here, {D you know, }  /
+sd          A.73 utt2: there's nothing between you and us but our barb wire, and half of that's down.  /
+sd          A.73 utt3: {E I mean } it's thirty degrees this morning. /  
+
+bh          B.74 utt1:  {F Oh, } really. /  
+
+ny          A.75 utt1:  Yeah. /  
+
+b          B.76 utt1:  # {F Huh. } # /  
+
+sd          A.77 utt1:  # {C But, } {F uh, } # it'll go up to fifty or sixty almost. /  
+
+ba          B.78 utt1:  {F Oh, } my goodness.  /
+sd          B.78 utt2: I didn't know it got that low at night. /  
+
+aa          A.79 utt1:  {F Oh, } yeah.  /
+sd          A.79 utt2:  {D Well, } it's desert, {D you know, }  /
+sd          A.79 utt3: [ where, + where ] we are, [ [ it's, + it's, ] + it's, ] {F uh, } the edge of the desert,  /
+sd          A.79 utt4: {E I mean, } it's part of the Great Plains.  /
+sd          A.79 utt5: {C So } in the day time in the summer it goes up to a hundred, hundred and ten -- /  
+
+ba          B.80 utt1:  {F Oh, } gee. /  
+
+sd          A.81 utt1:  -- {C and } at night it goes down to about sixty. /  
+
+ba          B.82 utt1:  My goodness. /  
+
+aa          A.83 utt1:  Yeah,  /
+sd          A.83 utt2: we get a fifty [ de-, + degree ] temperature swing in about four hours. /  
+
+ba          B.84 utt1:  {F Oh, } boy. /  
+
+sd          A.85 utt1:  {C So } everything that lives around here is real tough <laughter>. /  
+
+b          B.86 utt1:  {F Oh } <laughter>. /  
+
+sd          A.87 utt1:  That's trees, {D you know, }  /
+sd          A.87 utt2: we got hundred year old trees that are, {D you know, } twenty feet tall. /  
+
+ba          B.88 utt1:  {F Oh, } gee. /  
+
+sd          A.89 utt1:  That's all the bigger they get,  /
+sd          A.89 utt2: [ they, + {D you know, } they're ] just hard as a rock. / 

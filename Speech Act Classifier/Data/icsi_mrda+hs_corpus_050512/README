@@ -1,0 +1,55 @@
+
+The ICSI Meeting Recorder Dialog Act (MRDA) Corpus consists of
+hand-annotated dialog act, adjacency pair labels, hot spot annotations
+for the 75 meetings in the ICSI meeting corpus. The meeting corpus
+itself is distributed by the LDC.  The MRDA corpus comprises the files
+below.
+
+All materials are Copyright (C) 2004 International Computer Science
+Institute. Acknowledgment of the corpus should be indicated in any
+published research based on the data.  All materials are provided AS
+IS. No support or warranty is offered.  Downloading these materials
+constitutes receiving a nonexclusive license for noncommercial use.
+
+
+MRDA Corpus Structure:
+
+
+align_mrt_dadb/	Files containing information on the punctuations given by
+		both the MRT and DADB files.
+
+classmaps/ 	Sample maps for grouping full DA labels into smaller number
+		of meaningful sets.
+
+
+data/  		Database files for all 75 meetings in DADB format.
+
+
+doc/   		Documentation on manual labeling, database format, transcript
+  |		mappings, and other information to be aware of before
+  |		using this corpus.
+  |
+  |--lists/	Tables and lists of information on transcripts
+  |		and alignments, reject words, recognizer vocabulary,
+  |		meeting labeler information, etc.
+  |
+  |--manuals/	Annotation manuals
+  |
+  |
+  |--paper/	4-page overview paper(Proc. SIGDIAL 2004)
+  |
+  |
+  |--release_updates/	Documents changes and additions from earlier releases
+
+
+ 
+reliability/	Statistics on segmentation agreement (using word-based
+		measure) and DA agreement (using Kappa), for randomly
+		sampled chunks from different meetings. Raw annotations
+		for the chunks are also included.  Report on hot spot
+		annotation agreement, using more complex methods.
+
+
+scripts/	Various scripts used to convert MRT transcripts to formats
+		used for forced alignment by SRI Hub5 recognizer and to
+		create classmaps.

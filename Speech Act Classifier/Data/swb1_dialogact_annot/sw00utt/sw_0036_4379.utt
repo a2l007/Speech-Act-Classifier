@@ -1,0 +1,282 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4379_1660_1501
+TOPIC#:		357
+DATE:		920325
+TRANSCRIBER:	nk
+UTT_CODER:	tc
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+qy          A.1 utt1:  Kathy? /  
+
+ny          B.2 utt1:  <Breathing> Uh-huh.  /
+%          B.2 utt2:  # Do you, # -/  
+
+qw          A.3 utt1: # {D So, } # what is your, {F uh, } family, - /
+qo          A.3 utt2: what do you usually do as far as budgeting? /  
+
+sd          B.4 utt1:  We have a very detailed budget. Because my husband is a finance major. /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1: {C And } [ we have, + {D you know, } we have ] money that we take out each month [ that we, + ] {F uh, } {D you know, } for food [ and, + and ] [ for, + for ] gas and things like that.  /
+sd          B.6 utt2: {C And then } we put aside so much money each month for birthdays and for Christmas and for, {F uh, } other things. /  
+
+b^r          A.7 utt1:  Uh-huh. /  
+
+sd          B.8 utt1:  Then we take our major purchases we want to make during that year  /
+sd          B.8 utt2: {C and } we budget them into what we call [ our, + our ] needs and wants list. /  
+
+b^r          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1: {C And so, } {F uh, } the things [ that, + ] like a vacation. - /
+sd          B.10 utt2: We have a vacation fund.  /
+sd          B.10 utt3: We have a fund for the things we need. And then [ a, + ] for  the things that we want. /  
+
+b^r          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1: [ {C And, } + {F uh, } {C and } ] we're continually putting into those, {D you know, } each month how much we're going to need  /
+sd          B.12 utt2: {C and then } we know the month that we're going to have enough to get that particular item. /  
+
+b^r          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1: {C So } we very rarely buy anything on credit.  /
+sd          B.14 utt2: Everything we buy is paid for. /  
+
+b          A.15 utt1: Yeah.  /
+sd          A.15 utt2: My husband is a finance major also # <laughter>. # /  
+
+x          B.16 utt1:  # <Laughter>. #   
+
+sv          A.17 utt1: {C And, } {F uh, } we kind of have the same plan.  /
+sd          A.17 utt2: {F Uh, } we have one credit card  /
+sd          A.17 utt3: {C and } every month we put, {F uh, } {D you know, } the same amount in for retirement.  /
+sd          A.17 utt4: {F Uh, } {C and } [ [ [ we budget, + we're, ] + our, ] + our new thing to our budget is ] we just had a baby.  /
+sd          A.17 utt5: {C So } we're,   
+
+x          B.18 utt1:  <Noise> <<sounds like she is slicing something>>.   
+
++          A.19 utt1:  budgeting, {F uh, } each month, {F uh, } an allowance for his education --   
+
+b          B.20 utt1:  Right. /  
+
++          A.21 utt1:  -- starting now. /  
+
+b^r          B.22 utt1:  Right. /  
+
+sd          A.23 utt1: {C So } that's in our budget every month now.  /
+sd          A.23 utt2: That's the newest addition.  /
+sd          A.23 utt3: {C But } we too do the same thing as far as, {F uh, } - /
+sd          A.23 utt4: we have a set amount  /
+sd          A.23 utt5: we take, {F oh, } one big vacation a year and then maybe, {D you know, } three small vacations.  /
+sd          A.23 utt6: {C So } [ we, + ] {D you know, } an,   
+
+x          B.24 utt1:  <Noise>.   
+
++          A.25 utt1:  exact amount that we spend on that each year. /  
+
+b          B.26 utt1:  Right. /  
+
+%          A.27 utt1:  # {C And, } # -/  
+
+sd          B.28 utt1: # {F Uh, } # we have found that we spend less money if we pull out the money. # {F Uh } # --   
+
+b          A.29 utt1:  # Uh-huh. # /  
+
++          B.30 utt1:  -- instead of just writing checks for things. /  
+
+b^r          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  If we actually pull it out and keep it in a safe here. /  
+
+b          A.33 utt1:  I see. /  
+
+sd          B.34 utt1: {C And } we actually pull out the money each month that we want to put in for birthdays, that we want to put in for, {F uh, } the vacation.  That we put in for Christmas. /  
+
+qy          A.35 utt1: {D Like } you have a separate account for that then? /  
+
+h          B.36 utt1: {D Well, } a lot of that, {F uh, } I don't know how safe it is.  /
+sd          B.36 utt2: <static> I guess, {F uh, } we keep it all in a safe here at the house. /  
+
+b          A.37 utt1: {F Oh, } I see.  /
+b          A.37 utt2: # Uh-huh. # /  
+
+sd          B.38 utt1: # {C And so } # it's actually pulled out.  /
+sd          B.38 utt2: # Then we keep our # -- -/  
+
+b          A.39 utt1:  # {F Oh, } I see. # /  
+
+sd          B.40 utt1: -- we have a savings account for the kids' <<mispronounced>> education.  /
+sd          B.40 utt2: That money goes into there. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+%          B.42 utt1: Each of our, - /
+sd          B.42 utt2: we have three children.  /
+sd          B.42 utt3: {C So } they each have their own account. /  
+
+b          A.43 utt1:  I see. /  
+
+sd          B.44 utt1:  That money is put into each month. /  
+
+b          A.45 utt1: Uh-huh.  /
+qy          A.45 utt2: Does your husband deal in, {F uh, } stocks and bonds and mutual funds and all that kind of stuff?  /
+qy          A.45 utt3: [ Th-, + does ] he invest in that # and # --   
+
+no          B.46 utt1:  # He does somewhat. # /  
+
++          A.47 utt1:  -- for long-term? /  
+
+ny          B.48 utt1:  Yeah.  /
+sd^e          B.48 utt2:  He does somewhat. /  
+
+b          A.49 utt1:  Uh-huh. /  
+
+sd          B.50 utt1: {F Uh, } we have an investment plan.  /
+%          B.50 utt2: Yeah.  /
+h          B.50 utt3: I guess he does. /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+sd          B.52 utt1: {C But, } {F uh, } we have really found, - /
+sd          B.52 utt2: this is the first year we've done it this way.  /
+sd          B.52 utt3: {C And } we are really saving a lot of money. /  
+
+b          A.53 utt1: Really.  /
+bf          A.53 utt2: {C Because } [ [ you're, + you've, ] + you've ] sat down with a piece of paper <laughter> and said {D well } let's see what are we going to, - /
+qw          A.53 utt3: {D so } what goes into [ that, + that ] particular thing? /  
+
+x          B.54 utt1:  <Noise>.   
+
+bf          A.55 utt1: It's vacations, Christmas. /  
+
+sd          B.56 utt1: Christmas, birthdays, {F uh, } car maintenance, dental, medical,  /
+sd          B.56 utt2: we just averaged out how much last year we used per month on medical and # how much # --   
+
+b          A.57 utt1:  # Uh-huh. # /  
+
++          B.58 utt1: -- we used on dental  /
+sd          B.58 utt2: [ {C and, } + {F uh, } <swallowing> {C and so } ] now when we have to come up with that deductible that our insurance doesn't cover --   
+
+b          A.59 utt1:  Right. /  
+
++          B.60 utt1: -- rather than wondering where it's going to come from,  /
+sd          B.60 utt2: we have it, # {D you know. } # /  
+
+b          A.61 utt1:  # Uh-huh. # /  
+
+sd          B.62 utt1: {C And } [ when, + when ] we see something on sale, {F uh, } instead of just looking in our checking account and saying well we've got enough and getting it, and then when something comes up, {D you know, } kind of scrimping to pay for a # medical bill. #    
+
+b^r          A.63 utt1:  # Uh-huh. # /  
+
++          B.64 utt1: Everything's taken care of.  /
+sd          B.64 utt2: {C And } we're finding that we even have more money than we thought. /  
+
+bh          A.65 utt1:  Really. /  
+
+ny          B.66 utt1:  Yeah <laughter>. /  
+
+qw          A.67 utt1: {D Well, } {D you know, } {F uh, } what do you do as far as, - /
+sv          A.67 utt2: [ I, + I ] take it, - /
+qy          A.67 utt3: do you, {F uh, } run the family budget as far as, {F uh, } groceries and that sort of thing? /  
+
+na          B.68 utt1:  I do.  /
+ny          B.68 utt2: Uh-huh.  /
+sd          B.68 utt3:  # All the money. # /  
+
+b          A.69 utt1: # Uh-huh.  /
+br          A.69 utt2: {C And } [ how, + # what's ] that? /  
+
+sd          B.70 utt1: All the money is turned over to me. /  
+
+b          A.71 utt1: Uh-huh.  /
+qy          A.71 utt2: Do you have a set amount [ that, + that ] you spend each month  /
+qo          A.71 utt3: # [ {C or } + # --   
+
+ny          B.72 utt1:  # Yes. # /  
+
++          A.73 utt1:  -- {C or } ] how do you work that? /  
+
+sd^e          B.74 utt1: I have a set amount.  /
+sv          B.74 utt2: It's very generous  /
+sd          B.74 utt3: {C and } I usually have extra. /  
+
+b          A.75 utt1:  Uh-huh. /  
+
+sd          B.76 utt1: {C And so } then that can go, {F uh, } {D you know, } {C either } back into our checking account  /
+sd          B.76 utt2: {C or } I can just carry it over. /  
+
+b^r          A.77 utt1:  Uh-huh. /  
+
+sd         B.78 utt1: {F Uh, } {D you know, } there are certain months of the year that you'll spend more on food than other months. # And # --   
+
+b^r          A.79 utt1:  # Uh-huh. # /  
+
++          B.80 utt1: -- certain times when that will be left over.  /
+sd          B.80 utt2: {C But } that's completely up to me how I do that.  /
+sd          B.80 utt3: # {C And # --   
+
+b          A.81 utt1:  # Uh-huh. # /  
+
++          B.82 utt1: -- then, } {F uh, } because I don't work.  I stay home. /  
+
+sd          A.83 utt1: I do too.  /
+sd          A.83 utt2: I stay home # also. # /  
+
+sd          B.84 utt1: # {C And # so } it's kind of my money  /
+sd          B.84 utt2: {C and } I also get my own money to do what I want to.  Go to lunches, {D you know, } and do that kind of thing. /  
+
+b          A.85 utt1:  Uh-huh. /  
+
+sd          B.86 utt1: We have a clothing, {F uh, } envelope for each of the kids and for myself and my husband that we put how much we figure we need each month on clothing. /  
+
+b^r          A.87 utt1:  Uh-huh. /  
+
+sv          B.88 utt1: <Sigh> It really works out great.  /
+sd          B.88 utt2: We're finding that we have a lot more money to spend on things like that.  /
+%          B.88 utt3: # {C And } we're, # -/  
+
+b          A.89 utt1: # <Lipsmack> Yeah. #  /
+%          A.89 utt2: [ What, + what, ] - /
+sd          A.89 utt3: as far as {D like } big things like something comes up and you have to buy a T V or a big item, {D like } for the house.  /
+%          A.89 utt4: How, - /
+qy          A.89 utt5:  do you have {D like } a household? /  
+
+ny          B.90 utt1: Yes.  /
+sd^e          B.90 utt2: We have a household budget.  /
+sd          B.90 utt3: {D Like } we're going to need to buy a bed for my daughter that's coming out of her crib this year. /  
+
+b          A.91 utt1:  Uh-huh. /  
+
+sd          B.92 utt1: {C And } also, we need a new bed.  /
+sd          B.92 utt2: {C And so } we've got both of those budgeted  /
+sd          B.92 utt3: {C and } we put a certain amount in each month  /
+sd          B.92 utt4: {C and } we know which month we'll enough saved to go buy those. /  
+
+b^r          A.93 utt1:  Uh-huh. /  
+
+sd          B.94 utt1: {C And } if we find one on sale before then, then we can just take that and put it towards </breathing>, -/ 

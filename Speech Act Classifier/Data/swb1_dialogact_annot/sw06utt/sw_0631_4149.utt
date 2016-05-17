@@ -1,0 +1,280 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4149_1425_1600
+TOPIC#:		357
+DATE:		920311
+TRANSCRIBER:	glp
+UTT_CODER:	TC
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	3
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+sd          A.1 utt1:  Wendy, I guess we get to talk about   budgets tonight or lack of budgets [ if, +  {F uh, } if ] that may be the case --    
+
+b          B.2 utt1:  Right. /  
+
++          @A.3 utt1:  -- and any kind of long term  financial planning or anything like that, {F uh, }  /
+co          @A.3 utt2: let me ask you the question,  /
+qy          @A.3 utt3: do you have  [ a, {F uh, } budget, + {E or } a monthly budget, ] or a long term budget that you stick to? /  
+
+sd          B.4 utt1:  Right now I'm in college  /
+sd          B.4 utt2: {C and } I'm on work study -- /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1:  -- {C and so } my budget comes from my dad's help. /  
+
+b^r          A.7 utt1:  Uh-huh. /  
+
+sd          B.8 utt1:  <Laughter> He helps me out a lot  /
+sd          B.8 utt2:  {C and } I get paid monthly,  /
+sd          B.8 utt3: {C so } that's kind of hard to have a budget.  /
+sd          B.8 utt4:  My mother, {F uh, } doesn't  get paid much money,  /
+sd          B.8 utt5: {C so } her budget is, {F uh, } just, {F uh, } planning for I R A's. /  
+
+b          A.9 utt1:  I see,  /
+b^r          A.9 utt2: I see.  /
+ba          A.9 utt3: {D Well, } good,  /
+sd          A.9 utt4:  I'm kind of in a different situation,  /
+sd          A.9 utt5: {C but } [ [ I, +  I, ] +  I ] went through that, too, when I was in school,  /
+sd          A.9 utt6:  {C but, } {F uh, } [ I was, +  I was ] working to get through college  [ and, +  and, ]  {F uh, } trying to make it through that,  /
+sd          A.9 utt7: {C but, } {F uh, }   
+
+x          B.10 utt1:  <Laughter>.   
+
++          A.11 utt1:  I'm married and have, {F uh, }  [ a, + a ] couple of children  /
+sd          A.11 utt2: {C and } --   
+
+b          B.12 utt1:  Uh-huh. /  
+
++          A.13 utt1:  -- we have to, {F uh, } pretty much  stick to a budget.  /
+sd          A.13 utt2:  I'm on a salary  /
+sd          A.13 utt3: {C so } I don't get any overtime or anything like that  /
+sd          A.13 utt4: {C but, }   
+
+b          B.14 utt1:  Oh. /  
+
++          A.15 utt1:  We have a fixed income  /
+sd          A.15 utt2:  {C and } we have to make sure that, {F uh, } every dollar we have [ will, +  is ] spent accordingly  /
+sd          A.15 utt3:  {C and, } {F uh, } what we try and do [ to, +  to ] stick to our monthly budget is --   
+
+b          B.16 utt1:  Uh-huh. /  
+
++          A.17 utt1:  -- we pretty much have, {D you know, }  the house payment,  /
+sd          A.17 utt2: we have the insurance premiums, {F uh, } utilities and so forth  /
+sd          A.17 utt3:  {C and } we do sit down at the beginning of every month or the end of every month and  write down how much we know we're going to spend and set that money aside,  /
+sd          A.17 utt4:  {C and } we also try and set aside money for savings, set aside money for [ the coll-, +   the kids' [ education -- +    
+
+b^r          B.18 utt1:  Uh-huh. /  
+
++          A.19 utt1:  -- college education, ] ] the future and,  {F uh, } set aside money for bonds  /
+sd          A.19 utt2: [ {C and, } +  {C and ] } we also set aside an emergency fund  /
+sd          A.19 utt3: {C because } --   
+
+ba          B.20 utt1:  That sounds good. /  
+
++          A.21 utt1:  -- [ we've, +  {F uh, } <laughter> we've ]  been married for about ten years  /
+sd          A.21 utt2: {C and } we find out that, {D you know, } no matter what kind  of budget you stick on, there's always going to be an unexpected car repair or something --   
+
+b          B.22 utt1:  Right. /  
+
++          A.23 utt1:  -- happen with the house, that you  have to have money for and, {F uh, } not enough to go and to take a loan out,  but, {F uh, } you have to have money for. /  
+
+b^r          B.24 utt1:  Right. /  
+
+sd          A.25 utt1:  {C And, } {F uh, } then we have, {D you know, } - /
+sd          A.25 utt2:  whatever's left over is [ disposable in-, + [ [ disposable, + dis-, ] + {D yeah, } discretionary ] income, ]   
+
+x          B.26 utt1:  <Laughter>.   
+
++          A.27 utt1:  <Laughter> that we use for the rest of  the month,  /
+sv          A.27 utt2: [ {C so, } + {C and } ] it's worked out very well.  /
+sd          A.27 utt3:  [ It's, + {F uh, } it's ] helped us,  so that we haven't been, {D you know, } too long on the month and too short on the money and --   
+
+ba          B.28 utt1:  {D Well, } that's good. /  
+
++          A.29 utt1:  -- {F uh, } try and stick with that  /
+sd          A.29 utt2:  {C and, } nice thing about it, [ I, + my ]  wife [ is, + is ] excellent in that we both work together,  /
+sd          A.29 utt3:  we both have a budget,  /
+sd          A.29 utt4: {C and } we stick to it -- /  
+
+ba          B.30 utt1:  {D Well, } good. /  
+
+sd          A.31 utt1:  -- {C and } there's no surprises in that <laughter>. /  
+
+sv          B.32 utt1:  <Laughter> With two kids, that could be hard. /  
+
+sd          A.33 utt1:  {D Well, } {D actually } I have four kids. /  
+
+ba          B.34 utt1:  Four! /  
+
+%          A.35 utt1:  {D So, } <laughter> - /
+b          A.35 utt2: yeah,  /
+sd          A.35 utt3:  I said a couple of kids,  /
+sv          A.35 utt4: [ I, +  I ] guess I should have specified,  /
+sd          A.35 utt5: I have [ four -- +    
+
+ba          B.36 utt1:  {F Oh, } my goodness. /  
+
++          A.37 utt1:  -- four ] little boys,  /
+%          A.37 utt2: yeah. /  
+
+b^m          B.38 utt1:  Four boys. /  
+
+ba          A.39 utt1:  You bet. /  
+
+ba          B.40 utt1:  {F Oh, } my goodne-, /  
+
+ba          A.41 utt1:  You bet. /  
+
+sd          B.42 utt1:  It's just me and my sister. /  
+
+b          A.43 utt1:  All right <laughter>. /  
+
+sd          B.44 utt1:  {C And } my parents divorced three years ago -- /  
+
+b         A.45 utt1:  Uh-huh. /  
+
+sd          B.46 utt1:  -- {C and } my sister had gotten through  college,  /
+sd          B.46 utt2: {C but } I was still in high school,  /
+sd          B.46 utt3: {C and } my mother paid for a lot  of my sister's college while my parents were together -- /  
+
+b          A.47 utt1:  Yes. /  
+
+sd          B.48 utt1:  -- {C and then, } {F uh, } before the  divorce she had saved for my college. /  
+
+b          A.49 utt1:  Uh-huh. /  
+
+sd          B.50 utt1:  {C But, } {F uh, } when we had the divorce,  she just didn't get much money out of it and had to spend it all on getting another house. /  
+
+b          A.51 utt1:  Oh. /  
+
+sd          B.52 utt1:  {C So } now my dad's paying for all of  my college of <laughter>. /  
+
+ba          A.53 utt1:  {D Well, } good,  /
+ba^r          A.53 utt2: good. /  
+
+sd          B.54 utt1:  And financial aid --   
+
+b          A.55 utt1:  Uh-huh. /  
+
++          B.56 utt1:  -- and scholarships.  /
+sd          B.56 utt2: I'm a music major,  /
+sd          B.56 utt3: {C  so } I have auditions coming up. /  
+
+b          A.57 utt1:  Yes,  /
+qw          A.57 utt2: {D well, } what year are you in in college? /  
+
+sd          B.58 utt1:  I'm a sophomore. /  
+
+bk^m          A.59 utt1:  You're a sophomore,  /
+qy^d          A.59 utt2: {D so } you have a few more years. /  
+
+na          B.60 utt1:  Right,  /
+na^r          B.60 utt2: right,  /
+sd          B.60 utt3: [ I'll, + I'll ]  probably have about, [ two, +  two ] and a half years left. /  
+
+b          A.61 utt1:  Uh-huh,  /
+ba          A.61 utt2: {D well, } good for you.  /
+ba^r          A.61 utt3:   Good for you.  /
+%          A.61 utt4: Yeah,  /
+qy^d          A.61 utt5: I imagine it,  {F uh, } is a little difficult to stick with a budget during  that, during school and so it forth. /  
+
+na          B.62 utt1:  {F Oh, } it sure is.  /
+sd          B.62 utt2:  [ I, +  I ]  know how much my dad is going to give me every two weeks -- /  
+
+b          A.63 utt1:  Yes <laughter>. /  
+
+sd          B.64 utt1:  -- [ {C and } I, + {C and } I ]  don't spend over that <laughter>. /  
+
+ba          A.65 utt1:  {D Well, } great,  /
+ba^r          A.65 utt2: great.  /
+bf          A.65 utt3:   {C And } sometimes that's a little hard with books and  music [ and, + and ] sheet music and  stuff you've got to work on, too. /  
+
+aa          B.66 utt1:  {F Oh, } sure,  /
+sd          B.66 utt2: [ there's, + there's ] always music --   
+
+bf          A.67 utt1:  # Lab fees and all, # /  
+
++          B.68 utt1:  -- # books to buy. # /  
+
+aa          A.69 utt1:  <Laughter> {F Oh, } yes,  /
+aa^r          A.69 utt2: {F oh, } yes.  /
+qy          A.69 utt3:   {D Well, } you're not a starving artist, yet, are you? /  
+
+nn          B.70 utt1:  {F Oh, } no,  /
+nn^r          B.70 utt2: no,  /
+nn^r          B.70 utt3: no. /  
+
+ba          A.71 utt1:  Good. /  
+
+sd          B.72 utt1:  I don't plan on being a starving artist <laughter>. /  
+
+ba          A.73 utt1:  {D Well, } good. /  
+
+sd          B.74 utt1:  That's why I'm in college <laughter>. /  
+
+qy^g          A.75 utt1:  [ The-, + there's ]  enough of those in the world, {F huh? } /  
+
+na          B.76 utt1:  Right <laughter>. /  
+
+aa          A.77 utt1:  Good,  /
+aa^r          A.77 utt2: good,  /
+sd          A.77 utt3: I'm glad to hear that, Wendy.  /
+%          A.77 utt4: W-, -/  
+
+sv          B.78 utt1:  That's usually because they're not real educated.  /
+sv          B.78 utt2:  They can't afford to have a really good job. /  
+
+br          A.79 utt1:  [ Who's, +  who's ] not very well educated? /  
+
+sd          B.80 utt1:  The starving ones. /  
+
+aa          A.81 utt1:  {F Oh, } yes,  /
+aa^r          A.81 utt2: yes. /  
+
+sv          B.82 utt1:  There's enough out there that [ if you have, +  if you're ] educated enough, then you can make money. /  
+
+aa          A.83 utt1:  That's true,  /
+aa^r          A.83 utt2: that's true.  /
+sd          A.83 utt3:  I found that out. /  
+
+x          B.84 utt1:  <Laughter>.   
+
+sd          A.85 utt1:  {C So } that's why I'm <laughter>  planning [ and, + and ] preparing for the, {F uh, } education of my children, also --   
+
+b          B.86 utt1:  Right. / 
+
++          A.87 utt1:  -- try and set that money aside. /
+
+qw          @@B.88 utt1:  What did you major in? /
+
+sd          A.89 utt1:  I majored in business administration. /
+
+ba          B.90 utt1:  {D Well, } good,  /
+sv          B.90 utt2: you know  plenty about planning [ a b-, +  a budget. ] /
+
+aa          A.91 utt1:  Yeah,  /
+%          A.91 utt2: {C but, } {F uh, } once again, -/

@@ -1,0 +1,24 @@
+These scripts:
+
+map_hs.pl
+
+is used to parse and map the hot spot data into its parts for each line of
+the MRDA corpus.
+
+
+mrt2list*
+mrt_tag*
+post_process2*
+
+were used to convert MRT transcripts to formats used for forced
+alignment by the SRI Hub5 recognizer. This process involved changing
+word spellings, collapsing or splitting hyphenated forms, and other
+changes as described in /doc/transcription-issues.txt. Such
+information is relevant to researchers using the time marks provided
+from forced alignment.
+
+
+use_cm.pl
+
+is used to map da annotations into other classes according to the
+mapping rules in a classmap file.

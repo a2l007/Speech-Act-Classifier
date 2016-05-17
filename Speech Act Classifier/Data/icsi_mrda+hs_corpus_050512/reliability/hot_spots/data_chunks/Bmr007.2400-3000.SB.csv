@@ -1,0 +1,221 @@
+2400.86,2401.41,Bmr007-cB,s^2,1b,,,do something .
+2400.89,2402.46,Bmr007-c4,b,,,,yeah yeah yeah yeah .
+2401.94,2406.67,Bmr007-c3,s,,,,but his - his goal was always to proceed from there to then allow broad category change also .
+2407.01,2407.24,Bmr007-c4,b,,,,uh-huh .
+2407.85,2420.61,Bmr007-c4,fg|qy,,,,but eh | do - do you think that if you consider all the frames to apply the - the eh the bic criterion to detect the - the - the different acoustic change eh between speaker ?
+2420.71,2424.15,Bmr007-c4,s^e,,,,without uh with uh silence or with overlapping .
+2424.15,2424.37,Bmr007-c4,fh,,,,uh ==
+2424.37,2431.31,Bmr007-c4,s,,,,i think like - like eh eh a general eh eh way of process the - the acoustic change .
+2431.68,2432.41,Bmr007-c3,b,,,,mm-hmm .
+2431.76,2433.03,Bmr007-c4,s,,,,in a first step i mean .
+2433.61,2434.09,Bmr007-c3,b,,,,mm-hmm .
+2434.16,2443.98,Bmr007-c4,s,2a,,,an- - and then eh eh without considering the you - you - you um you can consider the energy like a- - another parameter in the - in the feature vector .
+2443.71,2443.95,Bmr007-cB,s^aa,2b,,,right .
+2443.95,2444.46,Bmr007-cB,s^aa,2b+,,,absolutely .
+2443.98,2444.08,Bmr007-c4,fh,2a,,,eh ==
+2444.93,2445.14,Bmr007-c3,b,,,,mm-hmm .
+2444.94,2445.79,Bmr007-c4,s,,,,this - this is the idea .
+2445.79,2462.49,Bmr007-c4,s,3a,,,and if if you do that eh eh with a bic uh criterion for example or with another kind of eh of distance in a first step and then you eh you get the eh the hypothesis to the - this change acoustic eh to po- - process .
+2462.69,2463,Bmr007-cB,s^aa,3b,,,right .
+2463.44,2479.05,Bmr007-c4,s,,,,because eh eh probably you - you can find the - the eh a small gap of silence between speaker with eh eh a ga- - mmm small duration less than eh two hundred milliseconds for example .
+2475.02,2475.35,Bmr007-c3,b,,,,mm-hmm .
+2479.42,2493.22,Bmr007-c4,s,,,,and apply another - another algorithm another approach like eh eh detector of ene- - eh detector of bass-tone energy to - to consider that eh that eh zone of s- - a small silence between speaker .
+2493.73,2505.31,Bmr007-c4,s,,,,or another algorithm to - to process eh the - the segment between marks eh founded by the - the the bic criterion and applied for - for each frame .
+2499.79,2500.34,Bmr007-c3,b,,,,mm-hmm .
+2505.64,2520.62,Bmr007-c4,s,,,,i think is eh nnn it will be a- - an - an - a more general approach the if we compare - with use eh a neural net or another eh speech recognizer with a broad class or - or narrow class .
+2505.73,2506.35,Bmr007-c3,b,,,,mm-hmm .
+2520.96,2543.98,Bmr007-c4,s,4a,,,because in my opinion eh it's in my opinion eh if you - if you change the condition of the speech i mean if you adjust to your algorithm with a mixed speech file and to eh to eh adapt the neural net eh used by javier with a mixed file .
+2523.06,2523.38,Bmr007-c3,b,,,,mm-hmm .
+2529.09,2529.69,Bmr007-c3,b,,,,mm-hmm .
+2544.34,2545.14,Bmr007-cB,qw^br^d^rt,4b.5a,,,with the what file ?
+2544.46,2546.34,Bmr007-c4,s,5b.6a,,,uh with a m- - mixed file .
+2546.34,2548.06,Bmr007-c4,s^r,5b+.7b,,,with a - the mix mix .
+2546.49,2546.96,Bmr007-c8,s^bc,6b-1.7a-1,,,mixed .
+2546.5,2546.89,Bmr007-c0,s^bc,6b-2.7a-2,,,mixed .
+2547.29,2547.71,Bmr007-cB,qy^br^d^rt,,,,mixed ?
+2548.97,2549.5,Bmr007-c3,b,,,,mm-hmm .
+2548.97,2549.51,Bmr007-c4,s^fa,7b+,,,sorry .
+2549.51,2568.01,Bmr007-c4,s,8a,,,and and then you - you eh you try to - to apply that eh eh eh speech recognizer to that signal to the p_d_a eh speech file i - i think you will have problems because the - the - the - the condition you - you will need t- - t- - i - i suppose that you will need to - to - to retrain it .
+2562,2562.57,Bmr007-cB,s^aa,8b,,,oh absolutely .
+2562.12,2564.4,Bmr007-c3,fg|s.%-,,,,well | i - i ==
+2562.57,2564.4,Bmr007-cB,s^na,8b+,,,this is - this is not what i was suggesting to do .
+2564.48,2570.03,Bmr007-c3,fg|s.%--,,,,u- - look | i - i think this is a ==
+2569.68,2569.94,Bmr007-c4,qy^bh,,,,really ?
+2570.03,2575.79,Bmr007-c3,s,,,,one - once - it's a - i used to work like on voiced - on voice silence detection you know and this is this kind of thing .
+2574.99,2575.23,Bmr007-c4,b,,,,yeah .
+2576.4,2585.65,Bmr007-c3,s,,,,um if you have somebody who has some experience with this sort of thing and they work on it for a couple months they can come up with something that gets most of the cases fairly easily .
+2586.12,2589.41,Bmr007-c3,s,,,,then you say o_k i don't just wanna get most of the cases i want it to be really accurate .
+2589.41,2591.15,Bmr007-c3,s,,,,then it gets really hard no matter what you do .
+2591.9,2602.48,Bmr007-c3,s,,,,so the p- - the problem is is that if you say well i - i have these other data over here that i learn things from either explicit training of neural nets or of gaussian mixture models or whatever .
+2597.46,2597.73,Bmr007-c4,b,,,,yeah .
+2603.12,2604.95,Bmr007-c3,fh|s,,,,uh | suppose you don't use any of those things .
+2604.95,2606.72,Bmr007-c3,s,,,,you say you have looked for acoustic change .
+2606.72,2607.72,Bmr007-c3,qw,,,,well what does that mean ?
+2608.18,2610.5,Bmr007-c3,s,,,,that - that means you set some thresholds somewhere or something .
+2608.2,2608.58,Bmr007-c4,b,,,,yeah .
+2610.5,2610.69,Bmr007-c3,qy^d^f^g^rt,,,,right ?
+2611.14,2611.38,Bmr007-c4,b,,,,yeah .
+2611.41,2614.02,Bmr007-c3,qw,,,,and - and so where do you get your thresholds from ?
+2614.14,2615.76,Bmr007-c3,s,,,,from something that you looked at .
+2615.76,2618.38,Bmr007-c3,fh|s,,,,so | you always have this problem you're going to new data .
+2618.9,2626.8,Bmr007-c3,fh|qw,,,,um | h- - how are you going to adapt whatever you can very quickly learn about the new data uh if it's gonna be different from old data that you have ?
+2626.8,2628.73,Bmr007-c3,s,,,,and i think that's a problem with this .
+2628.1,2633.66,Bmr007-cB,fg|s,,,,well | also what i'm doing right now is not intended to be an acoustic change detector for far-field mikes .
+2633.66,2644.96,Bmr007-cB,s,9a,,,what i'm doing is trying to use the close-talking mike and just use - can- - and just generate candidate and just try to get a first pass at something that sort of works .
+2636.88,2637.15,Bmr007-c4,b,,,,yeah .
+2638.47,2640.55,Bmr007-cA,fg,,,,actually - actually - actually ==
+2638.5,2639.24,Bmr007-c0,s^2,9b-1,,,you have candidates .
+2640.09,2640.92,Bmr007-c4,s^2,9b-2,,,the candidate .
+2642.22,2642.47,Bmr007-cA,%-,,,,i ==
+2643.52,2644.79,Bmr007-c0,s^2,9b-1+,,,to make marking easier .
+2644.66,2644.96,Bmr007-cA,%--,,,,or ==
+2644.95,2645.08,Bmr007-c0,b,,,,yeah .
+2645.3,2648.5,Bmr007-cB,s,,,,and i haven't spent a lot of time on it and i'm not intending to spend a lot of time on it .
+2646.37,2646.68,Bmr007-cA,b,,,,o_k .
+2647.55,2650.8,Bmr007-cA,s,,,,i - um i unfortunately have to run .
+2648.66,2648.92,Bmr007-cB,fh,,,,so ==
+2650.8,2667.44,Bmr007-cA,s,10a,,,but um i can imagine uh building a um model of speaker change detection that takes into account both the far-field and the uh actually not just the close-talking mike for that speaker but actually for all of th- - for all of the speakers .
+2662.06,2662.28,Bmr007-cB,s^bk,10b,,,yep .
+2665.89,2666.59,Bmr007-cB,s^2,10b+,,,everyone else .
+2667.49,2667.89,Bmr007-c3,b,,,,yeah .
+2668.02,2677.11,Bmr007-cA,fh|s.%--,14a,,,um | if you model the - the effect that me speaking has on your microphone and everybody else's microphone as well as on that and you build um ==
+2678.31,2685.64,Bmr007-cA,s,11a.14a+,,,basically i think you'd - you would build a - an h_m_m that has as a state space all of the possible speaker combinations .
+2684.1,2684.55,Bmr007-cB,s^2|s^aa,11b,,,all the - | yep .
+2685.11,2685.44,Bmr007-c4,b,,,,yeah .
+2686.3,2688.52,Bmr007-cA,fh|s.%-,,,,and um | you can control ==
+2688,2688.7,Bmr007-cB,s,12a,,,it's a little big .
+2690.19,2691.43,Bmr007-cA,s^nd,12b.13a,10=l=da.a,,it's not that big actually .
+2691.43,2691.7,Bmr007-cA,fh,,,,um .
+2691.93,2692.64,Bmr007-cB,s^df^nd,13b,,,two to the n_ .
+2693.69,2695.17,Bmr007-cB,s^df^nd,13b+,b,,two to the number of people in the meeting .
+2695.55,2699.88,Bmr007-c3,fg|s^cs,14b,,,but - | actually andreas may- - maybe - maybe just something simpler but - but along the lines of what you're saying .
+2696.2,2696.62,Bmr007-cB,fh,,c,,anyway .
+2697.18,2697.46,Bmr007-c4,b,,,,yeah .
+2699.88,2712.32,Bmr007-c3,s,14b+,,,i was just realizing i used to know this guy who used to build uh um mike mixers - automatic mike mixers where you know t- - in order to able to turn up the gain you know uh as much as you can you - you - you lower the gain on - on the mikes of people who aren't talking .
+2700.69,2701.52,Bmr007-cA,b,,,,mmm .
+2704.1,2705.12,Bmr007-c4,b,,,,yeah yeah .
+2704.79,2705.42,Bmr007-cA,b,,,,mmm .
+2707.59,2708.18,Bmr007-cA,b,,,,mm-hmm .
+2712.32,2712.57,Bmr007-c3,qy^d^f^g^rt,14b++,,,right ?
+2712.49,2713,Bmr007-cA,b,,,,mm-hmm .
+2712.69,2715.39,Bmr007-c3,s,14b+++,,,and then he had some sort of reasonable way of doing that .
+2715.44,2724.8,Bmr007-c3,qw^cs,14b++++.15a,,,but uh what if you were just looking at very simple measures like energy measures but you don't just compare it to some threshold overall but you compare it to the energy in the other microphones ?
+2725.19,2728.33,Bmr007-cB,s^na,15b,,,i was thinking about doing that originally to find out who's the loudest .
+2728.5,2729.9,Bmr007-cB,s^e^rt,15b+,,,and that person is certainly talking .
+2730.43,2730.86,Bmr007-c3,b,,,,yeah .
+2730.64,2733.86,Bmr007-cB,s,15b+,,,but i also wanted to find threshold - uh excuse me mol- - overlap .
+2734.58,2734.96,Bmr007-c3,b,,,,yeah .
+2735.43,2737.57,Bmr007-cB,s,15b++,,,so not just - just the loudest .
+2736.26,2736.64,Bmr007-c8,b,,,,mm-hmm .
+2736.66,2736.95,Bmr007-c4,fh,,,,but eh ==
+2736.95,2738.68,Bmr007-c4,s^fa,,,,i - i sorry .
+2738.83,2753.28,Bmr007-c4,s,,,,i - i have found that when - when i i analyzed the - the speech files from the eh mike eh from the eh close eh microphone eh i found zones with a - a different level of energy .
+2739.66,2740.35,Bmr007-cA,s,,,,sorry i have to go .
+2740.56,2740.83,Bmr007-cB,s^bk^t3,,,,o_k .
+2743.83,2744.87,Bmr007-cB,qy^cs^t3,,,,could you fill that out anyway ?
+2745.44,2746.78,Bmr007-cB,s^co^t3,,,,just put your name in .
+2747.86,2748.59,Bmr007-cB,qy^d^rt^t3,,,,are y- - you want me to do it ?
+2748.76,2749.1,Bmr007-cB,s^cc^t3,16a,,,i'll do it .
+2749.53,2750.54,Bmr007-c0,s^ng^t3,16b.17a,,,but he's not gonna even read that .
+2750.6,2750.9,Bmr007-cB,s^na^t3,17b.18a,,,i know .
+2750.62,2750.82,Bmr007-c0,s^bk,18b,,,oh .
+2754.44,2756.36,Bmr007-c4,s,,,,including overlap zone .
+2756.59,2757.06,Bmr007-c4,s^bsc,,,,including .
+2757.78,2770.52,Bmr007-c4,s,,,,because eh eh depend on the position of the - of the microph- - of the each speaker to eh to get more o- - or less energy i- - in the mixed sign- - in the signal .
+2771.09,2782.9,Bmr007-c4,s,,,,and then if you consider energy to - to detect overlapping in - in uh and you process the - the - in - the - the - the speech file from the - the - the mixed signals .
+2783.32,2784.84,Bmr007-c4,s^bsc,,,,the mixed signals eh .
+2785.69,2799.3,Bmr007-c4,s,19a,,,i - i think it's - it's difficult um only to en- - with energy to - to consider that in that zone we have eh eh overlapping zone eh if you process only the the energy of the of each frame .
+2799.69,2800.59,Bmr007-c3,s^aap,19b,,,well it's probably harder .
+2800.59,2812.17,Bmr007-c3,s,19b+,,,but i - i think what i was s- - nnn noting just when he - when andreas raised that was that there's other information to be gained from looking at all of the microphones and you may not need to look at very sophisticated things .
+2810.92,2811.23,Bmr007-c4,b,,,,yeah .
+2812.17,2822.49,Bmr007-c3,s,19b++.20a,,,because if there's - if most of the overlaps - you know this doesn't cover say three but if most of the overlaps say are two if the distribution looks like there's a couple high ones and - and the rest of them are low .
+2812.26,2812.64,Bmr007-c4,b,,,,yeah .
+2816.34,2816.59,Bmr007-c4,b,,,,yeah .
+2821.22,2821.53,Bmr007-c4,b,,,,yeah .
+2821.36,2822.77,Bmr007-cB,s^2,20b,,,and everyone else is low yeah .
+2821.69,2821.95,Bmr007-c4,b,,,,yeah .
+2822.49,2822.97,Bmr007-c3,qy^d^f^rt,19b+++,,,you know what i mean ?
+2822.55,2822.8,Bmr007-c4,b,,,,yeah .
+2823.24,2826.37,Bmr007-c3,s,19b++++,,,there's some information there about their distribution even with very simple measures .
+2824.93,2825.19,Bmr007-c4,b,,,,yeah .
+2826.37,2826.57,Bmr007-c4,b,,,,yeah .
+2827.05,2834.76,Bmr007-c3,s^cs^j,21a,20=l=a.a,,uh by the way i had an idea with - while i was watching chuck nodding at a lot of these things is that we can all wear little bells on our heads so that then you'd know that .
+2832.68,2832.82,Bmr007-c4,b,,,,yeah .
+2833.19,2835.55,Bmr007-cB,s^j,21b-1,b,,ding ding ding ding .
+2833.84,2834.49,Bmr007-c8,s^j,21b-2,,,ding .
+2834.32,2834.59,Bmr007-c4,b,,,,yeah .
+2834.67,2835.38,Bmr007-c8,s^ba,21b-2+,b.e,,that's cute .
+2835.53,2838.21,Bmr007-c1,s^cs^na,21b-3.22a,,,i think that'd be really interesting too with blindfolds .
+2839.41,2840.46,Bmr007-cB,s^rt,22b.23a,30=w-=a.a,,nodding with blindfolds .
+2839.69,2839.9,Bmr007-c1,%--,,,,then ==
+2840.46,2840.83,Bmr007-c1,s^aa,23b,,,yeah .
+2840.46,2841.67,Bmr007-cB,qw^j,22b+,b.e,,what are you nodding about ?
+2840.83,2842.86,Bmr007-c1,s.%--,,b,,the question is like whether ==
+2842.99,2846.14,Bmr007-c1,s^cs,,**40b,,well trying with and - with and without ** yeah .
+2843.1,2844.57,Bmr007-cB,s^fa^j,22b++,40=l=a.a.b,,sorry i'm just - i'm just going to sleep .
+2846.44,2848.01,Bmr007-c1,s,,b.e,,but then there's just one {@reject@} like .
+2848.15,2848.5,Bmr007-c3,b,,,,yeah .
+2848.67,2854.95,Bmr007-c0,s,24a,,,actually i saw a uh - a woman at the bus stop the other day who um was talking on her cell phone speaking japanese and was bowing .
+2855.28,2856.15,Bmr007-c4,b,,,,yeah yeah .
+2855.34,2856.45,Bmr007-c0,s^e,24a+,,,you know profusely .
+2855.49,2857.5,Bmr007-c1,s,24b-1,,,oh yeah that's really common .
+2855.76,2855.93,Bmr007-c2,b,,,,yeah .
+2856.55,2857.39,Bmr007-c8,b,,,,ah .
+2856.58,2857.27,Bmr007-c0,s.%-,,,,just kept ==
+2856.94,2857.23,Bmr007-c4,b,,,,yeah .
+2857.85,2858.15,Bmr007-c3,s^ba,24b-2,,,wow .
+2858.65,2864.07,Bmr007-c1,s^rt,,,,it's very difficult if you try - while you're trying say to convince somebody on the phone it's difficult not to move your hands .
+2864.89,2867.31,Bmr007-c1,s,,,,not - you know if you watch people they'll actually do these things .
+2865.12,2865.6,Bmr007-c3,b,,,,mm-hmm .
+2867.31,2867.59,Bmr007-c1,fh,,,,so ==
+2868.72,2871.39,Bmr007-c1,s^cs,25a,,,i still think we should try a - a meeting or two with the blindfolds .
+2871.39,2873.68,Bmr007-c1,s,25a+,,,at least of this meeting that we have lots of recordings of .
+2873.12,2873.55,Bmr007-cB,b,,,,mm-hmm .
+2874.27,2875.09,Bmr007-c3,s^aa.%-,25b,,,yeah i think th- ==
+2874.52,2877.36,Bmr007-c1,s^cs,25a++,,,um maybe for part of the meeting we don't have to do it the whole meeting .
+2877.45,2878.28,Bmr007-c3,s^ba^na,25b+,,,i think it's a great idea .
+2878.05,2878.66,Bmr007-c1,s,,,,that could be fun .
+2879,2882.61,Bmr007-c1,s,26a.27a,,,it'll be too hard to make barriers i was thinking because they have to go all the way .
+2879.05,2882.77,Bmr007-c3,b,,,,w- - yeah .
+2883.19,2885.59,Bmr007-c1,s^rt,27a+,,,you know i can see chuck even if you put a barrier here .
+2884.37,2886.24,Bmr007-cB,fg|s^cs,26b,,,well | we could just turn out the lights .
+2885.61,2894.36,Bmr007-c8,fg|s^rt,27b,,,actually well also - | i - i can say i made barr- - barriers for - so that - the stuff i was doing with collin wha- - which just used um this kind of foam board .
+2889.94,2890.62,Bmr007-c1,qy^bh^d^rt,,,,y- - yeah ?
+2894.46,2895.47,Bmr007-c8,s^e,,,,r- - really inexpensive .
+2895.47,2897.27,Bmr007-c8,s^cs,,,,you can - you can masking tape it together .
+2897.27,2899.74,Bmr007-c8,s,,,,these are you know pretty l- - large partitions .
+2898.03,2898.29,Bmr007-c3,b,,,,yeah .
+2898.53,2901.47,Bmr007-c1,s^cs,,,,but then we also have these mikes is the other thing i was thinking .
+2901.47,2905.04,Bmr007-c1,s^cs,28a,,,so we need a barrier that doesn't disturb the sound .
+2903.63,2904.45,Bmr007-cB,s^2,28b-1,,,the acoustics .
+2903.67,2906.12,Bmr007-c8,s^na,28b-2,,,it's true it would disturb the um the - the long-range .
+2905.43,2905.89,Bmr007-c1,fh,,,,um ==
+2906.07,2906.95,Bmr007-c3,s^cs^na,28b-3,,,blindfolds would be good .
+2906.07,2907.2,Bmr007-cB,s^cs^na,28b-1+,,,i think blindfolds .
+2906.12,2906.31,Bmr007-c8,%,,,,it would ==
+2907.48,2915.36,Bmr007-c1,s,29a,**50=l=a.a.b,,i mean it sounds weird but - but - you know it's - it's cheap and uh ** be interesting to have the camera going .
+2907.51,2909.67,Bmr007-c3,s^cs,28b-3+,,,probably we should wait until after adam's set up the mikes .
+2909.8,2909.89,Bmr007-c3,fh,,,,but ==
+2913.77,2914.05,Bmr007-c8,b,,,,o_k .
+2916.7,2920.44,Bmr007-c8,s^cs,30a,b.e,,i think we're going to have to work on the uh - on the human subjects form .
+2917.5,2918.13,Bmr007-c0,s^j,29b,,,i'll be peeking .
+2919.38,2921.56,Bmr007-cB,s,30b-1,,,yeah that's right we didn't tell them we would be blindfolding .
+2920.31,2920.49,Bmr007-c3,s.%-,,,,that's ==
+2920.76,2923.04,Bmr007-c8,qy^j,,,,do you mind being blindfolded while you're interviewed ?
+2923.66,2925.48,Bmr007-c3,s^co^j,30b-2,,,that's - that's - that's the one that we videotape .
+2925.56,2925.89,Bmr007-c3,fh,,,,so ==
+2927.13,2928.51,Bmr007-c3,fh|s^co^tc,,,,um | i - i wanna move this along .
+2928.6,2936.76,Bmr007-c3,fh|s^t,,,,uh | i did have this other agenda item which is uh {@reject@} - it's uh a list which i sent to uh - a couple folks but um i wanted to get broader input on it .
+2936.76,2940.5,Bmr007-c3,s,,,,so this is the things that i think we did in the last three months .
+2940.98,2948.12,Bmr007-c3,s^e,,,,obviously not everything we did but - but sort of highlights that i can - can tell s- - some outside person you know what - what were you actually working on .
+2948.76,2957.63,Bmr007-c3,fh|s,,,,um | in no particular order uh one uh ten more hours of meeting r- - meetings recorded something like that you know from - from uh three months ago .
+2958.23,2963,Bmr007-c3,fh|s,,,,uh | x_m_l formats and other transcription aspects sorted out and uh sent to i_b_m .
+2963.87,2967.3,Bmr007-c3,fh|s,,,,um | pilot data put together and sent to i_b_m for transcription .
+2968.15,2972.95,Bmr007-c3,fh|s,31a,,,uh | next batch of recorded data put together on the c_d-roms for shipment to i_b_m .
+2973.17,2975.67,Bmr007-cB,s,31b.32a,,,hasn't been sent yet but - it's getting ready .
+2974.18,2976.58,Bmr007-c3,s^df,32b,,,but yeah that's why i phrased it that way yeah o_k .
+2977.23,2981.43,Bmr007-c3,fh|s,,,,um | human subjects approval on campus uh and release forms worked out .
+2981.43,2987.06,Bmr007-c3,s^rt,,,,so the meeting participants have a chance to request audio pixelization of selected parts of the spee- - their speech .
+2988.12,2991.83,Bmr007-c3,fh|s^rt,,60=l=a.a.b.e,,um | audio pixelization software written and tested .
+2993.15,2998.15,Bmr007-c3,fh|s,,,,um | preliminary analysis of overlaps in the pilot data we have transcribed .
+2999.01,3010,Bmr007-c3,s,1a,,,and exploratory analysis of long-distance inferences for topic coherence that was - i was - wasn't sure if those were the right way - that was the right way to describe that because of that little exercise that - that you and - and lokendra did .

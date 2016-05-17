@@ -1,0 +1,660 @@
+
+This file summarizes the changes made from the 040317 release to
+the present release (050512).
+
+Note: A main addition in this release from all earlier releases is
+Hot Spot annotations and information, which is described further
+down in the list below.
+
+
+
+
+
+---------------------------------
+DA Label Lists and Mapping Script
+---------------------------------
+SYNOPSIS: The DA lists describe the unique DAs found in the data, and with
+the mapping script can create new expanded classmaps.
+
+
+A list of the 2083 unique DA labels found in the MRDA corpus was compiled
+and placed in the classmaps/ directory (named da_list).
+
+If the DA labels are split at the pipe bar '|' into two separate labels,
+there are 64 labels not found in da_list.  These 64 labels were added to
+those in da_list to form another list (called da_list_w_split).
+
+The script use_cm.pl is included in this release, so that with the DA lists
+you can generate explicit mappings (see next section) according to your
+desired classes.
+
+
+-----------------
+Revised Classmaps
+-----------------
+SYNOPSIS: It is recommended that you use the revised classmaps (with the b
+suffix) over the originals, because they do a better job of grouping the
+labels.  Experiments at ICSI use the revised classmaps.
+
+
+Five revised classmaps are included in this new release of the MRDA Corpus
+data.  These five classmaps are revised versions of their original
+counterparts (found in the classmaps/ directory), where certain DA labels
+were reassigned to different classes.  The new classmaps are also located in
+the classmaps/ directory with a "b" after the classmap name, denoting it
+is a revised version of the original classmap, e.g. "map_02b" is a revised
+version of "map_02".
+
+The expanded versions of these revised classmaps are also given, and named
+with the suffix "_expanded" appended at the end.  The expanded versions are
+obtained by applying the classmaps "top-down" on each unique DA label given
+in da_list.  In other words, the first mapping rule that applies to a label
+(when looking top-down in the classmap file) is what is used to map the
+label.  This is done for each label in the list.
+
+Files in the classmaps/ directory with the suffix "_w_split" include the 64
+labels found when splitting at the pipe bar '|'.
+
+Please note that the expanded versions of the original classmaps were
+obtained by applying the classmaps "bottom-up".
+
+Note also that the reliability data included in the reliability/ directory is
+still based on the original five classmaps, not the revised mappings.
+
+
+--------------------------
+Channel Name Normalization
+--------------------------
+SYNOPSIS: No channel assignments were changed, only the case of lettered
+channels in some instances, so previous experiments should remain unchanged
+if these inconsistencies were handled properly through a post-process with
+previous releases.
+
+
+The channels "a" (or "A") and "b" (or "B") were occassionally inconsistent
+in the MRDA data files.  In some instances, they were upper case
+(e.g. Bdb001-cB) and in other cases they were lower case (e.g. Bmr022-ca).
+In some cases the digits lines were upper case, while the rest of the
+meeting were lower case.  We normalized all channels to all be lower case.
+(Note that the meeting names still contain the upper case first letter,
+e.g. Bmr001.)
+
+The following meetings had one or more occurrences of upper case channel
+names that were normalized to be lower case:
+
+	cA:
+		Bed006
+		Bmr007
+		Bmr019
+		Bmr022
+		Bmr024
+		Bmr025
+		Bmr028
+		Bmr031
+		Bns001
+		Bns003
+		Bro024
+		Bsr001
+		Buw001
+
+	cB:
+		Bdb001
+		Bed002
+		Bmr005
+		Bmr007
+		Bmr010
+		Bmr011
+		Bmr012
+		Bmr013
+		Bmr014
+		Bmr015
+		Bmr016
+		Bmr019
+		Bmr024
+		Bmr027
+		Bmr028
+		Bmr031
+		Bns002
+		Bro004
+		Bro005
+		Bro007
+		Bro011
+		Bro019
+		Bro021
+		Bro022
+		Bro023
+		Bro024
+		Buw001
+
+
+-----------------
+Problem Pipe Line
+-----------------
+SYNOPSIS: This should have minimal impact on previous work since it is only
+one line.  However, having a line not conforming to specifications could
+potentially cause errors (e.g. when splitting at the pipe bar).  At ICSI,
+when using the previous releases (040317 and earlier), this line was skipped.
+
+
+In Bed003.dadb, there is one line that incorrectly has a pipe after all the
+words in the transcription.  This line is:
+
+3322.01,3328.19,A,3322.01+3328.19+mmm-yea-some,h|s.%--,Bed003-c1,h|s.%--,6b,FBH,huh yeah | some ==,mmm-yea-some | ==
+
+This problem occurred because the original CSV which was labeled contained
+three words "huh yeah some" and the labeler decided to put a pipe in between
+the words "yeah" and "some".  However, in the MRT there is only one word
+"mmm-yea-some".  A pipe cannot be in the middle of a word, so in the
+automatic processing of the data, the pipe was moved to the end of the word.
+
+To correct this line, we decided to remove the pipe altogether and keep the
+s.%-- label, which is the more contentful of the two labels.  The new line
+looks like:
+
+3322.01,3328.19,A,3322.01+3328.19+mmm-yea-some,s.%--,Bed003-c1,s.%--,6b,FBH,huh yeah | some ==,mmm-yea-some ==
+
+
+---------------------------
+Misspelled Transcript Words
+---------------------------
+SYNOPSIS: These likely won't affect previous experiments much.  They could
+potentially change a few features, but overall these corrections likely
+wouldn't affect results.
+
+
+Three lines were found to have a curly braced word next to an angled brace
+word.  These had spelling errors that caused mismatches in the CSV and MRT
+words.  We corrected the three lines by fixing the spelling errors.  The
+three original lines are below:
+
+4150.6,4152.3,X,4150.6+4150.75+or|XXXX+XXXX+{wha}|4150.75+4150.9+<what>|4150.9+4151.2+about|4151.2+4151.61+people|4151.61+4151.72+in|4151.72+4151.78+the|4151.78+4151.85+in|4151.85+4151.93+the|4151.93+4152.3+building,qw^rt,Bmr005-c0,qw^rt,,FBH,or wha about people in the - in the building ?,or {wha} <what> about people in the - in the building ?
+
+3026.26,3036.12,X,3026.26+3026.67+because|3026.67+3026.93+eh|3027.16+3027.69+people|3027.69+3027.89+eh|3028.25+3028.28+eh|3028.46+3029.02+different|XXXX+XXXX+{groupseh}|3029.02+3029.34+<groups>|3029.34+3029.37+<eh>|3029.37+3029.46+has|3029.46+3029.62+eh|3029.69+3030.34+experience|3030.42+3030.67+with|3030.67+3030.8+this|3030.8+3030.83+eh|3030.83+3031.04+kind|3031.04+3031.14+of|3031.14+3031.5+problem|3031.5+3031.82+is|3031.82+3031.88+eh|3031.88+3031.96+is|3032.43+3032.69+not|3032.69+3033.38+easy|3033.71+3033.74+eh|3034.39+3034.55+to|3034.55+3034.7+to|3034.7+3035.03+solve|3035.03+3035.33+because|3035.33+3035.64+if|3035.64+3036.12+you,s.%--,Bmr006-c2,s.%--,,FBH,because uh people uh uh different groupseh has uh experience with this uh kind of problem is uh is not easy uh to- - to solve because if you ==,because eh people eh eh different {groupseh} <groups> <eh> has eh experience with this eh kind of problem is eh is not easy eh to - to solve because if you ==
+
+4021.29,4026.05,X,4021.29+4021.9+because|4022.13+4022.22+if|4022.22+4022.3+it|4022.3+4022.45+g-|4022.45+4022.51+g-|4022.51+4022.87+gets|XXXX+XXXX+{swiped}|4022.87+4023.13+<wiped>|4023.13+4023.3+out|4023.3+4023.38+or|4023.38+4023.88+something|4024.3+4024.49+y-|4024.49+4024.52+i|4024.52+4024.68+mean|4024.68+4024.74+it|4024.74+4024.86+is|4024.86+4025.15+backed|4025.15+4025.33+up|4025.33+4025.41+on|4025.41+4025.5+the|4025.5+4025.65+other|4025.65+4026.05+disk,s^df,Bro003-c8,s^df,,FBH,because if it g- - g- - gets swiped out or something y- - i mean it is backed up on the other disk .,because if it g- - g- - gets {swiped} <wiped> out or something y- - i mean it is backed up on the other disk .
+
+
+--------------------------------
+Incorrect Transcript Punctuation
+--------------------------------
+SYNOPSIS: Because this is only three lines, it won't have a significant
+effect on previous work, unless these punctuation errors affected a
+processing script which trickled down to other data.
+
+
+Three DA segments had transcript punctuation errors.  These were corrected.
+The corresponding .mpf files were changed accordingly as well.
+
+The original lines are:
+2740.42,2742.46,A,2740.42+2740.45+or|2740.45+2740.51+th-|2740.51+2740.57+the|2740.57+2740.91+ontology|2740.91+2741+will|2741+2741.16+tell|2741.16+2741.22+us|2741.22+2741.4+where|2741.4+2741.78+actually|2741.78+2741.86+it|2741.86+2741.98+is|2741.98+2742.46+located,s^bu^e,Bed013-c0,s^bu^e,14b+.15a+,,- or th- - the ontology will tell us where actually it is located .,- or th- - the ontology will tell us where actually it is located .
+
+5120.05,5122.61,A,5120.05+5120.59+which|5120.59+5120.77+is|5120.77+5120.99+i-|5121.63+5121.82+which|5121.82+5122+is|5122+5122.61+proper,s.%-,Bns002-c4,s.%-,,,which is i- = which is proper ==,which is i- = which is proper ==
+
+2316.11,2316.64,A,2316.11+2316.64+so,fg,Bsr001-c0,fg,,,so =].,so =].
+
+
+The fixed lines are:
+2740.42,2742.46,A,2740.42+2740.45+or|2740.45+2740.51+th-|2740.51+2740.57+the|2740.57+2740.91+ontology|2740.91+2741+will|2741+2741.16+tell|2741.16+2741.22+us|2741.22+2741.4+where|2741.4+2741.78+actually|2741.78+2741.86+it|2741.86+2741.98+is|2741.98+2742.46+located,s^bu^e,Bed013-c0,s^bu^e,14b+.15a+,,or th- - the ontology will tell us where actually it is located .,or th- - the ontology will tell us where actually it is located .
+
+5120.05,5122.61,A,5120.05+5120.59+which|5120.59+5120.77+is|5120.77+5120.99+i-|5121.63+5121.82+which|5121.82+5122+is|5122+5122.61+proper,s.%-,Bns002-c4,s.%-,,,which is i- - which is proper ==,which is i- - which is proper ==
+
+2316.11,2316.64,A,2316.11+2316.64+so,fg,Bsr001-c0,fg,,,so ==,so ==
+
+
+-------------------------
+Incorrectly Matched Words
+-------------------------
+SYNOPSIS: The main impact of this subtle change is that the start times of
+these segments may have changed.  Since the DA segments are sorted by start
+time in the .dadb files, the placement of the corrected segments may have
+changed as well.  Certain prosodic features may be affected also.  Overall,
+since these make up a very small percentage of the data, previous work should
+not change significantly with these corrections.
+
+
+When reconciling forced alignment words to transcript words (see
+doc/transcription-issues), a word match had to take place before times were
+assigned to transcript words.  In a few cases the same word appeared twice
+consecutively in the forced alignment, but the word appeared only once in the
+transcript.  In these cases, the first alignment word was matched to the
+transcript word, and the second alignment word was marked as an unmatched
+MRT word (with angled braces surrounding the word).  We found 14 cases where
+the transcript word matching should have occurred with the second alignment
+word, leaving the first alignment word unmatched.
+
+These have been corrected.  The files incorrect_match-{orig,corr}.txt in
+doc/lists give the original and corrected lines, respectively.  In these
+cases, the repeated word was at the start of the DA segment, and thus the
+correction also changed the start time of the segment (because the start
+time of the segment is the first matched word in the segment). On occassion,
+the punctuation order (and the .mpf files in align_mrt_dadb/) was changed.
+The Error Codes and the numbers given in doc/lists/transcript-matchrate.txt
+were updated to reflect changes as well.
+
+
+-----------------------
+Mismatched Curly Braces
+-----------------------
+SYNOPSIS: These could potentially affect experimental results if they were
+included, although in an insignificant way considering 97 lines are 0.09% of
+the data.  At ICSI all these lines were ignored in experimentation.
+
+97 DA lines (listed in doc/lists/mismatched_braces.txt) were missing curly
+braces in the Transcription field.  In this release, the Transcription
+fields added a set of curly braces around the "@@", and the Errorcodes were
+changed from "A" to "Z" to reflect the change in the Transcription.  The
+numbers given in doc/lists/transcript-matchrate.txt were updated to reflect
+these changes.  Note that the channel name normalization was not applied to
+this list, since it references the previous 040317 release.
+
+
+--------------------
+Overlapping DA Units
+--------------------
+SYNOPSIS: The easiest way to remove these overlap problems for
+experimentation is to ignore all lines with errorcode "Z".  This would
+remove other lines that only have unmatched CSV words, but would remove one
+line for each overlapping pair as well.
+
+
+Occassionally, two DA units from the same channel overlap in time.  While
+a small overlap can be expected at times due to the way alignment is done,
+larger overlaps are due to other phenomena.
+
+The file overlaps.txt (in the doc/lists/ directory) logs the DA lines where
+two utterances of the same channel overlap by more than 0.02 seconds.  In
+each of these cases, one line consists only of words that do not match the
+MRT (so the line has an errorcode Z, and there are curly braces around
+every transcript word).  These unmatched words in the overlapping DA line
+fall into several categories:
+
+1. They are difficult to hear, and unmarked in the MRT transcripts.
+   However, the DA labelers heard these fragments or words and added them
+   as they labeled.
+2. They are basically the same as words in the other DA line in the
+   overlapping pair.  This indicates these words are likely redundant, and
+   thus did not match MRT words in the automatic processing.
+3. They are words not heard in the meeting audio.
+4. They are either "@@" or "@reject@" cases that overlap with an existing
+   line.
+5. They are due to some other problem.
+
+Note that this is a residual from some CSV generation and processing issues.
+Because there were no words in the line that matched MRT words (and thus no
+words that were matched to the output of the forced alignment), the start
+and end times from the original CSV were preserved.  Often these times
+overlap those of matched MRT words outputted in the forced alignment.
+
+One overlapping line with errorcode Z contains important information not
+found in the other overlapping line:
+
+2579.95,2580.15,Z,XXXX+XXXX+{yup},s^aa,Bmr013-c8,s^aa,24b.25a,,yup .,{yup} .
+
+The "^aa" part of the DA label and the "24b.25a" AP label are not seen in
+in the other overlapping line:
+
+2579.97,2585.35,A,2579.97+2580.18+yep|2580.61+2580.88+yep|2580.88+2581.1+so|2581.1+2581.16+it|2581.16+2581.57+was|2583.53+2583.65+it|2583.65+2583.79+was|2583.79+2584.4+advertised|2584.4+2584.55+for|2584.55+2585.35+performers,fg|s,Bmr013-c8,fg|s,,FBH,yep yep | so it was - it was advertised for performers .,yep yep | so it was - it was advertised for performers .
+
+We changed the DA of this line from "fg|s" to "fg|s^aa", and we added the
+AP "24b.25a" to preserve this info in case 'Z' errorcode lines were ignored.
+
+
+----------------
+Questionable APs
+----------------
+SYNOPSIS: It is recommended that the renumbered APs are used (see a few
+sections down), which do not include the questionable APs and are unique in
+index number in a meeting.  While the out of order APs may be legitimate, one
+would need to manually insert them if one desires to include them for
+research.
+
+
+In certain instances, the AP label is in question.  This may be due to a
+malfunction in one or more of the microphones involved, a mislabeled AP
+that is ambiguous, a residual of data processing, or some other problem
+that cannot easily be resolved.
+
+Questionable APs are divided into two cases, each with a different marking
+to differentiate them.  Case I is the general marking given, while Case II
+is for a specific questionable AP.
+
+
+Case I:
+When a questionable AP part is found, if possible, it is corrected.
+Otherwise, it is surrounded by the symbol '@'.  Please note that it is the
+AP part that is surrounded, not necessarily the entire AP.  AP parts are the
+units separated by the period '.' symbol.
+
+Examples:
+@6a@.7a
+@44b@.45a
+@64a+@
+38b.@39a@
+
+Large areas of AP problems:
+Bed014 from about 3109s to 3172s
+    All microphones are shut off except channel 1.  The conversation
+    continues, but since the MRDA data only includes close-talking
+    utterances, only channel 1 remains.
+Bmr020 from about 1488s to 1557s
+    Channel 1 has a problem with its microphone, and is only heard in
+    the far-field microphones.
+
+
+Case II:
+A more specific case of questionable AP labels deals with when the AP parts
+occur out of order, i.e. a DA segment where the "b" part precedes a DA
+segment with the "a" part of the same AP.  For the majority of these cases,
+the start times of the two DA segments are very close.  These "out of order"
+AP parts may occur for several reasons:
+
+1. The start times of the two DA segments are extremely close (less than
+   0.05 seconds).  They were likely labeled in order, but after doing a
+   forced alignment the timings changed slightly to place them out of
+   order.
+2. The "b" part does not occur at the beginning of the DA segment it is in,
+   but later on.  Therefore, the words preceding where the "b" part occurs
+   could have start times prior to when the DA segment with the "a" part
+   begins.
+3. There was some sort of labeler error for the AP pair.
+
+Because the reasons for these "out of order" APs vary and cannot be
+automatically determined, we simply surrounded these AP parts (and the other
+AP parts with the same AP number) with the symbol '!' so they can be
+identified and dealt with as desired.  Please note that only the "out of
+order" AP part is surrounded in each case, not necessarily the entire AP.
+AP parts are the units separated by the period '.' symbol.
+
+
+---------
+Fixed APs
+---------
+SYNOPSIS: If research has been done on the APs, it is recommended that the
+renumbered AP markings be used for future research.  In previous releases the
+APs did not go through a stringent error-checking phase like the DAs did.
+
+
+In the earlier releases of this corpus, the AP labels were not as closely
+checked as the DA annotations for syntax or other errors.  We were able to
+make a pass at the AP labels in this release, correcting errors that we
+found.  The errors and corrections are logged in doc/lists/fixed_aps.txt.
+The corresponding lines in the .dadb files can be found using the Start and
+Info fields.  A "FIXED AP" note was added to the Comments field in these
+lines, except with the cases noted in the next two sections.  Note that the
+channel name normalization was not applied to this list, since it references
+the previous 040317 release.  The next two sections below describe two
+specific errors that were addressed in this release.
+
+
+--------------------
+APs with fg/fh/b DAs
+--------------------
+SYNOPSIS: If research has been done on the APs, it is recommended that the
+renumbered AP markings be used for future research.  In previous releases the
+APs did not go through a stringent error-checking phase like the DAs did.
+
+
+According to Section 4.4 of "Meeting Recorder Project: Dialog Act Labeling
+Guide" (ICSI TR-04-002), DA segments with labels "fg" "fh" and "b" should
+never be marked with APs.  However, there are several cases where these
+segments have AP labels, even after a round of AP fixes (for other problems).
+We removed these labels while adding the phrase "REMOVED AP" to the comments
+field.  We also adjusted any affected APs, added the phrase "ADJUSTED AP" to
+the comments field, and logged the adjustments in doc/lists/fixed_aps.txt.
+136 APs were removed, and 130 APs were adjusted.  The file
+doc/lists/fg_fh_b.txt lists the 136 removed APs.  Note that the channel name
+normalization was not applied to this list, since it references the previous
+040317 release.
+
+
+----------------------------------
+APs missing when DAs have ^m or ^2
+----------------------------------
+SYNOPSIS: If research has been done on the APs, it is recommended that the
+renumbered AP markings be used for future research.  In previous releases the
+APs did not go through a stringent error-checking phase like the DAs did.
+
+
+Section 4.4 of "Meeting Recorder Project: Dialog Act Labeling Guide"
+(ICSI TR-04-002) states that mimics (^m) and collaborative completions (^2)
+are always marked with APs.  After a round of AP fixes and fixing cases for
+fg/fh/b, we found 156 DA units in the corpus marked with ^m or ^2 that did
+not have any AP markings.  These units are listed in doc/lists/m_2.txt.
+
+We added the appropriate adjacency pair parts to almost all of these data and
+added "INSERTED AP" to the comment field (or "ADJUSTED (M/2) AP" when an AP
+part existed but was changed).  A small number of cases required a different
+correction or were left without a label.  These cases are described in
+doc/lists/m_2-exceptions.txt.
+
+Some labels of ^2 or ^m occur with questionable APs.  These were investigated
+and the proper corrections were made.  Sometimes this involved fixing
+incorrect DA labels (a ^2 or a ^m that was inappropriate), fixing incorrect
+APs, or both.  Fixed APs are noted in doc/lists/fixed_aps.txt.  Special
+corrections are noted in doc/lists/m_2-exceptions.txt.
+
+
+------------------------------------
+matched_previously Internal markings
+------------------------------------
+SYNOPSIS: This has little effect on the data and experiments, because only a
+handful of these existed.
+
+A residual of the automatic matching of original transcripts with MRT
+transcripts (see doc/transcription-issues.txt) is that a handful of cases
+failed to combine matched words when needed (when two words from forced
+alignment mapped to one MRT transcript word).  This is seen when the Internal
+Word Times field contains the word <matched_previously>.  Previous releases
+had 8 such cases distributed over 7 DA segments.  These are listed below.
+
+The <matched_previously> word was used as an intermediate placeholder word
+so that the word times could be retained.  After word matching, we would
+combine the <matched_previously> times with the previous word and remove the
+placeholder.  However, as in the 8 cases mentioned above, the previous word
+was an unmatched CSV word (a word surrounded by curly braces), so the times
+were not combined automatically.
+
+We manually corrected the times of the words for which these placeholders
+existed.  Two files show the differences for each affected line before and
+after the correction.  doc/lists/matched_previously-{orig,corr}.txt list the
+original lines and corrected lines, respectively.
+
+
+------------------------------------
+<-> Transcript and Internal Markings
+------------------------------------
+SYNOPSIS: This has little effect on the data and experiments, because only a
+handful of these existed.
+
+
+On 4 occassions in previous releases, an unmatched MRT word <-> is marked in
+the data.  These are extraneous and were removed from both the Transcription
+and Internal Words Time fields, and the Error Code was changed accordingly.
+The four original lines are listed in doc/lists/dash-in-trans.txt.
+
+
+--------------
+Renumbered APs
+--------------
+SYNOPSIS: If research has been done on the APs, it is recommended that the
+renumbered AP markings be used for future research.  In previous releases the
+APs did not go through a stringent error-checking phase like the DAs did.
+
+
+Because of the inconsistency in AP indexing (see the "General AP Indexing
+Notes section" in doc/ap-indexing.txt), a renumbering of the APs was done,
+with the result in the Adjacency Pair field.  The APs before renumbering are
+preserved in the Original Adjacency Pair.
+
+The renumbering was done as follows:
+      1. First, we assume that the DA lines are sorted by start time.
+         (They are already sorted this way in the .dadb files.)
+      2. Stepping through line by line, begin numbering AP indices in
+         multiples of 10, leaving the rest unchanged.
+      3. When there are multiple speakers per AP part, number according
+         to order of appearance (e.g. 4a-1 first, then 4a-2, 4a-3, etc.).
+      4. When there are multiple AP parts in a line, go from lowest to
+         highest by AP index, from left to right.
+
+
+-------------------------
+Addition of Speaker Label
+-------------------------
+SYNOPSIS: This allows for a more general speaker normalization which takes
+all the speaker segments from the meeting data.
+
+
+A Speaker field was added to the corpus, which gives the Speaker label for
+the DA segment, in the format [mf][en]### (see Meeting Recorder
+documentation for more details).
+
+
+------------------------------
+Addition of Utterance ID Field
+------------------------------
+SYNOPSIS: This new field uniquely identifies each utterance in the corpus.
+It's information can be derived from the Start Time, End Time, and
+Meeting/Channel Info fields, but we include it explicitly for your
+convenience.
+
+
+An Utterance ID field was added to the corpus so that each utterance in the
+database could be identified with a uniquely.  The field is stored in the
+following format:
+
+	<Meeting/Channel Info>_<Start Time (in ms)>_<End Time (in ms)>
+
+	e.g. Bdb001-cb_1595340_1599520
+	     Bed009-c2_0001990_0002170
+
+Note that the times are always 7 digits, with the appropriate number of
+leading and trailing zeroes.  Also note that this field is redundant, and
+can be generated from other fields, but we include it in the database for
+convenience.
+
+
+--------------------------------
+Addition of Hot Spot Annotations
+--------------------------------
+SYNOPSIS: The addition of hot spot annotations should not affect previous
+work.  It could potentially change scripts that parse the .dadb files,
+though, because the number of fields (and order) have changed.
+
+
+Hot Spot annotations were added to the corpus.  These include a hot spot
+label, comments from the hot spot labeling, and the hot spot double star '**'
+marking in the transcript field.  See the Hot Spot Annotation Guide for
+further details on the hot spot data.  See doc/database-format.txt for
+details on where this data is stored, and how it affects the placement of
+other data fields.
+
+
+----------------------------------------------
+Addition of Hot Spot Markings in Transcription
+----------------------------------------------
+SYNOPSIS: The addition of hot spot markings (the double star '**') may
+affect previous work dealing with the Transcription field.  A simple removal
+of the '**' marks (e.g. s/\*\* //g in Perl) for that field would cause the
+Transcription information to revert back to the previous release.
+
+
+The hot spot annotations included a marking of the transcription field to
+denote where hot spot labels begin and end in the middle of a DA segment.
+These are marked as double stars ('**'), and were added to the Transcription
+field of the MRDA corpus.
+
+E.g., the Transcription field in previous releases:
+
+the chairs are - chairs are movable .
+
+changes to be:
+
+the chairs are - ** chairs are movable .
+
+See the Hot Spot Annotation Guide for more details.
+
+
+-------------------------------------
+Addition of Hot Spot Reliability Data
+-------------------------------------
+SYNOPSIS: This has no affect on previous work, except that small changes in
+the file structure for the reliability data may change file pointers.
+
+
+We added reliability data (and statistics) for the hot spot annotations and
+changed the file structure in the reliability/ directory slightly.  The
+additions are reflected in the README file in the reliability/ directory.
+
+
+-----------------------
+Hot Spot Parsing Script
+-----------------------
+SYNOPSIS: This has no affect on previous work.
+
+
+We include a hot spot parsing script called map_hs.pl in the scripts
+directory.  This script parses and maps hot spots into parts for each
+line of the MRDA corpus.
+
+
+-----------------------------------------------
+Splitting Corpus into Data and Transcript Files
+-----------------------------------------------
+SYNOPSIS: While this change does not affect the corpus data, it will affect
+any scripts that parse or extract data from the .dadb files of previous
+releases.
+
+
+After adding several fields to the corpus data (Speaker, Renumbered AP,
+Utterance ID, Hot Spot Annotations) we decided to move the transcript fields
+into their own files.  Thus, we now have data (.dadb) and transcript (.trans)
+files for each meeting.  The transcript files contain the Original CSV
+Transcription and the Transcription fields.  The .dadb files contain the rest
+of the fields.  Both files have the Utterance ID field, so they can easily be
+merged and individual lines can be matched conveniently.
+
+
+-------------------
+Train/Dev/Test Sets
+-------------------
+SYNOPSIS: It is recommended that these sets are used so different research
+can be directly compared.
+
+
+We split the 75 meetings in this corpus into training, dev, and test sets for
+our experiments.  The splits are described in doc/lists/train_test_split.txt,
+included in this release, so that others who wish to use this corpus can also
+use these splits, making similar experiments and results comparable.
+
+
+-------------------------
+Data used for experiments
+-------------------------
+SYNOPSIS: Following steps 1. and 2. will remove the portions of the data that
+do not apply for DA research.  Step 3. is a choice that we at ICSI made for
+our initial experiments.
+
+
+When using the data, we suggest:
+
+1.  Ignoring all segments with Error Codes B, D, or Z.
+2.  Ignoring all segments with DA label z.
+3.  Splitting at the pipe.
+
+
+-----------------------------------------
+Added and revised documentation and files
+-----------------------------------------
+SYNOPSIS: A new person to the corpus should have access to all the
+information in this file in the various other documentation.
+
+
+The changes described above are documented in various text files in the
+release.  Some are new files (e.g. XXXXX) and some are previously existing
+files that were revised (e.g. doc/ap-indexing.txt).
+
+The changes above are also reflected in other files (e.g. lists), unless
+explicitly noted in documentation.
+
+Examples given in various documentation also reflect the new release data,
+unless otherwise noted.

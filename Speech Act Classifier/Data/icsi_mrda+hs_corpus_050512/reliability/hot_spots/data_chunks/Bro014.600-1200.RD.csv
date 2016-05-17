@@ -1,0 +1,273 @@
+601.441,602.611,Bro014-c1,s,,,,it's a weighted average .
+603.86,604.27,Bro014-c1,fh,,,,um ==
+604.98,605.07,Bro014-c0,fg,,,,yeah .
+605.07,614.318,Bro014-c0,s,,,,and so when you average the - the relative improvement it tends to - to give a lot of - of um importance to the well-matched case .
+614.318,616.458,Bro014-c0,s^df,,,,because the baseline is already very good .
+616.458,616.658,Bro014-c0,fh,,,,and ==
+617.694,618.264,Bro014-c0,fh,,,,um ==
+618.172,621.342,Bro014-c2,qw^cs,1a,,,why don't they not look at improvements but just look at your av- - your scores ?
+618.264,619.024,Bro014-c0,%--,,,,i- - it's ==
+621.342,623.552,Bro014-c2,s^e,1a+,,,you know figure out how to combine the scores .
+623.876,624.326,Bro014-c0,b,,,,mm-hmm .
+624.041,625.021,Bro014-c2,s^e,1a++,,,with a weight or whatever .
+625.261,626.151,Bro014-c2,s,1a+++,,,and then give you a score .
+626.151,626.811,Bro014-c2,s,1a++++,,,here's your score .
+626.811,628.631,Bro014-c2,s,1a+++++,,,and then they can do the same thing for the baseline system .
+628.631,629.371,Bro014-c2,s,1a++++++,,,and here's its score .
+629.371,630.261,Bro014-c2,s.%--,1a+++++++,,,and then you can look at ==
+630.567,630.817,Bro014-c0,b,,,,mm-hmm .
+630.759,632.789,Bro014-c1,s,1b,,,well that's what he's seeing as one of the things they could do .
+632.789,636.254,Bro014-c1,s.%--,1b+,,,it's just when you - when you get all done i think that they pro- ==
+632.799,633.249,Bro014-c0,b,,,,yeah .
+636.254,637.404,Bro014-c1,s,1b++,,,i m- - i - i wasn't there .
+637.404,644.235,Bro014-c1,s,1b+++,,,but i think they started off this process with the notion that you should be significantly better than the previous standard .
+644.538,644.948,Bro014-c2,b,,,,mm-hmm .
+645.21,646.2,Bro014-c1,fh,,,,and um ==
+646.2,648.04,Bro014-c1,s,1b++++,,,so they said how much is significantly better .
+648.04,648.5,Bro014-c1,qw.%--,1b+++++,,,what do you ?==
+648.5,653.636,Bro014-c1,s,1b++++++,,,and - and so they said well you know you should have half the errors or something that you had before .
+650.265,650.605,Bro014-c0,b,,,,mm-hmm .
+651.255,652.545,Bro014-c0,b,,,,hmm .
+652.568,653.138,Bro014-c2,b,,,,mm-hmm .
+653.781,654.031,Bro014-c0,b,,,,yeah .
+653.94,654.67,Bro014-c1,s.%--,,,,so it's ==
+655.45,655.9,Bro014-c1,fh,,,,uh ==
+656.954,657.254,Bro014-c2,b,,,,hmm .
+657.332,658.372,Bro014-c1,s.%--,,,,but it does seem like ==
+659.01,661.66,Bro014-c1,s^r,2a,,,i- - i- - it does seem like it's more logical to combine them first .
+661.66,662.25,Bro014-c1,s.%--,,,,and then do the ==
+663.399,664.809,Bro014-c0,s^2^rt,2b.3a,,,combine error rates .
+664.722,665.072,Bro014-c1,s^aa,3b,,,yeah .
+664.809,665.199,Bro014-c0,s.%--,,,,and then ==
+665.359,665.649,Bro014-c0,b,,,,yeah .
+665.862,666.162,Bro014-c1,b,,,,yeah .
+666.295,666.555,Bro014-c0,fg,,,,well ==
+667.744,670.384,Bro014-c0,s,4a,,,but there is this - this - is this still this problem of weights .
+670.384,674.774,Bro014-c0,s^rt,4a+,,,when - when you combine error rate it tends to give more importance to the difficult cases .
+675.067,675.367,Bro014-c1,qy^bh^rt,4b,,,oh yeah ?
+675.476,677.066,Bro014-c0,s.%--,,,,and some people think that ==
+677.316,680.686,Bro014-c0,s,,,,well they have different um opinions about this .
+681.116,691.062,Bro014-c0,s^e,5a,,,some people think that it's more important to look at - to have ten percent imp- - relative improvement on well-matched case than to have fifty percent on the m- - mismatched .
+691.452,695.911,Bro014-c0,s^e,5a+,,,and other people think that it's more important to improve a lot on the mismatch .
+695.911,696.131,Bro014-c0,fh,,,,and ==
+696.8,701.08,Bro014-c2,s,5b.6a,,,it sounds like they don't really have a good idea about what the final application is gonna be .
+697.142,697.622,Bro014-c0,%--,,,,so bu- ==
+697.622,698.392,Bro014-c0,s^fe,,,,l- - de- - fff !
+701.278,701.558,Bro014-c0,b,,,,mmm .
+701.489,716.104,Bro014-c1,s^ng,6b,,,well you know the - the thing is that if you look at the numbers on the - on the more difficult cases um if you really believe that was gonna be the predominant use none of this would be good enough .
+702.088,702.468,Bro014-c0,b,,,,yeah .
+702.468,703.378,Bro014-c0,b,,,,mmm .
+716.388,716.808,Bro014-c2,b,,,,mm-hmm .
+716.483,716.743,Bro014-c0,b,,,,yeah .
+716.554,717.334,Bro014-c1,s.%--,6b+,,,nothing anybody's ==
+717.334,724.5,Bro014-c1,s,6b++,,,whereas you sort of - with some reasonable error recovery could imagine in the better cases that these - these systems working .
+725.387,726.147,Bro014-c1,fh,,,,so ==
+726.147,726.757,Bro014-c1,fh,,,,um ==
+726.757,732.823,Bro014-c1,s,,,,i think the hope would be that it would uh it would work well for the good cases .
+732.823,739.85,Bro014-c1,s,,,,and uh it would have reasonable reas- - soft degradation as you got to worse and worse conditions .
+740.14,740.7,Bro014-c1,fh,,,,um ==
+740.145,740.495,Bro014-c2,b,,,,yeah .
+741.125,742.075,Bro014-c2,s.%--,,,,i - i guess what i'm ==
+742.901,746.381,Bro014-c2,s,7a,,,i mean i - i was thinking about it in terms of if i were building the final product .
+746.381,749.424,Bro014-c2,s,7a+,,,and i was gonna test to see which front-end i'd - i wanted to use .
+749.424,756.108,Bro014-c2,s,7a++,,,i would try to weight things depending on the exact environment that i was gonna be using the system in .
+756.108,756.438,Bro014-c2,s.%-,,,,if i ==
+756.289,756.949,Bro014-c1,s^ar,7b,,,but - but - no .
+757.009,757.219,Bro014-c1,s^ar,7b+,,,well no .
+757.219,757.469,Bro014-c1,s^ar^r,7b++,,,well no .
+757.469,759.434,Bro014-c1,s,7b+++,,,i mean it isn't the operating theater .
+759.434,763.504,Bro014-c1,s,7b++++.8a,,,i mean they don- - they - they don't - they don't really know i think .
+760.06,760.44,Bro014-c2,b,,,,yeah .
+764.03,764.49,Bro014-c1,s.%-,,,,i mean i th- ==
+764.198,767.548,Bro014-c2,qy^rt,8b.9a,,,so if - if they don't know doesn't that suggest the way for them to go ?
+768.319,768.769,Bro014-c2,fh,,,,uh ==
+770.307,771.527,Bro014-c2,s^e,,,,you assume everything's equal .
+771.587,772.647,Bro014-c2,s.%--,,,,i mean y- - y- - i mean you ==
+773.038,776.798,Bro014-c1,h|s^cs,9b,,,well | i mean i - i think one thing to do is to just not rely on a single number .
+776.798,778.478,Bro014-c1,s^cs^e,9b+,,,to maybe have two or three numbers .
+777.539,777.909,Bro014-c2,b,,,,yeah .
+778.329,778.679,Bro014-c2,b,,,,right .
+778.478,778.858,Bro014-c1,qy^d^f^g,,,,you know ?
+778.858,785.934,Bro014-c1,s,,,,and - and - and say here's how much you uh - you improve the uh - the - the relatively clean case .
+785.934,786.444,Bro014-c1,s.%--,,,,and here's ==
+786.444,787.704,Bro014-c1,s^bsc,,,,or - or well-matched case .
+787.704,789.274,Bro014-c1,s.%--,,,,and here's how - here's how much you ==
+787.995,788.465,Bro014-c2,b,,,,mm-hmm .
+790.045,790.445,Bro014-c1,fh,,,,uh ==
+790.619,790.869,Bro014-c2,x,,,,so not ==
+791.291,792.551,Bro014-c2,s^bu,10a,,,so not try to combine them .
+791.45,791.54,Bro014-c1,fh,,,,so ==
+792.6,792.82,Bro014-c1,s^aa,10b,,,yeah .
+793.11,793.91,Bro014-c1,s,,,,uh actually it's true .
+793.128,793.398,Bro014-c2,b,,,,yeah .
+793.91,795.05,Bro014-c1,s,,,,uh i had forgotten this .
+795.05,797.98,Bro014-c1,s,,,,uh but uh well-matched is not actually clean .
+797.98,799.22,Bro014-c1,s.%--,11a,,,what it is is just that ==
+799.447,800.627,Bro014-c2,s^2,11b.12a,,,the training and testing .
+799.705,801.795,Bro014-c1,s^m^na,12b,,,u- - uh the training and testing are similar .
+801.977,802.197,Bro014-c0,b,,,,mmm .
+802.085,802.655,Bro014-c1,fh,,,,so ==
+803.155,810.487,Bro014-c1,s,,,,i guess what you would do in practice is you'd try to get as many uh examples of similar sort of stuff as you could .
+810.692,811.042,Bro014-c2,b,,,,yeah .
+810.96,811.64,Bro014-c1,s.%--,,,,and then ==
+812,812.65,Bro014-c1,fh,,,,uh ==
+812.65,823.235,Bro014-c1,s,13a,,,so the argument for that being the - the - the more important thing is that you're gonna try and do that but you wanna see how badly it deviates from that when - when - when the uh - it's a little different .
+822.243,822.643,Bro014-c2,fg,,,,so ==
+823.75,824.38,Bro014-c1,fh,,,,um ==
+823.935,828.121,Bro014-c2,s^bu,13b.14a,,,so you should weight those other conditions v- - very - you know really small .
+828.301,828.581,Bro014-c1,fg,,,,but ==
+828.811,829.031,Bro014-c1,s^ar,14b,,,no .
+829.031,830.441,Bro014-c1,s.%-,,,,that's a - that's a - that's an arg- ==
+829.119,831.169,Bro014-c2,s^df,,,,i mean that's more of an information kind of thing .
+831.179,831.739,Bro014-c1,s.%--,,,,that's an ar- ==
+831.739,833.089,Bro014-c1,s,14b+,,,well that's an argument for it .
+833.089,834.249,Bro014-c1,s^co,14b++,,,but let me give you the opposite argument .
+834.084,834.414,Bro014-c2,b,,,,uh-huh .
+834.249,837.789,Bro014-c1,s,14b+++,,,the opposite argument is you're never really gonna have a good sample of all these different things .
+838.28,841.72,Bro014-c1,qy^rt,,,,i mean are you gonna have w- - uh uh examples with the windows open ?
+841.72,842.46,Bro014-c1,qy^d^rt,,,,half open ?
+842.46,843.14,Bro014-c1,qy^d^rt,,,,full open ?
+843.553,846.233,Bro014-c1,s,,,,going seventy sixty fifty forty miles an hour .
+846.233,847.313,Bro014-c1,s,,,,on what kind of roads .
+846.59,847.09,Bro014-c2,b,,,,mm-hmm .
+847.313,848.303,Bro014-c1,s,,,,with what passing you .
+848.303,848.563,Bro014-c1,s.%--,,,,with ==
+848.563,849.083,Bro014-c1,fh,,,,uh i mean ==
+849.387,849.857,Bro014-c2,b,,,,mm-hmm .
+850.002,854.482,Bro014-c1,s,,,,i - i - i think that you could make the opposite argument that the well-matched case is a fantasy .
+854.742,855.272,Bro014-c2,b,,,,mm-hmm .
+855.691,856.091,Bro014-c4,b,,,,uh-huh .
+855.801,856.041,Bro014-c1,qy^d^f^g,,,,you know ?
+856.041,856.621,Bro014-c1,fh,,,,so ==
+856.891,868.499,Bro014-c1,s,,,,i think the thing is is that if you look at the well-matched case versus the po- - you know the - the medium and the - and the fo- - and then the mismatched case um we're seeing really really big differences in performance .
+868.499,868.839,Bro014-c1,qy^d^f^g^rt,,,,right ?
+869.653,872.853,Bro014-c1,s,,,,and - and y- - you wouldn't like that to be the case .
+873.083,875.253,Bro014-c1,s.%--,15a,,,you wouldn't like that as soon as you step outside ==
+875.785,877.705,Bro014-c1,s.%-,,,,you know a lot of the - the cases it's - is ==
+876.671,878.101,Bro014-c2,s^j,15b,,,well that'll teach them to roll their window up .
+882.156,884.586,Bro014-c1,s.%--,,,,i mean in these cases if you go from the - the uh ==
+884.876,886.266,Bro014-c1,s,,,,i mean i don't remember the numbers right off .
+886.266,895.269,Bro014-c1,s^r,,,,but if you - if you go from the well-matched case to the medium it's not an enormous difference in the - in the - the training-testing situation .
+895.269,898.864,Bro014-c1,s,,,,and - and - and it's a really big performance drop .
+895.429,895.809,Bro014-c2,b,,,,mm-hmm .
+899.154,899.404,Bro014-c1,qy^d^f^g,,,,you know ?
+899.404,899.924,Bro014-c1,fh,,,,so ==
+900.762,901.242,Bro014-c1,fh,,,,um ==
+902.89,911.933,Bro014-c1,s^bk|s,,,,yeah | i mean the reference one for instance - this is back old on uh - on italian uh was like six percent error for the well-matched .
+911.933,913.463,Bro014-c1,s,,,,and eighteen for the medium-matched .
+913.463,916.363,Bro014-c1,s,,,,and sixty for the - for highly-mismatched .
+916.991,917.291,Bro014-c1,fh,,,,uh ==
+917.291,921.372,Bro014-c1,s,,,,and you know with these other systems we - we helped it out quite a bit .
+921.372,926.262,Bro014-c1,s,,,,but still there's - there's something like a factor of two or something between well-matched and medium-matched .
+926.262,933.244,Bro014-c1,s.%--,,,,and so i think that if what you're - if the goal of this is to come up with robust features it does mean ==
+934.083,937.533,Bro014-c1,s,,,,so you could argue in fact that the well-matched is something you shouldn't be looking at at all .
+938.812,944.642,Bro014-c1,s,,,,that - that the goal is to come up with features that will still give you reasonable performance .
+945.181,947.451,Bro014-c1,s^e,,,,you know with again gentle degregra- - degradation .
+947.991,951.891,Bro014-c1,fh|s^e,,,,um | even though the - the testing condition is not the same as the training .
+952.228,952.658,Bro014-c2,b,,,,hmm .
+953.06,959.92,Bro014-c1,fh|s.%--,,,,so | you know i - i could argue strongly that something like the medium mismatch which is you know not compl- - pathological but ==
+960.13,962.08,Bro014-c1,qw^rt,16a,,,i mean what was the - the medium-mismatch condition again ?
+963.528,965.388,Bro014-c0,h|s.%--,16b,,,um | it's ==
+965.868,966.048,Bro014-c0,s^bk,16b+,,,yeah .
+966.208,970.118,Bro014-c0,s,16b++,,,medium mismatch is everything with the far microphone .
+970.468,974.217,Bro014-c0,s,16b+++,,,but trained on like low noisy condition .
+974.217,975.277,Bro014-c0,s^e,16b++++,,,like low speed .
+975.277,977.417,Bro014-c0,s^e,16b+++++,,,and - or stopped car .
+977.767,980.837,Bro014-c0,s,16b++++++,,,and tested on high-speed conditions i think .
+980.837,981.977,Bro014-c0,s^e,16b+++++++.17a,,,like on a highway .
+981.977,982.087,Bro014-c0,fh,,,,and ==
+983.242,983.492,Bro014-c1,s^bk,17b,,,right .
+983.492,986.632,Bro014-c1,s,18a,,,so it's still the same - same microphone in both cases .
+983.903,984.073,Bro014-c0,fh,,,,so ==
+985.34,986.21,Bro014-c0,s^m^na,18b,,,same microphone .
+986.21,986.35,Bro014-c0,%--,,,,but ==
+986.59,986.8,Bro014-c0,b,,,,yeah .
+987.348,991.088,Bro014-c1,fh|s,,,,but uh | it's - there's a mismatch between the car conditions .
+991.088,991.468,Bro014-c1,s.%--,,,,and that's ==
+991.917,995.616,Bro014-c1,s,,,,uh you could argue that's a pretty realistic situation .
+994.1,994.42,Bro014-c2,b,,,,yeah .
+995.44,995.94,Bro014-c0,b,,,,mm-hmm .
+995.616,998.496,Bro014-c1,fh|s,,,,and uh | i'd almost argue for weighting that highest .
+998.496,1001.57,Bro014-c1,s.%--,,,,but the way they have it now it's - i guess it's - it's ==
+1002.16,1004.3,Bro014-c1,s^bu,19a,,,they - they compute the relative improvement first .
+1004.3,1005.76,Bro014-c1,qy^bu^d^rt,19a+,,,and then average that with a weighting ?
+1005.92,1006.21,Bro014-c0,s^aa,19b,,,yeah .
+1006.55,1010.27,Bro014-c1,s,,,,and so then the - that - that makes the highly-matched the really big thing .
+1010.95,1011.2,Bro014-c0,b,,,,mm-hmm .
+1011.28,1012.08,Bro014-c1,fh,,,,um ==
+1013,1023.29,Bro014-c1,fh|s^cs,,,,so | u- - i- - since they have these three categories it seems like the reasonable thing to do is to go across the languages and to come up with an improvement for each of those .
+1023.07,1024.21,Bro014-c0,b,,,,mm-hmm .
+1024.49,1027.63,Bro014-c1,s^e,,,,just say o_k in the - in the highly-matched case this is what happens .
+1027.63,1031.5,Bro014-c1,s^e,,,,in the m- - the uh - this other m- - medium if this happens .
+1031.5,1034.03,Bro014-c1,s^e,,,,in the highly-mismatched that happens .
+1032.52,1032.78,Bro014-c0,b,,,,mm-hmm .
+1034.55,1035.55,Bro014-c1,fh,,,,and uh ==
+1036.31,1040.6,Bro014-c1,s,,,,you should see uh a gentle degradation through that .
+1039.42,1040.23,Bro014-c0,b,,,,mmm .
+1041.82,1042.45,Bro014-c1,fh,,,,um ==
+1045.21,1045.58,Bro014-c1,fh,,,,but ==
+1046.69,1047.25,Bro014-c1,fh,,,,i don't know .
+1047.97,1048.19,Bro014-c0,b,,,,yeah .
+1048.83,1049.59,Bro014-c1,s.%--,,,,i think that - that ==
+1050.62,1051.08,Bro014-c1,s.%--,,,,i - i ==
+1052.01,1058.31,Bro014-c1,s,,,,i gather that in these meetings it's - it's really tricky to make anything ac- - make any policy change .
+1058.31,1062.57,Bro014-c1,s^df,,,,because everybody has - has uh their own opinion .
+1062.57,1062.73,Bro014-c1,fh,,,,and ==
+1063.01,1063.24,Bro014-c0,b,,,,mm-hmm .
+1064.01,1064.92,Bro014-c1,fh,,,,i don't know .
+1064.9,1065.04,Bro014-c0,b,,,,yeah .
+1065.25,1065.47,Bro014-c1,fh,,,,yeah .
+1067.04,1067.6,Bro014-c0,fg,,,,uh so ==
+1067.69,1067.9,Bro014-c0,fh,,,,yeah .
+1069.88,1069.98,Bro014-c0,s^bk,,,,yeah .
+1069.98,1073.81,Bro014-c0,s,,,,but there is probably a - a big change that will be made .
+1073.81,1077.9,Bro014-c0,s,,,,is that the - the baseline - th- - they want to have a new baseline perhaps .
+1078.5,1079.5,Bro014-c0,s^e,,,,which is um m_f_c_c .
+1079.5,1082.07,Bro014-c0,s^e,,,,but with a voice activity detector .
+1083.43,1092.86,Bro014-c0,s,,,,and apparently uh some people are pushing to still keep this fifty percent number .
+1092.86,1097.37,Bro014-c0,s,20a,,,so they want to have at least fifty percent improvement on the baseline .
+1097.79,1098.27,Bro014-c1,s^bk,20b,,,mm-hmm .
+1098.27,1100.27,Bro014-c0,s^e,21a,,,but w- - which would be a much better baseline .
+1100.51,1100.9,Bro014-c1,s^bk,21b,,,mm-hmm .
+1101.02,1108.65,Bro014-c0,s^rt,22a,,,and if we look at the result that sunil sent just putting the v_a_d in the baseline improved like more than twenty percent .
+1108.69,1109.06,Bro014-c1,s^bk,22b,,,mm-hmm .
+1109.22,1116.5,Bro014-c0,s.%--,,,,which would mean then - then - mean that fifty percent on this new baseline is like well more than sixty percent improvement on ==
+1117.68,1119.5,Bro014-c1,s^bu|qy^d^g^rt,23a,,,so nobody would be there probably | right ?
+1117.94,1119.39,Bro014-c0,x,,,,on - o- - e- - e- - uh ==
+1119.65,1121.11,Bro014-c0,s^m^na,23b.24a,,,right now nobody would be there .
+1121.11,1121.28,Bro014-c0,fh,,,,but ==
+1121.67,1121.86,Bro014-c1,s^ba,24b,,,good .
+1121.88,1122.01,Bro014-c0,fh,,,,yeah .
+1122.99,1123.45,Bro014-c1,s^j,25a,,,work to do .
+1125.67,1126.07,Bro014-c0,s^bk,25b,,,uh-huh .
+1126.42,1127.38,Bro014-c1,qw^rt,26a,,,so whose v_a_d ?
+1127.38,1128.43,Bro014-c1,qy.%--,,,,is - is - is this a ?==
+1128.94,1130.29,Bro014-c0,h|s,26b,,,uh | they didn't decide yet .
+1130.29,1133.66,Bro014-c0,s^e,26b+,,,i guess i- - this was one point of the conference call also .
+1133.66,1133.87,Bro014-c0,fh,,,,but ==
+1134.21,1134.36,Bro014-c0,fh,,,,mmm ==
+1135.16,1135.55,Bro014-c0,s^no,26b++,,,so i don't know .
+1135.92,1136.55,Bro014-c0,fh,,,,um ==
+1138.44,1138.6,Bro014-c0,fh,,,,but ==
+1139.78,1139.94,Bro014-c0,fh,,,,yeah .
+1140.07,1140.18,Bro014-c4,b,,,,oh .
+1143.59,1146.02,Bro014-c1,s,,,,oh i - i think th- - that would be good .
+1146.02,1148.61,Bro014-c1,s,,,,i mean it's not that the design of the v_a_d isn't important .
+1149.18,1157.43,Bro014-c1,s^df,,,,but it's just that it - it - it does seem to be i- - uh a lot of work to do a good job on - on that .
+1157.43,1161.45,Bro014-c1,s^df,,,,and as well as being a lot of work to do a good job on the feature design .
+1160.64,1160.95,Bro014-c0,b,,,,yeah .
+1161.45,1161.83,Bro014-c1,fh,,,,so ==
+1162.38,1162.62,Bro014-c0,b,,,,yeah .
+1163.74,1166.97,Bro014-c1,s^cs^rt,,,,if we can cut down on that maybe we can make some progress .
+1164.97,1165.07,Bro014-c0,%,,,,m- ==
+1166.05,1166.28,Bro014-c0,b,,,,yeah .
+1167.69,1167.86,Bro014-c4,b,,,,hmm .
+1168.34,1169.34,Bro014-c0,s.%--,,,,but i guess perhaps ==
+1170.98,1171.72,Bro014-c0,fh,,,,i don't know .
+1172.01,1172.81,Bro014-c0,fh,,,,w- - yeah .
+1174.96,1175.44,Bro014-c0,fh,,,,uh yeah .
+1175.44,1187.12,Bro014-c0,s,,,,per- - e- - s- - s- - someone told that perhaps it's not fair to do that because the um - to make a good v_a_d you don't have enough to - with the - the features that are - the baseline features .
+1187.12,1187.47,Bro014-c0,fh,,,,so ==
+1189.16,1190.93,Bro014-c0,fh,,,,mmm ==
+1192.68,1193.83,Bro014-c0,s,,,,you need more features .
+1195.74,1199.25,Bro014-c0,s^cs,27a,,,so you really need to put more - more in the - in - in the front-end .

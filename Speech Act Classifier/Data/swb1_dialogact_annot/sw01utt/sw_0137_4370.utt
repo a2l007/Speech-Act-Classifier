@@ -1,0 +1,187 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4370_1199_1570
+TOPIC#:		341
+DATE:		920324
+TRANSCRIBER:	glp
+UTT_CODER:	lsh
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	3
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	4
+REMARKS:        Speaker B had a TV and sirens in the background.
+
+=======================================================================
+  
+
+sv          A.1 utt1:  {D Actually, } to tell you the truth, I think,  {F uh, } jury selection is a, {F uh, } prime, {F uh, } discussion topic in terms  of possible improvements on, {F uh, } {F uh, } finding of, {F uh, } guilt. /  
+
+aa          B.2 utt1:  {F Uh, } I certainly can't argue with that.  /
+sv          B.2 utt2:   Definitely does need some improvements.  {F Uh, } /  
+
+x          A.3 utt1:  <Throat_clearing>.   
+
+sv          B.4 utt1:  {C and } the lawyers can throw people out  for no reason whatsoever just because they want to. /  
+
+aa          A.5 utt1:  Yeah,  /
+sv          A.5 utt2: I think there's a limit on that.  /
+sd          A.5 utt3:   [ The, + {F uh, } the, ] {F uh } --   
+
+sd          B.6 utt1:  I think it's,     
+
++          A.7 utt1:  -- peremptory challenges are limited to,   I don't know how many,  /
+%          A.7 utt2: {C but } you can, -/  
+
++          B.8 utt1:  Four or five,  /
+h          B.8 utt2: I can't remember which.  /
+sd          B.8 utt3:  I was on a jury trial last year  /
+sd          B.8 utt4: only I got kicked out as, {F uh, } the last  selection <siren> that the, {F uh, } defense got. /  
+
+b          A.9 utt1:  {F Um. }  Yeah,  /
+sd          A.9 utt2: it seems to me I'm always  challenged peremptorily also when I go to these things.  /
+sd          A.9 utt3: I think I have a severe demeanor or something. /  
+
+%          B.10 utt1:  {F Um. } /  
+
+%          A.11 utt1:  {F Uh, } /  
+
+%          B.12 utt1:  That, {F uh, } -/  
+
+sv          A.13 utt1:  {C But, }  [ [ typically, + {D you know, }  basic-, ] + {F uh, } typically, ] {F uh, } everyone gets involved in, {F uh, } the jury process  /
+sv(^q)       A.13 utt2: {C and } I suppose an  elitist might say, {D well, } you really want someone who is well educated to be able  [ to, + to ] winnow the facts [ from the, + from the ] prejudice. /  
+
+aa          B.14 utt1:  Right,  /
+sv          B.14 utt2: {C but } it still has to be a group of your peers. /  
+
+b          A.15 utt1:  Right. /  
+
+%          B.16 utt1:  {D See. } -/  
+
+%          A.17 utt1:  {D So, } -/  
+
+sd          B.18 utt1:  {C So, }  if it's your peers and you're not educated --   
+
+sv          A.19 utt1:  {C So } if you're a --   
+
++          B.20 utt1:  -- then, -/  
+
++          A.21 utt1:  -- nincompoop on trial, [ you'd, + you'd ] have to have --   
+
+sv          B.22 utt1:  [ You want -- +   
+
++          A.23 utt1:  -- nincompoops to, {F uh, } -/  
+
++          B.24 utt1:  -- you want ] a nincompoop jury because  they'll sympathize with you a bit --   
+
+%          A.25 utt1:  {F Um. } /  
+
++          B.26 utt1:  -- as well as hopefully being honest people  and do their best to comply with the facts as they were presented to them.  /
+sv          B.26 utt2:  {C So, }  that's why the defense is there picking through them, whereas at the same time,  [ the, + {F uh, } the ] prosecutor sitting there picking through them because he wants somebody who will give him, {F uh, } a guilty verdict if the facts warrant. /  
+
+b          A.27 utt1:  Uh-huh. /  
+
+sv          B.28 utt1:  {C So, }  {F uh, } I think the jury  selection process is pretty neat,  /
+sv          B.28 utt2: {C but } I don't think that the jury ought to be the ones picking the punishment --   
+
+%          A.29 utt1:  {F Um. } /  
+
++          B.30 utt1:  -- afterwards.  /
+sv          B.30 utt2: I think that should  be left up to people who have some knowledge in the subject and more knowledge than a jury would have.  /
+qy^g          B.30 utt3: [ M-, + ] you're talking about, the person's already been found guilty, right -- /  
+
+ny          A.31 utt1:  Uh-huh,  /
+ny^r          A.31 utt2: uh-huh. /  
+
+sd          B.32 utt1:  -- {C and } many times I've seen on  trials they have on T V, the jury will make a recommendation as to leniency or as to the death penalty  or whatever,  /
+sv          B.32 utt2: {C but } I think that it should be up to the judge and the, {F uh, } lawyers to make the decision as to what the actual penalty will be. /  
+
+%          A.33 utt1:  {F Um. } /  
+
+sv          B.34 utt1:  Maybe just the judge <sniffing> because they're the people who know what the system is --   
+
+b          A.35 utt1:  Uh-huh. /  
+
++          B.36 utt1:  -- and what it's all about --   
+
+b          A.37 utt1:  Uh-huh. /  
+
++          B.38 utt1:  -- and believe in the system. /  
+
+b          A.39 utt1:  Uh-huh. /  
+
+sv          B.40 utt1:  {F Uh, } {C and } I think that would  provide a more fair sentencing procedure.    
+
+am          A.41 utt1:  {D Well, } I suppose you may be right on that. /  
+
++          B.42 utt1:  As opposed to an emotional sentencing procedure.    
+
+sd          A.43 utt1:  # Matter of fact, [ I've heard that, # +   
+
++          B.44 utt1:  # Also, may be a more consistent # sentencing procedure. /  
+
++          A.45 utt1:  I've heard that ] some of the information,  {F uh, } is prevented from reaching the jury, like, {F uh, } mitigating circumstances  [ or, + or ] preceding, {F uh, } criminal record or things of this nature that, -/  
+
+sd          B.46 utt1:  {D Well, } preceding criminal record,  according to the judicial process has nothing to do with the current crime.   /
+sd          B.46 utt2:  {C But } when it comes to, {F uh, } sentencing for punishment, of course, if the person's never done anything bad before, according to the judicial system, then they're going to lean towards a slightly more lenient side, /
+sd          B.46 utt3: {C and } the jury's  supposed to be notified of criminal records when it comes to sentencing by jury. /  
+
+bh          A.47 utt1:  {F Oh, } is it?  /
+sd          A.47 utt2:  {F Oh, } I didn't realize that.  /
+%          A.47 utt3:  Okay. /  
+
+sd          B.48 utt1:  At least in California, they're supposed to be.  /
+sd          B.48 utt2:   Not during the trial,  /
+sd          B.48 utt3: during the trial as to whether they're guilty or not has nothing to do with their background. /  
+
+b          A.49 utt1:  Right. /  
+
+sv          B.50 utt1:  {C But } when it comes to what kind of  sentence you're going to lay down, I think [ that, + {F uh, } that ] they should. /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+sd          B.52 utt1:  [ I don't, + I don't ] know that they  always have because I never sat all the way through a jury trial.  /
+sv          B.52 utt2:  They get too boring. /  
+
+b          A.53 utt1:  Uh-huh.  /
+bf          A.53 utt2:  {C So, }  [ you, + what you're ]  saying is this, if there is the second offense, then you execute them. /  
+
+sv          B.54 utt1:  {D Well, } if it's a second offense, the punishment should certainly be more severe than a first offense, because obviously,  the rehabilitation process did not work the first time. /  
+
+%          A.55 utt1:  {F Um. } /  
+
+bf          B.56 utt1:  {C So } you got to give them either more time  in the system or a different process that will hopefully work better.  /
+sd          B.56 utt2:  When it comes down to things like  alternative sentencing, I'm all  for that   for, {F uh, } small crimes, infractions and misdemeanors  or parking tickets or  traffic tickets that have gone to warrant,  /
+sv          B.56 utt3: you give them the option of working off their time doing civil service sort of things. /  
+
+qo          A.57 utt1:  What about, {F uh, } white collar crimes  like, {F uh, } theft of trade secrets. /  
+
+sv          B.58 utt1:  I think those ought to be punished a whole lot worse than they are. /  
+
+bh          A.59 utt1:  {F Oh, } really? /  
+
+ny          B.60 utt1:  Yeah. /  
+
+qw          A.61 utt1:  Like what? /  
+
+sd          B.62 utt1:  {D Well, } {F uh, } say, embezzlement, right. /  
+
+%          A.63 utt1:  Ri-, -/  
+
+sd          B.64 utt1:  You get a guy down the street who comes up,  {F uh, } carrying a kni-, -/ 

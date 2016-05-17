@@ -1,0 +1,482 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2305_1169_1141
+TOPIC#:		324
+DATE:		910327
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	0
+BACKGROUND_B:	0
+REMARKS:        Noise behind Speaker A
+
+=============================================================================
+  
+
+o          A.1 utt1:  Okay, {F um, } {D well, }  /
+o          A.1 utt2: the first thing, - /
+qw          A.1 utt3:  {F uh, } what do you think you would offer as far as, {F uh, } information about selecting a school? /  
+
+sv          B.2 utt1:  {D Well, } first I think they've got  to have a pretty good idea of [ what they want to, + what they want to ] do. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sv          B.4 utt1:  {F Uh, } once they have that,  then they can start looking in all the various publications that give out all the information  about schools and write to the schools themselves, and start finding out  about the different requirements for the programs and what kind [ of, +  {F uh, } of ]  job assistance and all that other kind of stuff they offer. /  
+
+b          A.5 utt1:  Yeah, {F uh, }  /
+qy          A.5 utt2: [ do you, + do you ]  feel [ that the first two years +  that  the, ] {F um, } - /
+sd          A.5 utt3:  depending upon the field,  I know there are some fields which a person should go to [ the school, + that school,  ] all four years,  /
+sd          A.5 utt4:  {C but } I know there are some fields where it's really not necessary. /  
+
+aa          B.6 utt1:  Yeah,  /
+sv          B.6 utt2: a lot fields are, - /
+sd          B.6 utt3:  most of your liberal arts degrees and stuff aren't really concerned with your first two years anyway. /
+sd          B.6 utt4:   [ It's, +  it's ] your core education, your [ general requi-, + general education requirements. ] /  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sd          B.8 utt1:  {F Um, } [ if, + {D you know, } if ]  they want to get a liberal arts degree, [ I don't, +  I don't ] know what advice I'd give them.  /
+^q          B.8 utt2:   Go to the school you'd like to go to. /  
+
+b          A.9 utt1:  <Laughter> Yeah. /  
+
+sd          B.10 utt1:  <Laughter> That's what I did <laughter>. /  
+
+b          A.11 utt1:  Yeah. /  
+
+sd          B.12 utt1:  I didn't care about the program or anything else.  /
+sd          B.12 utt2:   I went where I wanted to go. /  
+
+b          A.13 utt1:  Yeah.  /
+qw          A.13 utt2:  What was your degree in? /  
+
+sd          B.14 utt1:  {F Uh, } political science. /  
+
+b^m          A.15 utt1:  Political science, {F oh, }  /
+bk          A.15 utt2: okay.  /
+sd          A.15 utt3:   {D Well, } <throat_clearing> [ I  kn-, +  I ] know,  I'm going to school right now,  /
+sd          A.15 utt4: {C and, }  {F uh, } I have a friend, /  
+
+qw          B.16 utt1:  Where are you at? /  
+
+sd          A.17 utt1:  {F Uh, } U T D.  /
+sd          A.17 utt2:  University of Texas, Dallas. /  
+
+b          B.18 utt1:  {D Well, } yeah,  /
+sv^t          B.18 utt2: I guess, everybody's  in Dallas that I talk to.  /
+sd          B.18 utt3:  I'm in,   
+
+aa          A.19 utt1:  I know. /  
+
++          B.20 utt1:  North Carolina. /  
+
+sd          A.21 utt1:  That's where Texas Instruments is. /  
+
+aa          B.22 utt1:  Yeah,  /
+aa          B.22 utt2: right. /  
+
+sd          A.23 utt1:  {F Um, } something [ that + [ I, + I ] think that    I've noticed that ] - /
+sd          A.23 utt2: [ I, + I ] have a friend,  /
+sd          A.23 utt3: I think if you're going into {D like, }  {F uh, } law or  medicine, a very particular, very specific field, [ even, + even ]  engineering, [ you can get, + you can meet ] a lot of the requirements at a public, {F um, } institution. / 
+ 
+b          B.24 utt1:  Sure. /  
+
+sd          A.25 utt1:  {C And, }  {F uh, } it's a lot cheaper. /  
+
+aa          B.26 utt1:  {F Oh, } yeah. /  
+
+sd          A.27 utt1:  [ My parents, + my parents ]  made a mistake [ in, + {F uh, } in  ] sending my sister to a private institution for the first two years. /  
+
+%          B.28 utt1:  {F Um. } /  
+
+sd          A.29 utt1:  {C And } she found out after that,  /
+sd          A.29 utt2: she said, {D you know, } my parents, [ they just, + they ] really wasted a lot of money.  /
+sd          A.29 utt3:  This is about twenty years ago. /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd          A.31 utt1:  {C But, }  {F uh, } {D well, }  right now I just, - /
+sv          A.31 utt2: {E I mean }   as far as [ selecting, + selecting ] a school, [ [ I, + I,  ] +  I ] feel that, {F uh, } a lot of it depends upon the major. /  
+
+aa          B.32 utt1:  Yeah,  /
+sv          B.32 utt2: it does.  {F Um, }  /
+sd          B.32 utt3:  I didn't know what I wanted to do after I got [ my, + my ] degree. /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  {F Um, } originally I had planned, {F uh, }  undergrad degree in political science and  then a master's in public administration.   /
+sd          B.34 utt2:  {C And } I went ahead  and pursued that.  /
+sd(^q)       B.34 utt3: [ I, +  I ] [ got +  as far as the thesis,  and decided,  To hell with it,  /
+sd          B.34 utt4: I didn't want it.  /
+sd          B.34 utt5: {F Um, } {C and } from that point I went to law school. /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sd          B.36 utt1:  {C And } after a year and a half of  that I decided I didn't want that either  <laughter>. /  
+
+b          A.37 utt1:  <Laughter> Okay. /  
+
+sd          B.38 utt1:  Haven't figured out what I want to be when I grow up. /  
+
+b          A.39 utt1:  Yeah. /  
+
+sd          B.40 utt1:  [ {C And so, } + {C but } ] [ [ I, + I, ] + I ]  really did enjoy the law.  /
+sd          B.40 utt2: {E I mean, } [ that's, + that's ] where I wanted to be,  /
+sd          B.40 utt3: {C but } I didn't want to go through  [ the, + {F uh, } the ] hassle that the law schools put you through,  because I never did want to be a practicing attorney.  /
+sd          B.40 utt4: I just wanted a law degree. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+sd          B.42 utt1:  {C And } I've since discovered  that I would be far better off being in the paralegal field.    
+
+b          A.43 utt1:  Yeah. /  
+
++          B.44 utt1:  Because that's the nuts  and bolts of the law, and that's what I like,  /
+sd          B.44 utt2: {C and } you don't have to put up with all the B S that the lawyers have to. /  
+
+b          A.45 utt1:  Right. /  
+
+sd          B.46 utt1:  {C So } [ that's, + that's ]  what I'm pursuing right now -- /  
+
+%          A.47 utt1:  {F Um. } /  
+
+sd          B.48 utt1:  -- {C and } I'm pretty happy with it so far. /  
+
+b          A.49 utt1:  Yeah,  /
+b^r          A.49 utt2: yeah,  /
+sd          A.49 utt3: [ I'm, + I'm ]  pursuing [ [ what they, + what's, ] + what's ] called an interdisciplinary field.  /
+sd          A.49 utt4: I'm a speech therapy major -- /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+sd          A.51 utt1:  -- {C and } fortunately [ I have a lot of, + I have  a ] good medical background, /  
+
+b          B.52 utt1:  Yeah. /  
+
+%          A.53 utt1:  {C and, } -/  
+
+sv          B.54 utt1:  that's probably very useful. /  
+
+aa          A.55 utt1:  Yeah,  /
+sd          A.55 utt2: [ it's, +  it's ]  actually turning out to be [ more, + more ] useful than what I thought. /  
+
+b          B.56 utt1:  Uh-huh. /  
+
+sd          A.57 utt1:  {C And, }  {F um, } I also have a good  languages background, linguistics.    
+
+b          B.58 utt1:  Uh-huh. /  
+
++          A.59 utt1:  And some psychology.  /
+sd          A.59 utt2:  {D So, }  it's all working together. /  
+
+b          B.60 utt1:  Yeah. /  
+
+sd          A.61 utt1:  The only field I'm not familiar  with really is education, which  [ is required, +  ((   )) requires ] about four  or five different fields --    
+
+ba          B.62 utt1:  {F Oh, } good grief. /  
+
++          A.63 utt1:  -- really.  /
+%          A.63 utt2: {C So } it's a, -/  
+
+b          B.64 utt1:  Yeah,  /
+sd          B.64 utt2: I thought at one time I wanted to be a teacher,  /
+sd          B.64 utt3:  {C but } [ I, +  I ] quickly dispelled that idea when I became a substitute  teacher for a while, just to get my feet wet. /  
+
+sd          A.65 utt1:  Uh-huh. /  
+
+sd(^q)       B.66 utt1:  I said, {F uh, } I couldn't do this everyday. /  
+
+x          A.67 utt1:  <Laughter>.   
+
+sd          B.68 utt1:  No way. /  
+
+%          A.69 utt1:  {D Well. } -/  
+
+sv          B.70 utt1:  [ Maybe, +  maybe ] being a tenured professor  would be one thing, but being a public school teacher is entirely another thing. /  
+
+bf          A.71 utt1:  {F Oh, } {D so } you are a disgruntled  graduate student <laughter>. /  
+
+sd          B.72 utt1:  [ I am a dis-, + [ I am, +  I am ] just a  disgruntled ] person all around <laughter>. /  
+
+%          A.73 utt1:  {F Oh } <laughter>. /  
+
+sd          B.74 utt1:  [ I'm the, +  {F uh, } I'm the, ]  {F uh, } original, {F uh, } Mister Scrooge, I guess. /  
+
+b          A.75 utt1:  Yeah,  /
+o          A.75 utt2: Bah, humbug. /  
+
+aa          B.76 utt1:  Yeah,  /
+o^r          B.76 utt2: bah, humbug.  /
+%          B.76 utt3: Yeah,  /
+%          B.76 utt4: I just, -/  
+
+%          A.77 utt1:  [ [ I, +  I, ] +  I ] think, - /
+b          A.77 utt2: yeah,  /
+%          A.77 utt3:  there is, - /
+sv          A.77 utt4: [ [ I, +  I, ] +  I ] think, {F uh, }   law would be [ a fine field, +  a fine profession, ] fine field to go into.  /
+sd          A.77 utt5:   {F Um, } I know one time I was in a political science class,  /
+sd          A.77 utt6: {C and }   {D you know, } talking about fields, people going into different fields, I made an [ off, + off ]  the cuff remark about lawyers,   
+
+x          B.78 utt1:  <Laughter>.   
+
++          A.79 utt1:  about their integrity being questionable.  /
+sd          A.79 utt2:   {C And } {E I mean, } {F oh, } that was like  a can of worms. /  
+
+sv          B.80 utt1:  [ Probably, +  you probably ]  got everybody on you, because they were probably all going to law school. /  
+
+ar          A.81 utt1:  No,  /
+sd          A.81 utt2: there was a woman,  /
+sd(^q)       A.81 utt3:  she said <<imitating a woman>> [ My, +  my ]  best friends are lawyers <</imitating a woman>>  and {D you know, } all this,  /
+sd          A.81 utt4: {C and } it was just <laughter>. -/  
+
+sv          B.82 utt1:  {D Well, } that remark in itself is  a slam <<imitating a woman>>.  /
+^q          B.82 utt2:  My best friends are lawyers <</imitating a woman>>. /  
+
+aa          A.83 utt1:  Yeah,  /
+aa          A.83 utt2: I know. /  
+
+^q          B.84 utt1:  {D You know, } {D like, }  {D like, }   {F uh, } my best friends are blacks <laughter>. /  
+
+^q          A.85 utt1:  Or Jewish,  /
+sd          A.85 utt2: it used to be Jewish, {D you know. } /  
+
+b^m          B.86 utt1:  Jewish,  /
+b^m          B.86 utt2: now blacks -- /  
+
+b          A.87 utt1:  Yeah. /  
+
+sd          B.88 utt1:  -- {C and } [ I guess, +  [ I, +  I, ] guess ] Iraqi now is the <laughter>. -/  
+
+aa          A.89 utt1:  <Laughter> I know,  /
+%          A.89 utt2: it's, - /
+%          A.89 utt3: {C but, } -/  
+
+sd           B.90 utt1:  [ Law, +  law ] was a lot of fun until you get to law school -- /  
+
+b          A.91 utt1:  Yeah. /  
+
+sd          B.92 utt1:  -- {C and } it doesn't become fun anymore. /  
+
+b          A.93 utt1: Yeah,  /
+sd          A.93 utt2: [ I have a + <throat_clearing> I have a ] friend. /
+sd          A.93 utt3: [ She's studying, + she's going into ] law,  /
+sd          A.93 utt4: another friend going into law,  /
+%          A.93 utt5: {C and, } she's, - /
+sd          A.93 utt6: [ [ [ I, + I, ] + I'm really, ] + I'm really ] concerned about, {D you know, } - /
+sd          A.93 utt7: she's just going to be, <clanking> {D you know, } - /
+qh          A.93 utt8: what's going to happen when she gets there. /  
+
+b          B.94 utt1:  Yeah,  /
+%          B.94 utt2: you going, -/  
+
+sv          A.95 utt1:  {D You know, } all of her dreams will be dispelled <laughter>. /  
+
+aa          B.96 utt1:  {F Oh, } yeah.  /
+aa^r          B.96 utt2:  Yeah,  /
+sd          B.96 utt3: [ [ if, +  if, ] +  if ]  you've ever seen the program PAPER CHASE --   
+
+b          A.97 utt1:  Yeah. /  
+
++          B.98 utt1:  -- it's very much like that, except worse. /  
+
+b          A.99 utt1:  Yeah,  /
+sv          A.99 utt2: [ it's +  [ I, +  I ] think it's ]  probably more embarrassing and very painful. /  
+
+aa          B.100 utt1:  It is. /  
+
+sd          A.101 utt1:  [ I see -- +    
+
+aa          B.102 utt1:  Yeah,  /
+aa          B.102 utt2: very much so. /  
+
++          A.103 utt1:  -- I see ] that happening. /  
+
+aa          B.104 utt1:  Yeah,  /
+sd          B.104 utt2: [ it's, +  it's ] a lot of that. {F Um } -- /  
+
+b          A.105 utt1:  Yeah. /  
+
+sd          B.106 utt1:  -- [ it, +  it ] was enjoyable for a while, {F um, }  /
+sd          B.106 utt2:  {C but } it's such a grind -- /  
+
+b          A.107 utt1:  Yeah. /  
+
+sd          B.108 utt1:  -- {C and } you begin to wonder, {D you know, } /
+sd          B.108 utt2:  [ if, +  if ] I'm not, {E I mean, } - /
+sd          B.108 utt3: you really have to be dead set on being a lawyer to do it. /  
+
+b          A.109 utt1:  Uh-huh. /  
+
+sv          B.110 utt1:  If you have any doubts whatsoever, you better not get into it. /  
+
+b          A.111 utt1:  Uh-huh. /  
+
+sd           B.112 utt1:  {E I mean, } I wasted a year and  a half of awfully hard, - /
+sd          B.112 utt2: {C and } I aged ten years. /  
+
+b          A.113 utt1:  Uh-huh. /  
+
+sd          B.114 utt1:  {C But } [ [ I, +  I, ] +  I ]  wouldn't trade the experience for <barking> anything in the world.  /
+sv           B.114 utt2: It never hurts to have some kind of a grounding in law. /  
+
+b          A.115 utt1:  Yeah,  /
+sd          A.115 utt2: I went to a language school,  /
+sd          A.115 utt3:  [ {C and, } +   {C and } ] [ that was a, +   it was [ a, +  an ] ] [ un-, + ] I guess, {F uh, } <throat_clearing> United States institution.  /
+sd          A.115 utt4:   I was military at the time <barking>.  /
+sv          A.115 utt5: {C And } [ I, +  I ] think --   
+
+qw          B.116 utt1:  What branch were you in? /  
+
++          A.117 utt1:  -- probably the biggest. - /
+br          A.117 utt2: {F Huh? } /  
+
+qw^r          B.118 utt1:  What branch were you in? /  
+
+sd          A.119 utt1:  I was in the Air Force? /  
+
+sd          B.120 utt1:  I was too. /  
+
+b          A.121 utt1:  Yeah,  /
+b^r          A.121 utt2: yeah,  /
+sd          A.121 utt3: for myself, {E I mean, }  I think that military experience <noise> was fine,  /
+sd          A.121 utt4: [ it was just, + I just wish ]  that there was something else </noise> [ [ that, +  that, ] + that  ] I could have done, {D you know, } with, -/  
+
+sd          B.122 utt1:  {D Well, } [ I got, +  I got ]  tired of the service after a while, {E I mean }  /
+%          B.122 utt2:  it, - /
+sd          B.122 utt3: I had a terrific  job,  really enjoyed it. /  
+
+b          A.123 utt1:  Yeah,  /
+qw          A.123 utt2: [ what, +  what ] was your job? /  
+
+sd          B.124 utt1:  {F Uh, } command post. /  
+
+sd          A.125 utt1:  {F Uh, } [ I was, +  I was ] a linguist <noise>. /  
+
+qy          B.126 utt1:  I was just wondering, were you in SAC by any chance? </noise>. /  
+
+%          A.127 utt1:  {F Um. } /  
+
+qy^r          B.128 utt1:  Were you in SAC? /  
+
+br^m          A.129 utt1:  In Tak? /  
+
+sd          B.130 utt1:  SAC. /  
+
+nn          A.131 utt1:  {F Uh, } no  /
+sd^e          A.131 utt2: I wasn't. /  
+
+bk          B.132 utt1:  {F Oh, } okay,  /
+sv          B.132 utt2: [ I, + I ]  thought maybe you might have had some experience with the, {F uh, } R C one thirty-fives. /  
+
+ar          A.133 utt1:  No,  /
+ar^r          A.133 utt2: no,  /
+sd          A.133 utt3:  [ I didn't, +  I    didn't  ] go flight crew.  /
+sd          A.133 utt4:  Matter of fact, I didn't make it completely [ through that, +  through that ]  field.  /
+sd          A.133 utt5: I, was in intelligence school and about three weeks short. /  
+
+%          B.134 utt1:  {F Oh. } /  
+
+sd          A.135 utt1:  I didn't make it,  /
+sd          A.135 utt2: I sort of washed out. /  
+
+%          B.136 utt1:  <Laughter>  {D Well, } /  
+
+x          A.137 utt1:  <Throat_clearing>.   
+
+%          B.138 utt1:  {D Well. } /  
+
+b          A.139 utt1:  Yeah  /
+sd          A.139 utt2: after about eighteen months of talking about the --   
+
+b          B.140 utt1:  Uh-huh. /  
+
++          A.141 utt1:  -- year and a half training, {D you know, }  [ it's, +  it's ] something, {D you know, } - /
+sv          A.141 utt2: I think that's why, {D you know, } children really need to think about the field they're [ going to, +  going into, ]   and {E I mean, } spend a lot of serious --   
+
+b          B.142 utt1:  Yeah. /  
+
++          A.143 utt1:  -- reading [ before they, + ] {E I mean, }  not just --   
+
+b          B.144 utt1:  Yeah. /  
+
++          A.145 utt1:  -- thinking about.  /
+sv^r        A.145 utt2:  They actually should do some reading -- /  
+
+aa          B.146 utt1:  That's right,  /
+sv          B.146 utt2: [ {C and } it, +    
+
+^2          A.147 utt1:  -- {C and } they should study it. /  
+
++          B.148 utt1:  And if it's ] possible even get some  experience at it {C or } at least watch some people --   
+
+b          A.149 utt1:  Yeah. /  
+
++          B.150 utt1:  -- do it. /  
+
+sv          A.151 utt1:  [ [ [ [ I, +  I,  ] +  I, ] +  I think, ] +   I think ] there's a lot to be said for kids working --   
+
+aa          B.152 utt1:  Uh-huh,  /
+aa          B.152 utt2: sure. /  
+
++          A.153 utt1:  -- after school.  /
+sv          A.153 utt2: {E I mean, } [ they, +  they ] find out [ whether, + ] just how much of a people person they are. /  
+
+aa          B.154 utt1:  That's true,  /
+sd          B.154 utt2: I found that out when I was in high school.  /
+sd          B.154 utt3:  I worked at McDonald's. /  
+
+^h          A.155 utt1:  {F Oh, } {C and } I tell you what,  /
+sd          A.155 utt2:  I worked at McDonald's as well,  /
+h          A.155 utt3: {C and } [ I, +  I ] can tell you one thing,  /
+sv          A.155 utt4: there are just some people that  I, {D you know, } - /
+sv          A.155 utt5: you just came to the point where <throat_clearing> {E I mean, } - /
+sd          A.155 utt6:  {C and } {F oh, } I eventually worked [ [ in a lab, +  in a la-, ] + as a lab  technician, ]  /
+sd          A.155 utt7:  {C and } I worked front desk.  /
+sd          A.155 utt8: {C And } {E I mean, } somebody could walk in the door,  /
+sd          A.155 utt9:  {C and } I knew exactly what they were going to do {C and } say. /  
+
+aa          B.156 utt1:  Yeah,  /
+aa^r          B.156 utt2: yeah  /
+sd          B.156 utt3: I was the same way too.  /
+sd          B.156 utt4:   I'm not a people person.   /
+sd          B.156 utt5: [ [ I, +  I, ] +  I ] hate, {F um, } having to play such a nice guy.    
+
+b          A.157 utt1:  Yeah. /  
+
++          B.158 utt1:  {D You know, } especially when it's all phony.   
+
+b          A.159 utt1:  Uh-huh. /  
+
++          B.160 utt1:  Especially when you got some, {F uh, } jerk coming in. /  
+
+b          A.161 utt1:  Uh-huh. /  
+
+%          B.162 utt1:   I, - /
+sd          B.162 utt2: it's  just not for me.  /
+sd          B.162 utt3:  [ I'm, +  {F uh, } I ] deal  much better in research and  books, and stuff like that --   
+
+b          A.163 utt1:  Uh-huh. /  
+
++          B.164 utt1:  -- which is why I'm going to enjoy the paralegal field a lot. /  
+
+b          A.165 utt1:  Yeah,  /
+ba          A.165 utt2: that's good.  /
+sd          A.165 utt3: I was just wondering,   {F um, } getting back to the school thing,  [ so, + ] [ I, +  I ] almost wish that there was something ... -/ 

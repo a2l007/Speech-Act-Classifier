@@ -1,0 +1,281 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3244_1352_1327
+TOPIC#:		302
+DATE:		911011
+TRANSCRIBER:	GL
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+sd          B.1 utt1:  My name's Mary Dell,  /
+sd          B.1 utt2: {C and } I live in the Dallas, Texas area where there's a lot of pollution <laughter>. /  
+
+b          A.2 utt1:  <Laughter>  Okay,  /
+sd          A.2 utt2: {C and } I'm up in Wisconsin -- /  
+
+b          B.3 utt1:  Oh. /  
+
+sd          A.4 utt1:  -- {F uh, } my name is Terry -- /  
+
+b          B.5 utt1:  Uh-huh. /  
+
+sd          A.6 utt1:  -- {C and, } {F uh, } in the small town we don't, - /
+sd          A.6 utt2: {C but, } {F uh, } we're not that far from the city where there's tons of pollution. /  
+
+b          B.7 utt1:  Yes. /  
+
+b          A.8 utt1:  Okay,  /
+ad          A.8 utt2: I'll go ahead and start recording that, /  
+
+aa          B.9 utt1:  Okay. /  
+
+b          @A.10 utt1:  <Beep>  Okay, {F um, }  /
+sd          @A.10 utt2: just in particular here in the Twin Cities we have a lot of big corporations  /
+sv          @A.10 utt3: {C and, } {F um } --   
+
+b          B.11 utt1:  Oh. /  
+
++          A.12 utt1:  -- I'm sure there's a lot of pollution.  /
+%          A.12 utt2: We, {F uh, } - /
+sd         A.12 utt3: before moving to Wisconsin lived across from where they were, {F um, } gravel pits --    
+
+b          B.13 utt1:  Uh-huh. /  
+
++          A.14 utt1:  -- and also where they were making tar,  /
+sd          A.14 utt2: {C and so } we [ would + occasionally if the wind was blowing the right direction would ] get the smell of tar  /
+%          A.14 utt3: {C and } --   
+
+ba          B.15 utt1:  Ooh. /  
+
++          A.16 utt1:  -- it would, {F uh, } - /
+%          A.16 utt2: smell the continuous, - /
+sd          A.16 utt3: you knew that you were also breathing that into your lungs,  /
+sd          A.16 utt4: [ {C so } + --   
+
+b          B.17 utt1:  Right. /  
+
++          A.18 utt1:  -- {C and } ] it was like miles away,  /
+sv          A.18 utt2: {C but } just the idea of having that come across the way it did in the wind --   
+
+b          B.19 utt1:  Uh-huh. /  
+
++          A.20 utt1:  -- kind of made you know that there was a lot of pollution,  /
+sd          A.20 utt2: {C and } that was just one small corporation that was doing the pollution of that,  /
+sd          A.20 utt3: {C but } --   
+
+b          B.21 utt1:  Uh-huh. /  
+
++          A.22 utt1:  -- [ also, + {F um, } where we also ] lived, too, it was very close to a highway,  /
+sd          A.22 utt2: {C so } got a lot of fumes from, {F uh, } trucks --   
+
+b          B.23 utt1:  Uh-huh. /  
+
++          A.24 utt1:  -- and cars  /
+sd          A.24 utt2: {C and } you would literally see the pollution on your furniture,  /
+sd          A.24 utt3: {E I mean, } it was --   
+
+ba          B.25 utt1:  {F Oh, } gosh, /  
+
++          A.26 utt1:  -- on your tables,  /
+sd          A.26 utt2: you would dust every day,  /
+sd          A.26 utt3: {C and } it was dirty, {F um, } type of dust,  /
+sd          A.26 utt4: {E I mean, } it wasn't the typical dust that you get way out in the country --   
+
+b          B.27 utt1:  Uh-huh. /  
+
++          A.28 utt1:  -- {F um } -- /  
+
+b          B.29 utt1:  Uh-huh. /  
+
+%          A.30 utt1:  -- for, - /
+sd          A.30 utt2: I live in a small, {F um, } town now quite a ways from the Twin Cities, about an hour away,  /
+sd          A.30 utt3: {C and } I may dust once a week,  /
+sd          A.30 utt4: {C and } that's all it needs versus every day when I lived in the city -- /  
+
+sd          B.31 utt1:  {F Huh } --   
+
+%          A.32 utt1:  -- {C so. } -/  
+
++        B.33 utt1:  -- I'd never thought about that being a cause,  /
+sd          B.33 utt2: I have to dust a lot as well. /  
+
+b          A.34 utt1:  {F Oh, } yeah,  /
+sd          A.34 utt2: [ it, + it ] comes right on [ through + --   
+
+b          B.35 utt1:  Yeah. /  
+
++          A.36 utt1:  -- through ] the screens,  /
+sv          A.36 utt2: the only way that you could actually live [ in the, + in the ] city is to close your windows and have an air cleaner system right in your home --   
+
+b          B.37 utt1:  Uh-huh. /  
+
++          A.38 utt1:  -- that would take the air from the outside and clean the air before it would get into the house -- /  
+
+ba          B.39 utt1:  My goodness. /  
+
+sv          A.40 utt1:  -- {C and so } it was quite a dirty city.  /
+sv          A.40 utt2:  {F Um, } if you were well protected by trees, which catch a lot of the pollution --   
+
+b          B.41 utt1:  Uh-huh. /  
+
++          A.42 utt1:  -- then you're fine,  /
+sv          A.42 utt2: {C but } most of the time in the city you have lots of high rises, you have lots of other things that are not catching the pollution  /
+sv          A.42 utt3: {C and } it's just going --   
+
+b          B.43 utt1:  Uh-huh. /  
+
++          A.44 utt1:  -- for miles and miles and miles,  /
+sv          A.44 utt2: {C and } it's landing somewhere with the wind,  /
+%          A.44 utt3: {C but, } -/  
+
+sv          B.45 utt1:  That's kind of the way Dallas is.  /
+sv          B.45 utt2:  We're so flat and open,  /
+sd          B.45 utt3: {C and } I live in a suburb that doesn't have much vegetation, trees -- /  
+
+b          A.46 utt1:  Sure. /  
+
+sd          B.47 utt1:  -- it was all cotton fields,  /
+sv          B.47 utt2: {C so } --   
+
+b          A.48 utt1:  Sure. /  
+
++          B.49 utt1:  -- we don't have that advantage,  /
+sv          B.49 utt2: {C and } ours I think is primarily cars, where we don't carpool like we should --   
+
+b          A.50 utt1:  Yeah,  /
+b^r          A.50 utt2: yeah. /  
+
++          B.51 utt1:  -- an airport.  /
+sd          B.51 utt2:  I work in a building,  /
+sd          B.51 utt3: I'm nineteen floors up -- /  
+
+b          A.52 utt1:  Uh-huh. /  
+
+sd          B.53 utt1:  -- {C and } I look out toward D F W International,  /
+sv          B.53 utt2: {C and } there's just an awful brown haze all the time -- /  
+
+b          A.54 utt1:  Uh-huh. /  
+
+sv          B.55 utt1:  -- {C and } I can imagine it's even worse for people living over near the airport. /  
+
+b          A.56 utt1:  {F Oh, } sure,  /
+b^r          A.56 utt2: sure,  /
+b          A.56 utt3: yeah.  /
+%          A.56 utt4:  It's, - /
+sd          A.56 utt5: {E I mean, } our air quality, {F um, } in the Twin Cities is a lot better than what we've heard about California  and --   
+
+b          B.57 utt1:  Uh-huh. /  
+
++          A.58 utt1:  -- maybe in the other areas,  /
+sv          A.58 utt2: {C but, } {F um, } they were always talking about the air quality of today is this, {D you know, } the ozone or whatever,  /
+sv          A.58 utt3: {C and } it's kind of scary because the air is something we take for granted -- /  
+
+b          B.59 utt1:  Yes. /  
+
+sv          A.60 utt1:  -- {C and } many people are too busy getting to work, not thinking about, Okay, I could have carpooled with a friend,  /
+sd          A.60 utt2: even --   
+
+b          B.61 utt1:  Uh-huh. /  
+
++         A.62 utt1:  -- my husband was, {F uh, } talking to some of the guys at work,  /
+sd         A.62 utt2: {D now } he's, {F uh, } fifteen miles away from work,  /
+sd          A.62 utt3: {C but } he was talking, wouldn't it be nice to carpool,  /
+sd(^q)          A.62 utt4: {C and } the guy says, {D Well, } it's too close,  /
+^q          A.62 utt5: it wouldn't pay -- /  
+
+b          B.63 utt1:  Uh-huh. /  
+
+%          A.64 utt1:  -- {C and, so. } -/  
+
+sd(^q)          B.65 utt1:  Want to meet my own schedule --   
+
+b          A.66 utt1:  Yeah,  /
+%          A.66 utt2: {C and, } -/  
+
++          B.67 utt1:  -- those are the arguments we hear, /  
+
+sd(^q)          A.68 utt1:  [ ex-, + exactly, ] {C and so, } my husband says, {D Well, } that's fine, {D you know, }  /
+sv          A.68 utt2: it would save quite a bit on the wear and tear on cars --    
+
+b          B.69 utt1:  Uh-huh. /  
+
++          A.70 utt1:  -- and, {D you know, } the gas,  /
+%          A.70 utt2: {C and, } no,  /
+sv          A.70 utt3: everybody has their preference to drive by themselves  /
+sv          A.70 utt4: {C or, } if they do, [ they, + they ] drive with one little buddy, {F uh, }  /
+sv          A.70 utt5: at least it's with one person -- /  
+
+b          B.71 utt1:  Uh-huh. /  
+
+sv(^q)          A.72 utt1:  -- {C but } most of the time people are saying forget it.  /
+^q          A.72 utt2:  I don't want to carpool,  /
+^q          A.72 utt3: it's too much of a hassle,  /
+^q          A.72 utt4: it's too much involvement -- /  
+
+sv          B.73 utt1:  {C But } we're --   
+
+%          A.74 utt1:  -- {C but } yet, -/  
+
++          B.75 utt1:  -- paying for it. /  
+
+aa          A.76 utt1:  Yes,  /
+sv         A.76 utt2: we are,  /
+sd          A.76 utt3: {C and } I think of my daughter  /
+sv          A.76 utt4: {C and } I'm sure you think of your children,  /
+sv          A.76 utt5: {C and } you kind of say to yourself, what kind of future will they have when they think back and say, {D well, } my parents did have the choice to kind of make a difference -- /  
+
+b          B.77 utt1:  Uh-huh. /  
+
+sv          A.78 utt1:  -- {C and } maybe people are trying,  /
+sv          A.78 utt2: {C but } they have to change attitudes, /  
+
+sv          B.79 utt1:  {C And } it seems to me that it's already so evident with our children having a lot more respiratory infections --   
+
+b          A.80 utt1:  Uh-huh. /  
+
++          B.81 utt1:  -- than we had growing up --   
+
+b          A.82 utt1:  Sure. /  
+
++          B.83 utt1:  -- you can really see it.  /
+sd          B.83 utt2: [ I, + I ] had a chance to go to Bolivia a couple years ago,  /
+sd          B.83 utt3: {C and } of course there's no industry, very little trash,  /
+ sv         B.83 utt4: [ they -- +   
+
+b          A.84 utt1:  Sure. /  
+
++          B.85 utt1:  -- they ] don't even have that much that they burn, because --   
+
+b          A.86 utt1:  Sure. /  
+
++          B.87 utt1:  -- they consume everything down --   
+
+%          A.88 utt1:  {D Well, } they, -/  
+
++          B.89 utt1:  -- to the thread,  /
+sd          B.89 utt2: {C and } it amazed me,  /
+sd          B.89 utt3: [ I, + I ] just had totally forgotten how ... -/ 

@@ -1,0 +1,489 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3028_1263_1013
+TOPIC#:		316
+DATE:		910607
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:       The speakers started straying from the subject towards the
+end.
+
+======================================================================
+  
+
+qy          A.1 utt1:  Are you ready? /  
+
+ny          B.2 utt1:  Uh-huh. /  
+
+qy^t          A.3 utt1:  She didn't announce that to you? /  
+
+nd^t          B.4 utt1:  {F Oh, } [ I didn't, + I didn't ] quite hear all of it. /  
+
+bk          A.5 utt1:  {F Oh, } I see.  /
+ba          A.5 utt2: That's fine.  /
+sv          A.5 utt3:  {F Um, } I think, {F uh, } that's pleasurable for all of us, <laughter> if we choose the right restaurant <laughter>. /  
+
+b          B.6 utt1:  Right <laughter>. /  
+
+qw          A.7 utt1:  {D So, } what are your thoughts on dining out? /  
+
+sd          @B.8 utt1:  {D Well, } [ I, + I ] really choose restaurants more for the quality of food than anything else. /  
+
+qy^d          A.9 utt1:  Not for the price? /  
+
+na          B.10 utt1:  {D Well, } a little bit --   
+
+bk          A.11 utt1:  Okay. /  
+
++          B.12 utt1:  -- for the price,  /
+sd          B.12 utt2: {C but, } {F uh, } I think that as far as quality of food goes [ the m-, + some of the most ] expensive places I've been --   
+
+b          A.13 utt1:  Uh-huh. /  
+
++          B.14 utt1:  -- had [ [ [ the w-, + the, ] + really the, ] +   
+
+%          A.15 utt1:  The be-, -/  
+
++          B.16 utt1:  the worst ] quality of food. /  
+
+bh          A.17 utt1:  Really?  /
+bk          A.17 utt2: Okay. /  
+
+na^m          B.18 utt1:  Really.  /
+sd          B.18 utt2:  {F Um, } a lot of places that even [ don't look, + don't look ] like much. /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sd          B.20 utt1:  [ Some of the, + some of the ] best food I have ever had was [ [ out of a, + outside ] + {E or } inside of a ] place that we drove up  /
+sd(^q)          B.20 utt2: {C and } I was like, I'm not eating in there <laughter>. /  
+
+x          A.21 utt1:  <Laughter>.   
+
+^q          B.22 utt1:  Are you nuts?  /
+sd          B.22 utt2:  {C And, } {F uh, } we went in  /
+sd          B.22 utt3: {C and } [ it was the m-, + it was the most ] wonderful food. /  
+
+ba          A.23 utt1:  My word,  /
+qy^g          A.23 utt2: it's like mama in the back kitchen, huh? /  
+
+qy          B.24 utt1:  Yeah. /  
+
+bk          A.25 utt1:  Oh. /  
+
+sd          B.26 utt1:  I'm serious. /  
+
+b          A.27 utt1:  Yeah. /  
+
+sd          B.28 utt1:  {F Um, } [ a lot of, + {F uh, } one ] place that we went just recently --   
+
+b          A.29 utt1:  Uh-huh. /  
+
++          B.30 utt1:  -- {F uh, } was to Atchafalaya.  /
+ar          B.30 utt2:  No,  /
+ar          B.30 utt3: that's not right. /  
+
+x          A.31 utt1:  <Laughter>.   
+
+ar^r          B.32 utt1:  That's not right.  /
+ar^r          B.32 utt2:  That's not right. /  
+
+b          A.33 utt1:  Okay. /  
+
+t3          B.34 utt1:  <<Asks someone in the background>> What's the name of that restaurant?  /
+t3          B.34 utt2: <<Person in the background replies>>  (( Where at? )) .  /
+t3          B.34 utt3:  <<Asks someone in the background again>> The Hari Krishna.  /
+t3          B.34 utt4: <<Person in the background relies again>>  (( Oh.  Kalachandji's )) .  /
+sd          B.34 utt5:  Kalachandji's.  /
+sd          B.34 utt6:  It's all vegetarian,  /
+sd          B.34 utt7: {C and } [ it, + it ] was just fabulous.  /
+sd          B.34 utt8:  {E I mean, } my husband was aghast because I ate turnip greens and  liked it. /  
+
+ba          A.35 utt1:  Wow.  /
+qw          A.35 utt2: {C And } where was that at, near your, -/  
+
+sd          B.36 utt1:  {F Um, } Kalachandji's.  /
+sd          B.36 utt2:  [ It's, + {F uh, } it's ] a Hari Krishna run restaurant. /  
+
+qw          A.37 utt1:  Where,  /
+qy          A.37 utt2: is it in Dallas? /  
+
+ny          B.38 utt1:  Yes. /  
+
+qy          A.39 utt1:  Is it in the phone book? /  
+
+na          B.40 utt1:  {F Uh, } I think so.  /
+sd          B.40 utt2: It should be. /  
+
+qy          A.41 utt1:  Do you know how to spell it? /  
+
+sd          B.42 utt1:  {F Uh, } it starts with a K. /  
+
+bk          A.43 utt1:  Okay. /  
+
+sd          B.44 utt1:  {D So } <laughter>.   
+
+qy          A.45 utt1:   (( Kalli )) , K A L L I? /  
+
++          B.46 utt1:  K A L A, I think, C H A N D. /  
+
+bk          A.47 utt1:  Okay. /  
+
+sd          B.48 utt1:  That should get you close enough [ to, + to ] be able to find it.  /
+sd          B.48 utt2:  I think it's, {F uh, } probably listed in the restaurants, {D you know. } /  
+
+b          A.49 utt1:  Uh-huh,  /
+b          A.49 utt2: section,  /
+b          A.49 utt3: yes,  /
+b^r          A.49 utt4: uh-huh. /  
+
+sd          B.50 utt1:  {C But } [ it's, + {F uh, } it's ] just fabulous food. /  
+
+qo          A.51 utt1:  What about fast foods?  /
+qy          A.51 utt2: Do you have a preference if you were going to,   
+
+x          B.52 utt1:  <Breathing>.   
+
++          A.53 utt1:  eat a fast food? /  
+
+na          B.54 utt1:  {D Well, } we like Arby's.   
+
+bh          A.55 utt1:  You do,   
+
++          B.56 utt1:  As far as,   
+
++          A.57 utt1:  like Arby's? /  
+
++          B.58 utt1:  fast food goes. /  
+
+sd          A.59 utt1:  See I don't like Arby's. /  
+
+bh          B.60 utt1:  {F Oh, } really?  /
+qw          B.60 utt2:  Why? /  
+
+nn          A.61 utt1:  No,  /
+sv^e          A.61 utt2: because they use everything they can and make this into pressed whatever.  /
+sv          A.61 utt3: [ They use the, + they use the ] insides of the animals, heart and liver  /
+sv          A.61 utt4: {C and } [ they, + they ] form it,  /
+sv          A.61 utt5: {C and } they make it look like roast beef,  /
+sd(^q)          A.61 utt6: {C and } I said, no,  /
+^q          A.61 utt7: thank you. /  
+
+ar          B.62 utt1:  {F Oh, } no,  /
+ar^r          B.62 utt2: no,  /
+ar^r          B.62 utt3: no.  /
+sv          B.62 utt4:  Someone has been lying to you.  /
+sv          B.62 utt5:  What they use is roast beef. /  
+
+sd          A.63 utt1:  {D Well, } that's not what I heard,   
+
+%          B.64 utt1:  That's what, -/  
+
++          A.65 utt1:  from [ one of, + somebody ] that was supposed to know what they were talking about. /  
+
+ba          B.66 utt1:  {F Oh, } my goodness. /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sd          B.68 utt1:  I'm surprised.  /
+sd          B.68 utt2:  My dad worked for Arby's for several years. /  
+
+bh          A.69 utt1:  Really? /  
+
+ny          B.70 utt1:  Yeah. /  
+
+sv          A.71 utt1:  Unless somebody is trying to blackball them. /  
+
+sd          B.72 utt1:  {D Well, } that's happened before. /  
+
+b          A.73 utt1:  Uh-huh. /  
+
+sd          B.74 utt1:  {C But } [ [ [ we like good s-, + {F uh, } w-, ] + we're, ] + we like ] Mexican food. /  
+
+bk          A.75 utt1:  Okay. /  
+
+sd          B.76 utt1:  And stuff like that.  /
+%          B.76 utt2:  {C And so, } {F um, } -/  
+
+qo          A.77 utt1:  How about the health food, {F uh, } restaurants?  {D Well, } like this one  /
+qy^g          A.77 utt2: {C but } it's probably not advertised as such, is it?  /
+%          A.77 utt3: {C Or, } -/  
+
+qy^h          B.78 utt1:  <Breathing> A health food? /  
+
+ny          A.79 utt1:  Uh-huh.  /
+sd^e          A.79 utt2:  Health food, {F uh, } restaurants that, -/  
+
+%          B.80 utt1:  [ Like, + like, ] - /
+ad          B.80 utt2: name one <laughter>. /  
+
+aa          A.81 utt1:  [ [ {D Well } -- +   
+
+sd          B.82 utt1:  I'm not sure what you're talking about. /  
+
++          A.83 utt1:  -- {D well, } ] like, {F um, } <lipsmack> {D well, } ] I can't really think of any off the top of my head right now because there's so few and far between.  /
+sd          A.83 utt2:  {C But } [ they ought, +  there are ] restaurants that cater to the people that are very health conscious. {D You know, } as far as their cholesterol levels and [ their, + their ] fat content and,  {D you know, } the amount of calcium and so forth that are in each product  /
+sd          A.83 utt3: {C and } they list them.  /
+sd          A.83 utt4: Now there's one restaurant that does that  /
+sd          A.83 utt5: {C and } it's called Rodolfo's  /
+sd          A.83 utt6: over on Preston Road and Royal Lane I believe. /  
+
+b          B.84 utt1:  {F Huh. } /  
+
+sd          A.85 utt1:  {C And } they [ r-, + have ] very good food over there. /  
+
+sd          B.86 utt1:  I don't guess I've ever been to anything like that  /
+sd          B.86 utt2: {C so, }   
+
+b          A.87 utt1:  Uh-huh,  /
+b^r          A.87 utt2: uh-huh. /  
+
++          B.88 utt1:  I really don't have anything to compare it to. /  
+
+sd          A.89 utt1:  <Lipsmack> They do [ list, + {F um, } {D you know, } list ] the fat, /  
+
+sv          B.90 utt1:  It would be good I think, /  
+
+aa          A.91 utt1:  Uh-huh,  /
+aa^r          A.91 utt2: uh-huh. /  
+
+qw^d          B.92 utt1:  {F uh, } I don't know how expensive they are.  /
+sv          B.92 utt2:  It sounds like that it would probably, -/  
+
+sv          A.93 utt1:  {D Well, } it was pretty reasonable.  /
+sd          A.93 utt2:  [ I, + it ] was around ten dollars for lunch. Okay,  /
+sv          A.93 utt3: [ wha-, + which ] is kind of high for lunch I guess. /  
+
+qy          B.94 utt1:  For one person? /  
+
+ny          A.95 utt1:  Yes. /  
+
+bk          B.96 utt1:  Oh <laughter>. /  
+
+ny^r          A.97 utt1:  Yes,  /
+ny          A.97 utt2: uh-huh. /  
+
+sv          B.98 utt1:  A bit <laughter>. /  
+
+aa          A.99 utt1:  Yeah.  /
+sd          A.99 utt2:  {F Uh, } {C but, }   
+
+x          B.100 utt1:  <Sniffing>.   
+
++          A.101 utt1:  {F um, } you were served by maitre d's [ and, + and, ] {F uh, } {F um, } men waiters. /  
+
+b          B.102 utt1:  Yeah,  /
+sd          B.102 utt2: [ I, + I ] won't really be interested [ in going to, + in going ] there.   
+
+sv          A.103 utt1:  {D Well, }   
+
++          B.104 utt1:  Because,   
+
++          A.105 utt1:  if you're looking for a nice, -/  
+
++          B.106 utt1:  I feel like [ I'm, + I'm ] paying, {D you know, } five dollars for the food probably and five dollars for something that I could get along quite well without <laughter>. /  
+
+b          A.107 utt1:  Uh-huh.  /
+sv          A.107 utt2:  {D Well, } I guess [ if you were having, + if you were trying ] to impress somebody [ w-, + like ] taking somebody that you hadn't seen for a long time and  wanted to show them a good restaurant.    
+
+aa          B.108 utt1:  Yeah.  /
+aa          B.108 utt2:  [ Maybe, +   
+
++          A.109 utt1:  It's a special occasion,   
+
++          B.110 utt1:  maybe ] that.  /
+aa          B.110 utt2: Yeah. /  
+
++          A.111 utt1:  type thing.  /
+%          A.111 utt2:  # Yeah. # /  
+
+aa^m          B.112 utt1:  # Yeah.  /
+aa          B.112 utt2: #  I could see that,   
+
+b          A.113 utt1:  Uh-huh. /  
+
++          B.114 utt1:  then maybe. /  
+
+sv          A.115 utt1:  {C And } now the Red Lobster I found is very nice at lunchtime. /  
+
+aa          B.116 utt1:  Yeah,  /
+sd          B.116 utt2: I like [ the, +   
+
+%          A.117 utt1:  Because they're, -/  
+
++          B.118 utt1:  the ] seafood [ that they, + when they ] had it, {D you know, } the broiled, -/  
+
+%          A.119 utt1:  {D Well, } they have lunch specials that - /
+sv          A.119 utt2: [ you can't, + you can't ] beat that price, {F uh, } if you went to a cafeteria. /  
+
+aa          B.120 utt1:  Yeah.  /
+aa          B.120 utt2:  Probably that's true.  /
+sv          B.120 utt3: {C But } I know [ a lot of their, + a lot of their ] specials sometimes are fried things,   
+
+sd          A.121 utt1:  {D Well, } [ I had the, +   
+
++          B.122 utt1:  that you can't really get away from the fried, /  
+
++          A.123 utt1:  I had a ] broiled chicken breast  /
+sd          A.123 utt2: {C and } it was excellent.  /
+sd          A.123 utt3:  It was a marinated, broiled chicken breast  /
+sd          A.123 utt4: {C and } it was exce-, -/  
+
+qw          B.124 utt1:  {D Now } why would you go to a seafood restaurant <laughter> to eat chicken? /  
+
+sd          A.125 utt1:  {F Oh, } it was, /  
+
+sd          B.126 utt1:  That's one of my husband's pet peeves.  /
+sd          B.126 utt2:  He doesn't understand why somebody would go to a seafood place and eat either chicken or steak, {D you know. } /
+
+sd    @@A.127 utt1:  {D Well, } I've never had catfish either in a restaurant because I'm from the north / 
+sd          @@A.127 utt2: {C and } that was a no no. /
+
+bh          B.128 utt1:  {F Oh, } really? /
+
+sd          A.129 utt1:  {C And } I haven't gotten over that from the north. /
+
+sv          B.130 utt1:  {F Oh, } catfish is wonderful. /
+
+sd          A.131 utt1:  I know they say that,
+
+b          B.132 utt1:  {F Oh, } really. /
+
++          A.133 utt1:  that is,  /
+sd          A.133 utt2: [ {C but } I'm, +
+
+b          B.134 utt1:  Really. /
+
++         A.135 utt1:  <Lipsmack> {C but } they've ] got all these caution signs now on fish /
+sd          A.135 utt2: {C and so } I kind of stay a-, -/
+
+qw          B.136 utt1:  Why? /
+
+sv          A.137 utt1:  Because of all the pollution in the lakes and [ the, +
+
+bk          B.138 utt1:  Oh. /
+
++          A.139 utt1:  everywhere. ]  {E I mean } there isn't any safe haven anymore for fish. /
+
+b          B.140 utt1:  {F Huh. } /
+
+sd(^q)     A.141 utt1:  [ I-, + {C and } ] especially, {F uh, } in Wisconsin and Michigan they say, no, buying of our fish. /
+
+sd          B.142 utt1:  That's too bad,
+
+%          A.143 utt1:  I, -/
+
++        B.144 utt1:  because I'm probably not going to stop eating it <laughter>. /
+
+b          A.145 utt1:  <Laughter>  {D Well, } yeah.  /
+%          A.145 utt2:  {C So } [ yo-, + I ] am, <lipsmack>  /
+sv        A.145 utt3: {C and } [ the, + the ] best brand of chicken to buy is the, {F uh, } Pilgrim Pride because they don't use all these hormones to  (( remote )) , {F uh, } unnatural growth in their products. /
+
+b          B.146 utt1:  Uh-huh.  /
+
+b          B.146 utt2:  Yeah. /
+
+sv        A.147 utt1:  {C So } {E I mean, } we have to be on the lookout if we want to stay healthy. /
+
+aa          B.148 utt1:  That's true. /
+
+%          A.149 utt1:  {C So } [ [ I'm, + I, ] + {D you know, } I, ] -/
+
+sd          B.150 utt1:  {F Oh, } on one hand I see that  /
+sd          B.150 utt2: {C and } on the other hand, {F uh, } my older sister --
+
+b          A.151 utt1:  Uh-huh. /
+
++          B.152 utt1:  -- remembers when, {F uh, } at one point they were taking radioactive wastes --
+
+b          A.153 utt1:  Yeah. /
+
++      B.154 utt1:  -- and storing them in tin barrels which [ i-, + I ] guess,
+
+^2     A.155 utt1:  Corrode. /
+
++         B.156 utt1:  had a half-life of, {F oh, } five years if they sit empty on dry land. /
+
+b          A.157 utt1:  {F Huh. } /
+
+sd        B.158 utt1:  {C So } they're putting radioactive waste in it which reduces it dramatically. /
+
+b          A.159 utt1:  Uh-huh. /
+
+sd          B.160 utt1:  {C And then } they take these things that will rust  /
+sd        B.160 utt2: {C and } they throw them in the ocean which is going to speedup the process even more. /
+
+sd        A.161 utt1:  {D Well, } I'd like to get ahold of some engineers and knock their heads together if it would do any good. /
+
+b          B.162 utt1:  Oh.  /
+sd          B.162 utt2:  {C And } then they wouldn't think.  /
+sd          B.162 utt3: They were floating around  /
+
+sd          B.162 utt4: {C so } they shot holes in them to sink them. /
+
+ba          A.163 utt1:  {F Oh, } dear. /
+
+sd          B.164 utt1:  {C And } this is before I was born. /
+
+ba          A.165 utt1:  Wow. /
+
+sd          B.166 utt1:  {C So, } {E I mean } we're taking thirty years ago,
+
+b          A.167 utt1:  Sure. /
+
++          B.168 utt1:  this happened, /
+
+b          A.169 utt1:  Yeah. /
+
+sv        B.170 utt1:  [ {C and, } + {C and } ] [ who's, + {D you know, } the tuna is ] radioactive --
+
+aa          A.171 utt1:  That's right.  /
+sv          A.171 utt2:  Everything we eat. /
+
++          B.172 utt1:  -- to a certain extent. /
+
+sv        A.173 utt1:  [ Everything, +
+
+sv          B.174 utt1:  You can't get away from it  /
+%          B.174 utt2: {C so } I think,
+
++          A.175 utt1:  everything ] we eat should have a label on it <laughter>. /
+
++          B.176 utt1:  To some point, -/
+
+b          A.177 utt1:  # Yeah. # /
+
+b^m          B.178 utt1:  # yeah,  /
+sv          B.178 utt2: # {D you know. }  {C So } [ there's, + {D you know, } there's ] some things I think [ [ we can av-, + we, ] + ((   ))  {D you know } we can't avoid ] for health purposes and some things that we just need to like, {D you know, } - /
+
+sv          B.178 utt3: this is not in my control. /
+
+%          A.179 utt1:  {D Well, } {D you know, } -/
+
+sv         B.180 utt1:  {C So } [ I'm {C either } going to be, + I'm {C either } going to starve ] to death  /
+
+sv          B.180 utt2: {C or } I'm going to get over it and just go ahead and eat as healthily as I possibly can, {D you know. } /  
+
+
+sv      A.181 utt1:  <Laughter> {D Well, } Becky, you know, even if you lived off your own land, that you would have to put caution signs, /
+

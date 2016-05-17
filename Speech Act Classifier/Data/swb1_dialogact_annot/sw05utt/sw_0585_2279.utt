@@ -1,0 +1,486 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2279_1000_1167
+TOPIC#:		358
+DATE:		910326
+TRANSCRIBER:	GL
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	5
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+======================================================================
+  
+
+o          B.1 utt1:  Okay,  /
+sd          B.1 utt2: {D well } personally, I don't have any children.  /
+sd          B.1 utt3:   I'm twenty-two  /
+sd          B.1 utt4: {C and } I'm doing my Master's at N C State -- /  
+
+b          A.2 utt1:  {F Oh, } uh-huh. /  
+
+sd          B.3 utt1:  -- {C so, } {F uh, } {F uh, } children  wouldn't be very convenient for me right now. /  
+
+aa          A.4 utt1:  {D Well, } no,  /
+bh          A.4 utt2: <laughter> would they,  /
+aa          A.4 utt3: no. /  
+
+qw          B.5 utt1:  {D So } [ [ what, + what, ] +  how ]  do you spend the time with your children? /  
+
+sd          A.6 utt1:  {D Well } both of mine are boys.  /
+sd          A.6 utt2:  They're --   
+
+b          B.7 utt1:  {F Um. } /  
+
++          A.8 utt1:  -- eight and eleven -- /  
+
+bk          B.9 utt1:  Okay, #  /
+%          B.9 utt2: {C and } did, # -/  
+
+sd          A.10 utt1:  -- # {C and } they're # into sports -- /  
+
+b          B.11 utt1:  Yeah. /  
+
+sd          A.12 utt1:  -- {E I mean, } as a matter of fact,  that's what we're doing tonight <laughter>. /  
+
+qw          B.13 utt1:  [ What, + what ] are you doing? /  
+
+sd          A.14 utt1:  Baseball has started. /  
+
+bk          B.15 utt1:  {F Oh, } okay.  /
+qy          B.15 utt2:  [ [ Do, +  do ]  they play +  {D like, } {F uh, } {D like }  does the eight year old play ] baseball? /  
+
+ny          A.16 utt1:  {F Oh, } {F oh, } yes,  /
+sd^e          A.16 utt2: we start here at, {F uh, } five. /  
+
+bk          B.17 utt1:  Okay,  /
+qy          B.17 utt2: [ {C and, } + {C and } ] [ in, + in ]  his league do they have {D like } a pitcher,  /
+qr          B.17 utt3: {C or } do they have a standing ball or a machine, or what? /  
+
+%          A.18 utt1:  Up until, - /
+sd          A.18 utt2: it's coach pitch, until you get nine --   
+
+bk          B.19 utt1:  Okay. /  
+
++          A.20 utt1:  -- which my little boy will be nine in May.  /
+sd          A.20 utt2: {C  So } he's going to be with, {F uh, } regular pitching -- /  
+
+b          B.21 utt1:  {F Oh, } okay. /  
+
+sd          A.22 utt1:  -- {C and } my eleven year old, of course,  {D you know, } is pitching. /  
+
+b          B.23 utt1:  Yeah.  /
+sd          B.23 utt2:  [ I, +  I ] used to play soccer  when I was that age --   
+
+b          A.24 utt1:  Uh-huh. /  
+
++          B.25 utt1:  -- up in New York,  /
+%          B.25 utt2: {C so. } -/  
+
+%          A.26 utt1:  {C But } yes,  /
+sd          A.26 utt2: we're into baseball,  /
+sd          A.26 utt3:  {C and } it seems like soon as that   over with we get into basketball.  /
+sd          A.26 utt4:  We even have peewee basketball here. /  
+
+x          B.27 utt1:  <Laughter>. 
+
+sd          A.28 utt1:  {D So } there's always something. /  
+
+b          B.29 utt1:  Yeah,  /
+qo          B.29 utt2: {C and }  [ how about, +  how about ]   {D like } on the weekends.  /
+qy          B.29 utt3:  Do you do sports  /
+qr          B.29 utt4:  {C or }  do you go out? /  
+
+sd          A.30 utt1:  Both.  /
+sd          A.30 utt2: If we're not doing sports we go somewhere. /  
+
+qy          B.31 utt1:  [ Do you go, how about {D like } for, +  {F uh, }   do you go for long vacations, ] like a week # or something when they have school off? # /  
+
+ny          A.32 utt1: # {F Oh, } yeah,  /
+ny^r          A.32 utt2: yeah,  /
+ny^r          A.32 utt3: yeah. # /  
+
+qr          B.33 utt1:  In the summer or like in the Easter time, like around now? /  
+
+nn          A.34 utt1:  No,  /
+sd^e          A.34 utt2: usually in the summer time. /  
+
+qw          B.35 utt1:  {C And } where do you go? /  
+
+sd          A.36 utt1:  Different places every year.  /
+%          A.36 utt2: We, -/  
+
+qy          B.37 utt1:  [ Have, +  have ] you been out of the country? /  
+
+nn          A.38 utt1:  No <laughter>. /  
+
+bk          B.39 utt1:  {F Oh, } okay,  /
+sv          B.39 utt2: {D well, } first, they always  say, get to know your country first before you leave, #  /
+sd          B.39 utt3: {E I mean -- } #    
+
+b          A.40 utt1: # Uh-huh. # /  
+
++          B.41 utt1:  -- [ I, +  I ] lived in places, {D like } - /
+sd          B.41 utt2:  when I lived in [ Washington, +  {F uh, } Washington, D C, ] I never went to the Washington Memorial,  /
+sd          B.41 utt3:  {C and then } when I went back to visit, I went to the Washington Memorial. /  
+
+sd          A.42 utt1:  {D You know, } I've heard, we have a  couple of friends that goes to Washington quite often,  /
+sv          A.42 utt2: {C and } that must be the thing.  /
+sd          A.42 utt3:  They really hadn't either.  /
+sd          A.42 utt4: They went to the Memorial, {D you know, }  /
+sd          A.42 utt5:  when they go, it's on business -- /  
+
+b          B.43 utt1:  Right. /  
+
+sd          A.44 utt1:  -- it's not really just to getting to sight see. /  
+
+b          B.45 utt1:  Right.  /
+sd          B.45 utt2:  {D Well, } [ it's, +  it's ] a beautiful city. /  
+
+ba          A.46 utt1:  {F Oh, } I # bet it is, too. # /  
+
+sd          B.47 utt1: # {C But, } the problem is # ,  {D like } first time I went out of here, [ and + ] they took me to Las Vegas -- /  
+
+b          A.48 utt1:  Uh-huh. /  
+
+sd          B.49 utt1:  -- {C and } that was the most boring place on earth. /  
+
+sd          A.50 utt1:  {F Oh, } now my husband and I, we go different places.  /
+sd          A.50 utt2:  [ {C But } our child-, +  {C but } when we go with our children ] we usually kind of stay close. /  
+
+b          B.51 utt1:  Yeah.  /
+qy          B.51 utt2:  [ [ Did, +  {F uh, } did, ] +   {D like, } did ] you go to Disneyland? /  
+
+ny          A.52 utt1:  {F Oh, } # yes,  /
+ny^r          A.52 utt2: yes,  /
+ny^r          A.52 utt3: yes. # /  
+
+bk          B.53 utt1: # {F Oh, } okay.  /
+h          B.53 utt2: {D So, } # {C but } {F um, }  {D now, } I don't know,  /
+^h          B.53 utt3: [ {C but } +  {F um, } {C but } ]  let's see,  /
+sd          B.53 utt4: when I was eleven I went also to the Caribbean. /  
+
+b          A.54 utt1: # Oh. # /  
+
+sd@          B.55 utt1: # [ That, + # that ] was fun.    That was,  /  *[[slash error, two utts]]
+%          B.55 utt2: {C and, } {F uh, } then after that,  I, - /
+sd          B.55 utt3: my sister lives in Turkey,  /
+sd          B.55 utt4: {C so } when I was like fourteen,  fifteen, [ I went, +  I went ] to Turkey. /  
+
+b          A.56 utt1:  {F Oh, } /  
+
+sd          B.57 utt1:  {C And } this Christmas, I went to Turkey.  /
+%          B.57 utt2:  {C But } basically, it's a, - /
+%          B.57 utt3: for the past couple of years, I, - /
+%          B.57 utt4: since my parents [ are, +  are, ]  {D well, } - /
+sd          B.57 utt5: I'm from Argentina,  /
+sd          B.57 utt6: {C and } my parents live down there.  /
+sd          B.57 utt7:   {C So, } all the traveling I do is alone. /  
+
+b          A.58 utt1:  Uh-huh. /  
+
+%          B.59 utt1:  {C And, } {F uh, } we were never much of, - /
+sd          B.59 utt2:  {F uh, } a very, {F uh, } family thing, {D you know, } made, {D like } go skiing in Vermont or something. /  
+
+b          A.60 utt1:  Uh-huh. /  
+
+sd          B.61 utt1:  [ That was, + {F uh, } that was ] a lot of fun. /  
+
+b          A.62 utt1:  Yes. /  
+
+sd          B.63 utt1:  {C But, } what happens is we used to  fight a lot,  /
+sd          B.63 utt2: {C so } there's never much of a [ family + <laughter> family ] thing.  /
+sd          B.63 utt3: {D You know, }  one of those hell family vacations. /  
+
+b          A.64 utt1:  {F Oh, } yes,  /
+%          A.64 utt2: {C but } [ we try, +   {D you know, } I try, ] - /
+sd          A.64 utt3: my husband also, we're involved in everything our kids does -- /  
+
+b          B.65 utt1:  Yeah. /  
+
+sd          A.66 utt1:  -- {C because, } {F uh, } my dad died,  {D you know, } when I was less than a year old -- /  
+
+b          B.67 utt1:  Yeah. /  
+
+sd          A.68 utt1:  -- {C so } I always just had a mother.  /
+sd          A.68 utt2:   {C So } I always thought, when I have kids, {D you know, } I really want to be involved with them. /  
+
+sd          B.69 utt1:  {D Well, } my dad, [ all he, +  all he ]  wanted to do was get money for us,  /
+sd          B.69 utt2: {C so } he could buy us material things. /  
+
+b^m          A.70 utt1:  Material things,  /
+b          A.70 utt2: yes,  /
+%          A.70 utt3: that is, - /
+%          A.70 utt4: yes, /  
+
+sd          B.71 utt1:  [ {C And, } + {C and } ] to me, {D you know, }  it's {D like, } now I'm twenty-two,  /
+%          B.71 utt2: {C but } I still feel, {D you know, } - /
+sd          B.71 utt3: it's {D like } {D yeah, }  we never threw a football or something -- /  
+
+b          A.72 utt1:  Uh-huh. /  
+
+sd          B.73 utt1:  -- {C and } the way I was brought up, - /
+sd          B.73 utt2:  {C and } he wants me now,  /
+sd          B.73 utt3: [ [ he, +  {D like } he, ] + {D you know, } {D like } he ] wants to be best friends now -- /  
+
+b^m          A.74 utt1:  Best friends, now. /  
+
+sd          B.75 utt1:  -- {C and } it's very hard for me  /
+sd          B.75 utt2: {C because, }  {D you know, } it's like you grow up to be twenty years old,  /
+sd          B.75 utt3: {C and } it's always the same man -- /  
+
+b          A.76 utt1:  Uh-huh. /  
+
+sd          B.77 utt1:  -- {C and then } suddenly he sees that  he's getting old,  /
+sd          B.77 utt2: {C and } he wants to be best friends -- /  
+
+b          A.78 utt1:  Yeah. /  
+
+sd          B.79 utt1:  -- {C but, } {F uh, } {D you know, }  it's like, I can only express myself so much,  /
+sd          B.79 utt2: {C because, } {D you know, } {F um, } everything  [ that he taught me, +  {D you know, } that my family taught me, ] which is very hard to change that  all of a sudden from one year to the next and say, I'm sorry, {D you know. }  /
+sd(^q)          B.79 utt3:   It's {D like, } {D you know, } I love you  /
+^q          B.79 utt4: {C and }  let's go out and do things together when I don't  feel like it, {D you know } -- /  
+
+b          A.80 utt1:  Uh-huh. /  
+
+sd         B.81 utt1:  -- {C and so, } that's that whole  thing that he'll say when, {D like, } {D like } - /
+sd         B.81 utt2: I've seen my uncle and his family, {D you know, }  does everything together,  /
+%          B.81 utt3: {C and } {D you know, } his kids are, {D you know, } - /
+sd          B.81 utt4: when  his little girl was five years old and  everything, [ they, +  {F uh, } they ]  would go to the beach,  /
+sd          B.81 utt5: {C and } she could go to sleep at two in the morning --   
+
+b          A.82 utt1:  {F Oh, } uh-huh. /  
+
++          B.83 utt1:  -- {D you know } -- /  
+
+b          A.84 utt1:  Yeah. /  
+
+sd          B.85 utt1:  -- {C and, } {F uh, } I was brought up  the same way,  /
+sd          B.85 utt2: it doesn't matter what age you have,  /
+sd          B.85 utt3: just so long as you can get up to go to  class the next morning, you can stay up --    
+
+b          A.86 utt1:  Uh-huh. /  
+
++          B.87 utt1:  -- {D you know, }  /
+sd          B.87 utt2: {C but } [ his, +  what he ]  does is, when he gets home, he separates his work from his house. /  
+
+b          A.88 utt1:  Yeah,  /
+%          A.88 utt2: you have to -- /  
+
+b          B.89 utt1:  Yeah. /  
+
+sd          A.90 utt1:  -- {E I mean, } you honestly do.  /
+sd          A.90 utt2:   Now I have friends that I love to death,  /
+sd          A.90 utt3: [ {C but, } +  {C and } ] they have children,  /
+sd          A.90 utt4:  {C but } their children does anything,  /
+sd          A.90 utt5: we have to take them, and, {D you know } --   
+
+b          B.91 utt1:  Yeah. /  
+
++          A.92 utt1:  -- to do it.  /
+sd          A.92 utt2: {C And } that really gets  kind of aggravating after a while  /
+sd(^q)          A.92 utt3: {C because } you're saying, {D Well, } I work  full time   too, # {D you know. } # /  
+
+b          B.93 utt1: # Yeah,  /
+b^r          B.93 utt2: # yeah,  /
+%          B.93 utt3: {C but, } {F uh, } [ it's just, +   it's just ] something that, {D you know, } - /
+%          B.93 utt4: my theory is, {D you know, } [ when, +  when ]  you have kids and all [ you, + you ] want to do, {D well, } - /
+%          B.93 utt5: what I'll do is, {D you know, }  {D like, } - /
+sv          B.93 utt6: {E I mean, } you might have problems,  /
+sv          B.93 utt7: {C but } it's not your kids'   problems --    
+
+aa          A.94 utt1:  Yeah,  /
+aa^r          A.94 utt2: {F oh, } yeah. /  
+
++          B.95 utt1:  -- {D you know, }  /
+sv          B.95 utt2:  {C and } you got to try to be with them as much as you can  /
+%          B.95 utt3: {C and } to,   {D you know, } {D like, } - /
+sv          B.95 utt4: thing [ is, +  is, ]  that, {D you know, } {D like } [ if, +  if ] they would ever happen to have a drug problem, suppose, that they could feel comfortable coming to me and saying, I got a problem --   
+
+b^m          A.96 utt1:  Problem,  /
+b          A.96 utt2: uh-huh /  
+
++          B.97 utt1:  -- {D you know, }  /
+sv          B.97 utt2: [ {C and, } +  {F uh } --   
+
+b          A.98 utt1:  Yeah. /  
+
++          B.99 utt1:  -- {C and } ] that would make any  parent feel good and bad at the same time, {D you know, }  /
+sv          B.99 utt2: first of all you're coming to me  /
+sv          B.99 utt3:  {C and } let's see how we can get rid of the problem, {D you know, }  /
+sv          B.99 utt4: {C and } [ [ that's +   {F uh, } that's very, ] +  that's very ] hard to do,  /
+sv          B.99 utt5: {C because } once you're best friends with your parents,  then, I think everything go a lot better. /  
+
+b          A.100 utt1:  Uh-huh,  /
+aa          A.100 utt2: yeah,  /
+aa         A.100 utt3: I agree with you very much so.  /
+sd          A.100 utt4:  Now, we waited several years before we started having children because we  was still in college,  /
+sd          A.100 utt5: {C and } we knew time wise, [ or, +  and ] money wise, too -- /  
+
+b          B.101 utt1:  Yeah. /  
+
+sv          A.102 utt1:  -- [ would, +  it would ]  not have been a good idea to had them then. /  
+
+b          B.103 utt1:  Yeah,  /
+sd          B.103 utt2: [ my, +  my ] father was raising  [ four ki-, +  {F oh } {D well, } three kids ] before he had me,  /
+%          B.103 utt3: {C so } it was, {F uh, } {D you know, } - /
+sv          B.103 utt4:  you're trying, to support, {F uh, } four kids,  /
+sv          B.103 utt5: {C and } it's pretty hard --   
+
+b          A.104 utt1:  Yeah. /  
+
++          B.105 utt1:  -- {D you know, }  /
+sd(^q)          B.105 utt2: {C and } [ I, +  I ]  told him, listen you could have had a lot of money if you would have only had two kids. /  
+
+b          A.106 utt1:  Uh-huh,  /
+b          A.106 utt2: yeah. /  
+
+sd(^q)          B.107 utt1:  He says yeah,  /
+^q          B.107 utt2: {C but then } I wouldn't have you,  /
+sd(^q)         B.107 utt3:  I go, yeah,  /
+^q          B.107 utt4: {C but then } you would have a lot of money <laughter>. /  
+
+aa          A.108 utt1:  That's right,  /
+sv          A.108 utt2:  {C but } you can't take this money with us, though -- /  
+
+b          B.109 utt1:  Yeah. /  
+
+sd          A.110 utt1:  -- that's how I keep looking at it. /  
+
+sd          B.111 utt1:  {C But, } {D you know, } {D like, } [ [ four, +   {E I mean } fou-, ] +  four ] children is expensive, [ especially when you consider +  {D like, } especially for me, ]  which I'm paying out of state   tuition.  /
+sd          B.111 utt2:  I'm paying, {D you know, }  three thousand,  /
+ar          B.111 utt3: no,  /
+sd          B.111 utt4: what is it, two thousand six hundred dollars for one semester. /  
+
+b          A.112 utt1:  Oh. /  
+
+sd          B.113 utt1:  {C And, } {D you know, } people say,  {D you know, } it's expensive to think it's college,  /
+sd          B.113 utt2: {C but, } [ if, +  if ] everybody would be  a little bit responsible, {D you know, }  /
+%          B.113 utt3: it's {D like, } - /
+t1          B.113 utt4:  [ what does it, +  what does it ] cost.  /
+sd          B.113 utt5:  It costs five hundred dollars a semester suppose.  /
+sd          B.113 utt6:  Now they go to a state college  /
+sd          B.113 utt7:  {C and } they live at home --   
+
+b          A.114 utt1:  Uh-huh. /  
+
++          B.115 utt1:  -- {D you know, }  /
+sd          B.115 utt2: {C and } {D well, }  it costs two hundred dollars for books,  /
+sd          B.115 utt3: {C but } {D you know, } seven hundred dollars a semester,  /
+sv          B.115 utt4:  a lot of people can spare that if they planned ahead, {D you know, } {D like } -- -/  
+
+aa          A.116 utt1:  {F Oh, } yeah,  /
+%          A.116 utt2: [ if you cou-, +  if you can, ]  /
+aa          A.116 utt3: yeah. /  
+
+sv          B.117 utt1:  -- {E I mean, } it's like, if you plan  a year ahead, you can probably save up seven hundred dollars --    
+
+b          A.118 utt1:  Yeah. /  
+
++          B.119 utt1:  -- {D you know, } one thousand four hundred  dollars to send your child to college, {D you know. } /  
+
+qw          A.120 utt1:  What are you learning to be? /  
+
+br          B.121 utt1:  {F Oh, } {F oh, } excuse me? /  
+
+qw          A.122 utt1:  [ What degree, + {E I mean, } what ] are you  wanting to do after you get out of college? /  
+
+sd          B.123 utt1:  {D Well, } [ I, +  I'm ]  doing [ computer science, +  computer engineering. ] /  
+
+%          A.124 utt1:  {F Oh, } that's, - /
+sd          A.124 utt2: my husband's into, {F uh, } computers. /  
+
+b          B.125 utt1:  Yeah,  /
+sd          B.125 utt2: [ {C and, } +  {C and } ]  now I'm looking for a job before they have to send me back home -- /  
+
+b          A.126 utt1:  Uh-huh. /  
+
+sd          B.127 utt1:  -- {C because } since I'm an  international student, they want to send me back to --   
+
+b          A.128 utt1:  Yeah. /  
+
++          B.129 utt1:  -- Argentina.  /
+sd          B.129 utt2:  {D Well, } my dad wants me to go back.  /
+%          B.129 utt3: {C So. } -/  
+
+qy^d          A.130 utt1:  {C And } you don't want to? /  
+
+nn          B.131 utt1:  No. /  
+
+b^m          A.132 utt1:  No,  /
+b^m          A.132 utt2: no. /  
+
+nn          B.133 utt1:  No,  /
+sd^e          B.133 utt2: {C because } if you go back there,  then you can never get out. /  
+
+b          A.134 utt1:  Oh. /  
+
+sd          B.135 utt1:  {D Like } you don't have any money [ to, +  to, ] get out. /  
+
+b          A.136 utt1:  Oh. /  
+
+sd(^q)          B.137 utt1:  [ {C So, } + {F uh, } {C and, } ]  {F uh, } I was thinking, {D you know, }  {D like, } Oh my God, {D you know, } I go back there,  /
+^q          B.137 utt2: [ {C and then, } +  {C and } ] I get married there,  /
+^q          B.137 utt3:  {C and } now I have kids there,  /
+^q          B.137 utt4: {C and  then } I'll never leave the place, {D you know. } /  
+
+b^m          A.138 utt1:  Then you'll never leave. /  
+
+aa          B.139 utt1:  Yeah,  /
+aa          B.139 utt2: I know,  /
+sd          B.139 utt3: {C and } [ that's, +  that's ]  what happened to my brother.  /
+sd          B.139 utt4:  He came to school up here,  /
+sd          B.139 utt5: {C and then } when he went down there,  /
+sd          B.139 utt6:  he was just so bad  off, {D you know } --   
+
+b          A.140 utt1:  {F Oh. } /  
+
++          B.141 utt1:  -- from  not being able to stay up here that --   
+
+b          A.142 utt1:  Uh-huh. /  
+
++          B.143 utt1:  -- his life just went down the drain.  /
+%          B.143 utt2: {C So. } -/  
+
+sv          A.144 utt1:  {D Well } maybe something will open up for you. /  
+
+aa          B.145 utt1:  Yeah,  /
+sd          B.145 utt2: I've been calling a lot of companies.  /
+%          B.145 utt3:   There, - /
+sd          B.145 utt4: some of them are interested.  /
+sd          B.145 utt5: {D Well, } at least for a year and a half --   
+
+b          A.146 utt1:  Uh-huh. /  
+
++          B.147 utt1:  -- I can work,  /
+%          B.147 utt2: {C so. } -/  
+
+%          A.148 utt1:  {D Well, } may-, - /
+fc          A.148 utt2: {D well } I've enjoyed talking to you. /  
+
+fc          B.149 utt1:  All right,  /
+fc          B.149 utt2: same here. /  
+
+fc          A.150 utt1:  Okay, #  /
+fc          A.150 utt2: bye-bye. # /  
+
+fc          B.151 utt1:  # Bye-bye. # / 

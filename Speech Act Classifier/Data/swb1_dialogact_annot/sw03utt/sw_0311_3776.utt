@@ -1,0 +1,175 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3776_1490_1461
+TOPIC#:		353
+DATE:		920177
+UTT_CODER:      mmab
+TRANSCRIBER:	glp
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	3
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Speaker B dominated the conversation.
+
+===========================================================================
+  
+
+sd          A.1 utt1:  I, {F uh, } spent four years as a university professor. /  
+
+bh          B.2 utt1:  {F Oh } --   
+
+%          A.3 utt1:  {C And, } -/  
+
++          B.4 utt1:  -- really? /  
+
+ny          A.5 utt1:  Yeah. /  
+
+sd          B.6 utt1:  [ I, + I ] spent three years,  /
+sd          B.6 utt2: I'm teaching in public schools and elementary school. /  
+
+bh          A.7 utt1:  {F Oh, } do you really? /  
+
+ny          B.8 utt1:  Uh-huh. /  
+
+ba          A.9 utt1:  That's great. /  
+
+sd          B.10 utt1:  I taught in Utah, #  /
+qy          B.10 utt2: {C and, }  {F uh, } #   
+
+b          A.11 utt1:  # No kidding. # /  
+
++          B.12 utt1:  Did you --   
+
+%          A.13 utt1:  W-, -/  
+
++          B.14 utt1:  -- teach in California? /  
+
+na          A.15 utt1:  I did. /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+na^r          A.17 utt1:  I did, {F uh, } /  
+
+sv          B.18 utt1:  You sound pretty young for a university professor <laughter>. /  
+
+sd          A.19 utt1:  {D Well, } I was pretty young.  /
+%          A.19 utt2:    I was,  {F uh, } - /
+sd          A.19 utt3: I had  never intended to do it  /
+sd          A.19 utt4: {C and } I was, {F uh, } <lipsmack> {F uh, } given the opportunity  after I'd started a management consulting firm to teach [ in, +  in, ] {F uh, } {F uh, }  one of the business schools in the California State University system. /  
+
+b          B.20 utt1:  Uh-huh. /  
+
+sd          A.21 utt1:  <Inhaling> At any rate, {F uh, } the topic is  fascinating because one of the things I've done for the past few years is, {F uh, }  research the problem from the point of view of, {F uh, } {F uh, } what appears to be  working best and how you can explain it theoretically. /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+qy^d          A.23 utt1:  You may be familiar with cooperative learning.  /
+qy          A.23 utt2:   # Have you ever, # -/  
+
+ad          B.24 utt1:  # {D Well } [ you can, + # you can ] tell me a little bit  more about it because I don't think we did that in Utah. /  
+
+sd          A.25 utt1:  {D Well, } the cooperative learning is a technique that  was tried initially to integrate the public schools.  /
+sd          A.25 utt2: {C And, } {F uh, } [ what, + what ]  it involves, basically, <lipsmack> is the use of peer groups  /
+sd          A.25 utt3:  {C and } the, {F uh, } teacher becomes [ a, + {F uh, } a ] sort of a [ consultant, + resource person ] --   
+
+b          B.26 utt1:  Uh-huh. /  
+
++          A.27 utt1:  -- [ to the cooperative learning, + {F uh, } to the  learning cooperatives, ] I guess they're called.  /
+sd          A.27 utt2:   {C And } there are, {F uh, } some fairly  sophisticated approaches that  are used in the high schools with point systems and things like   that  so that people, {F uh, } gain a competence with respect to the material. /  
+
+b          B.28 utt1:  Uh-huh. /  
+
+sv          A.29 utt1:  {F Uh, } I think that the combination of, {F uh, }  technology and techniques like  that together with marketplace forces will bring about a revolution in the way we learn.  /
+sv          A.29 utt2: {F Uh, } I think there is a direct threat to vested  interest in the public school system, {F uh, } that will stand  in the way of that progress being a little faster.  /
+sv          A.29 utt3:  {F Uh, } school systems are,  in too many states, dominated by administrators -- /  
+
+aa          B.30 utt1:  Uh-huh,  /
+aa          B.30 utt2: yeah. /  
+
+sv          A.31 utt1:  -- {C and, }  {F uh, } both teachers and parents,  {F uh, } complain about [ the, +  {F uh, } {F uh, } the ] cost and ineffectiveness that results.  /
+sv          A.31 utt2:  {D So } my feeling is  that, {F uh, } <lipsmack> [ the, + the ] problem [ is, + is, ] {F uh, } significant.  /
+sv          A.31 utt3:   There are plenty of good people, {F uh, } available to, {F uh, } offer people educational experience,  /
+sv          A.31 utt4:  {C but } that we just have to [ re-, + reallocate ] and reorganize the resources to do it  /
+sv          A.31 utt5:  {C and, }  {F uh, } I think certain techniques and technologies will influence all of that as well as research, {F uh, } {F uh, } of the sort that people like me do  looking at theories of behavior and how they can be used to improve performance,  particularly, {F uh, } accelerate [ the, + the ] pace of learning. /  
+
+b          B.32 utt1:  Uh-huh. /  
+
+sv          A.33 utt1:  {C And, }  my feeling is that, {F uh, }  those kinds of things will solve the problem eventually.  /
+sd          A.33 utt2:  I don't know what form it will ultimately take.  /
+sv          A.33 utt3:  {F Uh, } {F uh, } {C but, }  I think that the future is pretty bright because people recognize that we're paying an enormous price for,  {F uh, } inferior quality when the people involved really aren't inferior,  /
+sv          A.33 utt4: {C so } it must be the way we're  managing the process that,   {F uh, } -/  
+
+aa          B.34 utt1:  Yeah,  /
+ba          B.34 utt2: I see what year saying,  /
+aa^r          B.34 utt3: yeah,  /
+aa          B.34 utt4: I totally agree. /  
+
+sv          A.35 utt1:   [ [ I, + I ]  don't, + I don't ] think [ it's, + it's ]  a matter [ of, + of, ] {F uh, } talented people to do it, [ a-, + both as, ]  quote, unquote students and as teachers,  /
+sv          A.35 utt2: {C but }  clearly what's happened in this country is the school system's been asked to assume a great many responsibilities --   
+
+b          B.36 utt1:  {F Oh, } # yeah. # /  
+
++          A.37 utt1:  -- # in the # past thirty years --   
+
+b          B.38 utt1:  Uh-huh. /  
+
++          A.39 utt1:  -- that weren't existent, {F uh, }  /
+sv          A.39 utt2: you must see kids with  real significant problems, {F uh, } in some cases.  /
+%          A.39 utt3:  {F Uh, } course, I always see  the, - /
+qw          A.39 utt4: I don't know [ how hard, + how hard ] is it, {F uh, } in the public school system  in Iowa City?  /
+qy          A.39 utt5:  [ Is it, + is it, ] {F uh, } deteriorated a lot.  /
+qy          A.39 utt6:   Do the people say, - /
+qy          A.39 utt7: are they pretty happy with it,  /
+%          A.39 utt8: {C or, } -/  
+
+^h          B.40 utt1:  {D Well, } [ I, + I ] haven't taught in Iowa,  /
+^h          B.40 utt2: {C but } I've taught in Utah,  /
+sd          B.40 utt3: {C and, }  {F uh, } people there were saying that the way that the schools were going,  a lot of people were going away and going to private schools, or else going to home,  where they taught their kids at home.    
+
+b          A.41 utt1:  Right. /  
+
++          B.42 utt1:  Or, {D you know, } anything but the public schools and  the ones that did have, {D you know, } # the kids, # /  
+
+qy^d          A.43 utt1:  # Even in Utah. # /  
+
+ny          B.44 utt1:  Yeah  /
+sd^e          B.44 utt2: {D well, }   
+
+sv          A.45 utt1:  {D Well, } Utah's a place where you wouldn't think  that problem would be very severe. /  
+
++          B.46 utt1:  {D Well, } {F uh, } maybe it was the area I was in,  /
+sd          B.46 utt2:  {C but } a lot of schools had a lot of transient, {F uh, } families and a lot of families who were on the  poorer side  /
+%          B.46 utt3: {C and, } -/  
+
+b          A.47 utt1:  Yeah,  /
+bf          A.47 utt2: [ you, + {C so, } you ] saw a fair number of troubled kids. /  
+
+aa          B.48 utt1:  Yeah,  /
+aa          B.48 utt2: {E I mean, } like you said,  how [ they were, + the schools ] are doing more things for the kids, they thought, than they were thirty years ago.  /
+sd          B.48 utt3:   {E I mean, } [ they were, + the school I was teaching at, [ the, + the ]  year I left, they were ] considering providing hot lunch [ for +  or --   
+
+b          A.49 utt1:  Yeah. /  
+
++          B.50 utt1:  -- hot breakfast for ] the kids. /  
+
+b          A.51 utt1:  Yeah. /  
+
+sd          B.52 utt1:  As well as hot lunch  /
+%          B.52 utt2: {C and, } -/ 

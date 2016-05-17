@@ -1,0 +1,593 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2959_1258_1264
+TOPIC#:		328
+DATE:		910524
+TRANSCRIBER:	JKP
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	1
+REMARKS:        Music (radio?) in background throughout on Speaker B side
+of recording. TI cover sheet says recording starts with Speaker A (male)
+saying No.  This is not heard on the tape sent for transcription.
+
+===========================================================================
+  
+
+qy          B.1 utt1:  Are you a Vietnam veteran, Dudley?  <Music>. /  
+
+nn          A.2 utt1:  {F Uh, } no. /  
+
+bh          B.3 utt1:  No? /  
+
+x          A.4 utt1:  <Throat_clearing>.   
+
+qy          B.5 utt1:  Do you have family who were in the Vietnam War? /  
+
+nn          A.6 utt1:  {F Uh, } no.  /
+sd^e          A.6 utt2: My father [ was, + {F uh, } came ]  in right after World War two. /  
+
+bk          B.7 utt1:  Okay.  /
+qy^d          B.7 utt2:  {C So } he was too old,  /
+qy^g          B.7 utt3:  {C and } you were too young, right? /  
+
+na          A.8 utt1:  I am too young, yeah. /  
+
+bk          B.9 utt1:  All right.  /
+qy          B.9 utt2:  Do you know some folks who have been there? /  
+
+ny          A.10 utt1:  {F Uh, } yes. /  
+
+bk          B.11 utt1:  Okay. /  
+
+sd          A.12 utt1:  A couple. /  
+
+b          B.13 utt1:  Okay.  /
+qo          B.13 utt2: How did it influence them? /  
+
+sd          A.14 utt1:  {F Uh, } [ the, + the ] one guy I worked with down  in Austin hated it.  /
+sd          A.14 utt2:  {F Uh, } he was a lineman down there. /  
+
+b          B.15 utt1:  Uh-huh. /  
+
+sd          A.16 utt1:  {C And } while he was there, he caught some kind of  a strange disease. /  
+
+b          B.17 utt1:  Uh-huh. /  
+
+sd          A.18 utt1:  {C And, } {F uh, } all his hair fell out,  /
+sd          A.18 utt2:  {C and } he had {D like } a hundred and five fever for a while  /
+%          A.18 utt3: [ {C and, } +   
+
+b          B.19 utt1:  Uh-huh. /  
+
++          A.20 utt1:  {C And, } ] {F uh, } -/  
+
+qw          B.21 utt1:  {F Uh, } what about long lasting effects on him?  /
+qy          B.21 utt2:   Has he still suffering from those problems? /  
+
+sv          A.22 utt1:  I do not think he was in combat, /  
+
+b          B.23 utt1:  Uh-huh. /  
+
+%          A.24 utt1:  {C so, }    
+
+sd^t          B.25 utt1:  {D Well, } I have talked with a number of Vietnam  veterans,  /
+sd^t          B.25 utt2: {C and } [ I really, +  I had ] no one directly related to me involved. /  
+
++          A.26 utt1:  Uh-huh. /  
+
+sd          B.27 utt1:  {C But, } {F uh, } my sister's husband was in  Vietnam.   /
+sd          B.27 utt2: {C And } [ it, + it ] really made a completely different man out of him. /  
+
+b          A.28 utt1:  Uh-huh. /  
+
+sd          B.29 utt1:  He went to Vietnam one man and came back another,  not better. /  
+
+b          A.30 utt1:  Yeah. /  
+
+sd          B.31 utt1:  Then, {F uh, } another friend of mine  went,  /
+sd          B.31 utt2: {C and } he was in combat.  /
+sd          B.31 utt3: {C But } he came back,  /
+sd(^q)          B.31 utt4: {C and } he said, "Okay, that is it.   That is behind me.  I am going on with my life."  /
+sd          B.31 utt5: Much like what Roger Staubach did. /  
+
+b          A.32 utt1:  Right. /  
+
+qy^d          B.33 utt1:  [ He was, + {F uh, } he was ] a Vietnam war veteran. /  
+
+ny          A.34 utt1:  Yeah. /  
+
+%          B.35 utt1:  {C And, } {F uh, } -/  
+
+ sd         A.36 utt1:  {C But } he was in the Navy, though,   
+
+b          B.37 utt1:  Yeah. /  
+
+ +         A.38 utt1:   (( he was )) . /  
+
+ ba         B.39 utt1:  That is true. /  
+
+sd          A.40 utt1:  It makes a lot of difference. /  
+
+b          B.41 utt1:  Right.  /
+sd          B.41 utt2:  {C And, } {C but, } {F uh, } most of the  folks that I have met that were actually on the land, or in combat, [ are still, + still ]  carry a lot of anger. /  
+
+b          A.42 utt1:  Uh-huh. /  
+
+sd          B.43 utt1:  They really do.  /
+sv          B.43 utt2:  {C And, } {F uh, } [ [ [ I, + I, ] + I, ] + I ]  really do not think that we did those young men right. /  
+
+b          A.44 utt1:  Huh. /  
+
+sv          B.45 utt1:  I think that, {F uh, } Desert Storm,   
+
+x          A.46 utt1:  <Throat_clearing>.   
+
++          B.47 utt1:  shows a lot of learning since that time. /  
+
+b          A.48 utt1:  {F Oh, } yeah. /  
+
+%          B.49 utt1:  {F Uh } <<faintly>>. /  
+
+sv          A.50 utt1:  {D Well, } the armed forces did so much to, {D you know, }  Agent Orange,  /
+sv          A.50 utt2: they did so  much to their own people all during that time. /  
+
+b          B.51 utt1:  Yeah.  /
+ba          B.51 utt2:  That is true. /  
+
+sv          A.52 utt1:  {D You know, }  {C and } [ [ they ta-, + they take  a, ] +   
+
+b          B.53 utt1:  Yeah. /  
+
++          A.54 utt1:  even now, {F uh, } they take a ]  free hand as far as medicine and, {F uh, } {D you know, } how they treat the war casualties, {D you know. }  /
+sv          A.54 utt2:  If you come back and your leg is blown off,   
+
+b          B.55 utt1:  Uh-huh. /  
+
++          A.56 utt1:  {D you know, } [ or, + or ]  it is hanging by a thread, they still can't put it back together now.   /
+sv          A.56 utt2: [ {C But, } +   
+
+b          B.57 utt1:  Uh-huh. /  
+
++          A.58 utt1:  {C But } ] what they do afterwards and  how they [ re-, + rehabilitate ] you. -/  
+
+sv          B.59 utt1:  {D Well, } {D you know, } one of the most  troublesome things that I have encountered as a result is the incredible influx of  southeast Asians into this country --   
+
+ b         A.60 utt1:  Uh-huh. /  
+
++          B.61 utt1:  -- since that conflict. /  
+
+b          A.62 utt1:  Yeah. /  
+
+sv          B.63 utt1:  {F Uh, } not so,    
+
+x          A.64 utt1:  <Throat_clearing>.   
+
++          B.65 utt1:  much that I say,   
+
+ x         A.66 utt1:  <Sniffing>.   
+
++          B.67 utt1:  I do not want you here.  /
+sv          B.67 utt2:  {C But } there is just such a  surge of southeast Asians.  /
+sv          B.67 utt3:  It has affected the culture of this country, {F uh, }   
+
+ba          A.68 utt1:  {F Oh, } yeah.  /
+sd          A.68 utt2:  [ It's ab-, +   
+
++          B.69 utt1:  very much. /  
+
+ +         A.70 utt1:  it's about ] nine or ten percent now. /  
+
+b          B.71 utt1:  Yeah.  /
+b^r          B.71 utt2:  Yeah.  /
+b^r          B.71 utt3:  Yeah.  /
+sv          B.71 utt4:  {D Well, } {F uh, }  the culture is changing.   /
+sv          B.71 utt5: Look how much more Oriental food we have, restaurants now,   
+
+b          A.72 utt1:  Uh-huh. /  
+
++          B.73 utt1:  for example.  /
+sv          B.73 utt2:  {F Uh, } even ten years ago,  there were not that many.  /
+sv          B.73 utt3: A lot of shops [ are, + are ] operated by southeast Asians. /  
+
+ba          A.74 utt1:   (( That's true )) . /  
+
+sv          B.75 utt1:  A lot of people have complained in the schools.  /
+sv          B.75 utt2:   There is a culture change there.  /
+sv          B.75 utt3: The southeast Asians seem to be very hungry,  /
+sv          B.75 utt4:  there seem to be very studious.  /
+sv          B.75 utt5:  {C And, } {F uh, } tends to cause our kids  to really have to buckle down to keep up with them, which is not bad. /  
+
+b          A.76 utt1:  No. /  
+
+sv          B.77 utt1:  Not really.   /
+sv          B.77 utt2: {F Uh, } {C but } it might in the  long run you can see where scholarships, for example,   
+
+b          A.78 utt1:  Uh-huh. /  
+
++          B.79 utt1:  {F uh, } even jobs.  {F Uh, } jobs that  would normally go to an American, with a lesser education, might be going [ to, + to ]  some of these people here.  /
+sv          B.79 utt2: {C And } that is all a result [ [ of, + of, ] + of ] Vietnam.  /
+sv          B.79 utt3:  [ {C And, } + {C and } ] you see [ a lot of, +   
+
+x          A.80 utt1:  <Throat_clearing>.   
+
++          B.81 utt1:  a lot of ] men that were over there,  brought families back. /  
+
+b          A.82 utt1:  Yeah.  /
+%          A.82 utt2:  That is, -/  
+
+sd          B.83 utt1:  {F Uh, } {C and } it concerns me that there  is probably a lot of mixed breed youngsters still there. /  
+
+b          A.84 utt1:  Uh-huh. /  
+
+ sd         B.85 utt1:  {C And } I would be concerned or interested to find out  how they are doing now. /  
+
+sv          A.86 utt1:  {D Well, } they are probably not doing very well at all. /  
+
+%          B.87 utt1:  I know that there, -/  
+
+sv          A.88 utt1:  {C Because } I know [ there is, + there is ]  still people even in the Dallas area.  /
+sv          A.88 utt2: [ There are, + there are ] still people trying to  get some member of their family back from, {F uh, } Vietnam. /  
+
+qr          B.89 utt1:  You are talking about P O W -s --   
+
+%          A.90 utt1:  {F Uh, } /  
+
++          B.91 utt1:  -- or --   
+
+%          A.92 utt1:  {F uh, } /  
+
++          B.93 utt1:  -- missing in actions? /  
+
+sd          A.94 utt1:  [ na-, + native ] Vietnamese people. /  
+
+bf          B.95 utt1:  Native Vietnamese people. /  
+
+aa          A.96 utt1:  Yeah. /  
+
+b          B.97 utt1:  Okay. /  
+
+sd          A.98 utt1:  They were lost, {D you know, } when they  were little,  /
+sd          A.98 utt2: [ {C and, } + {C and } ] they [ c-, + ] never did get back  /
+%          A.98 utt3: {C or, } -/  
+
+%          B.99 utt1:  {F Oh, } I had not. - /
+sd          B.99 utt2: [ That, + that ] had not occurred to me. /  
+
+b          A.100 utt1:  Yeah. /  
+
+sv          B.101 utt1:  That would be --   
+
+sv          A.102 utt1:  [ {C And, } + {F uh, }   
+
++          B.103 utt1:  -- an interesting concept. /  
+
++          A.104 utt1:  {C and, } ] as is really a big waste   because [ they didn't, + they didn't ] win,  /
+sd          A.104 utt2: they didn't regain any of the land that they had.  /
+sd          A.104 utt3: It spilled over  into, {F uh, } now I can't even think of the country.  /
+%          A.104 utt4: {C But, } -/  
+
+qy^d          B.105 utt1:  Cambodia? /  
+
+ny          A.106 utt1:  Yeah.  /
+sd^m@          A.106 utt2:  Cambodia.   
+
+b          B.107 utt1:  Uh-huh. /  
+
++@          A.108 utt1:  <Throat_clearing> And to Laos,  /
+sv          A.108 utt2: [ {C and, } +   
+
+b          B.109 utt1:  Uh-huh. /  
+
++          A.110 utt1:  {C and } ] all they did is run and hide. /  
+
+b          B.111 utt1:  Uh-huh. /  
+
+sv          A.112 utt1:  {C And } they were not really fighting, {D you know, }  /
+sv          A.112 utt2:  [ it, + it ] would have been the same as Desert Storm if all they had been  fighting was North Vietnam. /  
+
+b          B.113 utt1:  Uh-huh. /  
+
+sv          A.114 utt1:  {C But, } {C and } I am not even sure who was  involved more.  Whether it was China or  Russia. /  
+
+b          B.115 utt1:  Uh-huh. /  
+
+sv          A.116 utt1:  {D You know, } [ they were pouring, + they were pouring ]  weapons in there  [ and, + and ]  [ advising, + {E well, } digging ]  tunnels for them.    
+
+b          B.117 utt1:  Uh-huh. /  
+
++          A.118 utt1:  {D You know, }  /
+sv          A.118 utt2: {C and } there is no way that  they could ever catch them. /  
+
+sv          B.119 utt1:  {D Well, } I think the terrain had a lot to do  with [ the, + the ] success of Desert Storm as opposed to that in Vietnam. /  
+
+b          A.120 utt1:  Yeah,  /
+b          A.120 utt2: that is right. /  
+
+sd          B.121 utt1:  {D You know, } there is incredible cover --   
+
+b          A.122 utt1:  Uh-huh. /  
+
++          B.123 utt1:  -- in Vietnam.  /
+sd          B.123 utt2:  {C And } you can't find much  cover [ on, + <laughter> in ] a sand --   
+
+b          A.124 utt1:  Yeah, /  
+
++          B.125 utt1:  -- dune <laughter>. /  
+
+ b         A.126 utt1:  yeah,  /
+  sd        A.126 utt2: all they can do is dig in,  /
+%          A.126 utt3: {C and } they,   
+
+ ba         B.127 utt1:  That is right. /  
+
++          A.128 utt1:  {D you know, } - /
+sd          A.128 utt2: {C and then }  they try to camouflage the top. /  
+
+b          B.129 utt1:  Uh-huh,  /
+b^m          B.129 utt2: uh-huh. /  
+
+sv          A.130 utt1:   [ {D Well } now, even, + I think even now, ] and  in Vietnam they could probably have done a better job.  /
+sv          A.130 utt2: {C Because } [ they could, +  <throat_clearing> they could ] kill all those plants, {D you know, }  which would devastate the country as far as farming from then on.  /
+sv          A.130 utt3: {C But, } [ {C and } the, + {C and } the ]  Corps of Engineers I think do a better job now, like they did in Desert Storm.  /
+%          A.130 utt4: {C Because } --   
+
+%          B.131 utt1:  {D Well, } -/  
+
++          A.132 utt1:  -- they had, - /
+sd          A.132 utt2: [ he, + he ]  dug a bunch of moats and filled them with oil -- /  
+
+b          B.133 utt1:  Uh-huh. /  
+
+sd          A.134 utt1:  -- {C and } he set a lot of booby traps all  along the way as they went.  /
+sd          A.134 utt2: {C And } [ they had to, + {D you know, } they had to ]  blow them up [ or, +    
+
+b          B.135 utt1:  Uh-huh. /  
+
++          A.136 utt1:  or ] disarm them. /  
+
+b          B.137 utt1:  Uh-huh. /  
+
+sd          A.138 utt1:  {C And then } they had to fill in little  bridges all the way [ where he, + where he ] had made those moats. /  
+
+qw          B.139 utt1:  What world war do you think they  found the experience for that? /  
+
+ %         A.140 utt1:  {F Uh, } /  
+
+qy          B.141 utt1:  Don't you think they learned from the mistakes in Vietnam? /  
+
+%          A.142 utt1:  W-, - /
+ny          A.142 utt2: yeah,  /
+sd^e          A.142 utt3: partially. /  
+
+sv          B.143 utt1:  Part of it is that,   
+
+b          A.144 utt1:  Uh-huh. /  
+
++          B.145 utt1:  part of it is technology. /  
+
+b          A.146 utt1:  Yeah.  /
+bf          A.146 utt2:  Part of it is technology, yeah. /  
+
+sv          B.147 utt1:  {C But } --   
+
+%          A.148 utt1:  {C Because } --   
+
++          B.149 utt1:  -- [ [ when, + when, ] +   
+
++          A.150 utt1:  -- all, - /
+ad          A.150 utt2: go ahead. /  
+
++          B.151 utt1:  When ] you get into trouble like  that in a place like Vietnam, you do tend to analyze the problems that you get into,  /
+sv(^q)          B.151 utt2: {C and } you say, "Never more." /  
+
+b          A.152 utt1:  Yeah. /  
+
+sv          B.153 utt1:  [ {C And, } + {C and } ]  you overcome those problems,  /
+sv          B.153 utt2: {C and } you are prepared next time. /  
+
+sv          A.154 utt1:  I think that is one of the reasons  [ that they have, + they have ] pretty much avoided getting involved in South America.  /
+sv          A.154 utt2: {C Because } --   
+
+b          B.155 utt1:  Uh-huh. /  
+
+ +         A.156 utt1:  -- look what happened when they were  looking for Noriega,  /
+ sv         A.156 utt2: {C and } they lost him for four hours when they were right on top of him,   
+
+b          B.157 utt1:  Right. /  
+
++          A.158 utt1:  {D you know. } /  
+
+b         B.159 utt1:  Uh-huh. /  
+
+sv          A.160 utt1:  He probably just went right down into a tunnel. /  
+
+b          B.161 utt1:  Sure.  /
+b^r          B.161 utt2:  Sure.  /
+b^r          B.161 utt3: Sure.   /
+sv          B.161 utt4: {D Well, } I know that,  <sigh> {F uh, } from a personal standpoint, people was one of the finest  assets that we lost.  /
+sv          B.161 utt5:  We did not actually physically lose them.  /
+sv          B.161 utt6:   They did not lose their lives,  /
+sv          B.161 utt7: {C but } they lost a whole lot of the life they might have had. /  
+
+b          A.162 utt1:  Yeah.  /
+ba          A.162 utt2:  That is right. /  
+
+ sv         B.163 utt1:  {F Uh, } being entirely different people.  /
+sv          B.163 utt2:  I had dinner Monday night with a Vietnam veteran who is just now beginning to  recover from the drug and alcohol struggle that he had. /  
+
+b          A.164 utt1:  Uh-huh. /  
+
+sv          B.165 utt1:  That is a long time to suffer. /  
+
+b          A.166 utt1:  Yeah.  /
+sv          A.166 utt2:  {C And } [ they, + they ]  really need, - /
+sv          A.166 utt3: everybody [ that has, + that has ] stood there, - /
+%          A.166 utt4: it's, - /
+%          A.166 utt5: when i-, - /
+sv          A.166 utt6: in Vietnam  I think it was much closer contact.  /
+sv          A.166 utt7: You stand there with a rifle and blow [ a, + a ] piece of somebody apart,   
+
+b          B.167 utt1:  Uh-huh. /  
+
++          A.168 utt1:  or blow their head off, /  
+
+b          B.169 utt1:  Uh-huh. /  
+
+sv          A.170 utt1:  {C and } that has to affect you if you  are human, {D you know. } /  
+
+ba          B.171 utt1:  {F Oh, } yeah,  /
+b          B.171 utt2: yeah. /  
+
+sv          A.172 utt1:  {C So } they had to --   
+
+%          B.173 utt1:  I can't, {F uh, } -/  
+
++          A.174 utt1:  -- work all [ that, + that ] anger out,   [ and the, + and the ] nightmares that come along with it. /  
+
+ba          B.175 utt1:  {F Oh, } yeah.  /
+ba          B.175 utt2:  You bet, /  
+
+sv          A.176 utt1:  [ I  do not, +   
+
+ba          B.177 utt1:  you bet. /  
+
++          A.178 utt1:  I do not ] really think that  anybody can ever [ for-, + forget ]  that,  /
+sv          A.178 utt2: {C but } [ they can, + they can ] reason [ and, +    
+
+b          B.179 utt1:  Uh-huh. /  
+
++          A.180 utt1:  and ] try to adjust [ to, + to ]  why they were there. /  
+
+b          B.181 utt1:  Yeah.  /
+sv          B.181 utt2:  {D Well, } you see that is  what the veterans are so angry about now.  /
+sd(^q)          B.181 utt3: They say, {D "Well, } we're,   
+
+x          A.182 utt1:  <Throat_clearing>.   
+
++          B.183 utt1:  going to listen to this and  we are going to look at this, find out what our mistakes were, and we are not going to make them again."  /
+sv          B.183 utt2:   {C But } that does not undo the ones that were done.  /
+sv          B.183 utt3:   {C And } that is what makes the veterans angry. /  
+
+b          A.184 utt1:  Right. /  
+
+sd          B.185 utt1:  {C And } I cannot blame them.  /
+sd          B.185 utt2: I do not know a solution. /  
+
+b          A.186 utt1:  Uh-huh. /  
+
+sd          B.187 utt1:  {C But } I sure cannot blame them for being  angry.  /
+sv          B.187 utt2: On the other hand, {D you know, } you can be angry about something for a very long time,  /
+sv(^q)          B.187 utt3:  {C or } you can say, {D "Well, } that is the way it is," and go on with your life.  /
+%          B.187 utt4: {F Uh, } /  
+
+b          A.188 utt1:  Right. /  
+
+sd          B.189 utt1:  For the most part, I wish that it had not happened. /  
+
+b          A.190 utt1:  Yeah. /  
+
+sd          B.191 utt1:  {C But } it did. /  
+
+sv          A.192 utt1:  [ [ {C And } that, +   
+
+%@          B.193 utt1:  {C So, }    
+
+ +         A.194 utt1:  {C and } that  was, ] + that was ] [ in the, + in the ] era when Kennedy was president that they were afraid of everything,   
+
++@          B.195 utt1:  That is right. /  
+
++          A.196 utt1:  {D you know. }  /
+sd          A.196 utt2:  [ [ {C And, } + {C and, } ] + {C and } ]  they [ f-, + ] initially got into it because of Eisenhower.  /
+sv          A.196 utt3:  {C And } [ he just, + he did ]  not want to be in it any more [ than, + than ] what we started out in August with Desert Storm. /  
+
+ba          B.197 utt1:  {F Oh, } yeah. /  
+
+sv          A.198 utt1:  {C And then } it just blew up into the war. /  
+
+sv          B.199 utt1:  {D Well, } it has been that way for a very,   very long time, though.  /
+sd          B.199 utt2: I can remember when I was in the sixth grade,  /
+sd          B.199 utt3:  {C and } that was many years ago. /  
+
+b          A.200 utt1:  Uh-huh. /  
+
+sd          B.201 utt1:  We were reading about the French --   
+
+b          A.202 utt1:  French, yeah. /  
+
++          B.203 utt1:  -- struggling with that --   
+
+b          A.204 utt1:  Uh-huh. /  
+
++          B.205 utt1:  -- in southeast Asia.   /
+sd          B.205 utt2: {C So, }  [ [ {C and, } + {C and, } ] + {C and } ] the Asians historically have always had these kinds of wars going on. /  
+
+b          A.206 utt1:  Right, yeah. /  
+
+sv          B.207 utt1:  [ There, + there ]  has not been a lot of peace in that part of the world. /  
+
+b          A.208 utt1:  Uh-huh  /
+x          A.208 utt2: <barking>.   
+
+h          B.209 utt1:  [ I really, + I do ]  not know,  /
+sv          B.209 utt2: [ i-, + we ] should not have maybe  gotten involved.   /
+sv          B.209 utt3: {C But } if we did, we certainly should have supported  our people who were there. /  
+
+b          A.210 utt1:  Yeah. /  
+
+sv          B.211 utt1:  More so supported them when they got home. /  
+
+b          A.212 utt1:  Right. /  
+
+sv          B.213 utt1:  {C And, } {F uh, } I am afraid that they were  treated as castaways for the most part. /  
+
+ba          A.214 utt1:  Exactly. /  
+
+sd          B.215 utt1:  {C And } [ I, + I ] saw the movie,   
+
+x          A.216 utt1:  <Cough> <throat_clearing>.   
+
++          B.217 utt1:  BORN ON THE FOURTH OF JULY,  /
+sv          B.217 utt2: {C and } I think it  did a good job depicting the temperament of the times. /  
+
+b          A.218 utt1:  Uh-huh.  /
+b          A.218 utt2:  Yeah.  /
+sv          A.218 utt3:  More than,  {A what was, }  APOCALYPSE NOW <laughter>. /  
+
+b          B.219 utt1:  Uh-huh.  /
+qy^t          B.219 utt2:  {D Well, } Dudley, have we pretty  well discussed the subject? /  
+
+b          A.220 utt1:  Yeah.  /
+sv          A.220 utt2:  I think so. /  
+
+sv          B.221 utt1:  {D Well, } I think so.  /
+fc          B.221 utt2: I enjoyed talking to you. /  
+
+fc          A.222 utt1:  Yes,  /
+fc^m          A.222 utt2: it was nice talking to you. /  
+
+fc         B.223 utt1:  Uh-huh. /  
+
+fc          A.224 utt1:  Okay,  /
+fc          A.224 utt2: bye-bye. /  
+
+fc^m          B.225 utt1:  Bye-bye. / 

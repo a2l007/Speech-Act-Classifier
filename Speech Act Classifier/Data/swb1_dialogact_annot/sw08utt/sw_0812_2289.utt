@@ -1,0 +1,327 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2289_1214_1039
+TOPIC#:		335
+DATE:		910326
+TRANSCRIBER:	GL
+UTT_CODER:      aabo
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+ad^t          A.1 utt2: [ we, + we ] can, {F uh, } be recorded while we talk about it. /  
+
+aa          B.2 utt1:  Okay,  /
+qy          B.2 utt2: {D well } is your, - /
+qy          B.2 utt3: does your city have mandatory, {F uh, } recycling? /  
+
+nn          A.3 utt1:  No,  /
+sd^e          A.3 utt2: we don't have mandatory.  /
+sv          A.3 utt3: [ We, + {D actually, } we're ] kind of slow up here, /
+sd          A.3 utt4: {C and } we've just started doing recycling probably last summer.  /
+sd          A.3 utt5:  {C And } it's all voluntary.  /
+sd          A.3 utt6: {C So } that's interesting.  /
+qy          A.3 utt7: Cities have a mandatory recycling? /  
+
+na          B.4 utt1:  {F Um, } [ there, + there're ] some places that are strongly encouraging it,  /
+sd^e          B.4 utt2: {C and } that they  city will pick it up.  /
+sd          B.4 utt3:  That's been one of the arguments here.  /
+sd          B.4 utt4:  I'm just sitting here looking.  We've got four bins of glass and plasticine <<phonetically spelled>> stuff.  /
+sd          B.4 utt5:  {C But } we have to carry it, {F uh, } some distance,  /
+sd          B.4 utt6: {C and }  some places, {F um, } you can sell your, {F uh, } recyclables,  /
+sd          B.4 utt7: {C and, } for example, our church was collecting newspapers. /  
+
+b          A.5 utt1:  Yeah,  /
+sd          A.5 utt2: when I was a kid we used to collect newspapers and bring them to a recycle thing.  /
+sd          A.5 utt3: We got like a penny a pound for them. /  
+
+sd          B.6 utt1:  {D Well, } it turns out that so much,  /
+sd          B.6 utt2: the problem in Texas is that, {F uh, } they've got so much paper now from people recycling that they've got no way to, {F uh, } reprocess it. /  
+
+ba          A.7 utt1:  {F Oh, } my, /  
+
+sd          B.8 utt1: [ It requires an ex-, + it requires ] essentially a paper mill to recycle it,  /
+sd          B.8 utt2: {C and  so } the value has gone down.  /
+sd          B.8 utt3:  It turns out it wasn't worth for the church to do.  /  
+ 
+ba          A.9 utt1:  {F Oh, } I didn't realize, - /
+sv          A.9 utt2: you would think, - /
+sv          A.9 utt3: now up here, [ I, + I ] suppose they send it all back to the mill  /
+sd          A.9 utt4: {C and } there are paper mills within a couple of hundred miles of, {F uh. } - /
+sd          A.9 utt5: {D Actually } there is one in northern Vermont.  /
+sd          A.9 utt6:  {C So } there's probably a paper mill that's sixty miles from here.  /
+sd          A.9 utt7:  I didn't think that, - /
+sv          A.9 utt8: {D you know, } in the large city that [ if the next recycling, + if the next mill ] is more like five hundred miles away --   
+ 
+%          B.10 utt1:  {D Well, } /  
+
++          A.11 utt1:  -- it's a lot of money to transport. /  
+
+b          B.12 utt1:  Yeah,  /
+%          B.12 utt2: {D well } {D see, } that's, - /
+sd          B.12 utt3: [ in, + in ] Dallas there no plan to build, - /
+sd          B.12 utt4: I think [ there, + there's ] some in East Texas there's some pulp mills,  /
+sd          B.12 utt5: {C but, } {F uh, } you have to go to Houston,  /
+sd          B.12 utt6: {C and, } it's interesting,  /
+sd          B.12 utt7: {C and then } there's places that will buy metal  /
+sd          B.12 utt8: {C and } they still buy aluminum can and likes that. /   *[[can -> cans ? likes -> like?]]
+ 
+qh          A.13 utt1:  Do you have to buy metal,  /
+sv          A.13 utt2: {D like } copper is a very good one to collect.  /
+sv          A.13 utt3: Even aluminum,  /
+%          A.13 utt4: yeah,  /
+%          A.13 utt5: {C so. } -/  
+
+qy          B.14 utt1:  {D Well, } [ do you do, + do you do ] recycling? /  
+
+na          A.15 utt1:  {F Uh, } we do the recycling,  /
+sd          A.15 utt2: {C and } our city will pick up our recyclables. /  
+
+b          B.16 utt1:  Oh. /  
+
+sd          A.17 utt1:  They have these little blue bins.  /
+sd          A.17 utt2: {F Um, } I don't recycle personally.  /
+sd          A.17 utt3: [ I, + I'm ] saying I want to do it,  /
+sd          A.17 utt4: {C but, } I don't get a lot of magazines,  /
+sd          A.17 utt5: I don't get a, - /
+sd          A.17 utt6: I don't buy the newspaper,  /
+sd          A.17 utt7: {C but } I do have a lot of, {F uh, } - /
+sd          A.17 utt8: my trash has a lot of tin cans and [ a lot of cart-, + a lot of ] different papers and cardboards. /  
+
+qy          B.18 utt1:  {D Well, } do you drink soda and such in aluminum cans? /  
+
+ny          A.19 utt1:  Yes,  /
+sd^e          A.19 utt2: {C but } we have a bottle return.  /
+sd          A.19 utt3: A lot of the northern states and a lot of the Eastern states have bottles.  /
+sd          A.19 utt4:  We've had five cent deposits on our bottles for years. /  
+
+bf          B.20 utt1:  {F Oh, } {C so } it's worth taking them back.  /
+sd          B.20 utt2:  {D Well, } {D see, } we don't have. - /
+sd          B.20 utt3: [ We have, + we have ] most of our soft drinks are in plastic liter or two liter bottles. /  
+
+sv          A.21 utt1:  {F Oh, } they should definitely get, {F um, } the nickel returnable.  /
+sv          A.21 utt2:  It's great for the kids, because  /
+sd          A.21 utt3: {D see, } a lot of the kids get the money from it, /
+sv          A.21 utt4: {C and } it's great  for the boy scouts running around, they knock door to door and the collect the bottles sometimes. /  
+ 
+sd          B.22 utt1:  {F Oh, } that's it, - /
+%          B.22 utt2: [ you'll, + you'll, ] - /
+sd          B.22 utt3: there is a down side to all this, {D you know, } about no good deed going unpunished,   
+ 
+x          A.23 utt1:  <Laughter>   
+
++          B.24 utt1:  that, {F uh, } my mother sells, {F um, } trees that they make paper out of,  /
+sd          B.24 utt2: {C and so }  every time I recycle newspapers, in fact [ there's a, + there's a, ] {F uh, } - /
+sd          B.24 utt3: Kimberly and Clark, the makers of kleenex and such --   
+
+b          A.25 utt1:  Yeah. /  
+
++          B.26 utt1:  -- has [ a, + {F uh, } a ] big paper mill.  /
+sd          B.26 utt2: In fact I almost went to work for them.  /
+sd          B.26 utt3:  I was offered a job and turned it down because my mother got it for me.  /
+sd          B.26 utt4: It's twenty or thirty miles from my house.  /
+sd          B.26 utt5:  Every time you recycle, that's one less tree my mother can sell,  /
+sd          B.26 utt6: {C and, } {F uh. }  {C So, } it's a question should I be diligent [ [ and, + {F um, } --   
+
+^2          A.27 utt1:  And recycle. /  
+
++          B.28 utt1:  -- and, ] + and ] recycle, and put my mother out of her livelihood. /  
+ 
+b          A.29 utt1:  {F Oh, } yes,  /
+ba          A.29 utt2: I see that. /  
+
+sd          B.30 utt1:  {C But, } it's an interesting point, though, that, {D you know, } everybody's so  anxious to recycle,  /
+sv          B.30 utt2: {C and } I suppose it does provide some gainful employment,  /
+%          B.30 utt3: {C but, } -/  
+
+^2          A.31 utt1:  {C But } it takes away employment from the resource /
+%          A.31 utt2: {C and } its  ((   )) . -/  
+
+sv          B.32 utt1:  {D Well, } {C but } in general I think it's a good idea because --   
+
+aa          A.33 utt1:  I do, too. /  
+
++          B.34 utt1:  -- like the glass, you can't argue that the glass, - /
+sd          B.34 utt2: it doesn't biodegrade,  [ and, + and, ] {F uh, } the plastics obviously, /  
+ 
+sd          A.35 utt1:  They don't either <laughter> /  
+
+sv          B.36 utt1:  {C So } we might as well recycle those. /  
+
+b          A.37 utt1:  Yeah,  /
+sv          A.37 utt2: like I say, it's not a very controversial thing.  /
+sv          A.37 utt3:  Everyone thinks we should do it.  /
+sv          A.37 utt4:  It's just that we're so lazy,  /
+sd          A.37 utt5: {E I mean, } {D like } personally, I don't want to clean my, - /
+sd          A.37 utt6: I just have can cat food.  /
+sd          A.37 utt7:  I don't want to clean the can and  take the label off it, and put it in a separate bin. /  
+
+b          B.38 utt1:  Yeah. /  
+
+sd          A.39 utt1:  {D You know, } I'd just rather get rid of that thing and throw it in the trash. /  
+
+sd          B.40 utt1:  {D Well, } that's what we've got.  /
+sd          B.40 utt2:  We started about, New Year's we decided we'd get ambitious.  /
+sd          B.40 utt3: {D Well, } we took one load over there,  /
+sd          B.40 utt4: {C and } now we've got these containers filling up with stuff,  /
+sd          B.40 utt5: {C and, } {D you know, } it's not a very high priority thing to go haul these containers over there. /  
+
+b          A.41 utt1:  Yeah,  /
+sd          A.41 utt2: I think I would be like, - /
+sd          A.41 utt3: when I bring my bottles back.  If they're pretty clean and stuff, so they can sit in my cellar for a couple of months, - /
+sd          A.41 utt4:  {C and } I get a whole bunch of them [ and bring them ov-, + and bring them over. ]  /
+sd          A.41 utt5:  {D Now, } if I had a recycling center and I kept it clean, like if I washed all the cans and things, I wouldn't mind if it sat around too much,  /
+sd          A.41 utt6: {C but } [ if, + if ] it stunk or  something I wouldn't like doing it.  /
+sd          A.41 utt7:  {C But, } {F um, } I produce quite a bit of trash, - /
+sd          A.41 utt8:  my, {D you know, } house, - /
+sd          A.41 utt9: {C and } I see it,  /
+sd          A.41 utt10: {C but } I don't see so much that I can recycle. /  
+
+b          B.42 utt1:  Yeah. /  
+
+sd          A.43 utt1:  Like I say, it's a lot of different type paper and cardboard.  /
+sd          A.43 utt2:  I'm not a real plastic person user, but a lot of paper, {F um, } pretty much,  /
+sd          A.43 utt3: {C and } I don't know how they sort that.  /
+sd          A.43 utt4: {C But } [ if, + if ] I used a lot of can goods and I do use a lot of laundry detergent and a lot of plastic bottles, I would think that [ I wou-, + I would ] have a recycling center.  /
+sd          A.43 utt5: {C But } now, it's just me and my husband,  /
+h          A.43 utt6: {C so, } I don't know. /  
+
+sv          B.44 utt1:  {C But } every little bit helps,  /
+^q          B.44 utt2: right. /  
+
+ny          A.45 utt1:  Yeah,  /
+sd^e          A.45 utt2: I know what you're saying.  /
+sd          A.45 utt3:  {C But } [ we have, + we have ] a very aggressive recycling at work,  /
+sd          A.45 utt4: {C and } I'm the one who will pick the newspaper out of the trash and bring it to the recycle bin.  /
+sv         A.45 utt5: {D See, } some people, [ it's, + ] the recycle bin is on their way out.  /
+sv          A.45 utt6: Instead of carrying your newspapers, when they get done with them at the end of the day, they throw them in the trash. /  
+ 
+qy          B.46 utt1:  {D Well, } do you have separate trash cans at your desk. /  
+ 
+nn          A.47 utt1:  {F Um, } no,  /
+sd^e          A.47 utt2: we don't,  /
+sd          A.47 utt3: {C but } [ other, + other ] offices do.  /
+sd          A.47 utt4:  They have a box for papers. /  
+
+sd          B.48 utt1:  {D Well, } [ we have, + we have ] one that's recyclable [ and, + and ] then for {F uh, } lunch sacks and waste food /
+sd          B.48 utt2: {C and } they gave us a list of things that aren't re-, - /
+sd          B.48 utt3: {C and } it turns out it's not so bad.  /
+sd          B.48 utt4: [  I, + I ] get a lot of reports [ that, + that ] are covered in plastic or [ plas-, + ] like saran wrap or something, {D anyway,  /
+sd          B.48 utt5: } {C and then, } {F uh, } cardboard, there's a few, - /
+sd          B.48 utt6: it's interesting that [ we're, + we're ] recycling computer type paper. /  
+ 
+b          A.49 utt1:  Yeah. /  
+
+sd          B.50 utt1: [ {C And, } + {C and, } ] {F uh, } one day they'll pick up, {F uh, } - /
+sd          B.50 utt2: the cleaning people come through and they'll pick up recycled paper,  /
+sd          B.50 utt3: {C and then } the next day they'll pick up the other,  /
+%          B.50 utt4: {C so. } -/  
+
+b          A.51 utt1:  Oh. /  
+
+sd          B.52 utt1:  Depending on how much, - /
+sd          B.52 utt2: {D you know, } {C and } there's a lot of, {D actually, } it works pretty well,  /
+sd          B.52 utt3: {C and then } we have a, {F uh, } waste, {F uh, } cans for aluminum [ in the, + in the ] break areas at work. /  
+
+sd          A.53 utt1:  {D Well, } [ that's, + that's ] a really good idea, because, {F um, } {D like } our, {F uh, } fruit juices for some reason when they're in a can don't come with a deposit. /  
+
+b          B.54 utt1:  Yeah. /  
+ 
+sv          A.55 utt1:  {C And } they're thinking about putting a deposit on them, because [ pretty much you have to, + ] you're having a whole separate recyclable bin just for these fruit cans, where they're --   
+
+b          B.56 utt1:  Yeah, /  
+
++          A.57 utt1:  -- so much easier just to put a deposit on it, because [ most, + ] probably ninety percent of the aluminum cans do have deposits, because they're beer and soda, /
+sd          A.57 utt2: {C but } when they sell juice, it's some strange quirk in the law, you don't have to have a deposit on it.  /
+sd          A.57 utt3: {C And } even like, [ the, + a ] very fine juice jar does not have to have a deposit on it,  /
+sd          A.57 utt4: {C but } if it's got soda in it, it does.  /
+sd          A.57 utt5:  {C So, } it's a strange. /  
+
+sd          B.58 utt1:  That's an interesting distinction. /  
+
+b          A.59 utt1:  Yeah,  /
+sv          A.59 utt2: [ they should, + they should ] [  clean, + clear ] that up.  /
+sd          A.59 utt3:  It wouldn't take them much to put a stamp on the, {F uh, } juice cans as easily as the soda. /  
+ 
+b          B.60 utt1:  Yeah. /  
+
+sd          A.61 utt1: [ {C So, } + {C but } ] redemption centers are a big thing up here,  /
+sd          A.61 utt2: they get a penny a can they handle.  /
+sd          A.61 utt3:  They give you five cents when they return the can to the distributor.  /
+sv          A.61 utt4:  I think they {C either } get a penny {C or } two pennies a can. /   
+
+sd          B.62 utt1:  {D Well, } {D see, } {D well, } {D see, } those of us that don't have state income taxes, - /
+sd          B.62 utt2: yet --   
+
+b          A.63 utt1:  Yeah. /  
+
++          B.64 utt1:  -- that's the big debate here in Texas, that the legislature wants to put one in,  /
+sd          B.64 utt2: {C and, } it's interesting what people get upset about,  /
+sd          B.64 utt3: {F uh, } it really is. /  
+
+qy          A.65 utt1:  [ Is bot-, + is bottle ] return down there a heated debate? /  
+ 
+nn          B.66 utt1:  {D Well, } no,  /
+sd^e@            B.66 utt2: [ the, + the ] big issue [ was, + ] [ [ is, + is, ] + ] when we moved here a few years ago, is whether it was okay for you, to, {F uh, } drink beer while you were driving your pickup truck.    
+ 
+bk          A.67 utt1:  {F Oh, } yeah. /  
+
++@          B.68 utt1:  And throw it out at the in {F uh, } /  
+
+sd          A.69 utt1:  {D Well, } we, - /
+"          A.69 utt2: {D well, } here you can't drink, /  
+
+sd          B.70 utt1:  We're not civilized now, [ you can no longer, + you cannot ] drink beer and  drive,  /
+sd          B.70 utt2: [ {C but } -- +   
+
+%          A.71 utt1:  {D Well. } /  
+
++          B.72 utt1:  -- {C but } ] [ it was, + it was ] actually legal.  /  
+ 
+b          A.73 utt1:  Yes,  /
+sd          A.73 utt2: {D well, } I know, I was in Atlanta,  /
+sd          A.73 utt3: {C and } you could walk out the bar with your drink in your hand.  /
+sd(^q)          A.73 utt4:  {C But } here, Let me put that in a paper cup for you. /  
+
+x          B.74 utt1:  <Laughter>   
+
+sd          A.75 utt1:  {C So } that was strange.  /
+sv          A.75 utt2:  {C But, } I think, - /
+sv          A.75 utt3: if some people they have, - /
+sv(^q)          A.75 utt4: they say, {D well, } we're not going to start a can deposit because you have to get all [ these, + ] {F um, }  [ the, + the ] recycle center, you have to deal with the can and then you have [ to, + to ] recycle it,  /
+sv          A.75 utt5: {C and, } their problem's already solved because they can just come to states that do have bottle deposits --   
+
+b          B.76 utt1:  Yeah. /  
+
++          A.77 utt1:  -- see how they handle it,  /
+sd          A.77 utt2: {C and } see if it's a good way,  /
+sd          A.77 utt3: {C and then } do it that way.   Because, [ as, + ] like I say, people are making money on it. /  
+
+sv          B.78 utt1:  {D Well, } {D you know, } [ the other, +   
+ 
+sd          A.79 utt1:  The cans [ do, + ] are worth something. /  
+
++          B.80 utt1:  {D Well } the other ] thing is, it also [ [ is, + is a, ] + is ] [ a, + a ] good habit, {F uh, } to, {F uh, } just to conserve resources,  {D you know, } [ where they, + ] {D you know, } because you get in the habit of that, you think in terms [ [ [  of, + of, ] + {F uh, } of, ] + of ] things like saving / 

@@ -1,0 +1,106 @@
+3002.24,3003.91,Bro014-c3,s^cc,,,,and then just re-synthesize audio .
+3003.91,3005.08,Bro014-c3,s^cc,,,,and then send that .
+3005.98,3008.82,Bro014-c1,s^bu,1a,,,this is in order to use the s_r_i system or something .
+3009,3009.46,Bro014-c3,h,1b,,,um ==
+3009.13,3009.27,Bro014-c1,qy^d^g,1a+,,,right ?
+3010.28,3010.65,Bro014-c3,%--,,,,or ==
+3011.73,3016.59,Bro014-c3,s^arp,1b+,,,or even if i'm using our system i was thinking it might be easier to just re-synthesize the audio .
+3013.76,3014.03,Bro014-c1,qy^bh^rt,,,,yeah ?
+3017.13,3019.4,Bro014-c3,s^df,1b++,,,because then i could just feacalc as is .
+3019.4,3020.81,Bro014-c3,s^df,1b+++.2a,,,and i wouldn't have to change the code .
+3021.07,3021.46,Bro014-c1,s^bk,2b,,,oh o_k .
+3023.4,3023.69,Bro014-c1,s^bk,2b+,,,yeah .
+3023.86,3024.74,Bro014-c1,s.%--,,,,i mean it's ==
+3025.81,3026.3,Bro014-c1,fh,,,,um ==
+3027.01,3029.93,Bro014-c1,s,,,,certainly in a short - short-term this just sounds easier .
+3030.19,3030.39,Bro014-c3,b,,,,uh-huh .
+3030.87,3031.13,Bro014-c1,fh,,,,yeah .
+3031.13,3036.69,Bro014-c1,s^cs,3a,,,i mean longer-term if it's - if it turns out to be useful one - one might want to do something else .
+3035.66,3036.42,Bro014-c3,s^aa|s^na,3b,,,right | that's true .
+3036.69,3036.88,Bro014-c1,fh,,,,but ==
+3037.94,3045.19,Bro014-c1,fh|s,4a,,,uh | uh i mean in - in other words you - you may be putting other kinds of errors in from the re-synthesis process .
+3037.95,3039.12,Bro014-c3,fg,,,,but - e- - u- ==
+3044.46,3045.59,Bro014-c3,s^2,4b,,,from the re-synthesis .
+3045.59,3045.91,Bro014-c3,fh,,,,um ==
+3046.16,3047.1,Bro014-c1,b,,,,yeah .
+3046.25,3046.83,Bro014-c3,s^bk,4b+,,,o_- - o_k .
+3046.83,3048.71,Bro014-c3,s^no,4b++,,,i don't know anything about re-synthesis .
+3048.71,3050.31,Bro014-c3,qw,4b+++.5a,,,uh how likely do you think that is ?
+3051.37,3053.27,Bro014-c1,h|s,5b,,,uh | it depends what you - what you do .
+3054.3,3056.56,Bro014-c1,s.%--,5b+,,,i mean it's - it's - it's uh ==
+3057.93,3058.51,Bro014-c1,fh,,,,um ==
+3061.82,3062.11,Bro014-c1,s^no,5b++,,,don't know .
+3062.19,3064.79,Bro014-c1,s^na,,,,but anyway it sounds like a reasonable way to go for a - for an initial thing .
+3064.79,3067.62,Bro014-c1,s^cc,,,,and we can look at - at exactly what you end up doing .
+3067.62,3073.75,Bro014-c1,s^cs,6a,,,and - and then figure out if there's some - something that could be - be hurt by the end part of the process .
+3074.35,3074.7,Bro014-c3,s^bk,6b,,,o_k .
+3075.15,3075.29,Bro014-c1,b,,,,o_k .
+3080.16,3080.58,Bro014-c1,s.%--,7a,,,so that's ==
+3081.27,3082.96,Bro014-c3,s,7b.8a,,,that - yeah e- - that's it that's it .
+3081.64,3082.23,Bro014-c1,s^bk,8b,,,that was it huh .
+3082.23,3082.45,Bro014-c1,s^bk,8b+,,,o_k .
+3083.3,3083.55,Bro014-c1,b,,,,o_k .
+3083.31,3083.63,Bro014-c3,b,,,,uh-huh .
+3084.3,3086.3,Bro014-c1,qo,9a,,,um anything to add ?
+3085.62,3086.04,Bro014-c4,h,9b,,,um ==
+3086.85,3089.09,Bro014-c4,s,9b+,,,well i've been continuing reading .
+3089.09,3091.66,Bro014-c4,s,9b++,,,i went off on a little tangent this past week .
+3091.66,3092.15,Bro014-c4,fh,,,,um ==
+3092.76,3096.73,Bro014-c4,s^e,9b+++,,,looking at uh uh modulation s- - spectrum stuff .
+3097.21,3097.89,Bro014-c4,fh,,,,um ==
+3098.1,3102.46,Bro014-c4,s,9b++++,,,and - and learning a bit about what - what um - what it is .
+3102.92,3105.71,Bro014-c4,s,9b+++++,,,and uh the importance of it in speech recognition .
+3105.71,3115.73,Bro014-c4,s^rt,,,,and i found some - some uh neat papers um historical papers from um kanedera hermansky and arai .
+3116.19,3116.46,Bro014-c1,b,,,,yeah .
+3116.27,3125.76,Bro014-c4,s.%--,,,,and they - they did a lot of experiments where th- - where um they take speech and um e- - they modify the uh ==
+3125.98,3133.3,Bro014-c4,s,,,,they - they - they measure the relative importance of having different um portions of the modulation spectrum intact .
+3133.87,3143.35,Bro014-c4,s^rt,10a,,,and they find that the - the spectrum between one and sixteen hertz in the modulation is uh - is im- - important for speech recognition .
+3133.91,3134.22,Bro014-c1,b,,,,yeah .
+3143.84,3144.36,Bro014-c4,fh,,,,um ==
+3144.01,3144.3,Bro014-c1,s^bk,10b,,,sure .
+3144.3,3146.81,Bro014-c1,s,10b+.11a,,,i mean this sort of goes back to earlier stuff by drullman .
+3147.04,3147.38,Bro014-c4,s^aa,11b,,,yeah .
+3147.46,3152.37,Bro014-c1,s,10b++.12a,,,and - and uh the - the m_s_g features were sort of built up with this notion .
+3150.43,3150.61,Bro014-c4,s^aa,12b,,,right .
+3152.59,3157.8,Bro014-c1,s^bu,10b+++13a,,,but i guess i thought you had brought this up in the context of um targets somehow .
+3157.92,3158.68,Bro014-c4,s^bk,13b,,,right .
+3158.63,3159.16,Bro014-c1,s.%--,10b++++,,,but i- - m- ==
+3158.68,3159.29,Bro014-c4,fh,,,,um ==
+3159.29,3164.38,Bro014-c1,s^ng,10b+++++,,,i- - it's not - i mean they're sort of not in the same kind of category as say a phonetic target or a syllabic target .
+3159.94,3160.08,Bro014-c4,b,,,,mmm .
+3162.24,3162.55,Bro014-c4,b,,,,mm-hmm .
+3164.38,3164.83,Bro014-c1,s.%--,10b++++++,,,or a ==
+3164.79,3171.07,Bro014-c4,fg|s^cs,14a,,,um | i was thinking more like using them as - as the inputs to - to the detectors .
+3165.5,3166.99,Bro014-c1,s,10b+++++++,,,or a feature or something .
+3171.68,3172.12,Bro014-c1,s^bk,14b.15a,,,oh i see .
+3172.08,3172.29,Bro014-c4,s^bk,15b,,,yeah .
+3172.51,3174.16,Bro014-c1,s,14b+.16a,,,well that's sort of what m_s_g does .
+3174.4,3174.71,Bro014-c4,s^bk,16b,,,yeah .
+3174.96,3175.31,Bro014-c1,qy^d^f^g^rt,14b++,,,right ?
+3175.37,3175.69,Bro014-c4,b,,,,mm-hmm .
+3175.46,3176.1,Bro014-c1,s.%--,,,,so it's ==
+3177,3178.5,Bro014-c1,fh,,,,but - but uh ==
+3178.07,3178.29,Bro014-c4,%,,,,s- ==
+3179.25,3179.5,Bro014-c1,b,,,,yeah .
+3179.84,3180.12,Bro014-c4,b,,,,yeah .
+3181.06,3182.78,Bro014-c1,s,17a,,,anyway we'll talk more about it later .
+3182.19,3182.45,Bro014-c4,s^bk,17b,,,o_k .
+3182.45,3183.83,Bro014-c4,s^m^na,17b+,,,we can talk more about it later .
+3182.78,3182.99,Bro014-c1,fh,,,,yeah .
+3183.43,3183.67,Bro014-c1,b,,,,yeah .
+3184.38,3184.55,Bro014-c4,b,,,,yeah .
+3184.64,3184.78,Bro014-c1,b,,,,yeah .
+3186.83,3188.11,Bro014-c1,s.%-,,,,so maybe le- ==
+3187.08,3187.92,Bro014-c2,qy^cs^rt,18a,,,should we do digits ?
+3188.11,3188.99,Bro014-c1,s^co^na,18b,,,let's do digits .
+3192.75,3193.71,Bro014-c1,s^co,19a,,,let you - you start .
+3193.59,3194.17,Bro014-c3,s^bk,19b,,,oh o_k .
+3197.1,3245.43,Bro014-c3,,,,,DIGIT_TASK
+3247.15,3284.53,Bro014-c1,,,,,DIGIT_TASK
+3285.38,3323.29,Bro014-c2,,,,,DIGIT_TASK
+3324.57,3326.08,Bro014-c4,,,,,DIGIT_TASK
+3326.91,3327.37,Bro014-c4,z,,,,um ==
+3327.53,3366.63,Bro014-c4,,,,,DIGIT_TASK
+3368.32,3408.86,Bro014-c0,,,,,DIGIT_TASK
+3412.21,3463.43,Bro014-c5,,,,,DIGIT_TASK
+3469.3,3469.54,Bro014-c0,z,,,,right .

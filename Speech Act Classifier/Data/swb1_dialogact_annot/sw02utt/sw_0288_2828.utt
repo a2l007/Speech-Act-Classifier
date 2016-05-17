@@ -1,0 +1,318 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2828_1132_1078
+TOPIC#:		353
+DATE:		910508
+UTT_CODER:	mlg
+TRANSCRIBER:	nk
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:         None
+
+============================================================
+  
+
+qy          B.1 utt1:  <clicking> <music> {D Well, } Kathleen, do you believe that there is a problem with our public school system? /  
+
+na          A.2 utt1:  <static> I certainly do.  /
+sv          A.2 utt2: # {F Uh, } [ I think + # ...   
+
+qw          B.3 utt1:  # {C And } what do # you think that problem is? /  
+
++          A.4 utt1:  I think ] we have a lousy school system.  /
+sv          A.4 utt2: {C And } I think a lot of it has to do with the fact that we don't train our teachers very well.  /
+sv          A.4 utt3:  {C And then } we put the schools in the hands of professional educators instead of the teachers and the parents.  /
+sv          A.4 utt4: {C And then, }   
+
+x          B.5 utt1:  <thumping>.   
+
++          A.6 utt1:  {F oh, } [ we don't, + {F uh, } we put ] too much, {F uh, } responsibility on the teachers,   
+
+x          B.7 utt1:  <thumping>.   
+
++          A.8 utt1:  for things that are really not education.  /
+sv          A.8 utt2:  They're social services. /  
+
+sv          B.9 utt1:  {F Huh. }   That seems like you've thought this through quite a bit before. /  
+
+sd         A.10 utt1:  {D Well, } <laughter> [ I, + as a matter of fact, I ] just finished editing a book on the topic.  /
+sd          A.10 utt2:  {C So } I have some rather strong opinions. /  
+
+ ba         B.11 utt1:  That's interesting.  /
+%          B.11 utt2:  # Do you, <noise> <<sounds like a saw>> {F uh, } yourself # ... -/  
+
+sd          A.12 utt1:  # [ {C And, } +  {C and } ] I'm <clicking> sure they're # colored by what I've edited. /  
+
+qy          B.13 utt1:  <laughter> Do youself have children [ wi-, + ] who are or have been through the public school system? /  
+
+ny          A.14 utt1:  Yes,  /
+sd^e          A.14 utt2: I do.  /
+sd          A.14 utt3: {C And } I was not very happy with the results. /  
+
+bk          B.15 utt1:  I see.  /
+qw          B.15 utt2: {C So } if you were to improve it, what would you do to improve it? /  
+
+sd          A.16 utt1:  <Lipsmack> {D Well, } I think I would start [ with a -bout, + with  ] getting rid of about two-thirds of the administrators.    
+
+b          B.17 utt1:  Uh-huh. /  
+
++          A.18 utt1:  And all the <clicking> auxiliary personnel.   The school bureaucracy that exists mainly to perpetuate itself. /  
+
+b          B.19 utt1:  Right. /  
+
+ sd         A.20 utt1:  {C And then } I would [ provide, + {F uh, } use ] the money that we've paying them to, {F uh, } provide some special help in training and particularly, {F uh, } mentor teachers --   
+
+b          B.21 utt1:  Uh-huh. /  
+
++          A.22 utt1:  -- to work with the beginning teachers and the teachers who may have been at it a long time <laughter>  but have been making the same mistakes for a long # time <laughter>. # /  
+
+b          B.23 utt1:  # Sure. #  /
+b^r          B.23 utt2:  Sure. /  
+
+sd          A.24 utt1:  And then <swallowing> let them try some innovative things and # see what # --   
+
+b          B.25 utt1:  # Uh-huh. # /  
+
++          A.26 utt1:  -- works.   And then, {F uh, } have some sort of mechanism for passing that knowledge along to other teachers who could benefit from the same sorts of things.    
+
+b          B.27 utt1:  Uh-huh. /  
+
++          A.28 utt1:  And then from the parents side, have the parents support the school.  Get involved.  /
+sd          A.28 utt2: Pay attention to what's happening.   Talk to the teachers.   {F Uh, } talk  to their kids about school.  And support the institution  /
+%          A.28 utt3: {C and, }   a-, - /
+sd          A.28 utt4: instead of becoming adversaries to the teachers so that [ the, + {F uh, } the ] teacher's in the middle. -/  
+
+b          B.29 utt1:  Uh-huh.  /
+ba          B.29 utt2:  That's, {F uh, } some pretty good ideas.  /
+ad          B.29 utt3:  Why don't you do something with those # <laughter>? # /  
+
+sd          A.30 utt1:  # <laughter> {D Well, } # I've done about all I can do which is get the manuscript in good shape so that it can be published and read by a lot of people. /  
+
+b          B.31 utt1:  Uh-huh.  /
+ad          B.31 utt2:  {D Well, } you should, {F uh, } run for a school board position. /  
+
+ar          A.32 utt1:  {F Oh, } {D well. }  That I'm not so sure about.  /
+sd          A.32 utt2:  I've got a lot of things to keep me busy. /  
+
+b          B.33 utt1:  Uh-huh.  /
+%          B.33 utt2:  # That # ... -/  
+
+qy          A.34 utt1:  # Have # you done anything like that?  /
+qy^d          A.34 utt2: Anything political? /  
+
+no          B.35 utt1:  {D Well, } my mother was on the school board.    
+
+b          A.36 utt1:  Uh-huh. /  
+
++          B.37 utt1:  As we were coming up.  /
+sd          B.37 utt2: {C And, }  {F uh, } that, basically, is the extent to which [ our, + our ] family has been directly, {D you know, }  /
+sd          B.37 utt3: they've always been involved.  /
+sd          B.37 utt4:  My parents through [ the, + the  ] P T A organization.  /
+sd          B.37 utt5:  {C And } my mother was on the school board for eight years. /  
+
+b          A.38 utt1:  Uh-huh. /  
+
+sd          B.39 utt1:  {C But, }  {F uh, } [ that was, +  that's ] the extent of which I guess that's more [ than, + than ] some people, # less than others <laughter>. # /  
+
+sv          A.40 utt1:  # That's more than a lot <laughter>. # /  
+
+sd          B.41 utt1:  I would, {F uh, } tend to agree with you that there is a problem <swallowing>.  /
+sd          B.41 utt2: The methods of correcting it I haven't thought through quite to the detail which you have.  /
+sv          B.41 utt3:  {C But } I believe that there's definitely a basic perception and  image problem with the fact of even being a teacher. /  
+
+b          A.42 utt1:  Uh-huh. /  
+
+sd          B.43 utt1:  {C And } if there was a way [ to, + ] through the public mind, set that image to be a little higher esteem, [ a little, + {F uh, } {F uh, } a little ] more prestige to being a teacher. - /
+sd          B.43 utt2: {C And } with that, of course, {D you know, } you have to pay them [ a, + ] accordingly.  /
+sd          B.43 utt3:  If we paid them more, it would attract more [ the, + the ] higher educated people [ to, + to ] {C either } move into that field {C or } to continue in that field. /  
+
+b          A.44 utt1:  # Yeah. # /  
+
+sd          B.45 utt1:  # {C And # then } if you paid them more, you'd also be able to demand a higher quality product out of them. /  
+
+aa          A.46 utt1:  I think that's absolutely right.  /
+%          A.46 utt2: They, - /
+sv          A.46 utt3: the thing that worries me about that is that if you just raise salaries across the board, you're going to be,   
+
+x          B.47 utt1:  <noise>.   
+
++          A.48 utt1:  {F uh, } rewarding people who've been doing a lousy job.  [ And + ] --   
+
+b          B.49 utt1:  Sure. /  
+
++          A.50 utt1:  -- instead of getting the, {F uh, } improvement that we want. /  
+
+b          B.51 utt1:  Sure. /  
+
+sv          A.52 utt1:  {C So } we'd have to have some way to, {F uh, } reward and recognize the teachers who are doing a good job and give them [ a, +   
+
+x          B.53 utt1:  <breathing>.   
+
++          A.54 utt1:  a ] pat on the back and respect and some honor # and # --   
+
+b          B.55 utt1:  # Uh-huh. # /  
+
++          A.56 utt1:  -- more money. /  
+
+sv          B.57 utt1:  [ [ It, + unfortunately, it's  a, ] + {C and } it's a ] business or an occupation that the results are not as tangible --   
+
+b          A.58 utt1:  Uh-huh.  /
+b          A.58 utt2:  # Yeah.  /
+sv          A.58 utt3: [  It's, + it's ] hard to tell. # /  
+
++          B.59 utt1:  -- # as other ones  /
+sv          B.59 utt2: {C so } [ it's very, + # it's very ] difficult to say that this teacher is doing a better job than this other one, other than I guess [ how, +     {D you kn-, } how ] a person scores in the beginning before the class and then after the class.   /
+sd          B.59 utt3: {D You know, } if there's some gauge that they could make. -/  
+
+b          A.60 utt1:  Yeah. /  
+
+ sd         B.61 utt1:  {F Uh, } also, [ I've alw-, + I've ] thought [ around + ] about the idea of making teaching and the <noise>, - /
+sd          B.61 utt2: before you can <static> get a certificate, you have [ a, + a ] certain residency period.   [ So + ] much like a doctor.  /
+sd          B.61 utt3:  Maybe not the four years definitely.  /
+sd          B.61 utt4: {C But } some certain type [ of, + of ] position where you're overseen to begin with. /  
+
+b          A.62 utt1:  Yeah.  /
+ba          A.62 utt2:  {D Now } that's a very good suggestion. /  
+
+%          B.63 utt1:  <noise> {F Uh, } just something to, i-, - /
+sv          B.63 utt2: rather than throw someone [ in, + into ] that environment, {F uh, } {D you know, } it -- -/  
+
+aa          A.64 utt1:  Yeah.  /
+sv          A.64 utt2: [  I don't think --   
+
+%          B.65 utt1:  -- I thought that maybe something. -/  
+
++          A.66 utt1:  -- student, + I don't think student ] teaching is enough.  /
+sv          A.66 utt2:  # I think # --   
+
+b          B.67 utt1:  # Uh-huh. # /  
+
++          A.68 utt1:  -- that, at least what I used to observe in student teaching, was that some college kid who might not be all that bright to begin with, was thrown into a class room with a teacher who was harried and overworked and, {F uh, } had too many kids to handle and too many things to do and too many interruptions --   
+
+b          B.69 utt1:  Right. /  
+
++          A.70 utt1:  -- to pay much attention to the student teacher.  /
+sd          A.70 utt2:  {C And then } the student teacher didn't stay but about six weeks. /  
+
+b          B.71 utt1:  Uh-huh. /  
+
+sv          A.72 utt1:  {C So } there really was no time to try,   
+
+ x         B.73 utt1:  <noise>.   
+
++          A.74 utt1:  much of anything and get significant feedback that would help [ the, + the ] student teacher improve very much. /  
+
+b          B.75 utt1:  Sure.  /
+b^r          B.75 utt2: Sure. /  
+
+sv          A.76 utt1:  <Lipsmack> There are lots of things that could be done in that line, including things like video taping.  Because it wouldn't be hard with all the electronic equipment that's around these days to video tape, {F uh, } either a master teacher teaching a class so that then,   
+
+x          B.77 utt1:  <noise>.   
+
++          A.78 utt1:  students could watch that and, {F uh, } criticize the methods used [ and, + and ]  analyze it.  Figure out what worked and what didn't work. /  
+
+b          B.79 utt1:  Uh-huh. /  
+
+sd          A.80 utt1:  {C And then } also to video tape the student teachers so they could correct their own performance. -/  
+
+b          B.81 utt1:  Sure.  /
+b^r          B.81 utt2:  Sure.  /
+sv          B.81 utt3:  That's good as [ [ a, + a, ] +  a ] teaching aid.  /
+sd          B.81 utt4:  {C But } more you see these commercials that have Jimmy walking into class late and it happens that the teacher is an instructor who is in New York while Jimmy's # in Rome. # /  
+
+b          A.82 utt1:  # {F Huh. } # /  
+
+sd          B.83 utt1:  {C And, } {D you know, } the whole electronic # classroom idea. # /  
+
+x          A.84 utt1:  # <laughter>. #   
+
+sd          B.85 utt1:  I don't know if I # I'm [ in favor + # --   
+
+sv          A.86 utt1:  # I don't think # that's going to work. /  
+
++          B.87 utt1:  -- {D yeah, } in favor ] of, {D yeah, } - /
+sv          B.87 utt2: I think, especially in the younger years you need to have more of [ the, + the ] person contact rather than just the fact that your machine being fed information [ to, + to ] learn how to learn. /  
+
+b          A.88 utt1:  Yeah.  /
+sv          A.88 utt2: {D Well, } another thing I think would be helpful would be to have some sort [ of, + of ] say a national curriculum.  Because one of the problems with getting good textbooks is that we have such a fragmented system for, {F uh, } curriculums that the textbook makers produce a textbook that will sell in Texas and California.  /
+sv          A.88 utt3: {C And then } everybody else is stuck with that, regardless of what they want to teach. /  
+
+b          B.89 utt1:  Huh.  /
+qy          B.89 utt2:  # Is that # --   
+
+%          A.90 utt1:  # {C Because } it # ... -/  
+
++          B.91 utt1:  -- because that's where the two biggest markets are  /
+%          B.91 utt2: {C or? } -/  
+
+ng          A.92 utt1:  {D Well, } that's the two states that adopt on a state wide basis. /  
+
+bk          B.93 utt1:  I see. /  
+
+%          A.94 utt1:  {F Uh, } {C and so } it, {F uh, } - /
+sd          A.94 utt2: I used to work for a textbook publisher  /
+sd          A.94 utt3: {C and } it was absolutely clear that if you could get your book adopted by Texas, then you had a built-in market because there were only about three or four textbooks in each subject  /
+ sd         A.94 utt4: {C and } all you had to do is just get your share of those # adopted # --   
+
+b          B.95 utt1:  # Uh-huh. # /  
+
++          A.96 utt1:  -- in the individual school districts. /  
+
+b         B.97 utt1:  {F Huh. } /  
+
+sd          A.98 utt1:  {C And, } {D you know, } a third of the Texas market with its millions of kids is a heck of a lot of textbooks. /  
+
+b          B.99 utt1:  Sure.  /
+b^r          B.99 utt2:  Sure. /  
+
+sd          A.100 utt1:  {C And then } the states that {C either } don't adopt on a state wide basis or don't have as many kids, just have to follow along and take what Texas gets. /  
+
+b          B.101 utt1:  Right. /  
+
+sd          A.102 utt1:   ((   ))  California is the biggest for elementary schools  /
+sd          A.102 utt2: {C but } Texas, {F uh, } adopts state wide all the way through the twelfth grade. /  
+
+b          B.103 utt1:  I see.  /
+sv          B.103 utt2: {D Well, } definitely is a national problem [ if, + ] that they need to address. /  
+
+aa          A.104 utt1:  Yep.  /
+ba          A.104 utt2: Sure is. /  
+
+aa          B.105 utt1:  Definitely is. /  
+
+sd          A.106 utt1:  {C And } I hope maybe we're going to get somewhere with a little more attention being paid to it with, {F uh, } Reagan's, {F uh, } new education secretary [ and, + ] {F uh, } {D you know, } [ trying to do some, + {F uh, } trying to produce some ] new programs anyway. /  
+
+b          B.107 utt1:  Right,  /
+b^r          B.107 utt2: right. /  
+
+fa          A.108 utt1:  <talking> Excuse me. /  
+
+fc          B.109 utt1:  {D Well, } I've enjoyed speaking with you. /  
+
+fc          A.110 utt1:  I have got to go.  /
+fc          A.110 utt2:  I've got another line calling.  /
+fc          A.110 utt3:  Thanks. /  
+
+fc          B.111 utt1:  All righty.  /
+fc          B.111 utt2: # Good-bye <clicking> </music>. # /  
+
+fc          A.112 utt1:  # Bye <clicking> </static>. # / 

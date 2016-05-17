@@ -1,0 +1,34 @@
+Many meetings also include utterances that correspond to meeting
+participants reading digit strings.  In the final release, ONLY digits
+reading utterances are removed from the data.  Note that in some
+cases, there were nondigit utterances spoken within the digit-reading
+period that were not actual cases of digit reading.  In these cases, the
+utterances occurring in the digits reading portion of a meeting are
+kept in the DA transcripts.  They are marked with a 'z' label when
+they are related to the digit reading and not to the meeting itself.
+Otherwise they are labeled as usual.  An example is provided below:
+
+Example (from Bmr013.dadb):
+--------
+2627.55,2627.87,A,2627.55+2627.87+o_k,s^bk,Bmr013-c3,s^bk,34b,,okay .,o_k .
+2628.8,2663.03,D,,,Bmr013-c3,,,,DIGIT_TASK,DIGIT_TASK
+2664.47,2706.21,D,,,Bmr013-c4,,,,DIGIT_TASK,DIGIT_TASK
+2672.06,2674.21,A,2672.06+2673.7+s-|2673.7+2674.21+s-,z,Bmr013-c1,z,,,s- - s- ==,s- - s- ==
+2709.1,2742.7,D,,,Bmr013-c8,,,,DIGIT_TASK,DIGIT_TASK
+2744.27,2771,D,,,Bmr013-cb,,,,DIGIT_TASK,DIGIT_TASK
+2771.65,2772.88,A,2771.65+2771.94+pause|2771.94+2772.24+between|2772.24+2772.3+the|2772.3+2772.56+lines|2772.56+2772.88+remember,z,Bmr013-c8,z,,,pause between the lines remember ?,pause between the lines remember ?
+2774.91,2810.2,D,,,Bmr013-c2,,,,DIGIT_TASK,DIGIT_TASK
+
+
+As seen in the example above, digits portions are marked with a single
+line in the following way:
+
+<StartTime>,<EndTime>,D,,,<Meeting/ChannelInfo>,,,,DIGIT_TASK,DIGIT_TASK
+
+where:
+        <StartTime> is the beginning of the bleeped region.
+        <EndTime> is the end of the bleeped region.
+        <Meeting/ChannelInfo> is of the form described in the database format
+                              description file database-format.txt.
+
+Please note that digit reading lines have no DA label.

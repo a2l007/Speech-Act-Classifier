@@ -1,0 +1,119 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4736_1165_1677
+TOPIC#:		322
+DATE:		920418
+TRANSCRIBER:	nk
+UTT_CODER:	lsh
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:         Speaker A repeats a lot and mumbles.
+
+=========================================================================
+  
+
+sd          A.1 utt1:   ((   ))  Capital punishment, {F uh, } I guess, out in California [ is, + has ] had [ a lot of, + {F uh, } a lot of, ] {D you know, } discourse in the paper.  /
+sd          A.1 utt2:  {F Uh, } apparently, {D you know, } [ there's, + they haven't, ] {F uh, } executed anybody since nineteen sixty-seven, I believe. /  
+
+b          @B.2 utt1:  <Clicking> <rustling> {F Uh, } yeah.  /
+sd          @B.2 utt2: [ That's, + that's ] as far back as I can remember <laughter>.  /
+sd          @B.2 utt3:  # {D Well, } that's before # --   
+
+b          A.3 utt1:  # Yeah,  /
+%          A.3 utt2: they, # -/  
+
++          B.4 utt1:  -- my time actually. /  
+
+sd           A.5 utt1:  {D Well, } [ [ [ I, +  we ] were, + [ we, + {F uh, } we  ] just started,  ] + we lived  ] in Redwood City when we were out there. /  
+
+b          B.6 utt1:  Uh-huh. /  
+
+sd           A.7 utt1:  [ {C And, } + {F uh, } {C and } ] we found that, {F uh } <throat_clearing> {D you know, } it was a very liberal kind of community.   /
+sv          A.7 utt2: {C But } [ the, + ] {F uh, } [ I, + I ] really feel [ that, + that ] the law enforcement community, {F uh, } {D you know, } puts these people behind bars  /
+sv          A.7 utt3: {C and then } [ [ [ they, + they, ] + {F uh, } {F uh, } {D you know, } lawyers, ] + these lawyer groups ] get together  /
+sv          A.7 utt4: {C and } [ they, + {F uh, } they, ] I think, extend beyond the normal, {F uh, } appeal process.   {F Uh, } {D you know, } and just drag [ these, + this ] guy, {F uh, } [ his, + his, ] {F uh, } ultimate, {F uh, } demise out for ten or fifteen years.  /
+sv          A.7 utt5:  {F Uh, } {C and } [ I, + I ] think [ that, + {F uh, } that ] there's something that has to be changed in the system [ to, + to ] do that.  /
+sv          A.7 utt6: I think capital punishment, {F uh, } {F uh, } was [ or + ] probably stringent enough  /
+sv          A.7 utt7: {C but } I think the appeal process is really getting in the way. /  
+
+b          B.8 utt1:  <Music> Uh-huh. /  
+
+qy          A.9 utt1:  [ Do, + do ] you feel as though there should be, {F uh, } <throat_clearing>  [ more, + {F uh, } [ was + ] {E [ or, + or ] } more,  ]  {F uh, } you might say transgressions that would be enforceable [ by, + {F uh, } by, ] {F uh, } {F uh, } capital punishment? /  
+
+sv          B.10 utt1:  {D Well } I think that currently the way the law stands isn't so much that the laws are enforceable or not,  /
+sv          B.10 utt2: it's more they're not enforcing the death penalty itself.  /
+sv(^q)      B.10 utt3:  It's at that point where they're saying {D like } here [ you're, + you're ] going on death row  /
+^q          B.10 utt4: {C but } you'll stay there for twenty years. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sv          B.12 utt1:  {C And } nothing is being done about it.  /
+sv          B.12 utt2:  {F Uh, } the laws exist and ((   ))  are frequently upheld [ [ in, + in, ] + {F uh, } in  ] Appeals Court just because of technicalities <swallowing> and because of maybe small little holes that their defending attorney can find.  /
+sv          B.12 utt3: {C And } [ it's, + it's ] really getting out of hand ((   ))  in many states. /  
+
+sv          A.13 utt1:  {D Well, } <throat_clearing> the term technicality ((   )) . - /
+sv          A.13 utt2: The law enforcement community,   
+
+x          B.14 utt1:  <Rustling>.   
+
++          A.15 utt1:  {F uh, } {F uh, } {D you know, } [ has to, + has to ] separate the difference between somebody who is being set up in which, {F uh, } grievous <<mispronounced>> acts are done [ [ [ to, + {F uh, } ] + to, ] + {D you know, } to ] get somebody into [ a, + a ] situation where they're going to be guilty [ of, + of ] a crime. /  
+
+x          B.16 utt1:  <Noise>.   
+
+sv          A.17 utt1:  [ Or whether, + {F uh, } [ an-, + and  ] whether ] the rights of that individual [ are been, + have been, ] {D you know, } impuned.  /
+sv          A.17 utt2:  {F Uh, } [ {C but } + <throat_clearing> {C or } ] whether [ there's just, + {D you know, } a policeman has just ] made [ [ [ a, + {F uh, } <noise> a, ] + {D you know, } a ]  non,  + a noncritical error, ] though be it not the right way to do it - /
+sv          A.17 utt3: [ {C but, } +  {C but, ] } {D you know, } [ the, + the ] merits of the case in terms of, {D you know, }      
+
+x          B.18 utt1:  <Talking.>   
+
++          A.19 utt1:  the guy was a law breaker, as being supportive.  /
+h           A.19 utt2:  {D Now, } [ I, + I'm, ] [ [ a-, + a-, ] + at ] this juncture  /
+sd          A.19 utt3: [ I, + {D you know, } [ I'm, + I'm  ] ] not sure, {D you know, } what constitutes [ a, + a ] technicality.  /
+sv          A.19 utt4:  {D You know, } [ that, + that's ] what  all [ c-, + ]  [ these, + these ] hearings are about  /
+sv          A.19 utt5: {C and } that's what all these, {D you know, } court cases are about.  /
+sd           A.19 utt6:  {E I mean } [ [ our, + {F uh, } our, ] + our ]  glorious, {F uh, } {D you know, } mayor here in Washington is six days away from getting [ out of, + out of ] the can  /
+sd          A.19 utt7: {C and, }  {F uh, } <throat_clearing> {D you know, } [ he, + he ] tried to appeal his conviction.  {F Uh, }  /
+sd          A.19 utt8: {C and, } {D you know, } it didn't work.  /
+sv          A.19 utt9:  {C But } be that as it may, everybody who got enough money will pump the appeal process dry.  /
+sd          A.19 utt10:  {F Uh, } [ in, + in ] the old days, {D you know, } and say round about times of battle of Hastings, {D you know, } and the (( villages ))  if you were a transgressor, [ they, + they ] either, {D you know, } drove you out in the woods  or you became a ward of somebody  /
+sd          A.19 utt11: {C and } [ he, + you ] were his slave.   /
+sd          A.19 utt12: {C And } if he didn't like what you did, he killed you. /  
+
+x          B.20 utt1:  <Noise>.   
+
+sv          A.21 utt1:  {C And } [ that has, + that's ] pretty effective. /
+sv          A.21 utt2: {F Uh, } {D you know, } it's not good for civil rights, I guess,  /
+sv          A.21 utt3: {C but } it's pretty effective in that, {D you know, } you've got to get along in the community  /
+sv          A.21 utt4: {C and } if you don't you'll perish.  Either by the hand of [ [ your, + your, ] + your ] master or by being pushed out in the woods.  /
+sv          A.21 utt5:  {D So, } [ [ I, + I, ] + {E I mean } ] [ as, + as ] man has gotten more complicated so all of the, {F uh, } imaginations to, {F uh, } {D you know, } protect him [ from, + from ] being, {F uh, } dumped on by, {F uh, } civilian authority [ [ in, + in so-, ] + in criminal actions, ] especially, {D you know,  } murder cases and that sort of thing. /  
+
+sv           B.22 utt1: {D Well, }  [ it seems like <cough>, + {D well } [ it, + it  ] seems as if  ] in the past typically <talking> there have been a lot of cases of people being wrongly tried or wrongly punished,  /
+sv          B.22 utt2: {C and } the whole idea behind the  current criminal process system <swallowing> is to protect those who (( actually ))  didn't the crimes,  albeit it seems that we are failing [ in that, + in that ] ultimate goal because there are times when people who are guilty are getting off.  /
+sd          B.22 utt3:  {F Um, } for instance, {F um } there's a case a few years back where, {F uh, } <swallowing> [ someone, + {F uh, } someone ]  who's [ [ being convicted for, + was under a tri-, ] + was going to trial for ] murder, was let off because of a technicality in that.  [ The of-, + the arresting officer, ] {F uh, } did not read the defendant their rights. /  
+
+b          A.23 utt1:  Uh-huh. /  
+
+sd          B.24 utt1:  {C And } where his,     
+
+x          A.25 utt1:  <Throat_clearing>.   
+
++          B.26 utt1:  old evidence was there, the witnesses were there, [ the, + ] everything was conclusively pointing to this individual yet </music>, -/ 

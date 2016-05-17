@@ -1,0 +1,540 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2658_1252_1235
+TOPIC#:		366
+DATE:		910424
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:        Speaker A had background noise in there.  I believe
+it was a radio or television in the background. 
+
+============================================================================
+  
+
+o          A.1 utt1:  {F Uh, } I guess I've had to return something  /
+sd          A.1 utt2: {C but } [ I'm  ca-, +  can't ] decide,  /
+sd          A.1 utt3: mostly it's been because I didn't like the color, /  
+
+b          B.2 utt1:  # Uh-huh.  # /  
+
+sd          A.3 utt1:  # {C or, }  # {F um, } I'm not sure whether I've had to return that many things, {F uh, } /  
+
+sd          B.4 utt1:  {D Well, } I'm having a problem right now with a computer that we've just returned. /  
+
+bh          A.5 utt1:  {F Oh, } are you? /  
+
+sd          B.6 utt1:  {D So, }  for me it's actually a pretty good topic. /  
+
+b          A.7 utt1:  Okay,  /
+ba          A.7 utt2: good,  /
+ad          A.7 utt3: {C so, }  we'll talk about that some. /  
+
+aa          B.8 utt1:  Yeah,  /
+oo          B.8 utt2: {D well, } we could talk about that,  /
+oo          B.8 utt3: {C and then } we could talk a bit about, {F um, } just quality of products in general,    
+
+b          A.9 utt1:  # Right.  # /  
+
++          B.10 utt1:  # if # [ y-, + they're ] better or worse like if they last longer or something like that. /  
+
+aa          A.11 utt1:  Okay,  /
+ad          A.11 utt2: I'm going to let you kind of lead the pack,    
+
+x          B.12 utt1:  # <Laughter>.  #   
+
++          A.13 utt1:  # because # you sound like you're, - /
+%          A.13 utt2: I-, - /
+^h          A.13 utt3: let me tell you just a little bit about myself.  /
+sd          A.13 utt4: [ I, + for years I ] did all that shopping and whatnot,  /
+sd          A.13 utt5: {C but } for the last four or five years I've had eye problem, /  
+
+b          B.14 utt1:  # Oh.  # /  
+
+sd          A.15 utt1:  # {C and } # I've had two cornea transplants.  /
+sd          A.15 utt2:  Shopping is no fun anymore <laughter>. /  
+
+ba          B.16 utt1:  I can imagine.   /
+%          B.16 utt2: {D Well, } {D see } I don't, -/  
+
+sd          A.17 utt1:  I can't see good enough, {D you know, }  /
+sd          A.17 utt2: {C and, }  {F uh, } it's hard to tell what I'm doing,  /
+sd          A.17 utt3: {C and } it's just aggrav-, -/  
+
+qy^d          B.18 utt1:  You can't read labels  /
+%          B.18 utt2: {C and } you can't, -/  
+
+sd          A.19 utt1:  {F Oh, } I just thought of something we have to return <laughter>. /  
+
+ba          B.20 utt1:  Good.  /
+ba          B.20 utt2:  There you go. /  
+
+b          A.21 utt1:  All right.  /
+sv          A.21 utt2: [ It, + it'll ] come to us,  /
+qy          A.21 utt3: okay? <laughter>. /  
+
+na^m          B.22 utt1:  Okay. /  
+
+qy^t          A.23 utt1:  Are you ready? /  
+
+ny          B.24 utt1:  Yeah. /  
+
+b          A.25 utt1:  Laurie, all right <beep>. /  
+
+b          @B.26 utt1:  Right. /  
+
+b          A.27 utt1:  All right, {F uh, }  /
+ad          A.27 utt2: tell me about your computer, Laurie,  /
+sv          A.27 utt3: I think that sounds fascinating. /  
+
+sd          B.28 utt1:  {D Well, } we bought a computer because my husband needed to use it to do some work for a consulting project,  /
+sd          B.28 utt2: {C and } we called up the company  and asked them details on it.  /
+sd          B.28 utt3: We bought [ it  sort of, (( your )) + ]  not a name brand because the clones are so much cheaper. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sd          B.30 utt1:  {C And } we called up the company that somebody else we knew had dealt with,  /
+sd          B.30 utt2: {C and } they were very happy with the system,  /
+sd          B.30 utt3: {C and } they felt they've gotten a good price.  /
+sd          B.30 utt4: {C And } we went in,  /
+sd          B.30 utt5: we explained what we needed  /
+ny          B.30 utt6: {C and }  (( yes ))  /
+sd          B.30 utt7:  we had to go across the George Washington Bridge to New Jersey [ to get, + to meet ] these people. /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sd          B.32 utt1:  {C And so } we went there,  /
+sd          B.32 utt2: we told them about the stuff  /
+sd          B.32 utt3: {C and } the guy said, {F uh, } that the computer would fit our needs.   /
+%          B.32 utt4: {C And }  we <breathing>, - /
+qy^d          B.32 utt5: these things won't make any sense to you probably  /
+sd          B.32 utt6: {C but } he told us  [ there were, + ]   
+
+b          A.33 utt1:  # Uh-huh.  # /  
+
++          B.34 utt1:  # we # need user positions to put our own equipment in the computer. /  
+
+b          A.35 utt1:  {F Oh, } yes. /  
+
+sd          B.36 utt1:  {C And } it's called a user boards  /
+sd          B.36 utt2: {C or } slots is what it's called. /  
+
+b          A.37 utt1:  Uh-huh. /  
+
+sd          B.38 utt1:  {C And } he told us there's [ [ two sixteen bit slots and two eight bit, + {E sorry, } two six-, ] + four sixteen bit slots and two eight bit ] slots available for the user,  /
+sd          B.38 utt2: {C and } we can put full size cards in there.   /
+sd(^q)          B.38 utt3: {C And so } we said, great, {D you know, }  /
+^q          B.38 utt4: we'll buy it,  /
+sd          B.38 utt5: {C and } we put in our order.   /
+sd          B.38 utt6: {C And } a week later we went back and  picked up the computer.   /
+sd          B.38 utt7:  {C And then } we got it home and tried to put our own board in it  /
+sd          B.38 utt8: {C and } there's only one slot we could put it in. /  
+
+ba          A.39 utt1:  {F Oh, } lovely. /  
+
+sd          B.40 utt1:  {C And } at this point we only have one board  /
+sd          B.40 utt2: {C so } it wasn't so bad  /
+sd          B.40 utt3: {C so } we used it a bit,  /
+sd          B.40 utt4: {C but } we tried to figure out whether we could put three in because we really need to be able to put at least three in. /  
+
+b          A.41 utt1:  {F Huh. } /  
+
+%          B.42 utt1:  {C And, } -/  
+
+ba          A.43 utt1:   (( {F Oh, } no )) ,  /
+qy^d          A.43 utt2: the computer was supposed to have two. /  
+
+nd          B.44 utt1:  {D Well, } it has them  /
+sd          B.44 utt2: {C but } the problem is that you can't put the type of card that we need to put in it, in it.    
+
+b          A.45 utt1:  {F Oh, } I see. /  
+
++          B.46 utt1:  {C And } even though they told us in advance that you could,  /
+sd          B.46 utt2: they told us there would be no problem because, {D you know, }   
+
+b          A.47 utt1:  # I see.  # /  
+
++          B.48 utt1:  # the salesman # just doesn't really know. /  
+
+sv          A.49 utt1:  In some ways it has more to do with the people who sold it.  /
+sv          A.49 utt2:  They probably didn't know what they were talking about. /  
+
+aa          B.50 utt1:  Right.  /
+aa          B.50 utt2: That's completely it.  /
+sd          B.50 utt3:  The salesman didn't know. /  
+
+b          A.51 utt1:  Right. /  
+
+sd          B.52 utt1:  {C So, } we went back in,  /
+sd          B.52 utt2: {C and } we struck an agreement with the people  /
+sd          B.52 utt3: (( who said ))  change the casing it comes in so that we could put in extra boards. /  
+
+b          A.53 utt1:  {F Huh. } /  
+
+b          B.54 utt1:  Okay.  /
+sd          B.54 utt2:  {C So } they did that.   /
+sd(^q)          B.54 utt3: {C And } we said are you sure this will work,  /
+^q          B.54 utt4: we don't want you to go through the work and then find out that this doesn't really work anyway, and et cetera,  /
+sd          B.54 utt5: {C and } [ they're, + they were ] doing it at their own costs.   /
+sd(^q)          B.54 utt6:  [ {C And } + {C so }  ] we said, fine.  /
+sd          B.54 utt7:  {C And } we went back  /
+sd          B.54 utt8: {C and } we talked to the  ((   ))  person a second time  and things like that,  /
+sd          B.54 utt9: {C and then } [ we come, + we get ] the computer home,  /
+sd          B.54 utt10: my husband goes to pick it up last week  /
+sd          B.54 utt11: {C and } we couldn't go get it sooner because I just had the baby,  /
+sd          B.54 utt12: {C and } <laughter>,   
+
+b          A.55 utt1:  # Uh-huh.  # /  
+
++          B.56 utt1:  # {D you # know, } life's just a little bit complicated. /  
+
+b          A.57 utt1:   (( Uh-huh )) . /  
+
+sd          B.58 utt1:  {C And, }  {F uh, } he goes and gets it, brings it home,  /
+sd          B.58 utt2: first of all they're missing components of it like cables so you can't really test it out.   /
+sd          B.58 utt3: {C And then } second thing, we still can't put the boards in,   
+
+ba          A.59 utt1:  # {F Oh, }  (( jeez )) . # /  
+
++          B.60 utt1:  # because they # have other things blocking where we need to do it. /  
+
+b          A.61 utt1:  {F Huh. } /  
+
+sd          B.62 utt1:  {C And } {D see } now we're dealing with having to bring it back again  /
+sd          B.62 utt2: {C and } they say they can, {D you know, } do something different and change some connectors  /
+sd          B.62 utt3: {C and } we hope so,  /
+sd          B.62 utt4: {C but } it's a hassle. /  
+
+aa          A.63 utt1:  Yeah,  /
+aa          A.63 utt2: it really is. /  
+
+sv          B.64 utt1:   [ (( You kn-, )) + you know, ] it's just this problem with sales people just not knowing what goes on. /  
+
+aa          A.65 utt1:  Right,  /
+sv          A.65 utt2: [ {C and, } + {C and so } ] much time goes past before you finally get any kind of satisfaction. /  
+
+b          B.66 utt1:  Right. /  
+
+sv          A.67 utt1:  I think that's the worst part.  /
+%          A.67 utt2:  I, -/  
+
+sd          B.68 utt1:  {C So, } {D well, } {D actually } some things are pretty good with that because I put it on a gold credit card  /
+sd          B.68 utt2: {C and } I just called the credit card company and explained to them the situation,  /
+sd(^q)          B.68 utt3: {C and } they said, {D well, } you don't have to pay for it yet. /  
+
+qy^g          A.69 utt1:  {D Now } that's an advantage, isn't it? /  
+
+ny          B.70 utt1:  Yes. /  
+
+sv          A.71 utt1:  It really is.  /
+sv          A.71 utt2:  I think, {F uh, } {F uh, } there's a lot not to be said for credit  /
+sv          A.71 utt3: {C but } that's one thing to be said for credit.  /
+sv          A.71 utt4:  [ It, + (( how )) ,   
+
+b          B.72 utt1:  # Yeah.  # /  
+
++          A.73 utt1:  # it # ] gets you some muscle where you need it. /  
+
+aa          B.74 utt1:  Right.  /
+%          B.74 utt2:  [ {C So, } + {C and so, } ] {D you know, } -/  
+
+sv          A.75 utt1:  {C And } I think that's really important. /  
+
+sd(^q)          B.76 utt1:  {D Well, } {C because } these guys if they, {F um, } give us a hard time we're going to say,  you, look, {D you know, }  /
+^q          B.76 utt2: [ if, + if you ] can't fix this to our satisfaction,   
+
+b          A.77 utt1:  # Yeah.  # /  
+
++          B.78 utt1:  # we're # just returning the computer. /  
+
+aa          A.79 utt1:  That's right.  /
+aa^r          A.79 utt2:  <<Very faint>> That's right. /  
+
+%          B.80 utt1:  {C And } if we do that, - /
+sd          B.80 utt2: I just tell the credit card company, don't pay the charge,   
+
+aa          A.81 utt1:  # That's right.  # /  
+
++          B.82 utt1:  # even though # they've already paid it. /  
+
+aa          A.83 utt1:   (( No )) . /  
+
+sd          B.84 utt1:  {C But } they'll just, {D you know, }   
+
+aa          A.85 utt1:  # Yeah,  /
+aa          A.85 utt2: they will, # /  
+
++          B.86 utt1:  # undo the credit # that they did to them. /  
+
+aa          A.87 utt1:  That's right.  /
+aa          A.87 utt2: They will, /  
+
+b          B.88 utt1:  # Yeah.  # /  
+
+sv          A.89 utt1:  # they # will put the kind of clout on them that you can't really do. /  
+
+b          B.90 utt1:  Right. /  
+
+b          A.91 utt1:  Yeah. /  
+
+%          B.92 utt1:  {C And, } -/  
+
+%          A.93 utt1:  We, - /
+sd          A.93 utt2: (( Hal ))  bought me, {F uh, } {F uh, } small, {F uh, } {D well, } {F uh, } {F uh, } <breathing>, little jam box kind of thing  /
+%          A.93 utt3:  {C so } I'd, - /
+sd          A.93 utt4: [ my, + I have my  ] ninety-three year old mother living with us,  /
+sd          A.93 utt5: {C and so } [ I, + she ] doesn't remember anything  /
+sd          A.93 utt6: {C but } to keep her entertained, music and some of these things do help. /  
+
+b          B.94 utt1:  Uh-huh. /  
+
+sd          A.95 utt1:  {C And } I thought {D well, } if I had, {F uh, } [ a nic-, + a nice ] little, {F um, } tape recorder, {D you know, } so that I could put some good music on in there for her every once in a while.   And then also so that [ [ I can, {F uh, } {F uh, } copy, {F uh, } parts off, + I, ] + I do ] some musicals and things like this and if I can copy sections off that I can use someplace  [ so + ] I figured {D well } this will be good. /  
+
+b          B.96 utt1:  Uh-huh. /  
+
+sd          A.97 utt1:  {D Well, } [ the first, + {F uh, } {F uh, } the first ] time I turned it on, {F uh, } I was recording,  /
+sd          A.97 utt2: {C and } the next thing I knew the tape was chewed up in the,   
+
+ba          B.98 utt1:  # {F Oh, } no.  # /  
+
++          A.99 utt1:  # thing.  /
+%          A.99 utt2:  Okay, #  /
+sd          A.99 utt3: {C so } after that then [ you couldn't get a + <throat_clearing>, you couldn't get a ] tape to play at the right speed in that side. /  
+
+b          B.100 utt1:  Uh-huh. /  
+
+sd          A.101 utt1:  {C And then } on the other side, [ when I, + when [ I, {F uh, } + I [ loa-, + loaned ] ] ] it to my daughter the other day to take it over [ to, + {F uh, } to, ] {F uh, } videotaping they were doing,  /
+sd          A.101 utt2: {C and } she says it's wrong too because the little thing pokes out too far,  /
+sd          A.101 utt3: {C and so } [ you can't, + you can't ] get it to run [ the right, + the right ] way,   
+
+b          B.102 utt1:  # Uh-huh.  # /  
+
++          A.103 utt1:  # either, #  /
+%          A.103 utt2: {C so, } {F uh, } -/  
+
+qw          B.104 utt1:  What brand is it?  /
+qy          B.104 utt2: Do you know? /  
+
+b          A.105 utt1:  Yeah,  /
+^h          A.105 utt2: {C so } [ I, + I ] wish I could tell you  /
+ng          A.105 utt3: I really don't know which brand it is.  /
+%          A.105 utt4: (( It's )) , -/  
+
+sd          B.106 utt1:  {C But } I was wondering {D like, }  {D you know }  /
+sd          B.106 utt2: in our case where we knew we were buying a copy - /
+sd          B.106 utt3: we weren't buying,   
+
+b          A.107 utt1:  # Yeah.  # /  
+
++          B.108 utt1:  # on # I B M P C  /
+qy^d          B.108 utt2: {C and } I was wondering if you, -/  
+
+nn          A.109 utt1:  No,  /
+sd^e          A.109 utt2: [ I think this is a, + I think this is maybe a ] name brand  /
+sv          A.109 utt3: {C and } I suspect that it's probably <noise>, just a fluke, {D you know. }  /
+sd          A.109 utt4:  I have the papers and  everything  /
+sd          A.109 utt5: {C and } we're going to [ get, + ] just take it back  /
+%          A.109 utt6: {C but, }  {F uh, } -/  
+
+b          B.110 utt1:  Uh-huh.  /
+qy          B.110 utt2:  Do you buy it at some major store? /  
+
+ny          A.111 utt1:  Yeah,  /
+sd^e          A.111 utt2: [ [ [ I think [ just, + {F uh, } just, ] {F uh, } one of the [ maj-, + major, ] + I think it was a, ] + {D you know, }  I don't, ] + I think ] it was, {F uh, } {D you know, } like a Highlands or something like this. /  
+
+b^m          B.112 utt1:  Highlands <laughter>,  /
+sd          B.112 utt2:   ((   ))  chain down there that I don't know up here. /  
+
+qy          A.113 utt1:  Do they have Highlands up there? /  
+
+nn          B.114 utt1:  Nope. /  
+
+bh          A.115 utt1:  Don't they?  /
+sd          A.115 utt2: {D Well, } this [ [ is, + is ] + was ] a regular, {F uh, } electronics store, {D you know. } /  
+
+b          B.116 utt1:  Uh-huh. /  
+
+sv          A.117 utt1:  {C So, } [ I don't think, + I don't think ] there will be too much problem  /
+sd          A.117 utt2: {C but } [ I, + I ] guess I'm not sure whether I think things are not made as well.  /
+sv          A.117 utt3:  I think they deliberately sometimes, {F um, } -/  
+
+sv          B.118 utt1:  I think a lot of things are not made as well. /  
+
+bh          A.119 utt1:  Don't you?  /
+qw          A.119 utt2: [ [ What, + what, for instance, ] + what are you, ] -/  
+
+%          B.120 utt1:  {F Um, } {F oh, }  wel-, - /
+sd          B.120 utt2: of course, it's hard to think of an exact example, /  
+
+b          A.121 utt1:  # Yeah.  # /  
+
+%          B.122 utt1:  # {C but } # [ I think that, + {F um, }   
+
+ba          A.123 utt1:  That's  (( good ))  /
+%          A.123 utt2: they're getting a kind of a, attitude of,   
+
++          B.124 utt1:  # I  jus-, # ] -/  
+
++          A.125 utt1:  # not, # -/  
+
+b          B.126 utt1:  yeah,  /
+sd          B.126 utt2: [ (( I just have )) , + {D well, } I like ] electronic stuff,    
+
+b          A.127 utt1:  # Yeah.  # /  
+
++          B.128 utt1:  # {D you # know }  /
+sd          B.128 utt2: for one thing.  I know their, work, {D you know, }  /
+sv          B.128 utt3: cars I think are not made,   
+
+%          A.129 utt1:  # {D Well, } # -/  
+
++          B.130 utt1:  # as # well as they could be. /  
+
+aa          A.131 utt1:  Yeah.  /
+aa^r          A.131 utt2: Yeah, /  
+
+%          B.132 utt1:  # {F Um, } # /  
+
+aa          A.133 utt1:  # I # think that's right.  /
+%          A.133 utt2:  The fact that, -/  
+
+%          B.134 utt1:  {C because }   (( I )) , - /
+sv          B.134 utt2: they want people to replace it after,   
+
+b          A.135 utt1:  # Right.  # /  
+
++          B.136 utt1:  # a # couple of years. /  
+
+sv          A.137 utt1:  The fact [ that they, + that they ] have competition with the Japanese and  whatnot sometimes, {F uh, } dwells on a fact that, {D you know, } {F uh, } - /
+sd          A.137 utt2: [ I've had, + I've known ] people who have had Toyotas for years that have had almost no repair work to do on them. /  
+
+b          B.138 utt1:  Uh-huh. /  
+
+sv          A.139 utt1:  {D Well, } they may cost a little more,  /
+sv          A.139 utt2: {C but } they don't have to take them to the shop every other day. /  
+
+aa          B.140 utt1:  Yeah,  /
+sd          B.140 utt2: I had a Toyota  /
+sd          B.140 utt3: {C and } I loved it. /  
+
+b          A.141 utt1:  Yeah. /  
+
+sd          B.142 utt1:  My Toyota did,   
+
+sv          A.143 utt1:  # [ It does the, # +   
+
++          B.144 utt1:  # really well.  # /  
+
++          A.145 utt1:   (( it ))  did a ] good job,  /
+sv          A.145 utt2: {C so, } part of it is that we need to develop more [ of a, + of a ] pride [ in, + in, ] {F uh, } the kinds of things we do so we make them better. /  
+
+ba          B.146 utt1:  Good.  /
+aa          B.146 utt2:  Yeah. /  
+
+sv          A.147 utt1:  {C And } it kind of has to start from the top [ [ and, + and go clea-, ] + or from the bottom maybe and go clear ] up.  /
+%          A.147 utt2:  People, -/  
+
+sv          B.148 utt1:  {D Well, } I think part of the problem comes in sort of shoddy workmanship.  /
+sv          B.148 utt2:  The people just don't care about,   
+
+aa          A.149 utt1:  # No.  # /  
+
++          B.150 utt1:  # what # they're doing. /  
+
+b          A.151 utt1:  Yeah. /  
+
+%          B.152 utt1:  {D You know, } the whole, - /
+sv          B.152 utt2: nobody cares, [ no, + nobody's, ]   
+
+b          A.153 utt1:  # Yeah.  # /  
+
++          B.154 utt1:  # really # paying, -/  
+
+sv(^q)          A.155 utt1: Attitude [ is, + is ] just get me my dollar so I can go do what I want to do, and, #  ((   ))  on, # /  
+
+aa          B.156 utt1:  # Right,  /
+^q          B.156 utt2: give me # my paycheck, so I can go home. /  
+
+sv(^q)          A.157 utt1:  what I'm doing, right.  /
+sv          A.157 utt2:  I think that's too bad.  /
+sv          A.157 utt3:  {C And } it's a shame too because, {F uh, } when you get right down to it most things, [ there isn't any, + ] if you do a good job, nobody can pay you enough <laughter>.  /
+sv          A.157 utt4:  (( There ))  isn't,   
+
+b          B.158 utt1:  # Yeah.  # /  
+
++          A.159 utt1:  # any # way to get paid enough.  /
+sv          A.159 utt2:  {C But } if you do a good job, you feel enough satisfaction,  /
+sv          A.159 utt3: {C so } whatever you're paid is enough. /  
+
+aa          B.160 utt1:  Yeah,  /
+%          B.160 utt2: {C and } also I think, - /
+sd          B.160 utt3: {D well, } I do research  /
+sd          B.160 utt4: {C and so } I'm used to sort of being underpaid for whatever work gets done. /  
+
+b          A.161 utt1:  Uh-huh. /  
+
+sv          B.162 utt1:  [ {C But, } + {C and } ] you get satisfaction out of it. /  
+
+aa          A.163 utt1:  That's right, /  
+
+sv          B.164 utt1:  # [ {C And, }  # +   
+
+sv          A.165 utt1:  # I # think they underestimate [ how much, + how much ] value the satisfaction - /
+sv@          A.165 utt2:  is.   
+
++          B.166 utt1:  {C But } ] [ I think a lot of it, + {D you know, } I think things ] come both from the, {F uh, } individual side and also from the company side  /
+sv          B.166 utt2: {C because } the companies that, [ let, + give ] the attitude that, {D well, } {D you know, } - /
+^q          B.166 utt3: you're the last one hired  /
+^q          B.166 utt4: {C so } you'll be the first one fired, /  
+
++@          A.167 utt1:  # Yeah.  # /  
+
+^q          B.168 utt1:  # {C and } # we just want you to do your days work, /  
+
+b          A.169 utt1:  # Yeah.  # /  
+
+^q          B.170 utt1:  # {C and } # we don't really care about you,   
+
+b          A.171 utt1:  # Yeah.  # /  
+
++          B.172 utt1:  # as # an individual.  /
+sv          B.172 utt2:  When you've got that type of attitude on it, the people don't care,    
+
+aa          A.173 utt1:  #  (( No )) . # /  
+
++          B.174 utt1:  # about # their work.  /
+%          B.174 utt2:  {C And so, } -/  
+
+sv          A.175 utt1:  [ It probab-, + it probably ] basically goes right back into the [ h-, + home ] though unfortunately.  /
+sv          A.175 utt2:  Starts with the one person that, {D you know, } - /
+sv          A.175 utt3: {C and so } you need to really work hard at helping your kids to understand that there is value just in work for itself without any pay, {D you know. } /  
+
+sv          B.176 utt1:   (( Little ))  value just in whatever you do. /  
+
+b          A.177 utt1:  Yeah.  /
+sv          A.177 utt2:  [ [ [ The, +   
+
+sv          B.178 utt1:   (( Doing a good ))  job of it. /  
+
++          A.179 utt1:  the, ] + the ] + that ] the value is in doing it well  /
+%          A.179 utt2: {C and, } -/ 

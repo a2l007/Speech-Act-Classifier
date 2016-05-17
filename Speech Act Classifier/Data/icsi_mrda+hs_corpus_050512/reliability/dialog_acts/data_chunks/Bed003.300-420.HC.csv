@@ -1,0 +1,74 @@
+299.44,300.15,Bed003-c4,s^j,,,there's a lot of those .
+301.27,305.54,Bed003-c2,s,,,but if you looked at it real close you could see the {it-} - {inkr-} - intricacy of the - of the walls .
+305.32,305.54,Bed003-c4,fg,,,o_k .
+305.54,307.48,Bed003-c4,s^bu,1a,,so that count as - counts as a nice wall .
+307.76,308.01,Bed003-c2,s^aa,1b.2a,,right .
+308.036,308.156,Bed003-c4,%--,,,the ==
+308.156,308.446,Bed003-c4,s^bk,2b,,o_k .
+308.2,308.54,Bed003-c1,b,,Unsure,mm-hmm .
+309.204,309.454,Bed003-c4,fh,2b+,,right .
+310.097,312.857,Bed003-c4,s^bu,3a,,something you want to inspect at close range because it's interesting .
+310.19,310.55,Bed003-c1,%-,,,the ==
+311.84,312.36,Bed003-c2,s^aa,3b.4a,,exactly .
+312.857,313.037,Bed003-c4,s^bk,4b,,o_k .
+314.036,314.416,Bed003-c1,b^rt,,,hmm .
+314.43,314.67,Bed003-c2,qo^d^rt,5a,Open Option? There's no guidance to this question - just want to know his opinion i think,robert ?
+315.156,317.886,Bed003-c1,s,5b,,well there - there is a term {th-} - that's often used .
+317.886,321.196,Bed003-c1,s^rt,5b+,,that's saliency or the salience of an object .
+322.392,326.132,Bed003-c1,s^rt,,,and i was just wondering whether that's the same as what you describe as {landmarkiness} .
+328.498,329.258,Bed003-c1,sj,,,but it's really not .
+329.518,333.938,Bed003-c1,s,6a,,i mean - an object can be very salient but - not a landmark at all .
+329.964,330.734,Bed003-c4,b,,,hmm .
+331.611,332.781,Bed003-c4,s^2,6b,,not a landmark at all .
+333.78,338.99,Bed003-c4,s,7a,Merge these 3 lines?,there's landmark for um - touristic reasons and landmark for - i don't know - navigational reasons or something .
+338.197,338.517,Bed003-c2,s^aa,7b-1,,right .
+338.449,338.779,Bed003-c1,b,,,yep .
+338.782,338.942,Bed003-c3,fg,,,yeah .
+338.942,340.372,Bed003-c3,s,7b-2.8a,changed 'meant' to 'went',we {went} uh - touristic reasons .
+340.3,340.67,Bed003-c2,s^aa,8b-1,,yeah .
+340.71,341.15,Bed003-c4,s^bk,8b-2,,o_k .
+341.26,341.72,Bed003-c1,b^rt,,,hmm .
+341.68,341.96,Bed003-c2,s^bk,8b-1+,,right .
+341.895,342.155,Bed003-c4,s^bk^r,8b-2+,,o_k .
+342.615,346.685,Bed003-c4,s,9a,,but you can imagine maybe wanting the {other} - both kinds of things there for different um - goals .
+345.282,345.482,Bed003-c1,b,,,hmm .
+346.56,346.74,Bed003-c3,s^aa,9b,,yeah .
+347.265,347.415,Bed003-c4,qy^d^g^rt.%,9a+,,right ?
+347.3,347.64,Bed003-c2,s^aa,9b+,,right .
+348.432,348.712,Bed003-c2,s^arp.%--,9b++,,but ==
+349.37,349.57,Bed003-c2,s^aa,9b+++,,yeah .
+350.045,351.515,Bed003-c2,s.%--,,,tourist-y landmarks also happen to be ==
+352.425,353.485,Bed003-c2,qy.%--,,,wouldn't - couldn't they also be ?==
+353.685,354.705,Bed003-c2,s,10a,,they're not exclusive groups .
+354.705,354.905,Bed003-c2,qy^d^g^rt,10a+,,are they ?
+355.613,357.523,Bed003-c2,s.%-,10a++,,like - non-tourist-y {touristy} landmarks and ==
+356.145,357.315,Bed003-c1,s.%-,,,or it can be als- ==
+358.611,359.661,Bed003-c4,qy^bu^d^rt,10b.11a,,they're not mutually exclusive ?
+358.85,359.71,Bed003-c2,s,,,direct navigational .
+359.71,360.03,Bed003-c2,s^aa,11b.12a,,yeah .
+360.48,360.82,Bed003-c4,s^aa,12b.13a,,right .
+360.988,361.158,Bed003-c2,s^bk,13b,,o_k .
+361.25,361.59,Bed003-c4,s^aa^r,13a+,,right .
+361.59,362.05,Bed003-c4,s^aa,13a++,,definitely .
+363.62,365.8,Bed003-c2,fg|s,,,o_k | so our initial idea was not very satisfying .
+366.41,371.91,Bed003-c2,s,,,because - uh - our initial idea was basically all the features pointing to the output node .
+373.243,373.783,Bed003-c2,fh,,,uh ==
+374.96,375.95,Bed003-c4,s^bu,14a,,so a big flat structure .
+376.03,376.15,Bed003-c4,qy^d^g^rt,14a+,,right ?
+376.166,376.556,Bed003-c2,s^aa,14b-1,,right .
+376.703,376.883,Bed003-c3,s^aa,14b-2,,yep .
+378.344,379.604,Bed003-c2,fh|s.%--,,,and uh - | so we ==
+380.776,385.037,Bed003-c2,s^df,,,reasons being you know - it'd be a pain to set up all the probabilities for that .
+386.372,392.556,Bed003-c2,s,,,if we moved onto the next step and did learning of some sort uh - according {to} bhaskara we'd be handicapped .
+393.126,395.02,Bed003-c2,s^no,,are we marking 'i don't know' when it's NOT an answer?,i don't know belief-nets very well .
+393.848,394.948,Bed003-c3,s.%--,,,well usually i mean - you know - {en} ==
+395.89,397.6,Bed003-c3,s,,,if you have n_ features then it's two to the n_ .
+397.77,398.98,Bed003-c3,s^bsc,,,or - exponential in n_ .
+400.19,401.05,Bed003-c2,,,,and they wouldn't look pretty .
+401.661,406.921,Bed003-c2,,,,so uh ==
+402.036,402.346,Bed003-c3,,,,yeah .
+402.506,404.056,Bed003-c3,,,,they'd all be like pointing to the one node .
+403.969,404.319,Bed003-c1,,,,mm-hmm .
+407.897,409.487,Bed003-c2,,,,so then our next idea was to add a middle layer .
+409.487,409.687,Bed003-c2,,,,right ?
+410.281,417.603,Bed003-c2,,,,so the thinking behind that was we have the features that we've drawn from the communication of some - like - the someone s- ==

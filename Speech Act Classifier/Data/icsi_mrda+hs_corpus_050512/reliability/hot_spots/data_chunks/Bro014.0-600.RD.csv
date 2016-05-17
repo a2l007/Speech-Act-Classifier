@@ -1,0 +1,288 @@
+0.16,1.55,Bro014-c0,z,,,,it's not very significant .
+1.089,1.999,Bro014-c1,z,,,,uh channel one .
+1.65,2.21,Bro014-c3,z,,,,channel three .
+1.86,2.2,Bro014-c5,z,,,,mm-hmm .
+1.999,2.359,Bro014-c1,z,,,,yes .
+2.359,2.659,Bro014-c1,z,,,,o_k .
+2.74,3.31,Bro014-c3,z,,,,channel three .
+6.579,7.259,Bro014-c0,z,,,,ta- ==
+7.025,7.865,Bro014-c3,z,,,,channel three alright .
+8.877,9.137,Bro014-c1,fg,,,,o_k .
+9.137,10.587,Bro014-c1,qy^j^rt,1a,,,did you solve speech recognition last week ?
+11.93,12.26,Bro014-c4,s,1b,,,almost .
+13.72,14.1,Bro014-c1,s^bk,,,,alright .
+14.73,15.65,Bro014-c1,s^co,2a,,,let's do image processing .
+15.787,16.447,Bro014-c2,s^bk,2b-1,,,yes again .
+17.07,17.31,Bro014-c0,s^ba,2b-2,,,great .
+18.398,19.388,Bro014-c2,s,2b-1+,10=l-=o.a,,we did it again morgan .
+19.88,20.35,Bro014-c1,s^ba^fe,,b.c,,alright !
+21.826,22.316,Bro014-c4,s^t1,,,,doo-doop doo-doo .
+22.619,23.199,Bro014-c0,qw^t3.%--,,,,what's wrong with ?==
+29.377,30.107,Bro014-c1,s,,,,o_k .
+30.207,31.307,Bro014-c1,s,,,,it's april fifth .
+37.819,40.749,Bro014-c1,s,3a,,,actually hynek should be getting back in town shortly if he isn't already .
+40.891,41.611,Bro014-c2,qy^rt,3b.4a,,,is he gonna come here ?
+42.274,42.674,Bro014-c1,h,4b,,,uh ==
+43.214,44.014,Bro014-c1,s^j^na,4b+,,,well we'll drag him here .
+44.074,44.494,Bro014-c1,s^j,4b++,,,i know where he is .
+45.402,47.262,Bro014-c2,s^bu,5a,,,so when you said in town you mean oregon .
+46.97,49.84,Bro014-c1,s^ng,5b.6a,,,u- - u- - u- - u- - uh i meant you know this end of the world .
+49.823,49.923,Bro014-c2,s^bk,6b,,,oh .
+49.84,51.93,Bro014-c1,s,5b+,,,yeah is really what i meant .
+50.244,51.654,Bro014-c4,s^t1,,,,doo doo-doo .
+52.05,53.11,Bro014-c1,s^df,5b++,,,uh cuz he's been in europe .
+53.703,54.103,Bro014-c4,s^t1,,,,doo-doo .
+54.4,54.72,Bro014-c1,fh,,,,so ==
+65.201,67.901,Bro014-c2,s,7a,,,i have something just fairly brief to report on .
+68.08,68.33,Bro014-c1,b,,,,mmm .
+68.79,76.607,Bro014-c2,fh|s,,,,um | i did some experim- - uh uh just a few more experiments before i had to uh go away for the w- - well that week .
+69.55,69.76,Bro014-c1,s^ba^fe,7b,,,great !
+77.177,78.317,Bro014-c2,qy,,,,was it last week or whenever ?
+78.792,79.382,Bro014-c2,fh,,,,um ==
+79.912,84.002,Bro014-c2,s,,,,so what i was started playing with was the - th- - again this is the h_t_k back-end .
+84.442,85.632,Bro014-c2,fh,,,,and um ==
+86.644,95.81,Bro014-c2,s,8a,,,i was curious because the way that they train up the models they go through about four sort of rounds of - of training .
+96.31,101.462,Bro014-c2,s^e,8a+,,,and in the first round they do uh i think it's three iterations .
+101.872,108.192,Bro014-c2,s^e,8a++,,,and for the last three rounds e- - e- - they do seven iterations of re-estimation in each of those three .
+109.023,109.983,Bro014-c2,fh,,,,and so ==
+110.623,115.653,Bro014-c2,s,8a+++,,,you know that's part of what takes so long to train the - the - the back-end for this .
+115.586,115.916,Bro014-c1,s^fa,8b,,,i'm sorry .
+115.916,116.726,Bro014-c1,s,8b+,,,i didn't quite get that .
+116.726,118.406,Bro014-c1,s^bu,8b++.9a,,,there's - there's four and there's seven .
+118.406,118.636,Bro014-c1,fh,,,,and ==
+118.636,119.156,Bro014-c1,s^fa,8b+++,,,i - i'm sorry .
+118.797,119.157,Bro014-c2,s^bk,9b,,,yeah .
+119.307,119.627,Bro014-c2,fh,,,,uh ==
+119.627,120.707,Bro014-c2,s^cs,9b+,,,maybe i should write it on the board .
+120.707,123.687,Bro014-c2,s,9b++,,,so there's four rounds of training .
+124.187,124.687,Bro014-c2,fh,,,,um ==
+125.917,128.057,Bro014-c2,s,9b+++,,,i g- - i g- - i guess you could say iterations .
+128.612,131.452,Bro014-c2,s,9b++++,,,the first one is three then seven seven and seven .
+131.948,138.598,Bro014-c2,s^e,,,,and what these numbers refer to is the number of times that the uh h_m_m re-estimation is run .
+138.888,140.658,Bro014-c2,s^e,,,,it's this program called h_e_rest .
+141.987,148.047,Bro014-c1,qw,10a,,,but in h_t_k what's the difference between uh a - an inner loop and an outer loop in these iterations ?
+147.695,147.965,Bro014-c2,s^bk,10b,,,o_k .
+148.385,155.982,Bro014-c2,s,10b+.11a,,,so what happens is um at each one of these points you increase the number of gaussians in the model .
+152.533,152.863,Bro014-c1,s^bk,11b,,,yeah .
+156.57,157.31,Bro014-c1,s^bk,11b+,,,oh right .
+157.31,159.03,Bro014-c1,s,11b++.12a,,,this was the mix up stuff .
+158.438,158.718,Bro014-c2,s^aa,12b,,,yeah .
+158.968,159.458,Bro014-c2,s^m^na,12b+,,,the mix up .
+159.718,159.928,Bro014-c2,s^aa,12b++,,,right .
+160.15,160.56,Bro014-c1,s^aa,11b+++,,,that's right .
+160.56,161.14,Bro014-c1,s^t1,,,,i remember now .
+160.772,171.822,Bro014-c2,s,,,,and so in the final one here you end up with uh - for all of the - the digit words you end up with uh three mixtures per state .
+172.328,172.648,Bro014-c1,b,,,,yeah .
+173.77,175.07,Bro014-c2,s^e,,,,eh in the final thing .
+175.528,180.038,Bro014-c2,s,,,,so i had done some experiments where i was - i - i want to play with the number of mixtures .
+180.13,180.53,Bro014-c1,b,,,,mm-hmm .
+180.398,181.188,Bro014-c2,fh,,,,but um ==
+182.085,182.425,Bro014-c4,s^t1,,,,uh one two .
+182.301,188.931,Bro014-c2,fh|s,,,,uh | i wanted to first test to see if we actually need to do this many iterations early on .
+188.483,189.023,Bro014-c1,b,,,,mm-hmm .
+189.431,190.271,Bro014-c2,fh,,,,and so ==
+191.114,200.374,Bro014-c2,fh|s,,,,um | i - i ran a couple of experiments where i reduced that to l- - to be three two two uh five i think .
+200.374,202.734,Bro014-c2,s,,,,and i got almost the exact same results .
+203.232,205.212,Bro014-c2,s,,,,and - but it runs much much faster .
+203.329,203.739,Bro014-c1,b,,,,mm-hmm .
+205.782,206.892,Bro014-c2,fh,,,,so um ==
+207.352,213.042,Bro014-c2,s,13a,,,i - i think m- - it only took something like uh three or four hours to do the full training .
+213.4,214.31,Bro014-c1,qw^d.%--,13b.14a,,,as opposed to ?==
+213.465,213.615,Bro014-c5,s^ba.x,,,,good .
+214.225,217.275,Bro014-c2,qw^rt,14b.15a,,,as opposed to wh- - what sixteen hours or something like that ?
+217.83,218.66,Bro014-c5,s^na,15b,,,yeah it depends .
+218.055,221.505,Bro014-c2,s^df,14b+,,,i mean it takes - you have to do an overnight basically the way it is set up now .
+218.912,220.312,Bro014-c0,b,,,,mm-hmm .
+219.4,219.9,Bro014-c1,b,,,,mm-hmm .
+222.006,222.366,Bro014-c2,fh,,,,so ==
+222.952,223.292,Bro014-c2,fh,,,,uh ==
+223.652,228.842,Bro014-c2,s,16a,,,even we don't do anything else doing something like this could allow us to turn experiments around a lot faster .
+229.013,231.773,Bro014-c1,s.%--,16b.17a,,,and then when you have your final thing do a full one so it's ==
+230.439,232.739,Bro014-c2,s,17b,,,and when you have your final thing we go back to this .
+232.39,232.59,Bro014-c5,b,,,,yeah .
+233.304,234.224,Bro014-c2,fh,,,,so um ==
+234.494,236.214,Bro014-c2,s,,,,and it's a real simple change to make .
+236.524,239.614,Bro014-c2,s^e,,,,i mean it's like one little text file you edit and change those numbers .
+240.168,241.388,Bro014-c2,s^e,,,,and you don't do anything else .
+240.755,241.165,Bro014-c5,s.%--,,,,oh this is a ==
+241.488,242.328,Bro014-c2,s^e,,,,and then you just run .
+241.574,242.064,Bro014-c0,b,,,,mm-hmm .
+241.591,242.081,Bro014-c5,b,,,,o_k .
+242.818,244.308,Bro014-c2,s^df,,,,so it's a very simple change to make .
+244.308,245.868,Bro014-c2,s^df,,,,and it doesn't seem to hurt all that much .
+246.265,249.575,Bro014-c0,qy^bu^d.%--,18a,,,so you - you run with three two two five that's a- ?==
+246.268,246.538,Bro014-c2,s.%-,,,,so i ==
+248.97,251.18,Bro014-c2,h|s^no,18b,,,uh | i - i have to look to see what the exact numbers were .
+250.269,250.759,Bro014-c0,b,,,,yeah .
+251.18,253.7,Bro014-c2,s^na,18b+,,,i - i thought was like three two two five .
+253.82,255.19,Bro014-c2,s^cc,18b++,,,but i- - i'll - i'll double check .
+253.865,254.325,Bro014-c0,b,,,,mm-hmm .
+255.32,257.75,Bro014-c2,s^df,18b+++,,,it was over a week ago that i did it .
+256.547,256.787,Bro014-c0,b,,,,o_k .
+257.361,257.651,Bro014-c4,b,,,,oh .
+257.75,258.81,Bro014-c2,s^df,18b++++,,,so i can't remember exactly .
+257.987,258.087,Bro014-c0,b,,,,mm-hmm .
+258.81,259.27,Bro014-c2,fh,,,,but uh ==
+259.779,260.079,Bro014-c1,b,,,,mm-hmm .
+259.995,261.565,Bro014-c2,s,19a,,,um but it's so much faster .
+261.941,262.111,Bro014-c4,b,,,,hmm .
+262.015,263.475,Bro014-c2,s,19a+,,,i- - it makes a big difference .
+263.845,266.925,Bro014-c2,s,19a++,,,so we could do a lot more experiments and throw a lot more stuff in there .
+265.538,265.898,Bro014-c5,b,,,,yeah .
+266.898,267.368,Bro014-c1,s^ba,19b,,,that's great .
+267.739,268.069,Bro014-c2,fh,,,,um ==
+268.069,274.239,Bro014-c2,s^bk|s^rt,,,,oh | the other thing that i did was um i compiled the h_t_k stuff for the linux boxes .
+274.695,277.517,Bro014-c2,s,,,,so we have this big thing that we got from i_b_m .
+277.667,279.767,Bro014-c2,s^e,,,,which is a five-processor machine .
+280.252,281.152,Bro014-c2,s^e,,,,really fast .
+281.372,282.422,Bro014-c2,s,,,,but it's running linux .
+282.772,286.562,Bro014-c2,s,,,,so you can now run your experiments on that machine .
+286.562,287.992,Bro014-c2,s,,,,and you can run five at a time .
+287.992,292.633,Bro014-c2,s,,,,and it runs uh as fast as you know uh five different machines .
+290.613,291.633,Bro014-c0,b,,,,mm-hmm .
+291.404,291.674,Bro014-c5,b,,,,mm-hmm .
+293.208,294.138,Bro014-c2,fh,,,,so um ==
+294.508,296.118,Bro014-c2,s^no,,,,i've forgotten now what the name of that machine is .
+296.118,299.148,Bro014-c2,s^cc,,,,but i can - i can send email around about it .
+297.539,297.899,Bro014-c0,b,,,,yeah .
+299.599,300.499,Bro014-c2,s,,,,and so we've got it .
+300.599,304.929,Bro014-c2,s,,,,now h_t_k's compiled for both the linux and for um the sparcs .
+305.605,316.19,Bro014-c2,s,,,,um you have to make - you have to make sure that in your dot c_s_h_r_c um it detects whether you're running on the linux or a - a sparc and points to the right executables .
+316.36,316.64,Bro014-c2,fh,,,,uh ==
+317.04,322.07,Bro014-c2,s,,,,and you may not have had that in your dot c_s_h_r_c before if you were always just running the sparc .
+322.21,322.44,Bro014-c2,fh,,,,so ==
+322.89,323.26,Bro014-c2,fh,,,,um ==
+324.09,327.61,Bro014-c2,s,20a,,,uh i can - i can tell you exactly what you need to do to get all of that to work .
+324.344,325.084,Bro014-c0,b,,,,mm-hmm .
+328.193,330.683,Bro014-c2,s,,,,but it'll - it really increases what we can run on .
+328.218,328.778,Bro014-c4,s^ba,20b,,,hmm cool .
+330.683,340.067,Bro014-c2,s,,,,so together with the fact that we've got these faster linux boxes and that it takes less time to do these um we should be able to crank through a lot more experiments .
+340.354,341.044,Bro014-c0,b,,,,mm-hmm .
+341.041,341.421,Bro014-c2,fh,,,,so ==
+341.099,341.279,Bro014-c4,b,,,,hmm .
+342.604,346.654,Bro014-c2,s,,20=l=a.a.r**b.r,FBH,so after i did that ** then what i wanted to do was try increasing the number of mixtures .
+346.654,350.371,Bro014-c2,s^df,,c,,just to see um - see how - how that affects performance .
+350.029,350.239,Bro014-c0,b,,,,yeah .
+350.714,351.004,Bro014-c2,fh,,,,so ==
+351.433,357.753,Bro014-c1,fg|s^cs,21a,,,yeah | in fact you could do something like keep exactly the same procedure and then add a fifth thing onto it .
+358.349,358.619,Bro014-c2,s^bk,21b,,,mm-hmm .
+358.799,359.269,Bro014-c2,s^aa,21b+,,,exactly .
+358.88,359.62,Bro014-c1,s,22a,,,that had more .
+359.72,360.01,Bro014-c1,fh,,,,yeah .
+360.061,360.291,Bro014-c2,s^aa,22b,,,right .
+360.621,360.841,Bro014-c2,s^aa^r,22b+,,,right .
+362.44,368.16,Bro014-c4,qy^d^rt,23b.24a,,,so at - at the middle o- - where the arrows are showing that's - you're adding one more mixture per state ?
+365.559,365.829,Bro014-c2,s^bk,24b,,,uh-huh .
+368.39,368.66,Bro014-c4,qrr.%--,,,,or ?==
+368.83,369.3,Bro014-c2,h,24b+,,,uh ==
+369.73,370.09,Bro014-c2,s^t1,,,,let's see .
+370.09,370.12,Bro014-c2,fh,,,,uh ==
+371.126,372.266,Bro014-c2,s.%--,24b++,,,it goes from ==
+374.023,380.244,Bro014-c2,s,24b+++,,,this - uh try to go it backwards - this - at this point it's two mixtures per state .
+380.65,381.9,Bro014-c2,s^na,24b++++,,,so this just adds one .
+382.303,389.108,Bro014-c2,s^nd,24b+++++,,,except that uh actually for the silence model it's six mixtures per state .
+386.774,387.134,Bro014-c1,b,,,,mm-hmm .
+389.888,390.178,Bro014-c4,b,,,,o_k .
+390.13,391.42,Bro014-c2,s,24b++++++,,,uh so it goes to two .
+391.5,392.16,Bro014-c2,fh,,,,um ==
+393.619,395.759,Bro014-c2,s.%--,24b+++++++.25a,,,and i think what happens here is ==
+398.199,402.498,Bro014-c1,s,25b.26a,,,might be between uh shared uh - shared variances or something .
+400.572,401.772,Bro014-c2,s^aa|s^na,26b,,,yeah | i think that's what it is .
+402.498,402.758,Bro014-c1,fh,,,,or ==
+402.762,403.392,Bro014-c2,fh,,,,uh ==
+403.812,405.062,Bro014-c2,s^aa|s.%--,26b+,,,yeah | it's uh ==
+406.6,406.79,Bro014-c2,s^fe,,,,shoot !
+406.79,409.33,Bro014-c2,s^no,27a,,,i - i - i can't remember now what happens at that first one .
+409.52,411.03,Bro014-c2,s,27b+,,,uh i have to look it up and see .
+409.56,409.94,Bro014-c4,s^bk,27b,,,oh o_k .
+411.756,412.306,Bro014-c2,fh,,,,um ==
+413.05,417.204,Bro014-c2,s,,,,there - because they start off with uh an initial model .
+417.204,418.744,Bro014-c2,s^e,,,,which is just this global model .
+418.864,420.894,Bro014-c2,s,,,,and then they split it to the individuals .
+420.894,423.152,Bro014-c2,s,,,,and so it may be that that's what's happening here .
+423.152,424.902,Bro014-c2,s,,,,i - i - i have to look it up and see .
+424.962,426.012,Bro014-c2,s^no,28a,,,i - i don't exactly remember .
+425.729,426.129,Bro014-c4,b,,,,o_k .
+432.25,432.59,Bro014-c1,s^bk,28b,,,o_k .
+432.26,433.18,Bro014-c2,s,,,,so that's it .
+433.68,434.06,Bro014-c1,fg,,,,alright .
+435.435,436.135,Bro014-c1,qo^tc,29a,,,so what else ?
+437.44,438.26,Bro014-c0,h,29b,,,um ==
+438.97,439.14,Bro014-c0,fh,29b+,,,yeah .
+439.39,441.68,Bro014-c0,s^rt,29b++,,,there was a conference call this tuesday .
+443.82,445.02,Bro014-c0,fh,,,,um ==
+445.838,449.788,Bro014-c0,s^no,29b+++,,,i don't know yet the - what happened tuesday .
+449.788,456.646,Bro014-c0,s,29b++++,,,but the points that they were supposed to discuss is still uh things like the weights .
+457.834,458.594,Bro014-c0,fh,,,,uh ==
+458.373,462.893,Bro014-c1,s^bu,30a,,,oh this is a conference call for uh uh aurora participant sort of thing .
+460.416,460.746,Bro014-c4,%,,,,for ==
+462.143,462.303,Bro014-c0,s^aa,30b.31a,,,yeah .
+462.893,463.443,Bro014-c1,s^bk,31b,,,i see .
+462.903,463.083,Bro014-c0,b,,,,yeah .
+464.508,464.988,Bro014-c0,fg,,,,mmm ==
+464.68,468.85,Bro014-c1,qw^rt,32a,,,do you know who was - who was - since we weren't in on it uh do you know who was in from o_g_i ?
+468.85,470.941,Bro014-c1,qy^rt,32a+,,,was - was - was hynek involved ?
+470.941,471.781,Bro014-c1,qrr,32a++,,,or was it sunil ?
+471.66,472.13,Bro014-c0,s^no,32b.33a,,,i have no idea .
+471.781,471.901,Bro014-c1,qrr.%--,,,,or ?==
+472.421,473.111,Bro014-c1,s^bk,33b,,,oh you don't know .
+472.67,473.49,Bro014-c0,s.%--,32b+,,,mmm i just ==
+473.221,473.531,Bro014-c1,s^bk,33b+,,,o_k .
+473.83,474,Bro014-c0,fh,,,,yeah .
+474.375,474.695,Bro014-c1,s^bk,33b++,,,alright .
+476.229,476.989,Bro014-c0,fg,,,,um ==
+477.459,477.789,Bro014-c0,fh,,,,yeah .
+478.802,487.045,Bro014-c0,s,,,,so the points were the - the weights - how to weight the different error rates that are obtained from different language and - and conditions .
+487.898,488.808,Bro014-c0,fh,,,,um ==
+489.738,492.128,Bro014-c0,s,,,,it's not clear that they will keep the same kind of weighting .
+492.368,494.888,Bro014-c0,s,,,,right now it's a weighting on - on improvement .
+495.195,495.615,Bro014-c1,b,,,,mm-hmm .
+495.751,499.041,Bro014-c0,s.%--,,,,some people are arguing that it would be better to have weights on ==
+499.81,500.35,Bro014-c0,fh,,,,uh ==
+500.692,504.232,Bro014-c0,s,,,,well to - to combine error rates before computing improvement .
+505.25,510.36,Bro014-c0,fh|s,,,,uh | and the fact is that for - right now for the english they have weights .
+510.47,512.51,Bro014-c0,s,,,,they - they combine error rates .
+512.57,515.65,Bro014-c0,s,,,,but for the other languages they combine improvement .
+516.222,517.392,Bro014-c0,s,,,,so it's not very consistent .
+517.965,518.895,Bro014-c1,b,,,,mm-hmm .
+518.278,519.168,Bro014-c0,fh,,,,um ==
+520.024,520.314,Bro014-c0,s^bk,,,,yeah .
+520.514,521.284,Bro014-c0,fh,,,,the um ==
+522.162,522.472,Bro014-c0,s^bk,,,,yeah .
+523.684,524.064,Bro014-c0,s.%--,,,,and so ==
+524.344,526.034,Bro014-c0,s,,,,well this is a point .
+527.43,541.574,Bro014-c0,s,,,,and right now actually there is a thing also uh that happens with the current weight is that a very non-significant improvement on the well-matched case result in huge differences in - in the final number .
+542.053,542.563,Bro014-c1,b,,,,mm-hmm .
+542.349,542.799,Bro014-c2,b,,,,hmm .
+542.565,547.017,Bro014-c0,s.%--,34a,,,and so perhaps they will change the weights to ==
+548.293,548.543,Bro014-c0,fh,,,,yeah .
+549.07,549.93,Bro014-c2,qw,34b.35a,,,how should that be done ?
+550.24,553.28,Bro014-c2,s^df,34b+.35a+,,,i mean it - it seems like there's a simple way .
+550.914,551.134,Bro014-c0,b,,,,mm-hmm .
+555.963,557.723,Bro014-c2,s^df,34b++.35a++,,,uh this seems like an obvious mistake or something .
+557.723,558.103,Bro014-c2,s.%--,,,,th- - they're ==
+557.923,560.643,Bro014-c1,s,35b,,,well i mean the fact that it's inconsistent is an obvious mistake .
+560.643,562.733,Bro014-c1,s.%--,35b+,,,but the - but um the other thing ==
+561.272,561.502,Bro014-c0,x,,,,in- ==
+562.733,563.093,Bro014-c1,fh,,,,i don't know .
+563.093,563.853,Bro014-c1,s,35b++,,,i haven't thought it through .
+563.853,566.589,Bro014-c1,s.%--,35b+++,,,but one - one would think that each - it ==
+566.759,570.039,Bro014-c1,s^e,35b++++,,,it's like if you say what's the - what's the best way to do an average .
+570.039,572.169,Bro014-c1,qr^d,35b+++++,,,an arithmetic average or a geometric average ?
+572.255,572.665,Bro014-c2,b,,,,mm-hmm .
+573.366,574.456,Bro014-c1,s,35b++++++,,,it depends what you wanna show .
+574.822,575.432,Bro014-c0,b,,,,mm-hmm .
+575.126,577.346,Bro014-c1,s,35b+++++++,,,each - each one is gonna have a different characteristic .
+577.237,577.497,Bro014-c0,b,,,,yeah .
+577.746,578.246,Bro014-c1,fh,,,,so ==
+578.38,582.05,Bro014-c2,s^cs,36a,,,well it seems like they should do like the percentage improvement or something .
+582.44,584.92,Bro014-c2,s,36a+,,,rather than the absolute improvement .
+585.33,586.78,Bro014-c0,s^nd,36b-1,,,tha- - that's what they do .
+585.879,586.659,Bro014-c1,s^nd,36b-2,,,well they are doing that .
+586.78,586.96,Bro014-c0,s^bk,36b-1+,,,yeah .
+587.64,588.44,Bro014-c1,s,,,,no that is relative .
+589.049,596.689,Bro014-c1,qr,,,,but the question is do you average the relative improvements or do you average the error rates and take the relative improvement maybe of that ?
+591.625,591.945,Bro014-c0,b,,,,yeah .
+594.633,594.773,Bro014-c0,b,,,,yeah .
+597.357,600.667,Bro014-c1,s,37a,,,and the thing is it's not just a pure average because there are these weightings .
+599.826,600.196,Bro014-c2,s^bk,37b,,,oh .

@@ -1,0 +1,219 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3361_1402_1366
+TOPIC#:		305
+DATE:		911106
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+o          A.1 utt1:  Okay.  /
+qo          A.1 utt2:  {D Well, } Carolyn, [ the, + {F uh, } one of the ] main things I'd [ like, + like ] to know is, {F uh, } how do you feel about [ the, + knowing about the ] environment of a nursing home before you would send someone there to live and so forth. /  
+
+%          B.2 utt1:  {D Well. } -/  
+
+qo          A.3 utt1:  What do you think would be required, and so forth? /  
+
+^h          B.4 utt1:  {F Uh, } I'll tell you,  /
+qy^d          B.4 utt2: [ I, + I ]  watched what went on, {F um, } with the TWENTY TWENTY show, {A I don't know if you saw that a few days ago <child_talking> } [ that, + that ] talked about nursing homes,  /
+sd          B.4 utt3: {C and } {D actually } they specifically talked about some in the area where I am, here in Texas,  /
+%          B.4 utt4: {C and } -- -/  
+
+qy          A.5 utt1:  {F Oh, } you knew of the <child_talking> homes, {D then. } /  
+
+br          B.6 utt1:  -- Pardon? /  
+
+qy^r          A.7 utt1:  You knew of the homes themselves? /  
+
+%          B.8 utt1:  {D Well, } I, - /
+nn          B.8 utt2: no,  /
+sd^e          B.8 utt3: I'm not familiar with those homes per se -- /  
+
+b          A.9 utt1:  Uh-huh  /
+x          A.9 utt2: </child_talking>.
+
+sd          B.10 utt1:  -- {C but, } {F um, } they were in the area where I live --   
+
+bk          A.11 utt1:  {F Oh, } okay. /  
+
++          B.12 utt1:  -- {F uh, }  /
+sd          B.12 utt2: {C and } it was really revealing to see some of [ the, + {D you know, } the ] things that go on, I guess, in some of these homes,  /
+sd          B.12 utt3: {C so } I would definitely, <child_talking> {D you know, } want to really check things out and, {F uh, } <child_talking> go,  /
+sv          B.12 utt4: I guess that the big thing would be once you got someone in a home like that, [ to, + to ] make sure that you went daily, {D you know } --   
+
+b          A.13 utt1:  Yeah. /  
+
++          B.14 utt1:  -- and made sure that they were cared for,  /
+%          B.14 utt2: {C and, } -/  
+
+qw          A.15 utt1:  {D Well, } from your point of view, <talking> how would you feel about actually sending someone [ that, + <child_talking> that's, ] {D you know, } means something to you to one of those homes.  /
+bf          A.15 utt2:  I realize that you indicated you wanted to check out as much as you can about it -- /  
+
+aa          B.16 utt1:  Uh-huh. /  
+
+ba          A.17 utt1:  -- <Child_talking> {C and, } of course, that makes sense, <talking>  /
+qo          A.17 utt2: {C but } how do you think they would feel, I should say, about moving from where they have lived most of their life into a whole [ new, + new ] home situation? /  
+
+nd          B.18 utt1:  {D Well, } {D actually, } I have that kind of situation, because my mother lives with me,  /
+sd          B.18 utt2: {C and } she's --   
+
+b          A.19 utt1:  Uh-huh. /  
+
++          B.20 utt1:  -- eighty-seven -- /  
+
+bk          A.21 utt1:  {F Oh, } okay. /  
+
+sd(^q)          B.22 utt1:  -- {C and, } {F uh, } from the time that we were tiny, she said, {D you know, } I want you to promise that you'll never put me in a rest home. /  
+
+b          A.23 utt1:  Uh-huh. /  
+
+sd          B.24 utt1:  {C So } I know how she feels about it.  /
+sd          B.24 utt2:  {D You know, } [ if I, + {F uh } --   
+
+b          A.25 utt1:  Yes. /  
+
++          B.26 utt1:  -- if I ] ever had to put her there, I think, {F uh, } it would be probably when I just could not handle it any more, {D you know, } if [ I -- +   
+
+b          A.27 utt1:  Uh-huh. /  
+
++          B.28 utt1:  -- she ] got to the point where she was totally bedridden, [ and, + and ] {E I mean, } I just didn't have the skills or the strength to lift her or whatever it needed,  /
+sd          B.28 utt2: I think that would be the, -/  
+
+qo          A.29 utt1:  {D Well, } how do you find that [ your, + your ] personal relationship is with her, know that you're both together all the time and you are having to do a lot  more for her than normal?  /
+qy          A.29 utt2:  [ Does that, + does that ] cause any problems between the two of you? /  
+
+ng          B.30 utt1:  {F Uh, } I wouldn't say any more than usual. /  
+
+b          A.31 utt1:  Uh-huh.  /
+%          A.31 utt2:  Is she, -/  
+
+sd          B.32 utt1:  I think it's very hard for her, {F um, } to be waited upon, so to speak,  /
+sd          B.32 utt2: {E I mean, } I think it's hard for her to have that role of not being able to do as much as she used to. /  
+
+qy          A.33 utt1:  It's hard to accept the fact that you're unable to pursue life, <throat_clearing> at the level that you did before,  /
+^g          A.33 utt2: isn't it? /  
+
+ny          B.34 utt1:  Yeah,  /
+aa          B.34 utt2: I think that's very true. /  
+
+b          A.35 utt1:  Yeah. /  
+
+sv          B.36 utt1:  {F Um, } on the other hand, it takes on almost [ a, + a ] switch of a mother child relationship. /  
+
+sv          A.37 utt1:  It is different. /  
+
+b          B.38 utt1:  {F Uh. } /  
+
+sd          A.39 utt1:  I had that almost similar situation.  /
+sd          A.39 utt2:  My mother lives in an apartment with my sister -- /  
+
+b          B.40 utt1:  Oh. /  
+
+sd          A.41 utt1:  -- [ {C and, } + {F uh, } {C so } ] I, except for the three or four months this summer, - /
+sd          A.41 utt2: that's the only time I ever spent with my mother,  /
+sd          A.41 utt3: {C and, } of course, since I see her only once or twice a year, I was just thrilled --   
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  -- to have her here with me,  /
+sd          A.43 utt2: {C and } I spent every minute I could to be with her and, {F uh, } cooking foods for her, {D you know, } just to make [ her, + her ] life as though she were on vacation. /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sd          A.45 utt1:  {C But } somehow another, [ it, + that ] doesn't work between my mom and my sister,  /
+sd          A.45 utt2: {C and } [ they, + they ] find [ they, + they ] are, - /
+%          A.45 utt3: in speaking they, - /
+h          A.45 utt4: I don't know,  /
+sd          A.45 utt5: my mother feels uncomfortable around my sister,  /
+sd          A.45 utt6: {C and } my sister's uncomfortable because her mother's there <laughter> -- /  
+
+b          B.46 utt1:  Uh-huh. /  
+
+sv          A.47 utt1:  -- {C and } I guess it's just because they're there all the time. /  
+
+b          B.48 utt1:  Yeah. /  
+
+sd          A.49 utt1:  {C So }  [ it's, + it ] [ puts, + has put ] pressure on both of them from that point of view.  /
+ba          A.49 utt2: {C So } [ that's, + that's ] kind of bad news.  /
+sd          A.49 utt3:  {C And } by the same token, my wife's mother is now moved into a nursing home, <coughing>  /
+sd          A.49 utt4: {C and } after all she has been a farmer's wife </noise> for sixty years -- /
+
+b          B.50 utt1:  {F Um. } /  
+
+sd          A.51 utt1:  -- {C and } now all of a sudden she's had to move off of her farm, into another home where the environment is totally different. /  
+
+b          B.52 utt1:  Uh-huh. /  
+
+sd          A.53 utt1:  She's relatively happy,  /
+sd          A.53 utt2: {C but } she doesn't like the food. /  
+
+x          B.54 utt1:  <Laughter>.   
+
+sd          A.55 utt1:  {C And } when she <laughter> complains about the food --   
+
+b          B.56 utt1:  {F Huh. } /  
+
++          A.57 utt1:  -- then they kind of get angry with her. /  
+
+b          B.58 utt1:  Uh-huh. /  
+
+sv          A.59 utt1:  {C So, } that's another one of those things you have to solve. /  
+
+b          B.60 utt1:  Yeah. /  
+
+x          A.61 utt1:  <Laughter>.   
+
+sv          B.62 utt1:  {D Well, } that's got to be a big adjustment for someone that's, as you say, lived on a farm for sixty years,  /
+sv          B.62 utt2: {C and then } go to something like that. /  
+
+aa          A.63 utt1:  Yeah,  /
+sv          A.63 utt2: after all, [ their, + their ] life is so totally different  /
+sd          A.63 utt3: {C because } in those early days, the food, they had to make it from scratch, so to speak. /  
+
+b          B.64 utt1:  Uh-huh. /  
+
+sd          A.65 utt1:  {E I mean, } you raised your own chickens,  /
+sd          A.65 utt2: {C and } you killed your own hogs, I suppose,  /
+sd          A.65 utt3: {C and then } [ they -- +   
+
+b          B.66 utt1:  Yeah. /  
+
++          A.67 utt1:  -- they ] had to store the meat in, {F uh, } - /
+sd          A.67 utt2: I don't want to say barns,  /
+sd          A.67 utt3: {C but } they  had regular little places [ they, + they ] would hang it, {D you know } --   
+
+b          B.68 utt1:  Uh-huh. /  
+
++          A.69 utt1:  -- to cure it and so forth.  /
+sd          A.69 utt2:  [ {C And, } + {C and } ] now, all of a sudden, it, {F uh, } comes in differently, <laughter>  /
+sd          A.69 utt3: it tastes differently. /  
+
+aa          B.70 utt1:  That's right. /  
+
+x          A.71 utt1:  <Laughter>.   
+
+b          B.72 utt1:  Yeah. / 

@@ -1,0 +1,234 @@
+1801.61,1803.51,Bed009-c1,s,5b.6a,,,that's external services .
+1803.97,1805.01,Bed009-c5,s^bk|s^ar.%--,6b,,,yeah | but that's not g- - eh - tha- ==
+1806.48,1808.8,Bed009-c5,s^ng,6b+,,,that ha- - has all the wrong connotations .
+1809.09,1811.11,Bed009-c5,s^rt,,,,it's - it sounds like it's you know - stand alone .
+1811.11,1812.06,Bed009-c5,s^rt,,,,it doesn't interact .
+1812.06,1812.49,Bed009-c5,s.%--,,,,it doesn't ==
+1815.37,1815.79,Bed009-c5,s,,,,that's why i'm saying .
+1815.79,1816.45,Bed009-c5,s.%--,,,,i think you can't ==
+1816.88,1820.75,Bed009-c5,s^ba,,,,it's fine for looking up when t- - you know when - the show's on t_v .
+1820.75,1821.11,Bed009-c5,s.%--,,,,you go to th- ==
+1821.93,1829.49,Bed009-c5,s,,,,but i - i - i - i think it's really - really wrong headed for something that you - that has a lot of state .
+1829.49,1833.77,Bed009-c5,s,,,,it's gonna interact co- - in a complicated way with the uh - understanding parts .
+1831.56,1831.86,Bed009-c1,b,,,,yeah .
+1834.9,1838.06,Bed009-c1,fg|s,,,,yeah | i think just the - the spatial planner and the route planner .
+1838.35,1842.43,Bed009-c1,s^rt,,,,i showed you once the interac- - action between them among them in the deep map system .
+1841.15,1841.29,Bed009-c5,b,,,,right .
+1842.43,1845.77,Bed009-c1,fh|s,,,,so | a printout of the communication between those two fills up .
+1846.16,1847.16,Bed009-c1,s^no,,,,i don't know how many pages .
+1847.16,1850.32,Bed009-c1,s,,,,and that's just part of how do i get to one place .
+1847.64,1847.84,Bed009-c0,b,,,,hmm .
+1850.32,1852.58,Bed009-c1,s,,,,it's really insane .
+1852.58,1853.29,Bed009-c1,fh,,,,and uh ==
+1855.15,1861.24,Bed009-c1,s,7a,,,but um - so this is um - definitely a good point to get uh - michael into the discussion .
+1861.46,1862.95,Bed009-c1,s,,,,or to enter his discussion actually .
+1863.25,1863.87,Bed009-c1,s,,,,that's the way around .
+1863.6,1864.41,Bed009-c0,fg|s.%--,7b.8a,,,yeah | marcus ==
+1864.92,1865.38,Bed009-c1,s^bk^m,8b,,,markus .
+1868.91,1870.83,Bed009-c1,qy^rt.%--,9a,,,is he new in the - in the ?==
+1869.11,1869.63,Bed009-c0,qw.%-,,,,wh- - where's ?==
+1870.51,1873.53,Bed009-c0,s^aa|s,9b,,,yeah | he's - he started um - i think january .
+1870.92,1871.18,Bed009-c3,b,,,,yeah .
+1875.75,1879.36,Bed009-c0,s,,,,and he's gonna be responsible for the implementation of this action planner .
+1879.73,1880.44,Bed009-c0,s^bsc,,,,dialogue manager .
+1882.87,1886.11,Bed009-c1,qy,10a,,,is he gonna continue with the old - uh - thing ?
+1885.43,1885.71,Bed009-c0,s^ar,10b,,,no .
+1885.71,1889.2,Bed009-c0,s^ar^r|s,10b+.1a,,,no | he's completely gonna rewrite everything in java .
+1887.95,1888.16,Bed009-c1,s^bk,1b,,,o_k .
+1890.24,1891.15,Bed009-c0,s^ba,,,,o_k so that's interesting .
+1891.55,1893.07,Bed009-c1,s^aa|s,2a,10=l=a.a,,yes | i was just - that's my next question .
+1892.21,1892.7,Bed009-c0,b.x,,,,hmm .
+1893.07,1895.18,Bed009-c1,s,2a+,b,,whether we're - we're gonna stick to prolog or not .
+1895.23,1895.5,Bed009-c0,s^ar,2b.3a,c,,no .
+1895.61,1897.04,Bed009-c0,s^ar^m|s,2b+.3a+,,,no | that's gonna be phased out .
+1896.76,1897.02,Bed009-c5,b.x,,,,yeah .
+1897.63,1897.86,Bed009-c1,s^bk,3b,,,o_k .
+1900.85,1905.96,Bed009-c1,s,4a,,,but i do think the - the function modeling concept has a certain - makes sense in a - in a certain light .
+1904.7,1904.88,Bed009-c0,b,,,,yeah .
+1906.02,1919.63,Bed009-c1,s,4a+,,,because the action planner should not be - or the dialogue manager in that case should not um - w- - have to worry about whether it's interfacing with um - something that does route planning in this way or that way .
+1917.27,1917.6,Bed009-c0,b,,,,mm-hmm .
+1918.34,1919.2,Bed009-c5,s^aa,4b.5a,,,i- - i totally agree .
+1919.2,1919.49,Bed009-c5,s^aa,4b+.5a+,,,sure .
+1919.69,1919.85,Bed009-c1,qw^br^rt,5b.6a,,,huh ?
+1919.98,1920.83,Bed009-c1,s.%--,,,,it j- ==
+1920.04,1920.92,Bed009-c5,s^r,6b,,,yeah i - i - agree .
+1920.91,1924.43,Bed009-c5,s,,,,there is - there's a logic to dialogue which - which is is - separable .
+1925.26,1925.46,Bed009-c5,%-,,,,i- ==
+1926.05,1926.12,Bed009-c5,b,,,,yeah .
+1926.61,1935.08,Bed009-c1,s,,,,and it - cant - sort of formulate its- - what it wants in a - in a rather a- - abstract uh - way .
+1935.08,1937.71,Bed009-c1,s,,,,you know - f- - find me a good route for this .
+1935.51,1935.7,Bed009-c5,b,,,,mm-hmm .
+1938.11,1942.82,Bed009-c1,s,,,,it doesn't really have to worry ab- - how route planner a_ or how route planner b_ actually wants it .
+1943.84,1947.55,Bed009-c1,s,,,,so this is - seemed like a good idea .
+1949.57,1950.13,Bed009-c1,s,,,,in the beginning .
+1950.07,1950.69,Bed009-c5,s,,,,it's tricky .
+1951.23,1953.54,Bed009-c5,s.%--,,,,it's tricky because one could well imagine ==
+1953.54,1965.11,Bed009-c5,s,,,,i think it will turn out to be the case that uh - this thing we're talking about th- - the extended n- - uh - knowledge modeler will fill in some parameters about what the person wants .
+1965.11,1975.91,Bed009-c5,s,,,,one could well imagine that the next thing that's trying to fill out the detailed uh - route planning let's say will also have questions that it would like to ask the user .
+1976.67,1981.98,Bed009-c5,s,,,,you could well imagine you get to a point where it's got a - a choice to make and it just doesn't know something .
+1983.28,1990.94,Bed009-c5,s,,,,and so y- - you would like it t- - also be able to uh - formulate a query .
+1983.43,1983.8,Bed009-c0,b,,,,mm-hmm .
+1992.41,2000.19,Bed009-c5,s,,,,and to run that back through uh - the dialogue manager and to the output module and back around .
+2000.46,2001.06,Bed009-c1,b,,,,hmm .
+2001.01,2004.61,Bed009-c5,s,7a,,,and a- - i- - a- - a good design would - would allow that to happen .
+2003.22,2003.83,Bed009-c1,s^2.%--,7b,,,a lot of ==
+2003.83,2003.9,Bed009-c1,b,,,,yeah .
+2004.19,2004.43,Bed009-c3,b,,,,mmm .
+2005.39,2008.26,Bed009-c5,s,8a,,,if - if you know if - if you can't make it happen then you - you do your best .
+2006.78,2007.12,Bed009-c0,s^aap^rt,8b,,,yeah .
+2007.92,2013.87,Bed009-c0,s,9a,,,but that doesn't necessarily contradict um - an architecture where there really is a pers- - a def- - well-defined interface .
+2013.97,2014.52,Bed009-c5,s^ba,9b,,,i totally agree .
+2014.39,2014.98,Bed009-c0,%-,,,,and - and ==
+2014.8,2015.79,Bed009-c5,s.%--,,,,but - but what it nee- ==
+2015.94,2017.05,Bed009-c5,s.%--,,,,but th- - what the point is the- ==
+2017.33,2020.57,Bed009-c5,s,,,,in that case the dialogue manager is sort of event driven .
+2020.69,2025.14,Bed009-c5,s,,,,so the dialogue manager may think it's in a dialogue state of one sort .
+2025.35,2030.61,Bed009-c5,s:s,,,,and this - one of these planning modules comes along and says hey right now we need to ask a question .
+2025.56,2026.02,Bed009-c0,b^rt,,,,mm-hmm .
+2031.08,2033.62,Bed009-c5,s,10a,,,so that forces the dialogue manager to change state .
+2034.5,2034.89,Bed009-c0,s^bk^rt,10b.1a,,,yes .
+2035.02,2035.32,Bed009-c5,s^bk,1b,,,o_k .
+2035.58,2036.05,Bed009-c5,s.%-,,,,it could be y- ==
+2035.96,2036.16,Bed009-c0,s^bk,,,,sure .
+2036.16,2039.15,Bed009-c0,fg|s,,,,ye- - yeah | i - i think that's - that's the um - concept that people have .
+2036.48,2037.14,Bed009-c5,fg|%-,,,,yeah yeah | it - it ==
+2038.96,2039.23,Bed009-c5,s^bk,,,,o_k .
+2039.15,2039.3,Bed009-c0,s^bk,,,,yep .
+2045.65,2058.64,Bed009-c0,s,,,,and - and the - the underlying idea of course is that there is something like kernel modules with kernel functionality that you can plug uh - certain applications like tourist information or um - the home scenario with uh - controlling a v_c_r and so on .
+2060.61,2063.83,Bed009-c0,s,,,,and then extend it to an arbitrary number of applications eventually .
+2065.03,2065.8,Bed009-c0,qy.%--,,,,so - wouldn't ?==
+2065.88,2069.32,Bed009-c0,s,,,,that's an additional reason to have this well-defined interface .
+2069.25,2069.6,Bed009-c5,s^aa,,,,oh yeah yeah .
+2069.32,2072.72,Bed009-c0,s,,,,and keep these things like uh - tourist information external .
+2073.39,2075.27,Bed009-c0,s,,,,and then call it external services .
+2074.95,2075.46,Bed009-c1,b,,,,hmm .
+2079.59,2081.12,Bed009-c0,s.%-,,,,but of course the - the more complex ==
+2080.09,2086.14,Bed009-c1,fg|s,,r-,,yeah | there is another philosophical issue that i think you know you can - evade .
+2081.3,2081.53,Bed009-c0,b,,,,yep .
+2086.25,2094.83,Bed009-c1,s,,,,but at- - at least it makes sense to me that sooner or later uh - a service is gonna come and describe itself to you .
+2094.83,2105.05,Bed009-c1,s^rt,,,,and that's sort of what srini is working on in - in - in the daml uh - project where um - you - you find a g_i_s about - that gives you information on berkeley .
+2097.25,2097.42,Bed009-c0,b,,,,yeah .
+2105.05,2109.24,Bed009-c1,s,,,,and it's - it's gonna be there and tell you what it can do and how it wants to do things .
+2109.86,2113.85,Bed009-c1,s,,,,and so you can actually interface to such a system without ever having met it before .
+2114.1,2120.98,Bed009-c1,s,,,,and the function modeler and a self-description of the um - external service haggle it out .
+2114.64,2115.17,Bed009-c0,b,,,,hmm .
+2121.34,2128.43,Bed009-c1,s,,,,and you can use the same language core understanding core to interface with planner-a_ planner-b_ planner-c_ and so forth .
+2125.62,2125.8,Bed009-c0,b,,,,hmm .
+2125.89,2126.12,Bed009-c3,b,,,,mmm .
+2128.9,2130.92,Bed009-c1,s.%--,,,,which is you know - uh - uh - utopian ==
+2131.69,2132.99,Bed009-c1,s,,,,completely utopian at the moment .
+2132.99,2138.07,Bed009-c1,s,,,,but slowly you know - getting into the realm of the uh - contingent .
+2138.28,2138.47,Bed009-c0,b,,,,hmm .
+2144.14,2150.29,Bed009-c1,s^rt,,,,but we are facing of course much more um - realistic problems .
+2151.32,2158.39,Bed009-c1,s^rt,,,,and language input for example is of course uh - crucial you know - also when you do the sort of deep understanding analysis that we envision .
+2159.21,2162.97,Bed009-c1,fh|s.%--,,,,um - | then of course the uh - um - you know ==
+2163.72,2164.1,Bed009-c1,qo,,,,what is it ?
+2164.21,2165.32,Bed009-c1,s^rt,,,,poverty of the stimulus .
+2165.32,2167.7,Bed009-c1,s,,,,yet the m- - uh - the less we get of that the better .
+2168.7,2174.98,Bed009-c1,fh|qo,,,,and um - | so we - we're thinking for example how much syntactic analysis actually happens already in the parser ?
+2175.6,2175.92,Bed009-c3,b,,,,hmm .
+2175.64,2178.59,Bed009-c1,s^rt,,,,and whether one could interface to that potentially .
+2178.3,2178.57,Bed009-c3,fg,,,,yeah .
+2178.78,2180.45,Bed009-c3,qy.%--,,,,are there currently - is uh ?==
+2180.45,2181.96,Bed009-c3,s^rt,,,,no syntactic analysis .
+2182.64,2185.09,Bed009-c3,s,,,,but in the next release there will be some .
+2185.53,2185.75,Bed009-c1,b,,,,hmm .
+2186.2,2186.69,Bed009-c5,qw.%--,,,,how's it ?==
+2186.35,2186.83,Bed009-c3,s.%--,,,,unless ==
+2186.83,2187.78,Bed009-c3,s.%--,,,,and it's ==
+2187.78,2189.27,Bed009-c3,fg,,,,um - uh ==
+2189.27,2191.02,Bed009-c3,s.%--,,,,you can access this ==
+2191.47,2196.89,Bed009-c5,fg|s,2a,,,s- - so uh - | y- - we - we looked at the e- - current pattern matching thing .
+2196.62,2196.89,Bed009-c3,s^aa,2b,,,hmm .
+2197.57,2200.39,Bed009-c5,s,,,,and as you say it's just a surface pattern matcher .
+2200.84,2202.88,Bed009-c5,qw,3a,,,uh - so what are - what are the plans roughly ?
+2203.7,2207.74,Bed009-c3,h|s^rt,3b,,,um - | it's to - to integrate and syntactic analysis .
+2208.71,2213.64,Bed009-c3,s^rt,,,,and um - add some more features like segmentation .
+2214.39,2223.13,Bed009-c3,s^rt,,,,so then an utter- - more than one utterance is - there um - there's often uh - pause between it .
+2223.89,2226.37,Bed009-c3,s,,,,and a segmentation occurs .
+2229.07,2231,Bed009-c5,s.%-,,,,so the um ==
+2229.34,2229.66,Bed009-c3,fh,,,,um ==
+2232.19,2238.05,Bed009-c5,s^bu.%--,,,,so the idea is to uh - have a pa- - y- - y- - a particular ==
+2233.27,2233.53,Bed009-c3,b,,,,yeah .
+2238.05,2240.24,Bed009-c5,qy^rt,4a,,,do you have a particular parser in mind ?
+2240.24,2242.82,Bed009-c5,qy.%--,4a+,,,is it uh - partic- - d- ?==
+2242.82,2244.15,Bed009-c5,qy.%--,4a++,,,i mean - have you thought through ?==
+2245.23,2247.17,Bed009-c5,qy^rt,4a+++,20=l=a;d.a,,is it an h_p_s_g parser ?
+2247.17,2248.23,Bed009-c5,qrr^rt,4a++++,,,is it a whatever ?
+2248.75,2251.99,Bed009-c3,s^ar|s.%--,4b,b,,no - no | it's - uh - i think it's it's totally complicated for ==
+2252.53,2253.88,Bed009-c3,s,4b+,c,,it's just one - one person .
+2252.67,2252.99,Bed009-c5,fg,,,,o_k .
+2253.88,2256.28,Bed009-c3,s.%-,5a,,,and so i have to keep the ==
+2255.65,2256.36,Bed009-c5,s^bk|s^bu,5b.6a,r,,oh | you have to do it .
+2256.48,2257,Bed009-c5,s^bk^r,5b+.6a+,,,you have to do it .
+2257,2257.17,Bed009-c5,b,,,,yeah .
+2257.35,2257.63,Bed009-c3,s^aa,6b,30=l=a;g.a,,yeah .
+2257.94,2260.63,Bed009-c3,s,7a,b,,ah - and so things must be simpler .
+2261.27,2261.7,Bed009-c5,s^bk,7b,c,,i see .
+2261.7,2261.98,Bed009-c5,%-,,,,so ==
+2262.11,2266.57,Bed009-c3,s,,,,but uh - miel syntactic analysis with um - finite state transducers .
+2264.16,2265.63,Bed009-c5,s.%-,,,,but the people at d_f_- ==
+2266.23,2266.52,Bed009-c5,fg,,,,yeah .
+2267.01,2269.55,Bed009-c5,s,,,,people at d_f_k_i have written a fair number of parsers .
+2270.79,2275.56,Bed009-c5,s,8a,,,other - you know - people over the years uh - have written various parsers at d_f_k_i .
+2275.56,2277.44,Bed009-c5,qy^d^rt,8a+,,,none of them are suitable ?
+2277.61,2278.73,Bed009-c5,s^df,9a,,,i - i - i - d- - i'm asking .
+2278.73,2279.11,Bed009-c5,s^df^no,9a+,,,i don't know .
+2279.33,2282.81,Bed009-c3,s^bk|s,9b.8b,,,yeah | uh - the problem is th- - that it has to be very fast .
+2282.81,2287.46,Bed009-c3,s.%--,,,,because um - if you want to for more than one path anywhere ==
+2284.74,2285.01,Bed009-c5,s^bk,,,,o_k .
+2288.36,2291.43,Bed009-c3,qo,,,,what's in the latches from the speech recognizer ?
+2289.74,2290.08,Bed009-c5,b,,,,mm-hmm .
+2291.43,2293.63,Bed009-c3,s,,,,so it's - speed is crucial .
+2293.63,2293.88,Bed009-c3,fh,,,,uh ==
+2295.94,2297.68,Bed009-c3,s,,,,and they are not fast enough .
+2298.38,2298.69,Bed009-c5,b,,,,mm-hmm .
+2300.5,2306.11,Bed009-c3,s,10a,,,and they also have to be very robust cuz of um - speech recognition errors .
+2306.12,2306.38,Bed009-c3,%--,,,,and {@reject@} ==
+2306.42,2306.8,Bed009-c5,s^bk,10b,,,o_k .
+2307.22,2317.37,Bed009-c5,fg|s,,,,so um - | so there was a chunk parser in verbmobil that was one of the uh - branchers .
+2317.37,2318.21,Bed009-c5,s.%--,,,,you know - they - d- - th- - i c- ==
+2318.21,2324.81,Bed009-c5,s,,,,there were these various uh - competing uh - syntax modules .
+2325.73,2328.09,Bed009-c5,s,,,,and i know one of them was a chunk parser .
+2328.09,2330.18,Bed009-c5,s,1a,,,and i don't remember who did that .
+2331.08,2332.75,Bed009-c3,s.%--,1b-1,,,i think it's that ==
+2331.47,2332.34,Bed009-c1,qy^d^rt,1b-2,,,a- - alan ?
+2334.04,2334.28,Bed009-c3,s.%--,1b-1+,,,might ==
+2334.39,2336.29,Bed009-c3,s,,,,at tuebingen i thought .
+2336.98,2337.89,Bed009-c5,s^bk|s^no,,,,yeah | i d- - i don't remember .
+2337.98,2340.24,Bed009-c3,qy,2a,,,was - do you know something about that ?
+2341.41,2344.83,Bed009-c0,s,2b.3a,,,tubingen was at least involved in putting the chunks together .
+2341.86,2342.8,Bed009-c3,%-,,,,in tub- - at ==
+2345.21,2350.47,Bed009-c0,s,2b+.3a+,,,i - can't quite recall whether they actually produced the chunks in the first place .
+2350.56,2350.9,Bed009-c3,s^bk,3b-1,,,oh .
+2350.93,2351.54,Bed009-c5,s^bk,3b-2,,,uh - i see .
+2351.54,2352.02,Bed009-c5,s^aa,,r,,yeah that's right .
+2352.23,2353.41,Bed009-c0,%-,,,,or wh- ==
+2352.26,2352.49,Bed009-c5,s.%--,,,,there w- ==
+2352.34,2354.05,Bed009-c3,s,,,,oh from - from stuttgart .
+2352.49,2352.87,Bed009-c5,s^aa,,,,that's right .
+2352.87,2359.72,Bed009-c5,s,,,,they w- - they had - there were - this was done with a two phase thing where the chunk parser itself was pretty stupid .
+2354.05,2354.48,Bed009-c3,fg|%-,,,,yeah | also ==
+2359.72,2364.06,Bed009-c5,s,,,,and then there was a - kind of - trying to fit them together that h- - used more context .
+2362.03,2362.32,Bed009-c0,b,,,,right .
+2363.05,2363.32,Bed009-c0,b,,,,yeah .
+2364.27,2364.48,Bed009-c5,b,,,,right .
+2365.9,2368.69,Bed009-c0,fg|s,,,,well | you s- - and - and especially you did some - some .
+2369.25,2371.04,Bed009-c0,fh,,,,um - l- - um ==
+2371.78,2375.3,Bed009-c0,s,,,,was a learning-based approach which learned from a big corpus of - of trees .
+2374.55,2374.76,Bed009-c5,s^aa,,r,,right .
+2374.8,2375.18,Bed009-c3,b,,,,mm-hmm .
+2375.51,2375.67,Bed009-c5,b,,,,right .
+2375.71,2382.67,Bed009-c0,s,,,,and yes the - it - the chunk parser was a finite-state machine that um - mark light originally w- - worked on in - while he was in tuebingen .
+2382.67,2385.93,Bed009-c0,s,,,,and then somebody else in tuebingen picked that up so it was done in tuebingen .
+2385.93,2386.12,Bed009-c0,b,,,,yeah .
+2386.32,2386.68,Bed009-c0,b,,,,definitely .
+2386.73,2387.9,Bed009-c5,qy^rt.%--,4a,,,but is that the kind of thing y- ?==
+2387.9,2390.13,Bed009-c5,s,4a+,,,it sounds like the kind of thing that you were thinking of .
+2391.25,2391.51,Bed009-c3,s^aa,4b-1,,,yeah .
+2391.65,2392.59,Bed009-c0,s^aa|s,4b-2,,,yeah | i guess it's similar .
+2392.16,2392.25,Bed009-c3,s^aa,,,,yeah .
+2392.31,2395.62,Bed009-c3,s,5a,,,that's in this direction .
+2395.62,2395.79,Bed009-c3,s^aa,5a+,,,yes .
+2396.06,2396.15,Bed009-c5,qw^br,5b.6a,,,what ?
+2396.83,2398.33,Bed009-c3,s^r,6b,r,,yeah it's in - in this direction .

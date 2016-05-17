@@ -1,0 +1,278 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3489_1425_1051
+TOPIC#:		335
+DATE:		911209
+TRANSCRIBER:	glp
+UTT_CODER:      mmab
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	3
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+======================================================================
+  
+
+o          A.1 utt1:   Okay, Jerry,  /
+sd^t          A.1 utt2: I guess tonight's topic is about recycling. /  
+
+b          @B.2 utt1:   Uh-huh. /  
+
+sd          A.3 utt1:   {C And } I'd like to tell you first of all what's happening in our community --   
+
+b          B.4 utt1:   All right. /  
+
++          A.5 utt1:   -- here in Plano.  /
+sd          A.5 utt2:  Right now we have a pretty nice recycling program where a lot of the recyclable materials can be picked up [ by the, + by the ] collection agency or [ the, + the ] city along with your garbage can.  /
+sd          A.5 utt3: {F Uh, } you can put out newspaper,  /
+sd          A.5 utt4: you can put out glass,  /
+sd          A.5 utt5: you can put out aluminum cans,  /
+sd          A.5 utt6: you can [ put, + put ] out certain types of plastic material  /
+sd          A.5 utt7: {C and } that is on a roll out effort right now.  /
+sd          A.5 utt8: Not all the citizens and the people in Plano can go ahead and, {F uh, } participate right now,  /
+sd          A.5 utt9: {C but, } {F uh, } that will be rolled out to everyone, I hope, in the next year or so.  /
+sd          A.5 utt10: {C And } those that aren't participating, they have the specific drop off sites where you can take glass and newspaper and aluminum.  /
+sv          A.5 utt11: {C And } I think, {F uh, } overall that's [ an, + an ] excellent opportunity  /
+sd          A.5 utt12: {C because } I hate to see our landfills being filled up and, {F uh, } growing bigger and bigger and  bigger where they are becoming a big problem for [ o-, + not only ] the people that are living today, but for the future also.  /
+%          A.5 utt13:  {C So, } -/  
+
+b          B.6 utt1:   Yeah,  /
+%          B.6 utt2: {F uh, } I was read-, -/  
+
+qo          A.7 utt1:   How about your community? /  
+
+b          B.8 utt1:   <Laughter> My community,  /
+ba          B.8 utt2: that's cute. /  
+
+x          A.9 utt1:   <Laughter>.   
+
+sd          B.10 utt1:   I live in a place called Dye Mound. /  
+
+br          A.11 utt1:   Dye Mound? /  
+
+sd          B.12 utt1:   Or Dye Community. /  
+
+b          A.13 utt1:   Uh-huh. /  
+
+sd          B.14 utt1:   {C And } it's not a city, <lipsmack> not incorporated,  /
+sd          B.14 utt2: my nearest neighbor's about a half a mile at least, /  
+
+x          A.15 utt1:   <Laughter>.   
+
+sd          B.16 utt1:   I can't even see their house  /
+%          B.16 utt2: {C and, } {F uh, } -/  
+
+sd          A.17 utt1:   Sounds like a place where I grew up <laughter>. /  
+
+b          B.18 utt1:   Yeah,  /
+sd          B.18 utt2: {E I mean, } {F uh, } [ I'm out in, + I'm out in ] the wilderness. # Literally. # /  
+
+sd          A.19 utt1:  # {D Well, } I like it. # /  
+
+sd          B.20 utt1:   {C And, } {F uh, } {D well, } give you an idea,  /
+sd          B.20 utt2: it's three and a half miles of dirt road [ to the concrete, +   
+
+x          A.21 utt1:   <Laughter>.   
+
++          B.22 utt1:   {E I mean, } to the asphalt, ]  /
+sd          B.22 utt2: we're out there. /  
+
+b          A.23 utt1:   Uh-huh. /  
+
+sd          B.24 utt1:   {C And, } {F uh, } [ we, + I ] do some interesting recycling things. /  
+
+ba          A.25 utt1:   {D Well, } good. /  
+
+sd          B.26 utt1:   I'm building our house right now  /
+sd          B.26 utt2: {C and } I'm going to incorporate into my, {F uh, } garage area a weight activated, {F uh, } crusher. /  
+
+b          A.27 utt1:   {F Oh, } okay. /  
+
+sd          B.28 utt1:   {C So } when I drive the car [ in the, + in the ] driveway in the afternoon, [ it, + it ] will just drive it up on a ramp that actually puts me on top of [ the, + the, ] {F uh, } pressure side of a, {F uh, } hydraulic cylinder. /  
+
+b          A.29 utt1:   Uh-huh. /  
+
+sd          B.30 utt1:   {C And } the weight of the car will crush,   
+
+x          A.31 utt1:   <Cough>.   
+
++          B.32 utt1:   what's ever in the disposer. /  
+
+b          A.33 utt1:   Oh. /  
+
+sd          B.34 utt1:   [ Hope-, + hopefully, ] it's not my wife. /  
+
+x          A.35 utt1:   <Laughter>.   
+
+x          B.36 utt1:   <Laughter>.   
+
+ad          A.37 utt1:   {D Well, } let's hope not.  /
+sv          A.37 utt2:  You can [ be, + {F uh, } get ] in trouble for that. /  
+
+sd          B.38 utt1:   {D Well, } I thought [ I'd, + {D you know, } I'd ] use it as [ a, + an ] escapement type thing.  /
+qy^d          B.38 utt2:  I don't know if you're familiar with that operation,  /
+sd          B.38 utt3: {C but, } what you do is you just build up the pressure -- /  
+
+b          A.39 utt1:   Uh-huh. /  
+
+sd          B.40 utt1:   -- {C and then } you go over and release it  /
+sd          B.40 utt2: {C and then } [ it just, + it just ] drops, {D you know. } /  
+
+qy^g          A.41 utt1:   {D Well, } it's quite similar to a hydraulic jack, isn't it? /  
+
+na          B.42 utt1:   Very similar,  /
+ny          B.42 utt2: yeah. /  
+
+bk          A.43 utt1:   Okay,  /
+bk^r          A.43 utt2: okay. /  
+
+sd          B.44 utt1:   {D Well, } [ what, + what ] it will be, [ you just, + you ] drive up on the jack,  /
+sd          B.44 utt2: {C but } [ you, + it ] won't go down. /  
+
+b          A.45 utt1:   Yes,  /
+qy^d          A.45 utt2: until you release it. /  
+
+nd          B.46 utt1:   Until you pull the pin,  /
+%          B.46 utt2: yeah. /  
+
+b          A.47 utt1:   All right. /  
+
+sd          B.48 utt1:   {D Anyway } --   
+
+%          A.49 utt1:   I think, -/  
+
++          B.50 utt1:   -- I have another, {F uh, } recycling method I use. /  
+
+b          A.51 utt1:   Yes. /  
+
+qy          B.52 utt1:   You know all that junk mail you get? /  
+
+ny          A.53 utt1:   {F Oh, } <laughter> yes,  /
+sd^e          A.53 utt2: I sure do. /  
+
+sd(^q)          B.54 utt1:   The glossy paper that says, buy this, and send off for that and --   
+
+b          A.55 utt1:   Uh-huh. /  
+
++          B.56 utt1:   -- you have won and all that.  /
+sd          B.56 utt2:  {D Well, } anytime they send me a return envelope --   
+
+b          A.57 utt1:   Uh-huh. /  
+
++          B.58 utt1:   -- I put all that stuff back in the envelope --   
+
+b          A.59 utt1:   Oh. /  
+
++          B.60 utt1:   -- plus the other stuff that I, {D you know, } happen to gather up. /  
+
+x          A.61 utt1:   <Laughter>.   
+
+sd          B.62 utt1:   {C Because, } {F uh, } {D well, } like I say, we live a way  /
+sd          B.62 utt2: {C and } when you throw trash away, you throw it in my yard. /  
+
+b          A.63 utt1:   Yes. /  
+
+sd          B.64 utt1:   {C And } I don't like that -- /  
+
+b          A.65 utt1:   No. /  
+
+sd          B.66 utt1:   -- {C so } I don't do that.  /
+sd          B.66 utt2: {C So } I take it  /
+sd          B.66 utt3: [ {C and } I send, + {C and } I mail ] it back to them. /  
+
+ba          A.67 utt1:   {D Well, } great.  /
+ba          A.67 utt2:  That's excellent. /  
+
+sd          B.68 utt1:   I've had four companies actually stop mailing me stuff. /  
+
+sv          A.69 utt1:   <Laughter>  {D Well, } {F uh, } if a lot of people did that, then we wouldn't have a lot of this junk mail.  /
+ba          A.69 utt2:  That's a great idea.  /
+sd          A.69 utt3:  I hadn't thought about that  /
+sv          A.69 utt4: {C and } we might be able to incorporate some of that.  /
+%          A.69 utt5:  One thing, -/  
+
+b          B.70 utt1:   Yeah.  /
+sv          B.70 utt2:  {D Well, } I think one of [ the, + the ] best ways to [ eliminate, + {F uh, } {E or } help ] the recycling problem is to eliminate non reusable items. /  
+
+b          A.71 utt1:   Right. /  
+
+sd          B.72 utt1:   For instance, {F uh, } I saw a thing on, {F uh, } NOVA, {A I think it was } the other day. /  
+
+b          A.73 utt1:   Uh-huh. /  
+
+sd          B.74 utt1:   This guy has designed [ recyclable materials, + {E I mean } recyclable items. ] /  
+
+b          A.75 utt1:   Right. /  
+
+sd          B.76 utt1:   Whatever he makes, it's all out of the same thing. /  
+
+b          A.77 utt1:   Oh. /  
+
+sd          B.78 utt1:   {D See, } {C so, } plastic, it's all out of plastic. /  
+
+b          A.79 utt1:   Yes. /  
+
+sd          B.80 utt1:   If it's metal, it's all out of metal.  /
+sd          B.80 utt2:  [ [ It's, + he's a design, ] + he's a engineer, ] designing stuff. /  
+
+ba          A.81 utt1:   {D Well, } that's a great idea,  /
+ba^r          A.81 utt2: that's a great idea. /  
+
+sv          B.82 utt1:   [ {C And, } + {C and, } ] [ in-, + incorporating, ] {D you know, } reusable materials [ into [ your, + {F uh, } {D you know, } your -- ]   
+
+^2          A.83 utt1:   Products. /  
+
++          B.84 utt1:   -- assembly line + into your actual scheme of product operations ] is --   
+
+aa          A.85 utt1:   Yes. /  
+
++          B.86 utt1:   -- is the only way to really do it [ on a, + on a ] broad scale.  /
+sv          B.86 utt2: Make it financially, {F uh, } attractive to recycle -- /  
+
+b          A.87 utt1:   Uh-huh. /  
+
+sv          B.88 utt1:   -- {C and } somebody will find a way to make money at it. /  
+
+aa          A.89 utt1:   Yes,  /
+aa          A.89 utt2: they will. /  
+
+%          B.90 utt1:   {C And, } -/  
+
+aa          A.91 utt1:   Exactly. /  
+
+sd          B.92 utt1:   {D Well, } there is a guy in Dallas,  /
+sd          B.92 utt2: that's all he does. /  
+
+b          A.93 utt1:   {F Huh. } /  
+
+sd          B.94 utt1:   He collects trash.  {D You know, }  /
+%          B.94 utt2: {C and, } -/  
+
+sv          A.95 utt1:   <Laughter>  {D Well, } that's a full time job. /  
+
+aa          B.96 utt1:   Yeah,  /
+sv          B.96 utt2: {D well, }  [ he's, + he's ] out for cardboard. /  
+
+aa          A.97 utt1:   Yes,  /
+sd          A.97 utt2: {D well, } I've found out, too, that, {F uh, } {D you know, } a couple years ago, - /
+sd          A.97 utt3: we've always been recycling <noise> newspaper for the last twelve years,  /
+sd          A.97 utt4: {C and } at one time we could get a pretty good return, {F uh, } with the Boy Scouts.  /
+sd          A.97 utt5:  We could take and collect the newspaper, / 

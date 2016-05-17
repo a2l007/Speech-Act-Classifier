@@ -1,0 +1,281 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2927_1260_1078
+TOPIC#:		313
+DATE:		910520
+TRANSCRIBER:	khb
+UTT_CODER:      lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        There were faint voices in the background all through the 
+conversation on side B - possibly television.
+
+===========================================================================
+  
+
+sd          A.1 utt1:  {D Well, } I'm talking to you from Dallas.  /
+qw          A.1 utt2:  What part of the country are you in? /  
+
+sd         B.2 utt1:  <Talking> {F Oh, } {D boy, } this is going to be tough, I'm in Plano <laughter>. /  
+
+ad            A.3 utt1:  <Laughter> {D Well, } we can, {F uh, } complain together (( or swear )) we can complain together about the humidity <laughter>. /  
+
+aa          B.4 utt1:  Exactly.  /
+qy^d           B.4 utt2:  I guess the weather hasn't been too different between us. /  
+
+nn          A.5 utt1:  No,  /
+ng          A.5 utt2: I don't think so,  /
+ng          A.5 utt3: I wouldn't think,  /
+%          A.5 utt4: yeah.  /
+%          A.5 utt5:  I, -/  
+
+%          B.6 utt1:  W-, - /
+qw          B.6 utt2: what part of Dallas are you from? /  
+
+sd          A.7 utt1:  Far north Dallas <laughter>. /  
+
+b^m          B.8 utt1:  {F Oh, } north Dallas. /  
+
+aa          A.9 utt1:  Yeah,  /
+sd          A.9 utt2: about a half a mile from Plano <laughter>. /  
+
+ba          B.10 utt1:  {D Well, } jeez. /  
+
+sd          A.11 utt1:  # {C So } we're in the, # -/  
+
+qy^d           B.12 utt1:  # {D Well } then you've been # getting quite a bit of rain also. /  
+
+ny          A.13 utt1:  Yeah,  /
+sd^e          A.13 utt2: it's been very, very rainy, I know.  /
+%          A.13 utt3:  {F Oh } -- /  
+
+bh          B.14 utt1:  How about that.  /
+qw          B.14 utt2: How does it compare to the years past? /  
+
+sd           A.15 utt1:  -- {F um, } I don't know, I haven't lived here, {A let's see, } we [ m-, + ] lived out of state in Wisconsin  /
+sd          A.15 utt2: {C and } we just c-, - /
+sd          A.15 utt3: we lived here  ten years ago,  /
+sd           A.15 utt4: {C and } when we first lived here, [ we l-, + ] we were in Garland, East Richardson,   
+
+b          B.16 utt1:  Uh-huh. /  
+
++          A.17 utt1:  and, {F um, } doesn't seem like it was quite as humid. /  
+
+b          B.18 utt1:  Oh. /  
+
+sd           A.19 utt1:  {C And, } I don't know, then [ we went, + ] we lived in, {F uh, } Madison, Wisconsin for five years, {F um, } for my husband's [ schooling, a-, +  graduate schooling, ]  /
+%          A.19 utt2:  {C and } it just, - /
+sd          A.19 utt3: it's a lot cleaner up there,  /
+sd          A.19 utt4: {C but, } {F um, }  it's a lot colder too. /  
+
+b          B.20 utt1:  Huh.  /
+qw          B.20 utt2: {D Well, } what brought you guys down to Texas then? /  
+
+sd           A.21 utt1:  {F Uh, } his job, he came back to start work again for a different company,  /
+sd(^q)       A.21 utt2: {C so, }  # said, #   
+
+bh          B.22 utt1:  # How #  # about that. # /  
+
++          A.23 utt1:  # Here, here's # a g-, - /
+^q          A.23 utt2: here we are again. /  
+
+ba          B.24 utt1:  That's great. /  
+
+sd          A.25 utt1:  It just seems a little more humid than it, - /
+sd           A.25 utt2:  I don't ever remember, of course, {D you know, } you only remember the good stuff,  /
+sd          A.25 utt3:  {C but, } {F um, } I just don't remember the humidity. /  
+
+b          B.26 utt1:  Right.  /
+sv          B.26 utt2:  # {D Well } # --   
+
+sd          A.27 utt1:  # This # much rain, and this much humidity. /  
+
++           B.28 utt1:  -- {D definitely, } I'm sure, the winters are more mild here. /  
+
+aa          A.29 utt1:  {F Uh, } yeah,  /
+sd          A.29 utt2: they are.  /
+sd           A.29 utt3: {D Actually, } though, it was a lot rainier here in the winter, {F uh, } we came back last August. /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd           A.31 utt1:  It's just a lot rainier than I remember it,  all [ th-, + ] through the seasons, {D you know. } /  
+
+b          B.32 utt1:  Sure. /  
+
+%          A.33 utt1:  {F Um, } /  
+
+sd          B.34 utt1:  It seems that progressive, - /
+sd           B.34 utt2: I've, been down here five years, just over five years now, that, every spring and summer seems to get more and  more rainy. /  
+
+aa          A.35 utt1:  Yeah,  /
+sv           A.35 utt2: {C and } I think it's because it's just getting more crowded and more polluted.  /
+sv          A.35 utt3: I really do think that's part of it. /  
+
+b          B.36 utt1:  Huh. /  
+
+sd          A.37 utt1:  {F Um, } {F uh, } [ in, + in ] Wisconsin and Minnesota, when they get winters [ it's, + ] {F um, } [ th-, + ] the winters are bad, but not what you hear about.  /
+sv           A.37 utt2:   It's just like down here, [ when you hear, + ] when people here think it's  a hundred and six, people up north think it's a hundred and sixty down here. /  
+
+b^m          B.38 utt1:  A hundred and sixty. /  
+
+sd^r          A.39 utt1:  Hundre-, - /
+sd          A.39 utt2: I'm making that up. /  
+
+b          B.40 utt1:  # Uh-huh,  /
+b          B.40 utt2: right. # /  
+
+sd           A.41 utt1:  # {D You know, } when # it's only {D like } ninety-five. /  
+
+b          B.42 utt1:  Sure. /  
+
+sv           A.43 utt1:  {F Um, } it's just like up there, when you hear it's forty below, it's probably really only five below. /  
+
+b          B.44 utt1:  Right. /  
+
+sd           A.45 utt1:  {F Um, } {C and } it's so dry, that [ it's, + it's ]  like going to Ar-, - /
+sd            A.45 utt2: {D well, } probably what [ y-, + ] Arizona used to be like, {D you know, }   
+
+b          B.46 utt1:  Uh-huh. /  
+
++          A.47 utt1:  it's just dry and cool,  /
+sv           A.47 utt2: {C so } [ it's not, + it's not ]  what you think it is. /  
+
+aa          B.48 utt1:  True. /  
+
+ar          A.49 utt1:  {F Um, } no,  /
+sd           A.49 utt2: there have been times, though, when it gets so frigid that you <laughter>,   
+
+x          B.50 utt1:  <Laughter>.   
+
++          A.51 utt1:  you can't stand it.  /
+qw          A.51 utt2:  Where did you move here from? /  
+
+sd          B.52 utt1:  Colorado. /  
+
+%          A.53 utt1:  {D Well, } there, - /
+sv        A.53 utt2: you could talk about [ [ that, + that's, ] +   
+
+aa          B.54 utt1:  # {F Oh } sure, [ [ I, + I'm {F uh, } # ] +   
+
++          A.55 utt1:  # that's ] a strange state for, # -/  
+
++          B.56 utt1:  I'm ] very familiar, - /
+sd           B.56 utt2: my grandparents and all my relatives are from Wisconsin. /  
+
+bk          A.57 utt1:  {F Oh, } there you go, okay. /  
+
+sd           B.58 utt1:  {C So, } I'm, {F uh, } quite familiar with how it is  up there,  /
+%          B.58 utt2: {C and } if you, - /
+sv           B.58 utt3: kind of interesting, {F uh, } the people down here typically  don't think it gets above, {D you know, } fifty degrees <laughter>. /  
+
+aa          A.59 utt1:  <Laughter>  This is very true. /  
+
+sd          B.60 utt1:  {C And } it's always snow, {D you know, }  /
+%          B.60 utt2: {C but, } {F uh, } -/  
+
+aa          A.61 utt1:  Yeah,  /
+aa          A.61 utt2: right,  /
+sd            A.61 utt3: {D well } {D actually, } the summers up there, we thought, were the most beautiful time of the year. /  
+
+aa          B.62 utt1:  {F Oh } yes. /  
+
+sd           A.63 utt1:  {F Um, } in terms of Colorado, I know my husband likes to  camp and backpack and  all the stuff I don't like, {F um, } /  
+
+x          B.64 utt1:  <Laughter>.   
+
+%          A.65 utt1:  {C but } I'd, - /
+sd          A.65 utt2: used to go on, - /
+sd          A.65 utt3: I worked for a mortgage company in Wisconsin  /
+sd           A.65 utt4: {C and } I did a lot of business in, {F uh, } {F um, }  [ Colo-, + ] {D well, } Denver,  /
+sd            A.65 utt5: {C and } [ that's, + that's ] probably one of the stranger things, when you see the air inversions,   
+
+b          B.66 utt1:  Uh-huh. /  
+
++          A.67 utt1:  and then you go into the mountains  /
+sd          A.67 utt2: {C and } it's snowy  /
+sd            A.67 utt3: {C and } [ col-, + ] {F uh, } it just was a very mixed bag in terms # of Colorado. # /  
+
+aa          B.68 utt1:  # {F Oh } sure. #  /
+sd           B.68 utt2:  My parents just live, {F uh, } thirty miles south of Denver  /
+sd           B.68 utt3: {C and } it can be sunny [ and, + and ] no problem in Denver  /
+sd          B.68 utt4: {C and }  they'll be having snow <throat_clearing>. /  
+
+bh          A.69 utt1:  Isn't that strange? /  
+
+sd           B.70 utt1:  {C So } it's pretty amazing, it can be that drastic in  just a short distance <throat_clearing>. /  
+
+aa          A.71 utt1:  Yeah,  /
+sd          A.71 utt2: {C and then } things like torn-, - /
+qy           A.71 utt3: are there tornadoes in Colorado, yes or  n-, I don't, -/  
+
+na           B.72 utt1:  {F Uh, } it's getting to be more and more of a possibility. /  
+
+b          A.73 utt1:  Yeah. /  
+
+sd            B.74 utt1:  It used to be no problem, just because it was such [ a, + a ] rugged terrain and with trees everywhere,  /
+sd          B.74 utt2: {C but } now,   
+
+bf          A.75 utt1:  # The mountains,  /
+%          A.75 utt2: yeah. # /  
+
++          B.76 utt1:  # as they start to clear # more things out. /  
+
+%          A.77 utt1:  Even, {E I mean, } - /
+sd          A.77 utt2: I'm originally from  Pittsburgh, Pennsylvania,  /
+sd           A.77 utt3: {C and } I can tell you that, {F um, } they've even had, - /
+sd           A.77 utt4: in eastern  Ohio and western Pennsylvania, they've even had, I'm going to say, mini tornadoes  for lack of a better word. /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+sd           A.79 utt1:  [ {C And, } + {C and } ] that's just a part of the country that it's rolling hillside.  /
+sd          A.79 utt2: That was unheard of, {D you know, } twenty years ago. /  
+
+b          B.80 utt1:  Right. /  
+
+sd            A.81 utt1:  {F Um, } {C so } I don't know what's happening, if it's, {D you know, }  we are, the greenhouse, I don't really know. /  
+
+aa          B.82 utt1:  Yeah,  /
+sd          B.82 utt2: me neither. /  
+
+sv          A.83 utt1:  It's just, {D you know. }   
+
+%          B.84 utt1:  {C But, } -/  
+
++          A.85 utt1:  It's definitely not as, {F um, } - /
+sd           A.85 utt2: I know I associate the pollution with weather in general,  /
+sd           A.85 utt3: {C so } I guess one thing we do miss, is that's a smaller town,  /
+sd          A.85 utt4: {C and } [ it w-, + it was, ] - /
+sd           A.85 utt5: it just seemed a little bit more  pleasant in terms of the atmosphere, {D you know. } /  
+
+aa          B.86 utt1:  Sure,  /
+aa^r          B.86 utt2: sure.  /
+fc          B.86 utt3:  {D Well, } it's been good talking to you. /  
+
+fc          A.87 utt1:  You too. /  
+
+fc          B.88 utt1:  # Good-bye </talking>. # /  
+
+fc          A.89 utt1:  # Okay. # /  
+
+fc^r          B.90 utt1:  Good-bye. /  
+
+fc          A.91 utt1:  Bye-bye. / 

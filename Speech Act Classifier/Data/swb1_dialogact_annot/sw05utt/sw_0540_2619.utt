@@ -1,0 +1,246 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2619_1110_1170
+TOPIC#:		347
+DATE:		910416
+TRANSCRIBER:	nk
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Some heavy breathing on Speaker B  B distorted.
+
+=============================================================================
+  
+
+qo          @A.1 utt1:  {D Well, } {F uh, } [ what + <laughter> what ] do you think about the metric system?  /
+qy          @A.1 utt2: {F Uh, }  do you, {F uh, } find it useable?  /
+qy          @A.1 utt3: Have you tried much with it? /  
+
+sd          B.2 utt1:  {D Well, } [ wi-, + with  ] an engineering,   
+
+b          A.3 utt1:  # Yeah. # /  
+
++          B.4 utt1:  # degree, # [ it's, + of course, it's ] a whole lot easier. /  
+
+b          A.5 utt1:  # Uh-huh. # /  
+
+%          B.6 utt1:  # {C because, } # {F uh, } -/  
+
+bf          A.7 utt1:  # To use you mean,  /
+b          A.7 utt2: uh-huh. # /  
+
+aa          B.8 utt1:  # yeah,  /
+sv          B.8 utt2: [  if, + if ] somebody [ ha-, + # is  ] totally unfamiliar with it, {F uh, } human nature being what it is we don't like to change. /  
+
+aa          A.9 utt1:  Yes. /  
+
+sd          B.10 utt1:  {F Uh, } it just absolutely makes perfectly good sense to me because it's all decimal. /  
+
+b          A.11 utt1:  Yes. /  
+
+sv          B.12 utt1:  {C And } it's so easy to convert from one set of units to another. /  
+
+b          A.13 utt1:  Uh-huh,  /
+b^r          A.13 utt2: uh-huh.  /
+%          A.13 utt3:  We, - /
+sd          A.13 utt4: well I've lived both in the United States [ and, + and  ] in a country where they do use the metric system  /
+sd          A.13 utt5: [ {C and, } +  {F uh, } {C so } ] [ I've, + I've ] lived with  ((   ))  pounds and inches and found it really quite easy to convert over.  /
+sv          A.13 utt6: {F Um, } the secret seeming to me to be to not bother ever converting inches to centimeters and,    
+
+aa          B.14 utt1:  # Right. # /  
+
++          A.15 utt1:  # pounds # to [ kilom-, + {F uh, } {F uh, } kilograms, ] /  
+
+aa          B.16 utt1:  # That's right. # /  
+
+sv(^q)          A.17 utt1:  # {C and, } I # think that's what hung people up the most is they went now wait a minute, an inch is two point fifty-four centimeters, /  
+
+b          B.18 utt1:  # Right. # /  
+
+^q          A.19 utt1:  # how # on earth am I every going to do the math? /  *[[spelling]]
+
+b          B.20 utt1:  Right. /  
+
+sv          A.21 utt1:  {C And } the problem is that we tried to convert everything from inches to centimeters preserving basically the inches but expressing them as centimeters rather than saying no, a centimeter is about the width of your thumbnail, or  whatever,  [ and, + {D you know, } <laughter> and ] leaving it at that  /
+sd          A.21 utt2: {C and, } {F uh, } {D you know, } a kilogram weighs about this much  /
+sv          A.21 utt3: {C and } get used to it from scratch,  /
+sd          A.21 utt4: {C cause } I still can't convert back and forth from inches to centimeters  /
+sd          A.21 utt5: {C but } I'm perfectly comfortable using either. /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sv          A.23 utt1:  {C And } I think the real problem with [ this, + this ] weird conversion, [ yo-, + you  ] see signs that say fifty-five miles per hour and, {D you know, } whatever it would be one hundred six kilometers per hour, {D you know, } - /
+%          A.23 utt2: people, {D you know, } - /
+sv          A.23 utt3: it's hard to take it seriously. /  
+
+b          B.24 utt1:  {F Oh, } yeah. /  
+
+sd          A.25 utt1:  {C And } as long as both were given, you, basically, just don't read the kilometers per hour,  /
+sd(^q)          A.25 utt2: you just say, {D well } look read the miles per hour one,  /
+^q          A.25 utt3: the other one must be for someone else. /  
+
+aa          B.26 utt1:  That's right. /  
+
+h          A.27 utt1:  {F Uh, } I don't know,  /
+sd          A.27 utt2: I mean even Britain has converted over  /
+sd          A.27 utt3: {C and } we inherited this mess from them  /
+%          A.27 utt4: {C and, } {F uh, } -/  
+
+aa          B.28 utt1:  # That's right,  /
+sv          B.28 utt2: it's all their fault. # /  
+
+sv          A.29 utt1:  # <Laughter>  {D Well, } {E I mean, } it's more # our fault than theirs at this point  because [ they, + they ] saw the light, {F um, }  /
+%          A.29 utt2: I don't know why they [ we-, + {F um, } were ] more able than we were  /
+sv(^q)          A.29 utt3: except I think, that they probably just said {D well, } we're just going to start using the things now  /
+sv          A.29 utt4: {C and } you sort of have to force people to change since they don't want to <laughter>. /  
+
+%          B.30 utt1:  Of course, being part of the European community, if everybody else did it [ they, + they  ] were probably much more, - /
+sv          B.30 utt2: is much more necessary for them than for us. /  
+
+aa          A.31 utt1:  That's true,  /
+aa          A.31 utt2: [ that's, + that's ] probably true  /
+sd          A.31 utt3: {C and } America does have a long history of sort of doing things our own way <laughter>  rather than adopting, {D you know, } some other model. /  
+
+sd          B.32 utt1:  There's an expression for that,  /
+^q          B.32 utt2: With eyes on the past, backing confidently into the future. /  
+
+sd          A.33 utt1:  <Laughter> I've never heard that one,  /
+ba          A.33 utt2: that's very nice <laughter>.  /
+sv          A.33 utt3:  {F Oh, } {C so } I'm all for the metric system  and converting over  /
+%          A.33 utt4: {C and } I think, - /
+sv          A.33 utt5: I guess, my feeling is the way to do it [ is, + is ] to just start giving weights, {D you know, } have a very brief transition period and then just start giving weights and  kilometers, {F er, } just as in kilometers and weights and kilograms and everything like that and, {F uh, } just have people start using it rather than having people constantly trying to convert.  /
+sd          A.33 utt6: Remember me getting a package of something that said one pound,  /
+sd          A.33 utt7: this is a package of dates mind you,  /
+sd          A.33 utt8: [ it's, + was, ] presumably something you weigh fairly precisely,  /
+sd          A.33 utt9: it said one pound <throat_clearing>  /
+sd          A.33 utt10: {C and  then } in parenthesis it said four hundred fifty-four point six grams <laughter>. /  
+
+b          B.34 utt1:  Right,  /
+b^r          B.34 utt2: right. /  
+
+sd          A.35 utt1:  {C And, } as near as I could tell, seeing that was basically anti-metric propaganda  /
+sd(^q)          A.35 utt2: {C cause } anyone who would say, {D well } look I can either buy a pound of something at four hundred sixty-four point six grams which, of course, they couldn't weigh it out accurately anyway, {F um, }  /
+sd(^q)          A.35 utt3: every time I see something like  that I think, {D well, } [ that's, + that's ] an anti-metric argument. /  
+
+b          B.36 utt1:  Yeah.  /
+sv          B.36 utt2:  {D Well, } {F uh, } [ I, + I  ] don't think [ it'll, + it ] could ever happen [ with, + with ] a quick transition. /  
+
+qy          A.37 utt1:  You don't? /  
+
+nn          B.38 utt1:  No.  /
+sv          B.38 utt2:  [ I, + I ] think that would be the easiest way  /
+sv          B.38 utt3: {C but } human nature being such as it is,   
+
+b          A.39 utt1:  # Uh-huh,  /
+b^r          A.39 utt2: uh-huh. # /  
+
++          B.40 utt1:  # I would # think it would take, probably, two or three years before people [ co-, + could ] completely cut the cord. /  
+
+b          A.41 utt1:  Yeah,  /
+sd          A.41 utt2: {F oh, } {F oh, } that's what I was thinking by quick transition,  /
+sd          A.41 utt3: I didn't mean, {D you know, } I didn't mean like Sweden going over to right hand drive or  anything, {D you know, } <laughter>  /
+^q          A.41 utt4: at midnight, tonight we all switch over or  anything. /  
+
+qy          B.42 utt1:  Did they switch? /  
+
+^h          A.43 utt1:  {F Uh, } I believe so,  /
+ny          A.43 utt2: yeah,  /
+sd^e          A.43 utt3: {C and } I think they did it overnight  /
+sd          A.43 utt4: {C cause } {D you know, } you can't do it gradually.  <laughter>  /
+sd          A.43 utt5: That's an example of something you can't do gradually. /  
+
+aa          B.44 utt1:  {D Well } that's true.  /
+bf          B.44 utt2: [ It, + it ] has to be kind of a discreet transaction <laughter>. /  
+
+aa          A.45 utt1:  Yes,  /
+aa          A.45 utt2: it does <laughter>.  /
+sd          A.45 utt3: A quantum leap from left to right hand drive <laughter>. /  
+
+ba          B.46 utt1:  Interesting. /  
+
+%          A.47 utt1:  {C And } they, - /
+%          A.47 utt2: {C but, } {D you know,  } that must have taken, {F uh, } - /
+sd          A.47 utt3: that was something that had to be done quickly,    
+
+aa          B.48 utt1:  # {F Oh, } yes. # /  
+
++          A.49 utt1:  # {D you know, } # because of external circumstances,  /
+sd          A.49 utt2: {C but } they decided to do it to make themselves in sync with the rest of Europe,    
+
+b          B.50 utt1:  # Yeah. # /  
+
++          A.51 utt1:  # or # the rest of continental Europe  /
+sv          A.51 utt2: [ {C and, } +  {D you know. }     
+
+b          B.52 utt1:  Yeah. /  
+
++          A.53 utt1:  {C But } ] that must have been tremendously difficult to orchestrate. /  
+
+ba          B.54 utt1:  I'm sure. /  
+
+sv          A.55 utt1:  {F Um, } {C so } [ [ [ [ I, + I,  ] + I,  ] + I,  ] + I  ] think it's essential that it's done  /
+sv          A.55 utt2: {C and } I think the real trick is to avoid the <sigh>  {D you know, } - /
+sv          A.55 utt3: a little more attention to human psychology  /
+sv          A.55 utt4: {C and, } whereas, people want round numbers - /
+sd          A.55 utt5: {C and } after all, the whole reason to go over to metric is to have round numbers,    
+
+aa          B.56 utt1:  # Exactly,  /
+aa^r          B.56 utt2: exactly. # /  
+
++          A.57 utt1:  # {C so } they # don't deal with thirty seconds of an inch  /
+%          A.57 utt2: {C and so } what the exact, - /
+sv          A.57 utt3:  the thing that was best about metric was the thing that was most poorly represented.  /
+sv          A.57 utt4:  Really, I think. /  
+
+sd          B.58 utt1:  {D Well, } we do have the two liter soda pop bottles. /  
+
+b          A.59 utt1:  Uh-huh,  /
+sd          A.59 utt2: I saw that,  /
+sd          A.59 utt3: I saw that the other day.  /
+sd          A.59 utt4: I [ don-, + don't ] drink soda pop, /  
+
+b          B.60 utt1:  # Yeah. # /  
+
+sd          A.61 utt1:  # {C but } # I saw a two liter soda pop bottle  /
+%          A.61 utt2: {C so, } yeah,  /
+sv          A.61 utt3: things like that are a good start  /
+sd          A.61 utt4: {C and } if you start expressing one liters and one kilograms and then the pounds come in [ the, + the, ] {D you know, } the odd numbers,   
+
+aa          B.62 utt1:  # Right.  /
+aa          B.62 utt2:  Yes. # /  
+
++          A.63 utt1:  # {D you know, } # two point two pounds or something.  I think people will start getting a sense of, gee the metric is the sensible one. /  
+
+ba          B.64 utt1:  That's true.   /
+fc          B.64 utt2: {D Well, } sure have enjoyed our talk. /  
+
+fc          A.65 utt1:  Yes,  /
+fc          A.65 utt2: {D well } get back to what you're doing  /
+fc          A.65 utt3: {C and } I'll do the same.  /
+fc          A.65 utt4:  I enjoyed talking with you too. /  
+
+fc          B.66 utt1:  Okay,  /
+fc          B.66 utt2: God bless y-, - /
+fc          B.66 utt3: Bye-bye. /  
+
+fc          A.67 utt1:  Okay.  /
+fc          A.67 utt2:  Bye-bye. / 

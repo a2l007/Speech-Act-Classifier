@@ -1,0 +1,391 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2445_1214_1230
+TOPIC#:		321
+DATE:		910404
+TRANSCRIBER:	LAB
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	4
+BACKGROUND_B:	2
+REMARKS:        Speaker A was very hard to understand.  She mumbled a lot.
+
+==========================================================================
+  
+
+h          A.1 utt1:  I don't know, {F um, }  /
+qy          A.1 utt2: do you do a lot of camping? /  
+
+ng          B.2 utt1:  {D Well, } my husband and I haven't done  a whole lot of camping,  /
+sd          B.2 utt2: [ we, +  {C but } we ] bought a van last year, /  
+
+b          A.3 utt1:  Yeah. /  
+
+sd          B.4 utt1:  {C and } we were hoping, {F uh, } to do  some camping in the van, {F um, }  /
+sd          B.4 utt2: we did go camping  in [ [ Arkans-, +  not Arkansas, ] +  Oklahoma. ]  /
+sd          B.4 utt3:     {F Uh, } last year [ in, +  we camped in ] a tent,  /
+sd          B.4 utt4: {C and, } {F uh, } there were two other  couples with us  /
+sd          B.4 utt5: {C and } there was, {F uh, }   state park. /  
+
+b          A.5 utt1:  {F Oh, } {C so }  ((   )) , -/  
+
+sd          B.6 utt1:  {C And } it was really nice. /  
+
+b          A.7 utt1:  Yeah,  /
+sd          A.7 utt2: {F um, } up here some of the  state parks are really nice  /
+sd          A.7 utt3: {C and } some of them aren't,  /
+sd          A.7 utt4: some of them are pretty rough. /  
+
+bh          B.8 utt1:  Really? /  
+
+ny          A.9 utt1:  {F Um, } yeah,  /
+sd^e          A.9 utt2: [ they, +  they ] just have  {D like } outhouses,  /
+sd          A.9 utt3: they don't have {D like } a shower room or anything,  /
+%          A.9 utt4: (( yeah )) ,  /
+sd          A.9 utt5:  {C but } some of them are really nice  /
+sd          A.9 utt6: they have showers and full bathrooms, /  
+
+b          B.10 utt1:  {F Um. } /  
+
+h          A.11 utt1:  {F um, } {C but } I don't know,  /
+sd          A.11 utt2: [ I, +  I've ]  been camping a couple times  /
+sd          A.11 utt3: {C but } I'm not a real avid camper, {F uh, }  /
+sd          A.11 utt4: a lot of people I know are,   /
+%          A.11 utt5: {C but, } {F um, } [ I don't, +  I don't ] (( )) . -/  
+
+sd          B.12 utt1:  [ I, +  I ] don't like really camping in the rough.  /
+sd          B.12 utt2:   I like [ [ the, +  the, ] +  the ] little necessities like having electricity available  and running water and showers and things like that. /  
+
+b          A.13 utt1:  Yeah,  /
+sd          A.13 utt2:  ((   ))  [ we went, +  we went ]  once to a  (( lean-to ))  /
+%          A.13 utt3: {C and } it, {F um, } - /
+sd          A.13 utt4: {E I mean, }  there wasn't any electricity on the camp site  /
+sd          A.13 utt5:   {C but } it was all right,  /
+sd          A.13 utt6: we only spent two nights there.  /
+sd          A.13 utt7:  I wouldn't want to spend more than two nights.  /
+sd          A.13 utt8:  I wouldn't want to go for {D like } a week,  /
+sv          A.13 utt9: {C but, } {F um, }   
+
+aa          B.14 utt1:  Yeah,  /
+sv          B.14 utt2: [ that would, +  that would ] be much. /  
+
++          A.15 utt1:  two nights is good.  /
+sd          A.15 utt2: {F Um, }  especially there was a little store close by,  /
+sd          A.15 utt3: {C so, } it was pretty nice. /  
+
+b          B.16 utt1:  Yeah,  /
+sd          B.16 utt2: the campsite that we went to  was an area that, - /
+sd          B.16 utt3: it's right on a big lake,  /
+sd          B.16 utt4: {C and } there's a lot of boating out there,  /
+sd          B.16 utt5:  {C and } [ we, +  we ] went up there to hopefully be able to get on the water a little bit  /
+sd          B.16 utt6:  {C but } [ it was still, +  {F uh, } it was still, ] too, cold. /  
+
+bh          A.17 utt1:  {F Oh, } really?  /
+b          A.17 utt2: Oh. /  
+
+ny          B.18 utt1:  Yeah,  /
+sd^e          B.18 utt2: [ it, +  it ] was pretty early in the year. /  
+
+b          A.19 utt1:  {F Um, } yeah,  /
+sd          A.19 utt2: up here you got to wait until,  [ Aug-, +  August, ]  (( until the water warms up )) . /  
+
+b          B.20 utt1:  Yeah. /  
+
+sd          A.21 utt1:  {D Well, } it's not that bad  /
+sd          A.21 utt2:  {C but } it's still pretty chilly.  /
+h          A.21 utt3:  {F Um, } I don't know,  /
+sd          A.21 utt4:   [ I was, +  I have ] a tent  /
+sd          A.21 utt5: {C and } I  (( fluff out ))  in it,   in the backyard and stuff,  /
+sd          A.21 utt6: {C but } this thing about camping that bothers me  is you've got to pack everything  /
+%          A.21 utt7: {C and } another thing is the thing  seems to get, - /
+sd          A.21 utt8: it's   dirty <laughter> {D you know, } /  
+
+b         B.22 utt1:  Yeah. /  
+
+sd          A.23 utt1:  {C so, } you can't keep the dirt out of the tent.  /
+h          A.23 utt2:   I don't know  /
+sd          A.23 utt3: we have a seven year old,  /
+sd          A.23 utt4: it's pretty funny,  /
+%          A.23 utt5: # {D like } stay out. # /  
+
+b          B.24 utt1:  # Yeah,  /
+sd          B.24 utt2: [ [ we, +  we have, ] +  # we have ]  a dog  /
+sv          B.24 utt3: {C and } that's just about as bad as a kid <laughter>. /  
+
+b          A.25 utt1:  Yeah,  /
+sd          A.25 utt2:  (( boy, he doesn't go in and  out of the tent a hundred times )) .   
+
+b          B.26 utt1:  Uh-huh. /  
+
++          A.27 utt1:  And use it as a play, {F uh, } - /
+sd          A.27 utt2: they  like to play in them. /  
+
+b          B.28 utt1:  Yeah,  /
+sv          B.28 utt2: I don't know how you can really keep, {F uh, }  the inside of a tent clean. /  
+
+aa          A.29 utt1:   (( Yeah,  /
+aa          A.29 utt2: I don't know )) . /  
+
+sv          B.30 utt1:  Other than, {D you know, } taking your shoes  off right before you walk in or  something [ and, + and ]  sweeping it out everyday, it's really hard [ to, + to ] keep the sand and dirt out of it. /  
+
+b          A.31 utt1:  Yeah,  /
+sd          A.31 utt2: {D well, } what [ [ we were doing, +   we were just going to say, ] +  we're just going to sleep ] in the tent and hang out at night, so,  {D you know, } no going in and out, [ and, + or ] what he wants to do,  /
+sd          A.31 utt3:  we had brought his friend along, was play in the tent.  /
+sd(^q)          A.31 utt4: It was like, no, this is not working, <laughter>,  /
+^q          A.31 utt5:  you can't do that,  /
+^q          A.31 utt6: you get the tent all dirty. /  
+
+%          B.32 utt1:  Did, -/  
+
+^q          A.33 utt1:  {C Plus } you get it all wet,  /
+sd          A.33 utt2:  we were at a beach site, too. /  
+
+b          B.34 utt1:  Uh-huh.  /
+qy          B.34 utt2:  {F Um, } did you have another,  a big tent, [ [ like +  {F uh, } {F um, } like  a, ] +  looks like a ] sitting area type, {D you know, }  like a two room type  ((   )) ? /  
+
+nn          A.35 utt1:  No,  /
+sd^e          A.35 utt2: {C but, } {D you know, } I was just  thinking of getting one those for the yard because they are really nice  /
+sd          A.35 utt3:  {C and, } {F um, } up here [ we have, +  {F uh, }  we have ] quite a few mosquitoes at nighttime. /  
+
+b          B.36 utt1:  Yeah,  /
+b^r          B.36 utt2: yeah,  /
+sd          B.36 utt3: we don't really have a   problem with that, {F um, } in these areas, {F um, }  /
+sd          B.36 utt4: {C and } [ even, +  even ]  when in Oklahoma when we camped I really didn't notice a problem with bugs.  /
+%          B.36 utt5: {C And } I noticed that, - /
+%          B.36 utt6:  I know that I said, that's, - /
+sd          B.36 utt7: [ I've, +  I've ] lived back east before, {F um, } they, -/  
+
+sv          A.37 utt1:   (( They're ))  terrible,  /
+sv          A.37 utt2:  they're really terrible.  /
+%          A.37 utt3: {F Uh, } {C but, } there's this one campsite, that it, - /
+sd          A.37 utt4: just some of them are known  /
+sd          A.37 utt5:  {C but } there is one that's out in this big lake  /
+sd          A.37 utt6: {C and } [ [ it's, +  it's, ] + it's, ]  mosquitoes are terrible  /
+sd          A.37 utt7: {C and then } [ there's this, +  there's this ] other one  (( that's ))   more up in the mountains  /
+sd          A.37 utt8: {C but } it surrounds a man-made reservoir  /
+sd          A.37 utt9:  {C and } there's no bugs,  /
+sd          A.37 utt10: that's the whole thing that everyone told me, {F oh, }  /
+sd          A.37 utt11: [ I'm, +  I was ]  going to go to, [ Lit-, +  Little ] River State Park,  /
+sv          A.37 utt12: (( )) that place is  great,  /
+sd          A.37 utt13: there's no bugs. /  
+
+b          B.38 utt1:  {F Huh. } /  
+
+%          A.39 utt1:  {C But, } {F oh, } - /
+%          A.39 utt2: okay,  /
+sd          A.39 utt3:  {C because, } {F uh, } we were having a really big  problem up here in certain areas,  /
+sd          A.39 utt4: we were really affected  (( bad by it )) ,   but really got it, {F um, } - /
+sd          A.39 utt5:  almost destroyed [ the ch-, +  the  (( tourism )) ]   in one town, because of the mosquitoes,  /
+sd          A.39 utt6: they're so, bad. /  
+
+bh          B.40 utt1:  Really? /  
+
+ny          A.41 utt1:  Yeah,  /
+sd          A.41 utt2: [ that was, +  it's ]  a really nice area,  /
+sd          A.41 utt3: I've been there before  /
+%          A.41 utt4: {C and } it's, - /
+sd          A.41 utt5:  [ I, +  I ] couldn't imagine [ ge-, + ] living just  sixty miles north of them  /
+sd          A.41 utt6: {C but } [ they were plagued, +   they were plagued ] [ with them, +  with mosquitoes. ]  /
+sd          A.41 utt7: {C And } you can go [ out, +  outside ] in the daytime, all right,  /
+sd          A.41 utt8:  {C but } [ the minute the sun went down, +  {F um, } {A that's when it's usually, } the minute the sun sets ] the mosquitoes come out. /  
+
+h          B.42 utt1:  {F Huh. } /  
+
+sd          A.43 utt1:  {E I mean, } just the very second,  /
+sv          A.43 utt2: it's really strange.  /
+sd          A.43 utt3:  [ They, +  {F uh, } they ] must, {F uh, } work on that, {D you know, }  /
+sd          A.43 utt4: [ [ the, +  i-, ] +   it ] gets cooler when the sun sets  /
+sd          A.43 utt5: {C and then } they all come out. /  
+
+%          B.44 utt1:  {D Well, } [ have you ever, +  have you ever ]  taken any of those, {F um, } what do they call this,  ((   ))  lights,  /
+qy          B.44 utt2: have you ever used those? /  
+
+ny          A.45 utt1:  {F Oh, } yeah,  /
+ny          A.45 utt2: yeah,  /
+sd^e          A.45 utt3: I never really   noticed how effective they were,  /
+%          A.45 utt4: {C but, } {F um, } because that wasn't really, - /
+sd          A.45 utt5: I bought them,  ((   ))  /
+sd          A.45 utt6:   I really didn't get to use them like, {F oh, } there's mosquitoes  let's turn them.  /
+sd          A.45 utt7:  We just sort of lit them. /  
+
+b          B.46 utt1:  Uh-huh. /  
+
+sd          A.47 utt1:  {C And, } {F um, } we weren't bothered  that much by mosquitoes,  /
+sd          A.47 utt2: {C so, } we didn't really contribute it to that.  /
+sd          A.47 utt3: {C But, } {F um, }  I think in an area that's really thick with mosquitoes,  /
+sd          A.47 utt4: I can't see all this little, {F uh, }  smoke buckets I call them, /  
+
+b          B.48 utt1:  Yeah. /  
+
+%          A.49 utt1:   ((   ))  they work,  /
+sd          A.49 utt2:  {C but } they're suppose to work really well. /  
+
+b          B.50 utt1:  {F Huh. } /  
+
+sd          A.51 utt1:  {F Oh, } I'm in my paperwork here,  /
+sd^t          A.51 utt2:  that's what I do when I wait for a phone call,  /
+sd          A.51 utt3: I get in my paperwork <laughter>.  {F Oh, } to find my most important parts.  /
+%          A.51 utt4: {C But } [ I don't know, +  I don't know ]  if I'm going to go, - /
+sd          A.51 utt5: I wish was an avid camper  /
+sd          A.51 utt6: {C and } I could really talk about  like gardening or something,  /
+sv          A.51 utt7: you can talk about that a lot, /  
+
+b          B.52 utt1:  Uh-huh. /  
+
+sd          A.53 utt1:  {C but, } {F um, } I do want to go again.  /
+sd          A.53 utt2:  We just moved [ to a new hou-, +  into a house, ]  /
+%          A.53 utt3: {C so, } I don't think camping, - /
+%          A.53 utt4:  maybe in the backyard,  /
+sd          A.53 utt5: {C but } I don't see going on a camping trip probably until next summer. /  
+
+b          B.54 utt1:  Yeah,  /
+sd          B.54 utt2: [ I'd, +  I'd ] like to go  camping cross-country, {F um, }  /
+sd          B.54 utt3: I just got married less than two years ago,  /
+sd          B.54 utt4: {C so, } we don't have  [ any, +  any ] children yet, {F um, } /  
+
+sv          A.55 utt1:  {C So, } it's easy for you to go. /  
+
+aa          B.56 utt1:  Yeah,  /
+sv          B.56 utt2: {C so, } easy to pick up and go, and, s-, - /
+sd          B.56 utt3:  we have a van  /
+sd          B.56 utt4: {C and } we can just throw a couple of sleeping bags in the back of it. /  
+
+ba          A.57 utt1:  {F Um, } {F oh, } God <<very faint>>. /  
+
+sv          B.58 utt1:  {D So, } it's not really, I guess,  camping the way [ peop-, +  most people ] picture camping in the tent  /
+%          B.58 utt2: {C but, } -/  
+
+h          A.59 utt1:  I don't know  /
+sv          A.59 utt2: {C but } that sounds that  [ my, +  my ] kind of camping, it really does.  /
+%          A.59 utt3: Yeah,  /
+%          A.59 utt4: okay, {F um, } {D well, } {F um, }  /
+sv          A.59 utt5:  that [ is +  ((   ))  is ] to have [ a, +  a ] nice vehicle where you can have everything in it, plus your tent. /  
+
+b          B.60 utt1:  Yeah,  /
+%          B.60 utt2: [ {C or, } +  {C or } ]  get, - /
+sd          B.60 utt3: my brother has a real nice pop-up. /  
+
+b          A.61 utt1:  Yep. /  
+
+sd          B.62 utt1:  {C And } [ he just, +  he just ]  tows it behind his truck. /  
+
+%          A.63 utt1:  {F Um, } /  
+
+sd          B.64 utt1:  {C And } [ he, +  he's ] got three kids,  /
+sd          B.64 utt2:  {C so, } his kids will sleep in the truck, [ in the, +  in the ] back of the bed.  /
+sd          B.64 utt3: {F Um, }  {C and } they sleep in the pop-up. /  
+
+sv          A.65 utt1:  {D Well, } [ those, +  they're ] kind of nice  /
+sv          A.65 utt2:  {C but } they're also, {F um, } flimsy when you really look at them.   /
+sv          A.65 utt3: {C But } when you get inside  they're really nice, {D you know, } /  
+
+b          B.66 utt1:  Yeah. /  
+
+%          A.67 utt1:  everything's really, - /
+sd          A.67 utt2:  {C but } then when you look underneath them, it's just got these little wheels and this  ((   ))  little axle,  /
+sv(^q)          A.67 utt3:  it's like, {F oh, } my  /
+sv          A.67 utt4: {C and then } a big windstorm it would pick you up. /  
+
+b          B.68 utt1:  Yeah,  /
+sd          B.68 utt2: he did have a problem, {F uh, }  when he went camping last year in Beavers Bend, [ Ok-, +  Oklahoma, ] {F um, }  /
+sd          B.68 utt3: [ a, +  a ]  storm came in  /
+sd          B.68 utt4: {C and } it started raining really heavy  /
+sd          B.68 utt5: {C and } [ they were all, +  everybody was ]  trying to flee the campsite,  /
+sd          B.68 utt6: <laughter>, everybody was getting stuck in the mud. /  
+
+ba          A.69 utt1:  {F Oh, } jeez, /  
+
+%          B.70 utt1:  {C And, } {F uh, } -/  
+
+b          A.71 utt1:  yeah,  /
+qw          A.71 utt2: [ what do you, +  what do you ]  do when you get [ a, +  {E I mean, } {D like } a ]  really violent storm like a tornado,  /
+qw^d          A.71 utt3:  just stay in your truck.  /
+%          A.71 utt4: {E I mean, } I wouldn't stay in the, {F um, } -/  
+
+sd          B.72 utt1:  {D Well, } theirs was so bad,  /
+sd          B.72 utt2: {C and } they were so  close to the water that the water was coming up, /  
+
+b          A.73 utt1:  Oh. /  
+
+sd          B.74 utt1: {C and } they had to get out of there. /  
+
+qy          A.75 utt1:  {D So, } then, were they successful? /  
+
+ny          B.76 utt1:  Yeah,  /
+sd^e          B.76 utt2: [ they, +  {D yeah, } they ] were. /  
+
+qy          A.77 utt1:  {C But } it took them a little while? /  
+
+ny          B.78 utt1:  {C But, } yeah,  /
+sd^e          B.78 utt2: [ they +  <laughter> they ]  decided that, that was enough camping for the weekend. /  
+
+b          A.79 utt1:  Yeah,  /
+qy          A.79 utt2: {D so, } did they get stuck? /  
+
+nn          B.80 utt1:  No,  /
+sd^e          B.80 utt2: they ended up getting out.  /
+sd          B.80 utt3:  They ended up helping several other people though [ that were, + that were ] stuck. /  
+
+b          A.81 utt1:  Yeah,  {F huh. }  /
+bf          A.81 utt2:  {D Well, }  {C so, } they evacuated it <laughter>. /  
+
+aa          B.82 utt1:  Yeah,  /
+aa^r          B.82 utt2: yeah,  /
+sd          B.82 utt3: [ they, +  [ the whole, +   the whole ] campsite ] was evacuated. /  
+
+ba          A.83 utt1:  Wow. /  
+
+sd          B.84 utt1:  {E I mean } [ some, +  I think some ]  people that had fairly sturdy, {F um, } vehicles or  whatever if they had like a Winnebago or something  and they were farther in away from the water, I think they stayed. /  
+
+b          A.85 utt1:  Yeah. /  
+
+%          B.86 utt1:  {C But } everybody that was real close  to the water ended up, - /
+sd          B.86 utt2: it was either that or their truck was going to go floating downstream. /  
+
+sd          A.87 utt1:  I know [ I always +  I ] like ((   ))   to get right on the water,  /
+%          A.87 utt2: (( yeah,  /
+%          A.87 utt3: by the )) campsite, it's so, -/  
+
+b          B.88 utt1:  Yeah. /  
+
+sd          A.89 utt1:   ((   ))  we have lean-tos up here.  /
+sd          A.89 utt2:   I really like them,  /
+sd          A.89 utt3: like I say, they're [ kind of, +  just kind of ] more  (( sturdy ))   than anything, {D you know, }  /
+%          A.89 utt4: [ just, +  just, ] -/  
+
+qy          B.90 utt1:  They have them right at the campsites? /  
+
+ny          A.91 utt1:  Yeah,  /
+sd^e          A.91 utt2: [ they're, +  they're ] lean-tos.  /
+sd@          A.91 utt3:   [ They're, +  {F um, }   *[[slash error?]]
+
+ba          B.92 utt1:  Wow. /  
+
++          A.93 utt1:  {D Yeah, }  they're ] pretty nice,  /
+sd          A.93 utt2:  [ [ they're, +  they're, ] +  {F uh, }   it's ] like a little house except the whole face is open,  /
+sd          A.93 utt3:  {C and } the one time that we went, we got one,  /
+sd          A.93 utt4: it was overlooking the water  /
+sd          A.93 utt5:  {C but } it was a big embankment,  /
+sd          A.93 utt6: I wanted to get one  right on the water.  /
+sd          A.93 utt7:   ((   ))  we had an electrical  storm too,  /
+sd          A.93 utt8: {C and } [ it was really, +  it was ] neat sitting there watching it,  /
+sd          A.93 utt9:  {E I mean, } it was raining,  /
+sd(^q)          A.93 utt10: when we called ((   ))  home, everybody said, {F oh, }  we were worried about you in that storm ... / 

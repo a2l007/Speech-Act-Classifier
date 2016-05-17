@@ -1,0 +1,455 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2525_1018_1042
+TOPIC#:		312
+DATE:		910409
+TRANSCRIBER:	csw
+UTT_CODER:      mmab
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	One small spot of dropout on Caller B, very minor.
+
+============================================================================
+  
+
+o          A.1 utt1:  Okay. /  
+
+sd          B.2 utt1:  All set.  /
+qy          B.2 utt2: Do you want to start? /  
+
+na          A.3 utt1:  I can go ahead and start, /  
+
+ad          @B.4 utt1:  Sure, go ahead. /  
+
+sv          A.5 utt1:  {F uh, } in Dallas there's definitely a crime problem,  /
+sv          A.5 utt2: I know it's, {D you know, } worse in the larger cities.  /
+sd          A.5 utt3: {F Um, }  it's kind of a concern for me,  /
+sd          A.5 utt4: in fact, at the moment I'm thinking of possibly moving to a new apartment  /
+%          A.5 utt5: {C and, }  {F uh, }  it's, - /
+sd          A.5 utt6:  I am single and female,  /
+sv          A.5 utt7: you definitely are going to worry about the location, and, {F uh, } {D you know, } accessibility of people to be able to break in.  /
+sd          A.5 utt8: I live on a third floor now,  /
+sd          A.5 utt9: {C but, }  [ I, +  {D you know, } I'm ] real concerned that [ I, + I ] don't want to be on a first floor where you can have problems with things like that,  /
+%          A.5 utt10: {C and, } the, {F um, } -/  
+
+qy          B.6 utt1:  Do they have many buildings that have security there? /  
+
+na          A.7 utt1:  Some buildings do,  /
+sd          A.7 utt2: it depends on the location.  /
+sd          A.7 utt3:  The area I live in right now, [ is, + is ] real good as far as crime rate is concerned  /
+sd          A.7 utt4: {C and } we don't have anything at all, no burglar alarms, no guards.  /
+sd@          A.7 utt5: [  Some, + some ] places do have guard gates that you have to get through, or electronic access gates and things like that.   
+
+b          B.8 utt1:  Yeah,  /
+b^r          B.8 utt2: yeah,  /
+sd          B.8 utt3: {D well } [ I, + I ] went to Dallas, {F uh, } when I worked for T I in Abilene  /
+sd          B.8 utt4: {C and, }  {F uh, }   
+
++@          A.9 utt1:   Uh-huh. /  
+
++          B.10 utt1:  I'm a little familiar with the city area, Forest Lane and, {D you know, } through that, [ off, + off ] the freeway. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1:  {C And, }  {F uh, } it didn't seem like it was that congested in [ that, + that ] part.  /
+sd          B.12 utt2:  {D You know }  {C because }  to me where we live out here in the north east, [ [ it, + it's ] + ] there are a lot of buildings very close to each other, /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  {C and } the cities are very populated with tenement housing,   
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  where there are more than one family in a house.    
+
+b          A.17 utt1:  {F Um. } /  
+
++          B.18 utt1:  [ And + ] with the, {F uh, } people that are coming into the country from other countries, not knowing the language  /
+sv          B.18 utt2: {C and, }  {F uh, } [ they-, + they're ] going to the big cities.  /
+sv          B.18 utt3: It makes it very difficult. /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sv          B.20 utt1:  It really does,  /
+sd          B.20 utt2: [ {C and, } + {C and } ] I've seen the same thing that you're talking about, {F uh, } much more crime than ever before.    
+
+b          A.21 utt1:  Uh-huh. /  
+
++          B.22 utt1:  Drugs of course, {F uh, } a big part of it I think. /  
+
+b          A.23 utt1:  Uh-huh. /  
+
+h          B.24 utt1:   {C And, }  {F uh, } I don't know,  /
+sv          B.24 utt2: a lot of younger people, {D you know, } into more violent crimes. /  
+
+aa          A.25 utt1:  {F Oh, } yeah,  /
+aa^r          A.25 utt2: yeah. /  
+
+ba          B.26 utt1: [ [ Tha-, + that, ] + that's ] really sad, {D you know, }  /
+sv          B.26 utt2: you got young boys or girls, that at fourteen or twelve years old that are committing murders and, no remorse, what so ever. /  
+
+aa          A.27 utt1:  Uh-huh.  /
+sd          A.27 utt2:  There's a lot of that going on in Dallas, too. /  
+
+b          B.28 utt1:  Yeah. /  
+
+b^m          A.29 utt1:  Yeah,  /
+sv          A.29 utt2: it's really sad. /  
+
+aa          B.30 utt1:  It is  /
+sv          B.30 utt2: [ {C and, }  + {C and } ] I don't know if it's, {F uh, } the family, {D you know, } thing where they're not bonding anymore, where mothers are working all the time and,   
+
+b          A.31 utt1:  Uh-huh, /  
+
++          B.32 utt1:  the kids aren't getting the attention that they need, or the television. /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sv          B.34 utt1:  {C And } [ I, + I ] really think that [ we're, + we're ] falling by the wayside with not incarcerating these people. /  
+
+aa          A.35 utt1:  {F Oh, } I agree.  /
+sv          A.35 utt2:  I think that people are getting off too easy.  /
+sv          A.35 utt3: [ They're getting, + they're getting ] paroled too easily. /  
+
+b          B.36 utt1:  {F Uh, } {F uh. } /  
+
+sv          A.37 utt1:  They're just getting, {F uh, } put on probation or something, because the prisons don't have enough room  /
+sv          A.37 utt2: {C so } [ they get, + they get ] lighter sentences, /  
+
+aa          B.38 utt1:  Yeah,  {D exactly. } /  
+
+sv          A.39 utt1:  {C and } some of those people, they don't deserve to be let loose. /  
+
+%          B.40 utt1:  {C And, }  {F uh, } {D you know, } they had, {F uh, } - /
+sd          B.40 utt2: in fact on the news last night we were watching this, {F uh, } man who lost his ten year old daughter.  /
+sd          B.40 utt3:  He ran out to the store for a few minutes  /
+sd          B.40 utt4: {C and } he had left her home alone.  /
+sd          B.40 utt5:  Sh-, now ten years old, - /
+sd          B.40 utt6: she's old enough to be alone for a few minutes, {D you know. } /  
+
+b          A.41 utt1:  {F Oh, } yeah. /  
+
+sd          B.42 utt1:  {C And } while he was gone, he had [ looked, + went ] looking for a job and stopped at the store,  /
+sd          B.42 utt2: that's what it was.  /
+sd          B.42 utt3: {C And, }  {F uh, } someone who was in the neighborhood cleaning carpets, these two men, went in, raped the girl, murdered her,   
+
+ba          A.43 utt1:  {F Oh } my gosh. /  
+
++          B.44 utt1:  and the whole bit.  /
+sd          B.44 utt2:  {C And } one of the men got, {F uh, }  I think it was seventeen years  /
+sd          B.44 utt3: {C and } the other one was in for, {F uh, } life imprisonment. /  
+
+b          A.45 utt1:  Uh-huh. /  
+
+sd          B.46 utt1:  The one that was in for the seventeen years, actually served seven,  /
+sd          B.46 utt2: {C and } he's out. /  
+
+ba          A.47 utt1:  {F Uh, } that's terrible. /  
+
+sd          B.48 utt1:  {C And } the man said, that, {D you know, } if it weren't for the fact that he would go to jail, that he would eliminate this person himself.    
+
+b          A.49 utt1:  Uh-huh. /  
+
++          B.50 utt1:  And then go to McDonalds and have a hamburger and not [ thing a thing, + think a thing ] about it. /  
+
+x          A.51 utt1:  <Laughter>.   
+
+sv          B.52 utt1:  {C And } {E I mean, } I think that what this is going to lead to is people will take things into their own hands.    
+
+b          A.53 utt1:  Yeah. /  
+
++          B.54 utt1:  {C And } that innocent people, - /
+sv          B.54 utt2: [ I, + I ] shouldn't say innocent, because {E I mean, } [ ac-, + actually ] if they commit a crime that they're in the same circumstances   - /
+%          B.54 utt3: {C but, } -/  
+
+b          A.55 utt1:  Uh-huh. /  
+
+sv          B.56 utt1:  the reasons that they're doing it compared to the reason someone else is in jail for it, {D you know, } it's like two different things. /  
+
+b          A.57 utt1:  Yeah. /  
+
+sv          B.58 utt1:  Sometimes when you lose someone that you really love, you do some crazy things  /
+%          B.58 utt2:  yo-, - /
+h          B.58 utt3: I don't know, /  
+
+aa          A.59 utt1:  Right,  /
+sv          A.59 utt2: it's a little more understandable under the circumstances, I guess. /  
+
+sv          B.60 utt1: [ I, + I ] like the idea that, {F uh, } if someone is from a foreign country,    
+
+b          A.61 utt1:  Uh-huh. /  
+
++          B.62 utt1:  and they come to this country and {F uh, } commit, a crime,  I think that irregardless of whether they have already become a citizen or anything,  they should be immediately deported. /  
+
+b          A.63 utt1: Uh-huh. /  
+
+sv          B.64 utt1:  Especially if they're found guilty of the crime. /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+sv          B.66 utt1:  {D You know, } once [ they, + they ] have been arrested  /
+sv          B.66 utt2:  {C and } if they know beyond a shadow of a doubt, these people are guilty. /  
+
+b          A.67 utt1: Uh-huh. /  
+
+sv          B.68 utt1:  That's it,  /
+sv          B.68 utt2: we don't take care of them,  /
+sv          B.68 utt3: we don't support them,    
+
+b          A.69 utt1:  Uh-huh. /  
+
++          B.70 utt1:  nothing,  /
+sv          B.70 utt2: {E I mean } they go right back where they came from. /  
+
+aa          A.71 utt1:  Right,  /
+sv          A.71 utt2: we have [ enough, + enough ] problems with overcrowding in the jails as it is.  /
+sv          A.71 utt3: {C So } [ let, + let ] their country take care of it. /  
+
+aa          B.72 utt1:  Exactly <<pause>>  /
+%          B.72 utt2:  {C and, } -/  
+
+sd          A.73 utt1:  We don't have, I guess too much trouble in Dallas with, - /
+sv          A.73 utt2: {D well, } [ I guess, + I guess ] we do have a lot of people come in from Mexico, that cause problems,  /
+%          A.73 utt3: {C but, }  {F uh. } -/  
+
+sv          B.74 utt1:  {C But }  [ [ that's, + {F uh, } the-, ] + they're, ] so close,  /
+sv          B.74 utt2: [ I, + I ] don't consider Mexican people in the same category with, {F uh, }   
+
+b          A.75 utt1:  Yeah. /  
+
++          B.76 utt1:  especially {D like, } {F uh, } people who come from cultures that don't have the same, {F uh, } kind of moral upbringing that we have. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sv          B.78 utt1:  {D Like } you take Asian countries, or, {F uh, } the Eastern countries where women are {D like } [ in the foreground, +    
+
+b          A.79 utt1:  Uh-huh. /  
+
++          B.80 utt1:  {F uh, } in the background ]   and the men are in the  foreground,  /
+sv          B.80 utt2: {C and } it's like,  {D you know, }   
+
+b          A.81 utt1:  Uh-huh. /  
+
++          B.82 utt1:  {F um, } they live back in [ whe-, + where ] we came from two hundred years ago. /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sv          B.84 utt1:  {D You know, } [ whe-, + we've ] advanced beyond that,  /
+sv          B.84 utt2: {C and } I think that their, {F uh, } mentality as far as the way they treat them and that kind of thing, - /
+qh          B.84 utt3: you know  what I mean. /  
+
+aa          A.85 utt1:  Uh-huh.  /
+sd          A.85 utt2:  It was amazing  /
+sd          A.85 utt3: I went to the Far East, {F uh, } back in October to do some training for T I  /
+%          A.85 utt4: {C  and } I, -/  
+
+b          B.86 utt1:  Uh-huh. /  
+
+sd          A.87 utt1:  {F uh, } some of those countries were so safe, it was unreal.   /
+sd          A.87 utt2: Singapore is [ very, + supposed to be very ] safe  /
+sd          A.87 utt3: {C and, }  in fact, Tokyo, - /
+sd          A.87 utt4: {C and } I thought Tokyo would be dangerous being such a huge large city with so many people, /  
+
+b          B.88 utt1:  Yeah. /  
+
+%          A.89 utt1:  {C but } they, - /
+sd(^q)          A.89 utt2: [ at, + at ] the T I there,  I said is there any area I should avoid.  /
+sd(^q)          A.89 utt3: {C And } the guy said let me ask another girl here  /
+sd(^q)          A.89 utt4: {C and } he turned and asked this girl, and said, can you think of any place where Dana shouldn't go by herself,  or anything.  /
+sd          A.89 utt5: {C And } [ she, + she ] thought for a few minutes  /
+sd(^q)          A.89 utt6: {C and } she said, no.  /
+sd(^q)          A.89 utt7: {C And } he said is there any place you wouldn't go by yourself.  /
+sd(^q)          A.89 utt8:  She said, no.  /
+sd(^q)          A.89 utt9:  {C And } they said,    
+
+ba          B.90 utt1:  Wow. /  
+
++          A.91 utt1:   it is so safe there that you can leave your purse on the subway  /
+^q          A.91 utt2: {C and } somebody will turn it in  /
+^q          A.91 utt3: [ {C and, } + {C and } ] nothing will be missing.  /
+sd          A.91 utt4:  They said they can just about guarantee that [ there, + ] [ that, + that ] would happen if you did that.  /
+sd(^q)          A.91 utt5:  I thought, boy, <laughter> in America,   
+
+ba          B.92 utt1:  Wow. /  
+
++          A.93 utt1:  if you left a purse on a subway, you would never see it again. /  
+
+ba          B.94 utt1:  You better believe it,  /
+%          B.94 utt2:  if, - /
+sv          B.94 utt3: you wouldn't even have to leave it,  /
+%          B.94 utt4: {E I mean, } -/  
+
+aa          A.95 utt1:  Yeah,  /
+aa          A.95 utt2: that's true, /  
+
+sv          B.96 utt1:  it would get snatched right off your arm <laughter>. /  
+
+aa          A.97 utt1:  that's true.  /
+sd(^q)          A.97 utt2: {C But } I was thinking boy, in Dallas, if somebody asked me if there were places you wouldn't go by yourself at night, I'd have to set them down for about five or ten minutes to list all the places out. /  
+
+aa          B.98 utt1:  {F Oh } sure. /  
+
+sd          A.99 utt1:  {E I mean, } I couldn't believe that she couldn't think of any place.  /
+sd          A.99 utt2:  They said, [ the, + apparently the ] crime, is, just, {F uh, } -/  
+
+ba          B.100 utt1:  That's amazing,  /
+qw          B.100 utt2: {D well, } [ wh-, + what's ] the difference there,  /
+qy          B.100 utt3: do you know? /  
+
+no          A.101 utt1: I'm not sure what it is there.  /
+sd          A.101 utt2: {D Now, } I know what it is in Singapore, is they have the death penalty  /
+sd          A.101 utt3: {C and } they really enforce it, /  
+
+sd          B.102 utt1:  {F Oh, } [ I, + I ] believe in the death penalty,  /
+sd          B.102 utt2: I really do. /  
+
+sd          A.103 utt1:  {D like } [ for drugs, + for drugs ] [ they, + they ] enforce the death penalty for that.  /
+sd          A.103 utt2: {F Uh, } they're just,  very, very tough,  /
+sd          A.103 utt3: {C and } I guess maybe that's the way Tokyo is too, or Japan is too.  /
+sd          A.103 utt4: They're just very tough on criminals. /  
+
+b          B.104 utt1:  Yeah,  /
+b^r          B.104 utt2: yeah,  /
+sv          B.104 utt3: I think that we're too easy. /  
+
+b          A.105 utt1:  Uh-huh. /  
+
+sv          B.106 utt1:  {F Uh, } {C and } we take [ the, + the, ] {F uh, } civil liberties, {F uh, } stuff too far. /  
+
+b          A.107 utt1:  Uh-huh. /  
+
+sv          B.108 utt1:  {D You know } {D like } people that are in prison,  {E I mean } we didn't put them there.  /
+sv          B.108 utt2: They put themselves in that situation. /  
+
+aa          A.109 utt1:  Uh-huh,  /
+aa          A.109 utt2: {F oh } yeah. /  
+
+sv          B.110 utt1:  {C And } as far as {D like } them, {F uh, } entertaining the rights that they should have. -/  
+
+b          A.111 utt1:  Uh-huh. /  
+
+sv          B.112 utt1:  {E I mean, } we educate them,  /
+sv          B.112 utt2: we feed them,  /
+sv          B.112 utt3: we take care of them  /
+sv          B.112 utt4: {C and } they no sooner get out on the street  and they're back in again. /  
+
+b          A.113 utt1:  Uh-huh. /  
+
+sd          B.114 utt1:  I'm not saying they're all bad,  /
+sv          B.114 utt2: {C but } I think people who are guilty of really serious heinous crimes,    
+
+b          A.115 utt1:  Uh-huh. /  
+
++          B.116 utt1:  do not deserve to be cared for for the rest of their lives. /  
+
+b          A.117 utt1:  Right. /  
+
+sv          B.118 utt1:  I think that they should be put away. /  
+
+aa          A.119 utt1:  Right,  /
+sv          A.119 utt2: {C and } if they're overcrowded, {D well, } {D you know } <laughter>,   
+
+^2          B.120 utt1:  Get rid of them. /  
+
++          A.121 utt1:  they shouldn't have gotten theirself there in the first place. /  
+
+aa          B.122 utt1:  Exactly.  /
+sv          B.122 utt2: [ [ [  I, + I  really, ] + I, ] + I ] think that that's the whole key here.  /
+sv          B.122 utt3: This plea bargaining baloney,   
+
+b          A.123 utt1:  Uh-huh. /  
+
++          B.124 utt1:  where, {F uh, } {D you know, } they plead to a lesser crime, or, {F uh, } they plead guilty [ in, + ] or, {D you know, } tell about someone else   and [ they, + they ] get less time, -/  
+
+b          A.125 utt1:  Uh-huh. /  
+
+sd          B.126 utt1:  {C Or, }  if they're in there and they've got seventeen years  and they're on good behavior,  for every year they're in they get so many less, {D you know, } that they don't serve the full penalty. /  
+
+b          A.127 utt1:  Uh-huh. /  
+
+sv          B.128 utt1: [ [  I, + I, ] + I ] really think we're going to far overboard with all of this. /  
+
+aa          A.129 utt1:  {F Oh, } yeah,  /
+sv          A.129 utt2: I agree, because it's not fair to those of us [ that, + that ] deserve a safe, {D you know, } life to have to, -/  
+
+aa          B.130 utt1:  Yeah,  /
+sv          B.130 utt2:  (( same ))  with drunk drivers. /  
+
+b          A.131 utt1:  Right. /  
+
+sv          B.132 utt1:  I think it's too easy for them. /  
+
+b          A.133 utt1:  Uh-huh. /  
+
+sv          B.134 utt1:  That if [ the, + the ] laws, [ and, + and ] were, were harsher and were enforced, -/  
+
+b          A.135 utt1:  Uh-huh. /  
+
+sv          B.136 utt1:  {E I mean } you have to set an example.  /
+sv          B.136 utt2:  You have to start somewhere. /  
+
+b          A.137 utt1:  Uh-huh. /  
+
+sv          B.138 utt1:  {C And } I think that people know that they're going to get a slap on the wrist, they might serve a little bit of time and that they'll be out on the street again. /  
+
+b          A.139 utt1:  Uh-huh. /  
+
+sv          B.140 utt1:  [ {C An, } + [ it, + ] {C an } ] I feel bad for the policeman,   
+
+b          A.141 utt1:  Uh-huh. /  
+
++          B.142 utt1:  because he's out there every day facing these people.    
+
+b          A.143 utt1:  Right. /  
+
++          B.144 utt1: [ This, + this ] craziness, {D you know, }  people with, {F uh, } automatic weapons and,  {F uh, } all this other stuff and trying to do a job  /
+ad          B.144 utt2: {C and } let's face it,  /
+qh          B.144 utt3: what do they get paid. /  
+
+aa          A.145 utt1:  Right,  /
+sv          A.145 utt2: not much. /  
+
+sv          B.146 utt1:  Twenty thousand dollars a year, if they're lucky.  /
+sd          B.146 utt2:  I wouldn't do it for that. /  
+
+aa          A.147 utt1:  Yeah,  /
+aa          A.147 utt2: huh-uh,  /
+sv          A.147 utt3: {C and } especially not in some of these big cities,  /
+sd          A.147 utt4: {D like } in Dallas {E I mean } they've had, - /
+sd          A.147 utt5: they're up in the [ top, + top ] five I think of cities that are getting policeman killed [ [ on, + on, ] + in ] the line of duty  /
+ba          A.147 utt6: {C and } that's really sad. /  
+
+aa          B.148 utt1: [ It is, + it really is. ]  /
+sv          B.148 utt2:  {C And } {E I mean, } they're the first ones that take the brunt of everything. /  
+
+b          A.149 utt1:  Uh-huh. /  
+
+sv          B.150 utt1:  {D You know, } {C and } I'm not saying that they're all good either,  because there's good and bad in everything, /  
+
+b          A.151 utt1:  Uh-huh. /  
+
+sv          B.152 utt1:  {C but } [ they, + they're ] already, {F uh, } have [ str-, + three strikes ] against them when they're out there. /  
+
+b          A.153 utt1:  Uh-huh. /  
+
+sv          B.154 utt1:  {C Because } they'll arrest someone and, {D you know, } go through all that paperwork and writing a report and all this, and having all kinds of evidence  /
+sv          B.154 utt2: {C and } you have to even be careful how you arrest them, how you talk to them, {F uh, } {D you know, } what they say, / 

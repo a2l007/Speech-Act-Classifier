@@ -1,0 +1,454 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2389_1120_1042
+TOPIC#:		329
+DATE:		910402
+TRANSCRIBER:	ML
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Conversation was dominated by B throughout.
+
+=============================================================================
+  
+
+o          A.1 utt1:  Okay <laughter>. /
+
+ad          B.2 utt1:  If you want to go first, go ahead. /  
+
+sd          A.3 utt1:  {F Oh, } [ I think, + I think  ] that a woman's role has come a long way.  /
+sv         A.3 utt2: We have gone more into the business aspect [ of, + like I say, of,  ] I don't know, working more,  /
+sv        A.3 utt3: {C and } [ we, + I think we've  ] even gone into more the labor aspect of it also.    
+
+aa          B.4 utt1:  Yeah,  /
+aa          B.4 utt2: definitely. /  
+
++          A.5 utt1:  With the pay and everything, {D you know. } /  
+
+sv          B.6 utt1:  I feel that, {F uh, } we've missed as far as the top jobs go.   
+
+b          A.7 utt1:  Yeah. /  
+
++          B.8 utt1:  {D You know, } the higher echelon. /  
+
+b         A.9 utt1:  Uh-huh. /  
+
+sv          B.10 utt1:  {C Because } if you look at most corporations, there isn't a woman, {D you know, } that's on the board of directors, or that type of thing,  /
+sv          B.10 utt2: they are mostly all men. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sv          B.12 utt1:  There may be a few, but very incidental. /  
+
+b          A.13 utt1:  Yeah. /  
+
+sd          B.14 utt1:  <Laughter> {C And } I really think that it will be a long time, probably, before we see that.  /
+ sd        B.14 utt2:  In one sense, I'm an older person, in my fifties, so I feel that we've lost some things in the sense that women have to work today.
+
+b          A.15 utt1:  Uh-huh. /  
+
++         B.16 utt1:  {D You know, } that they are not in the home by choice anymore. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sv          B.18 utt1:  It's mostly, {D you know, } - /
+sv          B.18 utt2: even if you want to say home, you really can't. /  
+
+ba          A.19 utt1:  <Laughter> {C And } a lot of times you can't,  /
+aa          A.19 utt2: yeah. /  
+
+sv          B.20 utt1:  {D You know, } it's gotten to be a two income family to just survive today between taxes and the cost of living,  /
+sv          B.20 utt2: {C and } I don't think raises have kept up with, {D you know, } a lot of the stuff, {D you know, } as far as your medical insurance and just groceries and gasoline and all, {D you know. } /  
+
+ b         A.21 utt1:  Uh-huh. /  
+
+sd          B.22 utt1:  {C So } I think that we did come a long way in the sense that [ we are allowed to vote in, + {D you know, } like you say, we're  ] out in the labor force, but I think we've lost something too. /  
+
+b          A.23 utt1:  Yeah,  /
+sd          A.23 utt2: my mom, she's a housewife,  /
+sd          A.23 utt3: {C and, } {D well, } there is twelve kids in my family,  /
+sd          A.23 utt4: {C so } my mom never could really work, {D you know, } because she was kind of pregnant from day one.  /
+sd          A.23 utt5:  She never really had a chance to work. /  
+
+b          B.24 utt1:  Yeah. /  
+
+sd          A.25 utt1:  She worked before she got married,  /
+sd          A.25 utt2: {C but, } {F uh, } [ she, + {F uh, } she  ] doesn't believe in, - /
+sd          A.25 utt3: she's very old fashioned.  /
+sd          A.25 utt4:  She doesn't believe in the woman working unless she has to. /  
+
+sd          B.26 utt1:  That's what I mean,  /
+sv         B.26 utt2: {C and } --   
+
+b          A.27 utt1:  Yeah. /  
+
++          B.28 utt1:  -- {D you know, } there's a lot of truth to that.  /
+sv          B.28 utt2:  If you are not going to have a family, then that's fine,  /
+sv          B.28 utt3: then, {D you know, } a career is a smart choice. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sd          B.30 utt1:  {C And } I think it's great,  but if [ you, + you  ] have a family, I think you owe the family a responsibility.  /
+
+
+ b         A.31 utt1:  Uh-huh. /  
+
+ sv         B.32 utt1:  {C And } to have children and just get a day care or someone to take care of it, and not really have the bonding process that takes place with babies and  stuff, {D you know } --   
+
+b          A.33 utt1:  Uh-huh. /  
+
++          B.34 utt1:  -- [ I, + I  ] think that the mother and the child lose,  /
+sv          B.34 utt2: {C and } I think that's why there is so many problems --   
+
+b          A.35 utt1:  Yeah. /  
+
++          B.36 utt1:  -- {D you know, } with kids today,  /
+sv          B.36 utt2: {C because } they don't have the family roots anymore.  /
+sd          B.36 utt3: {D You know, } I'm not saying [ that, + that  ] it's totally gone,  but it's nothing like what it used to be.   
+
+b          A.37 utt1:  Yeah,  /
+b          A.37 utt2: uh-huh. /  
+
++          B.38 utt1:  {D You know, } in that sense. /  
+
+b          A.39 utt1:  Yeah,  /
+sd          A.39 utt2: {C and } also {D like } [ my mom, + my mom  ] thinks, - /
+sd         A.39 utt3: {E I mean } she's kind of right with it,  /
+sd          A.39 utt4: when both partners of the marriage work, she feels that that's taking more away,  /
+sd          A.39 utt5: that's increasing more unemployment for people that need to work.   
+
+aa          B.40 utt1:  {F Oh, } definitely. /  
+
++          A.41 utt1:  {D You know, } like [ for, + for  ] the men that don't have jobs,  /
+sd          A.41 utt2:  [ if, + {D you know, }  she feels if  ] there is women out there just because they want to do it, she said, {D you know, } they could stay at home, /  
+
+aa          B.42 utt1:  That's right,  /
+sv          B.42 utt2: they don't want to take care of the kids.    
+
+b          A.43 utt1:  Yeah. /  
+
++          B.44 utt1:  And the house and that kind of thing.  /
+sv          B.44 utt2: That's very true,  but then they shouldn't have a family. /  
+
+b          A.45 utt1:  Yeah. /  
+
+sd          B.46 utt1:  That's what I'm saying, {D you know, }  /
+sd          B.46 utt2: I think it's great that women have a choice today.    
+
+b          A.47 utt1:  Uh-huh. /  
+
++          B.48 utt1:  That there are ways to prevent families,  {D you know, }  /
+sd          B.48 utt2: {D like } basically there's contraceptives and --   
+
+b          A.49 utt1:  Yeah. /  
+
++          B.50 utt1:  -- all kinds of ways to prevent pregnancies.  /
+sv          B.50 utt2:  There is no need to have children if you don't want them. /  
+
+qo          A.51 utt1:  What do you think about that,  /
+qy          A.51 utt2: do you think that, {F uh, - /
+qo          A.51 utt3: } what do you think about the women that are not having families because they want to continue their business? /  
+
+sv          B.52 utt1:  That's fine,  /
+sv        B.52 utt2: [  that's, +  that's ] the freedom of choice. /  
+
+b          A.53 utt1:  Uh-huh. /  
+
+sd          B.54 utt1:  {C And } I agree with that,  /
+sv          B.54 utt2: {C because } anyone who has children that doesn't really want them isn't going to be a good parent. /  
+
+b          A.55 utt1:  Uh-huh. /  
+
+h          B.56 utt1:  {D Well, } I shouldn't say they are not going to be a good parent.  /
+sv          B.56 utt2:  They won't be a caring parent. /  
+
+ b         A.57 utt1:  Uh-huh. /  
+
+sv          B.58 utt1:  {D Like } they won't have that, -/  
+
+sv          A.59 utt1:  {C Or } they won't be as good as they could be. /  
+
+aa          B.60 utt1:  Right,  /
+aa          B.60 utt2: that's what I mean,  /
+sv         B.60 utt3: they'll feel like it's a job. /  
+
+b          A.61 utt1:  Uh-huh. /  
+
+sv          B.62 utt1:  It's not {D like } something that they really wanted.  /
+sd          B.62 utt2: {D Like } I had three children,  /
+sd         B.62 utt3: {C and } {E I mean } [ I, + I  ] wanted every one of them. /  
+
+b          A.63 utt1:  Uh-huh. /  
+
+sd          B.64 utt1:  I'm not sorry I had any of them,  /
+sd          B.64 utt2: {C and } I worked third shift for a good part of my life just so I would be home with them. /  
+
+b          A.65 utt1:  Yeah. /  
+
+sd          B.66 utt1:  {D You know, } I had to work, but I tried to make it as painless as possible. /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sd          B.68 utt1:  In fact, at one time I worked as a second shift,  /
+sd          B.68 utt2: {C and } one Saturday morning we were all sitting at the breakfast table,  /
+sd          B.68 utt3: {C and } the kids were talking, daddy this, daddy that, daddy this, daddy that,  /
+sd          B.68 utt4: {C and } I was sitting there.  /
+sd          B.68 utt5: It was like I didn't belong anymore. /  
+
+x          A.69 utt1:  <Laughter>.   
+
+sd          B.70 utt1:  {C And } it was because I had worked for about nine months,  /
+sd          B.70 utt2: {C and } when they were coming home I was going to work. /  
+
+b          A.71 utt1:  Uh-huh. /  
+
+sd          B.72 utt1:  {C And } I wasn't there at supper time or bed time,  /
+sd          B.72 utt2: {C or } they couldn't tell me what went on at school because they would be coming in the door,  /
+sd          B.72 utt3: I would be going out. /  
+
+aa          A.73 utt1:  Exactly. /  
+
+sd          B.74 utt1:  {C So } we were,  /
+sd          B.74 utt2: I felt I was losing my family. /  
+
+b          A.75 utt1:  Uh-huh. /  
+
+sd          B.76 utt1:  {C And } that's why I said that's it,  /
+sd          B.76 utt2: I either have to quit or, {D you know, } try something else,  /
+sd          B.76 utt3: {C so } I went on third shift. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  {C And } I worked that shift for eleven years. /  
+
+ba          A.79 utt1:  {F Oh, } my. /  
+
+b          B.80 utt1:  Yeah. /  
+
+o           A.81 utt1:  <Laughter> Bless you <laughter>. /  
+
+sd          B.82 utt1:  Just so that my kids would have me at home. /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sv       B.84 utt1:  {D You know, } {C and } I feel that's very important,  /
+sv          B.84 utt2: it really is,  /
+sv          B.84 utt3: {C and } it's too bad because mothers miss out on so much too. /  
+
+b          A.85 utt1:  Uh-huh. /  
+
+sv          B.86 utt1:  {C So } {E I mean } in the sense that we've come a long way,  /
+b          B.86 utt2: yes,  /
+sv          B.86 utt3: {C but } we've sacrificed a lot to get there. /  
+
+aa          A.87 utt1:  Yeah,  /
+aa          A.87 utt2: [ I, + I  ] agree. /  
+
+sv          B.88 utt1:  {C And, } {F uh, } I really think that [ if, + ] {F uh, }  like after the second World War when women went to work in factories and all that, that was {D like } out of necessity,  because the men weren't here anymore. /  
+
+b          A.89 utt1:  Uh-huh. /  
+
+sv          B.90 utt1:  {C But } then it got to be a point where they got some independence. /  
+
+sv          A.91 utt1:  {C And } they just enjoyed the income, the extra. -/  
+
+aa          B.92 utt1:  Exactly.  /
+sv          B.92 utt2:  A man can afford the necessities, a woman affords the luxuries. /  
+
+b          A.93 utt1:  Uh-huh. /  
+
+sd          B.94 utt1:  {C And } I notice today kids, {D you know, }  /
+sd          B.94 utt2: {D like } we had apartments before we had homes. /  
+
+b          A.95 utt1:  Uh-huh. /  
+
+ sd         B.96 utt1:  {C And } we had to walk before we had a car. /  
+
+aa          A.97 utt1:  Exactly. /  
+
+sv          B.98 utt1:  {C And } now kids at sixteen years old, they have their birthday,  /
+qh          B.98 utt2: what do they get,  /
+sv          B.98 utt3: they get a car. /  
+
+ba          A.99 utt1:  {F Oh, } I know <laughter>. /  
+
+sd         B.100 utt1:  {C And } to me, it's like we've lost our values in this country. /  
+
+b          A.101 utt1:  Uh-huh. /  
+
+sv          B.102 utt1:  We really have, - /
+sd          B.102 utt2: {C and } [ I, + I'm  ] not trying to be, {F uh, } {D you know, } a prude or old fashioned or anything, but [ I, + I  ] don't think [ if you, + ] unless you earn something and you've worked for it, and you have a sense of pride about it, - /
+sd          B.102 utt3: {C because } while I did this [ in, + ] {D you know, } no one gave it to me. /  
+
+ b         A.103 utt1:  Uh-huh. /  
+
+sv        B.104 utt1:  You will take better care of that,  /
+sv          B.104 utt2: {C and } you will prize that possession.    
+
+aa          A.105 utt1:  Exactly. /  
+
++          B.106 utt1:  More than someone handing something to you. /  
+
+b          A.107 utt1:  Uh-huh. /  
+
+ sv         B.108 utt1:  {C And } it's just like college too,  /
+sv          B.108 utt2: I think that if a kid goes to college, and  you can help them, fine, but I don't think you should pay the whole way. /  
+
+b          A.109 utt1:  {D See, } yeah,  /
+sd          A.109 utt2: {D see, } {D now, } my parents, there is no way they could afford to send twelve kids to college. /  
+
+aa          B.110 utt1:  Of course. /  
+
+sd          A.111 utt1:  {C And } so far there is only two of us that have gone,  /
+sd          A.111 utt2: {C and } my older brother has paid his entire way,  /
+sd          A.111 utt3: {C and } I'm on my, - /
+sd          A.111 utt4: I have six weeks left  /
+sd          A.111 utt5:  {C and } [  I'll, + {D you know, } I'll  ] graduate,  /
+sd          A.111 utt6: {C and } I paid my entire way,  /
+sd          A.111 utt7: {C and } that's the way it'll go down the line,  /
+sd          A.111 utt8: {C and } {D like } I don't have a car because I'm paying for college,  /
+sd          A.111 utt9: {C and } if I want a car, - /
+sd          A.111 utt10: my parents always said if we wanted a car, we paid for the car, and we paid for our own insurance,  /
+sd          A.111 utt11: {C and } I think that's right  /
+%          A.111 utt12: {C because, } -/  
+
+b          B.112 utt1:  Sure,  /
+sv          B.112 utt2: {C but } I'll bet your values are a lot higher, {D you know, } and your self esteem and [ the, + the  ] way you, {F uh, } {D you know, } think about things is probably --   
+
+b          A.113 utt1:  Uh-huh. /  
+
++          B.114 utt1:  -- a lot more common sense --   
+
+b          A.115 utt1:  Yeah. /  
+
++          B.116 utt1:  -- than these kids that don't have that responsibility. /  
+
+b          A.117 utt1:  Uh-huh.  /
+sd          A.117 utt2:  {D Like } I've had my, {D you know, } - /
+sd          A.117 utt3: {D like } I know kids up here that have their own cars  /
+sd          A.117 utt4: {C and } money is just given to them,  /
+sd          A.117 utt5: {D like } they still get their allowance,  /
+sd          A.117 utt6: they are twenty years old and they still get an allowance.  /
+sd          A.117 utt7: {D Well, } I have held a summer job, {D you know, } since [ I, + {D you know, } I  ] was in the eleventh grade,  /
+sd          A.117 utt8: {C and } I have had to take care of my own money,  /
+sd         A.117 utt9: [ I + ] have my own checking account,  /
+sd          A.117 utt10: I pay for my own life insurance,  /
+sd          A.117 utt11: {C and } I know a lot of kids that don't even know, - /
+sd          A.117 utt12: {E I mean } I tell them I pay for my own life insurance and their mouths just drop to the floor, {D you know. } /  
+
+ b         B.118 utt1:  Sure,  /
+ sv         B.118 utt2: they probably don't even have any. /  
+
+sv          A.119 utt1:  {D Well, } if they do, they don't know it, {D you know } <laughter>. /  
+
+aa          B.120 utt1:  Yeah,  /
+aa          B.120 utt2: exactly,  /
+sd          B.120 utt3: {C and } that's what I say, [ you'll, + you'll  ] be so much better off for it as you get older,  /
+sv          B.120 utt4: {C because, } {D you know, } a lot of kids resent things that parents tell them and stuff,  /
+sv          B.120 utt5: {C but } it's because you've been there.    
+
+b          A.121 utt1:  Uh-huh. /  
+
++          B.122 utt1:  And no one can tell anyone anything -- /  
+
+ba          A.123 utt1:  {F Oh, } I know. /  
+
+sv          B.124 utt1:  -- {D you know, } you are going to find out for yourself,  /
+sv         B.124 utt2: {C but } {E I mean } I don't think you should just not listen to advice, even if you don't take it, just listen. /  
+
+b          A.125 utt1:  Uh-huh. /  
+
+sv          B.126 utt1:  {D You know, } there is no harm in that, whereas sometimes you can't even get that from a kid, {D you know. }    
+
+x          A.127 utt1:  <Laughter>.   
+
++          B.128 utt1:  <Laughter> Just attention, {D you know. } /  
+
+b          A.129 utt1:  Uh-huh. /  
+
+sd          B.130 utt1:  {C But } really, {F uh, }  /
+qo          B.130 utt2: what do you feel the changes in the future, {D like } with the abortions and that type of thing, women in politics and --   
+
+%          A.131 utt1:  {F Uh. } /  
+
++          B.132 utt1:  -- president someday, maybe <laughter>. -/  
+
+sv          A.133 utt1:  Actually I think abortion is going to take a turn where there is not going to be as many,  /
+sv          A.133 utt2: {C because } I think contraceptives are going to be more popular.  /
+sv          A.133 utt3:  {E I mean } I realize that they are popular now,  /
+sv          A.133 utt4: {C but } I think, I really think people are going to start using more contraceptives  /
+sv          A.133 utt5: {C and } with the abortion, I don't think there is going to be as many abortions, but I don't know what women will do when they get into politics, {D you know, } about abortion. /  
+
+b          B.134 utt1:  Yeah,  /
+b^r          B.134 utt2: yeah. /  
+
+sv          A.135 utt1:  I think it will be freedom of choice. /  
+
+sv          B.136 utt1:  {D Well, } I still think people have a choice.  /
+sv          B.136 utt2: {D You know, } if you can live with it, and [ it's, + ] {D you know, } your conscience is clear --    
+
+b          A.137 utt1:  Uh-huh. /  
+
++          B.138 utt1:  -- then {E I mean } all of us are going to answer to it one day, maybe.   
+
+aa          A.139 utt1:  Exactly, yeah. /  
+
++          B.140 utt1:  Or maybe not.  /
+h         B.140 utt2:  I don't know. /  
+
+b          A.141 utt1:  Uh-huh. /  
+
+sv          B.142 utt1:  {E I mean } no one has said for sure, {D you know. } /  
+
+b          A.143 utt1:  Yeah. /  
+
+%          B.144 utt1:  {C But, } -/  
+
+sd@          A.145 utt1:  I think if a woman would get into politics or enough women get into politics, I think it will definitely be freedom of choice.    
+
+b          B.146 utt1:  Yes,  /
+b^r          B.146 utt2: yes.  /
+
+
++@          A.147 utt1:  Uh-huh. /  
+
+sd          B.148 utt1:  Which I mean I think it should be anyway. /  
+
+sd          A.149 utt1:  [ I, + I  ] do.  /
+sd          A.149 utt2: I'm Catholic,  /
+sd          A.149 utt3: {C and } [ we, + we  ] are not supposed to, {D you know, } say that that's okay, but I really feel that it's freedom of choice. /  
+
+b          B.150 utt1:  Yeah. /  
+
+sd^r          A.151 utt1:  I do. /  
+
+sd          B.152 utt1:  {C Because } {E I mean } you as an individual, what you do, that to me is your business. /  
+
+b          A.153 utt1:  Uh-huh. /  
+
+%          B.154 utt1:  {C And, } {F uh, } -/  
+
+sv          A.155 utt1:  {C And } different circumstances call for different things. /  
+
+aa          B.156 utt1:  Exactly,  /
+aa^r          B.156 utt2: exactly,  /
+%          B.156 utt3: that's ... -/ 

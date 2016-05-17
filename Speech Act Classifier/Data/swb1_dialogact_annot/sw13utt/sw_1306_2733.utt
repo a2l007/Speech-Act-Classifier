@@ -1,0 +1,491 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+FILENAME:	2733_1178_1127
+TOPIC#:		320
+DATE:		910429
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:  	There were a few places where speakers could barely be heard
+(when one spoke over the other).
+
+============================================================================
+  
+
+qw          A.1 utt1:  What kind, h-, -/  
+
+qw          B.2 utt1:  What kind of cars do you, do you usually drive? /  
+
+sd          A.3 utt1:  Right now we, I've got a, uh, four year old Subaru and a two year old Honda. /  
+
+ba          B.4 utt1:  Oh, my goodness.  /
+sd          B.4 utt2:  Well, we're, we're, we're sort of, sort of a General Motors family,  /
+sv          B.4 utt3: I guess that's the way we were raised.  /
+sd          B.4 utt4:  And, uh, uh, we were overseas with T I for a number of years  /
+sd          B.4 utt5: and when we came back we suddenly find out we've got five licensed drivers in the family. /  
+
+b          A.5 utt1:  Oh, goodness. /  
+
+b          B.6 utt1:  Yeah, <laughter>  /
+sd          B.6 utt2: and four cars  /
+sd          B.6 utt3: and we bought some year old cars from National Car Rental. /  
+
+bh          A.7 utt1:  Really? /  
+
+sd          B.8 utt1:  At least two of them.  /
+sd          B.8 utt2:  We bought an Olds Calais and a Buick Skylark.  /
+%          B.8 utt3:  Uh, for, you know, - /
+sd          B.8 utt4: they each had twenty-one thousand miles or something like that. /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sv          B.10 utt1:  Turns out that's a pretty good place to buy cars because they maintain them  /
+sd          B.10 utt2: and they can show you the records they've gotten all their maintenance on schedule and everything like that.  /
+sd          B.10 utt3:  Uh, then we've got an eighty-six Chevy Spectrum that we bought new.  /
+sd          B.10 utt4:  My daughter was a freshman in college when we bought it for her. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1:  And we've got a eighty-four Toyota that we bought used.  /
+sd          B.12 utt2:  So we've got four cars for our five licensed drivers.  /
+sd          B.12 utt3:  It's like musical chairs <laughter>. /  
+
+ba          A.13 utt1:  I bet. /  
+
+sd          B.14 utt1:  You're one short. /  
+
+ba^r          A.15 utt1:  I bet. /  
+
+%          B.16 utt1:  And, uh, - /
+sv          B.16 utt2: but you know, it's interesting the two, - /
+sd          B.16 utt3: even though my dad was a Chevrolet man forever and ever and ever  /
+sd          B.16 utt4: and we were in the retail milk business  /
+sd          B.16 utt5: and he had all Chevrolet milk trucks  /
+sd          B.16 utt6: and, and we bought automobiles and all that,  /
+%          B.16 utt7: it was almost like - /
+sd          B.16 utt8: and a Chevrolet dealer was our friend  /
+sd          B.16 utt9: and it was almost like the minute we got old and bought anything like a, but a Chevrolet it would be like going and spitting on his grave <laughter>.  /
+%          B.16 utt10:  But, uh, -/  
+
+b          A.17 utt1:  Yep. /  
+
+sd          B.18 utt1:  as we got older and got away,  /
+sd          B.18 utt2: and then we thought, well, you know, you still could buy General Motors products  /
+sv          B.18 utt3: and it was probably not that bad. /  
+
+x          A.19 utt1:  <Laughter>. /  
+
+sd          B.20 utt1:  But, uh, we lived in Malaysia for T I in nineteen, uh, eighty-one, two, three, and four. /  
+
+b          A.21 utt1:  Uh-huh.   /  
+
+sd          B.22 utt1:  And, and, of course you don't buy General Motors products over there <laughter>. /  
+
+aa          A.23 utt1:  No.   /  
+
+sd          B.24 utt1:  But we bought a Volvo  /
+sd          B.24 utt2: and I have never had a car that I've loved more.  /
+sd          B.24 utt3:  I just can't afford them here.  /
+sd          B.24 utt4:  Uh, but I, I just loved that car. /  
+
+b          A.25 utt1:  Uh-huh. /  
+
+sd          B.26 utt1:  And, uh, we bought a, uh, - /
+sd          B.26 utt2: we lived in the Philippines for T I in eighty-five, eighty-six, and eighty-seven  /
+sd          B.26 utt3: and we bought a, uh, Ford Telstar,  /
+sd          B.26 utt4: which is somewhat similar to the Taurus.  /
+sd          B.26 utt5:  It's sold in, uh, in uh, the Far Eastern coun-, uh, Far East countries more than here. /  
+
+b^r          A.27 utt1:  Uh-huh. /  
+
+sd          B.28 utt1:  But we really liked that.  /
+qy          B.28 utt2:  And have you had experience with cars other than the ones you have? /  
+
+ny          A.29 utt1:  <Breathing> Well, yeah  /
+%          A.29 utt2: we had, uh, we had, - /
+sd          A.29 utt3: these are the first cars that my husband and I have ever purchased ourselves. /  
+
+b          B.30 utt1:  Um. /  
+
+sd          A.31 utt1:  The others were hand me downs through the families. /  
+
+b          B.32 utt1:  Yeah. /  
+
+sd          A.33 utt1:  And those were always G M cars. /  
+
+b^r          B.34 utt1:  Yeah. /  
+
+sd          A.35 utt1:  Uh, Buicks and Chevrolets. /  
+
+b          B.36 utt1:  Uh-huh. /  
+
+sd          A.37 utt1:  And, uh, we were real happy with them,  /
+sd          A.37 utt2: but all the ones that we ever had were the, you know, eight cylinder, /  
+
+b          B.38 utt1:  Oh, yeah. /  
+
+sd          A.39 utt1:  really rugged,    
+
+bf          B.40 utt1:  The b-, the big, -/  
+
++          A.41 utt1:  G M cars. /  
+
+b          B.42 utt1:  Yeah. /  
+
+sd          A.43 utt1:  And all we had heard was, was a lot of negative press about the smaller cars,  /
+sd          A.43 utt2: and we both drive, well, forty-five miles round trip every day. /  
+
+b          B.44 utt1:  Sure,  /
+b^r          B.44 utt2: sure. /  
+
+sd          A.45 utt1:  And so we wanted a smaller car, /  
+
+b          B.46 utt1:  Yeah. /  
+
+sd          A.47 utt1:  when we got ready to buy, we needed a smaller car to get better gas mileage <breathing>  /
+sv          A.47 utt2: and quite frankly, we were afraid of the, of the G M small cars. /  
+
+b          B.48 utt1:  Uh-huh,  /
+b^r          B.48 utt2: uh-huh. /  
+
+sd          A.49 utt1:  You know, as far as durability. /  
+
+b          B.50 utt1:  Right. /  
+
+%          A.51 utt1:  So we kind of, - /
+sd          A.51 utt2: when we had our larger cars, we didn't mind, uh, keeping them up, /  
+
+b          B.52 utt1:  Uh-huh. /  
+
+sd          A.53 utt1:  you know, doing the maintenance and everything on them as long as we didn't have to do it very often. /  
+
+b          B.54 utt1:  Yeah. /  
+
+sd          A.55 utt1:  But, once they got over a hundred thousand miles on them, all of them, you know,  /
+sd          A.55 utt2: it just kind of seemed to be the magic number for them <laughter>. /  
+
+b^r          B.56 utt1:  Yeah,  /
+b^r          B.56 utt2: yeah,  /
+bf          B.56 utt3: it seems that something goes every month. /  
+
+aa          A.57 utt1:  Yeah  /
+%          A.57 utt2: it, -/  
+
+sd          B.58 utt1:  And I'm afraid we're going to be in that in another year with all of ours,  /
+%          B.58 utt2: you know,  /
+sd          B.58 utt3: we got three eighty-sixes and an eighty-four <laughter>. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sv          B.60 utt1:  And we'll probably be there with all of them.  /
+sv          B.60 utt2:  You know, it's the same thing, you know, - /
+sd          B.60 utt3: I don't know whether, uh, you classify the Skylark and the Calais as, - /
+sv          B.60 utt4: well I guess they're intermediate. /  
+
+b^r          A.61 utt1:  Uh-huh. /  
+
+sd          B.62 utt1:  Uh, but, uh, we went on a family trip to Massachusetts  /
+sd          B.62 utt2: and there were five of us  /
+sd          B.62 utt3: and five, five of us never go anywhere together here.  /
+sd          B.62 utt4:  Every-, everybody's heading off in their own direction. /  
+
+b          A.63 utt1:  Right. /  
+
+sd          B.64 utt1:  And I rented a Buick Le Sabre, /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+sd          B.66 utt1:  and it's the first big car I had since I had my nine passenger Impala station wagon from seventy-six to eighty.  /
+%          B.66 utt2:  And it made all the, - /
+sd          B.66 utt3: I, I had forgotten what driving a big car was like. /  
+
+sv          A.67 utt1:  It's like a yacht. /  
+
+sv          B.68 utt1:  It was just nice.  /
+sv          B.68 utt2:  It floated. /  
+
+b          A.69 utt1:  Yeah.  /
+%          A.69 utt2:  What, - /
+sd          A.69 utt3: we, we sold or we, we traded in our Le Sabre for our Subaru. /  
+
+b          B.70 utt1:  Oh, yeah. /  
+
+b^m          A.71 utt1:  Yeah,  /
+sv          A.71 utt2: it was a great car. /  
+
+b          B.72 utt1:  Yeah. /  
+
+%          A.73 utt1:  It just, - /
+sd          A.73 utt2: we ran the wheels right off of it. /  
+
+b          B.74 utt1:  Yeah,  /
+b^r          B.74 utt2: yeah,  /
+b^r          B.74 utt3: yeah.  /
+sd          B.74 utt4:  And, uh, you know I've read,  - /
+sd          B.74 utt5: I'm in the quality business at T I,  /
+sd          B.74 utt6: I'm a quality manager  /
+sd          B.74 utt7: and we're, we're uh, we deal,  /
+sd          B.74 utt8: we sell,  /
+sd          B.74 utt9: I'm in the semiconductor group  /
+sd          B.74 utt10: and we sell to, uh, Ford, Chrysler and G M, uh, G M Delco. /  
+
+b          A.75 utt1:  Uh-huh. /  
+
+sv          B.76 utt1:  And there is a, amazing, - /
+sd          B.76 utt2: I am just, uh, really impressed with the, with the quality consciousness that the, tho-, these companies have put into their procurement  /
+sv          B.76 utt3: and it's, I, it's come out as a result of the competition from the Japanese. /  
+
+b^r          A.77 utt1:  Uh-huh. /  
+
+%          B.78 utt1:  And, uh, uh, I - /
+sd          B.78 utt2: and, you know, we used to think Ford products were tinny.  /
+sd          B.78 utt3:  I mean I was growing up, - /
+sd          B.78 utt4: I was taught when I was growing up, you know, that, that <laughter>, that real people bought General Motors products, /  
+
+x          A.79 utt1:  <Laughter>. /  
+
+sv          B.80 utt1:  <Laughter> and peons bought,   
+
+aa          A.81 utt1:  That's right. /  
+
++          B.82 utt1:  Ford products.  /
+sv          B.82 utt2:  But just with the quality requirements that Ford is putting on us and the way they come into our plants - /
+sd          B.82 utt3: and they're really, uh, uh, stressing this partnerships in quality,  /
+sd          B.82 utt4: and you know, G M and Chrysler are doing that,  /
+sv          B.82 utt5: but I really think Ford's got a leadersi-, ship position in this right now.  /
+sv          B.82 utt6:  And I think it's showing up in their automobiles.  /
+sv          B.82 utt7:  Their automobiles are getting a very good quality reputation right now. /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  And, uh, uh, we went to, uh, Austin a while back to a basketball tournament  /
+sd          B.84 utt2: and we were going to be meeting some of my wife's relatives down there,  /
+sd          B.84 utt3: so we decided rather than drive one of our cars down, we'd rent one, /  
+
+b^r          A.85 utt1:  Uh-huh. /  
+
+sd          B.86 utt1:  and we went up to the local Budget  /
+sd          B.86 utt2: and we were going to get a Olds eighty-eight or something.  /
+sd(^q)          B.86 utt3:  He said I'll tell you what, for a dollar a day more I'll give you a Lincoln Town Car. /  
+
+b          A.87 utt1:  Um. /  
+
+sd          B.88 utt1:  And we drove that down  /
+sd          B.88 utt2: and I hated to turn that back in. /  
+
+ba          A.89 utt1:  <Lipsmack> I bet <laughter>. /  
+
+sd          B.90 utt1:  We had that for three days.  /
+sd          B.90 utt2:  And I absolutely loved, - /
+sd          B.90 utt3: except I couldn't want to have to park it in tight places all the time. /  
+
+aa          A.91 utt1:  No. /  
+
+b          B.92 utt1:  Uh,  -/  
+
+sv          A.93 utt1:  #I wouldn't want to have to pay for the gas, either.# /  
+
+sd          B.94 utt1:  #but I absolutely loved that automobile.#  /
+%          B.94 utt2: And, you know, it wasn't that I'd, - /
+sv          B.94 utt3: driving around down there we might have got sixteen to eighteen miles per gallon,  /
+sd          B.94 utt4: but on the trip down and back I filled up both coming and going  /
+sd          B.94 utt5: so I knew what I actually got on the trip  /
+sd          B.94 utt6: and it was about twenty-four miles a gallon. /  
+
+b          A.95 utt1:  Uh-huh. /  
+
+sd          B.96 utt1:  Uh, and, you know, we just got it out on the highway and put it in cruise control at about sixty and let it, let it float. /  
+
+b^r          A.97 utt1:  Uh-huh. /  
+
+sv          B.98 utt1:  And, it was pretty nice.  /
+qy          B.98 utt2:  Are, are,   
+
+x          A.99 utt1:  (( )). /  
+
++          B.100 utt1:  are you planning on getting any additional or other cars? /  
+
+ng          A.101 utt1:  No time soon.  /
+sd^e          A.101 utt2:  Uh, we're, our, our, we won't have any more licensed drivers for about thirteen years. /  
+
+b          B.102 utt1:  Um. /  
+
+x          A.103 utt1:  <Laughter>. /  
+
+qy^d          B.104 utt1:  Oh, yours is small. /  
+
+ny          A.105 utt1:  Yes. /  
+
+x          B.106 utt1:  <Laughter>. /  
+
+sd          A.107 utt1:  So, we, uh, so we don't plan on purchasing any more any time soon.  /
+sd          A.107 utt2:  Both of our cars are getting,   
+
+b          B.108 utt1:  Um. /  
+
++          A.109 utt1:  oh, around sixty thousand miles on them. /  
+
+b          B.110 utt1:  Oh, yeah. /  
+
+sd          A.111 utt1:  We drive a lot. /  
+
+b          B.112 utt1:  Yeah.  /
+sv          B.112 utt2:  You got another, another thirty or forty thousand if you maintain them. /  
+
+b          A.113 utt1:  Uh-huh. /  
+
+sd          B.114 utt1:  Uh, we've got, - /
+sd          B.114 utt2: probably we'll get something in the next couple years.  /
+sd          B.114 utt3:  My son will graduate from high school this year,  /
+sd          B.114 utt4: and, and he's going to go to Richland College one year behind us, /  
+
+b         A.115 utt1:  Uh-huh. /  
+
+sd          B.116 utt1:  it's right, - /
+sd          B.116 utt2: in fact, uh, our house is adjacent to the Richland property.  /
+sd          B.116 utt3: He wants to go to Texas Tech  /
+sv          B.116 utt4: and he's probably going to have to go to Richland a year to get some grades in order,  /
+sd          B.116 utt5: but, uh, the next year when he goes out to Tech, he wants a pickup,  /
+sd          B.116 utt6: and I want,   
+
+b^m          A.117 utt1:  A pickup {faint}. /  
+
++          B.118 utt1:  a pickup.  /
+sd          B.118 utt2:  I may get one and not let him have it <laughter>.  /
+sd          B.118 utt3:  But, we have been looking at these red Chevro-, - /
+sd          B.118 utt4: they, they're very popular around here. /  
+
+b          A.119 utt1:  Uh-huh. /  
+
+sd          B.120 utt1:  These, uh, uh, red Chevy pickups,  /
+sd          B.120 utt2: and, uh, we'll probably do something like that,  /
+%          B.120 utt3: uh, uh, incidentally, - /
+h          B.120 utt4: uh, uh, I don't know,  /
+sd          B.120 utt5: uh, the, uh, the Credit Union has got a deal now where you decide what you want  /
+sd          B.120 utt6: and you call this number  /
+sd          B.120 utt7: and, uh, they go negotiate the price for you.  /
+sd          B.120 utt8:  And, and, or, or send you to a guy with whom they've already got a deal -- /  
+
+b          A.121 utt1:  Uh-huh. /  
+
+sd          B.122 utt1:  -- and, uh, my boss just bought a Chevy pickup  /
+sd          B.122 utt2: and he got three thousand dollars off the sticker price doing it this way. /  
+
+bh          A.123 utt1:  Really? /  
+
+ny          B.124 utt1:  Yeah.  /
+sd          B.124 utt2:  And, uh, uh, you know, you, you figure out the options, go around look at the dealers and get the best price you can and then go call this guy and, and tell him what you want  /
+sd          B.124 utt3: and he'll put you in touch with a certain guy, a certain person at that dealer's place. /  
+
+b          A.125 utt1:  Uh-huh. /  
+
+sd          B.126 utt1:  So I'm going to try that the next time I buy one. /  
+
+sv          A.127 utt1:  I think that would be a good idea. /  
+
+sd          B.128 utt1:  And, and, so, you know, I can go around and comparison shop and see if I can get a better negotiation on my own.  /
+sv          B.128 utt2:  But, once, one thing that's a pain in the neck buying automobiles is negotiating. /  
+
+b          A.129 utt1:  Yeah.  /
+sd(^q)          A.129 utt2:  I've, we've, we've, we've kind of been the types that will say, this is what we intend to spend, /  
+
+b          B.130 utt1:  Yeah. /  
+
+^q          A.131 utt1:  this is the car we want,  /
+^q          A.131 utt2: will you sell me this car for that price. /  
+
+^2          B.132 utt1:  And for that price. /  
+
+%          A.133 utt1:  And, and we've had <laughter> - /
+%          A.133 utt2: we, with our, - /
+sd(^q)          A.133 utt3:  when we bought our Subaru, the guy was like, you can't do this to me,  /
+sd(^q)          A.133 utt4: and we're were just, like, okay fine, we, we won't then. /  
+
+bf          B.134 utt1:  We'll go somewhere else.  /
+%          B.134 utt2:  Yeah. /  
+
+%          A.135 utt1:  <Laughter> You know.  /
+sd(^q)          A.135 utt2:  I mean he's like, no, no, no. /  
+
+b          B.136 utt1:  Yeah. /  
+
+%          A.137 utt1:  But, -/  
+
+sv          B.138 utt1:  And, uh, and I, I think that's probably the way you've got to do it.  /
+sd          B.138 utt2:  When, when I was young, I went in and bought a, uh, or made a deal on a sixty, - /
+sd          B.138 utt3: this is nineteen sixty,  /
+sd          B.138 utt4: I'd first come to Texas, and made a deal on a sixty red Impala convertible --    
+
+b          A.139 utt1:  Uh-huh. /  
+
++          B.140 utt1:  -- that I just loved, /  
+
+b^r          A.141 utt1:  Uh-huh. /  
+
+sd          B.142 utt1:  and this guy gave me this deal, you know,  /
+sd          B.142 utt2: I told him how much I wanted to pay,  /
+sd          B.142 utt3: and <breathing> for every fifty dollars he'd have to go in and check with the boss  /
+sd          B.142 utt4: and then I'd have to sign something saying that if he could get this rate, uh, we would go ahead and buy.  /
+sd          B.142 utt5:  Uh, uh, if he could get this rate I promised to buy  /
+sd          B.142 utt6: and I left there on a Saturday afternoon just totally exhausted.  /
+sd          B.142 utt7:  I, I was only twenty-five years old or something -- /  
+
+b^r          A.143 utt1:  Uh-huh. /  
+
+sd          B.144 utt1:  -- I, I left there  /
+sd          B.144 utt2: and I, I, uh, I'd never done this before because I'd always bought my previous cars from the guy my dad bought his milk trucks from,  /
+sd          B.144 utt3: and, uh, uh, so I, I got back  /
+sd          B.144 utt4: and a salesman that lived in the apartment had, asked me, uh, uh, if, - /
+sd          B.144 utt5: he'd heard I was going to get a car, and asked me what I paid for it.  /
+sd(^q)          B.144 utt6:  He said, well, hey, uh, before you go buying anything, - /
+sd(^q)          B.144 utt7: he says call this friend of mine at Will's Point.  /
+sd          B.144 utt8:  There was a guy that owned a Chevrolet dealership up there. /  
+
+b^r          A.145 utt1:  Uh-huh. /  
+
+sd          B.146 utt1:  And I called the guy and made an appointment to come up Monday morning  /
+sd          B.146 utt2: and just driving fifty miles out of town, it was a difference,  /
+sd          B.146 utt3: and, I mean it was a difference of four hundred dollars,  /
+sd          B.146 utt4: but this was four hundred dollars on only twenty-five hundred, /  
+
+ba         A.147 utt1:  Goodness. /  
+
+sd          B.148 utt1:  is all we paid for cars in those days.  /
+sd          B.148 utt2:  And, uh, uh, so I called back the guy in Dallas  /
+sd          B.148 utt3: and I told him that,  /
+sd          B.148 utt4: I'd left him a check for tax, title and license and everything,  /
+sd(^q)          B.148 utt5: and I said I want to cancel my order and, and don't try to cash the check because I'm going to, I've stopped payment on it already  /
+sd(^q)          B.148 utt6: and he says oh, somebody's taking,  /
+sd(^q)          B.148 utt7: he said what did you get a deal for, Bill.  /
+sd          B.148 utt8: And I told him,  /
+sd(^q)          B.148 utt9: he says, somebody's taking you for a ride.  /
+sd(^q)          B.148 utt10:  And I said, no somebody <laughter> took me for a ride last Saturday <laughter>. /  
+
+aa          A.149 utt1:  That's right. /  
+
+%          B.150 utt1:  And, uh, uh, and I, I find that, uh, - /
+sd          B.150 utt2: and for the longest time then I drove up to Will's Point  /
+sd          B.150 utt3: and, and the, and the fellow died since then,  /
+sd          B.150 utt4: and, and some of his relatives have taken over the business  /
+%          B.150 utt5: and that, - /
+%          B.150 utt6: but - /
+sd          B.150 utt7: and, since then I had ... / 

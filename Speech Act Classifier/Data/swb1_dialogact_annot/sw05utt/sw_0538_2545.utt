@@ -1,0 +1,479 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2545_1214_1072
+TOPIC#:		325
+DATE:		910410
+TRANSCRIBER:	KSH
+UTT_CODER:	stm
+DIFFICULTY:	5
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	3
+BACKGROUND_B:	3
+REMARKS:        Speakers talked on top of each other a lot.  Also, the tape
+skipped many times throughout the conversation.  It also skipped
+in different places on the individual segments.  This was a very difficult 
+tape to transcribe.
+
+===========================================================================
+  
+
+qy          @A.1 utt1:  {F Um, } {C so } do you have a personal computer? /  
+
+sd          B.2 utt1:  <Breathing> {F Uh, } {D well } we do have one [ in, + in ] our home, {F uh, }  /
+sd          B.2 utt2: it's on the fritz right now,  because the monitor isn't working properly  /
+sd          B.2 utt3: {C but, } <breathing> {F uh, } it has been, {F uh, } used tremendously, mostly by my children <breathing> for, {F uh, } playing games <breathing>. /  
+
+b          A.3 utt1:  Oh <laughter>. /  
+
+sd          B.4 utt1:  However, <laughter> {F um, } {D you know, } the bane of our existence these days, - /
+sd          B.4 utt2:  <breathing> {F uh, } {C but } it does have a word processing program, which all of us have used for <breathing> [ re-, + reports ] and papers and that sort of thing. /  
+
+b          A.5 utt1:  Yeah,  /
+%          A.5 utt2: that's what, - /
+sd^t          A.5 utt3: when this subject was mentioned to us I said, {D well, }  /
+sd(^q)^t          A.5 utt4: I went, gee, that's all I use mine for is a word processor,  /
+^q          A.5 utt5: {C and } I haven't used it since I got out of college,  /
+sd          A.5 utt6: {C and } that was six years ago, /  
+
+ba          B.6 utt1:  {F Oh, } wow. /  
+
+sd          A.7 utt1:  {C but } [ it, + it  ] was my sister's who, - /
+sd          A.7 utt2: my sister bought it -- /  
+
+b          B.8 utt1:  Uh-huh. /  
+
+sd          A.9 utt1:  -- {C and, } {F uh, } my father had a small business  /
+sd          A.9 utt2: {C and } she thought that he would incorporate it and use it in the business,  /
+sd          A.9 utt3: {C and } he never did, /  
+
+b          B.10 utt1:  Oh. /  
+
+sd          A.11 utt1:  he always did everything out by hand.  /
+sd          A.11 utt2: He only had three employees, /  
+
+b          B.12 utt1:  {F Oh, } yeah. /  
+
+sv          A.13 utt1:  {C so, } {D you know, } it wasn't really worth it to him [ to do, + to do  ] it. /  
+
+b          B.14 utt1:  Yeah.  /
+arp          B.14 utt2:  Actually, it would be worth it, if he were able to get a program that would do something that he normally had to do by hand. /  
+
+aa          A.15 utt1:  Yeah,  /
+sv          A.15 utt2: like pay, the payroll  /
+%          A.15 utt3: {C and, } -/  
+
+aa          B.16 utt1:  Exactly,  /
+sd          B.16 utt2: {C and } there are,   
+
+b          A.17 utt1:  yeah,  /
+sd          A.17 utt2: basically payroll. /  
+
++          B.18 utt1:  lots of them on the market. /  
+
+b          A.19 utt1:  Yeah. /  
+
+sd          B.20 utt1:  <Breathing> {C But } you do have to research that, find out what works for your system <breathing>.  /
+qw          B.20 utt2: What kind do you have? /  
+
+sd          A.21 utt1:  {F Um, } it's an I B M,  /
+sd          A.21 utt2: I think it's a Professional Three Hundred,  /
+ar          A.21 utt3: no,  /
+sd          A.21 utt4:  [ that's, + that's  ] the digital one.  /
+sd          A.21 utt5:  It's an, {F uh, } I B M P C Junior, I think. /  
+
+ba          B.22 utt1:  {F Oh, } {D well, } that's a nice computer. /  
+
+aa          A.23 utt1:  Yeah  /
+sd          A.23 utt2: [ [ she, + she, ] + {F uh, } she ] uses it now, {F uh, } my sister, to, - /
+sd          A.23 utt3: actually, she moved  /
+sd@          A.23 utt4: {C and } my father wasn't using it,    *[[slash error]]
+
+b          B.24 utt1:  Uh-huh,  /
+bf          B.24 utt2: {C so } she took it with her <laughter>. /  
+
++          A.25 utt1:  She  ((   ))  took it with her,    *[[sd]]
+
+b          B.26 utt1:  Yeah,  /
+by          B.26 utt2: don't blame her. /  
+
++          A.27 utt1:  because she needed it to do, - /
+sd          A.27 utt2: she just finished up her Bachelor's degree -- /  
+
+b          B.28 utt1:  Uh-huh. /  
+
+sd          A.29 utt1:  -- {C so } I don't know if she's going to even use it anymore.  /
+%          A.29 utt2:  [ It, + it's, ] -/  
+
+b          B.30 utt1:  Yeah  <breathing>.  /
+ad          B.30 utt2:  {F Oh, } {D well, } {D well, } encourage her to try other things,  /
+%          B.30 utt3: {C because, } <breathing> {F um, } I am, {F uh, } - /
+sd          B.30 utt4: I work in a school system,  /
+sd          B.30 utt5: {C and } I teach writing  /
+sd          B.30 utt6: {C and } <breathing> we use the computers a great deal for word processing, <breathing> {D you know, }  because  students really do seem to be freer when they write on the computer, as you probably found out yourself, /  
+
+b          A.31 utt1:  Yeah. /  
+
+sd          B.32 utt1:  <Breathing> {C but, } {F um, } I also am sponsoring a literary magazine,  /
+sd          B.32 utt2: {C and } we're doing our entire layout on the computer <breathing>, {F uh, }  because  of the graphics program and a page maker program that we have,    
+
+b          A.33 utt1:  {F Oh, } yeah, /  
+
++          B.34 utt1:  a publishing program <breathing>. /  
+
+ba          A.35 utt1:  [ that's, + that's ] neat,  /
+ba          A.35 utt2: that's,   
+
+sv          B.36 utt1:  {C So, } it is wonderful, /  
+
++          A.37 utt1:  a very good use. /  
+
+sv          B.38 utt1:  once you get into some of the programs <breathing> that are out now, you can do so much with them,    
+
+b          A.39 utt1:  <Breathing> Yeah. /  
+
++          B.40 utt1:  that you don't do until you really make yourself use them. /  
+
+sd          A.41 utt1:  {D Well, } I know [ there, + there's ] got to be a lot of uses,  /
+sv          A.41 utt2: {C but } <breathing> it's just [ y-, + you ] have,   
+
+sv          B.42 utt1:  You have to make yourself do it,  /
+aa          B.42 utt2: yeah. /  
+
++          A.43 utt1:  to have a need.  /
+aa          A.43 utt2:  Yeah,  /
+sv          A.43 utt3: {C but } you have to have a need.  /
+sd          A.43 utt4:  I really have no need for it at all, /  
+
+b          B.44 utt1:  Yeah. /  
+
+sd          A.45 utt1:  <Breathing> {F um, } I work for Digital Equipment -- /  
+
+b          B.46 utt1:  Uh-huh. /  
+
+sd          A.47 utt1:  -- <Breathing> {C and } we have a powerful computer down at work. /  
+
+b          B.48 utt1:  Oh <laughter>  /
+bf          B.48 utt2: {C so, } you don't need a personal one <laughter>? /  
+
+aa          A.49 utt1:  No,  / 
+sd         A.49 utt2: {C and } [ I, +   
+
+b          B.50 utt1:  Yeah. /  
+
++          A.51 utt1:  I  ] still really don't do that much, as you say, play games on it <laughter>, /  
+
+b          B.52 utt1:  Yeah,  /
+b          B.52 utt2: yeah. /  
+
+sv          A.53 utt1:  they're great for playing games. /  
+
+aa          B.54 utt1:  # Right.  # /  
+
+%          A.55 utt1:  # My brother, # -/  
+
+sd          B.56 utt1:  <Breathing>  {D Well, } my son is, {F uh, } studying electronic technology,  /
+sd          B.56 utt2: {C and } he's been able to do things [ on + <breathing>, {F uh, } on  ] the personal computer here that really have enhanced his, <breathing> {F um, } reports, and his learning and all because he can lay things out that way. /  
+
+b          A.57 utt1:  Yeah. /  
+
+%          B.58 utt1:  {F Um, } {C and } I guess it, - /
+sv          B.58 utt2: if you're doing that sort of thing it's really useful,  /
+sv          B.58 utt3: {C but, } <breathing> {F um, } unless it is,  I guess it's kind of a waste. /  
+
+%          A.59 utt1:  I know some people [ who just, + ]  /
+sd          A.59 utt2: they just went through a course, {F uh, } and took the electronic grafting course,    
+
+ba          B.60 utt1:  {F Oh, } that's,   
+
++          A.61 utt1:  drafting, not grafting,     
+
++          B.62 utt1:  fascinating.  /
+b          B.62 utt2: Uh-huh. /  
+
++          A.63 utt1:  <Laughter> but drafting course, /  
+
+b          B.64 utt1:  Yeah, /  
+
+sd          A.65 utt1:  the C A D. /  
+
+sd          B.66 utt1:  I knew what you meant,  /
+b          B.66 utt2: yeah. /  
+
+b          A.67 utt1:  Yeah,  /
+sv          A.67 utt2: {C and } that's really neat,  /
+%          A.67 utt3: {E I mean, } yeah,  /
+sd          A.67 utt4: you can do [ graphs, + graphs  ] on it too, /  
+
+b          B.68 utt1:  Yeah. /  
+
+sd          A.69 utt1:  {C but } [ this is, + {D you know, } this is ] one step above it,  /
+sd         A.69 utt2: {C but } it's actual, {F um, } drafting, /  
+
+b          B.70 utt1:  Yeah. /  
+
+%          A.71 utt1:  {C and } I always, -/  
+
+aa          B.72 utt1:  Yes,  /
+sv          B.72 utt2: you can do wonderful design.  /
+%          B.72 utt3:  [ It, + it's  ] really,   s-, +  - /
+sv          B.72 utt4:  {D well, }  especially when <breathing> anyone who's ever done any kind of drafting or engineering [ w-, +  {F uh, } [ dr-, + drawing, ] ] <breathing> {F um, }  <breathing> - /
+sv          B.72 utt5: you have to be so precise. /  
+
+b          A.73 utt1:  <Breathing> Yeah,  /
+sv          A.73 utt2: {C and } the computer does it all for you. /  
+
+b          B.74 utt1:  Yeah. /  
+
+sv          A.75 utt1:  <Breathing>  {C So } it was really neat.  /
+sd          A.75 utt2: I wanted to go to that course,  /
+sd          A.75 utt3: {C but }  <breathing> my boss wouldn't pay for it, /  
+
+ba          B.76 utt1:  {F Oh, } {D well } <laughter>. /  
+
+sd(^q)          A.77 utt1:  I'm like, I'll get a job some day  and my boss will pay for it,  /
+^q          A.77 utt2: I'll be needed. /  
+
+b          B.78 utt1:  Yeah. /  
+
+sd          A.79 utt1:  {C Because, } {F um, } [ [ I, + I,  ] + I ] didn't  want to go do it myself  /
+sd          A.79 utt2: {C because } I didn't think I was really going to use it. /  
+
+b          B.80 utt1:  Uh-huh. /  
+
+sd          A.81 utt1:  <Cough>  (( I got ))  this cough,  /
+sd          A.81 utt2: I've got a cold  because  it was eighty degrees up here  and I went outside with no coat on. /  
+
+ba          B.82 utt1:  <Breathing>  {F Oh, } boy <laughter>. /  
+
+aa          A.83 utt1:  Yeah,  /
+sd          A.83 utt2: it was bad. /  
+
+bh          B.84 utt1:  What a change, huh? /  
+
+ny          A.85 utt1:  Yes,  /
+sd^e          A.85 utt2: [ it + ] was a big change. /  
+
+b          B.86 utt1:  Yeah. /  
+
+sd          A.87 utt1:  You couldn't really wear a coat because it was so hot,  /
+sd          A.87 utt2: {C and then, } again, I picked up a cold. /  
+
+b          B.88 utt1:  Right. /  
+
+sd          A.89 utt1:  <Cough> {C But } I'm doing all right, getting over it. /  
+
+ba         B.90 utt1:  {D Well, } that's good. /  
+
+sd          A.91 utt1:  {C So } [ I  don't, + I don't  ] even know how much, {F um, } personal computers cost nowadays. /  
+
+sd          B.92 utt1:  <Breathing> {D Well, } they vary tremendously.   /
+%          B.92 utt2: {F Um,  } {C because } you can get - /
+%          B.92 utt3: {C because } [ you're, +   they're, ]  {F uh, } - /
+sd          B.92 utt4: the ones that were made a few years ago, <breathing> {F uh, } have come down in price significantly, <breathing> {F um, }  /
+sd          B.92 utt5: [ you can get them, +   I've seen them ] for five, and six hundred dollars,  /
+sd          B.92 utt6: {C but } they [ 're much less, +  <breathing> {F um, } have much less ] memory, and capable,   
+
+aa          A.93 utt1:  Yeah,  /
+bf          A.93 utt2: they can't do [ your, +  {F um, }   
+
++          B.94 utt1:  of much less. /  
+
++          A.95 utt1:  your ] drafting and your graphs,    
+
+aa          B.96 utt1:  no,  /
+sd          B.96 utt2: you can't do very much on them. /  
+
++          A.97 utt1:  and all of that. /  
+
+aa          B.98 utt1:  Right.  /
+aa^r          B.98 utt2:  Right.  /
+sd          B.98 utt3:  {F Um, } {D well, } it's just that [ you have to have, + {F uh, } you have to ] be able to get your program in,  /
+sd          B.98 utt4: [ {C and, } + {C and, } ]   
+
+x          A.99 utt1:  <Cough>.   
+
++          B.100 utt1:  [  m-, +  many  ] of the programs are so big, <breathing> {F uh, }  /
+sd          B.100 utt2: they take up so much space that you don't have any place then to work.  /
+sd          B.100 utt3:   You don't have any,   
+
+bh          A.101 utt1:  Yeah? /  
+
++          B.102 utt1:  bytes left <breathing>  /
+sd          B.102 utt2: {C but, } {F um, } [  if you, +  {F um, }  [  if, +  if  ] +  you  ]  want to go into one that's really useful, <breathing> you're going to have to go over a thousand dollars,  /
+sd          B.102 utt3: {C and } even for a personal computer it's probably smart to spend that much, <breathing>  /
+%          B.102 utt4: [ {C an-, } +  {C and } ] we've, - /
+sd          B.102 utt5: ours is not quite that powerful,  /
+sd          B.102 utt6: {C and so, } {D you know, } [ we are, + we are  ] limited,   
+
+qy          A.103 utt1:  [ You do run in-, +   
+
++          B.104 utt1:  which may be one reason why, -/  
+
++          A.105 utt1:  you do run into  ] limitations on yours? /  
+
+ny          B.106 utt1:  {F Oh, } yeah, /  
+
+ba          A.107 utt1:  {F Oh, } wow. /  
+
+b          B.108 utt1:  uh-huh,  /
+sd          B.108 utt2: some things we can't do, <breathing>  /
+sd          B.108 utt3: {C [ but, } +  {C but then } ] we haven't needed to either,    
+
+b          A.109 utt1:  Yeah. /  
+
++          B.110 utt1:  {D you know, } {F um, }  /
+sd          B.110 utt2: {C but } we've been able to do what we can. /  
+
+ba          A.111 utt1:  Wow,  that's neat that [ you ev-, + you even ] reach the limits of yours.  /
+sd          A.111 utt2: I haven't even begun to reach the limits, /  
+
+aa          B.112 utt1:  <Laughter> No,  /
+%          B.112 utt2: {C but } I, - /
+sd          B.112 utt3: mine is not as good as a P C, {F uh, }    
+
+^2          A.113 utt1:  Junior,  /
+b          A.113 utt2: yeah. /  
+
++          B.114 utt1:  {F uh, } Junior,  /
+b          B.114 utt2: yeah.  /
+%          B.114 utt3:  Yeah,  /
+sd          B.114 utt4: ours is a Commodore One Twenty-eight. /  
+
+b          A.115 utt1:  Yeah. /  
+
+sd          B.116 utt1:  <Lipsmack>  {C And } [ it, + it's  ] not quite [ as, + {F um, } as  ] useful, not quite as powerful. /  
+
+b          A.117 utt1:  <Laughter> Yeah.  /
+sd          A.117 utt2:  They,   
+
+%          B.118 utt1:  {C So, } -/  
+
++          A.119 utt1:  say that Commodore has made a good, {F um, } P C for the price, though. /  
+
+aa          B.120 utt1:  <Breathing> They did,  /
+aa          B.120 utt2: yeah,  /
+aa          B.120 utt3: that's very true,  /
+aa^r          B.120 utt4: that's very true,  /
+aa          B.120 utt5: they did. /  
+
+aa          A.121 utt1:  Very competitive.  /
+sd          A.121 utt2:  [  I don't even, +  I don't even  ] know much money my sister spent on hers,  /
+sd          A.121 utt3: {C but } [ I, + I  ] just thought [ I, +  [ it's, + it's  ] ] going to be a waste,  /
+sd          A.121 utt4: she's not going to do it,    
+
+x          B.122 utt1:  <Laughter>.   
+
++          A.123 utt1:  not going to use it. /  
+
+x          B.124 utt1:  # <Laughter>. #   
+
+%          A.125 utt1:  # {F Oh, } {D well. } # /  
+
+bf          B.126 utt1:  Sounds [ like he, + ] that you were right <laughter>. /  
+
+aa          A.127 utt1:  Yeah.  /
+sd          A.127 utt2:  {D Well, } she likes it,  /
+sd          A.127 utt3: she gets to write her reports,  /
+sv(^q)          A.127 utt4: {C but } like I say,   
+
+b          B.128 utt1:  Yeah. /  
+
++          A.129 utt1:  she could have bought a much cheaper model and done what she wanted. /  
+
+sv          B.130 utt1:  {C And } she could have bought a typewriter also <laughter>. /  
+
+aa          A.131 utt1:  Yeah,  /
+sv          A.131 utt2: a typewriter with memory [ would, + <<pause>> would  ] have been fine, /  
+
+b          B.132 utt1:  Yeah, /  
+
+sd          A.133 utt1:  it's all she [ ev-, + ] uses it for. /  
+
+b          B.134 utt1:  yeah. /  
+
+sd          A.135 utt1:  {F Um, } I think it might have a spelling editor on it,  /
+sd          A.135 utt2: I'm not sure.   /
+%@          A.135 utt3: [ {F + ] Um, }    *[[slash error]]
+
+b          B.136 utt1:  Yeah,  /
+%          B.136 utt2: it, - /
+%          B.136 utt3: yeah,  /
+%          B.136 utt4: it prob-, - /
+sd          B.136 utt5: [ if, sh-, + if it ] doesn't she could easily put it on. /  
+
++          A.137 utt1:  Yeah.  / *[[b]]
+b          A.137 utt2:  Yeah, /  
+
+b          B.138 utt1:  Yeah,  /
+b          B.138 utt2: right. /  
+
+sv          A.139 utt1:  that's [ one of, + the one ]  great  thing about it <laughter>. /  
+
+b          B.140 utt1:  Right.  /
+qw          B.140 utt2:  Which program did you use?   /
+qy          B.140 utt3:  Did  you use Word Perfect? /  
+
+nn          A.141 utt1:  {F Um, } no,  /
+%          A.141 utt2: [ I, + I  ] really don't, - /
+sd          A.141 utt3: [ it's,  + it was  ] six years ago. /  
+
+bk          B.142 utt1:  {F Oh, } yeah. /  
+
+sd          A.143 utt1:  She pretty much set it up.  /
+sd          A.143 utt2: She goes, here, [ this is, + ] you make your file, <breathing> and then you can, {F uh, } edit it.  /
+^g          A.143 utt3:  Right? /  
+
+x          B.144 utt1:  <Laughter>.   
+
+sd          A.145 utt1:  {F Um, } I used [ the one, + the one  ] at work a lot, {F um, }  /
+sd          A.145 utt2: matter of fact, anything I've had to write from now on, <breathing> I had to ca-, <breathing> - /
+fe          A.145 utt3: God forbid,  /
+sd          A.145 utt4: write a couple of resumes,  / *[[listen to this and the previous two utts--same or separate?]]
+sd          A.145 utt5: {C and } I   was just great,  /
+sd          A.145 utt6: {C and } all you have to do is just put it in [ a, + {F uh, } the  ] [ sp-, + spelling  ] check mode, /  
+
+b          B.146 utt1:  Uh-huh. /  
+
+sd          A.147 utt1:  {C And } <laughter> I don't even have to look [ my, +  my  ] words up anymore. /  
+
+aa          B.148 utt1:  Yeah,  /
+ba          B.148 utt2: they're great,  /
+aa          B.148 utt3: you're right <breathing>.   /
+fc          B.148 utt4: {D Well, }    
+
+fc          A.149 utt1:  Oh, /  
+
++          B.150 utt1:  I guess we've spent our time.  /
+fc          B.150 utt2:  I need to go help my daughter do something,  /
+fc          B.150 utt3: {C so } --    
+
+fc          A.151 utt1:  Okay,  /
+fc          A.151 utt2: good. /  
+
++          B.152 utt1:  -- this has been fun talking to you. /  
+
+fc          A.153 utt1:  Okay. /  
+
+fc          B.154 utt1:  Good luck. /  
+
+fc          A.155 utt1:  Yeah,  /
+fc          A.155 utt2: {D well, } bye. /  
+
+fc          B.156 utt1:  {F Uh, } bye-bye. / 

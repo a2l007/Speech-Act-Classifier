@@ -1,0 +1,202 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3238_1361_1094
+TOPIC#:		329
+DATE:		911010
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+=========================================================================
+  
+
+fp          A.1 utt1:  Hello /  
+
+fp^m          B.2 utt1:  Hello /  
+
+fp          A.3 utt1:  Hi. /  
+
+fp^m          B.4 utt1:  Hi. /  
+
+fp          A.5 utt1:  <Inhaling>  My name's Gail.  /
+fp          A.5 utt2:  I'm calling from Texas. /  
+
+fp          B.6 utt1:  I'm Sandy.  /
+fp          B.6 utt2:  I'm in Texas, too. /  
+
+ba          A.7 utt1:  {F Oh, } what a deal. /  
+
+x          B.8 utt1:  <Laughter>.   
+
+sd          A.9 utt1:  Took long enough to find you. /  
+
+bh          B.10 utt1:  {F Oh, } really? /  
+
+ny          A.11 utt1:  Yeah,  /
+sv^e          A.11 utt2: seems like they take forever any more,  /
+qy^t          A.11 utt3: [ {C but, } + {F um, } {D so } ] did you hear what the topic was -- /  
+
+ny          B.12 utt1:  Yes. /  
+
+qy^t          A.13 utt1:  -- did she tell you,  /
+%          A.13 utt2: okay. /  
+
+ny          B.14 utt1:  Yeah. /  
+
+ba          A.15 utt1:  Great,  /
+qy^d^t          A.15 utt2: {D well, } if you're ready, then, {F uh, } I'll just go ahead and start. /  
+
+na          B.16 utt1:  Okay, /  
+
+bk^m          A.17 utt1:  Okay,  /
+ad          A.17 utt2: hold on <beep>.  /
+%          A.17 utt3:  Okay,  /
+sd^t          A.17 utt4: {D well } I guess we're supposed to talk about the changing roles of women. /  
+
+b          B.18 utt1:  Yeah. /  
+
+sv          @A.19 utt1:  Seems like, {F um, } to me, everything is just changing so much that it's almost like, {F um, } you can't keep up with things any more,  /
+sv          @A.19 utt2: {C and } [ everything is, {F uh, } ther-, + ] everyone's striving so much to make it equal between men and women,  /
+sd          @A.19 utt3: I personally, I'm a stay home mom,  /
+sd          @A.19 utt4: {C and } I like it the way it used to be. /  
+
+sd          B.20 utt1:  So am I. /  
+
+b          A.21 utt1:  Are you, /  
+
+sv          B.22 utt1:  {D You know, } I think it's kind of coming back around to that, don't you,  /
+sv          B.22 utt2: {E I mean, } that there's a lot more people that stay home now than before,  /
+sv          B.22 utt3: {C but } I guess more than anything I think maybe people were just kind of wanting to have the choice of what they could do, {D you know } -- /  
+
+b          A.23 utt1:  Yeah. /  
+
+h          B.24 utt1:  -- I don't know,  /
+sv          B.24 utt2: {E I mean } I think sometimes some of [ the, + the ] women's lib though, is kind of like they wanted it all, {D you know, }  /
+sv          B.24 utt3: {C and } you can't have everything -- /  
+
+b          A.25 utt1:  Uh-huh. /  
+
+sv          B.26 utt1:  -- [ [ I don't, + I don't think that you can have, ] +  {E I mean, } there's no way I could have ] a career and then be the kind of mom that I want to be -- /  
+
+b          A.27 utt1:  Yeah. /  
+
+sv          B.28 utt1:  -- {C and } to me that's more important. /  
+
+qw          A.29 utt1:  [ Ho-, + how ] many kids do you have? /  
+
+sd          B.30 utt1:  Two. /  
+
+qy^m          A.31 utt1:  Two? /  
+
+ny          B.32 utt1:  Uh-huh. /  
+
+qy          A.33 utt1:  Are they young,  /
+%          A.33 utt2: {C or, } -/  
+
+sd          B.34 utt1:  Five and two. /  
+
+b^m          A.35 utt1:  Five and two.  /
+sd          A.35 utt2:  I have two,  /
+sd          A.35 utt3: {C and } mine are two and nine months,  /
+%          A.35 utt4: {C so, } {F um, } [ being, + being ] home is real, - /
+sv          A.35 utt5: [ I, + I ] just am fortunate because I don't know a real lot of moms that get to stay home,  /
+sd          A.35 utt6: {C and, }  {F uh, } [ I just, + it's just ] weird that I was just talking to somebody this morning [ who's, + who's ] [ a working, {F uh, } lady, + a working mom, ]  /
+sd          A.35 utt7: {C and, }  {D you know, } these people have secretaries and these high power jobs,  /
+%          A.35 utt8: {C and } it just seems like, {F um, } - /
+sd          A.35 utt9: [ she, + she ] told me now her daughter took her first steps at the day care,  /
+sv          A.35 utt10: {C and, }  {F uh, } [ [ [ I just think, + I, ] + I, ] + I just don't agree with that. ]  /
+sv          A.35 utt11:  I think it should be that people should get back to staying home [ and, + and ] being [ family, + more family ] oriented [ than, + than ] not.  /
+sv          A.35 utt12: {D You know, } it seems like  everybody's always so busy with everything that they're doing that there's no time for this and that and the other,  /
+sv          A.35 utt13: {C and } I hope it just doesn't get to where, {D you know, } there's [ more women, + more and more women ] going into the work force. /  
+
+aa          B.36 utt1:  {D Well, } I agree,  /
+sv(^q)          B.36 utt2: {E I mean, } {C but, }  [ I, + I ] hate for them to make people feel bad that have to work, too, saying, {D you know, } you should stay home, {D you know, } otherwise your children aren't going to, {D you know, } turn out, or whatever --   
+
+b          A.37 utt1:  Yeah. /  
+
++          B.38 utt1:  -- because that's not fair to, {D you know, } {D like } the single moms that have to work,  /
+sv          B.38 utt2: {C or, }  if they wouldn't be able to make ends meet --   
+
+b          A.39 utt1:  Uh-huh. /  
+
++          B.40 utt1:  -- not working or whatever,  /
+sv          B.40 utt2: {E I mean, } I think it's got to be a personal choice,  /
+sv          B.40 utt3: {C and, }  it's nice [ that, + that ] we could have the choice to stay home. /  
+
+aa          A.41 utt1:  Yeah,  /
+sd          A.41 utt2: {D well } I find that [ [ I, + whenever I have to, ] + whenever I'm ] in a group of people and we're discussing things, - /
+sd          A.41 utt3: {D like } just over the weekend I visited my family, and some cousins I hadn't seen in a long time,  /
+sd          A.41 utt4: {C and } everyone's all interested in what everybody's doing,  /
+sd          A.41 utt5: {C and, }  {F uh, } {D you know, } {D well, } I had my baby with me,  /
+sd          A.41 utt6: {C and } I found that all I talked about was my baby,    
+
+x          B.42 utt1:  <Laughter>.   
+
++          A.43 utt1:  which was fine with me,  /
+sd          A.43 utt2: {C but } it's like, {D you know, } here these people are,  /
+sd          A.43 utt3: they're going to school, getting degrees, making all this money,  /
+sd          A.43 utt4: {C and, } {D you know, } they kind of looked at me like I was from the dark ages, <laughter> {D you know, } [ like I, + ] because I didn't have really all that much to talk about, {F uh, } where career and things like that were concerned,  /
+sv          A.43 utt5: {C and } you kind of feel little bit like an outcast for a while --   
+
+b          B.44 utt1:  Yeah. /  
+
++          A.45 utt1:  -- in social situations sometimes,  /
+sd          A.45 utt2: which is too bad, because, {D you know, } [ [ I, + I feel like I don't, ] + obviously I don't ] get paid for my job,  /
+sv          A.45 utt3: {C but } I should get paid at least double what my husband makes <laughter> working in an office for staying home -- /  
+
+b          B.46 utt1:  Yeah <laughter>. /  
+
+aa          A.47 utt1:  -- that's what I figure,  /
+sv          A.47 utt2: <laughter> I'm worth a lot just for what I do every day,  /
+h          A.47 utt3: {C but, } {D you know, } I don't know,  /
+%          A.47 utt4: this is kind of a, {F um, } - /
+%          A.47 utt5: [ at, + at ] least here I've noticed, - /
+sd          A.47 utt6: I'm not from here,  /
+sd          A.47 utt7: I'm from Colorado,  /
+sv          A.47 utt8: {C but } I've really noticed that there are [ a lot of, + {F uh, } a lot more ] people that are more comfortable, at least, with some women being home  [ and, + ] at least in the circles I've travelled and in the church that I go to, {D you know, }  /
+%          A.47 utt9: that - /
+sv          A.47 utt10: men don't treat you like you don't know anything, generally --   
+
+b          B.48 utt1:  Yeah <laughter>. /  
+
++          A.49 utt1:  -- speaking. /  
+
+sv          B.50 utt1:  {D Well, } {C and } I think a lot of companies are realizing this and  offering more opportunities as far as {D like } job sharing or, {D you know, } even having a day care on site and that kind of stuff,  /
+sv          B.50 utt2: {C and } I think that's really important --   
+
+b          A.51 utt1:  Yeah. /  
+
++          B.52 utt1:  -- [ that, + that ] they do that  /
+sv          B.52 utt2: {C and } they realize there's a need for that,  /
+h          B.52 utt3: {C and, }  {F um, } I don't know,  /
+sd          B.52 utt4: I found when I did do some work when my son was young, it was like contract work,  /
+sd          B.52 utt5: {C and } it wasn't where I had to be there every day,  /
+sd          B.52 utt6: {C but, }  {E I mean, } we were going to the doctor once a week,  /
+sv          B.52 utt7: {C so, } I don't know how you could have a full time job and ever have any vacation time to do anything besides go to the <laughter> doctor. /  
+
+aa          A.53 utt1:  <Laughter> Yeah,  /
+aa^r          A.53 utt2: yeah,  /
+ba          A.53 utt3: I can see where that would definitely hinder the problem,  /
+aa          A.53 utt4: definitely.  /
+%          A.53 utt5:  {D Well, } -/ 

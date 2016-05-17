@@ -1,0 +1,289 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3012_1229_1280
+TOPIC#:		315
+DATE:		910605
+TRANSCRIBER:	csw
+UTT_CODER:	tc
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	4
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:	There is a lot of cross talk.  Caller B has a TV or voices
+in the background the entire conversation.
+
+===========================================================================
+  
+
+fp          A.1 utt1:  Hello. /  
+
+fp          B.2 utt1:  Hello <talking>. /  
+
+fp          A.3 utt1:  Hi, {F um, }  /
+fp          A.3 utt2: this is Betty  /
+sd          A.3 utt3:  {C and } I'm in Richardson, Texas. /  
+
+fp          B.4 utt1:  I'm Nola  /
+sd          B.4 utt2: {C and } I'm in Plano. /  
+
+b          A.5 utt1:  {F Oh, } okay,  /
+sd          A.5 utt2: {D well } here we go <laughter>. /  
+
+x          B.6 utt1:  <Laughter>.   
+
+qy^d          A.7 utt1:  I guess we're going to have a lot of  parades this weekend in honor of these guys [ that are, +  that did ]  some stuff over in the Gulf.  {F Um. } /  
+
+ny          B.8 utt1:  Yeah,  /
+qy^t          B.8 utt2: {D now, } did you push one? /  
+
+ny          A.9 utt1:  Yeah, {F uh, } /  
+
+bk          B.10 utt1:  {F Oh, } okay. /  
+
+nn          A.11 utt1:  no  /
+sd^t          A.11 utt2: I haven't pushed one yet.  /
+%          A.11 utt3:  I just, -/  
+
+b          B.12 utt1:  Okay,  /
+sd          B.12 utt2: {C but, } I think it's, - /
+sd^t          B.12 utt3:  I just started doing this  /
+sd^t          B.12 utt4: {C so } I don't know too much about it. /  
+
+b          A.13 utt1:  Okay,  /
+sd          A.13 utt2: we're just sort of getting acquainted here. /  
+
+b          B.14 utt1:  {F Oh, } okay. /  
+
+sd          A.15 utt1:  {F Um, } {D you know, } [ I, +  I ]  just wanted to see if, {D you know, } you had an opinion about this,  /
+%          A.15 utt2: {C or, } {D you know. } -/  
+
+b          B.16 utt1:  Uh-huh. /  
+
+co          A.17 utt1:  {F Um, } {C so, } if that's okay with you,  then I'll just press one. /  
+
+aa          B.18 utt1:  That will be fine. /  
+
+b          @A.19 utt1:  Okay <beep>.  /
+fp          @A.19 utt2: {D Well, } hi, <laughter>. /  
+
+fp          B.20 utt1:  Hi. /  
+
+fp          A.21 utt1:  Good morning.  {F Um, }  /
+sv          A.21 utt2: [ I think + {E I mean, }  [ if, + if ] I start ] this I just wanted to say that, {F um, } one of the things that  I don't think we really understood about [ the, +  the ] middle eastern situation is  that they're a totally different type of people than we are,  /
+sv          A.21 utt3: {C and } {E I mean } they  think differently  /
+sv          A.21 utt4: {C and } their idea of what is justice is totally different from ours.  /
+sv          A.21 utt5:   [ {C And, } + {C and } ] right now, [ I, + I ] think that that's been proven in the fact that, {F um, }  they have just, - /
+sv          A.21 utt6: {D well, } {D anyway, } I just think that, {D you know, } the United States  policy over there, - /
+sv          A.21 utt7: I think we should just leave them alone.  /
+sv          A.21 utt8: I really do.  [ In, + in ] a major way because [ they just, + {F um, } that whole region over there, ]  I think needs to settle it's own differences within itself. /  
+
+b          B.22 utt1:  Yeah. /  
+
+sv          A.23 utt1:  {C And } that's [ the way, + the course ] that  they should go,  /
+sv          A.23 utt2: {E I mean, } {D you know, } we can maybe help them a little bit, prompt them,  /
+sv          A.23 utt3:  {C but } I don't think this intervention at such high levels should be going on.  /
+sv          A.23 utt4:   [ The, +  the ] thing with Israel and Palestine, I believe that should  be settled between them.  /
+sv          A.23 utt5: {C And } also, {F um, } {D you know, } the other thing  is [ their idea, +  {E or } our [ ide-, +  idea ] ] of democracy has nothing to do with them.  /
+sd          A.23 utt6:  [ {E I mean, } tha-, + {E I mean, } I'm ] talking about the whole middle ea-,  /
+h          A.23 utt7: [ {C and, } + {C and } ]  maybe this is too general,  /
+sv          A.23 utt8: {C but } I just believe that, {F um, } they do not look at  democracy the same way we do.  /
+sv          A.23 utt9:  They don't understand it as we don't understand the way they live. /  
+
+b^r          B.24 utt1:  Yeah. /  
+
+sv          A.25 utt1:  {C And, so, } {D you know, } trying to put  {D like } a square peg in a round hole is just, {D you know, } - /
+sv          A.25 utt2: [ i-, +  I ] don't think that  that's the way to go in this  /
+h          A.25 utt3: {C and, } {F um, } {D you know, } [ [ [ it, +  it. ] +  {F Oh, } {D well, }  that's, ] +  that's ] a couple thoughts on it. /  
+
+b^r          B.26 utt1:  Yeah. /  
+
+ad          A.27 utt1:  [ I, + I ] guess, {D you know, }  I'd like you to maybe express something here. /  
+
+aap          B.28 utt1:  {D Well } [ [ I, + I, ] + I ] think  overall that's right.  /
+sv          B.28 utt2: I think it's kind of sad though, that, for generations they've been taught  to hate each other. /  
+
+b          A.29 utt1:  Yeah. /  
+
+%          B.30 utt1:  {C And } [ that's, + i-, ] {D you know, } - /
+%          B.30 utt2: if, - /
+sv          B.30 utt3:   somewhere in there someone's going to have to learn a different way. /  
+
+%          A.31 utt1:  That's, - /
+b          A.31 utt2: yeah. /  
+
+sv          B.32 utt1:  {D You know, } [ {C an, } +  {C an, } ]   [ I, + I ] think that, {F um, } <<pause>> - /
+sv          B.32 utt2:  true we do have completely different ways of looking [ at things, + at a lot of things, ]  /
+sv          B.32 utt3:  {C but, } {F uh, } at the same time, I think [ there are a lot of, +   there is a lot of ] good that the United States and other countries can do, as far as example  /
+sv          B.32 utt4:  [ {C and, } + {C and, } ] {F uh, } <<pause>>, I think some different things could come from   what's happened, than what we expect. /  
+
+%          A.33 utt1:  {D Well, } ye-,  /
+b          A.33 utt2: {D well, } yeah,  /
+sv          A.33 utt3: {F um, }  [ I, + I ] guess we could be a catalyst for their change.  /
+%          A.33 utt4: I, {F um, } - /
+sv          A.33 utt5: the war has certainly  sort of set things on end over there  /
+sv          A.33 utt6: {C and } I don't think we'd be talking about this,   {D you know, } {A the [ Israeli situation, + Palestinian situation, ] {F um, } sort of came to  a head, {F um, } } unless there had been a war.  /
+sd          A.33 utt7:  {E I mean } that was one thing,   
+
+b          B.34 utt1:  Yeah. /  
+
++          A.35 utt1:  that came out of it, good or bad,  /
+sd          A.35 utt2:  [ I, +  I ] don't judge any war as good or   bad,  /
+sv          A.35 utt3: it's just a war. /  
+
+b          B.36 utt1:  Yeah. /  
+
+sv          A.37 utt1:  {C And } I don't see any winners or losers,  /
+sv          A.37 utt2:  I just see dead bodies.  /
+sv          A.37 utt3: I'm sorry.  {D You know, }  /
+sv          A.37 utt4: {C but, } {F um, } [ [ i-, +  I, ] +   I ] just think, {D you know, } you're right  /
+sv          A.37 utt5: {C and } I think maybe it's at a whole different level  of them trying to cooperate and get along.  /
+sv          A.37 utt6:  It's not going to be that we're going  to, {F uh, } {D you know, } sort of, tell them to go to their room  /
+sv          A.37 utt7: {C and } that's  going to solve the whole problem. /  
+
+b          B.38 utt1:  Yeah. /  
+
+sv          A.39 utt1:  It's going to be them, /  
+
+sv          B.40 utt1:  {C But, } that's the type of thing they understand. /  
+
+b          A.41 utt1:  Yeah. /  
+
+sv          B.42 utt1:  They don't understand any other way. /  
+
+%          A.43 utt1:  {C And, } {D you know, } -/  
+
+sv          B.44 utt1:  {C And so } [ at that, + at that, ]  you have to work at their level,   
+
+%          A.45 utt1:  It's, -/  
+
++          B.46 utt1:  to an extent, too. /  
+
+aa         A.47 utt1:  Yeah,  /
+sv          A.47 utt2: [ that, +  that's ] true too,  /
+%          A.47 utt3: I, {F um.  } -/  
+
+sv          B.48 utt1:  They wouldn't have understood anything  [ else + ] than what we did in the war. /  
+
+b          A.49 utt1:  {F Oh, } {D well } yeah,  /
+sv          A.49 utt2: # [ they, +   they ] understand violence. # /  
+
+sv          B.50 utt1:  # There was nothing else.  /
+%          B.50 utt2: Yeah. # /  
+
+sv          A.51 utt1:  They love violent leaders, to, {D you know, }  /
+ad          A.51 utt2:  {E I mean } look at, {D you know, } the leader they had.  /
+sv          A.51 utt3:  [ They, +  they ] just adored him,   
+
+b^r          B.52 utt1:  Yeah. /  
+
++          A.53 utt1:  because he was so strict and cruel,  /
+sd          A.53 utt2:  {C and, } {D you know, } for a while there he had them, be-, -/  
+
+sd          B.54 utt1:  I can't figure out why they adored him. /  
+
+sv          A.55 utt1:  {D Well } it has a lot to do with their religion.  /
+sd          A.55 utt2:   I got to say,   
+
+b          B.56 utt1:  Yes,  /
+b          B.56 utt2: yeah. /  
+
++          A.57 utt1:  that over there, {F um, } - /
+sd          A.57 utt2:  {C and } I know this only because from personal experience that I'm speaking of this,  /
+sd          A.57 utt3: {C because }  [ I, +  I've, ] {D you know, } traveled around town with different cab drivers in a  situation where I've done that  /
+sd          A.57 utt4: {C and } [ one, +  one ] of the kindest people I've  ever met in my whole life, {F um, } is from that area of the country  /
+sd          A.57 utt5: {C and } {E I mean }  [ he is just overly, +  [ he, +  he ] is abounding ] in kindness, let's say. /  
+
+b          B.58 utt1:  Yeah. /  
+
+sd          A.59 utt1:  {C And } his wife is so godly, {E I mean, } every thought,  /
+sv          A.59 utt2: they have a totally different life than we have. /  
+
+%          B.60 utt1:  {F Huh. } /  
+
+sv          A.61 utt1:  {D You know, } {C and } when you add the,  {F um, } commercialization of the western world it sort of screws everything up for them. /  
+
+b          B.62 utt1:  Yeah. /  
+
+sd          A.63 utt1:  {C And } they have very basic life, {F um, }  /
+sd^r          A.63 utt2:  {D well } it's just a very basic life  /
+sd          A.63 utt3: {C and } they just really believe in Allah, or God, or whatever. /  
+
+b          B.64 utt1:  Uh-huh. /  
+
+sv          A.65 utt1:  {C And } [ it's, + {D you know, } everything  is ] to the glory of Allah,  /
+sv          A.65 utt2: [ [ {C and, } + {C and, } ] + {D you know, } {C and, } ] [ it, +  it's ] almost like, -/  
+
+sv          B.66 utt1:  What's sad is that the leaders that have control --   
+
+b          A.67 utt1:  Yeah,  /
+%          A.67 utt2: {D well } that's,   
+
++          B.68 utt1:  -- are power, /  
+
++          A.69 utt1:  {D see } using that,  /
+b          A.69 utt2: yeah. /  
+
+b          B.70 utt1:  yes,  /
+sv          B.70 utt2: {C and } they abuse that. /  
+
+sd          A.71 utt1:  {C And } it's always been military  /
+sd          A.71 utt2:  {C and } it's always been,  /
+qy^g          A.71 utt3: {C and } [ that's, +  that's ] always been the way of the world.  Don't you think <laughter>. /  
+
+sv          B.72 utt1:  Which I think that that's not [ the, +  the ]  way the majority of the people over there really are. /  
+
+b          A.73 utt1:  Yeah.  /
+sv          A.73 utt2:  {C So } it's really hard, #  when you see the leaders, compared to the people. # /  
+
+sv          B.74 utt1:  # {C But } [ I think [ in a, +  in a ]  way the war, # +  {F uh, }  I think in a way all, the involvement ] over there too, though,  has shown [ a lot of people +  that there are a lot of people ] that don't follow what those  few are doing.  /
+"          B.74 utt2: {C And } there are a lot of people who are good people. /  
+
+b          A.75 utt1:  Yeah,  /
+b^r          A.75 utt2: yeah. /  
+
+%          B.76 utt1:  {D You know, } there's, - /
+sv          B.76 utt2: {C and } [ I, +   I ] think we may not have ever have seen that without some of these, {F uh, } newspeople  being in there in the broadcasts  and [ the, +  the, ] {F uh, } soldiers leaving, {F um, }  {D you know, } surrendering and,    
+
+aa          A.77 utt1:  Right  /
+sd^m          A.77 utt2: and surrendering,  /
+%          A.77 utt3: that was, -/  
+
++          B.78 utt1:  trying to get out of that situation. /  
+
+b          A.79 utt1:  Yeah. /  
+
+%          B.80 utt1:  [ {C And, } + {C and, } ] the, {D you know, } -/  
+
+sv          A.81 utt1:  it just really comes down to people  are people, {D you know, }  /
+sv          A.81 utt2: you have to have some compassion some humanness. /  
+
+aa          B.82 utt1:  That's right. /  
+
+sv          A.83 utt1:  Doesn't matter where the boundaries are.   {F Um, } {D you know, }  /
+sd          A.83 utt2: there are political boundaries  /
+sd          A.83 utt3: {C and } those are man made boundaries,  /
+sd          A.83 utt4:  {C but, } {D you know, } for heaven sakes, that's something that's been going on for ages, /  
+
+sv          B.84 utt1:  {C and } [ I, +  I ] think so  much of it is what you're taught. /  
+
+aa          A.85 utt1:  Yeah,  /
+aa          A.85 utt2: that's true. /  
+
+sv          B.86 utt1:  {D You know, } they teach their children,  {F uh, } in such a way that, -/ 

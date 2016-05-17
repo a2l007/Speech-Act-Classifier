@@ -1,0 +1,352 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3791_1477_1004
+TOPIC#:		306
+DATE:		920118
+TRANSCRIBER:	glp
+UTT_CODER:	lsh
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Could hear Speaker B inhaling and exhaling (as if
+smoking a cigarette) throughout the conversation.
+
+============================================================================
+  
+
+qw           A.1 utt1:  {F Oh, } {D so } what would be [ the, + ]  your favorite meal to cook? /  
+
+sd          B.2 utt1:  <Laughter> None to cook.  /
+sd          B.2 utt2:  I don't like to cook <laughter>. /  
+
+b^m^g          A.3 utt1:  Don't like to cook, huh? /  
+
+aap          B.4 utt1:  Spaghetti, I guess, though.  /
+sd          B.4 utt2:  I make a mean spaghetti. /  
+
+b^m^g          A.5 utt1:  Make a mean spaghetti, huh? /  
+
+aa          B.6 utt1:  Yeah  /
+x          B.6 utt2: <laughter>.   
+
+qy          A.7 utt1:  {F Uh, } got kids? /  
+
+nn          B.8 utt1:  No. /  
+
+%          A.9 utt1:  M-, - /
+qy          A.9 utt2: married? /  
+
+ny*            B.10 utt1:  Huh-uh.  /  *[[According to the following utterance, this is an AFFIRMATIVE answer, so should be "Uh-huh"]]
+sd^e          B.10 utt2:  Just my husband and I and the two dogs. /  
+
+b          A.11 utt1:  Yeah. /  
+
+qo          B.12 utt1:  <Laughter> {D So } what about yours? /  
+
+sd           A.13 utt1:  {D Well, } [ uh-, + ] my wife and I and we've got a thirteen week old baby  /
+sd          A.13 utt2: {C so } --   
+
+b          B.14 utt1:  Uh-huh. /  
+
++          A.15 utt1:  -- don't do much cooking for him yet. /  
+
+x          B.16 utt1:  <Laughter>.   
+
+%          A.17 utt1:  {F Uh, } /  
+
+qy^g^t     B.18 utt1:  {C So } I guess it's supposed to be dinner party, is that what they said? /  
+
+ny          A.19 utt1:  {F Uh, } yeah  /
+sd^t          A.19 utt2: what kind of menu would you plan for a  dinner party/
+sd^t           A.19 utt3: {C and, } {F uh, } what kind of dishes you might have for it, or --   
+
+b          B.20 utt1:  Uh-huh. /  
+
++          A.21 utt1:  -- some sort of thing like that. /  
+
+b          B.22 utt1:  Huh,  /
+sd          B.22 utt2: we don't, -/  
+
+^h          A.23 utt1:  Let's see, a good dinner party --   
+
+%          B.24 utt1:  Think you, -/  
+
++          A.25 utt1:  -- menu. /  
+
+x          B.26 utt1:  <Laughter>.   
+
+sd          A.27 utt1:  I suppose it would just about depend on who was coming,  I guess. /  
+
+b          B.28 utt1:  Uh-huh,  /
+b^r          B.28 utt2: uh-huh. /  
+
+sd          A.29 utt1:  {D You know, } {F uh, } something light and easy. /
+sd          A.29 utt2:   If it was pretty  [ in-, + ] informal --   
+
+b          B.30 utt1:  Uh-huh. /  
+
++          A.31 utt1:  -- about anything. /  
+
+sd          B.32 utt1:  Sometimes --   
+
+sd          A.33 utt1:  Breast  (( of chicken ))  <<faint>>. /  
+
++            B.34 utt1:  -- [ we'll have, + {F uh, } we'll have ]  a bunch of people over and cook deer. /  
+
+ba          A.35 utt1:  {F Oh, } gosh,  /
+%          A.35 utt2:  yeah.  /  
+
+x          B.36 utt1:  <Laughter>.   
+
+qw          A.37 utt1:  How do you usually cook your deer? /  
+
+br          B.38 utt1:  Huh? /  
+
+qw^r          A.39 utt1:  How do you usually cook your deer? /  
+
+br^m          B.40 utt1:  <Laughter> How do we usually? /  
+
+ny          A.41 utt1:  Yeah. /  
+
+sd           B.42 utt1:  On the grill, we'll take the back strap and soak it in Italian dressing for a couple of hours --   
+
+b          A.43 utt1:  Yeah. /  
+
++          B.44 utt1:  -- and throw it on the grill  /
+sd          B.44 utt2: {C and } it is good. /  
+
+ba          A.45 utt1:  I imagine. /  
+
+sd          B.46 utt1:  Real good. /  
+
+ba^r        A.47 utt1:  I would imagine it is. /  
+
+sd            B.48 utt1:  Either that {C or } hamburgers, we really don't have dinner parties. /  
+
+b          A.49 utt1:  Yeah. /  
+
+x          B.50 utt1:  <Laughter>.   
+
+b          A.51 utt1:  Yeah,  /
+ba          A.51 utt2: I understand. /  
+
+o@          B.52 utt1:  {F Um. }   *[[ slash error ]]
+
+sd          A.53 utt1:  We just had, {F uh, } deer stew sort of --   
+
++@          B.54 utt1:  Ooh. /  *[[slash error]]
+
++          A.55 utt1:  -- {F uh, } it was deer steak stew.   
+
+b          B.56 utt1:  Uh-huh. /  
+
++            A.57 utt1:  {F Uh, } {D well } <noise>, about a day, day and a half in the crock pot, {F uh } --   
+
+ba          B.58 utt1:  Ooh. /  
+
++          A.59 utt1:  -- {F uh, } some deer steaks --   
+
+b          B.60 utt1:  Uh-huh. /  
+
++          A.61 utt1:  -- in kind of a mushroom gravy. /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+sd          A.63 utt1:  {F Uh, } some veggies in it. /  
+
+qy          B.64 utt1:  Did you kill --   
+
+%          A.65 utt1:  Delic-, -/  
+
++          B.66 utt1:  -- the deer? /  
+
+nn          A.67 utt1:  No. /  
+
+b^m          B.68 utt1:  No. /  
+
+nn^r          A.69 utt1:  No,  /
+sd^e           A.69 utt2: the times I've been out deer hunting, [ I, + I ] can go out in the woods unarmed and deer will be tripping over me and vice versa. /  
+
+b          B.70 utt1:  Uh-huh  /
+x          B.70 utt2: <laughter>.   
+
+sd           A.71 utt1:  {E I mean, } I get close to the woods with anything resembling a weapon  /
+sd           A.71 utt2: {C and } suddenly there isn't a deer within fifty miles. /  
+
+x          B.72 utt1:  <Laughter>.   
+
+nn          A.73 utt1: {C So, } no,  /
+sd^e          A.73 utt2: this was given to us by some friends. /  
+
+b          B.74 utt1:  Uh-huh. /  
+
+sd           A.75 utt1:  {F Uh, } guy was [ in a, + {F uh, } in a ] hunting club -- /  
+
+b          B.76 utt1:  Uh-huh. /  
+
+%          A.77 utt1:  -- {C and, } {D you know, } - /
+sd          A.77 utt2: {C but } the whole group  goes out hunting  /
+sd          A.77 utt3: {C and then } at the end of the day, they split it  -- /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+sd           A.79 utt1:  -- {C and } whoever brought it down gets the lion's share  /
+sd             A.79 utt2: {C and } the rest of it is split with the rest, with everybody in the group. /  
+
+ba          B.80 utt1:  {F Oh, } {D well, } that's nice. /  
+
+%          A.81 utt1:  {D Well, } he wou-, - /
+sd           A.81 utt2: [ they, + they ]  went out last year and almost everybody got it, the limit -- /  
+
+b          B.82 utt1:  Uh-huh. /  
+
+sd           A.83 utt1:  -- {C so } [ there's, + ]  everybody had deer coming out their ears. /  
+
+x          B.84 utt1:  <Laughter>.   
+
+%          A.85 utt1:  {C So, } -/  
+
+b          B.86 utt1:  Yeah,  /
+sd          B.86 utt2: we still got some from last year. /  
+
+b          A.87 utt1:  Yeah,  /
+sd          A.87 utt2: [ they, + they ] gave us some deer  /
+sd          A.87 utt3:  {C and } some of it's still in the freezer  /
+%          A.87 utt4: {C and } they, - /
+sd          A.87 utt5: about eight months ago <laughter> they gave it to us. /  
+
+b          B.88 utt1:  <Laughter> Yeah. /  
+
+sd          A.89 utt1:  [ We, + we ] either crock pot deer  /
+sd            A.89 utt2:  {C or } we'll, {F uh, } {D you know, } put it out on the grill so that, {F uh } --   
+
+b          B.90 utt1:  Uh-huh,  /
+b^r          B.90 utt2: uh-huh. /  
+
++          A.91 utt1:  -- the bulk of the tallow will dribble off of it. /  
+
+b          B.92 utt1:  Yeah.  /
+%          B.92 utt2:  We h-, - /
+sd           B.92 utt3: we usually have most of it made into, {F uh, } hamburger meat, though.    
+
+b          A.93 utt1:  Yeah. /  
+
++          B.94 utt1:  And cook, {D you know, } spaghetti with it. /  
+
+b          A.95 utt1:  Yeah. /  
+
+sd          B.96 utt1:  Chili. /  
+
+sv          A.97 utt1:  That is good. /  
+
+%          B.98 utt1:  {C So, } -/  
+
+sv^r          A.99 utt1:  Deer spaghetti is real good. /  
+
+aa          B.100 utt1:  Uh-huh  /
+x          B.100 utt2: <laughter>.   
+
+o          A.101 utt1:  Anyway, {F uh, } no,  /
+sd            A.101 utt2: I think if I was going to have a dinner party, I'd probably have, {F uh, } sandwiches or something along those  lines and --   
+
+b          B.102 utt1:  Uh-huh. /  
+
++           A.103 utt1:  -- then, {F uh, } {F uh, } {D you know, } just something light finger food sort of something or,    
+
+b          B.104 utt1:  Yeah,  /
+b^r          B.104 utt2: yeah. /  
+
++          A.105 utt1:  Or maybe have something roasting out on the fire. /  
+
+x          B.106 utt1:  <Laughter>.   
+
+sd          A.107 utt1:  {F Oh, } {D well, } anyway.   
+
+b          B.108 utt1:  {F Um. } /
+
++          A.109 utt1:  {F Uh, } we don't do much in the way of entertaining. /  
+
+x         B.110 utt1:  <Laughter>. 
+
+sd          A.111 utt1:  Usually it's,   
+
+x          B.112 utt1:  <Laughter>.   
+
++          A.113 utt1:  one other couple come over for a dinner. /  
+
+b          B.114 utt1:  Uh-huh. /  
+
+t1            A.115 utt1:  Let's see, what did we have the last time we had guests over.  /
+o          A.115 utt2:  {F Ah, } yeah,  /
+sd          A.115 utt3: we had [ a, + {F uh, } a ] turkey loaf. /  
+
+b          B.116 utt1:  Oh. /  
+
+sd          A.117 utt1:  Which, {F uh, } kind of taco turkey loaf. /  
+
+x          B.118 utt1:  <Laughter>.   
+
+sd          A.119 utt1:  It was good. /  
+
+x          B.120 utt1:  <Laughter>.   
+
+sd          A.121 utt1:  {F Uh, } scalloped potatoes. /  
+
+b          B.122 utt1:  Oh. /  
+
+ar          A.123 utt1:  No,  /
+sd          A.123 utt2: mashed potatoes. /  
+
+b          B.124 utt1:  Uh-huh. /  
+
+sd           A.125 utt1:  Mashed potatoes with, {F uh, } [ m-, + ]  cheese melted over the top of them. /  
+
+o@          B.126 utt1:  {F Um. }  *[[ slash error ]]
+
+sd          A.127 utt1:  A couple things like that.  /
+sd          A.127 utt2:   It was pretty good  (( little ))  dinner. /  
+
++@          B.128 utt1:  {F Um, } sounds good. /   *[[slash error]]
+
+aa          A.129 utt1:  Yeah,  /
+%          A.129 utt2: usually it's k-, -/  
+
+sd          B.130 utt1:  This isn't a good topic for me right now.  /
+sd          B.130 utt2:  I'm on a diet <laughter>. /  
+
+bh          A.131 utt1:  {F Oh, } don't you hate that?  / 
+sd          A.131 utt2: [ I've got a, + I got a ]  few pounds to lose myself. /  
+
+x          B.132 utt1:  <Laughter>.   
+
+bd          A.133 utt1:  That's okay. /  
+
+%          B.134 utt1:  {F Um. } /  
+
+sd           A.135 utt1:  I've been fighting my weight since I was about ten years old. /  
+
+aa          B.136 utt1:  Yeah,  /
+sd          B.136 utt2: I have, too.  /
+sd          B.136 utt3:  I was real skinny till I was ten. /  
+
+b          A.137 utt1:  Yeah,  /
+b^r          A.137 utt2: yeah,  /
+sd            A.137 utt3: I [ was, + ]  left the fourth grade weighing about a hundred pounds and started the seventh grade, grade at two, / 

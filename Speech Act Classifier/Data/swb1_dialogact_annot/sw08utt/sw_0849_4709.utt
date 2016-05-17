@@ -1,0 +1,240 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:        4709_1481_1611
+TOPIC#:          345
+DATE:            920416
+TRANSCRIBER:     nk
+UTT_CODER:       aabo
+DIFFICULTY:      1
+TOPICALITY:      1
+NATURALNESS:     1
+ECHO_FROM_B:     1
+ECHO_FROM_A:     1
+STATIC_ON_A:     1
+STATIC_ON_B:     1
+BACKGROUND_A:    1
+BACKGROUND_B:    1
+REMARKS:         None.
+
+=============================================================================
+  
+
+o          A.1 utt1:  <TV> Okay.  /
+qw          A.1 utt2:  What would you rather have?  /
+qrr          A.1 utt3:  {C Or } you want salary too plus what?  /
+qw          A.1 utt4: What's most important to you?  /
+x          A.1 utt5: <Throat_clearing>.   
+
+sv          B.2 utt1:  {D Well, } as far as tangible benefits go I would say that, {F uh, } health insurance of all forms is probably my next most important concern. /  
+
+b          A.3 utt1:  Right. /  
+
+sv          B.4 utt1:  I feel that a company that can provide good health benefits such as health care, dental and vision --   
+
+b          A.5 utt1:  Uh-huh. /  
+
++          B.6 utt1:  -- as well as good long-term and short-term disability plans, {F uh, } goes a long way toward satisfying my needs. /  
+
+b          A.7 utt1:  Uh-huh.  /
+cc          A.7 utt2:  {D Well, } I'll tell you.  /
+sv          A.7 utt3: I think that is the most important thing <laughter>.  /
+sd          A.7 utt4: [  I've, + {F uh, } I'm ] not working right at the moment  /
+sd          A.7 utt5: {C but } the company that I did work for <throat_clearing> - /
+sd          A.7 utt6: {E excuse me } <cough> <<in background>> I had health benefits.  {D You know, } dental, vision, all that, pension plan, {F uh, }  /
+sd          A.7 utt7: now I don't have that, although I do have a pension that I'm drawing from them which, thank God, I had. /  
+
+b          B.8 utt1:  Right. /  
+
+sd          A.9 utt1:  {C But, } {F uh, } {D man, } I think those medical benefits are the most important. # {F Uh, } # /  
+
+sv          B.10 utt1:  # [ You, + # you ] really don't realize how important they are until you find yourself on the other side of the fence without them and having to cover your own medical  /
+sv          B.10 utt2: {C and, } {F uh, } you can quickly see where they become a very important part of [ your, + your ] compensation package. /  
+
+b          A.11 utt1:  Right.  /
+sd          A.11 utt2:  {F Uh, } I should knock on wood.  /
+sd          A.11 utt3:  I haven't, {D you know, } had any serious health problems or anything.  /
+sd          A.11 utt4:  I've only probably been to the doctor a couple of times since I <swallowing> left work  /
+sd          A.11 utt5: {C and } it was only for a cold, {D you know, }  /
+sv          A.11 utt6: {C and } they can't really do anything for you anyhow,  /
+sv          A.11 utt7: {C so } you might as well not even go <laughter> <sniffing>. /  
+
+b          B.12 utt1:  Yeah,  /
+sd(^q)          B.12 utt2: they look at you, {D say, } {D well } you're still breathing, # so, {F uh, } #   
+
+aa          A.13 utt1:  # Yeah,  /
+aa          A.13 utt2: # right <laughter>.  /
+^2         A.13 utt3:  {F Oh, } you've got a cold.  /
+^2         A.13 utt4:  Go home and take, {F uh, } liquids and, {F uh, } rest. /  
+
++          B.14 utt1:  Yeah. /  
+
+%          A.15 utt1:  <Laughter> {C But, } -/  
+
+x          B.16 utt1:  <Noise>.   
+
+sv          A.17 utt1:  {F uh, } that is definitely, the most important.  /
+sv          A.17 utt2:  {F Uh, } pension, I guess, is next.  /
+sd          A.17 utt3: {F Uh, } thank God that I had one.  /
+sd          A.17 utt4:  I don't know what happened to the salary employees when, {F uh, } the company went bankrupt  /
+sd          A.17 utt5: <<mispronounced>> {C but } I was union,  /
+sd          A.17 utt6: {C so } mine was being put into [ a, + like a ] trust fund, {D you know. } /  
+
+b          B.18 utt1:  Right. /  
+
+sd          A.19 utt1: [ {C So, } + {C but } ] I don't know if they ever got anything or if they lost all of theirs  /
+%          A.19 utt2: {C or, } -/  
+
+sv          B.20 utt1:  I suspect that it just disappeared. /  
+
+aa          A.21 utt1:  Yeah,  /
+aa          A.21 utt2: that's what I was thinking too.  /
+sd          A.21 utt3:  I really feel sorry for all those people that spent all that time there, {D you know. } /  
+
+b          B.22 utt1:  Right. /  
+
+%          A.23 utt1:  {C So }  where, - /
+qw          A.23 utt2: what company do you work for? /  
+
+sd          B.24 utt1:  {F Uh, } I work for a little start-up company here in Pittsburgh called Trans Ark.  # {F Uh, } # /  
+
+b          A.25 utt1:  # {F Um, } # uh-huh. /  
+
+qy          B.26 utt1:  Have you heard of them? /  
+
+nn          A.27 utt1:  No. /  
+
+%          B.28 utt1:  They, - /
+sd          B.28 utt2: we do, {F uh, } distributive system software --   
+
+b          A.29 utt1:  Uh-huh,  /
+b^r          A.29 utt2: uh-huh. /  
+
++          B.30 utt1:  -- for Unix based workstations -- /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+%          B.32 utt1:  -- # {C So. } # -/  
+
+nn          A.33 utt1:  # No,  /
+sd^e          A.33 utt2: [ I, + # I ] worked for a trucking company P I E, nation wide.  /
+qy^d          A.33 utt3: You probably heard # of that <laughter>. # /  
+
+ny          B.34 utt1:  # {F Ah, } yes,  /
+ny^r          B.34 utt2: yes.  /
+sd^e          B.34 utt3: #  In fact, my mom drives trucks  /
+%          B.34 utt4: {C so, } -/  
+
+bh          A.35 utt1:  {F Oh, } does she really? /  
+
+ny          B.36 utt1:  Yes. /  
+
+ba          A.37 utt1:  {F Oh, } how about that. /  
+
+b          B.38 utt1:  {C So, } yeah,  /
+ba          B.38 utt2: I see, {F uh, } - /
+sd          B.38 utt3: after the merger, {F uh, } you see a lot of Ryder PIE stuff on the road. /  
+
+sd          A.39 utt1:  {D Well, } you did. /  
+
+qy          B.40 utt1:  {C So, } [ did, +  did ] Ryder get out of the business?  /
+qy          B.40 utt2:  Is that what happened or? -/  
+
+sd          A.41 utt1:  {D Well } Ryder and P I E went together --   
+
+b          B.42 utt1:  # Right. # /  
+
++          A.43 utt1:  -- # {D you # know, }  /
+sd          A.43 utt2: {C and [ then, + then ] } that ended it <swallowing>. /  
+
+b          B.44 utt1:  {F Huh. }  /
+sv          B.44 utt2:  So that the merger pretty much ended the whole thing. /  
+
+aa          A.45 utt1:  It really did.  /
+sv          A.45 utt2: [ It's, + it ] started, I think, a little bit before that  /
+%          A.45 utt3: {C but } that, - /
+sv          A.45 utt4: when P I E [ and, + and ] Ryder went together, why that was downhill from then on, {D you know. } -/  
+
+b          B.46 utt1:  Yeah,  /
+sv          B.46 utt2: {C and } [ the, + the ] problem with that is, {D you know, } when you leave a job, you can continue your benefits for some  (( finite ))  period of time. /  
+
+b          A.47 utt1:  Right. /  
+
+sv          B.48 utt1:  {C But } [ when, + when ] the company goes bankrupt, {E I mean, } [ the, + they're ] just cut off completely  /
+sv          B.48 utt2: {C and } you're responsible for your own. /  
+
+b          A.49 utt1:  # Right. # /  
+
+sv          B.50 utt1:  # [ {C And, } + # {C and } ] that's exceedingly expensive. /  
+
+b          A.51 utt1:  Yes,  /
+sd          A.51 utt2: it was over three hundred fifty dollars a month if we wanted to continue our own benefits.  /
+sd          A.51 utt3:  We could do that for eighteen months. /  
+
+b          B.52 utt1:  Right. /  
+
+sd^r          A.53 utt1:  {C But } three hundred and fifty dollars a month.  /
+sv@          A.53 utt2:  {D God, } that's terrible.    
+
+aa          B.54 utt1:  It's definitely excessive. /  
+
++@          A.55 utt1:  {D You know. }  /
+sv          A.55 utt2: [ [ {C So, } + {C but } ] + {D anyhow, } {F uh, } {C and } ] jobs aren't that hard to find, to get another one that does pay your benefits, {D you know. } /  
+
+aa          B.56 utt1:  # True. # /  
+
+sv          A.57 utt1:  # {C And } a # lot of them that, - /
+sv          A.57 utt2: if you do get a job, they don't pay benefits. /  
+
+b          B.58 utt1:  Yeah,  /
+sv          B.58 utt2: they're starting [ to, + to ] cut back.  Especially start-ups.  /
+sd          B.58 utt3:  I know here at Trans Ark, [ we get, + {F uh, } we get ] health care  /
+sd          B.58 utt4: {C and } that's it. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:  {E I mean, } there's no dental or vision. /  
+
+b          A.61 utt1:  Uh-huh. /  
+
+sd          B.62 utt1:  {C And } [ the, + the ] short-term disability policy [ is, + is ] a ninety day policy  /
+sd          B.62 utt2: {C and } there is no long-term disability policy. /  
+
+b          A.63 utt1:  {F Huh. } /  
+
+sd          B.64 utt1:  {C So, } {D you know, } at least in the case of this particular company, they tend to scrimp a little bit # there. # /  
+
+b          A.65 utt1:  # Uh-huh,  /
+b^r          A.65 utt2: # uh-huh. /  
+
+sv          B.66 utt1:  {C And, } {D you know, } of course, they can use the excuse - /
+^q          B.66 utt2: {D well, } we're start-up. /  
+
+aa          A.67 utt1:  Yeah,  /
+aa          A.67 utt2: right  /
+sv          A.67 utt3: <cough> <<in background>>.  {C But } {D you know } what's happening is the, disability plan, {D you know, } - /
+sv          A.67 utt4: so many people are lying about their things.  /
+sd          A.67 utt5:  {D God, } there's been big articles in the paper about that.  /
+sd          A.67 utt6:    {F Uh, } {D you know, } they claim a back injury  /
+sd          A.67 utt7: {C and then } someone goes out and spies on them  /
+sd          A.67 utt8: {C and } they're lifting refrigerators into trucks  [ and + --   
+
+b          B.68 utt1:  Right. /  
+
++          A.69 utt1:  -- and ] everything else, {D you know. }  /
+sd          A.69 utt2: {C So } I don't know what's happening and  what's going to happen.  /
+%          A.69 utt3: {C But, } {F uh } </TV>, -/  
+
+sv          B.70 utt1:  {D Well } that certainly doesn't help matters any.  /
+sv          B.70 utt2:  {E I mean, } [ you, + you ] get people who are willing to put their neck on the line to get {D [ you, + you ] know, } these additional benefits, / 

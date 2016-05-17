@@ -1,0 +1,698 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2499_1141_1064
+TOPIC#:		348
+DATE:		910408
+TRANSCRIBER:	nk
+UTT_CODER:	stm
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:         Both speakers talk over each other a lot.
+
+=========================================================================
+  
+
+o          B.1 utt1:  <Children> Okay. /  
+
+o          A.2 utt1:  <Talking> <<sounds like a radio>> All right.  /
+qo          A.2 utt2:  What have you seen? /  
+
+sd          B.3 utt1:  The latest movie I've seen that I thought was fantastic was DANCES WITH # WOLVES. # /  
+
+%          A.4 utt1:  # That's, # - /
+sd          A.4 utt2: I knew you were going to say that.  /
+sd          A.4 utt3: # [ I wanted, + I want ] # --    
+
+ba          B.5 utt1:  # {F Oh, } man. # /  
+
++          A.6 utt1:  -- to go see that. /  
+
+sd          B.7 utt1:  <Noise> <<sounds like water dripping>> [ I, + I ] just finally ended up going to see it, {F uh, }  /
+sd          B.7 utt2: {C and } <laughter> one day my husband had the kids  /
+sd          B.7 utt3: {C and } I just went because [ we couldn't, + we could ] never get to go see it together because it's so  long.  /
+sd          B.7 utt4: By the time we had a <laughter> babysitter for that # long. # -/  
+
+ba          A.8 utt1:  # Gosh. # /  
+
+sd          B.9 utt1:  {C So } I finally just went to see it.  /
+sd          B.9 utt2: {C And } I just thought it was fantastic. /  
+
+b          A.10 utt1:  Yeah.  /
+sd          A.10 utt2: [ [ I, + I, ] + I ] watched, {F uh, } Costner <<mispronounced>> on the Academy Awards.  /
+sd          A.10 utt3: I was really happy that he got, - /
+sd          A.10 utt4: I was hoping he was going to get Best Actor. /  
+
+b          B.11 utt1:  Yeah.  /
+b^r          B.11 utt2:  # Yeah. # /  
+
+sv          A.12 utt1:  # {F Uh, } # {C but } [ [ he, + he, ] + he ] did pretty good on that one. /  
+
+%          B.13 utt1:  That was quite a, <clicking> <<sounds like ping pong>> - /
+sv          B.13 utt2: the buffalo scene in that # thing # --   
+
+b          A.14 utt1:  # Yeah. # /  
+
++          B.15 utt1:  -- was so real.  /
+%          B.15 utt2:  # It's like, <laughter> - /
+sd          B.15 utt3: {E I mean } it just # --   
+
+b          A.16 utt1:  # Yeah,  /
+ba          A.16 utt2: [ I'd, + I ] bet. # /  
+
++          B.17 utt1:  -- blew me away. /  
+
+b          A.18 utt1:  Yeah.  /
+sd          A.18 utt2:  There're several of them that are out right now that I want to see.  /
+sd          A.18 utt3: # {F Uh, } # --   
+
+b          B.19 utt1:  # Yeah. # /  
+
++          A.20 utt1:  -- DANCES.  {F Uh, }  SILENCE OF THE LAMBS. /  
+
+sd          B.21 utt1:  {F Uh, } [ I'm, +  I'm ] afraid to go see that one.  /
+sv          B.21 utt2: That one looks so scary #  just, #   
+
+x          A.22 utt1:  # <Groan>. #   
+
++          B.23 utt1:  from the previews.  /
+sd          B.23 utt2: # I thought gosh # --   
+
+ar          A.24 utt1:  # Nay. # /  
+
++          B.25 utt1:  -- I'd probably have nightmares for the next six months # <laughter>.  /
+sd          B.25 utt2:  It's supposed to # --   
+
+ar          A.26 utt1:  # Nay.  /
+sd          A.26 utt2: That's what people said, # /  
+
++          B.27 utt1:  -- be good though.  /
+sd          B.27 utt2: I know some friends who went to see it. /  
+
+b          A.28 utt1:  Yeah. /  
+
+sd          B.29 utt1:  They said it was really riveting. /  
+
+b          A.30 utt1:  Yeah.  /
+sd         A.30 utt2:  {D Well, } {D you know, } [ [ they, + they, ] + that's what they ] said about THE EXORCIST, {D you know. }  /
+ar          A.30 utt3: [ No, + no, ]  /
+sv          A.30 utt4: it's terrible.  /
+sv          A.30 utt5:  You'll have nightmares, {D you know. }  /
+sd          A.30 utt6: I watched last weekend.  /
+sd          A.30 utt7: Me and my roommate.  /
+sd          A.30 utt8: [ We, +  we ] laughed about it # <laughter>. # /  
+
+sv          B.31 utt1:  # <Laughter> # {D Well, } you're not a thirteen year old.  /
+h          B.31 utt2: I # don't know.  /
+sd          B.31 utt3: I saw it when I was a kid  /
+sd(^q)          B.31 utt4: {C and } I thought, {F oh, } man </laughter>. # /  
+
+%          A.32 utt1:  # <Laughter> # {D Well, } I'll tell, - /
+sd          A.32 utt2: {D well }  [ I guess, + [ I, + I  ] guess ] it was because I'd read the book before I saw the movie. /  
+
+b          B.33 utt1:  {F Oh, } uh-huh. /  
+
+sd          A.34 utt1:  {C And } the book, to me, was far more frightening than the movie was. /  
+
+b          B.35 utt1:  {F Oh, } really.  /
+ba          B.35 utt2: # {F Huh. }  Gosh. # /  
+
+b          A.36 utt1:  # Yeah.  /
+sv          A.36 utt2:  He's # a very good writer  /
+sv          A.36 utt3: {C and } he had a way of putting you in that scene, {D you know. }  /
+%          A.36 utt4:  # It was, # -/  
+
+ba          B.37 utt1:  # {F Oh, } boy. # /  
+
+b          A.38 utt1:  Yeah.  /
+sd          A.38 utt2:  {C And, } of course, [ I was, + I was  ] living alone at the time  /
+sd          A.38 utt3: {C and } it was late at night and # scary {C and, } {D you know } <laughter>.  /
+sd          A.38 utt4: You start hearing noises # --   
+
+ba          B.39 utt1:  # <Laughter> Gosh.  /
+ba          B.39 utt2: Call the crisis line. # /  
+
++          A.40 utt1:  -- {D you know. } /  
+
+aa          B.41 utt1:  Yeah,  /
+ba          B.41 utt2: I bet. /  
+
+sd          A.42 utt1:  {C And } there's rats in the attic, {D you know. } /  
+
+ba          B.43 utt1:  {F Oh, } gosh. /  
+
+^h          A.44 utt1:  {F Uh, } let's see.  /
+sd          A.44 utt2: There was a couple of others that are out, /  
+
+x          B.45 utt1:  <Thumping>.   
+
+sd          A.46 utt1:  {C and } I can't # remember, # /  
+
+sd          B.47 utt1:  # I saw one # I thought was crummy.  /
+sd          B.47 utt2: With that new, {F uh, } Michael J Fox movie,  THE HARD WAY.  /
+sd          B.47 utt3: Where he plays [ a, + a ] actor # that's, {F uh, } {D like } th-, {F huh. } # -/  
+
+b          A.48 utt1:  # Yeah.  /
+sd          A.48 utt2:  [ [ I, + I ] didn't, + # I didn't ] even like the previews on that. /  
+
+aa          B.49 utt1:  {F Oh, } I know.  /
+%          B.49 utt2: It was, - /
+sd          B.49 utt3: {D well } I ended up at the theater  /
+sd          B.49 utt4: {C and } there [ was, +   didn't seem to be ] anything else on <laughter> #  I wanted to see,  /
+sd          B.49 utt5: {C so } I'll try that. # /  
+
+x          A.50 utt1:  # <Laughter>. #   
+
+sv          B.51 utt1:  {C But } it wasn't worth anything.  /
+sd          B.51 utt2: # I didn't care <thumping> # --   
+
+aa          A.52 utt1:  # No. # /  
+
++          B.53 utt1:  -- for that at all. /  
+
+sd          A.54 utt1:  [ I, +  I ] don't much care for Michael J Fox anyway. /  
+
+b          B.55 utt1:  Yeah.  /
+sd          B.55 utt2:  {D Well, } the last two I saw him in, one of those BACK TO THE FUTURE, PART THREE deals - /
+sv          B.55 utt3: {C and } that was crummy # also.  /
+sd          B.55 utt4:  I # --   
+
+b          A.56 utt1:  # Yeah. # /  
+
++          B.57 utt1:  -- didn't think that was any good #  /
+%          B.57 utt2: {C so } <child_talking>. # -/  
+
+sd          A.58 utt1:  # I saw the original # BACK TO THE FUTURE  /
+%          A.58 utt2: {C and then } [ I, + I ] know, - /
+sd          A.58 utt3: I hardly ever go see a sequel. /  
+
+b          B.59 utt1:  Yeah. /  
+
+sd          A.60 utt1:  {E I mean, } [ I think, + I think ] the only I've ever seen a sequel was TWO THOUSAND AND ONE. /  
+
+ba          B.61 utt1:  {F Oh, } boy. /  
+
+sv          A.62 utt1:  {F Uh, } TWO THOUSAND AND TEN was far better. /  
+
+b          B.63 utt1:  # Yeah.  /
+b^r          B.63 utt2:  Yeah. # /  
+
+sv          A.64 utt1:  # TWO THOUSAND AND # ONE was a good movie if you had read the book. /  
+
+sd          B.65 utt1:  {D Well, } I hadn't read it  /
+sd          B.65 utt2: {C and } I couldn't figure what was going on # half the time,  /
+%          B.65 utt3: {C so } <laughter>. # -/  
+
+aa          A.66 utt1:  # Yeah.  /
+aa          A.66 utt2:  No,  /
+sv          A.66 utt3: nobody # could figure it out.  /
+sv          A.66 utt4: # {E I mean } # --   
+
+b          B.67 utt1:  # Yeah. # /  
+
++          A.68 utt1:  -- [ the, + the ] book was so much, {F uh, } - /
+%          A.68 utt2: there's just things, - /
+sv          A.68 utt3: all you can do is put it in words.  /
+sv          A.68 utt4:  You can't put it in pictures. /  
+
+b          B.69 utt1:  # Yeah.  /
+b^r          B.69 utt2:  Yeah. # /  
+
+sv(^q)          A.70 utt1:  # {D You know, } a lot # of that stuff that was going on in the film,  you [ co-, +  say ] what is this? /  
+
+x          B.71 utt1:  <Laughter>.   
+
+qh          A.72 utt1:  {D You know, } what's the significance of the apes, {D you know } # <laughter>. # /  
+
+b          B.73 utt1:  # Yeah,  /
+b^r          B.73 utt2: yeah.  /
+sd          B.73 utt3: # I should probably go back and read the book now <laughter> that # I just saw the movie again not too long ago. # /  
+
+sv          A.74 utt1:  # {F Oh, } the book is really good.  /
+sd          A.74 utt2:   # {E I mean, } [ I, + I ] keep  a little library of books that I just like to read over and over again  /
+sd          A.74 utt3: {C and } that's one of them. /  
+
+ba          B.75 utt1:  Wow.  {F Huh. } /  
+
+sv          A.76 utt1:  [ It's, + it's ] so well written. /  
+
+sd          B.77 utt1:  {F Huh. }  {D Well, } I have one I bet you haven't seen if you don't have kids.  OTIS AND MILO. /  
+
+aa          A.78 utt1:  {F Oh, } you're right.  /
+sd          A.78 utt2: I haven't <laughter>. /  
+
+sd          B.79 utt1:  </Noise> {F Oh, } [ that is, + that is  ] the most precious movie.  /
+sd          B.79 utt2: It has,  [ w-, + ] to see it on the big screen  because  it's just the most gorgeous nature scenes you've ever seen in your life.   /
+%          B.79 utt3: {C And } it's all this,  /
+sd          B.79 utt4: it's the story of this little cat and dog  /
+sd          B.79 utt5: {C and } it's not <swallowing> {D like } cutesy.  /
+sd          B.79 utt6:  [ It's just, + {F uh, } it's just ] so  realistic.  Everything they do.   /
+sd          B.79 utt7: You wonder how in the world they ever got them to do some of these things.  /
+
+%          A.80 utt1:  {F Huh. }  # {F Oh, } those # -- -/  
+
+sd          B.81 utt1:  # {C And } it was, #   
+
+qy          A.82 utt1:  -- a real dog and cat? /  
+
++          B.83 utt1:  A real dog # and # --   
+
+b          A.84 utt1:  # {F Huh. } # /  
+
++          B.85 utt1:  -- cat  /
+sd          B.85 utt2: {C and } all the other animals.  /
+sd          B.85 utt3:  They initially start out in the barnyard kind of setting where they're raised.  /
+sd          B.85 utt4: {C And then } the cat gets, {F um, } on this treacherous journey.  /
+sd          B.85 utt5: He climbs into a box and ends up floating down this river  /
+sd          B.85 utt6: {C and } he winds up all over creation.  /
+sd          B.85 utt7: I don't know where in the world it is.  /
+sd          B.85 utt8: Somewhere in China somewhere I think that it was # filmed. # /  
+
+b          A.86 utt1:  # {F Huh. } # /  
+
+sd          B.87 utt1:  {C But, } {F uh, } it's just # really an incredible thing. # /  
+
+sd          A.88 utt1:  # [ So-, + sounds  ] sort of like the incredible journey. # /  
+
+b          B.89 utt1:  Yeah.  /
+sd          B.89 utt2:  It was pretty wild <laughter>  /
+sd          B.89 utt3: {C and }  ((   )) .  Of course, the only sound is Dudley Moore narrates it. /  
+
+b          A.90 utt1:  Uh-huh. /  
+
+sd          B.91 utt1:  {C But } there's [ no, + {D you know, } nothing ] else <laughter> to keep it going.  /
+sd          B.91 utt2: {C But } it really [ keeps -- +   
+
+b          A.92 utt1:  {F Huh. } /  
+
++          B.93 utt1:  -- keeps ] me going.  /
+sd          B.93 utt2:  [ I, + I've ] seen it # twice now <laughter>. # /  
+
+b          A.94 utt1:  # Yeah.  /
+sv          A.94 utt2:  [ Th-, + that ] # sounds a lot like a Walt Disney film. /  
+
+br          B.95 utt1:  {F Huh? } /  
+
+sv          A.96 utt1:  Sounds a lot a like a Walt Disney film. /  
+
+aa          B.97 utt1:  Yeah.  /
+sd          B.97 utt2:  It was like the best of the Walt Disney ones.  /
+sv          B.97 utt3:  Walt Disney's kind of <thumping> gotten worse # in my opinion over the past few years. # /  
+
+aa          A.98 utt1:  # {F Oh, } yeah.  /
+sv          A.98 utt2:  Not anymore.  /
+sd          A.98 utt3: I mean,  # [ [ I, + I, ] + I ] was raised on Walt Disney films. {D You know. } /  
+
+b          B.99 utt1:  Yeah. /  
+
+sd          A.100 utt1:  OLD YELLER.  {F Uh, } # BIG RED. # /  
+
+b          B.101 utt1:  # Yeah.  /
+sv          B.101 utt2:  All those # old good ones that you, {D you know, } wish they # had on # --   
+
+b          A.102 utt1:  # Yeah. # /  
+
++          B.103 utt1:  -- more now,  /
+%          B.103 utt2: {C but. } -/  
+
+sd          A.104 utt1:  When I was a little kid, I saw the INCREDIBLE JOURNEY on Christmas Eve  /
+sd          A.104 utt2: # {C and } # --   
+
+ba          B.105 utt1:  # {F Oh, } boy. # /  
+
++          A.106 utt1:  -- it was so good that I had # forgotten # --   
+
+b          B.107 utt1:  # {F Huh. } # /  
+
++          A.108 utt1:  -- that it was Christmas Eve.  /
+sv          A.108 utt2: # {E I mean } # --   
+
+ba          B.109 utt1:  # <Laughter> That's pretty good. # /  
+
++          A.110 utt1:  -- that's something for a kid. /  
+
+ba          B.111 utt1:  Really. /  
+
+sd          A.112 utt1:  {C And } that  was something for greedy old me at Christmas time, # I'll tell you. # /  
+
+^h          B.113 utt1:  # <Laughter> # Let's see.  /
+t1          B.113 utt2: What are some other ones I've seen lately.  /
+^h          B.113 utt3:  I'm trying to remember.  /
+sd          B.113 utt4: I can't.  /
+sd          B.113 utt5: {F Oh, } I just saw one on the video.  /
+qy          B.113 utt6:  {F Oh, } {F um, } have you seen THE GODS MUST BE CRAZY, PART TWO? /  
+
+nn          A.114 utt1:  No <laughter>. /  
+
+sd          B.115 utt1:  That is a riot. /  
+
+bh          A.116 utt1:  Is it? /  
+
+ny          B.117 utt1:  Yeah.  /
+sd          B.117 utt2:  The first one was really good.  /
+sd          B.117 utt3:  {C But } the second # one <laughter>, #   
+
+x          A.118 utt1:  # <Laughter>. #   
+
++          B.119 utt1:  is really good too.  /
+sd          B.119 utt2: # I was really surprised. # /  
+
+b          A.120 utt1:  # Yeah.  /
+sd          A.120 utt2:  I didn't much care # for the first one.  /
+%          A.120 utt3:  Maybe that's, -/  
+
+nd          B.121 utt1:  No,  /
+sv          B.121 utt2: I thought it was funny.  /
+h          B.121 utt3:  {C But, } that's my sense of humor # <laughter>. # /  
+
+co          A.122 utt1:  # {D Well, } [ I, + I'll ] have to go get that one I guess. # /  
+
+sv          B.123 utt1:  <Thumping> It's hard to find movies that aren't terrible violent or  terribly bunch of sex going on anymore.  /
+sv          B.123 utt2:  {C And } [ I'm just, + I guess I'm just ] middle America or something.  /
+sd          B.123 utt3: I just go to be entertained  /
+sd          B.123 utt4: [ {C and } +  --    
+
+aa          A.124 utt1:  Yeah.  /
+%@          A.124 utt2:  # It's, it's, #     *[[need slash]]
+
++          B.125 utt1:  -- # {C and } ] not really # interested in [ some of the, + {D like } the TERMINATOR or some of the  ] # Schwarzenegger <laughter> stuff.  /
+%          B.125 utt2:  I just. # -/  
+
++          A.126 utt1:  # Yeah.  /  *[[b]]
+sd          A.126 utt2:  I get so tired # of, {D you know, } these, {D you know, } sequels.  /
+sd          A.126 utt3: Number nine, number ten, # number # --   
+
+b          B.127 utt1:  # Yeah. # /  
+
++          A.128 utt1:  -- fourteen. /  
+
+sd          B.129 utt1:  # FREDDY'S REVENGE PART TWENTY-FIVE <laughter> or whatever. # /  
+
+aa          A.130 utt1:  # Yeah,  {D you know. }   /
+aa^r          A.130 utt2: Yeah,  {D you know. } # /  
+
+b          B.131 utt1:  # Yeah.  /
+%          B.131 utt2:  I've never, # -/  
+
+sd          A.132 utt1:  # FREDDY # EATS A NUCLEAR WARHEAD, {D you know. }  /
+%          A.132 utt2: # [ I, + I'm  ] just, - /
+sd          A.132 utt3: I'm so sick and  tired of that. # /  
+
+x          B.133 utt1:  # <Laughter> <thumping>. #   
+
+^h          A.134 utt1:  I just can't believe it.  /
+sv          A.134 utt2:  It's like # ROCKY films.  /
+sd          A.134 utt3:  [ I + # --    
+
+aa          B.135 utt1:  # Yeah.  /
+aa^r          B.135 utt2: #  Yeah.  /
+sd          B.135 utt3:  I've never seen any of those. /  
+
++          A.136 utt1:  -- I  ] haven't seen a one.  /
+sd          A.136 utt2:  I can't stand Stallone. /  
+
+aa          B.137 utt1:  Yeah.  /
+sd          B.137 utt2:  I can't either.  /
+sv          B.137 utt3: He seems so macho I just <ugh> <laughter>. -/  
+
+aa          A.138 utt1:  Yeah.  /
+sd          A.138 utt2:  {C And } [ I, + I  ] was afraid that RAMBO was going to do the same thing that ROCKY was going to do, {D you know. }    
+
+b          B.139 utt1:  # Yeah. # /  
+
++          A.140 utt1:  # Go into # fourteen hundred episodes. /  
+
+b          B.141 utt1:  Yeah. /  
+
+sd          A.142 utt1:  <Ugh> Now [ I don't, + I hardly ever  ] watch T V.  /
+sd          A.142 utt2: If I ever get the hankering to see something, I've got, I don't know, maybe about thirty or forty movies  /
+%          A.142 utt3: {C and } I just, -/  
+
+aa          B.143 utt1:  Yeah.  /
+sv          B.143 utt2:  When they're so cheap too at the video stores that you can. -/  
+
+aa          A.144 utt1:  Yeah.  /
+sd          A.144 utt2:  I don't even rent them.   {D You know. } /  
+
+bh          B.145 utt1:  You don't? /  
+
+sd          A.146 utt1:  [ I, + I  ] figure if I find a movie I like, I'll buy it.  /
+sd          A.146 utt2:  Cause I just watch them over and over again. /  
+
+%          B.147 utt1:  <Laughter> That's like, - /
+sd          B.147 utt2: my husband does that.  /
+sd          B.147 utt3:  He can # watch # --   
+
+b          A.148 utt1:  # Yeah.  /
+%          A.148 utt2:  I, # -/  
+
++          B.149 utt1:  -- them over and over.  /
+%          B.149 utt2:  {C And } I'm, - /
+sd          B.149 utt3: there's very few I would want to see that many times.  /
+sd          B.149 utt4: {C So } [ [ he, + he,  ] + once he ] has one he likes, # he likes to watch it over and over. # /  
+
+b          A.150 utt1:  # Yeah.  /
+sd          A.150 utt2:  [ My, + my ] very favorite one # that the top of the tick for me is, {F uh, } EXCALIBUR. /  
+
+aa          B.151 utt1:  {F Oh, } yeah.  /
+sv          B.151 utt2:  # That was a good one.  /
+sd          B.151 utt3: I haven't seen that one in a long time. # /  
+
+sd          A.152 utt1:  # [ I, + I ] loved that film.  {F Um, }  /
+sv          A.152 utt2: # it's just so well done. /  
+
+b          B.153 utt1:  # Yeah. # /  
+
+sd          A.154 utt1:  # {C And } # I lived over in England for four years, /  
+
+ba          B.155 utt1:  <Screeching> {F Oh, } boy. /  
+
+sd          A.156 utt1:  That was the first place I ever saw it. /  
+
+b          B.157 utt1:  Uh-huh. /  
+
+%          A.158 utt1:  {C And } it was just, gosh, - /
+sv          A.158 utt2: it was so good. /  
+
+ba          B.159 utt1:  {F Oh, } gosh. /  
+
+sd          A.160 utt1:  [ It was, + it was  ] filmed in Ireland. /  
+
+b          B.161 utt1:  {F Huh. } /  
+
+sd          A.162 utt1:  {C And } they got pretty scenery in Ireland. /  
+
+b          B.163 utt1:  Yeah,  /
+ba          B.163 utt2: I bet <dishes>. /  
+
+aa          A.164 utt1:  Yeah,  /
+sd          A.164 utt2: it's nice. /  
+
+ba          B.165 utt1:  Gosh. /  
+
+sd          A.166 utt1:  {C And } [ I, + I've  ] been down to the south of England where supposedly King Arthur's castle was. /  
+
+ba          B.167 utt1:  {F Oh, } boy.  /
+bf          B.167 utt2:  {C So, } that really has a lot of meaning for you to see that. /  
+
+aa          A.168 utt1:  Yeah,  /
+sd          A.168 utt2: [ it was, + {D yeah }  it was ] unimpressive to look at.  /
+sd          A.168 utt3: {E I mean, } the whole thing was about the size of [ a, + a ] medium house # <laughter>.  /
+%          A.168 utt4: Yeah.  /
+%          A.168 utt5:  It wasn't, # -/  
+
+ba          B.169 utt1:  # <Laughter> {F Oh, } really <laughter>. #  /
+sd          B.169 utt2: {D Well, } when I was in England years ago.  /
+sd          B.169 utt3: {C And } I went [ to, + to ] {D like } Shakespeare's and, {D you know, } # Stratford-On-Avon # --   
+
+b          A.170 utt1:  # {F Oh, } yeah. # /  
+
++          B.171 utt1:  -- and all that <laughter>  /
+sd          B.171 utt2: {C and } it was like you couldn't stand up inside of it  /
+sd          B.171 utt3: {C because } it # was so # --   
+
+b          A.172 utt1:  # Yeah. # /  
+
++          B.173 utt1:  -- short.  /
+sd          B.173 utt2:  The # ceilings # --   
+
+b          A.174 utt1:  # Yeah. # /  
+
++          B.175 utt1:  --  were so short.  /
+%          B.175 utt2: {C But } <sigh>.  Yeah. /  
+
+b          A.176 utt1:  Yeah.  /
+sv          A.176 utt2:  There's some nice stuff over there to see. /  
+
+b          B.177 utt1:  Yeah. /  
+
+sd          A.178 utt1:  [ I, + I  ] spent four years traveling around and didn't see, {D you know, } hardly anything.  /
+%          A.178 utt2: # I just, # -/  
+
+ba          B.179 utt1:  # {F Oh, } boy. # /  
+
+sd          A.180 utt1:  I need,   
+
+x          B.181 utt1:  <Dishes>.  
+
++          A.182 utt1:  to go over there and stay about twenty years so I can just travel.     
+
+b          B.183 utt1:  # <Laughter> Yeah. # /  
+
++          A.184 utt1:  # Go around all the places. #  /
+sd          A.184 utt2: Stonehenge, of course, {D you know.  }  /
+sv          A.184 utt3:   [ Every, + everybody ] makes the obligatory trip to Stonehenge. /  
+
+b          B.185 utt1:  Yeah,  /
+b          B.185 utt2: yeah. /  
+
+sv          A.186 utt1:  Okay,  /
+sv          A.186 utt2: big deal.  /
+sd          A.186 utt3:  Here's some rocks sitting out in the middle # of a field.  /
+sv         A.186 utt4: Okay <laughter>.   /
+sv         A.186 utt5: It's boring. # /  
+
+qy          B.187 utt1:  # <Laughter> #  Did you see any movies over there <laughter>? /  
+
+x          A.188 utt1:  <Laughter>.  
+
+sd          B.189 utt1:  I remember I went to see DON QUIXOTE over there when it came out.  /
+sd          B.189 utt2:  It came out right around the time, with Sophia Loren  /
+sd          B.189 utt3: {C and } that was a riot to # see that. # /  
+
+o          A.190 utt1:  # You know something,  /
+sd          A.190 utt2: [ # I,  + come to think of it, I  ] don't think I went to the movies one time. /  
+
+b          B.191 utt1:  Yeah.  /
+sv          B.191 utt2:  Cause when you're touristing, you probably don't want to take the time to go see a movie. /  
+
+%          A.192 utt1:  I, {F uh, } - /
+sd          A.192 utt2: where I lived.  {F Uh, } it was a little town called Newmarket.    
+
+b          B.193 utt1:  {F Huh. } /  
+
++          A.194 utt1:  About seventy miles north of London. /  
+
+ba          B.195 utt1:  {F Oh, } boy <thumping>. /  
+
+sd          A.196 utt1:  {C And } there was another town called Barry   Saint Edmunds about twenty miles away from us. /  
+
+b          B.197 utt1:  Uh-huh. /  
+
+sd          A.198 utt1:  {C And } they had a little, {F uh, } theater company there  /
+sd          A.198 utt2: {C and } we use to [ go, + go ] out to that about once a week. /  
+
+ba          B.199 utt1:  {F Oh, } boy. /  
+
+aa          A.200 utt1:  Yeah.  /
+sd          A.200 utt2:  A really nice place.  /
+sd          A.200 utt3:  {D You know, } amateurs but really quite good. /  
+
+b          B.201 utt1:  Yeah. /  
+
+sd          A.202 utt1:  {F Uh, } {C but } that was interesting.  /
+sd          A.202 utt2: # Course # --     
+
+ba          B.203 utt1:  # That # sounds great. /  
+
++          A.204 utt1:  -- go to London quite a lot and see shows down there. /  
+
+b          B.205 utt1:  Yeah. /  
+
+sd          A.206 utt1:  {F Uh, } {C but } other than that I just didn't have time to go to the movies,  {D # you know. } # /  
+
+b          B.207 utt1:  # Yeah. # /  
+
+sd          A.208 utt1:  Never sho-,   [ any, + anyway,  ]  anything   that I ever wanted, - /
+sd          A.208 utt2: I rented a lot of videos <laughter>. /  
+
+b          B.209 utt1:  Uh-huh  /
+x          B.209 utt2: <laughter>.  
+
+sd          A.210 utt1:  {C Cause } the closest movie theater was Barry   Saint Edmunds #  /
+sv          A.210 utt2: {C and } [ who wants # -- +   
+
+ba          B.211 utt1:  # {F Oh, } boy. # /  
+
++         A.212 utt1:  -- who wants  ] to drive twenty miles to go to the movies # <laughter>. # /  
+
+sv          B.213 utt1:  # <Laughter> #  Probably some of them did <laughter>. /  
+
+sd          A.214 utt1:  [ A lot of, + a lot of  ] people did. /  
+
+b          B.215 utt1:  Yeah. /  
+
+sd          A.216 utt1:  {C But } it would have to be a good show. /  
+
+b          B.217 utt1:  Yeah.  /
+sv          B.217 utt2:  It's hard to know what the good movies are anymore. /  
+
+b          A.218 utt1:  Yeah. /  
+
+sv          B.219 utt1:  {C Because } sometimes <dishes> the reviews you just can't go # by. # /  
+
+b          A.220 utt1:  # Yeah.  /
+%          A.220 utt2: #  [ I, + I ] us-, - /
+sv          A.220 utt3: [ [ they, + they,  ] + they ] have all these neat phrases.    
+
+b          B.221 utt1:  Yeah. /  
+
++          A.222 utt1:  {D You know, } {D you know, } {D you know. }  Like critically acclaimed. /  
+
+x          B.223 utt1:  <Laughter>.  
+
+sv          A.224 utt1:  That's what they when the thing hasn't won any award. /  *[[listen]]
+
+ba          B.225 utt1:  {F Oh, } I see <laughter>. /  
+
+%          A.226 utt1:  {D You know. }  # They can't, # -/  
+
+sv          B.227 utt1:  # It's kind # of like waterfront property or something --   
+
+b          A.228 utt1:  # Yeah,  /
+b          A.228 utt2: yeah. # /  
+
++          B.229 utt1:  -- [ # if you're, # + {D you know, } if you're  ] two miles away from water <laughter>. /  
+
+b          A.230 utt1:  Yeah,  /
+sv          A.230 utt2: from Love Canal # <laughter>. # /  
+
+sv          B.231 utt1:  # Water view <laughter>. # /  
+
+sv          A.232 utt1:  Waterfront property here at Love Canal, {D you know. } /  
+
+b          B.233 utt1:  Yeah. /  
+
+sv          A.234 utt1:  {C But, } {D you know, } critically acclaimed.  /
+fe          A.234 utt2: {F Oh, } good grief.  /
+fe          A.234 utt3:  Give me a break. /  
+
+x          B.235 utt1:  <Laughter>.  
+
+%          A.236 utt1:  That's wh-, - /
+sd          A.236 utt2: {E I mean, } there's a lot of reasons why I don't go to movies. /  
+
+b          B.237 utt1:  Uh-huh. /  
+
+fa          A.238 utt1:  {C And } primarily, {E I mean, } [ I, + now I'm ] probably [ going to, + going to  ] upset you.  /
+sd          A.238 utt2: {C But } people who bring kids # irritates the heck out of me </talking>. # /  
+
+x          B.239 utt1:  # <Laughter> #  </children> </noise>. 

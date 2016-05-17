@@ -1,0 +1,150 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3161_1403_1410
+TOPIC#:		301
+DATE:		910925
+TRANSCRIBER:	GLP
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	3
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+======================================================================= 
+  
+
+sv          A.1 utt1: The AIDS issue [ is, + is ] a bit of a problem.  /
+sd           A.1 utt2: I guess the first thing that comes to my mind not having any immediate friends with that problem, [ is, + is ] the financial end.  /
+qh          A.1 utt3: {C And } how can a country  stand to, {F uh, } spend  as much or much more than they already are on such a problem, {F uh, }  /
+sd           A.1 utt4: {C but, } then that kind of thinking is also tempered with [ the, + the ] knowledge, or at least [ the, + the ] rumor,  {A I'm not really sure if it's true or not, } that, {F uh, } we're not spending as much per, let's say, afflicted person on cancer.  /
+%          A.1 utt5: {F Uh, } there's some, {F uh, } - /
+sd          A.1 utt6: take breast cancer, for instance.  /
+sd          A.1 utt7: It seems to be doing much more damage and affecting [ much more pe-, + many more people ] than AIDS.  /
+sd          A.1 utt8: {C And } yet, {F uh, } more people die of it,  /
+sd          A.1 utt9: {C and } yet the funding has already, {F uh, } exceeded,  /
+sd          A.1 utt10: AIDS has more money than, {F uh, } breast cancer <breathing> <whistling>. /  
+
+%          B.2 utt1:   Than, - /
+qy^g          B.2 utt2: {D well, } that's interesting, isn't it,  /
+%          B.2 utt3: yeah. /  
+
+%          A.3 utt1: {D So, } {F uh, } - /
+sd          A.3 utt2: {E I mean, } if it's true.  /
+sd          A.3 utt3: [ [ I, + I've, ] + I've ] always heard these things.  /
+sd          A.3 utt4: I've never bothered to dig it out and make sure,  /
+sd          A.3 utt5: {C but, } {F uh, } I've heard it on more than one documentary that, {F uh, } they were complaining that whoever's sitting up there making these decisions or whatever institutions raise the money and, {F uh, } - /
+sv          A.3 utt6: it's just one big P R campaign that, - /
+%          A.3 utt7: yeah,  /
+^q          A.3 utt8: we think that's the world's worst thing  /
+^q          A.3 utt9: {C so } let's give money to AIDS.  /
+sd          A.3 utt10: {C And } yet we've had breast cancer problems for years. /  
+
+b          B.4 utt1:   Right. /  
+
+%          A.5 utt1:   {C And, }  it's just - /
+sd          A.5 utt2: [ one of those, + {F uh, }  course, one of the ] shows I saw was taking it from the angle that, since it doesn't effect men, it's not going to get funded.  /
+sd          A.5 utt3:  {C And, }  {F uh, }  having thought about that for a while, -/  
+
+qw          B.6 utt1:   <Laughter>  What did you think about that idea? /  
+
+sd          A.7 utt1: <Breathing> {D Well, } [ [ I, + I kind of, ] + I ] thought, {D well, } [ that, + that ] might be possible since there are a lot of men in control of that kind of thing.  /
+sd          A.7 utt2: {C But } then [ I got, + I got ] to thinking, [ the, + the ] number one killer of men seems to be the prostate  /
+sd          A.7 utt3: {C and } there's only one test that just recently got developed, {F uh, } a [ [ blood  in-, + antigen, ] + {F uh, } antibody test for the antigen in the blood ]  /
+sd          A.7 utt4: {C and } that's fairly recent.  /
+sd          A.7 utt5: {C And } yet men have been dying from prostate cancer for years. /  
+
+bf          B.8 utt1:   They've not really given it attention either,  /
+b          B.8 utt2: yeah. /  
+
+sd          A.9 utt1:   {C So } it's not really cured,  /
+%          A.9 utt2: yeah,  /
+sd          A.9 utt3: it's [ not, +  {F uh, } not ] that heavily funded either  /
+sd          A.9 utt4: {C and then } that seems to be one of [ the, + the ] major, {F uh, } problems that men have in the realm of cancer,  /
+h          A.9 utt5: {C so, } I don't know.  /
+sd          A.9 utt6: [ I, + I ] guess there's just some strange public opinion as to who they want to give to. {F Uh, } be it through different organizations, March of Dimes type, {F uh, } telethons [ or, + or ] bicycle rides or whatever, how they fund whatever, {F uh, } illness they wish. /  
+
+b          B.10 utt1:   Right. /  
+
+sv          A.11 utt1: It's kind of hard [ to, + to ] get an even keel on that.  /
+sv          A.11 utt2: {E I mean, } it's really hard to say,  /
+^q          A.11 utt3: {D well, } there's, {D you know, } a hundred thousand per year affected by this one  /
+^q          A.11 utt4: {C so } let's give it this amount,  /
+^q          A.11 utt5: {C and then } this other one's only a tenth of that,  /
+^q          A.11 utt6: {C so } give it a tenth of that [ and, + and ] just keep <breathing> doling it out that way  /
+%          A.11 utt7: {C or, } -/  
+
+sd          B.12 utt1: {D Well, } [ I'm, + I'm ] glad I'm not the one [ that's, + that's ] in charge [ of, + of ] making those decisions.  /
+sv          B.12 utt2: [ They, + {F uh, } you ] wish that there could just be money for all these problems because they're all so serious, {D you know. }  /
+sv          B.12 utt3: {E I mean } it's not so serious, I guess, until it affects your family  /
+sv          B.12 utt4: {C and then } all of a sudden it's the most important thing. /  
+
+b          A.13 utt1:   Right. /  
+
+sd          B.14 utt1: <Lipsmack> {C So } [ I, + I ] would hate to have that <breathing> responsibility just personally  /
+sv          B.14 utt2: [ {C but, } + {C but } ] then, again, [ we really, + we really ] do have it as a society to decide which things we need to address <breathing>.  /
+sd          B.14 utt3: [ I, + {F uh, } I ] guess [ [ I, + it, ] + it ] frightens me to think <breathing> of so many people [ with, + with ] AIDS and with cancer  /
+sv          B.14 utt4: {C and } many of those things, {F uh, } if they're not able [ to, + to ] be insured then the country's going to pay for it one way or the other.     
+
+b          A.15 utt1:   Right. /  
+
++          B.16 utt1:   Whether it's through prevention [ or, + or ] <breathing> treatment or, {D you know, } <<pause>>  [ just, + {F uh, } just ] helping the people when they are not able to take care of themselves.  /
+sv          B.16 utt2:  It seems like  one way or the other we're going to end up paying for it. /  
+
+aa          A.17 utt1:   That's true. /  
+
+%          B.18 utt1:   {C But } <<very faint>>, -/  
+
+sd          A.19 utt1: {D You know } [ the, + the ] other thought that I had, {F uh, } - /
+sd          A.19 utt2: I've had several minutes to think about this after I, {F uh, } - /
+sd          A.19 utt3: while I ] was finding people, [ I, + {F uh, } I ] could think about the topic longer that the person that receives it,  /
+sv          A.19 utt4: {C so } it's kind of [ a, + a ] <+ typo: that for than +> unfair advantage,   
+
+x          B.20 utt1:   <Laughter>.   
+
++          A.21 utt1: as it were,  /
+sd          A.21 utt2: {C but, } the other thing that I thought of on this is, I wonder if there isn't enough money, {F uh, } in our economy or in our system.  /
+sv          A.21 utt3: {F Uh, } it seems like there's so much that goes to things that don't really do a whole lot of good. /
+%          A.21 utt4: {E I mean, } yeah,  /
+sv          A.21 utt5: they're kind of nice.  /
+sd          A.21 utt6: {C But, } we have such an affluent [ (( a-, society )) + , society ] that I wonder [ if, + if ] we took a little from here and there and the other if we might wind up with [ a, + a ] cure for just about everything. /  
+
+bf          B.22 utt1:   Just change our p-, -/  
+
+sv          A.23 utt1: Of course, then we wouldn't have any room to put people,  /
+%          A.23 utt2: {C but } that's <laughter>, -/  
+
+aa          B.24 utt1:   Right,  /
+bf          B.24 utt2:  just change our priorities --    
+
+b          A.25 utt1:   Yeah. /  
+
++          B.26 utt1:   -- a little bit. /  
+
+sd          A.27 utt1: {D You know, } you hear these ridiculous figures for pizza  /
+sd          A.27 utt2: {C or } you hear [ these, + these ] phenomenal amounts of dollars spent for this, that or the other  /
+sd          A.27 utt3: {C and then } you have all the arts [ that, + that ] are nice and aesthetic,  /
+qh          A.27 utt4: {C but } --   
+
+b          B.28 utt1:   Right. /  
+
++          A.29 utt1: -- are they that enhancing [ for the, + for the ] masses, {D you know. }  /
+sv          A.29 utt2: They certainly do well for those who go to the <breathing> symphony orchestra and all that,  /
+sv          A.29 utt3: {C but, } {F uh, } had all that donation and time and labor and effort gone toward something else, -/ 

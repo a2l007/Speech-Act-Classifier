@@ -1,0 +1,269 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4936_1190_1662
+TOPIC#:		370
+DATE:		920507
+TRANSCRIBER:	nk
+UTT_CODER:      mmab
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+ad          A.1 utt1:  Why don't you start? /  
+
+h          @B.2 utt1:  {F Oh, } I don't know.  /
+sd          @B.2 utt2: [ I, + {F uh, } I ] refinished a  couple of old, {F uh, } dressers that were [ gi-, + ] handed down.  /
+sd          @B.2 utt3: {D You know, } [ nice +  it's nice ] tongue and groove, {F uh, } {F uh, } construction.  /
+sd          @B.2 utt4: {F Uh, } <inhaling> [ that's been, +  I've been ] pretty successful with that. /  
+
+qr          A.3 utt1:  Things you already owned or things that you've picked up  just to do that? /  
+
+br          B.4 utt1:  What? /  
+
+qr          A.5 utt1:  Are they things you already owned   or you pick them up  just to do that refinishing? /  
+
+nn          B.6 utt1:  No,  /
+sd^e          B.6 utt2: I've done some other things too.  {F Uh, } {D you know. } /  
+
+b          A.7 utt1:  Yeah.  /
+sd          A.7 utt2:  I've done both <throat_clearing>. /  
+
+b          B.8 utt1:  Yeah. /  
+
+sd(^q)          A.9 utt1:  {F Uh, } {F uh, } my wife has picked up a couple of  things saying, {F uh, } {D boy } if we could refinish that, that would be a <noise> beautiful piece of  furniture  /
+sd          A.9 utt2: {C and, } {F uh, } we've done it a couple of times.  /
+sd          A.9 utt3:  I guess # that # --   
+
+b          B.10 utt1:  # {F Oh, } yeah. # /  
+
++          A.11 utt1:  -- we've been fairly successful with those.  /
+sv          A.11 utt2:   [ That's, + {F uh, } that's ] a kind of low risk sort of project, isn't it I guess. /  
+
+aa          B.12 utt1:  Yeah.  /
+sv          B.12 utt2:  That's a good way to get started. /  
+
+sd          A.13 utt1:  {F Uh, } I have [ a, + a, ] {F uh, } really nice desk.    A nicer desk than I could afford. Which <laughter> I got because my sister  who worked in a hospital, {F uh } --   
+
+b          B.14 utt1:  Uh-huh <<very faint>>. /  
+
++          A.15 utt1:  -- liberated it after a fire  /
+sd          A.15 utt2: {C and, }  {F uh, }  we stripped it all the way down and  refinished it  /
+sd          A.15 utt3: {C and } it turned out to  be [ really nice, + {F uh, } a nice desk. ]   
+
+b          B.16 utt1:  Uh-huh <<very faint>>. /  
+
++          A.17 utt1:  Maple top I think [ or + <throat_clearing> or ] --   
+
+b          B.18 utt1:  Uh-huh <<very faint>> <clink>. /  
+
++          A.19 utt1:  -- something of that sort. /  
+
+b          B.20 utt1:  Yeah.  /
+sd          B.20 utt2:  [ I, + I, ] {F uh, } put together [ a, + a, ]   up rolltop desk from scratch. /  
+
+bh          A.21 utt1:  {F Oh, } really? /  
+
+sd          B.22 utt1:  {D You know, } a kit. /  
+
+ba          A.23 utt1:  {F Oh. }  I'm # jealous. # /  
+
+b          B.24 utt1:  # Yeah. #  /
+sd          B.24 utt2:  Still had to cut it and everything,  /
+sd          B.24 utt3: {C but } --   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  -- it was fun. /  
+
+b          A.27 utt1:  Yeah <throat_clearing>.  /
+sd          A.27 utt2: [ I, + I ] [ do + do ] things,  {F uh, } that might be too crude to be called woodworking.  /
+sd          A.27 utt3:  I've built my own deck  and, {F uh } --   
+
+b          B.28 utt1:  Uh-huh. /  
+
++          A.29 utt1:  -- <Sniffing> things like that. /  
+
+b          B.30 utt1:  Yeah.  /
+sd          B.30 utt2: [ I, + I've ] done the same.  {D You know, }   like the trim around the house <laughter> {D you know } --   
+
+sd          A.31 utt1:  {C And, }  {F uh } --   
+
++          B.32 utt1:  -- # the baseboards and things like that. # /  
+
++          A.33 utt1:  -- # <Throat_clearing> I # definitely have begun to  accumulate tools too.  /
+sd          A.33 utt2: [ [ My, + I, ] + {F uh } --   
+
+b          B.34 utt1:  Uh-huh. /  
+
++          A.35 utt1:  -- I ] picked up a bunch of Craftsman tools  from the forties that my wife's father owned when he was alive  /
+sd          A.35 utt2: {C and so } I do have a band  saw and a router and,  {F uh, } things like that out in the garage.  /
+sd          A.35 utt3:  {C But } I can't say  I use them very often <throat_clearing>. /  
+
+b          B.36 utt1:  {F Um. }   (( Yeah ))  /
+sd          B.36 utt2: , I'm looking at trying to  get a router right now. /  
+
+sv          A.37 utt1:  [ They're handy, {F uh, } # + [ they # -- +   
+
+x          B.38 utt1:  #  ((   )) . #   
+
++          A.39 utt1:  -- they ] come in handy ] at the most unusual  times.  /
+sd          A.39 utt2:  Putting doors in is the time when I'm, - /
+sd          A.39 utt3: {F uh, } I bought myself a,  {F uh, } template for making mortices and  doors  /
+sd          A.39 utt4: {C and } that's a whole lot easier than doing it  with a chisel # <laughter>. # /  
+
+aa          B.40 utt1:  # <Laughter> # # I'll bet. # /  
+
+sd          A.41 utt1:  # {C But } [ I've, # also, + I've also ] used them [ for  building drawers + [ where you, + ] {F uh, }  for rabbeting ] [ and, + ] {F uh, } because, {F uh, }  rabbeting [ on my table, + on my, {F uh, } radial arm saw ] is a little bit uncertain <laughter>. /  
+
+b          B.42 utt1:  <Talking> Uh-huh. /  
+
+sd          A.43 utt1:  {C So, } I got one for Christmas a few years ago and  used it quite a bit for the first eight months I had it  /
+sd          A.43 utt2: {C and } now I use it twice a year maybe <throat_clearing>. /  
+
+b          B.44 utt1:  Yeah.  /
+sd          B.44 utt2:  [ My br-, + my brother's ] used it a lot for  making drawers.  /
+h          B.44 utt3:  # I don't # --   
+
+%          A.45 utt1:  # The big, # -/  
+
++          B.46 utt1:  -- know,  /
+qw          B.46 utt2: [ what, + what's ] your opinion of  [ wha-, +  what ] a good router is like?  /
+%          B.46 utt3: # {D You know } I, # -/  
+
+%          A.47 utt1:  # <Throat_clearing> {F Uh, } # I guess it, -/  
+
+sd          B.48 utt1:  {C Because } he was tell me like the ones that  you dial in aren't all that great.  /
+sd          B.48 utt2:  They've plastic parts and stuff. /  
+
+br          A.49 utt1:  <Throat_clearing> The ones that what? /  
+
+sd          B.50 utt1:  That you dial in on the side. /  
+
+sd          A.51 utt1:  {F Uh, } [ I have never even s-, + I have never even looked ]  at one closely.  /
+sd          A.51 utt2:  {F Uh, } [ the, + the ] --   
+
+b          B.52 utt1:  Uh-huh. /  
+
++          A.53 utt1:  -- little use that I've gotten from my router,  {E I would say, } {F uh, } I would spend my money on the bits <laughter>. /  
+
+b          B.54 utt1:  Uh-huh. /  
+
+sd          A.55 utt1:  {F Uh, } I have [ a, +  I'd guess you'd call a ] medium  quality Craftsman router  /
+%          A.55 utt2: {C and } the, {F uh, } -/  
+
+qw          B.56 utt1:  How strong is it? /  
+
+sd          A.57 utt1:  <Throat_clearing> It's strong enough for any job  where you don't try to take more than say three-eighths of an inch at a time.  /
+%          A.57 utt2:  {C But }  the problem is that the, {F uh, } as with - /
+sv          A.57 utt3: [ any, +  any ] time you buy #  [ [ [ [ [ a, + a ] # -- +   
+
+%          B.58 utt1:  # Don't they, # -/  
+
++          A.59 utt1:  -- tool with --   
+
+b          B.60 utt1:  Uh-huh. /  
+
++          A.61 utt1:  -- a, ] + a, ] + as a, ] + as a ] package --   
+
+b          B.62 utt1:  Uh-huh. /  
+
++          A.63 utt1:  -- the bits that they give you are low end. /  
+
+x          B.64 utt1:  <Laughter>.   
+
+sv          A.65 utt1:  <Throat_clearing> {C So } [ the price of a  good set of, {F uh, } carbide steel, {F uh, } bits is probably, + {F uh, } {E I mean, }  [ a, + a ] good set of bits is probably going to run you ] a hundred dollars  /
+sv          A.65 utt2: {C and, }  {F uh, } {F uh, } if you're going to  use for a lifetime I suppose it's worth it.  /
+%          A.65 utt3:  {C Because }  [ y-, +   e-, ]  {F uh, } - /
+sv          A.65 utt4: I imagine if I go and sharpen them myself, {F uh, } they won't last <throat_clearing>.  /
+sd          A.65 utt5:  {C And }  I've never had the bits sharpened <sniffing>.  /
+sv          A.65 utt6: # {C So. } #   
+
+b          B.66 utt1:  # Uh-huh. # /  
+
++          A.67 utt1:  That's a thing to consider is to, -/  
+
+qy^g          B.68 utt1:  [ They, + they ] really get hot don't they? /  
+
+ny          A.69 utt1:  Yeah.  /
+sd^e          A.69 utt2: {C And } [ they, + they ] dull after awhile.  /
+sd          A.69 utt3:   Especially, I did some cabinets in, {F uh, } ash and oak -- /  
+
+b          B.70 utt1:  Uh-huh. /  
+
+sv          A.71 utt1:  -- {C and, }  {F uh, } [ that, + that ] wears a bit down.  /
+sd          A.71 utt2:   We remodeled and saved a bunch of really nice ash cabinets, {F uh } --   
+
+b          B.72 utt1:  Uh-huh. /  
+
++          A.73 utt1:  -- which had been in the original,   
+
+x          B.74 utt1:  <Children>.   
+
++          A.75 utt1:  remodeling of our kitchen. /  
+
+b          B.76 utt1:  Right. /  
+
+sd          A.77 utt1:  <Swallowing> {C And } I saved them and built an oven  cabinet out of one and  another cabinet out of another by using the faces and so forth <throat_clearing>.  /
+sv          A.77 utt2: {C And, }  {F uh, }   
+
+x          B.78 utt1:  <Talking>.   
+
++          A.79 utt1:  routing hardwood will, {F uh, } take the edge off a cheap  bit pretty fast <sniffing>.  /
+%          A.79 utt2: {C So. } -/  
+
+b          B.80 utt1:  Yeah.  /
+sd          B.80 utt2: I've cut some one by eight oak  before <laughter>.  /
+sd          B.80 utt3: Boy was that fun. /  
+
+b          A.81 utt1:  Right.  /
+%          A.81 utt2:  That's, {F uh, } -/  
+
+sv          B.82 utt1:  Big solid pieces of oak are just --   
+
+qy^g          A.83 utt1:  {C And  then } you take the blade  [ to the +  --   
+
++          B.84 utt1:  -- tough. /  
+
++          A.85 utt1:  -- to ] get sharpened, right <laughter>. /  
+
+nd          B.86 utt1:  <Laughter> {D Well, } that was, {D you know, }  [ with a, + with a ] circular saw. /  
+
+b          A.87 utt1:  Uh-huh. /  
+
+ba          B.88 utt1:  {D Like, }  {F oh } my gosh. /  
+
+b          A.89 utt1:  Right. /  
+
+qh          B.90 utt1:  Is this going to be fun <laughter>? /  
+
+b          A.91 utt1:  Yeah <throat_clearing>.  /
+sd          A.91 utt2: {D Well } I've used mine on  treated wood  /
+sd          A.91 utt3: {C and } now all my blades need sharpening.    
+
+b          B.92 utt1:  <Children> Yeah. /  
+
++          A.93 utt1:  Because, {F uh, } treated wood will also chew them up. /  
+
+sv          B.94 utt1:  Treated wood can really make you sick too. / 

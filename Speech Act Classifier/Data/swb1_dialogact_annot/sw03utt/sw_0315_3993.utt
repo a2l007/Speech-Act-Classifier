@@ -1,0 +1,314 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3993_1516_1514
+TOPIC#:		350
+DATE:		920221
+TRANSCRIBER:	glp
+UTT_CODER:      mmab
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	3
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        None.
+
+==========================================================================
+  
+
+o          A.1 utt1:  Okay <laughter>,  /
+qy          A.1 utt2: [ what, + ] do you do artistic painting? /  
+
+ng          B.2 utt1:  {F Uh, } I do tole painting. /  
+
+bh          A.3 utt1:  {F Oh, } you do? /  
+
+ny          B.4 utt1:  Uh-huh,  /
+sd^e          B.4 utt2: I really love the tole painting.  /
+sd          B.4 utt3:  {F Uh, } I haven't done any of the oil or watercolor.  /
+sd          B.4 utt4: I would like to learn that someday,  /
+sd          B.4 utt5: {C but }  right now my passion is tole painting <laughter>. /  
+
+qy          A.5 utt1:  Do you do a lot of it? /  
+
+ny          B.6 utt1:  Uh-huh. /  
+
+sd^e          A.7 utt1:  [ I, + I ] took one class about,  I guess three or four years ago  /
+sd          A.7 utt2: {C and } I've done a little, {F uh, } /  
+
+bk          B.8 utt1:  Oh. /  
+
+sv          A.9 utt1:  {C But } it takes a lot of time <laughter>. /  
+
+aa          B.10 utt1:  It does,  /
+aa          B.10 utt2: it is real time consuming  /
+%          B.10 utt3: {C and, } -/  
+
+qy          A.11 utt1:  [ D-, + do ] you sell your projects? /  
+
+ng          B.12 utt1:  {F Uh, } <breathing> mostly I have just given them away as gifts. /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  {F Uh, } I've done, {F uh, }  perpetual calendars and <inhaling> cookie jar lids and,  {F oh, } on and on, {D you know, } just things like that,  /
+sd          B.14 utt2: {C but } --   
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  -- {F uh, } I would eventually like to make enough  to sell and quit my job  /
+x          B.16 utt2: <laughter>.   
+
+qw          A.17 utt1:  <Laughter> Where do you work at? /  
+
+sd         B.18 utt1:  I just work at Stop and Shop out there [ in, + in ] Ogden  /
+%          B.18 utt2: {C so, } -/  
+
+qy          A.19 utt1:  {D Now } do you ever send any of your stuff to the boutique? /  
+
+nn          B.20 utt1:  No,  /
+sd^e          B.20 utt2: <breathing> I've wanted to do that, {F uh, }  but [ just   haven't, + just haven't ] mass produced enough to do that. /  
+
+b          A.21 utt1:  Uh-huh. /  
+
+sd          B.22 utt1:  {D So, } I have five children of my own,  /
+%          B.22 utt2: {C so }  it's -- -/  
+
+sv          A.23 utt1:  <Laughter> That keeps you busy. /  
+
+aa          B.24 utt1:  -- [ they, + they ] keep me busy  /
+sd          B.24 utt2: {C and } tole painting  is just [ a, + ] {D you know, }  something I do in my spare time  /
+%          B.24 utt3: {C so } <laughter>, -/  
+
+b          A.25 utt1:  Uh-huh.  /
+qy          A.25 utt2: Have you tried any of the, - /
+qy          A.25 utt3: {D well, }  do you cut out your own projects? /  
+
+ny          B.26 utt1:  Yes,  /
+ny          B.26 utt2: uh-huh,  /
+sd^e          B.26 utt3: I have my own saws  /
+sd          B.26 utt4: {C and so } I really  enjoy doing that. /  
+
+qy          A.27 utt1:  {F Huh. } Do you, {F uh, } ever spray your projects  with [ the, + {E I mean } a ]  base coat first  /
+qrr          A.27 utt2: {C or } do you brush it on? /  
+
+sd          B.28 utt1:  I brush it on,  /
+%          B.28 utt2: yeah,  /
+sd          B.28 utt3: I haven't tried [ a, + a ] spray  varnish.  /
+sd          B.28 utt4:  I use just a wood sealer. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+b          B.30 utt1:  Yeah. /  
+
+sd          A.31 utt1:  I just bought a spray gun, one of those  [ [ airless, +  {F uh, } not airless, ] +  high volume, low pressure ] spray guns. /  
+
+b          B.32 utt1:  {F Oh, } uh-huh. /  
+
+sd          A.33 utt1:  {C And } I do a lot of woodworking  /
+sd          A.33 utt2: {C and } --   
+
+bh          B.34 utt1:  Do you? /  
+
++          A.35 utt1:  -- that's what I bought it for. /  
+
+b          B.36 utt1:  Oh. /  
+
+sd          A.37 utt1:  {C But } I haven't used it yet. /  
+
+qy^g         B.38 utt1:  {F Oh, } {D well } [ that's + that 'ud ] probably give  you a smoother finish, wouldn't it? /  
+
+ny          A.39 utt1:  Yeah. /  
+
+bk          B.40 utt1:  Oh. /  
+
+ny^r          A.41 utt1:  Yeah. /  
+
+qo          B.42 utt1:  {D Now } what type of woodworking do you do? /  
+
+sd          A.43 utt1:  {F Uh, } fine furniture. /  
+
+bh          B.44 utt1:  {F Oh } --   
+
+b          A.45 utt1:  # Yeah. # /  
+
++          B.46 utt1:  -- # do you? # /  
+
+sd          A.47 utt1:  That's why I [ brought, + bought ] the sprayer --   
+
+b          B.48 utt1:  Oh. /  
+
++          A.49 utt1:  -- is to finish my projects.  /
+sd          A.49 utt2:  That's my  [ worst, + <inhaling> worst ] part of my  woodworking.  /
+sd          A.49 utt3:  I get so sick of making <laughter>, /  
+
+qy^g          B.50 utt1:  {F Oh, } <laughter> {C but } it's hard to finish it, {F huh. } /  
+
+ny          A.51 utt1:  Yeah,  /
+sd^e          A.51 utt2: {C but } spraying does put on a nicer finish. /  
+
+ba          B.52 utt1:  {F Oh, } {D well, } that is  interesting.  /
+qo          B.52 utt2:  {D So, } what kind of equipment do you have? /  
+
+qy^h          A.53 utt1:  For woodworking? /  
+
+ny          B.54 utt1:  Uh-huh. /  
+
+^h          A.55 utt1: {F Uh, } let me see,  /
+sd          A.55 utt2: table saw, scroll saw, band saw, lathe, routers,  /
+sd          A.55 utt3: {C and } -ts about it. /  
+
+bf          B.56 utt1:  {D Boy, } it sounds like you're really into it.  /
+ba          B.56 utt2: That is nice. /  
+
+aa          A.57 utt1:  Yeah,  /
+aa          A.57 utt2: it is. /  
+
+b          B.58 utt1:  Yeah,  /
+sd          B.58 utt2: [ I, + I ] just have a scroll saw and a  jig  saw  /
+sd          B.58 utt3: {C and } I am really anxious to get a band saw and a router <laughter>. /  
+
+b          A.59 utt1:  <Laughter> Yeah,  /
+sv          A.59 utt2: the band saw is really nice.  /
+sd          A.59 utt3: I have an Inca.  /
+qy^d          A.59 utt4:   I don't know if you've ever heard of those. /  
+
+b          B.60 utt1:  Oh. /  
+
+sv          A.61 utt1:  {C But } it's nice to have the right equipment. /  
+
+aa          B.62 utt1:  Yeah,  /
+qy^g          B.62 utt2: [ that is, + that makes ] it easier, doesn't it? /  
+
+ny          A.63 utt1:  Uh-huh. /  
+
+qy          B.64 utt1:  {D Well, } have you sold any of your furniture  /
+%          B.64 utt2: {C or } --   
+
+%          A.65 utt1:  {F Uh } -- /  
+
++          B.66 utt1:  -- just, -/  
+
+%          A.67 utt1:  -- not, - /
+sd          A.67 utt2: mostly I do like you do,  give it away as gifts. /  
+
+b          B.68 utt1:  Uh-huh. /  
+
+sd          A.69 utt1:  {C But, }   
+
+b          B.70 utt1:  Yeah. /  
+
++          A.71 utt1:  Making my own furniture. /  
+
+ba          B.72 utt1:  {F Oh, } that's interesting.  /
+qy          B.72 utt2:  [ Do you, + {F uh, }  did you ] take classes to learn how to do that? /  
+
+na          A.73 utt1:  {F Uh, } just in junior high -- /  
+
+b          B.74 utt1:  Uh-huh. /  
+
+sd          A.75 utt1:  -- {C and then } I just kept on through high  school and then <inhaling> got my own equipment, kept up with that. /  
+
+bf          B.76 utt1:  {F Oh, } {C so } yours is mostly just a hobby, too, then. /  
+
+aa          A.77 utt1:  Yeah. /  
+
+b          B.78 utt1:  Oh. /  
+
+aa^r          A.79 utt1:  Yeah. /  
+
+ba          B.80 utt1:  {D Well, } that is interesting.  /
+sd          B.80 utt2:  {F Oh, } [ I would, +  I really would ] love to go take a class in woodworking and learn how to.  /
+sd          B.80 utt3:  I don't know if I  necessarily want to do furniture,  /
+sd          B.80 utt4: {C but } mostly, {F uh, } just --   
+
+qy^d          A.81 utt1:  {D Like } --   
+
++          B.82 utt1:  -- do more, -/  
+
++          A.83 utt1:  -- the shelves and, -/  
+
+ny          B.84 utt1:  Uh-huh,  /
+sd^e          B.84 utt2: the woodworking. /  
+
+qy^d          A.85 utt1:  For your --   
+
+b          B.86 utt1:  {F Uh, } /  
+
++          A.87 utt1:  -- <Throat_clearing> tole painting. /  
+
+ny          B.88 utt1:  Yeah <laughter>. /  
+
+x          A.89 utt1:  <Laughter>.   
+
+b          B.90 utt1:  Yeah,  /
+sv          B.90 utt2: {C so, } it's fun <<very faint>>. /  
+
+ba          A.91 utt1:  Good.  /
+fc          A.91 utt2:  {D Well } <breathing>, I guess I'll let you go now. /  
+
+fc          @@B.92 utt1:  {D Well, } they come on,  /
+fc          @@B.92 utt2:  we're supposed to talk until they come on  and --   
+
+fc          A.93 utt1:  {F Oh, } they do? /  
+
++          B.94 utt1:  -- tell us <laughter>. /  
+
+fc          A.95 utt1:  Okay,  /
+fc          A.95 utt2: {C so } this is my first one.  /
+fc          A.95 utt3:  You're probably a  veteran <laughter> --   
+
+fc          B.96 utt1:  Yeah. /  
+
++          A.97 utt1:  -- at this. /  
+
+fc          B.98 utt1:  <Laughter> {D Well, } [ it has, + it has ] been really fun.  /
+fc          B.98 utt2:   I've enjoyed this.  {F Uh, }  /
+fc          B.98 utt3: like I say, I've made a couple of calls to Texas, and --   
+
+fc          A.99 utt1:  Uh-huh. /  
+
++          B.100 utt1:  -- just talked to all different kinds of people  /
+fc          B.100 utt2: {C so } I  think you'll enjoy doing it. /  
+
+fc          A.101 utt1:  # Yeah. # /  
+
+fc          B.102 utt1:  # It's fun. # /  
+
+fc          A.103 utt1:  Sounds fun.  /
+fc          A.103 utt2:  Where do you buy your tole painting  paints at around here? /  
+
+fc          B.104 utt1:  {F Uh, } {D you know, } there's a shop in Roy  that I really love.  /
+fc          B.104 utt2:  {F Uh, } {C and } it's there by the, Copper Mill restaurant, used to be the Hayloft. /  
+
+%          A.105 utt1:  I am not famil-, - /
+fc          A.105 utt2: {D well, } we live  in  (( Roy ))  /
+%          A.105 utt3: , {C but, }  we haven-, - /
+fc          A.105 utt4: is it on nineteen hundred? /  
+
+fc          B.106 utt1:  Uh-huh.  /
+fc          B.106 utt2: {F Uh, } let's see,  /
+fc          B.106 utt3:  I'm trying to think of the name. /  
+
+fc          A.107 utt1:  I know where fifty-six hundred south is. /  
+
+fc          B.108 utt1:  <Breathing> {F Uh, } I don't right off. /  
+
+fc          A.109 utt1:  <Laughter>  Is that Ben Franklin  (( then )) ? /  
+
+fc          B.110 utt1:  Ben Franklin,  /
+fc          B.110 utt2: okay. / 

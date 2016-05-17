@@ -1,0 +1,356 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2085_1071_1051
+TOPIC#:		345
+DATE:		910310
+TRANSCRIBER:	CAP
+UTT_CODER:	TC
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        No unusual features.
+
+===========================================================================
+  
+
+fp          A.1 utt1:  Hi.  /
+fp          A.1 utt2: How are you doing? /  
+
+br          B.2 utt1:  What,  /
+sd^c          B.2 utt2: I couldn't hear you? /  
+
+fp^r          A.3 utt1:  I said, how are you doing? /  
+
+fp          B.4 utt1:  I'm doing fine.  /
+sd          B.4 utt2:  I'm, {F uh, }  just editing a spreadsheet right now.  /
+sd          B.4 utt3: I'm trying to figure out how I can retire without  having to work until I'm ninety-five. /  
+
+b          A.5 utt1:  Yeah.  /
+sd          A.5 utt2:  We've been doing that too <laughter>.  /
+sd          A.5 utt3:   We're trying to retire in our fifties. /  
+
+b          B.6 utt1:  Yeah.  /
+sd          B.6 utt2:  This is a very appropriate  topic for our, {F uh, } conversation today because what I'm figuring out is that I'm  going to have to put in a lot more money than what I'm making <laughter>. /  
+
+o          A.7 utt1:  <Laughter>  Good luck on that one, then. /  
+
+br          B.8 utt1:  What is that? /  
+
+sd          A.9 utt1:  I said good luck on that one, then. /  
+
+sv          B.10 utt1:  {D Well, } we've got a pretty good  situation, my wife and I, since our property is already paid for.  /
+sd          B.10 utt2: {D You know, } the main  things that I like about [ the +  {F uh, } <talking> <<someone in background>> the ] job benefits --   
+
+b          A.11 utt1:  Huh-uh. /  
+
++          B.12 utt1:  -- would be [ the, +  {F uh, } the ]  availability of the health insurance  and the availability of, {F uh, } {D you know, }  being able to transfer [ around, +  inside ] the organization without having, {D you know, }  when they cut off a system and they don't just can everybody that is working on it,  like some companies I know of.  /
+sd          B.12 utt2: {D You know, } they give you an opportunity  to either transfer into an [ on going, +  on going ] project. -/  
+
+qy^d          A.13 utt1:  {D So } you work for it T I then <music>.  /
+qy^d          A.13 utt2:  <<pause>> You can't say? /  
+
+ny          B.14 utt1:  Yeah. /  
+
+b^m          A.15 utt1:  Yeah. /  
+
+br          B.16 utt1:  What? /  
+
+ny          A.17 utt1: Yes,  /
+sd^e          A.17 utt2: you do.  /
+sd          A.17 utt3: {D Well, } I work for  D I S D  /
+sd          A.17 utt4: {C and } I don't know what your talking about when you say health insurance,  /
+sd          A.17 utt5:  {C but } Dallas doesn't pay.  /
+sd          A.17 utt6: It pays most of mine, {D you know, }  /
+sd          A.17 utt7: {D now, }  after you work  (( I think ))  five years, they begin to pay most of it.  /
+sd          A.17 utt8:  {C But } then, for [ the, +  the ] family, {D you know, } I put my kids on my policy.  /
+sd          A.17 utt9:   It's like two hundred dollars -- /  
+
+b          B.18 utt1:  Huh-uh. /  
+
+sd          A.19 utt1:  -- {C and } it's gone up quite a bit  /
+sd          A.19 utt2:  {C and } they predict, {D you know, } of course, it's going to keep going up.  /
+sd          A.19 utt3: I wish they could go on  and pay for all of our coverage, at some point.  /
+sd          A.19 utt4:   {C And } benefits, {D you know, } - /
+sd          A.19 utt5:  I'd like to see child care paid for or on-site child care sometime.  /
+sd          A.19 utt6:   I think that would be a  ((   )) , -/  
+
+b          B.20 utt1:  Huh-uh. /  
+
+sv          A.21 utt1:  {C and } it would make women go to  work sometime if they knew their kids were being taken care of.  /
+sd          A.21 utt2:   They could go visit them during the day.  /
+^g          A.21 utt3:  What? /  
+
+b          B.22 utt1:  Yeah  /
+sd          B.22 utt2: that's {F uh, } something I  hadn't really thought about because we don't have children.  /
+sd          B.22 utt3: {C But, } I can see how it  would be [ a +  a ] real benefit.  /
+ny          B.22 utt4: (( Yes ))  /
+sd          B.22 utt5:  I do. /  
+
+sd          A.23 utt1:  {D Well, } we keep a shelter,   also monies that we're going to pay in for child care too.  /
+sd          A.23 utt2: {D You know, } go on and pay a lump  sum  /
+sd          A.23 utt3: {C and } as long as you pay that amount you're okay.  /
+sd          A.23 utt4:  {C But } if you paid  in more than you actually used, and the same thing for insurance, what you predict  your going to be paying for insurance, as long as you [ pay, +   actually pay ] out that amount of money, you're okay.  /
+sd          A.23 utt5:  {C But } if you pay out less,  then you lose that money. /  
+
+%          B.24 utt1:  {F Um. } /  
+
+sd          A.25 utt1:  I don't like that part,  /
+sd          A.25 utt2:  {C but } you don't have to do that option if you don't want to. /  
+
+sd          B.26 utt1:  {D Well, } [ that could be, +   I could see where that would be ] important. /  
+
+sd          A.27 utt1:  {C And then } we got that cafeteria plan,  /
+qy         A.27 utt2: do you have that? /  
+
+nn          B.28 utt1:  No. /  
+
+b^m          A.29 utt1:  No. /  
+
+sd          B.30 utt1:  I don't know what it's  (( about )) . /  
+
+%          A.31 utt1:  You can, {F uh, } - /
+%          A.31 utt2:   {D well } you, - /
+sd          A.31 utt3: let's see, [ it, +  it ]  shelters you're money that you pay [ for, +  for ] insurance.  /
+sd          A.31 utt4:   It takes it out of your salary before taxes. /  
+
+b          B.32 utt1:  {F Oh, }  okay.  /
+ny          B.32 utt2: Yeah,  /
+ny^r          B.32 utt3: yeah  /
+sd^e          B.32 utt4: we got that. /  
+
+b          A.33 utt1:  Okay. /  
+
+bf          B.34 utt1:  Pretax insurance? /  
+
+aa          A.35 utt1:  Yeah. /  
+
+b^m          B.36 utt1:  Yeah. /  
+
+sd          A.37 utt1:  {C But } we call it the cafeteria plan,  /
+sd          A.37 utt2: I wonder why. /  
+
+br          B.38 utt1:  Um? /  
+
+sd          A.39 utt1:  I said, I wonder why. /  
+
+sv          B.40 utt1:  {F Oh, } it's probably what the first  guy who did it, called it. /  
+
+o          A.41 utt1:  Cafeteria? /  
+
+b          B.42 utt1:  Yeah.  /
+sv          B.42 utt2: He was probably in the  cafeteria when he thought of it <laughter>. /  
+
+am          A.43 utt1:  <Laughter> Maybe  /
+qo          A.43 utt2: {C so. }  Let's  see what else can we do?  /
+%          A.43 utt3:  Changes, -/  
+
+sd          B.44 utt1:  I'll tell you what we could do. /  
+
+qw          A.45 utt1:  What? /  
+
+sd          B.46 utt1:  We could prohibit people from being  hired that are historically going to cost the company money. {D You know, }  do a little bit better research on who gets hired -- /  
+
+b          A.47 utt1:  Uh-huh. /  
+
+%          B.48 utt1:  -- {C Because } {D you know, } -/  
+
+bf          A.49 utt1:  You mean, {D like } for health insurance? /  
+
+aap          B.50 utt1:  {D Well, } not only just health  insurance, {E I mean } for the whole benefit of the company.  /
+sd          B.50 utt2:  {D See, } I look at it this way.    If the company folds, I got to go find a job. /  
+
+b          A.51 utt1:  Yeah. /  
+
+b          B.52 utt1:  Okay.  /
+sv          B.52 utt2: {D Now, } if we got somebody  in a position to affect the way the company performs, just about anybody in the company,  and they're not doing their job or they're not capable of doing their job,  then we should find (A) a place to put them or (B) {D you know, } boot them out. /  
+
+sv          A.53 utt1:  {D Well, } that's easier done in a  company than it is in, {F uh, } school teaching. /  
+
+sv          B.54 utt1:  {D Well, } frankly, I think school  teachers ought to get about ten times what they're getting paid. /  
+
+ba          A.55 utt1:  <Breathing> Thank you <laughter>. /  
+
+br          B.56 utt1:  What? /  
+
+sd          A.57 utt1:  I said, thank you. /  
+
+b          B.58 utt1:  Oh. /  
+
+sd          A.59 utt1:  We're both school teachers. /  
+
+%          B.60 utt1:  {F Oh, } [ I'm, +  I'm, ] -/  
+
+sd          A.61 utt1:  {C But } it's hard to get rid of  a teacher if they're not good. /  
+
+sd          B.62 utt1:  I know. /  
+
+sd          A.63 utt1:  It's almost impossible. /  
+
+sd          B.64 utt1:  {D Well, } there's two schools of  thought on that.  /
+sd          B.64 utt2:  {D You know, } [ I, +  I'm ] looking at trying to get into a university job position as a a professor -- /  
+
+b          A.65 utt1:  Huh-uh. /  
+
+sd          B.66 utt1:  -- I got about eight years of education  ahead of me before I can do that -- /  
+
+%          A.67 utt1:  {F Um. } /  
+
+sd          B.68 utt1:  -- {C but, } once you get that  job with the university, you've got ten years of probation. /  
+
+b          A.69 utt1:  Huh-uh. /  
+
+sd          B.70 utt1:  Then you have tenure.  /
+sd          B.70 utt2:  {C And } they can't fire you. /  
+
+b          A.71 utt1:  Huh-uh. /  
+
+sd          B.72 utt1:  {D Well, } {D you know, } in a  situation like that, I don't know if that's good or  bad.  /
+sd          B.72 utt2: I do know that I've had tenured  professors that were just sorry. /  
+
+b          A.73 utt1:  Right. /  
+
+sd          B.74 utt1:  {C And } I've also had tenured  professors that were the best things on two legs. /  
+
+sd          A.75 utt1:  {D Well, } they did away with tenure  in teaching along time ago, {D you know, } in the public schools. /  
+
+%          B.76 utt1:  {C But } in addition. -/  
+
+sd          A.77 utt1:  It makes you more at ease.  /
+sd          A.77 utt2:   {D You know, } you knew you weren't going to lose your job unless you really did something horrendous. /  
+
+sd          B.78 utt1:  {D Well, } [ they, +  they ] really  can't fire you without cause,  /
+sd          B.78 utt2: {D you know } the governments taken care of that,  /
+sv          B.78 utt3:  {C but, } {F um, } what I'm looking at is, {D you know, } there are a lot of teachers that aren't  getting paid what they need to be getting paid,  /
+sv          B.78 utt4: {C and } there are some  teachers <noise> out there that aren't worth having around as janitors. /  
+
+b          A.79 utt1:  Right. /  
+
+sd          B.80 utt1:  {D You know, } {C and } I could see a  point protecting someone's position,  /
+sv          B.80 utt2: {C but, } on the other hand, I don't think [ it, +   {D you know, } that ] someone that teaches, {F uh, } say shop, for instance, should have to have degree at all. /  
+
+sd          A.81 utt1:  {D Well } they don't. /  
+
+%          B.82 utt1:  {D Well. } -/  
+
+sd          A.83 utt1:  In some places they don't. /  
+
+sd^m          B.84 utt1:  In some places that don't. /  
+
+qy          A.85 utt1:  Do they? /  
+
+sd          B.86 utt1:  {C But, } {D you know, } [ you, +  you ]  get specialized education now, for instance, take computer science.  /
+sv          B.86 utt2:  We've got kids twenty  years old, right now, that could beat any computer professor at micro computer applications.  /
+sv          B.86 utt3:  I know we could.   /
+sd          B.86 utt4: {C And } these people can't even get jobs doing  anything besides digging ditches, because there's no comprehensive test  that they can take, that would allow them [ to, +  to ] step into that  position without having to go through the rigamarole of college. /  
+
+b          A.87 utt1:  Yeah. /  
+
+sd          B.88 utt1:  {D You know, } I went to college  late on in life  /
+sd          B.88 utt2: {C and } I realize that hey, it's nothing but four years of endurance  /
+sd          B.88 utt3:  {C and } you might be teachable,  /
+^g          B.88 utt4: {D you } know what I mean? /  
+
+ny          A.89 utt1:  Yeah. /  
+
+sv*          B.90 utt1:  {E I mean, } my agree is absolutely worthless. /*[[listen; agree is probably degree]]  
+
+x          A.91 utt1:  <Laughter>.   
+
+sv          B.92 utt1:  It's my experience [ and, +  and ]  my knowledge [ that, +  that ] is beneficial,  /
+sd          B.92 utt2: {C but } then, {D you know, } like I said, I came in backwards. /  
+
+qw          A.93 utt1:  What did you get your degree at? /  
+
+sd          B.94 utt1:  Industrial Marketing. /  
+
+qw          A.95 utt1:  {C And } what's your job now? /  
+
+sd          B.96 utt1:  {D Well, } actually I'm selling computer  software.  /
+sd          B.96 utt2: {C But, } the two are mutually exclusive.  Because, <noise> [ the, + the ]  experience that got me the job that I got now, was my experience in the  construction field, prior to going to college --   
+
+b          A.97 utt1:  Huh-uh. /  
+
++          B.98 utt1:  -- not my degree, which is I think kind of bizarre. /  
+
+am          A.99 utt1:  Maybe.  /
+%          A.99 utt2:  All right,  /
+qo          A.99 utt3:  what else could we change?  /
+sd          A.99 utt4:   {F Oh, } I'd like to see flexible hours.  And teaching,   
+
+sd          B.100 utt1:  {D Well } {F uh, }   
+
++          A.101 utt1:  shared, job sharing,   
+
++          B.102 utt1:  [ [ We've, +    
+
++          A.103 utt1:  more of that. /  
+
++          B.104 utt1:  we've, ] +  we've ] already got that. /  
+
+sd          A.105 utt1:  {D Well, } {D see, } we've got a little  bit of it, but not much.  /
+sv          A.105 utt2: It would be nice if you had full insurance coverage if you  were doing job sharing.  /
+t1          A.105 utt3: What else.  /
+sd          A.105 utt4: I'd like to be able [ to, +  to ]  evaluate your boss  /
+sd          A.105 utt5: {C and } it really carry some weight,  /
+sd          A.105 utt6: {C and } you get to choose your boss. /  
+
+%          B.106 utt1:  {D Well, } - /
+b          B.106 utt2: yeah.  /
+sv          B.106 utt3:  Supervisor  evaluations have always been a tough one.  Especially in my line, because, {D you know, }  my supervisor has nothing to with my job, except to make sure I get my check. /  
+
+b          A.107 utt1:  Huh-uh. /  
+
+x          B.108 utt1:  <Laughter>.   
+
+qy          A.109 utt1:  {D Well, } {C so } you get to evaluate him though? /  
+
+ng          B.110 utt1:  {D Well, } not really.  /
+qh          B.110 utt2:  {D You know, }  {E I mean, } [ there's, +  what's ] to evaluate about him, {D you know, }  /
+sd          B.110 utt3: {E I mean, } [ my, +  my, ]  supervisor level is {D like } practically zero.  /
+sd          B.110 utt4: I run the whole show.  /
+sd          B.110 utt5: {C And } when I need something,  I tell my boss  /
+sd          B.110 utt6: {C and } he gets it for me, because he knows, that I know, what I'm doing. /  
+
+b          A.111 utt1:  Yeah. /  
+
+sv          B.112 utt1:  {D You know, } {C and } {F uh, }  [ that, +  that ] is something that I think needs to be expanded on, specially in the large market place.   {D You know, } the major corporation, because so often, {D you know, } you get  a guy who's got eight or nine or ten people working for him in separate areas --   
+
+b          A.113 utt1:  Yeah. /  
+
++          B.114 utt1:  -- so to speak.  /
+sd          B.114 utt2: {D You know, }  [ it's, +  it's ] hard for me to, {D you know, } especially since I'm in marketing sales, {D you know, }  /
+sd          B.114 utt3:  I make more than my boss.   Because he's salary and I'm not.  /
+sd          B.114 utt4: I make as much as I earn.  /
+sd          B.114 utt5:  {D You know, } if I don't make a sale, I don't make anything <laughter>. /  
+
+b          A.115 utt1:  Huh-uh. /  
+
+b          B.116 utt1:  Yeah.  /
+sv          B.116 utt2:  {D Well } it's tough,  /
+sd          B.116 utt3:  {C but, } {F uh, } {D you know, } there are requirements, and  quotas, what not, for me to make,  /
+sv          B.116 utt4:  {C but, } {F um, } the bottom line [ on, +  on ] that kind of thing is, {D you know, } we have a lot of  people, especially in major corporations, who aren't doing a damn thing.  /
+sv          B.116 utt5:  They're just there.  /
+sv          B.116 utt6:  {D You know, } the work they do could be totally eliminated,  /
+sv          B.116 utt7:  {C and } not that they aren't worth or not that they aren't trying or anything. But,  it's just that their jobs are useless.  /
+ad          B.116 utt8: Take, for instance, {F um, } a large  construction company I used to work for.  Ed Swampers.  /
+sd          B.116 utt9: Swampers is a guy, who's in the union.  /
+sd          B.116 utt10:  He's a laborer.  /
+sd          B.116 utt11: {C And } he's assigned to, -/ 

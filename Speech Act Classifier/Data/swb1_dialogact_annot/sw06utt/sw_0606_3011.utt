@@ -1,0 +1,376 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3011_1156_1174
+TOPIC#:		343
+DATE:		910604
+TRANSCRIBER:	LAB
+UTT_CODER:	TC
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Speaker A tended to fade off at the end of her sentences 
+every now and then making it hard to understand her.
+
+===========================================================================
+  
+
+o          B.1 utt1:  All right  /
+qy          B.1 utt2: {D so, } {F uh, } you live in Dallas? /  
+
+ny          A.2 utt1:  Yes,  /
+sd^e          A.2 utt2: I live in Dallas. /  
+
+qy^d          B.3 utt1:  {D Now } I understand that, {F um, } [ the, +  the ]  real estate market out there has really gone crazy, up and down, up and down. /  
+
+ny          A.4 utt1:  Yeah,  /
+sv^e          A.4 utt2: I think right now [ it's, +  it's ]  kind of bad <baby>.  {F Uh, }  /
+sd          A.4 utt3: I don't live in a house,  /
+sd          A.4 utt4: I live in an apartment <laughter>. /  
+
+%          B.5 utt1:  {F Oh. } /  
+
+qy          A.6 utt1:  [ Are, +  are ] you in a house? /  
+
+ny          B.7 utt1:  Yeah,  /
+ny          B.7 utt2: uh-huh. /  
+
+bk          A.8 utt1:  Okay. /  
+
+b          B.9 utt1:  Yeah,  /
+sd          B.9 utt2: we have a single family home  in northern Virginia just outside of Washington. /  
+
+b          A.10 utt1:  Uh-huh.  /
+sd          A.10 utt2:  {D Well, } I guess the  best I can do [ is, +  is, ] {F uh, } compare apartments <laughter>. /  
+
+x          B.11 utt1:  <Laughter>.   
+
+sd          A.12 utt1:   (( If it can ))  compare the one that I have now,   
+
+x          B.13 utt1:  <Sniffing>.   
+
++          A.14 utt1:  with the one that I had the last time,  the one that I have now, {F uh, } has a lot more amenities, {A I guess is the right word, }  than the one that I moved out of.  /
+sd          A.14 utt2: {F Uh, } this one, {D you know, }  gave us free cable and, {F uh, } ceiling fans  /
+sd          A.14 utt3:  {C and, } {F uh, } it was practically new when I moved in here  /
+sd          A.14 utt4:  {C and } the carpet was new  /
+%          A.14 utt5: {C and, } -/  
+
+%          B.15 utt1:  {F Huh. }  /
+qy          B.15 utt2:  Do you live in the high-rise? /  
+
+nn          A.16 utt1:  No,  /
+sd^e          A.16 utt2: it's not a high-rise.  /
+sd          A.16 utt3:   It's just [ a, +  a ] two story building. /  
+
+bk          B.17 utt1:  Uh-huh. /  
+
+sd          A.18 utt1:  {F Uh, } {C but } [ [ there's, +  {D you know, }  there, ] +  there are ] a lot of buildings  /
+sd          A.18 utt2: {C but } it's just two stories.  /
+sd          A.18 utt3:  {F Uh, } on the second floor  [ they have, +  they don't have ] a patio  /
+sd          A.18 utt4: {C but } they have a sunroom instead of the patio.  /
+sd          A.18 utt5:   On the first floor, {F um, } where I am, there's a patio. /  
+
+b          B.19 utt1:  {F Oh, } okay.  /
+qy^d          B.19 utt2: [ {C So, } + {C so } ] [ you just, +   you ] have one floor all to yourself? /  
+
+ny          A.20 utt1:  Yeah. /  
+
+bk          B.21 utt1:  {F Oh, } okay. /  
+
+sd          A.22 utt1:  The rooms are nice and large  /
+sd          A.22 utt2:  {C and, } let's see, [ I have, +  I have ] two bedrooms.  /
+%          A.22 utt3: {C And, } {F uh, }  ((   )) , -/  
+
+ba          B.23 utt1:  {F Oh, } that's nice.  /
+qy          B.23 utt2:   Do you get your own washer, dryer? /  
+
+no          A.24 utt1:  {D Well, } [ [ I, +  I, ] + I  ] have  a washer and dryer area  /
+sd          A.24 utt2: {C and } [ I, +  I ]  did buy the washer and  dryer,  /
+sd          A.24 utt3: {C but } they didn't provide it. /  
+
+bk          B.25 utt1:  Oh. /  
+
+sd          A.26 utt1:  The one that I moved from [ didn't, +   didn't ] have a place to put them,  /
+sd          A.26 utt2: {C and } that's one of the reasons that I did move. /  
+
+b          B.27 utt1:  Yeah.  /
+sv          B.27 utt2:  That is nice. /  
+
+b          A.28 utt1:  Yeah. /  
+
+x          B.29 utt1:  <Sniffing>.   
+
+sv          A.30 utt1:  Get tired of dragging clothes to the laundromat <laughter>. /  
+
+aa          B.31 utt1:  Yeah. /  
+
+ad          A.32 utt1:  {D So, } tell me ab-, -/  
+
+b^r          B.33 utt1:  Yeah,  /
+sd          B.33 utt2: I've always, {F uh, } been pretty lucky.  /
+sd          B.33 utt3:   The real estate out here's been pretty good.  /
+sd          B.33 utt4:  [ [ [ It, +  {F uh, } the, ] +  the   prices  of, ] +  {D well, } the prices ] came down last year.  /
+sd          B.33 utt5:  [ We've, +  we had ] sort of  like a Dallas syndrome <laughter>. /  
+
+b          A.34 utt1:  Yeah. /  
+
+sd          B.35 utt1:  The past, {F uh, } {F uh, } year  and a half prices have gone down which is totally new for northern Virginia. /  
+
+b          A.36 utt1:  Uh-huh.  /
+sv          A.36 utt2:   [ (( It just )) , +    
+
+sd          B.37 utt1:  It just never happened before. /  
+
++          A.38 utt1:   (( It's ] a real good )) , -/  
+
+sd          B.39 utt1:  {C So } it's really surprising everybody.   <sniffing>  /
+sd          B.39 utt2: All the developers don't know what to do <laughter>. /  
+
+b          A.40 utt1:  Yeah,  /
+sv          A.40 utt2: it's a good time to buy,   
+
+b          B.41 utt1:  Yeah, /  
+
++          A.42 utt1:  if you're in the market. /  
+
+%          B.43 utt1:  unfortunate-, - /
+sd          B.43 utt2: [ we're, + {F uh, } we actually have ]  our house on the market because  we have two kids -- /  
+
+b          A.44 utt1:  Uh-huh. /  
+
+sd          B.45 utt1:  -- {C and we } have a three bedroom house.  /
+sd          B.45 utt2:  {C And } it's pretty much filled up right now. /  
+
+qy^d          A.46 utt1:  {F Oh, } {C so } you want a bigger one. /  
+
+ny          B.47 utt1:  Yeah,  /
+ny          B.47 utt2: uh-huh.  /
+sd          B.47 utt3:  Get an extra bedroom or  a basement.  /
+sd          B.47 utt4: Right now it's just [ a, +  a ] single level rambler. /  
+
+b          A.48 utt1:  Uh-huh.  /
+sd          A.48 utt2:  One thing about the houses [ in, +   {F uh, } in ] Dallas, they don't, {F uh, } utilize basements the way they did in New York. /  
+
+x          B.49 utt1:  <Sniffing>.   
+
+sd          A.50 utt1:  My parents in New York had,  {F uh, } a, {F uh, } three family house. /  
+
+b          B.51 utt1:  Uh-huh. /  
+
+%          A.52 utt1:  Actual <noise>  ((   ))  a, -/  
+
+x          B.53 utt1:  <Laughter>.   
+
+sd          A.54 utt1:  two family house where [ [ the, +  the, ] +   {F um, } the ] downstairs and the second floor they had, - /
+sd          A.54 utt2: {C and then } they rented the third  floor with the whole apartment, {D you know. } /  
+
+b          B.55 utt1:  Oh. /  
+
+sd          A.56 utt1:  {C And, } {F uh, } they had a basement, /  
+
+x         B.57 utt1:  <Sniffing>.   
+
+sd          A.58 utt1:  {C and } [ they, +  {D you know, } they ]  finished the basement,  /
+sd          A.58 utt2: {C and } they were able to rent that out also.  /
+sd          A.58 utt3: {C But, } {F uh, } in Dallas  [ [ I, +  I just, ] +  I just ] haven't seen basements in houses. /  
+
+b          B.59 utt1:  Yeah,  /
+b^r          B.59 utt2: yeah. /  
+
+sd         A.60 utt1:  {C And } I've looked at a lot of them,  <<very faint>>  (( {D you know } )) . /  
+
+b          B.61 utt1:  Yeah,  /
+sd          B.61 utt2: a friend of mine was thinking  about coming down there,  /
+sd          B.61 utt3: {C and } that's what he said was that, {D you know, } it  just wasn't something that people had down there. /  
+
+aa          A.62 utt1:  No,  /
+%          A.62 utt2: it's a-, -/  
+
+sd          B.63 utt1:  They put pools and garages on,    
+
+b          A.64 utt1:  Right. /  
+
++          B.65 utt1:  but, {F uh, } no basements <laughter>. /  
+
+sd          A.66 utt1:  [ [ I haven't, +  I haven't, ] + I have ]  yet to see a basement in a house. /  
+
+%          B.67 utt1:  {F Huh. } /  
+
+%          A.68 utt1:  {C And, } {F uh, } -/  
+
+sv          B.69 utt1:  Maybe it's all the sand.  /
+qy          B.69 utt2:  Is there a lot of sand in, - /
+sd          B.69 utt3: I always think it's like a desert,  /
+h          B.69 utt4: I don't know.  /
+%          B.69 utt5:   <laughter> <sniffing>  ((   ))  Dallas always, -/  
+
+ar          A.70 utt1:  {D Well, } no.  /
+ar^r          A.70 utt2:  <laughter> No,  /
+ar^r          A.70 utt3: no,  /
+ar^r          A.70 utt4: no,  /
+sd          A.70 utt5:  {D you know, } I don't see that kind of sand here.  {F Um, }  /
+sd          A.70 utt6: there are some areas though  [ where, +  where ] they have a problem with, {F uh, } the houses kind of sinking a little bit --   
+
+b          B.71 utt1:  Uh-huh. /  
+
++          A.72 utt1:  -- [ into the, + to the, ] {F uh, } <lipsmack> - /
+sd          A.72 utt2:  {E or } the foundation is sinking or  something.  {D You know, }  [ just a little, + just  a little ] bit,  some more than others.  /
+sd          A.72 utt3: {C But } [ you, + you ] have to know the right spot,   
+
+x          B.73 utt1:  <Sniffing>.   
+
++          A.74 utt1:  [ to, + to ] pick where that doesn't happen. /  
+
+b          B.75 utt1:  Yeah. /  
+
+%          A.76 utt1:  {C And, } <<very faint>>  (( {F uh } )) , -/  
+
+sd          B.77 utt1:  {D Well, } out here [ we, + {F um, } we ]  live in what used to be, {F uh, } {D like } a prairie or  whatever a [ natural, +  {D you know, } natural ] grasslands. /  
+
+b          A.78 utt1:  Uh-huh. /  
+
+%          B.79 utt1:  {C And, } {F uh, } they, - /
+sd          B.79 utt2:  it's just, you go down four inches  /
+sd          B.79 utt3:  {C and } [ you get to sands-, +  {D well, } fourteen inches you get to sandstone. ] /  
+
+b          A.80 utt1:  Yeah. /  
+
+sd          B.81 utt1:  {C And so } any place where they put  a basement in they had to blast <laughter>. /  
+
+b          A.82 utt1:  I see. /  
+
+sd          B.83 utt1:  It's just solid sandstone. /  
+
+%         A.84 utt1:  {F Huh. }  /
+qy          A.84 utt2:  Where did you say you're at, Colorado? /  
+
+nn          B.85 utt1:  No,  /
+sd^e          B.85 utt2: Virginia. /  
+
+b^m          A.86 utt1:  Virginia,  /
+b^r          A.86 utt2: Virginia.  /
+sd          A.86 utt3:  (( That's right )) . /  
+
+b          B.87 utt1:  Yeah,  /
+sv          B.87 utt2: it's sort of unusual really.  /
+sd          B.87 utt3:   Most of Virginia is clay. /  
+
+qy^d          A.88 utt1:  Anywhere near, {F uh, } Virginia Beach? /  
+
+ny          B.89 utt1:  {F Oh, } yeah,  /
+ny          B.89 utt2: uh-huh. <sniffing>  /
+ny          B.89 utt3: Yeah.  /
+sd          B.89 utt4:   [ My, + {F uh, } my ] folks used to live there.  /
+sd          B.89 utt5: Back before I was born,   
+
+b          A.90 utt1:  <<Very faint>>  Oh. /  
+
++          B.91 utt1:  they lived there. /  
+
+b          A.92 utt1:  Uh-huh.  /
+sd          A.92 utt2:  {D Well, } different areas  in Dallas have different kind, - /
+sd          A.92 utt3: [ in, +  {F uh, } in ] Texas I'll say  /
+sd          A.92 utt4: {C because } down in east Texas there's a lot of red clay. /  
+
+b          B.93 utt1:  Uh-huh. /  
+
+sd          A.94 utt1:  {C And, } {F uh, } [ in the, +  in the ]  Dallas, {D you know, } Fort Worth city areas you don't see that. /  
+
+b          B.95 utt1:  Yeah,  /
+sd          B.95 utt2: {D well, } {F uh, } Texas is  a big state  /
+sv          B.95 utt3: {C so } I imagine [ the, + the ] type of houses and, {F uh, } things like that are truly  different from area to area <laughter>. /  
+
+b          A.96 utt1:  Yeah,  /
+%          A.96 utt2: {D well, } -/  
+
+sd          B.97 utt1:  {C But, } {F uh, } <sniffing> that's  the same way out here  /
+sd          B.97 utt2: {C because, }  {F um, } {D well, } [ we, +  for example, [ and + ] we ] live fifteen miles  from the beltway that surrounds Washington -- /  
+
+b          A.98 utt1:  Uh-huh. /  
+
+sd          B.99 utt1:  -- {C and } anything instead [ that beltway, +    the highway, ] the real estate's forty thousand dollars more expensive. /  
+
+b          A.100 utt1:  Yeah. /  
+
+sd          B.101 utt1:  {C So, } {D you know, } [ you really  can't afford, + [ [ I, +  I, ] + I ] could never afford ] a house inside the beltway.  /
+sd          B.101 utt2:  That's why we came out here.  /
+sd          B.101 utt3:  This is called [ [ the, +  the, ] +  the ] country, {D you know, } with only,  {D you know, } maybe twenty miles total from D C, twenty-five --   
+
+%          A.102 utt1:  {F Huh. } /  
+
++          B.103 utt1:  -- from the city.  /
+sd          B.103 utt2:  {C But, } {F um, }  it's considered the country since it's, {F uh, } {D you know, } that far out. /  
+
+%          A.104 utt1:  {D Well }  ((   )) , -/  
+
+b          B.105 utt1:  {C But, } {F um, } yeah,  /
+sd          B.105 utt2:  we live out by Dulles Airport. /  
+
+b          A.106 utt1:  I see. /  
+
+b          B.107 utt1:  Yeah,  /
+sd          B.107 utt2: {C and, } {F uh, } <sniffing>  that's one of the few places still in northern Virginia  /
+sd          B.107 utt3: they have trailer parks that are  down around the corner from here  /
+sd          B.107 utt4: {C and, } {D you know, } [ it's, +  it's ] still pretty rural. /  
+
+b          A.108 utt1:  <<Very faint>> Uh-huh. /  
+
+sv          B.109 utt1:  {F Uh, } not too much of northern  Virginia is like that anymore.  /
+sd          B.109 utt2:  Land has gotten so expensive  /
+sv          B.109 utt3: they just can't afford  to have low income housing like  that. /  
+
+qy          A.110 utt1:  {D So, } is your house in an area by itself?  /
+%          A.110 utt2:  {E I mean, } -/  
+
+nn          B.111 utt1:  No,  /
+sd^e          B.111 utt2: we're in a development. /  
+
+qy^d          A.112 utt1:  it's not connected to another one? /  
+
+%          B.113 utt1:  There's, {F uh, } - /
+ny          B.113 utt2: {D yeah, }  /
+sd^e          B.113 utt3: there's  another one [ half an acre away, +   
+
+%          A.114 utt1:  {F Oh. } /  
+
++          B.115 utt1:  {E or } a quarter acre away ] rather. /  
+
+qy^g          A.116 utt1:  {C But } [ it's not, +  they're not ]  connected are they? /  
+
+nn          B.117 utt1:  {F Oh, } no.  /
+nn          B.117 utt2: Huh-uh.  /
+sd          B.117 utt3:  You have to,  {F uh, }  (( stay in one ))  single family home.  /
+sd          B.117 utt4:  I sort of got spoiled with that when I was growing up. /  
+
+b          A.118 utt1:  Yeah. /  
+
+sd          B.119 utt1:  {F Uh, } my folks, {F um, } had an  apartment for a while when we were kids  /
+sd          B.119 utt2: {C but, } {F um, } for the most part [ i-, +  [ they, +  they ] ]  always had, {D you know, } - /
+sd          B.119 utt3: {C and } Pennsylvania always had a single family home  /
+sd          B.119 utt4: {C and so, }    
+
+b          A.120 utt1:  Uh-huh. /  
+
++          B.121 utt1:  {D you know, } as soon as we could [ we, +   we ] got a single family home,  /
+sd          B.121 utt2: {C and } that's all I ever knew growing up, /  
+
+b^r          A.122 utt1:  Uh-huh. /  
+
+sd          B.123 utt1:  {C so. }  I stayed in a townhouse  for, {F uh, } two years and then, {F uh, } saved up enough money [ to, + to ] get a, -/ 

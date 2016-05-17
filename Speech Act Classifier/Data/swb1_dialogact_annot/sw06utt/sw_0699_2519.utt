@@ -1,0 +1,415 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2519_1096_1112
+TOPIC#:		356
+DATE:		910409
+TRANSCRIBER:	sk
+UTT_CODER:	AEE
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	4
+REMARKS:	Echo on Speaker B's side during conversation.
+
+============================================================================
+  
+
+qy          A.1 utt1:  {D Well, } how about you,   are you an exercise fanatic? /  
+
+nn          B.2 utt1:  No. /  
+
+sd          A.3 utt1:  Me either <laughter>. /  
+
+sd          B.4 utt1:  I'm definitely <laughter>, - /
+sd          B.4 utt2:  I do like to walk. /  
+
+qy          A.5 utt1:  Do you? /  
+
+ny          B.6 utt1:  Yes.  /
+sd          B.6 utt2: Since T I has, {F uh, } {F uh, }  instituted that, {F um, } walkabout,   
+
+b          A.7 utt1:  Yeah. /  
+
++          B.8 utt1:  I have gone out and started walking even  more, bought me [ the, +  {D you know, } the ] proper shoes and everything to get started,   
+
+ba          A.9 utt1:  Wonderful.   
+
++          B.10 utt1:  and, {F uh, } park [ out there, + {D you know, } way out there ] in the boondocks. /  
+
++          A.11 utt1:  Uh-huh. /  
+
+sv          B.12 utt1:  It was so funny the other day,  /
+sd          B.12 utt2:  I took some guys to, to lunch  /
+sd(^q)          B.12 utt3: {C and } when we came back they said "Oh, there's a parking  space real close," and I parked way out in the boonies, /  
+
+o*          A.13 utt1:  Way. /  *[[what is this?]]
+
+sd(^q)          B.14 utt1:  {C and } I said "you can walk off your lunch." /  
+
+sv          A.15 utt1:  <Laughter>  That's the way to do it. /  
+
+aa          B.16 utt1:  <Laughter> Yeah. /  
+
+sv          A.17 utt1:  I'm kind of like you,  /
+sd          A.17 utt2: I've never really  gotten into it,  /
+sd          A.17 utt3: [ it's just a, +  it's just a ] chore, {D you know, } /  
+
+b          B.18 utt1:  {F Um, } {F um. }   
+
+sd          A.19 utt1:  {C and } I finally decided one semester,  I'm in college and I'm taking night classes and I still don't have any of my P E classes, /  
+
++          B.20 utt1:  Oh. /  
+
+sd(^q)          A.21 utt1:  {C and so } one semester I thought,  okay, that's what I'm going to do  /
+sv          A.21 utt2: {C and } that will get me where I'll have to do it, {D you know, } /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sd          A.23 utt1:  {C and } they were offering [ a, + a ] walking class,   
+
+b          B.24 utt1:  {F Um, } {F um. }   
+
++          A.25 utt1:  where [ you, +  {D you know, } you ]  have to walk, {D you know, } [ that + ] like for every mile you walk and every so many  minutes, [ you get, +  you get ] points,  {D you know, }  /
+sd          A.25 utt2: {D and  then } you have to go in once a week  and log your points  /
+sd          A.25 utt3: {C so }  it's not {D like } you can do the class {D like } anytime  you want, {D you know, } /  
+
++          B.26 utt1:  {F Um, } {F um. } /  
+
+sd          A.27 utt1:  {C and, } at the end of the semester  you go back in and [ your, +  {D like } your ] final exam is a three mile walk. /  
+
+b          B.28 utt1:  Oh. /  
+
+sd          A.29 utt1:  {C And } if you walk it in this many  minutes, you get an A,  /
+sd          A.29 utt2: this many minutes you get a B, /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sv          A.31 utt1:  {C and, } I thought, {F oh, } this  will be an easy class. /  
+
+x          B.32 utt1:  <Laughter>.   
+
+sd          A.33 utt1:  [ [ {C and, } + {D you know, } {C and }   I did it, ] +  {C and } I did it ]  for a long time  /
+sd          A.33 utt2: {D like } about the middle of the semester I ended up having  to have surgery on my foot, /  
+
+b          B.34 utt1:  {F Oh, } no. /  
+
+sd          A.35 utt1:  {C and } this has been a couple of years ago, /  
+
+b          B.36 utt1:  Uh-huh. /  
+
+sd          A.37 utt1:  {C and, } {D you know, } [ I had, +   I did ] that,  /
+sd          A.37 utt2: {C and } I just ended up having to drop the class. /  
+
+b          B.38 utt1:  Oh. /  
+
+sd          A.39 utt1:  {D you know, } by the time the final  came around, I wasn't even where I could wear a shoe yet,   
+
+b          B.40 utt1:  {F Oh, } no. /  
+
++          A.41 utt1:  let alone walk three miles, {D you know. } /  
+
+b          B.42 utt1:  Yeah. /  
+
+sd          A.43 utt1:  {C But, } that was the only time I  have ever been able to {D like } start an exercise program and really stick to it,    
+
+b          B.44 utt1:  {F Um, } {F um. }   
+
++          A.45 utt1:  because then [ I had to, +  I had to ]  go every week and log in what I had walked, /  
+
++          B.46 utt1:  Right. /  
+
+sd          A.47 utt1:  {C and, } my teacher looked at it every week, {D you know. } /  
+
+b          B.48 utt1:  Uh-huh. /  
+
+sv          A.49 utt1: {C But, } other than that [ I just, +   {D you know, } I ] kind of get in the mood every once in awhile, say,   
+
+b          B.50 utt1:  Uh-huh. /  
+
++          A.51 utt1:  okay, I'm going to start going to  aerobics now, {D you know, } /  
+
+o          B.52 utt1:  There you go. /  
+
+sv(^q)          A.53 utt1:  {C and, } I'll go for {D like } two weeks  and go, this is for the birds,   
+
+x          B.54 utt1:  <Laughter>.   
+
++          A.55 utt1:  this is too much work. /  
+
+sd          B.56 utt1:  {D Well, } {D you know, } I have noticed  too that, {F uh, } when I started [ the exercise, +  {F uh, } not the exercise but the walking program, ]  {F uh, } that I did tone up, {D you know, } like all over, /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+sd          B.58 utt1:  {C but } it didn't get the upper part of my body, /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:  [ {C and, } + {F uh, } {C so, } ]  what I do, is I bowl.  /
+sd          B.60 utt2:  I am a fanatic when it comes to bowling,  /
+sd          B.60 utt3: {C and } I used to bowl five times a week, /  
+
+ba          A.61 utt1:  Wow. /  
+
+sv          B.62 utt1:  {C so, } I really loved it, /  
+
+b          A.63 utt1:  Yeah. /  
+
+sd          B.64 utt1:  {C and } I still bowl at least once a  week now, on a league, [ on, +  on ] a, - /
+sd          B.64 utt2: {C and } I'm bowling on the T I league. /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+sd          B.66 utt1:  {F Um, } {C but } I've noticed that  what I do is that I have my towel that sits on the floor,  so that every time I get up to  bowl, I have to bend over to pick up my towel  /
+sd          B.66 utt2: {C and } that way I get the little extra exercise. /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sd          B.68 utt1:  I'm always explaining to people,  I do little things like that, like, {D you know, } take the stairs instead of  [ the, + {F um, } the ] elevator, /  
+
+b          A.69 utt1:  Yeah. /  
+
+sv          B.70 utt1:  {C and, } I do silly things like  that versus [ a, +  a ] regular program that you would have. /  
+
+%          A.71 utt1:  {C But } that's, - /
+sv          A.71 utt2:  you're amazed at how much that adds up. /  
+
+aa          B.72 utt1:  It sure does. /  
+
+sd          A.73 utt1:  I was on, {F uh, } Nutri Systems for a while, /  
+
+b          B.74 utt1:  Uh-huh. /  
+
+sd          A.75 utt1:  {C and, } that is one of the things  that they really stressed doing, {D you know, }  /
+sd          A.75 utt2: when you come to your Nutri System  meeting, don't park in the parking place outside the front door,   
+
+b          B.76 utt1:  Yeah  /
+x          B.76 utt2: <laughter>.   
+
++          A.77 utt1:  park at the other end, {D you know, } /  
+
+b          B.78 utt1:  Right. /  
+
+sd          A.79 utt1:  {E I mean, } {C and } they  [ stretched, +  stressed ] things like that too.  /
+sv          A.79 utt2:  {D You know, } [ during, +  when ] you're sitting watching T V at night,   
+
+b          B.80 utt1:  Uh-huh. /  
+
++          A.81 utt1:  during every commercial get up off the couch,   
+
+sv          B.82 utt1:  There you go. /  
+
++          A.83 utt1:  go to the living room and get a glass  of water, go to the bedroom and make the bed, go do something,   
+
+o@          B.84 utt1:  {F Um, } {F um. }  {F Um, } {F um. }   
+
++          A.85 utt1:  but get up during every commercial.  And, things like that.  /
+sv          A.85 utt2:  {C And, } you'd be surprised at how much just that little bit adds up,   
+
++@          B.86 utt1:  That's true. /  
+
++          A.87 utt1:  {D you know, } just gives you  a little more activity  /
+%          A.87 utt2: {C so, } -/  
+
+aa          B.88 utt1:  That's true. /  
+
+sv          A.89 utt1:  especially when you're like us and  don't really want to do it anyway. /  
+
+aa          B.90 utt1:  No,  /
+sd          B.90 utt2: I used to,  /
+sd          B.90 utt3: I really did, {F uh, }  years ago  /
+sd          B.90 utt4: {C and, } {F uh, } I was thinking about that not too long ago that I used to walk  /
+sd          B.90 utt5: and not only did I walk  /
+sd          B.90 utt6: {C but, } I used to watch all those exercise programs  on T V,  /
+sd          B.90 utt7: {C and } I would tape them, /  
+
+b          A.91 utt1:  Yeah. /  
+
+sd          B.92 utt1:  {C and } then I would do them  {D like } two times a day,  /
+sd          B.92 utt2: {C but } I don't do any of that kind of stuff anymore.  /
+sv          B.92 utt3:   I think having children everything just kind of, everything goes by the wayside. /  
+
+sv          A.93 utt1:  {D Well, } I can't use that as an  excuse because I didn't do it before  /
+sv          A.93 utt2: I had mine either. /  
+
+x          B.94 utt1:  <Laughter>.   
+
+sv          A.95 utt1:  I've never been, - /
+sv          A.95 utt2: [ I just, +   I'm ] more into, {D you know, } sitting, than I am <laughter>, -/  
+
+aa          B.96 utt1:  Yeah,  /
+aa^r          B.96 utt2: yeah.  /
+aa          B.96 utt3:  Me too. /  
+
+sv          A.97 utt1:  [ {C so, } + {C but, } ] {D you know, }  I have found that with, - /
+sd          A.97 utt2: I have a two year old, /  
+
+b          B.98 utt1:  Uh-huh. /  
+
+sv(^q)          A.99 utt1:  {C and } I have found really though,  I'm kind of the opposite, I'm more active now with him, than I was before,   
+
+b          B.100 utt1:  Yeah. /  
+
++          A.101 utt1:  because now, {D you know, } he'll  "I want to go outside" and I'll go outside with him  /
+sd          A.101 utt2: {C and } we'll walk up and  down the street,  /
+sd          A.101 utt3: {C and } we'll go to the park  /
+sd          A.101 utt4: {C and } I'll run around with him and stuff like that,  /
+%          A.101 utt5:  that, - /
+sd          A.101 utt6: {C so } I'm getting [ more, + {D you know, } more ] exercise that way than  I ever did before I had him, {D you know. } /  
+
+b          B.102 utt1:  {F Um, } {F um. }  {F Um, } {F um. } /  
+
+sv          A.103 utt1:  {C so, } [ I think, +  I think ]  that has helped a little bit,  /
+h          A.103 utt2: I don't know. /  
+
+b          B.104 utt1:  Yeah,  /
+b^r          B.104 utt2: yeah,  /
+o@          B.104 utt3: [ running, +    
+
+sv          A.105 utt1:  Just chasing ] him around the house, {D you know, }   
+
++@          B.106 utt1:  Oh yeah,  /
+^2          B.106 utt2: [ tha-, +  that's ] enough. /  
+
++          A.107 utt1:  will be plenty for you. /  
+
+sd          B.108 utt1:  {D Well, } mine are older now,  doing, {F uh, } their own things  /
+%          B.108 utt2: {C so, } /  
+
+b          A.109 utt1:  Right,  /
+b^r          A.109 utt2: right.  /
+sv          A.109 utt3:  You've kind of  gotten out of that little stage there. /  
+
+b          B.110 utt1:  {F Oh, } yes.  /
+b          B.110 utt2:  Yes,  /
+sd          B.110 utt3: I have a thirteen  year old and an eleven year old,  /
+%          B.110 utt4: {C so. } -/  
+
+ba          A.111 utt1:  {F Oh, } lucky you, /  
+
+b          B.112 utt1:  Yes. /  
+
+sv          A.113 utt1:  you're getting into even more interesting stages. /  
+
+b          B.114 utt1:  Yeah,  /
+b^r          B.114 utt2: yeah.  /
+sv          B.114 utt3:  We're actually going  through the same stages the two year old and the teenager <laughter>. /  
+
+b          A.115 utt1:  Uh-huh,  /
+b          A.115 utt2: yeah,  /
+b^r          A.115 utt3: yeah  /
+x          A.115 utt4: <laughter>.   
+
+b          B.116 utt1:  Yeah,  /
+sv          B.116 utt2: you watch it'll be exactly the same <laughter>. /  
+
+sv          A.117 utt1:  Same thing, {F huh, }  [ it repeats, + the terrible twos repeat ] at about thirteen <laughter>. /  
+
+aa          B.118 utt1:  <Laughter>  It does,  /
+aa          B.118 utt2: [ it, +  it ]  absolutely does,  /
+%          B.118 utt3: {C so. } -/  
+
+sv          A.119 utt1:  How interesting, I can hardly wait <laughter>. /  
+
+b          B.120 utt1:  Yeah,  /
+sv          B.120 utt2: [ [ [ I, +  I, ] +  I ] know, +   I just know ] you can't.  /
+sv          B.120 utt3: {C But, } no,  /
+sv          B.120 utt4: I don't get as much exercise as I used to  /
+sd          B.120 utt5: {C but, } [ I + at least,  since T I has implemented that program, I ] do,  /
+sv          B.120 utt6: I'm more aware of it, /  
+
+b          A.121 utt1:  Yeah. /  
+
+sd          B.122 utt1:  {C and, } {D you know, } that I'm need to do this, that and the other  /
+sd          B.122 utt2:  [ {C and, } +  {F uh, } {C so, } ] I try to do combinations of things but not, like  go down to the President's Health Club, like I see all these people do. /  
+
+b          A.123 utt1:  Right.  /
+sv          A.123 utt2:  [ That, +  that ]  walkabout's a good program. /  
+
+aa          B.124 utt1:  It is,  /
+aa^r          B.124 utt2: it is. /  
+
+aa          A.125 utt1:  It really is, {D you know, }  /
+sd          A.125 utt2:  when they first started it, [ I, +  I ] got all the information, of course,  /
+sd          A.125 utt3: {C but } just like  everything else, I was real gung ho with a friend of mine,  /
+^q          A.125 utt4: "Oh, we're going to do this,  we're going to do this,"  /
+sd          A.125 utt5: {C and } we did do it for a long time, /  
+
+b          B.126 utt1:  Yeah. /  
+
+sd          A.127 utt1:  {C and then } I started school, {D you know, } /  
+
+b          B.128 utt1:  {F Um, } {F um. } /  
+
+sd          A.129 utt1:  {C and } {D like } two nights a  week I was going to school  /
+sd          A.129 utt2: {C and then } the other two nights a week my husband worked,  /
+sd          A.129 utt3: {C so }  I had to pick Ryan up, {D you know, } /  
+
+b          B.130 utt1:  {F Oh, } yeah. /  
+
+sv          A.131 utt1:  there's always an excuse, {D you know, }   
+
+b          B.132 utt1:  {F Oh, } yeah. /  
+
++          A.133 utt1:  to not do it  /
+%          A.133 utt2: {C so, } -/  
+
+sv          B.134 utt1:  {C And, } it gets worse,  /
+sv          B.134 utt2:  it doesn't get any better. /  
+
+aa          A.135 utt1:  Yeah,  /
+aa          A.135 utt2: {F oh, } I'm sure,  /
+aa^r          A.135 utt3: I'm sure. /  
+
+b          B.136 utt1:  Yeah,  /
+sd          B.136 utt2: because I'm constantly running  my children around someplace  /
+sd          B.136 utt3: {C and } that's where I actually get my exercise,   
+
+b          A.137 utt1:  Yeah. /  
+
++          B.138 utt1:  is running them from here to there,   
+
+^2          A.139 utt1:  here to here,  /
+%          A.139 utt2: here, -/  
+
++          B.140 utt1:  in the car. /  
+
+b          A.141 utt1:  <Laughter> Yeah,  /
+b          A.141 utt2: yeah,  /
+^2          A.141 utt3: to the mall,  to the movies, to the friends, to the, -/  
+
+aa          B.142 utt1:  There you go,  /
+aa         B.142 utt2: that's it,  /
+aa^r          B.142 utt3: that's it. /  
+
+sv          A.143 utt1:  Sounds like fun. /  
+
+fc          B.144 utt1:  {D Well, } it was nice talking to you. /  
+
+fc          A.145 utt1:  {D Well, } it was really good to talk to you. /  
+
+fc          B.146 utt1:  Yeah,  /
+fc          B.146 utt2: {D well } okay,  /
+fc          B.146 utt3: we'll talk to you later. /  
+
+fc          A.147 utt1:  Take care,  /
+fc          A.147 utt2: talk to you later. /  
+
+fc          B.148 utt1:  {F Um, } {F um. }  /
+fc          B.148 utt2:  Bye-bye. / 

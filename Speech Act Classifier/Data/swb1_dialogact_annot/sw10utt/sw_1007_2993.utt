@@ -1,0 +1,322 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2993_1105_1258
+TOPIC#:		320
+DATE:		910601
+TRANSCRIBER:	GL
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+============================================================================
+  
+
+qy          A.1 utt1:  Are you in the market for a car recently? /  
+
+ny          B.2 utt1:  Yeah,  /
+sd^e          B.2 utt2: I just bought a car. /  
+
+qw          A.3 utt1:  {F Oh, } what did you get? /  
+
+sd          B.4 utt1:  I got a nineteen ninety-three Cavalier station wagon. /  
+
+b          A.5 utt1:  Uh-huh,  /
+qw          A.5 utt2: [ what, + what  ] convinced you to get that one? /  
+
+sd          B.6 utt1:  {D Well, } a friend of my father's, [ and + ] he'd driven it all over the country --   
+
+b          A.7 utt1:  Uh-huh. /  
+
++          B.8 utt1:  -- and it runs great. /  
+
+ba          A.9 utt1:  {F Oh, } incredible,  /
+qw         A.9 utt2: how many miles on it? /  
+
+sd          B.10 utt1:  [ It's + {D like, } it  ] has a hundred and fifty-three thousand. /  
+
+sd          A.11 utt1:  {C And } it's still running real well. /  
+
+b          B.12 utt1:  Yeah. /  
+
+ba          A.13 utt1:  {F Oh, } great,  /
+%          A.13 utt2: yeah.  /
+ sd         A.13 utt3:  [ We have, + {F uh, } right now we have  ] two cars, {F uh, }  /
+ sd         A.13 utt4: I have,  my husband and myself and we have two sons who are drivers --   
+
+b          B.14 utt1:  Uh-huh. /  
+
++          A.15 utt1:  -- [ and + ] one of which is [ a, + {F um, } an  ] eighty-eight Plymouth Voyager Van,  /
+sd          A.15 utt2:  {C and  then } we have, {F um, } - /
+sd          A.15 utt3: about a year ago, we picked up a second hand, {F uh, } {F uh, } Audi -- /  
+
+b          B.16 utt1:  Uh-huh. /  
+
+sd          A.17 utt1:  -- {C and, } {F uh, } that was [ a ca-, + {D you know, } a sedan,  ]  /
+sd          A.17 utt2: {C and, } {F uh, } we got that.  ((   ))  /
+%          A.17 utt3: The major things, - /
+sd          A.17 utt4: the reason why we got that is we had had a Nova,  /
+%          A.17 utt5: {C and } a, - /
+%          A.17 utt6:  well, - /
+sd          A.17 utt7: my son was driving,  /
+sd          A.17 utt8: {C and } someone came into his lane and hit him,  /
+sd          A.17 utt9: {C and } fortunately he was able to, - /
+%          A.17 utt10: his, - /
+sd          A.17 utt11: {E I mean } he [ was checked out of the hospital, + was  ] out of the hospital by that night, but the car was completely totalled -- /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+sd          A.19 utt1:  -- {C and } [ Mike, and, they had been, + my two sons had been  ] a passenger in a car about a year and a half before that, which was hit by another car. /  
+
+ b         B.20 utt1:  {F Um. } /  
+
+ sd         A.21 utt1:  {C So }  {E I mean, } [ I got, + I was getting  ] really nervous,  /
+ sd         A.21 utt2: {C so } I finally said, [ we, + ] I want a really solid car.  /
+ sd         A.21 utt3:  {C So } we found the Audi second hand.  /
+sd          A.21 utt4:  I guess right now my criteria for cars is, {F uh, } [ of + ] being solid, able to take an impact <laughter> -- /  
+
+ b         B.22 utt1:  Right. /  
+
+ sd         A.23 utt1:  -- {C and, } {F uh, } {C so, } {F uh, } [ I, + we're  ] not going to be  in the market [ for, +   in  the near future for ] any new car. /  
+
+b         B.24 utt1:  Uh-huh  /
+x          B.24 utt2: <clanging> <<pans>>.   
+
+sd          A.25 utt1:  {C But } the things that I would want <noise> <<dropping pan>> would be a solid car.  /
+sd          A.25 utt2:  Another thing I'd definitely <noise> <<dropping pan>> want would be anti-lock brakes. /  
+
+b          B.26 utt1:  Right. /  
+
+sd          A.27 utt1:  {F Uh, } [ our, + our  ] <noise> van, which is [ a, + a  ] delight to drive, does not have, - /
+sv          A.27 utt2: I think the brakes on the Plymouth van [ is just, + are  ] terrible. </noise> /
+
+b          B.28 utt1:  {F Um. } /  
+
+sd          A.29 utt1:  If the road is at all wet, and I'm, - /
+sd          A.29 utt2: {C and } I don't go all that fast, but [ the, + ] {F uh, } [ it, + it  ] just doesn't hold.  /
+sd          A.29 utt3: It doesn't hold well at all.  /
+sd          A.29 utt4: {C So, } [ I, + I  ] definitely want to get anti lock brakes.  /
+sd          A.29 utt5: {C So, } I don't know,  /
+ qy         A.29 utt6: do you have any particular things [ that, + that  ] are priorities on your list. /  
+
+%          B.30 utt1:  {D Well, } it's, - /
+sd          B.30 utt2: I didn't really need power windows, but it has power, {D you know, } windows --   
+
+b          A.31 utt1:  Yeah. /  
+
++          B.32 utt1:  -- and steering and air conditioning,  /
+%          B.32 utt2: [ {C and, } + {C and }  ] {F uh. } -/  
+
+qy^g          A.33 utt1:  I guess down here air conditioning's a must, isn't it. /  
+
+ny          B.34 utt1:  Uh-huh,  /
+ny         B.34 utt2: {F oh, } yeah.  /
+sd^e          B.34 utt3:  It has a stereo and a cassette player -- /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sd          B.36 utt1:  -- {C and, } {F um, } he's told me it gets forty-two miles to the gallon. /  
+
+ba          A.37 utt1:  That's incredible. /  
+
+b          B.38 utt1:  Uh-huh. /  
+
+ba^r          A.39 utt1:  That is incredible. /  
+
+%          B.40 utt1:  {D So. } -/  
+
+ sd         A.41 utt1:  {F Uh, } [ [ we, + we  ] get about, + [ our, + the  ] van [ gets,  + on highways, can get   about ] twenty-eight.  /
+ sd         A.41 utt2: The Audi does not have good mileage.  /
+sd          A.41 utt3: That's the one drawback.  /
+sd          A.41 utt4: It's a powerful car.   
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  {F Um, } but it does not, {F uh, } - /
+sd          A.43 utt2: {E I mean, } [ I, + if I'm  ] on a highway and I can get twenty, twenty-one miles per gallon, I consider that [ luck-, + I'm lucky.  ]  /
+sd          A.43 utt3:   [ Maybe, + maybe  ] sometimes I've gotten twenty-two.  /
+sd          A.43 utt4:  It comes out around the eighteen or  nineteen local driving -- /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sv          A.45 utt1:  -- {C and }  that's  [ a, +  to me is  ] a real drawback.  /
+sd          A.45 utt2: I wish  [ I would, + {D you know, } I could  ] settle for twenty-eight,  /
+sd          A.45 utt3: {C but, } {F uh, } [ the, + {F uh, } the ] frills on that car are nice, but they're not necessary, for me --    
+
+  b        B.46 utt1:  Uh-huh. /  
+
+  +        A.47 utt1:  -- except air conditioning.  /
+  sd        A.47 utt2: [ In this area, + {F uh, } in Washington D C area,  ] it gets hot and humid. /  
+
+ b        B.48 utt1:  Uh-huh,  /
+ sd         B.48 utt2: it's really humid. /  
+
+aa          A.49 utt1:  Yeah,  /
+ sd         A.49 utt2: {F uh, } {C so } air conditioning is [ def-, + {F uh, } definitely  ] a necessity for us through two or three months in the summer.  /
+ sd         A.49 utt3:  {F Um, } {C but } [ [ I, + {F uh, } I,  ] + I  ] don't need, {F uh, } {D you know, } - /
+sd          A.49 utt4: power windows are nice, but I don't need them <laughter>.    
+
+b          B.50 utt1:  Right. /  
+
++          A.51 utt1:  Although I must say when you're driving in the east and there are all these toll roads, come into a toll road, you just push that button down,  /
+sd          A.51 utt2: it's real nice for that window to zip down and zip up, instead of having to crank it. /  
+
+ %         B.52 utt1:  Crank, - /
+ b         B.52 utt2: yeah. /  
+
+ b         A.53 utt1:  Yeah,  /
+ sd         A.53 utt2: [ {C but, } + {C or, }  ] {D you know, } if you want to have open windows, to be able to op-, - /
+ sd        A.53 utt3: if you're alone in the car --   
+
+b          B.54 utt1:  Right. /  
+
++          A.55 utt1:  -- just to press buttons, and. -/  
+
+ ^2         B.56 utt1:  You don't have to stretch. /  
+
+  sd        A.57 utt1:  {C But } {D you know, } I've lived all these years without them,  /
+  sd        A.57 utt2: I probably could have lived a little longer <laughter>. /  
+
+  ba        B.58 utt1:  That's true. /  
+
+sd          A.59 utt1:  {F Uh, } one of the things that [ we have, + {F uh, } we've liked  ] when we gotten a new car, and [ this, + this  ] used car has it, is a sun roof -- /  
+
+b          B.60 utt1:  Uh-huh. /  
+
+sv          A.61 utt1:  -- {C and } those are really nice in good weather. /  
+
+ba          B.62 utt1:  That's right. /  
+
+sd          A.63 utt1:  [ {C So, } + {C so }  ] I guess if we get a new car, it definitely would have to have  [ an-, + anti  ] lock brakes,  /
+sd          A.63 utt2: I'd love to get an air bag --   
+
+b          B.64 utt1:  Uh-huh. /  
+
++          A.65 utt1:  -- and a sun roof,  [ and, + ] {F uh, } just so it'd be a good solid car.  /
+sd          A.65 utt2:  I guess that those are [ m-, + my  ] major criteria.  /
+sv          A.65 utt3: Everything else is, {D you know, } a luxury,  /
+sv          A.65 utt4: {C and } they,   
+
+x          B.66 utt1:  <Throat_clearing>.   
+
++          A.67 utt1:  make the car more expensive, but they often add more things to repair when things go wrong. /  
+
+ b         B.68 utt1:  Right. /  
+
+ qw         A.69 utt1:  {C So, } {F uh, } if you were to buy [ a new car now, + a brand new car, ] what would you look for? /  
+
+sd        B.70 utt1:  {F Um, } like you said, anti-lock brakes and air bag,  /
+sd          B.70 utt2: {C and, } {F uh, } [ I'd, + I'd  ] really like to have a car that's dependable --   
+
+b          A.71 utt1:  Yeah,  /
+b^r          A.71 utt2: yeah. /  
+
++          B.72 utt1:  -- [ that, + that  ] you drive, {D you know, }  like a <throat_clearing> American made car that's as dependable as Mercedes or somebody, {D you know } that's, -/  
+
+bh        A.73 utt1:  Isn't that true.  /
+sv        A.73 utt2: [ It's, + it's  ] funny, {F um, } {F uh, } that you use, - /
+sd       A.73 utt3: the Audi's German, and I have to say, it has been pretty dependable. /  
+
+b          B.74 utt1:  Uh-huh. /  
+
+b          A.75 utt1:  Yeah,  /
+sv           A.75 utt2: sometimes, one advantage of an American made car, is if you get stuck anywhere, most local garages can fix you up. /  
+
+b          B.76 utt1:  Yeah,  /
+sd          B.76 utt2: they have parts,  /
+b          B.76 utt3: uh-huh. /  
+
+sv          A.77 utt1:  {C But } [ once you get, if you, + once you get  ] something fancy, you get stuck somewhere off of the main area --   
+
+b          B.78 utt1:  Right, -/  
+
++          A.79 utt1:  -- you can be really, - /
+sd          A.79 utt2: {C and } [ the parts, + I know the Audi parts  ] are terribly expensive. /  
+
+b          B.80 utt1:  Uh-huh. /  
+
+%          A.81 utt1:  {E I mean, } it jus-, - /
+sd          A.81 utt2: I shudder.  /
+sd          A.81 utt3:  I would not get the Audi again, just for that reason.  /
+sd         A.81 utt4:  {C But } I would love, I wish [ [ an American, + an American,  ] + ] that, {D you know, } engineering would make something as solid as a German car.  /
+sv          A.81 utt5:  {D You know, } we --   
+
+b          B.82 utt1:  Right. /  
+
++          A.83 utt1:  -- certainly have the technology,  /
+sv          A.83 utt2: {C but, } it's amazing,  /
+sd          A.83 utt3: when we bought this Audi, - /
+sd          A.83 utt4: {E I mean, } everything is more solid in it. /  
+
+b          B.84 utt1:  Right. /  
+
+ %         A.85 utt1:  {F Uh, } if, - /
+ sv         A.85 utt2: you don't feel you've got any of the flabby plastic -- /  
+
+ b         B.86 utt1:  Uh-huh. /  
+
+%         A.87 utt1:  -- {C and } I know,  /
+sd         A.87 utt2: {C and } [ [ I, + I,  ] + {C and } I'm  ] willing to give up a little bit in the mileage for a solid car.  /
+sv        A.87 utt3: I don't think I have to give up as much as I'm giving up. /  
+
+b          B.88 utt1:  Right. /  
+
+qy          A.89 utt1:  {C But, } do you need air conditioning down there? /  
+
+ny          B.90 utt1:  Yes,  /
+sd^e          B.90 utt2: we really do -- /  
+
+b          A.91 utt1:  Yeah. /  
+
+sd          B.92 utt1:  -- {C because } even today it's supposed to get up into the nineties.  /
+%          B.92 utt2: {C So } - /
+x          B.92 utt3:  <throat_clearing>.   
+
+sd         A.93 utt1:  {F Oh, } we've had eleven days in a row over ninety. /  
+
+b          B.94 utt1:  Uh-huh. /  
+
+sd          A.95 utt1:  They've in fact had to excuse school down here because of that. /  
+
+%@          B.96 utt1:  {F Um. }   
+
+ad          A.97 utt1:  {D Well, } listen,  /
+fc          A.97 utt2: I enjoyed talking with you. /  
+
++@          B.98 utt1:  It was nice talking to you. /  
+
+fc          A.99 utt1:  Okay,  /
+fc          A.99 utt2: {C and } [ enjoy, + enjoy  ] your car. /  
+
+fc          B.100 utt1:  Yeah,  /
+fc          B.100 utt2: have a nice summer. /  
+
+fc          A.101 utt1:  Thank you,  /
+fc          A.101 utt2: you too,  /
+fc          A.101 utt3: it's going to be a hot one. /  
+
+fc          B.102 utt1:  Yeah. /  
+
+fc          A.103 utt1:  Okay,  /
+fc          A.103 utt2: bye-bye /  
+
+fc          B.104 utt1:  Bye-bye. / 

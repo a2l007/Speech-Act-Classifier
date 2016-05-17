@@ -1,0 +1,250 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4090_1514_1560
+TOPIC#:		357
+DATE:		920309
+TRANSCRIBER:	SS
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:  	T V and noise in background of A  Maybe some music
+from radio in background of B
+
+===========================================================================
+  
+
+o          A.1 utt1:  Okay, Eric.  /
+qy          A.1 utt2:  {F Uh, } are you married  /
+qy          A.1 utt3:  {C and } do you have a family? /  
+
+ny          B.2 utt1:  {F Uh, } yes I am to, {F uh, } both questions. /  
+
+b          A.3 utt1:  Okay  /
+qy          A.3 utt2: {C and } do you and your wife have  a budget plan for your finances. /  
+
+ny          @B.4 utt1:  {F Uh, } yeah  /
+sd^e          @B.4 utt2: we do.  /
+%          @B.4 utt3:  We, {F uh, } {F uh, } - /
+sd          @B.4 utt4:  basically there's [ the, + {D you know, } the ] expenses that are fixed during the month --    
+
+b          A.5 utt1:  Uh-huh. /  
+
++          B.6 utt1:  -- {D you know } the ones that come  [ every, + every ] month  /
+sd          B.6 utt2: {C and } we, {F uh, } enter those [ into, + {F uh, } into ] a spread sheet <smack>   /
+sd          B.6 utt3: {C and, } {F uh, } whatever is left, {F uh, } after that [ we, +   
+
+x          A.7 utt1:  <Throat_clearing>.   
+
++          B.8 utt1:  {D you know, } we ] sit down and agree on kind of  [ what, + what ] sort of range we are [ going to -- +   
+
+b          A.9 utt1:  Uh-huh. /  
+
++          B.10 utt1:  -- generally going to ] shoot for. /  
+
+bk          A.11 utt1:  I see. {F Uh } <throat_clearing>, /  
+
+qo          B.12 utt1:  <Smack> {D So } what do you do? /  
+
+sd          A.13 utt1:  {D Well, } that's basically what we do.  /
+sd          A.13 utt2:   {F Uh, } about [ every, + every ] three months or  so, <inhaling> we re-evaluate our budget  /
+sd          A.13 utt3:  {C and } we sit down and just write from the largest bills down to the smallest -- /  
+
+b          B.14 utt1:  Uh-huh. /  
+
+sd          A.15 utt1:  -- {C and then } we divvy them up between our four pay checks.  /
+sd          A.15 utt2:   I work part time at night -- /  
+
+ba          B.16 utt1:  Wow <laughter>. /  
+
+sd          A.17 utt1:  -- [ {C and } he works, +     {C and } my husband works ] full times days  /
+sd          A.17 utt2:   {C and so } we have four checks,  /
+sd          A.17 utt3: {C but } that works out nice  because we get paid every week #  /
+sd          A.17 utt4: {C and # --   
+
+b          B.18 utt1:  # Yeah. # /  
+
++          A.19 utt1:  -- so } that does help, /  
+
+x          B.20 utt1:  <Inhaling>.   
+
+sd^r          A.21 utt1:  that helps a lot.  /
+sd          A.21 utt2:  {C And then, } {F uh, }  we don't have a lot [ ex-, + extra ] for extra spending, /  
+
+x          B.22 utt1:  <Laughter>.   
+
+sd          A.23 utt1:  <Laughter> {C so } it's pretty well <laughter> # ear marked. # /  
+
+aa          B.24 utt1:  # Yeah.  /
+bf          B.24 utt2:  All allocated out. #  <laughter>. /  
+
+aa          A.25 utt1:  Yeah <laughter>. /  
+
+b          B.26 utt1:  Yeah. /  
+
+b          A.27 utt1:  Yeah.  /
+sd          A.27 utt2: Every penny is ear marked  /
+sd          A.27 utt3:  {C but, }  {F uh } [ it, + we ] have found that works the best  /
+sd          A.27 utt4: [ {C and } + <talking> {C and so } ]  if we can just divide [ them up, + all the major bills up. ] - /
+sd          A.27 utt5: In fact, we found it easier to divide  the major bills up, {D you know, } cut the house payment in half and cut the loan payment in half,  /
+sd          A.27 utt6:  [ but + <talking> and ]  divide those up between all,  /
+%          A.27 utt7: uh-huh. /  
+
+bf          B.28 utt1:  All the checks,  /
+b          B.28 utt2: yeah. /  
+
+sd          A.29 utt1:  {C And so } we are not taking a huge sum  [ out, + out ] of one  /
+sd          A.29 utt2: {C and then } the next pay check we're real short  /
+%          A.29 utt3: {C or, } -/  
+
+aa          B.30 utt1:  Right.  /
+aa          B.30 utt2:  Yeah,  /
+sd          B.30 utt3: we found that, {F uh, }    
+
+x          A.31 utt1:  <Throat_clearing>.   
+
++          B.32 utt1:  it's definitely helped, {F uh, }  get a handle on kind of the unnecessary expenses. /  
+
+aa          A.33 utt1:  That's true. /  
+
+sd          B.34 utt1:  <Laughter> [ We were, + before we started   doing that kind of a thing, we were, ] {F uh, } <talking> <smack> spending, {F uh, }  money for things that, {D you know, } - /
+sd          B.34 utt2: we kind of tended to eat out a bit more --   
+
+b          A.35 utt1:  Uh-huh. /  
+
++          B.36 utt1:  -- than we should have, /  
+
+x          A.37 utt1:  <Laughter>.   
+
+sd          B.38 utt1:  <Talking> {C and } it was easy to, {F uh, }  let things get out of hand.  /
+sd          B.38 utt2: We [ thought it + <talking>, {F uh, } thought it ] to be really helpful.  /
+sd          B.38 utt3:   We have gotten some of our loans paid off really --   
+
+b          A.39 utt1:  Yeah. /  
+
++          B.40 utt1:  -- because of this and stuff like that  /
+%          B.40 utt2: {C so, }  -/  
+
+sv          A.41 utt1:  {D Well, } it helps you to focus where your money goes -- /  
+
+b          B.42 utt1:  Yeah <laughter> /  
+
+sv          A.43 utt1:  -- [ {C and } + {C and } ] I am sure you felt  [ the + the ] same frustration before you got on a budget,  /
+sv          A.43 utt2: {C but } you're <talking> wondering  [ my, + ] when you put down all the money that you do bring in - /
+sv(^q)          A.43 utt3: {C and then } you're saying,  my word # where did all that money # --   
+
+bf          B.44 utt1:  # That's a lot of money,  /
+%          B.44 utt2: {C but } <laughter>, # -/  
+
++          A.45 utt1:  -- go.  /
+^q          A.45 utt2: Where does it go? /  
+
+b          B.46 utt1:  Yeah. /  
+
+%          A.47 utt1:  {F Uh } -- /  
+
+%          B.48 utt1:  {C But, } -/  
+
+sd          A.49 utt1:  -- {C and } also we have found that if we write down, - /
+sd          A.49 utt2:  {C and } we did this.  /
+sd          A.49 utt3:  We are not real consistent with this,  /
+sd          A.49 utt4:  {C but } we did it for about a month  /
+sd          A.49 utt5: {C and } we wrote down everything that we bought <noise> [ when, + ] {D you know, }  every pay check -- /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+sd          A.51 utt1:  -- {C and so } we could see where  every penny went  /
+sd          A.51 utt2: {C and } it was really interesting to see <throat_clearing> just what you do spend  /
+sd          A.51 utt3:  {C and } like I say we haven't been real consistent with it.  /
+%          A.51 utt4:  It's, - /
+sd          A.51 utt5: we should cause it does help. /  
+
+aa          B.52 utt1:  Yeah,  /
+sd          B.52 utt2: [ the other, + the other ]  thing [ that + that ] we've found that helps is, {D you know, } we tend to fudge on the budget a little bit -- /  
+
+b          A.53 utt1:  Uh-huh <laughter>. /  
+
+sd          B.54 utt1:  -- it's just to, {F uh, } {F uh, }   get up the money in advance and put it in, {F uh, } {F uh, } so long as it wasn't {D you know, } unreasonably high,  but for things like food expenses --   
+
+b          A.55 utt1:  Uh-huh. /  
+
++          B.56 utt1:  -- or whatever.  Just put it [ in  {F uh } <talking>, +   
+
+x          A.57 utt1:  <Throat_clearing>.   
+
++          B.58 utt1:  in ] an envelope or whatever  /
+sd@        B.58 utt2:  {C and } that way it kind of forced us to, {F uh, } <noise> stick to that # amount. #    *[[ Should end with a slash.  This is an independent clause, as is B's next turn. ]]
+
+bf          A.59 utt1:  # {D Wel-, } just # stick to that,  /
+b          A.59 utt2: uh-huh.  /
+%          A.59 utt3:  That is, -/  
+
++@          B.60 utt1:  And then [ once that was gone, + {D well } <laughter>,   *[[ should be start of a new slash unit--see B.58 utt2 ]]
+
+x          A.61 utt1:  <Laughter>.   
+
++          B.62 utt1:  if the entertainment amount was gone ] --   
+
+b          A.63 utt1:  Yeah.  /
+sv          A.63 utt2:  [ That -- +    
+
++          B.64 utt1:  -- for the month say, {F oh, } it's gone <laughter>. /  
+
++          A.65 utt1:  -- that ] sounds like a really good idea. /  
+
+%          B.66 utt1:  {D So. } -/  
+
+sd          A.67 utt1:  {C And } it really helpful.  /
+qy          A.67 utt2:   {F Uh, } have you developed a savings plan or I R A s or  anything like that yet? /  
+
+ng          B.68 utt1:  [ We, + we ] haven't.  /
+sd          B.68 utt2:  [ [ We + our ] + our ]  initial goal was just to [ retire debt, + {F uh, }  completely retire debt ] for car payments and --   
+
+bk          A.69 utt1:  {F Oh, } uh-huh. /  
+
++          B.70 utt1:  -- [ credit card <talking> -- +   
+
+b          A.71 utt1:  Uh-huh. /  
+
++          B.72 utt1:  -- {F uh, } credit card debt ] and all of that.  /
+sd          B.72 utt2:   We are just at a point [ where, + where ] we could start thinking about it  /
+%          B.72 utt3: {C so } <inhaling>, -/  
+
+ba          A.73 utt1:  {F Oh } that's good.  /
+sv          A.73 utt2:  That's a good feeling <throat_clearing>. /  
+
+b          B.74 utt1:  Yeah.  /
+%          B.74 utt2:  {D Well } I <<very faint>>, -/  
+
+sd          A.75 utt1:  <Smack> <inhaling> My husband just  graduated from the university, {F uh, } <smack> a year ago -- /  
+
+b          B.76 utt1:  Uh-huh. /  
+
+sd          A.77 utt1:  -- {C so } [ finally <laughter> -- +   
+
+bf          B.78 utt1:  <Laughter>  A student. /  
+
++          A.79 utt1:  -- finally ] we are getting to that point too.  /
+qy          A.79 utt2:  {D So, }  are you still going to school  /
+%          A.79 utt3: {C or, } -/  
+
+ny          B.80 utt1:  Yeah,  /
+sd^e          B.80 utt2: I am actually [ in the, + <talking> in the ] mas-, -/ 

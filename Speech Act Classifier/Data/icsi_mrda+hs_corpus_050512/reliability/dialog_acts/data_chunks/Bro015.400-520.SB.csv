@@ -1,0 +1,39 @@
+400.32,400.67,Bro015-c3,b,,,huh .
+402.716,403.176,Bro015-c3,fh,,,o_k .
+403.176,403.606,Bro015-c3,fh,,,well ==
+404.339,404.609,Bro015-c2,b,,,hmm .
+406.193,406.413,Bro015-c3,b,,,yeah .
+406.413,415.823,Bro015-c3,qy^d^rt,1a,,i uh i g- - so i guess nothing has ever happened about uh making a standardized uh place where the software sits so that people can work with it and upgrade it ?
+415.13,415.37,Bro015-c2,s^ar,1b,,no .
+415.55,421.05,Bro015-c2,s.%--,,,well i - i sent mails to start the - the process and i guess we should have to ==
+423.563,426.363,Bro015-c2,s^rt,,,well we know most what we have to - to put in - in this .
+427.343,428.523,Bro015-c2,fh,,,and ==
+430.25,430.47,Bro015-c2,fh,,,yeah .
+431.492,431.952,Bro015-c2,s.%--,,,so i guess ==
+431.952,432.572,Bro015-c2,s^aa.%--,2a,,yeah we m- ==
+433.3,433.65,Bro015-c3,s^bk,2b,,o_k .
+434.689,437.629,Bro015-c3,s^co^t,,,well uh let's - let's come back to this uh later .
+438.322,439.922,Bro015-c3,fh,,,um o_k .
+440.617,444.687,Bro015-c3,qy.%-,3a,,um chuck did you get a chance to do anymore stuff with the uh ?==
+445.98,446.86,Bro015-c0,s^ar,3b,,no i didn't .
+447,448.32,Bro015-c0,qy.%-,4a,,um are you talking about ?==
+448.09,448.69,Bro015-c3,s^2^rt,4b.5a,,h_t_k .
+448.69,448.89,Bro015-c3,qrr.%-,5a+,,or ?==
+449.16,449.52,Bro015-c0,s^ar,5b,,uh no .
+449.84,450.5,Bro015-c0,s,5b+,,this week i haven't .
+450.5,453.99,Bro015-c0,s^df^rt,6a,,i've been - my whole time's been taken up with uh meeting recorder stuff .
+454.36,454.78,Bro015-c3,s^bk^rt,6b,,o_k .
+454.923,458.2,Bro015-c0,s,,,uh disk crash and uh covering things .
+455.995,456.195,Bro015-c3,%-,,,u- ==
+456.915,457.255,Bro015-c3,fg,,,o_k .
+458.35,459.48,Bro015-c3,s,,,this may be a very short meeting .
+459.84,462.16,Bro015-c3,h,,,uh um ==
+464.77,466.531,Bro015-c3,qo^d^rt,7a,,anything from your side ?
+466.11,471.811,Bro015-c5,s,7b.8a,,uh continuing readings we come - uh we're doing some background reading on phonetics .
+469.601,469.871,Bro015-c3,b,,,uh-huh .
+472.39,472.75,Bro015-c3,s^bk,8b,,o_k .
+473.61,473.8,Bro015-c3,qo^d^rt,,,dave ?
+474.11,489.513,Bro015-c1,s,,,well um - one thing in - in the paper avendano and his collaborators wrote is that - is that um - they tried doing channel normalization on the reverberant in speech by um - subtracting the mean of the log spectral magnitude over a two second window .
+489.513,496.923,Bro015-c1,s,,,but they didn't do anything with the phase and they said perhaps that limited their approach that it did not try to normalize the phase in any way .
+497.728,503.788,Bro015-c1,s,,,so i'm - i'm going to start thinking about um - ways that the ph- - that the phase could be used .
+504.428,514.628,Bro015-c1,fh|s,,,um - | si- - if - if the um - channel and the reverberation is multiplicative in the frequency domain with the speech spectrum then the phases should be additive .

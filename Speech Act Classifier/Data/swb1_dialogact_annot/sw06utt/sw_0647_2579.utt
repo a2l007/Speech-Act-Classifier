@@ -1,0 +1,500 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2579_1052_1123
+TOPIC#:		313
+DATE:		910412
+TRANSCRIBER:	JKP
+UTT_CODER:	tc
+DIFFICULTY:	3
+TOPICALITY:	4
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        No static, but there was an echo throughout that made 
+understanding speakers difficult in some places.
+
+=============================================================================
+  
+
+fp          A.1 utt1:  {D Well, } good afternoon to you, Mary.  /
+qw          A.1 utt2: First,   
+
+%          B.2 utt1:  # {C And } good, # -/  
+
++          A.3 utt1:  # let me ask # you, [ what's, +  what's ]  the weather like up there to begin with? /  
+
+sd          B.4 utt1:  {D Well, } {D well, } today, {F uh, }  when I got up it was twenty-nine degrees. /  
+
+x          A.5 utt1:  <Laughter>.   
+
+b          B.6 utt1:  <Laughter> Yes,  /
+sd          B.6 utt2: {C and } it managed  to get up to about fifty this afternoon  /
+sd          B.6 utt3: {C but } it's been cloudy, overcast and threatening rain all day. /  
+
+sv          A.7 utt1:  That sounds more like our winter weather down here. /  
+
+sd          B.8 utt1:  <Laughter>  {C And } we've also had  extremely strong winds, fifteen to twenty miles an hour,   
+
+%          A.9 utt1:  # {F Um. }  # /  
+
++          B.10 utt1:  # for # the day. /  
+
+sv          A.11 utt1:  {D Well, } {D you know, } I bet that's  [ what we, +  that storm we ] had last night. /  
+
+bh          B.12 utt1:  Is that right? /  
+
+sd          A.13 utt1:  {F Oh, } we had a frog strangler go  [ sw-, +  sweeping through here, {F uh, } yesterday  and last night.  /
+sd          A.13 utt2:  {C And } we're expecting another one tonight. /  
+
+bh          B.14 utt1:  {F Oh, } really? /  
+
+sd          A.15 utt1:  {F Oh, } {E I mean } it was raining so  hard you could swim down the street. /  
+
+sd          B.16 utt1:  <Laughter>  We had one of those two days ago.    
+
+b          A.17 utt1:  Uh-huh. /  
+
++          B.18 utt1:  [ {C But } not, +  {F uh, } {C but, } {F uh, } no ]  rain at all yesterday and, {F uh, } no rain today. /  
+
+sv          A.19 utt1:  {D Well, } it's probably on its way  up there.  /
+sd          A.19 utt2: It was heading north. /  
+
+ba          B.20 utt1:  Thanks a lot <laughter>. /  
+
+x          A.21 utt1:  <Laughter>.   
+
+qy          B.22 utt1:  [ Cu-, +  couldn't ] you send us some nice weather? /  
+
+sv          A.23 utt1:  {D Well, } it was nice today. /  
+
+qy          B.24 utt1:  {F Oh, } was it? /  
+
+^h          A.25 utt1:  {F Uh, } in between the thunder showers,  /
+ny          A.25 utt2: yes. /  
+
+sv          B.26 utt1:  <Laughter>  {D Well, } [ the, +  one ]  thing's for sure we can always discuss the weather,  /
+sv          B.26 utt2: how some ever we can't do very much to change it. /  
+
+qy          A.27 utt1:  {D Well, } {D you know, } what they say  about the weather here in Texas? /  
+
+ng          B.28 utt1:  What's that? /  
+
+sd          A.29 utt1:  [ If you, +  if you ] don't like it,  [ wait + ] five minutes, it'll change. /  
+
+aa          B.30 utt1:  {F Oh, } yes,  /
+sd          B.30 utt2: {D well } that's about  the way our weather is here also. /  
+
+b          A.31 utt1:  Uh-huh.  /
+%          A.31 utt2:  [ W-, + ] -/  
+
+sd          B.32 utt1:  {C And } I grew up in Saint Louis,  /
+sd          B.32 utt2:  {C and } Saint Louis was much the same. /  
+
+b          A.33 utt1:  Uh-huh.  /
+qy          A.33 utt2:  {D Well, } tell me, {F uh, }  [ is, + is ] it normally that cold up there [ in, +  in ] the Spring? /  
+
+nn          B.34 utt1:  No,  /
+sd^e          B.34 utt2: it's not.  /
+sd          B.34 utt3: This is, {F uh, }  about, {F uh, } ten degrees cooler than usual.  /
+sd          B.34 utt4: {C But } about a week ago we were up to eighty and eighty-five degrees. /  
+
+bh          A.35 utt1:  You're kidding? /  
+
+nn          B.36 utt1:  No,  /
+nn^r          B.36 utt2: no,  /
+sd^e          B.36 utt3: [ it, + {F uh, } it ]  fluctuates from one extreme to the other it seems. /  
+
+qy          A.37 utt1:  [ You, +  are you ] sure you didn't  leave your refrigerator door open? /  
+
+na          B.38 utt1:  <Laughter> I'm sure I didn't.  /
+sd          B.38 utt2:   I was ready to turn on the air conditioning.  /
+sd          B.38 utt3: [ It, +  no, it ] really was extremely warm.  /
+sd          B.38 utt4:   It only got down to about sixty-five in the evening. /  
+
+b          A.39 utt1:  Um-hum. /  
+
+sd          B.40 utt1:  We had about three or four days of that,  /
+sd          B.40 utt2:  {C and  then } all of a sudden a cold front came down and, {F uh, } temperatures  dropped thirty degrees in a very short length of time.  /
+sd          B.40 utt3:  {C And, } {F uh, } it has  gone down gradually each day.  /
+sd          B.40 utt4: This morning it was twenty-nine,  /
+sd          B.40 utt5: yesterday it was about thirty-two.  /
+sd          B.40 utt6: {F Uh, }   
+
+b          A.41 utt1:  # Oh.  # /  
+
++          B.42 utt1:  # cars # were scraping, ice off their  cars this morning if they've been sitting out all night.  /
+sv          B.42 utt2: {C So } [ it, +    
+
+ba          A.43 utt1:  # {F Oh, } Mother Macree.  # /  
+
++          B.44 utt1:  # it ] really [ wasn't # too, +   wasn't too ] pleasant <laughter>. /  
+
+aa          A.45 utt1:  No,  /
+sd          A.45 utt2: I should say not.  /
+sd          A.45 utt3: {D Well, }  [ I, +  I, ] sincerely hope that you don't have that terrible storm we had. /  
+
+sd          B.46 utt1:  # {F Oh, } I  hope, #   
+
+sd          A.47 utt1:  # I hope, #   
+
++          B.48 utt1:  not. /  
+
++          A.49 utt1:  it doesn't reach you up there. /  
+
+sd          B.50 utt1:  {D Well, } they are predicting rain  and thunderstorms,  /
+sd          B.50 utt2: {C and } I wouldn't be a bit surprised by what we would not be getting  the same weather you had. /  
+
+%          A.51 utt1:  {D Well, } I, - /
+ad          A.51 utt2: let's hope it,  /
+sv          A.51 utt3:  {D well, } [ i-, +  if ] it's the same as what we had, at least it'll be warmer. /  
+
+b          B.52 utt1:  {F Uh, } yeah.  /
+b          B.52 utt2:  <laughter>  Yes,  /
+bf          B.52 utt3:  warm rain,  /
+sv          B.52 utt4: {D well, } of course, by the time it gets up here it may [ ru-, +  run ]  into a cold front coming down from Canada. /  
+
+b          A.53 utt1:  Yeah,  /
+ba          A.53 utt2: {F oh, } boy,  /
+sv          A.53 utt3: [ [ the, +  that, ] +   whew, that ] would be tear disastrous.   If you,   
+
+aa          B.54 utt1:  # Yes.  # /  
+
++          A.55 utt1:  # had # that rain storm and freezing weather. /  
+
+aa          B.56 utt1:  Yes. /  
+
+b          A.57 utt1:  Oh. /  
+
+sd          B.58 utt1:  [ We had, +  {F uh, } a week ago they had ]  golf ball size hail coming down in one part [ of the, +  {F uh, } of the ] city of Dayton itself. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:  {C And, } {F uh, } then we just had  about an inch and a half or two inches of rain in less than an hour.  /
+sd          B.60 utt2:  It was just coming down  by the bucketfulls and a great deal of lightning. /  
+
+b          A.61 utt1:  {F Oh, }   
+
+sv          B.62 utt1:  # {D So, } #   
+
++          A.63 utt1:  # yes.  # /  
+
++          B.64 utt1:  [ [ it, +  it wasn't, ] +  {F uh, } it wasn't ]  conditions to being out in it  /
+sd          B.64 utt2: {C and } I had just gotten home.  /
+sd          B.64 utt3:  We had a lot of tornado warnings also.  /
+sd          B.64 utt4:   {C And } I had gotten home shortly before that, {F uh, } the rain started.   /
+sd          B.64 utt5:  {C So, } {F uh, } I felt a little more secure that I was at home rather than having to be out driving in it. /  
+
+b          A.65 utt1:  Uh-huh.  /
+sd          A.65 utt2:  {D Well, } {F uh, } I heard  on the news this morning that, {F um, } one of our local schools, {F uh, } lost the roof of their gymnasium. /  
+
+bh          B.66 utt1:  Is that right? /  
+
+sd          A.67 utt1:  {C And } they suspected may have been a tornado. /  
+
+b          B.68 utt1:  Uh-huh. /  
+
+ad          A.69 utt1:  {C But, } {F uh, } {F uh, } thank God  for small favors, the, {F uh, } {F uh, } - /
+qy          A.69 utt2:   what do they call them?  [ [ The, +  the, ] +  the ]  marching band or something? /  
+
+ny          B.70 utt1:  Yeah. /  
+
+sd          A.71 utt1:  {F Uh, } {F uh, } had just quit  rehearsal about a half hour before. /  
+
+%          B.72 utt1:  {F Oh, } they, - /
+sv          B.72 utt2: that was, [ ca-, + ]  [ very, +  very ] fortunate for them because that could have really been disastrous. /  
+
+aa          A.73 utt1:  {F Oh, } {C and } how. /  
+
+sd          B.74 utt1:  {D Well, } of course this is tornado  season, {F uh, }  /
+%          B.74 utt2: in to, {F uh, } - /
+sd          B.74 utt3: we have many tornadoes spawned in this area.  And northern Indiana,  /
+sd          B.74 utt4: now we're in the southwestern part of, {F uh, } Ohio,   
+
+b          A.75 utt1:  # Uh-huh. # /  
+
++          B.76 utt1:  # just # forty miles north,  due north of Cincinnati,  /
+sd          B.76 utt2: [ {C and, } +   {F uh, } {C but, } ] {F uh, } northern Indiana, has many tornadoes come roaring across.  /
+sd          B.76 utt3:   {C And } we get the backlash off of it, if not the part of the tornado itself. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  {C So, } {F uh, } [ we, +  {D you know, } we ]  get a lot of bad weather in this area.  /
+sv          B.78 utt2:  {C But } of course you're supposed to be the sun belt,  /
+sv          B.78 utt3:  {C and } I do know that you get some freezing weather down there on occasion. /  
+
+aa          A.79 utt1:  {F Oh, } yeah.  /
+aap          A.79 utt2:  {D Well, } during  the winter,  /
+aa          A.79 utt3: yes,  /
+sd          A.79 utt4: we do.  /
+sd          A.79 utt5:  {F Uh, } we've had, {F uh, } {D well, } <sigh>  past four or five years, I guess,  at least one day during the year when just everything would just close down  because we'd have freezing rain. /  
+
+b          B.80 utt1:  Um-hum. /  
+
+sv          A.81 utt1:  {C And, } {F uh, } of course people  down here, they just don't know how to handle themselves  /
+%          A.81 utt2: {C and, } -/  
+
+aa          B.82 utt1:  Right.  /
+aa          B.82 utt2:  Yes,  /
+sd          B.82 utt3: I was going to say  that it does make a difference when you're not accustomed, to, {F uh, }   
+
+aap          A.83 utt1:  # {D Well, } {F uh, } #   
+
++          B.84 utt1:  # having to, #   
+
++          A.85 utt1:  not only that, -/  
+
++          B.86 utt1:  drive in it. /  
+
+sd          A.87 utt1:  {C but, } [ we're, +  we're ] [ ee-, + ]  don't have the equipment to handle it either. /  
+
+b          B.88 utt1:  Right,  /
+b^r          B.88 utt2: right. /  
+
+sd          A.89 utt1:  {F Uh, }    
+
+%          B.90 utt1:  # {C And, } # -/  
+
++          A.91 utt1:  # they go # out there,  /
+%          A.91 utt2: {C and } the, - /
+sv          A.91 utt3:  {D well } all you can do [ with, +  with, ] {F uh, } freezing rain of course, is [ spr-, +  spread ] sand on the ice. /  
+
+b          B.92 utt1:  Right. /  
+
+sd          A.93 utt1:  [ {C And, } + {C but, } ] {F uh, }  {D you know, } we don't even have vehicles that will do that. /  
+
+b          B.94 utt1:  Um-hum. /  
+
+sd@          A.95 utt1:  [ They, +  they ] have to get, {F uh, }  a truck of sand and, {F uh, } {F uh, } four or five laborers up there just spreading it by hand.  *[[needs slash]] 
+
+b          B.96 utt1:  Right.  /
+sv          B.96 utt2:  {D Well, } {F uh, } {D well }  here what they do and [ I, + I ] contend that it's certainly not the right thing to do, they spread salt.  /
+sd          B.96 utt3:   {C And } of course the salt does melt the ice,  /
+sd          B.96 utt4: {C but } then what melts  immediately freezes and becomes, {F uh, } a perpetual problem. /  
+
++@          A.97 utt1:  {D Well, } {C and then } to make matters  worse, it destroys your vehicles too. /  
+
+aa          B.98 utt1:  {F Oh, } it sure does do that. /  
+
+b          A.99 utt1:  Yeah,  /
+sd          A.99 utt2: [ [ they, +  {D well } we, ] +   they ] do that down here too.  /
+sd          A.99 utt3: They mix the salt in with the sand. /  
+
+%          B.100 utt1:  {D Well, } sand, and, {F uh, } - /
+sd          B.100 utt2:  {C but } I have learned to do, [ is, +  {F uh, } {A now that I am alone, } is, ] {F uh, } to carry bags of salt in the  trunk of my car.  /
+sd          B.100 utt3: {F Um, } not only in case I need it for that for traction but for additional weight,   
+
+b          A.101 utt1:  # Yes.  # /  
+
++          B.102 utt1:  # in # the,   
+
+b          A.103 utt1:  Uh-huh. /  
+
++          B.104 utt1:  back of the car.  /
+sv          B.104 utt2: {C And then } of  course kitty litter is also excellent for that.  I don't know whether you've ever thought in terms of,   
+
+b          A.105 utt1:  # Uh-huh.  /
+%          A.105 utt2:  I've, # /  
+
++          B.106 utt1:  # that  /
+%          B.106 utt2: {C but, } # -/  
+
+b          A.107 utt1:  no,  /
+sd          A.107 utt2: I'm   
+
+b          B.108 utt1:  yeah. /  
+
++          A.109 utt1:  a dog lover myself. /  
+
+sd          B.110 utt1:  {D Well } <laughter>.   
+
+x          A.111 utt1:  <Laughter>.   
+
++          B.112 utt1:  {D Well, } the dogs don't use litter.  /
+sv          B.112 utt2:   {C But } kitty litter is excellent for, {F uh, } getting under the wheels of cars  /
+sv          B.112 utt3:  and what have you and giving you traction. /  
+
+sv          A.113 utt1:  I guess it would be. /  
+
+b          B.114 utt1:  Uh-huh.  /
+%          B.114 utt2:  Yeah,  /
+sv          B.114 utt3: it, {F uh, } works  out, {F uh, } really quite well.  /
+sd          B.114 utt4: Course [ I have, +  I have ] a dog also.  /
+sd          B.114 utt5: My son brought me a little  Lhasa Apso, {F uh, } for my birthday last Thanksgiving. /  
+
+b          A.115 utt1:  # Oh.  # /  
+
+sd          B.116 utt1:  # He # brought him from Dallas.  /
+%          B.116 utt2:  He, -/  
+
+qh          A.117 utt1:  {F Oh, } wasn't that nice of him? /  
+
+ny          B.118 utt1:  Yes,  /
+%          B.118 utt2: that, {F uh, } - /
+sd          B.118 utt3:  he just thought I had been without a dog, {F uh, } for three years.  /
+sd          B.118 utt4: That was long enough. /  
+
+%          A.119 utt1:  # {F Uh, } # /  
+
+sd          B.120 utt1:  # [ He, +  # he ] had, -/  
+
+sd          A.121 utt1:  I have, {F uh, } [ a, +  a ] Chowperd myself. /  
+
+br          B.122 utt1:  {F Oh, } a what? /  
+
+sd          A.123 utt1:  A Chowperd. /  
+
+sd          B.124 utt1:  {D Now } that one I'm not familiar with. /  
+
+sd          A.125 utt1:  {D Well, } she's part Chow and part Shepherd. /  
+
+bk          B.126 utt1:  {F Uh, } okay. /  
+
+x          A.127 utt1:  <Laughter>.   
+
+b          B.128 utt1:  Okay,  /
+sd          B.128 utt2: that makes sense then <laughter>. /  
+
+b          A.129 utt1:  Uh-huh.  /
+sv          A.129 utt2:  {C But } she's [ the best, +    
+
+sd          B.130 utt1:  I believe, -/  
+
++          A.131 utt1:  the best ] of both breeds. /  
+
+b          B.132 utt1:  Yes,  /
+b          B.132 utt2: right,  /
+sd          B.132 utt3:  {D well, } I've always  had big dogs before.   Never had a little dog before. /  
+
+sd          A.133 utt1:  {D Well, } June,   
+
+%          B.134 utt1:  # {C And, } # -/  
+
++          A.135 utt1:  # is medium # sized. /  
+
+b          B.136 utt1:  Yes  /
+sd          B.136 utt2: {D well, }   
+
+sd          A.137 utt1:  {C But } she is scared to death of thunder storms. /  
+
++          B.138 utt1:  {F Oh, } {D well, } I had a German  shorthair that was frightened of storms.  /
+sd          B.138 utt2:  The minute it would begin to storm, he would just panic. /  
+
+b          A.139 utt1:  Uh-huh. /  
+
+sd          B.140 utt1:  {C And, } {F uh, } I had to push him  down when he was fourteen,  /
+sd          B.140 utt2: {C and } two months later I had to put my yellow Lab down,   
+
+b          A.141 utt1:  # Oh.  # /  
+
++          B.142 utt1:  # because # he had leukemia.  /
+sd          B.142 utt2:  {C And, } {F uh, } <sigh>  [ then, +  {F uh, } then ] there was no point in having all my acreage.  /
+sd          B.142 utt3:   I had four and a half acres with game preserve on three sides. /  
+
+ba          A.143 utt1:  {F Oh, } that must be nice. /  
+
+sv          B.144 utt1:  {F Oh, } {D well, } it was great.  /
+sd          B.144 utt2:   I loved it.  /
+sd          B.144 utt3: {C But } then I didn't need all that  anymore, so I finally sold that,  /
+sd          B.144 utt4:  {C and } I'm in a fair size condo.  /
+sd          B.144 utt5:  {C And } I have a nice size patio. /  
+
+b          A.145 utt1:  Uh-huh. /  
+
+sd          B.146 utt1:  [ {C And, } +  {F uh, } {C so } ]  this little dog has plenty of room to run. /  
+
+ba          A.147 utt1:  {D Well, } good. /  
+
+b          B.148 utt1:  Yeah,  /
+sd          B.148 utt2: {C and } he is [ a, +  a ]  cutie  /
+sd          B.148 utt3: [ {C and, } + {F uh, } {C but } ]  I've never had a dog I had to keep taking to the groomer's to have groomed either <laughter>. /  
+
+b          A.149 utt1:  No,  /
+sv          A.149 utt2: {D well, }   
+
+%          B.150 utt1:  # {C And } it's, # -/  
+
++          A.151 utt1:  # {D now, } {D you # know, } it sounds  {D like } you ought to be in a condo down in Miami Beach somewhere.    
+
+x          B.152 utt1:  <Laughter>.   
+
++          A.153 utt1:  {C Or } better yet, down around Saint Petersburg, Florida. /  
+
+bh          B.154 utt1:  Is that right? /  
+
+ny          A.155 utt1:  Uh-huh.  /
+sd          A.155 utt2:  That's what I call home. /  
+
+bh          B.156 utt1:  {F Oh, } is that right? /  
+
+sd          A.157 utt1:  I lived there for ten years. /  
+
+sd          B.158 utt1:  {F Oh, } {D well } I was there once  [ way, +  way ] back in nineteen-sixty, I think for just a week's vacation. /  
+
+b          A.159 utt1:  Uh-huh. /  
+
+sd          B.160 utt1:  {C But, } {F uh, } [ I, +  that's about  the only time I've ] been to Florida, except passing through on the way to someplace else. /  
+
+b          A.161 utt1:  Yep. /  
+
+%          B.162 utt1:  # {C But, } {F uh, } # -/  
+
+sd          A.163 utt1:  # {D Well, } I lived # there in the seventies. /  
+
+b          B.164 utt1:  Uh-huh. /  
+
+sd          A.165 utt1:  {C And, } {F uh, } [ I, +  I ] love it.  /
+sd          A.165 utt2:   I have two sons still living down there. /  
+
+b          B.166 utt1:  Um-hum.  /
+sd          B.166 utt2:  {D Well, } {F uh, } {F uh, }  most of my friends do spend a lot of time down in Florida.  /
+sd          B.166 utt3: {C But, } {F uh, } [ I have just, +   that's just ] not been my thing.  /
+sd          B.166 utt4: We used to always head west or head north.  /
+sd          B.166 utt5:   Now that I'm alone [ why, + ] {F uh, } I, {F uh, } prefer to travel overseas if I'm going anywhere. /  
+
+b          A.167 utt1:  {F Oh, } uh-huh. /  
+
+sd          B.168 utt1:  {C And, } {F uh, } course there too  you never know what the weather's going to be.  /
+sv          B.168 utt2: When you,   
+
+sv          A.169 utt1:  # {D Well, } [ that's, # +    
+
++          B.170 utt1:  # start getting # over,   
+
++          A.171 utt1:  that's ]   
+
++          B.172 utt1:  to, -/  
+
++          A.173 utt1:  why I was suggesting, {F uh, }  that Saint Petersburg [ [ is +   got, ] + got  ] to be the finest weather in the world. /  
+
+bh          B.174 utt1:  {F Oh, } is that right? /  
+
+sd          A.175 utt1:  {F Oh, } [ I, +  I ] loved it down there. /  
+
+%          B.176 utt1:  {F Um. } /  
+
+sd          A.177 utt1:  Course you could [ tell, +  always tell ]  which were [ the, +  the ] [ na-, +  natives- ]   
+
+b          B.178 utt1:  # Yeah. # /  
+
++          A.179 utt1:  # and # which ones were the snowbirds. /  
+
+bh          B.180 utt1:  {F Oh, } is that right? /  
+
+ny          A.181 utt1:  Yeah,  /
+sd^e          A.181 utt2: the snowbirds were the, -/ 

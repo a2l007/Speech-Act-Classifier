@@ -1,0 +1,241 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3515_1461_1168
+TOPIC#:		335
+DATE:		911211
+TRANSCRIBER:	glp
+UTT_CODER:      mmab
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	3
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Speaker B had a constant buzz in the background,
+like from a portable phone.
+
+=========================================================================
+  
+
+qy          B.1 utt1:  {D Well, } do you do any recycling? /  
+
+na          @A.2 utt1:  {F Uh, } we do here.  /
+t1          @A.2 utt2:  {F Uh, } {D see, } what do we  recycle?  /
+%          @A.2 utt3:  [ We, + they ] recycle, - /
+sd          @A.2 utt4: they have bins -- /  
+
+b          B.3 utt1:  Yeah. /  
+
+sd          A.4 utt1:  -- {C and } they also have centers where you can  take aluminum cans and, {F uh, } plastic bottles  /
+sd          A.4 utt2: {C and } I think that's all they have. /  
+
+bk          B.5 utt1:  Oh. /  
+
+qo          A.6 utt1:  What about you guys? /  
+
+%          B.7 utt1:  {D Well, } we, {F uh, } - /
+sd          B.7 utt2: there is a lot of things  that you can recycle down here, although the only thing I guess I wind up recycling religiously is, {F uh, } aluminum cans. /  
+
+b          A.8 utt1:  Uh-huh. /  
+
+sd          B.9 utt1:  {C But, }  {F uh, } [ we've got a, + we've got a ]  couple of different [ things, +  {F uh, } places, ] {F uh, }  /
+sd          B.9 utt2: they're like unattended aluminum can smashers <laughter>.  /
+sd          B.9 utt3:   {C And } you can go up there [ and, + and, ] {F uh, } redeem,  /
+sd          B.9 utt4: we've got one that gives you {D like } a penny a can,  /
+%          B.9 utt5: {C so } if you, -/  
+
+bh          A.10 utt1:  Really? /  
+
+ny          B.11 utt1:  Yeah <laughter>. /  
+
+qy          A.12 utt1:  For smashed cans? /  
+
+nd          B.13 utt1:  {D Well, } {D actually, } you have to [ give, +    put ] them in there unsmashed. /  
+
+b          A.14 utt1:  Uh-huh. /  
+
+sd          B.15 utt1:  {C And, }  {F uh, } when you do that [ it, + it ]  basically crushes them and then drops a penny down a little shoot. /  
+
+ad          A.16 utt1:  {F Oh, } [ can you, + can you ] hold on for just a minute? /  
+
+aa          B.17 utt1:  Sure. /  
+
+sd^t          A.18 utt1:  I'm going to try pressing one again to make sure --   
+
+b          B.19 utt1:  Okay. /  
+
++          A.20 utt1:  -- that I pressed it hard enough because,  {D okay, } just succeed <beep>. /  
+
+qy          B.21 utt1:  Okay? /  
+
+na^m          A.22 utt1:  {F Oh, } okay,  /
+sd^e          A.22 utt2: {D well, } [ I guess, + I guess, ] /  
+
+sd^t          B.23 utt1:  {D Well, } [ I heard it that, + I heard it that time ] <laughter>. /  
+
+b          A.24 utt1:  Yeah <laughter>.  /
+b          A.24 utt2:  Okay,  /
+bf          A.24 utt3: {D well, } anyways,  you guys only get a penny a can.  /
+qy          A.24 utt4: {D Well, } when you buy {D like, }  {F uh, } canned  drinks and stuff like that, do they charge you for the deposit? /  
+
+nn          B.25 utt1:  {F Uh, } no,  /
+sd^e          B.25 utt2: you probably get charged like a nickel --   
+
+b          A.26 utt1:  Yeah. /  
+
++          B.27 utt1:  -- or something like that. /  
+
+aa          A.28 utt1:  Exactly  /
+bf          A.28 utt2: {C and so } it's like they charge you for  the deposit,  /
+bf          A.28 utt3: {C so } when you turn in the cans unsmashed, you're just, {D like, }  reimbursed. /  
+
+b          B.29 utt1:  {F Oh, } okay. /  
+
+bf          A.30 utt1:  Type of thing. /  
+
+b          B.31 utt1:  Okay,  /
+ar          B.31 utt2: no,  /
+sd          B.31 utt3: they don't charge us that extra nickel. /  
+
+ba          A.32 utt1:  That's sort of nice, though <laughter>. /  
+
+aa          B.33 utt1:  Yeah,  /
+aa          B.33 utt2: [ it, + it ] really is.  /
+sd          B.33 utt3: Really what happens  is we just get a penny a can back [ off the, + off the ] price, if you want to think of it that way. /  
+
+b          A.34 utt1:  Uh-huh. /  
+
+sd          B.35 utt1:  {C So } when we get {D like, }  {F uh, } {F uh, }  a twelve pack, then that's {D like } twelve cents back. /  
+
+b          A.36 utt1:  Yeah,  /
+qy^d          A.36 utt2: {C so } you guys can actually get ahead <laughter>. /  
+
+ny          B.37 utt1:  Yeah <laughter>. /  
+
+sd          A.38 utt1:  {C But, }  {F uh, } they have sort of {D like, } {F uh, }  things that [ you c-, + you're not ] {D like }  reimbursed for or paid for.  /
+sd          A.38 utt2:  {D Like } we can recycle,  {F uh, } clear glass, brown glass, green glass.    
+
+b          B.39 utt1:  Yeah. /  
+
++          A.40 utt1:  {F Uh, } {C and } milk jugs and, {F uh, } newspapers,  {D you know, }  /
+sv          A.40 utt2: everyone does newspapers. /  
+
+aa          B.41 utt1:  Yeah,  /
+aa^r          B.41 utt2: yeah,  /
+aa^m          B.41 utt3: everybody does newspapers. /  
+
+sd          A.42 utt1:  {C But, }  [ that, +  that ] kind of stuff. /  
+
+b          B.43 utt1:  Yeah. /  
+
+sd          A.44 utt1:  {C But } [ they, + they ] said they can't be  smashed or else, {F uh, }  /
+sd          A.44 utt2: it doesn't fit in their little containers  /
+sd          A.44 utt3: {C and } they're not reimbursed  by [ the, + the ] people who are over them or something. /  
+
+sv          B.45 utt1:  {D Well, } shoot, maybe what we ought to do is  start sending unsmashed, {F uh, } Pepsi cans and whatever --   
+
+b          A.46 utt1:  Yeah <laughter>. /  
+
++          B.47 utt1:  -- up there <laughter>. /  
+
+aa          A.48 utt1:  Exactly,  /
+aa          A.48 utt2: yeah,  /
+sv          A.48 utt3: send it to this address,  /
+ar          A.48 utt4: no <laughter>. /  
+
+x          B.49 utt1:  <Laughter>.   
+
+^h          A.50 utt1:  {C But, }  {F uh, } <lipsmack> let's see,  /
+sd^t          A.50 utt2: they said that, [ how, + ways, ]  can encourage recycling, {F uh, } /  
+
+sd          B.51 utt1:  [ [ I, + I, ] + I ] tell you [ what, + what ] really works,  {F uh, } at least down here is, [ if there is, + if there is ] [ some,  e-, + even some ] money  basically to take care of the gas to recycle it, {A you know what I mean, }  then people tend to do it.  {F Uh, } /  
+
+b          A.52 utt1:  Yeah,  /
+%          A.52 utt2: that's, -/  
+
+sv          B.53 utt1:  In other words, taking care of the environment [ is, + is ]  all well and good -- /  
+
+b          A.54 utt1:  Uh-huh. /  
+
+sv          B.55 utt1:  -- {C but } if it's going to cost you to take  care of the environment, they're not quite as, {F uh } --   
+
+^2          A.56 utt1:  As likely to do it. /  
+
++          B.57 utt1:  -- likely to do it --   
+
+b          A.58 utt1:  Yeah. /  
+
++          B.59 utt1:  -- as [ if, + {F uh, } if ] you get something back for it.   {D You know. } /  
+
+aa          A.60 utt1:  Yeah,  /
+aa          A.60 utt2: that's true. /  
+
+sv          B.61 utt1:  [ {C And, } + {F uh, } {C so, } ] {D you know, } if there are  some energy savings or if there is some significant savings, anything that they can pass on to the consumer,  {D you know, } it kind of reminds me of using an A T M card, {D you know, } to get money --   
+
+b          A.62 utt1:  Uh-huh. /  
+
++          B.63 utt1:  -- or doing your banking. /  
+
+b          A.64 utt1:  Yeah. /  
+
+sv          B.65 utt1:  {D You know, } if it's free, people will  use it,  /
+sv          B.65 utt2: if it costs them something, then they're not as likely to use it. /  
+
+aa          A.66 utt1:  Yeah,  /
+aa          A.66 utt2: exactly. /  
+
+b          B.67 utt1:  You know.  /
+sd          B.67 utt2: {C But, }  {F uh, } I know we had a problem  down here with, {F uh, } [ oil, +  people taking oil ] out of their cars --   
+
+b          A.68 utt1:  Uh-huh. /  
+
++          B.69 utt1:  -- and just putting it down [ [ the d-, +  {D you know, } the s-, ] + the drain sewer. ] /  
+
+b          A.70 utt1:  Yeah. /  
+
+sd          B.71 utt1:  {C And,  {F uh, } all that,   because there was, - /
+sd          B.71 utt2: apparently a lot of people, {D you know, } every time they change the oil,  /
+sd          B.71 utt3: they just dump all [ the res-, + ]  their old oil down there. /  
+
+b          A.72 utt1:  Uh-huh. /  
+
+sd          B.73 utt1:  Now they're starting to recycle that stuff. /  
+
+ba          A.74 utt1:  {F Oh, } that's good.  /
+sv          A.74 utt2: {F Uh, } another thing  I thought of, I guess, to recycle would be like clothes, because {E I mean } everybody gets rid of  their clothes sometime or other.  /
+sv          A.74 utt3: {C And } <throat_clearing> one way that we do  it sort of [ in, + in ] Iowa is that we can take some of our clothes to the consignment shops. /  
+
+b          B.75 utt1:  Yeah. /  
+
+sv          A.76 utt1:  {C And } that way, {D you know, } you don't get near  enough [ as, + as ] much as you bought it for,  /
+sv          A.76 utt2: {C but } [ you, + you ] got the use out of it  /
+sv          A.76 utt3:  {C and } what you're going to basically donate to a Goodwill or whatever, anyways,  you can get a little bit of money for. /  
+
+b          B.77 utt1:  Yeah. /  
+
+sd          A.78 utt1:  {C And so } --   
+
+b          B.79 utt1:  Yeah. /  
+
++          A.80 utt1:  -- that's something that I've never, - /
+sd          A.80 utt2:  [ I, +  [ we're, + we're ] ] new to Iowa  /
+sd          A.80 utt3: {C so } <noise> that's something that I hadn't, {D you know, } looked into before.  /
+sv          A.80 utt4:   {C But } that's one way to sort of get money and still recycle, I guess. /  
+
+aa          B.81 utt1:  Yeah,  /
+sd          B.81 utt2: I know a lot of places, they, {F uh, } {F uh, } -/ 

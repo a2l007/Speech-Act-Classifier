@@ -1,0 +1,363 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2717_1117_1084
+TOPIC#:		322
+DATE:		910428
+TRANSCRIBER:	csw
+UTT_CODER:		AEE
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	Bad real time errors at the end of Caller B  Baby talking in
+background throughout Caller B's conversation.
+
+========================================================================
+  
+
+ad          A.1 utt1:  I'll let you go first. /  
+
+qo          B.2 utt1:  {F Oh, } {D well, } what's there to say?  /
+sv          B.2 utt2:   Doesn't seem like it's being carried out very well in my opinion.  /
+sv          B.2 utt3:   Seems like it takes so long between conviction  and  carrying out the penalty that I don't see that it makes any difference to sentence anybody. /  
+
+aa          A.3 utt1:  Yeah,  /
+sv          A.3 utt2: it seems like they could die of old age waiting to get the death penalty. /  
+
+b          B.4 utt1:  Yeah. /  
+
+b^m          A.5 utt1:  Yeah,  /
+ba          A.5 utt2: I know what you mean.  /
+%          A.5 utt3:  {F Um, }  I, - /
+sd          A.5 utt4:  in Maryland [ they, + they ] do have capital punishment, /  
+
+b          B.6 utt1:  # Uh-huh.  # /  
+
+sd          A.7 utt1:  # {C and, }  # {F uh, } I've seen, {F uh, } a lot of people get [ convicted, + sentenced, ]  /
+sd          A.7 utt2: {C and  then } just nothing happens,   
+
+b          B.8 utt1:  # Yeah.  # /  
+
++          A.9 utt1:  # just #  endless, endless, endless appeals. /  
+
+b          B.10 utt1:  Uh-huh,  /
+%          B.10 utt2: {D well } from what I underst-, - /
+sd          B.10 utt3:  I saw a statistic just a few days ago, {F um, } so far this [ ye-, + year, ]  or was it during the last year,  [ somewh-, + during ] a years time, I think it was they executed twenty-five people in the nation.  /
+sd          B.10 utt4: Meanwhile, there were twenty-five hundred people on death row. /  
+
+x          A.11 utt1:  <Sneezing>.   
+
+%          B.12 utt1:  {C So } [ I, + I, ] - /
+sv          B.12 utt2: {C and } it's building up, {D you know, }  /
+sv          B.12 utt3: [ they're, + they're ]  convicting them faster than they're executing them  /
+sv          B.12 utt4: {C so } it's really building up. /  
+
+aa          A.13 utt1:  Yeah,  /
+sv          A.13 utt2: what's amazing is some of them have been on death row for a number of years. /  
+
+b          B.14 utt1:  # Uh-huh.  # /  
+
+sd          A.15 utt1:  # {C And, }  # {F uh, } here in Maryland I know we have a real problem with overcrowding in prisons, {F uh, }  /
+%          A.15 utt2: just, -/  
+
+aa          B.16 utt1:  # Yeah,  /
+sv          B.16 utt2: everybody's got that.  # /  
+
+aa          A.17 utt1:  # Yeah,  /
+%          A.17 utt2: {C but } {E I mean, } # in, - /
+sd          A.17 utt3: here it's, {F uh, } to the point where they were letting prisoners go.    
+
+b          B.18 utt1:  Uh-huh. /  
+
++          A.19 utt1:  {F Uh, } commuting the sentences of those that were [ in, + in ] jail for lesser crimes,   
+
+b          B.20 utt1:  # Yeah.  # /  
+
++          A.21 utt1:  # in # order to put more people [ in, + into ] the jails. /  
+
+b          B.22 utt1:  # Uh-huh.  # /  
+
+sd          A.23 utt1:  # {C And } # it was just, {F uh, } amazing to me,  /
+sd          A.23 utt2:  {C and } of course they made a big deal out of [ the, + the ] few that got out and turned around and committed a crime within five days of getting out,   
+
+b          B.24 utt1:  # Yeah.  # /  
+
++          A.25 utt1:  # and # being rearrested an. -/  
+
+qy          B.26 utt1: [ Isn't, + isn't ] Maryland where the famous Willy Horton case was. /  
+
+no          A.27 utt1:  {F Uh, } I can't remember.  /
+ad          A.27 utt2:  Refresh my memory. /  
+
+sd          B.28 utt1: [ It was, + {F uh, } that was ]  the one that was used so much in the campaign.  [  In the politica-, + in the presidential ] race.   /
+sd          B.28 utt2: {F Uh, } [ may, + ] it may not have been Maryland.  /
+sd          B.28 utt3: It may have been Massachusetts,  /
+h         B.28 utt4: I don't remember. /  
+
+sd          A.29 utt1:  {F Um, } I don't remember myself. /  
+
+qy^t          B.30 utt1:  Anyway, {D well } the question is, {D you know, } do you think, [ i-, + it ]  does make a difference in whether or not a criminal commits a crime  /
+qrr^t          B.30 utt2: {C or } do you think it can if it's done right? /  
+
+sv          A.31 utt1:  <Sigh>  {F Um, } [ I think + [ if they, + if they ]  started executing them on a regular basis, {F uh, } [ that + ] I think  ] it might make a difference.  /
+sv          A.31 utt2:   Right now,   
+
+%          B.32 utt1:  # If it, # -/  
+
++          A.33 utt1:  # I don't # see it making a difference.  /
+sv          A.33 utt2: I don't see someone not going out there and committing murder because they're afraid they're going to get sentenced to death.  /
+sv          A.33 utt3: {E I mean, }    
+
+b          B.34 utt1:  # Uh-huh <baby>.  # /  
+
++          A.35 utt1:  # most people # out there committing murders  ((   ))  don't care.  /
+sv          A.35 utt2:  They just don't care. /  
+
+aa          B.36 utt1:  Yeah.  /
+sv          B.36 utt2: {D Well } I think in large measure the reason they don't care, - /
+sv          B.36 utt3: it's not because the punishment, - /
+sv          B.36 utt4: {C but } so many of the people that commit crimes don't get punished. /  
+
+b          A.37 utt1:  Yeah. /  
+
+sv          B.38 utt1:  The police don't catch them,  /
+sv          B.38 utt2: {C or } the courts don't convict them,  /
+sv          B.38 utt3: [ {C or, } +  {C or } ]  they don't serve very much of the time  /
+sv          B.38 utt4: {C and so, } {F uh, } {D you know, } [ their, + their ]  success rate is very high.  /
+^q          B.38 utt5: Crime does pay,  /
+^q          B.38 utt6:  [ ca-, + you can  ] make a good living at it. /  
+
+aa          A.39 utt1:  Yeah,  /
+aa^r          A.39 utt2: yeah,  /
+sd          A.39 utt3: {C and } [ there's, + {F uh, } there's ]  a lot of people here in Baltimore that, {F uh, } have - /
+sd          A.39 utt4: {C and } we just had, {F uh, } a real big cocaine bust,  /
+sd          A.39 utt5: {C and } of course, {D you know, } [ they're, + they're ]  playing it up real big that  it [ was, + ] looked like it was a very, very small ring  /
+sd          A.39 utt6: {C and } they just happened to get lucky and catch the guy. /  
+
+b          B.40 utt1:  # <Rustling>  Yeah.  # /  
+
+sd          A.41 utt1:  # {C But, }  {E I # mean, } {F uh, } Baltimore has, {F uh, } an all time record for the number of deaths so far this year.  /
+sd          A.41 utt2:  I think they've got over a hundred dead already this year. /  
+
+sd          B.42 utt1:  Last year it was D C,  /
+qy^d          B.42 utt2: I guess Baltimore caught them. /  
+
+na          A.43 utt1:  {D Well, } [ it's kind of, + it's kind of ] moved up  /
+sv          A.43 utt2: {C and } you have to remember  that [ [ [ it, + it, ] + it, ] + {F uh, } there's, ] I think, X number of people out there that are going to commit murders, /  
+
+b          B.44 utt1:  # Uh-huh <baby>.  # /  
+
+sv          A.45 utt1:  # {C and, }  {F uh, } # once you kill off a few of them <laughter>, -/  
+
+b          B.46 utt1:  # <Laughter>  Yeah.  # /  
+
+sv          A.47 utt1:  # {E I mean # } if you murder a guy because he murdered your partner or  something like that, {E I mean } pretty soon you run out of people to murder. /  
+
+aa          B.48 utt1:  Yeah,  /
+sv          B.48 utt2: the only consolation is so many of the murders are, {D you know, } - /
+sv          B.48 utt3: the, the violent people going against each other  /
+%          B.48 utt4: {C and so }  they,  {D you know, } - /
+sv         B.48 utt5: society's  not going to put them to death,  /
+sv          B.48 utt6: {D well } at least maybe the guy they cross next time is going to.  {F Uh, } - /
+sv(^q)          B.48 utt7: [ I think, + I think ]  capital punishment is an appropriate punishment for the kind of people where we say, {D you know, } this sort of person is just not acceptable to our society  /
+^q          B.48 utt8: {C and } we are there by going to remove them from society, not temporarily, but permanently. /  
+
+b          A.49 utt1:  Yeah. /  
+
+sv          B.50 utt1:  {E I mean, } [ I, + I ] personally think life imprisonment,  /
+sv          B.50 utt2: I don't think much [ of li-, + of life ] imprisonment.   First of all, it's never, turns out to be life,  /
+qh          B.50 utt3: {C but } second, {D you know, } why should we, - /
+sv          B.50 utt4: the idea of life imprisonment with no chance of parole.  /
+sv          B.50 utt5: {D Well } that means you're going to put them in a cage you think it's never ever going to be safe for them to walk the streets again,  /
+qh          B.50 utt6: {D well } then, why bother.  /
+sv          B.50 utt7: Just execute them, because [ that's, + that ] way you're sure they'll never ever going to walk the streets again. /  
+
+b          A.51 utt1:  Yeah. /  
+
+sv(^q)          B.52 utt1:  {C So } [ [ any, + any, ] + anybody ] that says life in prison with no chance of parole, I'd say, {F uh, } give them the death penalty <door>.  /
+%          B.52 utt2: {C So, } <baby>. -/  
+
+aa         A.53 utt1:  Yeah,  /
+ba          A.53 utt2: {D you know, } it makes sense, {F um, }  {D you know,  }  /
+sv          A.53 utt3: you have the occasional person who may have been falsely accused,  but {E I mean, } {F uh, } so few and far between, {F uh, } {D you know, }  /
+sv          A.53 utt4: makes good T V movies  /
+sv          A.53 utt5: {C and } that's about it. /  
+
+aa          B.54 utt1:  Yeah,  /
+sv          B.54 utt2: [ {C and, } +  {C and } ] also, {F um, } [ the, + the ]  thing I don't like about a lot of these court trials  and a lot of these appeals is that it's not based on what is true and what is false  /
+sv          B.54 utt3: {C but } rather it's on <baby> the rules of evidence, what can I hide and what do I have to tell. /  
+
+b          A.55 utt1:  Yeah. /  
+
+sv          B.56 utt1:  {C And } I think our courts should be geared much more strongly <baby> towards finding out the truth than they currently are. /  
+
+b          A.57 utt1:  Yeah. /  
+
+sv          B.58 utt1: [ {C And, } + {C and } ]  that way we can be sure, {D you know, } - /
+sv          B.58 utt2: we can find out the truth,  /
+sv          B.58 utt3: we can find out what really happened [ and, + and ] base the [ ver-, + sentence ]  on what the person did, not on what we're allowed to let the jury hear <baby>. /  
+
+aa          A.59 utt1:  Yeah,  /
+%          A.59 utt2:  I had, - /
+sd          A.59 utt3: [ my, + {F uh, } my ] father-in-law participated in [ a, + {F uh, } a ] jury trial,  /
+sd          A.59 utt4: [ he was, + he was ] actually on the jury, /  
+
+b          B.60 utt1:  # Uh-huh <baby>.  # /  
+
+sd          A.61 utt1:  # {C and, }  {F uh, } # this man was accused of killing, {F uh, } I think it was two people, {F uh, } and shooting a, {F uh, } policeman, {F um, } point blank in the face.  /
+sd          A.61 utt2: Of course he didn't die. /  
+
+b          B.62 utt1:  # Uh-huh.  # /  
+
+sd          A.63 utt1:  # {C And, }  # {F uh, } this was during a holdup of [ a, + {F uh, } {F uh, } a ]  restaurant  /
+sd          A.63 utt2: {C and } it came out during the trial that, {F um, } they had tried to rob another place  /
+sd          A.63 utt3: {C and, } {F uh, } when the guy came out with the bag they thought was money, it turned out to be a  couple [ cookies,  and,  +  {F uh, } {D you know, } jumbo cookies ]  /
+sd          A.63 utt4: [ {C and, } + {C and so } ]  they were so upset from robbing this guy, {D you know, } trying to do this holdup that didn't work that they quite literally were mad and went into a restaurant to hold the place up and just started, {D you know, } shooting people. /  
+
+bf          B.64 utt1:  # Just started shooting people, #   
+
+%          A.65 utt1:  # You know it's, # -/  
+
++          B.66 utt1:  because they botched the first job  /
+bf          B.66 utt2: {C and,    
+
+aa          A.67 utt1:  # Yeah.  # /  
+
++          B.68 utt1:  # so } # now they're going to get even. /  
+
+aa          A.69 utt1:  Yeah,  /
+qh          A.69 utt2: {C and } get even with who,  /
+%          A.69 utt3: {E I mean, }  -/  
+
+b          B.70 utt1:  # Yeah.  # /  
+
+sv          A.71 utt1:  # {C you # know, } stupid guys <laughter>.  /
+sd          A.71 utt2:  {C And, }  {F uh, } it turned out  that the, {D you know, } policeman survived to the point that he was able to, {D you know, } identify the guy. /  
+
+b          B.72 utt1: # Uh-huh. # /  
+
+sd          A.73 utt1:  # {C And } # of course, {D you know, } they tried to make the cop look [ ou-, + ] like he was, {F uh, } a, {F uh, } no good rotten drunk. /  
+
+b          B.74 utt1:  # Yeah.  # /  
+
+sd          A.75 utt1:  # {E I # mean } it was amazing. /  
+
+qw          B.76 utt1:  {D So } what was the verdict,  /
+qw          B.76 utt2: what was the results there. -/  
+
+sd          A.77 utt1:  {F Oh, } he was found guilty,  /
+%          A.77 utt2: yeah. /  
+
+bk          B.78 utt1:  # Oh.  # /  
+
+%          A.79 utt1:  # He, # {F uh, } {F um, } - /
+sd          A.79 utt2: last I heard, [ he, + {F uh, } he ]  beat a push for the death penalty.  /
+sd          A.79 utt3: {D Now } whether they finally got it or not, I don't know. /  
+
+b          B.80 utt1:  # <Baby>  Uh-huh.  # /  
+
+sd          A.81 utt1:  # I kind # of, {F uh, } stopped listening after a while. /  
+
+b          B.82 utt1:  Uh-huh. /  
+
+sd          A.83 utt1:  {F Um, } {D you know, } he would come home  /
+sd          A.83 utt2: [ {C and, } + {C and, } ]  {D you know, } after the trial was over he came home and told us what was going on  /
+sd          A.83 utt3: {C and } of course then they had to go back to dec-, {D you know, } - /
+sd          A.83 utt4: after he had to go, -/  
+
+qy^d          B.84 utt1:  [ The, + the ] penalty phase,  /
+%          B.84 utt2: yeah,  /
+qy^d          B.84 utt3: they've, decide the penalty separately from the verdict. /  
+
+na          A.85 utt1:  Right.  /
+sd(^q)          A.85 utt2: {C And, }  {F uh, } {D yeah } [ everybody, + everybody ] was pretty much, {D you know, } let's burn him. /  
+
+b          B.86 utt1:  # Uh-huh.  # /  
+
+sd          A.87 utt1:  # {C And } # [ that's, + {D you know, } that's ]  the way they wanted to do it.  /
+sd          A.87 utt2: {C And } he was surprised because he thought there was going to be a problem because he, {F uh, } - /
+sd          A.87 utt3:  {D you know } some people on the case [ were, + were  ] a little hesitant on convicting him on some of the charges  /
+sd          A.87 utt4: {C but } {E I mean } when it all came down, they just, within an hour decided the man's fate. /  
+
+b          B.88 utt1:  </Baby> Yeah,  /
+sv          B.88 utt2:  {D well, } {D you know, } you just have to decide, {D you know, } wha-, yo-, - /
+sv          B.88 utt3:  {D well } there's really two separate decisions there I guess,  /
+qh          B.88 utt4: one is, did it really happen the way [ the, + the ] prosecutor said it happened, {D you know, }  /
+qh          B.88 utt5: is this man really guilty,  /
+sv          B.88 utt6: {C and } you have to decide that,  /
+qh          B.88 utt7: {C but } then you have to decide, {D you know, } as a member of society what do I want to do with this guy who did this thing. /  
+
+b          A.89 utt1:  Yeah. /  
+
+%          B.90 utt1:  {C And } that w-, - /
+sd          B.90 utt2: [ I, + I've ] never been on a jury,  /
+sd          B.90 utt3: I've never had that experience,  /
+sd          B.90 utt4: I'm not sure I'd look forward to making that kind of decision about a man's life. /  
+
+aa          A.91 utt1:  Yeah,  /
+aa^r          A.91 utt2: yeah,  /
+sd          A.91 utt3: {D well, } [ [ it, + it, ] + it ] went [ pretty, + pretty ] quick from what he said. /  
+
+b          B.92 utt1:  # Uh-huh <baby>.  # /  
+
+sv          A.93 utt1:  # {C But } {E I # mean } [ [ there's, + there's, ] + there's ] a lot of other crimes out there,  {E I mean } besides murder,  /
+sv          A.93 utt2: I think, {F uh, } {D now } if you're dealing drugs {D now, }   
+
+b          B.94 utt1:  # Uh-huh.  # /  
+
++          A.95 utt1:  # caught # more than twice or something, {F uh, }     
+
+b          B.96 utt1:  # Yeah.  # /  
+
++          A.97 utt1:  #  [ it, + ] # there's, {F uh, } a death penalty associated with it. /  
+
+sd          B.98 utt1:  {D Well } the thing I'd be most likely to attach the death penalty to is the violence.  /
+%          B.98 utt2: {E I mean, } ye-,  /
+sd          B.98 utt3: I can handle [ people, + people ]  selling drugs, {D you know, }  /
+sv          B.98 utt4: [ it's, + it's ] wrong,  /
+sv          B.98 utt5: {C but } [ it, + it's ] not worth somebody getting executed for.  /
+sv          B.98 utt6:  {C But } we hear so much about the violence and how it's not safe to walk the streets because [ somebody, + ] {D you know, } these  random drive by shootings and that sort of thing. /  
+
+b          A.99 utt1:  # Uh-huh.  # /  
+
+sd          B.100 utt1:  # {C And } # the people I'd most likely want to sentence to death are the people that just show a really low regard for human life.  /
+%          B.100 utt2: That, {D you know, } - /
+sv          B.100 utt3: you, never know when they're going to turn or hurt the next person because it doesn't really matter to them whether someone else gets hurt or not. /  
+
+aa          A.101 utt1:  Yeah,  /
+aa^r          A.101 utt2: yeah,  /
+aa          A.101 utt3: I agree. /  
+
+%          B.102 utt1:  {C And so } I go, le-, - /
+sd(^q)          B.102 utt2: these are the kind of people I would like to [ ye-, + ] get out of here and get out of circulation and say [ I don't, + we don't ] accept your kind in our society. /  
+
+aa          A.103 utt1:  Yeah,  /
+aa          A.103 utt2: I agree,  /
+sd          A.103 utt3: [ [ I, +  I've, ] + I have, ] {F uh, } a low tolerance for [ that kind of, + {F uh, } that kind of ] person.  /
+%          A.103 utt4: {C And, }  {F uh, } as far as, {F uh, } {D you know } - /
+%          A.103 utt5: there are [ some, + some ] other crimes that I think, {F uh, } {D you know, } {F uh, } - /
+%          A.103 utt6: kidnapping, {F um, } {D you know, }  when they, - /
+sd          A.103 utt7: {E I mean } kidnapping per se has a certain, {F uh, } {F uh, } fine and penalty associated with it, /  
+
+b          B.104 utt1:  # Uh-huh.  # /  
+
+sv          A.105 utt1:  # {C but, }  # {F um, } some of these people are just out and out brutal.  /
+%          A.105 utt2: I, - /
+sd          A.105 utt3: some of the cases I've heard about over the years, -/ 

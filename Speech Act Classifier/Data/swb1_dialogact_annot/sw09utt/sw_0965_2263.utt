@@ -1,0 +1,390 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2263_1043_1059
+TOPIC#:		321
+DATE:		910326
+TRANSCRIBER:	CAP
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+o          B.1 utt1:  Okay. /  
+
+b^m          A.2 utt1:  Okay <laughter>.  /
+sd^t          A.2 utt2: They suggested that we, {F uh, } discuss what we think of when we say camping. /  
+
+b          B.3 utt1:  Yeah.  /
+qw          B.3 utt2:  [ What do you, + where do you ] like to camp?  /
+qo          B.3 utt3:  How do you like to camp? /  
+
+sd          @A.4 utt1:  {F Oh, } I can camp just about, most anyway <laughter>.  /
+sd          @A.4 utt2:  Camping or, {F uh, } motor home is nice, {F uh, } travel trailer, pop up, /  
+
+sd          B.5 utt1:  I used to, {F uh, } live in the Ozarks and, {F uh } --   
+
+bh          A.6 utt1:  {F Oh, } really? /  
+
++          B.7 utt1:  -- liked to go up there and just take a backpack and --   
+
+b          A.8 utt1:  Oh. /  
+
++          B.9 utt1:  -- strike out into the woods. /  
+
+bf          A.10 utt1:  You really rough it then. /  
+
+aa          B.11 utt1:  Yeah. /  
+
+b          A.12 utt1:  Uh-huh.  /
+qy          A.12 utt2:  Do you do that very often? /  
+
+ng          B.13 utt1:  I haven't done it in quite awhile --   
+
+b          A.14 utt1:  Uh-huh. /  
+
++          B.15 utt1:  -- since I moved down here.  /
+sd          B.15 utt2: {C But } I used to do it --   
+
+b          A.16 utt1:  Uh-huh. /  
+
++          B.17 utt1:  -- quite a bit. /  
+
+qy^d          A.18 utt1:  You'd have a lot of hills [ in that, + down in that ] area. /  
+
+ny          B.19 utt1:  Yeah,  /
+ny^r          B.19 utt2: yeah -- /  
+
+b^m          A.20 utt1:  Yeah. /  
+
+sd          B.21 utt1:  -- it was real hilly. /  
+
+sv          A.22 utt1:  That would be really great. /  
+
+sd          B.23 utt1:  Take a twenty-two  /
+sd          B.23 utt2: {C and } go out. /  
+
+br          A.24 utt1:  Pardon? /  
+
+sd^r          B.25 utt1:  Take a twenty-two  /
+sd          B.25 utt2: {C and } find a creek. /  
+
+b          A.26 utt1:  Uh-huh.  /
+sv          A.26 utt2:  That sounds like it'd be fun.  /
+qr          A.26 utt3:  Did you go alone or with a group or, -/  
+
+sd          B.27 utt1:  I used to go with my brother. /  
+
+b          A.28 utt1:  Uh-huh. /  
+
+sd          B.29 utt1:  We just lived up there. /  
+
+b          A.30 utt1:  Uh-huh.  /
+ba          A.30 utt2:  {F Oh, } that's great.  Long as it's not raining. /  
+
+b          B.31 utt1:  Yeah, /  
+
+x          A.32 utt1:  <Laughter>.   
+
+%          B.33 utt1:  it gets kind of, - /
+sd          B.33 utt2: [ I, + we ] used to have one of those little caves you can go back in --   
+
+b          A.34 utt1:  Uh-huh. /  
+
++          B.35 utt1:  -- get out of the rain. /  
+
+b          A.36 utt1:  Really,  /
+%          A.36 utt2: {F oh, } that would be, -/  
+
+sd          B.37 utt1:  {C But } I don't know much about camping in Texas. /  
+
+b          A.38 utt1:  Huh-uh.  /
+sd          A.38 utt2: {D Well, } I'm in Pennsylvania. /  
+
+qy          B.39 utt1:  You live in Pennsylvania?  <Laughter>. /  
+
+ny          A.40 utt1:  Yes <laughter>. /  
+
+sd          B.41 utt1:  I didn't know they did this. /  
+
+qy          A.42 utt1:  Are you in Texas, now? /  
+
+ny          B.43 utt1:  Yeah. /  
+
+bk          A.44 utt1:  Oh.  /
+bk          A.44 utt2: Okay. /  
+
+b          B.45 utt1:  Yeah.  /
+sd          B.45 utt2:  I'm down here at T I. /  
+
+sd          A.46 utt1:  Most everybody I've been talking to is from Texas,  /
+sd          A.46 utt2: {C but, } {F uh, } we're up here in [ western, + northwestern ] part of Pennsylvania. /  
+
+sd          B.47 utt1:  I used to be in Ohio,  /
+sd          B.47 utt2: it's some pretty country up there. /  
+
+b          A.48 utt1:  Uh-huh.  /
+bf          A.48 utt2:  {D Well } you kind of know what it's like, then.  /
+%          A.48 utt3:  Yeah. /  
+
+%          B.49 utt1:  {D So, } -/  
+
+sd          A.50 utt1:  {C But, } [ we've, + {F uh, } we've ] done, {F uh, } many types of camping.  /
+sd          A.50 utt2:  [ We've, + we've ] done tent camping,  /
+sd          A.50 utt3: {C and } we had access to a motor home which is really super great, <laughter> if you don't want to rough it too much. /  
+
+b          B.51 utt1:  Yeah.  /
+sv          B.51 utt2:  [ You can get the, + they have some ] nice camping grounds --   
+
+b          A.52 utt1:  Uh-huh. /  
+
++          B.53 utt1:  -- {D you know, } that have the water piped out -- /  
+
+b          A.54 utt1:  Uh-huh. /  
+
+sv          B.55 utt1:  -- just set it up  /
+sv          B.55 utt2: {C and } [ get out of, + get out of ] the city for awhile. /  
+
+aa          A.56 utt1:  Right.  /
+sv          A.56 utt2:  Just get you away from the everyday things that are going on.  /
+sd          A.56 utt3:  [ We, + when the children were smaller we ] used to go to, {F uh, } Delaware along the [ o-, + ocean ] most every year.  /
+sd          A.56 utt4:  {C And } that was fun  /
+sd          A.56 utt5: we stayed mostly in state parks  /
+sd          A.56 utt6: {C and, } {F uh, } we really enjoyed that. /  
+
+^h          B.57 utt1:  Tell you what,  /
+sd^c          B.57 utt2: I'm losing you. /  
+
+br          A.58 utt1:  Huh? /  
+
+sd^c          B.59 utt1:  I said I'm losing you,  /
+sd^c          B.59 utt2: [ you're getting fad-, + you're fading ] out. /  
+
+sd          A.60 utt1:  {F Oh, } maybe [ my, + dropping my ] phone.  /
+qy          A.60 utt2: Is that better? /  
+
+ny          B.61 utt1:  Yeah. /  
+
+bk          A.62 utt1:  <Laughter> Oh.  /
+%          A.62 utt2: {C But, } -/  
+
+%          B.63 utt1:  {D So } what,  /
+qy          B.63 utt2: you try to go and take a vacation every year and go out and camp? /  
+
+ny          A.64 utt1:  Yeah.  /
+sd^e          A.64 utt2:  {D Well, } we used to,  /
+sd          A.64 utt3: we don't as much anymore,  /
+sd          A.64 utt4: {C but, } {F uh, } we used to.  /
+sd          A.64 utt5:  We kind of slowed down a little bit.  /
+sv          A.64 utt6: {C But, } {F uh, } I think [ the worst, + the worst ] thing is when it's raining.  /
+sv          A.64 utt7:  If you get a rainy season and you happen to be camping --   
+
+b          B.65 utt1:  Yeah. /  
+
++          A.66 utt1:  -- then it can be kind of bad. /  
+
+sd          B.67 utt1:  I know the rain bring out the snakes or used to bring them out in the Ozarks, /  
+
+b          A.68 utt1:  Uh-huh. /  
+
+sv          B.69 utt1:  That's [ kind of, + kind of ] rough when you got to fight snakes off when your sleeping. /  
+
+sd          A.70 utt1:  I don't think I would like that.  /
+qw          A.70 utt2:  What kind? /  
+
+sd          B.71 utt1:  {F Uh, } copperheads mostly, /  
+
+bk          A.72 utt1:  Oh.  /
+sv          A.72 utt2: Those aren't too pleasant. /  
+
+aa          B.73 utt1:  No,  /
+%          B.73 utt2: they're. -/  
+
+b          A.74 utt1:  Yeah.  /
+sd          A.74 utt2:  We have some of them around here.  /
+sv          A.74 utt3:  You probably have more there, though, I would imagine. /  
+
+aa          B.75 utt1:  Yeah.  /
+sd          B.75 utt2:  One year [ they were, + they were ] just everywhere. /  
+
+b          A.76 utt1:  Oh. /  
+
+sd          B.77 utt1:  I don't know what it was,  /
+sd          B.77 utt2: we had a real rainy spring -- /  
+
+b          A.78 utt1:  Uh-huh. /  
+
+sd          B.79 utt1:  -- {C and then } it was all year,  /
+sd          B.79 utt2: there was just copperheads everywhere. /  
+
+b          A.80 utt1:  Uh-huh.  /
+qy^d          A.80 utt2:  {C But } you still backpacked and camped out. /  
+
+ny          B.81 utt1:  Yeah.  /
+sd^e          B.81 utt2:  {D Well } I lived [ down in, + down in ] the bottom of a big hollow  /
+sd          B.81 utt3: {C and } we had to pretty much hike out most of the time. /  
+
+b          A.82 utt1:  Uh-huh. /  
+
+sd          B.83 utt1:  If it rained we were stuck back in there.  /
+sd          B.83 utt2:  Had a four wheel drive. /  
+
+b          A.84 utt1:  Uh-huh. /  
+
+sd          B.85 utt1:  You just get used to it. /  
+
+b         A.86 utt1:  Yeah.  /
+qy^d          A.86 utt2:  I guess you know enough to look where you're walking or sitting --   
+
+ny          B.87 utt1:  Yeah. /  
+
++          A.88 utt1:  -- or whatever you're doing.  /
+b          A.88 utt2: Yeah.  /
+b^r          A.88 utt3:  Yeah,  /
+qy^d          A.88 utt4: [ I would think, + I would think ] a cave [ would be, + could have ] problems like that, too. /  
+
+ny          B.89 utt1:  Yeah.  /
+sd^e          B.89 utt2:  This cave that we used to go in was little,  /
+sd          B.89 utt3: it was small  /
+sd          B.89 utt4: [ it was more -- +   
+
+b          A.90 utt1:  Uh-huh. /  
+
++          B.91 utt1:  -- it was just ] big enough for a couple of people to sack out. /  
+
+b          A.92 utt1:  Uh-huh,  /
+qy          A.92 utt2: is your brother younger than you  /
+%          A.92 utt3: {C or, } -/  
+
+ny          B.93 utt1:  Yeah.  /
+sd^e          B.93 utt2:  He's about a year and a half younger. /  
+
+b          A.94 utt1:  Uh-huh,  /
+b^r          A.94 utt2: uh-huh,  /
+ba          A.94 utt3: {D well, } that's great,  /
+sv          A.94 utt4: that'd be a lot of fun.  /
+bf          A.94 utt5: You have a lot good experiences from that.  /
+%          A.94 utt6:  Yeah. /  
+
+aa          B.95 utt1:  Yeah.  /
+aa^r          B.95 utt2:  Yeah,  /
+aa          B.95 utt3: it was.  /
+sd          B.95 utt4: Saw a few bears --   
+
+bh          A.96 utt1:  Did you really? /  
+
++          B.97 utt1:  -- things like that. /  
+
+qy          A.98 utt1:  What, black ones? /  
+
+ny          B.99 utt1:  # Yeah. # /  
+
+b^m          A.100 utt1:  # Yeah.  /
+sv          A.100 utt2: #  That would be exciting. /  
+
+aa          B.101 utt1:  Yeah,  /
+sv          B.101 utt2: the [ first, + first ] couple of times it's pretty scary  /
+sv          B.101 utt3: {C but, } {F uh, }   
+
+x          A.102 utt1:  <Laughter>.   
+
++          B.103 utt1:  after that you realize they are just as afraid of you, too. /  
+
+aa          A.104 utt1:  Yeah,  /
+sv          A.104 utt2: they're usually more afraid of you than you are of them, usually. /  
+
+%          B.105 utt1:  {C But, } {F uh, } -/  
+
+sd          A.106 utt1:  They're on the increase in this area. /  
+
+bh          B.107 utt1:  {F Oh, } really? /  
+
+ny          A.108 utt1:  Uh-huh. /  
+
+%          B.109 utt1:  I don't know if, - /
+qy^g          B.109 utt2: they don't have them up there do they? /  
+
+qy^h          A.110 utt1:  The black bear. /  
+
+ny          B.111 utt1:  # Yeah. # /  
+
+ny^m          A.112 utt1:  # {F Oh, } yeah. # /  
+
+bh          B.113 utt1:  # {F Oh, } do they? # /  
+
+ny          A.114 utt1:  # Yeah,  /
+sd^e          A.114 utt2: # the population's been really up.  /
+sd          A.114 utt3:  [ They've, + {F uh, } they've ] had longer hunting seasons than that even to get rid of more of them, because they were, {F uh, } increasing so much. /  
+
+b          B.115 utt1:  Yeah,  /
+sd          B.115 utt2: [ they, + down here [ they, + they ] ] stopped for awhile  /
+sd          B.115 utt3: {C or } they really made it hard to hunt them. /  
+
+b          A.116 utt1:  Uh-huh. /  
+
+sd          B.117 utt1:  I don't know what it's like now,  /
+sd          B.117 utt2: I haven't been back up there in awhile. /  
+
+b          A.118 utt1:  Yeah.  /
+sd          A.118 utt2:  {C But, } {F uh, } [ we, + we ] really like camping.  /
+sd          A.118 utt3:  [ I, + I ] must say that, {F uh, } [ we ha-, + we really have ] a lot of fun, a lot of memories in that from camping  /
+%          A.118 utt4: {C and, } {F uh. } -/  
+
+sv          B.119 utt1:  {D Well, } it's good to get out and smell some fresh air, too. /  
+
+aa          A.120 utt1:  Yeah.  /
+aa^r          A.120 utt2:  Yeah. /  
+
+%          B.121 utt1:  {D So, } -/  
+
+sv          A.122 utt1:  [ It's just, + {C so, } it's ] a lot of work, too -- /  
+
+b          B.123 utt1:  Yeah. /  
+
+sv          A.124 utt1:  -- it's, {F uh, } [ get-, + {D you know, } getting ] ready and taking care of everything.  /
+sv          A.124 utt2: {C But } [ it's, + {F um, } it's ] really refreshing.  /
+%          A.124 utt3: {C So, } -/  
+
+fc          @@B.125 utt1:  {D Well, } I think we're about to run out of our time. /  
+
+fc          A.126 utt1:  I think so <laughter>.  /
+fc          A.126 utt2: {D Well, } it was really good hearing from you  /
+fc          A.126 utt3: {C and } --   
+
+fc          B.127 utt1:  Yeah. /  
+
++          A.128 utt1:  -- I hope you get back into camping again, and do a little more of it. /  
+
+fc          B.129 utt1:  Yeah.  /
+fc          B.129 utt2:  I'm sure, I will. /  
+
+fc          A.130 utt1:  Okay.  /
+fc          A.130 utt2: Thanks a lot,  /
+fc          A.130 utt3: {C and } you have a good day. /  
+
+fc          B.131 utt1:  You, too. /  
+
+fc          A.132 utt1:  Bye-bye. /  
+
+fc          B.133 utt1:  Bye. / 

@@ -1,0 +1,242 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2770_1253_1059
+TOPIC#:		351
+DATE:		910502
+TRANSCRIBER:	csw
+UTT_CODER:      aabo
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	Caller B had music playing fairly loudly in the background the
+entire conversation.
+
+==========================================================================
+  
+
+qy          B.1 utt1:  <Music> {D So } have you got a pet. /  
+
+%          A.2 utt1:  Y-, - /
+nn          A.2 utt2: no,  /
+sd^e          A.2 utt3: I don't,  /
+%          A.2 utt4: an - /
+sd          A.2 utt5: my kids would love a pet.  /
+sd          A.2 utt6:  I had a pet when I was a girl.  /
+sd          A.2 utt7: I had a Cocker Spaniel.  /
+sd          A.2 utt8:  {C And } I think one thing about pets is they're a lot of company. /  
+
+b          B.3 utt1:  Yeah, /  
+
+sv          A.4 utt1: [ You can, + you can ] tell them anything  /
+sv          A.4 utt2: {C and } they won't tell anybody. /  
+
+aa          B.5 utt1:  That's right,  /
+bf          B.5 utt2: that's {D like } unconditional affection. /  
+
+aa          A.6 utt1:  Right,  /
+sd          A.6 utt2: as a matter of fact, I was thinking that same thing, unconditional love.  /
+sv          A.6 utt3:  They just give it,   
+
+b          B.7 utt1:  Yeah. /  
+
++          A.8 utt1:  and don't expect too much.  /
+qy          A.8 utt2:  {D Anyway, } do you have a pet? /  
+
+na          B.9 utt1:  I had a cat,  /
+sd          B.9 utt2: I've had several cats.  /
+sd          B.9 utt3: My pet, {F uh, } was hit by a car New Year's Eve,  /
+%          B.9 utt4: {C but, } {F uh, } -/  
+
+b          A.10 utt1:  Oh! <Noise> <<Sounds like a cat>>. /  
+
+sd          B.11 utt1:  I'm going to get another one as soon as I get back in town.  /
+sd          B.11 utt2:  I'm going out of town this weekend,  /
+sd          B.11 utt3: when I get back I'm going to find a cat.  /
+%          B.11 utt4:  {C So, } -/  
+
+by          A.12 utt1:  {F Oh, } I'm so sorry.  /
+sv          A.12 utt2:  {C But } that's good that you're going to get another one. /  
+
+b          B.13 utt1:  Yeah. /  
+
+sd          A.14 utt1:  I know some of my friends who have pets, {F uh, }  /
+sd          A.14 utt2: {C and } they just are really, {D you know, } - /
+sd          A.14 utt3: the ones that have dogs are very, {F uh, } protective of them  /
+sv          A.14 utt4: {C and } I think that's one reason they have them, especially older people that I know, that have pets.  /
+sd          A.14 utt5: {C But } they just, {F um, } really take care of them, or, {F uh, } are protective of them. /  
+
+%          B.15 utt1:  Ye-, - /
+sd          B.15 utt2: I work and go to school  /
+sd          B.15 utt3: {C and } it's kind of nice  /
+%          B.15 utt4: tha-, - /
+sd          B.15 utt5: you come home [ your, + your ] pet's there for you  and [ s-, + ] wants a little food a little attention. /  
+
+b          A.16 utt1:  # Yeah,  /
+%          A.16 utt2: an, - /
+sd          A.16 utt3: {C and } [ my, + my ] kids, # /  
+
+%          B.17 utt1:  # {C And } that's, - /
+sd          B.17 utt2: it's kind of fun. #  /
+x           B.17 utt3: <Noise> <<Sounds like cabinet shutting>>.   
+
+sd          A.18 utt1:  {F um, } they really want a dog badly,  /
+sd          A.18 utt2: {C and } they've been looking and looking  /
+%          A.18 utt3: {C and } want, {D you know, } - /
+sd          A.18 utt4: they'd take anything I think <laughter>, /  
+
+b          B.19 utt1:  Yeah. /  
+
+sd          A.20 utt1:  {C but, } {F um, } I don't know do you like, - /
+qy^d          A.20 utt2: I guess your cat was an indoor cat. /  
+
+nn          B.21 utt1:  No  /
+sd^e          B.21 utt2: it was [ an in-, + ] kind of indoor, outdoor,  /
+%          B.21 utt3: [ it, +    
+
+^2          A.22 utt1:  It kind of traveled around <laughter>  /
+%          A.22 utt2:  (( travel )) . -/  
+
++          B.23 utt1:  it ] was, - /
+aa          B.23 utt2: {D well } yeah,  /
+sd          B.23 utt3: [ I don't, + I don't ] care for the smell of the litter box  /
+sd          B.23 utt4: {C so } my cat was trained to go outside,  /
+sd          B.23 utt5: other than that it was inside when it wanted to be, it was outside when  ((   )) . -/  
+
+b          A.24 utt1:  Yeah,  /
+sd          A.24 utt2: when I had a Cocker Spaniel [ it, + it ] was an outdoor dog  /
+sd          A.24 utt3: {C and, } {F uh, } I think I liked that better. /  
+
+b          B.25 utt1:  Yeah,  /
+%          B.25 utt2: [ I, + I,  think, ] {D you know, } - /
+sd          B.25 utt3: I like dogs,  /
+%          B.25 utt4: {C but } I think that, {F uh, } - /
+%          B.25 utt5: I'm, - /
+sd          B.25 utt6: kind of like [ big do-, + big dogs ]  /
+sv          B.25 utt7: {C and } you have to have room for them. /  
+
+aa          A.26 utt1:  Yeah,  /
+aa          A.26 utt2: that's true. /  
+
+sd          B.27 utt1:  {C And } dogs take [ a lot of, + a lot ] more care than cats do.  /
+sd          B.27 utt2:  Cats are pretty independent, {D you know, }  /
+sd          B.27 utt3: you feed them  /
+sd          B.27 utt4: {C and } they keep themselves clean  /
+sd          B.27 utt5: {C and, } [ if you, +   
+
+aa          A.28 utt1:  Yeah,  /
+aa          A.28 utt2: that's true. /  
+
++          B.29 utt1:  if you ] raise them right, {D you know, } you don't have to worry about the litter box thing, where with dogs you really do have to let them out and take them for walks and --   
+
+^2          A.30 utt1:  Take them for walks,  /
+b          A.30 utt2: right. /  
+
++          B.31 utt1:  -- things like that. /  
+
+aa          A.32 utt1:  Yeah,  /
+sd          A.32 utt2: I see all the people [ on, + on ] Sunday going for a walk with their dogs  /
+sd          A.32 utt3: [ {C and, } + {C and  } ] [ I, + I'm ] kind of skeptical with my son getting a dog,  /
+sd          A.32 utt4: I'm like I know it will be fun the first week maybe, /  
+
+b          B.33 utt1:  Yeah. /  
+
+sd          A.34 utt1:  {C and then } mom gets to take care of it, or something.  /
+%          A.34 utt2: {C So, } I gue-, -/  
+
+b          B.35 utt1:  Yeah,  /
+sd          B.35 utt2: I got to take care of a friend of mine's dog.  /
+sd          B.35 utt3:  He's just got a puppy  /
+sd          B.35 utt4: {C and } he was out of town last weekend  /
+sd          B.35 utt5: {C and } of course the dog is not trained for anything yet,  /
+sd          B.35 utt6: {C so } it was, go over there and clean up after the dog,  /
+o@          B.35 utt7: {C and, }   
+
+ba           A.36 utt1:  {F Oh, } that's exciting. /  
+
++@          B.37 utt1: [ that's, + that's ] a major chore, {D you know, } [ if you don't, + if you don't ] keep up with it. /  
+
+b          A.38 utt1:  Yeah. /  
+
+%          B.39 utt1:  {C And, } {F uh, } kids kind of, - /
+sd          B.39 utt2: [ they want the, + they want the ] fun part and [ not the, + not the ] work. /  
+
+b          A.40 utt1:  Yeah,  /
+sv          A.40 utt2: I think it's really important to [ that, + that ] if you get a pet that they're {C either } spayed {C or } neutered so that, {D you know, } we're not just going on with this pet population and having to,   
+
+b          B.41 utt1:  Yeah. /  
+
++          A.42 utt1:  just get rid of them.  /
+sv          A.42 utt2: [ That, + that ] kind of gripes on me some,  /
+h          A.42 utt3: [ {C but, } + {C but } ] I don't know. /  
+
+sv          B.43 utt1:  # {D Well } [ if you're, + if you're ] going to have a pet, #   
+
+^2          A.44 utt1:  # More and more people are, # -/  
+
++          B.45 utt1:  and not have it neutered or spayed you need to be willing to, {D you know } deal with the consequences,   
+
+b          A.46 utt1:  Right,  /
+b^r          A.46 utt2: right. /  
+
++          B.47 utt1:  take care of the offspring  /
+sv          B.47 utt2: [ {C and, } + {C and } ] I think,   
+
+%          A.48 utt1:  {C But, } {F uh, } -/  
+
++          B.49 utt1:  {D you know, } - /
+sd          B.49 utt2: when I was growing up we had cats  /
+sv          B.49 utt3: {C and, } {D you know, } just seeing [ the cats, + ] {D you know, } [ the, + the ] miracle of birth, {D you know, } {A put that in quotes, } [ is tha-, + ] [ that's a, + that's a ] neat thing [ to, + to ] experience as a kid  and  understand, /  
+
+aa          A.50 utt1:  I think that's really true. /  
+
+sv          B.51 utt1: [ {C and, } + {C and } ] it was a real positive thing,  /
+sv          B.51 utt2: {C but } on the other hand you don't want to, [ you'd + ] be one of these people that dumps the kittens off on the side of the road, {D you know, } /  
+
+b          A.52 utt1:  Yeah. /  
+
+^q          B.53 utt1:  [ [ th-, + they're, ] + they're, ] getting old now,  /
+^q          B.53 utt2: {C and } it's time to get rid of them. /  
+
+aa          A.54 utt1:  Yeah,  /
+aa          A.54 utt2: exactly. /  
+
+%          B.55 utt1:  {D So. } -/  
+
+aa          A.56 utt1:  Exactly.  /
+sv          A.56 utt2:  I think our community is a lot more conscious now though too,  /
+sv          A.56 utt3: [ {C and,  } + {C and } ] that's good too. /  
+
+b          B.57 utt1:  Yeah. /  
+
+sv          A.58 utt1:  {D Well, } I think that's all I have to say. /  
+
+b          B.59 utt1:  Okay,  /
+o@          B.59 utt2: {D well, }   
+
+b          A.60 utt1:  # Okay,  /
+fc          A.60 utt2: have  a good night. # /  
+
++@          B.61 utt1:  # good talking to you. # /  
+
+fc          A.62 utt1:  # All right,  /
+fc          A.62 utt2: bye-bye. # /  
+
+fc^m       B.63 utt1:  # Bye. # / 

@@ -1,0 +1,362 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3003_1278_1005
+TOPIC#:		320
+DATE:		910604
+TRANSCRIBER:	csw
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.         
+
+============================================================================
+  
+
+bf          A.1 utt1:  {D Okay, } you say you're going to buy a new car. /  
+
+ar          B.2 utt1:  {D Well } no,  /
+sd          B.2 utt2: it's probably going to be a very old used one.  /
+sd          B.2 utt3:   My husband had an accident in my car a little over a week ago, /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  {C and } I drove a nineteen seventy-seven, {F um, } B M W  /
+%          B.4 utt2: {C and so } I believe - /
+sd          B.4 utt3: {C and } I'll know the answer today,   
+
+x          A.5 utt1:  <Throat_clearing>.   
+
++          B.6 utt1:  that they're going to total it.  /
+sd          B.6 utt2:  I think that it will cost more to fix it than it's probably worth. /  
+
+b          A.7 utt1:  Yeah. /  
+
+sd          B.8 utt1:  {C But } I'm not interested in having any car payments,  /
+sd          B.8 utt2: {C so } I actually went last weekend with, - /
+sd          B.8 utt3: my father was in town  /
+sd          B.8 utt4: {C and }  we went and looked at used cars around town.  /
+sd          B.8 utt5:  {F Uh, } {C and } [ I, + {D you know, } I ] found  {D like } a nineteen eighty-four Regency Ninety-eight with only forty-six thousand miles on it  /
+sd          B.8 utt6:  {C and } that was pretty good condition, {F uh. } /  
+
+b          A.9 utt1:  Yeah  /
+x          A.9 utt2: <throat_clearing>.   
+
+sd          B.10 utt1:  {C But } I also found a nineteen eighty Volvo, {F uh, }  station wagon --   
+
+b          A.11 utt1:  Right. /  
+
++          B.12 utt1:  -- that was in just super condition.  /
+sd          B.12 utt2:  {E I mean }  there's not a dent on the outside body,  /
+sd          B.12 utt3: the inside is clean  /
+sd          B.12 utt4: it's had the same owner for years. /  
+
+b          A.13 utt1:  Right. /  
+
+sd          B.14 utt1:  [ It, + it ] has about eighty thousand miles  on it  /
+sd          B.14 utt2: {C but } that's all right, {D you know, }  /
+sd         B.14 utt3:   the engine's in excellent shape, /  
+
+b          A.15 utt1:  Uh-huh. /  
+
+sd          B.16 utt1:  {C and } I think it would last me probably  another fifty or sixty thousand miles. /  
+
+b          A.17 utt1:  Yeah. /  
+
+sd          B.18 utt1:  {C So, } I guess I'm kind of in limbo waiting to  see what the insurance [ is, + ] {D you know, }  company is going to do, to see whether or not I can get one of these cars.  /
+sd          B.18 utt2: I don't want a new car though,  /
+sd          B.18 utt3: a new car payment. -/  
+
+aa          A.19 utt1:  Yeah,  /
+sd          A.19 utt2: [ I, + I ] understand that.  /
+sd          A.19 utt3:  We, {F uh, } just paid off one, <throat_clearing> my wife's car, {F uh, } I guess, [ la-, + ]  early last year  /
+sd          A.19 utt4: {C and so } we're, {D you know, } enjoying not having [ that, + that ] payment [ every, + every ]  month  /
+sd          A.19 utt5: {C and, } {C but } it's getting up in age, {F uh, }  /
+sd          A.19 utt6: we're trying to hold out a  little while longer, {F uh, }  /
+sd          A.19 utt7: we've got [ [ a, + a ] + [ y-, kno-, sho-, + ]  a ] daughter who's almost two now,  /
+sd          A.19 utt8: {C so, }    
+
+%          B.20 utt1:  {F Um. } /  
+
++          A.21 utt1:  we're getting to the point where we really kind of need something a little bigger than what we've got,  /
+sd          A.21 utt2: {C but, } {F uh, }   
+
+b          B.22 utt1:  Uh-huh. /  
+
++          A.23 utt1:  {C so } I guess [ if we, + when we ]  do buy another car [ it'll, + it'll ]  be something that we can, {F uh, } kind of grow into a little bit.  /
+sd          A.23 utt2: [  It's, + it's ] tough on trips because, {F uh, }   
+
+x          B.24 utt1:  <Laughter>.   
+
++          A.25 utt1:  [ anywhe-, + anytime ] [ we, + we're ] getting ready to go anywhere [ it's, + {F uh, } {D you know, } it's, ]    {F uh, } [ try, + like trying ] to put a puzzle  together to make sure you get everything in the car, {D you know, } cause it's, -/  
+
+sd          B.26 utt1:  {D Well } not only that,  needing the room, {D you know, } we finally ended up buying a Dodge Caravan here about two and a half years ago,   
+
+x          A.27 utt1:  <Throat_clearing>.   
+
++          B.28 utt1:  because I too, have very small kids.  /
+sd          B.28 utt2:  [ I, + I ]  have one that's now, - /
+sd          B.28 utt3: {D well }  she'll be four in  September and then a little boy that's just turned two. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sd          B.30 utt1:  {C And } {D you know } it's like you go on a  trip  /
+sd          B.30 utt2: {C and, } {D you know, } you pull over to the side of the road, throw them on the hood, change a diaper and keep going <laughter>.   /
+sd          B.30 utt3: {C And } I wanted something that I could  maybe walk through and get to them  /
+%          B.30 utt4: {C and, } -/  
+
+aa          A.31 utt1:  Right,  /
+%          A.31 utt2: that's what, - /
+sd           A.31 utt3: [ [ I, + I ] ideally, + I would ]  like that, in fact, {F uh, } {D you know, } [ [ I, + I've, ] + I've ] thought of that  possibly, {F uh, } getti-, - /
+sd          A.31 utt4: I don't know that my wife would go for it,  /
+sd          A.31 utt5: {C but } <laughter>.   
+
+%          B.32 utt1:  {D Well. } /  
+
++          A.33 utt1:  {D You know, } [ I would, + I'd ] like to do that. /  
+
+b          B.34 utt1:  Yeah. /  
+
+sd          A.35 utt1:  [ I, + I ] have a truck myself  /
+%          A.35 utt2: {C and } [ [ i-, + I'll, ] + I'll ]  take, {D you know, } - /
+sv          A.35 utt3: a truck's a thing that [ [ yo-, + you, ] + you ]  need when you need it,  /
+sv(^q)      A.35 utt4: {C but, } {D you know, }   
+
+b          B.36 utt1:  Yeah. /  
+
++          A.37 utt1:  the rest of the time you wonder, {D you know, }  could I use something else. /  
+
+b          B.38 utt1:  Yeah. /  
+
+sd          A.39 utt1:  {C So, } [ I, + I've ] still got a couple years  payments on it.  /
+%          A.39 utt2:  I may, - /
+sd          A.39 utt3: {F uh, } if we can hold out til then, {D you know, } I may [ get, + get ]  to where I need a something else, [ maybe, + maybe ] buy a van, because they are,  really, really nice [ for, + for ] long trips especially. /  
+
+sd          B.40 utt1:  We have definitely put a lot of use in on ours  /
+sd          B.40 utt2:  {C and } I understand, it is too expensive to have two car payments.  /
+sd          B.40 utt3:  {D See }   that was the problem, my B M W was paid for, /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+sd          B.42 utt1:  {C and } my husband's been in business for himself for several years  /
+sd          B.42 utt2: {C and so } he can depreciate cars, /  
+
+b          A.43 utt1:  Right. /  
+
+%          B.44 utt1:  {C but } you hav-, - /
+sd          B.44 utt2: used to be you kept them three years. /  
+
+b          A.45 utt1:  Right. /  
+
+sd          B.46 utt1:  {D Well } when they did all the tax law changes you had to keep them five. /  
+
+b          A.47 utt1:  Right. /  
+
+sd          B.48 utt1:  {C So } I was trying to keep my B M W in tact, {F uh, }  for three more years.    
+
+%          A.49 utt1:  {F Um. } /  
+
++          B.50 utt1:  So that then I could take the van,  /
+sd          B.50 utt2: {C and } we'd trade  my car in on a new car for his business. /  
+
+b          A.51 utt1:  Right. /  
+
+sd          B.52 utt1:  {C And so } basically that's what I'm looking for in a  used car.  Something that's going to last me at least three years.  /
+sd          B.52 utt2:   {D Well } if I can pull a deal on this Volvo, {D you know, } it will last me longer than that.  /
+sd          B.52 utt3:   It will actually last me quite a while,  /
+sd          B.52 utt4: {C but } I don't know how families  afford two new car payments.  /
+sv          B.52 utt5: [ It's just, +   
+
+sd          A.53 utt1:  I don't either. /  
+
++          B.54 utt1:  it's outrageous. ] /  
+
+sd          A.55 utt1:  {D Well, } my wife's car is probably around five years old now, /  
+
+b          B.56 utt1:  Uh-huh. /  
+
+%          A.57 utt1:  {C and } [ it's, + it's ]  got, {F oh, } {F uh, } - /
+sd          A.57 utt2: I guess it must have  seventy or eighty thousand miles on it, {D you know, }  /
+sd          A.57 utt3: {C and so } [ it, + it's ]  getting, - /
+sd          A.57 utt4: it's [ not, + not ]  in bad shape  /
+sd          A.57 utt5: [ [ it's, + it's, ] + {D you know, } she's ]  kept it up real well,  /
+sd          A.57 utt6: {C but, } {F uh, } {D you know, } [ it's, + it's ] getting to the point where we really need to do something with it, {D you know, }   
+
+b          B.58 utt1:  Uh-huh. /  
+
++          A.59 utt1:  if we're going to get anything out of selling it. /  
+
+aa          B.60 utt1:  That's right. /  
+
+sd          A.61 utt1:  {C So, } [ [ [ I'm, + I'm, ] + {F uh, } I'm, ] + I'm ]  hoping we that we can work something out here.  /
+sd          A.61 utt2:  We've got other bills that kind of [ pre-, + precede, ] or  [ preclu-, + preclude ] us [ buying,   
+
+ba          B.62 utt1:  Know how that goes <<said in singing whisper type voice>>. /  
+
++          A.63 utt1:  something, + buying something ] else. /  
+
+sv          B.64 utt1:  It's the pits,  /
+^g          B.64 utt2: isn't it?  <Laughter>. /  
+
+na          A.65 utt1:  It really is  /
+sd          A.65 utt2: [ {C and, } + {D you know, } {C and } ] [ you can't, + {F uh, } you can't ]  afford, {D you know, } [ a, + a ] car payment now.  /
+sd          A.65 utt3: It just,   
+
+aa          B.66 utt1:  That's right <<whispered>>. /  
+
++          A.67 utt1:  will wipe you out every month,  /
+sd          A.67 utt2: it's almost getting to  be like the house payment, {D you know. } /  
+
+aa          B.68 utt1:  I know,  /
+sv          B.68 utt2: you can't find what you used to,  /
+sv          B.68 utt3:  could find something for, {D you know, } seventy-five,  a hundred dollars a month. - /
+sv          B.68 utt4: It might not be brand new  /
+sv          B.68 utt5: {C but } it was a decent car, /  
+
+b          A.69 utt1:  Right. /  
+
+sv          B.70 utt1:   {C and } you just almost can't find that payment anymore. /  
+
+b          A.71 utt1:  Right. /  
+
+sd          B.72 utt1:  {C So, } I understand that, [ it's, + it's ]  kind of hard to go do.  /
+sd          B.72 utt2: {D Well } if you do look at them, I really recommend the Dodge Caravan.  /
+sd          B.72 utt3:   We've had wonderful, - /
+sd          B.72 utt4: it's the only, {F uh, } minivan they make that's on a car  chassis instead of a truck chassis so it doesn't,   
+
+b          A.73 utt1:  Uh-huh. /  
+
++          B.74 utt1:  {D you know, } shake you around like [ a tu-, + a truck ] does. /  
+
+sd          A.75 utt1:  {F Oh, } I didn't know that. /  
+
+sd          B.76 utt1:  {C And } we have had just wonderful luck with ours.  /
+sd          B.76 utt2:   {E I mean } [ it's, + we ] take it everywhere,  /
+sd          B.76 utt3: [ [ [ it + <laughter> it's been, ] + it, ] + it's ]  so easy to get the kids in and out,  /
+sd          B.76 utt4: {D see } my car was also a two door. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  [ And + ]  which drove me nuts trying to get car seats and kids,   
+
+ba          A.79 utt1:  {F Oh } man,  /
+b          A.79 utt2: yeah. /  
+
++          B.80 utt1:  into a back seat, {D you know. }  /
+sd          B.80 utt2:  {C And so } it's  wonderful to have the room and  the space  /
+sd          B.80 utt3: {C and } you can haul things  /
+sd          B.80 utt4: {C and } they climb in easily  /
+sd          B.80 utt5: {C and, } it's just been everything that we were hoping it would do for us. /  
+
+b          A.81 utt1:  Right. /  
+
+sd          B.82 utt1:  {C And } it is nice on long trips.  /
+sd          B.82 utt2:  In fact, Christmas we drove to California, which is my home,  /
+sd          B.82 utt3: {C and } you can take out the middle seat, /  
+
+b          A.83 utt1:  Right. /  
+
+sd          B.84 utt1:  {C and } they come out fairly easily, so we took out the middle seat, put the car seats in the back and just had a whole area in the  middle, like if we were out on open road  /
+sd          B.84 utt2: {C and } it was their nap time,  /
+sd          B.84 utt3:  we just went ahead and laid them down. /  
+
+b          A.85 utt1:  Uh-huh, /  
+
+sd          B.86 utt1:  {D You know, } I wouldn't do that if we were in a city, or, if there were a lot of cars around or anything. /  
+
+b          A.87 utt1:  Right. /  
+
+sd          B.88 utt1:  {C But } it made it so much easier to travel. /  
+
+b          A.89 utt1:  Right,  /
+%          A.89 utt2:  n-, {F uh, } - /
+sd          A.89 utt3: [ that's, + that's ] [ [ our  pro-, + our, ] + our ] daughter's problem, {D you know, }  'cause [ when you, + when you ] get out on the road like that  [ and + ] it's just long stretches, {D you know, } where they just have  to sit, {D you know. }  /
+sd          A.89 utt4:  In town she does okay, {D you know, }  /
+sd          A.89 utt5: {C and } even on the road  she does all right for a little while because she'll sleep some, /  
+
+b          B.90 utt1:  Uh-huh,  {F uh. } /  
+
+%          A.91 utt1:  {C but, } {D you know, } i-, - /
+sd          A.91 utt2: [ she, + she ]  wakes up,  /
+sd          A.91 utt3: she wants [ to, + to ] get up.  /
+sd          A.91 utt4: I know, {F uh, } [ t-, + ] [ coming, + ] {F uh, } [ right around Christmas  [ we were, + we were, ] {F uh, } Chris-, + right before Christmas ] we had driven over to Shreveport  /
+sd          A.91 utt5: {C and }  we were driving back  /
+sd          A.91 utt6: {C and } it was when all that bad weather [ was, + was ] hitting, /  
+
+ba          B.92 utt1:  {F Oh, }  yeah. /  
+
+sd          A.93 utt1:  {C and } the roads were all closed,  /
+sd          A.93 utt2: {C and, } {F uh, }  we were trying to get back  /
+sd          A.93 utt3: {C and } it took us a lot longer  /
+sd          A.93 utt4: {C and } [ she was, + {D you know, } she was ]  pretty good most of the way,  /
+sd          A.93 utt5: {C but } then, get to a point where she just had  to get out of her seat and we had to stop,  /
+sd          A.93 utt6: [ {C and, } +   
+
+aa          B.94 utt1:  Sure,  /
+sv          B.94 utt2: it's a long time. /  
+
++          A.95 utt1:  {C and } ] we got out and played in the snow and put  here back in  / *[[typo -> her]]
+sd          A.95 utt2: {C and } she was fine, /  
+
+b          B.96 utt1:  Uh-huh. /  
+
+sd          A.97 utt1:  {C but, } {D you know, } [ if we had, + if there was ]  something to where she could kind of get up and move around, like you say [ on, + on ]  the highway, or where, where it [ wasn't, +   
+
+b          B.98 utt1:  Right. /  
+
++          A.99 utt1:  wasn't ] as bad, {D you know, } just for a little  brief period of time, it [ would be, + would be ] okay,  /
+sd          A.99 utt2: {C so, } [ I'm, +  I'm ]  thinking maybe we [ can, + <talking> <<woman's voice in background>> can ]  do something like that later on.  /
+%          A.99 utt3:  Ye-, -/  
+
+ba          B.100 utt1:  {D Well } that would be good. /  
+
+sd          A.101 utt1: we'll see what we can do. /  
+
+ba^r        B.102 utt1:  That would be good. /  
+
+b          A.103 utt1:  Yeah.  /
+%          A.103 utt2:  {D Well } I gue-, -/  
+
+fc          B.104 utt1:  {D Well, } I appreciate talking to you.  /
+fc          B.104 utt2:   Good luck in your car buying. /  
+
+%          A.105 utt1:  Y-, - /
+fc          A.105 utt2: you too,  /
+fc          A.105 utt3: I [ ho-, +   
+
+x          B.106 utt1:  <Laughter>  ((   )) .   
+
++          A.107 utt1:  hope ] everything works out. /  
+
+sd          B.108 utt1:  {D Well, } really I'm supposed to hear today  /
+sd          B.108 utt2:  {C and } [ I, + I ] hope it, - /
+sd          B.108 utt3: I really would prefer the Volvo, I think, [ jus-, + ]  /
+sd          B.108 utt4:  I know it's older than the Regency  /
+sd          B.108 utt5: {C but, } {D you know, } they're built of that unibody steel construction  /
+sd          B.108 utt6:  {C and } it would take a hit fairly well, /  
+
+b          A.109 utt1: </Talking> Right <siren>. /  
+
+sd          B.110 utt1:  {C and } {D you know, } my B M W that my husband was  going forty to forty-five miles an hour  /
+sd          B.110 utt2: {C and } {D you know, } it didn't even bend the frame.  /
+sd          B.110 utt3:  It bent in the bumper and the quarter panel,  /
+sv          B.110 utt4: {C but } unfortunately they think if it says B M W on it that you have money.  /
+sv          B.110 utt5: They don't know, -/ 

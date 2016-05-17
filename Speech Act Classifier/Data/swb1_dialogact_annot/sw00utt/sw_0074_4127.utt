@@ -1,0 +1,273 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4127_1573_1602
+TOPIC#:		357
+DATE:		920310
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+===========================================================================
+  
+
+x          A.1 utt1:  <Beep>.    
+
+o          B.2 utt1:  Okay. /  
+
+b^m          A.3 utt1: Okay,  /
+sv^t          A.3 utt2: I thought it was supposed to give a recording,  /
+sd          A.3 utt3: {C but anyway, } {F uh, } {D well, } I do take care of pretty <laughter> much all of the stuff [ for, + for ] my wife and for me  /
+sv          A.3 utt4: {C and } --   
+
+b          @B.4 utt1:  Uh-huh. /  
+
++          A.5 utt1: -- {F uh, } I, embarrassed to say, it's pretty trivial.  /
+sd          A.5 utt2: [ All we, + all I ] do is, {F uh, } keep a list of things like debts that are outstanding and every two or three months update that and every once in a while make a list of what we spent that month,  /
+sd          A.5 utt3: {C but } I doubt I do it more than three times a year. /  
+
+b^r          B.6 utt1:  Uh-huh,  /
+qy          B.6 utt2: do --    
+
+%          A.7 utt1:  {C And, } -/  
+
++          B.8 utt1:  -- you use a computer? /  
+
+nn          A.9 utt1:  No,  /
+sd^e          A.9 utt2: I work with them all day,  /
+sd          A.9 utt3: I'm in computer science,  /
+sd          A.9 utt4: yet [ I -- +   
+
+b          B.10 utt1:  Oh. /  
+
++          A.11 utt1:  -- I ] do everything on paper <laughter>. /  
+
+b          B.12 utt1:  Uh-huh. /  
+
+sd          A.13 utt1: {F Uh, } I don't even use a calculator for the stuff I'm doing because it's all pretty round numbers. /  
+
+b          B.14 utt1: Yeah,  /
+sd          B.14 utt2: mine is really simple, because I got all our bills paid off when, {F uh, } he was a Marine,  /
+sd          B.14 utt3: he went to Saudi Arabia  /
+sd          B.14 utt4: {C and } while he was gone I got all of our bills paid off,  /
+sd          B.14 utt5: {C so } really the only bills I have is rent, utilities, insurance --   
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  -- {D you know, }  /
+sd          B.16 utt2: {C so } they come in,  /
+sd          B.16 utt3: I pay them,  /
+sd          B.16 utt4: {C and } that's it  <laughter>, {D you know, }  /
+sd          B.16 utt5: that's about --   
+
+b          A.17 utt1:  Yeah  /
+%          A.17 utt2: that, -/  
+
++          B.18 utt1: -- the extent of it, {D you know. }  /
+sd          B.18 utt2: I don't really have this major budget or anything.  /
+sd          B.18 utt3: [ I just really, + I'm real ] thrifty.  /
+sd          B.18 utt4: I take care of, {D you know, } two children and me and --   
+
+b          A.19 utt1:  Uh-huh. /  
+
++          B.20 utt1: -- {F uh, } just real careful with the money, {D you know. } What little we have <laughter>,  /
+sd          B.20 utt2: {D so, } that's what I do. /  
+
+b          A.21 utt1: Yes,  /
+sd          A.21 utt2: it's pretty straightforward.  /
+%          A.21 utt3: It's almo-, - /
+sd          A.21 utt4: I can't imagine having to go into real complicated stuff and making --   
+
+b          B.22 utt1:  No. /  
+
++          A.23 utt1: -- {D you know, } fancy budgets.  /
+sv          A.23 utt2: It seems like if you're getting to that level, [ y-, + you're ] not in real good control. /  
+
+b          B.24 utt1: Uh-uh.  /
+sd          B.24 utt2: {D You know, } {E I mean, } [ [ I, + I, ] + I've ] never liked credit cards --   
+
+b          A.25 utt1:  Uh-huh <<very faint>>. /  
+
++          B.26 utt1:  -- and a lot of debt, {D you know, }  /
+sd          B.26 utt2: you --    
+
+b^r          A.27 utt1:  Uh-huh. /  
+
++          B.28 utt1: -- buy something on credit  /
+sv          B.28 utt2: {C and } you pay twice as much for it when you get done.    
+
+b          A.29 utt1:  Yeah. /  
+
++          B.30 utt1:  {D You know }  /
+%          B.30 utt2: {D so, } -/  
+
+sd          A.31 utt1: {D Actually, } {E I mean, } I like using credit cards for everything, but just paying off the bills --   
+
+b          B.32 utt1:  Uh-huh. /  
+
++          A.33 utt1:  -- because that way it's a record of everything  /
+sd          A.33 utt2: {C and } I don't have to worry about keeping <laughter> records of anything else --   
+
+sd          B.34 utt1:  [ I don't have --    
+
++          A.35 utt1:  -- because they come in at --    
+
++          B.36 utt1:  -- too many, +      
+
++          A.37 utt1:  -- the end of the month. /  
+
++          B.38 utt1: I don't have too many ] weaknesses,  /
+sd          B.38 utt2: {C but } I found out a credit card was one of them.    
+
+%          A.39 utt1:  {F Uh. }  /  
+
++          B.40 utt1: {D You know, }  /
+sv          B.40 utt2: it's so much [ easy, + easier, ] {D you know, } if something's on sale if you're a woman and you're a sale person, /  
+
+x          A.41 utt1:  <Laughter> <<faint and short>>.   
+
+sd(^q)          B.42 utt1: it's like, {F oh, } it's on sale,  /
+^q          B.42 utt2: let's go grab it, {D you know } <laughter>,  /
+ad          B.42 utt3: [ {C so, } + {F uh, } {C and } ] if you don't have the money, then use a credit card,  /
+sd          B.42 utt4: {C so, } I got rid of them credit cards.    
+
+sv          A.43 utt1:  Yeah, I guess [ if that's -- +    
+
++          B.44 utt1:  {D You know. }  /  
+
++          A.45 utt1:  -- if that's ] a weakness, that's a good thing to do. /  
+
+aa          B.46 utt1: Yeah,  /
+sd          B.46 utt2: that was my weakness <breathing>.  /
+sv          B.46 utt3: It wasn't bad,  /
+sd          B.46 utt4: {E I mean, } I didn't have {D like } thousands of dollars, {D you know, } and like that,  /
+sd          B.46 utt5: [ just, + I just ] --   
+
+b          A.47 utt1:  Uh-huh. /  
+
++          B.48 utt1:  -- learned that that wasn't for me, {D you know. } /  
+
+b          A.49 utt1:  Sure. /  
+
+sd          B.50 utt1: [ {C So, } + {C but } ] I, self-employed, {D you know, }  /
+sd          B.50 utt2: I  have my own little cleaning business type thing,  /
+  %        B.50 utt3: {C so, } {F uh, } I keep, -/  
+
+qy          A.51 utt1:  Do you find trouble keeping the records for taxes and all that  /
+%          A.51 utt2: {C or, } -/  
+
+nn          B.52 utt1: No,  /
+sv^e          B.52 utt2: it's not hard,  /
+sd          B.52 utt3: I just keep it in a notebook and write down what I've made and, {F uh, } {D you know, } what it's going to have to go for that month  /
+sv          B.52 utt4: {C and } --   
+
+b          A.53 utt1:  Uh-huh. /  
+
++          B.54 utt1:  -- {D you know, } it's [ not that, + not that ] hard.  Not at all. /  
+
+ba          A.55 utt1:  {D Well, } that's good to know. /  
+
+sd          B.56 utt1:  {D So, } I always do my own income tax, {D you know. } /  
+
+b          A.57 utt1:  Yeah. /  
+
+qy          B.58 utt1:  Do you? /  
+
+sv          A.59 utt1:  I don't understand the idea of paying somebody [ to, + to ] do it. /  
+
+br          B.60 utt1:  {F Huh? } /  
+
+sv          A.61 utt1:  It seems like it's absurd the number of people who end up having to pay somebody to do it. /  
+
+%          B.62 utt1: R-, - /
+sv          B.62 utt2: all you got to do is [ read a book, + {E I mean } --    
+
+%          A.63 utt1:  I, -/  
+
++          B.64 utt1:  -- read the little book ] they send you --     
+
+b          A.65 utt1:  Yeah,  /
+bf          A.65 utt2: just the form. /  
+
++          B.66 utt1:  -- fill in the blanks --    
+
+b          A.67 utt1:  Yeah. /  
+
++          B.68 utt1: -- and go.  /
+sv          B.68 utt2: {E I mean, } it seems absurd that people will pay, {D you know, } some bucks just to get --   
+
+aa^r          A.69 utt1:  Yeah,  /
+sv          A.69 utt2: {C and } a lot of them. /  
+
++          B.70 utt1:  -- someone to, - /
+sv          B.70 utt2: it's dumb <laughter>.  /
+sv          B.70 utt3:  I guess if you had some really complicated stuff,  /
+sd          B.70 utt4: {C but } I don't,  /
+sd          B.70 utt5: {C so, } I don't mess with it. /  
+
+b          A.71 utt1:  Yeah. /  
+
+sd          B.72 utt1:  {C But, } I don't use a calculator either, {D you know } <laughter>. /  
+
+sd          A.73 utt1:  [ I, +     
+
+sd          B.74 utt1: [ I don't, + I don't ] have [ that mu-, + that many, ] {D you know, } things to add up  /
+%          B.74 utt2: {C so, } -/  
+
++          A.75 utt1: I ] don't trust myself with using a calculator or computer, [ y-, + ] too much stuff like that because I want to make sure [ that, + that [ I,  + I ] ] keep on top of the numbers and understand what's going on.  /
+sd          A.75 utt2: I know too many people who use a calculator  /
+sd          A.75 utt3: if they make a mistake, they find out two months later because they weren't paying attention. /  
+
+b          B.76 utt1:  {F Oh, } yeah. /  
+
+%          A.77 utt1:  [ {C And, } +      
+
+sd          B.78 utt1:  # {C And } we have a, # -/  
+
++          A.79 utt1:  # {C And } ] it seem, # -/  
+
+sd          B.80 utt1: I bank at N C N B here  /
+sd          B.80 utt2: {C and } they have a number that you can call in,  /
+sd          B.80 utt3: {C and } I always call in [ and, + ] {D like, } once every other week or so  /
+sd          B.80 utt4: {C and } I will, {F uh, } check off what checks have cleared  /
+%          B.80 utt5: {C and, } -/  
+
+b          A.81 utt1:  Yeah. /  
+
+qy          B.82 utt1:  Do you do that? /  
+
+sd          A.83 utt1:  We have the same thing.  /  
+
+qy^d          B.84 utt1:  You do too? /  
+
+ny          A.85 utt1:  Yeah. /  
+
+sd          B.86 utt1: {C And } I always check them off and, {D you know, } check my balance and my book [ and, + ] {D you know, } because I always want to know exactly what I have, {D you know. } /  
+
+b          A.87 utt1:  Sure. /  
+
+sd          B.88 utt1:  I do that real often.  /
+sd          B.88 utt2:  I do that,  /
+%          B.88 utt3: {D so <lipsmack> anyway, } -/  
+
+x          A.89 utt1:  <Beep> <<faint>>. / 

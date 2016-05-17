@@ -1,0 +1,113 @@
+This directory contains information on inter-annotator reliability.
+
+
+dialog_acts/data_chunks/		DA raw annotation files 
+ <mtg>.<timerange>.<labeler>.csv			
+
+dialog_acts/stats_seg/			agreement on DA segmentation metric
+   segmentation_byrater.dat		
+   segmentation_bychunk.dat		
+
+dialog_acts/stats_das/			kappa for DAs, using classmaps
+   kappa_bymap_byrater.dat		
+   kappa_bymap_bychunk.dat		
+   kappa_bymap_bychunk_byrater.dat
+	
+hot_spots/data_chunks/			hot spot raw annotation files
+ <mtg>.<timerange>.<labeler>.csv
+
+
+
+DA Reliability Overview
+-----------------------
+
+Throughout the project, annotators independently labeled a common set
+of randomly selected "chunks", or continuous stretches of time drawn
+from various meetings, in order to assess inter-annotator
+agreement. The list of selected excerpts is given in the file
+../doc/meeting-labeler.txt as well as in the file names in the
+/data_chunks directory here.
+ 
+We used the following metrics for DA segmentation and DA reliability. 
+
+
+DA Segmentation Reliability 
+---------------------------
+
+The following approach was used in assessing the reliability of the
+segmentation into dialog act units (or "utterances").
+
+1. Take one of the labeler's transcripts as a reference.
+
+2. Look at the other labelers' words.
+   For each word, look at the utterance it comes from and see if the
+   reference has the exact same utterance.
+
+3. If it does, then there is a match.  Mark the matched utterance in
+   the reference so that it cannot be matched again.
+
+4. Repeat this process for each word in each reference-labeler pair,
+   and rotate to next labeler as the reference.
+
+Note that this metric is quite stringent: it counts matches by word
+(not by punctuation marks) and requires perfect matching of the full
+utterance a word is in for that word to be matched.  For example in
+the case below, labelers agree on 3 punctuation locations, but the
+agreement on our metric is only 1/7 or 0.14, since all of the last 6
+words are unmatched.
+
+   . yeah .  i  agree   it's  a  hard  decision .
+   . yeah .  i  agree . it's  a  hard  decision .    
+    
+
+Because of the round-robin approach above, there is one segmentation
+agreement result for each ordered labeler pair.
+
+
+DA reliability
+--------------
+
+Reliability of the DA labels themselves was performed on all cases of
+"identical segmentations". "Identical segmentations" are considered
+segments that have the same first word and last word; in some cases in
+which transcripts differed, words in between these may not match
+completely (see documentation in ../doc) but time regions should
+correspond.
+
+Given these time-matched utterances, we computed reliability of
+annotation labels using Kappa, which adjusts for chance agreement.
+Note that Kappa values are lower than accuracy values, since the
+former but not the latter remove accuracy one expects by chance. 
+
+Here, there is one result per labeler pair.
+
+Due to the large number of unique full label combinations, we report
+Kappa using each of the 5 classmaps provided (see ../classmaps).
+Each change in classmap requires a new Kappa.
+
+For each map, results are shown in the format of the example given
+below:
+
+
+  map_01:
+  Overall kappa:  0.80061  z: 93.10947
+  Rater1: 0  Rater2: 1  #_Obj: 3530  kappa:  0.82304  z: 57.03081
+  Rater1: 0  Rater2: 2  #_Obj: 5080  kappa:  0.75083  z: 64.53316
+  Rater1: 1  Rater2: 2  #_Obj: 6680  kappa:  0.82040  z: 82.14343
+
+
+Key:
+
+=====================================================================
+"map_XX" is the classmap used (see ../classmaps)
+
+The "Overall kappa" in the first result line is obtained as follows:
+when all three ratings exist for an utterance, two raters are selected
+at random.  Due to this random selection, values can vary somewhat
+each time the result is obtained.  To obtain a more reliable estimate,
+we ran each result 10 different times and averaged the results.
+
+Raters 0,1,2 are HC,RD,SB respectively. 
+
+#_Obj = number of utterances compared.
+=====================================================================

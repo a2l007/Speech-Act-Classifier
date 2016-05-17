@@ -1,0 +1,149 @@
+#!/usr/local/bin/perl -w
+#
+#  Author: Adam Janin
+#          adam@janin.org
+#  Copyright (C) 2003 International Computer Science Institute
+#
+#  For more information on the ICSI Meeting Corpus, see:
+#    http://www.icsi.berkeley.edu/Speech/mr
+#
+# This script is provided AS IS. It has not been extensively tested,
+# and we offer no support or warranty.
+#
+# Convert from MRT format to an STM-like list format.
+# See usage() at the bottom of this file for details.
+#
+# Requires XML::Parser.
+#
+# RCS $Header: /u/drspeech/repos/mrda/scripts/mrt2list,v 1.1.1.1 2004/07/01 17:19:21 jca Exp $
+
+use strict;
+use FileHandle;
+use XML::Parser;
+
+# Globals
+my %Channel;	# Map of SpeakerID => default channel.
+my $InSegment;	# If 1, currently parsing a <Segment> ... </Segment>.
+my $TextSoFar;  # Stored text transcript of particular segment.
+my $Header;     # Stored meta information of particular segment.
+my $FileName;   # File given on command line.
+my $Mid;	# Meeting ID according to MRT file.
+my $Parser;     # The XML::Parser instance.
+
+$FileName = shift or usage();
+
+$InSegment = 0;
+
+$Parser = new XML::Parser(Handlers => { Start => \&StartTag,
+					End   => \&EndTag,
+					Char  => \&Text});
+$Parser->parsefile($FileName);
+
+sub StartTag {
+    my($expat, $elem, %attr) = @_;
+    if ($elem eq "Participant") {
+	$Channel{$attr{Name}} = $attr{Channel};
+    } elsif ($elem eq "Meeting") {
+	$Mid = $attr{Session};
+    } elsif ($elem eq "Segment") {
+	my($sid, $chan);
+	
+	# Figure out which channel to use.
+	# If the Segment has a Channel attribute, just use it
+	if (exists($attr{Channel})) {
+	    $chan = $attr{Channel};
+
+	    # If the Segment does NOT have a Channel attribute, but does
+            # have a Participant, and CloseMic is true, use the default
+	    # channel for the participant.
+	} elsif (exists($attr{Participant}) && 
+		 (!exists($attr{CloseMic}) || $attr{CloseMic} eq "true")) {
+	    $chan = $Channel{$attr{Participant}};
+	} else {
+
+	    # Otherwise, just use "far"
+	    $chan = 'far';
+	}
+
+	# Get the Participant attribute, or "none" if none provided.
+	if (exists($attr{Participant})) {
+	    $sid = $attr{Participant};
+	} else {
+	    $sid = "none";
+	}
+	
+	# Store the header so we can print it out when we hit the </Segment>
+	$Header = "$Mid $sid $chan $attr{StartTime} $attr{EndTime}";
+	
+	# Start collecting up text
+	$InSegment = 1;
+	$TextSoFar = '';
+
+	# Any other tag is passed verbatim if we're in a <Segment> ... </Segment>
+    } elsif ($InSegment) {
+	$TextSoFar .= " " . $expat->original_string();
+    }
+}
+
+sub EndTag {
+    my($expat, $elem) = @_;
+    if ($elem eq "Segment") {
+	
+	# Clean everything up and print it out
+	$TextSoFar =~ s/\n/ /g;
+	$TextSoFar =~ s/\s\s+/ /g;
+	$TextSoFar =~ s/^\s+//;
+	$TextSoFar =~ s/\s+$//;
+	if ($TextSoFar !~ /^\s*$/) {
+	    print "$Header $TextSoFar\n";
+	}
+	$InSegment = 0;
+	$TextSoFar = '';
+    } elsif ($InSegment) {
+	$TextSoFar .= " " . $expat->original_string();
+    }
+}
+
+sub Text {
+    my($expat, $string) = @_;
+    if ($InSegment) {
+	$TextSoFar .= $string;
+    }
+}
+
+sub usage {
+    print<<"EndOfUsage";
+
+Usage: mrt2list file.mrt
+
+Convert from MRT format to an STM-like list format. Much of the meta
+data is dropped in this conversion, but it is easier to sort and grep
+than the MRT format.
+
+You may use \"mrt2list -\" to read from stdin instead of a file.
+
+Output is one line per segment. Segments have the following format:
+
+mid sid chan start end word1 word2 ...
+
+ mid   -  Meeting ID (e.g. Bmr023)
+ sid   -  Speaker ID (e.g. me011) or \"none\" if no speaker specified
+ chan  -  Channel (e.g. chan0) or \"far\" if not associated with a near field mic
+ start -  Start time in seconds
+ end   -  End time in seconds
+ word1 word2 ... - The words exactly as they appear in the MRT file
+
+Examples from \"mrt2list Bsr001.mrt\":
+
+Bsr001 fe016 chan9 0.010 0.996 I was just thinking that
+Bsr001 me055 chan1 0.320 2.740 <VocalSound Description="breath"/>
+Bsr001 none far 10.832 21.800 <Uncertain> @@ </Uncertain>
+Bsr001 mn057 far 26.438 30.234 If you <Emphasis> need </Emphasis> it
+
+Typically, you will want to either remove the embedded tags in the
+segments or convert them from XML to the textual transcriber\'s
+conventions using the mrt_tag tool.
+
+EndOfUsage
+  exit();
+}

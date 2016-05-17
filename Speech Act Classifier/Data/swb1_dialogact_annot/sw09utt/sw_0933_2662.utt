@@ -1,0 +1,351 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2662_1069_1028
+TOPIC#:		348
+DATE:		910424
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	4
+REMARKS:        Very difficult to transcribe Speaker B  He speaks very
+quickly and mumbles all his words together.
+
+==========================================================================
+  
+
+sd          A.1 utt1:  {F Uh, } I don't go to the movies a whole lot,  /
+sd          A.1 utt2: {C but, } {F uh, } I went two or three weeks ago for the first time in a long time and saw DANCES WITH WOLVES, which turned out to be an extremely good movie. /  
+
+sd          B.2 utt1:  I haven't seen that yet.  /
+%          B.2 utt2:  [ [ I, + I, ] + I ] hear, - /
+sd          B.2 utt3: [ we, + a whole bunch of us ] were going to go see it.  /
+sd          B.2 utt4:  It's playing at school {D actually } in about two weeks, I guess.  /
+sd          B.2 utt5:  {C So }  we're going to go see that.  /
+qy          B.2 utt6:  {C But } you enjoyed that? /  
+
+ny          A.3 utt1:  Yeah,  /
+sd^e          A.3 utt2: [ it's, + it's ] something that, {F uh, } - /
+sd          A.3 utt3: my brother lives over in Fort Worth,  /
+sd          A.3 utt4: {C and } I was telling him about a couple of weeks ago,  /
+sd(^q)          A.3 utt5: {C and } he said, {D Well } I'll wait until it comes out on, {F uh, } tape and [ rent, + rent ] the video.  /
+sd(^q)          A.3 utt6:  {C And } I said, no,  /
+^q          A.3 utt7: this is not one that you want to do that with. /  
+
+sd          B.4 utt1:  That's what I heard,  /
+%          B.4 utt2: yeah. /  
+
+sd          A.5 utt1:  [ It's, + {F uh, } the scenery ] and the landscape and the country that they're in needs a big screen.  /
+sd          A.5 utt2:  It's just beautiful country with the hills and the trees and the buffalo and the whole thing,  /
+sd          A.5 utt3: it's [ just, + {F uh, } just ] amazing, amazing picture. /  
+
+b          B.6 utt1:  Yeah,  /
+sd          B.6 utt2: I've heard [ [ it, + it, ] + it's ] not one for the videos. /  
+
+aa          A.7 utt1:  No,  /
+%          A.7 utt2: it's one I think, - /
+sv(^q)          A.7 utt3: {C but, } {D you know, } every now and then you find one that you say, yeah,  /
+^q          A.7 utt4: this is my favorite movie.  /
+sd          A.7 utt5:  {D Well, } this is the one for me this time. /  
+
+bh          B.8 utt1:  Really. /  
+
+ny          A.9 utt1:  Yeah.  /
+qw          A.9 utt2:  What have you been to lately? /  
+
+^h          B.10 utt1:  {F Um, } let's see.  /
+sd          B.10 utt2:  {D Well, } <laughter> {F uh, } this is almost, sort of funny.  /
+sd          B.10 utt3: I was just sit-, {F um, } - /
+sd          B.10 utt4: friend and I went to see OUT FOR JUSTICE --   
+
+b          A.11 utt1:  Yeah. /  
+
++          B.12 utt1:  -- which is Steven Segal, because, {F uh, } we're both big karate fans. /  
+
+b          A.13 utt1:  {F Oh, } yeah. /  
+
+sd          B.14 utt1:  {C So } we wanted to see what this is like.  /
+sd          B.14 utt2: {C And, } {F uh, }  ((   ))  impressed with {D actually. } /  
+
+bh          A.15 utt1:  Is that right? /  
+
+ny          B.16 utt1:  Yeah,  /
+sd^e          B.16 utt2: [ I wasn't, + {E I mean, } I've seen ] his other movies,  /
+sv          B.16 utt3: {C and } I just think he's pretty good. /  
+
+b          A.17 utt1:  Yeah. /  
+
+%          B.18 utt1:  {C But, } {F uh, } this movie, - /
+sd          B.18 utt2: I'm convinced now he can act. /  
+
+b          A.19 utt1:  Uh-huh.  /
+qw          A.19 utt2:  How's his karate? /  
+
+sd          B.20 utt1:  {F Oh, } [ [ his, + his, ] + his ] karate is pretty good.  /
+sv          B.20 utt2:  I think in this one it wasn't so  good.  /
+%          B.20 utt3:  I generally, {F um, } - /
+sd          B.20 utt4: movies like that scare me, though.  /
+sv          B.20 utt5: I'd be just fine without them, because, {D you know, } kids come running out wanting to beat each other up. /  
+
+aa          A.21 utt1:  [ {D Well, } + {D well } ] they do,  /
+sv          A.21 utt2: they get -- -/  
+
+^2          B.22 utt1:  Fighting. /  
+
+sd          A.23 utt1:  -- [ I remember when we used to go to see, + {D well } I remember when GRAND PRIX came out ] when I was a kid, and some other movies like that.  /
+sd          A.23 utt2:  We wanted to jump in the cars and race. /  
+
+b          B.24 utt1:  Right. /  
+
+sv          A.25 utt1:  {C And } I suspect today what they see is bound to be what they want to do when they get out of it. /  
+
+aa          B.26 utt1:  Yeah,  /
+aa^r          B.26 utt2: yeah,  /
+sd          B.26 utt3: {D well, } [ that, + that ] was number one for the week {D actually, } too,  /
+%          B.26 utt4: [ {C so, } +  {C so } ] it was a little bit, {F uh, } - /
+sd(^q)          B.26 utt5: I was thinking, Wow,  /
+^q          B.26 utt6: people must be into crime movies again.  /
+sd          B.26 utt7:  [ {C But, } + {C but } ] in the middle of that conversation we sort or picked  [ an, + {F um, } an ] interesting point.  /
+sd          B.26 utt8:  Last year's number one movie for the year was GHOSTS. /  
+
+bh          A.27 utt1:  Is that right? /  
+
+qy^d          B.28 utt1:  I don't know if you saw GHOSTS or not. /  
+
+na          A.29 utt1:  I did see GHOSTS. /  
+
+b          B.30 utt1:  Yeah,  /
+sd          B.30 utt2: [ [ {C and, } + {C and, } ] + {C and } ] [ [ that was, + that, ] + that ] helped us sort of feel good [ about, + {D you know, } about ] ourselves and about  ((   ))  one around us, in that [ at least, + at least, ] if everyone's running around seeing karate movies and stuff like that, at least they're still going to see the real good movies, {D you know. } /  
+
+b          A.31 utt1:  Yeah.  /
+sv          A.31 utt2:  I think that GHOSTS was one of those that a lot of people didn't think was going to be any good. /  
+
+b          B.32 utt1:  Yeah. /  
+
+sv          A.33 utt1:  {C And } it turned out to be an excellent movie. /  
+
+aa          B.34 utt1:  Yeah.  /
+sd          B.34 utt2:  [ [ It was, + it, ] + I ] was absolutely enthralled by it. /  
+
+sd          A.35 utt1:  I've forgotten the guy's name who was in it, who had the lead role. /  
+
+qy          B.36 utt1:  {F Oh, } Patrick Swayze? /  
+
+ny          A.37 utt1:  Yeah,  /
+sd^e          A.37 utt2: {C and } I especially like him. /  
+
+b          B.38 utt1:  Yeah,  /
+sv          B.38 utt2: he's very good. /  
+
+aa          A.39 utt1:  He's a really good guy.  /
+sd          A.39 utt2:  Other than that, DANCES WITH WOLVES seems like to be the only thing I've seen in the past several months to have any, -/  
+
+b          B.40 utt1:  Really,  /
+sd          B.40 utt2: I'm trying to think what else I've seen recently.  /
+t1         B.40 utt3:  What else have we seen recently.  /
+qh          B.40 utt4:  {F Oh, } you know, what's pretty cute {D actually. }  {F Um, }  /
+sd          B.40 utt5: DEFENDING YOUR LIFE. /  
+
+bh          A.41 utt1:  Is that right. /  
+
+qy          B.42 utt1:  Have you heard of it? /  
+
+na          A.43 utt1:  [ I've, + I've ] seen the ads for it,  /
+sd          A.43 utt2: {C but } I'm not real sure what it's about. /  
+
+b          B.44 utt1:  Yeah, {F um, }  /
+sd          B.44 utt2: I actually hadn't heard anything about it,  /
+sd(^q)          B.44 utt3: {C and } some friends called up and said do you want to go see this movie,  /
+sd          B.44 utt4: [ {C and, } + {C and } ] they said it starred, {F um, } Meryl Streep and Mel Brooks,  /
+sd          B.44 utt5: at first they told me. /  
+
+b          A.45 utt1:  Yeah. /  
+
+sd(^q)          B.46 utt1:  {C And } I thought, what a strange combination,  /
+^q          B.46 utt2: Mel Brooks and Meryl Streep. /  
+
+aa          A.47 utt1:  That is a strange combination. /  
+
+sd          B.48 utt1:  {D Well, } {D actually, } [ [ [ it starred, + that, ] + that ] + it's ] {D actually } Albert Brooks,  /
+sv          B.48 utt2: {C so } it's lot better.  /
+qy^d          B.48 utt3:  Mel Brooks you probably know. /  
+
+ny          A.49 utt1:  Yeah. /  
+
+bk          B.50 utt1:  I know,  /
+sv          B.50 utt2: {C so } [ it, + it ] was a strange combination.  /
+sd          B.50 utt3:  {C But } it turned out to be a very cute movie.  /
+sd          B.50 utt4:  {E I mean, } the whole premise is that they go out  /
+sd          B.50 utt5: [ {C and, } + {C and } ] they die -- /  
+
+b          A.51 utt1:  {F Oh, } yeah. /  
+
+sd          B.52 utt1:  -- {C and } they have to, -/  
+
+qy^d          A.53 utt1:  Both of them. /  
+
+na          B.54 utt1:  Right.  /
+sd          B.54 utt2:  Both of them are dead,  /
+sd          B.54 utt3: {C and } they happen to meet in [ this, + this ] town, {F um, } [ this, + this ] sort of city where you're set up.  /
+sd          B.54 utt4:  {D You know, } they <noise> <<dishes rattling>> go  /
+sd          B.54 utt5: {C and } they decide if you can move up to the next level. /  
+
+b          A.55 utt1:  Oh. /  
+
+qy^d          B.56 utt1:  I don't know if you've ever read Jonathan Livingston Seagull,  /
+sd          B.56 utt2: {C but } --   
+
+ny          A.57 utt1:  Yeah,  /
+sd^e          A.57 utt2: years ago. /  
+
++          B.58 utt1:  -- it's something like that.  /
+sd          B.58 utt2:  They sort of move up to levels,  /
+sd          B.58 utt3: [ {C and, } + {C and } ] they have to decide whether or not they're good enough,  /
+sd          B.58 utt4: {C and } as it turns out, {D you know, } they meet there and fall in love and stuff like that. /  
+
+b          A.59 utt1:  Oh. /  
+
+ad          B.60 utt1:  {C So } you can guess the rest of the plot.  /
+sd          B.60 utt2:  [ [ It {D actually, } + it's, ] + it's ] really funny because [ they run through, + {D you know, } what they have them do is sit down and see ] scenes of their lives. /  
+
+b          A.61 utt1:  {F Oh, } yeah.  /
+qy^d          A.61 utt2:  And then defend it. /  
+
+sd          B.62 utt1:  {C And } that's pretty good {D actually. } /  
+
+qy^d          A.63 utt1:  {D Well, } I guess that's where the title comes from then. /  
+
+ny          B.64 utt1:  Yeah.  /
+sd^e          B.64 utt2:  {C And } it's  ((   ))  /
+sd          B.64 utt3: you actually have to go up there  /
+sd          B.64 utt4: {C and } [ you have a, + they  have an ] [ attorney for, + {D you know, } attorney for ] you and attorney,  /
+sd          B.64 utt5: a defense and a  prosecution,  /
+sd          B.64 utt6: {C and } {D you know, } the prosecutor's job is to make sure you don't move up a level,  /
+sd          B.64 utt7: {C and } the defense's job is to make sure that [ you, + you ] do, {D you know. }  /
+sd          B.64 utt8: [ It's, + {F uh, } it's ] a neat little story actually. /  
+
+aa          A.65 utt1:  Yeah,  /
+aa          A.65 utt2: it is. /  
+
+sd(^q)          B.66 utt1:  [ [ I was, + I was, ] + I went ] thinking it'll be okay, not great, <noise> <<dishes rattling>>  /
+sd(^q)          B.66 utt2: {C and then } I actually came away thinking it was really pretty good.  /
+%          B.66 utt3: {C So, } -/  
+
+ba          A.67 utt1:  It's funny,  /
+sd          A.67 utt2: we've got a couple of movies out recently, GHOSTS and DEFENDING YOUR LIFE, that have to do with, {F uh, } after life, I guess. /  
+
+b          B.68 utt1:  Yeah. /  
+
+sv          A.69 utt1:  {C And } it kind of makes you wonder,  /
+sd          A.69 utt2: [ I'm also, + besides working at T I, I'm ] a graduate student at North Texas and working on master's in communication.  /
+sd          A.69 utt3: It's the behavioral science part of communication,  /
+sd          A.69 utt4: {C and } I think about these things and people trying to define their own world view,  /
+qh          A.69 utt5: {C and, } {F uh } --   
+
+b          B.70 utt1:  {F Um. } /  
+
++          A.71 utt1:  -- what exactly [ do we, + {D you know, } do we ] see about this world,  /
+qh          A.71 utt2: {C or } why are we so fascinated with the other world.  /
+qh          A.71 utt3: Is it supposed to be better? /  
+
+b          B.72 utt1:  The other world,  /
+%          B.72 utt2: yeah. /  
+
+sv          A.73 utt1:  Sometimes I think we think it is.  /
+sv          A.73 utt2:  We like those things that way. /  
+
+%          B.74 utt1:  {F Um, } [ I'm, + I'm ] sure that it seems like, - /
+sv          B.74 utt2: it certainly [ would, + would ] explain the preoccupation with  ((   )) ,  /
+sv          B.74 utt3: {C but } I suspect it's always been a preoccupation with that sort of things. /  
+
+aa          A.75 utt1:  {D Well, } it has.  /
+sv          A.75 utt2:  All the way through history, there's, I guess, - /
+sv          A.75 utt3: if you want to call its mysticism or the occult or whatever. It's always fascinated.  /
+sv          A.75 utt4:  I  guess because we don't know,  /
+sv          A.75 utt5: {C and } there's no real way of finding out. /  
+
+aa          B.76 utt1:  Right,  /
+%          B.76 utt2: {D well. } -/  
+
+sv          A.77 utt1:  There's only one way of finding it. /  
+
+qy          B.78 utt1:  {D Well } did you ever see, {F um, } FLATLINERS. /  
+
+nn          A.79 utt1:  No,  /
+sd^e          A.79 utt2: I [ did, + {F uh, } did ] not.  /
+sd          A.79 utt3:  The girl next to me saw it,  /
+sd          A.79 utt4: {C and } she really liked it. /  
+
+%          B.80 utt1:  [ [ That's, + that's, ] + that's ] probably one of those ones that, {D you know, } - /
+sd          B.80 utt2: it's on video now, I think. /  
+
+aa          A.81 utt1:  Yeah,  /
+aa          A.81 utt2: it is. /  
+
+sv          B.82 utt1:  [ Probably, + probably ] worth seeing on video.  /
+sd          B.82 utt2:  {D Actually } we really enjoyed it,  /
+sd          B.82 utt3: {C but } it was also right along the same lines.  /
+sd          B.82 utt4: {E I mean } --   
+
+b          A.83 utt1:  Yeah. /  
+
++          B.84 utt1:  -- [ they, + they ] would go ahead and kill themselves for three or four minutes to see what happens. /  
+
+b          A.85 utt1:  Yeah,  /
+sd          A.85 utt2: [ they said, + she said ] that this was almost believable  /
+sd          A.85 utt3: that could really happen.  /
+sv          A.85 utt4:  {D You know, } you get the medical profession doing these kinds of things,  /
+sv          A.85 utt5: {C and } you never know. /  
+
+aa          B.86 utt1:  Almost,  /
+aa          B.86 utt2: yeah,  /
+sv          B.86 utt3: [ [ I, + I, ] + it's ] a little far fetched to,   
+
+x          A.87 utt1:  <Sneezing>.   
+
++          B.88 utt1:  find a bunch of medical students doing it,  /
+sd          B.88 utt2: [ {C but } -- +   
+
+b          A.89 utt1:  Yeah. /  
+
++          B.90 utt1:  -- {C but, } ] [ [ it was, + {F um, } it was, ] + it was ] odd enough, {D you know, }  /
+sd          B.90 utt2: {C and } they didn't just sort of make it silly.  /
+sd          B.90 utt3:  [ It was, + {D you know, } it was ] done fairly well, I think.  /
+sd          B.90 utt4:  {C So. } {D Actually, } I actually enjoyed that as well. /  
+
+b          A.91 utt1:  Yeah.  /
+sd          A.91 utt2:  I like it when they will do something and not get too silly.  /
+sd          A.91 utt3:  I've been disappointed in some movies that, they don't know how to end it, it seems like,  /
+sd          A.91 utt4: {C so } then they get crazy  /
+sd          A.91 utt5: [ {C and, } + {C and } ] it doesn't end like the story has been going. /  
+
+aa          B.92 utt1:  The story sort of keeps going and going. / 
+
+fc^t        @@A.93 utt1:  {D Well } I guess that covers our topic. /  
+
+fc          B.93 utt1:  Yeah,  /
+fc          B.93 utt2: great.  /
+fc          B.93 utt3:  {D Well, } it was, [ n-, + nice ] talking to you. /  
+
+fc^m          A.94 utt1:  Nice talking to you.  /
+fc          A.94 utt2: Bye. /  
+
+fc          B.95 utt1:  Bye-bye. / 

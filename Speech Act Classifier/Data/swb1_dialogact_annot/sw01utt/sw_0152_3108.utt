@@ -1,0 +1,396 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3108_1279_1286
+TOPIC#:		348
+DATE:		910621
+TRANSCRIBER:	glp
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	3
+REMARKS: 	None.
+
+========================================================================
+  
+
+qw          A.1 utt1:  {D Well, } what movies have you seen recently, Valerie? /  
+
+^h          B.2 utt1:  Let's see,  /
+sd          B.2 utt2: the last one we saw was THELMA AND LOUISE. /  
+
+sd          A.3 utt1:  {F Oh, } we haven't seen that one yet. /  
+
+ad          B.4 utt1:  {D Well, } don't bother <laughter>. /  
+
+qy^d          A.5 utt1:  <Laughter> {F Oh, } it wasn't that good. /  
+
+sv          B.6 utt1:  {D Well, } {F oh, } from a woman's point of view  [ and + ] it was very, {F uh, } chauvinistic as far as women go.  /
+sd          B.6 utt2:  {F Uh, } [ it was, + it was ] entertaining,  /
+%          B.6 utt3: {C but, }  yeah,  /
+sv          B.6 utt4: I don't think the general audience [ would, + would ] go for it. /  
+
+sv          A.7 utt1:  The most recent one that, {F uh, } my wife and I have seen was the CITY SLICKER. /  
+
+qw          B.8 utt1:  How was that? /  
+
+sd          A.9 utt1:  That was excellent.  /
+sd          A.9 utt2:  It was --   
+
+sd          B.10 utt1:  That is one I've been dying to see. /  
+
++          A.11 utt1:  -- just [ a really, + a really ] funny movie.  /
+sd          A.11 utt2: At the same time, it had a story line about people trying to find themselves.  /
+sd          A.11 utt3:  There were parts that were sad.  /
+sd          A.11 utt4: {E I mean, } it just ran the gamut of emotion. /  
+
+b          B.12 utt1:  Uh-huh,  /
+b^r          B.12 utt2: uh-huh,  /
+%          B.12 utt3: {C and, } -/  
+
+sd          A.13 utt1:  [ {C And, } + {C but } ] it was just [ enter-, + all around entertaining. ] /  
+
+qw          B.14 utt1:  How long did that movie run? /  
+
+sd          A.15 utt1:  {F Uh, } it's still on, to the best of my knowledge. /  
+
+qw          B.16 utt1:  {C But, }  {E I mean, } time wise, how long,  /
+qy          B.16 utt2: was it --   
+
+b          A.17 utt1:  {F Oh. } /  
+
++          B.18 utt1:  -- two hour  /
+%          B.18 utt2: {C or, } -/  
+
+sd          A.19 utt1:  {F Uh, } [ it's, + I think it's ] less than two hours. /  
+
+b          B.20 utt1:  Uh-huh.  /
+bk          B.20 utt2:  Okay,  /
+bk^r          B.20 utt3: okay. /  
+
+sd          A.21 utt1:  [ We, + we ] rented one recently that seemed to go on forever <laughter>. /  
+
+sv          B.22 utt1:  <Laughter> That always seems to happen when you rent them, {D you know } <laughter>. /  
+
+aa          A.23 utt1:  Yeah,  /
+sd          A.23 utt2: {C but } this one, it was fairly long.  /
+sd          A.23 utt3:  [ I, + I'm ] guessing probably an hour and forty-five minutes, maybe. /  
+
+b          B.24 utt1:  Uh-huh,  /
+b^r          B.24 utt2: uh-huh,  /
+%          B.24 utt3: {C and, }  {F uh, } it, -/  
+
+sd          A.25 utt1:  {C But } excellent acting by Billy Crystal and --   
+
+ba          B.26 utt1:  Was it, {F oh, } good. /  
+
++          A.27 utt1:  Bruno Kirby, /  
+
+b          B.28 utt1:  Uh-huh. /  
+
+sd          A.29 utt1:  -- {F uh, } who was the, - /
+sd          A.29 utt2: {F oh, } Jack Palance had an excellent part in there as the old cowboy. /  
+
+ba          B.30 utt1:  {F Oh, } great. /  
+
+sd          A.31 utt1:  {C So } we really enjoyed that. /  
+
+sd          B.32 utt1:  {F Oh, } {D well, } I'm looking forward to seeing that one.  /
+sd          B.32 utt2:  That was next on our list,  /
+%          B.32 utt3: {C so, } {F uh, } -/  
+
+b          A.33 utt1:  Yeah,  /
+sd          A.33 utt2: I think that, {F uh, } I can highly recommend that movie [ this, + ] to see. /  
+
+b          B.34 utt1:  Okay,  /
+b^r          B.34 utt2: okay,  /
+ba          B.34 utt3: good deal -- /  
+
+b          A.35 utt1:  Yeah. /  
+
+ba^r          B.36 utt1:  -- good deal.  /
+qy          B.36 utt2: Do you rent movies very often,  /
+%          B.36 utt3: {C or, } -/  
+
+sd          A.37 utt1:  {F Uh, } we generally rent a couple a week.  /
+sv          A.37 utt2:  {F Uh, } in order to get a decent movie to have on a weekend, you've got to rent it on Thursday. /  
+
+b          B.38 utt1:  Right. /  
+
+x          A.39 utt1:  <Laughter>.   
+
+b^r          B.40 utt1:  Right. /  
+
+sd          A.41 utt1:  [ They get -- +   
+
+aa          B.42 utt1:  That's exactly right. /  
+
++          A.43 utt1:  -- they get ] taken up at the store,  /
+%          A.43 utt2: {C so, } -/  
+
+b          B.44 utt1:  Uh-huh,  /
+b^r          B.44 utt2: uh-huh. /  
+
+sd          A.45 utt1:  We will rent two or three movies on Thursday  /
+sv          A.45 utt2: {C and, }  {F uh, } with luck, you'll have one or two that are good. /  
+
+aa          B.46 utt1:  Yeah,  /
+aa          B.46 utt2: right,  /
+aa^r          B.46 utt3: right. /  
+
+sv          A.47 utt1:  Most of them are a coin flip <laughter>. /  
+
+ba          B.48 utt1:  <Laughter> {F Oh, } gosh.  /
+b          B.48 utt2:  Yeah,  /
+b^r          B.48 utt3: yeah.  /
+sd          B.48 utt4:  {C And } we usually have, {F oh, } <breathing>, we don't get out as much as we like.  /
+sd          B.48 utt5: We have two children,  /
+sd          B.48 utt6: {C so } we <laughter> occasionally get out to the movies -- /  
+
+b          A.49 utt1:  Yeah. /  
+
+sd          B.50 utt1:  -- {C but, }  {F uh, } [ [ it's, + it's fun, ] + it's a fun ] thing to do to get out and --   
+
+b          A.51 utt1:  Yeah,  {D well, } /  
+
++          B.52 utt1:  -- be entertained for once. /  
+
+sd          A.53 utt1:  Quite frequently, we have our grandchildren on the weekends -- /  
+
+b          B.54 utt1:  Uh-huh. /  
+
+sd          A.55 utt1:  -- {C and, }  {F uh, } we'll try to rent something that they can see as well as something else that we can see  /
+sd          A.55 utt2: {C and, }   
+
+b          B.56 utt1:  Uh-huh.  /
+qw          B.56 utt2:  What ages are they?  /
+qy          B.56 utt3:  Have you found --   
+
++          A.57 utt1:  {F Uh, }     
+
++          B.58 utt1:  -- trouble finding movies for them  /
+%          B.58 utt2: {C or, } -/  
+
++          A.59 utt1:  {F Uh, } generally try to stay in the at least P G range. /  
+
+b          B.60 utt1:  Right. /  
+
+sd          A.61 utt1:  [ The, + {F uh, } the  ] oldest is nine,  /
+sd          A.61 utt2: the youngest is three.  /
+sd          A.61 utt3:  He doesn't really pay attention. /  
+
+b          B.62 utt1:  Yeah,  /
+b^r          B.62 utt2: yeah. /  
+
+sd          A.63 utt1:  The five year old doesn't have the attention span, either. /  
+
+b          B.64 utt1:  Uh-huh,  /
+b^r          B.64 utt2: uh-huh. /  
+
+sd          A.65 utt1:  {C But } [ the, + the ] nine year old will watch anything that's on T V <laughter>. /  
+
+b          B.66 utt1:  <Laughter> {F Uh-oh, } {F uh-oh, } yeah. /  
+
+%          A.67 utt1:  {D So, } -/  
+
+sd          B.68 utt1:  They have been doing that.  /
+sd          B.68 utt2:  We've been waiting for [ a, + a ] good movie out this summer for the kids to see.  /
+sd          B.68 utt3:  The last one they saw was HOME ALONE  /
+sd          B.68 utt4: {C and, }  {F uh, } they enjoyed that,  /
+sd          B.68 utt5: {C but, }  {F uh, } I missed that one.  /
+sd          B.68 utt6:  My husband took the kids to see that one  /
+%          B.68 utt7: {C so, } -/  
+
+b          A.69 utt1:  Yeah,  /
+sd          A.69 utt2: my wife took, {F uh, } I think the kids to see that one,  /
+sd          A.69 utt3: {C but } --   
+
+b          B.70 utt1:  Uh-huh. /  
+
++          A.71 utt1:  -- we can generally find something at the store <baby_crying> for them to watch. /  
+
+b          B.72 utt1:  Yeah,  /
+b^r          B.72 utt2: yeah,  /
+ba          B.72 utt3: {D well, } that's a good deal. /  
+
+%          A.73 utt1:  The, - /
+sd          A.73 utt2: {F uh, } {F oh, } we saw this movie, - /
+sd          A.73 utt3: PRESUMED INNOCENT was the one we rented, {F uh } --   
+
+b          B.74 utt1:  Okay,  /
+^h          B.74 utt2: let me think --   
+
++          A.75 utt1:  -- last weekend. /  
+
++          B.76 utt1:  -- if I have rented that one. /  
+
+sd          A.77 utt1:  Harrison Ford. /  
+
+qw          B.78 utt1:  Harrison Ford and, how does the story line go? /  
+
+sd          A.79 utt1:  [ It's, + {F uh, } he is ] a prosecuting attorney  /
+sd          A.79 utt2: {C and, }  {F uh, } <baby_crying> [ another prosecutor in the, + a woman prosecutor in there ] is murdered -- /  
+
+bk          B.80 utt1:  {F Oh, } okay,  /
+sd          B.80 utt2: we haven't seen that one. /  
+
+sd          A.81 utt1:  -- {C and } he's trying to find it,  /
+sd          A.81 utt2: {C but, }  course, it's one of these with a twist where it looks like he's the one that wound up killing her  /
+sd          A.81 utt3: [ {C so } it's, +   
+
+b          B.82 utt1:  Uh-huh,  /
+b^r          B.82 utt2: uh-huh. /  
+
++          A.83 utt1:  {C And } it's ] an extremely long movie.  /
+sd          A.83 utt2:  [ It's, + it's ] over two hours long. /  
+
+ba          B.84 utt1:  {F Oh, } gosh,  /
+ba^r          B.84 utt2: {F oh, } gosh. /  
+
+%          A.85 utt1:  Which, - /
+sd          A.85 utt2: {F uh, }  my wife [ enj-, + she likes ] the suspense movies.  /
+sd          A.85 utt3:  I enjoy --   
+
+b          B.86 utt1:  Uh-huh. /  
+
++          A.87 utt1:  -- them to a degree. /  
+
+sd          B.88 utt1:  I think that's the one I wanted to pick up the other day,  /
+sd          B.88 utt2: {C and then } my husband wasn't going to be able to watch it with me,  /
+sd          B.88 utt3: {C so } I thought I better save that one for another day <laughter>. /  
+
+b^m          A.89 utt1:  Save that for another day. /  
+
+aa          B.90 utt1:  Yeah,  /
+sd          B.90 utt2: {C because } I think he'd like that one. /  
+
+b          A.91 utt1:  Yeah. /  
+
+qy^d          B.92 utt1:  You enjoyed that one, then. /  
+
+ny          A.93 utt1:  Yeah,  /
+sd^e          A.93 utt2: [ I think you, + [ it's, + {F uh, } it's ] something I think you ] would enjoy,  /
+ny          A.93 utt3: yes. /  
+
+b          B.94 utt1:  Uh-huh,  /
+bk          B.94 utt2: okay,  /
+sd          B.94 utt3: {D well, } that's a good one to put on the list. /  
+
+sd          A.95 utt1:  [ It, + it's ] like most suspense movies,  /
+qw          A.95 utt2: what was - /
+sd          A.95 utt3: it was on T V recently, <baby_crying> {F uh, } FATAL ATTRACTION. /  
+
+b          B.96 utt1:  Uh-huh. /  
+
+sd          A.97 utt1:  It's one that, once you've seen it once <baby_crying> [ {C and, }  {F uh, } the suspense there is not really <baby_crying>, + ] you really can't see it again -- /  
+
+b          B.98 utt1:  Right,  /
+b          B.98 utt2: okay. /  
+
+sd          A.99 utt1:  -- {D so } you know all the story and who did what --   
+
+b          B.100 utt1:  Uh-huh. /  
+
++          A.101 utt1:  -- and when it happened,  /
+sv          A.101 utt2: {C so } --   
+
+b          B.102 utt1:  Uh-huh,  /
+b          B.102 utt2: okay. /  
+
++          A.103 utt1:  -- [ once, + once ] you seen one that's a suspenseful type movie like that, then [ it's, + it's ] not good for a second watching particularly. /  
+
+b          B.104 utt1:  Uh-huh,  /
+b^r          B.104 utt2: uh-huh <baby_crying>. /  
+
+sd          A.105 utt1:  At least I don't think so <laughter>. /  
+
+sv          B.106 utt1:  I don't think too many of them are anymore.  /
+sv          B.106 utt2:  [ It's, + it's ] a shame,  /
+%          B.106 utt3: {C but, } {F uh, } -/  
+
+h          A.107 utt1:  I don't know,  /
+sd          A.107 utt2: we've watched WEEKEND AT BERNIE'S any number of times <laughter>. /  
+
+aa          B.108 utt1:  I know <laughter>. /  
+
+sd          A.109 utt1:  It's just slapstick comedy <laughter>. /  
+
+ba          B.110 utt1:  {F Oh, } no <laughter>.  /
+b          B.110 utt2:  {F Oh } <groan>. /  
+
+sd          A.111 utt1:  Sit there and laugh,  /
+sd          A.111 utt2: {C and, } my one grandson and I, - /
+sd          A.111 utt3: my wife can't understand it,  /
+sd          A.111 utt4: {C but } we like BILL AND TED'S EXCELLENT ADVENTURE <baby crying> --    
+
+ba          B.112 utt1:  {F Oh, } gosh. /  
+
++          A.113 utt1:  -- which is another funny one <laughter>. /  
+
+aa          B.114 utt1:  Yeah,  /
+sd          B.114 utt2: we've heard about that one,  /
+sd          B.114 utt3: {C but } we haven't seen that one either  /
+sv          B.114 utt4:  <breathing>.  {C So, } {D well, } it sounds like you and your grandson like the same kinds of movies. /  
+
+aa          A.115 utt1:  Yeah,  /
+sd          A.115 utt2: we like to laugh <laughter>. /  
+
+ba          B.116 utt1:  <Laughter> {F Oh, } God. /  
+
+sd          A.117 utt1:  [ I, + I ] have a theory.  /
+sd          A.117 utt2:  I like movies for entertainment.  /
+sd          A.117 utt3:  I don't want to --   
+
+b          B.118 utt1:  Right. /  
+
++          A.119 utt1:  -- {F uh, } go away depressed --   
+
+b          B.120 utt1:  Right,  /
+b^r          B.120 utt2: right. /  
+
++          A.121 utt1:  -- from watching a movie. /  
+
+aa          B.122 utt1:  I agree,  /
+aa^r          B.122 utt2: I agree. /  
+
+sv          A.123 utt1:  Life's depressing enough <laughter>. /  
+
+aa          B.124 utt1:  That's for sure <laughter>. /  
+
+fc          A.125 utt1:  {D Well, } I've certainly enjoyed talking with you. /  
+
+fc          B.126 utt1:  {D Well, } you, too, Jim. /  
+
+fc          A.127 utt1:  Okay,  /
+fc          A.127 utt2: bye. /  
+
+ft^t          B.128 utt1:  Thanks for punching in  /
+%          B.128 utt2: {C and, }  {F uh } -- -/  
+
+fc          A.129 utt1:  Have a nice weekend. /  
+
+fc          B.130 utt1:  -- I hope you see a good movie soon. /  
+
+fc          A.131 utt1:  Okay. /  
+
+fc         B.132 utt1:  Okay. /  
+
+fc          A.133 utt1:  Bye. /  
+
+fc          B.134 utt1:  Bye-bye. / 

@@ -1,0 +1,163 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3537_1378_1464
+TOPIC#:		342
+DATE:		911213
+TRANSCRIBER:	RDL
+UTT_CODER:	tc
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================= 
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: what do you think about,  {F uh, } the self insurance business? /  
+
+sd          @B.2 utt1:  {D Well, } I watched something on  T V a couple of months ago by, {F uh, } [ General, +  ex, {F uh, } Surgeon General ] Koop. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  {C And } he talked about Canada's system  /
+sv          B.4 utt2:  {C and } it appears to work fine for the normal colds and things like that,  /
+sd          B.4 utt3:  {C but } the expensive stuff, heart, {F uh, } operations and things, they have a managed scarcity.  /
+sd          B.4 utt4:   {C And } they said that in Canada, there were as many heart, {F uh, }  trauma centers as there is in San Francisco.  /
+sd          B.4 utt5:  {C So } in one city [ of, +  in ]  America, there's as many, {F uh, } hospitals that are equipped to do [ hosp-, + {F uh, } heart ]  operations as in the entire area of Canada,  /
+sv          B.4 utt6: {C and } that's kind of spooky. /  
+
+sd          A.5 utt1: {D Well, } [ I, + {F uh, } I ]  understand what you're saying,  /
+sv          A.5 utt2: {C and } there's probably some truth to that.  /
+sv          A.5 utt3:  I think that, {F uh, }  generally I don't welcome added government responsibilities.  /
+sv          A.5 utt4: However, when [ a, +  anybody ]  can't police their own profession, it eventually leads to that,  /
+sd          A.5 utt5:  {C and } I think the costs and [ the, +  {F uh, } the ] way the medical profession has,   every year - /
+sd          A.5 utt6: I, being in my own business, {F uh, } - /
+sd          A.5 utt7: in the last six years, every year there's been at  least minimum twenty-five percent increase in health insurance costs,  /
+sv          A.5 utt8:  {C and } I think eventually the number of people that can afford health insurance, [ as, +  as ]  it is now getting squeezed and  squeezed tighter. -/  
+
+b          B.6 utt1:  Uh-huh. /  
+
+sv          A.7 utt1:  {F Uh, } I think they're asking for it.  /
+sv          A.7 utt2:   [ I, + I ] think the medical profession is [ just, + just ] pushing until there's no  option but the government take it over <<faint>> #  /
+%          A.7 utt3: {C and, } {F uh, } # -/  
+
+qy          B.8 utt1:  # Do you # think that it's just, {F uh, }  medical guys?  /
+qw          B.8 utt2:  What about, {D you know, } {D you know } how expensive new equipment and technology is.  /
+sv          B.8 utt3:   That's where I think most of the cost is coming. /  
+
+sv          A.9 utt1:  {D Well, } [ I, + I ] think a lot of it is,  {F uh, }  /
+arp          A.9 utt2: [ I, + I ] don't disagree totally with that,  /
+sd          A.9 utt3: {C but, } {F uh, } my wife this last summer, {F uh, }  when we were on vacation tore up her knee,  /
+sd          A.9 utt4: {C and, } {F uh, } {F uh, } it was  [ lig-, +  ligaments, ] {F uh, } in her # knee, #   
+
+b          B.10 utt1:  # Uh-huh. # /  
+
++          A.11 utt1:  as it turned out, {F uh, }  /
+sd          A.11 utt2:  she came back that, {F uh, } - /
+sd          A.11 utt3: we were out at Cape Hatteras when this happened  /
+sd          A.11 utt4: {C and, } {F uh, } she got home,  /
+sd          A.11 utt5:  {C and } the leading orthopedic man, who has handled football people for years   and is as good as they come, - /
+sd          A.11 utt6: {E I mean, } he knows knee problems # okay, # /  
+
+b          B.12 utt1:  # Uh-huh. # /  
+
+sd          A.13 utt1:  {E I mean } if anyone does, this guy knows it.  /
+sd          A.13 utt2:   {D Well, } she goes in,  /
+sd(^q)          A.13 utt3: he says, {D well, } I think this is what it is,  /
+^q          A.13 utt4:  {C but, } {F uh, } you better go to the hospital  and  have one of these M R I things.  /
+sd         A.13 utt5: A thousand  dollars for this, {F uh, } {F oh, } magnetic, {F uh, } resonance imaging type thing.  /
+sd(^q)          A.13 utt6:   {C And } my wife said, {D well, } do I need that?  /
+sd(^q)          A.13 utt7: {C And } he says, {D well, } {F uh, }  {D you know, } [ it, + it'll ] help me diagnose this.  /
+^q          A.13 utt8: {E I mean, } {F uh, } {D you know, } [ I, +  I ]  suggest you go have this thing.  /
+sd          A.13 utt9: Insurance won't pick this up unless you're in the hospital.  /
+sd          A.13 utt10:  # {D Now, } a, #   
+
+ba          B.14 utt1:  # {F Oh, } great. # /  
+
++          A.15 utt1:  thousand, {F uh, } {F uh, } dollars  for thirty-five minutes.  /
+sv          A.15 utt2: {E I mean, } doctors routinely send people in for anything.  /
+sd          A.15 utt3:   {D Now, } for years they didn't have this  /
+sv          A.15 utt4: {C and } they solved these problems,  /
+%          A.15 utt5: {C and, } {D you # know, } # -/  
+
+b          B.16 utt1:  #  (( Yeah )) . # /  
+
+sd(^q)          A.17 utt1:  I said to her, {D well, } look, {D you know, }  if you feel you got to go, go,  /
+sd          A.17 utt2: {C but } [ I, +  I ] think a thousand dollars, - /
+%          A.17 utt3: these guys, - /
+sd          A.17 utt4:  I don't know what it is,  /
+sv          A.17 utt5: {C but } # there's, #   
+
+b          B.18 utt1:  #  (( Uh-huh )) . # /  
+
++          A.19 utt1:  no doubt they get kickbacks to fill  these machines up night and day.  /
+sv          A.19 utt2: {C And } even if they cost a hundred, two hundred,  five hundred thousand dollars, at,  {F uh, } roughly a thousand dollars every  half hour, {F uh, } that's ridiculous.  /
+sd          A.19 utt3:  [ I, +  I ] don't care what anyone says.  /
+sv          A.19 utt4:  {D You know, }  the costs are not, - /
+sd          A.19 utt5: it's a picture.  /
+sv          A.19 utt6: It shouldn't cost more than thirty-five bucks  for something like that, {D you know, } reasonableness.  /
+sv          A.19 utt7: {C But } they aren't reasonable.  /
+sd          A.19 utt8:  Fifty, a hundred dollars.  /
+sd          A.19 utt9:  They don't have to pay them back in three months time. /  
+
+aa          B.20 utt1:  No.  /
+aa          B.20 utt2: Yeah,  /
+sd          B.20 utt3: I'll have to # agree, #   
+
+%          A.21 utt1:  #  (( {D You know } )) . # /  
+
++          B.22 utt1:  with you there,  /
+sv          B.22 utt2: {C but } there's  another problem,  /
+sv          B.22 utt3: {C and } that's [ the, + ] how litigious our society is.  /
+sv          B.22 utt4: If the doctor makes a mistake,  he can be sure that he's going to be hauled into court. /  
+
+sv          A.23 utt1:  {D Well, } I think [ [ that should be, +  that, ] +   that's ] [ a, +  another ] problem,  /
+sv          A.23 utt2: {C but } that's part of our legalese problem.  /
+sv          A.23 utt3:  {C And } that, the government eventually will address too <laughter> just, {D you know, } because it's out of control.  /
+aa          A.23 utt4: [ I, +  I ] agree with you.  /
+sd          A.23 utt5:  {D You know, } {F uh, } I was on a jury  /
+sd          A.23 utt6: {E or } [ I, +  I ] didn't make the jury,  /
+sd          A.23 utt7:  {C but } there was a,   
+
+x          B.24 utt1:  <Noise>.   
+
++          A.25 utt1:  deal where a doctor was going to be  sued for malpractice on the death on an infant. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sd          A.27 utt1:  {D Like } it was three days after it was  born,  /
+sd          A.27 utt2: {C and } he was the one that delivered it.  /
+sd          A.27 utt3: {C And } they got four attorneys,  /
+sd          A.27 utt4:  one guy out of Houston, he introduced himself as snake so-and-so,  /
+sd(^q)          A.27 utt5: {C and } he says,  {D well, } anyone have trouble awarding five million dollars,  /
+sd(^q)          A.27 utt6: {C and } I says, yeah,  /
+^q          A.27 utt7:  I got problems with <laughter>. - /
+sd          A.27 utt8: {E I mean, } <laughter> {D you know, } five million  bucks isn't going to bring this kid back, {D you know, }  /
+sv          A.27 utt9: {E I mean, } as sorrowful  as it is.  {F Uh, } {D you know, } if the doctor is wrong, {D you know, } he should be pulled from  his license,  /
+sd          A.27 utt10: {C but } five million dollars and away he goes because insurance  pays for it, {D you know, }  /
+sd          A.27 utt11: [ it, +  it ] doesn't make logical sense to me,  /
+%          A.27 utt12: {C but, } {F uh, } -/  
+
+aa          B.28 utt1:  No,  /
+sv          B.28 utt2: it doesn't. /  
+
+%          A.29 utt1:  {F Uh, } that's, -/ 

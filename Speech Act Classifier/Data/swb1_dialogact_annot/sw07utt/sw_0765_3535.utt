@@ -1,0 +1,237 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3535_1400_1409
+TOPIC#:		367
+DATE:		911213
+TRANSCRIBER:	RDL
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+======================================================================== 
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: where does she live? /  
+
+sd          B.2 utt1:  {F Uh, } on Rutherford. /  
+
+b^m          A.3 utt1:  Rutherford.  /
+sd          A.3 utt2:  I don't know that. /  
+
+sd          B.4 utt1:  It's, {F uh, } corner of New York --   
+
+b          A.5 utt1:  Uh-huh. /  
+
++          B.6 utt1:  -- {F uh, } just west of Mayfield. /  
+
+bk          A.7 utt1:  It's, {F oh, } {F oh, } south and, okay, - /
+b          A.7 utt2: yeah,  /
+sd          A.7 utt3: [ I know where you, + I know the area. ] /  
+
+%          B.8 utt1:  # {F Uh. } # /  
+
+b          A.9 utt1:  # Right, #  /
+sd          A.9 utt2: that's kind of on the other side of town,  /
+sd          A.9 utt3:   {C so } --   
+
+bk          B.10 utt1:  {F Oh, } okay. /  
+
++          A.11 utt1:  -- our kids probably never went to school together or  anything <laughter>. /  
+
+sd          B.12 utt1:  <Throat_clearing>  {F Oh, } [ they're, + they're ]  little ones # <laughter>. # /  
+
+sd          A.13 utt1:  # {F Oh, } {D well, } # I've got one in college <laughter>. /  
+
+b          B.14 utt1:  Oh. /  
+
+o          A.15 utt1:  By now. /  
+
+sd^t          B.16 utt1:  Let's see, we're on government,   
+
+aa          A.17 utt1:  # Right. # /  
+
++          B.18 utt1:  # whether # we think it's honest # <laughter> or can be. # /  
+
+sd          A.19 utt1:  # Whether it is # possible to have an honest government.   I'm beginning to think it's not.  /
+qo          A.19 utt2:  What about you?  # <Laughter>. # /  
+
+sv          @B.20 utt1:  # [ I, + # I ] don't think under the way the  system is right now, it is. /  
+
+aa          A.21 utt1:  I don't either.  /
+sv          A.21 utt2: [ I, + I ] think, - /
+sv          A.21 utt3: {F uh, }  even if  people have good intentions, I  think <breathing> {F uh, } power corrupts or  something <laughter> to a certain extent, # {D you know. } # /  
+
+sv          B.22 utt1:  # The # ultimate power, ultimately [ re-, + ]  <laughter> corrupts. /  
+
+aa          A.23 utt1:  Yeah,  /
+sv          A.23 utt2: it seems like, {F uh, } maybe more of them come  in with good intentions,  /
+sv          A.23 utt3: {C but } it's just so enticing,  /
+sv          A.23 utt4: {C and }  (( a lot of ))   corners being cut and the special deals available, because they're  ((  in on the know )) , {D you know } <laughter>. -/  
+
+sd          B.24 utt1:  I don't know # if, #   
+
+b          A.25 utt1:  # Oh. # /  
+
++          B.26 utt1:  there is enough money that you could pay them # just, #   
+
+x          A.27 utt1:  # <Breathing>. #   
+
++          B.28 utt1:  {D you know } <breathing> X amount of money to keep them  honest.  /
+sd         B.28 utt2: [ I just, + I just ] don't, {F uh, } -/  
+
+aa          A.29 utt1:  Right.  /
+sv          A.29 utt2:  {E I mean, } you even see people on a  small scale cheating when they have certain positions,  /
+o          A.29 utt3: you know what I mean? /  
+
+aa          B.30 utt1:  # Right. # /  
+
+sv          A.31 utt1:  # [ Little # bitty, + little bitty ] positions in your own  home town, and they'll cheat somehow or, {D you know, } bend the rules,  use their power.  /
+sv          A.31 utt2: {C So } maybe it's just man's nature <laughter>. /  
+
+sd          B.32 utt1:  [ We had, + {F uh, } here in Oklahoma we had ]  a few years ago a major, {F uh, } corruption [ on, + on ] our county commissioners -- /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  -- {C and } there were several counties, {F uh, }  including the one I was in, that lost every one of their county commissioners  /
+sd          B.34 utt2: {C and, }   
+
+ba          A.35 utt1:  {F Oh, } my word. /  
+
++          B.36 utt1:  {E I mean, } it was to the point of not just  losing their job, but going to jail. /  
+
+ba          A.37 utt1:  {F Oh, } wow.  /
+qw          A.37 utt2:  What were they doing # taking some, # -/  
+
+sd          B.38 utt1:  # {F Oh, } they were # taking kickbacks. /  
+
+ba          A.39 utt1:  {F Oh, } no <laughter>. /  
+
+b          B.40 utt1:  Yeah  /
+x          B.40 utt2: # <laughter>. #   
+
+ba          A.41 utt1:  # {F Oh, } gosh. # /  
+
+sd          B.42 utt1:  Just a little here, a little there. /  
+
+b          A.43 utt1:  Yeah,  /
+b          A.43 utt2: right <laughter>. /  
+
+sd          B.44 utt1:  Major amount here, a major amount # there. # /  
+
+b          A.45 utt1:  # Right # <laughter>.  /
+%          A.45 utt2:  {F Oh. } /  
+
+sd          B.46 utt1:  {C But } I think there was something like, {D you know, }  thirty or forty commissioners that ended up going to jail. /  
+
+sd          A.47 utt1:  {F Um. }  We haven't had that big a scandal in Arlington,  /
+sd          A.47 utt2:  {C but } we do have the people that work for the convention center were falsifying records.  /
+sd          A.47 utt3:  In other words, they'd go out and have a big,  lavish dinner and then put somebody's name down that they supposedly had entertained,  /
+sd          A.47 utt4:  {C but } that person wasn't even anywhere near there, {D you know. }  /
+sd          A.47 utt5: Some of them weren't  even in the same city.  /
+sd          A.47 utt6: One of them [ had, + had ] cancer and died  /
+sd          A.47 utt7:  {C and } <laughter> {E I mean, } that was our biggest scandal for the last few years, I think. /  
+
+sv          B.48 utt1:  {F Uh, } [ that's, +  that's ] small scale.  /
+h          B.48 utt2:   I don't know, {D you know, }  /
+sd          B.48 utt3: I really don't know what could be done.  # {F Uh, } # /  
+
+sd          A.49 utt1:  # [ I don't, + # I don't ] either.  {F Uh, } to make it  totally honest.  /
+sv          A.49 utt2: {F Uh, } I think [ there's, + there's ] always going to be some way  somebody can cut a corner, {F uh. }  /
+sv          A.49 utt3: However, the things that have [ gone, + gone ]  on in the last couple of years, we can't afford too many of those, {D you # know, } [ the + # --   
+
+aa          B.50 utt1:  # That's # right. /  
+
++          A.51 utt1:  -- the ] HUD mess or the S and L.  /
+sv          A.51 utt2: We could almost not  afford such terrible corruption. /  
+
+sv          B.52 utt1:  The cover-ups and, -/  
+
+aa          A.53 utt1:  Right,  /
+aa^r          A.53 utt2: right.  /
+sv          A.53 utt3:  I think that, {F uh, } Reagan and  Bush were up to their necks in that Iran Contra thing,  /
+sv          A.53 utt4: {C and } it kind of makes you feel  bad that the top people in your country would be lying to you like that,  /
+%          A.53 utt5: {C but, } # {F uh, } # -/  
+
+h          B.54 utt1:  # [ I, + # {F uh, } I ] don't know.  /
+sd          B.54 utt2: [ I just, + {F uh, } I'd ] like to believe that there is some way that our political people would really go there and look out for our interests. /  
+
+b          A.55 utt1:  Right. /  
+
+sd          B.56 utt1:  I think that's what upsets me worse than, that they're getting a little,   {D you know, } {F uh, } on the side --   
+
+b          A.57 utt1:  Uh-huh,  /
+b^r          A.57 utt2: uh-huh. /  
+
++          B.58 utt1:  -- [ that, + that, ]   
+
+aa          A.59 utt1:  That's right, #  /
+sd          A.59 utt2: {C but } they stay there, # -/  
+
++           B.60 utt1:  # it seems that when they # get up there [ it's, + it's ]   [ what, + ] if I vote your way, what it'll do for me # rather, #   
+
+b          A.61 utt1:  # Uh-huh. # /  
+
++          B.62 utt1:  than this is the way my constituents want it. /  
+
+aa          A.63 utt1:  Right,  /
+sv          A.63 utt2: {C and } this would be for the best for the  nation overall.  /
+aa          A.63 utt3:  You're right,  /
+%          A.63 utt4: it's just a, - /
+h          A.63 utt5: I don't know.  /
+sv          A.63 utt6:  I guess that's where they stay [ in, + {F uh, } in, ] - /
+sv          A.63 utt7:  they try to stay in office.  /
+sv          A.63 utt8:  {C But } they always please  the money people too.  /
+sv          A.63 utt9: They need money so much, because they're constantly having to # run, #    
+
+^2          B.64 utt1:  # run, # -/  
+
++          A.65 utt1:  for office again.  /
+%          A.65 utt2:  # {C And, } # -/  
+
+arp          B.66 utt1:  # Maybe #  /
+sv          B.66 utt2: {C and then } you think, {D well, }  if it was longer terms --   
+
+b          A.67 utt1:  Uh-huh. /  
+
++          B.68 utt1:  -- then they would never have to try to please the people at home # <laughter>. # /  
+
+aa          A.69 utt1:  # <Laughter> # That's true.  /
+sv          A.69 utt2: {D Boy, }  it is a big problem,  /
+sv          A.69 utt3: {C but } I think most people are kind of depressed and cynical about government now,/
+^g          A.69 utt4: don't you? /  
+
+sv          B.70 utt1:  I don't think that [ they, + anyone ]  has a lot of respect or faith in the government. /  
+
+aa          A.71 utt1:  I know.  /
+sv          A.71 utt2:  It's really terrible.  /
+sd          A.71 utt3: {E I mean, }  there was a time, {E I mean } where, I remember when I was real young, I just loved Harry Truman.  /
+sd          A.71 utt4:   I thought he was great <laughter>.  /
+%          A.71 utt5:  {F Oh, } {D you know, } I had, - /
+sd          A.71 utt6:  some of them seemed like kind of, {F uh, } heroic people. /  
+
+sd          B.72 utt1:  {D Well } <throat_clearing> I wonder if they really were,   
+
+x          A.73 utt1:  # <Laughter>. #   
+
++          B.74 utt1:  # or if we just # really didn't, -/ 

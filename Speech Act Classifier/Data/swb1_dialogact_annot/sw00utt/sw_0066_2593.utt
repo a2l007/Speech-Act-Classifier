@@ -1,0 +1,243 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2593_1179_1038
+TOPIC#:		364
+DATE:		910413
+TRANSCRIBER:	DLB
+UTT_CODER:	TC
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	4
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        It sounded as if Speaker B was doing something to her phone
+while she was talking or working on a computer keyboard.  It was a 
+clicking-type noise.  Speaker B was understandable, but she sounded like 
+she was talking through a can.
+
+===========================================================================
+  
+
+sd          @A.1 utt1:  {D So, } [ the, + the ] topic is hobbies <laughter>. /  
+
+^2          B.2 utt1:  In your spare time. /  
+
+b          A.3 utt1:  Yeah.  /
+qh          A.3 utt2: Who has spare time <laughter>? /  
+
+x          B.4 utt1:  <Laughter>.    
+
+sd          A.5 utt1: {F Um, } I [ don't really, + don't really ] do any handicraft things like that.  /
+sd          A.5 utt2: [ I used to. + I used to ] do, {D like } salt ornaments and things. /  
+
+b          B.6 utt1:  Uh-huh. /  
+
+sd          A.7 utt1: {C But } that was, {F oh, } good [ many, + many ] years ago  /
+%          A.7 utt2: {C and } --   
+
+b          B.8 utt1: Yeah. /  
+
++          A.9 utt1: -- [ [ I have, + I really, ] + my spare time ] - /
+sd          A.9 utt2: I <noise> usually go do aerobics and read,  /
+sd          A.9 utt3: {C and } that's,   
+
+b^r          B.10 utt1:  # Yeah. # /  
+
++          A.11 utt1:  # about # it <breathing>. /  
+
+b^r          B.12 utt1: Yeah.  /
+sd          B.12 utt2: I understood that.  /
+sd          B.12 utt3: [ I'm, + <noise> {D you know, } I work ] full time  /
+sd          B.12 utt4: {C and } I have two kids <lipsmack>  /
+sd          B.12 utt5: {C so } my spare time usually </noise> involves something with the kids. /  
+
+b          A.13 utt1:  Yeah. /  
+
+%          B.14 utt1: {D You know, } hobbies, - /
+sd          B.14 utt2: [ [ we, + I, ] + I ] can't really say that we have hobbies.  /
+sd          B.14 utt3: It's more like maybe <noise> projects or something on the weekend.  /
+sd          B.14 utt4: <noise> {D You know, } we like to [ go out + <<pause>>,   
+
+b^r          A.15 utt1:  # Yeah, # /  
+
++          B.16 utt1:  # go # out, ] /  
+
+%          A.17 utt1: family.  /
+sd          A.17 utt2: {D Well, } {D well, } that's what I meant by salt that [ we, + <noise> we ] did that like as a family, little ornaments and,   
+
+b          B.18 utt1:  Oh.  /
+b          B.18 utt2:  Uh-huh. /  
+
++          A.19 utt1: things like that, and just kind of really got into it. {D Like } during the Christmas season,   
+
+b          B.20 utt1:  Right. /  
+
++          A.21 utt1:  making them up for other people and things like that.  /
+%          A.21 utt2: {C But } --   
+
+b          B.22 utt1:  Uh-huh. /  
+
++          A.23 utt1:  -- as far as, - /
+sd          A.23 utt2: I've just never been very skilled at,   
+
+x          B.24 utt1:  # (( )). #   
+
++          A.25 utt1:  # far, {D you # know, } needle,   
+
+b          B.26 utt1:  Uh-huh. /  
+
++          A.27 utt1: work </noise> ((cloths)).  /
+sd          A.27 utt2: {C And } the things I've tried to do just don't look very good <laughter>, /  
+
+x          B.28 utt1:  <Laughter>.    
+
+%          A.29 utt1:  {C and, } -/  
+
+sd          B.30 utt1: [ I, + I ] guess mostly as far [ as, + as ] <noise> crafts go, I've done, {F um, } <lipsmack> some needlepoint.  /
+sd          B.30 utt2: I've done mostly cross stitching.  /
+sd          B.30 utt3: I used to, {F uh, } do {D like, } {F um, } - /
+sd          B.30 utt4: one that I did for both kids are {D like, } {F oh, } <breathing> - /
+sd          B.30 utt5: they're plaques <noise> with, {D you know, } different kind of animals  /
+sd          B.30 utt6: {C and then } you have their birth date on them, /  
+
+b          A.31 utt1:  Yeah. /  
+
+sd          B.32 utt1: {C and then } you have a little picture of them  /
+sd          B.32 utt2: {C and } you frame them and stuff, /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1: but nothing steady.  /
+sd          B.34 utt2: Just when I get some spare time here and there I'll work on it,  /
+sd          B.34 utt3: {C but, } {D you know, } it's nothing <noise> that I,   
+
+bf          A.35 utt1:  It's not,   
+
++          B.36 utt1:  can really, -/  
+
++          A.37 utt1:  like you sit and knit every night <laughter>. /  
+
+aa          B.38 utt1:  No.  /
+aa          B.38 utt2: Not at all. /  
+
+b          A.39 utt1: Yeah.  /
+sd          A.39 utt2: I don't even know how to knit  /
+sd          A.39 utt3: {C and } my mother used to knit, {D you know, }   
+
+b          B.40 utt1:  # Uh-huh. # /  
+
++          A.41 utt1: # all # the time  /
+sd          A.41 utt2: [ {C and, } + {C and } ] I don't even know how to knit <laughter>, /  
+
+x          B.42 utt1:  <Laughter>.    
+
+sd          A.43 utt1:  I'm like, that's a lost art from this family <laughter>. /  
+
+b          B.44 utt1:  Yeah. /  
+
+%          A.45 utt1: {D So, } {F um, } - /
+sv          A.45 utt2: {C but, } it's not a very good topic  /
+h          A.45 utt3: it feels like,   
+
+aa          B.46 utt1:  # No. # /  
+
++          A.47 utt1: # if, # {D you know, } - /
+%          A.47 utt2: not when you're n-, - /
+sd          A.47 utt3: neither one of us are really, - /
+sd          A.47 utt4: [ I, + I ] have seen things I really like,   
+
+b          B.48 utt1:  Uh-huh. /  
+
++          A.49 utt1: {D you know, } that were done, especially like needlepoint.  /
+sd          A.49 utt2: Needlepoint,   
+
+b          B.50 utt1:  Yeah. /  
+
++          A.51 utt1: cushions and things.  /
+sv          A.51 utt2: {C But, } it just seems like there'd be so much time involved in it,   
+
+b^r          B.52 utt1:  Yeah. /  
+
++          A.53 utt1: {D you know, } [ and, + <noise> and ] that the petty point and things like that. - /
+sv          A.53 utt2:  [ It's like, + {A God, } [ it, + it ] seems like ] it's easier just to go out and buy it already # made <laughter>. # /  
+
+sd          B.54 utt1: # (( )) # I don't know <noise> [ what, + what, ] is, - /
+sd          B.54 utt2: it's like there, - /
+sd          B.54 utt3: {C but } here a lot of the </noise> country stuff is in, {D you know, } a lot of the woodwork, a lot of, {F uh, } stenciling. /  
+
+b          A.55 utt1:  Yeah. /  
+
+sd          B.56 utt1: {C And, } {D you know, } you can go to [ any, + {D like } a ] flea market and stuff  /
+sd          B.56 utt2: {C and } there's just tons of stuff everywhere  /
+sd          B.56 utt3: {C and, }   
+
+b^r          A.57 utt1:  # Yeah. # /  
+
++         B.58 utt1: # {D you # know, } people just do it in their garage  /
+sd          B.58 utt2: {C and then } on weekends they go out and sell it  /
+sd          B.58 utt3: {C and } during the week they go back and do some more. /  
+
+bf          A.59 utt1: {C And } {D see, } they do that as their job. Whereas,   
+
+aa          B.60 utt1:  # Right <noise>. # /  
+
++          A.61 utt1: # {D you know, } # for us it, - /
+sd          A.61 utt2: {C and } they make it cheaper </noise> for us to buy <laughter>. /  
+
+aa          B.62 utt1:  Yeah <noise>.  /
+aa          B.62 utt2:  Definitely. /  
+
+%          A.63 utt1: {D So, } - /
+sv          A.63 utt2: [ {C but, } + {C and, } ] {E I mean, } I'm sure it must be relaxing to do things like that  /
+sd          A.63 utt3: {C because } I can remember when I used to do, {D you know, } [ those little salt, + those figurines ] and things.  /
+sv          A.63 utt4: [ It was, + it was ] relaxing, {D you know, } creative,  /
+sv          A.63 utt5: you felt very creative. /  
+
+b          B.64 utt1:  Uh-huh. /  
+
+sd          A.65 utt1:  {C But, } it just was [ so [ time, + time, ]   
+
+b          B.66 utt1:  # Yeah. # /  
+
++          A.67 utt1: # involved, + # {D you know, } so much time involved ] <noise> and the different steps and things. /  
+
+b          B.68 utt1:  Uh-huh. /  
+
+%          A.69 utt1:  {D So, } # - /
+%          A.69 utt2: {C and, } # -/  
+
+b          @@B.70 utt1: # Okay # </noise>.  /
+sv          @@B.70 utt2: {D Well, } [ I think, + I think ] we're okay.  /
+sv          @@B.70 utt3: I think we did <noise> ((the)) five minutes,  /
+sd          @@B.70 utt4: {C so } we don't have to keep talking about nothing anymore <laughter>. /  
+
+b          A.71 utt1:  Yeah.  /
+%          A.71 utt2: # {D So, } # -/  
+
+b          B.72 utt1: # Okay. #  /
+ft          B.72 utt2: {D Well, } thank you. /  
+
+bd          A.73 utt1: Okay.  /
+sd          A.73 utt2: I hope you have a good rest of your weekend. /  
+
+ft          B.74 utt1: Thanks.  /
+fc          B.74 utt2: # Bye-bye. # /  
+
+fc          A.75 utt1: # Okay.  /
+fc          A.75 utt2: # Bye-bye. / 

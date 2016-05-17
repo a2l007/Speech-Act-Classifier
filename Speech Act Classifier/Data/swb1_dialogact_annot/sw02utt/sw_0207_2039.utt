@@ -1,0 +1,399 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2039_1152_1101
+TOPIC#:		339
+DATE:		910307
+TRANSCRIBER:	sk
+UTT_CODER:	mlg
+DIFFICULTY:	4
+TOPICALITY:	3
+NATURALNESS:	3
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:	This tape did quite of bit of breaking up during the talking in
+several places.  Callers discussed Switchboard Project at length.
+
+============================================================================
+  
+
+o          B.1 utt1:  Okay, {F uh, }  /
+sd          B.1 utt2: my favorite show is MASTERPIECE THEATRE  /
+sd          B.1 utt3: {C and } it has been for a long time  /
+sd          B.1 utt4: {C but } I feel almost ashamed to say that to anybody now because I have never met anybody who likes it.  /
+qy          B.1 utt5:  Do you by any chance? /  
+
+ny          A.2 utt1:  {F Oh, } yes. /  
+
+qy^d          B.3 utt1:  You do! /  
+
+ny^r          A.4 utt1:  Yes,  /
+sd^e          A.4 utt2: very much. /  
+
+fe          B.5 utt1:  {D Well, } wouldn't you know <laughter>. /  
+
+sd          A.6 utt1:  As a matter of fact, I prefer public television. /  
+
+b          B.7 utt1:  Uh-huh. /  
+
+sd          A.8 utt1:  {C And, }  {F uh, } I [ have, + particularly enjoy ] the English comedies,   
+
+b          B.9 utt1:  Yeah, /  
+
++          A.10 utt1:  and the English mysteries. /  
+
+b^r          B.11 utt1:  Yeah,  /
+sd          B.11 utt2: I watch mysteries too.  /
+qy          B.11 utt3:  Is that what you're referring to? /  
+
+ny          A.12 utt1:  Yes. /  
+
+bk          B.13 utt1:  Okay,  /
+b          B.13 utt2: yeah.  /
+ba          B.13 utt3:  That is good.  /
+sd          B.13 utt4:  I like, {F uh, } - /
+qy          B.13 utt5: do you read? /  
+
+na          A.14 utt1:  Vociferously. /  
+
+bk          B.15 utt1:  Okay,  /
+sd          B.15 utt2: {D well } that's the reason why I like both of those programs is because they're kind of based on books. /  
+
+b          A.16 utt1:  Yes. /  
+
+sv          B.17 utt1:  {C And, }  the plots are more, {F um, } challenging, {D you know, } than the sitcoms of regular T V. /  
+
+sv          A.18 utt1:  {D Well, } unfortunately for us at least here in the United States, [ we, + the only access we ] have to that of course is public television. /  
+
+b          B.19 utt1:  Yeah. /  
+
+sd          A.20 utt1: [ I'm, + I'm ] not a great television watcher in any respect  /
+%          A.20 utt2: {C but, }  {F uh, }  the watching, - /
+sd          A.20 utt3: what I do watch is, {F uh, } usually news and whatever is on public television.  /
+%          A.20 utt4:  Any kind of, - /
+sd          A.20 utt5: I also {F uh, } am very fond of great performances,   
+
+b          B.21 utt1:  Uh-huh,  /
+b          B.21 utt2: yeah. /  
+
++          A.22 utt1:  in that regard. /  
+
+aa          B.23 utt1:  Me too. /  
+
+%          A.24 utt1:  {C But, }  {F uh } -/  
+
+qy          B.25 utt1:  Did you stay up late and catch this RED DWARF? /  
+
+nn          A.26 utt1:  No <sigh>, /  
+
+sv          B.27 utt1:  {F Oh, } that was a scream. /  
+
+nn^r          A.28 utt1:  no,  /
+nn^r          A.28 utt2: no  /
+sd          A.28 utt3: as a matter of fact, {F uh, } Turner Broadcasting,   
+
+b          B.29 utt1:  Uh-huh, /  
+
++          A.30 utt1:  has been {F uh, } broadcasting all of the James Bond movies,   
+
+b          B.31 utt1:  Really. /  
+
++          A.32 utt1:  every night this week,  /
+sd          A.32 utt2: {C so } I have concentrated on watching James Bond movies,   
+
+x          B.33 utt1:  <Laughter>.   
+
++          A.34 utt1:  <Laughter> this week <laughter>. /  
+
+sd          B.35 utt1:  I used to like him too,  /
+sd          B.35 utt2: he was my hero.  /
+sd          B.35 utt3: In fact, I like Sean Connery to this day. /  
+
+sd          A.36 utt1:  {D Well, } they're showing {F uh, } LIVE AND LET DIE at this moment, /  
+
+b          B.37 utt1:  Yeah. /  
+
+sd          A.38 utt1:  {C and, }  it is the first appearance of Roger Moore as double oh seven. /  
+
+b^r          B.39 utt1:  Yeah. /  
+
+%          A.40 utt1:  {D So, } -/  
+
+sv          B.41 utt1:  {F Oh, } he can never cut it <laughter>. /  
+
+aa          A.42 utt1:  No,  /
+aa^r          A.42 utt2: no  /
+sv          A.42 utt3: that's true.  /
+sv          A.42 utt4: I was just thinking that today,  he did,     
+
+x          B.43 utt1:  <Laughter>.   
+
++          A.44 utt1:  {D well, }  in some of the later movies he looks very effeminate,    
+
+aa          B.45 utt1:  Yeah, /  
+
++          A.46 utt1:  in his early movies. /  
+
+aa^r          B.47 utt1:  Yeah,  /
+aa^r          B.47 utt2: yeah,  /
+sv          B.47 utt3: he does. /  
+
+sv          A.48 utt1:  Whereas, {F uh, } Sean Connery has maintained the, {F uh, } {A how would you, } {F uh, } ruddy look,  /
+o@          A.48 utt2: {C but } {F uh, }  *[[needs slash]] 
+
+b          B.49 utt1:  Uh-huh,  /
+aa          B.49 utt2: yeah.  /
+sd          B.49 utt3:  I liked his accent too. /  
+
++@          A.50 utt1:  {F Oh } yes. /  
+
+sv          B.51 utt1:  {C And, }  he can even be in movies that are not, {F uh, } {F uh, } sexually oriented,  /
+sv          B.51 utt2: {C and } he still comes off great. /  
+
+sd          A.52 utt1:  {D Well, } {D you know } [ he was, + {A when was it, last year or year before last, } he was ] voted the sexiest actor in movies,   
+
+sv          B.53 utt1:  He is. /  
+
++          A.54 utt1:  or something. /  
+
+aa          B.55 utt1:  Yeah,  /
+sd          B.55 utt2: he had my vote double <laughter>. /  
+
+sd          A.56 utt1:  <Laughter> {E I mean } the man is sixty-two years old. /  
+
+sd          B.57 utt1:  I don't care <laughter>. /  
+
+%          A.58 utt1:  [ {C But, } + {F uh, } {C but } ] otherwise {D you know } we, - /
+%          A.58 utt2: {F uh, } with P B S and so forth. - /
+sd          A.58 utt3: {C And } [ I, +   
+
+b          B.59 utt1:  Yeah. /  
+
++          A.60 utt1:  I ] particularly enjoy,  I don't know whether you've had a chance to watch it on P B S but {F uh, } the series, {F uh, } YES MINISTER? /  
+
+qw          B.61 utt1:  {F Oh, } what's that about? /  
+
+sd          A.62 utt1:  That was about [ a, + the ] Interior Minister,  /
+sd          A.62 utt2: it was a comedy, /  
+
+b          B.63 utt1:  {F Oh, } yeah,  /
+b^r          B.63 utt2: yeah. /  
+
+sd          A.64 utt1:  the Interior Minister [ of, + in ] England,   
+
+b          B.65 utt1:  Uh-huh. /  
+
++          A.66 utt1:  with the permanent secretary,   
+
+b          B.67 utt1:  Right. /  
+
++          A.68 utt1:  and bureaucracy and all that. /  
+
+b^r          B.69 utt1:  Right,  /
+sd          B.69 utt2: [ I, + I've ] seen it several times.  /
+sv          B.69 utt3:  It's a scream,  /
+sd          B.69 utt4: {C but } I have to go to bed,  /
+sd          B.69 utt5: I have to get up [ and, + and ] work the next morning. /  
+
+x          A.70 utt1:  <Laughter>.   
+
+sd          B.71 utt1:  I wish they'd put those, - /
+sd(^q)          B.71 utt2: that's why I say, did you stay up late to watch this RED DWARF.  /
+sd          B.71 utt3:  It came on after DOCTOR WHO,   
+
+b          A.72 utt1:  Uh-huh. /  
+
++          B.73 utt1:  on Saturday nights, here at least.  /
+sv          B.73 utt2:  {C And } it should, - /
+%          B.73 utt3: of course I li- - /
+%          B.73 utt4: really it was, - /
+sv          B.73 utt5: I don't think they should show it during prime time,  /
+sv          B.73 utt6: {C but } still,   
+
+b          A.74 utt1:  Yeah. /  
+
++          B.75 utt1:  it was funny. /  
+
+b^r          A.76 utt1:  Yeah,  /
+b          A.76 utt2: I know.  /
+sd          A.76 utt3:  {D Well } [ [ I, + I, ] + I'm ] not much of a television watcher.  /
+sd          A.76 utt4:  [ I, + I ] read as I said,   
+
+b          B.77 utt1:  Uh-huh. /  
+
++          A.78 utt1: [ and, + ] {F uh, } quite a bit.  /
+sd          A.78 utt2:  I read about two or three novels a week,   
+
+b          B.79 utt1:  Yeah. /  
+
++          A.80 utt1:  in addition to all the technical stuff.  /
+qw          A.80 utt2:  [ What, + what ] do you do?  /
+qw          A.80 utt3:  What kind of work do you do? /  
+
+sd          B.81 utt1:  I'm a Payroll Clerk.  /
+sd          B.81 utt2:  Just an accounting clerk. /  
+
+qy^d          A.82 utt1:  At T I? /  
+
+nn          B.83 utt1:  No,  {F uh, }  /
+sd^e          B.83 utt2: I have a friend who works for T I  /
+sd          B.83 utt3: {C and } I work for a tire service,   
+
+bk          A.84 utt1:  {F Oh, } I see. /  
+
++          B.85 utt1:  here in, - /
+sd          B.85 utt2: I'm from Dallas. /  
+
+b          A.86 utt1:  Uh-huh.  /
+sd          A.86 utt2:  {D Well } the last two people who have called, both worked for T I  /
+sd          A.86 utt3: {C and } I just wondered. /  
+
+b          B.87 utt1:  Yeah,  /
+b^r          B.87 utt2: yeah,  /
+sv^t          B.87 utt3: it could be T I -ers, I think, probably are participating more than anybody else,  /
+sd^t          B.87 utt4: {C but } I needed the money.  /
+sd^t          B.87 utt5: <laughter> This is five bucks here. /  
+
+sv          A.88 utt1:  I think that's something we all ca-, -/  
+
+aa          B.89 utt1:  Yeah,  /
+aa          B.89 utt2: really.  /
+qy          B.89 utt3:  Do you work for T I? /  
+
+nn          A.90 utt1:  No,  /
+nn^r          A.90 utt2: no,  /
+sd^e          A.90 utt3: I work for G T E.    
+
+bh          B.91 utt1:  Really? /  
+
++          A.92 utt1:  In Maryland,  /
+ny          A.92 utt2: yes. /  
+
+qw          B.93 utt1:  How did you hear, - /
+qy^g^t          B.93 utt2: {F oh } we're not even supposed to be talking about this though, are we? /  
+
+ng          A.94 utt1:  I guess not. /  
+
+x          B.95 utt1:  <Laughter>.   
+
+br^m          A.96 utt1:  How did I hear about it?  /
+sd          A.96 utt2:  {D Well } I work, {D you know, } - /
+sd          A.96 utt3: they are gathering a data base for voice processing. /  
+
+b          B.97 utt1:  Uh-huh. /  
+
+sd          A.98 utt1:  {C And, }  that's my field of work also. /  
+
+b          B.99 utt1:  Oh! /  
+
+sd          A.100 utt1:  {C So } [ I, + I ] know the people at T I who are doing this  /
+sd          A.100 utt2: {C and } I heard about it,  /
+sd          A.100 utt3: {C so } I called them and asked if I could participate.   {C And, }  {F uh, }   
+
+b^r          B.101 utt1:   Oh. /  
+
++          A.102 utt1:   {D You know } send in the forms et cetera  and {F uh } so forth. /  
+
+b          B.103 utt1:   Right. /  
+
+co          A.104 utt1:   We could go back to television shows. <laughter> /  
+
+qy          B.105 utt1:   <laughter> {D Well, } {D you know, } speaking of public TV, have you caught any of this series on the Bible? /  
+
+ny          A.106 utt1:  Yes,  /
+sd^e          A.106 utt2: I have. /  
+
+sd          B.107 utt1:  I've heard [ that it's really against the, +  {D well } {E I mean } that it's coming out with ] the idea that the Bible's not true. /  
+
+ar          A.108 utt1:  {D Well, } no.  /
+%          A.108 utt2:  That's, {F uh, } - /
+sv          A.108 utt3: you could interpret it that way. /  
+
+b          B.109 utt1:  Uh-huh. /  
+
+sv          A.110 utt1:  {F Uh, } [ I, + I ] think what they are trying to say, is that there is a great deal of historical truth,  /
+sv          A.110 utt2: {C but } the interpretation that actually got into the writing of the Bible itself is probably <sigh> {F uh, }  after the what, {F uh, }  [ was + is  ] it the  King James Version when the committee [ did it, + <cough> wrote the translation, ] that so much was lost in the translation, particularly since most of the translations were in Greek. /  
+
+b          B.111 utt1:  Yeah. /  
+
+sd          A.112 utt1:  {D Well, } for example.  In Greek there are seven different words for love. /  
+
+b          B.113 utt1:  Right. /  
+
+b          A.114 utt1: Okay,  /
+sd          A.114 utt2: {C so } you can have, - /
+sd          A.114 utt3: there's one word for love of your brother, one word for love of your wife, one word for, {D you know, } {F uh, } love of your father, and that sort of thing.  /
+sv          A.114 utt4: {C So, } [ in, + ] as to those types of interpretations, {F uh, } really made a difference in how one might interpret the Bible now, and what it's at. /  
+
+b          B.115 utt1:  Uh-huh. /  
+
+%          A.116 utt1:  {C So } that's, {D you know, } - /
+sv          A.116 utt2: you can look at it as though they are saying it's not true,  /
+sv          A.116 utt3: {C but } there's too much historical fact involved just from [ the + {F uh, } the ] histories that [ are, + were ] developed around that time, that are available.    
+
+b          B.117 utt1:  Yeah. /  
+
++          A.118 utt1:  To deny that, at least the majority of it is true.  /
+h          A.118 utt2:  {C So, } {D you know, } it depends on how you look at it. /  
+
+b^r          B.119 utt1:  Yeah. /  
+
+sv          A.120 utt1:  You can look at it, {D you know,  } - /
+sv          A.120 utt2: if you want to say that it's proven that it isn't true, then you can very much look at it that way. /  
+
+sv          B.121 utt1:  I guess if you're looking for that,  you're, -/  
+
+b          A.122 utt1:  Yeah,  /
+sv          A.122 utt2:  {D well, }    
+
+%          B.123 utt1:  that, {F uh, } -/  
+
++          A.124 utt1:  {D Well, }  you can interpret [ that the, + [ what + ] the  ] T V show, in the same way that you can interpret the Bible. /  
+
+b          B.125 utt1:  Uh-huh. /  
+
+%          A.126 utt1:  {D So, } -/  
+
+b          B.127 utt1:  Really. /  
+
+sd          A.128 utt1:  {C But, }  {F uh, } [ as, + as ] far as that goes, [ I, + we ] at least agree on what we enjoy. /  
+
+aa          B.129 utt1:  Yeah,  /
+ba          B.129 utt2: that's right. /  
+
+sd          A.130 utt1:  {C But, }  {F uh, } I don't know if [ there is, + there is ] a time limit on this,   
+
+b          B.131 utt1:  Yeah. /  
+
++          A.132 utt1:  {C so, } {F uh. } -/  
+
+sv          B.133 utt1:  Surely we've made it. /  
+
+aa          A.134 utt1:  I think so too.  /
+ad          A.134 utt2:  Let's just, - /
+fc          A.134 utt3: it's been very pleasant talking to you, /  
+
+fc          B.135 utt1:  It was very nice talking to you. /  
+
+fc          A.136 utt1:  {C and } have a good evening. /  
+
+fc          B.137 utt1:  You too. /  
+
+fc          A.138 utt1:  Good night! /  
+
+fc          B.139 utt1:  Bye-bye. / 

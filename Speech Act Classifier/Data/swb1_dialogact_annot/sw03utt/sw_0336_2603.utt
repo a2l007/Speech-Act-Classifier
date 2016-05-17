@@ -1,0 +1,477 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2603_1093_1155
+TOPIC#:		356
+DATE:		910414
+TRANSCRIBER:	JKP
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	3
+REMARKS:        Speaker B volume was much lower than Speaker A, and in
+some places it was difficult to hear her.  Bird could be heard chirping
+in background on Speaker B side throughout the recording.
+
+=========================================================================
+  
+
+o          A.1 utt1:  Okay.  /
+sd          A.1 utt2: {F Um, } [ I guess what, +  I guess my ] <laughter> task. - /
+sd          A.1 utt3: <Laughter> I usually ride my bike.  /
+sd          A.1 utt4: I have, {F uh, } a stationary bike and, {F uh, }  a regular bike.  /
+sd          A.1 utt5:  {C And } when I can, I like to ride my  regular bike outside, because it's so much nicer.  /
+sv          A.1 utt6: <Laughter> The stationary bike [ is, + is ] so, {F uh, }   
+
+^2          B.2 utt1:  # Boring. # /  
+
++          A.3 utt1: # boring. #  /
+sd          A.3 utt2: <Laughter> {C But } I have head phones,  /
+sd          A.3 utt3:  [ {C and } I, + {C plus } I ] have it, {F uh, } in the living room  /
+sd          A.3 utt4: {C so } I either watch T V,   
+
+x          B.4 utt1:  <Bird_squawk>.   
+
++          A.5 utt1:  or we have a fish tank,  /
+sd          A.5 utt2: {C so } I watch the fish, {D you know. }  <Laughter>  Whatever I can do to keep myself occupied.   /
+sd          A.5 utt3: <Laughter> [ If, + ] I like to  have the T V on, because that usually keeps me, {F um, } more occupied.  /
+sd          A.5 utt4:  It kind of  takes the time away  /
+sd          A.5 utt5: {C and } I don't realize, [ really, + <noise> that's  really ] the only time I ever watch T V, is when I'm on the bike.  /
+sd          A.5 utt6:   [ {C But, } +  {C and then } ] usually  after I'm done riding the bike, just to cool myself down, I usually take a walk,  {D you know, }  /
+sd          A.5 utt7: {C and } that just kind of [ gets myself, + {F uh, } gets me, ]  {D you know, } to where I'm not quite as tired I guess.  /
+sd          A.5 utt8:  <Laughter> {C But } it's definitely a task. /  
+
+bh          B.6 utt1:  You think so? /  
+
+sd          A.7 utt1:  I can't say that I really enjoy it.  /
+sd          A.7 utt2:  <Laughter>  I wish that I did enjoy it more,  /
+sd          A.7 utt3: {C but } I do it because I have to  not because I want to <laughter>. /  
+
+sd          B.8 utt1:  I bought a stationary bike,  /
+sd          B.8 utt2: {C but } I find that  if I sit <bird_squawk> on that seat too long, it hurts. /  
+
+aa          A.9 utt1:  Yeah,  /
+aa^r          A.9 utt2: yeah. /  
+
+sd          B.10 utt1:  {C And } I haven't figured how to get that soft,  /
+sd          B.10 utt2:  {C and } I tried even tying a pillow to it.  /
+sd          B.10 utt3: {C But } two years ago, [ I joined, + {D well, }  {A it's not quite two years, it's almost two years, } I joined ] the Cosmopolitan Lady here in Plano. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1:  {C And } I love it. /  
+
+bh          A.13 utt1:  Really? /  
+
+sd          B.14 utt1:  I just love it. /  
+
+qy          A.15 utt1:  {C So } is it just women that go there? /  
+
+ny          B.16 utt1:  Yeah.  /
+sd^e          B.16 utt2: It's totally women. /  
+
+sd          A.17 utt1:  {D See, } I think that's what's my biggest problem  with going to [ a place, +  {F uh, } [ a, +  a ] health club. ]  /
+sd          A.17 utt2:  {C Because } I don't feel like having a  bunch of other people watch me exercise.  /
+sd          A.17 utt3:   <Laughter> {D You know, }  {C so } I have  tried to just do stuff at home  /
+sd          A.17 utt4: {C and, }  {F uh, } I just feel conscious about it.  /
+sd          A.17 utt5:   {E I mean, } I'm not big, {D you know, } or anything,  /
+sd          A.17 utt6:  {C but } I still don't like other people watching <laughter> me. /  
+
+sd          B.18 utt1:  I like to be able to sweat, have my hair a mess.    
+
+b          A.19 utt1:  Yeah. /  
+
++          B.20 utt1:  {F Uh, }    
+
+x          A.21 utt1:  <Laughter>.   
+
++          B.22 utt1:  feel that, okay fine,  if my bathing suit slips a little bit I don't have to be conscious --   
+
+b          A.23 utt1:  Right. /  
+
++          B.24 utt1:  -- of it being a little bit too low.  /
+sd          B.24 utt2:  {C And }  [ I, + my ] bathing suit's just one piece,  /
+sv          B.24 utt3: {C so } there's no big deal all the way  around,  /
+sv          B.24 utt4: {C but } --   
+
+b          A.25 utt1:  Uh-huh. /  
+
++          B.26 utt1:  -- I don't have to be conscious of what I'm doing or  how I'm doing it.  /
+sv          B.26 utt2:  {C And } [ [ [ it's, + {F uh, } {F oh, } it's just, ] +  I don't know, it's, ] + it's ] a total free relaxation.  /
+sv          B.26 utt3: {C Because, } hey, you can do what you want.  /
+sv          B.26 utt4:  You're a female,  /
+sv          B.26 utt5: {C and } no one is staring at anybody else or worrying about what anything else is doing. /  
+
+%          A.27 utt1:  That's what, -/  
+
+sd          B.28 utt1:  {C And } they've got such fantastic equipment in there. /  
+
+bh          A.29 utt1:  Really?  /
+ba          A.29 utt2: [ That's, +   
+
+ny          B.30 utt1:  {F Oh, } yeah. /  
+
++          A.31 utt1:  that's ] great.  /
+%          A.31 utt2: # How, # -/  
+
+sd          B.32 utt1:  # {C And } I # love the water aerobics.  /
+sd^r          B.32 utt2:  I love the water aerobics. /  
+
+qy          A.33 utt1:  Do they have a pool  /
+%          A.33 utt2: {C or } what is, -/  
+
+ny          B.34 utt1:  {F Oh, } yeah.  /
+sd^e          B.34 utt2:  They've got a nice one. /  
+
+b          A.35 utt1:  {F Huh. } /  
+
+sd          B.36 utt1:  They have two types of water aerobics.  /
+sd          B.36 utt2:  They call it aqua exercise, I guess is what they call it. /  
+
+sd          A.37 utt1:  I've heard that that's really good for you to do. /  
+
+sd          B.38 utt1:  It pushes you because you're pushing against the water --   
+
+b          A.39 utt1:  Uh-huh. /  
+
++          B.40 utt1:  -- in itself.  /
+sd          B.40 utt2: {C So } it is like double strenuous.  /
+sd          B.40 utt3:   {C But } you're not being double strenuous on your own body.  /
+sd          B.40 utt4:  {C Because } you're pushing it yourself. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+sd          B.42 utt1:  {C So } you're doing it yourself. /  
+
+qy^g          A.43 utt1:  {C So } you don't really feel like you're really  working that hard, do you? /  
+
+nn          B.44 utt1:  Huh-uh. /  
+
+qy          A.45 utt1:  When you're in the water? /  
+
+nn          B.46 utt1:  Huh-uh.  /
+sd^e          B.46 utt2: <Laughter> The only thing that I ever  felt was, every time I stop and start going again, because I end up getting two jobs once in a while.  /
+sd          B.46 utt3:  I end up having to quit for a while.  /
+sd          B.46 utt4:  {C But } I get blisters  on my toes on the bottom # because, #   
+
+ba          A.47 utt1:  # {F Oh, } wow. # <Laughter>. /  
+
++          B.48 utt1:  I really jump a lot. /  
+
+ba          A.49 utt1:  {D Well, } that's funny,  /
+sd          A.49 utt2: I never would have thought of that. /  
+
+sd          B.50 utt1:  {D Well, } a lot of people wear those  little, {F uh, } terry cloth with rubber soles on the bottom. Especially around the pool.  /
+sd          B.50 utt2: {C So } they just --   
+
+qy          A.51 utt1:  # [ Like wat-, # +    
+
++          B.52 utt1:  -- # wear them # right into the pool. /  
+
++          A.53 utt1:  Are they water ] shoes?  /
+%          A.53 utt2: Is that, -/  
+
+ny          B.54 utt1:  Yeah.  /
+sd^e          B.54 utt2: They're just little terry cloth things  you wear for house slippers  with --   
+
+bk          A.55 utt1:  {F Oh, } okay,  /
+bk^r          A.55 utt2: okay. /  
+
++          B.56 utt1:  -- rubber, {D you know, } soles,   
+
+bk          A.57 utt1:  Okay,  /
+bk^r          A.57 utt2: okay. /  
+
++          B.58 utt1:  so that, {D you know, } - /
+sv          B.58 utt2: no big deal one way or the other. /  
+
+ba          A.59 utt1:  {F Huh, } that's really # funny <laughter>. # /  
+
+sd          B.60 utt1:  # {C But, }  # I never think about it until after  you go there for about a week, your toes, you start getting blisters anyway.  /
+sv          B.60 utt2: {C So } no big deal. /  
+
+%          A.61 utt1:  {F Huh, } <laughter> that's, -/  
+
+sd          B.62 utt1:  {C But } it's fun. /  
+
+qw          A.63 utt1:  {C So, } how often do find yourself going?  /
+qw          A.63 utt2:   {F Um, }  [ on a, +  if you're doing it on a ] regular basis, how often do you go? /  
+
+sd          B.64 utt1:  I try to make it at least three times a week. /  
+
+b          A.65 utt1:  Yeah.  /
+%          A.65 utt2: That's really, -/  
+
+sd          B.66 utt1:  For a while I was doing it every day. Just,   
+
+bh          A.67 utt1:  Really? /  
+
++          B.68 utt1:  going, {F uh, } five days a week. /  
+
+sd          A.69 utt1:  I wish that I could make myself exercise every day.  /
+sd          A.69 utt2:  {C But } I do force myself  to do it at least three times a week.  Which I don't feel  like is enough,  /
+sd          A.69 utt3: {C but } [ [ i-, + it's, ] + it's ] at least something.  /
+%          A.69 utt4:  <Laughter> {D You know, } [ it, + it, ] - /
+sd          A.69 utt5: [ I just force, + I have to force ] myself to do it, like I said,  because to me, I really don't enjoy it.  /
+sd          A.69 utt6:  {C But } I know that I have to do it.  /
+sd          A.69 utt7:  {E I mean }   [ it's just, + [ it's, + it's ] ] not a question of whether I want <laughter> to, {D you know. } /  
+
+%          B.70 utt1:  {D Well, } -/  
+
+%          A.71 utt1:  {C But, } -/  
+
+sd          B.72 utt1:  When I was working up at, {F uh, } The Summit,   
+
+b          A.73 utt1:  Uh-huh. /  
+
++          B.74 utt1:  here in Plano, I'd leave there,  /
+sd          B.74 utt2: {C and } I'd be at  the swimming pool by four o'clock.    
+
+%          A.75 utt1:  {F Oh, } that's, -/  
+
++          B.76 utt1:  {F Oh, } {D actually } about four thirty because  they start at five to six,  /
+sd          B.76 utt2: {C so } I was there by four thirty, every night.  /
+sd          B.76 utt3: {C And } the only thing  that ever bothered me was my hair getting wet. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  {C Because } no matter what I did or how I did it,  I invariably got myself wet. /  
+
+b          A.79 utt1:  Uh-huh. /  
+
+sd          B.80 utt1:  {C But } the water only comes up  basically [ to your, +  anywhere from your waist to your, ] {F oh, } chest, I'd say. /  
+
+b          A.81 utt1:  Yeah. /  
+
+sd          B.82 utt1:  {C So } {E I mean, } it's your choice where  you want to go,  /
+sd          B.82 utt2: {C but, }   
+
+%          A.83 utt1:  # Did you ever, # -/  
+
++          B.84 utt1:  # I enjoyed it # higher. /  
+
+fa          A.85 utt1:  {D Well, } I'm sorry <laughter>. /  
+
+bd          B.86 utt1:  That's okay. /  
+
+qy          A.87 utt1:  {F Uh, } did you ever go to Texins at all  when you were working for T I?  /
+qy          A.87 utt2:  Did you --   
+
+ng          B.88 utt1:  # [ I have a, # +   
+
++          A.89 utt1:  -- # ever try that? # /  
+
++          B.90 utt1:  I have a ] bad back, <<pause>>  /
+sd          B.90 utt2: {C so } I'm very  limited what I # do. # /  
+
+bk          A.91 utt1:  # {F Oh, } # okay. /  
+
+sd          B.92 utt1:  It's like I can walk,  /
+sd          B.92 utt2: {C but } if I walk for  more than fifteen minutes it's going to bother # me. # /  
+
+b          A.93 utt1:  # {F Um. } # /  
+
+sd          B.94 utt1:  Especially when you're on cement or anything that's hard, #  /
+sd          B.94 utt2: it will bother me. # /  
+
+sv          A.95 utt1:  # Then that would,  /
+%          A.95 utt2: # yeah. /  
+
+aa          B.96 utt1:  it will bother me. /  
+
+qy^g          A.97 utt1:  I guess then the water aerobics would be  probably the best thing for you, wouldn't it? /  
+
+nd          B.98 utt1:  {D Well, } [ that, +  what pushed me that ] way though, [ was +  basically was ] the fact that when I went in there, is wasn't for the water aerobics.  /
+sd          B.98 utt2:  I went in there strictly to strengthen my back muscles. /  
+
+bk          A.99 utt1:  Oh. /  
+
+sd(^q)          B.100 utt1:  {C And, }  {F uh, } she said,   {D Hey, } go for the swimming pool.  /
+sd          B.100 utt2:  She says you get just as much if you did the aerobics on the floor.  /
+sd          B.100 utt3:   She says in fact you get more. /  
+
+ba          A.101 utt1:  Wow. /  
+
+sd          B.102 utt1:  I said, okay, because I'm not a swimmer. /  
+
+b          A.103 utt1:  Uh-huh. /  
+
+sd          B.104 utt1:  I like water.  /
+sd          B.104 utt2: I'm not scared of it.  /
+sd          B.104 utt3: {C But }  I couldn't,  /
+sd          B.104 utt4: I guess I could swim across the pool,  /
+sd          B.104 utt5: {C but } I'm no swimmer per se. /  
+
+b          A.105 utt1:  Yeah. /  
+
+sd          B.106 utt1:  {C But } I found that this worked really well.  /
+sd          B.106 utt2:   {C And } I came out of there  /
+sd          B.106 utt3: {C and } I saw my stomach going down well. /  
+
+b          A.107 utt1:  Oh. /  
+
+sd          B.108 utt1:  I dropped, {F oh, } I'd say almost twenty pounds.    
+
+ba          A.109 utt1:  Wow. /  
+
++          B.110 utt1:  Just by watching what I ate.  /
+sd          B.110 utt2:  {C And } they fix you  up with a diet, which worked real good. /  
+
+qw          A.111 utt1:  What if you're already on one?  /
+%          A.111 utt2: {E I mean, } -/  
+
+qw          B.112 utt1:  What?  /
+qy          B.112 utt2:  A diet? /  
+
+ny          A.113 utt1:  Yeah.  /
+qy^g          A.113 utt2:  {E I mean, } when you go in there,  they wouldn't make you do theirs.  Would they? /  
+
+nn          B.114 utt1:  {F Oh, } no,  /
+sd^e          B.114 utt2: they have nothing to do with that. /  
+
+bk          A.115 utt1:  Okay. /  
+
+sd          B.116 utt1:  {D See } [ I joined, +  {F uh, }  when this one down here opened up, I joined ] as a V I P.  /
+sd          B.116 utt2: {C And } the V I P [ gives you, + {F uh, } {F oh, } <lipsmack>  gives you ] [ a diet, + a computerized diet. ]  /
+sd          B.116 utt3:  {C And } they go over all your  health and all your history,  /
+sd          B.116 utt4: {C and } they show you [ how, +  everything to do,  and how ] to do it, and  the whole nine yards.  /
+sd          B.116 utt5:  {C So } it became part of the package,  /
+sd          B.116 utt6: {C so } I went through it.  /
+sd          B.116 utt7:   # It worked out well. # /  
+
+qy^d          A.117 utt1:  # {C But } they have packages #  where they just offer the exercise program.  /
+qy          A.117 utt2:  Is that what you're saying? /  
+
+ny          B.118 utt1:  {F Oh, } yeah.  /
+sd^e          B.118 utt2:  You can just go in  there and join just like anywhere else too. /  
+
+bk          A.119 utt1:  I see,  /
+bk          A.119 utt2: # okay. # /  
+
+sd          B.120 utt1:  # I just # went and took the,  because they were offering it as an opening benefit,  /
+sd          B.120 utt2: {C so } [ it was, + it's ] less than what  you pay now for going in there,   
+
+b          A.121 utt1:  {F Um. } /  
+
++          B.122 utt1:  after all this time.  /
+sd          B.122 utt2: {C So } it's like  when I got laid off,  /
+sd          B.122 utt3: I went back in there, and start all over again because it had  been a while since I'd done it. /  
+
+b          A.123 utt1:  {F Um. } /  
+
+sd          B.124 utt1:  {C So } I get all the same treatment again.  /
+sd          B.124 utt2:   {C So } it's kind of nice. /  
+
+ba          A.125 utt1:  Wow.  /
+%          A.125 utt2: # That's, # -/  
+
+sd          B.126 utt1:  # Like I # said, I like it.  /
+sd          B.126 utt2:  I like the heat.  /
+%          B.126 utt3: I  like the, - /
+sd          B.126 utt4: I jump out of the swimming pool,  /
+sd          B.126 utt5: {C and } I go into the hot tub. /  
+
+b          A.127 utt1:  Oh <laughter>. /  
+
+sd          B.128 utt1:  {C And } I love it. /  
+
+b          A.129 utt1:  Yeah.  /
+sv          A.129 utt2:  That would be really nice <laughter>. /  
+
+%          B.130 utt1:  {C Because } [ I have n-, + I have never, ] - /
+co          B.130 utt2: let me  reword that,  /
+sd          B.130 utt3: I think I have gone home maybe once or twice slightly sore.  /
+sd          B.130 utt4: {C But } that's  because of my physical condition and nothing to do what they did. /  
+
+b          A.131 utt1:  Uh-huh. /  
+
+%          B.132 utt1:  That's, - /
+sd          B.132 utt2: I knew I was pushing too far. /  
+
+b          A.133 utt1:  Uh-huh. /  
+
+sd          B.134 utt1:  {C But } usually, when I go into the hot  tub before I go swimming, or when I come out, I'm totally relaxed when I go home.  /
+sd          B.134 utt2:  It's no big deal. /  
+
+bf          A.135 utt1:  {C So } you really do enjoy your exercise then, since your, -/  
+
+aa          B.136 utt1:  It's fun.  /
+aa^r          B.136 utt2: It's fun.  /
+sd          B.136 utt3: {F Uh, }  I've gotten on the bike.  /
+sd          B.136 utt4:  {C And } they've got, {F uh, } the stepping bike, where you step. /  
+
+b          A.137 utt1:  # Uh-huh. # /  
+
+sd          B.138 utt1:  # {C And } I've # enjoyed that, watching how well  I can walk up and down stairs. /  
+
+%          A.139 utt1:  That's, {D you # know, } - /
+sd          A.139 utt2: [ I wanted, + #   
+
+sv          B.140 utt1:  # {C But } most of # the others to me are very dull. /  
+
++          A.141 utt1:  I wanted ] to get one of those steppers  when I bought the bike,  /
+sd          A.141 utt2: {C but } I got talked into the bike instead.  /
+h          A.141 utt3:  {C And }  I don't know, <laughter>  /
+sd          A.141 utt4: I really wanted a stepper.  /
+sd          A.141 utt5: I'm considering maybe even buying one of those too.  /
+sd          A.141 utt6:   {C But } I'm not sure if I'll get benefit out of both of them.  /
+sd          A.141 utt7:  {E I mean, }  I don't know if it would really do any good having both of them.  /
+qw          A.141 utt8:  Which one do you feel is better, since you use them both? /  
+
+sd          B.142 utt1:  <Lipsmack> <<Pause>> {F Um, } I get bored very easily.  /
+sv          B.142 utt2:   {F Uh, } the one nice thing about the bicycle is you just sit.  /
+aa          B.142 utt3:  Like you said,  you can sit and do it, and  watch the T V and not even really be conscious of  what you are doing. /  
+
+b          A.143 utt1:  Uh-huh. /  
+
+sd          B.144 utt1:  With the stepper, you are conscious of what you  are doing because you're basically watching each step as it gets harder and down. /  
+
+b          A.145 utt1:  {F Huh. } /  
+
+%          B.146 utt1:  {C So } you have a [ little, + {D you know, } little, ] - /
+sd          B.146 utt2:  you can program the one at Cosmopolitan Lady so,    
+
+b          A.147 utt1:  Uh-huh. /  
+
++          B.148 utt1:  to what your gear is.  /
+%          B.148 utt2: {F Uh, }  I, - /
+sd          B.148 utt3: it would  depend upon which one you want.  /
+sd          B.148 utt4:  I think now that I've had the bicycle,  /
+sd          B.148 utt5: I would go to the stepper.  /
+sd          B.148 utt6:   {C But } if I were you, I would go apply to either a health club or  one of the others and use it for a while.  /
+sd          B.148 utt7:  {C Because } you can buy a month's membership.    
+
+bh          A.149 utt1:  {F Oh, } really? /  
+
++          B.150 utt1:  And see what you feel is best for you. /  
+
+b          A.151 utt1:  {F Um. } /  
+
+sv          B.152 utt1:  {C Because } it all depends, {D you know, } for  everyone their own what they want to do.  /
+sd          B.152 utt2:  {C Because } I jump on the bike here at home.   /
+sd          B.152 utt3:  Mine has  [ its, + {D see, } the ] handle bars go up and down, /  
+
+b          A.153 utt1:  Uh-hum. /  
+
+aa          B.154 utt1:  {C so } I can sit there and read and listen to music,  like what you said,  /
+sd          B.154 utt2: {C and } it has no effect on me.  /
+sv          B.154 utt3: {C So } {E I mean, } it's  boring </bird_squawk>. /  
+
+b          A.155 utt1:  Uh-huh. / 

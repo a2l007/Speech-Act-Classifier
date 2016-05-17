@@ -1,0 +1,275 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3315_1307_1373
+TOPIC#:		339
+DATE:		911026
+TRANSCRIBER:	glp
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:        Speakers sounded similar, but spoke clearly enough
+where that did not create a problem in transcribing.
+
+========================================================================
+  
+
+fp          A.1 utt1:   Hello? /  
+
+fp          B.2 utt1:   Hi. /  
+
+fp^m          A.3 utt1:   Hi,  /
+sd          A.3 utt2: my name is Leslie. /  
+
+fp^m          B.4 utt1:   Hi,  /
+sd          B.4 utt2: I'm Jennifer. /  
+
+qw          A.5 utt1:   {C And } where are you from? /  
+
+sd          B.6 utt1:   Pennsylvania. /  
+
+ba          A.7 utt1:   {F Oh, } nice,  /
+sd          A.7 utt2: I'm from Dallas, Texas. /  
+
+bh          B.8 utt1:   {F Oh, } really? /  
+
+ny          A.9 utt1:   Yeah,   /
+%          A.9 utt2: {D so, } -/  
+
+ba          B.10 utt1:   {F Oh, } that's neat. /  
+
+qy          A.11 utt1: {D Well, } did you understand [ what this was for, + {D you know, } what it was for, ] what we, -/  
+
+qy^d          B.12 utt1:   {F Uh, } television shows? /  
+
+ny          A.13 utt1:   Yeah <laughter>. /  
+
+b          B.14 utt1:   Sure,  /
+sv          B.14 utt2: that sounds good. /  
+
+b          A.15 utt1: Okay <noise>.  /
+sd          A.15 utt2: [ I, + I ] don't watch too many,  /
+sd          A.15 utt3: {C but } we can try it. /  
+
+b          B.16 utt1:   Okay. /  
+
+qy          A.17 utt1:   Are you ready to start? /  
+
+na          B.18 utt1:   Sure am. /  
+
+bk          A.19 utt1:   Okay,  /
+ad          A.19 utt2: just a minute <beep>. /  
+
+b          B.20 utt1:   Okay,  /
+sv          B.20 utt2: I guess we're recording now. /  
+
+b          A.21 utt1:  Yeah,  /
+b          A.21 utt2: okay. /  
+
+qw          B.22 utt1:   What are your favorite television shows? /  
+
+sd          @A.23 utt1: {D Well, } I don't really watch too many T V shows other than, {F uh, } occasionally [ I'll, + I'll ] turn on DONAHUE because it comes on in the morning when I seem to be getting ready around here. /  
+
+bh          B.24 utt1:   {F Oh, } really? /  
+
+sd          A.25 utt1: [ {C And, } + {F uh, } {C so } ] [ if, + if ] there's no one else around, {D you know, } it's just me and I have a chance to listen to something, I'll turn that on, but, {F uh, } just [ for the, + <lipsmack> for the ] conversation factor, I think,  /
+sd          A.25 utt2: [ {C but, } + {C and then } ] I think I enjoy when I catch it, I don't even know what night it's on, but DESIGNING WOMEN sometimes, /  
+
+sv          B.26 utt1:   {F Oh, } I love that show. /  
+
+b          A.27 utt1:   Yeah,  /
+qy          A.27 utt2: do you?  <Laughter>. /  
+
+ny          B.28 utt1:   Yes,  /
+sv^e          B.28 utt2: that is great. /  
+
+aa          A.29 utt1: Yeah,  /
+sv          A.29 utt2: it's fun.  /
+sd          A.29 utt3: {C And then } there's a new one that started out that I've caught [ occa-, + a couple of times ] called GOOD AND EVIL, I think. /  
+
+sd          B.30 utt1:   {F Oh, } I heard they just canceled that. /  
+
+bh          A.31 utt1:   {F Oh, } really? /  
+
+sd          B.32 utt1:   I read in today's paper they just canceled that show. /  
+
+sv          A.33 utt1: It is a real different one.  /
+sv          A.33 utt2: [ [ It's, + {F uh, } it's, ] + it's ] different.  /
+sv          A.33 utt3: I guess I watch it more out of the uniqueness of it and the time that it comes on more than the fact that I have to see it. /  
+
+x          B.34 utt1:   <Laughter>.   
+
+%          A.35 utt1:   {C But, } -/  
+
+qy          B.36 utt1: Have you seen the show, [ it's, + it's ] new this year, called HOME FRONT? /  
+
+nn          A.37 utt1: No,  /
+sd^e          A.37 utt2: I haven't watched that. /  
+
+sv          B.38 utt1: {F Oh, } [ it's, + it's ] really good.  /
+sd          B.38 utt2: [ It's, + {F uh, } I think it's ] on {D like } Tuesday nights from ten to eleven -- /  
+
+b          A.39 utt1:   Uh-huh. /  
+
+sd          B.40 utt1: -- {C and } it's set in post World War Two times  /
+sd          B.40 utt2: {C and } it's about how the servicemen come home and readjust to civilian life here and the changes everyone's going through.  /
+sv          B.40 utt3: It's really interesting. /  
+
+b          A.41 utt1:  {F Oh, } yeah. /  
+
+sv          B.42 utt1: It's kind of like [ a s-, + a nighttime soap ] opera type thing. /  
+
+ba          A.43 utt1:   Sounds neat. /  
+
+sv          B.44 utt1: [ [ It is, + it's a good, ] + it's really well ] written. /  
+
+b          A.45 utt1: Yeah.  /
+qw          A.45 utt2: Is that on, [ what chan-, + what station? ] /  
+
+sd          B.46 utt1: <Lipsmack> {F Uh, } I don't even know, to tell you the truth <laughter>. /  
+
+bk          A.47 utt1: {F Oh, } okay.  /
+qw          A.47 utt2: What other shows do you like? /  
+
+sd          B.48 utt1: {F Uh, } I prefer OPRAH WINFREY --   
+
+b          A.49 utt1:   {F Oh, } yeah. /  
+
++          B.50 utt1: -- to DONAHUE <laughter>. /  
+
+sd          A.51 utt1: {D Well, } she comes on later  /
+sd          A.51 utt2: {C and } I usually have kids around so I don't [ end, + end ] up --   
+
+b          B.52 utt1:   Oh. /  
+
++          A.53 utt1: -- watching that one is the only problem I have with it, I guess. /  
+
+sd          B.54 utt1: I did watch soap operas,  /
+sd          B.54 utt2: {C but } I work full-time now and can't catch those anymore.   
+
+b          A.55 utt1:   Yeah <laughter>. /  
+
++          B.56 utt1: Except when I'm home sick,  /
+sd(^q)          B.56 utt2: {C and } now when I watch them, I think, why did I ever watch those? /  
+
+aa          A.57 utt1:   That's right <laughter>. /  
+
+sv          B.58 utt1:   They're stupid <laughter>. /  
+
+b          A.59 utt1:   Yeah. /  
+
+sd          B.60 utt1: {C So } when I did watch them I was addicted to them every day. /  
+
+b          A.61 utt1:   Uh-huh. /  
+
+sd          B.62 utt1:   {C But } not anymore. /  
+
+sv          A.63 utt1: That can happen.  /
+qo          A.63 utt2: {C So } do you know of any other shows in the even, or something that you enjoy? /  
+
+sd          B.64 utt1: {F Oh, } {F uh, } tonight I'm looking forward to seeing GOLDEN GIRLS. /  
+
+sv          A.65 utt1:   {F Oh, } that's always fun. /  
+
+aa          B.66 utt1:   Yes,  /
+sd          B.66 utt2: I like that show. /  
+
+b          A.67 utt1:   Yeah. /  
+
+sd          B.68 utt1: {C And } if I can stay up late enough, I like to catch SATURDAY NIGHT LIVE every now and then. /  
+
+b          A.69 utt1:   {F Oh, } uh-huh. /  
+
+sd          B.70 utt1: {C And } right now we're watching a Penn State football game because that's where we live. /  
+
+b          A.71 utt1:   {F Oh, } yeah. /  
+
+%          B.72 utt1:   {D So } <laughter>, -/  
+
+b          A.73 utt1:   Uh-huh. /  
+
+sv          B.74 utt1:   It's exciting,  /
+sd          B.74 utt2: we're winning,  /
+sv          B.74 utt3: {C so } that's really exciting. /  
+
+b          A.75 utt1:   Yeah,  /
+sv          A.75 utt2: {D well, } I think, - /
+sd          A.75 utt3: I also, course, like to catch the news during the evening hours -- /  
+
+b          B.76 utt1:   Uh-huh. /  
+
+sd          A.77 utt1:   -- {C but, } {F uh, } it's a little tough because that's when I'm usually making dinner and the kids are wanting to talk all at the same time. /  
+
+x          B.78 utt1:   <Laughter>.    
+
+sd          A.79 utt1:   {C So, } usually I don't get a whole lot of news watching in. /  
+
+b          B.80 utt1:   Yes,  /
+sd          B.80 utt2: we watch C N N in morning while we're getting ready --    
+
+b          A.81 utt1:   Uh-huh. /  
+
++          B.82 utt1:   -- for the day and eating breakfast.  /
+sd          B.82 utt2:  We'll catch our news that way.  /
+sd          B.82 utt3:  Watch the weather channel so that we know what the weather's going to be like. /  
+
+b          A.83 utt1:   Yeah,  /
+b^r          A.83 utt2: yeah.  /
+qw          A.83 utt3:  {D So } what have you seen interesting on OPRAH  WINFREY lately? /  
+
+sd          B.84 utt1: Lately, I haven't been catching it because of my work schedule. /  
+
+b          A.85 utt1:   Uh-huh. /  
+
+sd          B.86 utt1:   {F Uh, } <<pause>> I can't remember the last time I saw it.  /
+sd          B.86 utt2:  It's been a while. /  
+
+b          @@A.87 utt1:   Yeah,  /
+sd          @@A.87 utt2: <lipsmack> {D well, } I don't know if we've talked our full three <noise> minutes or not <laughter>. /  
+
+sd          B.88 utt1:   <Laughter> I don't know,  /
+sd          B.88 utt2: sometimes they come on [ and, + and ] say. /  
+
+aa          A.89 utt1:   {F Oh, } that's right. /  
+
+sd          B.90 utt1:   {D Well, } today on C N N they were talking about something like this about, {F uh, } learning to recognize voices and words and stuff and the research <noise> that's going on which is kind of what we're doing, helping them get a data base for words. /  
+
+b          A.91 utt1:   {F Um, } yeah. /  
+
+sv          B.92 utt1:   It was really interesting. /  
+
+aa          A.93 utt1:   It is interesting.  /
+%          A.93 utt2:  {D So, } -/  
+
+qy          B.94 utt1:   Do you work for Texas Instruments? /  
+
+nn          A.95 utt1:   No,  /
+nn^r          A.95 utt2: no,  /
+sd^e          A.95 utt3: just, {F uh, } doing this as a fund-raiser for our church. /  
+
+ba          B.96 utt1:   {F Oh, } that's nice. /  
+
+b          A.97 utt1:   Yeah,  /
+sd          A.97 utt2: {C so } it kind of makes it easy, {D you know, } to do a little something for it. /  
+
+b          B.98 utt1: Sure,  /
+sd          B.98 utt2: {C because } [ we, + {F uh, } we've ] talked to a lot of people from Texas, it seems,  /
+sd(^q)          B.98 utt3: {C and } we thought, {D well, } maybe they work [ from, + for ] Dallas, -/ 

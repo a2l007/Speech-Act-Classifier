@@ -1,0 +1,463 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2772_1232_1068
+TOPIC#:		313
+DATE:		910502
+TRANSCRIBER:	CAP
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None. 
+
+==========================================================================
+  
+
+o          A.1 utt1:  All right. /  
+
+b          B.2 utt1:  Okay.  /
+ad          B.2 utt2:  {D Well, } I can go ahead and start and tell you mine  /
+%          B.2 utt3: {C and, } -/  
+
+aa          A.3 utt1:  Okay. /  
+
+sd          B.4 utt1:  We're from San Antonio  /
+sd          B.4 utt2: {C and } that's where I grew up, /  
+
+%          A.5 utt1:  # {F Oh, } # /  
+
+sd          B.6 utt1:  # {C So } # I was used to the heat, out here right now, /  
+
+b          A.7 utt1:  # Yeah.  # /  
+
+sd          B.8 utt1:  # {F Gosh, } # it gets to about [ seventies, + high seventies ]  /
+sd          B.8 utt2: {C and } it gets very cold at night. /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1:  {C And } Monterey it's, {F um, } right on the coast.   /
+sd          B.10 utt2: {C And, }  I don't know if your familiar with California coastline,  / *[[your -> you're]]
+sd          B.10 utt3: {C but } [ we're + we're  ] [ about two hours, + about a two hour drive ] south of San Francisco, /  
+
+bk          A.11 utt1:  {F Oh, } okay. /  
+
+sd          B.12 utt1:  {C And } it's, {F uh, } really nice.  /
+sd          B.12 utt2:  It's a big area for people to come from the different, {F uh, } countries, mostly like Japan, Germany and England.   /
+sd          B.12 utt3: {C And } they usually go to Carmel and vacation on the beaches,  /
+sd          B.12 utt4: {C so } [ it's, + it's ] pretty nice, {F uh, } year round.   /
+sd          B.12 utt5: {C But, }  {F uh, } [ cool, + always cool ] in the evenings.  And [ warm, + warm ] in the Summer,  /
+sd          B.12 utt6: {C but } it's stays pretty cold even, {F uh, } during the Winter, for as nice as it is. /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  {C And, }  {F um, } we usually get a fog.  {F Uh, } right [ about, + {D I guess, } about ] four o'clock  /
+sd          B.14 utt2: {C and } it kind of rolls in over the coast.   /
+sd          B.14 utt3: {C And, }  {F uh, } then it usually breaks back off again the next morning.   /
+sd          B.14 utt4: {C And } if you go just a little bit ways in, I'd say about a fifteen minute drive in towards Salinas,   
+
+b          A.15 utt1:  # Uh-huh.  # /  
+
++          B.16 utt1:  # {F uh, } # the weather completely changes  /
+sd          B.16 utt2: {C and } it gets very hot and dry  /
+sd          B.16 utt3: {C and } the fog never makes it that far. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  {C But } along here it's, {F uh, } [ very + <laughter>, very ] different from the Texas type weather. /
+qw          B.18 utt2: What's it like down there? /  
+
+sd          A.19 utt1:  {D Well, } right now we're we're having the little bit of Spring that we have. /  
+
+b          B.20 utt1:  {F Oh, } really,  /
+sv          B.20 utt2: {D well } at least you've got some <laughter>. /  
+
+sd          A.21 utt1:  We don't have many seasons here.  /
+sd          A.21 utt2:  It goes from Winter to Summer, usually. /  
+
+b          B.22 utt1:  Uh-huh. /  
+
+sd          A.23 utt1:  Spring usually consists of a lot of rain. Especially thunderstorms.  /
+sd          A.23 utt2:  [ We've got, + we had ] one of those blow through tonight. /  
+
+ba          B.24 utt1:  {F Oh, } {D well, } that's good. /  
+
+sd          A.25 utt1:  {C And } I think we got the same thing in the forecast for the next two or three days. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+%          A.27 utt1:  {D So. } -/  
+
+qy          B.28 utt1:  Have y'all been having any heat waves or {D like } the ninety degree, -/  
+
+sd          A.29 utt1:  It's gotten up to, {F uh, } ninety a couple of times. /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd          A.31 utt1:  {C But, }  basically, it's been in the low seventies and eighties. /  
+
+b          B.32 utt1:  Uh-huh.  /
+sv          B.32 utt2:  Women, that's good.  For this time of year. /  
+
+aa          A.33 utt1:  Yeah.  /
+sd          A.33 utt2:  It's not really been too bad. /  
+
+b          B.34 utt1:  Uh-huh. /  
+
+sd          A.35 utt1:  Usually it sneaks on into the nineties a little earlier. /  
+
+b          B.36 utt1:  Uh-huh.  /
+qy          B.36 utt2:  {D So } do y'all have many bluebonnets and stuff this year? /  
+
+ny          A.37 utt1:  Yeah,  /
+sd^e          A.37 utt2: quite a bit. /  
+
+b          B.38 utt1:  {F Oh, } Uh-huh. /  
+
+sd          A.39 utt1:  {D Well, } the season is just about over for that,  /
+sd          A.39 utt2: {F uh, } in fact we drove down to Corpus last week -- /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+sd          A.41 utt1:  -- {C and, } {F uh, } there were still some paint brushes and bluebonnets down along the way. /  
+
+sd          B.42 utt1:  {F Oh, } I miss that <laughter>. /  
+
+sd          A.43 utt1:   ((   ))  drove through San Antonio  /
+sd          A.43 utt2: {C and } I spoke to somebody else this morning from San Antonio  /
+%          A.43 utt3: {C and } were, - /
+%          A.43 utt4: they had, - /
+sd          A.43 utt5: {C and } we came back.  /
+t1          A.43 utt6:  What day was that, Sunday evening,  /
+sd          A.43 utt7: {C and } they had a big rainstorm come through there, part of the same thing we're getting now, I guess. /  
+
+sd          B.44 utt1:  {F Oh. }  {F Oh, } {D well } that's real nice because I can remember two years ago that in about February the hundred degree weather started in San Antonio and just continued.  /
+sd          B.44 utt2:  At least y'all are getting some rain up in Dallas.  /
+sd          B.44 utt3:  I'm glad to hear that <laughter>. /  
+
+b          A.45 utt1:  Yeah.  /
+sd          A.45 utt2:  That's the second or third year in a row that we've had a real rainy Spring. /  
+
+b          B.46 utt1:  Uh-huh. /  
+
+sd          A.47 utt1:  We had a pretty rainy Fall last year, as well. /  
+
+qy^g          B.48 utt1:  Y'all weren't getting any of the strings of the tornadoes and stuff were you? /  
+
+sd          A.49 utt1:  {F Um, } we've had a few down here,  but not anything like Kansas. /  
+
+b          B.50 utt1:  Uh-huh. /  
+
+sd          A.51 utt1:  {C But } this is the season for that. /  
+
+ba          B.52 utt1:  {F Oh, } gosh. /  
+
+sd          A.53 utt1:  [ They do, + they do ] pop up occasionally,    
+
+b          B.54 utt1:  # Uh-huh.  # /  
+
++          A.55 utt1:  # around # here. /  
+
+b          B.56 utt1:  {F Oh } <laughter>.  Yeah.  /
+sd          B.56 utt2:  I really don't miss all the heat there. /  
+
+b          A.57 utt1:  Yeah. /  
+
+sd          B.58 utt1:  I'm getting acclimated to have the cool evenings  /
+sd          B.58 utt2: {C so } we get a bit of a relief. /  
+
+b          A.59 utt1:  Yeah.  /
+sd          A.59 utt2:  I'm from here originally,  /
+sd          A.59 utt3: {C so } when it's July and August, I'm pretty well used to the,   
+
+b          B.60 utt1:  # Uh-huh.  # /  
+
++          A.61 utt1:  # hundred # degree temperatures. /  
+
+b          B.62 utt1:  Uh-huh.  /
+b          B.62 utt2:  Yeah <laughter>. /  
+
+sd          A.63 utt1:  The biggest problem [ with, + with ] the weather and the rain in this area is the soil.  /
+sd          A.63 utt2:  It's that black clay soil. /  
+
+qy          B.64 utt1:  {F Oh. }  Is that what Dallas is,  /
+o          B.64 utt2: # okay.  /
+%          B.64 utt3:  Yeah. # /  
+
+sd          A.65 utt1:  # {D You know, } it's # not sandy like most of the state is,  /
+sd          A.65 utt2: {C so } it doesn't absorb the water real well. /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+sd          A.67 utt1:  {D You know, } once it rains a little bit, [ it's, + it's ] filled up and everything else just runs off, /  
+
+b          B.68 utt1:  # Uh-huh.  # /  
+
+o          A.69 utt1:  # {D you # know. } -/  
+
+b          B.70 utt1:  Yeah.  /
+sd          B.70 utt2:  San Antonio has that same problem when the rains come.  /
+sd          B.70 utt3:  [ It's, + it's ] a complete mess, everything floods, all the under passes. /  
+
+b          A.71 utt1:  Yeah. /  
+
+qy^d          B.72 utt1:  I didn't realize that Dallas had that same problem. /  
+
+ny          A.73 utt1:  Yeah.  /
+sd^e          A.73 utt2:  We have it,  /
+sd          A.73 utt3: especially as rainy as it's been in the last couple of years.   /
+sd          A.73 utt4: {C And } there's a section in South Dallas that's had a whole lot of flooding problems because of the rain. /  
+
+b          B.74 utt1:  Uh-huh.  /
+sd          B.74 utt2:  {D Well, } we could use some rain up here.  /
+sd          B.74 utt3:  We're {D like } in the bottom of the fourth year of drought,   
+
+b          A.75 utt1:  # Really.  # /  
+
++          B.76 utt1:  # up # here  /
+sd          B.76 utt2: {C and } they had a pretty good early Spring  /
+sd          B.76 utt3: {C and } we got quite a bit of rain,  /
+sd          B.76 utt4: {C but } it wasn't enough to offset what they lost over the last four years. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  [ {C And, } + {F uh, } {C so } ] they're still talking water rationing this Summer,  /
+sd          B.78 utt2: {C so } it would seem strange because in San Antonio, - /
+sd          B.78 utt3: we had lived out, {F um, } west of San Antonio, in Castroville, /  
+
+b          A.79 utt1:  # Uh-huh.  # /  
+
+sd          B.80 utt1:  # {C And } # the water in  (( Medina ))  Lake and that area was really going down, that they were considering that they might have to do water rationing  /
+sd(^q)       B.80 utt2: {C and } I thought {F oh, } gee I'm so glad to get out of there and get up here to the California Pacific coast where it rains and everything has flowers  /
+^q          B.80 utt3: {C and } there's no problem with water.   /
+sd          B.80 utt4: {C And then } I came here and found out they were in the, {D you know, } four year draught <laughter>. /  
+
+b          A.81 utt1:  Uh-huh. /  
+
+sd          B.82 utt1:  {C So } I said, {D well, } {F gee, } this is pretty much like Texas.   /
+sd          B.82 utt2: {C And } it pretty much is in the middle of Summer.  /
+sd          B.82 utt3:  They have rolling hills around here  /
+sd          B.82 utt4: {C but, }   
+
+b          A.83 utt1:  # Uh-huh.  # /  
+
++          B.84 utt1:  # {F um, } # they turn to golden dead grass,    
+
+b          A.85 utt1:  # Uh-huh.  # /  
+
++          B.86 utt1:  # for # the majority of the Summer just because there is no water to keep them green. /  
+
+b          A.87 utt1:  Yeah. /  
+
+sd          B.88 utt1:  {C But, }  {F um, } it's a really nice area.  /
+sd          B.88 utt2: [ It's just, + it's just ] such a change from, {F uh, } Texas because I had grown up with, {F uh, } the heat, /  
+
+b          A.89 utt1:  # Uh-huh.  # /  
+
+sd          B.90 utt1:  # {C and } # used to essentially, - /
+sd          B.90 utt2: like you said, you have the cold Winter  /
+sd          B.90 utt3: {C and  then } you have the hot Summer Spring <laughter>. /  
+
+b          A.91 utt1:  Uh-huh. /  
+
+sd          B.92 utt1:  {C And, }  {F uh, } to come here, it's kind of the temperate weather all year round.  /
+sd         B.92 utt2: It's kind of like, {F uh, } Spring, I guess, [ if you, + ] year round, [ except, + ]  /
+sd         B.92 utt3: {C and then } in the Winter - /
+sd          B.92 utt4: {C and then } it seems sort of like a San Antonio early Winter or Fall,    
+
+b          A.93 utt1:  # Uh-huh.  # /  
+
++          B.94 utt1:  # year-round.  #  /
+sd          B.94 utt2: {C So } it seems like we only have two Springs [ which is, + ] or two seasons  /
+sd          B.94 utt3: {C and } that would be Spring and Fall. /  
+
+b          A.95 utt1:  Yeah. /  
+
+sd          B.96 utt1:  We never really get any of the other ones. /  
+
+b          A.97 utt1:  Uh-huh. /  
+
+sd          B.98 utt1:  {C But } it's a really nice, {F uh, } change of pace. /  
+
+sd         A.99 utt1:  I guess I'd prefer that <laughter>. /  
+
+b          B.100 utt1:  <Laughter>  Yeah.  /
+^2          B.100 utt2:  To the heat.  /
+sd          B.100 utt3:  I really don't miss the heat. /  
+
+b          A.101 utt1:  Yeah. /  
+
+sd          B.102 utt1:  {F Um, }  we do a lot of,  {D you know, } - /
+sd          B.102 utt2: when you do a lot of  outside, {D like } running and stuff, it's just so much easier,   
+
+b          A.103 utt1:  # Uh-huh.  # /  
+
++          B.104 utt1:  # up # here  /
+sd          B.104 utt2: {C and } you don't have to worry about the high humidity. /  
+
+b          A.105 utt1:  Yeah. /  
+
+qy          B.106 utt1:  Does Dallas get high humidity?  /
+qrr          B.106 utt2: {C Or } is it pretty dry. /  
+
+sd          A.107 utt1:  It's pretty dry.  /
+sd          A.107 utt2:  We get some when it's this rainy,  /
+sd          A.107 utt3: {C but } it's nothing like,  I guess, San Antonio Summers,  /
+sd          A.107 utt4: (( it's  ))  nothing like Houston.  /
+x          A.107 utt5:  <<Tape is cutting out.>>     
+
+b          B.108 utt1:  Uh-huh. /  
+
+sd          A.109 utt1:   ((   ))  {C or } East Texas, is a little more humid. /  
+
+b          B.110 utt1:  Yeah.  /
+sd          B.110 utt2:  It seems like San Antonio is increasing in humidity over the years,  /
+sd          B.110 utt3: {C because } I had lived in San Antonio for about twenty years, /  
+
+b          A.111 utt1:  # Uh-huh.  # /  
+
+sd          B.112 utt1:  # {C and } # it just seemed like every year it just got [ more and more humid, + more and more humid <laughter>. ]   
+
+b          A.113 utt1:  Uh-huh. /  
+
++          B.114 utt1:  {C And } here [ it's, + {F uh, } {D well } it's ] right by the ocean,  /
+sd          B.114 utt2: {C but, }  {F um, } it's not the same as Corpus.  /
+sd          B.114 utt3:  Corpus, you get that humid salty feeling in the air. /  
+
+b          A.115 utt1:  Uh-huh. /  
+
+sd          B.116 utt1:  {C But } here, {F um, } {D well } the water is extremely cold, up here,  /
+sd          B.116 utt2: you can lay on the beach all you want,  /
+sd          B.116 utt3: {C but } if you want to go wind suffering or diving or swimming, you have to wear a wet suit.   
+
+b          A.117 utt1:  Uh-huh. /  
+
++          B.118 utt1: And a thick wet suit at that, because it's just extremely cold  /
+%          B.118 utt2: {C and } I, - /
+sd          B.118 utt3: for some reason, because of the cold, {F uh, } ocean, {F uh, } water, the air is always cool.  /
+sd          B.118 utt4:  It's never humid or sticky or salty feeling,  /
+sd          B.118 utt5: {C so } I really like that about this area.   /
+sd          B.118 utt6: {C And, }  {F uh, } we just hadn't expected it,  /
+sd          B.118 utt7: we were used to, what, {F uh, } gulf coast weather was like,    
+
+b          A.119 utt1:  # Yeah.  # /  
+
++          B.120 utt1:  # when # we came here to Pacific coast weather.  /
+sd          B.120 utt2:  It's just completely different  /
+sd          B.120 utt3: {C and } it's much nicer. /  
+
+b          A.121 utt1:  Yeah.  /
+bf          A.121 utt2:  Probably the Pacific breezes make a lot of difference, /  
+
+aa          B.122 utt1:  Uh-huh.  /
+sd          B.122 utt2:  It does  /
+sd^r          B.122 utt3: {C and } the air doesn't feel anything like it does along the gulf coast region.   /
+%          B.122 utt4:  {C But } you,  {F um, } - /
+sd          B.122 utt5: {C but } we  like it  /
+sd          B.122 utt6: {C so } it's a nice change.   /
+sd          B.122 utt7: {C So }  we'll be here a couple of years  /
+sd(^q)       B.122 utt8: {C and } we thought {D well, } we'll take advantage of it and see what all the Pacific coast is like. /  
+
+ba          A.123 utt1:  That's nice. /  
+
+sd          B.124 utt1:  {D So } it's been good. /  
+
+sd          A.125 utt1:  {D Well, } my wife's originally from Virginia  /
+sd          A.125 utt2: {C and } we lived there for about nine months  /
+sd          A.125 utt3: {C and } that was a real change for me. /  
+
+ba          B.126 utt1:  {F Oh, } I imagine.  /
+qy^g          B.126 utt2:  Virginia, I imagine, gets real humid, doesn't it? /  
+
+sd          A.127 utt1:  {F Um, } parts do.  /
+sd          A.127 utt2:  [ We, + we're ] over in the western edge in the mountains. /  
+
+b          B.128 utt1:  {F Oh. } /  
+
+sd          A.129 utt1:  {C And, }  they have, of course, some pretty severe storms, Winter storms, snow and that type of thing. /  
+
+b          B.130 utt1:  Uh-huh. /  
+
+sd          A.131 utt1:  {C But } they're so good about clearing the roads, that, {D you know, } it doesn't usually bother you very much. /  
+
+b          B.132 utt1:   Uh-huh.  /
+b          B.132 utt2:  Yeah <laughter>.  /
+bf          B.132 utt3:  Not like Texas where everything comes to a stand still. /  
+
+aa          A.133 utt1:  Yeah.  /
+sd          A.133 utt2:  Their Springs and Summers are pretty mild, too.  /
+sd          A.133 utt3:  It never gets real, real hot. /  
+
+b          B.134 utt1:  Uh-huh.  /
+sd          B.134 utt2:  I'll have to try that out because I had heard that North Carolina was sort of like that. /  
+
+b          A.135 utt1:  Uh-huh. /  
+
+sd          B.136 utt1:  {C And, }  {F uh, } I've just never really been in that region of the country  /
+sd          B.136 utt2: {C and } I guess I'm going to have to try that area sometime and see what it's like.  /
+sd          B.136 utt3:  {C Because } a lot of people that are from that North Carolina region really like  it.   /
+sd          B.136 utt4: {C And, }  {F uh, } they get the snow,  /
+sd          B.136 utt5: {C but } they said it doesn't really get messy  /
+sd          B.136 utt6: {C and } it doesn't really hang around that long. /  
+
+b          A.137 utt1:  Yeah. /  
+
+sd          B.138 utt1:  {D So, } [ they, + the people ] I know that are from there, {F uh, } they always miss it  /
+sd          B.138 utt2: {C and } they want to go back <laughter>.  /
+sd          B.138 utt3:  Nothing seems quite as good.   /
+%          B.138 utt4: {C But, } {D anyway. }  {D Well, } -/  
+
+sd          A.139 utt1:  {D Well, } as we were talking the weather came on  /
+sd          A.139 utt2: {C and } there's a flash flood watch and,    
+
+ba          B.140 utt1:  # {F Oh, } gee-whiz.  # /  
+
++          A.141 utt1:  # more rain # for the next three or four days. /  
+
+ba          B.142 utt1:  {F Oh, } gosh.  /
+sd          B.142 utt2:  {D Well, } I hope it moves up this way,  /
+sv          B.142 utt3: {C but } I'm sure it won't <laughter>. /  
+
+b          A.143 utt1:  Yeah.  /
+sd          A.143 utt2:  Maybe we can send you some <laughter>. /  
+
+b          B.144 utt1:  <Laughter> Yeah.  /
+sd          B.144 utt2:  {C Because } we could sure use it.  /
+qy^t          B.144 utt3:  {D Well, } you think that takes care of the time and, -/  
+
+na^t          @@A.145 utt1:  I think that will do it. /  
+
+aa          B.146 utt1:  Okay.  /
+fc          B.146 utt2:  {D Well, } I sure appreciate hearing how things are going in Texas and,  {F uh, } -/  
+
+fc          A.147 utt1:  {D Well, } I enjoyed talking with you Lisa, /  
+
+fc          B.148 utt1:  Yeah.  /
+fc          B.148 utt2:  Good luck to you. /  
+
+fc          A.149 utt1:  Uh-huh.  /
+fc          A.149 utt2:  You, too. /  
+
+fc          B.150 utt1:  Okay.  /
+fc          B.150 utt2:  We'll see you. /  
+
+fc          A.151 utt1:  Bye. /  
+
+fc          B.152 utt1:  Bye. / 

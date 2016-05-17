@@ -1,0 +1,384 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2548_1055_1053
+TOPIC#:		320
+DATE:		910410
+TRANSCRIBER:	KVA
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	4
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        Nothing unusual.  Speakers were reversed in original file
+but I corrected on 12/17/91 -- lya.
+
+=============================================================================
+  
+
+qw          B.1 utt1:  What kind of a car do you drive now? /  
+
+sd          A.2 utt1:  I drive a Honda Prelude. /  
+
+bh          B.3 utt1:  Do you?  /
+sd          B.3 utt2:  I drive a Honda Accord. /  
+
+b          A.4 utt1:  {F Oh, } yeah <laughter>. /  
+
+b          B.5 utt1:  Yeah <laughter>. /  
+
+sd          A.6 utt1:  I bought mine a year ago  /
+sd          A.6 utt2: {C  so } I'm not buying a car any time soon. /  
+
+aa          B.7 utt1:  Yeah,  /
+sd          B.7 utt2: me either.  /
+sd          B.7 utt3: I just bought mine, {F uh, }  /
+sd          B.7 utt4:  it will be a year in August. /  
+
+b          A.8 utt1:  Yeah. /  
+
+sd          B.9 utt1:  I love it though.  /
+sd          B.9 utt2:  I love Hondas. /  
+
+b          A.10 utt1:  Yeah.  /
+%          A.10 utt2:  It, -/  
+
+sd          B.11 utt1:  I think I found my car. /  
+
+sd          A.12 utt1:  {D Well, } [ I, +  I ] like where all the controls [ [ are -- +    
+
+b          B.13 utt1:  Right. /  
+
++          A.14 utt1:  --  they're, ] + they're ] in good spots  /
+sd@           A.14 utt2:  {C and } [ I, +  I ] have an automatic I can't drive a standard. / *[[ Why weren't the 2 indep clauses split up into separate slash units? ]] 
+
+bh          B.15 utt1:  {F Oh, } really, /  
+
+ny          A.16 utt1:  Yeah. /  
+
+sd          B.17 utt1:  I have a standard. /  
+
+%          A.18 utt1:   {C But, }  {F um, } - /
+%          A.18 utt2:   I, - /
+sd         A.18 utt3: [ it's,  +   {C an } it's ] supposedly real reliable /
+sd          A.18 utt4: the only thing I've ever heard about Hondas is that the breaks go out first. /  
+
+bh          B.19 utt1:  {F Oh, } really? /  
+
+ny          A.20 utt1:  Yeah. /  
+
+sd          B.21 utt1:  I hadn't heard that. /  
+
+b          A.22 utt1:  Yeah. /  
+
+qw          B.23 utt1:  What did you have before you bought that. /  
+
+sd          A.24 utt1:  I had a Buick Regal. /  
+
+bh          B.25 utt1:  Did you? /  
+
+ny          A.26 utt1:  Yeah. /  
+
+sd          B.27 utt1:  I had, {F uh, } a Mazda R X Seven before that  /
+sd          B.27 utt2:  {C and } that was the worse car I've ever driven in my life. /  
+
+sd          A.28 utt1:  The Buick [ was, +  was ] great.  /
+sd          A.28 utt2:   It was nine years old  /
+sd          A.28 utt3: {C and } it,   
+
+bh          B.29 utt1:  Really? /  
+
++          A.30 utt1:  was still going strong.  /
+sd          A.30 utt2:   The only problems I had with it in the nine years that I owned it, I had to replace the  compressor when it was about seven years old. /  
+
+bh          B.31 utt1:  Really? /  
+
+sd          A.32 utt1:  {C And } that was the only major problem  that I had, {E I mean, }  /
+sd          A.32 utt2: I had {D like } little piddly things like --   
+
+b          B.33 utt1:  Yeah. /  
+
++          A.34 utt1:  -- I had to replace the muffler  /
+sd          A.34 utt2:  {C and } I had replaced the tires  /
+sd          A.34 utt3: {C and, }  {F uh, } seems like it had a radiator leak once.  /
+sd          A.34 utt4:   {C But } I never had any major anything,   
+
+b          B.35 utt1:  Right. /  
+
++          A.36 utt1:  other than the compressor. /  
+
+sd          B.37 utt1:  I really never had anything major with my Mazda  /
+sd          B.37 utt2:  {C but } it was a standard also  /
+sd          B.37 utt3: {C and } the clutch went out on it toward the end, /
+sd          B.37 utt4:  I had it five years  /
+sd          B.37 utt5: {C and } the [ last year, +  last two years ] it seemed to go out really easily.  /
+sd          B.37 utt6:   I think it went out twice in two years  /
+sv          B.37 utt7: {C and } [ that's, +  that's ]  a lot  /
+sv          B.37 utt8: it shouldn't go out that much. /  
+
+aa          A.38 utt1:  Huh-uh. /  
+
+sd          B.39 utt1:  {C And so } I went ahead and bought another standard when I bought the Honda  /
+sd          B.39 utt2: {C but } I don't think I'm going to do that again. /
+sd          B.39 utt3:   I think I'm going back to automatic now. /  
+
+sd          A.40 utt1:  {D Well, } I never, {D well, } - /
+sd          A.40 utt2:  I kind of know how to drive standard  /
+sd          A.40 utt3: {C but } I've never owned one  /
+sd          A.40 utt4: {C so } [ I hadn't, +  I don't ] drive one a lot. /  
+
+b          B.41 utt1:  Right. /  
+
+sd           A.42 utt1:  {D So, }  I don't feel comfortable in traffic with it. /  
+
+b          B.43 utt1:  Right. /  
+
+sd          A.44 utt1:  {C And } for everything I've heard it's  a lot easier to sell an automatic. /  
+
+aa          B.45 utt1:  Yeah,  /
+aa          B.45 utt2:  it is. /  
+
+sd          A.46 utt1:  [ {C And, } +    
+
+aa          B.47 utt1:  That's true. /  
+
++          A.48 utt1:  {C and } ] resale value is really important to me <laughter>. /  
+
+aa          B.49 utt1:  Yeah,  /
+sd          B.49 utt2:  it is me too  /
+sd          B.49 utt3: that's why I got the Honda. /  
+
+b          A.50 utt1:  Yeah. /  
+
+sd          B.51 utt1:  Hondas have great resale value. /  
+
+b          A.52 utt1:  Yeah. /  
+
+sd          B.53 utt1:  The Mazda definitely did not <laughter>.  /
+sd          B.53 utt2:  Not at all.  /
+sd          B.53 utt3: They're worse than American cars I think or just as bad as far as resale goes. /  
+
+sd          A.54 utt1:  I did pretty well with my, {F uh, }  Regal because it was in really good shape  /
+sd          A.54 utt2: {C but, }   
+
+b          B.55 utt1:  Yeah. /  
+
++          A.56 utt1:  it still looked real nice,  /
+sd          A.56 utt2: [ the, +  the ]  interior was still really nice,  /
+sd          A.56 utt3: there wasn't cracks all over the dash board and stuff. /  
+
+b          B.57 utt1:  Right. /  
+
+sd          A.58 utt1:  {C And } it had [ some, +  some ] nice features. /
+sd          A.58 utt2:  {C  So } I ended up okay with the Buick, /  
+
+ba          B.59 utt1:  Good. /  
+
+sd          A.60 utt1:  {C and } I anticipate the same thing with  the Honda whenever I decide to sell it,  /
+sd          A.60 utt2: of course, I may never sell it <laughter>, /  
+
+b          B.61 utt1:  Right. /  
+
+sd          A.62 utt1:  I may drive it until it's dead  /
+%          A.62 utt2: {C but, } -/  
+
+b          B.63 utt1:  Yeah.  /
+sd          B.63 utt2:  That's what I did with the Mazda,  drive it [ until the, + until the ] clutch went out and the wheels fell off, /  
+
+b          A.64 utt1: Yeah. /  
+
+sd          B.65 utt1:  {D so, }  probably what I'll do again. -/  
+
+b          A.66 utt1:  Yeah. /  
+
+sd          B.67 utt1:  {C But } I really like the Hondas.  /
+sd          B.67 utt2: I like foreign cars --   
+
+b          A.68 utt1:  Uh-huh. /  
+
++          B.69 utt1:  -- a lot. /  
+
+%          A.70 utt1:  {D Well, } -/  
+
+sd          B.71 utt1:  I looked at the Mitsubishi Galant.  /
+sd          B.71 utt2:   I was looking for a four door car having driven the R X Seven so long, /  
+
+b          A.72 utt1:  Uh-huh. /  
+
+sd          B.73 utt1:  {C and } it was so small  /
+sd          B.73 utt2:  {C and } it's really impractical.  /
+sd          B.73 utt3:  {C So, }  I wanted something with a real trunk, and four doors something easy to get in  and out of  /
+sd          B.73 utt4: {C and } I looked at the Galant  /
+sd          B.73 utt5: {C and } those were really nice  /
+sd          B.73 utt6:  {C and } I can get them for a great price. /  
+
+b          A.74 utt1:  Yeah. /  
+
+sd           B.75 utt1:  {C But } I found it hard to deal with  [ the, + the ] dealership I was going through. /  
+
+b          A.76 utt1:  Oh. /  
+
+sd          B.77 utt1:  {D So, }  that's how I ended up with a Honda. /  
+
+sd           A.78 utt1:  I wasn't even looking for a car when I bought this car.  /
+sd          A.78 utt2:   [ I, +  {F uh, } I ] was thinking about buying a Prelude from a friend  who was moving to New York or something  /
+sd          A.78 utt3: [ {C so } +  {C and } ] she was going  to sell her car because she didn't need it anymore  /
+sd          A.78 utt4: {C and } it was only like a year old  /
+sd          A.78 utt5:  {C and } I had never driven, {F uh, } a Prelude. /
+sd          A.78 utt6: {C So, }  I went to a dealership because they had {D like, }  {F uh, } the same year and same model,   
+
+b          B.79 utt1:  Right. /  
+
++          A.80 utt1:  of Prelude on their used car lot  /
+sd          A.80 utt2:  {C and } I went and I test drove it  /
+sd          A.80 utt3: {C and, }  {D you know, } I just fell in love,   
+
+b          B.81 utt1:  {F Oh, } yeah. /  
+
++          A.82 utt1:  with this brand new white Prelude, {F uh, } {D you know, }   
+
+sv          B.83 utt1:  They're nice I think. /  
+
++          A.84 utt1:  two liter S I with the sun roof and the moon roof /
+sd          A.84 utt2:  {C and } I,   
+
+b          B.85 utt1:  {F Oh, } yeah. /  
+
++          A.86 utt1:  bought it loaded. /  
+
+aa          B.87 utt1:  {F Oh, } yeah.   /
+sd          B.87 utt2:  I have to have them loaded, /  
+
+%          A.88 utt1:  {F Oh, } /  
+
+sd          B.89 utt1:  {F um, } I love all those little things  that you don't need  /
+sv          B.89 utt2: {C but } they're so  wonderful. /  
+
+aa          A.90 utt1:  Yeah.  /
+sd          A.90 utt2: I went there looking at a used car  /
+sd          A.90 utt3:  {C and } two days later I bought this car. /  
+
+x          B.91 utt1:  <Laughter>.   
+
+sd           A.92 utt1:  [ I felt like, +  I felt like ]  [ that was the worst impulse, +  [ that was, +  that was ] largest impulse ] [ that I, +    
+
+x          B.93 utt1:  <Laughter>.   
+
++          A.94 utt1:  that I ] had ever made.  /
+sd          A.94 utt2: [ The oth-, +  the two,    
+
+ba          B.95 utt1:  I understand. /  
+
++          A.96 utt1:  other ] things that I bought on impulse  are a V C R and a washer <laughter>,   
+
+x          B.97 utt1:  <Laughter>.   
+
++          A.98 utt1:  and dryer.  /
+sd          A.98 utt2: I go for the big stuff. /  
+
+b          B.99 utt1:  Yeah.  /
+sd          B.99 utt2:  I noticed <laughter>.  /
+sd          B.99 utt3:   Mine was definitely not impulse  /
+sd          B.99 utt4: I really needed a new car.  /
+sd          B.99 utt5:  Mine was just, it was  getting worn out I guess from being a sports car.  /
+sd          B.99 utt6: I drove it kind of hard, /  
+
+b          A.100 utt1:  Oh. /  
+
+sd          B.101 utt1:  {C and } I got it right after high school.  /
+sd          B.101 utt2:   {C So, }  by the time I traded it in it was ready. /  
+
+aa          A.102 utt1:  Yeah.  /
+sd          A.102 utt2:  [ I got, +   
+
+sd@          B.103 utt1:  Ready to go. /  *[[ I really think this should be a continuation of B.101 utt 2. ]]
+
++          A.104 utt1:  I got ] my Buick as a high school graduation gift. /  
+
+bh          B.105 utt1:  Did you? /  
+
+ny          A.106 utt1:  Yeah.  /
+sd          A.106 utt2:  {C But } [ I, +  I ]  guess this wasn't really an impulse, {E I mean, }  /
+sd          A.106 utt3: buying it right then and, {D you know, } right quickly  was kind of impulsive  /
+sd          A.106 utt4: {C but } I'd been thinking about buying a new car for about three years  /
+sd          A.106 utt5:  {C and } I was just scared to. /  
+
+b          B.107 utt1:  Right. /  
+
+sd          A.108 utt1:  I was scared to start taking on payments  because the Buick was long since paid for. /  
+
+aa          B.109 utt1:  Right.   /
+sd          B.109 utt2:  That's the same with me.  /
+qy          B.109 utt3:   Would you ever buy a used car for a new car for yourself? /  
+
+br^r          A.110 utt1:  [ Buy a, +  [ wha-,  ar-, you, + ]   
+
+%          B.111 utt1:  {D Like, } -/  
+
++          A.112 utt1:  buy a ] used car? /  
+
+aa          B.113 utt1:  Right. /  
+
+na          A.114 utt1:  Sure. /  
+
+sd          B.115 utt1:  [ I, +  I ] was going to buy one once  /
+sd          B.115 utt2:  {C but } [ I just, +  I ] worry about who's driven them and what they've been through and the warranties  and things like that. /  
+
+b          A.116 utt1:  Yeah. /  
+
+sd          B.117 utt1:  Just, I can't seem to get over that.  /
+sd          B.117 utt2:   That just bothers me <laughter>  /
+sd          B.117 utt3: I don't know why. /  
+
+sd          A.118 utt1:  {D Well, } {F um, } like on Hondas  they, - /
+sd          A.118 utt2:  supposedly, the  maintenance records was supposed to be registered with Honda or whatever  /
+sd          A.118 utt3:  {C and } you can request whatever maintenance records exist on cars  /
+sd          A.118 utt4:  {C and } you can have them checked out by mechanics and stuff. /  
+
+aa          B.119 utt1:  Yeah,  /
+aa          B.119 utt2: that's true. /  
+
+sd          A.120 utt1:  {E I mean } they can't stop you from doing it. /  
+
+bf          B.121 utt1:  Hoping that they do go to a Honda  dealership to get them serviced. /  
+
+aa          A.122 utt1:  Yeah. /  
+
+b          B.123 utt1:  Yeah. /  
+
+sv          A.124 utt1:  {D Well, } {C and } even if they didn't,  you can still get a good idea [ from a, + ]  if you can get a good mechanic to,   
+
+b          B.125 utt1:  Yeah. /  
+
++           A.126 utt1:  check it over real carefully  and check the block and everything. /  
+
+aa          B.127 utt1:  That's true. /  
+
+%          A.128 utt1:  {D So. } -/  
+
+sd^t          B.129 utt1:  {D Well, } I guess that's all. /  
+
+aa          A.130 utt1:  Okay.  /
+fc          A.130 utt2:  {D Well, } I enjoyed talking to you. /  
+
+fc          B.131 utt1:  I enjoyed talking to you. /  
+
+fc          A.132 utt1:  Bye-bye. /  
+
+fc          B.133 utt1:  Bye-bye. / 

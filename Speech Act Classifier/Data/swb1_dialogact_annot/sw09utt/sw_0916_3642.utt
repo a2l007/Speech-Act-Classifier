@@ -1,0 +1,154 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3642_1425_1376
+TOPIC#:		342
+DATE:		911230
+TRANSCRIBER:	glp
+UTT_CODER:      mmab
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        None.
+
+=======================================================================
+  
+
+%          B.1 utt1:  W-, -/  
+
+fp          A.2 utt1:  Hi. /  
+
+qo          B.3 utt1:  {D Well, } what do you think? /  
+
+sv          A.4 utt1:  {D Well, } providing universal health care insurance for the whole country is a pretty big task  /
+sd          A.4 utt2: {C and } [ I, + {F uh, } personally, I ] don't approve of it for two reasons.  /
+sv          A.4 utt3: Number one is that I think that, {F uh, } the federal government has a problem with the deficit right now,  /
+sv          A.4 utt4: {C and } if they were to administer this, they would, {F uh, } <laughter> get us more and more into debt, further than we can ever get out ourselves.  /
+sv          A.4 utt5: Number two I think that the quality of health care would go down because the competition [ would, + would ] be dried up  /
+sv          A.4 utt6: {C and } really no one [ would be, + would only ] answer [ [ to, + to the government ] to a big [ bur-, + bureaucratic ] mess. ]  /
+sd          A.4 utt7: {C And, } {F uh, } I've seen what it has done in other countries  /
+sv          A.4 utt8: {C and so } [ I don't think, + {F uh, } I don't think ] we should head in that direction.  /
+sv          A.4 utt9:  Although that we have problems right now - /
+aa          A.4 utt10: {C and } I do agree that they exist  /
+sv          A.4 utt11: {C because } health care insurance [ for, + for ] everyone is skyrocketing  /
+sv          A.4 utt12: {C and } it's become to a point where basically no one can afford it anymore. /  
+
+b          B.5 utt1:  Uh-huh. /  
+
+qo          A.6 utt1:  How do you feel about the whole ordeal? /  
+
+aa          B.7 utt1:  {D Well, } I agree that it's a big task,  /
+sv          B.7 utt2: {C but } [ I think that, + I think that ] the U S should move toward some kind of national health care plan.  At least as a long term kind of goal. /  
+
+b          A.8 utt1:  Uh-huh. /  
+
+sv          B.9 utt1:  {C And } possibly, [ y-, + just ] starting with more regulation of health insurance and that sort of thing, - /
+sv          B.9 utt2: {C but } I think that ultimately it would be a good idea to, {F uh, } - /
+sv          B.9 utt3: and not have a completely socialized,   
+
+x          A.10 utt1:  <Laughter>.   
+
++          B.11 utt1:  medical system --   
+
+b          A.12 utt1:  Uh-huh. /  
+
++          B.13 utt1:  -- in the country, maybe something about halfway between that and what we have now. -/  
+
+bk          A.14 utt1:  Okay. /  
+
+sv          B.15 utt1:  [ It, + {F uh, } just {C because } it ] seems that, {F uh, } health insurance costs are sky rocketing, {D well, } as fast as the national deficit --   
+
+b          A.16 utt1:  {F Oh, } yeah. /  
+
++          B.17 utt1:  -- perhaps  /
+%          B.17 utt2: {C and } so that, - /
+sv          B.17 utt3: {C and } --   
+
+%          A.18 utt1:  # {C But } [ [ what, + # -/  
+
++          B.19 utt1:  -- # [ that's a + # --   
+
+%          A.20 utt1:  # What you're think-, ] + #   
+
++          B.21 utt1:  -- # that's a ] # vicious cycle, of course. /  
+
++          A.22 utt1:  Yeah,  /
+bf          A.22 utt2: {C so } what # you're # --   
+
+%          B.23 utt1:  # Because, # -/  
+
++          A.24 utt1:  -- saying ] though, is instead of having the national [ government, + {F uh, } government ] administer, giving health insurance to every man, woman and child [ with, + throughout ] the whole company, you see more of them as regulating the high costs, {F uh, } that people are forced to pay for it right now.  /
+qy          A.24 utt2:  [ Is that -- +   
+
+b          B.25 utt1:  {F Um, } /  
+
++          A.26 utt1:  -- is that ] correct,  /
+qrr          A.26 utt2: {C or } do you think that, /  
+
+nd          B.27 utt1:  {D Well, } [ I, + {F uh, } {D well, } I ] wouldn't exclude the possibility of the government actually administrating it ultimately.  /
+sv          B.27 utt2:  I don't think that that would necessarily be such a bad idea.  /
+%          B.27 utt3:  {C And, } <noise>, {F uh } <noise>, -/  
+
+qy          A.28 utt1:  {D Well, } [ with the, + with the ] costs as they are right now, do you think that the government, {F uh, } - /
+sv          A.28 utt2: {C because } what that would require is for us to pay, {F uh, } more taxes  /
+sv          A.28 utt3: {C and } [ [ the, + the in-, ] + the people ] that can afford taxes, the middle income and the upper income will be paying more [ c-, + taxes ] [ to, + to ] pay for health insurance for everyone, whereas right now --   
+
+b          B.29 utt1:  Right. /  
+
++          A.30 utt1:  -- [ the, + the ] public themselves get health insurance  /
+sv          A.30 utt2: {C and } they provide their own health insurance. /  
+
+sv          B.31 utt1:  [ The, + {D well, } as it is now, the ] middle and upper classes are paying more than their share for the health care of the whole country because they're the only people that can afford health insurance <whistling>  /
+sv          B.31 utt2: {C and so } that the other people have no health insurance - /
+sv          B.31 utt3: {C and, } {D you know, } they'll get medical care anyway at least in emergencies  /
+sv          B.31 utt4: {C and } --   
+
+%          A.32 utt1:  E-, -/  
+
++          B.33 utt1:  -- somebody winds up paying for that  /
+sv          B.33 utt2: {C and } basically the people paying for it are the people who are buying health insurance  /
+sv          B.33 utt3: {C so } I don't see [ that anything, + that this situation ] would get any worse.  /
+sv          B.33 utt4: That way it might get better. /  
+
+qy^g          A.34 utt1:  You think it might [ b-, + get better, ] huh?  /
+ar          A.34 utt2:  [ I, + I ] kind of disagree <laughter>. /  
+
+b          B.35 utt1:  Uh-huh. /  
+
+%          A.36 utt1:  The reason being is, {F uh, } we have, - /
+h          A.36 utt2: I don't know,  /
+sv          A.36 utt3: I guess it's [ my, + my ] fear of the national government and also because the bureaucratic --   
+
+b          B.37 utt1:  Uh-huh. /  
+
++          A.38 utt1:  -- rules that it would take to administer it  /
+sv          A.38 utt2: {C and, } {F uh, } [ the, + the ] health insurance companies right now pretty much regulate and are pretty picky [ and, +  and, ] {F uh, } don't allow cases where they might throw them out of business, whereas the federal government if they took over everything, they wouldn't care because they'll never go out of business.  /
+sv          A.38 utt3:  People would still have to pay taxes,  /
+sv          A.38 utt4: the money would have to come from somewhere  /
+%          A.38 utt5: {C and } so you'd s-, - /
+sv          A.38 utt6: [ I, + I ] feel that the cost would increase dramatically also.  /
+sv          A.38 utt7:  {C But } in the same sense [ the, + the ] care and [ the, + the ] attitude of the doctors and the professionals within the medical, {F uh, } field [ would, + would ] diminish. /  
+
+b          B.39 utt1:  Uh-huh. /  
+
+b          A.40 utt1:  {F Uh, } /  
+
+b          B.41 utt1:  Yeah,  /
+%          B.41 utt2: {D well, } I think, -/ 

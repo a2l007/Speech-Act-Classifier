@@ -1,0 +1,467 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3064_1264_1005
+TOPIC#:		304
+DATE:		910613
+TRANSCRIBER:	RDL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None
+
+=========================================================================
+  
+
+qy          A.1 utt1:  Do you use credit cards a good bit? /  
+
+na          @B.2 utt1:  I do,  /
+sd          @B.2 utt2: {C and } I wish I didn't <laughter>. /  
+
+b          A.3 utt1:  {F Uh. } /  
+
+sd          B.4 utt1:  Before I got married, {F uh, } about the only credit cards I used were gas cards, because I didn't like carrying, {D you know } --   
+
+b          A.5 utt1:  # Uh-huh. # /  
+
++          B.6 utt1:  -- # the cash # with me all the time,  /
+sd          B.6 utt2: {C but } I just never wanted to get into the hang-up of using credit cards and --   
+
+b          A.7 utt1:  Uh-huh. /  
+
++          B.8 utt1:  -- having all those bills hanging over my head. /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1:  In fact, I remember getting my first MasterCard,  /
+sd          B.10 utt2: {C and } the only reason I got it was, {D you know, } there was a while --   
+
+b          A.11 utt1:  Okay. /  
+
++          B.12 utt1:  -- years ago when you couldn't cash a check --   
+
+b          A.13 utt1:  Absolutely. /  
+
++          B.14 utt1:  -- without {D like } a MasterCard or VISA /  
+
+b          A.15 utt1:  Right. /  
+
+sd          B.16 utt1:  {C And so } that's why I went ahead and got one. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  It was a mistake <laughter>. /  
+
+b          A.19 utt1:  Yeah.  /
+sd          A.19 utt2:  {D Well, } {D actually, } [ I, + I ] have a whole wallet full of credit cards. /  
+
+b          B.20 utt1:  Yeah. /  
+
+sd          A.21 utt1:  I don't use them very often.  /
+sd          A.21 utt2:  {F Um, } {F oh, } [ I may use, + I try to use ] at least one gasoline credit card a week, and try to use a different one, so that, <breathing> {D you know, } I [ have, + <breathing> keep ] those active. /  
+
+b          B.22 utt1:  Yeah. /  
+
+sd          A.23 utt1:  I have a half a dozen department store credit cards,  /
+sd          A.23 utt2: {C and } [ I, + I'll ] use those if I need to run in and buy a dozen pair hose right quick --   
+
+b          B.24 utt1:  Yeah. /  
+
++          A.25 utt1:  -- or something like that,  /
+sd          A.25 utt2: just enough to keep them active.  /
+sd          A.25 utt3: My biggies are the VISA, MasterCard and Discover. /  
+
+b          B.26 utt1:  Yeah. /  
+
+sd          A.27 utt1:  {C And } for the most part, I had used those for {D like, } {F uh, } charging airline tickets, <lipsmack> where [ I can pay for those, + {D you know, } you could --   
+
+b          B.28 utt1:  Yeah. /  
+
++          A.29 utt1:  -- make the transaction ] over the telephone,  /
+sd          A.29 utt2: {C or } I fly Southwest a good little bit, which means I can just run that card through the machine. /  
+
+aa          B.30 utt1:  That's right. /  
+
+sd          A.31 utt1:  {F Uh, } {C and } it saves a lot time.  /
+sd          A.31 utt2:  {C And } that's what I was using it for.  /
+sd(^q)          A.31 utt3:  However, we [ had a, + had [ a, + a ] ] very pressing financial family crisis, which said you have no alternative,  /
+^q          A.31 utt4: you must have the money to do this with,  /
+^q          A.31 utt5: {C and } you do not have any other options -- /  
+
+b          B.32 utt1:  Uh-huh. /  
+
+sd          A.33 utt1:  -- {C so } I charged all three of those cards up,  /
+sd          A.33 utt2: {C and } right now I am paying and  praying. /  
+
+ba          B.34 utt1:  <Lipsmack> I know how that goes -- /  
+
+%          A.35 utt1:  {C But, } {F uh, } -/  
+
+sd          B.36 utt1:  -- {C and } [ that's exactly what we've, + {E I mean } --   
+
+b          A.37 utt1:  Uh-huh. /  
+
++          B.38 utt1:  -- I have to say I have ] been thankful for them, because there were times when --   
+
+b          A.39 utt1:  Uh-huh <<faint>>. /  
+
++          B.40 utt1:  -- it was just like that --   
+
+b          A.41 utt1:  Uh-huh. /  
+
++          B.42 utt1:  -- when we had to have the money -- /  
+
+b          A.43 utt1:  Uh-huh. /  
+
+sd          B.44 utt1:  -- we had no way around it -- /  
+
+b          A.45 utt1:  Uh-huh. /  
+
+sd          B.46 utt1:  -- {C and } the only way to do it is go get, {D you know, } an advance --   
+
+b          A.47 utt1:  Uh-huh. /  
+
++          B.48 utt1:  -- on a card -- /  
+
+b          A.49 utt1:  Uh-huh <<faint>>. /  
+
+sd          B.50 utt1:  -- {C and so } {D like } you were paying for it,  /
+sd          B.50 utt2: {C but } --   
+
+sd          A.51 utt1:  {D Well, } [ I never did, +   
+
++          B.52 utt1:  -- it's one of those I'm glad it was there. /  
+
++          A.53 utt1:  Right.  /
+sd          A.53 utt2:  I never did ] use it for an advance.  /
+sd          A.53 utt3:  Most of my charges were, {F uh, } medications. /  
+
+b          B.54 utt1:  {F Oh, } I see. /  
+
+sd          A.55 utt1:  Didn't have cash for the medications <breathing>  /
+sd          A.55 utt2: {C or } [ it was, + {F uh, } the doctor would accept ] MasterCard or VISA /  
+
+b          B.56 utt1:  Oh. /  
+
+sv          A.57 utt1:  {C And, } {F uh, }   
+
+x          B.58 utt1:  <Lipsmack>.   
+
++          A.59 utt1:  a lot of times you can get by using those for, {F uh, } {F uh, } - /
+sv          A.59 utt2: different labs will --   
+
+%          B.60 utt1:  What, -/  
+
++          A.61 utt1:  -- use those charge accounts for, -/  
+
+qy          B.62 utt1:  Do you find now, though, that even some doctors won't?  /
+^h        B.62 utt2:  I've found some doctors that say, {D you know, } - /
+^h          B.62 utt3: I was so used to doctors or medical care places taking credit cards,  /
+na          B.62 utt4: {C and } so many of them don't anymore. /  
+
+b          A.63 utt1:  Uh-huh <<faint>>. /  
+
+%          B.64 utt1:  {D So, } -/  
+
+%          A.65 utt1:  {D Well, } I have not, - /
+sd          A.65 utt2: like I said, that was just one period in my life where that was critical. /  
+
+b          B.66 utt1:  Yeah. /  
+
+sd          A.67 utt1:  I don't generally charge.  /
+sd(^q)          A.67 utt2:  I say {D well, } I need a checkup in six months,  /
+sd          A.67 utt3: {C and } I kind of set that aside --   
+
+b          B.68 utt1:  Right. /  
+
++          A.69 utt1:  -- and just pay for it.  /
+sd          A.69 utt2:  I'm reimbursed on insurance anyway,  /
+sd          A.69 utt3: {C and } I can handle, {D you know, } paying for it and waiting two or three weeks. /  
+
+b          B.70 utt1:  Right. /  
+
+sv          A.71 utt1:  Getting into a credit card fiasco is easy. /  
+
+aa          B.72 utt1:  {F Oh, } it is <<whispering>>. /  
+
+sv          A.73 utt1:  It is easy,  /
+sv          A.73 utt2: {C and } it's very difficult to get out.  /
+sd          A.73 utt3:  I just cringe every month when I see those interest charges. /  
+
+aa          B.74 utt1:  I know. /  
+
+sd(^q)          A.75 utt1:  I say wow,  /
+^q          A.75 utt2: [ I, + I ] ought to go to the credit union and borrow the money and  pay this off.  /
+^q          A.75 utt3:  Big deal,  /
+^q          A.75 utt4: I'm saving two percent. /  
+
+b          B.76 utt1:  Right.  /
+sd          B.76 utt2:  {C But, } {D you know, } the interest, even though it bothered me, it didn't used to bother me so much, because, of course, you could list it on a Schedule A  /
+sd          B.76 utt3: {C and } you got all your interest, {D you know } --   
+
+b          A.77 utt1:  Uh-huh. /  
+
++          B.78 utt1:  -- towards your tax --   
+
+b          A.79 utt1:  Uh-huh. /  
+
++          B.80 utt1:  -- deductions,  /
+sv          B.80 utt2: {C and } now they've messed that up to where it really is a financial burden to have to pay it. /  
+
+b          A.81 utt1:  Right. /  
+
+sv          B.82 utt1:  [ [ {C And } + {C but } it, ] + {C but } it ] is easy to get into a credit card problem,  /
+sv          B.82 utt2: {C and } [ I, + I ] think about young people that think, {D you know, } - /
+sv(^q)          B.82 utt3: there's kind of that feeling of hey, it's so neat,  /
+^q          B.82 utt4: I have my first credit card -- /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  -- [ {C and, } + {C and ] } they just don't understand that you still have to be able to make the payments. /  
+
+aa          A.85 utt1:  {F Oh, } yeah,  /
+sv          A.85 utt2: {C and } --   
+
+qh          B.86 utt1:  {D You know. } /  
+
++          A.87 utt1:  -- it's not just paying back what you've charged,  /
+sv          A.87 utt2: it's --   
+
+aa          B.88 utt1:  That's right. /  
+
++          A.89 utt1:  -- paying that and half again. /  
+
+aa^r          B.90 utt1:  That's right. /  
+
+sv          A.91 utt1:  {F Uh, } you send in, {F uh, } {F uh, } fifty dollars,  /
+sv          A.91 utt2: you're going to pay twenty, twenty-five in interest charges. /  
+
+aa          B.92 utt1:  That's right. /  
+
+sv          A.93 utt1:  You only get half of that paid for the principal,  /
+sd          A.93 utt2: {C so } I'm looking at three or four years before my balances are cleared on those charge accounts. /  
+
+b          B.94 utt1:  Right. /  
+
+sd          A.95 utt1:  {D Now, } [ as the monthly payment, + {F uh, } {E I mean } as the monthly payment ] amount goes down, that will free up more cash where I can continue to make the larger payments. /  
+
+b          B.96 utt1:  Right. /  
+
+sd          A.97 utt1:  {F Uh, } as long as I don't have a major disaster where I have to use it again, [ I can, + I can ] do that. /  
+
+b          B.98 utt1:  Right. /  
+
+sd          A.99 utt1:  Meantime, though, I'm not building any reserves. /  
+
+aa          B.100 utt1:  No,  /
+sv          B.100 utt2: {C and } that's frightening to me. /  
+
+sd          A.101 utt1:  Anything that I could be put aside into savings is going for interest on those cards. /  
+
+aa          B.102 utt1:  That's right.  /
+ba          B.102 utt2:  That's frightening, too. /  
+
+b          A.103 utt1:  Uh-huh. /  
+
+sd          B.104 utt1:  {F Uh, } [ [ [ I, + I just, ] + I, ] + my husband ] is in business for himself -- /  
+
+b          A.105 utt1:  Uh-huh. /  
+
+sd          B.106 utt1:  -- I work for T I  /
+sd          B.106 utt2: {C but } he doesn't -- /  
+
+b          A.107 utt1:  Uh-huh. /  
+
+sd          B.108 utt1:  -- {C and, } {F uh, } <lipsmack> [ [ we're, + {F uh, } I, ] + I've ] kind of got my fingers [ cr-, + crossed. ]  /
+sd          B.108 utt2:  I've learned when you're in business for yourself, [ that, + that ] you don't count on something until it's happened --   
+
+b          A.109 utt1:  Uh-huh. /  
+
++          B.110 utt1:  -- {D you know, }  /
+sd          B.110 utt2: {C but } [ he's got some, + {D you know, } it's those ] once in a lifetime cases,  /
+sd          B.110 utt3: {C and } after ten years he's got two of them -- /  
+
+b          A.111 utt1:  Uh-huh. /  
+
+sd          B.112 utt1:  -- {C and } they should pay through next month,  /
+sd(^q)          B.112 utt2: [ {C and, } + {C and ] } we're both just looking at each other every night going man, that will pay off {D like } both of our MasterCards, {D you know. } /  
+
+b          A.113 utt1:  {F Oh, } right,  /
+b^r          A.113 utt2: right. /  
+
+sd          B.114 utt1:  And, {D you know, } just in one lump,  /
+sv          B.114 utt2: {C because } that's the only way you can do it, is to have a big chunk of money -- /  
+
+aa          A.115 utt1:  Uh-huh,  /
+aa^r          A.115 utt2: <<faint>> uh-huh. /  
+
+sv          B.116 utt1:  -- {C or } it's like you say,  /
+sv          B.116 utt2: you pay forever. /  
+
+aa          A.117 utt1:  Uh-huh,  /
+aa^r          A.117 utt2: uh-huh. /  
+
+sd          B.118 utt1:  {C And so } I'm really looking forward to that. /  
+
+sv          A.119 utt1:  {D Well, } you {C either } need a big chunk of money  /
+sv          A.119 utt2: {C or } you need a large reserve --   
+
+aa          B.120 utt1:  That's right. /  
+
++          A.121 utt1:  -- so that if you do charge on that account, you can make a single lump sum payment.  /
+sv          A.121 utt2: {D Now, } those are very handy -- /  
+
+b          B.122 utt1:  Right. /  
+
+sv          A.123 utt1:  -- if you have the reserves and you can make lump sum payments, sharp, good --   
+
+aa          B.124 utt1:  Sure,  /
+aa          B.124 utt2: yeah. /  
+
++          A.125 utt1:  -- no problem -- /  
+
+aa          B.126 utt1:  I agree. /  
+
+sd          A.127 utt1:  -- {C because } you're living on the other guy's money for a while. /  
+
+aa          B.128 utt1:  That's right <laughter>. /  
+
+sd          A.129 utt1:  {C But } I can promise you that those credit card companies are going to ride high on my money <laughter>. /  
+
+aa          B.130 utt1:  I know  /
+%          B.130 utt2: {C and, } -/  
+
+sd          A.131 utt1:  {C And } it just irks me.  /
+sd(^q)          A.131 utt2:  I say my gosh, I had to work three hours just to pay the interest on this,  /
+sd          A.131 utt3: {C and } I've got three cards.  /
+sd          A.131 utt4:  I've lost a whole day of my life --   
+
+aa          B.132 utt1:  I know.  /
+sv(^q)          B.132 utt2:  You're like --   
+
++          A.133 utt1:  -- to interest. /  
+
++          B.134 utt1:  -- what am I working for today <laughter>. /  
+
+aa          A.135 utt1:  Yeah,  /
+aa^r          A.135 utt2: yeah.  /
+sd          A.135 utt3:  {C And } that just blows my mind.  /
+sd          A.135 utt4: [ I, + my ] house is paid for,  /
+sd          A.135 utt5: my car is paid for,  /
+sd          A.135 utt6: I've got some home improvements,  /
+sd          A.135 utt7: {C but } even the payment on that doesn't equal the payment on one of those credit cards. /  
+
+ba          B.136 utt1:  It's incredible. /  
+
+b          A.137 utt1:  Uh-huh. /  
+
+sd          B.138 utt1:  Boy, I wish I could say that my house and, - /
+sd          B.138 utt2: {D well, } my car is paid for now.  /
+sd          B.138 utt3: It was wrecked three weeks ago,  /
+sd          B.138 utt4: [ {C but, } + {C but } ] you see again --   
+
+b          A.139 utt1:  Uh-huh. /  
+
++          B.140 utt1:  -- the credit cards came in handy.  /
+sd          B.140 utt2:  I had to have the money to pay rental car, pay this, pay that till the insurance company pays back. /  
+
+aa          A.141 utt1:  That's right.  /
+sv          A.141 utt2: I think --   
+
+%          B.142 utt1:  {C And, } {F uh, } -/  
+
++          A.143 utt1:  -- that is a good, healthy, safe use --   
+
+b          B.144 utt1:  Yeah. /  
+
++          A.145 utt1:  -- of credit cards. /  
+
+sd          B.146 utt1:  Because you know that's coming back to pay it off. /  
+
+aa          A.147 utt1:  Uh-huh,  /
+aa^r          A.147 utt2: uh-huh.  /
+sd          A.147 utt3:  {F Uh, } I went to a seminar,  /
+sd(^q)          A.147 utt4: they said don't ever use your credit card for consumable items.  /
+^q          A.147 utt5: You only use credit cards for investments. /  
+
+b          B.148 utt1:  Right. /  
+
+sd(^q)          A.149 utt1:  I  (( said ))  for crying out loud, [ if I had the money to in-, + {D you know, } <laughter> --   
+
+%          B.150 utt1:  It's, -/  
+
++          A.151 utt1:  -- if I could do some investing, ] you'd have to invest at better than twenty percent earnings in order --   
+
+b          B.152 utt1:  Sure. /  
+
++          A.153 utt1:  -- to pay for the payments on the credit card. /  
+
+aa          B.154 utt1:  That's right. /  
+
+sv          A.155 utt1:  That doesn't make a bit of sense to me.  /
+sd(^q)          A.155 utt2:  I thought --   
+
+aa          B.156 utt1:  That's right. /  
+
++          A.157 utt1:  -- God dang, where is his pencil? /  
+
+sv          B.158 utt1:  {D Well, } the smart half was don't pay it for consumables,  /
+sv          B.158 utt2: [ don't, + {D you know, } if you can't afford to go to a restaurant and eat out and pay cash, don't ] put it on a credit card --   
+
+aa          A.159 utt1:  That's right. /  
+
++          B.160 utt1:  -- {D you know, }  /
+sv          B.160 utt2: [ {C and, } + {C and so } ] [ that, + that ] is the smart half. /  
+
+b          A.161 utt1:  Uh-huh. /  
+
+sd          B.162 utt1:  [ {C But, } + {F uh, } {C and } ] I can remember before we had kids, we did that a lot,  /
+sd          B.162 utt2: {C but } it was no biggie --   
+
+b          A.163 utt1:  Uh-huh. /  
+
++          B.164 utt1:  -- {D you know, } because we could pay it off,  /
+sv          B.164 utt2: while after kids, and you're paying child care and other things, all of a sudden it's not so easy to pay off,  /
+sd          B.164 utt3: {C so } we cut that out real quick <laughter>. /  
+
+b          A.165 utt1:  Uh-huh,  /
+b^r          A.165 utt2: uh-huh. /  
+
+sd          B.166 utt1:  [ {C And, } + {F uh, } {C but } ] [ I, + I ] do like having them there.  /
+sv          B.166 utt2:  There is a bit of security in having the credit cards and knowing that in times of crisis, they are there to use -- /  
+
+b          A.167 utt1:  Uh-huh. /  
+
+sv          B.168 utt1:  -- {C but } you have to have a very good sense of saving, [ and + or ] --   
+
+b          A.169 utt1:  Uh-huh. /  
+
++          B.170 utt1:  -- common sense [ not, + not ] to --   
+
+b          A.171 utt1:  Uh-huh <<faint>>. /  
+
++          B.172 utt1:  -- get yourself in trouble. /  
+
+sv          A.173 utt1:  You also have to have that willingness to commit to that --   
+
+b          B.174 utt1:  Uh-huh. /  
+
++          A.175 utt1:  -- because you're committing a good portion of your life and income when you do it. / 

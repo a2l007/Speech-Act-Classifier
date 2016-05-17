@@ -1,0 +1,324 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3584_1051_1424
+TOPIC#:		343
+DATE:		911218
+TRANSCRIBER:	nk
+UTT_CODER:      mmab 	
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        A dominates conversation.
+
+==========================================================================
+  
+
+ad          A.1 utt1:  {D Well, } tell me about your home. /  
+
+aa          @B.2 utt1:  Okay.  /
+sd          @B.2 utt2: {F Uh, } right now we're living in, - /
+sd          @B.2 utt3: {D well }  it's me, my wife and, {F uh, } two young boys.  /
+sd          @B.2 utt4:  {C And, } {F uh, } right now we're in  [ a, +  {F uh, } I guess it's either a ] zero lot line or a garden home.    
+
+b          A.3 utt1:  Uh-huh. /  
+
++          B.4 utt1:  Which you might call it.  /
+sd          B.4 utt2:  {C So } we don't have [ a, + a ]  big yard.  {F Uh, }  /
+sd          B.4 utt3: {C but, }  {F uh, } when my wife and I first moved in, it was just the two  of us.  /
+sd          B.4 utt4: {C So } it was enough. /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1:  {F Uh, } {C and } it's,  {F uh, } I guess what  they call a story and a half.  /
+sd          B.6 utt2:  {C Because } it's not a full two story.    
+
+b          A.7 utt1:  Yeah. /  
+
++          B.8 utt1:  Where, {D you know, } everything on top is  on bottom.  /
+sd          B.8 utt2:  {C So, } it's got real high ceilings on half the house  /
+sd          B.8 utt3: {C and } the other half is just  standard sized ceilings. /  
+
+b          A.9 utt1:  {F Huh. } /  
+
+sd          B.10 utt1:  {C And, }  {F uh, } it's about a five year old house now. /  
+
+ba          A.11 utt1:  It sounds nice. /  
+
+aa          B.12 utt1:  It's, {F uh, } pretty nice.  /
+sd          B.12 utt2:  Unfortunately, the builder  who built it went out of business already <laughter>. /  
+
+bh          A.13 utt1:  {F Oh, } yeah? /  
+
+ny          B.14 utt1:  Yeah.  /
+%          B.14 utt2:  It was a, - /
+sd^e          B.14 utt3: Landmark is the one who built it. /  
+
+b          A.15 utt1:  Yeah.  /
+sv          A.15 utt2: {D Well, } {D you know, } these guys that  gambled high --   
+
+b          B.16 utt1:  Yeah. /  
+
++          A.17 utt1:  -- lost big {D you know. } /  
+
+aa          B.18 utt1:  That's true. /  
+
+sd          A.19 utt1:  {C And, }  {F uh } --   
+
+aa          B.20 utt1:  Exactly what happened to them. /  
+
++          A.21 utt1:  -- I'm insulating myself from that problem.  /
+sd          A.21 utt2:   I'm building my own house. /  
+
+ba          B.22 utt1:  {F Oh, } that's nice. /  
+
+sd          A.23 utt1:  {C And } as I look out the window of my trailer,  I can envision all the insulation that's going up <clicking> today <laughter>. /  
+
+bh          B.24 utt1:  {F Oh, } really. /  
+
+ny          A.25 utt1:  Yeah. /  
+
+qy          B.26 utt1:  Are you doing it yourself? /  
+
+ny          A.27 utt1:  Yeah. /  
+
+ba          B.28 utt1:  Wow. /  
+
+sd          A.29 utt1:  I used to be a builder. /  
+
+ba          B.30 utt1:  {F Oh, } that's nice. /  
+
+sd          A.31 utt1:  {C And } I retired about five years ago # and # --   
+
+b          B.32 utt1:  # {F Oh, } I # see. /  
+
++          A.33 utt1:  -- started college. /  
+
+b          B.34 utt1:  {F Huh. } /  
+
+sd          A.35 utt1:  {C And } now I'm a college educated  builder #  ((   ))  <laughter>.  /
+sv          A.35 utt2: There's still no work, {D you know. } # /  
+
+b          B.36 utt1:  # <Laughter> # # Yeah. # /  
+
+sd          A.37 utt1:  # {C So, } {F uh, } # {D you know, } I decided this  summer that, {F uh, } {D you know, } we had enough credit on the credit cards to buy the materials  /
+sd          A.37 utt2: {C so } I did. /  
+
+ba          B.38 utt1:  That's great. /  
+
+sd          A.39 utt1:  {C And, }  {F uh, } see [ [ the, + the, ] + the ]  state has a law that says you cannot borrow the money to build your own home. /  
+
+%          B.40 utt1:  R-, - /
+bh          B.40 utt2: is that so?  /
+sd          B.40 utt3: # I didn't know that. # /  
+
+sd          A.41 utt1:  # You can borrow the # money to pay somebody else to  build your house  /
+sd          A.41 utt2: {C but } you can't borrow the money to build your own. /  
+
+ba          B.42 utt1:  {D Well } that sounds kind of dumb. /  
+
+sd          A.43 utt1:  <Static> {D Well, } it's to protect [ the, + the ]  banks from guys that say {D yeah } I want to build my own house and go out a build a spec home -- /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sd          A.45 utt1:  -- {C and then } it doesn't sell  /
+sd          A.45 utt2: {C and then } the # bank's # --   
+
+b          B.46 utt1:  # Yeah. # /  
+
++          A.47 utt1:  -- holding the bag. /  
+
+b          B.48 utt1:  Yeah. /  
+
+%          A.49 utt1:  {D Well. } -/  
+
+b          B.50 utt1:  {F Huh. } /  
+
+sv         A.51 utt1:  [ As, + as ] you know, anything that involves the  government [ is, +  works ] half as well as it's supposed to # costs three times as much.  Right? # /  
+
+aa          B.52 utt1:  # <Laughter> #  That's right <laughter>. /  
+
+sv          A.53 utt1:  Hence the savings and loan problem we have. /  
+
+aa          B.54 utt1:  Yeah,  /
+aa          B.54 utt2: that's true. /  
+
+sd          A.55 utt1:  {C But, }  {F uh, } {D you know, } my home  is, {F uh, } fairly simple.  /
+sd          A.55 utt2:  It's designed to be added on to. /  
+
+b          B.56 utt1:  Uh-huh.  /
+ba          B.56 utt2:  That's good. /  
+
+b          A.57 utt1:  Yeah.  /
+sd          A.57 utt2: {D Well, } I figure it's just me and my wife  /
+sd          A.57 utt3:  {C but, } {D you know, } I like to do stuff with my hands and whatnot,  /
+sd          A.57 utt4: {C so } # I want # --   
+
+b          B.58 utt1:  # Yeah. # /  
+
++          A.59 utt1:  -- to have a shop. /  
+
+qw          B.60 utt1:  How big a lot do you got it on? /  
+
+sd          A.61 utt1:  Ten acres. /  
+
+ba          B.62 utt1:  Wow.  /
+ba          B.62 utt2:  That's nice.  /
+ba^r          B.62 utt3: That's real nice. /  
+
+aa          A.63 utt1:  {D Well, } yeah.  /
+sd          A.63 utt2: It's really nice too because  I can't see my nearest neighbor.  /
+sd          A.63 utt3: He's on the other side of a hill. /  
+
+b          B.64 utt1:  Oh. /  
+
+sd          A.65 utt1:  {C And } my second nearest neighbor is a dot on the horizon. /  
+
+x          B.66 utt1:  <Laughter>.   
+
+sd          A.67 utt1:  Seriously. /  
+
+ba          B.68 utt1:  God.  /
+ba          B.68 utt2: That's pretty good. /  
+
+sd          A.69 utt1:  {D Well, } in the winter time, I can [ see, + see ]  another guy  /
+%          A.69 utt2: {C but, } {D you know, } [ he's + ] -- -/  
+
+b          B.70 utt1:  Uh-huh. /  
+
+sd          A.71 utt1:  -- I can just make out his place, {D you know. }   
+
+b          B.72 utt1:  Yeah. /  
+
++          A.73 utt1:  I've got a thirty mile view to the east and about  ten miles to the north. /  
+
+b          B.74 utt1:  Yeah. /  
+
+%          A.75 utt1:  {C And, }  {F uh, } -/  
+
+ba          B.76 utt1:  {F Oh, } that's pretty good. /  
+
+aa          A.77 utt1:  Yeah.  /
+sd          A.77 utt2: {D Well, } I took a lot of time in choosing this  site <clicking> --   
+
+b          B.78 utt1:  Uh-huh. /  
+
++          A.79 utt1:  -- because [ the, + the ] house has no  heating or air conditioning. /  
+
+qy          B.80 utt1:  {F Oh, } [ [ you, + you, ] + you ] don't plan on  putting [ any, + any ] of that in? /  
+
+nd          A.81 utt1:  {D Well, } it's got [ a, + a ] very small furnace. /  
+
+b          B.82 utt1:  Uh-huh. /  
+
+sd          A.83 utt1:  {C And } [ a, +  {F uh, } we'll use a ] wood burning  stove as well. /  
+
+b          B.84 utt1:  Yeah. /  
+
+sd          A.85 utt1:  {C But, }  in the house itself, I've been working  inside, {D you know, } [ these, + [ lo-, + ] these ] many months -- /  
+
+b          B.86 utt1:  Uh-huh. /  
+
+sd          A.87 utt1:  -- {C and } I have not had to use the heat. /  
+
+ba          B.88 utt1:  Wow. /  
+
+sd          A.89 utt1:  {C Because } it's all geothermal. /  
+
+b          B.90 utt1:  Yeah.  /
+ba          B.90 utt2: That's pretty good. /  
+
+%          A.91 utt1:  {C And } with all the, - /
+%          A.91 utt2: see I've got, - /
+sd          A.91 utt3: on the south side  is all glass.  /
+sd          A.91 utt4: {D Well, } as much as I could get in it, {D you know. }   
+
+b          B.92 utt1:  Yeah. /  
+
++          A.93 utt1:  {C And, }  {F uh, } the east side is glass.  /
+sd          A.93 utt2:   I've got one, two, three, four, five, <<very faint>> six windows in the east side on forty-eight feet.  /
+sd          A.93 utt3:   {C So } it's almost all glass. /  
+
+ba          B.94 utt1:  Wow. /  
+
+%          A.95 utt1:  {C And, }  # {F uh, } # -/  
+
+sd          B.96 utt1:  # My # wife would love that <laughter>. /  
+
+b          A.97 utt1:  {F Oh, } yeah.  /
+sd          A.97 utt2: {E I mean, } # {D you know. } #   
+
+sd          B.98 utt1:  # She loves # lots of windows. /  
+
++          A.99 utt1:  There's no place in the house where you can stand and not  see four windows. /  
+
+ba          B.100 utt1:  <Laughter> That's great. /  
+
+%          A.101 utt1:  {C So, } {F uh, } -/  
+
+qy          B.102 utt1:  Is it a single story? /  
+
+nd          A.103 utt1:  {D Well, } not really.  /
+sd          A.103 utt2:  [ It's, + {F uh, } it's ]  on the side of a hill. /  
+
+bk          B.104 utt1:  {F Oh, } I see. /  
+
+%          A.105 utt1:  {C So } the first, {D you know, } - /
+%          A.105 utt2:  [ [ the, + the, ] + the, ] - /
+sd          A.105 utt3: what I call residential level --   
+
+b          B.106 utt1:  Uh-huh. /  
+
++          A.107 utt1:  -- at the side that's in the hill is about four feet deep. /  
+
+bk          B.108 utt1:  {F Um, } I see. /  
+
+sd          A.109 utt1:  {C And } the side that's on  [ the, + {F uh, } the ]  other side is about six feet high. /  
+
+bk          B.110 utt1:  Oh. /  
+
+sv          A.111 utt1:  {C So } I've got a pretty good grade there. /  
+
+b          B.112 utt1:  Yeah. /  
+
+sd          A.113 utt1:  {C And then } when I put the verandas [ whi-, + which ]  will be twelve feet out all the way around on the north, south and east sides --   
+
+b          B.114 utt1:  Uh-huh. /  
+
++          A.115 utt1:  -- that will define the shop. /  
+
+b          B.116 utt1:  <Noise> Yeah,  /
+qy          B.116 utt2: that's kind of [ like, + like ] a Victorian style? /  
+
+na          A.117 utt1:  Exactly. /  
+
+b          B.118 utt1:  Yeah.  /
+sd          B.118 utt2:  [ I, +  I've ] always liked that.  /
+%          B.118 utt3:   The, - /
+sd          B.118 utt4: {D you know, } [ I, +  we ] don't have much yard  /
+sd          B.118 utt5: {C but } I built a small deck in the back. /  
+
+b          A.119 utt1:  Uh-huh. /  
+
+sd          B.120 utt1:  {C But, } {D you know, } [ I, + I ] see these magazines  where, {D you know, } dig [ your, + your ] own deck. /  
+
+b          A.121 utt1:  Uh-huh. /  
+
+sd          B.122 utt1:  [ I, + I ] kind of wish I had them, those size  property [ and, + and, ] {F uh, } one with a grade on it  so I can build a real nice deck. / 

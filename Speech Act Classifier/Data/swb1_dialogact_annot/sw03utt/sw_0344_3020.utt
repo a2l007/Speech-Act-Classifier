@@ -1,0 +1,481 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3020_1235_1281
+TOPIC#:		310
+DATE:		910606
+TRANSCRIBER:	nk
+UTT_CODER:      mmab
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None. 
+
+==========================================================================
+  
+
+qw          A.1 utt1:  <Beep>. {D So } where was your last vacation?  <laughter>. /  
+
+sd          B.2 utt1:  {F Uh, } {D actually } my last vacation was in Connecticut.  /
+sd          B.2 utt2:   {F Uh, } we went home to visit family.  /
+sd          B.2 utt3: Before that we were in Hawaii. /  
+
+sd          A.3 utt1:  {F Oh, } [ [ I, +  I'd, ] +  {D well } actually I did ] visit Hawaii  once  /
+sd          A.3 utt2: {C but } I never made it off of Oahu,   
+
+b          B.4 utt1:  Oh. /  
+
++          A.5 utt1:  which I've heard is not the nicest of the islands. /  
+
+ar          B.6 utt1:  It wasn't actually.  /
+%          B.6 utt2:  It, - /
+sd          B.6 utt3: [ w-, + when ] we were in  [ Oah-, + Oahu, ] {F uh, } I couldn't wait to get off <laughter>. /  
+
+x          A.7 utt1:  <Laughter>.   
+
+sd          B.8 utt1:  [ We, + we ] took a cruise  /
+sd          B.8 utt2: {C and } we went to four  different islands  /
+sd          B.8 utt3: {C and } it was [ a + ] really nice,  /
+sd          B.8 utt4: Kauai was nice and Maui was nice.  /
+sd          B.8 utt5:   [ We had, + we had ] a great time. /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1:  We were there for ten days. /  
+
+%          A.11 utt1:  {F Oh } that's, - /
+ba          A.11 utt2: wow.  /
+%          A.11 utt3: Yeah. /  
+
+b^m          B.12 utt1:  Yeah,  /
+b          B.12 utt2: yes.  /
+qw          B.12 utt3: {C So } where have you been? /  
+
+sd          A.13 utt1:  {F Oh } [ I've be-, + <laughter> I've been ] lots of places.  /
+sd          A.13 utt2:   My last vacation was actually in Morocco I guess  /
+%          A.13 utt3: # [ we, + ]  (( that one would count )) , # /  
+
+b          B.14 utt1:  # Morocco.  /
+b          B.14 utt2: #  Really. /  
+
+sd          A.15 utt1:  {F Uh, } that was about a year and a half ago,  /
+%          A.15 utt2: {C and, } -/  
+
+ba          B.16 utt1:  No kidding.  /
+qy          B.16 utt2: {C An-, }  [ what, + what, ] did you just  decide to go there  /
+%          B.16 utt3: {C or, } -/  
+
+nd          A.17 utt1:  {F Uh, } {D well } my husband is French  /
+sd          A.17 utt2: {C and } we were  living in France at the time -- /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+sd          A.19 utt1:  -- {C and } we decided that [ I, + I've ] never been  to Africa  /
+sd          A.19 utt2: {C and } I needed to get that continent  (( since ))  I <laughter>,   
+
+x          B.20 utt1:  <Laughter>.   
+
++          A.21 utt1:  hadn't been there yet.  /
+sd          A.21 utt2:  {C And } [ [ it, + it's, ] +  {D actually } it's ] a fairly common vacation place for French people to go  /
+sd          A.21 utt3: {C and }  they speak French  /
+sv          A.21 utt4: [ {C and, } +     
+
+b          B.22 utt1:  Uh-huh. /  
+
++          A.23 utt1:  {C so, } ] {F uh, } {D you know, }  (( in that sense ))   is just a little bit easier  /
+sd          A.23 utt2: {C and } it just seemed like it would be a fun place to go.  /
+sd          A.23 utt3:  [ {C And, } +    
+
+b          B.24 utt1:  Yeah.  /
+sv          B.24 utt2:  {F Oh } I'm sure it was wonderful. /  
+
++          A.25 utt1:  {C So } ] [ we, + we ] didn't really have enough time.  /
+sd          A.25 utt2:   We had about, a little bit less than two weeks. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sv          A.27 utt1:  {C And } as always, [ it don-, +   it seems ]  a bit, {F uh, } rushed.  /
+sd          A.27 utt2:  We do a lot of traveling around.  /
+sd          A.27 utt3: We rented a car and drove pretty much everywhere. /  
+
+qy          B.28 utt1:  Was it hot? /  
+
+nn          A.29 utt1:  No,  /
+sd^e          A.29 utt2: in fact some of the days we froze.  /
+%          A.29 utt3: It was, -/  
+
+bh          B.30 utt1:  Really? /  
+
+sd          A.31 utt1:  {D well } we were there in the winter.    
+
+b          B.32 utt1:  Uh-huh. /  
+
++          A.33 utt1:  In  [ Jan-, + {F uh, } January ] or February,  I don't remember which, /  
+
+b          B.34 utt1:  Uh-huh.  /
+sd          B.34 utt2: I was born in Saudi Arabia  /
+sd          B.34 utt3: {C and, }  {F uh, }   
+
+b          A.35 utt1:  Uh-huh. /  
+
++          B.36 utt1:  when my father worked there  [ we, +  they ] used to  travel quite a bit, all around {D you know, }   
+
+b          A.37 utt1:  Uh-huh. /  
+
++          B.38 utt1:  [ in, + in ] Europe and whatnot,  /
+sd          B.38 utt2: {C but } I was  very young  /
+sd          B.38 utt3: {C so } I don't remember that  /
+sd          B.38 utt4: {C and, }   
+
+qw          A.39 utt1:  [  At wha-, + [ at,  + <cough> {E excuse me, } at ]  what ] age did you, -/  
+
++          B.40 utt1:  I was three when we moved back here. /  
+
+ba          A.41 utt1:  {F Oh, } that's too bad  /
+%          A.41 utt2: {C because, } -/  
+
+sd          B.42 utt1:  {C So } I don't remember  /
+sd          B.42 utt2: {C but } we have all these  wonderful pictures of all these great places that they have been <laughter>, /  
+
+b          A.43 utt1:  Uh-huh <laughter>. /  
+
+sd          B.44 utt1:  {C and } that [ I +  was when I ] was a baby  /
+sv          B.44 utt2:  [ {C but } + {C so, } ]    
+
+x          A.45 utt1:  <Throat_clearing>.   
+
++          B.46 utt1:  Morocco I think would be wonderful  /
+sv          B.46 utt2:  {C because } [ [ that's, + {D you know, } that's, ] + that ] area of the world I think would be great. /  
+
+b          A.47 utt1:  Yeah.  /
+sd          A.47 utt2: It was a very interesting vacation.  /
+sd          A.47 utt3:  The only  thing I didn't like  was in some of the more touristy areas --   
+
+b          B.48 utt1:  Uh-huh. /  
+
++          A.49 utt1:  -- {F uh, } {F um, } [ the, +  it ] would just be  besieged by people wanting to be your guide  /
+sd          A.49 utt2: {C and } [ you, + ] there were some places,   
+
+b          B.50 utt1:  Yeah. /  
+
++          A.51 utt1:  where people, defini-, - /
+sd          A.51 utt2:  there would be kids there that were excellent at ripping you off, /  
+
+b         B.52 utt1:  Uh-huh. /  
+
+sd          A.53 utt1:  {C and } we had nothing taken because we  knew  /
+sd          A.53 utt2: {C and } we had things in inside pockets and [ in, + {D you know, } in ] jacket  underneath a coat type of thing. /  
+
+b          B.54 utt1:  Really. /  
+
+%          A.55 utt1:  {C But, } -/  
+
+sd          B.56 utt1:  [ We, + we ] found that in Jamaica.  /
+sd          B.56 utt2:  It was the same way,   
+
+b          A.57 utt1:  Uh-huh. /  
+
++          B.58 utt1:  that people would come up and [ try and sell you, +  {D well }  try and sell ] drugs and  things like that  /
+sd          B.58 utt2: {C but } [ they, + they ] were so  destitute  /
+sd          B.58 utt3: {C and } I guess [ they, + they ] make all their money on tourism  /
+sd          B.58 utt4: [ {C and, } + {C and } ] they  would come up and ask you, {D you know, } [ if, + if ] you want to buy different things  /
+sd          B.58 utt5:  {C and } really, after awhile it really gets annoying, /  
+
+b          A.59 utt1:  Yeah. /  
+
+sd          B.60 utt1:  {D you know, } [ it, + it's ] a little scary too  when they're coming up and they're all over you. /  
+
+sd          A.61 utt1:  [ The, + the ] worst place was in Marrakech -- /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+sd          A.63 utt1:  -- {C and } the other cities it wasn't nearly as  bad  /
+sd          A.63 utt2: {C and } a couple of them it was, what we did in some of the other cities  /
+sd          A.63 utt3: {C and } they  tell you to do that is to hire a local guide -- /  
+
+b          B.64 utt1:  Uh-huh. /  
+
+sd          A.65 utt1:  -- it doesn't matter who it is  /
+sd          A.65 utt2: {C and } they keep  everyone else away from you. /  
+
+b          B.66 utt1:  {F Oh } really. /  
+
+sv          A.67 utt1:  {C And } it's worth it  /
+sd          A.67 utt2: {C and } it's like ten dollars a day  or something  /
+sv          A.67 utt3: {C and } its worth it just to keep everyone else away from badgering you -- /  
+
+b          B.68 utt1:  Really. /  
+
+sv          A.69 utt1:  -- {C and } you feel stupid doing that  /
+sd          A.69 utt2: {C but } we did it, /  
+
+b          B.70 utt1:  Uh-huh. /  
+
+sd          A.71 utt1:  {C and } we were much happier, /  
+
+b          B.72 utt1:  Uh-huh. /  
+
+sd          A.73 utt1:  {C and } you also get in to see things that you  might not get into --   
+
+b          B.74 utt1:  Uh-huh. /  
+
++          A.75 utt1:  -- if you were alone, {F uh, } /  
+
+ba          B.76 utt1:  {D Well } that's great.  /
+qw          B.76 utt2: Where else have you been? /  
+
+^h          A.77 utt1:  {F Uh } <laughter>, /  
+
+qy^d          B.78 utt1:  {D Well } you lived in France, /  
+
+ny          A.79 utt1:  Yes. /  
+
+qy^d          B.80 utt1: {C so } you've been all through Europe. /  
+
+nn          A.81 utt1:  No  /
+sd^e          A.81 utt2: {D actually } I haven't been # all through Europe, #   
+
+b          B.82 utt1:  # No. # /  
+
++          A.83 utt1:  like I haven't been to Italy yet. /  
+
+b          B.84 utt1:  Really. /  
+
+sd          A.85 utt1:  {F Uh, } we're going to go for a conference in  September  /
+sd          A.85 utt2: {C and so, } hopefully, we'll get to travel a little bit too. /  
+
+b          B.86 utt1:  Uh-huh. /  
+
+sd          A.87 utt1:  {F Uh, } my more exciting spots have been, - /
+sd          A.87 utt2:  I've been to the Galapagos Islands. /  
+
+bh          B.88 utt1:  Really? /  
+
+ny          A.89 utt1:  Uh-huh,  /
+sd^e          A.89 utt2: that was one of the most #  wonderful vacations I've ever had. # /  
+
+qy^g          B.90 utt1:  # Lots of wildlife {F huh? }  /
+%          B.90 utt2: # Yeah. /  
+
+ny          A.91 utt1:  Yes.  /
+sv^e          A.91 utt2:  If you like wildlife,  it's a fabulous vacation. /  
+
+b          B.92 utt1:  Uh-huh. /  
+
+sv          A.93 utt1:  If you don't like wildlife it's probably  not of interest <laughter>. /  
+
+x          B.94 utt1:  <Laughter>.   
+
+sd          A.95 utt1:  {C But } [ it, +   that ] was really, really fabulous  /
+sd          A.95 utt2: {C and } just the photos I have of it and gosh, incredible and be so close, /  
+
+qw          B.96 utt1:  Now when was that, when were you there? /  
+
+sd          A.97 utt1:  {F Um, } August, eighty-eight. /  
+
+b          B.98 utt1:  Uh-huh. /  
+
+sd          A.99 utt1:  {C And then, } {D actually, } after  there I went to {F um, } Hawaii,  /
+sd          A.99 utt2: a lot of my travel has been sort of based around conferences or business meetings -- /  
+
+b          B.100 utt1:  Uh-huh. /  
+
+sd          A.101 utt1:  -- {C and so, } I went to Hawaii  and then to Australia --   
+
+b          B.102 utt1:  Uh-huh. /  
+
++          A.103 utt1:  -- and # Japan and China, # /  
+
+qy          B.104 utt1:  # Did you go on the Barrier # Re-, - /
+qy          B.104 utt2:  did you see the Great Barrier Reef [ and, +  # and ] go snorkeling? # /  
+
+ng          A.105 utt1:  # [ [ I, + I, ] + # {D actually } I ] didn't go diving. /  
+
+b          B.106 utt1:  Uh-huh. /  
+
+sd          A.107 utt1:  [ I, + I'm ] a diver  /
+sd          A.107 utt2: {C and so, }    
+
+b          B.108 utt1:  {F Oh } diving. /  
+
++          A.109 utt1:  [ that's, + that's ] actually been another  of my favorite vacations has been taking little diving trips -- /  
+
+b          B.110 utt1:  Uh-huh. /  
+
+%          A.111 utt1:  -- {C but, }  {F uh, } - /
+nn          A.111 utt2: no  /
+sd^e          A.111 utt3: I didn't get to the  Great Barrier Reef.  /
+sd          A.111 utt4:  I drove from Sidney down to Melbourne and over to [ Au-, +  Adelaide. ] /  
+
+b          B.112 utt1:  Uh-huh. /  
+
+sd          A.113 utt1:  It's gorgeous, absolutely gorgeous.  /
+sd          A.113 utt2: The coastline  was just incredible.  /
+sd          A.113 utt3: It's huge. /  
+
+bh          B.114 utt1:  Is it really? /  
+
+b          A.115 utt1:  Australia.  /
+ny          A.115 utt2:  Yeah. /  
+
+b^m          B.116 utt1:  Yeah,  /
+b^r          B.116 utt2: yeah. /  
+
+%          A.117 utt1:  {F Uh, } {C but, } -/  
+
+qy          B.118 utt1:  Did you have shrimp?  /
+%          B.118 utt2:  I've seen in, {D you know, } - /
+sd          B.118 utt3:  [ they, + they ] show all this wonderful seafood [ and, + and ] great big prawns,  {D you know } the big shrimp  /
+%          B.118 utt4: {C and, } -/  
+
+no          A.119 utt1:  I don't remember if I had shrimp. /  
+
+bh          B.120 utt1:  No?  /
+qy          B.120 utt2: Didn't have shrimp there {F huh } <laughter>? /  
+
+ng          A.121 utt1:  I don't think so. /  
+
+sd          B.122 utt1:  I remember food <laughter>. /  
+
+sd          A.123 utt1:  <Laughter> {F Oh, } I like that too.  /
+sd          A.123 utt2: {C But, }  {F uh, }  in fact I didn't eat out that much there because I was traveling by myself in a car,  /
+sv          A.123 utt3:  it would have been, I think, much more fun to do it {D like } in the van,   
+
+b          B.124 utt1:  Uh-huh. /  
+
++          A.125 utt1:  with a bunch of people. /  
+
+b          B.126 utt1:  Uh-huh. /  
+
+%          A.127 utt1:  {C But, }  {F uh, } -/  
+
+ba          B.128 utt1:  {F Oh } you're adventurous.  /
+qy^d          B.128 utt2: You went by yourself. /  
+
+ny          A.129 utt1:  Uh-huh. /  
+
+b          B.130 utt1:  Really. /  
+
+sd          A.131 utt1:  {C And } I was by myself in China too. /  
+
+bh          B.132 utt1:  Really? /  
+
+ny          A.133 utt1:  Yeah. /  
+
+ba          B.134 utt1:  {F Oh } wow. /  
+
+sd          A.135 utt1:  China was a little bit more, {F uh, }  of a challenge.  /
+sd          A.135 utt2: {C But, }  [ it, + it ] wasn't more of a challenge in a sense because I hired a guide all the time, /  
+
+b          B.136 utt1:  Uh-huh. /  
+
+sd          A.137 utt1:  {C and so } I never, {D you know, }  got out by myself, or not much, /  
+
+b          B.138 utt1:  Uh-huh.  /
+qy          B.138 utt2: Was it very expensive? /  
+
+nn          A.139 utt1:  No,  /
+sd^e          A.139 utt2: {D actually } I paid about either  a thousand dollars or a little bit, - /
+ar          A.139 utt3: no  /
+sd          A.139 utt4:  maybe it was about a thousand dollars, maybe a  little bit less,  /
+sd          A.139 utt5: I don't really remember, for ten days including all my meals, a guide, a car, the airfare  /
+sd          A.139 utt6: [ {C and, } +    
+
+ba          B.140 utt1:  You're kidding!  /
+ba          B.140 utt2: # No kidding! # /  
+
++          A.141 utt1:  #  ((  ))  {C but } ] this is from Hong Kong, # /  
+
+b          B.142 utt1:  Uh-huh. /  
+
+sd          A.143 utt1:  {C because } I was already in Hong Kong  /
+sd          A.143 utt2: [ {C and, } + {F um, } {C but } ] it only cost you about a thousand dollars to go there  /
+sd          A.143 utt3: {C and } I went to  Beijing, Shanghai, Chengdu  /
+sd          A.143 utt4: {C and } {D actually } then I took a train up from  Shanghai to a little, Quingdao I think is the name of it.  /
+sd          A.143 utt5: It's a little, {F uh, } sort of getaway  retreat village not far from Shanghai.  /
+sd          A.143 utt6: It's just a train ride. /  
+
+b          B.144 utt1:  Uh-huh. /  
+
+%          A.145 utt1:  {C And } that, - /
+sd          A.145 utt2: I had [ two internal, + [ one, + ] {D yeah, }  two internal ] plane flights and a couple of other things.  /
+%          A.145 utt3:  It was really, -/  
+
+qy          B.146 utt1:  All for a thousand dollars? /  
+
+ny          A.147 utt1:  Uh-huh. /  
+
+ba          B.148 utt1:  Wow! #  /
+sd          B.148 utt2: That really surprises me. # /  
+
+sd          A.149 utt1:  # Around a thousand. # /  
+
+qy^g          B.150 utt1:  I guess I relate it [ to, + to ] Japan where things  are very expensive, # aren't they? # /  
+
+na          A.151 utt1:  # {F Oh, } [ Japa-, + Japan's ] # ridiculous. /  
+
+b          B.152 utt1:  Yeah.  /
+b^r          B.152 utt2:  Yeah. /  
+
+sd          A.153 utt1:  {C And } [ I stayed, + I didn't stay ] in the top of  the line hotels  /
+%          A.153 utt2: {C but } I stayed in, - /
+sd          A.153 utt3:  they were all completely clean, /  
+
+b          B.154 utt1:  Uh-huh. /  
+
+sd          A.155 utt1:  {C and, } {D you know, } they were newly built  /
+sd          A.155 utt2: {C and }  they were sort of the lower end of the top of the line, hotels,   
+
+b          B.156 utt1:  Uh-huh. /  
+
++          A.157 utt1:  because they said you can't stay in the cheap stuff. /  
+
+aa          B.158 utt1:  Yeah,  /
+aa^r          B.158 utt2: yeah,  /
+sv          B.158 utt3: {C and } you don't want to stay  in the [ [ very, + very, ] + very ] exclusive,   
+
+b          A.159 utt1:  Right. /  
+
++          B.160 utt1:  because you don't really even get a flavor of the  country if you're, -/  
+
+b          A.161 utt1:  Right. /  
+
+b          B.162 utt1:  Yeah,  /
+b^r          B.162 utt2: yeah.  /
+ba          B.162 utt3:  Wow. /  
+
+%          A.163 utt1:  {F Uh, } {C but } - /
+%          A.163 utt2: yeah,  /
+%          A.163 utt3: that was, - /
+sd          A.163 utt4: [ tha-, +   I highly recommend that ] way to go.  /
+sd          A.163 utt5:  If you're ever interested in going the route, I dealt with this woman,  /
+sd          A.163 utt6:  her name was Rita at China Tours in Boston <laughter>. /  
+
+bh          B.164 utt1:  {F Oh } really. /  
+
+ny          A.165 utt1:  Yeah.  /
+sd^e          A.165 utt2: {F Uh, } {C and } a friend of mine who had  gone for a business trip to China  /
+sd          A.165 utt3: {C and } she just gave me this woman's name to contact  /
+sv          A.165 utt4: {C and }  it would really be fun, I think ideally with like two couples because you  have a car and a driver --   
+
+b          B.166 utt1:  Uh-huh. /  
+
++          A.167 utt1:  -- and a guide  /
+%          A.167 utt2: {C and then, } -/ 

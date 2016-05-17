@@ -1,0 +1,323 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3133_1316_1129
+TOPIC#:		327
+DATE:		910710
+TRANSCRIBER:	lya
+UTT_CODER:	tc
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+============================================================================
+  
+
+o          B.1 utt1:  <Noise>  # Okay. # /  
+
+sv          A.2 utt1: # {F Um, } # {D well } I guess first of all [ I, + I ] could have asked that before. /  
+
+x          B.3 utt1:  <Noise>.   
+
+qy          A.4 utt1:  Do you have children? /  
+
+nn          B.5 utt1:  No. /  
+
+b^m          A.6 utt1: No.  /
+bk          A.6 utt2: Okay.  /
+sd          A.6 utt3: Because [ I, + I ] didn't know if that would make a difference --   
+
+b          B.7 utt1:  # Yeah. # /  
+
++          @A.8 utt1: -- # in how you # felt.  /
+qo          @A.8 utt2: {F Um, } what do you think about the proposal that all young Americans should spend a year or two, -/  
+
+sv          B.9 utt1: I think it's a good idea.  /
+sv          B.9 utt2: I think everybody [ should, + should, ] {F uh, } put in their time so to speak [ for the, + for the ] good of [ the, + the ] nation and for the good of themselves. /  
+
+b          A.10 utt1:  Yeah. /  
+
+sv          B.11 utt1: I think it's, {F uh, } - /
+sv          B.11 utt2: would [ every-, + everyone ] grow up and mature [ and, + and ] realize what this country's all about. /  
+
+%          A.12 utt1: I just, {F um, } <lipsmack> - /
+sd          A.12 utt2: I guess [ that's (( )), my, + that's something that my ] family has always believed strongly in,  /
+sd          A.12 utt3: {C and, } {F uh, } I had opportunities in high school,   
+
+x          B.13 utt1:  <Noise>.   
+
++          A.14 utt1:  to work in some programs, {F um } -- /  
+
+qy          B.15 utt1: Did you?  /
+fe          B.15 utt2: <Noise> <<like something fell>>.  Oh! <<very faintly>>. /  
+
+sd          A.16 utt1: -- [ {C and, } + {C and } ] I agree with what you said that [ it's, + {F uh, }   
+
+x          B.17 utt1:  <Noise>.   
+
++          A.18 utt1: <Sigh> it ] benefits the person doing it --   
+
+b          B.19 utt1:  # Uh-huh. # /  
+
++          A.20 utt1: -- # so # much I don't think they realize  /
+sv          A.20 utt2: {C and } [ [ I, + {F uh, } <lipsmack> I, ] + I ] think it gives you a better perspective,   
+
+x          B.21 utt1:  <Noise>.   
+
++          A.22 utt1: on life  /
+sv          A.22 utt2: {C and, } {F uh, } it gives you a little bit, {F uh, } more a glimpse of [ the, + the ] real world  /
+sv          A.22 utt3: [ # {C and } # -- +   
+
+b          B.23 utt1:  # Yeah. # /  
+
++          A.24 utt1:  -- {C and } ] it would certainly help the country, too, {F uh. } /  
+
+b          B.25 utt1: Really <laughter>.  /
+%          B.25 utt2: Yeah,   /
+sv          B.25 utt3:  I think that's probably {D like, } {F uh, } quite a few things [ that, + that ] the kids, {F uh, } maybe not so much nowadays but used to --   
+
+b          A.26 utt1:  # Yeah. # /  
+
++          B.27 utt1: -- # go through, # {D you know, }  /
+sv          B.27 utt2: [ [ they, just, + they were, ] + they did ] things for people,   
+
+aa          A.28 utt1:  Yes. /  
+
++          B.29 utt1: {D you know, } for their communities, for [ their, + their, ] {F uh, } families, for their friends, where now, I'm not sure they really do. /  
+
+aa          A.30 utt1: Yeah.  /
+sv          A.30 utt2: {D Well, } I think sometimes through groups and organizations, {F um, } - /
+sd(^q)          A.30 utt3: [ [ [ my first, + when I first thought of it, ] + I thought it, ] + {F uh, } when they asked the question I thought, ] {D well } that sounds wonderful.  /
+sd          A.30 utt4: {C And then, } I wondered if people were unwilling  /
+sv          A.30 utt5: [ {C but, } + {C but } ] I think even if you went in with a negative attitude I don't think it would stay negative very long.  /
+sd          A.30 utt6: {F Um, } {C but } I do know through some organized groups like Scouts and church --   
+
+b          B.31 utt1:  Uh-huh. /  
+
++          A.32 utt1:  -- {F um, } they,   
+
+x          B.33 utt1:  <Noise>.   
+
++          A.34 utt1:  do still have opportunities. /  
+
+aa          B.35 utt1:  Yeah,  /
+aa          B.35 utt2: that's probably true <noise>.    
+
+sv          A.36 utt1: {C But, } [ I, + I ] think that's a small, {F uh, } number # could, # -/  
+
++          B.37 utt1: # {D You know }  /
+qy          B.37 utt2: {C but } # [ even, + even ] through those groups, do you think that they participate as much as maybe they used to? /  
+
+nn          A.38 utt1: No,  /
+sd^e          A.38 utt2: {F um, } [ not since, + {F um, } <<pause>> not as much ] as I remember growing up.  /
+sv          A.38 utt3: {C And } that was something, {F uh, } I think in the fifties and sixties, {F um, }   
+
+b          B.39 utt1:  Uh-huh. /  
+
++          A.40 utt1:  seemed more common in the last two decades. /  
+
+aa          B.41 utt1:  Yeah.  /
+aa          B.41 utt2:  I think that's probably true. /  
+
+%          A.42 utt1:  # {C But, } # -/  
+
+sv          B.43 utt1: # I # think it's probably more true, still [ in the, + in the ] smaller communities --   
+
+b          A.44 utt1:  Yeah. /  
+
++          B.45 utt1: -- then in the larger cities. /  
+
+b^r          A.46 utt1: Yeah.  /
+qw          A.46 utt2: [ Where, + {F uh, } where ] abouts do you live?  /
+qw          A.46 utt3: What part of the country? /  
+
+sd          B.47 utt1: {D Well, } I live in Richardson right now. # Which is just, # -/  
+
+bk          A.48 utt1: # {F Oh, } okay. #  /
+sd          A.48 utt2: We're in Plano  /
+sd          A.48 utt3: # {C so } we're not far apart. # /  
+
+aa          B.49 utt1:  # Right.  /
+aa          B.49 utt2: Yeah,  /
+aa          B.49 utt3: okay. # /  
+
+sd          A.50 utt1: One of the calls I'd gotten before was, {F uh, } down to Austin  /
+sd          A.50 utt2: [ {C and, } + {C and } ] I know, a friend of mine talked to someone in the midwest  /
+sd          A.50 utt3: {C so } I know there is the possibility that --   
+
+b          B.51 utt1:  Yeah. /  
+
++         A.52 utt1:  -- it could be out of the area. /  
+
+ba          B.53 utt1: Gosh,  /
+sd          B.53 utt2: I hadn't even thought about it being out of the area  /
+sv          B.53 utt3: {C but } you're right.  /
+%          B.53 utt4: Yeah.  /
+sd          B.53 utt5: I grew up in a real small town in Florida. /  
+
+b          A.54 utt1:  Oh. /  
+
+sd          B.55 utt1: I mean a real small town <laughter>.  /
+sv          B.55 utt2: {C And, } {F uh, } I think it was just (( )), - /
+sd          B.55 utt3: of course it was back [ in the, + in the ] fifties  /
+sv          B.55 utt4: {C and } I think it was real prevalent back then.  /
+sv          B.55 utt5: [ I + (( )), I ] think people thought more of others than they do now.    
+
+b          A.56 utt1:  Yeah. /  
+
++          B.57 utt1: {D You know, } as far as doing things for them [ and, + and ] then gaining benefits from it. /  
+
+%          A.58 utt1: {D Well, } - /
+sv          A.58 utt2: {C and } [ maybe, + {F uh, } maybe ] this would be a way to get that feeling back. {F Um, } if we've lost some of that  /
+sv          A.58 utt3: {C and } [ it, + it ] seems in the last decade or two, {F um, } that's true,  /
+sv          A.58 utt4: maybe that's a way,  /
+sv          A.58 utt5: [ if, + if ] young people had to do it --   
+
+b          B.59 utt1:  Uh-huh. /  
+
++          A.60 utt1:  -- {F um, } maybe that would start the trend back because that's one of the things I always <breathing> thought was a wonderful part of our country.   # {F Um, } # --   
+
+aa          B.61 utt1:  # Yeah,  /
+aa          B.61 utt2: # I do to.  /
+aa^r          B.61 utt3:  I do to. /  
+
++          A.62 utt1:  -- is helping others <<pause>> <noise>. /  
+
+sv          B.63 utt1: <Breathing> <laughter>.  I'm not sure [ that, + that ] today's kids would go for it though.  /
+sv          B.63 utt2: I think you would have to start younger. /  
+
+b          A.64 utt1:  Yeah. /  
+
+sd          B.65 utt1: [ I, + I ] don't know how young you'd have to go  /
+sv          B.65 utt2: {C but } I think by the time they're, {F oh, } early teenagers anyway, I think it's too late now.  At least around here. /  
+
+b          A.66 utt1: <Noise> Yeah,  /
+sv          A.66 utt2: [ I think, + {F uh, } <<pause>> I think ] it does help, {F um, } even preschoolers, {D you know }  /
+sv          A.66 utt3: they're, {F um, } things even just starting around the home.    
+
+b          B.67 utt1:  # Right. # /  
+
++          A.68 utt1: # {D You # know }  /
+sv          A.68 utt2: little ones can do a little bit to help the family. /  
+
+b          B.69 utt1:  Uh-huh. /  
+
+sv          A.70 utt1: [ {C And, } + {C and } ] just watching the parents do things too, {F um, } it can start a pattern.  /
+sv          A.70 utt2: There's always something, <noise> no matter how young,  /
+sv          A.70 utt3: {C and then } that helps develop that attitude.  /
+sd          A.70 utt4: {F Um, } I guess I would really like to see this happen with families more.  /
+sv          A.70 utt5: {D You know, } I think this is certainly a possible way, {F um, } to handle it  /
+sd          A.70 utt6: {C but } I wish, (( )) - /
+sv          A.70 utt7: that's something that I think that has been lost in families  /
+sv          A.70 utt8: {C and } I think that's a good place to start again. /  
+
+b          B.71 utt1: Yeah.  /
+sv          B.71 utt2: I think it has to start in the families first because if you don't do it [ for, + for ] your own immediate family, you're sure not going to do it for anybody else. /  
+
+b          A.72 utt1: Yeah.  /
+sv          A.72 utt2: {C And } I do think, {F um, } the schools, - /
+sd          A.72 utt3: if you're trying to do something, even with food drives - /
+sd          A.72 utt4: {C and, } {F uh, } sometimes what Richardson and Plano both, - /
+sv          A.72 utt5: {E I mean } when you live in areas like that where there's so much --   
+
+b          B.73 utt1:  Uh-huh. /  
+
++          A.74 utt1: -- they don't realize what a small percentage of the world that is.  /
+%          A.74 utt2: {E I mean, } that's, {F uh, } - /
+sv          A.74 utt3: gosh I'm sure, not even one percent of the world is as fortunate as these areas  /
+%          A.74 utt4: # {C and, } {F uh } # --   
+
+sv          B.75 utt1:  # That's # probably true.  /
+sv^r          B.75 utt2:  That's probably true. /  
+
++          A.76 utt1: -- it's, - /
+sd          A.76 utt2: I know our church youth group, {F uh, } starts with projects young  /
+sd          A.76 utt3: {C but } they have a high school group that works in the Appalachia --   
+
+b          B.77 utt1:  # Uh-huh. # /  
+
++          A.78 utt1: -- # area # every year.  /
+sd          A.78 utt2: They've done this for fourteen years now. /  
+
+ba          B.79 utt1:  {F Oh, } that's great. /  
+
+%          A.80 utt1: {F Um, } {C and } [ it is, + it's, ] {F uh, } - /
+sd          A.80 utt2: {C and } they've also see that [ there's, + there's ] a different way of life and those families are really close.  /
+sd          A.80 utt3: Some of the things,   
+
+x          B.81 utt1:  <Noise>.   
+
++          A.82 utt1:  that we talked about that were common in the fifties are still there -- /  
+
+b          B.83 utt1:  # Uh-huh. # /  
+
+%          A.84 utt1: -- # {C and, } # {F uh, } <lipsmack> it really, - /
+sd          A.84 utt2: every youth that's ever gone really has felt that their life has been changed  /
+sd          A.84 utt3: {C and } it's changed their perspective.  /
+sd          A.84 utt4: [ {C And, } + {C and } ] that's just the [ t-, + two ] weeks [ during, + during ] the summer. /  
+
+b^r          B.85 utt1:  Uh-huh. /  
+
+sv          A.86 utt1: {C So, } if two weeks, {F uh, } could have that kind of effect I would --   
+
+ba          B.87 utt1:  {D Well, } [ that's, + that's ] # great. # /  
+
++          A.88 utt1:  -- # think, {F uh, } # -/  
+
+sd          B.89 utt1: I'm glad that there are still some areas [ that, + that ] get the youth involved in that sort of thing. /  
+
+%          A.90 utt1:  {D Well } that's, -/  
+
+sv          B.91 utt1: Like I said, I think it does,  /
+sv          B.91 utt2: [ e-, + even ] a small amount of exposure can make a vast difference --   
+
+b          A.92 utt1:  # Yes. # /  
+
++          B.93 utt1:  -- # in their # attitudes <<pause>> <talking>.  /
+%          B.93 utt2: {D Well } <laughter>, -/  
+
+%          @@A.94 utt1:  {D Well, } I guess, {F um, } - /
+qy          @@A.94 utt2: did you have anything else? /  
+
+nn          B.95 utt1:  No,  /
+nn^r          B.95 utt2: no  /
+sd          B.95 utt3: I guess that's about all. /  
+
+b          A.96 utt1:  Okay. /  
+
+b^m          B.97 utt1:  Okay. /  
+
+fc          A.98 utt1:  {D Well, } I enjoyed talking with you. /  
+
+fc          B.99 utt1:  {D Well, } good talking with you. /  
+
+fc          A.100 utt1:  {C And } I hope you have a good evening. /  
+
+fc          B.101 utt1:  You too. /  
+
+ft          A.102 utt1:  Thanks. /  
+
+fc          B.103 utt1:  Okay. /  
+
+fc          A.104 utt1:  Bye,  /
+fc^r          A.104 utt2: bye. /  
+
+fc          B.105 utt1:  Bye <noise>. / 

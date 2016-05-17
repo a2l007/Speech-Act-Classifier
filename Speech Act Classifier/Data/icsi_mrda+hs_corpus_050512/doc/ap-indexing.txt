@@ -1,0 +1,181 @@
+Section 4 of "Meeting Recorder Project: Dialog Act Labeling Guide"
+(ICSI TR-04-002) gives a detailed description of how the APs were annotated.
+This file describes adjacency pair indexing in further detail, as well as
+post-annotation AP markings.
+
+There are two fields in the MRDA corpus dealing with AP annotations, the
+Adjacency Pair and Original Adjacency Pair fields.  Every section in this
+file deals with the Original Adjacency Pair field, except for the
+"Renumbered APs" section.
+
+
+General AP Indexing Notes
+-------------------------
+
+-  Adjacency pairs consist of two parts, where each part is produced
+   by a different speaker.  The first part is an "a" part and the second
+   is a "b" part.  For more information regarding adjacency pairs, 
+   refer to the labeling manual.
+
+-  A numerical value, or index, is assigned to each pair to show
+   the correspondence of a particular "a" to a particular "b".
+   Note that mere sequentiality in time is not sufficient since
+   pairs can overlap.
+
+-  Numerical values are entered sequentially within each file of a
+   meeting used for labeling.  (The files used for labeling were ten
+   minute "chunks" or slices of the meeting.)  Numerical values are not
+   sequential throughout entire meetings, only throughout the individual
+   chunks (see next point below).  Consequently, adjacency pairs in the
+   DADB files periodically recycle to an index of 1 near multiples of 600
+   seconds, regardless of the previous AP index.
+
+-  The convention of entering numerical values sequentially within
+   individual ten minute chunks was implemented some time after the
+   labeling task had begun.  Prior to the implementation of this
+   convention, there was a convention in which the numerical values of
+   adjacency pairs were recycled within individual meeting chunks such
+   that, upon reaching a certain value (usually between 10 and 40), the
+   following AP would have a numerical value of 1.  The convention was
+   that the index for an AP should serve only to unambiguously identify
+   which utterances are members of the same AP.  Labelers could recycle
+   through the indexing, starting again at 1, at any number greater
+   than 10.  How high they went before recycling has no meaning (it
+   was based on annotator preference and the way meetings were labeled
+   in chunks).
+
+-  Meetings in which numerical values for adjacency pairs were cycled
+   are listed below:
+
+   Bed003
+   Bed009
+   Bed011
+   Bmr008
+   Bmr009
+   Bmr014
+   Bmr026
+   Bro004
+   Bro005
+   Bro012
+   Bro018
+
+- APs inserted manually by annotators after sequential AP annotation was
+  completed are marked with an underscore ('_').  For example, if an AP
+  needs to be inserted between the 15th and 16th AP in a 10-minute meeting
+  chunk, it is marked as '15_a' for the first part of the AP and '15_b'
+  for the second part.
+
+
+AP Corrections and Questionable APs
+-----------------------------------
+The APs went through an error-checking process after the annotations were
+completed by the labelers.  This process revealed both correctable and
+questionable AP markings.  The correctable APs were updated for this
+release, a "FIXED AP" note was added to the Comments field in these lines,
+and the Start and Info fields were logged in doc/lists/fixed_aps.txt.  Two
+specific types of errors (fg/fh/b and ^m/^2 errors) are described in the
+next two sections.
+
+The questionable APs may have been due to a malfunction in one or more of
+the microphones involved, a mislabeled AP that is ambiguous, a residual of
+data processing, or some other problem that cannot easily be resolved.
+Questionable APs are divided into two cases, each with a different marking
+to differentiate them.  Case I is the general marking given, while Case II
+is for a specific questionable AP.
+
+
+Case I:
+When a questionable AP part is found, if possible, it is corrected.
+Otherwise, it is surrounded by the symbol '@'.  Please note that it is the
+AP part that is surrounded, not necessarily the entire AP.  AP parts are the
+units separated by the period '.' symbol.
+
+Examples:
+@6a@.7a
+@44b@.45a
+@64a+@
+38b.@39a@
+
+Large areas of AP problems to note:
+Bed014 from about 3109s to 3172s
+    All microphones are shut off except channel 1.  The conversation
+    continues, but since the MRDA data only includes close-talking
+    utterances, only channel 1 remains.
+Bmr020 from about 1488s to 1557s
+    Channel 1 has a problem with its microphone, and is only heard in
+    the far-field microphones.
+
+
+Case II:
+A more specific case of questionable AP labels deals with when the AP parts
+occur out of order, i.e. a DA segment where the "b" part precedes a DA
+segment with the "a" part of the same AP.  For the majority of these cases,
+the start times of the two DA segments are very close.  These "out of order"
+AP parts may occur for several reasons:
+
+1. The start times of the two DA segments are extremely close (less than
+   0.05 seconds).  They were likely labeled in order, but after doing a
+   forced alignment the timings changed slightly to place them out of
+   order.
+2. The "b" part does not occur at the beginning of the DA segment it is in,
+   but later on.  Therefore, the words preceding where the "b" part occurs
+   could have start times prior to when the DA segment with the "a" part
+   begins.
+3. There was some sort of labeler error for the AP pair.
+
+Because the reasons for these "out of order" APs vary and cannot be
+automatically determined, we simply surrounded these AP parts (and the other
+AP parts with the same AP number) with the symbol '!' so they can be
+identified and dealt with as desired.  Please note that only the "out of
+order" AP part is surrounded in each case, not necessarily the entire AP.
+
+
+APs with fg/fh/b DAs
+--------------------
+According to Section 4.4 of "Meeting Recorder Project: Dialog Act Labeling
+Guide" (ICSI TR-04-002), DA segments with labels "fg" "fh" and "b" should
+never be marked with APs.  However, there are several cases where these
+segments have AP labels, even after a round of AP fixes (for other problems).
+We removed these labels while adding the phrase "REMOVED AP" to the comments
+field.  We also adjusted any affected APs, added the phrase "ADJUSTED AP" to
+the comments field, and logged the adjustments in doc/lists/fixed_aps.txt.
+136 APs were removed, and 130 APs were adjusted.  The file
+doc/lists/fg_fh_b.txt lists the 136 removed APs.
+
+
+APs missing when DAs have ^m or ^2
+----------------------------------
+Section 4.4 of "Meeting Recorder Project: Dialog Act Labeling Guide"
+(ICSI TR-04-002) states that mimics (^m) and collaborative completions (^2)
+are always marked with APs.  After a round of AP fixes and fixing cases for
+fg/fh/b, we found 156 DA units in the corpus marked with ^m or ^2 that did
+not have any AP markings.  These units are listed in doc/lists/m_2.txt.
+
+We added the appropriate adjacency pair parts to almost all of these data and
+added "INSERTED AP" to the comment field (or "ADJUSTED (M/2) AP" when an AP
+part existed but was changed).  A small number of cases required a different
+correction or were left without a label.  These cases are described in
+doc/lists/m_2-exceptions.txt.
+
+Some labels of ^2 or ^m occur with questionable APs.  These were investigated
+and the proper corrections were made.  Sometimes this involved fixing
+incorrect DA labels (a ^2 or a ^m that was inappropriate), fixing incorrect
+APs, or both.  Fixed APs are noted in doc/lists/fixed_aps.txt.  Special
+corrections are noted in doc/lists/m_2-exceptions.txt.
+
+
+Renumbered APs
+--------------
+Because of the inconsistency in AP indexing (see the "General AP Indexing
+Notes section" above), a renumbering of the APs was done, with the result
+in the Adjacency Pair field.
+
+The renumbering was done as follows:
+      1. First, we assume that the DA lines are sorted by start time.
+         (They are already sorted this way in the .dadb files.)
+      2. Stepping through line by line, begin numbering AP indices in
+         multiples of 10, leaving the rest unchanged.
+      3. When there are multiple speakers per AP part, number according
+         to order of appearance (e.g. 4a-1 first, then 4a-2, 4a-3, etc.).
+      4. When there are multiple AP parts in a line, go from lowest to
+         highest by AP index, from left to right.

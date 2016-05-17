@@ -1,0 +1,458 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2543_1018_1148
+TOPIC#:		308
+DATE:		910410
+TRANSCRIBER:	lan
+UTT_CODER:	mlg
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: what kind of music do you like? /  
+
+%          B.2 utt1:  {D Well, } I, {F uh, } - /
+sd          B.2 utt2: several years ago <child> a radio broke in my car -- /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+ sd         B.4 utt1:  -- {C and } I never, - /
+sd          B.4 utt2: I got out of the habit of listening to the radio,  /
+sd          B.4 utt3: [ {C and } + {C so }  ] I haven't been listing,  /
+sd          B.4 utt4: [ I, + I  ] used to just listen to the rock stations --   
+
+b          A.5 utt1:  Uh-huh. /  
+
++          B.6 utt1:  -- but, {F um, } <throat_clearing> lately I have been going back to classical music.  /
+sd          B.6 utt2: I don't really know what too many of the most popular songs are unless, {D you know, } they're in [ the, + the  ] news or something <talking>. /  
+
+b          A.7 utt1:  Uh-huh. /  
+
+sd          B.8 utt1:  {C But, } {F um, } {C so } I tend to listen to some of the older songs that were popular back when I was paying attention. /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+ sd         B.10 utt1:  {C And then } I like some classical music --    
+
+b          A.11 utt1:  Uh-huh. /  
+
++          B.12 utt1:  -- and some of the pieces that have been around a while.  /
+ sd         B.12 utt2: I haven't paid much attention to most of the current music.  /
+qo          B.12 utt3:  What about you? /  
+
+sd          A.13 utt1:  {F Um, } [ I listen, + I listen  ] to a wide variety of music.  /
+sd          A.13 utt2: Sometimes I'll turn on the classical music, <yelling> <talking> <<man in background>>  /
+sd          A.13 utt3: sometimes I'll listen to jazz, /  
+
+b          B.14 utt1:  Uh-huh. /  
+
+sd          A.15 utt1:  {F uh, } every now and then country and western.  /
+sd          A.15 utt2: {F Um, } I'll listen to some of the rock stations.  /
+sd          A.15 utt3: I also like [ the, + {F uh, } the,  ] the classic rock stations,    
+
+b          B.16 utt1:  Uh-huh. /  
+
++          A.17 utt1:  that play the older, more mellow type rock music <talking> <<man and child in background>>.  /
+sd          A.17 utt2: {F Um, } [ some of the, + some of the ] rock stations now are [ the, + I guess the  ] top forty stations or whatever.  /
+%          A.17 utt3:  They just, - /
+sd          A.17 utt4: it really gets on my nerves because they play so many commercials  /
+sv          A.17 utt5: {C and, }   
+
+b          B.18 utt1:  Uh-huh. /  
+
++          A.19 utt1:  sometimes the deejays are just kind of annoying and irritating  /
+ x         A.19 utt2: <laughter>,   
+
+ba          B.20 utt1:  That's true. /  
+
+sv          A.21 utt1:  {C and } it gets kind of old,  /
+sv          A.21 utt2: {C and } they play the same songs over and over, /  
+
+x          B.22 utt1:  <Laughter>.   
+
+sd          A.23 utt1:  {C and } I just get kind of tired of all that. /  
+
+ b         B.24 utt1:  Uh-huh. /  
+
+sd          A.25 utt1:  {C So } lots of times,   
+
+x          B.26 utt1:  <Throat_clearing>.   
+
++          A.27 utt1:  I'll just play cassettes instead of listening to the radio, {D actually. }  /
+sd          A.27 utt2: {C But, } {F uh, } most of my cassettes, - /
+sd          A.27 utt3: I guess, [ I don't, + I don't  ] like hard rock. /  
+
+b          B.28 utt1:  No. /  
+
+sd          A.29 utt1:  {F Um, } I have [ some, + some  ] rock and some jazz and a couple, maybe one or two country and western.  Some, {F uh, } {F oh, }  {A I can't believe I can't think of his name. } {F Um, } Garth Brooks, /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+ sd         A.31 utt1:  I have a couple of his tapes. /  
+
+ x         B.32 utt1:  <Throat_clearing>.   
+
+ sd         A.33 utt1:  {C And, } {F um, } {C but } [ it's mainly, + it's mainly  ] just [ the, + the  ] light rock type stuff. /  
+
+ b         B.34 utt1:  Yes,  /
+%          B.34 utt2: I don't, - /
+sd          B.34 utt3: I never liked any of the heavy metal --   
+
+b          A.35 utt1:  Uh-huh. /  
+
++          B.36 utt1:  -- music <laughter>.  /
+sd          B.36 utt2: I never really listened to it because [ I, + {D you know, } I  ] prefer to have [ more, + ] I guess, an established pattern of music to listen to. /  
+
+b          A.37 utt1:  Uh-huh. /  
+
+%          B.38 utt1:  {C But, } {C and } I, - /
+sd          B.38 utt2: back a long time ago, when the rap music first came out --   
+
+b          A.39 utt1:  Uh-huh. /  
+
++          B.40 utt1:  -- it was kind of a novelty, and I listened to some of it, /  
+
+b         A.41 utt1:  Uh-huh. /  
+
+%          B.42 utt1:  {C but } I, {D you know, } - /
+sv          B.42 utt2: now that there's just a million rap groups  /
+sv          B.42 utt3: [ {C and, } +    
+
+x          A.43 utt1:  <Laughter>.   
+
++          B.44 utt1:  {C and, } ]  {F uh, } they [ try to, + tend to try to  ] [ do, + outdo  ] each other with raciness, I think, /  
+
+b          A.45 utt1:  {F Oh, } yeah. /  
+
+sd          B.46 utt1:  [ {C and, } + {C so } ] [ I, + {D you know, } I'm  ] not attracted to that at all,  /
+sd          B.46 utt2: {C but, } {F um, } it made a big difference in my life not to have a radio that was  ((   ))  easy access,  /
+sd          B.46 utt3: {C and } {D so } now that I do have one, I just don't automatically turn it on --   
+
+b          A.47 utt1:  Uh-huh. /  
+
++          B.48 utt1:  -- unless there's something I'm particularly listening to.  /
+sv          B.48 utt2: {C But, } {D you know, } if you go two or three years without having that, - /
+sd          B.48 utt3:  what I got the most exposure to -- -/  
+
+b          A.49 utt1:  Uh-huh. /  
+
+sd          B.50 utt1:  -- it really changed my life-style and kept me from just having  [ a, + ] {D you know, } easy access to current music,  /
+sd          B.50 utt2: [ {C and } + {C so } ] I did, like I say, tend to go back to albums and --   
+
+b          A.51 utt1:  Uh-huh. /  
+
++          B.52 utt1:  -- cassettes and things that I [ had, + already had  ] --   
+
+b          A.53 utt1:  Uh-huh. /  
+
++          B.54 utt1:  -- purchased.  /
+sd,qy^g          B.54 utt2: {C But } we don't have a C D yet, do you? /  
+
+ nn         A.55 utt1:  No,  /
+ sd^e         A.55 utt2: I don't.  /
+sd^r          A.55 utt3:  I sure don't  /
+sd          A.55 utt4: {C because } I have so many albums and cassettes I feel like, gosh, I'm going to have to go out and buy a C D player and then start collecting C D -s,  /
+%          A.55 utt5: {C and } it just, -/  
+
+b          B.56 utt1:  Uh-huh. /  
+
+sd          A.57 utt1:  I haven't gotten around to doing it yet. /  
+
+b          B.58 utt1:  Yeah,  /
+ sd         B.58 utt2: [ I, + I  ] kind of decided to wait until [ it, + it  ] was around a while.  /
+ sd         B.58 utt3:  It was kind of like, remember when personal calculators first <laughter> came out, /  
+
+b          A.59 utt1:  Yeah,  /
+b^r          A.59 utt2: yeah. /  
+
+sd          B.60 utt1:  {C and } they were [ really, + really  ] expensive  /
+sd          B.60 utt2: {C and then } now you can get one for two or three dollars. /  
+
+sd          A.61 utt1:  Just like V C R's, too <laughter>. /  
+
+b         B.62 utt1:  Uh-huh,  /
+b          B.62 utt2: uh-huh. /  
+
+b          A.63 utt1:  Yeah,  /
+sd          A.63 utt2: I thought of that, too, that if I wait, it'll get a lot less expensive,  /
+sd          A.63 utt3: {C and } I can do without it for a while. /  
+
+ba          B.64 utt1:  Sure  /
+sv          B.64 utt2: {C and } also they get better quality -- /  
+
+b          A.65 utt1:  Uh-huh. /  
+
+ %         B.66 utt1:  -- w-, - /
+sv          B.66 utt2: {C and } they learn to have more features and things  [ and -- + ]   
+
+ b        A.67 utt1:  Uh-huh. /  
+
+ +         B.68 utt1:  -- without, [ and + ] making them less expensive.  /
+  sd        B.68 utt2: {C So } we're kind of waiting to, {D like, } {F uh, } now, {D you know, } - /
+ sd         B.68 utt3: {C and } the price of cassettes has gone down --   
+
+b          A.69 utt1:  Uh-huh. /  
+
++          B.70 utt1:  -- because C D -s are so popular,  /
+%          B.70 utt2: {C so, } -/  
+
+%          A.71 utt1:  That's, - /
+sd          A.71 utt2: {C and } a C D is a lot more expensive than a cassette ever was, too,  /
+sd         A.71 utt3: right now, I think.   
+
+sd          B.72 utt1:  I haven't even priced them.  /
+sd          B.72 utt2:  I guess they must be. /  
+
++          A.73 utt1:  They're somewhere between ten and fifteen dollars a piece. /  
+
+bh          B.74 utt1:  {F Oh, } really? /  
+
+ny          A.75 utt1:  Yeah. /  
+
+ba          B.76 utt1:  That is awful <laughter>. /  
+
+b          A.77 utt1:  Yeah  /
+sd          A.77 utt2: <laughter>.  I bought some at Christmas time for friends of mine that have C D players.  /
+sd          A.77 utt3: I thought, my gosh, /  
+
+b          B.78 utt1:  Uh-huh. /  
+
+sd          A.79 utt1:  now I know another reason why I'm not going to get a C D player for a while. /  
+
+o          B.80 utt1:  <Laughter> Take our time. -/  
+
+b          A.81 utt1:  Right. /  
+
+sd          B.82 utt1:  {D Well, } I can't imagine, {F um, } - /
+sd          B.82 utt2: you can't record on them and so they won't be as functional as {D like } a cassette player, where if you heard something, you could record it,   
+
+b          A.83 utt1:  Uh-huh. /  
+
++          B.84 utt1:  {D you know. }  {F Uh, } [ if you have, I guess, + if  ] you wanted to record something to play out in your car or something,   
+
+b          A.85 utt1:  Uh-huh. /  
+
++          B.86 utt1:  that you'd heard or that you owned an album of,  /
+sv          B.86 utt2: {C so } C D -s won't be nearly as handy. /  
+
+b          A.87 utt1:  Yeah,  /
+sd          A.87 utt2: {D see, } [ I've got a, + on my stereo I've got [ a, +  a, ] ] {F uh, } turntable, and then I've got a dual cassette  /
+sd          A.87 utt3: {C so } I can record off other cassettes. /  
+
+b          B.88 utt1:  Uh-huh. /  
+
+sd          A.89 utt1:  {C But } I never realized you couldn't record onto C-, - /
+sd          A.89 utt2: I just never really thought about it  /
+sd          A.89 utt3: {C because } I haven't really looked into it very much.  /
+sd          A.89 utt4: I don't have one  /
+%          A.89 utt5: {C and, } -/  
+
+b          B.90 utt1:  Uh-huh. /  
+
+sd          A.91 utt1:  {C and } I've never really looked at one very closely,  /
+sd          A.91 utt2: {C but } [ that, + that  ] would be inconvenient because I have a cassette player in my car.  /
+sv          A.91 utt3: {D Now } [ I guess, +  {D you know, } one of these days when I get a new car, maybe, I guess  ] all of them will probably have C D -s players by then, /  
+
+b          B.92 utt1:  Yes. /  
+
+sd          A.93 utt1:  {C but, } {F uh, } I'm not planning on doing that for a while.   /
+sd          A.93 utt2:  I just got mine paid off <laughter>. /  
+
+ad          B.94 utt1:  <Laughter> Enjoy it. /  
+
+sd          A.95 utt1:  I'm going to stick with the cassettes [ and, + and, ] {F uh, } {D you know, } [ until, + until ] they, - /
+sd          A.95 utt2: {D now } [ my sister, my younger sister has a, +  she does have a ] C D player that she got for Christmas  /
+sd          A.95 utt3: {C and } she's got [ the, + the  ] cassette, so she can record  [ off cassettes onto C D -s. +  {E I mean, } {E I'm sorry, }  {E [ o-, + other  ] way around, }     
+
+b          B.96 utt1:  Uh-huh. /  
+
++          A.97 utt1:  off C D -s onto cassettes.  ] /  
+
+b          B.98 utt1:  Uh-huh. /  
+
+%          A.99 utt1:  {F Um, } /  
+
+ba          B.100 utt1:  {D Well, } that's good. /  
+
+sd          A.101 utt1:  {C so } I can record some things from her and, {D you know, } get cassettes and  record off other ones or off the radio if I want to  /
+ sd         A.101 utt2: [ {C but } -- +    
+
+ b         B.102 utt1:  Uh-huh. /  
+
++          A.103 utt1:  -- {C but, ] } {F uh, } I just haven't gone to C D yet. /  
+
+sd          B.104 utt1:  {D Why, } we haven't either,  /
+sd          B.104 utt2: {C but } [ we, + {D you know, } we  ] like [ the, + the  ] idea of having great extra quality, {D you know, }   
+
+b          A.105 utt1:  Uh-huh. /  
+
++          B.106 utt1:  in your music and things.  /
+sd          B.106 utt2: [ {C But, } + {C but }  ] I'm satisfied to just have what I've been used to, not have to think about the great financial <laughter> --   
+
+b          A.107 utt1:  Uh-huh. /  
+
++          B.108 utt1:  -- sacrifice that that would be, to suddenly try to switch over to all C D -s or something. /  
+
+b          A.109 utt1:  Uh-huh. /  
+
+sd          B.110 utt1:  {C But } I know one thing that has colored my music choice is when we had children, {F um, } I really started to think about what kind of television programs I was watching,   
+
+b          A.111 utt1:  Right. /  
+
++          B.112 utt1:  and what kind of music I was listening to and --   
+
+b          A.113 utt1:  Uh-huh. /  
+
+  +        B.114 utt1:  -- activities  /
+ sd         B.114 utt2: {C because, } {F um, } {D you know, } I just didn't want them to be exposed to a lot of things,  /
+sd          B.114 utt3: {C and } a [ lot of the, + lot of the  ] songs have some lyrics that, {F um } --   
+
+b          A.115 utt1:  {F Oh, } yeah  /
+x          A.115 utt2: <laughter>.   
+
++          B.116 utt1:  -- I just wasn't pleased with,    
+
+sd          A.117 utt1:  {C And } they get worse and worse, too. /  
+
++          B.118 utt1: {D you know. }  /
+b          B.118 utt2: Uh-huh.  /
+sd          B.118 utt3:  [ {C And } + {C so }  ] I really think we've tried to tone down --   
+
+b          A.119 utt1:  Uh-huh. /  
+
++          B.120 utt1:  -- our taste there to make, {F uh, } {D you know, } our children not be exposed to so  many [ ne-, + negative  ] things so early in life. /  
+
+b          A.121 utt1:  Uh-huh.  /
+sd          A.121 utt2:  {D Well, } that's amazing how [ I used to, + when I was in college, I used to  ] have the stereo on all the time or I had on M T V or something, /  
+
+b          B.122 utt1:  Uh-huh. /  
+
+ sd         A.123 utt1:  {C but } ever since I've been out of college, I guess over the last several years, I listen to the stereo less and less.  /
+ sd         A.123 utt2:  Now [ I, + I  ] will turn on, - /
+sd          A.123 utt3: I've got a small jam box in my bathroom.  /
+sd          A.123 utt4: I'll turn that on while I'm in the shower and  while I'm getting ready because there's really not much else I can do -- /  
+
+b          B.124 utt1:  Uh-huh. /  
+
+sd          A.125 utt1:  --  {C and } it's kind of boring standing there, putting on makeup,  so I'll turn the radio on  /
+sd          A.125 utt2: [ {C and, } +   
+
+b          B.126 utt1:  Right. /  
+
++         A.127 utt1:  {C and then } ] I listen to it when I'm in the car driving to work because, again, [ there's, + {D you know, } there's  ] nothing else going on.  /
+ sd         A.127 utt2: I might as well listen to the radio while I'm driving to work. /  
+
+b          B.128 utt1:  Right. /  
+
+ sd         A.129 utt1:  {C But } other than that, [ [ I've, + I  ] really don't, + I  don't ] listen to the radio or  even to my albums or cassettes or anything very often anymore.  /
+sd          A.129 utt2:  I guess I'm just too busy doing other things that it's too much trouble to get up and go decide what I want to listen to,    
+
+x          B.130 utt1:  <Laughter>.   
+
++          A.131 utt1:  and put it [ on the, + on the ] turntable.  /
+sd          A.131 utt2: I don't know,  /
+sd          A.131 utt3: I just [ don't, + don't  ] bother to do it very much anymore. /  
+
+b         B.132 utt1:  Yes,  /
+sd         B.132 utt2: I know what you mean.  /
+sd          B.132 utt3:  [ I, + I  ] know my husband, he, {F um, } plays an instrument  /
+sd        B.132 utt4: {C and } he played in the band when he was in college and in high school -- /  
+
+b          A.133 utt1:  Uh-huh. /  
+
+sd          B.134 utt1:  -- [ {C and } + {C so }  ] he has a lot of all different kinds of music,  /
+sd          B.134 utt2: {C and } he goes out of his way to play marching band music,   
+
+b          A.135 utt1:  Uh-huh. /  
+
++          B.136 utt1:  or like you say, jazz or classical to the children [ to, + to  ] give them some exposure to different kinds of music. /  
+
+b          A.137 utt1:  Uh-huh. /  
+
+sd          B.138 utt1:  {C And } I think that's really good because they're learning to like all different kinds  /
+%          B.138 utt2: {C and, } -/  
+
+ba          A.139 utt1:  That's good.  /
+qw          A.139 utt2: What instrument does he play? /  
+
+sd          B.140 utt1:  He plays the, - /
+sd          B.140 utt2: it's a euphonium.  /
+sd          B.140 utt3: It's like [ a small, + a really small,  ] not a tuba, but I th-, - /
+ sd         B.140 utt4: it's hard to explain <laughter>. /  
+
+b          A.141 utt1:  Uh-huh. /  
+
+sd          B.142 utt1:  I never had known anyone to play one before. /  
+
+b          A.143 utt1:  Uh-huh,  /
+sd          A.143 utt2: I've never heard of that. /  
+
+sd          B.144 utt1:  {C But } it's kind of like a [ small, + small  ] tuba but it's not the kind that sits up on your shoulder. /  
+
+b          A.145 utt1:  Uh-huh. /  
+
+sd          B.146 utt1:  {C But } it's a cross between a tuba [ [ [ and, + and  ] + an,  ] + and,  ] {D you know, } a horn.  /
+sd          B.146 utt2:  It's a brass instrument. /  
+
+b          A.147 utt1:  Uh-huh. /  
+
+sd          B.148 utt1:  <Swallowing> {C So } he plays that [ and, + and  ] a little bit of piano  /
+sd          B.148 utt2: [ {C and } -- +   
+
+b          A.149 utt1:  Uh-huh. /  
+
++          B.150 utt1:  -- {C but } ] he has some real fond memories of marching band --    
+
+b          A.151 utt1:  Uh-huh. /  
+
++          B.152 utt1:  -- and concert band type activities,  /
+sd          B.152 utt2: {C and } he thinks that would be good for the kids <laughter>. /  
+
+ b         A.153 utt1:  Uh-huh,  /
+sv          A.153 utt2: {F oh, } I'm sure it is.  /
+sv^r          A.153 utt3:  I'm sure it is.  /
+sd          A.153 utt4:  I was exposed to a lot of music when I was younger.  /
+%          A.153 utt5: I, - /
+sd          A.153 utt6: my parents had me take piano lessons for eight years,  /
+
+b          B.154 utt1:  Uh-huh. /  
+
+sd          A.155 utt1:  [ {C and, } + {C so }  ] [ I was, + I was  ] a real good piano player,  /
+sd          A.155 utt2: {C but } then I got interested in a lot of other things  /
+sd          A.155 utt3: {C and } I got real involved in many things  /
+sd          A.155 utt4: [ {C and, } + {C and }  ] now I don't have a piano in my apartment or anything.  /
+sd          A.155 utt5: I could sit back down and  play a few things,   
+
+b          B.156 utt1:  Uh-huh. /  
+
++          A.157 utt1:  but not like I used to be able to.  /
+sv          A.157 utt2:  It's kind of sad that I've let that slip away. /  
+
+b          B.158 utt1:  Uh-huh. /  
+
+sd          A.159 utt1:  {C And } I took guitar lessons, I think, for one or two years,  /
+sd          A.159 utt2: {C and, } {F uh, } that was about the same time I was taking piano.  /
+sd          A.159 utt3:  {C And then } I got too busy in high school <<faint>> to really keep up with it between homework and ... -/ 

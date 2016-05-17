@@ -1,0 +1,454 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2190_1104_1039
+TOPIC#:		302
+DATE:		910319
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	4
+TOPICALITY:	3
+NATURALNESS:	3
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	3
+REMARKS:        This was very difficult to transcribe.  Both
+speakers had a tendency to not finish their sentences and
+constantly interrupted each other.  Their sentences were full of
+fragments.
+
+========================================================================
+  
+
+ad          @A.1 utt1:  {F Oh, } go ahead  /
+sd          @A.1 utt2: [ I, + I ] am glad to talk to an expert.  /
+sd          @A.1 utt3: I always wanted to know who an expert was. /  
+
+sd          B.2 utt1:  {F Oh, } {D well, } I'm not an expert,  /
+sd          B.2 utt2: [ I just had a little, + [ I've, + I've ] seen a little ] pollution in my time.  /
+%          B.2 utt3: It's, {F uh, } - /
+sd          B.2 utt4: [ the, + the ] chemicals we were dealing with were, {F uh, } a Raid repellent  /
+sd          B.2 utt5: {C and, } {F uh, } that was really quite dangerous,  /
+sd          B.2 utt6: I'm not certain that that was, - /
+sd          B.2 utt7: [ that, + that's ] really a pollution issue.  /
+sd          B.2 utt8:  I think pollution issue [ [ [ is, + is, ] + {F uh, } is, ] + is ] the argument [ over, + over ] people catching, {F uh, } things like,  {F uh, } respiratory disease. /  
+
+sd          A.3 utt1:  {F Uh, } {D well, } [ there, + there's ] two things, {F uh, }  /
+sd          A.3 utt2: the one I'm interested the most, I guess, myself, {F uh, } would be [ the, + the ] Freons  (( {E I mean } )) , for  (( air cond-, )) - /
+sd          A.3 utt3: the one, I guess, that's the one I'm most curious about is how they're going to replace the Freons in air-conditioning.  /
+sd          A.3 utt4:  That seemed to be the biggest surprise to me  /
+%          A.3 utt5: {C and } whether, - /
+sd          A.3 utt6: when they replace it, {D you know, } they're going to really come up with something that is not just as bad. /  
+
+%          B.4 utt1:  {D Well, } the, {D you know, } - /
+sv          B.4 utt2: [ that, + that's ] another arguable issue  /
+sd          B.4 utt3: {C and } [ I, + I've ] seen the, {F uh, } {F uh, } {F uh, } - /
+sv          B.4 utt4: assuming you can buy into global warming I bi-, -/  
+
+b          A.5 utt1:  Yeah,  /
+%          A.5 utt2: I, {F uh, } was, {F uh, } {D you know, } - /
+sd          A.5 utt3: where they were all concerned about that, - /
+sd          A.5 utt4:  {C but } [ that, +  that ] it seems to be, -/  
+
+qy          B.6 utt1:  {D Well, } did you see Carl Sagan on SIXTY MINUTES [ on, + ] {F uh, } when he was talking about [ when + ] [ [ if, + if ]  the, + if the ] war started [ in, + in ] Kuwait and they'd set those, {F uh, } all th-, -/  
+
+nn          A.7 utt1:  No,  /
+sd^e          A.7 utt2: I heard about it though. /  
+
+sd          B.8 utt1:  {F uh, } [ [ it was, + it was, ] + it was ] interesting  /
+sd          B.8 utt2: {C but, } {F uh, } I'm just curious what he has to say now that they've got them all lit. /  
+
+qy          A.9 utt1:  Was that before, - /
+sd          A.9 utt2: I didn't see it,  /
+qy          A.9 utt3: was that before they actually did that  /
+qrr          A.9 utt4: {C or } it was w-, -/  
+
+ny          B.10 utt1:  Yes.  /
+sd          B.10 utt2: {C And } his argument [ was, + {F uh, } was ] [ that, + that ] you would see [ a, + {F uh, } a ] year with no summer.    
+
+^2          A.11 utt1:  # Because of that, #   
+
++          B.12 utt1:  # Which actually happened. # /  
+
++          A.13 utt1:  {D you know. } -/  
+
+%          B.14 utt1:  {C And } [ it, + it ] ac-, - /
+b          B.14 utt2: yes,  /
+sd          B.14 utt3: it actually happened,  /
+sd          B.14 utt4: {F uh, } it was a volcano erupted  /
+sd          B.14 utt5: {C and } it was high enough up  /
+sd          B.14 utt6: {C but, } {F uh, } they had some people from the national meteorological center I think it was  ((   ))  which is the national, {D anyway, } research people  /
+sd          B.14 utt7: {C and } they said [ that the, + {F uh, } that the ] pollution would not go high enough.  /
+sd          B.14 utt8:  {C And } it's going to be interesting to see if Carl Sagan and his billions and # billions of stars, #   
+
+b          A.15 utt1:  # Right. # /  
+
++          B.16 utt1:  may have once made a mistake,  /
+sd          B.16 utt2: {C but } [ [ [ [ [ [ th-, + th-, ] + th-, ] + the, ] + the  com-, ] + the general, ] + the ] opinion [ among, + among ] the, {F uh, } meteorologists at, {F uh, } - /
+sd          B.16 utt3: I'm, {F uh, } member of the American Meteorological Society,  /
+%          B.16 utt4: {C and } an-, -/  
+
+qy          A.17 utt1:  Are you d-, - /
+qy^d          A.17 utt2: you didn't work at T I? /  
+
+ny          B.18 utt1:  Yeah,  /
+sd^e          B.18 utt2: I do. /  
+
+bk          A.19 utt1:  {F Oh, } okay. /  
+
+sd          B.20 utt1:  {C But } [ [ I'm, + {F uh, } I, ] + [ th-, + ] I ] did that in my  ((   )) . -/  
+
+qy          A.21 utt1:  Where do you work in research,  /
+%          A.21 utt2: {C or } -/  
+
+ng          B.22 utt1:  No, I'm [ a planner, + a production planner. ] /  
+
+bk          A.23 utt1:  {F Oh, } okay. /  
+
+sd          B.24 utt1:  {C But } [ [ I, + I, ] + I'm ] in the active reserves as a weatherman,  /
+%          B.24 utt2: {C so. } -/  
+
+bk          A.25 utt1:  {F Oh, } # okay,  /
+b          A.25 utt2: yeah. # /  
+
+sd          B.26 utt1:  # {F Uh, } # [ I, + I ] keep up from time to time,  /
+sd          B.26 utt2: {C but } what [ [ the, +  the ] argument is [ that, + {F uh, } that, ] {F uh, } maybe there isn't global warming and maybe there is.  /
+sd          B.26 utt3:  {C But, } {F um, } if there is, {F uh, } we probably could do something about it now, /  
+
+b          A.27 utt1:  Yeah. /  
+
+sd          B.28 utt1:  {C and } [ if there isn't, + if there isn't ] and we do some the right things, I think, - /
+qo          B.28 utt2: how do you feel [ about, + about ] all this smog and [ th-, + ] stuff on cars. /  
+
+sd          A.29 utt1:  {F Uh, } {D well, } I'm kind of a car buff myself,  /
+sd          A.29 utt2: I was going to ask you another question,  /
+sd          A.29 utt3: {C but, } {F uh, } [ I-, + I'll ] do that in a minute.  /
+sv          A.29 utt4: [ I, + I ] think that the changing, {D you know, } from leaded fuel was a tremendous advantage, # {D you know, } [ no-, + not ] using # ... -/  
+
+qy          B.30 utt1:  # {D Well, } do you have an # older car? /  
+
+nn          A.31 utt1:  No,  /
+nn^r          A.31 utt2: no,  /
+nn^r           A.31 utt3: no. /  
+
+sd          B.32 utt1:   [ I, +  I ] have been working on an older car #  /
+%          B.32 utt2: {C but } it to-, - /
+%        B.32 utt3: yeah. # /  
+
+bh          A.33 utt1:  # Really?  /
+sd          A.33 utt2: {F Oh, } I'm a car # buff too,  /
+ad^t         A.33 utt3: we ought to [ wor-, + ] talk about that one day, {F uh, } {F uh, } /  
+
+sd          B.34 utt1:  {D Well, } I'm restoring one. /  
+
+sd          A.35 utt1:  I think [ you can use the, + you can use ] [ high, + ] {D you know, } the [ ninety-two percent, + {F uh, } ninety-two ] octane I don't think you'll have any trouble. /  
+
+sd          B.36 utt1:  I'm not having any problem it's a seventy. /  
+
+b          A.37 utt1:  {F Oh, } yeah.  /
+b          A.37 utt2:  Yeah. /  
+
+%          B.38 utt1:  {C And } the. -/  
+
+o          A.39 utt1:  No,  /
+%          A.39 utt2: [ I, + I ] think, {F uh, } - /
+sd          A.39 utt3: I, {F uh, } work on my own cars  /
+sd          A.39 utt4: {C and, } {F uh, } I don't think that's a problem.  /
+%          A.39 utt5: I thought, - /
+sd          A.39 utt6: I'm saying, I was glad to get rid of leaded gasoline,  /
+%          A.39 utt7: 'n. -/  
+
+qy          B.40 utt1:  {C But } did you have another ques-, - /
+sd          B.40 utt2: you said you had another quest-, -/  
+
+%          A.41 utt1:  {F Uh, } {F oh, } ye-, - /
+%          A.41 utt2: i-, - /
+na          A.41 utt3: the same thing about the war, {F uh, } or related to the war on, - /
+sd          A.41 utt4: I was watching C N N  /
+sd          A.41 utt5: {C and } I cannot remember what station it was,  /
+%          A.41 utt6: what, - /
+qy          A.41 utt7: did you see the advertisements, {F uh, } where they talked about nuclear war,  what that would have been like in changing the atmosphere,  /
+sv          A.41 utt8: it is so scary that I hope that every one of the government officials saw that because it was just total disaster, {D you know. } /  
+
+%          B.42 utt1:  {F Uh, } e-, -/  
+
+qy          A.43 utt1:  Did you see any of those, {F uh, } I, - /
+%          A.43 utt2: it was, -/  
+
+nn          B.44 utt1:  No,  /
+sd^e          B.44 utt2: I didn't see  (( that )) , that,  /
+%          B.44 utt3: I know that the, {F uh, } - /
+%          B.44 utt4: that's ... -/  
+
+sd         A.45 utt1:  It must have been channel thirteen,  /
+sd        A.45 utt2: I don't recall,  /
+sd          A.45 utt3: although, I thought it was on C N N, {F oh, }  /
+%          A.45 utt4: I, -/  
+
+%          B.46 utt1:  {D Well, } that, - /
+sd          B.46 utt2: they  (( called nuclear winner )) - /
+sv          B.46 utt3: [ {C and, } + {C and } ] I suppose [ that's, + that's ] the ultimate, {F uh, } pollution problem. /  
+
+sd          A.47 utt1:  It was a somewhat of a commercial because it [ c-, + ] I saw it regularly  /
+sd          A.47 utt2: {C and } it showed that  /
+sd          A.47 utt3: {C and } it was really devastating  /
+%          A.47 utt4: {C and, }  (( it would, {F uh } )) , -/  
+
+%          B.48 utt1:  # {D Well } it, # -/  
+
+sd          A.49 utt1:  # how much # ash would fall  /
+sd          A.49 utt2: [ {C and, } + {C and } ] how it would essentially literally destroy the world, {D you know. } /  
+
+sd          B.50 utt1:  {D Well, }  ((   ))  the Chernobyl accident, {F uh, } - /
+sd          B.50 utt2: {D actually, } {F um, } {C because } the circulation budget as high as it went, {F uh, } covered, {F uh, } a fairly remarkable amount  /
+sd          B.50 utt3: they did some tracers  /
+%          B.50 utt4: {C and } they - /
+sv          B.50 utt5: [ I, + I ] think it's  (( drawn ))  in, {F uh, } - /
+sv          B.50 utt6: I think, gets in there  /
+^h          B.50 utt7: ((   ))  I can't think of the other trace,  /
+sd          B.50 utt8: {C but } I saw [ a, + a ] presentation [ on, + on ] that  /
+%          B.50 utt9: {C and } they, - /
+sv          B.50 utt10: it went quite a long ways {C but } [ [ I, + I, ] + I ] guess I can be a little sympathetic  /
+sd          B.50 utt11: {C but, } {D you know, } there's some argument that [ [ in, + in, ] + in ] the blue grass of Kentucky that the Smoky Mountains [  that + that's ] [ the, + {F uh, } the ] pine trees giving off pollution  /
+%          B.50 utt12: {C and, } -/  
+
+b          A.51 utt1:  {F Oh, } really,  /
+b          A.51 utt2: yeah,  /
+sv          A.51 utt3: [ there, + there's ] probably a lot of natural things, {F uh, } /  
+
+%          B.52 utt1:  {C But } the, - /
+sv          B.52 utt2: {C but } [ when you se-, + when you ] get up in the morning [ in, + in ] Dallas [ and, + and ] see  all that haze from west Texas,   
+
+b          A.53 utt1:  Yeah. /  
+
++          B.54 utt1:  [ is that, + is that ] pollution? /  
+
+%          A.55 utt1:  {F Uh, } it, - /
+sv          A.55 utt2: I guess it's got to be really, - /
+h          A.55 utt3: I don't know,  /
+sd          A.55 utt4: I don't know if it's air pollution [ it's, + {F uh, } it's ] dust pollution whether it's natural or not I don't know. /  
+
+ %         B.56 utt1:  {D Well, } it, - /
+ sv         B.56 utt2: that's the thing is that [ I think, + I think ] Dallas really does have a problem in this,  /
+sv          B.56 utt3: the idea if we could get some cleaner [ fuel, + burning fuel, ] - /
+sv          B.56 utt4:  the problem [ is, + is ] it's like Los Angeles.  /
+sv          B.56 utt5: [  People don't, + people don't ] want to use mass transit,  /
+%          B.56 utt6: {C so. } -/  
+
+b          A.57 utt1:  Yeah.  /
+b          A.57 utt2:  {F Oh, } yeah,  /
+sd          A.57 utt3: {D well, } I live in Arlington  /
+sd          A.57 utt4: {C and } [ [ there, + there, ] + there ] are no buses.  /
+sd          A.57 utt5: {E I mean, } [ there, + there ] is, - /
+sd          A.57 utt6: [ the only school bus, + the only buses ]  you  see are school buses,  /
+%          A.57 utt7: {C so. } -/  
+
+qh          B.58 utt1:  {C But } [ who wants to, + who wants to, ] {F um, } ride a bus? /  
+
+%          A.59 utt1:  {D Well, } I know [ it, + it's, ] {F uh, } {D you know, } - /
+%          A.59 utt2: the car is, - /
+sd          A.59 utt3: we have this big romance with the car,  /
+sd          A.59 utt4: {C but, } {F uh, } I think people [ are, + ] would be interested if you had one, {E I mean. } /  
+
+sd          B.60 utt1:  {D Well, } my boss drives forty miles one way each day. /  
+
+b          A.61 utt1:  Yeah. /  
+
+sd          B.62 utt1:  {C And } one of the guys that works with me drives forty-five miles. /  
+
+b          A.63 utt1:  Yeah. /  
+
+sd          B.64 utt1: [  {C And, } + {C and } ] they don't think it, - /
+sv          B.64 utt2: {D well, } I guess they do think something of it  /
+%          B.64 utt3: {C but, } {F um, } not even to, {D you know, } - /
+sv          B.64 utt4: you consider how much, {F um, } - /
+sd          B.64 utt5: {C but } then you get into all these issues [ of, + of ] whether [ it, + it's ] the types of pollution and what it's doing to your lungs  /
+sd          B.64 utt6: {C and, }   
+
+b          A.65 utt1:  Yeah. /  
+
++          B.66 utt1:  are we going to die [ of, + of ] respiratory, - /
+sd          B.66 utt2: {C so, } we all move out [ of the, + out of ] downtown  /
+sd          B.66 utt3: {C so } we get away from [ the, + the ] smog.  /
+sd          B.66 utt4: [ My, + my ] wife grew up in southern California  /
+sd          B.66 utt5: {C and } they moved out to the valley [ before Los Angeles, + ] {F uh, } [ wh-, +  when ] the valley was clean. /  
+
+b          A.67 utt1:  Yeah. /  
+
+sd          B.68 utt1:  {C And } now the valley is not  /
+sd          B.68 utt2: {C and so } people move out  (( one more ))  valley and, -/  
+
+sd          A.69 utt1:  {D Well, } you said you were car buff, {F uh, }  /
+sv          A.69 utt2: I think that, {F uh, } all of us could use one electric car right now, {E I mean, } today,   
+
+aa@          B.70 utt1:  Yes, yes.   
+
++          A.71 utt1:  because I think, {F uh, } you said people drive forty miles and fifty whatever,  /
+b          A.71 utt2: yeah,  /
+sd          A.71 utt3: when you go to trips and all you can have one gasoline car  /
+sd          A.71 utt4: {C but } I think we all could, in a family, {D say, } have an electric car where [ my, + ] one of my daughters or [ my wife, + my wife, ] she could use one now if they had one, {D you know, }   
+
++@          B.72 utt1:  {D Well, } do ...   
+
++          A.73 utt1:  because [ they, + ] [ she don't even, + she doesn't ] put fifty miles a day on the car. /  
+
+ +         B.74 utt1:  General Motors apparently has one that [ they're, + they're ] testing,  /
+ sd        B.74 utt2: I think [ it's, + {D no, } it's ] alcohol vehicles that they're testing  ((   )) . /  
+
+aa          A.75 utt1:  No,  /
+aa^r          A.75 utt2: no,  /
+sv          A.75 utt3: you're right.  /
+sd          A.75 utt4: [  I, +  ((   ))  I ] have seen them  /
+sd          A.75 utt5: {C but, } {F uh, } they have a battery car. /  
+
+sd          B.76 utt1:  {C But } they # suppose, # -/  
+
+sd          A.77 utt1:  # {F Uh, } # I went to the auto show this past week  /
+sd          A.77 utt2: {C and } they did not endorse, - /
+sd          A.77 utt3: now that I think of it, - /
+sd          A.77 utt4: {C and } I was so interested in the auto show I didn't think to ask anybody, - /
+sd          A.77 utt5: there were no electric cars.  /
+sd          A.77 utt6:  I was surprised  /
+sd          A.77 utt7: {C but } now that you just mentioned that. -/  
+
+ %         B.78 utt1:  {F Huh. }  /
+sd          B.78 utt2:   (( {D Well, } the ))  ROAD and TRACK was talking about that [ this, + ] apparently General Motors has some, {F uh, } - /
+sd          B.78 utt3: they apparently think they're close. /  
+
+b          A.79 utt1:  Yeah.  /
+sv          A.79 utt2:  [ I, + I ] think, {F uh, } there could be a lot of  (( peo-, - /
+%          A.79 utt3: I thi-, )) - /
+sv          A.79 utt4: people close this is really, - /
+sd         A.79 utt5: [ we're, + we're ] nine years away or less, I guess, from the next century and I think, /  
+
+sd          B.80 utt1:   (( {D Well, } [ th-, )) +  there's ] still a lot of research,  /
+sd          B.80 utt2: I was over [ in, + in ] the (( research ))  lab [ a couple, + ] I guess, it's been about a month ago  /
+sd          B.80 utt3: and saw this, ((   ))  research  (( it was a little light ))  that says [ solar, + solar ] powered research. /  
+
+b          A.81 utt1:  Yeah,  /
+sd          A.81 utt2: [ they've got a, + they've got a ] area over in, the  (( S M ))  building too which is, {F uh, } - /
+sd          A.81 utt3: {C but } it's a solar, {F uh, } - /
+sd          A.81 utt4: it's for, {F uh, }  (( the-, g-, - /
+sd          A.81 utt5: ))   (( gots ))  some money from a power company  /
+sd          A.81 utt6: {C and } it's probably more generating power for, {D you know, } {F uh, } electricity, a hundred and twenty volt or whatever. /  
+
+b          B.82 utt1:  Yeah.  /
+qy          B.82 utt2:  {D Well, } do you work in that C building? /  
+
+nn          A.83 utt1:  No,  /
+sd^e          A.83 utt2: I'm actually in the south building  /
+%          A.83 utt3: {C but, } {F uh, } -/  
+
+sd          B.84 utt1:  {F Oh, }  (( I'm at )) , -/  
+
+sd          A.85 utt1:  [ I was, + {F uh, } I'm ] the  (( facility )) - /
+sd          A.85 utt2: {C so } I've been in [ all, + ] most of the buildings anyway. /  
+
+sd          B.86 utt1:  {F Oh, } {D well, } [ I'm in, + I'm in ] (( the ))  C building,  /
+sd         B.86 utt2: been there for, # all my life. # /  
+
+b          A.87 utt1:  # {F Oh, } yeah,  /
+sd          A.87 utt2: {D well, } # [ the, + the ] solar area is [ right, + right ] around from the auditorium now.  /
+%          A.87 utt3:  {C And } it, - /
+sd          A.87 utt4: they've got several different, {F uh, } areas where they're called solar lab.  /
+ sd         A.87 utt5: It's,   
+
+b          B.88 utt1:  {F Huh. } /  
+
++          A.89 utt1:  right there on the first floor you [ look, +  walk ]  by there. /  
+
+%          B.90 utt1:  {D Well, } that's been a  (( con-, )) - /
+sd          B.90 utt2: I know the focal plain array is they were taking space [ to, + ]  a long time. /  
+
+b          A.91 utt1:  Yeah,  /
+sd          A.91 utt2: {C but } the solar project, {D you know, } T I's been into it for years,  /
+sd          A.91 utt3: {C and } I guess it's just not, {F uh, } economical yet because of the other fuels. /  
+
+sv          B.92 utt1:  {D Well, } the problem is that gas at a dollar a gallon, {D you know, } who wants to, - /
+b          B.92 utt2:  yeah,  /
+sv          B.92 utt3: {E I mean, } we want to not pollute,  /
+sv          B.92 utt4: {C but, } {F uh, } at a dollar a gallon, {F uh, } it's hard to beat,   
+
+b          A.93 utt1:  Yeah. /  
+
++          B.94 utt1:  the amount of energy you get from, {F uh, } -/  
+
+sd          A.95 utt1:  I've seen some.  /
+%          A.95 utt2:  I think - /
+sd          A.95 utt3: (( then again I'm surprised now I didn't ))  think they'd asked anybody when I was in the auto show.  /
+sd          A.95 utt4:  There was nothing, {F uh, }  /
+sd          A.95 utt5: {C and } there was no, [ d-, + ] place for air pollution or companies or anyone there.  /
+sd          A.95 utt6:  It was just pure automobiles. /  
+
+sd          B.96 utt1:  {D Well, } I thought I saw an ad for Volkswagen that had an alcohol, -/  
+
+qy          A.97 utt1:  There? /  
+
+sd          B.98 utt1:  they had one with spots on it and something. /  
+
+%          A.99 utt1:  {F Huh. } /  
+
+ng          B.100 utt1:  I didn't go  /
+%          B.100 utt2: {C but } i-, - /
+%          B.100 utt3: wa-, - /
+%          B.100 utt4: it was showing they, - /
+%          B.100 utt5: {E I mean, } {F uh, } -/  
+
+sd          A.101 utt1:  I didn't see, /  
+
+sd          B.102 utt1:  an article. -/  
+
+qy          A.103 utt1:  did you go? /  
+
+nn          B.104 utt1:  No,  /
+sd^e          B.104 utt2: I didn't, /  
+
+bk          A.105 utt1:  Oh. /  
+
+sd          B.106 utt1:  I didn't go,  /
+%          B.106 utt2: {C so. }  I wh-, -/  
+
+sd          A.107 utt1:  {F Uh, } I was, {F uh, } quite impressed with all the cars, {D you know, }  /
+sd          A.107 utt2: the engines are so much smaller now and everything  /
+sd          A.107 utt3: {C and }  [ they're, +  they ] all have brand new engines, even General Motors, {F uh, }  /
+sd          A.107 utt4: very few - /
+sd          A.107 utt5: only the Caprice and them and the Cadillac had [ eight, + (( {F uh, } the old ))  V-eights, ]  /
+sd          A.107 utt6: they're all brand new engines,  /
+sd          A.107 utt7: {F uh, } of course, they're burning gasoline, of course. /  
+
+sd          B.108 utt1:  They've done a lot. /  
+
+b          A.109 utt1:  Yeah,  /
+%          A.109 utt2: {C and, } {F uh, } whether, {D you know, } - /
+%          A.109 utt3: that's one way, {D you know, } {F uh, } {F uh, } f-, - /
+sv       A.109 utt4: on air pollution [ [ I, + I, ] + I ] don't know if the automobiles are the biggest contributor or not really.  /
+sd          A.109 utt5:  They've got catalytic converters,  /
+sd          A.109 utt6: everyone seem to have gone to that, whether they last, {F uh, } and do a good job  /
+sd          A.109 utt7: {C and } now that [ they, + ] the inspection systems are analyzing that, {F uh, } - /
+qo          A.109 utt8: {D well, } what do you think  [ if you're  in that, + {D you know, } if you're  concerned about that, ] /  
+
+%          B.110 utt1:  {D Well, } ther-, -/  
+
+qw^d          A.111 utt1:  {E I mean, } if [ [ you're, + you're, ] + you're ] knowledgeable on that. -/  
+
+%          @@B.112 utt1:  {D Well, } they, {F uh, } - /
+sd          @@B.112 utt2: it's interesting though because my cars are older  /
+sd          @@B.112 utt3: {C and so }  I didn't have to, - /
+sd          @@B.112 utt4: if you live in Dallas County you [ have to have your, + have to have ] it checked  /
+ %        @@B.112 utt5: {C and } it's  ((   )) , - /
+sd          @@B.112 utt6: I had a friend with a Fiero that, {F uh, } they tried and tried and tried and had all kinds of terrible getting that (( pinned ))  /
+%          @@B.112 utt7:  {C and, so, } apparently ... -/ 

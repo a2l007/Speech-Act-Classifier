@@ -1,0 +1,341 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3503_1428_1349
+TOPIC#:		322
+DATE:		911210
+TRANSCRIBER:	glp
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	3
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.
+
+=========================================================================
+  
+
+  qo        A.1 utt1:  {D Well, } how do you feel about capital punishment? /  
+
+ sd         @B.2 utt1:  <Laughter> {D Well, } [ I, + I ] just last Friday got off a capital murder case. /  
+
+bh          A.3 utt1:  {F Oh, } you did? /  
+
+ny          B.4 utt1:  Yeah,  /
+sd^e          B.4 utt2: I was on the jury.  {F Uh, } /  
+
+ba          A.5 utt1:  Wow. /  
+
+b          B.6 utt1:  Yeah <laughter>. /  
+
+x          A.7 utt1:  <Laughter>.   
+
+sd^t          B.8 utt1:  Which is funny because I got called last night - /
+sd^t          B.8 utt2: {C and } the topic was, {F uh, } something about juries <laughter>. /  
+
+bh          A.9 utt1:  {F Oh, } really <laughter>? /  
+
+ny          B.10 utt1:  Yeah,  /
+sd^e          B.10 utt2: {C so } I am just hitting it right.  /
+qo          B.10 utt3:  {F Uh, } how do I feel about it?  /
+h          B.10 utt4: [  I, + I ] don't know.  /
+sv          B.10 utt5: {D Well, } I guess it is right in certain cases.  {F Uh, } /  
+
+b          A.11 utt1:  Yeah. /  
+
+%          B.12 utt1:  Becau-, - /
+sd          B.12 utt2: {D well, } the one I was just on,  I don't, - /
+sd          B.12 utt3: I was an alternate on the case,  /
+sd          B.12 utt4: {C so } I don't know what was decided. /  
+
+b          A.13 utt1:  Right. /  
+
+sd          B.14 utt1:  They are probably still in deliberations on it. /  
+
+b          A.15 utt1:  Uh-huh. /  
+
+sd          B.16 utt1:  {C But, }  {F uh, } what I found out, - /
+sd          B.16 utt2: [ once, + once ] I was declared an alternate  and I was dismissed, we met with the judge, the two alternates did. /  
+
+b          A.17 utt1:  Right. /  
+
+sd          B.18 utt1:  {C And, }  {F uh, } <noise> he went on to tell us how they happened to catch this guy  /
+sd          B.18 utt2: {C and } I remember hearing about it.  /
+sd          B.18 utt3:  It was about a year ago.  /
+sd          B.18 utt4: {F Uh, } [ he was, + he was ] involved in [ another one, + another ] capital murder the very next month  /
+sd          B.18 utt5: {C and } he was caught just, - /
+sd          B.18 utt6: [ they, + they ] drove up,  /
+sd          B.18 utt7: the police drove up just as he fired the [ g-, + gun ] and killed the guy. /  
+
+ba          A.19 utt1:  {F Oh, } wow. /  
+
+sd          B.20 utt1:  {C So } he was caught  /
+sd          B.20 utt2: {C and, }  {F uh, } it's interesting because the county I live in, - /
+sd          B.20 utt3:  I'm not in Dallas county,  /
+sd          B.20 utt4: [ I'm, + I'm ] pretty far north of Dallas. /  
+
+b          A.21 utt1:  Okay. /  
+
+sd          B.22 utt1:  {F Uh, } county I live [ in, + in ] the past ten years only had [ t-, + two ] capital murders. /  
+
+ba          A.23 utt1:  Wow. /  
+
+sd          B.24 utt1:  {C And } last year there were six  /
+sd          B.24 utt2: {C and } this guy is indicted on three of them. /  
+
+ bh         A.25 utt1:  Really? /  
+
+ny          B.26 utt1:  Yeah,  /
+sv^e          B.26 utt2: {C so } --   
+
+ba          A.27 utt1:  Wow <laughter>. /  
+
++          B.28 utt1:  -- you have to wonder <laughter>, {D you know. } /  
+
+b          A.29 utt1:  Yeah,  /
+sv          A.29 utt2: {D well, } the cases like that,  they --   
+
+b          B.30 utt1:  Yeah. /  
+
++          A.31 utt1:  -- should, - /
+sv          A.31 utt2: {E I mean, } if he's going to be drastic, somebody has to be drastic back. /  
+
+b          B.32 utt1:  Yeah,  /
+sv          B.32 utt2: although, {D you know, } it's not really revenge because it doesn't mean anything to him.  /
+sv          B.32 utt3: {D You know, } [ he, + he ] has no concept of what he has done. /  
+
+bh          A.33 utt1:  Really? /  
+
+%          B.34 utt1:  He just, {D well, } - /
+sd          B.34 utt2: from what I can tell.  {E I mean, } I didn't talk to the guy or  anything,  /
+sd          B.34 utt3: {C but } --   
+
+b          A.35 utt1:  Right. /  
+
++          B.36 utt1:  -- {E I mean, } he doesn't seem to have any regard for [ anythi-, + ] anybody's life including his own. /  
+
+ba          A.37 utt1:  Wow. /  
+
+sv          B.38 utt1:  {C So, } [ it's, + it's ] kind of strange that, {D you know, } -/  
+
+b          A.39 utt1:  Uh-huh.  /
+qy^g         A.39 utt2: [ No, + no ] remorse whatsoever, {F huh. } /  
+
+nn          B.40 utt1:  No,  /
+nn          B.40 utt2: huh-uh. /  
+
+sv          A.41 utt1:  {D Well, } I guess in cases like  [ that, + ] {D you know, } where the guy would, obviously, go out and do it again --    
+
+b          B.42 utt1:  Yeah. /  
+
++          A.43 utt1:  -- {E I mean, } you've got to do something. /  
+
+b          B.44 utt1:  Yeah,  /
+sd          B.44 utt2: {D well, } it's funny because when, {D you know, } they interview you before you go on the jury --   
+
+b          A.45 utt1:  Right. /  
+
++          B.46 utt1:  -- [ and + ] for capital murder, I was interviewed by four attorneys for about five hours. /  
+
+ba          A.47 utt1:  Wow. /  
+
+%          B.48 utt1:  {C And } I, - /
+%          B.48 utt2: the, - /
+sd          B.48 utt3: I was the, I think the ninety eighth person <laughter> they'd interviewed. /  
+
+ba          A.49 utt1:  You're kidding. /  
+
+sd          B.50 utt1:  {C But, }  {D you know } at the time when the guy kept saying could you ever convict someone  /
+sd          B.50 utt2: {C and } do you think you'd ever know beyond a doubt  /
+sd          B.50 utt3: {C and } I said I can't imagine,  /
+sd          B.50 utt4: I said if I knew beyond a doubt or if I felt beyond a doubt that he had done it, yeah,  /
+sd          B.50 utt5: I guess I could convict him,  /
+sd          B.50 utt6: {C but } I can't imagine you ever making me that sure of something. /  
+
+b          A.51 utt1:  Right. /  
+
+sd          B.52 utt1:  {C But } they really did.  /
+sd          B.52 utt2: [  It was, + it was ] --   
+
+bh          A.53 utt1:  Really? /  
+
++          B.54 utt1:  -- really amazing. /  
+
+sd          A.55 utt1:  {D Well, } I guess if the police came out and saw him fire the gun, -/  
+
+sd          B.56 utt1:  {D Well, } that was a subsequent case that we didn't know about.    
+
+bh          A.57 utt1:  {F Oh, } really? /  
+
++          B.58 utt1:  And those jurors don't know about.  /
+sd          B.58 utt2:  {C But } this particular case, {E I mean, } they had a complete confession from the guy --   
+
+b          A.59 utt1:  Okay. /  
+
++          B.60 utt1:  -- with a lot of things [ that, + that ] the police hadn't released  /
+sd          B.60 utt2: {C so } no one else would have known. /  
+
+b          A.61 utt1:  Oh. /  
+
+sd          B.62 utt1: [ It was, + it was ] really pretty interesting. /  
+
+ba          A.63 utt1:  Wow.  /
+%          A.63 utt2:  What, -/  
+
+sd          B.64 utt1:  Educational. /  
+
+sd          A.65 utt1:  I guess cases like that, I don't see why they wouldn't bring in the new evidence from the other case. /  
+
+sd          B.66 utt1:  {D Well, } [ they can't, + they can, ] I think in the punishment phase --   
+
+b          A.67 utt1:  Okay. /  
+
++          B.68 utt1:  -- but not in the guilt or innocence because [ he hasn't been, + he hasn't been ] found guilty of it. /  
+
+^2          A.69 utt1:  Of that crime -- /  
+
+ b         B.70 utt1:  Right. /  
+
+ sd         A.71 utt1:  -- {C but } he was found guilty of anoth-,  /
+ b         A.71 utt2: okay. /  
+
+b          B.72 utt1:  Right,  /
+sd          B.72 utt2: {C so } <laughter> --   
+
+ ^2         A.73 utt1:  That works. /  
+
++          B.74 utt1:  -- {D you know, } [ it's, + [ although, + ] it's ] not going to take much --   
+
+b          A.75 utt1:  Right. /  
+
++          B.76 utt1:  -- to prove that.  /
+%          B.76 utt2: {C So, } -/  
+
+qy          A.77 utt1:  {D Well, } they pushing the death penalty? /  
+
+ny          B.78 utt1:  {F Uh, } yeah,  /
+sd^e          B.78 utt2: this guy is up for the death penalty. /  
+
+ba          A.79 utt1:  Wow. /  
+
+sd          B.80 utt1:  {F Uh, } {C and } in Texas [ there is, + there is ] a couple of questions you have to ask, {F uh, } in the punishment phase.  /
+sd          B.80 utt2: {F Uh, } for example, was the guy provoked and was the response reasonable given the provocation <noise>.  /
+sd          B.80 utt3:  {C And } there is a number of questions  /
+sd          B.80 utt4: {C and } just depending on whether you say yes or no, {F uh, } [ you, + you ] can give him capital punishment  /
+sd          B.80 utt5: {C and } if you're up to the point where if he still qualifies for capital punishment, <noise> then you can look at mitigating circumstances. /  
+
+b          A.81 utt1:  Okay.  /
+%          A.81 utt2:  {C So, } -/  
+
+sd          B.82 utt1:  {C So } there is a lot of outs,  /
+sd          B.82 utt2: {C but } the only result is, otherwise he gets life in prison. /  
+
+b          A.83 utt1:  Yeah,  /
+sv          A.83 utt2: {C and } I'm really kind of against life in prison anyway --   
+
+b          B.84 utt1:  Yeah <laughter>. /  
+
++          A.85 utt1:  -- because it costs so dog gone much. /  
+
+b          B.86 utt1:  Right,  /
+sv          B.86 utt2: [ {C and, } +  {C and } ] to me, {E I mean, } you take away a person's freedom, you've taken away most of their life. /  
+
+ ba         A.87 utt1:  That's true.  /
+sv          A.87 utt2: {E I mean, } if you're going to put him in prison for life --   
+
+b          B.88 utt1:  Yeah,  /
+%          B.88 utt2: {C but, } -/  
+
++          A.89 utt1:  -- with no chance for parole, -/  
+
+sd          B.90 utt1:  {C But then } you have to look at reality.  /
+sv          B.90 utt2: {E I mean, } I think, {D you know, } normally [ they, + they ] may get out  /
+%          B.90 utt3: {C so, } -/  
+
+ba          A.91 utt1:  That's true. /  
+
+bh          B.92 utt1:  {C But } what is it worth?  /
+sd          B.92 utt2:  I don't know. /  
+
+b          A.93 utt1:  Uh-huh. /  
+
+sv          B.94 utt1:  Personally <laughter> I don't know which I would pick if I had a choice for myself. /  
+
+ba          A.95 utt1:  That's true.  /
+sv          A.95 utt2:  {E I mean, } I don't know whether I'd stay in prison or not  /
+%          A.95 utt3: {C or, } -/  
+
+b          B.96 utt1:  Yeah,  /
+bf          B.96 utt2: {D so, }  you said you're from Mississippi? /  
+
+ny          A.97 utt1:  Yes, ma'am. /  
+
+qy          B.98 utt1:  {C And } do they have the death penalty there? /  
+
+ny          A.99 utt1:  Yes,  /
+sd^e          A.99 utt2: they do.  /
+%          A.99 utt3:  I, - /
+sd          A.99 utt4: they've had [ a, + a ] number of cases here. /  
+
+b          B.100 utt1:  Uh-huh. /  
+
+sd          A.101 utt1:  {E I mean, } not a whole lot,  /
+sd          A.101 utt2: {D well, } Jackson, I heard just the other day had their sixty-first murder this year. /  
+
+b          B.102 utt1:  Uh-huh. /  
+
+sd          A.103 utt1:  It was like last {D like } year they had forty-nine  /
+sd          A.103 utt2: {C so } that's going up. /  
+
+b          B.104 utt1:  Uh-huh. /  
+
+o          A.105 utt1:  {C But, }  yeah,  /
+sd          A.105 utt2: they have a death penalty.  /
+sd          A.105 utt3:  I hear of one every now and then. /  
+
+b          B.106 utt1:  Uh-huh. /  
+
+sd          A.107 utt1:   {C And } I visited the prison up here --   
+
+b          B.108 utt1:  Uh-huh. /  
+
++          A.109 utt1:  -- [ and, + ] at Parchman  /
+%          A.109 utt2: {C and } I've been, - /
+%          A.109 utt3: I haven't, - /
+sd          A.109 utt4: they won't let you on death row,  /
+sd          A.109 utt5: {C but } they'll let you look down the hall. /  
+
+b@          B.110 utt1:  {F Um. }   
+
+sd          A.111 utt1:  You can't see any prisoners  /
+sd          A.111 utt2: [ {C and, } +  {C and } ] it's kind of a weird feeling.  /
+%          A.111 utt3:  I've been -- -/  
+
++@          B.112 utt1:  Yeah. /  
+
+sd          A.113 utt1:  -- they took us around on a tour, {D you know, }  /
+sd          A.113 utt2: <noise> {C and } I [ went, + got ] to walk in the gas chamber -- /  
+
+ba          B.114 utt1:  Ooh. /  
+
+sd          A.115 utt1:  -- {C and } it is kind of a weird feeling knowing you're sitting there saying, {D like, }  people have died here. /  
+
+ba          B.116 utt1:  That's right. /  
+
+sd          A.117 utt1:  {C But } I guess, just going up there and seeing the surroundings and stuff, the people up there, -/ 

@@ -1,0 +1,360 @@
+
+Kappa Values by Meeting Chunk, Classmap, and Annotator Pair
+
+
+Note that meeting chunks labeled by two annotators will have one line
+per classmap, whereas those labeled by three annotators will have
+three lines (one for each pair).
+
+
+
+
+
+
+Kappa Values for Bed003.dat
+
+map_01:
+Rater1: 0  Rater2: 2  #_Obj:   59  kappa:  0.64384  z:  6.29878
+
+map_02:
+Rater1: 0  Rater2: 2  #_Obj:   59  kappa:  0.67752  z:  6.80112
+
+map_03:
+Rater1: 0  Rater2: 2  #_Obj:   59  kappa:  0.67782  z:  6.81246
+
+map_04:
+Rater1: 0  Rater2: 2  #_Obj:   59  kappa:  0.77447  z:  8.60036
+
+map_05:
+Rater1: 0  Rater2: 2  #_Obj:   59  kappa:  0.73308  z: 12.24641
+
+
+
+
+Kappa Values for Bed006.dat
+
+map_01:
+Rater1: 0  Rater2: 1  #_Obj:   41  kappa:  0.92518  z:  8.10861
+Rater1: 0  Rater2: 2  #_Obj:   31  kappa:  0.66357  z:  5.27839
+Rater1: 1  Rater2: 2  #_Obj:   34  kappa:  0.68930  z:  5.63283
+
+map_02:
+Rater1: 0  Rater2: 1  #_Obj:   41  kappa:  0.92845  z:  8.70090
+Rater1: 0  Rater2: 2  #_Obj:   31  kappa:  0.67417  z:  5.64000
+Rater1: 1  Rater2: 2  #_Obj:   34  kappa:  0.69912  z:  6.00109
+
+map_03:
+Rater1: 0  Rater2: 1  #_Obj:   41  kappa:  0.92845  z:  8.70090
+Rater1: 0  Rater2: 2  #_Obj:   31  kappa:  0.67417  z:  5.64000
+Rater1: 1  Rater2: 2  #_Obj:   34  kappa:  0.69912  z:  6.00109
+
+map_04:
+Rater1: 0  Rater2: 1  #_Obj:   41  kappa:  0.87804  z:  6.88488
+Rater1: 0  Rater2: 2  #_Obj:   31  kappa:  0.57895  z:  4.05608
+Rater1: 1  Rater2: 2  #_Obj:   34  kappa:  0.65557  z:  4.65985
+
+map_05:
+Rater1: 0  Rater2: 1  #_Obj:   41  kappa:  0.88206  z: 12.35665
+Rater1: 0  Rater2: 2  #_Obj:   31  kappa:  0.51245  z:  5.60096
+Rater1: 1  Rater2: 2  #_Obj:   34  kappa:  0.55361  z:  6.27349
+
+
+
+
+Kappa Values for Bed011.dat
+
+map_01:
+Rater1: 0  Rater2: 2  #_Obj:   45  kappa:  0.56863  z:  4.36201
+
+map_02:
+Rater1: 0  Rater2: 2  #_Obj:   45  kappa:  0.61146  z:  5.34243
+
+map_03:
+Rater1: 0  Rater2: 2  #_Obj:   45  kappa:  0.61146  z:  5.34243
+
+map_04:
+Rater1: 0  Rater2: 2  #_Obj:   45  kappa:  0.65264  z:  5.83430
+
+map_05:
+Rater1: 0  Rater2: 2  #_Obj:   45  kappa:  0.75372  z: 10.51135
+
+
+
+
+Kappa Values for Bed015.dat
+
+map_01:
+Rater1: 1  Rater2: 2  #_Obj:   86  kappa:  0.70529  z:  8.55828
+
+map_02:
+Rater1: 1  Rater2: 2  #_Obj:   86  kappa:  0.62457  z:  8.47008
+
+map_03:
+Rater1: 1  Rater2: 2  #_Obj:   86  kappa:  0.60805  z:  8.26404
+
+map_04:
+Rater1: 1  Rater2: 2  #_Obj:   86  kappa:  0.58068  z:  4.80910
+
+map_05:
+Rater1: 1  Rater2: 2  #_Obj:   86  kappa:  0.58572  z: 10.40668
+
+
+
+
+Kappa Values for Bmr005.dat
+
+map_01:
+Rater1: 0  Rater2: 2  #_Obj:   48  kappa:  0.87262  z:  5.93391
+
+map_02:
+Rater1: 0  Rater2: 2  #_Obj:   48  kappa:  0.89408  z:  7.43165
+
+map_03:
+Rater1: 0  Rater2: 2  #_Obj:   48  kappa:  0.89493  z:  7.51262
+
+map_04:
+Rater1: 0  Rater2: 2  #_Obj:   48  kappa:  0.54845  z:  2.08072
+
+map_05:
+Rater1: 0  Rater2: 2  #_Obj:   48  kappa:  0.77465  z:  9.04449
+
+
+
+
+Kappa Values for Bmr006.dat
+
+map_01:
+Rater1: 0  Rater2: 1  #_Obj:   53  kappa:  0.66134  z:  6.83812
+Rater1: 0  Rater2: 2  #_Obj:   52  kappa:  0.72567  z:  8.01236
+Rater1: 1  Rater2: 2  #_Obj:   58  kappa:  0.79410  z:  8.61505
+
+map_02:
+Rater1: 0  Rater2: 1  #_Obj:   53  kappa:  0.68358  z:  7.89320
+Rater1: 0  Rater2: 2  #_Obj:   52  kappa:  0.68855  z:  8.39701
+Rater1: 1  Rater2: 2  #_Obj:   58  kappa:  0.78245  z:  9.39902
+
+map_03:
+Rater1: 0  Rater2: 1  #_Obj:   53  kappa:  0.65815  z:  7.63625
+Rater1: 0  Rater2: 2  #_Obj:   52  kappa:  0.66351  z:  8.13485
+Rater1: 1  Rater2: 2  #_Obj:   58  kappa:  0.78295  z:  9.44273
+
+map_04:
+Rater1: 0  Rater2: 1  #_Obj:   53  kappa:  0.70515  z:  6.84335
+Rater1: 0  Rater2: 2  #_Obj:   52  kappa:  0.67230  z:  6.54227
+Rater1: 1  Rater2: 2  #_Obj:   58  kappa:  0.81250  z:  6.86477
+
+map_05:
+Rater1: 0  Rater2: 1  #_Obj:   53  kappa:  0.69840  z: 10.61125
+Rater1: 0  Rater2: 2  #_Obj:   52  kappa:  0.68315  z:  9.52656
+Rater1: 1  Rater2: 2  #_Obj:   58  kappa:  0.69393  z: 10.20856
+
+
+
+
+Kappa Values for Bmr007.dat
+
+map_01:
+Rater1: 0  Rater2: 1  #_Obj:   32  kappa:  0.71606  z:  4.48081
+Rater1: 0  Rater2: 2  #_Obj:   33  kappa:  0.76173  z:  4.45285
+Rater1: 1  Rater2: 2  #_Obj:   33  kappa:  0.83403  z:  5.27281
+
+map_02:
+Rater1: 0  Rater2: 1  #_Obj:   32  kappa:  0.70620  z:  5.30554
+Rater1: 0  Rater2: 2  #_Obj:   33  kappa:  0.69609  z:  4.87964
+Rater1: 1  Rater2: 2  #_Obj:   33  kappa:  0.74478  z:  5.17145
+
+map_03:
+Rater1: 0  Rater2: 1  #_Obj:   32  kappa:  0.70865  z:  5.38645
+Rater1: 0  Rater2: 2  #_Obj:   33  kappa:  0.69748  z:  4.91754
+Rater1: 1  Rater2: 2  #_Obj:   33  kappa:  0.74517  z:  5.18405
+
+map_04:
+Rater1: 0  Rater2: 1  #_Obj:   32  kappa:  0.66580  z:  2.91130
+Rater1: 0  Rater2: 2  #_Obj:   33  kappa:  0.69725  z:  3.27288
+Rater1: 1  Rater2: 2  #_Obj:   33  kappa:  0.76372  z:  3.46947
+
+map_05:
+Rater1: 0  Rater2: 1  #_Obj:   32  kappa:  0.65917  z:  8.10168
+Rater1: 0  Rater2: 2  #_Obj:   33  kappa:  0.63696  z:  8.22275
+Rater1: 1  Rater2: 2  #_Obj:   33  kappa:  0.78420  z: 10.41964
+
+
+
+
+Kappa Values for Bmr014.dat
+
+map_01:
+Rater1: 0  Rater2: 1  #_Obj:  123  kappa:  0.88770  z:  9.97939
+Rater1: 0  Rater2: 2  #_Obj:  104  kappa:  0.84360  z:  9.57468
+Rater1: 1  Rater2: 2  #_Obj:  107  kappa:  0.83695  z: 10.03294
+
+map_02:
+Rater1: 0  Rater2: 1  #_Obj:  123  kappa:  0.84516  z: 10.96005
+Rater1: 0  Rater2: 2  #_Obj:  104  kappa:  0.79137  z:  9.86696
+Rater1: 1  Rater2: 2  #_Obj:  107  kappa:  0.81163  z: 10.18415
+
+map_03:
+Rater1: 0  Rater2: 1  #_Obj:  123  kappa:  0.84593  z: 11.03489
+Rater1: 0  Rater2: 2  #_Obj:  104  kappa:  0.79194  z:  9.90730
+Rater1: 1  Rater2: 2  #_Obj:  107  kappa:  0.81184  z: 10.20061
+
+map_04:
+Rater1: 0  Rater2: 1  #_Obj:  123  kappa:  0.77166  z:  8.53218
+Rater1: 0  Rater2: 2  #_Obj:  104  kappa:  0.64582  z:  6.43860
+Rater1: 1  Rater2: 2  #_Obj:  107  kappa:  0.63890  z:  6.50061
+
+map_05:
+Rater1: 0  Rater2: 1  #_Obj:  123  kappa:  0.85016  z: 19.71826
+Rater1: 0  Rater2: 2  #_Obj:  104  kappa:  0.65798  z: 11.91002
+Rater1: 1  Rater2: 2  #_Obj:  107  kappa:  0.67892  z: 12.38821
+
+
+
+
+Kappa Values for Bmr018.dat
+
+map_01:
+Rater1: 0  Rater2: 1  #_Obj:   53  kappa:  0.93159  z:  7.52246
+Rater1: 0  Rater2: 2  #_Obj:   45  kappa:  0.88121  z:  6.68565
+Rater1: 1  Rater2: 2  #_Obj:   42  kappa:  0.87228  z:  6.36761
+
+map_02:
+Rater1: 0  Rater2: 1  #_Obj:   53  kappa:  0.93106  z:  7.45356
+Rater1: 0  Rater2: 2  #_Obj:   45  kappa:  0.88079  z:  6.65573
+Rater1: 1  Rater2: 2  #_Obj:   42  kappa:  0.87123  z:  6.30181
+
+map_03:
+Rater1: 0  Rater2: 1  #_Obj:   53  kappa:  0.93128  z:  7.48218
+Rater1: 0  Rater2: 2  #_Obj:   45  kappa:  0.84148  z:  6.37779
+Rater1: 1  Rater2: 2  #_Obj:   42  kappa:  0.82866  z:  6.00765
+
+map_04:
+Rater1: 0  Rater2: 1  #_Obj:   53  kappa:  0.83534  z:  5.59421
+Rater1: 0  Rater2: 2  #_Obj:   45  kappa:  0.70116  z:  4.22172
+Rater1: 1  Rater2: 2  #_Obj:   42  kappa:  0.59445  z:  3.62546
+
+map_05:
+Rater1: 0  Rater2: 1  #_Obj:   53  kappa:  0.86462  z: 14.22419
+Rater1: 0  Rater2: 2  #_Obj:   45  kappa:  0.73270  z: 10.91298
+Rater1: 1  Rater2: 2  #_Obj:   42  kappa:  0.66129  z:  9.95093
+
+
+
+
+Kappa Values for Bmr027.dat
+
+map_01:
+Rater1: 1  Rater2: 2  #_Obj:  125  kappa:  0.87453  z: 11.34631
+
+map_02:
+Rater1: 1  Rater2: 2  #_Obj:  125  kappa:  0.82238  z: 10.92773
+
+map_03:
+Rater1: 1  Rater2: 2  #_Obj:  125  kappa:  0.82238  z: 10.92858
+
+map_04:
+Rater1: 1  Rater2: 2  #_Obj:  125  kappa:  0.71989  z:  7.38317
+
+map_05:
+Rater1: 1  Rater2: 2  #_Obj:  125  kappa:  0.73443  z: 14.34020
+
+
+
+
+Kappa Values for Bro004.dat
+
+map_01:
+Rater1: 0  Rater2: 1  #_Obj:   16  kappa:  1.00000  z:  3.30868
+Rater1: 0  Rater2: 2  #_Obj:   53  kappa:  0.67058  z:  5.03551
+Rater1: 1  Rater2: 2  #_Obj:   15  kappa:  0.73094  z:  2.80587
+
+map_02:
+Rater1: 0  Rater2: 1  #_Obj:   16  kappa:  0.90332  z:  4.88627
+Rater1: 0  Rater2: 2  #_Obj:   53  kappa:  0.55044  z:  4.78307
+Rater1: 1  Rater2: 2  #_Obj:   15  kappa:  0.39394  z:  2.12573
+
+map_03:
+Rater1: 0  Rater2: 1  #_Obj:   16  kappa:  0.90332  z:  4.88627
+Rater1: 0  Rater2: 2  #_Obj:   53  kappa:  0.55112  z:  4.79779
+Rater1: 1  Rater2: 2  #_Obj:   15  kappa:  0.39394  z:  2.12573
+
+map_04:
+Rater1: 0  Rater2: 1  #_Obj:   16  kappa:  1.00000  z:  2.79534
+Rater1: 0  Rater2: 2  #_Obj:   53  kappa:  0.65751  z:  3.36354
+Rater1: 1  Rater2: 2  #_Obj:   15  kappa:  0.55224  z:  1.39278
+
+map_05:
+Rater1: 0  Rater2: 1  #_Obj:   16  kappa:  0.92644  z:  8.80795
+Rater1: 0  Rater2: 2  #_Obj:   53  kappa:  0.55762  z:  7.38003
+Rater1: 1  Rater2: 2  #_Obj:   15  kappa:  0.59893  z:  5.14578
+
+
+
+
+Kappa Values for Bro007.dat
+
+map_01:
+Rater1: 0  Rater2: 1  #_Obj:   35  kappa:  0.58610  z:  3.85084
+Rater1: 0  Rater2: 2  #_Obj:   38  kappa:  0.72645  z:  5.23251
+Rater1: 1  Rater2: 2  #_Obj:   32  kappa:  0.81784  z:  4.76397
+
+map_02:
+Rater1: 0  Rater2: 1  #_Obj:   35  kappa:  0.56462  z:  4.01210
+Rater1: 0  Rater2: 2  #_Obj:   38  kappa:  0.68576  z:  5.03166
+Rater1: 1  Rater2: 2  #_Obj:   32  kappa:  0.81784  z:  4.76397
+
+map_03:
+Rater1: 0  Rater2: 1  #_Obj:   36  kappa:  0.50126  z:  3.78244
+Rater1: 0  Rater2: 2  #_Obj:   38  kappa:  0.68595  z:  5.03662
+Rater1: 1  Rater2: 2  #_Obj:   33  kappa:  0.77551  z:  4.82630
+
+map_04:
+Rater1: 0  Rater2: 1  #_Obj:   35  kappa:  0.45502  z:  2.54433
+Rater1: 0  Rater2: 2  #_Obj:   38  kappa:  0.55425  z:  3.23232
+Rater1: 1  Rater2: 2  #_Obj:   32  kappa:  0.50436  z:  2.87826
+
+map_05:
+Rater1: 0  Rater2: 1  #_Obj:   36  kappa:  0.53225  z:  7.09170
+Rater1: 0  Rater2: 2  #_Obj:   38  kappa:  0.68013  z:  9.03181
+Rater1: 1  Rater2: 2  #_Obj:   33  kappa:  0.54007  z:  6.02894
+
+
+
+
+Kappa Values for Bro015.dat
+
+map_01:
+Rater1: 1  Rater2: 2  #_Obj:   34  kappa:  0.87407  z:  7.79816
+
+map_02:
+Rater1: 1  Rater2: 2  #_Obj:   34  kappa:  0.87345  z:  7.72877
+
+map_03:
+Rater1: 1  Rater2: 2  #_Obj:   34  kappa:  0.75347  z:  6.97307
+
+map_04:
+Rater1: 1  Rater2: 2  #_Obj:   34  kappa:  0.67773  z:  3.62036
+
+map_05:
+Rater1: 1  Rater2: 2  #_Obj:   34  kappa:  0.61798  z:  8.47455
+
+
+
+
+Kappa Values for Bro028.dat
+
+map_01:
+Rater1: 1  Rater2: 2  #_Obj:  102  kappa:  0.84556  z:  8.67456
+
+map_02:
+Rater1: 1  Rater2: 2  #_Obj:  102  kappa:  0.74192  z:  8.62405
+
+map_03:
+Rater1: 1  Rater2: 2  #_Obj:  102  kappa:  0.72493  z:  8.43393
+
+map_04:
+Rater1: 1  Rater2: 2  #_Obj:  102  kappa:  0.79415  z:  5.07312
+
+map_05:
+Rater1: 1  Rater2: 2  #_Obj:  102  kappa:  0.77065  z: 10.40455
+

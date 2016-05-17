@@ -1,0 +1,438 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2615_1069_1140
+TOPIC#:		318
+DATE:		910414
+TRANSCRIBER:	csw
+UTT_CODER:      mmab
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	3
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	Bad dropout in the middle of Caller A  Okay on combined
+and Caller B's conversations.
+
+========================================================================
+  
+
+sd          A.1 utt1:  I don't know what [ the, + the ] last thing I've done as far as car repairs go [ is, + is ] change oil and filter [ an, + and ] that kind of stuff.  /
+sd          A.1 utt2: I haven't gotten really involved in anything, {F uh, } extensive in car repairs in, {F oh, } {F oh, } probably a year or so.  /
+sd          A.1 utt3: I think the last thing I did of any significance was change the water pump on an Oldsmobile. /  
+
+b          B.2 utt1:  Yeah,  /
+sd          B.2 utt2: I had a similar thing, that I've worked on cars ever since I was, {F uh, } a kid <laughter>.  /
+sd          B.2 utt3: {C And } that was some time ago,  /
+sd          B.2 utt4: {C but } I've gotten to the point where, {F uh, } the newer cars are getting so complicated to work on that, {F uh, } {F oh, } most of the cars - /
+sd          B.2 utt5: [ I  buy, + I try to buy ] as simple a car as possible. /  
+
+b          A.3 utt1:  Yeah,  /
+ba          A.3 utt2: I know what you mean. /  
+
+sd          B.4 utt1:  {C So, } {D you know, } changing the oil, changing the spark plugs - /
+sv          B.4 utt2: {C and } most of them now, {D you know, } you don't go through the ignition stuff anymore because that's all solid state  [ or, +    
+
+aa          A.5 utt1:  Yeah,  /
+^2          A.5 utt2: or fuel injected,  /
+%          A.5 utt3: {C and so } there's, -/  
+
++          B.6 utt1:  or ] fuel injected  /
+sv          B.6 utt2: {C so } there goes the carburetor  /
+sv          B.6 utt3: {C and } if the fuel injection system breaks down,   
+
+b          A.7 utt1:  # Yeah. # /  
+
++          B.8 utt1:  # there's # no way in the world you're going to work on that. /  
+
+aa          A.9 utt1:  No  /
+aa          A.9 utt2: there's no way.  /
+sd          A.9 utt3:  Somebody once said, {F uh, } I had a car that said fuel injection on the side of it  /
+sd          A.9 utt4: {C and } a woman asked me what that meant  /
+sd(^q)          A.9 utt5: {C and } I said that means that I can't work on it. /  
+
+b          B.10 utt1:  # {F Oh, } yeah,  /
+b^r          B.10 utt2: yeah,  /
+ba          B.10 utt3: basically that's it. # /  
+
+sv          A.11 utt1:  # {D You know, } they've gotten so complicated #  or so high tech that, {F uh, } [ the guys, + average guys ] can't really go out [ in the, + in the ] garage and do a whole lot of repairs, {F uh. } /  
+
+aa          B.12 utt1:  Yeah,  /
+sd          B.12 utt2: I've got, {F uh, } an eighty-four Chevy van that's, {F uh, } a one ton van with a camper conversion on it. /  
+
+b          A.13 utt1:  Yeah. /  
+
+sd          B.14 utt1:  It's got [ [ the, + the, ] + the ] good old three fifty,    
+
+aa          A.15 utt1:  # Absolutely. # /  
+
++          B.16 utt1:  # standard # engine in it.  /
+sd          B.16 utt2: Regular gas engine,  /
+sd          B.16 utt3: {C and } that engine I understand,  /
+sd          B.16 utt4: [ I can, wo-, + I can actually work ] on that engine. /  
+
+b          A.17 utt1:  Yeah,  /
+sd          A.17 utt2: I used to have, {F uh, } [ ch-, + Chevy ] van,  /
+sd          A.17 utt3: it was a short van,   
+
+b          B.18 utt1:  # Yeah. # /  
+
++          A.19 utt1:  # that # had [ the, + the ] three fifty in  it. /  
+
+b          B.20 utt1:  # Uh-huh. # /  
+
+sd          A.21 utt1:  # {C And } # basically [ it, + it ] was a motor  /
+sd          A.21 utt2: {C and } you didn't have all the other junk around it, /  
+
+b          B.22 utt1:  # Right. # /  
+
+sd          A.23 utt1:  # {C and } # you could get to it to work on it. /  
+
+b          B.24 utt1:  Yeah,  /
+sd          B.24 utt2: I had to change the water pump in that, here about a year ago.  /
+sd          B.24 utt3:  {C And } it was really fairly easy.  /
+sd          B.24 utt4:  Take the grill out  and the radiator out  /
+sd          B.24 utt5: {C and } you can just stand there and work on it. /  
+
+b          A.25 utt1:  Yeah,  /
+sv          A.25 utt2: the hardest part about, {F uh, } water pump changes is getting all the junk off, before you can get too it. /  
+
+aa          B.26 utt1:  {D Well } that's true <laughter>.  /
+aa          B.26 utt2: You're right, {D you know, }  /
+sv          B.26 utt3: by the time you've finally got down to it, - /
+sd          B.26 utt4: I was hoping I could remember where all those other things went. /  
+
+sd          A.27 utt1:   {D Well } that's kind of the way I was,  /
+sd          A.27 utt2: I tried to remember as I took stuff off where it  went,  /
+sd          A.27 utt3: {C and } I don't think I had too many nuts and bolts left over when I got it all put back together. /  
+
+sd          B.28 utt1:  A few years ago I had an Oldsmobile diesel  /
+%          B.28 utt2: {C and, }  {F uh, } the, - /
+%          B.28 utt3: {F uh, } it, - /
+sd          B.28 utt4: after about a hundred thousand miles the injector pump went out on it.  /
+sd          B.28 utt5: {C And, }  {F uh, } I bought it when we were living in Lubbock,  /
+sd          B.28 utt6: when I came back here, I brought the car back here  /
+sv          B.28 utt7: {C and, }  {F uh, } I don't know, diesels got pretty unpopular  /
+sv          B.28 utt8: {C and } you couldn't sell the thi-, - /
+sv          B.28 utt9: {E I mean, } though for what you could get for one,   
+
+b@          A.29 utt1:  # {F Oh, } yeah. #   
+
++          B.30 utt1:  # you might # as well drive it over a cliff.  /
+sd          B.30 utt2: {C And, }  {F uh, } the injector pump went bad  /
+sd          B.30 utt3: {C so } I found a outfit down here to rebuild it.    
+
++@          A.31 utt1:  Yeah. /  
+
++          B.32 utt1:  And, {F uh, } [ i-, + ] reinstalled that  /
+sd          B.32 utt2: {C and } that was probably one of the most miserable things I had gotten into in a long time. /  
+
+sd          A.33 utt1:  I don't think I'd know where to start with a diesel. /  
+
+%          B.34 utt1:  {F Oh, } {D well, } [ it, + {D you know, } i-, ] - /
+sv          B.34 utt2: diesels don't require mechanics,  /
+sv          B.34 utt3: they require plumbers. /  
+
+aa          A.35 utt1:  {D Well } that's true. /  
+
+%          B.36 utt1:  {C And, }  {F uh, } <laughter>. -/  
+
+sd          A.37 utt1:  I think the [ onl-, + closest ] thing I've come [ to, + to ] a diesel is,  I've worked for a tractor repair shop, {F uh, } when I was in high school  /
+sd          A.37 utt2: {C and, }  {F uh, } we used to overhaul farm tractors basically, /  
+
+b          B.38 utt1:  # Yeah. # /  
+
+sd          A.39 utt1:  # {C and } # they were nearly [ all, + all ] diesel,  /
+sd          A.39 utt2: {C but } as far as cars I've never, never been involved with them. /  
+
+sd          B.40 utt1:  {D Well } the injector nozzle and stuff in, {D you know, } the big diesel farm tractors, {D you know, } {D what } are about the size of your thumb,  /
+%          B.40 utt2: {C and } the-, -/  
+
+b          A.41 utt1:  {D Well, } [  ye-, + yeah, ]  /
+sv          A.41 utt2: {C and } [ you ca-, + you can ] get to them. /  
+
+aa          B.42 utt1:  yeah  /
+aa^m          B.42 utt2: you can get to them,  /
+sd          B.42 utt3: {C and } the ones [ in, + in ] the diesel cars were little tiny things and just almost impossible to do anything with. /  
+
+%          A.43 utt1:  {D Well } I, -/  
+
+sd          B.44 utt1:  I've had a lot of good service out of that car,  /
+sd          B.44 utt2: {C but, }  {F uh, } {F uh, } I finally gave it to my son  /
+sd          B.44 utt3: {C and } he drove it literally into the ground, {D you know } <laughter>. /  
+
+b          A.45 utt1:  Yeah. /  
+
+sd          B.46 utt1:  He was out at Tech  /
+sd          B.46 utt2: {C and } [ he, + he ] finished it off. /  
+
+aa          A.47 utt1: [ I'm, + I ] guess you're right  /
+aa          A.47 utt2: [ the, + the ] diesel has almost fallen into unpopular status.  /
+sd          A.47 utt3:  I don't know exactly why.  /
+%          A.47 utt4:  One of the reasons is - /
+qh          A.47 utt5: [ I, + I'm ] beginning to wonder [ is, + ] where do you get gas at.  /
+%          A.47 utt6: I su-, - /
+qy^d          A.47 utt7: I don't know if it's still, {F uh, } limited like it was,  /
+sd          A.47 utt8: I don't notice it, probably because I don-, -/  
+
+qw          B.48 utt1:  What,  /
+qy          B.48 utt2: the availability? /  
+
+br          A.49 utt1:  {F Huh? } /  
+
+qy          B.50 utt1:  You mean the diesel availability? /  
+
+ny          A.51 utt1:  Yeah,  /
+sd^e          A.51 utt2: [ I don't, + I don't ] notice  /
+sd          A.51 utt3: {C but } maybe because I'm not looking for it. /  
+
+b          B.52 utt1:  Yeah,  /
+sd          B.52 utt2: {D well } I'd bought, {F uh, } a G M C diesel pickup and, {F uh, } loved that thing, {D you know,  }  /
+sd          B.52 utt3: I really liked it.  /
+sd          B.52 utt4:  {C But } it turns out a pickup wasn't what I really needed, /  
+
+b          A.53 utt1:  # Yeah. # /  
+
+sd          B.54 utt1:  # {C and } # it was the van that I needed then, to buy the, {D you know, } - /
+sd          B.54 utt2: traded it in on the Chevy van.  /
+sd          B.54 utt3: {C But, }  {F uh, } sure enjoyed it. /  
+
+qy          A.55 utt1:  {C But } [ yo-, + you ] got [ the, + the ] three fifty in the van? /  
+
+ny          B.56 utt1:  Yeah,  /
+ny^r          B.56 utt2: yeah  /
+sd^e          B.56 utt3: the three fifty regular gas engine. /  
+
+b          A.57 utt1:  Yeah,  /
+sv          A.57 utt2: that's what I like because, they've got plenty of power,  /
+sv          A.57 utt3: {C and, }  {F uh, }   
+
+b          B.58 utt1:  Uh-huh. /  
+
++          A.59 utt1:  if you treat them right, they're not the gas guzzlers I think that they've got the reputation to be.  /
+sv          A.59 utt2:  I'm convinced that, {F uh, } Detroit  or whoever it is made a major mistake,    
+
+b          B.60 utt1:  # Yeah  /
+%          B.60 utt2: co-, # -/  
+
++          A.61 utt1:  # years ago when # they stopped putting the small V eights in and went to the fours and some of the sixes. /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+sv          A.63 utt1:  I'm convinced that the small V eight like [ the, + the ] Mustang's original two eighty-nine or some of the Chevy two eighty-threes,    
+
+b          B.64 utt1:  # Uh-huh. # /  
+
++          A.65 utt1:  # were # good little V eight engines that were not gas guzzlers  /
+sv          A.65 utt2: {C but } they had enough power  t-, pull all this weight. /  
+
+b          B.66 utt1:  # Yeah. # /  
+
+sv          A.67 utt1:  # {C And } # the four cylinders just don't have it. /  
+
+sd          B.68 utt1:  I think [ that  little, + the little ] Chevy V eight when it  started out [ in sixty, + in fifty-five, ] I think was two sixty-five, something like that. -/  
+
+b          A.69 utt1:  Yeah. /  
+
+sv          B.70 utt1:  Little, {D you know, } not whole lot more [ [ than  the, + than the, ] + than the ] six cylinder that I think was like about two thirty-five or so. - /
+sv          B.70 utt2: {C But, }  {F uh, } <laughter>  they kept boring that block out to where you could a get a [ four hundred, + small block four hundred ] that was, {F uh, } the same block, {D you know, } [ just, + just ] kept boring it out and boring it out and stroking it a little bit more, an. -/  
+
+sv          A.71 utt1:  I think [  those gu-, + those little ] V eights could have been made to be pretty powerful little engines, if they would have gone with it,  /
+%          A.71 utt2: {C but. } -/  
+
+sv          B.72 utt1:  {D Well } [ that was, + {F uh, } that was ] a short stroke engine it could really wind up. /  
+
+b          A.73 utt1:  {F Oh, } yeah. /  
+
+sd          B.74 utt1:  The two little cars I've got now, - /
+sd          B.74 utt2: bought a Mitsubishi Mirage here a couple of years ago  /
+sd          B.74 utt3: [ {C and, } +  {C and } ] it was normally carbureted  /
+sd          B.74 utt4: {C and } it's fairly easy to work with because there's not just a whole lot in it to go wrong,    
+
+b          A.75 utt1:  # Yeah,  /
+%          A.75 utt2: that's kind of like, # -/  
+
++          B.76 utt1:  # [ and + ] {D you know } changing the # plugs and stuff. /  
+
+sd          A.77 utt1: [  [ the, + the ] first, + {D well } my first ] car was a fifty-six Mustang  /
+%          A.77 utt2: {C and, }  {F uh, } over the years, {F uh, } all - /
+sd          A.77 utt3: I had a, {F uh, } Dodge pickup several years ago,  /
+sd          A.77 utt4: {C and, }  {F uh, } I can't remember the size of the engine  /
+sd          A.77 utt5: it was a three {F oh, } seven or something like  that, /  
+
+b          B.78 utt1:  # Yeah. # /  
+
+sd          A.79 utt1:  # {C but, }  # {F uh, } I remember working on those cars,  /
+sd          A.79 utt2: you'd open the hood  /
+sd          A.79 utt3: {C and } there was basically nothing in there but an engine,    
+
+b          B.80 utt1:  Uh-huh,  /
+b^r          B.80 utt2: uh-huh. /  
+
++          A.81 utt1:  and a few things.  /
+sv          A.81 utt2:  Now, you open the hood and it's scary. /  
+
+b          B.82 utt1:  Yeah. /  
+
+aa          A.83 utt1:  Like you say it takes a plumber to figure out where all this stuff goes. /  
+
+sd          B.84 utt1:  The friend of ours over here, he's got, {F uh, } sixty-five, or sixty-six Mustang the six cylinder. /  
+
+b          A.85 utt1:  # Yeah. # /  
+
+sd          B.86 utt1:  # {C And, }  # {F uh, } I was look under the hood of that the other day  /
+aa          B.86 utt2: {C and } like you say, you can see the road. /  
+
+b          A.87 utt1:  Yeah. /  
+
+sv          B.88 utt1:  It's amazing. /  
+
+sv          A.89 utt1:  {D Well } if you had to you could climb up in there and do what you needed to. /  
+
+sv          B.90 utt1: [ You coul-, + {D yeah, } you could ] stand in there if you really wanted to, I guess. /  
+
+sd          A.91 utt1:  My dad's got a new, {F um, } - /
+sd          A.91 utt2: I guess it's an eighty-nine or ninety, {F uh, } Chrysler something or other.  /
+sd          A.91 utt3: It's one of those transverse mounted V sixes, front wheel drive. /  
+
+b          B.92 utt1:  {F Oh, } yeah. /  
+
+sd          A.93 utt1:  {C And, }  {F uh, } he was showing it to me  /
+sd          A.93 utt2: {C and } we're looking under the hood and  everything's nice and clean  /
+sd          A.93 utt3: {C and, } {D you know, } you can see the three spark plugs there in the front.  /
+sd(^q)          A.93 utt4: {C And } I said {D well } where are the other three. /  
+
+x          B.94 utt1:  <Laughter>.   
+
+sd          A.95 utt1:  {C And } he'd never really thought about it. /  
+
+b          B.96 utt1:  # Yeah. # /  
+
+sd(^q)          A.97 utt1:  # {C And } # he says {D well, } hopefully I won't have to change them, before I trade it off.  /
+%          A.97 utt2:  Yeah,  /
+sd          A.97 utt3: it's going to be a problem getting back there because it was shoved right up against the fire wall. /  
+
+b          B.98 utt1:  Yeah. /  
+
+sd          A.99 utt1:  {C So } they just about complicated the things so much that shade tree mechanics can't do much with them. /  
+
+b          B.100 utt1:  Yeah.  /
+%          B.100 utt2:  {D Well } when they went to the, - /
+sv          B.100 utt3: started with the newer engines, {D you know, }  /
+sv          B.100 utt4: when they started putting all that pollution control stuff on the older engines is where they started getting into so much, {D you know, } trouble. Because the three fifty with all the, {D you know, } - /
+%          B.100 utt5: {D like } {D well, } actually, I guess, her-, - /
+sd          B.100 utt6: within a couple of years ago anyway was the last I've paid any attention to it.  /
+sd          B.100 utt7: The three oh five was [ that, + that, ]   
+
+b          A.101 utt1:  # Uh-huh. # /  
+
++          B.102 utt1:  # V # eight that they put in [ the, + the ] three quarter [ and, +  and ] half ton van.  /
+sd          B.102 utt2: {C And } it had all the air pump  and, {F uh, } {F uh, }   
+
+b          A.103 utt1:  Right. /  
+
++          B.104 utt1:  {A I don't know, } [ all that, + all that ] stuff. /  
+
+b          A.105 utt1:  Yeah  /
+sd          A.105 utt2: the anti-smog pumps. /  
+
+aa          B.106 utt1:  {C And } all the anti-smog stuff.  /
+sd          B.106 utt2: {C And, }  {F uh, } boy that was, {F uh, } really a mess back under there [ under  the, + ] in that van. /  
+
+sv          A.107 utt1:  {C And } all that stuff loads the motor down. /  
+
+aa          B.108 utt1:  Uh-huh,  /
+aa^r          B.108 utt2: uh-huh. /  
+
+sv          A.109 utt1:  {C So } it's trying to push the weight plus have all this drain on it from all sorts of belts and things.  /
+sv          A.109 utt2: {C But } that's one good thing  /
+sd          A.109 utt3: I've got a, {F uh, } eight ninety, {F uh, } Chevy Blazer now  /
+sd          A.109 utt4: {C and } it's got one, {F uh, } belt on it a serpentine belt. /  
+
+qy^d          B.110 utt1:  {F Oh, } it's that one  that's about, {F uh, } what an inch and a half wide. /  
+
+ny          A.111 utt1:  Yeah. /  
+
+qy^d          B.112 utt1:  Got a bunch of groves in it. /  
+
+sd          A.113 utt1:  I haven't had to replace the thing yet.  /
+sd          A.113 utt2:  It looks like it would be, {F uh, } better than having, - /
+sd          A.113 utt3: I've got an, an Olds Toronado that, I think's got six belts on the sucker. /  
+
+b          B.114 utt1:  # Yeah. # /  
+
+sd          A.115 utt1:  # {C And } # I had to get all those off, {D you know, } when I was replace that, {F uh, } water pump. /  
+
+b          B.116 utt1:  # Yeah. # /  
+
+sd          A.117 utt1:  # {C And, }  # {F uh, } I had to struggle with that for a while to figure which belt goes where. /  
+
+b          B.118 utt1:  Yeah,  /
+sv          B.118 utt2: it's kind of like the inside dual on a truck.  /
+sv          B.118 utt3: {D You know, } when one of them breaks,   
+
+ba          A.119 utt1:  # {F Oh } man. # /  
+
++          B.120 utt1:  # it's not # the outside one,  /
+sv          B.120 utt2: [ [ it's, + it's the, ] + it's ] usually that power steering be-, - /
+sv          B.120 utt3: {C or } something that's way back in there. /  
+
+ba          A.121 utt1:  You bet,  /
+sv          A.121 utt2: everything else's got to come off first. /  
+
+aa^m          B.122 utt1:  Everything's got to come off. /  
+
+fc          A.123 utt1:  {D Well, } it's a pleasure meeting you. /  
+
+fc          @@B.124 utt1:  Yeah,  /
+%          @@B.124 utt2: {C and } we'll, {F uh, } - /
+fc          @@B.124 utt3: how many times have you done this now?  /
+%          @@B.124 utt4: Is this, -/  
+
+fc          A.125 utt1:  {F Uh, } I've got, {F uh, } five stickers here from T I,  /
+fc          A.125 utt2: {C so } I guess I've done probably, {F uh, } I'd say seven or eight of them. /  
+
+fc          B.126 utt1:  Yeah,  /
+fc          B.126 utt2: I [ hadn't, {F uh, } + hadn't, ] [ not + ] gotten any calls here in the last, {F uh, } - /
+fc          B.126 utt3: this is the first one in a week or so. /  
+
+fc          A.127 utt1:  Yeah,  /
+fc          A.127 utt2: I haven't gotten any calls in two weeks,  /
+fc          A.127 utt3: {C so } I don't know, [ if, + if ] it's tapering off, or what. /  
+
+fc          B.128 utt1:  If [ ta-, + ]  it's winding down or what. /  
+
+fc          A.129 utt1:  I had a difficult time the past couple of times of getting, {F uh, } answers. /  
+
+fc          B.130 utt1:  Finding a taker. /  
+
+%          A.131 utt1:  {C So } it sounds, - /
+fc          A.131 utt2: it's taken them [ ten, + fifteen ] minutes at a time,  /
+fc          A.131 utt3: {C so, }  people are either not, - /
+%          A.131 utt4: no-, - /
+fc          A.131 utt5: maybe they're burnt out or, - /
+%          A.131 utt6: yeah. /  
+
+fc^m          B.132 utt1:  Yeah,  {D well. } /  
+
+fc          A.133 utt1:  # {D Anyway } let you go.  /
+fc          A.133 utt2:  Thanks for talking. # /  
+
+fc          B.134 utt1:  # Okay,  /
+fc          B.134 utt2: all right.  /
+fc          B.134 utt3:  Bye-bye. # / 

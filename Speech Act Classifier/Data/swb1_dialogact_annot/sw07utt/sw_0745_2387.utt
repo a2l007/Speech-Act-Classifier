@@ -1,0 +1,379 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2387_1022_1072
+TOPIC#:		308
+DATE:		910402
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+==========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qw          A.1 utt2: what types of music do you like to listen to? /  
+
+sd          B.2 utt1:  {D Well, } I primarily listen to classical music  when I have my druthers, partly because I find it more soothing.  /
+sd          B.2 utt2:   I don't know a lot about classical music so  far as, {F uh, } any background in music,  /
+sd          B.2 utt3: {C but }  it's [ the  po-, + the music ] I enjoy the most.  /
+qo          B.2 utt4:  How about you? /  
+
+sd          A.3 utt1:  I like classical music also.  /
+%          A.3 utt2:  I, {F uh, } - /
+sd          A.3 utt3:  like you, I don't know a whole lot about it,  /
+sd          A.3 utt4: {C and } [ I, + I ]  would like to buy more classical tapes and stuff,  /
+sd          A.3 utt5: {C but } I'm not sure which composers or which  ((   ))  --   
+
+b          B.4 utt1:  Right. /  
+
++          A.5 utt1:  -- I really like, - /
+sd          A.5 utt2: {C so } I kind of hesitate --   
+
+b          B.6 utt1:  Uh-huh. /  
+
++          A.7 utt1:  -- to buy something.  /
+sd          A.7 utt2:  There are certain kinds I like and certain kinds I don't. /  
+
+sd          B.8 utt1:  I tend to listen to the classical music, {F uh, }  on the radio a lot.  /
+sd          B.8 utt2: [ There's, {F uh, } one particular, + {D well } there several ]  stations in this area that play, {F uh, } classical music all the time,  /
+sd          B.8 utt3: {C but } there's one in particular that is on both A M and F M  so I can listen to it without, {F uh, } worrying.  /
+sd           B.8 utt4:  It's cute, though, because my children, when they get in the car, and I have, {F uh, } the button pushed for that, they always switch it to  something else <laughter>. /  
+
+x          A.9 utt1:  <Laughter>.   
+
+sd          B.10 utt1:  {C Because } naturally that isn't their taste --   
+
+b          A.11 utt1:  Yeah. /  
+
++          B.12 utt1:  -- at this point in time anyway. /  
+
+b          A.13 utt1:  Yeah,  /
+sd          A.13 utt2: I understand that. /  
+
+qy          B.14 utt1:  [ Are, + are ] you involved in music? /  
+
+nn          A.15 utt1:  {F Uh, } no,  /
+ng          A.15 utt2: not really.  /
+sd          A.15 utt3: My husband is,  /
+sd          A.15 utt4:  {C but } [ not, + ] I do, {F uh, } the world a favor  /
+sd          A.15 utt5: {C and } I don't sing aloud,   
+
+x          B.16 utt1:  <Laughter>.   
+
++          A.17 utt1:  to anybody but myself <laughter>. /  
+
+sd          B.18 utt1:  <Laughter> {D Well, } my whole family is somewhat  musical, {F um, } and not from training, but just because we sing in our choir  /
+sd          B.18 utt2:  {C and } my daughter's quite involved and all that sort of thing.  /
+sd          B.18 utt3:  {C So, } {F um, }  I think that one of these days maybe she'll get involved in classical music, too,  because that's usually what happens [ if  you, + ] unless you get into rock,  which isn't her voice style.  /
+%          B.18 utt4:  {C So, } -/  
+
+b          A.19 utt1:  Yeah,  /
+sd          A.19 utt2: [ I, + I ] don't care for rock, at all.  /
+sd           A.19 utt3:  I guess I'm real old fashioned in my musical tastes. /  
+
+ar          B.20 utt1:  <Laughter> No,  /
+%          B.20 utt2: I, - /
+sv           B.20 utt3: {D well } most of it is not all that exciting in that it is terribly repetitious. /  
+
+aa          A.21 utt1:  Yes. /  
+
+sv          B.22 utt1:  It's loud and repetitious without having a great deal of meaning.  /
+sd          B.22 utt2: Now I do like folk song.  /
+sv          B.22 utt3:  {F Um, } {C and } there have been some nice folk songs over the years that, {D you know, } kind of still hang around. /  
+
+b          A.23 utt1:  Right. /  
+
+sd          B.24 utt1:  [ {C But, } + {F um, } {C but, } ] {F uh, } the more popular  music I don't care for, usually. /  
+
+b          A.25 utt1:  Yeah. /  
+
+sd           B.26 utt1:  {F Um, } even when I was a teenager I didn't really like  the music of that period so much because I found I liked, {F um, }  a little bit more melodious music than what was often the popular,   
+
+b          A.27 utt1:  Yeah, /  
+
++          B.28 utt1:  rock and roll kind of sound. /  
+
+aa          A.29 utt1:  I agree with that too. /  
+
+sd          B.30 utt1:  Although now I kind of enjoy hearing the rock and roll,  I guess it makes me think I'm young again <laughter>. /  
+
+aa          A.31 utt1:  <Laughter> Yeah,  /
+sv          A.31 utt2: now rock and roll seems tame compared to {D like } the New Age and all that stuff. /  
+
+bh          B.32 utt1:  Isn't that the truth?  /
+sv          B.32 utt2: It's funny.  /
+sd          B.32 utt3:   In fact, it's interesting to me that so  many of the songs, - /
+sd          B.32 utt4: now I grew up in the late fifties  and early sixties,  /
+sd          B.32 utt5: {C and so }  much of the music that was popular at that time,  has come back. /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  {C And, } [ you, + you ] don't hear everything all the time,  /
+sd          B.34 utt2: {C but } you hear much of the same music, perhaps a new version of it,  /
+sd          B.34 utt3: {C but } it's the same stuff.    
+
+b          A.35 utt1:  Right. /  
+
++          B.36 utt1:  {F Um, } which is always kind of funny. /  
+
+x          A.37 utt1:  <Laughter>.   
+
+sd          B.38 utt1:  {F Um, } {C and } I remember my older sister.  /
+sd          B.38 utt2:   I have a sister who's sixteen years older,  /
+sd          B.38 utt3: {C and } at the time that I was [ a teenager, +  a late teenager ] I guess, I can't remember the year, SMOKE GETS IN YOUR EYES became popular.  /
+sd          B.38 utt4:   I think it was done by maybe the Platters or something. /  
+
+b          A.39 utt1:  Uh-huh. /  
+
+%          B.40 utt1:  Then, - /
+sd          B.40 utt2: {C and } she laughed  /
+sd(^q)       B.40 utt3: {C and } she said, {D Well, }  {D you know, } when I was a teenager,   that had been, - /
+sd(^q)       B.40 utt4: {D you know, } some years before,  she said, that was a version of, {D you know, } a song then.  /
+sd(^q)       B.40 utt5: {C And } she said, It's very similar,  /
+^q          B.40 utt6:  {C but } they've changed a little bit.  /
+sd(^q)       B.40 utt7:  She said, I like the original version better.  /
+sd          B.40 utt8:   {D Well, } they did it again, about <laughter> two or three years ago,  /
+sd          B.40 utt9:  {C and } I laughed again.  /
+sd(^q)       B.40 utt10: I said, Oh no, here we are <laughter>. /  
+
+bf          A.41 utt1:  <Laughter> Crops up every so often. /  
+
+aa          B.42 utt1:  Right,  /
+aa          B.42 utt2: right.  /
+sd          B.42 utt3: It does indeed. /  
+
+sd          A.43 utt1:  I listen to, {F um, } the Christian radio station  when I'm in the car.  /
+sd          A.43 utt2: K L T Y. /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sd          A.45 utt1:  I like to listen to some of that. /  
+
+aa          B.46 utt1:  Yes,  /
+sv          B.46 utt2: now [ there, + there's ]  some wonderful Christian music when you can find good stations. /  
+
+b          A.47 utt1:  Yeah. /  
+
+sd          B.48 utt1:  {F Uh, } the [ pro-, + problem ]  that I found, {F um, } in this area is that [ [ the, + there, ] + there ] is inconsistency in the quality --   
+
+b          A.49 utt1:  Uh-huh. /  
+
++          B.50 utt1:  -- here.  /
+sd          B.50 utt2:  If you get someone who's very good at selecting, it's okay,  /
+sd          B.50 utt3: {C but } sometimes they kind of get on [ [ a, + a, ] + a ]  binge,  /
+sd          B.50 utt4: {C and } they play the same sort of thing over and over again, without really necessarily quality. /  
+
+b          A.51 utt1:  Yeah,  /
+qw          A.51 utt2: where do you live? /  
+
+sd          B.52 utt1:  {F Uh, } I live in the, {F uh, } Washington, D C area,   ((   ))  Maryland. /  
+
+sd          A.53 utt1:  I thought maybe you lived in Dallas, because that's the complaint I make to my husband about the radio station too.  /
+sd(^q)       A.53 utt2:  I said, {F Oh, } they're playing one of their ten --   
+
+b          B.54 utt1:  Yes. /  
+
++          A.55 utt1:  -- songs.  /
+sv          A.55 utt2: It seems like every week they pick ten  /
+sv          A.55 utt3: {C and } they just play them over and over, /  
+
+aa          B.56 utt1:  Uh-huh,  /
+%          B.56 utt2: {C and } [ I, + I, ] {D you know, } - /
+sv          B.56 utt3:  there's so much available --   
+
+b          A.57 utt1:  Yeah. /  
+
++          B.58 utt1:  -- that I don't understand why they do that. /  
+
+b          A.59 utt1:  Yeah. /  
+
+sd          B.60 utt1:  {C But, } {F um, } now my children [ have, + have ]  sometimes, - /
+sd          B.60 utt2: {F um, } they've gone to a few of the concerts and so on of Christian musicians that come  to our youth group at our church.  /
+sd          B.60 utt3:  [ {C And, } + {F um, } {C and } ]  when they buy a tape or something, sometimes that's fun because it's different and something I've not always heard,  /
+sd          B.60 utt4:  {C and, } {D you know, } I enjoy that. /  
+
+aa          A.61 utt1:  Right.  /
+sd          A.61 utt2:  My husband likes Sandy Patty songs.  /
+sd          A.61 utt3:  He likes to sing those in church.  /
+sd*          A.61 utt4:  He'd buy all the sound tracts he could get his hands on --    *[[typo tracks]]
+
+ba          B.62 utt1:  {F Oh, } wow. /  
+
++          A.63 utt1:  -- if he had the money to. /  
+
+b          B.64 utt1:  Yeah,  /
+ba          B.64 utt2: that's nice.  /
+qy          B.64 utt3: {C So, } is your husband a singer? /  
+
+na          A.65 utt1:  {D Well, } just an amateur singer.  /
+sd          A.65 utt2:   He sings in the choir  /
+sd          A.65 utt3: {C and } he likes to do special music and stuff at church. /  
+
+b          B.66 utt1:  Right.  /
+b          B.66 utt2:  Yeah.  /
+sv          B.66 utt3:  {D Well, } that's a good thing to do. /  
+
+aa          A.67 utt1:  Yeah,  /
+aa^r          A.67 utt2: yeah,  /
+sd          A.67 utt3: I like to hear him sing.  /
+sd          A.67 utt4:  <<In a very soft voice>> He does a good job. /  
+
+ba          B.68 utt1:  That's nice,  /
+qy          B.68 utt2: {F uh, } {D well, } do you have children? /  
+
+nn          A.69 utt1:  No,  /
+ng          A.69 utt2: not yet,  /
+sd^e          A.69 utt3: we're expecting a baby in July. /  
+
+ba          B.70 utt1:  {D Well, } wonderful. /  
+
+sd          A.71 utt1:  I guess we'll start listening, -/  
+
+sv          B.72 utt1:  That'll be a musician. /  
+
+aa          A.73 utt1:  Yeah,  /
+am          A.73 utt2: maybe so.  /
+sd          A.73 utt3: We'll start listening to children's music <laughter>. /  
+
+sv           B.74 utt1:  <Laughter> {F Oh, } there's some wonderful Christian, {F uh, } children's tapes.    
+
+aa          A.75 utt1:  Yeah,  /
+sv          A.75 utt2: there are. /  
+
++          B.76 utt1:  [ You can, + {F uh, } you can ] get,  /
+sd          B.76 utt2: {C and } I know  when my children were younger, {F um, } we found a lot of really nice tapes [ that they, + that they ]  liked.  /
+sd          B.76 utt3: {F Um, } there was an Agape music group,  /
+sd          B.76 utt4: {C and, } {F um, } [ I, +   some of the songs I ] still find going over in my head over and over again because they were  really, {F um, } very memorable --   
+
+b          A.77 utt1:  Uh-huh. /  
+
++          B.78 utt1:  -- even though my children are now, - /
+sd          B.78 utt2:  my youngest is almost sixteen. /  
+
+b          A.79 utt1:  {F Oh, } {F uh } <laughter>. /  
+
+sd          B.80 utt1:  {C But } I still find [ some of the same tapes,  I, + {F uh, } some of the same  songs ] from those tapes I enjoy. /  
+
+b          A.81 utt1:  Uh-huh. /  
+
+sd          B.82 utt1:  {F Um, } there's one that's, {F um, }  a little girl singing Practice Makes Perfect. /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sd          B.84 utt1:  {C And, } {F uh, } she's playing the piano. /  
+
+b          A.85 utt1:  Oh. /  
+
+sd          B.86 utt1:  {C And so } [ she, + she ]  gets the wrong note every now and then. /  
+
+x          A.87 utt1:  <Laughter>.   
+
+sd          B.88 utt1:  {C But } then she keeps repeating it, practice makes perfect,  /
+sd          B.88 utt2: {C and then } {D you know, } talking about that so far as Christian life, too, - /
+sd          B.88 utt3: {C and } it's really cute. /  
+
+aa          A.89 utt1:  Yeah,  /
+sv          A.89 utt2: that sounds really cute. /  
+
+b          B.90 utt1:  Yeah. /  
+
+sd          A.91 utt1:  {F Uh, } I tell my husband to sing to my  stomach, because they say that babies can hear quite a lot while they're still in the womb,  /
+sd          A.91 utt2:  {C and } I said, then [ when, + when ] it's born you can hold it --   
+
+aa          B.92 utt1:  Yeah,  /
+aa          B.92 utt2: right. /  
+
++        A.93 utt1:  -- and sing that again  /
+sv          A.93 utt2: {C and } maybe it'll  comfort her, {D you know, } when she's fussy and stuff. /  
+
+aa          B.94 utt1:  Yeah,  /
+qy          B.94 utt2: {D well } do you know something? /
+
+qw          A.95 utt1:  What? /  
+
+sd          B.96 utt1:  {C Because } I have always played classical  music, {F uh, } or classical style,  /
+sd          B.96 utt2: it's not always classical as, {D you know, } the official, {F uh, }  word might go,  /
+sd          B.96 utt3: {C but, } {F um, } even when I was pregnant, of course I listened to  that, /
+sd          B.96 utt4: {C and } when our first child was, {D you know, } an infant, {F um, } of course,  when I was around the house, I played that music, too.  /
+sd          B.96 utt5:  When he first made sounds that you could detect they were in [ the scale, + the music scale. ] /  
+
+b          A.97 utt1:  Huh. /  
+
+sd          B.98 utt1:  Someone else noticed it -- /  
+
+ba          A.99 utt1:  How strange. /  
+
+sd(^q)       B.100 utt1:  -- {C and } I said, {D well, } I guess that's true.  /
+sd          B.100 utt2:   {C And } it was somewhat melodious,  /
+sd          B.100 utt3: in other words --   
+
+b          A.101 utt1:  Uh-huh. /  
+
++          B.102 utt1:  -- it wasn't just -- -/  
+
+^2          A.103 utt1:  Babbly. /  
+
+sd          B.104 utt1:  -- {D you know, } it was really funny <laughter>. /  
+
+aa          A.105 utt1:  I'll say, that is <laughter>.  /
+sv          A.105 utt2: {D Well, } we'll have to keep up with that then. /  
+
+aa          B.106 utt1:  Right,  /
+aa^r          B.106 utt2: right.  /
+sd           B.106 utt3: I do think there is probably an influence there, because I noticed that even though popular music, [ the, + the ]  wilder stuff, was around when my older children [ were, + were, ] {D you know, }  [ adolescents, + early adolescents, ] when they first start listening to music on their own --   
+
+b          A.107 utt1:  Uh-huh. /  
+
++          B.108 utt1:  -- they first [ get, + ]  ask for a radio of their own, and so on,  /
+sd          B.108 utt2: {F um, } this same child, {F um, } really listened to more, {F um, } ballady or, {F um, } pleasant sort of songs [ rather than, + and even classical, rather than ]  the real hard rock stuff that so  many other kids listen to. /  
+
+b          A.109 utt1:  Huh. /  
+
+sd          B.110 utt1:  {C And } [ [ I, + I ] never, + I ]  didn't want to say too much for fear he would think it was wrong and wouldn't do it anymore <laughter>. /  
+
+aa          A.111 utt1:  Right,  /
+aa          A.111 utt2: yeah,  /
+bf          A.111 utt3: have something to rebel against <laughter>. -/  
+
+aa          B.112 utt1:  Right <laughter>.  /
+sd          B.112 utt2: {C But, } {F uh, } then I  must say they all kind of like a variety of music, which is nice,  /
+sd          B.112 utt3: I like that. /  
+
+b          A.113 utt1:  Yeah,  /
+ba          A.113 utt2: that's good,  /
+%          A.113 utt3: yeah,  /
+sv          A.113 utt4: variety is good. /  
+
+b          B.114 utt1:  Yeah. /  
+
+sv^t          A.115 utt1:  {D Well, } I guess that covers it.  /
+fc          A.115 utt2:   It was real good talking to you. /  
+
+fc          B.116 utt1:  {D Well, } it was nice talking to you,  /
+fc          B.116 utt2:  {C and } good luck with the baby. /  
+
+ft          A.117 utt1:  {D Well, } thanks,  /
+fc         A.117 utt2: bye. /  
+
+fc          B.118 utt1:  Bye-bye. / 

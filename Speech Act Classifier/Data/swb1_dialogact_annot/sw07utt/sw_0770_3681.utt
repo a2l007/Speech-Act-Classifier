@@ -1,0 +1,219 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3681_1378_1409
+TOPIC#:		364
+DATE:		920105
+UTT_CODER:	lsh
+TRANSCRIBER:	GL
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	4
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.    
+
+==============================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qy          A.1 utt2: you got any hobbies that you want to talk about? /  
+
+sd          @B.2 utt1:  {D Well, } I, {F uh, } don't seem to have as  much spare time as I used to,  /
+sd          @B.2 utt2: {C but, } I guess I'll have to say my computer has probably  taken the place of most of my hobbies. /  
+
+qw          A.3 utt1:  What in the world do you do with your computer  that takes so much time? /  
+
+sd          B.4 utt1:  {D Well, } I sit and design cards -- /  
+
+bh          A.5 utt1:  {F Oh, } really? /  
+
+sd          B.6 utt1:  -- {C and, } {F uh, } {F oh, } [ I, + I'm ]  really into graphics,  /
+sd          B.6 utt2: {C so, } [ [ it, + it ] just, + ]  I sit and  learn new programs  /
+sd          B.6 utt3: {C and } I play <laughter>, /  
+
+x          A.7 utt1:  <Laughter>.   
+
+sd          B.8 utt1:  {C and } I do this,  /
+sd          B.8 utt2: {C and } I do that  /
+sd          B.8 utt3: {C and, }   
+
+qy          A.9 utt1:  Did you have, {F uh, } your own business  /
+qrr          A.9 utt2: {C or }  you do that [ as, + ] just on the side,  or what? /  
+
++          B.10 utt1:  [ I'm, + I'm ] starting a side business in  desk top publishing -- /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1:  -- {C and, } {F uh, } it's just getting going.  /
+sd         B.12 utt2: [  I, + I'm ] teaching in the daytime -- /  
+
+%          A.13 utt1:  {D Well. } /  
+
+sd          B.14 utt1:  -- {C and, } {F uh, }   
+
+qw          A.15 utt1:  What do you teach? /  
+
++          B.16 utt1:  I teach business and computer technology. /  
+
+ba          A.17 utt1:  {F Oh, } that's good. /  
+
+bd          B.18 utt1:  {D Well, } I guess <laughter>. /  
+
+x          A.19 utt1:  <Laughter>.   
+
+sd          B.20 utt1:  [ It's, + {F uh, } to high school kids, it's, ]  {F uh, } alternative learning -- /  
+
+b          A.21 utt1:  Uh-huh. /  
+
+sd          B.22 utt1:  -- {C and, } {F uh, } [ it's, + it's ]  really a challenge,  /
+qw          B.22 utt2: {C but. }  What hobbies do you have? /  
+
+sd          A.23 utt1:  {D Well, } I, {F uh, } play trombone in the Plano  Community Band. /  
+
+ba          B.24 utt1:  {F Ooh, } neat. /  
+
+sd         A.25 utt1:  {C And } I, {F uh, } like to do a lot of bicycling  when the weather allows,  and  during summer when there's daylight savings time's  when I get out and bike. /  
+
+sd          B.26 utt1:  {D Well, } I hope you all had as pretty a  day today as we did. /  
+
+sd         A.27 utt1:  {D Well, } it wasn't too bad,  other than the Cowboys didn't do so hot. /  
+
+aa          B.28 utt1:  {F Oh, } {D well } now, yes <laughter>. /  
+
+x          A.29 utt1:  <Laughter>.   
+
+sd          B.30 utt1:  I don't think you can blame the weather on that.  /
+%          B.30 utt2: We had. -/  
+
+aa          A.31 utt1:  No,  /
+sv          A.31 utt2: just a crummy, {D well, } {D actually } - /
+sv          A.31 utt3:  the Lions are pretty good, {A I'm afraid, } [ they pro-, + ] a lot better team than the Cowboys  were today.  /
+%          A.31 utt4: {C And, } {F uh, }  ((   )) . -/  
+
+o         B.32 utt1:  On any given day, they say. -/  
+
+x          A.33 utt1:  <Laughter>.   
+
+sd          B.34 utt1:  {F Uh, } [ I haven't, + I haven't ]  played in a while,  but I do,  when I get time  and it's pretty weather  and it's summer I like to play golf. /  
+
+bk          A.35 utt1:  {F Oh, } okay.  /
+sd          A.35 utt2:  [ I, + I ] play that about six  times a year  /
+sd          A.35 utt3: {C and } every year I hang my bag up if I get that five or six  /
+sd          A.35 utt4: {C and } I [ swear, + swear ]  that game off for another year,  /
+sd          A.35 utt5: {C but } I always go back to it <laughter>. /  
+
+sd          B.36 utt1:  {F Oh, } [ I, + {F uh, } {F oh, } I ]  take spells,  /
+sd          B.36 utt2: [ I'm, + I'm ] kind of a compulsive obsessive person <laughter>  /
+sd          B.36 utt3: {C and } when I start something,  [ I, + I ] go into it a thousand percent -- /  
+
+ba          A.37 utt1:  I # understand that. # /  
+
+sd          B.38 utt1:  -- # {C and then } [ I get, + # I get ]  burned out on it.  /
+sd          B.38 utt2:  {C But, } {F uh, } I do some counted cross-stitch and some painting on shirts. /  
+
+sv          A.39 utt1:  {D Well, } you do lots of stuff. /  
+
+sd          B.40 utt1:  {D Well, } it doesn't seem like I get anything done,  /
+sd          B.40 utt2:  {C but } I guess I do  /
+sd          B.40 utt3: {C and, }   
+
+x          A.41 utt1:  <Laughter>.   
+
++          B.42 utt1:  [ I, + I ] like to bake.  /
+sd          B.42 utt2:  It's just me in the house,  /
+sd          B.42 utt3:  {C so, } when I bake it's usually to take out for something. /  
+
+ba          A.43 utt1:  Gosh,  /
+ad          A.43 utt2: I come up there I'll have to stop by and [ have, + ] try some of your baking. /  
+
+%          B.44 utt1:  {D Well. } -/  
+
+sd          A.45 utt1:  I call on people in  ((   )) . - /
+sd          A.45 utt2:  My business is, {F uh, } machine tool sales,  /
+sd          A.45 utt3: {C and } I have some, - /
+sd          A.45 utt4: [ I, + I ] cover Texas and Oklahoma. /  
+
+bk          B.46 utt1:  {F Oh, } okay. /  
+
+sd          A.47 utt1:  {C So, } [ I, + what I ]  said that I wasn't being real facetious about that.  /
+sd          A.47 utt2: I got customers in Oklahoma City and Tulsa and # Perry, Oklahoma # --   
+
+ba          B.48 utt1:  # {F Oh, } how neat. # /  
+
++          A.49 utt1:  -- and Eda and [ all that, + all that ] way. /  
+
+bf          B.50 utt1:  {C So } you do quite a bit of traveling then. /  
+
+aa          A.51 utt1:  Yes,  /
+aa^r          A.51 utt2: yes.  /
+%          A.51 utt3:  I, - /
+sd          A.51 utt4:  about thirty-three thousand miles a year.  /
+%          A.51 utt5:  {C So. } -/  
+
+sv          B.52 utt1:  {F Ooh, } {D well } that doesn't leave a lot of time  for hobbies,  /
+^g          B.52 utt2: does it? /  
+
+sd          A.53 utt1:  <Laughter> {D Well, } I usually, - /
+sd          A.53 utt2: {D see, } [ we, + we ]  have [ our, + our ] band practice is on Monday night,  /
+sd          A.53 utt3: {C and } during the summer [ we, + {F uh, } we ]  have concerts every Monday night in the park,  /
+sd          A.53 utt4: {C and, } {F uh, } [ we, + we ]  have, {D you know, } some concerts during the year,  /
+sd          A.53 utt5: {C and, } {D you know, } various people in the  communities want us to play for things,  /
+sd          A.53 utt6: {C but } those are usually on the weekend,  /
+sd          A.53 utt7:  {C so }  that isn't too bad. /  
+
+qw          B.54 utt1:  How big is your band? /  
+
+sd          A.55 utt1:  {D Well, } we got, {F uh, } pretty good size band.  /
+sd          A.55 utt2:   Not everybody shows up,  /
+sd          A.55 utt3: {C but } if everyone did we'd probably have over a hundred  /
+sd          A.55 utt4: {C but } --   
+
+ba          B.56 utt1:  Ooh. /  
+
++          A.57 utt1:  -- we only average about forty to fifty people  [ a, + ] {D you know, } usually. /  
+
+bf          B.58 utt1:  {D Well, } that's still a pretty [ bi-, + ] good size band. /  
+
+aa          A.59 utt1:  Yeah. /  
+
+sd          B.60 utt1:  It's not like there are four or five of you there. /  
+
+aa          A.61 utt1:  {F Oh, } no,  /
+aa^r          A.61 utt2: no.  /
+sd          A.61 utt3:  This is a, - /
+sd          A.61 utt4:  it's a concert band,  /
+sd          A.61 utt5: {C and, } {F uh, } we have a lot of, - /
+sd          A.61 utt6: [ I, + I ] don't pretend to be that good,  /
+sd          A.61 utt7: {C but } there's a lot  of people that, {F uh, } {D you know, } are band directors  at schools, or have been,  /
+sd          A.61 utt8: {C or, } {F uh, } {D you know, } there some people that are actually music majors.  /
+sd          A.61 utt9:  They don't necessarily follow that any more, {D you know, }  /
+sd          A.61 utt10:  that isn't necessarily their career,  /
+sd          A.61 utt11: {C but, } {F uh, } we have some extremely good talent in there,  /
+sd          A.61 utt12: {C and, } {F uh, }  as a rule, it sounds pretty decent,  /
+%          A.61 utt13: {C so } <laughter>. - /
+sd          A.61 utt14: It's fun. /  
+
+sd          B.62 utt1:  [ I, + I ]  have absolutely no musical ability whatsoever,  /
+sd          B.62 utt2: {C and } I'm always very envious of people who do. /  
+
+sd          A.63 utt1:  <Laughter> {D Well, } I don't know if I have  any or not.  /
+sd          A.63 utt2: [ I, + I've ]  always enjoyed it.  /
+sd          A.63 utt3:  I sing in a church choir on Wednesday nights  when I'm around, and play in the band on Monday nights, and keeps you out of trouble that way. /  
+
+sd          B.64 utt1:  {D Well, } I'm probably one of the few people that the, -/ 

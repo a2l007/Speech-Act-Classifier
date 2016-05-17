@@ -1,0 +1,605 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2226_1152_1106
+TOPIC#:		311
+DATE:		910324
+TRANSCRIBER:	glp
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Speaker B seemed to be washing dishes during the conversation. 
+
+===========================================================================
+  
+
+o          A.1 utt1:  {F Uh, } books. /  
+
+b          B.2 utt1:  Yes. /  
+
+sd          A.3 utt1:  Mainly I read the Bible these days. /  
+
+ba          B.4 utt1:  That's very good.  /
+sd          B.4 utt2:  I do, too. /  
+
+sd          A.5 utt1:  Good, that's great to hear.  /
+sd          A.5 utt2:  {F Uh, } {C and } Christian literature. -/  
+
+b          B.6 utt1:  Uh-huh. /  
+
+%          A.7 utt1:  {F Uh, } I've kind of, - /
+sd          A.7 utt2: I used to read a lot of, {F uh, } novels,  /
+sv          A.7 utt3: {C but } it seems as though if you really want to set [ a t-, + ] side time to read the Bible  and you work [ and -- +   
+
+b          B.8 utt1:  Uh-huh. /  
+
++          A.9 utt1:  -- and ] whatever, {F uh, } that pretty well takes up your time for reading. /  
+
+aa          B.10 utt1:  Yeah,  /
+sv          B.10 utt2: it does.  /
+%          B.10 utt3:  It, -/  
+
+sd          A.11 utt1:  {C And } [ I, + I ] been praying that God would put a desire to read the Bible <laughter> in my heart  /
+sd          A.11 utt2: {C and } he really has.  /
+sd          A.11 utt3:  It's getting,   
+
+ba          B.12 utt1:  That's good. /  
+
++          A.13 utt1:  to where a just really want to read it. /  
+
+ba          B.14 utt1:  That's good.  /
+sd          B.14 utt2: [ [ [ It, + it, ] + <throat_clearing> it's, ] + {F uh, } it's ] hard for me to find time, also, to read.  /
+sd          B.14 utt3:  {F Uh, } a lot of times I do just read magazines and stuff like that  [ for, + ]  {D you know, } because I don't have a lot of time,  /
+sd          B.14 utt4: {C but } when I do get to sit down [ and, + and ] read, I like to read the Bible  /
+sd          B.14 utt5: {C and } I like to read,  /
+sd          B.14 utt6: I read to my daughter a lot, too. /  
+
+bh          A.15 utt1:  Do you? /  
+
+sd          B.16 utt1:  {C And, }  {F uh, } I like to read, {D you know, } Bi-, - /
+sd          B.16 utt2: I have Bible storybooks -- /  
+
+b          A.17 utt1:  Uh-huh,  /
+b^r          A.17 utt2: uh-huh. /  
+
+sd          B.18 utt1:  -- {C so } I like reading those to her  /
+sd          B.18 utt2: {C and } she really enjoys those.  /
+sd          B.18 utt3:  {C So } that's good.  /
+sd          B.18 utt4: [ {C And } it, + {C and } it's ] kind of short because we [ don't, + [ woe + ] don't ] have a lot of time,   
+
+b          A.19 utt1:  Uh-huh. /  
+
++          B.20 utt1:  [ to, + to ] read,  /
+sd          B.20 utt2: {C so, }  it's real enjoyable.    
+
+b          A.21 utt1:  Yeah. /  
+
++          B.22 utt1:  For both of us. /  
+
+qy          A.23 utt1:  Have you ever read any of Frank E Peretti's? /  
+
+b^m          B.24 utt1:  Frank E - /
+nn          B.24 utt2: <whispering>, no  /
+sd^e          B.24 utt3: I guess I haven't. /  
+
+sd          A.25 utt1:  {F Uh, } THIS PRESENT DARKNESS and, {F uh, } {F uh, } I forget the [ t-, + the ] other,  /
+sd          A.25 utt2: {D well } [ he, + {F uh, } he's ] also written a lot of children, - /
+qw          A.25 utt3: how old is your daughter. /  
+
+sd          B.26 utt1:  Five. /  
+
+b^m          A.27 utt1:  Five,  /
+bh          A.27 utt2: okay,  /
+sd          A.27 utt3: he's written some children's books as well  /
+sd          A.27 utt4: {C and } they're all spiritually,   
+
+bh          B.28 utt1:  {F Oh, } really? /  
+
++          A.29 utt1:  {F uh, } oriented,  /
+b          A.29 utt2: yeah. /  
+
+qw          B.30 utt1:  What's his name again?  /
+qy^d          B.30 utt2: Peretti <whispering>, /  
+
+sd          A.31 utt1:  Frank E Peretti, /  
+
+b^m          B.32 utt1:  Frank E Peretti <whispering>. /  
+
+sd          A.33 utt1:  P E R E T T I. /  
+
+cc          B.34 utt1:  I have to look for those. /  
+
+b          A.35 utt1:  Uh-huh.  /
+aa          A.35 utt2:  Yeah,  /
+ad          A.35 utt3: do  /
+sd          A.35 utt4: {C because, } {F uh, } I love to read [ his, + his, ] {F uh, } children's books just <static> <laughter>, -/  
+
+^2          B.36 utt1:  Just to read them.  /
+ba          B.36 utt2:  {D Well, } that's good. /  
+
+b          A.37 utt1:  Yeah,  /
+sv          A.37 utt2: {F oh, } they're good,  /
+sv          A.37 utt3: they're great. /  
+
+ba          B.38 utt1:  That's good. /  
+
+sd          A.39 utt1:  {C And } it's {D like, } {F uh, } {F uh, } usually about a family of, {F uh, } archaeologists --    
+
+b          B.40 utt1:  Uh-huh. /  
+
++          A.41 utt1:  -- and the spiritual fights that they get into,   
+
+b          B.42 utt1:  Oh <breathing>. /  
+
++          A.43 utt1:  {D like, } {F uh, } {F uh, } digging in old ruins,   
+
+b          B.44 utt1:  Yeah. /  
+
++          A.45 utt1:  and running across, {D like, }  {F uh, } the old gods and things. /  
+
+ba          B.46 utt1:  {F Oh, } that sounds pretty neat. /  
+
+b          A.47 utt1:  Yeah,  /
+sv          A.47 utt2: it is.  /
+sv          A.47 utt3: It's real exciting. /  
+
+cc          B.48 utt1:  {F Oh, } I'll have to look for those. /  
+
+sd          A.49 utt1:  {C And } it also teaches them spiritual warfare --   
+
+b          B.50 utt1:  <Sniffing> Right. /  
+
++          A.51 utt1:  -- {D you know, }  /
+%          A.51 utt2: {C so, } -/  
+
+ba          B.52 utt1:  {D Well, } that's neat.  /
+sd          B.52 utt2: {D Well, } [ I + <throat_clearing>, I ] have a, - /
+sd          B.52 utt3: my daughter has PRECIOUS MOMENTS collection -- /  
+
+b          A.53 utt1:  Uh-huh. /  
+
+sd          B.54 utt1:  -- {C and } I like that because [ it's a, + it's ] real easy to, {F uh, } follow for her,  /
+sd          B.54 utt2: {D you know, } {F uh, } {D gosh, } [ if, + if ] I read straight out of the Bible to her she'd <laughter> never understand any of it. /  
+
+sd          A.55 utt1:  {D Well, } it's hard for me. /  
+
+ba          B.56 utt1:  That's right <laughter>. /  
+
+x          A.57 utt1:  <Laughter>.   
+
+sv          B.58 utt1: [ It is, + it is ] real hard [ to, + to ] follow and understand, /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:  {C and, }  {F uh, } I've got a Bible that, {F uh, } has a little bit of [ a, + {F uh, } <breathing> a ] glossary in the back  /
+sd          B.60 utt2: {C and } it helps explain who people are.  /
+sd          B.60 utt3: [ That's, + that's ] about the hardest thing is, who's related to who <laughter>. /  
+
+aa          A.61 utt1:  I know it,  /
+sv          A.61 utt2: {C and } especially it's hard to keep your interest --   
+
+aa         B.62 utt1:  Yeah. /  
+
++          A.63 utt1:  -- in those begats. /  
+
+b          B.64 utt1:  Yes. /  
+
+x          A.65 utt1:  <Laughter>.   
+
+aa          B.66 utt1:  Yes,  /
+sd          B.66 utt2: it sure is,  /
+sv          B.66 utt3: [ {C but, } +  {C but } ] it is good reading  /
+sv          B.66 utt4: {C and } it's good for us,    
+
+b          A.67 utt1:  Uh-huh,  /
+b          A.67 utt2: that's right. /  
+
++          B.68 utt1: [ and + <sniffing> and ] everything.  /
+sd          B.68 utt2:  I really do enjoy it.  /
+%          B.68 utt3:  {C But, }  {F uh, } <lipsmack> I also, - /
+sd          B.68 utt4: {C but } then on the other extreme I like to read, {F uh, } {F uh, } [ I guess ho-, + I don't know, horror, ] Steven King type books. /  
+
+b          A.69 utt1:  Uh-huh,  /
+b          A.69 utt2: yeah,  /
+sd          A.69 utt3: I've read a lot of his, too. /  
+
+%          B.70 utt1:  The, - /
+sd          B.70 utt2: {C and } [ I, + I ] like that,  /
+sv          B.70 utt3: that's good fun reading. /  
+
+b          A.71 utt1:  Yeah.  /
+sd          A.71 utt2:  Can't put them down. /  
+
+aa          B.72 utt1:  No  /
+sv          B.72 utt2: you can't,  /
+sv          B.72 utt3: you really can't.  /
+sv          B.72 utt4:  They are good  /
+sv          B.72 utt5: {C and } {F ooh } [ they just, + they're just ] so suspenseful. /  
+
+b          A.73 utt1:  Uh-huh,  /
+b          A.73 utt2: yeah. /  
+
+sd          B.74 utt1:  I really do enjoy his. /  
+
+sd          A.75 utt1:  {F Uh, } there's another guy.  /
+%          A.75 utt2:  {F Oh, } what can, - /
+t1          A.75 utt3: what is his name <lipsmack>.  /
+fe          A.75 utt4: {F Oh, } durn <laughter>,  /
+%          A.75 utt5: you would, {D well } - /
+sv          A.75 utt6: {D you know } when you're recording you can't [ re-, + remem-, ] -/  
+
+ba          B.76 utt1:  I know <laughter>. /  
+
+sd          A.77 utt1:  {F Uh, } {F oh, } Dean, {F uh, } Kratz, or Kranz  /
+%          A.77 utt2: {C or, } -/  
+
+qy^d          B.78 utt1:  Judith Krantz? /  
+
+%          A.79 utt1:  Y-, - /
+br          A.79 utt2: who? /  
+
+sd          B.80 utt1:  Judith Krantz.  /
+sd          B.80 utt2:  I know her. /  
+
+nn          A.81 utt1:  {F Uh, } no,  /
+sd^e          A.81 utt2: it's a guy. /  
+
+bk          B.82 utt1:  {F Oh, } okay. /  
+
+sd          A.83 utt1:  {C And } [ he, + he ] writes the same thing, though.  /
+sd          A.83 utt2:  It's that real,   
+
+b          B.84 utt1:  Oh. /  
+
++          A.85 utt1:  gruesome <laughter>,   
+
+b          B.86 utt1:  Ooh. /  
+
++          A.87 utt1:  horror stories. /  
+
+b          B.88 utt1:  Yeah.  /
+ba          B.88 utt2:  That's good. /  
+
+b          A.89 utt1:  Yeah.  /
+sd          A.89 utt2:  Koontz.  /
+sd          A.89 utt3:  {F Uh, } his last name ends in a Z, I know that. /  
+
+b          B.90 utt1:  <Breathing> Yeah,  /
+sd          B.90 utt2: {F oh, } I think I know who you're talking about.  /
+sd          B.90 utt3:  {F Uh, } I've seen, - /
+sd          B.90 utt4: I don't think I can pronounce it either,  /
+%          B.90 utt5: {C but } <laughter>. -/  
+
+b          A.91 utt1:  Yeah, {F uh, } /  
+
+b          B.92 utt1:  Yeah,  /
+sd          B.92 utt2: I'm in a book club  /
+sd          B.92 utt3: {C and } I think I've seen his books --   
+
+b          A.93 utt1:  Uh-huh. /  
+
++          B.94 utt1:  -- in there <throat_clearing>.  /
+sd          B.94 utt2: I've never read any of his.  /
+%          B.94 utt3:  {C But } they're real, -/  
+
+sd          A.95 utt1:  I kind of got burnt out on Steven King, though.  /
+sd          A.95 utt2:  It seems like it's all the <breathing>, -/  
+
+x          B.96 utt1:  <Sniffing>.   
+
+qy          A.97 utt1:  did you ever read the, {F uh, } {F uh, } {F oh, } - /
+qy^d          A.97 utt2: it's one of his first books, THE STAND. /  
+
+ny          B.98 utt1:  Yes.  /
+sd^e          B.98 utt2: [  That, + {F oh, } that ] long thing. /  
+
+ba          A.99 utt1:  I know it.  /
+sd          A.99 utt2:  {C And } that seems like all of his books have kind of come from that, {E I mean. } /  
+
+aa          B.100 utt1:  Yeah,  /
+sv          B.100 utt2: they do kind of follow or,    
+
+%          A.101 utt1:  {D You know, } that, -/  
+
++          B.102 utt1:  Are similar. /  
+
+b          A.103 utt1:  Uh-huh.  /
+sd          A.103 utt2: I love that book, though.  /
+sd          A.103 utt3:  I thought it was great. /  
+
+aa          B.104 utt1:  Yeah,  /
+sv          B.104 utt2: it really was,  /
+sd          B.104 utt3: {C and } I loved THE SHINING. /  
+
+ba          A.105 utt1:  {F Ooh, } yes <laughter>. /  
+
+sd          B.106 utt1: [ That was, + that was ] my favorite. /  
+
+sd          A.107 utt1:  {F Oh, } those hedges when they started moving. -/  
+
+b          B.108 utt1:  Yeah,  /
+b^r          B.108 utt2: yeah. /  
+
+sd          A.109 utt1:  Whenever [ they + <laughter>, they ] made that into a movie, I was thinking {F oh, } my gosh if they show that,   
+
+x          B.110 utt1:  <Laughter>.   
+
++          A.111 utt1:  I'll just die.  /
+sd          A.111 utt2:  For some reason that scared me more than anything. /  
+
+b          B.112 utt1:  Yeah,  /
+%          B.112 utt2: that is, - /
+sv          B.112 utt3: he just brings stuff alive, {D you know. } /  
+
+b          A.113 utt1:  Yeah. /  
+
+sd          B.114 utt1:  You could just visualize everything. /  
+
+b          A.115 utt1:  Uh-huh. /  
+
+%          B.116 utt1:  That's, -/  
+
+sv          A.117 utt1:  {C And } that was a pretty scary movie, too. /  
+
+aa          B.118 utt1:  Yeah,  /
+sv          B.118 utt2: I think they did a pretty good job,  /
+sd          B.118 utt3: {C but } <throat_clearing>,   
+
+b          A.119 utt1:  Yeah <laughter>. /  
+
++          B.120 utt1:  they didn't follow it exactly,  /
+sd          B.120 utt2: {C but } they did [ give it, + {D you know, } do it ] justice. /  
+
+b          A.121 utt1:  Uh-huh.  /
+ba          A.121 utt2: That's right. /  
+
+sv          B.122 utt1:  {C But, }  {F uh, } most of the time they don't [ with, + ] [ when, + ] follow books very well <sniffing> when they make them into movies <child_talking>. /  
+
+aa          A.123 utt1:  Yeah,  /
+ba          A.123 utt2: that's true.  /
+sd          A.123 utt3:  I liked IT as well. /  
+
+b          B.124 utt1:  Yeah,  /
+b          B.124 utt2: yeah, {F uh, } /  
+
+sd          A.125 utt1:  That's,   
+
+sd          B.126 utt1:  I did, too. /  
+
++          A.127 utt1:  another big fat one. /  
+
+b          B.128 utt1:  Yeah. /  
+
+x          A.129 utt1:  <Laughter>.   
+
+aa          B.130 utt1:  Yeah,  /
+ba          B.130 utt2: that was good.  /
+sd          B.130 utt3: [  I liked, + {F uh, } I also liked, ] {F uh, } CUJO.  /
+qy          B.130 utt4:  Did you read that one? /  
+
+ny          A.131 utt1:  Yeah, /  
+
+%          B.132 utt1:  {C And, } -/  
+
+sd          A.133 utt1:  except it broke my heart. /  
+
+b          B.134 utt1:  Yeah, /  
+
+sd          A.135 utt1:  <Laughter> I'm a dog lover. /  
+
+sd          B.136 utt1:  Me, too <laughter>. /  
+
+x          A.137 utt1:  <Laughter>.   
+
+sd          B.138 utt1:  {C And then, } {F uh, } <throat_clearing> NIGHT STAND,  /
+qy          B.138 utt2: is that NIGHT, -/  
+
+nn          A.139 utt1:  No,  /
+sd^e          A.139 utt2: it was, {F uh, } -/  
+
+sd          B.140 utt1: [ DEAD, + DEAD ] ZONE.  /
+sd          B.140 utt2:  That's one I liked. /  
+
+ br         A.141 utt1:  What? /  
+
+sd^r          B.142 utt1:  DEAD ZONE. /  
+
+b          A.143 utt1:  {F Oh, } yeah. /  
+
+%          B.144 utt1:  That was a, -/  
+
+sd          A.145 utt1:  I've read that one, too. /  
+
+sv          B.146 utt1:  That was a real good one. /  
+
+sd          A.147 utt1:  He's written a lot of books.  /  
+
+x          B.148 utt1:  <Laughter>.   
+
+sd          A.149 utt1:  Boy, he just sits down eight hours a day.    
+
+ba          B.150 utt1:  <Throat_clearing> I know it. /  
+
++          A.151 utt1:  Just like any other job. /  
+
+b          B.152 utt1:  Right,  /
+sd          B.152 utt2: {C and then } he has some under, {F uh, } another name.    
+
+ba          A.153 utt1:  That's right. /  
+
++          B.154 utt1:  That he's written. /  
+
+sd          A.155 utt1:  That one about the Gypsies,  or that,   
+
+b          B.156 utt1:  Yeah. /  
+
++          A.157 utt1:  hunger - /
+%          A.157 utt2: {C or, }  s-, {F uh, } -/  
+
+b          B.158 utt1:  Yeah,  /
+sd          B.158 utt2: {F uh, } I think his name was Bachman.  /
+sd          B.158 utt3:  He wrote under the name of Bachman. /  
+
+b          A.159 utt1:  Yeah,  /
+sd          A.159 utt2: Richard Bachman. /  
+
+b          B.160 utt1:  Yeah.  /
+sv          B.160 utt2:  He is really interesting. /  
+
+b          A.161 utt1:  Yeah,  /
+sv          A.161 utt2: he's so prolific. /  
+
+b          B.162 utt1:  Yeah <breathing>.  /
+sd          B.162 utt2: {F Ooh, } I wish I could do that <laughter>. /  
+
+ba          A.163 utt1:  {F Oh, } I know it.  /
+sd          A.163 utt2:  {C And } I have gone back  /
+sd          A.163 utt3: {C and, }  after [ I, + I ] graduated, I read some of the old classics that I just bluffed my way through --   
+
+b          B.164 utt1:  Uh-huh. /  
+
++          A.165 utt1:  -- and have found that I enjoy them quite a bit, too, {F uh, } /  
+
+sd          B.166 utt1:  I do, too.  /
+sd          B.166 utt2:  I love [ old, + good old, ] -/  
+
+sv          A.167 utt1:  Once you can get into the language, - /
+%          A.167 utt2: {D you know, } the l-, -/  
+
+b          B.168 utt1:  Yeah <laughter>. /  
+
+sd          A.169 utt1:  [ It's + {D like, }  it's  ] English,  /
+sd          A.169 utt2: {C but } it's not the same English they speak today. /  
+
+b          B.170 utt1:  Right. /  
+
+sd          A.171 utt1:  {C So } it's kind of hard to keep, {D you know, } at it,  /
+%          A.171 utt2: {C but } -- -/  
+
+ba          B.172 utt1:  That's true,  /
+%          B.172 utt2: {C but } I, -/  
+
+sv@          A.173 utt1:  -- their worthwhile.    
+
+sd          B.174 utt1: [ That's, + that ] was one of my favorite subjects in school was, {F uh } --   
+
++@          A.175 utt1:  Literature? /  
+
++          B.176 utt1:  -- literature. /  
+
+b          A.177 utt1:  Yeah,  /
+sd          A.177 utt2: me, too. /  
+
+sd          B.178 utt1:  I used to love those [ old, + [ good, + good ] old ] books. /  
+
+b          A.179 utt1:  Uh-huh. /  
+
+sd          B.180 utt1:  <Sniffing> I didn't mind doing that at all <laughter>. /  
+
+sd          A.181 utt1:  Nathaniel Hawthorne is pretty scary himself. /  
+
+b          B.182 utt1:  Yeah,  /
+b^r          B.182 utt2: yeah.  /
+%          B.182 utt3:  I liked, {F uh, } <throat_clearing> {F oh, } - /
+^h          B.182 utt4: {D gosh } why can't I think of their names,  /
+^h          B.182 utt5: {F uh, } <lipsmack> <breathing>, shoot,  /
+qy^d          B.182 utt6: the one that wrote, {F uh, } WUTHERING HEIGHTS. /  
+
+qy@          A.183 utt1:  {F Uh, } wasn't that Jane Ehre? / *[[spelling--Eyre?]] 
+ar          A.183 utt2:  No, /  
+
+nn          B.184 utt1:  No  /
+sd^e          B.184 utt2: that was another one. /  
+
+sd@          A.185 utt1:  he wrote JANE EHRE, too <laughter>. / *[[spelling Eyre?]]
+
+b          B.186 utt1:  Yeah,  /
+b^r          B.186 utt2: yeah.  /
+sv          B.186 utt3:  {F Uh, } {D well, } you know who I'm talking about <laughter>. /  
+
+b          A.187 utt1:  <Laughter> Yeah. /  
+
+b          B.188 utt1:  Yeah,  /
+sv          B.188 utt2: those are [ good old -- +   
+
+b          A.189 utt1:  Yeah,  /
+b          A.189 utt2: uh-huh. /  
+
++          B.190 utt1:  -- good old ] books and classics,  /
+ba          B.190 utt2: that's right. /  
+
+b          A.191 utt1:  Right,  /
+b^r          A.191 utt2: right. /  
+
+ba          B.192 utt1:  Sure is neat <<faint>>. /  
+
+sd          A.193 utt1:  That's why I like to watch that MASTERPIECE THEATRE on channel thirteen,   
+
+b          B.194 utt1:  Yeah. /  
+
++          A.195 utt1:  because they'll take a classic [ and, + and, ] {F uh, } televise it --   
+
+b          B.196 utt1:  Right. /  
+
++          A.197 utt1:  -- {D you know, } put it into a viewing format,   
+
+b          B.198 utt1:  Right. /  
+
++          A.199 utt1:  more or less. /  
+
+sv          B.200 utt1:  A lot of people just don't have time to read nowadays. /  
+
+b          A.201 utt1:  Uh-huh. /  
+
+sd          B.202 utt1:  I know [ it's, + it's ] really hard for me.  /
+sd          B.202 utt2:  I work two jobs and --   
+
+bh          A.203 utt1:  Do you? /  
+
++          B.204 utt1:  -- {F uh, } have my daughter and teach Sunday school and go to school, myself,  /
+sd          B.204 utt2: {C so } [ it's, + it's ] hard for me to --   
+
+ba          A.205 utt1:  {D Well, } I can imagine. /  
+
++          B.206 utt1:  -- sit down and read,  /
+sd          B.206 utt2: {C but } when I do I [ just, + just ] love it. /  
+
+b          A.207 utt1:  Yeah,  /
+b^r          A.207 utt2: yeah  /
+sd          A.207 utt3: me, too. /  
+
+x          B.208 utt1:  <Sneezing>.   
+
+sv^t          A.209 utt1:  {D Well, } I think we've accomplished five minutes  /
+%          A.209 utt2: {C so, } -/  
+
+sv^t          B.210 utt1:  I think we have, too. /  
+
+x          A.211 utt1:  <Laughter>.   
+
+fc          B.212 utt1:  Thank you very much. /  
+
+fc          A.213 utt1:  It's good talking to you. /  
+
+fc          B.214 utt1:  You, too.  /
+fc          B.214 utt2:  Bye-bye. /  
+
+fc^m          A.215 utt1:  Bye-bye. / 

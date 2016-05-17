@@ -1,0 +1,560 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2253_1140_1149
+TOPIC#:		311
+DATE:		910325
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	3
+BACKGROUND_A:	2
+BACKGROUND_B:	3
+REMARKS:        A little background noise and static on speaker B the
+third time around. 
+
+==========================================================================
+  
+
+o          @A.1 utt1:  Yeah,  /
+qw          @A.1 utt2: the question was, {F uh, }  what kind of books do you read for entertainment,  {F uh, } {F uh, } <laughter> I guess, /  
+
+sd          B.2 utt1:  {F Oh, } I just read for escape. /  
+
+bk          A.3 utt1:  Okay <laughter>. /  
+
+%          B.4 utt1:  {D Well, } {E I mean } it's, -/  
+
+ba          A.5 utt1:  With two little kids I can understand that. /  
+
+b          B.6 utt1:  Yes.  /
+sv          B.6 utt2:  [ It's + that's ] simple.  /
+sd          B.6 utt3: I read to escape,  /
+sd          B.6 utt4: {C and }  I don't read any PARENTS magazines either. /  
+
+b          A.7 utt1:  {F Oh } <laughter>. /  
+
+%          B.8 utt1:  {C So. } -/  
+
+qw          A.9 utt1:  [ What, + {F uh, } what ] kind of, -/  
+
+sd          B.10 utt1:  {D Well, } [  I just finished, + [ just,  + I just ] finished ]  one last night.  A great book.  /
+sd          B.10 utt2: [ It, + it's ] very, [ a + ] typical for my reading  though but a great book, one called, THE THINGS THEY CARRIED by Tim O'Brien. /  
+
+b          A.11 utt1:  {F Huh. } /  
+
+%          B.12 utt1:  {C And } it's, {F uh, } - /
+fe          B.12 utt2: God  /
+sd          B.12 utt3: I don't know if  I would call it a collection of Vietnam war stories or if I'd call it a collection of Vietnam love stories. /  
+
+b          A.13 utt1:  Oh. /  
+
+sd          B.14 utt1:  Strange book. Beautifully written. /  
+
+b          A.15 utt1:  Uh-huh. /  
+
+sd^r          B.16 utt1:  Just beautifully written. /  
+
+qy          A.17 utt1:  By, {F uh, } somebody who was there  /
+%          A.17 utt2: {C or, } -/  
+
+ny          B.18 utt1:  Yeah,  /
+sd^e          B.18 utt2: a guy who was there as a, {F uh, } foot soldier. /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sd          B.20 utt1:  {C So, } he considered himself to be,  {D you know, }  [ a, + a ] true Vietnam soldier. /  
+
+b          A.21 utt1:  Yeah.  /
+%          A.21 utt2:  {D Well, } any of the guys that were  ground  ((   )) - /
+%          A.21 utt3: yes.  /
+%          A.21 utt4: Yeah,  /
+ba          A.21 utt5: I can imagine. /  
+
+b          B.22 utt1:  Yeah.  /
+qw          B.22 utt2: {D So, } what's the latest one you've read? /  
+
+^h          A.23 utt1:  {D Well, } I tell you what,  /
+^h          A.23 utt2: I'm a kind of, {F uh, } a history nut.  /
+^h          A.23 utt3:  I'm trying to think back now,  /
+sd          A.23 utt4: I read an awful lot of,  {F uh, } periodicals and, {F uh, } {D you know, } almost what you call reference books. /  
+
+b          B.24 utt1:  Uh-huh. /  
+
+sd          A.25 utt1:  {C And, }  {F uh, } [ the last, + {F uh, }   I'm embarrassed to say the last, ] {D you know, } honest to gosh, cover to cover book that I read, {A I cannot,  right offhand, } I tried to read, {F uh, } one of [ the, + the ] Michener,  {F uh, } LONE STAR or [ the, + the ] TEXAS HISTORY BOOK. /  
+
+sd          B.26 utt1:  I have never been able to make it through any of Michener's work. /  
+
+sd          A.27 utt1:  {F Oh, } {D well, } I've had similar problems.  /
+sv          A.27 utt2:   It does tend [ to, + to, ] -/  
+
+qy          B.28 utt1:  [ Have you, + are you ] a Civil War buff at all? /  
+
+ny          A.29 utt1:  Yeah, as a matter of fact,  /
+ny^r          A.29 utt2: yeah <laughter>. /  
+
+sd          B.30 utt1:  {C Because } I finished one,  /
+sd          B.30 utt2: I think this is {D like } two years ago,  /
+sd          B.30 utt3: {C and } somebody had given me one of these dinky do, crappy women's novels set in the Civil War, John Jakes  (( with )) , -/  
+
+b          A.31 utt1:  Yeah. /  
+
+sd          B.32 utt1:  {C and } the novel didn't do that much for me.  /
+sv          B.32 utt2:  {C But, }  {D boy, } the period of time was fascinating. /  
+
+b          A.33 utt1:  Uh-huh. /  
+
+sd          B.34 utt1:  {C So, } I then read, was it BATTLE CRY OF FREEDOM, /  
+
+b          A.35 utt1:  <<Very faint>> Uh-huh. /  
+
+%          B.36 utt1:  {C or, } - /
+%          B.36 utt2: yeah,  /
+sd          B.36 utt3: I think it was BATTLE CRY OF FREEDOM. /  
+
+b^m          A.37 utt1:   (( BATTLE CRY OF FREEDOM )) . /  
+
+sd          B.38 utt1:  It's kind of like a historical compendium,   
+
+b          A.39 utt1:  Yeah. /  
+
++          B.40 utt1:  of the Civil War,  /
+sd          B.40 utt2: {C and } it's not a story of the  Civil War,  /
+sd          B.40 utt3: it's a story of all the politics and, {F uh, } lobbying and just basically state  by state events,   
+
+b          A.41 utt1:  Uh-huh. /  
+
++          B.42 utt1:  that lead to the events that brought about the  Civil War.  /
+sd          B.42 utt2:  {C And } it's fascinating because I had always, {D you know, } been raised on  this, {D you know, } [ (( Emancipation )) + Proclamation ] with the Civil War. /  
+
+b          A.43 utt1:  Uh-huh.  /
+qy^g          A.43 utt2: There was a lot more to it than that, weren't there? /  
+
+na^m          B.44 utt1:  There was a lot more to it than that.  /
+sd          B.44 utt2:  As a matter of fact  that was a very minor part that kind of become like an afterthought. /  
+
+b          A.45 utt1:  Yeah,  /
+sv          A.45 utt2: {D well, } it was a political move. /  
+
+b          B.46 utt1:  {F Oh, } yeah. /  
+
+sv          A.47 utt1:  It was made to placate some of the northern support  but not completely alienate all the southern support because, {D you know, }  [ it was, +  {F uh, } if you read it, it only emancipated ] those who were in areas,  {F uh, } in rebellion against the United States.  /
+sv          A.47 utt2:  All the other areas which [ would, +   I think at that time would ] have included West Virginia and, {F oh, }  may have been Kentucky, a few states, {D you know, }  that were not part of the South but still had slaves. /  
+
+b          B.48 utt1:  Uh-huh. /  
+
+sv          A.49 utt1:  They didn't emancipate them. /  
+
+qh          B.50 utt1:  {D Well, } you know what else really surprised  me, now  /
+sd          B.50 utt2: I'm married to a native Texan  /
+sd          B.50 utt3: {C and } I'm not. /  
+
+b          A.51 utt1:  Uh-huh. /  
+
+b          B.52 utt1:  {F Uh, } /  
+
+sd          A.53 utt1:  I've got the same problem <laughter>. /  
+
+b          B.54 utt1:  yeah,  /
+sd          B.54 utt2: I'm glad you put it that way. /  
+
+x          A.55 utt1:  <Laughter>.   
+
+sd          B.56 utt1:  {C And } I have two native Texan children too. /  
+
+b          A.57 utt1:  Yeah. /  
+
+sd          B.58 utt1:  My husband is always,  {D you know, } talked about [ th-, + Texas ]  being a, {F uh, } rebel state. /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:  And, {A {F oh, } my God, } all this Civil War pride.  /
+%          B.60 utt2:  I kept waiting for, - /
+qh          B.60 utt3: where's some reference to this goddamn State of Texas  and the role that they played either leading up to or in the Civil War. /  
+
+%          A.61 utt1:   (( Mayb-, )) - /
+qy^g          A.61 utt2: isn't much there, was there? /  
+
+sv          B.62 utt1:  They might as well have not even been there. /  
+
+b          A.63 utt1:  Right. /  
+
+sv          B.64 utt1:  {D You know, } they weren't a state  /
+sv          B.64 utt2:  {C and } [ the only, + the only ] way that they had any part in it was after worth as to, {D you know, }  who's going to be going there.  /
+sd          B.64 utt3: {C And } I keep telling my husband that,  /
+sd(^q)          B.64 utt4: {C and }  he keeps saying, {F oh, } no.  /
+sd(^q)          B.64 utt5:  I thought, okay. /  
+
+%          A.65 utt1:  They supplied some, {F uh, } {D you know, } - /
+sd          A.65 utt2:  they were some groups of it, the Vicksburg,  /
+sd          A.65 utt3: if you ever get a chance to go over to Vicksburg,  the battleground at Vicksburg, {F uh, } there's an area [ there where +   there was, ] {F uh, } some Texas, {F uh, } groups  /
+sv          A.65 utt4: {C and } they had an interesting time there. /  
+
+aa          B.66 utt1:  {F Oh, } I'll bet they did. /  
+
+sd          A.67 utt1:  {C And } down there at Sabine Pass, {F uh, } I can't think  of the guy's name  /
+sv          A.67 utt2: {C but }  [ he held off, +  {F uh, } {D you know, } just he and a handful of guys  managed to hold off ] the whole Union navy for a while from coming up the Sabine River which was of no consequence but still is an interesting story. /  
+
+qh          B.68 utt1:  {D Well, } {D you know, } why they actually held them off?  /
+sv          B.68 utt2:   None of the Yankees wanted to listen to their kind of luted grammar <laughter>. /  
+
+am          A.69 utt1:  <Laughter> That [ could be  (( it )) +  <laughter>, could be it. ] /  
+
+ad          B.70 utt1:  {D Now, } you didn't hear me say that.  /
+%          B.70 utt2:  Outside of, {F uh, } -/  
+
+sd          A.71 utt1:   {C And then } the last Civil War battle was fought at  Val Verde, {D you know, }  /
+sd          A.71 utt2: over there on the Texas border you had a lot [ of, + of ] groups heading  for Mexico  /
+sd          A.71 utt3: {C and } they were cut off at the pass more or less, at Eagle Pass.  /
+sd          A.71 utt4:   {C And } they didn't get across the river there  /
+%          A.71 utt5: {C so } they're, the last, - /
+sd          A.71 utt6:  {C and } that was actually after the war was over  /
+sd          A.71 utt7: {C but } it was the last,   
+
+b          B.72 utt1:  Yeah. /  
+
++          A.73 utt1:  organized battle between the two units was in Texas,  /
+%          A.73 utt2: {C so. } -/  
+
+b          B.74 utt1:  Oh. /  
+
+b          A.75 utt1:  Yeah,  /
+sv          A.75 utt2: Texas participation in the Civil War was,  {F uh, } minor at, {F uh, } - /
+%          A.75 utt3:  <laughter> it's been, -/  
+
+ba          B.76 utt1:  Boy,  /
+ad          B.76 utt2: don't tell that to a native Texan though, /  
+
+aa          A.77 utt1:  Yeah. /  
+
+sv          B.78 utt1:  {E I mean, } my god,  they fought and won the whole thing. /  
+
+b          A.79 utt1:  Yeah,  /
+sd          A.79 utt2: {D well, } my wife's from Galveston,  /
+%          A.79 utt3: {C so. } -/  
+
+b          B.80 utt1:  Oh. /  
+
+b          A.81 utt1:  Yeah.  /
+sd          A.81 utt2:  {D Well, } I'm from New Mexico  /
+%          A.81 utt3: {C so, }  {D you know, } I was <laughter>, -/  
+
+ba          B.82 utt1:  That's a beautiful state.  /
+ba          B.82 utt2:  That's a beautiful state.  /
+sv          B.82 utt3:   See I was raised in the Midwest which,   
+
+b          A.83 utt1:  Uh-huh. /  
+
++          B.84 utt1:  {D you know, } {D hell, }  [ we didn't even, + {D you know, } we didn't even ] know where the Mason Dixon Line was,  /
+sv          B.84 utt2: {C and } besides, {D you know, }  if corn didn't grow there,   
+
+b          A.85 utt1:  <<Very faint>> {F Huh. } /  
+
++          B.86 utt1:  it didn't matter. /  
+
+sv          A.87 utt1:  It sounds like Iowa or something. /  
+
+sd          B.88 utt1:  Iowa and Nebraska. /  
+
+b          A.89 utt1:  Uh-huh. /  
+
+b          B.90 utt1:  Yep.  /
+sd          B.90 utt2:  {C And then } I had probably lived the last  eleven years in Massachusetts  /
+qh          B.90 utt3: {C so, } {D you know. }   
+
+b          A.91 utt1:  Uh-huh. /  
+
++          B.92 utt1:  What does that make me, an honorary Yankee  /
+qh          B.92 utt2: {C or, }   
+
+b          A.93 utt1:  Yeah,  /
+%          A.93 utt2: on, - /
+b^r          A.93 utt3: yeah. /  
+
++          B.94 utt1:  God knows what. /  
+
+sd          A.95 utt1:  {F Oh, } {D well, } my sister's living in Illinois right  now,  /
+%          A.95 utt2: {C so } <laughter>. -/  
+
+sv          B.96 utt1:  {D Well } then, she's going to come out well rounded. /  
+
+b          A.97 utt1:  Yeah. /  
+
+sd          B.98 utt1:  {C But } outside of those kind of things,  you know, the other thing that I've really gotten into reading,  /
+sd          B.98 utt2: {C and } I think this is  because the kids are getting to me,   
+
+b          A.99 utt1:  Uh-huh. /  
+
++          B.100 utt1:  is science fiction. /  
+
+sd          A.101 utt1:  I've always kind of enjoyed it.  /
+sd          A.101 utt2:  [ I, + I ] used to read a  lot more than I do now. /  
+
+sd          B.102 utt1:  {D Well, } I've gone to the point where  [ my husband, + my husband ] travels, I get out {D like, } {D you know, } two or three books. /  
+
+b          A.103 utt1:  Uh-huh. /  
+
+sd          B.104 utt1:  {C And } [ I, + I'm ] trying to think of,  {F oh, } Isaac Asimov, ROBOT series. /  
+
+b          A.105 utt1:  Yeah. /  
+
+sd          B.106 utt1:  {E I mean, } I think I've read all four of them  /
+sd          B.106 utt2:  {C and } I understand that there's a fifth. /  
+
+b          A.107 utt1:  <<Very faint>> Uh-huh. /  
+
+sd          B.108 utt1:  In the last <laughter>   (( six weeks ))  he's been on the road a lot. /  
+
+sd          A.109 utt1:  I just turned around and looked [ at my brief, + at [ my briefcase, +  my, {F uh, } bookcase ] ] up here  /
+sd          A.109 utt2: {C and } I see ARMAGEDDON up there.  /
+sd          A.109 utt3: {C And, }   {F uh, } the SHADOW OF BLOOMING GROVE and TWO THOUSAND AND TEN and GRANT TAKES COMMAND  and THE WAR IN THE YEAR <laughter>, {F oh, } SPACE  ((   ))   that was the one I was trying to wade through was SPACE,  James Michener. Didn't get very far on that. /  
+
+sd          B.110 utt1:  {D You know, } I think I read HAWAII,   
+
+b          A.111 utt1:  Yeah. /  
+
++          B.112 utt1:  when I was about ten years old  /
+%          B.112 utt2: [ {C or } +  {C so. } ] -/  
+
+b          A.113 utt1:  Yeah. /  
+
+sv          B.114 utt1:  Which is about the developmental level that,  {D you know, } you need to be at to read those things,  /
+sd          B.114 utt2: {C and } [ I still +  even then I was  [ so, + so ] disgusted with it [ I, + I ] ] tried to read, I don't remember which other  one it was,  /
+sd          B.114 utt3: whatever one it was it was such a blockbuster seller. /  
+
+b          A.115 utt1:  Yeah. /  
+
+sd          B.116 utt1:  {C And } [ I just, + I ] got about {D like }  a hundred pages through it and realized I had {D like } a thousand more,  /
+sd(^q)          B.116 utt2: I thought, I can't do this. /  
+
+b          A.117 utt1:  Yeah,  /
+%          A.117 utt2: it really - /
+sv          A.117 utt3: [ the, + the ] books are kind of,  {F uh, } imposing to say the least. /  
+
+b          B.118 utt1:  Yeah. /  
+
+^h          A.119 utt1:  No,  /
+^h          A.119 utt2: let's see,  /
+sd          A.119 utt3: here's one called GHOST TOWNS  AND MINING CAMPS OF NEW MEXICO  /
+sv          A.119 utt4: {D now, } not too many people have read that one  /
+sv          A.119 utt5: I don't think. /  
+
+aa          B.120 utt1:  No. /  
+
+sd          A.121 utt1:  {C And } there's THE HISTORY OF YOAKUM COUNTY, TEXAS there. /  
+
+x          B.122 utt1:  <Laughter>.   
+
+%          A.123 utt1:  I've got, {F uh, } -/  
+
+qy          B.124 utt1:  Is that a big, thick book? /  
+
+ny          A.125 utt1:  Yeah,  /
+sd^e          A.125 utt2: [ {C and } I've got, + {D yeah, } {C and }  I've got ] a HISTORY OF KINGSLEY, IOWA /  
+
+qw          B.126 utt1:  [ What the, + what the ] hell for?  /
+qw          B.126 utt2: Why Kingsley, Iowa? /  
+
+sd          A.127 utt1:  {D Well, } {C because } that's where my folks all came from. /  
+
+bk          B.128 utt1:  {F Oh, } okay. /  
+
+sd          A.129 utt1:  <Laughter> {C And } they had a centennial here  awhile back.  /
+sd          A.129 utt2: I read the GRANT TAKES COMMAND,  /
+sd          A.129 utt3: that was pretty good. /  
+
+%          B.130 utt1:  {D Well, } -/  
+
+sd          A.131 utt1:  That was part of that trilogy that, {F uh, }   
+
+%          B.132 utt1:  Now [ that's one that, +   
+
++          A.133 utt1:  Bruce  (( Canton ))  did. /  
+
++          B.134 utt1:  That's one ] - /
+h          B.134 utt2: I don't know.  /
+sd          B.134 utt3:  {D See, } I had never really  been into science fiction that much until,  {F uh, } somebody gave me MIST OF AVALON probably about five or  six years ago. /  
+
+b          A.135 utt1:  Yeah. /  
+
+sd          B.136 utt1:  I don't know if I'd call it science fiction or fantasy. /  
+
+sv          A.137 utt1:  Sometimes it's awful hard,  /
+sv          A.137 utt2: some of those get  very philosophical  /
+sv          A.137 utt3: they can be in any setting,  /
+sv          A.137 utt4: they just happen to put them in a futuristic setting,  {D you know, }  /
+%          A.137 utt5: the, -/  
+
+sd          B.138 utt1:  {D Well, } I loved that novel.  /
+sd          B.138 utt2:  {C And then }  somebody said, {F oh, } God, this would have been even long ago because I was in Boston  /
+sd          B.138 utt3: {C and }  it was raining all night,  /
+sd          B.138 utt4: {C and } I had a hole in my roof  /
+sd          B.138 utt5: {C and } I was waiting for the  whole house to collapse,   
+
+x          A.139 utt1:  <Laughter>.   
+
++          B.140 utt1:  and, {F uh, } I was reading DUNE.    
+
+b          A.141 utt1:  Oh. /  
+
++          B.142 utt1:  Which seeming rather ironic. /  
+
+b          A.143 utt1:  Yeah. /  
+
+sd          B.144 utt1:  {C And } I read the whole damn book  while I was home hauling out, {D you know, } {D like } ten-gallon buckets [ of, + of ] water and waiting  for the roof to collapse and,    
+
+b          A.145 utt1:  Uh-huh,  /
+b          A.145 utt2: you're reading DUNE. /  
+
++          B.146 utt1:  reading about these guys wearing their little   (( free man still suits ))  /
+sd          B.146 utt2: {C and, }   
+
+x          A.147 utt1:  <Laughter>.   
+
++          B.148 utt1:  I think that's probably my favorite [ of, + of ]  any piece of science fiction that I've ever read. /  
+
+qy^g          A.149 utt1:  That was a movie too, wasn't it? /  
+
+na          B.150 utt1:  {C And } the movie was awful. /  
+
+bh          A.151 utt1:  Was it? /  
+
+ny          B.152 utt1:  {F Oh, } yes,  /
+sd^e          B.152 utt2: it was just terrible. /  
+
+b          A.153 utt1:  Yeah,  /
+sd          A.153 utt2: [ I'd, + I  didn't ] see it  /
+%          A.153 utt3: {C but, }  {F uh, } - /
+%          A.153 utt4: yeah. /  
+
+%          B.154 utt1:  [ It was, + it was ] beyond, {F uh, } -/  
+
+sd          A.155 utt1:  Patrick Stewart was in that.  /
+qy^g          A.155 utt2:   I guess the guy that's on the new STAR TREK series was in that thing, {F uh } <laughter>. /  
+
+no          B.156 utt1:  I don't know,  /
+sd          B.156 utt2: I just remember Sting was in it. /  
+
+bh          A.157 utt1:  {F Oh, } really?  <laughter>. /  
+
+ny          B.158 utt1:  Yeah,  /
+sv^e          B.158 utt2: {C and } if you were trying to follow  any type of, {F uh, } plot, [ it, + it ] total-, - /
+sd          B.158 utt3: even having read the book,  and I've read that book probably three times,   
+
+b          A.159 utt1:  <<Very faint>> Uh-huh. /  
+
++          B.160 utt1:  watching that movie, I couldn't figure out,   
+
+%          A.161 utt1:  Couldn't, -/  
+
++          B.162 utt1:  what they were talking about,   
+
+x          A.163 utt1:  <Laughter>.   
+
++          B.164 utt1:  at all. /  
+
+b          A.165 utt1:  Yeah. /  
+
+sd          B.166 utt1:  I was real disappointed in that.  /
+^h          B.166 utt2:  {D Well, } I'll tell you another good book,  /
+qy          B.166 utt3: do you like scary things? /  
+
+^h          A.167 utt1:  {F Um, } {D well, } some history,     
+
+%          B.168 utt1: Have you, -/  
+
++          A.169 utt1: books are pretty scary,  /
+%          A.169 utt2: {C but, } - /
+ny          A.169 utt3: yeah <laughter>. /  
+
+aa          B.170 utt1: That's true.  /
+qy          B.170 utt2: Have you read, THE SILENCE OF THE LAMBS? /  
+
+nn          A.171 utt1:  No.  /
+sd^e          A.171 utt2:  Somebody who,   
+
+bk          B.172 utt1:  Oh. /  
+
++          A.173 utt1:  saw the movie here the other day told me  it was the most terrifying thing they'd ever seen,  /
+sd          A.173 utt2: they didn't sleep all night. /  
+
+sd          B.174 utt1:  {D Well, } {D see } [ I, + I ] am debating whether or  not I want to go see the movie (( after having ))  read the book. /  
+
+b          A.175 utt1:  Yeah. /  
+
+sd          B.176 utt1:  {E I mean } the book [ is, + is ] chilling. /  
+
+b          A.177 utt1:  Yeah,  /
+%          A.177 utt2: I have, -/  
+
+sd          B.178 utt1:  Just chilling. /  
+
+nn          A.179 utt1:  no, {F uh, }  /
+sd^e          A.179 utt2: I don't have the foggiest notion  what it's about,  /
+%          A.179 utt3: {C so. } -/  
+
+sd          B.180 utt1:  Then I won't tell you. /  
+
+b          A.181 utt1:  Okay,  /
+b          A.181 utt2: yeah <laughter>.  /
+%          A.181 utt3:  {C But, } -/  
+
+sd          B.182 utt1:  It's just that if you're [ ever, + ever ]  really want to just be scared out of your wits, /  
+
+b          A.183 utt1:  Uh-huh,  /
+qy^d          A.183 utt2: that's the one. /  
+
+na^m          B.184 utt1:  That's the one.  /
+ny          B.184 utt2:  Yes. /  
+
+qy          A.185 utt1:  Even better than JAWS and some of that? /  
+
+ny          B.186 utt1:  Yes,  /
+sd^e          B.186 utt2: {C because } [ the cat-, + [ the, + the ] character ]  that is so horrible is another human being.  /
+sd          B.186 utt3: {C And } you're just drawn into [ his, + his ] horror,   
+
+x          A.187 utt1:  <Laughter>.   
+
++          B.188 utt1:  of him that you,   
+
+b          A.189 utt1:  Yeah. /  
+
++          B.190 utt1:  begin to kind of like him. /  
+
+b          A.191 utt1:  Oh.  /  
+
+%          B.192 utt1:  {E I mean, } -/  
+
+qy^g          A.193 utt1:  [ A, + a ] Freddy Kruger type, {F huh? } /  
+
+nn          B.194 utt1:  No,  /
+nn^r          B.194 utt2: no.  /
+sd^e          B.194 utt3:  This guy's smart  /
+sd          B.194 utt4: {C and }  he's suave  /
+sd          B.194 utt5: {C and } he's [ all the charac-, + all the,   
+
+^2          A.195 utt1:  {F Oh } the worst kind,  /
+%          A.195 utt2: yeah, /  
+
++          B.196 utt1:  characteristics, ] /  
+
+b          A.197 utt1:  yeah. /  
+
+b^m          B.198 utt1:  yeah,  /
+%          B.198 utt2: all the characteristics ... -/ 

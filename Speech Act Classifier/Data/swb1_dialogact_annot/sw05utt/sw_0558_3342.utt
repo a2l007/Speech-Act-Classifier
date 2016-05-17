@@ -1,0 +1,271 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3342_1414_1422
+TOPIC#:		360
+DATE:		911101
+TRANSCRIBER:	GL
+UTT_CODER:	stm
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+======================================================================
+  
+
+sd          A.1 utt1:   ((   ))  not be a very good conversationalist on fishing. - /
+sd          A.1 utt2: I don't do a lot of it. /  
+
+sd          @B.2 utt1:  {D Well, } I do love to fish. /  
+
+ba          A.3 utt1:  {D Well } good,  /
+sv          A.3 utt2: maybe I can learn something. /  
+
+arp          B.4 utt1:  {D Well, } I don't know how much you can learn. /  
+
+x          A.5 utt1:  <Laughter>.  
+
+sd          B.6 utt1:  <Laughter> I'm not so sure I'm good at  it,  /
+sd          B.6 utt2: {C but } I do enjoy doing it. /  
+
+qy          A.7 utt1:  Do you? /  
+
+ny          B.8 utt1:  Yeah. /  
+
+sd         A.9 utt1:  {D Well, } it is fun, what little I do.  /
+h          A.9 utt2:  Of course, I don't,  {D you know, } - /
+sd          A.9 utt3: I think when they refer to different kinds of fishing - /
+sd          A.9 utt4: I told my husband last night when I had called and they had, told me that this was a topic,  I said, {D well, } I can tell them how to fish with a minnow or how to fish with a worm <laughter>.  /
+sd(^q)          A.9 utt5: He said, I don't think that's the different kinds of fishing they're talking about <laughter>. /  
+
+sd          B.10 utt1:  {D Well, } I hope it is, /  
+
+x          A.11 utt1:  <Laughter>. 
+
+sd          B.12 utt1:  there's not a whole lot of different kinds. /  
+
+sd          A.13 utt1:  That's about the only kind I know how to do. /  
+
+sd          B.14 utt1:  I don't do a lot of deep sea fishing,  /
+sd          B.14 utt2: [ I, +  {C because } I ] get seasick,  /
+sd          B.14 utt3: {C but } --   
+
+b          A.15 utt1:  Uh-huh. /  
+
++          B.16 utt1:  -- we have a lot of lakes here in this area -- /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  -- {C and } I do a lot of fishing for, {F uh, } bass.  /
+sd          B.18 utt2: We have a  [ lot of, + {F uh, } {F uh, } couple of ] lakes in our area that are  [ fil-, +  just filled ] with good sized bass. /  
+
+b          A.19 utt1:  Uh-huh. /  
+
+sd          B.20 utt1:  {C And then } when I get tired of them outwitting me, I fish for catfish -- /  
+
+b          A.21 utt1:  Uh-huh. /  
+
+sd          B.22 utt1:  -- {C and } we use worms and shiners, which is pretty much like  minnows --   
+
+b          A.23 utt1:  Uh-huh. /  
+
++          B.24 utt1:  -- a little bit bigger than minnows,  /
+sd          B.24 utt2: {C and then } I also use spinner baits and plastic worms. /  
+
+b          A.25 utt1:  Uh-huh. /  
+
+sd          B.26 utt1:  It all depends on what I'm fishing for, and the time of  day. /  
+
+bf          A.27 utt1:  {D Well, } it sounds like you do quite a bit of it. /  
+
+aa          B.28 utt1:  I do.  /
+sd          B.28 utt2: {F Uh, } there's a lake {D like } maybe two or three miles from here,  /
+sd          B.28 utt3: {C and } --   
+
+b          A.29 utt1:  Uh-huh. /  
+
++          B.30 utt1:  -- it's very convenient on afternoons when I want to just get away and sit and think.  /
+sd          B.30 utt2: Fishing's a good way to do that,  /
+sd          B.30 utt3: {C and } I have a lot of friends who like to go fishing. /  
+
+qy          A.31 utt1:  Do you have a boat? /  
+
+nn          B.32 utt1:  No,  /
+sd^e          B.32 utt2: I don't.  /
+sd          B.32 utt3: I have a friend who has a little  [ infla-, + inflatable ] raft,  /
+sd          B.32 utt4: {C and } we --   
+
+b          A.33 utt1:  Uh-huh. /  
+
++          B.34 utt1:  -- use that sometimes. /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sd          B.36 utt1:  I wish I had a boat,  /
+sd          B.36 utt2: {C but } I don't. /  
+
+sd          A.37 utt1:  I think the lakes are probably different in Michigan than they are in Texas.  /
+sd          A.37 utt2: The ones around here are so big, that you can fish off the dock -- /  
+
+b          B.38 utt1:  Uh-huh. /  
+
+sd          A.39 utt1:  -- {C but } unless you have a boat you can't really get into [ the, +  where they call the ] good fishing holes, {D you know. } /  
+
+b          B.40 utt1:  Right.  /
+qy^g          B.40 utt2:  That's the same way here, isn't it? /  
+
+qy          A.41 utt1:  Is it? /  
+
+na          B.42 utt1:  You have to get back in the sticks in the, -/  
+
+b          A.43 utt1:  Uh-huh.  /
+sd          A.43 utt2:  My in-laws live on a lake, {F uh, } a little bit east of Dallas, kind of in the Piney Woods,  /
+sd          A.43 utt3: {C and } the lake is beautiful,  /
+sd          A.43 utt4: {C and } I like to go out and stand at the end of the dock and fish,  /
+sd          A.43 utt5: {C but } actually catching fish to eat per se, you don't really do much of that right there.  /
+sd          A.43 utt6:  I catch a lot of little old, {F uh, } I think they call them perch -- /  
+
+aa          B.44 utt1:  Right. /  
+
+sd          A.45 utt1:  -- {C and then } [ the, + the, ] {F uh, } turtles try to eat up all my bait <laughter>. /  
+
+b          B.46 utt1:  <Laughter> Oh. /  
+
+sd          A.47 utt1:  {C So } [ it's, + it's ] so close to the dock that I think all I do is feed them a little bit -- /  
+
+sd          B.48 utt1:  [ We don't have, +   
+
+sd          A.49 utt1:  -- {C but } it's kind of fun. /  
+
++          B.50 utt1:  We don't have  ] a big problem with turtles,  /
+sd          B.50 utt2: {C but } we do have a awful lot of snakes in our lakes. /  
+
+sd          A.51 utt1:  {F Um } --   
+
+sd          B.52 utt1:  {C And } [ I, +     
+
++          A.53 utt1:  -- I would be afraid of that. /  
+
++          B.54 utt1:  {D Well, } I ] can't think of a time that I've been fishing that I haven't run into one or two of them. /  
+
+qy          A.55 utt1:  Do they ever get on your hook? /  
+
+nn          B.56 utt1:  No,  /
+%          B.56 utt2: we, {F uh, } - /
+sd          B.56 utt3: occasionally I'll catch an eel --   
+
+b          A.57 utt1:  Uh-huh. /  
+
++          B.58 utt1:  -- [ on a, + on a ] hook, but never the snakes.  /
+%          B.58 utt2:  They just kind of, -/  
+
+qy          A.59 utt1:  Are they poisonous snakes? /  
+
+sd          B.60 utt1:  {F Uh, } we have a lot of cotton mouth,  /
+ny          B.60 utt2: {C so } yes  /
+sd^e          B.60 utt3: they are, definitely -- /  
+
+b          A.61 utt1:  Uh-huh. /  
+
+sd          B.62 utt1:  -- {C and } they live in [ little shallow, +  little ] coves that I like  to fish in,  /
+sd          B.62 utt2: {C so } I seem them swimming by every once in a while. /  
+
+b          A.63 utt1:  Yeah,  /
+sd          A.63 utt2: I think I'd be a little bit afraid of those. /  
+
+b          B.64 utt1:  Yeah,  /
+sd          B.64 utt2: [ [ they can, +   they're, ] +  they're ] certainly ugly. /  
+
+b          A.65 utt1:  Uh-huh.  /
+sd          A.65 utt2:  We, {F uh, } saw a large snake right off the dock there at my in-laws'   place last year.  /
+sd          A.65 utt3: It was probably four inches in diameter or something like that {D you know. }  /
+sd          A.65 utt4: Great big snake,  /
+sd          A.65 utt5: {C and } [ it, + of course, it  ] scared the women to death, {D you know, }  /
+sd(^q)          A.65 utt6: {C but } the men come out and said {F oh, } {D well, } that's only [ a, + a  ] king snake, it won't really hurt you, {D you know. }  /
+sd          A.65 utt7: {C But } it looked so bad -- /  
+
+b          B.66 utt1:  Yeah. /  
+
+sd          A.67 utt1:  -- {C and } it was so big, that it might not would have hurt us,  /
+sd          A.67 utt2:  {C but } we sure felt like it was hurting us, just being there,  {D you know } <laughter>. /  
+
+aa          B.68 utt1:  Definitely. /  
+
+sv          A.69 utt1:  {C But } they're scary looking. /  
+
+qy          B.70 utt1:  Do you have bass? /  
+
+ny          A.71 utt1:  Yes, {F uh, }  /
+sd^e          A.71 utt2: I think that, {F uh, } probably around here people fish for bass and crappie and catfish more than anything else. /  
+
+b          B.72 utt1:  Right.  /
+sd          B.72 utt2:  {D Well, } that's pretty much the same way here. /  
+
+b          A.73 utt1:  Uh-huh. /  
+
+%          B.74 utt1:  I, -/  
+
+sd          A.75 utt1:  {D Now, } they have a lot of bass tournaments. /  
+
+sd          B.76 utt1:  {D Well, } we have those.  /
+%          B.76 utt2: I don't -- -/  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  -- [ I +  inevitably, if I ] enter one of those, I never catch a  thing. /  
+
+ba          A.79 utt1:  {F Oh, } no. /  
+
+sd          B.80 utt1:  I just go out there and sit and watch other people do it. /  
+
+b          A.81 utt1:  Uh-huh.  /
+%          A.81 utt2:  {D Well } that's kind of, - /
+sd          A.81 utt3: we've never entered a tournament or anything.  /
+sd          A.81 utt4: We're not that big into fishing,  /
+sd          A.81 utt5: {C but } I see a lot of people,  /
+sd          A.81 utt6: {D you know, } early in the morning there'll be all the boats going out,  /
+sd          A.81 utt7: {C and } they'll say, {D Well, } there's a big bass tournament this weekend,  /
+sd          A.81 utt8: {C and } all those people are here for the tournament, {D you know. } /  
+
+ba          B.82 utt1:  {F Oh, } yes. /  
+
+sv          A.83 utt1:  {C So } I think there's a lot of people that have, {D you know, } [ really, + I guess that you'd call it really  ] sport fishing,  /
+sv          A.83 utt2: they're really into it to try to win. /  
+
+aa          B.84 utt1:  Yeah,  /
+aa          B.84 utt2: {F oh, } definitely.  /
+
+%          A.85 utt1:  My. /  
+
+sd          B.86 utt1:  Certainly here they are. /  
+
+sv          A.87 utt1:  {C But } [ it is, + it's  ] [ very, + a very  ] relaxing sport to be able to just be out on the water and looking around.  /
+sv          A.87 utt2:  The peace and  calmness is really relaxing. /  
+
+aa          B.88 utt1:  Yeah,  /
+sv          B.88 utt2: it's a good thing to take a nice book and sit back and  read and fish. /  
+
+b          A.89 utt1:  Uh-huh. /  
+
+sd          B.90 utt1:  That's what I do a lot. /  
+
+sd          A.91 utt1:  I've never tried taking a book with me.  /
+sd          A.91 utt2: I'll have to try that one of these days. / 

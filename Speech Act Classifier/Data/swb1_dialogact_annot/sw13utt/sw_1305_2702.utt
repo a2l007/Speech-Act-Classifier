@@ -1,0 +1,502 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+FILENAME:	2702_1116_1219
+TOPIC#:		320
+DATE:		910426
+TRANSCRIBER:	JKP
+UTT_CODER:	TC
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	3
+REMARKS:        Background noise on Speaker B side of recording throughout:  
+pans rattling, woman and child(ren) talking.  There were several places 
+where there were noticeable breaks in the recording.
+
+=======================================================================
+  
+
+%          B.1 utt1:  [Clanking] {dishes} <talking> {woman and children} <music>. /  
+
+sd          A.2 utt1:  Well, as much as I'd, uh, I'd like to say that I'll be looking for a flashy convertible or, uh, or a four by four or something,  /
+sd          A.2 utt2: I guess the next car I'll be looking for is a kind of a plain old four door <laughter>. /  
+
+qw          B.3 utt1:  <Laughter>  What kind of a car do you have now? /  
+
+sd          A.4 utt1:  Oh, we've got a, uh, an older Delta Eighty-Eight,  /
+sd          A.4 utt2: and then, uh, our, our newer car is a, uh, a Corsica. /  
+
+b          B.5 utt1:  Yeah. /  
+
+sd          A.6 utt1:  And we'll probably be looking for something about that, uh, that same style. /  
+
+b          B.7 utt1:  Yeah. /  
+
+sd          A.8 utt1:  That same kind of four door, hard top style. /  
+
+qy          B.9 utt1:  You got kids? /  
+
+nn          A.10 utt1:  Uh, no  /
+sd^e          A.10 utt2: but we're planning for it. /  
+
+bk          B.11 utt1:  Okay. /  
+
+sd          A.12 utt1:  So, uh, in fact, uh, our Oldsmobile is a, is a like an old Delta Eighty-Eight  /
+sd          A.12 utt2: but it's in pretty good sh-, in really good shape. /  
+
+b          B.13 utt1:  Yeah. /  
+
+sd          A.14 utt1:  And we've been really pleased with Oldsmobiles. /  
+
+b^r          B.15 utt1:  Yeah. /  
+
+sd          A.16 utt1:  So that's probably where the first place we'd look. /  
+
+b          B.17 utt1:  Huh. /  
+
+%          A.18 utt1:  But, uh, -/  
+
+sd          B.19 utt1:  Well, we've always had, uh, Fords. /  
+
+b          A.20 utt1:  Uh-huh. /  
+
+sd          B.21 utt1:  Uh, mostly because my wife's stepfather works at a Ford dealership <laughter>. /  
+
+ba          A.22 utt1:  That'll do it. /  
+
+b          B.23 utt1:  Yeah.  /
+sd^m          B.23 utt2:  That'll do it.  /
+sd          B.23 utt3:  Um, but, yeah, we're, we're in the same shape.  /
+sv          B.23 utt4:  I think our next car will be a, you know, some big old four door, uh, something that can haul the kids to baseball practice --   
+
+b          A.24 utt1:  Yeah. /  
+
++          B.25 utt1:  -- and piano lessons,  /
+sd          B.25 utt2: and we've got a minivan, /  
+
+b          A.26 utt1:  Uh-huh. /  
+
+sv          B.27 utt1:  and that's great.  /
+%          B.27 utt2:  And I d-, drive, uh, - /
+sd          B.27 utt3: well I used to drive an Escort,  /
+sd          B.27 utt4: but it died on me. /  
+
+x          A.28 utt1:  <Laughter>. /  
+
+sd          B.29 utt1:  <Throat_clearing> So I, I mean I, I, I used to run it, I, uh, where we used to live, I used to commute a hundred and forty miles a day. /  
+
+ba          A.30 utt1:  Oh, geez. /  
+
+sd          B.31 utt1:  And, uh, and this Escort took it all.  /
+sd          B.31 utt2:  And it, it, it got up to, uh, uh, I was at ninety-four thousand miles on it,  /
+sd          B.31 utt3: and the engine just went. /  
+
+b          A.32 utt1:  Uh-huh. /  
+
+sd          B.33 utt1:  So I, I, I bought a used, uh, Dodge Aries,   
+
+b          A.34 utt1:  Yeah. /  
+
++          B.35 utt1:  which has been okay. /  
+
+bh          A.36 utt1:  Really? /  
+
+sd          B.37 utt1:  I, I mean I've haven't had it that long. /  
+
+b          A.38 utt1:  Uh-huh. /  
+
+sd          B.39 utt1:  But it, it al-, it's an eighty-five Aries,  /
+sd          B.39 utt2: but it only had thirty-four thousand miles on it when I bought it. /  
+
+ba          A.40 utt1:  Oh, geez. /  
+
+sd          B.41 utt1:  And I just, you know, I just drive it to work.  /
+sd          B.41 utt2:  So it's just a ten minute commute every day. /  
+
+b          A.42 utt1:  Uh-huh. /  
+
+sd          B.43 utt1:  So, uh, it <laughter> doesn't get much of, uh, - /
+sv          B.43 utt2: I mean, it's not like I'm putting it through its paces. /  
+
+b          A.44 utt1:  Yeah,  /
+b^r          A.44 utt2: yeah. /  
+
+%          B.45 utt1:  But I think, uh,  /
+sv          B.45 utt2: and it's a four door which is nice, /  
+
+b          A.46 utt1:  Uh-huh. /  
+
+sv          B.47 utt1:  but it's still a little cramped.  /
+sd          B.47 utt2:  I've got three kids, /  
+
+b          A.48 utt1:  Yeah. /  
+
+%          B.49 utt1:  #so I, I,# -/  
+
+bf          A.50 utt1:  #Sounds like you,# you need at least like a Taurus size,    
+
+aa          B.51 utt1:  Yeah,  /
+aa          B.51 utt2: that's what,    
+
++          A.52 utt1:  or something like that. /  
+
++          B.53 utt1:  I was thinking of, - /
+sd          B.53 utt2: was a Taurus. - /
+%          B.53 utt3:  Uh, -/  
+
+b          A.54 utt1:  Yeah.  /
+sd          A.54 utt2:  I, I know a lot of guys at work,  /
+sd          A.54 utt3: they, uh, the ones that have, uh, families, uh,  /
+sd          A.54 utt4: and they still want kind of a sports car.  /
+sd          A.54 utt5: They've been, uh, a lot of them have been getting these Taurus S H O's.  /
+sd          A.54 utt6:  That I guess it's the sports version --   
+
+bh          B.55 utt1:  Oh, really? /  
+
++          A.56 utt1:  -- of the Taurus? /  
+
+ny          B.57 utt1:  Yeah <Door>. /  
+
+sd          A.58 utt1:  In fact, it comes with a standard stick  /
+sd          A.58 utt2: and, uh,    
+
+ba          B.59 utt1:  Ooh. /  
+
++          A.60 utt1:  and a lot of those.  /
+sd          A.60 utt2:  And it comes with a bigger engine and the things like that.  /
+%          A.60 utt3:  But, uh, -/  
+
+b          B.61 utt1:  Yeah. /  
+
+sd          A.62 utt1:  and usually they're in like black,    
+
+x          B.63 utt1:  <Laughter>. /  
+
++          A.64 utt1:  and gun metal grey and those kind of colors.  /
+sv          A.64 utt2:  You're not going to see too many, uh, you know, green ones or blue ones or anything like that. /  
+
+b          B.65 utt1:  Yeah. /  
+
+sv          A.66 utt1:  They, they put them in sporty colors I guess.  /
+%          A.66 utt2:  But, uh, -/  
+
+b          B.67 utt1:  Yeah.  /
+sd          B.67 utt2:  Well, my wife wants a Miyata. /  
+
+ba          A.68 utt1:  Oh, well sure <Laughter>. /  
+
+x          B.69 utt1:  <Laughter>. /  
+
+%          A.70 utt1:  That's what, you know, - /
+sv          A.70 utt2: until, until you look at the price tag  /
+sv(^q)          A.70 utt3: and then --   
+
+b          B.71 utt1:  Right. /  
+
++          A.72 utt1:  -- you go, What?  /
+qh          A.72 utt2:  What would I, besides tooling around and looking really cool --   
+
+b^r          B.73 utt1:  Right,  /
+b          B.73 utt2: yeah. /  
+
++          A.74 utt1:  -- and having a lot of fun, what would I really do with this car? /  
+
+aa          B.75 utt1:  I know,  /
+aa          B.75 utt2: I know.  /
+sv          B.75 utt3:  It's like I, I guess I could fit in it <laughter>,    
+
+b          A.76 utt1:  Yeah.  /
+sd          A.76 utt2:  I,    
+
++          B.77 utt1:  maybe <Static>. /  
+
++          A.78 utt1:  I went, I went through that when I first got out of, uh, college.  /
+sd          A.78 utt2:  I had an old car that I bought just to get to, to my j-, my first job. /  
+
+b          B.79 utt1:  Yeah. /  
+
+sd          A.80 utt1:  And when I got there, the first thing I did was trade it in on a Spitfire. /  
+
+b          B.81 utt1:  #Oh.# /  
+
+sd          A.82 utt1:  #And# I, I knew that was going to be the only time I could afford a  two seater, uh, sports car. /  
+
+b          B.83 utt1:  Yeah. /  
+
+sv          A.84 utt1:  But that, that just does not make it as an only car. /  
+
+x          B.85 utt1:  <Laughter>. /  
+
+sd          A.86 utt1:  It's, uh, it's like I, I would, - /
+sd          A.86 utt2: I bought a set of stereo speakers -- /  
+
+b          B.87 utt1:  Yeah. /  
+
+sd          A.88 utt1:  -- and it was one of those cash and carry deals.  /
+sd          A.88 utt2:  I had to take them one at  a time,   
+
+b          B.89 utt1:  <Laughter>. /  
+
++          A.90 utt1:  with the top down.  /
+sd          A.90 utt2:  And it was winter, so I was in like this coat --   
+
+ba          B.91 utt1:  Oh, no! /  
+
++          A.92 utt1:  -- with the top down,  /
+sd          A.92 utt2: and the speaker in the passenger seat. /  
+
+b          B.93 utt1:  Yeah <Laughter>. /  
+
+sd          A.94 utt1:  And I drove that one home,  /
+sd          A.94 utt2: and then I went back and got the other one and put that in the,   
+
+b          B.95 utt1:  <Laughter>. /  
+
++          A.96 utt1:  passenger seat and drove that one home.  /
+sv          A.96 utt2:  And, uh, funny, funniest sight.  /
+sv          A.96 utt3: And da-, you kind of outgrow that real quick --   
+
+b          B.97 utt1:  Yeah. /  
+
++          A.98 utt1:  -- when it's your only car. /  
+
+b^r          B.99 utt1:  Yeah.  /
+%          B.99 utt2:  Well, I, - /
+sv          B.99 utt3: you know, it's funny.  /
+sd          B.99 utt4:  Most people that I've talked to did stuff like that when they were in college,    
+
+b          A.100 utt1:  Uh-huh. /  
+
++          B.101 utt1:  or, you know, or when they were single anyway. /  
+
+b          A.102 utt1:  Yeah. /  
+
+sd          B.103 utt1:  They'd, they'd buy themselves a sporty car because it was their last.  /
+sd          B.103 utt2:  I never did that.  /
+sd          B.103 utt3:  Uh, you know, my first car was a Toyota Corolla. /  
+
+bh          A.104 utt1:  Oh, really? /  
+
+sd          B.105 utt1:  And, uh, because I got a good deal on it -- -/  
+
+b          A.106 utt1:  Yeah. /  
+
+sd          B.107 utt1:  -- and, uh, that was a great little car.  /
+sd          B.107 utt2:  Actually I met, - /
+sd          B.107 utt3: that's how I met girls was, I'd find out if a girl could drive a manual transmission, which I, I had never, - /
+sd          B.107 utt4: I, I'd learned on an automatic transmission.   
+
+b          A.108 utt1:  Uh-huh. /  
+
++          B.109 utt1:  And so, so I'd go out on dates where they would teach me how to drive this car. /  
+
+sv          A.110 utt1:  Boy, that's a good deal. /  
+
+sd          B.111 utt1:  And, uh, in fact I married one of those people <Laughter>. /  
+
+b          A.112 utt1:  Ah, okay.  /
+sd          A.112 utt2:  Well, I'll have to remember that if I ever get in --   
+
+sd          B.113 utt1:  #And it worked.# /  
+
++          A.114 utt1:  -- #that situation again# <Laughter>. /  
+
+b          B.115 utt1:  Yeah,  /
+sd^r          B.115 utt2: it worked all right, real good. /  
+
+b          A.116 utt1:  Huh.  /
+%          A.116 utt2:  Because I, I know we've, uh, - /
+sd          A.116 utt3: that's, that's something that, that we definitely have to go with is an automatic transmission.  /
+sd          A.116 utt4:  My, uh, my wife just does-, can't, can't, uh, - /
+sv          A.116 utt5: she really doesn't want to learn I guess,   
+
+b          B.117 utt1:  Yeah,  /
+b^r          B.117 utt2: yeah. /  
+
++          A.118 utt1:  the, uh, the standard shift.  /
+sd          A.118 utt2:  I fact, I, I remember once we, uh, we, uh, went, uh, went on a, uh, test drive.  /
+sd          A.118 utt3:  We got one of these things from Lee Iacocca that said, you know, I'll give you a fifty dollar savings bond if you'll --   
+
+b^r          B.119 utt1:  Yeah. /  
+
++          A.120 utt1:  -- test drive a car. /  
+
+b^r          B.121 utt1:  Yeah. /  
+
+sd          A.122 utt1:  And we went, uh, <children> we went, uh, we went to a dealership  /
+sd          A.122 utt2: and, uh, it, it was prev-, she, she did pretty well.  /
+sd          A.122 utt3:  But it was one of those things where we just went to a big parking lot -- /  
+
+b^r          B.123 utt1:  Yeah <Laughter>. /  
+
+sd          A.124 utt1:  -- and the, uh, dealer kind of gave her standard shift parking,  /
+sd          A.124 utt2: because that was all it was.  /
+sd          A.124 utt3:  It was, it was the funniest thing,  /
+sd          A.124 utt4: it was like, uh,   
+
+x          B.125 utt1:  <Laughter>. /  
+
++          A.126 utt1:  a big Le Baron,  /
+sd          A.126 utt2: it was a Le Baron with everything on it, /  
+
+ba          B.127 utt1:  Wow! /  
+
+sd          A.128 utt1:  but it had a standard shift.  /
+sv          A.128 utt2: It was  the --     
+
+ba          B.129 utt1:  That's weird! /  
+
++          A.130 utt1:  -- craziest thing I ever saw. /  
+
+b          B.131 utt1:  Yeah. /  
+
+sv          A.132 utt1:  And, and, and that's probably why they were trying to sell them, I guess. /  
+
+b          B.133 utt1:  Huh. /  
+
+sd          A.134 utt1:  And, uh, we just kind of went back and forth and back and forth.  /
+sd          A.134 utt2:  She did pretty well after a while. /  
+
+b          B.135 utt1:  Yeah. /  
+
+sv          A.136 utt1:  But, uh, it's just kind of hard to learn, I guess. /  
+
+%          B.137 utt1:  Well, my wife, - /
+sd          B.137 utt2: I mean, she'd always driven standard transmission. /  
+
+b          A.138 utt1:  Uh-huh. /  
+
+%          B.139 utt1:  And, uh, and, -/  
+
+x          A.140 utt1:  <Breathing>. /  
+
+sd          B.141 utt1:  in fact all our earlier cars were a standard transmission.  /
+sd          B.141 utt2:  In fact, the  minivan's a, has a stick shift. /  
+
+b          A.142 utt1:  Um, okay. /  
+
+%          B.143 utt1:  And in, - /
+sd          B.143 utt2: this Dodge Aries is the first car we've ever gotten that had anything.  /
+sd          B.143 utt3:  You know, it's got automatic transmission, cruise control,   
+
+ba          A.144 utt1:  Oh, geez. /  
+
++          B.145 utt1:  you know, electric locks.  /
+sv          B.145 utt2:  You know, it's like, it's like a luxury car except that it's the Dodge Aries <laughter>,   
+
+b          A.146 utt1:  Yeah, /  
+
++          B.147 utt1:  you know. /  
+
+b^r          A.148 utt1:  yeah. /  
+
+%          B.149 utt1:  So, uh, -/  
+
+b          A.150 utt1:  Oh, well.  /
+sd          A.150 utt2: Well, I guess that's, I guess that's about all I've got to say,    
+
+x          B.151 utt1:  <Laughter>. /  
+
++          A.152 utt1:  about cars <Laughter>. /  
+
+%          B.153 utt1:  Well, you, um, - /
+sv          B.153 utt2: the, the thing about this, uh, th-, - /
+sd          B.153 utt3: I will say this about the minivan. /  
+
+b          A.154 utt1:  Uh-huh. /  
+
+sv          B.155 utt1:  We thought that was a luxury car when we bought it. /  
+
+aa          A.156 utt1:  Uh-huh,  /
+sv          A.156 utt2: I would think so,  /
+aa          A.156 utt3: yeah, /  
+
+%          B.157 utt1:  It, it, -/  
+
+bf          A.158 utt1:  because it's so big. /  
+
+aa          B.159 utt1:  Yeah.  /
+sd          B.159 utt2:  And, and it was quiet,  /
+sd          B.159 utt3: it had a stereo system. /  
+
+b          A.160 utt1:  Oh, yeah. /  
+
+sd          B.161 utt1:  We never had it, you know,  /
+sd          B.161 utt2: we always had the A M radio. /  
+
+b          A.162 utt1:  Sure,  /
+b^r          A.162 utt2: sure. /  
+
+sd          B.163 utt1:  And, uh, of course this has, this (( )) that had s-, speakers that you can control from the back seat. /  
+
+b          A.164 utt1:  Uh-huh. /  
+
+sd          B.165 utt1:  And you can change the channels on the, on the radio from the back seat too <Door>. /  
+
+b^r          A.166 utt1:  Uh-huh. /  
+
+sd          B.167 utt1:  And put s-, speaker phones in it.  /
+%          B.167 utt2: So. -/  
+
+sv          A.168 utt1:  Now, now, now that used to be a luxury,  /
+sv          A.168 utt2: but I bet on the next time you buy a car, that's going to be mandatory. /  
+
+aa          B.169 utt1:  Right. /  
+
+sv          A.170 utt1:  You've got to have that now. /  
+
+aa          B.171 utt1:  That's right.  /
+aa^r          B.171 utt2:  That's right. /  
+
+sv          A.172 utt1:  You're  used to it  /
+sv          A.172 utt2: and you got to have it. /  
+
+sd          B.173 utt1:  And you've got to pay for it too. /  
+
+aa          A.174 utt1:  Yeah.  /
+aa          A.174 utt2:  That's true <laughter>  too. /  
+
+sv          B.175 utt1:  And I bet, and I bet it costs twice as much as, as when --   
+
+aa          A.176 utt1:  It,   
+
++          B.177 utt1:  -- I bought mine <Laughter>. /  
+
++          A.178 utt1:  It probably does,  /
+aa^r          A.178 utt2: it probably does.  /
+%          A.178 utt3:  But, uh, -/  
+
+%          B.179 utt1:  We, -/  
+
+b          @@A.180 utt1:  Oh, well.  /
+fc          @@A.180 utt2:  Well, Bill it's been nice talking to you. /  
+
+fc          B.181 utt1:  Nice talking to you. /  
+
+fc          A.182 utt1:  Okay,  /
+fc          A.182 utt2: you have a good evening. /  
+
+ft          B.183 utt1:  Thanks a lot. /  
+
+fc          A.184 utt1:  Um.  /
+fc          A.184 utt2:  Bye-bye. /  
+
+fc          B.185 utt1:  Bye-bye  [ /
+x          B.185 utt2:Clanking] [ /
+x          B.185 utt3:talking] </music>. / 

@@ -1,0 +1,422 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2736_1117_1230
+TOPIC#:		320
+DATE:		910430
+TRANSCRIBER:	glp
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	4
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:        No comments.
+
+==========================================================================
+  
+
+qw          B.1 utt1:  {D Well, } [ what, + what ] kind of car, - /
+qy          B.1 utt2:  did you just buy a car  /
+qrr          B.1 utt3: {C or } are you in the market to buy a car  /
+%          B.1 utt4: {C or, } -/  
+
+sd          A.2 utt1:  {D Actually, } I'm real close to being in the market to buy a car. /  
+
+b          B.3 utt1:  Oh. /  
+
+sd          A.4 utt1:  I've got, {F uh, } a couple older cars,  /
+sd          A.4 utt2:  they're both over ten years old -- /  
+
+b          B.5 utt1:  Uh-huh. /  
+
+sd          A.6 utt1:  -- {C and, } {F uh, } they've served me well,  /
+sd          A.6 utt2: {C but }  I kind of would like to get a more, {F uh, } gas efficient car --   
+
+b          B.7 utt1:  Uh-huh. /  
+
++          A.8 utt1:  -- and a newer model, something looks a little nicer. /  
+
+b          B.9 utt1:  Yeah. /  
+
+sd          A.10 utt1:  {F Uh, } I've got three children at home.  Two fourteen year olds and a twelve year old,  /
+sd          A.10 utt2: {C and so } I need to make sure I've  got one that I can fit,   
+
+x          B.11 utt1:  <Laughter>.   
+
++          A.12 utt1:  all five of us into. /  
+
+b          B.13 utt1:  Uh-huh. /  
+
+sv          A.14 utt1:  {C And } [ if you, + if you ]  know anything about teenagers it's kind of hard to get them to sit together for any amount of time. /  
+
+aa          B.15 utt1:  Yeah,  /
+sd           B.15 utt2: [ I, + I ]  seem to remember when I was young that was a problem <laughter>. /  
+
+x          A.16 utt1:  <Laughter>.   
+
+sd,o@      B.17 utt1:  No,  /  *[[ Seems that all of B.17 is one utterance. The "no's" are not negative answers but the start and restart of utt 3 ]]
+sd@         B.17 utt2: no  /
+sd@          B.17 utt3: car was big enough for that <laughter>. /  
+
+sd          A.18 utt1:  {D Well, } {F uh, } I've kind of been leaning towards a Caravan. /  
+
+b          B.19 utt1:  Uh-huh. /  
+
+sd          A.20 utt1:  {F Uh, } now I know [ that, + that, ]  {F uh, } they've gotten quite pricey in the last couple of years,  /
+sd          A.20 utt2: {C but, } {F uh, } I like the Dodge  products  /
+sd          A.20 utt3: {C and, } {F uh, } [ been, + ] {F uh, } couple times I've had a opportunity to rent one -- /  
+
+b          B.21 utt1:  Uh-huh. /  
+
+sd          A.22 utt1:  -- {F uh, } I've been really pleased with its performance and  with the size /
+sd          A.22 utt2: {C and } because if you get the seven passenger version <laughter>  you can put some space between the kids. /  
+
+b          B.23 utt1:  Yeah,  /
+b^r          B.23 utt2: yeah. /  
+
+sd          A.24 utt1:  {C And, } {F uh, } I think [ that would, + that would ]  serve us well.  /
+sd          A.24 utt2:  {C Plus } it's got, {F uh, } good storage capacity in it for, {D you know, } taking things along,   
+
+b          B.25 utt1:  Uh-huh. /  
+
++          A.26 utt1:  going to the store, /  
+
+qw          B.27 utt1:  Which is the one that has modular type seats?  /
+qy          B.27 utt2:   You know which one I'm talking about?  /
+sd           B.27 utt3: They have the commercial on TV where  [ you can, + you can ] pull some seats out, /  
+
+b          A.28 utt1:  Uh-huh. /  
+
+sd          B.29 utt1:  {C and } you can move around. /  
+
+aa          A.30 utt1:  Exactly correct.  /
+%          A.30 utt2: Yeah,  /
+%          A.30 utt3: if you want, -/  
+
+qy          B.31 utt1:  [ Is that, + is that ] the Dodge Caravan,   
+
+ny          A.32 utt1:  Yes. /  
+
++          B.33 utt1:  that does that  /
+%          B.33 utt2: {C or, } -/  
+
+ny          A.34 utt1:  Yeah  /
+%          A.34 utt2: it,  {F uh, } - /
+sd          A.34 utt3:  the Dodge Caravans will do that.  /
+sd          A.34 utt4: {F Uh, } you can take the, {F uh, } {F uh, } - /
+sd          A.34 utt5: usually there's [ a, + {F uh, } a ] double seat behind  the, {F uh, } front buckets. /  
+
+b          B.35 utt1:  Uh-huh. /  
+
+sd          A.36 utt1:  {C And then } if you get the, - /
+sd          A.36 utt2: {C and then } there's a  [ three seat that goes + {E or } three person seat ] that goes in the back.  /
+sd          A.36 utt3:  Now what you can do is you could take that middle seat out and just have the three seats in the back,    
+
+b          B.37 utt1:  Uh-huh. /  
+
++          A.38 utt1:  and the two seats up front,  /
+sd          A.38 utt2: {C or } you can take  the, {F uh, } three seat out and  just use the two seat /
+sd          A.38 utt3: {C or } you can take the two seat and  move the two seat to the back.  /
+sd          A.38 utt4:  {C So } it's very versatile.  /
+sd          A.38 utt5:  You can move,   
+
+b          B.39 utt1:  Yeah. /  
+
++          A.40 utt1:  the seats all around.  /
+sd          A.40 utt2:  About the only thing you can't do is take that three person across seat,   
+
+b          B.41 utt1:  Uh-huh. /  
+
++          A.42 utt1:  and move it forward. /  
+
+%          B.43 utt1:  {D Well, } the one that, - /
+sd           B.43 utt2:  I can't remember [ [ one it is, + if it's the, ] + [ it + ] it's the ] Toyota [ or, + or ] one of the other ones.  /
+sd          B.43 utt3:   I don't know if it's one of the Americans or the import ones where, {F uh, }  they actually have {D like, } {F uh, } some bucket seats in the back  /
+sd          B.43 utt4: {C but } you can actually pull them out.  /
+sd          B.43 utt5:  {E I mean } they're really easy to pull out. /  
+
+b          A.44 utt1:  Uh-huh. /  
+
+sd          B.45 utt1:  {F Uh, } {C and } you can, {F uh, } move them around and  stuff  /
+%          B.45 utt2: {C and } [ it, + it, ] - /
+sd          B.45 utt3: to me, [ that, + that ] would  be real good for us.  /
+sd          B.45 utt4: {F Uh, }   my husband and I, {F uh, } like to go camping and stuff, /  
+
+b          A.46 utt1:  Uh-huh. /  
+
+sd          B.47 utt1:  {C and } right now we have a van which is, - /
+sd          B.47 utt2:  it's an older van  /
+sd          B.47 utt3: {C and } [ we're, + we're ] thinking about buying another sedan, {F uh, } probably next year.  /
+sd          B.47 utt4:   {F Uh, } <lipsmack> right now motorcycles takes precedence,   
+
+b          A.48 utt1:  Yeah. /  
+
++          B.49 utt1:  since [ that, + that's ] what my husband really wants  right now.  /
+sd          B.49 utt2:  {C But, } {F uh, } next year we'll probably buy a new car  /
+sd          B.49 utt3: {C and } we're looking  at, {F uh, } possibly the Honda Accord.  /
+%          B.49 utt4: {F Uh, } that's kind of, {F uh, } - /
+sd          B.49 utt5: [ as far, + as far ]  as the interior, it's got the luxury interior,  /
+sd           B.49 utt6: {C but } [ d-, + ]  it doesn't really have the luxury price tag that a lot of the other cars have, which is one of the things that we were looking at.    
+
+b          A.50 utt1:  Uh-huh. /  
+
++           B.51 utt1:  {D You know, } finding something [ that's, + that's ]  fairly affordable, but, yet has all the nice luxury items that we want. /  
+
+aa          A.52 utt1:  Yeah,  /
+sv          A.52 utt2: I think that's getting to be kind of important now that, {F uh, } the price is becoming the driving factor, /  
+
+b          B.53 utt1:  Yeah. /  
+
+sv          A.54 utt1:  {C and then } you look at, - /
+sv           A.54 utt2:  once you realize how much money you've got to spend, then you start looking around [ at, + at ]  what you can buy with it,  where before I think [ you, + you ] looked at the car you wanted,  /
+sv          A.54 utt3:  {C and then } you looked to see how well you could afford it <laughter>. /  
+
+b          B.55 utt1:  Uh-huh.  /
+b          B.55 utt2:  Yeah. /  
+
+sv          A.56 utt1:  {C Or } how you could afford it. /  
+
+sv          B.57 utt1:  {D Well, } I think it's going to be a lot easier now.  /
+sd         B.57 utt2:  I just heard that they lowered the prime lending rate,  /
+sv          B.57 utt3: {C so } I think it's going to  be a lot easier to, to be able to get a car now --   
+
+b          A.58 utt1:  Yeah. /  
+
++          B.59 utt1:  -- and finance it.  /
+sv          B.59 utt2:   I think banks are going to be [ a lot more, + a little bit more ] lenient. /  
+
+aa          A.60 utt1:  Yeah,  /
+sv          A.60 utt2: I know they're trying to do everything they can to, {F uh, } end the recession. /  
+
+b          B.61 utt1:  Yeah. /  
+
+sv          A.62 utt1:  {C And } dropping the prime is probably one of the things.  /
+sd          A.62 utt2:  I just bought a new house  /
+sd          A.62 utt3: {C so } <lipsmack> I got [ a, + a, ] {F uh, } nine and  a half percent interest rate. /  
+
+b          B.63 utt1:  Uh-huh. /  
+
+sd          A.64 utt1:  I'm not sure I could do much better today.  /
+sd          A.64 utt2:   {C But, } {F uh, } that is also effecting buying a new car <laughter>. /  
+
+b          B.65 utt1:  Yeah.  /
+ba          B.65 utt2:  I can imagine.  /
+sv          B.65 utt3:  You got to kind of  [ work, + work ] that into your budget. /  
+
+sd          A.66 utt1:  {D Well, } that and that, -/  
+
+sv          B.67 utt1:  Balance that and the house payment, - /
+sv          B.67 utt2: {C and }  of course, {F uh, } [ is + ] if you buy a new car you're going to, - /
+qy          B.67 utt3: are any of your kids driving age yet? /  
+
+na           A.68 utt1:  {F Uh, } two fourteen year olds will be, {F uh, } fifteen on the fourth of July  /
+%          A.68 utt2: {C so, } -/  
+
+qy          B.69 utt1: [ Are s-, + are ] they twins? /  
+
+ny          A.70 utt1:  Yeah,  /
+sd^e          A.70 utt2: they're twins born on the bicentennial. /  
+
+ba          B.71 utt1:  {F Oh, } wow. /  
+
+^q           A.72 utt1:  You're going to have twins have them on the bicentennial, {A is our motto. }  July fourth seventy-six <laughter>. /  
+
+x          B.73 utt1:  <Laughter>.   
+
+sd          A.74 utt1:  {C So, } {F uh, } {F uh, } I've still got another full year and three months before they're going to be behind the wheel,   
+
+b          B.75 utt1:  Uh-huh. /  
+
++          A.76 utt1:  of a car.  /
+sd          A.76 utt2: {C So } America's safe for another fifteen m-, - /
+sd          A.76 utt3: {C and, } {F uh, } after that, - /
+sd          A.76 utt4:  <lipsmack>, {D now } I may keep [ the, + ] {F uh, } one or  both of the two cars [ I, + I ] currently have, for them to drive.   /
+sd          A.76 utt5: {D You know, }  [ [ they're, + they're, ] + they're ] small enough that a first time driver could handle it,  yet big enough that I [ feel s-, + feel safe ] that,   
+
+b          B.77 utt1:  Uh-huh. /  
+
++          A.78 utt1:  if they were in an accident they would survive. /  
+
+b          B.79 utt1:  Uh-huh. /  
+
+o          A.80 utt1:  Know what I mean.  /
+sd          A.80 utt2:  [ It, + I ]  don't get that kind of feeling with the kind of car like you talked about, the Honda.  /
+%          A.80 utt3: They're just, -/  
+
+sd          B.81 utt1:  {D Well, } [ the, + the ]  Honda's [ have been, + have been ] very safe.    
+
+b          A.82 utt1:  Uh-huh. /  
+
++          B.83 utt1:  [  In, + in ] accidents, {F uh, } more so that a lot of the American cars. /  
+
+bh          A.84 utt1:  Is that right? /  
+
+sd          B.85 utt1:   (( Matter of fact ))  I just heard something today [ on, + on ] the news about those, {F uh, }   
+
+b          A.86 utt1:  Uh-huh. /  
+
++          B.87 utt1:  automatic seat belts that are attached to the door -- /  
+
+b          A.88 utt1:  Right. /  
+
+sd          B.89 utt1:  -- {F uh, } they're questioning the safety of those   now saying that,  /
+sd          B.89 utt2: {C and } they showed, {F uh, } a simulation where there [ w-, + ]  they had a dummy in the car  /
+sd          B.89 utt3: {C and } the door opened  /
+sd          B.89 utt4: {C and } the dummy actually fell out of the car  /
+sd          B.89 utt5: {C and } the car rolled out on top of him. /  
+
+ba          A.90 utt1:  Jeez. /  
+
+sd          B.91 utt1:  {C So } they're saying they're not as safe as, - /
+sd          B.91 utt2:  they give the appearance of being safe,  /
+sd          B.91 utt3: {C but } they're really not as safe [ as they, + as they, ]  {F uh, } appear to be.  /          
+sd          B.91 utt4:  {C So, }  {F uh, } I'm kind of concerned about that as  far as, {D you know, } [ w-, + ] the seat belts. /  
+
+%          A.92 utt1:  {D Well, } -/  
+
+sd          B.93 utt1:  {F Uh, } I don't know if Maryland has [ a, + {F uh, } a ]  seat belt law,/
+sd          B.93 utt2: {C but } they do have one in Texas. /  
+
+b          A.94 utt1:  Yes. /  
+
+sd          B.95 utt1:  {C And } [ you're, +   
+
+aa          A.96 utt1:  Definitely. /  
+
++          B.97 utt1:  you're ] required to wear them. /  
+
+sd          A.98 utt1:  The thing is that they're, - /
+sd         A.98 utt2:  I think it's a two part seat belt, though,  /
+sd         A.98 utt3: there's the, {F uh, } door belt  /
+sd          A.98 utt4: {C and then } there's one,   
+
+aa          B.99 utt1:  Exactly. /  
+
++          A.100 utt1:  a lap belt. /  
+
+sv          B.101 utt1:  {C But, } [ ninety, + {F uh, } {A probably about, }  {D well, } I don't know about ninety, ]  /
+sv          B.101 utt2: {C but } probably fifty percent of the people that have those  probably don't wear the lap portion of it.  /
+sd          B.101 utt3:  I know my brother doesn't  /
+sd          B.101 utt4:  {C and } he has one in his car. /  
+
+ad          A.102 utt1:  Make sure you smack him around then <laughter>. /  
+
+sv          B.103 utt1:  <Laughter> {C So, } {E I mean, } [ it, + it ]  kind of gives you a false sense of security.  /
+sv          B.103 utt2: You think, {F oh, } I've got one portion of my seat  belt on, {F uh, }  /
+sv          B.103 utt3: {C but } if your door comes open, {D you know, } it's not going to do you any good. /  
+
+b          A.104 utt1:  Yeah. /  
+
+sd          B.105 utt1:  {C So, } [ [ that, + that, ] + that's ]  a concern of mine as far as, {F uh, } what I'll be looking at with buying a new car.  /
+sd          B.105 utt2: {F Uh, } I'm not really sure  if I would want the seat belts attached to the door.  /
+sd          B.105 utt3:   I think I would feel better with them attached to the actual car.  /
+sd          B.105 utt4:   The inside where they're normally attached to,   
+
+b          A.106 utt1:  Yeah. /  
+
++          B.107 utt1:  {D like } behind the door. -/  
+
+b          A.108 utt1:  Yeah.  /
+bf          A.108 utt2:  [ The, + {F uh, } the ]  supports. - /
+sd          A.108 utt3: {F Uh, } <lipsmack> a good source of information I've found has always been these, {F uh, } used car manuals --   
+
+b          B.109 utt1:  Uh-huh. /  
+
++          A.110 utt1:  -- because you can flip through the used car manuals  /
+sd          A.110 utt2: {C and } they'll give you a list of all the problems that the car's had in the past. /  
+
+%          B.111 utt1:  {F Um. } /  
+
+sd          A.112 utt1:  {C And } you can look at [ the, + {F uh, } the ]  track record on,   
+
+b          B.113 utt1:  Yeah. /  
+
++          A.114 utt1:  a car over the year,  /
+sd          A.114 utt2: {C and, } you usually  notice, {F uh, } a lot of problems at the beginning and then things kind of iron out,   
+
+b          B.115 utt1:  Yeah. /  
+
++          A.116 utt1:  to where,   
+
+b          B.117 utt1:  Yeah. /  
+
++          A.118 utt1:  there's fewer problems.  /
+sd          A.118 utt2:  {C And } you get an idea on how well [ the, + the ] next car's going to be.  /
+sd          A.118 utt3:  Now as long as they aren't changing the  model, {D you know, } {D like } when the, {F uh, } Pontiac Grand Prix went from  being a huge car to a small car they had a lot of problems,    
+
+b          B.119 utt1:  Yeah. /  
+
++          A.120 utt1:  with the smaller car.  /
+sd          A.120 utt2:  As long as they aren't, -/  
+
+aa          B.121 utt1:  Yeah,  /
+sd          B.121 utt2: [ the, + the ] Le Mans is like that, too.  /
+sd          B.121 utt3:  {F Uh, } we used to have a Le Mans when I was [ in, + in ] high school, {F uh, }  /
+sd          B.121 utt4: {C and }  it was a big car.  /
+sd          B.121 utt5:  {E I mean } it was like  [ the, + {F uh, } the ] Grand Prix, /  
+
+b          A.122 utt1:  Uh-huh. /  
+
+sd          B.123 utt1:  {C and } in, I think around nineteen eighty, {F uh, }  they changed the model  /
+sd          B.123 utt2: {C and } it, {D like, } went to half the size. /  
+
+aa          A.124 utt1:  Yeah,  /
+aa          A.124 utt2: sure. /  
+
+sd          B.125 utt1:  {D Literally, } {E I mean } it got chopped in half  /
+sd          B.125 utt2: {C and } it wasn't even the same car anymore.  /
+sd          B.125 utt3:  Didn't even remotely resemble the old car. /  
+
+aa          A.126 utt1:  Uh-huh.  /
+aa          A.126 utt2:  Yeah,  /
+sd          A.126 utt3: I remember when that happened.  /
+sv          A.126 utt4:  {C So } unless they're really changing the model, {F uh, } {D yeah, } chances are that  it's probably going to have [ the, + the ] fewer mistakes than it had the year before. /  
+
+b          B.127 utt1:  Yeah.  /
+sd          B.127 utt2:  {D Well, } everybody that I've talked to  who's ever had a Honda --   
+
+b          A.128 utt1:  Uh-huh. /  
+
++          B.129 utt1:  -- loves them.  /
+sd          B.129 utt2: {C And } my husband had a Honda, {F uh, }  /
+sd          B.129 utt3:  {C and } it was a lease car  /
+sd          B.129 utt4: {C and } he had to turn back in, {F uh, } a year and a half ago.  {F Uh, } /
+sd          B.129 utt5:  {C and } he had it for four years and never had a single problem with it. /
+sd          B.129 utt6: {C And }  it was great.  {F Uh, }  /
+sd          B.129 utt7: {C and } the only reason why we ended up not buying it was  because we didn't feel, [ the, + ] at the time the residual was {D like } sixty-five hundred  dollars  /
+sd          B.129 utt8: {C and } it was a four year old car with seventy thousand miles on it  /
+sd          B.129 utt9: {C and }  we thought that was a little bit too much to pay for --   
+
+b          A.130 utt1:  Yeah. /  
+
++          B.131 utt1:  -- {F uh, } a four year old car <breathing>. /  
+
+aa          A.132 utt1:  Yeah,  /
+aa          A.132 utt2: I agree. /  
+
+sd          B.133 utt1:   {C So, }  {C so } we ended up, - /
+sd          B.133 utt2:  [ just went, + just went ] ahead and just turned the keys back in [ and, + and ] got out of the lease. - /
+sd          B.133 utt3:  {F Uh, } <<pause>> one thing [ that I, + that I ] am curious about is, {F uh, } reading information on  air bags, [ do, + ] some of the vans I think, I don't know about the Dodge Caravan, - /
+sd          B.133 utt4: {C but }  some of the vans now have driver side air bags.    
+
+b          A.134 utt1:  Uh-huh. /  
+
++          B.135 utt1:  Which I think is a good idea. /  
+
+b          A.136 utt1:  Yeah. / 

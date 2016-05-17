@@ -1,0 +1,61 @@
+                Switchboard Dialog Act Corpus
+                  Released August 1, 1997
+
+The Switchboard Dialog Act Corpus is a version of the Switchboard
+corpus of telephone conversations tagged with a shallow discourse
+tagset of approximately 60 basic tags (plus combinations).  The
+tags were drawn from a label set called  the 'SWBD-DAMSL' labels,
+and were used to label 1155 Switchboard conversations from a
+pre-release version of the Penn Treebank 3 release of the Switchboard
+transcripts.   The corpus comprises dialog act labels
+for 205,000 utterances and 1.4 million words.
+
+The labeling project was run by Dan Jurafsky, Liz Shriberg, and
+Debra Biasa as part of the the Discourse Language Model group of
+the Johns Hopkins WS97 summer workshop on large-vocabulary
+conversational speech recognition workshop,  sponsored by the US
+Department of Defense.  The coders,  who were all linguistics
+graduate students at the University of Colorado at Boulder at the
+time, were Marion Bond, Traci Curl, Anu Erringer, Michelle Gregory,
+Lori Heintzelman, Taimi Metzler, and Amma Oduro.
+
+Because the dialog act project was begun before the final release
+of the Penn Treebank 3 Switchboard transcriptions and before the
+ISIP cleanup of the Switchboard transcriptions, the transcriptions
+in the corpus differ in various ways from both those later releases.
+
+The original 60 SWBD-DAMSL tags and their combinations were clustered
+into 42 tags.  Many subsequent papers have made use of those 42
+tags rather than the original set.
+
+Details of the  labels themselves, the instructions to the labelers,
+and the clustering into 42 tags can be found in Jurafsky, Shriberg,
+and Biasca (1997), which can be found in this release in
+
+doc/manual.august1.html
+
+and can be cited as:
+
+  Jurafsky, Daniel, Elizabeth Shriberg, and Debra Biasca. 1997.
+  "Switchboard SWBD-DAMSL Shallow-Discourse-Function Annotation Coders
+  Manual, Draft 13"  University of Colorado, Boulder Institute of
+  Cognitive Science Technical Report 97-02
+
+The results of the WS97 project that make use of this
+corpus were published as:
+
+  Stolcke, Andreas, Klaus Ries, Noah Coccaro, Elizabeth Shriberg,
+  Rebecca Bates, Daniel Jurafsky, Paul Taylor, Rachel Martin, Marie
+  Meteer, and Carol Van Ess-Dykema. 2000. Dialogue Act Modeling for
+  Automatic Tagging and Recognition of Conversational Speech.
+  Computational Linguistics 26:3, 339-371
+  
+  Shriberg, Elizabeth, Rebecca Bates, Paul Taylor, Andreas Stolcke,
+  Daniel Jurafsky, Klaus Ries, Noah Coccaro, Rachel Martin, Marie
+  Meteer, and Carol Van Ess-Dykema. 1998. Can Prosody Aid the Automatic
+  Classification of Dialog Acts in Conversational Speech? Language and
+  Speech 41:3-4, 439-487
+
+The transcripts themselves can be found in this release in the 14
+Treebank 3-style directories sw00utt through sw13utt, with each
+utterance marked by a tag at the beginning of the line.

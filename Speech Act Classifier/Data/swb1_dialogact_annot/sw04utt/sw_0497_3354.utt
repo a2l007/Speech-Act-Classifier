@@ -1,0 +1,341 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3354_1399_1343
+TOPIC#:		361
+DATE:		911104
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	4
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None,   
+
+=======================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qo          A.1 utt2: {D well } what do you do on your yard? /  
+
+sd          B.2 utt1:  {D Well, } {F uh, } typical lawn stuff.  /
+sd          B.2 utt2: Saint Augustine, {F uh } --   
+
+b          A.3 utt1:  Uh-huh. /  
+
++          B.4 utt1:  -- with a little Bermuda mixed in in some of the sunny areas -- /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sd          B.6 utt1:  -- {F uh, } {C and } really all I do to it is, - /
+sd          B.6 utt2: {F uh, } in fact, I didn't even fertilize it this year,  /
+sd          B.6 utt3: I just mowed it,  /
+sd          B.6 utt4: {C and } [ I, + I ] mow it, {F uh, } {D you know, } with a mulch mower so [ the, + the ] particles fall down -- /  
+
+qy^d          A.7 utt1:  Comes back in the yard -- /  
+
+ny          B.8 utt1:  -- Yeah. /  
+
+qy^d          A.9 utt1:  -- {C so } you don't have any one do your yard.  /
+qy          A.9 utt2:  You do it yourself? /  
+
+na          B.10 utt1:  I do it myself. /  
+
+b          A.11 utt1:  Yeah,  /
+sd          A.11 utt2: we do too. /  
+
+sd          B.12 utt1:  Have a lot of people trying to do it for me <laughter>. /  
+
+ba          A.13 utt1:  <Laughter> Isn't that the truth.  /
+sv          A.13 utt2:  A flyer's on every door every day. /  
+
+sd          B.14 utt1:  Hey, I need the exercise,  /
+qh          B.14 utt2: {C so } what the heck. /  
+
+aa          A.15 utt1:  <Laughter> That's right.  /
+sd          A.15 utt2:  {D Well, } [ [ we, + {F um, } we, ] + my husband ] does the same thing,  /
+sd          A.15 utt3: he does the yard,  /
+sd          A.15 utt4: {C and } he wants me to learn how to work the lawn mower,  /
+sd          A.15 utt5: {C but } I keep putting off learning. /  
+
+sv          B.16 utt1:  Hey, you've got the right idea. /  
+
+aa          A.17 utt1:  That's right.  /
+sd          A.17 utt2:  {C But } I had recently gone out and planted mums.  /
+sd          A.17 utt3: We had decided to paint the front of the house about three weeks ago,  /
+sd          A.17 utt4: {C and so } while my husband was painting I went out and bought about fifty dollars worth of mums over at Calloway's -- /  
+
+b          B.18 utt1:  Uh-huh. /  
+
+sd          A.19 utt1:  -- and put out yellow and bronze  /
+sd          A.19 utt2: {C and } they're just gorgeous, {C and so } then last week my mom comes in town,  /
+sd(^q)          A.19 utt3: {C and } she says {D Well, } those are going to die just the first frost. /  
+
+x          B.20 utt1:  <Laughter>.   
+
+sd(^q)          A.21 utt1:  She said, You should have done pansies.  /
+sd(^q)          A.21 utt2:  {C And } I went, {D Well, } now you tell me. /  
+
+b          B.22 utt1:  Yeah <laughter>. /  
+
+sd          A.23 utt1:  {C So } the first night, that around Halloween - /
+sd          A.23 utt2: {C and } we went out and covered them with a sheet,  /
+sd          A.23 utt3: {C and } they did okay that first night.   /
+sd          A.23 utt4: {C But } the second night we were at the movies and didn't do it,  /
+sd          A.23 utt5: {C so } I guess I've lost them.  /
+sd          A.23 utt6:  I haven't gone out to check yet. /  
+
+b          B.24 utt1:  Yeah,  /
+ba          B.24 utt2: I don't blame you.  /
+sd          B.24 utt3: I wouldn't want to look at them. /  
+
+aa          A.25 utt1:  No,  /
+ad          A.25 utt2: listen,  /
+sd          A.25 utt3: {C but, }  {F um, } the worst problem we've had here with this grass was about the third year we were here.  /
+sd          A.25 utt4:  I guess it was about four years ago.   /
+sd          A.25 utt5: {C And } we did not know in August to put down the, {F uh, } whatever it is for grub worms. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+sd          A.27 utt1:  {C And } the next spring, I guess in that March, every time we would go out and  just try to walk on the grass or reach down to pull a weed, we'd have big whole patches come up.  /
+qy          A.27 utt2: Have you ever seen it --   
+
+ny          B.28 utt1:  Yeah. /  
+
++          A.29 utt1:  -- what grub worms do? /  
+
+ny          B.30 utt1:  Yeah. /  
+
+sd          A.31 utt1:  {C And } we pulled up almost half of our yard just by raking it,  /
+sd          A.31 utt2: it would just come off in the rake, down to the dirt.   /
+sd          A.31 utt3: {C So } we had to go out and resod the whole thing with squares and wet it and put it down and rope it off and  everything.  /
+sd          A.31 utt4:  It took a lot of money and a lot of time,  /
+sd          A.31 utt5: {C so } the most careful thing we do on our yard every August is put down that Diazinon. /  
+
+b          B.32 utt1:  Yeah,  /
+qy^g          B.32 utt2: [ you, + you ] think that's what it was, {F huh. } /  
+
+ny          A.33 utt1:  {F Oh, } yeah,  /
+sd^e          A.33 utt2: we found them -- /  
+
+bk          B.34 utt1:  Okay. /  
+
+b          A.35 utt1:  -- yeah  /
+sd          A.35 utt2: we found them.  /
+sd          A.35 utt3:  We dug under there about an inch  /
+sd          A.35 utt4: {C and } you could see them.  /
+sd          A.35 utt5: They're real fat little white things,  /
+sd          A.35 utt6: {C and } --   
+
+b          B.36 utt1:  Yeah. /  
+
++          A.37 utt1:  -- they said they turn into black bugs in the spring -- /  
+
+aa          B.38 utt1:  Yeah,  /
+sd          B.38 utt2: those kind of brown, {F uh, } [ Ju-, +   
+
+aa          A.39 utt1:  -- yeah,  /
+%          A.39 utt2: [ {C but } in, + {C but } in ] the, -/  
+
++          B.40 utt1:  What we call June bugs ] -- /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+sd          B.42 utt1:  -- {C and } some people call them May beetles. /  
+
+aa          A.43 utt1:  Yeah,  /
+sd          A.43 utt2: June bugs is what I'd heard them called, /  
+
+x          B.44 utt1:  <Laughter>.   
+
+sd          A.45 utt1:  {C so } {D any how, } occasionally I find them in the flower beds.  /
+sd          A.45 utt2:  They said that every yard has some -- /  
+
+b          B.46 utt1:  {F Uh, } yeah. /  
+
+sd          A.47 utt1:  -- {C but } it was a preponderance of them that caused our problem.   /
+sd          A.47 utt2: {C So } that's the number one thing we do, whether we fertilize or anything else, just because we got burned so badly before. /  
+
+b          B.48 utt1:  Yeah,  /
+sd          B.48 utt2: {D well, } I had some of that problem,  /
+sd          B.48 utt3: {C but } mine was freeze. /  
+
+aa          A.49 utt1:  {F Oh, } yeah  /
+aa          A.49 utt2: that too,  /
+qy          A.49 utt3: two years ago, or last Christmas --   
+
+ny          B.50 utt1:  Yeah,  /
+ny^r          B.50 utt2: yeah. /  
+
++          A.51 utt1:  -- is that what you're talking about? /  
+
+ny          B.52 utt1:  Yeah,  /
+sd^e          B.52 utt2: [ I'm still -- +   
+
+b          A.53 utt1:  Yeah,  /
+b          A.53 utt2: uh-huh. /  
+
++          B.54 utt1:  -- I'm still ] replacing that in the back, especially, under the trees --    
+
+b          A.55 utt1:  Uh-huh. /  
+
++          B.56 utt1:  -- {F uh, } {D you know, } kind of slow,  and, as you say, very expensive. /  
+
+b          A.57 utt1:  Yeah. /  
+
+sd          B.58 utt1:  I caught Wolfe with, {F uh, } {F uh, } [ one, + {F uh, } one ] of the sales where they have those big blocks for fifty cents,  /
+sd          B.58 utt2: {C and, }  {F uh } --   
+
+b          A.59 utt1:  {F Oh, } yeah. /  
+
++          B.60 utt1:  -- I bought about <laughter> twenty of them. /  
+
+sd          A.61 utt1:  I guess you did too.  /
+sd          A.61 utt2:  It's what they've done in the spring --   
+
+%          B.62 utt1:  {F Uh, } {D well, } I put, {D you know } -- -/  
+
++          A.63 utt1:  -- or the fall. /  
+
+sv          B.64 utt1:  -- that was late,  /
+%          B.64 utt2: that was like, -/  
+
+aa          A.65 utt1:  Yeah,  /
+sd          A.65 utt2: because I started to say, [ you can, + ] there's different times they say it's okay to do it. /  
+
+aa          B.66 utt1:  Yeah,  /
+sd          B.66 utt2: that was like September, I think. /  
+
+b          A.67 utt1:  Yeah. /  
+
+sd          B.68 utt1:  {C And } I had to water it, {D you know } -- /  
+
+b          A.69 utt1:  Yeah -- /  
+
+fe          B.70 utt1:  -- gosh. /  
+
+b          A.71 utt1:  -- keep it damp.  /
+%          A.71 utt2: {D Well, } my, - /
+sd          A.71 utt3: out here, {D you know, } we don't have as many trees in Plano,  /
+sd          A.71 utt4: at least the area where, - /
+sd          A.71 utt5: we're over by Collin Creek Mall,  /
+sd          A.71 utt6: [ {C and, } + {C but } ] a lot of the shrubbery that we have in the front, like the pittosporum all died,  /
+sd          A.71 utt7: {C and } all those variegated, {F uh, } things died.   /
+sd          A.71 utt8: {C So } we pretty much go  with that dwarf Yaupon and that Yaupon holly,  /
+sd          A.71 utt9: {C and } they just live, /  
+
+aa          B.72 utt1:  Yeah,  /
+sv          B.72 utt2: they're pretty tough, {F uh, } /  
+
+aa          A.73 utt1:  Yeah,  /
+sv          A.73 utt2: [ you can, + you can ] stand those. /  
+
+sd          B.74 utt1:  Pittosporum is kind of borderline here -- /  
+
+b          A.75 utt1:  Uh-huh. /  
+
+sd          B.76 utt1:  -- {C and } usually it'll do pretty well,  /
+sd          B.76 utt2: {C but, }  {F uh, } {D you know, } every once in a while we get one of these really cold deals -- /  
+
+b          A.77 utt1:  Yeah. /  
+
+sd          B.78 utt1:  -- {C and } it zaps it. /  
+
+%          A.79 utt1:  {D Well } it's kind of like one of these, -/  
+
+sv          B.80 utt1:  {F Oh, } [ wax leaf, + wax leaf ] ligustrum is the same way. /  
+
+aa^m          A.81 utt1:  Same way, - /
+aa          A.81 utt2: uh-huh.  /
+sd          A.81 utt3: [ [ That, + they, ] + they ] warned me of that one finally.   /
+sd(^q)          A.81 utt4: {C And } I said, {D You know, } you need to either read Neal Sperry's book before you shop or  get a reputable nursery, because lot of places [ that would, + ] are just trying to sell whatever was pretty out there,  /
+sd          A.81 utt5: {C and } we didn't know the difference.   /
+sd          A.81 utt6: {C And } every year we learn one more thing that we didn't know before.  Like about these <laughter> mums. /  
+
+b          B.82 utt1:  Yeah. /  
+
+b          A.83 utt1:  Okay,  /
+sd          A.83 utt2: next year, I'll do pansies. /  
+
+sv          B.84 utt1:  Your list is growing, /  
+
+sd          A.85 utt1:  {C And } my backyard, we had it really nice,  /
+sd          A.85 utt2: {C and } then my husband wanted a Labrador puppy,  /
+%          A.85 utt3: {C and so, } it was about, - /
+sd          A.85 utt4: I guess he's three now,  /
+sd          A.85 utt5: {C so } the first summer he was here he dug up all of my bushes and plants --   
+
+b          B.86 utt1:  {F Oh, } yeah,  /
+ba          B.86 utt2: {F oh, } gee. /  
+
++          A.87 utt1:  -- and brought them to the front door and the back door <laughter> and laid them on the patio. /  
+
+b          B.88 utt1:  {F Um. } /  
+
+%          A.89 utt1:  {C So, } it's like our backyard is just kind of like, - /
+sd          A.89 utt2: as long as he won't damage it, fine,  /
+sd          A.89 utt3: {C and } [ if he'll, + if there's anything he'll ] hurt, we just don't put it out there any more. /  
+
+b          B.90 utt1:  Yeah,  /
+sv          B.90 utt2: kind of cuts your possibilities for the flower beds,  /
+%          B.90 utt3: yeah. /  
+
+aa          A.91 utt1:  Uh-huh.  /
+aa          A.91 utt2: Very much,  /
+%          A.91 utt3: {C but, }  {F uh. } -/  
+
+sd          B.92 utt1:  I [ had a, + had a ] small vegetable garden that, {F uh, } -/  
+
+b          A.93 utt1:  You did. /  
+
+sd          B.94 utt1:  It did pretty well,  /
+sd          B.94 utt2: [ it's, + it's ] {D like } on  [ the --   
+
+b          A.95 utt1:  {F Huh. } /  
+
++          B.96 utt1:  -- side, + the apron [ of the, + of the ] ] parkway out behind the garage -- /  
+
+b          A.97 utt1:  Uh-huh. /  
+
+sd          B.98 utt1:  -- {C and, }  {F uh, } [ our, + our ] garages come in [ from the back, + {D you know, } from the alley ] -- /  
+
+sd          A.99 utt1:  So do ours,  /
+%          A.99 utt2: yeah. /  
+
+sd          B.100 utt1:  -- {C and, }  {F uh, } [ it's, + it's ] a little piece of land over there <laughter>. /  
+
+qw          A.101 utt1:  What did you grow? /  
+
+sd          B.102 utt1:  {D Well, } I had, {F uh, } tomatoes [ and, + and, ] {F uh, } {F uh, } peppers,  /
+sd          B.102 utt2: {C and } [ I had, +   
+
+ba          A.103 utt1:  That is amazing. /  
+
++          B.104 utt1:  I had ] okra,  /
+sd          B.104 utt2: {C and } by the fence I had cucumbers,  [ which, + which ] didn't do real well, {F uh } -- /  
+
+b          A.105 utt1:  Yeah. /  
+
+sd          B.106 utt1:  -- they kind of came out looking like gourds. /  
+
+ad          A.107 utt1:  <Laughter> {D Well, } put them in a salad, though,  /
+ad(^q)          A.107 utt2: {C and } you say, {D well, } I made it though, at least it's mine. /  
+
+sd          B.108 utt1:  {C But } I had squash,  /
+sd          B.108 utt2: I had zucchini [ and, + and ] yellow crook neck squash, / 

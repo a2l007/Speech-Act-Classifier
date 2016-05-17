@@ -1,0 +1,184 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3303_1412_1422
+TOPIC#:		319
+DATE:		911024
+TRANSCRIBER:	glp
+UTT_CODER:      mmab
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	3
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	2
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+============================================================================
+  
+
+o          A.1 utt1:   Okay,  /
+ad          A.1 utt2: you want to go ahead and tell me your favorite team, or  who you think will be doing well this year. /  
+
+sd          B.2 utt1:   {F Uh, } {D well, } where I'm from the Atlantic coast conference is a very big conference  /
+sd          B.2 utt2: {C and, }  course, we have Duke University that was the national champions last year,  /
+sd          B.2 utt3: {C so } I'm kind of hoping that they'll repeat again this year.  /
+sd          B.2 utt4: They have a lot of the same players back. /  
+
+qy          A.3 utt1:   Are we talking about, is this the N B A? /  
+
+nn          B.4 utt1:   No,  /
+sd^e          B.4 utt2: this is college --   
+
+b^m          A.5 utt1:   This is [ college, +   
+
++          B.6 utt1:   -- basketball. /  
+
++          A.7 utt1:   College, ] okay <laughter>. /  
+
+b          B.8 utt1:   Right.  /
+sv          B.8 utt2: We have like Carolina, and Duke, and Georgia  Tech, and  N C State, teams that are normally ranked in the top twenty. /  
+
+b          A.9 utt1:   Uh-huh. /  
+
+sd          B.10 utt1:   {C So, } hopefully we'll have a good year.  /
+sd          B.10 utt2: I don't really <throat_clearing> follow the N B A very closely. /  
+
+sd          A.11 utt1:   {C And } {D see } that's probably [ all, + all ] I saw.  /
+sd          A.11 utt2: [ I, + we ] have moved in the last couple years from Utah to Texas  /
+sd          A.11 utt3: {C and } there's so many <laughter> colleges and universities in Texas, we haven't really followed them too much  /
+sd          A.11 utt4: {C and } none of them are [ our, + our ] alma mater  /
+sd          A.11 utt5: <laughter>, {C so, } that seems to help. /  
+
+qy          B.12 utt1:   Do you like professional basketball? /  
+
+na          A.13 utt1:   {F Uh, } [ I, + I ] follow it especially around  the playoffs,  /
+sd          A.13 utt2: {C so, } course, I was real familiar with the Utah Jazz,  /
+sv          A.13 utt3: {C and } the Mailman or Karl Malone was, {D you know, } pretty big thing  /
+sv          A.13 utt4: {C and, }  the Lakers have always been amazing to watch. /  
+
+b          B.14 utt1:   Yeah. /  
+
+sd          A.15 utt1:   [ I, + I ] did keep track a little bit of the Mavericks.  /
+sv          A.15 utt2:  They've not had any good seasons <laughter> for a long time,   
+
+x          B.16 utt1:   <Cough>.   
+
++          A.17 utt1:   and have a lot of problems [ with, +  with ] Tarpley  /
+sv          A.17 utt2: {C and, }  maybe now that that's over [ they'll, + they'll ] come out of it  /
+%          A.17 utt3: {C but, } -/  
+
+sv          B.18 utt1:   {D Well, } that's an up and coming team, though. /  
+
+aa          A.19 utt1:   Yeah,  /
+sd          A.19 utt2: I hope they do something.  /
+sv          A.19 utt3: They need to  /
+sv          A.19 utt4: {C or } they're not going to have <laughter> any of the team left at all. /  
+
+sv          B.20 utt1:   That's somebody you can get behind and,    
+
+x          A.21 utt1:   <Throat_clearing>.   
+
++          B.22 utt1:   be patient. /  
+
+aa          A.23 utt1:   Yeah.  /
+sv          A.23 utt2: Kind of like the Cowboys <laughter>, I guess. /  
+
+aa          B.24 utt1:   Yeah,  /
+sv          B.24 utt2: they seem to be kind of not having a very good few seasons. /  
+
+aa          A.25 utt1:   Yeah,  /
+sv          A.25 utt2: they, coming out of it this year.  /
+sv          A.25 utt3:  We'll see if it's held on. /  
+
+sv          B.26 utt1:   {C But, }  I think Chicago will probably with the N B A again. /  
+
+qy          A.27 utt1:   The Bulls? /  
+
+ny          B.28 utt1:   Yeah,  /
+ny          B.28 utt2: uh-huh. /  
+
+aa          A.29 utt1:   Yeah.  /
+aa          A.29 utt2: They'll probably be pretty good.  /
+sv          A.29 utt3:  Course, the Celtics are always [ really, + <throat_clearing> really ] good, too, with their players. /  
+
+aa          B.30 utt1:   That's true. /  
+
+sv          A.31 utt1:   Be interesting to see how the Olympics does this year with all [ the, + the ] N B A players playing on the Olympic team. /  
+
+aa          B.32 utt1:   That's true,  /
+aa          B.32 utt2: it will be interesting. /  
+
+%          A.33 utt1:   {D So, } -/  
+
+sv          B.34 utt1:   It will certainly be different <cough>. /  
+
+aa          A.35 utt1:   Yeah.  /
+sd          A.35 utt2:  I don't know,   
+
+x          B.36 utt1:   <Cough>.   
+
++          A.37 utt1:   how close I'll follow them, though.  /
+sd          A.37 utt2:  {C And } the season hasn't started yet. /  
+
+x          B.38 utt1:   <Cough>.   
+
+sd          A.39 utt1:   I'm usually more the end of the season person,  /
+sv          A.39 utt2: {C and } we need to talk about baseball <laughter>  /
+%          A.39 utt3: {C and so, } -/  
+
+b          B.40 utt1:   Yeah,  /
+sd          B.40 utt2: {F oh, } my Atlanta Braves. /  
+
+%          A.41 utt1:   {D Well, } -/  
+
+sd          B.42 utt1:   {D Well, } I really do, {F uh, } {D you know, }  /
+sd          B.42 utt2: the basketball season's supposed to start in the next couple of weeks. /  
+
+%          A.43 utt1:   It's, - /
+b          A.43 utt2: yeah,  /
+b^r          A.43 utt3: yeah. /  
+
+sv          B.44 utt1:   It's a long season. /  
+
+aa          A.45 utt1:   [ It is, + it is, ]  /
+%          A.45 utt2: {C and } that's why I've, - /
+sd          A.45 utt3:  I guess my mind went blank.  /
+sv          A.45 utt4: It's like last season was so long ago  /
+sd          A.45 utt5: {C and } I haven't really even started thinking about basketball yet  /
+%          A.45 utt6: {C so, } -/  
+
+b          B.46 utt1:   Yeah. /  
+
+sv          @@A.47 utt1:   {C But, }  this wasn't a good subject,  /
+sv          @@A.47 utt2: {C but, }   
+
+sv          B.48 utt1:   It's a little early. /  
+
++          A.49 utt1:   <Laughter> We'll see how our predictions come true. /  
+
+aa          B.50 utt1:   We definitely will. /  
+
+fc          A.51 utt1:   <Laughter> Okay,  /
+fc          A.51 utt2: it's good talking to you. /  
+
+fc^m          B.52 utt1:   Good to talk to you. /  
+
+fc          A.53 utt1:   All righty,  /
+fc          A.53 utt2: bye. /  
+
+fc          B.54 utt1:   Bye-bye. / 

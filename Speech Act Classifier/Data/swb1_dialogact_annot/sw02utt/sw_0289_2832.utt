@@ -1,0 +1,567 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2832_1236_1224
+TOPIC#:		343
+DATE:		910509
+TRANSCRIBER:	csw
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.         
+
+===========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+fa          A.1 utt2: sorry. /  
+
+ba          B.2 utt1:  Wow,  /
+bd          B.2 utt2: that's okay  /
+ad          B.2 utt3: <breathing>  <laughter>.  {D So, }  tell me about your home. /  
+
+sd          A.3 utt1:  {F Oh, } [ it's, + {F uh, } it ] looks like a little shot gun house, almost.  /
+sd          A.3 utt2: It's got three bedrooms going along one side and the living room and kitchen on the other. /  
+
+b          B.4 utt1:  Uh-huh. /  
+
+sd          A.5 utt1:  It's, {F uh, } an older home,  /
+sd          A.5 utt2: it's not new,  /
+sd          A.5 utt3: I like it though,  /
+sd          A.5 utt4: it's big. /  
+
+b          B.6 utt1:  {F Oh } really,  /
+qw          B.6 utt2: what kind of square footage? /  
+
+h          A.7 utt1:  {F Oh, } I wouldn't know,  /
+sd          A.7 utt2: I measured it one time,   
+
+%          B.8 utt1:  # {F Uh. }  # /  
+
++          A.9 utt1:  # because # [ I was, + ] {F uh, } we had saw some termites  /
+sd          A.9 utt2: {C and } we thought about getting it sprayed.  /
+sd          A.9 utt3:  I think it was like, - /
+sd          A.9 utt4: I can't remember,  /
+fa          A.9 utt5: I'm sorry  /
+x          A.9 utt6: <laughter>.   
+
+bd          B.10 utt1:  That's okay,  /
+bd^r          B.10 utt2: that's okay. /  
+
+sd          A.11 utt1:  It's big enough for us, though. /  
+
+b          B.12 utt1:  # Uh-huh.  # /  
+
+sd          A.13 utt1:  # We # kind of need maybe one more room.  /
+sd          A.13 utt2:  We've got two children. /  
+
+b          B.14 utt1:  Uh-huh,  /
+b          B.14 utt2: okay.  /
+qw          B.14 utt3:  {C So } where do you live at, - /
+qw^d          B.14 utt4: {E I mean } [ wha-, + what ] part of town.   [ In + here in  ] Denison. /  
+
+b          A.15 utt1:  Okay,  /
+%          A.15 utt2: we-, - /
+sd          A.15 utt3: {D see, } that's north. /  
+
+qrr          B.16 utt1:  {C Or } down here in Denison, - /
+b          B.16 utt2: yeah. /  
+
+ b         A.17 utt1:  Okay,  /
+ sd         A.17 utt2: [ I live, + I live ] in Plano,  /
+sd          A.17 utt3: {C so } it's north to me <laughter>. /  
+
+b          B.18 utt1:  Okay,  /
+sd          B.18 utt2: up here then <laughter>. /  
+
+sd          A.19 utt1:  I say down,  /
+sd          A.19 utt2: I'm really from Kentucky. /  
+
+sd          B.20 utt1:  I was going to say you didn't have the typical, - /
+sv          B.20 utt2: you have a southern accent, /  
+
+b          A.21 utt1:  # Uh-huh.  # /  
+
+sd          B.22 utt1:  # {C but } # you don't have a Texas accent. /  
+
+b          A.23 utt1:  Right. /  
+
+sd          B.24 utt1:  {D Well } I'm originally from, {F uh, } Ohio, Cincinnati, /  
+
+b          A.25 utt1:  # {F Oh, } okay.  # /  
+
+sd          B.26 utt1:  # {C so } I'm # [ famili-, + {F uh, } familiar ] with, {F uh, } -/  
+
+^2          A.27 utt1:  That area, - /
+^2          A.27 utt2: that dialect. -/  
+
+aa          B.28 utt1:  Right,  /
+aa^r          B.28 utt2: right  /
+sd          B.28 utt3: <laughter>.  Also I lived in Georgia for about four years,  /
+%          B.28 utt4: {C so } the, {F uh, } - /
+sd          B.28 utt5: there's a difference too, between east and west, in the south.    
+
+b          A.29 utt1:  # Uh-huh.  # /  
+
++          B.30 utt1:  # {C And, }  # {F uh, } the way in which people speak.  /
+sd          B.30 utt2:  {D Anyway, } my home  [ is, + {F um, } I guess it's  ] about twenty-five hundred square foot  /
+sd          B.30 utt3: {C and } I have, {F uh, } four bedrooms at the present.  /
+sd          B.30 utt4:  We're busting out walls and things like that. /  
+
+sd          A.31 utt1:  That's what I want to do.  /
+qw          A.31 utt2:  How many kids do you have? /  
+
+sd          B.32 utt1:  We have two,  /
+sd^r          B.32 utt2: we have two. /  
+
+qy          A.33 utt1:  Do you have enough bedroom space, then? /  
+
+ny          B.34 utt1:  <Music>  Yeah,  /
+sd^e          B.34 utt2: we'll have enough bedroom space,  /
+%          B.34 utt3: it's, - /
+sd          B.34 utt4: we're rearranging our house because the bedrooms are kind of small. /  
+
+b          A.35 utt1:  Uh-huh. /  
+
+sd          B.36 utt1:  {C And so, } we're going to enlarge our master bedroom and take out a couple of walls and enlarge it. And then shuffle the rooms around a little bit. /  
+
+sd          A.37 utt1:  That's kind of like what we'd like to do.  /
+sd          A.37 utt2:  We just had a baby a couple months ago  /
+sd          A.37 utt3: {C and } we've got a den,  /
+sd          A.37 utt4: it's more or less a spare room. /  
+
+b          B.38 utt1:  Uh-huh. /  
+
+sd          A.39 utt1:  We rarely go in there, except for to play chess. /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+sd          A.41 utt1:  We want to make that a bedroom for my stepdaughter and my daughter  /
+sd          A.41 utt2: {C and, }  {F uh, } we need the one extra room.  /
+sd          A.41 utt3:  [ Like, +  like ] you said, [ our rooms are  too s-, + the bedrooms are too small, ]  /
+sd          A.41 utt4: the living room and kitchen are huge, /  
+
+b          B.42 utt1:  # Right.  # /  
+
+sd          A.43 utt1:  # {C but } # the bedrooms are too small.  /
+sd          A.43 utt2:  Where you've got to leave the furniture just one certain way, you can't rearrange it at all. /  
+
+b          B.44 utt1:  Right,  /
+%          B.44 utt2: there's they, {F uh, } - /
+sd          B.44 utt3: I know what you're saying there,  /
+sd          B.44 utt4: ours is the same  /
+sd          B.44 utt5: {C and } they tend to put windows in the strangest places. /  
+
+b          A.45 utt1:  # Yeah.  # /  
+
+sd          B.46 utt1:  # {D You # know } we have windows in our bathrooms which really makes it difficult for, -/  
+
+b          A.47 utt1:  Yeah,  /
+sd          A.47 utt2: we've got two great big windows in our back bathroom. /  
+
+b          B.48 utt1:  Uh-huh,  /
+sd          B.48 utt2: [ yo-, + you're ] kind of limited in what you can do there and  everything,  /
+%          B.48 utt3: {C so. } -/  
+
+sd          A.49 utt1:  No privacy. /  
+
+aa          B.50 utt1:  No,  /
+sd          B.50 utt2: we don't have a lot of that,  /
+%         B.50 utt3: yeah. /  
+
+sd          A.51 utt1:  {D Well, } we've got at least two windows on every wall in the house.  /
+%          A.51 utt2:  It, -/  
+
+b          B.52 utt1:  Uh-huh. /  
+
+sd          A.53 utt1:  I'd hate to clean these windows,  /
+sd          A.53 utt2: I really would. /  
+
+sd          B.54 utt1:  <Cough>  I figured I'm going to have to hire somebody to remove our windows and put new ones in that are easier to clean.  /
+sd          B.54 utt2: Ours are the double pane  /
+sd          B.54 utt3: {C and } you can't really clean them on the inside, {D you know. } /  
+
+sd          A.55 utt1:  Ours are those too,  /
+b          A.55 utt2: yeah.  /
+sd          A.55 utt3:  You must live in an older home too then. /  
+
+aa          B.56 utt1:  Right,  /
+sd          B.56 utt2: I do,  /
+sd          B.56 utt3: the house is about, {F um, } I'd say almost thirty years old. /  
+
+b          A.57 utt1:  # Uh-huh.  # /  
+
+sd          B.58 utt1:  # {C So } # it's not a new home,  /
+sd          B.58 utt2: [ it's, + it's ] seen some wear and tear.    
+
+sd          A.59 utt1:  Ours has too. /  
+
++          B.60 utt1:  {D You know. } /  
+
+sd          A.61 utt1:  When we moved in the man that sold it to us had said that he remodeled it, /  
+
+b          B.62 utt1:  # Uh-huh.  # /  
+
+sd          A.63 utt1:  # {C and } # he did it hisself,  /
+sd          A.63 utt2: {C so } most of that, by now, is falling apart. /  
+
+b          B.64 utt1:  # Oh.  # /  
+
+sd          A.65 utt1:  # {D You # know, } {D well } {E I mean, } it's not just horrible,  /
+sd          A.65 utt2: {C but } {D like } this tiles come loose off the wall,  /
+sd          A.65 utt3: the whole bathroom is covered from ceiling to foot in tile  /
+sd          A.65 utt4: {C and } I don't like that at all. /  
+
+ba          B.66 utt1:  {F Um, } that is awful. /  
+
+sd          A.67 utt1:  With that, {F uh, } the great big [ tiles, + square tiles  ] {D like, }  that you put on the floor,   
+
+b          B.68 utt1:  # Uh-huh,  /
+qy          B.68 utt2: he did it in that? # /  
+
++          A.69 utt1:  # [ the, + the ] huge one.  /
+ny          A.69 utt2:  Yeah,  /
+sd^e          A.69 utt3: instead # of wallpaper.  /
+sd          A.69 utt4:  I wouldn't mind it if it was {D like } short tiles,  /
+sd          A.69 utt5: for that you put, -/  
+
+^2          B.70 utt1:  # The normal tiles,  /
+b          B.70 utt2: right. # /  
+
+aa          A.71 utt1:  # right  /
+sd          A.71 utt2: that you put # around a bathtub,  /
+sd          A.71 utt3: that would be prettier. /  
+
+b          B.72 utt1:  # Uh-huh.  # /  
+
+sd          A.73 utt1:  # {C But } # this looks like floor covering on the wall.  /
+sd          A.73 utt2:  It just doesn't look good. /  
+
+sd          B.74 utt1:  {F Oh, } {C and } also they're very heavy  /
+sd          B.74 utt2: {C and so } they tend to come off a whole lot easier. /  
+
+b          A.75 utt1:  Right,  /
+sd          A.75 utt2: there's one big one that has come off  /
+sd          A.75 utt3: {C and } short of putting nails through it, we can't get it back on,  /
+%          A.75 utt4: {C so. } -/  
+
+b          B.76 utt1:  {F Um. } /  
+
+sd          A.77 utt1:  {C And } he rewired the house  /
+sd          A.77 utt2: {C and } it's shorting out here and there,  /
+%          A.77 utt3: {C and } - /
+x          A.77 utt4:  <laughter>.   
+
+ba          B.78 utt1:  {F Oh, } wow,  /
+%          B.78 utt2: I, - /
+sd          B.78 utt3: that's one of the things we've been fortunate with, is our, {F uh, } wiring is okay.  /
+sd          B.78 utt4: [ We don't have a, + we don't have ] enough power,  /
+sd          B.78 utt5: {F um, } {C or } our breakers [ aren't, + aren't ] powerful enough [ [ to take, + to, ] + to ] really help with the load in the house. /  
+
+b          A.79 utt1:  # Uh-huh.  # /  
+
+sd          B.80 utt1:  # {E I # mean } we need to redo some, rewiring ourselves  /
+sd          B.80 utt2: {C but } our plumbing is awful.  /
+sd          B.80 utt3: [ There is n-, + there is ] a shut off valve that's outside that doesn't work, /  
+
+b          A.81 utt1:  # {F Um. }  # /  
+
+sd          B.82 utt1:  # {C and } # there's no other real shut off valves inside the house,  /
+sd          B.82 utt2: {C so } if something breaks, we have to shut it off from the main, in the street,   
+
+b          A.83 utt1:  # Yeah.  # /  
+
++          B.84 utt1:  # {D you # know,  }  /
+sd          B.84 utt2: {C and, }  {F oh, } [ it's, + it ] can be really bizarre. /  
+
+b          A.85 utt1:  Yeah. /  
+
+sd          B.86 utt1:  {C And } we never know where it's going to flood. /  
+
+sd          A.87 utt1:  We've got power surges on the west side of our house.  /
+sd          A.87 utt2:  We've got our stereo hooked up. /  
+
+b          B.88 utt1:  Uh-huh. /  
+
+%          A.89 utt1:  {D Well } that, - /
+sd          A.89 utt2: the power makes it run.  /
+sd          A.89 utt3: It's never ran,  /
+sd          A.89 utt4: it's always ran just fine, the clock and stuff. /  
+
+ b         B.90 utt1:  Uh-huh. /  
+
+sd          A.91 utt1:  {C But } it runs about ten minutes fast,  except [ for about a month, + for about a month ] [ the, + the ] clock ran normal. /  
+
+b          B.92 utt1:  {F Um. } /  
+
+sd          A.93 utt1:  {C And then } the power went off again,  /
+sd          A.93 utt2: lightning or something knocked it out  /
+sd          A.93 utt3: {C and } we hooked it back up  /
+sd          A.93 utt4: {C and } now it's running ten or fifteen minutes fast again. /  
+
+b          B.94 utt1:  {F Um. } /  
+
+sd          A.95 utt1:  {C But } on the east side of the house it runs fine. /  
+
+ba          B.96 utt1:  {F Oh } boy, you do have a strange wiring problem there. /  
+
+sd          A.97 utt1:  <Laughter>  He put new wiring in,  /
+sd          A.97 utt2: it's all new wiring up in the attic,   
+
+b          B.98 utt1:  # Uh-huh.  # /  
+
++          A.99 utt1:  # or # I guess crawl space, /  
+
+b          B.100 utt1:  Uh-huh. /  
+
+o          A.101 utt1:  {C but, }  {F uh, } {F oh, } no,  /
+sd          A.101 utt2: he didn't know what he was doing,  /
+sd          A.101 utt3: he really should have hired people. /  
+
+ba          B.102 utt1:  {D Well } that's something, - /
+sd          B.102 utt2: my husband's in construction  /
+sd          B.102 utt3: {C and } he won't even touch electrical stuff.  /
+%          B.102 utt4:  He, i-, - /
+sd          B.102 utt5: {E I mean, } he'll do a little  ((   ))  things  /
+sd          B.102 utt6: {C but } he won't do any major rewiring. /  
+
+x          A.103 utt1:  # <Cough>.  #   
+
+sd          B.104 utt1:  # He # says he'd rather pay the electrician to handle it. /  
+
+b          A.105 utt1:  Right,  /
+sv          A.105 utt2: he'll end up killing himself. /  
+
+br          B.106 utt1:  Pardon. /  
+
+sv^r          A.107 utt1:  End up killing theirselves. /  
+
+ba          B.108 utt1:  That's right. /  
+
+sd          A.109 utt1:  My husband, he'll change out a light switch,  /
+sd          A.109 utt2: {C but } that's about as far as he'll go. /  
+
+sd          B.110 utt1:  {D Well } that's the way mine is, {D you know, } /  
+
+b          A.111 utt1:  # Yeah.  # /  
+
+sd          B.112 utt1:  # {E I # mean, } [ [ he, + he ] + {D well } he ] said he went up in the attic and looked around  /
+sd(^q)          B.112 utt2: {C and } he was like, {F oh } my God,  /
+sd(^q)          B.112 utt3: he says, looks like a bunch of spaghetti up there.  /
+sd          B.112 utt4: {C And } we had squirrels in our attic when we first moved in because the roof was so sorry, /  
+
+%          A.113 utt1:  <Laughter>  <throat_clearing>.  {F Uh, } was a what, -/  
+
+sd          B.114 utt1:  The roof was really sorry.  /
+sd          B.114 utt2: {E I mean } when we moved in,   
+
+b          A.115 utt1:  # Uh-huh.  # /  
+
++          B.116 utt1:  # we # had no idea how bad it was.  /
+sd          B.116 utt2:  It was a wood shingle roof,  /
+%          B.116 utt3: {C and } we, - /
+sd          B.116 utt4: the first year we were living there, we had to replace the roof. /  
+
+sd          A.117 utt1:  {D Well } he put, - /
+%          A.117 utt2:  which - /
+sd          A.117 utt3: I heard it's a law that you're only allowed to have three layers of shingles.  /
+sd          A.117 utt4:  Is it three or five,  /
+sv          A.117 utt5: [ your + ] husband probably knows. /  
+
+aa          B.118 utt1:  He probably knows,  /
+sd          B.118 utt2: I don't know what it is off hand. /  
+
+sd          A.119 utt1:  {D Well, } he's got seven layers of shingles up there,  /
+sd          A.119 utt2: {C and } he told us it was a completely new roof.  /
+sd          A.119 utt3: Like I said, he didn't know what he was doing. /  
+
+aa          B.120 utt1:  Yeah,  /
+sv          B.120 utt2: he must not of.  /
+sd          B.120 utt3: [ We stripped ours, + we stripped ours ] off.  /
+sd          B.120 utt4:  We didn't put it over, 'cause we put composition roof on.  /
+sd          B.120 utt5: {C And } we [ completely s-, + completely stripped ] all the old wood shingles off, put decking up, put the paper down, and {E I mean } just started from scratch. /  
+
+b          A.121 utt1:  Uh-huh. /  
+
+sd          B.122 utt1:  Unfortunately when we were doing that it decided it wanted to snow and hail and rain. /  
+
+ba          A.123 utt1:  {F Oh, } no. /  
+
+sd          B.124 utt1: [ [ {C And } we, + {C and } we  had, ] + we had ] almost, I'd say about half of the roof off,  /
+sd          B.124 utt2: {C and }  it did this. /  
+
+^2          A.125 utt1:  {C And, }  {F uh, } {F uh, } a house full of snow. /  
+
+sd          B.126 utt1:  {C And } a house full of snow, and rain, /  
+
+b          A.127 utt1:  # Uh-huh.  # /  
+
+sd          B.128 utt1:  # {C and } # it came down,  /
+sd          B.128 utt2: it did this in the middle of the night.  /
+sd          B.128 utt3: We have plastic, {D you know, } just tied down on everything, {D you know, } as best we could,   
+
+b          A.129 utt1:  # Uh-huh.  # /  
+
++          B.130 utt1:  # real # thick  (( edge ))  stuff, {E I mean, }  /
+sd          B.130 utt2: {C and } the wind came in from the north  /
+sd          B.130 utt3: {C and } it just blew everything off in the middle of the night  /
+sd          B.130 utt4: {C and } we were asleep  /
+sd          B.130 utt5: [ {C and, } +  {C and } ] I woke up  /
+sd          B.130 utt6: {C and } I got up  /
+sd          B.130 utt7: {C and } it was about four o'clock in the morning  /
+sd          B.130 utt8: {C and } I heard all [ these, + these ] drips, drip, drip, drip, drip, drip, drip. /  
+
+ba          A.131 utt1:  {F Oh, } no. /  
+
+sd          B.132 utt1:  I had water coming in every light fixture. /  
+
+%          A.133 utt1:  # That, - /
+b          A.133 utt2: yeah.  # /  
+
+sd          B.134 utt1:  # I had # water coming in everything that was in the ceiling, everywhere.  /
+sd          B.134 utt2: {C And } {E I mean } it filled up my light fixtures, because they're the old kind. /  
+
+b          A.135 utt1:  # Uh-huh.  # /  
+
+sd          B.136 utt1:  # {C And } # I would go in,  /
+sd          B.136 utt2: {C and } I'd turn on a light in the room, {D you know }  /
+sd          B.136 utt3: {C and } the light would come on  /
+sd          B.136 utt4: {C and } the whole thing would be full of water.  /
+sd          B.136 utt5: {C And } {E I mean } the light would still come on.  /
+sd          B.136 utt6:  It didn't blow up or anything <laughter>. /  
+
+sd          A.137 utt1:  <Throat_clearing> [ My neighbor, + {E or } a friend ] of mine when I lived in Louisiana, her, - /
+sd          A.137 utt2: we all lived on base,  /
+sd          A.137 utt3: my husband was in the Army. /  
+
+b          B.138 utt1:  Uh-huh. /  
+
+sd          A.139 utt1:  She woke up about three or four o'clock in the morning, water dripping from hers.  /
+sd          A.139 utt2:  The neighbor's [ la-, + ] {F uh, } washing machine had {F uh, } over done something,  /
+h          A.139 utt3: I don't know  /
+sd          A.139 utt4: {C but } it was leaking, just pouring water in  /
+sd          A.139 utt5: {C and } it all went through to her roof  /
+sd          A.139 utt6: {C and } it was coming out of the lights, fixtures. /  
+
+b          B.140 utt1:  Oh. /  
+
+ sd         A.141 utt1:  The fire alarm went off for some reason.  /
+ sd         A.141 utt2:  It shorted it out, or something. /  
+
+ba          B.142 utt1:  {F Oh, } yeah,  /
+ba          B.142 utt2: that will happen. /  
+
+sd          A.143 utt1:  {C So } she woke up with about six feet of water in her house. /  
+
+ba          B.144 utt1:  {F Oh, } my lord. /  
+
+ar          A.145 utt1:  No,  /
+sd          A.145 utt2: not six feet  /
+%          A.145 utt3: {C but, } -/  
+
+^2          B.146 utt1:  {C But } it's quite a bit, quite a bit,  /
+sv          B.146 utt2: you know that, /  
+
+aa          A.147 utt1:  Yeah  /
+%          A.147 utt2: you might as well  /
+qy          A.147 utt3: {C so. }   Did you have carpets and stuff? /  
+
+no          B.148 utt1:  {F Oh, } several of our rooms got ruined,  /
+sd          B.148 utt2: we have, {F um, } - /
+sd          B.148 utt3: we [ h-, + ] are on pier and  beam,  /
+sd          B.148 utt4: we don't have concrete slab underneath our house, /  
+
+b          A.149 utt1:  # Uh-huh.  # /  
+
+sd          B.150 utt1:  # {C so } # [ it, + it ] got into the carpeting, got into the floor.  /
+sd          B.150 utt2:  The carpeting was already awful anyway,  /
+sd          B.150 utt3: {C but } it got into the floor and rotted the floor and  made it stink  /
+%          B.150 utt4: s-, -/  
+
+sd          A.151 utt1:  Your house sounds like mine because mine's pier and beam too. /  
+
+b          B.152 utt1:  {F Oh } really. /  
+
+ny          A.153 utt1:  Yeah. /  
+
+b          B.154 utt1:  Yeah,  /
+sd          B.154 utt2: they came in  /
+sd          B.154 utt3: {C and } they had it, - /
+sd          B.154 utt4: one room they completely cut up the floor in and removed it.  /
+sd          B.154 utt5:  We had to call the insurance company.  /
+sd          B.154 utt6:  {E I mean } the insurance company was paying for the new roof  /
+sd          B.154 utt7: {C but } they also ended up having to pay for the damage when the [ re-, + ] roof was being repaired.    
+
+b          A.155 utt1:  Uh-huh. /  
+
++          B.156 utt1:  {D You know, } which really wasn't our fault. /  
+
+x          A.157 utt1:  # <Wheezing>  <throat_clearing>.  #   
+
+sd          B.158 utt1:  # {E I mean } # we'd done everything we could to keep out the weather.    
+
+ba          A.159 utt1:  That's right.  /
+ba^r          A.159 utt2:  That's right. /  
+
++          B.160 utt1:  {D You know, } and stuff  /
+%          B.160 utt2: {C and, } -/  
+
+sv          A.161 utt1:  {D Well } you got to redo it the way you wanted it in the end. /  
+
+ba          B.162 utt1:  {F Oh } yeah  /
+%          B.162 utt2: it, -/  
+
+qy          A.163 utt1:  Are you finished with it now? /  
+
+qy^d          B.164 utt1:  {F Uh, } the roof? /  
+
+ny          A.165 utt1:  Uh-huh. /  
+
+ny          B.166 utt1:  {F Oh } yeah,  /
+ny^r          B.166 utt2: yeah,  /
+sd^e          B.166 utt3: [ it's, + it's ] been done for quite some time.  /
+sd          B.166 utt4: We're really glad with all the rain we've had in the last couple of years that we have a really good roof. /  
+
+ b         A.167 utt1:  Uh-huh,  /
+ qw         A.167 utt2: how long have you lived there? /  
+
+ sd         B.168 utt1:  {F Uh, } {D see, } it's three, - /
+sd          B.168 utt2: it's just been [ a-, + at ] three years.  /
+sd          B.168 utt3: We've been in the house just the three years.  /
+sd          B.168 utt4:  We've been doing a lot of remodeling.  /
+sd          B.168 utt5:  {E I mean, }  [ [ it's, + it had detached, ] + it had a [ dir-, + ] detached ] garage  /
+sd          B.168 utt6: {C and } my husband's built a walkway across  /
+sd          B.168 utt7: {C and } we're going to brick up the garage to match the house and  things like that  /
+%          B.168 utt8: {C so } we, -/  
+
+qy          A.169 utt1:  You all did it yourselves? /  
+
+qy^d          B.170 utt1:  What, {F uh, } the walk? /  
+
+no          A.171 utt1:  The home improvements. /  
+
+ny          B.172 utt1:  {F Oh } yeah,  /
+ny^r          B.172 utt2: yeah,  /
+sd^e          B.172 utt3: he see he does this for a living, /  
+
+b          A.173 utt1:  # Uh-huh.  # /  
+
+sd          B.174 utt1:  # {E I # mean } this is what, -/ 

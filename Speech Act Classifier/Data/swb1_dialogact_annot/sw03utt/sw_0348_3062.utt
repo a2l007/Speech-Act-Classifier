@@ -1,0 +1,406 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3062_1285_1281
+TOPIC#:		353
+DATE:		910613
+TRANSCRIBER:	RDL
+UTT_CODER:      MMAB
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	3
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:        None.
+
+======================================================================
+  
+
+sd          B.1 utt1:  <Tone> {D Well, } we've talked a little bit about the Plano  school system.  /
+sd          B.1 utt2:  {F Um, } [ I, + I ] really have been pleased with Plano.  /
+sd          B.1 utt3: I have a child  who, {F uh, } - /
+sd          B.1 utt4: my son is learning disabled, /  
+
+b          A.2 utt1:  Uh-huh. /  
+
+sd          B.3 utt1:  {C and, }  {F uh, } I thank God every day that I have  the resources that we have tapped into. /  
+
+qy          A.4 utt1:  {D Now, } is he the elementary school? /  
+
+na          B.5 utt1:  He's in elementary school. /  
+
+b          A.6 utt1:  Uh-huh. /  
+
+sd          B.7 utt1:  {C And } he's not severely learning disabled. /  
+
+b          A.8 utt1:  Uh-huh. /  
+
+sd          B.9 utt1:  {E I mean, } {D you know, } [ he just, +      
+
+^2          A.10 utt1:  {C But } he is being helped. /  
+
++          B.11 utt1:  He's ] being helped.  /
+sd          B.11 utt2:  [ He, + he ] was in resource  from second grade till fourth grade in math, /  
+
+b          A.12 utt1:  Uh-huh. /  
+
+sd          B.13 utt1:  {C and } they recently released him from,   
+
+ba          A.14 utt1:  {F Oh, } great. /  
+
++          B.15 utt1:  resource, which [ I'm, +  I was ] thrilled,  /
+sd          B.15 utt2: I really was.  /
+ sd         B.15 utt3:  [ I, + I ] just thought that was so neat, that they got him over that hump.  /
+sd          B.15 utt4:   {C And, }  {F um, } he's in the Herman Method of Reading.  /
+qy^d          B.15 utt5:  I don't know if you're,   
+
+nn          A.16 utt1:  No,  /
+sd^e          A.16 utt2: that's something new to me.  /
+%          A.16 utt3: I'm, -/  
+
++          B.17 utt1:  familiar with that.  /
+sd          B.17 utt2:  It is something new,  /
+sd          B.17 utt3:  {C and } basically what they do is they start right from the beginning relearning the sounds of letters. /  
+
+b          A.18 utt1:  <<Faint>> Oh. /  
+
+b          B.19 utt1:  {F Um, } /  
+
+sd          A.20 utt1:  I think I read about that in the paper. /  
+
+sd          B.21 utt1:  It's wonderful. /  
+
+sd          A.22 utt1:  Doctor Haggard [ is, + is ] heading that up. /  
+
+ny          B.23 utt1:  Yes,  /
+sd^e          B.23 utt2: {C and } it's wonderful.  /
+sd          B.23 utt3:  He didn't have a  problem with reading.  /
+sd          B.23 utt4:  As a matter of fact, he's reading on level.  /
+sd          B.23 utt5:  The problem was his  spelling.  /
+sd          B.23 utt6: {C And, }   
+
+b          A.24 utt1:  Uh-huh. /  
+
++          B.25 utt1:  {D you know, } [ in, + in ] watching the way he has  struggled,  /
+sd          B.25 utt2: it's interesting, because I'm convinced I have the same learning disability, or had,   
+
+b          A.26 utt1:  Oh. /  
+
++          B.27 utt1:  that was ignored.  /
+%          B.27 utt2:  {C And, } -/  
+
+b          A.28 utt1:  Right,  /
+bf          A.28 utt2: {C so } [ you worked, +  you learned ] how to solve your  problems on your own. /  
+
+aa          B.29 utt1:  That's right.  /
+sd          B.29 utt2:  [ {C And, } +  {C and so } ] [ it's, +  {D you know, } it's ] not an intelligence problem.  /
+sd          B.29 utt3:  It's just a problem with learning. /  
+
+qy          A.30 utt1:  [ Has, + has ] he had this since kindergarten,  /
+qrr          A.30 utt2: {C or }  is this something that maybe learning phonetics,  /
+qy          A.30 utt3: {C and then } he just didn't learn the right way? /  
+
+sd          B.31 utt1:  {D Well, } {D you know, } it's funny.  /
+sd          B.31 utt2: [ When, + {F um, } when ]  he was in first grade, he had trouble [ with, + with ] spelling, /  
+
+b          A.32 utt1:  Uh-huh. /  
+
+sd(^q)          B.33 utt1:  {C and } I would say to the teacher,  <lipsmack> {D you know, } it's amazing.  /
+sd          B.33 utt2:  He will be able to, - /
+sd          B.33 utt3: you'll say to him, spell cat,  /
+sd(^q)          B.33 utt4:  {C and, } {D you know, } he'll say C A T,  /
+sd          B.33 utt5: {C and then } he would go to write it,  /
+sd          B.33 utt6: {C and } he would write C O T. /  
+
+b          A.34 utt1:  Okay. /  
+
+sd(^q)          B.35 utt1:  {C And } I kept saying to the teacher,  something is wrong here.  /
+^q          B.35 utt2:  Something is wrong here. /  
+
+aa          A.36 utt1:  You're [ right, + right. ] /  
+
+sd(^q)          B.37 utt1:  {C And } the teacher kept saying, {F oh, }  he has a May birthday.  /
+^q          B.37 utt2:  He's just immature. /  
+
+b          A.38 utt1:  Right. /  
+
+%          B.39 utt1:  <Breathing> {D Well, } second grade it was, - /
+%          B.39 utt2: I will, - /
+sd          B.39 utt3:  these teachers as far as I'm concerned are absolute saints, because in second grade, it was about the second week of school, I went up there,  /
+sd          B.39 utt4: {C and }  [ I, + I ] requested a conference [ and, + ]   
+
+ba          A.40 utt1:  Good,  /
+ba^r          A.40 utt2: good, /  
+
++          B.41 utt1:  because all year long they kept telling me I was crazy. /  
+
+ba          A.42 utt1:  that's great for parents to be involved. /  
+
+sd          B.43 utt1:  {D Well, } I was,  /
+sd          B.43 utt2: [ {C and } I, + {C and } I ] went up  there the second week of school  /
+sd(^q)          B.43 utt3: {C and } I said, {D you know, } something is wrong,  /
+sd          B.43 utt4: {C and } thank God  [ the li-, +  the head ] teacher, the team leader, was a special education major. /  
+
+ba          A.44 utt1:  {F Oh, } how great. /  
+
+aa          B.45 utt1:  [ It was, + it was ]  /
+sd          B.45 utt2: {C and, }   
+
+qy^d          A.46 utt1:  {C So } [ she, + she ] was able to zero in. /  
+
++          B.47 utt1:  She had picked it up,  /
+ny          B.47 utt2:  yep, /  
+
+bk          A.48 utt1:  Oh. /  
+
+sd^r          B.49 utt1:  she had already picked it up.  /
+sd(^q)          B.49 utt2: {C And } she said,  {D you know, } [ we, + we ] were going to call you if you hadn't called us.  /
+^q          B.49 utt3:  We think there's a  learning disability  /
+sd(^q)          B.49 utt4: {C and } we think he needs to be tested immediately,  because, {D you know, } once the first report card comes in, they,   
+
+b          A.50 utt1:  {F Huh. } /  
+
++          B.51 utt1:  have all these people being tested,  /
+sd(^q)          B.51 utt2: {C and } she said,  I think we can get him real fast. /  
+
+b          A.52 utt1:  Uh-huh,  /
+b^r          A.52 utt2: <<faint>> uh-huh. /  
+
+sd          B.53 utt1:  {C And } sure enough, they tested him  /
+sd          B.53 utt2: {C and, }  {D you know, } he qualified [ for, + for ] the help,  /
+sd          B.53 utt3: {C and } it's been great,  /
+sd          B.53 utt4: [ {C and } I, + {C and } I ]  thank God I'm here, because [ I, + I ] know I have a sister who has the other extreme.  /
+sd          B.53 utt5:  She has [ a, + a ]  child in Connecticut who is extremely gifted,  /
+sd          B.53 utt6: {C and } because of the cutbacks  in the economy --   
+
+b          A.54 utt1:  Right. /  
+
++          B.55 utt1:  -- they have nothing for her. /  
+
+ba          A.56 utt1:  {F Oh, } no. /  
+
+sv          B.57 utt1:  [ {C And, } + {C and } ] to me that's the same thing.  /
+sv          B.57 utt2:   [ It's, + it's ] like having a child who has a learning disability that's being ignored,   
+
+aa          A.58 utt1:  Uh-huh,  /
+aa^r          A.58 utt2: uh-huh. /  
+
++          B.59 utt1:  this poor gifted child is being ignored. /  
+
+aa          A.60 utt1:  Right,  /
+sv          A.60 utt2: {C but } that's something that parents,  I think, are able to help the gifted child in the home more than they could help the learning disabled child. /  
+
+aa          B.61 utt1:  That's true. /  
+
+sv          A.62 utt1:  {D So, } {C because, }   
+
+aa^r          B.63 utt1:  That's true. /  
+
++          A.64 utt1:  that's something you can do by just enrichment types of things in the home -- /  
+
+b          B.65 utt1:  Uh-huh. /  
+
+sv          A.66 utt1:  -- {C but } learning disability, unless you are  schooled in the types of things and ways to help a child like that, then it makes it  real difficult -- /  
+
+b          B.67 utt1:  Uh-huh. /  
+
+sv          A.68 utt1:  -- {C and } [ this is, + this to me is ] the benefit  I see in public schools --   
+
+aa          B.69 utt1:  Yes. /  
+
++          A.70 utt1:  -- is [ that, + that, ] {F uh, } you do have  government money to fund,   
+
+b          B.71 utt1:  Right. /  
+
++          A.72 utt1:  the kinds of programs --   
+
+b          B.73 utt1:  Right. /  
+
++          A.74 utt1:  -- that these students need,  /
+sv          A.74 utt2: {C and } I'm not sure that  the private schools or  parochial schools address that problem,   
+
+x          B.75 utt1:  <Breathing>.   
+
++          A.76 utt1:  they test kids before they take them, /  
+
+aa          B.77 utt1:  Exactly,  /
+sv          B.77 utt2: {C and, }   
+
+sv          A.78 utt1:  {C and } if they're a behavior problem, they're out. /  
+
++          B.79 utt1:  They don't take them,  /
+aa          B.79 utt2: that's right. /  
+
+%          A.80 utt1:  That,  /
+sv          A.80 utt2: [ {C and, } + {C and, } ]    
+
+b          B.81 utt1:  Right. /  
+
++          A.82 utt1:  {F uh, } this is kind of a rejection type of thing, /  
+
+b          B.83 utt1:  Uh-huh. /  
+
+sv          A.84 utt1:  [ {C and, } + {C and } ] we get it even at our  level [ in, + in, ] - /
+sd          A.84 utt2: I work a nine ten school,  /
+sd          A.84 utt3: {C and } we get students that come in that have been  kicked out of the, {F uh, } parochial  [ and  pub-, +  and,  {F uh, } private ] schools -- /  
+
+b          B.85 utt1:  Uh-huh. /  
+
+sd          A.86 utt1:  -- {C and, }  {F uh, } they come in  /
+sd(^q)          A.86 utt2: {C and } their  attitude is, "I'm a bad boy," and  proceed to <laughter> prove it. /  
+
+b          B.87 utt1:  Really,  /
+b^r          B.87 utt2: really. /  
+
+sd          A.88 utt1:  {C So } [ I, + I ] really hate that for them.  /
+sd          A.88 utt2: [ I, + I, ]   
+
+b          B.89 utt1:  Yeah. /  
+
++          A.90 utt1:  would rather they not have that attitude,  /
+%          A.90 utt2:  {C but } <breathing> that's, -/  
+
+%          B.91 utt1:  {D Well, } when comparing test scores, - /
+sd          B.91 utt2:  I know recently I was in a discussion  /
+sd          B.91 utt3: {C and } they were comparing test scores between private schools and  public schools, /  
+
+b          A.92 utt1:  Right. /  
+
+sv          B.93 utt1:  {C and } that was one of the points that  I made, is that you're not comparing apples to apples. /  
+
+aa          A.94 utt1:  That's right. /  
+
+sv(^q)          B.95 utt1:  {D You know, } you can't say, {F um, } {D you know, }  I know Steven probably would not be accepted because he has a learning disability [ and, + ]    
+
+b          A.96 utt1:  Uh-huh. /  
+
++          B.97 utt1:  into a private school.  [ And, + ] {F um, }  [ which is, + which is ] too bad.   /
+sv          B.97 utt2: {C But } on the other hand, [ I, + I ] can't necessarily  blame them,   
+
+aa          A.98 utt1:  No. /  
+
++          B.99 utt1:  {D you know, } [ they, + they ] are a private  school  /
+sv          B.99 utt2: {C and } they,   
+
+aa          A.100 utt1:  That's right, /  
+
++          B.101 utt1:  can do whatever they want. /  
+
+sv          A.102 utt1:  they can be selective,  /
+aa          A.102 utt2: right. /  
+
+%          B.103 utt1:  {C And } [ they ca-, +  they, ] - /
+aa          B.103 utt2: that's right,  /
+aa          B.103 utt3: they have the  ability to be selective.  /
+sv          B.103 utt4: {C But } you can't say then, {D well, } public schools  [ are, + are ] not as good. /  
+
+b          A.104 utt1:  Right. /  
+
+sv          B.105 utt1:  Perhaps they are, because [ they're, + they're, ] -/  
+
+sv          A.106 utt1:  If you choose the select top group out of the  public schools and tested them, and then compared them [ to the pri-, + to the private ]  school group, then I think you would have a more equitable --   
+
+aa          B.107 utt1:  You're right. /  
+
++          A.108 utt1:  -- way.  /
+sd          A.108 utt2: {C And } I have a problem when they  compare the kids in Japan or  Germany to the kids here.  /
+sd          A.108 utt3: [ [ In, + in, ] + in, ] {F uh, }  [ ho-, + honesty, ] the kids in Japan [ are, + they have ] to try out to even get into,  to which kindergarten they're going to get into, /  
+
+bh          B.109 utt1:  {F Oh, } really? /  
+
+%          A.110 utt1:  {C and then } after, {F uh, } - /
+%          A.110 utt2: {C and } [ if, + if ] you  only, - /
+sd          A.110 utt3: [ the, + ] in fact, they've had cases in the past where parents have committed suicide because their child has not gotten into the top kindergarten, which means they probably won't get into the top elementary [ and, + and ] high school, /  
+
+b          B.111 utt1:  Uh-huh. /  
+
+sd          A.112 utt1:  {C and } if they don't, [ then af-, + ] when  they reach a certain age, [ they just, + ] that's the end of their schooling. /  
+
+b          B.113 utt1:  Uh-huh. /  
+
+sd          A.114 utt1:  [ {C And, } + {C and, } ]  {F uh, }  they don't ever really go on.  /
+sv          A.114 utt2:  It's only their top ones that go on, like ours do. /  
+
+b          B.115 utt1:  Uh-huh,  /
+b^r          B.115 utt2: uh-huh. /  
+
+sv          A.116 utt1:  [ [ {C And, } + {C and, } ] + {F uh, } {C so } ] [ that, +  that ] creates a problem.  /
+sv          A.116 utt2: [ {C And, } +   
+
+b          B.117 utt1:  Yeah. /  
+
++          A.118 utt1:  {C and } ] you can't compare,  because they go so many more hours.  /
+sd          A.118 utt2:  The other thing is that the priority in the family is that child's education,   
+
+b          B.119 utt1:  Right, /  
+
++          A.120 utt1:  and is that child. /  
+
+sv          B.121 utt1:  {D well, } you see that with the foreigners that come here. /  
+
+aa          A.122 utt1:  That's right. /  
+
+sd          B.123 utt1:  {F Um, } [ I, + I ] was talking to somebody  recently or read somewhere [ where they, + where they ] said that, {D you know, } these children, [ they, + they ]  had to be the best,  /
+sd          B.123 utt2: {C and } they put off all social life, all everything,   
+
+aa          A.124 utt1:  That's right,  /
+aa^r          A.124 utt2: that's right. /  
+
++          B.125 utt1:  {D you know. }  /
+qh          B.125 utt2: {D Well, } is that good?  /
+ny          B.125 utt3: Yes,  /
+sd^e          B.125 utt4: the child is  very bright,  /
+sv          B.125 utt5: {C but } on the other hand, I feel like my children, who are kind of  middle of the road, [ have, +    
+
+^2          A.126 utt1:  Better coping skills. /  
+
++          B.127 utt1:  are ] more rounded, {D you know. } /  
+
+aa          A.128 utt1:  Yes. /  
+
+b          B.129 utt1:  Sure,  /
+b          B.129 utt2: sure,  /
+sv          B.129 utt3: I think it's real important to have  friends.  /
+sv          B.129 utt4: I think it's real important to play sports.  /
+sv          B.129 utt5:  I think it's real important  to be part of a team. /  
+
+b          A.130 utt1:  Right. /  
+
+sd          B.131 utt1:  {C And so } that's why I said, their childhood  is extremely different from mine.  /
+sd          B.131 utt2: We didn't do all that --   
+
+b          A.132 utt1:  Right. /  
+
++          B.133 utt1:  -- {D you know. }  /
+sd          B.133 utt2:  <laughter> We certainly didn't  carpool and run the way I do. {F Um, } /  
+
+sv          A.134 utt1:  {D Well, } {C and } [ you don't, + you don't ] see  the parents, {F uh, } encouraging those students to get on athletic teams or,    
+
+aa          B.135 utt1:  No. /  
+
++          A.136 utt1:  drill teams or band, /  
+
+aa          B.137 utt1:  Right,  /
+aa^r          B.137 utt2: right. /  
+
+sv          A.138 utt1:  it's strictly stick to the educational,  /
+sv          A.138 utt2: {C and } it's  interesting to see them as they get older, {F uh, } then that is the type of adult they are. /  
+
+b          B.139 utt1:  Uh-huh. /  
+
+b          A.140 utt1:  {F Um. } / 

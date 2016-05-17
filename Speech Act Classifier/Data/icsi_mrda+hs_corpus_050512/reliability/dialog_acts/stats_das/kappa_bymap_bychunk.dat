@@ -1,0 +1,113 @@
+DA Agreement (Kappa) By Classmap, Collapsed Over Annotator Pairs
+
+The statistics per meeting are calculated by equally weighting each
+annotator pair and averaging them to obtain an "average kappa" number.
+
+* Mean Kappa is a linear average of the 14 meetings, each of which
+is given an equal weighting.
+
+** Standard Deviation is the linear standard deviation of the 14
+meetings.
+
+---------------------
+PER MEETING AVERAGE
+---------------------
+map_01:
+Bed003	0.64384
+Bed006	0.75935
+Bed011	0.56863
+Bed015	0.70529
+Bmr005	0.87262
+Bmr006	0.72704
+Bmr007	0.77061
+Bmr014	0.85608
+Bmr018	0.89503
+Bmr027	0.87453
+Bro004	0.80051
+Bro007	0.71013
+Bro015	0.87407
+Bro028	0.84556
+---------------
+MEAN*	0.77881
+STD**	0.09887
+
+
+map_02:
+Bed003  0.67752
+Bed006	0.76725
+Bed011	0.61146
+Bed015	0.62457
+Bmr005	0.89408
+Bmr006	0.71819
+Bmr007	0.71569
+Bmr014	0.81605
+Bmr018	0.89436
+Bmr027	0.82238
+Bro004	0.61590
+Bro007	0.68941
+Bro015	0.87345
+Bro028	0.74192
+---------------
+MEAN*	0.74730
+STD**	0.10028
+
+
+map_03:
+Bed003  0.67782
+Bed006	0.76725
+Bed011	0.61146
+Bed015	0.60805
+Bmr005	0.89493
+Bmr006	0.70154
+Bmr007	0.71710
+Bmr014	0.81657
+Bmr018	0.86714
+Bmr027	0.82238
+Bro004	0.61613
+Bro007	0.65424
+Bro015	0.75347
+Bro028	0.72493
+---------------
+MEAN*	0.73093
+STD**	0.09418
+
+
+map_04:
+Bed003  0.77447
+Bed006	0.70419
+Bed011	0.65264
+Bed015	0.58068
+Bmr005	0.54845
+Bmr006	0.72998
+Bmr007	0.70892
+Bmr014	0.68546
+Bmr018	0.71032
+Bmr027	0.71989
+Bro004	0.73658
+Bro007	0.50454
+Bro015	0.67773
+Bro028	0.79415
+---------------
+MEAN*	0.68057
+STD**	0.08335
+
+
+map_05:
+Bed003  0.73308
+Bed006	0.64937
+Bed011	0.75372
+Bed015	0.58572
+Bmr005	0.77465
+Bmr006	0.69183
+Bmr007	0.69344
+Bmr014	0.72902
+Bmr018	0.75287
+Bmr027	0.73443
+Bro004	0.69433
+Bro007	0.58415
+Bro015	0.61798
+Bro028	0.77065
+---------------
+MEAN*	0.69752
+STD**	0.06516
+

@@ -1,0 +1,181 @@
+Quick Note:  The meetings Bmr005 and Bro005 in particular have more
+occurrances of missing MRT words than the other meetings.
+(See doc/lists/unmatched-mrt-words.txt for more details.)
+
+
+Words in the DA database transcripts match those in the MRT files in
+the official ICSI corpus release.  However, there are four issues
+to be aware of with respect to transcripts:
+
+ 1. Punctuation and capitalization differ from MRT versions
+
+ 2. Comments specify mismatches between MRT transcripts and
+    transcripts used during the DA labeling
+
+ 3. MRT transcripts were postprocessed to best map words to
+    that of SRI recognizer for forced alignment
+
+ 4. Unmiked speech is not included in the DA database.
+
+
+1. Punctuation and Capitalization:
+
+Transcripts in the DADB Transcription field are identical to those in the
+corpus MRT files, except for punctuation and capitalization
+differences.  As described in detail in the labeling manual, DA
+labeling required hand-segmenting the orginal MRT transcripts to
+produce DA-level segments.  Each line in the database corresponds to
+one DA unit, and contains one final punctuation symbol (including
+symbols for incomplete utterances).  These punctuation units differ
+from the punctuation used in the original transcripts (although often
+they coincide).  We also removed original capitalization, because it is
+unnecessary for both DA processing and forced alignment (acronyms are
+not ambiguous because they are marked with underscores) and could be
+confusing since it would not match up with our punctuation units.
+
+MPF (merged punctuation format) files that log punctuation for both the
+MRT and DADB files are included in the align_mrt_dadb directory.  For more
+detail on these files, read align_mrt_dadb/README.
+
+
+2. Reconciliation of Original Transcripts and MRT transcripts
+
+When the labelers began annotating the meeting data, they started with
+transcript versions that were older than the final MRT files that were
+released with the ICSI Meeting Corpus.  Labelers also occasionally
+made fixes to the original transcripts after listening to the audio.
+As a result, there are some inconsistencies between the original
+DA-labeled transcripts (which we refer to as "CSV" files) and the
+released MRT transcripts.
+
+These differences are important since DA punctuation exists only in
+the CSV (not the MRT) files.  A by-hand pass was made to reconcile most
+cases in which differences contained multiple words.  The dialog act
+lines affected by this pass have "FBH" in the comment field (FBH stands
+for "Fixed By Hand" and is used for any by-hand fixes).  At the time of
+this release, not all inconsistencies have been reconciled.  However,
+the differences have been automatically marked and recorded, according
+to the following conventions (which apply to the Internal Word Times
+and Transcription fields):
+
+     Case 1:  Words in CSV transcripts but not in MRT
+	      transcripts are enclosed in curly braces { }.
+
+     Case 2:  Words in MRT transcripts but not in CSV
+              transcripts are enclosed in angled brackets < >.
+
+Words in the Case 2 category that are found in the middle of a dialog
+act unit are placed in the appropriate location between the same words
+as in the MRT transcripts.  When the inserted word is in between two
+words where a punctuation unit exists (a pipe or a dash) in the
+Transcription field, the word is automatically inserted AFTER the
+punctuation unit.
+
+When words in the Case 2 category are found in between dialog act
+units, they are placed in the beginning of the second dialog act unit.
+The Start Time does not change due to the added words, but reflects the
+start time of the first non-braced word in the Transcription field
+(i.e. the first word not surrounded by curly or angled braces).
+
+Please note that these automatic insertions are not always correct.
+For example, an inserted word could sometimes be better placed before
+a punctuation unit instead of after it.  Inserting a word can also
+cause a punctuation unit to be needed, or a punctuation unit to become
+obsolete.  Words that are added to the beginning of a DA unit may be
+better placed at the end of the previous DA unit, or in its their DA
+unit.
+
+An attempt was made to manually add missing MRT words that occurred between
+DA segments.  While such words would exist in the DADB files with angled
+braces <> even without any alteration, a manual pass is useful because some of
+these missing MRT words are one-word backchannels or responses, which
+contribute new segments, new DAs, and possibly new APs.  Bmr005 had many such
+missing MRT words that were added manually.
+
+Overall, the differences described above constitute a small portion of
+the data.  The file transcript-matchrate.dat lists the number of DA
+units that have the error code A, which means all the words in the DA
+unit are reconciled (see database-format.txt).
+
+
+3. Text Normalization for ASR (Forced Alignment)
+
+It should also be noted that MRT words were text-normalized prior to
+input to the SRI recognizer. This was done to optimize forced
+alignment results by limiting the number of instances of
+out-of-vocabulary words.  The mapping is completely documented, as
+follows:
+
+	- convert MRT transcripts to a "TRS" transcript
+	  using two scripts:
+
+		/scripts/mrt_tag (using the -t option)
+
+		/scripts/mrt2list
+
+	- process the TRS format to map and text-normalize words
+	  using one script:
+
+	       /scripts/post_process2
+
+In the post_process2 script, several mappings take place to obtain the
+best acoustic match possible for forced alignment.  Of note are some
+text normalizations and the treatment of hyphenated words.  The text
+normalizations include mapping several words (e.g. mm-hmm, um-hmm,
+uh-huh, cuz, etc.) to in-vocabulary words for the SRI recognizer
+(uhhuh, because, etc.).  Other normalizations include fixing certain
+spelling errors and expanding certain contractions.
+
+The text normalizations merge certain hyphenated words (like
+mm-hmm and uh-huh) to single words.  The remaining hyphenated words
+are treated in the following way:
+
+1.  Using the vocab list from SRI's HUB-5 recognition system, the
+    hyphenated word is checked to see if it exists.  If so, it is kept
+    as is.
+
+2.  If not, the hyphens are removed from the word, and the compound
+    word is checked with the vocab list.  If this compound word
+    exists, it is what is used for forced alignment.
+
+3.  If the compound word in step 2 is not found in the vocab list,
+    each component of the hyphenated word is checked separately for
+    existence in the vocabulary list.  If all the components are
+    found, then each component is used as a separate word for forced
+    alignment.  If one or more of the components is not in the vocab
+    list, the hyphenated word is left in its original state and passed
+    on to the recognizer.
+
+It is important to note that the above algorithm does not always
+produce the optimal input into the recognition system.  For example,
+the hyphenated word "lisp-y" is separated into the two words "lisp"
+and "y" because both are words listed in the vocab file, while
+"lisp-y" and "lispy" are not.  ("y" is in the vocab list as the spoken
+letter y.)  This is suboptimal because the "y" in "lisp-y" is not
+pronounced the same way as the letter "y" in the dictionary.  We have
+decided to live with cases like this to keep the algorithm simple and
+automatic.
+
+
+4. Exclusion of Unmiked Speech
+
+Unmiked speech is not included in this database.  In the ICSI Meeting
+Recorder documentation (overview.txt), unmiked speech (called
+non-close-miked speech below) is described:
+
+    Unmiked speakers, non-standard microphone configurations -- In
+    general, we tried to ensure that all meeting participants wore
+    close-talking microphones, but there are occasional exceptions to
+    this rule, noted in the headers of individual meetings.  We excluded
+    meetings from the corpus where an unmiked speaker was a principal
+    talker, but several meetings do contain significant amounts of
+    non-close-miked speech (due to microphone failures, unmiked observers
+    offering comments, etc.). 
+
+In the MRT files, unmiked speech can be seen by looking for the
+CloseMic="false" attribute to the Segment tag.  Below is an example from
+Bdb001.mrt.
+
+    <Segment StartTime="6.260" EndTime="6.864" Participant="fe016" CloseMic="false">
+      Right.
+    </Segment>

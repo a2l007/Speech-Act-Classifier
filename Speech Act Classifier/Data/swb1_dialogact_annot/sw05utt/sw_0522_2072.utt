@@ -1,0 +1,341 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2072_1061_1042
+TOPIC#:		364
+DATE:		910308
+TRANSCRIBER:	LAB
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.  
+
+=============================================================================
+  
+
+o          A.1 utt1:  All  (( righty )) .  /
+sd          A.1 utt2: {F Uh, } I'll just hand it off to you  /
+sd^t          A.1 utt3: {C and } hobbies in our spare time is what we've been selected to discuss today. /  
+
+sd          @B.2 utt1:  {D Well, } {F uh, } the hobbies that I pursue in my spare time, are crafts  /
+sd          @B.2 utt2: {C and, } {F uh, } I've been involved in making, {F uh, } hat stands and, {F uh, } rag dolls and, {F uh, } different type hats with, {F uh, } flowers and roses, {D you know, } and, {F uh, } that kind of thing, straw hats and,    
+
+b          A.3 utt1:  Oh  <<Sounds like typing noises in background>>. /  
+
++          B.4 utt1:  all that kind of stuff.  /
+sd          B.4 utt2:  {C And } I enjoy it,  /
+sv          B.4 utt3: it's relaxing.  /
+sv          B.4 utt4: {C And } you kind of get absorbed in it  /
+sv          B.4 utt5:  {C so } the time goes by, {D you know, } before you realize anything is going on.  /
+sd          B.4 utt6: {C And } I play the organ sometimes, {F uh, } just for my own satisfaction <laughter>.   Not for anybody else's ears  /
+sd          B.4 utt7: {C because } I'm not that good at it,  /
+sd          B.4 utt8: {C but } I like to bang on the keyboards once in a while. /  
+
+bh          A.5 utt1:  {F Oh } really? /  
+
+qo          B.6 utt1:  How about yourself? /  
+
+^h          A.7 utt1:  {D Well, } {F oh, } hobbies, gee whiz,  /
+sd          A.7 utt2: I guess I got too many hobbies  /
+sd          A.7 utt3: {C so } I never have time to deal with them.  /
+
+bh          B.8 utt1:  Really? /  
+
+sd          A.9 utt1:  I like photography a lot, /  
+
+b          B.10 utt1:  {F Oh, } yeah,  /
+ba          B.10 utt2: that's neat. /  
+
+sd          A.11 utt1:  {F uh, } I used to do that a lot  /
+%          A.11 utt2: {C and then } I like, {F um, } - /
+sd         A.11 utt3: we have a new child that will be a year old here next week,  /
+sd         A.11 utt4: {C so } I'll take a lot of pictures of her,    
+
+ba          B.12 utt1:  {F Oh, } that's great,  /
+b          B.12 utt2: uh-huh. /  
+
++          A.13 utt1:  {D you know, } and spoil them,  /
+sv          A.13 utt2: first one, you know how that is.  /
+sd          A.13 utt3: {C And, } {F um, } <throat_clearing> {F uh, } I play the guitar and a banjo.  /
+sd          A.13 utt4: I mainly play the guitar a lot,  /
+sd          A.13 utt5: I play about every night.  /
+sd          A.13 utt6: {C And, } {F um, } I really love that,  /
+sv          A.13 utt7: if I had a (( druther )) , - /
+sv         A.13 utt8: [ if I could have, + if I could make ] it on the road, I'd like to play on {D like } a bluegrass band or something,  /
+%          A.13 utt9: {C because } that's, - /
+%          A.13 utt10: I've, -/  
+
+ba          B.14 utt1:  {F Oh, } that sounds nice.   /
+sd          B.14 utt2: I like bluegrass, too. /  
+
+b          A.15 utt1:  yeah,  /
+sd          A.15 utt2: I've done it before  [ and + ] when  I was [ in hi-, + in high ]   school and  college,   
+
+b          B.16 utt1:  Uh-huh. /  
+
++          A.17 utt1:  and thoroughly enjoyed it,  /
+sv          A.17 utt2: {C and } it's really [ a, + a  ] blast.  /
+sd          A.17 utt3: My wife hates it,  /
+sv         A.17 utt4: {C but } that's the way life is, I guess. /  
+
+bf          B.18 utt1:  <Laughter> That's the hard part, right? /  
+
+aa          A.19 utt1:  Exactly. /  
+
+sv          B.20 utt1:  If you can do things together, that really helps a lot. /  
+
+b          A.21 utt1:   ((   ))  yeah,  /
+%          A.21 utt2: we, {F uh, } - /
+sd          A.21 utt3: she's, {F uh, } into aerobics,  /
+sd          A.21 utt4: [ {C and, } +  {F uh, }     
+
+ba          B.22 utt1:  {F Oh, } that's good, too. /  
+
++          A.23 utt1:  {C and } ] we did aerobics together for about a month and a half  /
+sd          A.23 utt2: {C and } that went over real well, /  
+
+b          B.24 utt1:  Uh-huh. /  
+
+sd          A.25 utt1:  {C but, } {F uh, } that's about it there. /  
+
+ba          B.26 utt1:  {F Oh, } it's good  /
+sv          B.26 utt2: {C and } it's healthy, too. /  
+
+aa          A.27 utt1:  {F Oh, } yeah,  /
+aa          A.27 utt2: yeah. /  
+
+sd          B.28 utt1:  We do that too,  /
+sd          B.28 utt2: we have [ a, + {F uh, } a ] treadmill and, {F uh, } a bicycle and that kind of stuff,  /
+sd          B.28 utt3: we try to get twenty minutes {D like } at least three for four times a week, {D you know. } /  
+
+ba          A.29 utt1:  {F Oh, } that's great. /  
+
+b          B.30 utt1:  Yeah. /  
+
+ba          A.31 utt1:  That's great. /  
+
+sd          B.32 utt1:  {C And } we like movies,  /
+%          B.32 utt2: that ki-, - /
+%          B.32 utt3: yeah. /  
+
+b          A.33 utt1:  Yeah,  /
+%          A.33 utt2: that's, {F uh, } - /
+%          A.33 utt3: spare time,  /
+sv          A.33 utt4: with a child it's, kind of stra-, - /
+%          A.33 utt5:   she's, - /
+%          A.33 utt6: we have, {F uh, } - /
+sd         A.33 utt7: we're looking for a baby-sitter  /
+sd          A.33 utt8: {C so } we've been out twice [ in o-, + in ] this year so far.    
+
+b          B.34 utt1:  Uh-huh. /  
+
++          A.35 utt1:  By ourselves without the child  /
+sv          A.35 utt2: {C so } it's kind of, {F uh, } become an issue you could say. /  
+
+b          B.36 utt1:  Sure. /  
+
+%          A.37 utt1:  {F Um, } hobbies,  /
+sd          A.37 utt2: I like, messing around in your house building things, and,   {D you know, }   
+
+aa          B.38 utt1:  {F Oh } yeah,  /
+ba          B.38 utt2: that's great, too. /  
+
++          A.39 utt1:  putting cabinets up, and,    
+
+b          B.40 utt1:  Uh-huh. /  
+
++          A.41 utt1:  those kind of things, {F um, } /  
+
+b          B.42 utt1:  Yeah,  /
+sd          B.42 utt2: we did some remodeling when we bought a house,  /
+sd          B.42 utt3: we [ built, + put ] a kitchen in and, {F um, } that kind of stuff, and painting and some wallpapering,  /
+sv          B.42 utt4: that's fun. /  
+
+aa          A.43 utt1:  It's really kind of fun. /  
+
+aa          B.44 utt1:  It is.  /
+aa          B.44 utt2: It really is. /  
+
+sv          A.45 utt1:  Especially if your spouse will get in there with you and get dirty,  /
+%          A.45 utt2: yeah. /  
+
+aa          B.46 utt1:  Yeah,  /
+aa         B.46 utt2: exactly.  /
+sd          B.46 utt3:  I like things that, {D you know, } two people can do,  /
+sd          B.46 utt4: {C but } I like  the quiet of doing things away, {D you know, }  /
+sv          B.46 utt5: kind of gives you some space for yourself,  /
+sd          B.46 utt6: {C and } that's what I find in making the dolls and things, that it gives me something that I can create,  /
+sd          B.46 utt7: {C and } I like to crochet and knit.  /
+sd          B.46 utt8:  I made some afghans and that kind of stuff.  /
+sd          B.46 utt9: I like doing things with my hands. /  
+
+b          A.47 utt1:  Uh-huh.  /
+ba          A.47 utt2:  Sounds like it. /  
+
+aa          B.48 utt1:  Yeah. /  
+
+qy          A.49 utt1:  Do you like to cook? /  
+
+ny          B.50 utt1:  Yes,  /
+sd^e          B.50 utt2: I love to cook. /  
+
+aa          A.51 utt1:  Yeah,  /
+sd          A.51 utt2: I love to cook, too,  /
+%          A.51 utt3: I'm, {F uh, } -/  
+
+sd          B.52 utt1:  Italian food <laughter>. /  
+
+bh          A.53 utt1:  {F Oh, } really? /  
+
+qy          B.54 utt1:  Yeah,  /
+sd          B.54 utt2: pizzas and spaghettis and lasagnas and that kind of stuff. /  
+
+sd          A.55 utt1:  {D Well, } we're all skinny farts  /
+%          A.55 utt2: {C so, } I, - /
+%          A.55 utt3: it, -/  
+
+x          B.56 utt1:  <Laughter>.   
+
+%          A.57 utt1:  {C so } when it comes to, - /
+sd          A.57 utt2: I like to cook and eat and,    
+
+b          B.58 utt1:  Yeah. /  
+
++          A.59 utt1:  to have, [ mai-, + mainly, ] I guess, I get to  ((   )) - /
+sd(^q)*          A.59 utt2: amount of people eat,    *[[listen]]
+
+b          B.60 utt1:  Uh-huh. /  
+
++          A.61 utt1:  and then say, man this is really good, -/  
+
+aa          B.62 utt1:  Yeah,  /
+sv          B.62 utt2: it is. /  
+
+%          A.63 utt1:  {F um, } {F um, } {C but } it just, - /
+sd          A.63 utt2: work in the garden, work around the yard, of course, /  
+
+qy          B.64 utt1:  Do you do barbecues? /  
+
+ny          A.65 utt1:  Yes,  /
+sd^e          A.65 utt2: # we sure do,  /
+sd          A.65 utt3: smoke them an-, # -/  
+
+qy          B.66 utt1:  # {D Well, } {F uh, } {F uh, } smoking and # all that stuff? /  
+
+ny          A.67 utt1:  {F Oh, } yeah,  /
+sd^e          A.67 utt2: all that hoedown stuff. /  
+
+b          B.68 utt1:  Yeah,  /
+b          B.68 utt2: yep, /  
+
+sd          A.69 utt1:  # All that stuff that's bad for you. # /  
+
+sd          B.70 utt1:  # [ I, + I ] lived in Abilene for # a little while,    
+
+b          A.71 utt1:  {F Oh, } sure,  /
+b          A.71 utt2: yeah. /  
+
++          B.72 utt1:  and, {F uh, } worked in the Abilene plant,  /
+sd          B.72 utt2: {C and } we used to go to Joe Allen's Barbecue,  /
+sv          B.72 utt3: {C and, } {F uh, } {F oh, } that was great. /  
+
+b          A.73 utt1:  {F Oh, } yeah. /  
+
+sv          B.74 utt1:  Really great, /  
+
+sv          A.75 utt1:  That's, {F uh, }   
+
+sv         B.76 utt1:  they have some nice stuff down there. /  
+
++          A.77 utt1:  only way to do it. /  
+
+sd          B.78 utt1:  I miss it <laughter>. /  
+
+b          A.79 utt1:  {D Well, } yeah,  /
+%          A.79 utt2: [ [ it's, + {F uh, } it's, ] + {F uh, } it's, ] {F uh, } - /
+sv          A.79 utt3:  [ there's, + {F uh, } there's ] pluses to everything, /  
+
+b          B.80 utt1:  {F Oh, } yeah. /  
+
+sv          A.81 utt1:  {C but, } {D you know, } seems like there's just so many things to do down here,  /
+sd          A.81 utt2: I like the sports,  /
+sd          A.81 utt3: I play a lot of racquetball. /  
+
+sd          B.82 utt1:  [ We did, +  ((   ))  I did  ] horseback riding, too,  /
+sd          B.82 utt2: in fact, when my children were growing up, we always had horses  /
+sd          B.82 utt3: {C and, } {F uh, } that was kind of for them,  /
+sd          B.82 utt4: {C but } they weren't as interested in it as we were, {D you know, }  /
+sd          B.82 utt5: {C so, } {F uh, } that was a real, - /
+sd          B.82 utt6: I'd say probably for maybe fifteen years, we dabbled in that, {D you know, }  /
+sd          B.82 utt7: we always had horses around,  /
+sd          B.82 utt8: {C and } I really enjoyed that, /  
+
+ba          A.83 utt1:  <Laughter> {F Oh, } that's great,  /
+sv          A.83 utt2: sounds like you, -/  
+
+sd          B.84 utt1:  {C and } I was disappointed when I went to Texas.  /
+sd          B.84 utt2:  I didn't see that many of  them. /  
+
+br          A.85 utt1:  Horses? /  
+
+aa          B.86 utt1:  Yes <laughter>. /  
+
+aa          A.87 utt1:  Yeah,  /
+sv          A.87 utt2: you really don't.  /
+%          A.87 utt3: Yeah,  /
+%          A.87 utt4: [ th-, + the,  ] - /
+sv          A.87 utt5: you have to look real hard to see a lot of things besides concrete, {F uh, } /  
+
+aa          B.88 utt1:  I know,  /
+aa          B.88 utt2: I know,  /
+aa          B.88 utt3: it's true. /  
+
+sv          A.89 utt1:  there's buildings and concrete and a lot of people  /
+sv          A.89 utt2: {C and } that's about it down here,  /
+%          A.89 utt3: {C and so, } -/  
+
+b          B.90 utt1:  Uh-huh. /  
+
+b          A.91 utt1:  Yeah.  /
+ba          A.91 utt2:  {C But, } {F uh, } that's great.  /
+sv          A.91 utt3: {D Well, } sounds like you have a lot of nice hobbies there. /  
+
+b          B.92 utt1:  Yeah,  /
+sv          B.92 utt2: you too,  /
+sv^r          B.92 utt3: you too. /  
+
+ba          A.93 utt1:  {D Well, } great,  /
+^h          A.93 utt2: {D well } look, {F uh, }  /
+sv          A.93 utt3: I know it's probably late for you, /  
+
+b          B.94 utt1:  Okay. /  
+
+fc          A.95 utt1:  I enjoyed speaking with you -- /  
+
+fc          B.96 utt1:  Me too. /  
+
+fc          A.97 utt1:  -- have a good weekend. /  
+
+fc          B.98 utt1:  Okay. /  
+
+fc          A.99 utt1:  Bye-bye. /  
+
+fc          B.100 utt1:  Bye, {D now. } / 

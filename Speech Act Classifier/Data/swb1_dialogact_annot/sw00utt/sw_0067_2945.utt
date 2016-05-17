@@ -1,0 +1,519 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2945_1100_1171
+TOPIC#:		358
+DATE:		910521
+TRANSCRIBER:	csw
+UTT_CODER:	tc
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:	Callers talked about families but not much about activities.
+Might also be used for Childcare topic.  There is a good bit of line noise 
+on Caller A during B's turn, but you can't hear B talking.
+
+======================================================================
+  
+
+qw          B.1 utt1:  Where are you from Tina? /  
+
+sd          A.2 utt1: {F Um, } I'm from Maryland  /
+sd          A.2 utt2: {C and, } {F um, } I have one son who's almost sixteen months old.   /
+qy          A.2 utt3: [ Are, + are ] you married, or ... -/  
+
+ny          B.3 utt1:  Yeah,  /
+ny          B.3 utt2: uh-huh. /  
+
+bk          A.4 utt1:  You are. /  
+
+sd          B.5 utt1: [ I have, + I have ] two children,  /
+sd          B.5 utt2: I have a seven year old and a three year old. /  
+
+b          A.6 utt1:  Oh. /  
+
+sd          B.7 utt1: [ {C And, } + {F uh, } {C so } ] I try to spend as much time as possible with them. /  
+
+ba          A.8 utt1: That's good.  /
+qw          A.8 utt2: {F Uh, } what kind of things do you do? /  
+
+sd          B.9 utt1: {D Well, } {F um, } [ w-, + we ] do a lot of things with them, {D you know, }  /
+sd          B.9 utt2: [ Ta-, + Taylor ] my youngest is, - /
+sd          B.9 utt3: {C or } my oldest is in school  /
+sd          B.9 utt4: {C and so } she has a lot of school programs and things like that. /  
+
+b          A.10 utt1:  Oh.  /  
+
+qy          B.11 utt1: [ Ho-, + was ] it a big change in your life, to, {F uh } --   
+
+ny          A.12 utt1:  {F Oh } yeah <laughter>. /  
+
++          B.13 utt1:  -- have a child. /  
+
+ny^r          A.14 utt1: {F Um, } yeah,  /
+sv^e          A.14 utt2: it's really nice, {F uh, }  /
+sd          A.14 utt3: my husband, {F uh, } is working [ mo-, + {D you know, } most ] of the time.  /
+sd          A.14 utt4: He's working long hours,  /
+sd          A.14 utt5: {C but, } {F uh, }   
+
+b          B.15 utt1:  Uh-huh. /  
+
++          A.16 utt1:  I'm staying home. /  
+
+b^r          B.17 utt1:  Uh-huh. /  
+
+sd          A.18 utt1: {F Uh, } I'm just working a couple days a month,  /
+%          A.18 utt2: {C and, } {F um } ... -/  
+
+b^r          B.19 utt1: {F Oh, } uh-huh.  /
+qw          B.19 utt2: What do you do during [ those, + those ] days? /  
+
+sd          A.20 utt1: {F Um, } we spend a lot of time at the playground  /
+sd          A.20 utt2: {C and } we go to the zoo,  /
+sd          A.20 utt3: {C and } we go  /
+%          A.20 utt4: {C and } we wa-, ... -/  
+
+sd          B.21 utt1: {D Well } [ you said, + you said ] you worked a couple days a month,  though, /  
+
+aa          A.22 utt1:  Yeah,  /
+aa^r          A.22 utt2: yeah. /  
+
+qw          B.23 utt1: [ what do, + what do ] you do? /  
+
+sd          A.24 utt1:  I'm a nurse. /  
+
+bh          B.25 utt1:  {F Oh, } are you? /  
+
+ny          A.26 utt1: {D So, } yeah,  /
+sd^e          A.26 utt2: {D so } [ [ it's, + it's, ] + it's ] real easy to work out my schedule,   
+
+b          B.27 utt1:  Uh-huh. /  
+
++          A.28 utt1:  {D you know, } [ [ to, {F uh, } get in, +  to, ] + to still  stay in ] with that,   
+
+b          B.29 utt1:  Yeah. /  
+
++          A.30 utt1:  [ an, + and ] to have enough time to spend with Matthew. /  
+
+b^r          B.31 utt1:  Yeah. /  
+
+sd          A.32 utt1: [ He, + he's, ] {F uh, } just now really starting [ to, + to ] get interested in a lot of things, <laughter>  /
+%          A.32 utt2: {D so, } {F um, } -/  
+
+b          B.33 utt1: Yeah,  /
+sd          B.33 utt2: I understand that,  /
+%          B.33 utt3: yeah.  /
+sv          B.33 utt4: They really grow up quick. Especially at that early age. /  
+
+b          A.34 utt1:  Yeah <laughter>. /  
+
+sd          B.35 utt1: {C But } [ my, + my ] wife was, {F uh, } - /
+sd          B.35 utt2: she worked part-time when my oldest [ was, + was ] little  /
+sd          B.35 utt3: {C and } now she's staying home all the time,  /
+sv          B.35 utt4: {C but, } {F uh, } that worked out really well because it's a big transition I think to have children. /  
+
+b          A.36 utt1:  {F Oh, } yeah. /  
+
+sv          B.37 utt1: {D You know, } to go from, {D you know, } nothing, {D you know, }  /
+sv          B.37 utt2: if you want to do something every night that's fine,  /
+sv          B.37 utt3: {C but } when you have children it doesn't work that way anymore,  /
+%          B.37 utt4: {D so. } -/  
+
+aa          A.38 utt1: That's right,  /
+sv          A.38 utt2: {C and } [ I think a lot of people [ are, + {F um, } are ] turning to, + {D well, } [ I think, + I think ] a lot of people are realizing ] that  /
+sv          A.38 utt3: {C but } still there are so many people that [ are, + {D you know, } have ] their careers first  /
+sv          A.38 utt4: {C and, } --   
+
+b          B.39 utt1:  Yeah,  /
+b^r          B.39 utt2: yeah. /  
+
++          A.40 utt1: -- [ it's, + {F uh, } I think it's ] really hurting, {F uh, } the kids, {D you know, }  /
+%          A.40 utt2: {C but. } -/  
+
+aa          B.41 utt1: Yeah,  /
+aa          B.41 utt2: I agree with you,  /
+sv          B.41 utt3: [ [ I, + I, ] + I ] think that my wife leaned that way  /
+sd          B.41 utt4: {C and } I'm really glad she did  /
+sd          B.41 utt5: {C and, } {D you know, } I'm glad she's staying home,  /
+sd          B.41 utt6: {C but, } {D you know, } I know there are some days when [ she wi-, +   
+
+aa          A.42 utt1:  I know, <laughter>. /  
+
++          B.43 utt1:  -- she wishes ] she was back at work. /  
+
+sd          A.44 utt1: That's why I like [ [ to + <laughter> to, ] + to ] work a couple days,  /
+sv          A.44 utt2: I think [ it's, + {F uh, }   
+
+b          B.45 utt1:  Yeah. /  
+
++          A.46 utt1:  it ] gives me a break. /  
+
+b          B.47 utt1: Yeah,  /
+sd          B.47 utt2: well [ [ t-, + {D see } that's, ] + that's ] why I'm glad my wife did too,  /
+sd          B.47 utt3: {C 'cause } she worked either two to [ thre-, + three ] days a week  /
+sd          B.47 utt4: {C and } that got her out of the house  /
+sd          B.47 utt5: {C and } yet she'd get to spend, {D you know, } three or four days with ... -/  
+
+bf          A.48 utt1:  Most of the time at home,  /
+b          A.48 utt2: yeah. /  
+
+aa          B.49 utt1:  Yeah,  /
+aa^r          B.49 utt2: yeah,  /
+%          B.49 utt3: {C and so. } -/  
+
+sd          A.50 utt1: {F Uh, } we had started out like that  /
+sv          A.50 utt2: {C and, } {F um, } I think that was really ideal, {F uh. } /  
+
+aa          B.51 utt1: Yeah,  /
+sd          B.51 utt2: I do to,  /
+sd          B.51 utt3: I agree,  /
+sv          B.51 utt4: {C but } then  when you start having two of them, it's, {D you know, } a little bit tougher,   
+
+%          A.52 utt1:  It's, - /
+b          A.52 utt2: yeah. /  
+
++          B.53 utt1:  because you've got to make a little more money, to make that payoff and stuff. /  
+
+b^r          A.54 utt1:  Yeah,  /
+b^r          A.54 utt2: yeah,  /
+sv          A.54 utt3: it's  difficult,  /
+%          A.54 utt4: {C but. } -/  
+
+qy          B.55 utt1:  [ Are, + are ] you from the Maryland area? /  
+
+ny          A.56 utt1: Uh-huh,  /
+sd^e          A.56 utt2: [ [ I'm, + I've, ] + I've ] lived here forever,  /
+%          A.56 utt3: {D so. } -/  
+
+bh          B.57 utt1:  Really. /  
+
+ny          A.58 utt1: Yeah,  /
+sd^e          A.58 utt2: {E I me-, } I live in Germantown,  /
+%          A.58 utt3: {C and, } {F uh. } - /
+qw          A.58 utt4: [ Are you, + where are you ] from? /  
+
+sd          B.59 utt1:  {F Um, } {F uh, } I'm in Dallas, Texas. /  
+
+b^m          A.60 utt1:  In Dallas,  /
+b          A.60 utt2:  oh. /  
+
+b          B.61 utt1: Yeah,  /
+sd          B.61 utt2: {D so, } {F uh, } [ I'm, + I've ] lived here like eight years or so,  /
+sd          B.61 utt3: my wife's from Fort Worth. /  
+
+b          A.62 utt1:  {F Oh, } yea-,. /  
+
+%          B.63 utt1:  {C But, } - /
+b          B.63 utt2: yeah,  /
+sd          B.63 utt3: I work for Texas Instruments. /  
+
+b          A.64 utt1:  Okay,  /
+b          A.64 utt2: oh,  /
+sd          A.64 utt3: {C so } that explains. -/  
+
+b          B.65 utt1: Yeah,  /
+qy^g^t          B.65 utt2: that explains it doesn't it. /  
+
+h          A.66 utt1: <Laughter>.  {D Well, } {F um, } I don't know,  /
+sd          A.66 utt2: [ [ I, + {F uh, } we, ] + we ] do a lot of things on the weekends together, the family, /  
+
+b          B.67 utt1:  Yeah,  /
+b^r          B.67 utt2: yeah. /  
+
+sd          A.68 utt1: {C but, } {F uh, } as far as during the week, [ it's, + it's ] usually, {F uh, } {D you know, } just my son and I,  /
+%          A.68 utt2: {C and } we're ... -/  
+
+b          B.69 utt1: Yeah,  /
+qw          B.69 utt2: what's your husband do? /  
+
+sd          A.70 utt1: {F Uh, } [ he, + he ] works for Coca Cola. /  
+
+bk          B.71 utt1:  Uh-huh. /  
+
+sd          A.72 utt1: {D So } [ he, + {F uh, } he ] manages a plant out here, /  
+
+b          B.73 utt1:  Oh. /  
+
+sd          A.74 utt1: [ {C an, } + {C and } ] it takes a lot of time. /  
+
+b          B.75 utt1: {F Oh, } yeah,  /
+ba          B.75 utt2: I'm sure it does. /  
+
+%          A.76 utt1: {C But, } {F um, } it, {D you know, } - /
+sd          A.76 utt2: we take walks,   
+
+b          B.77 utt1:  Uh-huh. /  
+
++          A.78 utt1: and <laughter> go to the library,   
+
+b          B.79 utt1:  Yeah. /  
+
++          A.80 utt1: and try to fill our day with things like that,  /
+%          A.80 utt2: {C but, } {F um. } -/  
+
+b          B.81 utt1: Yeah,  /
+%          B.81 utt2: what, {F uh, } - /
+sd          B.81 utt3: my wife did some teaching at [ {D like, } + {F uh, } {D like } ] a private tutoring place.    
+
+b          A.82 utt1:  Oh. /  
+
++          B.83 utt1: A Sylvan Learning Center this year  /
+sd          B.83 utt2: {C and so } [ that, + that ] got me [ to sp-, + to be able to spend ] more time with the kids at night and stuff,   
+
+b^r          A.84 utt1:  Oh. /  
+
++          B.85 utt1:  {D you know, } 'cause normally [ if, + if ] they need something  they just go to mom.    
+
+b          A.86 utt1:  Yeah <laughter>. /  
+
++          B.87 utt1: <phone_ringing> No matter what it is,  /
+sd          B.87 utt2: {E I mean, } [ I cou-, + I'm ] perfectly capable of doing it for them,  /
+sd          B.87 utt3: {C but, }   
+
+b          A.88 utt1:  Right. /  
+
++          B.89 utt1:  it's so much easier to go to mom,  /
+sv          B.89 utt2: I guess they get used to it. /  
+
+x          A.90 utt1:  <Laughter>.   
+
+%          B.91 utt1: {D So, } - /
+sd          B.91 utt2: {C but, } {D you know, } we'd go to the library and do things like that,  /
+%          B.91 utt3: yeah,  /
+%          B.91 utt4: {C but } </phone_ringing>. -/  
+
+ba          A.92 utt1: That's good,  /
+ba^r          A.92 utt2: that's good.  /
+sd          A.92 utt3: I know my husband was real, {F uh, } - /
+sd          A.92 utt4: in the beginning when [ he, + {F uh, } he ] was transferred to [ a, + a ] larger plant - /
+sd          A.92 utt5: {C and } [ he, + {F uh, } he ] works about an hour and a half away [ from here, + from our home, ] /  
+
+b          B.93 utt1:  Uh-huh. /  
+
+sd          A.94 utt1:  [ {C and, } + {F uh, } {C so } ] it takes him a little bit of time. /  
+
+b          B.95 utt1:  {F Oh, } yeah. /  
+
+sd          A.96 utt1: {C And } I'm not able to work during the week, {F uh, } because of that.  /
+sd          A.96 utt2: [ He was, + I was ] working in the evening, /  
+
+b          B.97 utt1:  Uh-huh. /  
+
+sd          A.98 utt1:  {C and } he was coming home  /
+sd          A.98 utt2: {C and } [ I, + I ] could go to  work,  /
+sd          A.98 utt3: {C but, } {F uh, }    
+
+b          B.99 utt1:  Yeah. /  
+
++          A.100 utt1: their relationship, {F uh, } when I was able to work in the evenings, {F uh, } really grew. /  
+
+b          B.101 utt1:  Uh-huh. /  
+
+%          A.102 utt1: He, {D you know, } - /
+sd          A.102 utt2: just the time that they were spending together, -/  
+
+b          B.103 utt1:  Yeah. /  
+
+sv          A.104 utt1:  I think [ [ it, + it really, ] + it really ] helped to have  that time together. /  
+
+aa          B.105 utt1: Uh-huh,  /
+sv          B.105 utt2: it really does  /
+sv          B.105 utt3: {C because } I think [ yu-, + {D you know, } you ] grow closer.  /
+qy          B.105 utt4: [ Was your, + {F uh, } was your ] husband, {E I mean } naturally a child,  /
+qy          B.105 utt5: {E I mean } [ ha-, + had ] he been around children,  /
+%          B.105 utt6: {C or } ... -/  
+
+ny          A.106 utt1: {F Uh, } {F oh } yeah,  /
+sd^e          A.106 utt2: [ he has, + {F uh, } he has ] seven other brothers and sisters, /  
+
+b          B.107 utt1:  Oh. /  
+
+sd          A.108 utt1: {C and } [ they have, + we have ] thirteen grand, - /
+sd          A.108 utt2: {D well } his parents have thirteen grandchildren. /  
+
+b          B.109 utt1:  Uh-huh. /  
+
+sd          A.110 utt1: {C So } [ it's, + {F uh, } {D you know, } there's ] a lot of kids in the family  /
+sd          A.110 utt2: [ {C and, } + {C and } ] he really enjoys it. /  
+
+b          B.111 utt1:  Yeah,  /
+b^r          B.111 utt2: yeah. /  
+
+sd          A.112 utt1:  {C But, } {F uh, } right now it's kind of a difficult time,  /
+%          A.112 utt2:  {C but } ... -/  
+
+b^r          B.113 utt1:  Yeah. /  
+
+sv          A.114 utt1: [ {C And, } + {C and } ] the cost of living here is just so tremendously, {D you know, } outrageous <laughter>. /  
+
+b^r          B.115 utt1:  Yeah,  /
+b^r         B.115 utt2: yeah. /  
+
+sv          A.116 utt1: {F Um, } it's difficult, {F uh, } to do it any other way. /  
+
+b^r          B.117 utt1: Yeah,  /
+sd          B.117 utt2: I understand. /  
+
+b          A.118 utt1:  Yeah. /  
+
+%          B.119 utt1: [ I'm, + I, ] {D you know } - /
+sv          B.119 utt2: [ it's, + it's ] hard because, {D you know, } - /
+bf          B.119 utt3: then you're not getting to spend as much time [ with, + at ] home,  /
+bf          B.119 utt4: {E I mean } your husband is not getting to spend as much time at home as he'd want to. /  
+
+aa          A.120 utt1:  That's right. /  
+
+b          B.121 utt1: {D So, } yeah,  /
+sv          B.121 utt2: [ that + that's ] a tough situation,  /
+%          B.121 utt3: {C but } [ then, + then ] again, {D you know, } some, - /
+sv          B.121 utt4: you got to do what you got to do,   
+
+b          A.122 utt1:  Yeah. /  
+
++          B.123 utt1:  {D you know } to get along, too,  /
+%          B.123 utt2: {D so. } -/  
+
+b^r          A.124 utt1: Yeah,  /
+b^r          A.124 utt2: yeah,  /
+sv          A.124 utt3: at least, [ I, + I ] just consider myself blessed that I can stay home <laughter>.  /
+%          A.124 utt4: It, {F uh, } -/  
+
+b          B.125 utt1: Uh-huh,  /
+sd          B.125 utt2: [ {D we-, } + {D well } ] like I said my wife normally feels that way,  /
+sd(^q)          B.125 utt3: there are days when, {F uh, } I come home and she says here take these kids,  /
+^q          B.125 utt4: I'm getting out. /  
+
+ba          A.126 utt1:  I know <laughter>. /  
+
+sd          B.127 utt1: {C So } [ she's, + she's ] had about enough during those days,  /
+sv          B.127 utt2: [ {C but. } +    
+
+ba^r          A.128 utt1:   I know. /  
+
++          B.129 utt1: {C But, } ] for the most part, [ I, + {D you know, } I've ] really feel like that's led, - /
+%          B.129 utt2: the way that, {D you know, } we-, jus-, - /
+sv          B.129 utt3: like what you said with the cost of living and everything,  I think a lot of people can't afford to get by on just one salary [ an -- +   
+
+b          A.130 utt1:  Yeah. /  
+
++          B.131 utt1:  -- and ] won't. /  
+
+b^r          A.132 utt1:  Yeah. /  
+
+sv          B.133 utt1: {C And so } I think that's [ le-, + tended to lead ] to a decline [ in, + in ] families and family values especially. /  
+
+aa          A.134 utt1:  {F Oh } yeah,  /
+sv          A.134 utt2: it has. /  
+
+sv          B.135 utt1: {C And } I really think that that's one of the problems the nation's facing that, {D you know, } we need to do something about,  /
+sd          B.135 utt2: {C but } I don't know what. /  
+
+aa          A.136 utt1: I believe that too,  /
+sv          A.136 utt2: {C and } I think, {F uh, } the kids are where they need to, {D you know, } -/  
+
+b          B.137 utt1:  Yeah. /  
+
+sv          A.138 utt1: they need to really focus on the children [ in the wor-, + in this country. ] /  
+
+b^r          B.139 utt1: Yeah.  /
+qy          B.139 utt2: [ Would, + would ] you have said that a couple of years ago, do you think? /  
+
+nn          A.140 utt1: No,  /
+sd^e          A.140 utt2: [ I didn't, + I didn't ] even really think about it that much, {E I mean, } {D you know, } /  
+
+b          B.141 utt1:  Uh-huh. /  
+
+sd          A.142 utt1: [ I, + I ] was [ aware, + vaguely aware ] of it,  /
+sd          A.142 utt2: {C but, } {F um, } [ I didn't + it wasn't ] really that important to me,  /
+%          A.142 utt3: {C and, } {F uh, } ... -/  
+
+b^r          B.143 utt1: Uh-huh,  /
+sv          B.143 utt2: it's amazing how your whole focus on life changes after you've had a child. /  
+
+aa          A.144 utt1: {F Oh, } [ it, + it ] really does,  /
+%          A.144 utt2: I, - /
+%          A.144 utt3: just the whole, {F uh, } {D you know, } - /
+bf          A.144 utt4: seeing how you really [ are cre-, + [ are, + are ] forming ] [ this, +   
+
+aa          B.145 utt1:  Uh-huh. /  
+
++          A.146 utt1:  {D you know, } the ] mind <laughter>. /  
+
+sd          B.147 utt1: {D Well, } {D you know, } in the next year or so, you'll see so many instances where, {D you know, } he'll mimic something that you've done,  /
+sv          B.147 utt2: {C and } {D you see, } {D you know, } everything I'm doing, he's learning from. /  
+
+aa          A.148 utt1:  That's right. /  
+
+sd(^q)          B.149 utt1: [ {C And, } + {C and, } ] you think, if I wasn't here he'd be learning that from a baby-sitter or from a day care. /  
+
+b          A.150 utt1:  Yeah. /  
+
+sv          B.151 utt1: {D You know, } [ th-, + that's ] how they're developing their patterns.  /
+sv          B.151 utt2: {C And } I think a lot of people either, don't care, or don't realize it, {D you know. }  /
+%          B.151 utt3: That's, -/  
+
+^2          A.152 utt1: [ {C Or, } + {C or } ] they just put it in the back of their mind and let it slide. /  
+
+aa          B.153 utt1:  Yeah. /  
+
+sd(^q)          A.154 utt1: [ I, + I've ] seen a lot of people just say {D well, } {D you know, } he'll learn everything when he gets into,   
+
+b          B.155 utt1:  Yeah  /
+^2          B.155 utt2: eventually. /  
+
++          A.156 utt1:  {F uh, } {D you know, } -/  
+
+aa          B.157 utt1:  Yeah,  /
+sv          B.157 utt2: it's true. /  
+
+%          A.158 utt1: {C but } it, {F um, } - /
+sd          A.158 utt2: [ I, + I ] know,  /
+sd          A.158 utt3: even just this first year, that I've been with, {F uh, } my son, [ h-, + here, ] {F um, } he's, - /
+sd          A.158 utt4: I can just see how much,   
+
+b          B.159 utt1:  Uh-huh, /  
+
++          A.160 utt1:  [ of, + of ] a difference it makes staying home with him,   
+
+b          B.161 utt1:  Yeah. /  
+
++          A.162 utt1:  instead of, {F uh, } (( )), -/  
+
+b^r          B.163 utt1: Yeah,  /
+sv          B.163 utt2: [ plus, + plus ] I think it becomes [ part of y-, + part of you ] too,  /
+sd          B.163 utt3: {E I mean, } you get to stay home,  /
+sv          B.163 utt4: {E I mean } it's not just for him,  /
+sv          B.163 utt5: {C but } it's also for you, because you're both kind of bonding together there too, I think,  /
+%          B.163 utt6: {D so. } -/  
+
+aa          A.164 utt1:  Yeah,  /
+sv          A.164 utt2: that's true. /  
+
+fc          B.165 utt1:  {D Well } it's been nice talking to you. /  
+
+fc          A.166 utt1:  {D Well } it's nice talking to you, too. /  
+
+fc          B.167 utt1:  Okay  /
+fc          B.167 utt2: good luck. /  
+
+fc          A.168 utt1:  Okay. /  
+
+fc          B.169 utt1:  Okay,  /
+fc          B.169 utt2: good-bye. / 

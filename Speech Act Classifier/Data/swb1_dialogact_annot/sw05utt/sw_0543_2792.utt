@@ -1,0 +1,556 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2792_1238_1042
+TOPIC#:		311
+DATE:		910504
+TRANSCRIBER:	LAB
+UTT_CODER:	stm
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.
+
+============================================================================
+  
+
+qy          A.1 utt1:  Okay? /  
+
+na          B.2 utt1:  Sure,  /
+ad          B.2 utt2: go ahead. /  
+
+qw          A.3 utt1:  What kind of books do you like to read? /  
+
+sd          B.4 utt1:   (( {F Oh } )) , I like all kinds of books. /  
+
+b          A.5 utt1:  Yeah. /  
+
+sd          B.6 utt1:  Mostly, {F uh, } something, I like {D like } true life,    
+
+b          A.7 utt1:  # Uh-huh. # /  
+
++          B.8 utt1:  #  (( [ not, + ] {F uh } )) , # {D you know, } documentaries or real stories about real people and that kind of stuff or dramas in real life. /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1:  {C And, } {F uh, } I also like romantic novels.  /
+sd          B.10 utt2:  [ I like, + {F uh, } I like  ] READERS DIGEST, believe it or not. /  
+
+aa          A.11 utt1:  Yeah,  /
+sd          A.11 utt2: so do I. /  
+
+sd          B.12 utt1:  I usually read that from cover to cover. /  
+
+b          A.13 utt1:  Yeah. /  
+
+sd          B.14 utt1:  I like it because there's a little bit of everything in it. /  
+
+b          A.15 utt1:  Right. /  
+
+o          B.16 utt1:  {D You know, } that kind of a thing.   /
+sd          B.16 utt2: {F Uh, }  as far as {D like } real novels, I haven't gotten into Shakespeare or any of that type of thing. /  
+
+b          A.17 utt1:  Uh-huh. /  
+
+sd          B.18 utt1:  I wish I had [ in, + in ] some senses  /
+sd          B.18 utt2: {C but } I don't have time really as much as I would like [ to, + to ] get into that kind of thing.  /
+qo          B.18 utt3: How about you? /  
+
+sd          A.19 utt1:  {F Um, } {D well, } I like, like you said, real life, {F um, }  /
+sd          A.19 utt2: I like biographies of people's lives,    
+
+b          B.20 utt1:  # Uh-huh. # /  
+
++          A.21 utt1:  # {D like, } # especially {D like } athletes,  /
+sd          A.21 utt2: for some reason it seems to interest me, {D like } people that make a big comeback {C or, }   
+
+ba          B.22 utt1:  # Sure.  # /  
+
++          A.23 utt1:  # {D you # know, } Orel Hershiser, things like that. /  
+
+b          B.24 utt1:  Uh-huh. /  
+
+sd          A.25 utt1:  {C And, } {F um, } I like to read books on improve, like family, marriage, {D you know, } things that are written by {D like } Christian authors or, {F um, } doctors about family and, {D you know, } how to improve your home and all that kind of thing.  /
+%          A.25 utt2:  {F Um, } I like to re-, - /
+%          A.25 utt3: the magazines I - /
+%          A.25 utt4: to rel-, - /
+sd          A.25 utt5: I like to read  ((   )) , - /
+sd          A.25 utt6: I read a lot of  bicycling magazines.  /
+%          A.25 utt7:  They're, - /
+sd          A.25 utt8: I mainly look at the pictures and stuff,  /
+sd          A.25 utt9:   {C but }  they usually have some good articles in it. /  
+
+b          B.26 utt1:  Uh-huh. /  
+
+h          A.27 utt1:  {C But, } {F uh, } I don't know  /
+sd          A.27 utt2: I haven't really found any romance type stuff I like  to read.  /
+sd          A.27 utt3: [ I, + I'm  ] more true, {D you know, }   
+
+b          B.28 utt1:  # Yeah,  /
+b^r          B.28 utt2: yeah. # /  
+
++          A.29 utt1:  [ # fi-, + {F uh, } # nonfiction. ]   /
+sd          A.29 utt2: I haven't found a lot of, {F uh, } fiction books that I really like  /
+sd          A.29 utt3: {C but, } {F uh, } not to say I wouldn't, /  
+
+b          B.30 utt1:  # Yeah. # /  
+
+sd          A.31 utt1:  # eventually #  {E I mean. }  /  *[[one utt or two with a.29?]]
+qw          A.31 utt2:  What was the last book you read? /  
+
+^h          B.32 utt1:  {F Uh, } jeez,  /
+^h          B.32 utt2: let me think,  /
+%          B.32 utt3: it, - /
+sd          B.32 utt4: I tell you I haven't read a book in a long time.  /
+%          B.32 utt5:  {C And } it, - /
+sd          B.32 utt6: I can't even really remember.   /
+sd          B.32 utt7: {F Uh, } I think it was a romantic novel by Danielle Steel or one of those. /  
+
+qy          A.33 utt1:  Really? /  
+
+ny          B.34 utt1:  {D You know } <laughter>,  yeah,  /
+fe         B.34 utt2: honestly.   /
+sd          B.34 utt3: {F Um, }   I  don't do as much reading, like  I say, as I would like to. /  
+
+b          A.35 utt1:  Yeah. /  
+
+sd          B.36 utt1:   ((   ))  working a lot of hours at work  /
+%          B.36 utt2: {C and, } -/  
+
+bh          A.37 utt1:  Really? /  
+
+ny          B.38 utt1:  Yeah,  /
+sd          B.38 utt2: {C and then, } of course,   
+
+aa          A.39 utt1:  # I know.  #  /  
+
++          B.40 utt1:  # we have # a home  /
+%          B.40 utt2: {C so } it's, {D you know, } - /
+sd          B.40 utt3: a lot time is spent doing things as far as the yard work or housework or,    
+
+b          A.41 utt1:  # Yeah. # /  
+
++          B.42 utt1:  # {D you # know, } that type of thing. /  
+
+sd          A.43 utt1:  [ I, + I ] set a goal for myself to read a book a month this year which is {D like } about eleven more books than I would have read last year,  /
+sd          A.43 utt2: {C but } so far I've only read {D like } two books  /
+sd          A.43 utt3: {C and so } I'm not doing very well  /
+%          A.43 utt4: {C but, } -/  
+
+sd          B.44 utt1:  {C But } {D see } I do crafts too, /  
+
+b          A.45 utt1:  # Yeah. # /  
+
+sd          B.46 utt1:  # {C so } # it's hard,  /
+sd          B.46 utt2: [ I, + if I  ] have a minute that's what [ I, + I ] do. /  
+
+aa          A.47 utt1:  Yeah,  /
+sd          A.47 utt2: I find it's real hard,  /
+sd          A.47 utt3: I let [ papers, +  newspapers ] stack up and  magazines stack up, if I don't really set aside a time to look or read them. /  
+
+%          B.48 utt1:  That's the, - /
+aa          B.48 utt2: [ {C and, } +  {C and } ] that's like myself  /
+sd          B.48 utt3: [ [ I've, + I've,  ] + I  ] miss it, because I really find it a very relaxing hobby too. /  
+
+b          A.49 utt1:  Yeah. /  
+
+sd          B.50 utt1:  I really do  /
+h          B.50 utt2: {C and, } {F um, } I don't know  /
+sv          B.50 utt3: it seems like you can get lost in a book, {D you know, } - /
+sd          B.50 utt4: [ [ it, + it,  ] +     
+
+b          A.51 utt1:  # Uh-huh. # /  
+
++          B.52 utt1:  # it's #  ] like an escape for me.  /
+h          B.52 utt2:  I don't know about you. /  
+
+b          A.53 utt1:  Yeah. /  
+
+%          B.54 utt1:  It's, - /
+sd          B.54 utt2: if I'm really interested in what I'm reading, {E I mean, } hours can go by  /
+sd(^q)          B.54 utt3: {C and } [ I, + I ] look up at the clock and say, {F oh, } my word, {D you know. } /  
+
+b          A.55 utt1:  Uh-huh. /  
+
+sd          B.56 utt1:  In fact, I'd rather read sometimes than watch T V. /  
+
+aa          A.57 utt1:  Yeah,  /
+aa          A.57 utt2: {F oh, } I would too.   /
+%@          A.57 utt3: {F Um, }    *[[slash error]]
+
+sv          B.58 utt1:  {C But } I think you get out of the habit, like you say,  /
+sv          B.58 utt2: you have to {D like } kind of set yourself, -/  
+
++          A.59 utt1:  Kind of train your mind. /  *[[sv^2]]
+
+aa          B.60 utt1:  Yep. /  
+
+qy          A.61 utt1:  Have you ever read, {F uh, } or heard of the book THIS PRESENT DARKNESS? /  
+
+nn          B.62 utt1:  No. /  
+
+sd          A.63 utt1:  That was one of the books I read this   year,  /
+sd          A.63 utt2: {C and } it's really fast paced and  intense.  /
+sd          A.63 utt3: It [ was a nonfiction book +  {E or } is a fiction book ]  /
+%          A.63 utt4: {C but } it was ar-, - /
+sd          A.63 utt5: it was one of the best I read,  /
+sd          A.63 utt6: {E I mean, } it was real good,  /
+sd          A.63 utt7: {C and } [ it was, + {F um, } it was ] one of the few books that - /
+%          A.63 utt8: {D like } it, {D you know, } - /
+sd          A.63 utt9: just hurry up and go through without putting down, {D you know. } /  
+
+b          B.64 utt1:  Yeah,  /
+b          B.64 utt2: right.  /
+sd          B.64 utt3:  {D See } that's the other problem I have.  /
+sd         B.64 utt4:  If I start into something and I really enjoy what I'm reading,    
+
+b          A.65 utt1:  # Uh-huh. # /  
+
++          B.66 utt1:  # then # I have a terrible time getting away from it too.  /
+sd          B.66 utt2: I'll stay up until two or three o'clock in the morning, {D you know, } because I'm so engrossed in it  /
+sd          B.66 utt3: {C and then } before you know [ it, + it's ] time to get up and go to work.  /
+o          B.66 utt4: You know, that type of thing. /  
+
+b          A.67 utt1:  Yeah. /  
+
+%          B.68 utt1:  That's why - /
+h          B.68 utt2: [ I, + I ] don't know  /
+sd          B.68 utt3: [ I'm, + I'm  ] kind of a nut when it comes to stuff like that.  /
+sd          B.68 utt4: Even if I'm, {F uh, } doing something like an afghan, if I'm close to the end, sometimes I'll <laughter>, do the same thing. /  
+
+b          A.69 utt1:  Uh-huh. /  
+
+h          B.70 utt1:  I don't know what you would call it,  /
+sv          B.70 utt2: maybe I have a problem <laughter>. /  
+
+ar          A.71 utt1:  No,  /
+sv          A.71 utt2: I'm sure it's fast  ((   ))  or something. /  
+
+sv          B.72 utt1:  It's terrible,  /
+sd          B.72 utt2: [ I, + I ] really like books [ that, + that  ] you can get into  /
+sd          B.72 utt3: {C and } that's that. /  
+
+b          A.73 utt1:  Uh-huh.  /
+aa          A.73 utt2:  I know what you mean.  /
+sd          A.73 utt3: I like reading late at night right before I go to bed sometimes  /
+sd          A.73 utt4: I just sleep better or something. /  
+
+aa          B.74 utt1:  {F Oh, } yeah,  /
+aa          B.74 utt2: you do  /
+sv          B.74 utt3: you kind of get relaxed,  /
+aa          B.74 utt4: that's true. /  
+
+b          A.75 utt1:  {C But, } {F uh, } -/  
+
+sd          B.76 utt1:  I have a lot of craft books that I have too and, {F uh, } magazines.  /
+sd          B.76 utt2: I like  PEOPLE, {D you know, } those things that are about real people. /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  {C And, } {F um, } [ I, + I ] like to, {F uh, } read about people [ who have been a successful, +    
+
+b          A.79 utt1:  # Yeah. # /  
+
++          B.80 utt1:  # {D you # know, } [ who, + who  ] made a success ] of their lives. /  
+
+qw          A.81 utt1:  [ Which, + what ] book have you read that is along those lines,   
+
+%@         B.82 utt1:  # {F Uh, } #   *[[slash error]]
+
++          A.83 utt1:  # that # was really good? /  
+
++          B.84 utt1:  [  To, +  to  ] give you specific titles [  I, +  I  ]  can't.   /  *[[sd]]
+
+qw          A.85 utt1:  {D Well, } how about who, -/  
+
+sd          B.86 utt1:  Like I say, haven't done it [ in, + in ] such a long time. /  
+
+qy          A.87 utt1:  Do you know who it was about? /  
+
+no          B.88 utt1:  {F Um, } {D well, } I went to, {F uh, }   seminar on, {F uh, } - /
+sd          B.88 utt2: it was [ for, + by ] American business  /
+%          B.88 utt3: {C and } some of the people, {F uh, } - /
+t1          B.88 utt4: what the heck was his name,  /
+^h          B.88 utt5: I'm trying to think.  /
+%          B.88 utt6: He's one of the, {F uh, } - /
+sd          B.88 utt7: Paroe,  / *[[spelling: Perot]]
+%          B.88 utt8:   {C and } {F um, } it was more like, {F oh, } - /
+sd          B.88 utt9: it was tapes and  things that they had about him, too. /  
+
+b          A.89 utt1:  Uh-huh. /  
+
+sd          B.90 utt1:  How he started out as just a salesman and now he's, {D you know, } multimillionaire and that type of thing,  /
+sd          B.90 utt2: {C and } how you have to, {F uh, } be aggressive and, {D you know, } really want something for yourself and that type of stuff.  /
+sd          B.90 utt3: It's {D like } up to you, in other words, whatever happens in your life. /  
+
+b          A.91 utt1:  Yeah. /  
+
+%          B.92 utt1:  It's not up, - /
+sd          B.92 utt2: it's not someone else,  /
+sd          B.92 utt3:     you have to do it. /  
+
+b          A.93 utt1:  Yeah. /  
+
+sd@          B.94 utt1:  {C And } I find that fascinating that people, {D you know, } can do that kind of thing.   Just make up their minds that that's it.  {D You know, } have this one direction. /  *[[more than one utt]]
+
+bf          A.95 utt1:  {C And then } do it. /  
+
+aa^m          B.96 utt1:  Do it.  /
+sd          B.96 utt2: I can't,  /
+sd          B.96 utt3: I'm not that focused on something. /  
+
+x          A.97 utt1:  <Laughter>.  
+
+sd          B.98 utt1:  [ I, + I'm  ] off in all directions. /  
+
+x          A.99 utt1:  <Laughter>.  
+
+sd          B.100 utt1:  {F Um, } {C and } I'm not, {F uh, } {F uh, } a planner which I wish I was. /  
+
+b          A.101 utt1:  Uh-huh. /  
+
+sd          B.102 utt1:  {D You know, } kind of off the wall.  /
+sd          B.102 utt2: If someone says, do you want to do this tonight, {F uh, } and I got a mountain of things to do, it's okay, {D you know, } we do it. /  
+
+b          A.103 utt1:  Uh-huh,  /
+ba          A.103 utt2: {F huh. }  {D Well, } that's all right. /  
+
+aa          B.104 utt1:  I know,  /
+aa^r          B.104 utt2: I know,  /
+sd          B.104 utt3: {C but } I wish I was more the other way. /  
+
+sv          A.105 utt1:  You're more fun though, {D see. }  /
+qy^g          A.105 utt2: You're not  (( ridged ))  right? /  *[[spelling: rigid]]
+
+ny          B.106 utt1:  Yeah,  /
+na          B.106 utt2: right  /   *[[listen: sarcastic or not?]]
+%          B.106 utt3: [ I, + I,  ] - /
+%          B.106 utt4: that's - /
+sd          B.106 utt5: (( {D see } )) , I like it that way though.  /
+sd          B.106 utt6:  [ [ [ I, + I,  ] + I  ] would, +  I don't ] want to change that part of me. /  
+
+ba          A.107 utt1:  That's good. /  
+
+sv          B.108 utt1:  That's funny,  /
+sd          B.108 utt2: [ e-, + even ] though I admire someone who isn't,   
+
+b          A.109 utt1:  # Yeah. # /  
+
++          B.110 utt1:  # like # I am, {D you know, } [ and, + and ] I wish I could be more that way  /
+%          B.110 utt2: {C but, } -/  
+
+sd          A.111 utt1:  There may be some schools you could read about and learn. /  
+
+aa          B.112 utt1:  That's true,  /
+aa^r          B.112 utt2: that's true.  /
+qw          B.112 utt3: How many people do you supervise? /  
+
+sd          A.113 utt1:  {F Uh, } about twenty. /  
+
+ba          B.114 utt1:  {F Oh, } that's not bad. /  
+
+aa          A.115 utt1:  No. /  
+
+ba          B.116 utt1:  That's not bad at all. /  
+
+aa          A.117 utt1:  No. /  
+
+qy          B.118 utt1:  Do you like your job? /  
+
+no          A.119 utt1:  Sometimes. /  
+
+x          B.120 utt1:  <Laughter>.  
+
+sd          A.121 utt1:  Sometimes more than others.  /
+%          A.121 utt2:    {C But, } yeah,  /
+sd          A.121 utt3: I do. /  
+
+ba          B.122 utt1:  [ {F Oh, }  that's, +   
+
+sd          A.123 utt1:  # I've been there about three years.  # /  
+
++          B.124 utt1:  # {F oh, } that's  ] important.  /
+qy          B.124 utt2: Do you have # a family? /  
+
+ny          A.125 utt1:  Yeah,  /
+sd^e          A.125 utt2: I just got married last year  /
+sd          A.125 utt3: {C and, } {F um, } most of my family's in Indiana. /  
+
+b          B.126 utt1:  {F Oh, } uh-huh. /  
+
+sd          A.127 utt1:  {C So, } I've only been in Texas three years. /  
+
+qy          B.128 utt1:  Do you like it? /  
+
+ny          A.129 utt1:  Yeah,  /
+sd^e          A.129 utt2: I do.  /
+sd          A.129 utt3:  I love the weather down here. /  
+
+sd          B.130 utt1: [ [ I, + I  ] loved, + I loved  ] Abilene too.  /
+sd          B.130 utt2: That's what I liked, too, is the weather. /  
+
+aa          A.131 utt1:  Yeah,  /
+aa          A.131 utt2: I know. /  
+
+sd          B.132 utt1:  Except for tornados <laughter>. /  
+
+sd          A.133 utt1:  {D Boy } [ they, + they  ] have storms here  /
+%          A.133 utt2: I've, -/  
+
+aa          B.134 utt1:  Yes  /
+aa          B.134 utt2: they do.  /
+sd          B.134 utt3: {C And } [ [ it, + it, ] +      
+
+ba          A.135 utt1:  # Hail and thunder and, # -/  
+
++          B.136 utt1:  # it's ] so surprising how # it just happens, {D you know. } /  
+
+b          A.137 utt1:  Yeah. /  
+
+ba          B.138 utt1:  Unpredictable. /  
+
+qy          A.139 utt1:  Were you here during the hailstorm two years ago? /  
+
+nn          B.140 utt1:  {F Uh, } no.   /
+sd^e          B.140 utt2: {F Oh, }  I've been up here about three. - /
+sd          B.140 utt3: {F Uh,  } we were down there, {F uh, } from [ eighty-six to, +  eighty-five to ] eighty-six,  /
+nn          B.140 utt4: no, {F uh, }  /
+%          B.140 utt5: ei-, - /
+sd          B.140 utt6: {D well, } part of eighty-four to eighty-six I should say. /  
+
+b          A.141 utt1:  Yeah,  /
+sd          A.141 utt2: {D boy } I had thirty-three hundred dollars damage done on my car,  /
+sd          A.141 utt3: a lot of people had their cars totaled just from hail. /  
+
+ba          B.142 utt1:  {F Oh, } wow. /  
+
+sv          A.143 utt1:  I think State Farm went bankrupt.    
+
+ba          B.144 utt1:  {F Oh, } jeez. /  
+
++          A.145 utt1:  Just about <laughter>.  /
+%          A.145 utt2: {C But, } {F uh, } -/
+
+sd          B.146 utt1:  I know the whole situation is bad up here,  /
+sd          B.146 utt2: we're having a terrible time with the recession. /  
+
+bh          A.147 utt1:  Really?   /  
+
+ny          B.148 utt1:  Yeah,  /
+ny^r         B.148 utt2: yeah.  /
+sd          B.148 utt3:  It's not good at all. /  
+
+b          A.149 utt1:  {F Huh. } /  
+
+sv          B.150 utt1: I know things are pretty booming down there.  /
+sd          B.150 utt2:  I heard they sold  (( Johnson City ))   (( though )) . /  
+
+aa          A.151 utt1:  Yeah,  /
+sd          A.151 utt2: and Colorado Springs. /  
+
+qy^d^m          B.152 utt1:  And Colorado Springs? /  
+
+ny          A.153 utt1:  Yeah,  /
+sd^e          A.153 utt2: I talked to a guy on the phone on this the other day  /
+sd          A.153 utt3: {C and } he was telling me about it. /  
+
+ba          B.154 utt1:  {F Oh, } wow. /  
+
+sd          A.155 utt1:  They just sold it. /  
+
+ba          B.156 utt1:  Amazing. /  
+
+sd          A.157 utt1:  Closed up and moved down to McKinney. /  
+
+ba          B.158 utt1:  {F Oh, } {D well, } that's good.  /
+sv          B.158 utt2: At least they kept the business part of it. /  
+
+b          A.159 utt1:  Yeah. /  
+
+sv          B.160 utt1:  It's scary though  I'm telling you. /  
+
+aa          A.161 utt1:   (( I know )) . /  
+
+h          B.162 utt1:  I don't know,  /
+sd^t          B.162 utt2: {C and, } {D well, } {D you know, }  with the other part of this thing was, how do you feel that this influences family. /  
+
+br          A.163 utt1:  How do I feel what? /  
+
+sd          B.164 utt1:  [ That, + that  ] books influence, - /
+sd^t          B.164 utt2: do you know how to use them in your life or to influence, -/  
+
+b          A.165 utt1:  Uh-huh. /  
+
+sv          B.166 utt1:  [ I, + I  ] feel like it's important for young children to read too.    
+
+b          A.167 utt1:  Yeah. /  
+
++          B.168 utt1:  And what you read to them.  /
+sd          B.168 utt2: When my children [ wer-, + were  ] younger, of course, - /
+sd          B.168 utt3:  they were all married and grown  /
+sd          B.168 utt4: {C and } I have grandchildren now,  /
+%          B.168 utt5: they were, {F uh, } - /
+sd          B.168 utt6: I, I read to them a lot. /  
+
+ba          A.169 utt1:  That's good. /  
+
+sd         B.170 utt1:  {C And, } {F uh, } I think they've all developed kind of an interest in reading also. /  
+
+ba          A.171 utt1:  That's re-, - /
+b          A.171 utt2: yeah. /  
+
+sd          B.172 utt1:  I'm not saying they read all the right things  /
+sd          B.172 utt2: {C but } they do read.  {F Uh, } where a lot of people don't have any interest in it at all,  /
+sv          B.172 utt3: {C and } I think it's important, /  
+
+b          A.173 utt1:  # {F Oh, } yeah. # /  
+
+sv          B.174 utt1:  # {C because, } {F uh, } # even today where people are so illiterate and they go off to school and really nothing happens, {E I mean, } they don't learn anything.  /
+sv          B.174 utt2: It's because they can't read. /  
+
+aa          A.175 utt1:  Yeah,  /
+sd          A.175 utt2: it's really surprising how many people graduate from high school,    
+
+b          B.176 utt1:  # Yeah. # /  
+
++          A.177 utt1:  [ # and + ] # that I work with - /
+%          A.177 utt2: {C and }  people, {E I mean, } - /
+sd          A.177 utt3: I get memos all the time across my desk  /
+sd          A.177 utt4: {C and } things are misspelled  /
+sv          A.177 utt5: {C and, }   
+
+ba          B.178 utt1:  # {F Oh, } it's [ be-, + unbelievable,  ] # /  
+
++          A.179 utt1:  [ # it's really, # +    
+
+^g          B.180 utt1:  isn't it? /  
+
++          A.181 utt1:  It's pretty ] sad. /  
+
+b          B.182 utt1:  Yeah. /  
+
+sd          A.183 utt1:  A lot of people that work for me that can't even spell or read, {D you know. } /  
+
+aa          B.184 utt1:  Exactly,  /
+sv          B.184 utt2: {C and } I think that that's why reading is so important, /  
+
+b          A.185 utt1:  Yeah. /  
+
+sv          B.186 utt1:  {C because, } {F uh, } I think even mentally when you can do some, -/ 

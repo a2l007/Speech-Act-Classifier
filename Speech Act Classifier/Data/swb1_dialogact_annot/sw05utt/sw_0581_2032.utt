@@ -1,0 +1,541 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2032_1167_1093
+TOPIC#:		308
+DATE:		910307
+TRANSCRIBER:	sk
+UTT_CODER:	stm
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	3
+BACKGROUND_A:	2
+BACKGROUND_B:	3
+REMARKS:	Children were playing in the background.  Caller B trails off
+most turns with a nervous laugh.
+
+=============================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+ad          A.1 utt2: {D so } we've got to talk about music. /  
+
+aa          @B.2 utt1:  Okay. /  
+
+qr          A.3 utt1:  {C And, } {F um, } do you like classic rock,  or modern rock, or which kind? /  
+
+sd@          B.4 utt1:  {F Oh, } I guess the stuff <baby_crying>  that was done more in the seventies,  because [ that's, +   *[[slash error]]
+
+ba          A.5 utt1:  No,  /
+qy          A.5 utt2: not a seventies baby.  /  
+
++          B.6 utt1:  {D Well, } {D no } that's ] really when  I grew up,  /
+sd          B.6 utt2: {C so } that's really what I like better,  /
+sd          B.6 utt3: is that kind of music <laughter>,  /
+%          B.6 utt4: {E I mean, } -/  
+
+qy          A.7 utt1:  Is it disco,  /
+qrr          A.7 utt2: or is it like, -/  
+
+nn          B.8 utt1:  No,  /
+nn          B.8 utt2: no,  /
+nn          B.8 utt3: no,  /
+sd^e          B.8 utt4: not that kind of music <laughter>. /  
+
+%          A.9 utt1:  <Laughter> {C but, } -/  
+
+nn          B.10 utt1:  No,  /
+sd^e          B.10 utt2: more like, {F uh, } rock, {F um, }  {D you know, } like Led Zepplin type <laughter>. /  
+
+b          A.11 utt1:  {F Oh, } okay.  /
+bf          A.11 utt2: [ {C So, } +  {C so } ] they can  get {D like } the Doors and Led Zepplin. /  
+
+b          B.12 utt1:  Right. /  
+
+aa          A.13 utt1:  Yeah,  /
+aa          A.13 utt2: that's cool. /  
+
+b          B.14 utt1:  Right. /  
+
+qy          A.15 utt1:  {C And, } how about the Rolling Stones? /  
+
+ba          B.16 utt1:  {F Oh, } sure,  /
+ba^r          B.16 utt2: sure  /
+sd          B.16 utt3:  I went to their concert last year when they were here. /  
+
+sd          A.17 utt1:  {F Oh, } [ that's when, +  that's when ]  they [ took, +  toured. ]  /
+qy          A.17 utt2: How about, {F um, } Pink Floyd? /  
+
+na          B.18 utt1:  Sure,  /
+ny          B.18 utt2: yeah,  /
+sd^e          B.18 utt3: I like them. /  
+
+bk          A.19 utt1:  Okay.  /
+sv          A.19 utt2: [ {C So, } +  {C so } ] then [ we got, +  we got ]  some same things  /
+%          A.19 utt3: {C because, } -/  
+
+b          B.20 utt1:  Okay,  /
+sd          B.20 utt2: {D well, } I just didn't know  that much about music  /
+sd          B.20 utt3: {C and } I wasn't sure what kind of music. /  
+
+aa          A.21 utt1:  No,  /
+sv          A.21 utt2: it's very hard  /
+%          A.21 utt3: {C because, } {D see, }  {D well, } {E I mean, } in the whole spectrum I'd rather listen, {D you know, } - /
+sd          A.21 utt4:  I listen to heavy metal or classic rock. /  
+
+qw          B.22 utt1:  [ What, +  what ] kind of heavy metal  are we talking about?  /
+%          B.22 utt2: What, -/  
+
+sd          A.23 utt1:  We're talking about [ what they, +   what they ] call hard rock. /  
+
+bk          B.24 utt1:  Okay,  /
+ad          B.24 utt2: {D like, } give me some examples. /  
+
+sd          A.25 utt1:  {D Like, } for example, let's see, {F uh, }  Bad Company,  /
+%          A.25 utt2: what, -/  
+
+sv          B.26 utt1:  {F Oh, } {D well, }  Bad [ Cam-, +  Company's ]  not bad,  /
+%          B.26 utt2: that's not, /  
+
+sd          A.27 utt1:  {D well, } they're like, for example, A C D C. /  
+
+b          B.28 utt1:  <Laughter> Yeah,  /
+b^m          B.28 utt2: A C D C <laughter>. /  
+
+qo          A.29 utt1:  Why,  /
+qy          A.29 utt2: have you heard of them? /  
+
+ny          B.30 utt1:  Yes <laughter>. /  
+
+bk          A.31 utt1:  Okay.  /
+sd          A.31 utt2:  {C And, } stuff like that.  /
+sv          A.31 utt3: [ [ That's, +  that's, ] +    
+
+b          B.32 utt1:  {D Well, } okay. /  
+
++          A.33 utt1:  that's ] not really hard rock. /  
+
+ba          B.34 utt1:  Okay,  /
+sv          B.34 utt2: I guess I didn't really consider that heavy metal. /  
+
+bk          A.35 utt1:  Okay. /  
+
+sd          B.36 utt1:  {E I mean, } [ I, +  I ] think, when you  say heavy metal, [ I'm, +  I'm ] thinking about like  Cinderella, {D you know. } /  
+
+sd          A.37 utt1:  {D Well, } Cinderella [ is, +  is ] hard rock, heavy metal. /  
+
+sd          B.38 utt1:  {D Well, } {D see, } I don't really  care for Cinderella <laughter>.  /
+sd          B.38 utt2:  {C But, } I like A C D C's okay. /  
+
+sd          A.39 utt1:  {C But, } {D see, } for example, they have,  {D see } what, - /
+sd          A.39 utt2: {C but } other bands consider it {D like } really hard rock.  /
+sd          A.39 utt3:  It's like  brash metal, which all they do is {D like, } they have this guitar and they just bang at the guitar,  /
+sd          A.39 utt4: {C and } the guitar is set {D like, }  really low, /  
+
+b          B.40 utt1:  Yeah.  /
+b          B.40 utt2:  No,  /
+sd          B.40 utt3:  I don't really care for that too much, I guess. /  
+
+sd          A.41 utt1:  {C and, } what happens is  {D like, } {F oh, } everybody gets {D like } totally into the music  /
+sd          A.41 utt2: {C and then } they start dancing around, /  
+
+b          B.42 utt1:  Uh-huh. /  
+
+sd          A.43 utt1:  {C and } they just bump into each other, /  
+
+b          B.44 utt1:  Uh-huh. /  
+
+sd          A.45 utt1:  [ {D like, } +  {D like } ] they hit each other with their shoulders, /  
+
+b          B.46 utt1:  Uh-huh. /  
+
+sd          A.47 utt1:  {C and, then, } you knock people down,  /
+sd          A.47 utt2:  {C and } what you do is, you also try to get up on stage and jump down on top of all these other people. /  
+
+qy          B.48 utt1:  <Laughter> Is that the kind of music that you like? /  
+
+nn          A.49 utt1:  No,  /
+sd^e          A.49 utt2: I don't like that music. /  
+
+bk          B.50 utt1:  {F Oh, } okay. /  
+
+sd          A.51 utt1:  {C But, } [ that's, + that's ]  what they do.  /
+sd          A.51 utt2: [ That's, + that's ] what some people call {D like } really heavy metal. /  
+
+b          B.52 utt1:  {F Oh, } okay. /  
+
+sd          A.53 utt1:  {C And, } {D see, } the difference,  I guess, between hard rock and heavy metal is [ that + ] the lyrics also.  /
+sd          A.53 utt2: {D Like } really,  {D like } heavy metal, [ wo-, +  is ] considered, {D like }   the words heavy metal  /
+sd          A.53 utt3: {C and, }  {D like, } you always thought about, {D like, } suicide. And  killing people and stuff like that. /  
+
+b          B.54 utt1:  Yeah. /  
+
+%          A.55 utt1:  {C And, } just hard rock has, - /
+sd          A.55 utt2:  [ they, +  they ] don't talk about that,  /
+sd          A.55 utt3: they just talk about, {D like, } life in general. /  
+
+b          B.56 utt1:  Right. /  
+
+qy^d          A.57 utt1:  Like, Queen's Reich, if you ever heard of them. /  
+
+na          B.58 utt1:  {F Oh, } sure.  /
+na          B.58 utt2:  Of course. /  
+
+b          A.59 utt1:  Yeah. /  
+
+bf          B.60 utt1:  [ Que-, +  [ you, +  you're ] talking Queen, ]  /
+br          B.60 utt2:  is that what you said? /  
+
+b          A.61 utt1:  Okay,  /
+ar          A.61 utt2: {D well, } no.  /
+sd^r          A.61 utt3: I said Queen's Reich,  /
+sv          A.61 utt4: [ [ {C but, } +    
+
+bk          B.62 utt1:  {F Oh, } {F oh, } {F oh, } okay, /  
+
++          A.63 utt1:  {C but, } ] +  {F oh, } {C but ] } you got to  {D like } Queen also. /  
+
+b          B.64 utt1:  Right. /  
+
+%          A.65 utt1:  {D So } {C because, } -/  
+
+b          B.66 utt1:  {D Well } sure,  /
+sd          B.66 utt2: {C because }  Queen was real popular when I was growing up. /  
+
+b          A.67 utt1:  Yeah,  /
+h          A.67 utt2: especially, {F uh, } {F oh } God,  what is it, A Night At The Opera?  /
+qy          A.67 utt3: Don't they have a, - /
+ar          A.67 utt4: no  /
+qw^d          A.67 utt5: let's see, the one that they have  [ the, + the ] whole opera singing in the background. /  
+
+ba          B.68 utt1:  Oh!  /
+^h@          B.68 utt2: {F Um, } {F uh, }    *[[slash error]]
+
+sd          A.69 utt1:  [ [ Bo, +  Bo, ] +  Bohemian ] Rhapsody. /  
+
++          B.70 utt1:  Right,  /
+aa          B.70 utt2: right,  /
+aa          B.70 utt3: yeah,  /
+aa          B.70 utt4: yeah. /  
+
+b          A.71 utt1:  Yeah,  /
+sv          A.71 utt2: [ that, +  that ] was great.  /
+sd          A.71 utt3:  I heard that the other day on the radio  /
+sd          A.71 utt4: {C and } I pumped it up. /  
+
+x          B.72 utt1:  <Laughter>.  
+
+sd          A.73 utt1:  {C Because, } {E I mean, } I just love that song. /  
+
+aa          B.74 utt1:  Yeah,  /
+sv          B.74 utt2: [ that, +  that ] was a real good one. /  
+
+b          A.75 utt1:  Yeah,  /
+%          A.75 utt2: {C but } they had, - /
+sv          A.75 utt3: [ that, +  that ]  whole record was pretty good.  /
+sv          A.75 utt4: {C But then, } they started going downhill like everybody else. /  
+
+aa          B.76 utt1:  {D Well, } that's true.  /
+sv          B.76 utt2:  They came up with some pretty weird stuff after that. /  
+
+b          A.77 utt1:  Yeah,  /
+sd          A.77 utt2: [ they're, +  they're ] still around,  /
+sd          A.77 utt3:  they've got a [ ne-, +  new ] C D out,  /
+sd          A.77 utt4: {C but } [ I, +  I ] wouldn't buy it.  /
+sd          A.77 utt5: {C Because } {D see, }  what happens is, the old, {D see } whe-, - /
+sd          A.77 utt6: [ I like, +  I like ] the old Rolling Stones.  /
+sd          A.77 utt7: I don't like the new stuff. /  
+
+qy          B.78 utt1:  Of the Stones? /  
+
+ny          A.79 utt1:  Yeah. /  
+
+aa          B.80 utt1:  Yeah.  /
+aa          B.80 utt2:  I agree.  /
+%          B.80 utt3:  That's the ne-, - /
+sv          B.80 utt4:  the older stuff is the best of it.  /
+sv          B.80 utt5:  [ The, +  the ] new stuff's kind of more  like, today's rock and roll, which I,   
+
+b          A.81 utt1:  Yeah. /  
+
++          B.82 utt1:  don't really care for today's rock and roll too much. /  
+
+sd          A.83 utt1:  {D Well, } for example, I used to like old Phil Collins. /  
+
+b          B.84 utt1:  Right. /  
+
+sd@          A.85 utt1:  An old, Genesis? /  *[[listen]]
+
+aa          B.86 utt1:  Yes,  /
+aa          B.86 utt2: definitely.  /
+aa          B.86 utt3: I agree. /  
+
+sd(^q)          A.87 utt1:  [ {C And, } + {C and, then } ]  what happened was that Phil Collins said, hey I can make money, a lot of money doing this,  /
+sd          A.87 utt2:  {C and then } he came out with, {F uh, } {D see, } for example, [ his, +  his ] record {D like, } No Jacket Required. /  
+
+b          B.88 utt1:  Uh-huh. /  
+
+sv          A.89 utt1:  That was good,  /
+sv          A.89 utt2: {C but } it was on his  way of going downhill,  /
+sd(^q)          A.89 utt3: {C because } he said, I can make a lot of money just singing alone,  /
+sd          A.89 utt4:  {C and then } he came out with the Invisible Touch, with, {F uh, } Genesis  /
+%          A.89 utt5:  {C and } that really, - /
+sd          A.89 utt6: {D like } now, I hate Phil Collins,  /
+sd          A.89 utt7: I can't stand him. /  
+
+b          B.90 utt1:  Right. /  
+
+sd          A.91 utt1:  {C Because, } I look at him  /
+sd(^q)          A.91 utt2: {C and } I say,  {D you know, } you were singing at this time, and with these people,  /
+^q          A.91 utt3: {C and } you were great,  /
+^q          A.91 utt4:  {C and } now you're singing all this stuff that, doesn't matter [ what you, +  what you ]  sing or what you record,  /
+^q          A.91 utt5: it's still going to be a number one hit.  /
+sd          A.91 utt6:   {C And so, } [ that's, + that's ] what gets me mad. /  
+
+b          B.92 utt1:  Yeah. /  
+
+qy          A.93 utt1:  {C But, } [ did, +  did ] you go see that new Doors movie? /  
+
+nn          B.94 utt1:  No,  /
+sd^e          B.94 utt2: not yet.  /
+sd          B.94 utt3: I guess I've been,  [ con-, +  kind of considering ] it.  /
+qy          B.94 utt4:  Have you seen it yet? /  
+
+ny          A.95 utt1:  Yeah.  /
+sd^e          A.95 utt2:  I saw it when it opened. /  
+
+qy          B.96 utt1:  Was it really good? /  
+
+ny          A.97 utt1:  Yeah.  /
+sd@          A.97 utt2:  {D Well, } [ [ it, +  it's, ] +   {D you know, } it's ] like, I was watching Siskel and  Ebert,   *[[slash error]]
+
+b          B.98 utt1:  Uh-huh. /  
+
++          A.99 utt1:  {D you know, } {D like } those guys that criticize movies? /  
+
+na          B.100 utt1:  Right. /  
+
+sd          A.101 utt1:  {C And, } they both loved the movie, right? /  
+
+b          B.102 utt1:  Uh-huh. /  
+
+sd(^q)          A.103 utt1:  They said the music's great,  /
+^q          A.103 utt2:  it took me back to the sixties, and stuff like  that. /  
+
+b          B.104 utt1:  Uh-huh. /  
+
+sd(^q)          A.105 utt1:  {C And then, } one of them said,  {D well, } everything is great,  /
+^q          A.105 utt2: {C but } I'm going to give it thumbs down.  /
+sd          A.105 utt3: {C And } they go,  /
+^q          A.105 utt4: {C but } why?  /
+sd          A.105 utt5:   {C Because } [ it's +  {D like, } the end is, ] {D like, } really depressing.  /
+%          A.105 utt6: {C And so, } -/  
+
+b          B.106 utt1:  Oh. /  
+
+sv          A.107 utt1:  [ [ {C But } it, +  {C but } it's ] +   {D like } the movie is ] so well made,  /
+sv          A.107 utt2:  {C and } the music that goes with it just picks you up, {D see, } - /
+sd          A.107 utt3:  [ I was never, +  I was ] born in nineteen hundred sixty-nine. /  
+
+b          B.108 utt1:  {F Oh, } okay. /  
+
+%          A.109 utt1:  [ {C So, } +  {E I mean, } {C so } ] for me, -/  
+
+bf          B.110 utt1:  {C So, } you didn't really grow up with that kind of music then. /  
+
+aa          A.111 utt1:  No,  /
+sd          A.111 utt2: {C but } you learn to.  /
+sv          A.111 utt3:  {E I mean }  it's just that, {D like } [ the, +  the ] sixties music's got  a lot to say. /  
+
+b          B.112 utt1:  Right. /  
+
+sd          A.113 utt1:  [ I, +  I ] never found out  what a lot of the seventies music had too.  /
+%          A.113 utt2: {D You know, }  I was like, -/  
+
+ar          B.114 utt1:  {D Well } no,  /
+sd@          B.114 utt2: {D now, } {D well }  seventies music, {E I mean, } [ [ I'm, +  like I said,   yo-, ] +  disco, I ]  don't like disco,  / *[[more than one utt]]
+sd          B.114 utt3: I've never liked disco. /  
+
+fe          A.115 utt1:  Hey,  /
+sv          A.115 utt2: {C but } I bet you were out  there with your bell bottomed pants, /  
+
+aa          B.116 utt1:  <Laughter>  {D Well, } that's true <laughter>. /  
+
+x          A.117 utt1:  <Laughter>.  
+
+aa          B.118 utt1:  That's true.  /
+sd          B.118 utt2: {C But, } I was more  in the late seven-, - /
+%          B.118 utt3: {D well, }  I  shou-, - /
+sd          B.118 utt4: {D like }  mid to late seventies, {D like } between seventy-five [ and, +    
+
+b          A.119 utt1:  Yeah,  /
+b^r          A.119 utt2: yeah. /  
+
++          B.120 utt1:  and, ] seventy-nine, was more my era. /  
+
+qy          A.121 utt1:  [ Did, +  did ] you go to college? /  
+
+nn          B.122 utt1:  {D Well, } no.  /
+sd^e          B.122 utt2: I'm going right now <laughter>. /  
+
+ba          A.123 utt1:  {F Oh, } that's cool. /  
+
+nn          B.124 utt1:  {C But } {F uh, } no  /
+sd^e          B.124 utt2: I didn't go then.  /
+sd          B.124 utt3:  {C But } {D see, } I graduated high school in seventy-eight, /  
+
+b          A.125 utt1:  Okay. /  
+
+sd          B.126 utt1:  {C so, } {D you know, } in seventy-eight,  {D you know } rock was starting to get really heavy, {D you know, }  /
+h          B.126 utt2: {C and } real, {F um, }   
+
+b          A.127 utt1:  Yeah,  /
+b^r          A.127 utt2: yeah. /  
+
++          B.128 utt1:  I don't know,  /
+sd          B.128 utt2: disco was pretty much dead by then. /  
+
+b          A.129 utt1:  Yeah. /  
+
+sd          B.130 utt1:  [ {C So, } +  {C so } ] that's what I mean,  /
+sd          B.130 utt2:  disco wasn't really my time. /  
+
+sd          A.131 utt1:  {D Well, } they always say that  the seventies was the lowest point [ in, +  in ] progression, ever in history.  /
+%          A.131 utt2:  {C So, } -/  
+
+br          B.132 utt1:  About music? /  
+
+ar          A.133 utt1:  No,  /
+sd          A.133 utt2: about everything. /  
+
+b          B.134 utt1:  {F Oh. }  Okay. /  
+
+sd          A.135 utt1:  {C So, } it's like, nothing happened  during the seventies.  /
+sd          A.135 utt2: Everything happened during the sixties,  /
+sd          A.135 utt3:  the seventies I don't know what they're called, {D you know, }  /
+%          A.135 utt4: it's [ like, + like ] - /
+sd          A.135 utt5: [ the, +  the ]  eighties are called, {D like } the progressive years, [ or  the, +  or, {D you know, } {D like } the ] technology years,    
+
+b          B.136 utt1:  Uh-huh. /  
+
++          A.137 utt1:  because of all the computers and stuff.  /
+sd          A.137 utt2:  {C But } the seventies got nothing.  /
+sd          A.137 utt3: {E I mean, } nobody cared to name it <laughter>. /  
+
+ba          B.138 utt1:  That's kind of funny <laughter>. /  
+
+%          A.139 utt1:  {D So. } /  
+
+aa          B.140 utt1:  You're right.  /
+sd          B.140 utt2: I never thought of that.  /
+sd          B.140 utt3:   The disco years, that's what they're calling them,   
+
+aa          A.141 utt1:  Yeah,  /
+aa          A.141 utt2: I know. /  
+
++          B.142 utt1:  are gone. /  
+
+qo          A.143 utt1:  <Laughter> Can you imagine [ the, +   {D like } a ] big picture of John Travolta,  ta-da, what is it SATURDAY NIGHT FEVER?  /
+sv          A.143 utt2: Him just standing there. /  
+
+aa          B.144 utt1:  Yeah,  /
+aa          B.144 utt2: right. /  
+
+b          A.145 utt1:  Yeah,  /
+sv          A.145 utt2: that's a good example to look for in history.  /
+^q          A.145 utt3:   {D Well, } from now on we're going to go [ from the, +  from nineteen  sixty-nine ]  when they took the first step on the moon, to nineteen eighties.  /
+^q          A.145 utt4:   Okay,  /
+^q          A.145 utt5: what happened in the middle?  /
+^q          A.145 utt6: Don't worry,  /
+^q          A.145 utt7: don't worry,  /
+^q          A.145 utt8: [ you're not, +   you're not ] missing anything, {D you know, }  /
+%          A.145 utt9: {C so, } -/  
+
+aa          B.146 utt1:  <Laughter> That's true.  /
+arp          B.146 utt2: {D Well, } except for Vietnam. /  
+
+aa          A.147 utt1:  Yeah,  /
+aa          A.147 utt2: really.  /
+%          A.147 utt3:  {C And, } [ that's, +    
+
+%          B.148 utt1:  You know with, -/  
+
++          A.149 utt1:  that's ] why I guess, everybody, - /
+b          A.149 utt2:   yeah,  /
+sv          A.149 utt3: it's like they don't want to talk about that,  /
+sv          A.149 utt4: {C so } they just, don't name it.  /
+sv          A.149 utt5:  {E I mean, } [ [ it was, +  it was, ] +  I guess it was ] pretty bad times. /  
+
+aa          B.150 utt1:  Yeah.  /
+aa          B.150 utt2:  {D Well, } that's very true <laughter>.  /
+%          B.150 utt3:   {C But, } -/  
+
+^h          A.151 utt1:  {F Oh, } {D well, } let's see,  /
+%          A.151 utt2:  yeah,  /
+o          A.151 utt3: okay,  /
+sd^t          A.151 utt4: we've been talking for seven minutes,  /
+%          A.151 utt5: {C so, } -/  
+
+ba          B.152 utt1:  {F Oh, } good.  /
+sd^t          B.152 utt2:  I haven't even been keeping track. /  
+
+o          @@A.153 utt1:  Okay,  /
+o          @@A.153 utt2: all right,  /
+co          @@A.153 utt3: {D so } {F um, }  I'm going to leave you alone.  /
+qw          @@A.153 utt4: {F Uh } [ what, +  what ] are you doing?  /
+qy          @@A.153 utt5:  Do you have a family? /  
+
+ny          B.154 utt1:  {F Uh, } yeah. /  
+
+bk          A.155 utt1:  Okay. /  
+
+sd          B.156 utt1:  [ We're kind of, + I was kind of ]  in the middle of supper,  /
+bd          B.156 utt2: {C but } it's not a big deal, /  
+
+fa          A.157 utt1:  {F Oh, } I'm sorry. /  
+
+bd          B.158 utt1:  I just left it.  /
+ar          B.158 utt2: No,  /
+bd          B.158 utt3: it's okay,  /
+%          B.158 utt4:  {C because } {D see } I didn't, {D see } - /
+sd^t          B.158 utt5: somebody tried to call me last night  /
+sd^t          B.158 utt6: {C but } I didn't have  my number yet,  /
+sd^t          B.158 utt7: I just got it today. /  
+
+bk          A.159 utt1:  {F Oh, } okay. /  
+
+bd          B.160 utt1:  {C And so, } {D you know, } it's okay.  /
+sd^t          B.160 utt2:   [ I, +  I ] told them I'd be available during this time,  /
+%          B.160 utt3: {C so, }     
+
+o          A.161 utt1:  Okay.  /
+o          A.161 utt2:  All right. /  
+
++          B.162 utt1:  anyway. /  
+
+fc          A.163 utt1:  {D So } then, {F uh, } have fun doing this.  /
+fc          A.163 utt2: It is not,   
+
+fc          B.164 utt1:  Okay,  /
+fc          B.164 utt2: thanks. /  
+
++          A.165 utt1:  # that bad.  /
+fc          A.165 utt2: Bye, bye. # /  
+
+fc          B.166 utt1:  # Great,  /
+fc          B.166 utt2: Bye. # / 

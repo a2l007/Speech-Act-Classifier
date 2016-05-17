@@ -1,0 +1,576 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2627_1231_1174
+TOPIC#:		306
+DATE:		910422
+TRANSCRIBER:	csw
+UTT_CODER:      mmab
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:	Background noise of children on both callers throughout.  
+Callers talked at the same time a lot.
+
+=============================================================================
+  
+
+x          B.1 utt1:  <Laughter>.   
+
+b          A.2 utt1:  <Throat_clearing>  Okay,  /
+qy          A.2 utt2: {D so } do you do a lot of cooking in your family? /  
+
+ng          B.3 utt1:  {F Um, } I do some every now and then,  /
+sd          B.3 utt2: [ I, + I ] work  /
+sd          B.3 utt3: {C and } my wife's home during the day  /
+sd          B.3 utt4: {C so } she usually ends up doing most of it. /  
+
+b          A.4 utt1:  {F Oh, } yeah. /  
+
+sd          B.5 utt1:  When I was single we used to always cook, around the house. /  
+
+b          A.6 utt1:  Yeah,  /
+qy          A.6 utt2: [ do, + do ] you like to cook. /  
+
+ny          B.7 utt1:  {F Huh, } yeah,  /
+sd^e          B.7 utt2: I really like it, /  
+
+b          A.8 utt1:  # Yeah,  /
+b^r          A.8 utt2: yeah. # /  
+
+%          B.9 utt1:  # {F um, } there's # a few dishes, - /
+sd          B.9 utt2: {D like, } [ I, + I ] grew up with [ the, + ] {F um, } {D you know, } having Polish and Ukrainian food. /  
+
+b          A.10 utt1:  {F Oh, } really. /  
+
+sd          B.11 utt1:  {C And } my wife, she likes Italian and stuff, /  
+
+b          A.12 utt1:  # Oh. # /  
+
+sd          B.13 utt1:  # {C so } # [ we, + we ] definitely have different tastes,  /
+%          B.13 utt2: {C so. } -/  
+
+b          A.14 utt1:  Yeah,  /
+b^r          A.14 utt2: yeah,  /
+sv          A.14 utt3: {C but } that's neat though, because you get to have different stuff <throat_clearing>. /  
+
+b          B.15 utt1:  # Uh-huh. # /  
+
+b          A.16 utt1:  # Yeah, #  /
+sd          A.16 utt2: [ I'm not, + I'm ] a pretty bad cook <laughter>.  /
+sd          A.16 utt3:  I'm pretty bad.  /
+sd          A.16 utt4: My husband is really good,  /
+sd          A.16 utt5: he put himself through college working in restaurants. /  
+
+ba          B.17 utt1:  {F Oh, } wow. /  
+
+sd          A.18 utt1:  {C And, }  {F uh, } he's much better cook than I am,  /
+sd          A.18 utt2: {C so, } when I was home I still cooked a lot  /
+sd          A.18 utt3: {C and } I was in to a lot of vegetarian stuff.  /
+sd          A.18 utt4: {D And } now, I went back to work about a year and a half ago  /
+sd          A.18 utt5: {C so, }  one of the things that he took over was the cooking  /
+sd          A.18 utt6: {C and } the kids are thrilled,  /
+sd          A.18 utt7: they're really happy, that I don't cook anymore. /  
+
+qy^g          B.19 utt1:  {F Uh, } <beep> they're like, {F uh, } preferring it now, right <baby_crying>. /  
+
+ny          A.20 utt1:  Yeah,  /
+sd(^q)          A.20 utt2: they say oh dad, let dad cook mom,  /
+^q          A.20 utt3: let him do it <laughter>  /
+qy          A.20 utt4: <talking>.  {C But, }  {F um, } [ {C so, } +  {C so } ] [ do you all, + do you ] have kids?  /
+qy^d          A.20 utt5: You obviously have one. /  
+
+ny          B.21 utt1:  Yeah,  /
+sd^e          B.21 utt2: two,  /
+ny          B.21 utt3: uh-huh. /  
+
+bk          A.22 utt1:  Okay,  /
+bf          A.22 utt2: you have two. /  
+
+aa          B.23 utt1:  Yeah,  /
+sd          B.23 utt2: one is, {F uh, } nine months  /
+sd          B.23 utt3: {C and } the other is two and a half. /  
+
+b^m          A.24 utt1:  Two and half, {F oh. } /  
+
+b          B.25 utt1:  Yeah,  /
+%          B.25 utt2: that's the hard part is cooking with, {F uh, } kids around [ because, + {F uh, } becau-, ] -/  
+
+qy^g         A.26 utt1:  I was just going to say, <<pause>> makes a difference in  what you eat doesn't it <child_yelling>.  /
+qrr          A.26 utt2: {C Or } are you not at that stage yet? /  
+
+ny          B.27 utt1:  Yeah,  /
+sd^e          B.27 utt2: it does <laughter>. /  
+
+b          A.28 utt1:  Yeah. /  
+
+sd          B.29 utt1:  We try our hardest to get them to eat what we, [ w-, + ] eat, {D you know. } /  
+
+b          A.30 utt1:  Right. /  
+
+sd          B.31 utt1:  {C And } my sister, {F uh, } she's the master of the fast order grill, {D you know, } /  
+
+b          A.32 utt1:  # {F Oh, } yeah. # /  
+
+sd          B.33 utt1:  # [ she can # make, + {F uh, } she makes ] six different meals,  /
+%          B.33 utt2: {C but. } -/  
+
+ba          A.34 utt1:  # {F Oh } my gosh. # /  
+
+sd          B.35 utt1:  # Like to have # one thing, {D you know, } - /
+sd          B.35 utt2: one likes chicken nuggets, the other one like hot dogs, /  
+
+ba          A.36 utt1:  # {F Oh } my gosh,  /
+sd          A.36 utt2: I couldn't <child_laughing>. # /  
+
+sd          B.37 utt1:  # {C and then } she makes noodles [ with, + # {F uh, }  with, ]   
+
+b          A.38 utt1:  # Yeah. # /  
+
++          B.39 utt1:  # [ s-, + # soy ] sauce or whatever,  /
+%          B.39 utt2: {C so, }  all things. -/  
+
+sd          A.40 utt1:  <Throat_clearing>  Boy, I couldn't do that,  /
+%          A.40 utt2:  I <noise>, -/  
+
+b          B.41 utt1:  {C But, }  {F um, } yeah,  /
+%          B.41 utt2: our favorite, - /
+^h          B.41 utt3: let me think,  /
+sd          B.41 utt4: I was thinking of the one recipe [  that, + {F uh, } that ] we made.  /
+sd          B.41 utt5: I guess the thing that always turned out the best for us was something we thought looked really fancy but was real easy,  /
+sd          B.41 utt6: {C and } that was, {F um, }   
+
+qw          A.42 utt1:  # What's that. # /  
+
++          B.43 utt1:  # {F uh, } [ scallops, + # {F uh, } scallop, ] {F um, } -/  
+
+b          A.44 utt1:  # {F Oh } really. # /  
+
+sd          B.45 utt1:  # it has # a French name,  /
+sd          B.45 utt2: it basically means that it has a Swiss cheese, cream sauce with it  /
+sd          B.45 utt3: {C and } you pour it over rice, /  
+
+b          A.46 utt1:  {F Oh } yeah,  /
+qy          A.46 utt2: [ what's, + what is ] that, Saint Jack or something. /  
+
+ny          B.47 utt1:  # Yeah, {F uh. } # /  
+
+sd          A.48 utt1:  # Scallops Saint # something,  /
+%          A.48 utt2: {C or, }  yeah,  ((   )) . /  
+
+b          B.49 utt1:  Yeah,  /
+sd          B.49 utt2: I can't even remember what the recipe's name is anymore, /  
+
+b          A.50 utt1:  # Yeah,  /
+b^r          A.50 utt2: yeah. # /  
+
+sd          B.51 utt1:  # {C but, }  {F uh, } # [ i-, +  it ] was basically just ground up Swiss cheese  and then, {F uh, } standard cream sauce base and then, {F uh } --   
+
+b          A.52 utt1:  Really,  /
+^2          A.52 utt2: with scallops. /  
+
++          B.53 utt1:  -- the scallops.  /
+sv          B.53 utt2: [ {C An, } +  {C and } ] it sounds sort of funny  /
+sd          B.53 utt3: {C but } it tastes really good. /  
+
+ar          A.54 utt1:  No,  /
+ar^r          A.54 utt2: no,  /
+sd          A.54 utt3: I'm from New England,  /
+sd          A.54 utt4: {C so } [ we, + we ] had, {F um, } a lot of seafood before we moved down here. /  
+
+x          B.55 utt1:  <Laughter>.   
+
+sv          A.56 utt1:  {C And, }  {F uh, } that sounds delicious to me. /  
+
+b          B.57 utt1:  Yeah. /  
+
+ba          A.58 utt1:  That sounds great. /  
+
+b          B.59 utt1:  Yeah,  /
+%          B.59 utt2: {C but, }  {F uh, } -/  
+
+sd          A.60 utt1:  [ I think, + we're just thinking ] of having, a, {F uh, } dinner party.  /
+sd          A.60 utt2:  We went to this dinner party the other night that was kind of like a game,  /
+sd          A.60 utt3: they had, {F uh, } a murder mystery, /  
+
+b          B.61 utt1:  # Uh-huh.  # /  
+
+sd          A.62 utt1:  # {C and } # you came dressed as one of the characters  /
+sd          A.62 utt2: {C and } you had to solve the mystery during the dinner, /  
+
+b          B.63 utt1:  # Uh-huh. # /  
+
+sd          A.64 utt1:  # {C and } # it was really fun  /
+sd          A.64 utt2: {C and so } [ [ we, + we were thinking we wanted to do, ] + {D you know, } we were going to try doing ] it ourselves,  /
+sd          A.64 utt3: {C but } we're trying to decide what can we serve because at this one the hostess was pretty busy running around trying to get stuff ready for the table  /
+sd          A.64 utt4: {C and } that kind of interrupted the game,  /
+sd          A.64 utt5: [ {C so, } +    
+
+b          B.65 utt1:  # Right,  /
+b          B.65 utt2: yeah. # /  
+
++          A.66 utt1:  # {C so } ] I # was thinking there's this Beef Bourguignonne recipe that I've tried before that's pretty good  /
+sd          A.66 utt2: {C and then } you can make that ahead  /
+sd          A.66 utt3: {C and } you can just leave it in the pot on a stove until you're ready. /  
+
+b          B.67 utt1:  Uh-huh. /  
+
+%          A.68 utt1:  {C So } that's, {F uh, } -/  
+
+b          B.69 utt1:  Yeah  /
+sd          B.69 utt2: that's another thing  /
+sd          B.69 utt3: I have a problem with my wife, /  
+
+b          A.70 utt1:  # Yeah. # /  
+
+sd          B.71 utt1:  [ [ # she, # + {F uh, } she likes to, ] + {F um, } she doesn't like ] the beef dishes.  /
+sd          B.71 utt2:  She likes the chicken and fish, /  
+
+b          A.72 utt1:  # {F Uh, } yeah. # /  
+
+sd          B.73 utt1:  # {C and, }  like # I said, we always ate beef and, {F uh, } pork,   
+
+b          A.74 utt1:  # {F Oh, } yeah. # /  
+
++          B.75 utt1:  # {D you know, } # a lot,  /
+%          B.75 utt2: {C so } <music>. -/  
+
+ba          A.76 utt1:  I know,  /
+sd          A.76 utt2: my husband did too <throat_clearing>.   /
+sd          A.76 utt3: His parents are Austrian  /
+sd          A.76 utt4: {C and } they, {F uh, } always made sure they had a lot of meat at the table <laughter>. /  
+
+b          B.77 utt1:  {F Oh } yeah,  /
+sv          B.77 utt2: red meat, plenty of good red meat. /  
+
+aa          A.78 utt1:  Yeah,  /
+aa^r          A.78 utt2: yeah,  /
+aa^r          A.78 utt3: yeah.  /  
+
+sd          B.79 utt1:  My dad could eat, [ a, +  a ] meal with out any vegetables at all. /  
+
+ba          A.80 utt1:  {F Oh, } my gosh. /  
+
+sd          B.81 utt1:  {C And, }  {F uh, } Susan's, {D you know, } they had, {D you know } meatless meals, {D you know. } /  
+
+b          A.82 utt1:  # Yeah,  /
+b^r          A.82 utt2: yeah. # /  
+
+sd          B.83 utt1:  # My dad # wouldn't know what to do. /  
+
+ba          A.84 utt1:  {F  Oh, } gosh,  /
+%          A.84 utt2: {C so } do you, -/  
+
+sd          B.85 utt1:  Course, she grew up Catholic  /
+%          B.85 utt2: {C so } {D you know, } [ they, +   
+
+%          A.86 utt1:  # {F Oh, } they did the, # -/  
+
++          B.87 utt1:  # they ] sort of come # with the, - /
+sv          B.87 utt2: there's a certain amount of meatless meals you have to have <TV> <laughter>. /  
+
+aa          A.88 utt1:  That you do,  /
+aa          A.88 utt2: right,  /
+aa          A.88 utt3: right,  /
+sv          A.88 utt4: that's just part of it. /  
+
+b          B.89 utt1:  Uh-huh. /  
+
+b          A.90 utt1:  Yeah,  /
+sd          A.90 utt2: [ we didn't, + my family didn't, ]  /
+sd          A.90 utt3: {C but } when I got into the vegetarian cooking we got kind of used to that,  /
+sd          A.90 utt4: {C but } my husband always did it kind of grudgingly,  /
+%          A.90 utt5: he never, -/  
+
+b          B.91 utt1:  # Uh-huh. # /  
+
+sd          A.92 utt1:  # There # was dishes that he really enjoyed, eating. /  
+
+b          B.93 utt1:  Uh-huh. /  
+
+sd          A.94 utt1:  [ Ther-, +  there ] were several things that he liked  /
+sd          A.94 utt2: {C but } it never was really, something that he would have chosen.  /
+sd          A.94 utt3: It's just that I cooked  /
+sd          A.94 utt4: {C so } he had to put up with it <laughter>. /  
+
+b          B.95 utt1:  Right. /  
+
+sd          A.96 utt1:  [ {C So, } +  {C but } ] there was one thing that he couldn't stand  /
+sd          A.96 utt2: {C and } that was soybeans.  /
+sd          A.96 utt3: I tried it like once or twice  /
+sd          A.96 utt4: {C and } he just could not eat it,  /
+%          A.96 utt5: {C so } I never, - /
+%          A.96 utt6: I had, - /
+sd          A.96 utt7:  I was limited.  /
+sd          A.96 utt8: I had to make vegetarian meals without using soy beans,  /
+%          A.96 utt9: {C but. } -/  
+
+b          B.97 utt1:  Yeah,  /
+sv          B.97 utt2: it's hard to get a protein content up then <laughter>. /  
+
+aa          A.98 utt1:  Yeah,  /
+aa^r          A.98 utt2: yeah.  /
+aa          A.98 utt3:  That's true <throat_clearing>  <children>. /  
+
+b          B.99 utt1:  Yeah,  /
+sd          B.99 utt2: [ I like, +  I like ] them every now and then for a change,  /
+sv          B.99 utt3: [ ye-, + ] it's nice. /  
+
+aa          A.100 utt1:  Yeah,  /
+sv          A.100 utt2: some of the stuff is good,   /
+sd          A.100 utt3: {C but } [ it just, +  it ] was a tremendous amount of cooking <throat_clearing>.  /
+sv          A.100 utt4:  {C Because } you do have to make sure you have the right combinations of different proteins to make sure they're complete, /  
+
+b          B.101 utt1:  # Uh-huh. # /  
+
+sd          A.102 utt1:  # {C and } # we had little kids at the time, {D you know, }  /
+sd          A.102 utt2: when I was home with them, and [ it, + it ] was just so much cooking,  /
+sd          A.102 utt3: [ I couldn't, + I don't ] like to cook. /  
+
+x          B.103 utt1:  # <Laughter>. #   
+
+sd          A.104 utt1:  # {C And } # I'm not really that great at it  /
+sd          A.104 utt2: {C so } it just turned out to be [ [ too much of a, + too much, ] + <throat_clearing>  too much ] cooking.  /
+ad          A.104 utt3: {C So, }  <<pause>> {D well, } I guess I'll let you get back to feeding your little one there. /  
+
+ar          B.105 utt1:  No, {F uh, }  /
+sd          B.105 utt2: he's all done. /  
+
+qy^d          A.106 utt1:  He's set,  /
+%          A.106 utt2: {F oh } okay. /  
+
+ny          B.107 utt1:  Yeah,  /
+ny^r          B.107 utt2: yeah,  /
+sd^e          B.107 utt3: I set him down. /  
+
+bk          A.108 utt1:  Okay.  /
+qy          A.108 utt2: Do you like to bake at all,  /
+qrr          A.108 utt3: {C or } [ do you, +  do you ] get into [ that's, + that, ] /  
+
+ny          B.109 utt1:  Yeah,  /
+sd^e          B.109 utt2: we used to do that, {F um, }  /
+sd          B.109 utt3: my mom, used to go crazy, every Sunday, until my dad like blew up, {D you know } <laughter>. /  
+
+b          A.110 utt1:  Yeah <laughter>. /  
+
+sd          B.111 utt1:  [ Af-, + after  ] he gained about eighty pounds after coming back from the Navy, she stopped doing it. /  
+
+x          A.112 utt1:  <Laughter>.   
+
+sd          B.113 utt1:  {C But, }  {F um, } she used to have, {D you know, } two dozen sticky buns, three bread rolls, {D you know, } every week. /  
+
+b          A.114 utt1:  # Really,  /
+b          A.114 utt2: no kidding. # /  
+
+sd          B.115 utt1:  # {C And, }  {F um, } the # sticky buns, of course, would last, {D you know } three or four days  /
+sd          B.115 utt2: {C and } that would be it. /  
+
+b          A.116 utt1:  Yeah,  /
+b          A.116 utt2: then be gone.  /
+ba          A.116 utt3: I know,  /
+sv          A.116 utt4: that's the thing about baking.  /
+sd          A.116 utt5: [ [ I used to, + I, ] + I don't mind ] baking at all  /
+sd          A.116 utt6: {C and } [ I, +  I ] can do a pretty good pie,  /
+sd          A.116 utt7: we have this pie crust recipe in our family <children> that my grandmother gave my mother  /
+sd          A.116 utt8: {C and } my mother taught me how to make it. /  
+
+b          B.117 utt1:  # Uh-huh. # /  
+
+sd          A.118 utt1:  # [ {C And, } # {F um, } {C so } + ] I can make a pretty mean pie,  /
+sv          A.118 utt2: {C but, }  {F um, } I don't do it anymore because it's just too fattening.  /
+sd          A.118 utt3: We had the same kind of problem.  /
+sv          A.118 utt4: If you make homemade bread, /  
+
+b          B.119 utt1:  # Uh-huh <baby_crying>. # /  
+
+sv          A.120 utt1:  # {E I mean, } # [ forge-, + ] it's supposed to save you money  /
+sv          A.120 utt2: {C but } you eat like three times the amount of bread that you usually eat <laughter>.  /
+sv          A.120 utt3:  It tastes so good. /  
+
+aa          B.121 utt1:  Uh-huh,  /
+sd          B.121 utt2: [ we always, + we had ] that bread that was, {F uh, } {F um,  } - /
+qy          B.121 utt3: you ever seen [ the, + the ] starter bread,  /
+sd          B.121 utt4: I can't remember what it's called,  /
+sd          B.121 utt5: they call it the, {F um, } Amish bread here  /
+%          B.121 utt6: {C but, } -/  
+
+ny          A.122 utt1:  # {F Oh, } {F uh, } yeah. # /  
+
+%          B.123 utt1:  # {F uh, } it's made # with, - /
+sd          B.123 utt2: you just [ le-, + leave ] it out, /  
+
+b          A.124 utt1:  # Yeah. # /  
+
+sd          B.125 utt1:  # {D you # know, }  {C and } you let it spoil sort of. /  
+
+ny          A.126 utt1:  Yeah,  /
+ny          A.126 utt2: uh-huh,  /
+sd^e          A.126 utt3: [ I've heard of that, + I've heard of it, ]  /
+sd          A.126 utt4:  {C but } I've never done it. /  
+
+b          B.127 utt1:  {D You know, } yeah. /  
+
+ba          A.128 utt1:  That sounds pretty good. /  
+
+aa          B.129 utt1:  Yeah,  /
+sd          B.129 utt2: it tasted pretty good, really. /  
+
+b          A.130 utt1:  Yeah,  /
+b^r          A.130 utt2: {F oh } yeah. /  
+
+sd          B.131 utt1:  {C But, }  {F uh, } it's the sort of thing where you let a portion of it go bad  /
+sd          B.131 utt2: {C and  then } you add all these other ingredients to it,  /
+%          B.131 utt3: {C but. } -/  
+
+b          A.132 utt1:  Yeah,  /
+sd          A.132 utt2: {C and then } [ you sa-, + you make ] the bread  /
+sd          A.132 utt3: {C but } you pinch off a portion, or save a portion of it for the next time, or something. /  
+
+b          B.133 utt1:  Yeah  /
+b          B.133 utt2:  right,  /
+sd          B.133 utt3: [ ye-, +  you ] take some of the batter out and give it to someone else  /
+sd          B.133 utt4: {C and } that's how they continue the thing. /  
+
+b          A.134 utt1:  Yeah,  /
+b^r          A.134 utt2: yeah,  /
+b^r         A.134 utt3: yeah.  /
+%          A.134 utt4:  I know, [ it sounds, + it always sounded, ] - /
+qh          A.134 utt5: I don't know how safe that was <laughter>. /  
+
+aa          B.135 utt1:  Yeah,  /
+sd          B.135 utt2: I know it sounded strange to me too,  /
+sv(^q)          B.135 utt3: I figure, {D well } you're baking it  /
+%          B.135 utt4: {C so, } {D you know, } yeah. /  
+
+aa          A.136 utt1:  Yeah  /
+aa          A.136 utt2: that's true,  /
+sv          A.136 utt3: [ that's, +  that's ] got to kill anything I guess,  /
+%          A.136 utt4: {C but. } -/  
+
+b          B.137 utt1:  # Okay,  /
+fc          B.137 utt2: {D well, } I'll talk to you later. # /  
+
+fc          A.138 utt1:  # All right,  /
+fc          A.138 utt2: {D well, } yeah  /
+fc          A.138 utt3: thanks. # /  
+
+fc          @@B.139 utt1:  Where are you calling from by the way, Texas. /  
+
+fc          A.140 utt1:  Plano. /  
+
+fc          B.141 utt1:  Where? /  
+
+fc          A.142 utt1:  Yeah,  /
+fc          A.142 utt2: Plano, in Texas. /  
+
+fc          B.143 utt1:  Plano,  /
+fc          B.143 utt2: okay. /  
+
+fc          A.144 utt1:  Are you in Texas? /  
+
+fc          B.145 utt1:  No,  /
+fc          B.145 utt2: Falls Church, Virginia. /  
+
+fc          A.146 utt1:  No kidding,  /
+fc          A.146 utt2: gosh it sounds so close. /  
+
+fc          B.147 utt1:  Yeah,  /
+fc          B.147 utt2: I know we've got a good connection,  /
+fc          B.147 utt3: must be a, {F uh, } T I connection,  /
+%          B.147 utt4: yeah. /  
+
+fc          A.148 utt1:  Yeah,  /
+fc          A.148 utt2: [ I thought for sure, + I thought for sure ] you were in Dallas or  something. /  
+
+fc          B.149 utt1:  Yeah,  /
+fc          B.149 utt2: [ I, + I ] talked to so many people from Texas  /
+fc          B.149 utt3: that's where practically everybody I talked to is from. /  
+
+fc          A.150 utt1:  Yeah,  /
+fc^r          A.150 utt2: yeah. /  
+
+fc          B.151 utt1:  I think that's why they call me because they want to get people outside the state, {D you know. } /  
+
+fc          A.152 utt1:  Yes  /
+fc          A.152 utt2: [ they're doi-, + they're trying ] to get all different amount of people.  /
+fc          A.152 utt3: {D Well } gee, my husband is from Richmond  /
+fc          A.152 utt4: {C and } I went to U V A,  /
+fc          A.152 utt5: that's where we went. /  
+
+fc          B.153 utt1:  {F Oh, } {F oh } really. /  
+
+fc          A.154 utt1:  Yeah,  /
+fc^r          A.154 utt2: yeah. /  
+
+fc^m          B.155 utt1:  Yeah  /
+fc          B.155 utt2: [ I went to school at, + {F uh, } {D well } I went to school at ] West Virginia University, /  
+
+fc          A.156 utt1:  # {F Oh } you did,  /
+%          A.156 utt2: yeah. # /  
+
+fc          B.157 utt1:  # {C but } I grew up # right here in Falls Church, right outside D C. /  
+
+fc          A.158 utt1:  Yeah,  /
+fc          A.158 utt2: boy we'd like to get back over to the East Coast,  /
+fc          A.158 utt3: I'll tell you. /  
+
+x          B.159 utt1:  <Laughter>.   
+
+fc          A.160 utt1:  It's nice over there. /  
+
+fc          B.161 utt1:  Yeah,  /
+fc          B.161 utt2: it's sort of funny,  /
+fc          B.161 utt3: I have people that want to go to Dallas. /  
+
+fc          A.162 utt1:  {F Oh, } really. /  
+
+fc          B.163 utt1:  Yeah,  /
+fc          B.163 utt2: [ one of my, + one of my ] friends here,  he was just talking how he's thinking of leaving the company and going to Dallas,  /
+%          B.163 utt3: saying how, -/  
+
+fc          A.164 utt1:  {F Oh, } yeah,  /
+fc          A.164 utt2: no kidding.  /
+fc          A.164 utt3: {D Well, } things are doing pretty good down here,  /
+fc          A.164 utt4: [ [ we, + we were, ] + we tried ] to move over to Raleigh last year  /
+fc          A.164 utt5: {C and } [ there just was, + there was ] [ so little, + such little ] going on in Raleigh, {D you know, }  /
+fc          A.164 utt6: you couldn't get a job to save yourself over there  /
+fc          A.164 utt7: {C so } we decided we'll try in a couple of years,  /
+%          A.164 utt8: [ {C but, }  + {C but } ] business is, -/  
+
+fc          B.165 utt1:  Yeah,  /
+fc^r          B.165 utt2: yeah.  /
+fc          B.165 utt3: We were saying we could sell our house here and buy one down there cash, {D you know. } /  
+
+fc          A.166 utt1:  Yeah,  /
+fc          A.166 utt2: [ you probably could, + you probably could, ] /  
+
+fc          B.167 utt1:  {D Well } Northern Virginia.  /
+fc          B.167 utt2:  Okay. /  
+
+fc^m          A.168 utt1:   Okay,  /
+fc          A.168 utt2: {D well } it's good talking to you. /  
+
+fc          B.169 utt1:  Nice talking to you too. /  
+
+fc          A.170 utt1:  Take care. /  
+
+fc          B.171 utt1:  Bye, bye, /  
+
+fc          A.172 utt1:  Bye. / 

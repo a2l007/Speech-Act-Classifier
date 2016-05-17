@@ -1,0 +1,210 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4082_1534_1547
+TOPIC#:		349
+DATE:		920307
+TRANSCRIBER:	SS
+UTT_CODER:	TC
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:  	None.
+
+===========================================================================
+  
+
+sd          A.1 utt1: {F Uh, } I get most of my news {F uh, } from newspapers really.  /
+sd          A.1 utt2: I read the daily newspaper, {F uh, } the HOUSTON CHRONICLE  /
+sd          A.1 utt3: {C and } sometimes I'll read {D like } the, {F uh, } WALL STREET or the NEW YORK TIMES.  /
+sd          A.1 utt4: I don't subscribe to either,  /
+sd          A.1 utt5: {C but } sometimes I get a hold of copies of it.  /
+qo          A.1 utt6: {F Uh, } how about you?  /
+qr          A.1 utt7: Do you, {F uh, } mostly --   
+
+ny          @B.2 utt1:  Yes. /  
+
++          A.3 utt1:  -- get things from T V  or (( )). /  
+
+sd          B.4 utt1: I actually get most of my news coverage off {F uh, } computer networks.  /
+sd          B.4 utt2: However, I do also watch television news, {F uh, } usually in the morning once a day  /
+sd          B.4 utt3: {C and } I read the front page of the WALL STREET JOURNAL --   
+
+b          A.5 utt1:  Oh. /  
+
++          B.6 utt1:  -- most every day. /  
+
+sv          A.7 utt1: {F Oh } that's interesting.  /
+sd          A.7 utt2: You said computer networks.  /
+qw          A.7 utt3: {F Uh, } [ what, + {F uh, } what ] sort.  /
+sd          A.7 utt4: # I am fairly knowledgeable of (( )) <<very faint>>. # -/  
+
+sd          B.8 utt1: # {F Uh } [ {D well, } + {D well } ] DOW JONES for example [ have the, + cause the ] # --   
+
+bk          A.9 utt1: {F Uh, } okay.  /
+sv          A.9 utt2: That's interesting. /  
+
++          B.10 utt1: -- {F uh, } news wire - /
+sd          B.10 utt2: {C and } it's picked up and actually available, {F uh, } at my office,  /
+sd          B.10 utt3: {C so, } it's, no fee, or subscription either to read at my leisure  /
+sd          B.10 utt4: {C and } it's sort of by category.  /
+sd          B.10 utt5: For example --   
+
+b          A.11 utt1:  Oh.  /
+%          A.11 utt2:  I-, <noise> -- -/  
+
++          B.12 utt1:  -- so I can read a certain business or topics. /  
+
+qy          A.13 utt1:  -- [ is it, +   
+
+x          B.14 utt1:  <Inhaling>.   
+
++          A.15 utt1: is it ] the A P news wire  /
+qrr          A.15 utt2: {C or } is it something that is, {F uh, } a little bit different from that? /  
+
+sd          B.16 utt1: {D Well, } {F uh, } it's similar to that,  /
+sd          B.16 utt2: {C but } it's DOW JONES, <noise> which is, {F uh, } the WALL STREET JOURNALS news wire. /  
+
+bk          A.17 utt1: {F Uh, } okay.  /
+sv          A.17 utt2: {C So, } [ that's + that's ] interesting.  /
+bk          A.17 utt3: Okay.  /
+%          A.17 utt4: Yeah,  /
+sd          A.17 utt5: [ I've had, + I had ] access in the past to, {F uh, } <noise> {F uh, } the A P news wire  /
+sv          A.17 utt6: {C and } I thought [ that was + that was ] [ pretty + a pretty ] good way to get news.  /
+sd          A.17 utt7: {F Uh, } I've never used the DOW JONES news wire  /
+%          A.17 utt8: {C but, } {F uh, } - /
+%          A.17 utt9: yeah  /
+%          A.17 utt10: it, {F uh, } - /
+qy          A.17 utt11: [ do you get any, + {F uh, } do you read any ] news magazines or anything like that for sort of {D like } a broader, {D like } more long term analytical sort of approach? /  
+
+ng          B.18 utt1: {F Uh, } {D well } actually not.  /
+sd          B.18 utt2: {F Uh, } I do, {F uh, } follow, {F uh, } {F uh, } {F uh, } - /
+sd          B.18 utt3: I don't know [ how to + how to ] describe it <noise>  /
+sd          B.18 utt4: {C so } I'll say a religious newspaper [ which, + which ] talks about issues that are relevant to me in a more broad sense.  /
+sd          B.18 utt5: It's a weekly --    
+
+b          A.19 utt1:  Yeah <noise>. /  
+
++          B.20 utt1: -- [ but, + {F uh, } but ] [ not, + {F uh, } not ] like BUSINESS WEEK or NEWS WEEK or one of those kinds of things.  /
+sv          B.20 utt2: I'd like to say [ that + however, {F uh, } that ] I'm overwhelmingly disappointed with the media in general except for the raw news wires <noise>. /  
+
+qw          A.21 utt1: In what way?  /
+qr          A.21 utt2: [ In {D like, } + in sort of {D like, } ] {F uh, } [ qual-, + {F uh, } quality ] or sort of an orientation in terms of {D like, } view point or the way the news is presented or whatever? /  
+
+sv          B.22 utt1: <Inhaling> {F Uh, } [ I think that it, + I think that it ] has to do with, {F uh, } - /
+h          B.22 utt2: I personally think, {F uh, } - /
+sv          B.22 utt3: [ I, + I ] have a problem with their viewpoint  /
+sv          B.22 utt4: {C and } I personally think [ [ that, {F uh, } ther-, -- +   
+
+b          A.23 utt1: # Yeah.  /
+sv          A.23 utt2: {D Well } you won't offend me.  /
+ad          A.23 utt3: {C So } go ahead and say <laughter>. # /  
+
++          B.24 utt1: -- # that there's a strong bia-, ] + there's a strong bias ] # in the media. /  
+
+b          A.25 utt1: Yeah.  /
+bf          A.25 utt2: Like a liberal type of bias. /  
+
+aa          B.26 utt1: Yeah.  /
+aa          B.26 utt2: Absolutely.  /
+qh          B.26 utt3: {F Uh, } after all, [ who, + who ] writes.  /
+sd          B.26 utt4: People who are journalist who are trained to write  /
+sv          B.26 utt5: {C and } [ they're, + that's ] [ a liberal, + {F uh, } a liberal field ] --   
+
+b          A.27 utt1:  Yeah. /  
+
++          B.28 utt1: -- at least from academia  /
+sd          B.28 utt2: {C and, } {F uh, } the other thing that I always notice is that whenever they write about something that I'm an expert in, I find their descriptions to be wrong -- /  
+
+b          A.29 utt1:  Yeah.  /
+b^r          A.29 utt2:  Yeah. /  
+
+%          B.30 utt1:  -- {C and } it, -/  
+
+sv          A.31 utt1: [ They, + they ] generally make mistake on anything technical at least <<sounds like>>. /  
+
+aa          B.32 utt1: That's right.  /
+aap          B.32 utt2: {D Well, } even if it's not technical. If it's, {F uh, } some social thing or whatever. It doesn't matter.  /
+sv          B.32 utt3: If I am an expert in it, they usually make mistakes which makes me [ believe + think ] I'm not expert in it.  /
+sv          B.32 utt4: They're telling me lies. /  
+
+b          A.33 utt1: Yeah.  /
+b^r          A.33 utt2: Yeah.  /
+qy          A.33 utt3: [ Do you, + by mistakes, do you ] mean just like honest mistakes  /
+qrr          A.33 utt4: {C or } do you think they are deliberate sorts of things? /  
+
+sv          B.34 utt1: {F Uh, } I think both.  /
+sd          B.34 utt2: {F Uh, } by deliberate [ I, + {F uh, } I ] mean [ mistake, + mistakes ] of omission [ or, + {F uh, } <noise> or, ] {F uh, } biased toward [ a particular view point + --   
+
+b          A.35 utt1:  Yeah.  /
+b^r          A.35 utt2:  Yeah. /  
+
++          B.36 utt1:  -- a particular liberal --    
+
+b^r          A.37 utt1:  Yeah. /  
+
++          B.38 utt1:  -- view point ] that they have. /  
+
+b^r          A.39 utt1:  Yeah. /  
+
+sd          B.40 utt1: {D So, } {F uh, } {F uh, } to give you an example, {F uh, } we will go out of the printing media.  /
+sv          B.40 utt2: I know of cases where, {F uh, } we have one television media where they will show <noise> clippings from one event and describe another event but, with [ the + the ] attempt to give you the impression that what they're talking about is the same thing they are showing you.   
+
+%          A.41 utt1:  {F Huh. } /  
+
++          B.42 utt1:  Which is sort of like a deliberate bias.    
+
+ba          A.43 utt1:  {F Huh. }  That's disturbing. /  
+
++          B.44 utt1: [ Which is + which is ] rather disturbing.  /
+sd          B.44 utt2: # {E I mean } he does that. # /  
+
+sd          A.45 utt1: # I haven't # really noticed them doing that,  /
+h          A.45 utt2:  {C but } whatever,  /
+sd          A.45 utt3: again I  don't watch T V news that much now.  /
+sd          A.45 utt4: If I had access to C N N, I would watch T V news more.  /
+sd          A.45 utt5: {F Uh, } [ I don't + {D you know, } {C but } I don't ] usually. /  
+
+b          B.46 utt1: Yeah,  /
+sd          B.46 utt2: I don't have access either. Although, I did at one time  /
+%          B.46 utt3: {C and } it was, - /
+sd          B.46 utt4: I did during the Gulf War <noise>  /
+sv          B.46 utt5: {C and } it was addictive.  /  
+
+b          A.47 utt1: Yeah.  /
+qy          A.47 utt2: [ Did you, + did you ] think that [ C N N, + {D well, } the Gulf War coverage ] would be kind of, {F uh, } an abnormality?  /
+h          A.47 utt3: I just wonde-, I guess.  /
+qw^d          A.47 utt4: <noise> I would be curious to know what you thought as to how {D like } {D say } C N N T V news compared to the three networks.  /
+qy^d          A.47 utt5: {F Uh, } {D you know } whether you thought it was more of a biased or whatever  /
+sv          A.47 utt6: {C but } [ I, + I ] guess you wouldn't.  /
+sv          A.47 utt7: You probably, - /
+sv          A.47 utt8: if you just watched it during the Gulf War, that probably [ wouldn't + wouldn't ] tell you much. /  
+
+b          B.48 utt1: Yeah,  /
+sv          B.48 utt2: {D well } during that small sample, I would think that everyone was [ just about, + just about ] the same, except the three networks, (( )) radio television programming. /  
+
+b          A.49 utt1:  Yeah. /  
+
+sd          B.50 utt1: {C So, } if at a particular time, you wanted to get the latest and greatest news --   
+
+b          A.51 utt1:  Yeah. /  
+
++          B.52 utt1: -- you could do that by, {F uh, } turning on C N N  /
+%          B.52 utt2: {C and } you, -/ 

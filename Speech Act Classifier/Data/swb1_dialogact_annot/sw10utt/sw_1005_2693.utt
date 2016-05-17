@@ -1,0 +1,662 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2693_1043_1179
+TOPIC#:		316
+DATE:		910426
+TRANSCRIBER:	JKP
+UTT_CODER:	mlg
+DIFFICULTY:	3
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        Conversation dominated by Speaker B
+
+============================================================================
+  
+
+o       @A.1 utt1: All right,  /
+ad          @A.1 utt2: do you want to start out? /  
+
+aa     B.2 utt1:  {D Well, } it'll be real easy for us, /  
+
+x          A.3 utt1:  <Cough>  <<sounds like a light cough>>.   
+
+sd          B.4 utt1:  {C because } [ we're both, + my husband and I are  ] vegetarians. /  
+
+qy          A.5 utt1:  {F Oh, } are you really? /  
+
+ny          B.6 utt1:  {C So, } yeah.  /
+sd^e          B.6 utt2:  {C So } [ that's + ] the first thing we look for,   
+
+bk          A.7 utt1:  # Oh.  # /  
+
++          B.8 utt1:  # is # if we can eat there or not. /  
+
+qy          A.9 utt1:  Are you strict vegetarians? /  
+
+ng          B.10 utt1:  We're not vegan vegetarians.  /
+sd          B.10 utt2:  [ We do, + we're  ] ovolacto.  /
+sd          B.10 utt3:  We do eat, {F uh, } eggs [ and, + and  ] milk products. /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1:  I used to be a complete vegan vegetarian,    
+
+b          A.13 utt1:  # Uh-huh. # /  
+
++         B.14 utt1:  # where # I didn't eat any animal products at all. /  
+
+b          A.15 utt1:  Uh-huh. /  
+
+sd          B.16 utt1:  {C But, } {F um, } [ it  was, + it's ] really difficult in the area if you don't have,  {D you know, } the products that you can get.  /
+sd          B.16 utt2:  {C And } if you go out to dinner,  [ there's virtually, + {D you know, }  there's ] not a whole lot of things you can get. /  
+
+ sv         A.17 utt1:  There's very few places [ that you, + I'll bet that you  ] could, {F uh, } -/  
+
+b          B.18 utt1:  Yeah.  /
+sv          B.18 utt2:  I think maybe if you were somewhere like California, where they have a lot more vegetarian restaurants --   
+
+b          A.19 utt1:  Uh-huh. /  
+
++          B.20 utt1:  -- and stuff. - /
+ sd         B.20 utt2: {C But } here, basically, you go to an Italian restaurant or you go to a Mexican restaurant,   
+
+b          A.21 utt1:  # Uh-huh. # /  
+
++          B.22 utt1:  # {D you # know, } [ where you can get foods that, + {D you know, } where  ] you have a little bit more variety as far as the pastas or [ the -- +   
+
+b          A.23 utt1:  Uh-huh. /  
+
++          B.24 utt1:  -- the ] corn meal, {D you know, }   
+
+b          A.25 utt1:  # Yeah. # /  
+
++          B.26 utt1:  # or # something. /  
+
+sd          A.27 utt1:  {C And } you --   
+
+%@          B.28 utt1:  {C But, }   
+
++          A.29 utt1:  -- wouldn't have the meat products in that  /
+%          A.29 utt2: {C and } some. -/  
+
++@          B.30 utt1:  Yeah, /  
+
+b          A.31 utt1:  # Yeah. # /  
+
+b          B.32 utt1:  # yeah,  /
+sv          B.32 utt2: # you have to watch that too.  /
+sd          B.32 utt3:  [ All, + {D you know, } some  ] of the restaurants here they will, {D you know, } l-, - /
+sd          B.32 utt4: you can ask them and they'll tell you whether or not they use {D like } lard or,    
+
+b          A.33 utt1:  # Uh-huh. # /  
+
++          B.34 utt1:  # {D you # know, } animal fat to cook with. /  
+
+ b         A.35 utt1:  Uh-huh. /  
+
+%          B.36 utt1:  {C So, } {C but, } {C so } [ that's, + that  ] - /
+sd          B.36 utt2: we don't really eat out too much. /  
+
+b          A.37 utt1:  Yeah. /  
+
+sd          B.38 utt1:  [ We, + we  ] tend to eat at home.  /
+sd          B.38 utt2:  {C And } actually, {D you know, } I think [ [ [ we, + we,  ] + we  ] get a ha-, + we have a healthier ] diet than the average person. /  
+
+b          A.39 utt1:  Uh-huh.  /
+qw          A.39 utt2:  How long have you been doing this? /  
+
+sd          B.40 utt1:  {F Um, } I've been a vegetarian for, {F uh, } two years now.  /
+sd          B.40 utt2:  My husband has been one for, {F oh, } just over a year now. /  
+
+b          A.41 utt1:  Uh-huh. /  
+
+%          B.42 utt1:  {C And, } {F uh, } {C so, } -/  
+
+qy          A.43 utt1:  Do you feel that it has improved the way you feel? /  
+
+na          B.44 utt1:  Definitely.  /
+
+bh          A.45 utt1:  Do you think? /  
+
+sv       B.46 utt1:  {C And } [ it, + it  ] makes you more aware of what you're eating. /  
+
+b          A.47 utt1:  Uh-huh. /  
+
+sv           B.48 utt1:  {C Because } [ you, + you  ] have to be. /  
+
+b          A.49 utt1:  Uh-huh. /  
+
+sv           B.50 utt1:  {E I mean, } [ you, + you  ] k-, - /
+sv           B.50 utt2: I think [ [ you, + you,  ] + you  ] balance the foods, {F uh, } {D you know, }  /
+sv           B.50 utt3: you're more aware of what nutrient, {D you know, } value each thing has,    
+
+b          A.51 utt1:  # Uh-huh. # /  
+
++          B.52 utt1:  # and # minerals.  /
+sv           B.52 utt2: {C And } you're just more aware of food [ for energy, +    
+
+b          A.53 utt1:  # Uh-huh. # /  
+
++          B.54 utt1:  # for # energy sake. ] /  
+
+sd          A.55 utt1:  I always thought it would be hard to figure what to eat if you were a vegetarian.  /
+%          A.55 utt2: [ How, + how,  ] -/  
+
+sd          B.56 utt1:  {D Well, } that's just it,  /
+sv           B.56 utt2: [ you, + you  ] do have to figure it out.    
+
+b          A.57 utt1:  Yeah. /  
+
++          B.58 utt1:  [ And, + and, ] {D you know, } [ to + ] get proteins and things.  /
+sd          B.58 utt2: {C And } when I was a vegan, it's, {D you know, } - /
+sv           B.58 utt3: you have to consider calcium and iron and --   
+
+b          A.59 utt1:  Uh-huh. /  
+
++          B.60 utt1:  -- things like that  [ you, + you're  ] not even getting through your milk products, /  
+
+b          A.61 utt1:  # Uh-huh. # /  
+
+sv           B.62 utt1:  # your # egg products.    
+
+^2          A.63 utt1:  {C Because } you don't eat any of those things. /  
+
+
++           B.64 utt1:  If you don't eat any of those,  /
+sv          B.64 utt2: {C but } actually you can get everything you need through vegetables.  /
+sv          B.64 utt3: {E I mean, }  [ there are tra-, +  [ there are, +  there are, ] ] - /
+sv          B.64 utt4: you actually you can get more calcium through leafy green vegetables than you can get through milk products. /  
+
+bh           A.65 utt1:  Is that right? /  
+
+sv          B.66 utt1:  A lot of people don't know that. /  
+
+b          A.67 utt1:  Uh-huh. /  
+
+sv          B.68 utt1:  {D Well, } the thing is that milk products, - /
+sv          B.68 utt2: our bodies [ don't, + {F uh, } don't,  ] {F uh, } - /
+%          B.68 utt3: the lactose, - /
+sv          B.68 utt4: that kind of milk, it doesn't, -/  
+
+b          A.69 utt1:  # Uh-huh. # /  
+
+%          B.70 utt1:  # our, # - /
+sv          B.70 utt2: [ we, + we  ] tend to, {F uh, } - /
+qw           B.70 utt3: what's it called?  /
+sv           B.70 utt4: We don't synthesize [ the, + the  ] calcium the --   
+
+sv          A.71 utt1:  [ We, + we  ] throw more of it [ off --   
+
++          B.72 utt1:  -- same way. /  
+
++          A.73 utt1:  -- our bod-, + out,   {E in other words. } ] /  
+
+b          B.74 utt1: Yeah.  /
+sv          B.74 utt2:  [ We, + we  ] slough some of it,  /
+sv          B.74 utt3: [ [ we, + we  ] send, + we send  ] some of it out because [ it, + our body  ] doesn't accept some of it. /  
+
+b          A.75 utt1:  Uh-huh. /  
+
+sv          B.76 utt1:  {C So } [ we're not utilizing, + we're,  ] - /
+sv          B.76 utt2: [ when it, + when it  ] gets rid of some of  that, {F um, } that we can't use, [ it get rids, + it gets rid  ] of some of the calcium.   
+
+b          A.77 utt1:  Uh-huh. /  
+
+ +         B.78 utt1:  Whereas when we eat, say broccoli, you utilize all of it. /  
+
+b          A.79 utt1:  Uh-huh. /  
+
+%          B.80 utt1:  You utili-, - /
+sv          B.80 utt2: [ your, + your  ] body accepts --   
+
+^2          A.81 utt1:  All that's in it. -/  
+
++          B.82 utt1:  -- all of the broccoli. /  
+
+b          A.83 utt1:  Uh-huh. /  
+
+sv          B.84 utt1:  {C So, } [ it's like, +   
+
+qw          A.85 utt1:  # Why? # /  
+
++          B.86 utt1:  # it's # like,  ] {D say, } a person using vitamins, as opposed to, {F uh, } vitamin supplements as opposed to eating regular food. /  
+
+b          A.87 utt1:  Uh-huh. /  
+
+sv          B.88 utt1:  Your body just doesn't accept [ vitamins --   
+
+b          A.89 utt1:  Uh-huh. /  
+
++          B.90 utt1:  -- and the minerals in the, + the vitamins in,  ] {F uh, } supplements that it does in regular food, /  
+
+b          A.91 utt1:  # Uh-huh. # /  
+
+%          B.92 utt1:  # {D you # know. }  {C So, } -/  
+
+ba          A.93 utt1:  That's interesting. /  
+
+sd          B.94 utt1:  {C But } [ we both, + we both  ] feel much healthier,   
+
+b          A.95 utt1:  # Uh-huh. # /  
+
++          B.96 utt1:  # much # healthier.  /
+sd          B.96 utt2: {C And } I couldn't consider going back to eating, /  
+
+^2          A.97 utt1:  After you have been on this. -/  
+
+aa          B.98 utt1:  Yeah.  /
+sd          B.98 utt2:  {D Well, } {D now } I changed for ethical reasons. /  
+
+b          A.99 utt1:  Uh-huh. /  
+
+sd          B.100 utt1:  {C And } my husband has changed.  /
+sd          B.100 utt2: He feels more ethically about it.  /
+sd          B.100 utt3: {C But } [ he, + he  ] in the beginning, began for health reasons. /  
+
+b          A.101 utt1:  Uh-huh. /  
+
+sd          B.102 utt1:  {C But, } {F um, } now [ he, + he  ] feels like I do.  /
+sd          B.102 utt2: [ That + ] he looks at the things that he eats  /
+sd          B.102 utt3: {C and } he realizes what they are <laughter>  --   
+
+ b         A.103 utt1:  Uh-huh. /  
+
++          B.104 utt1:  -- before he eats them.  /
+sd          B.104 utt2: {C And } he,   
+
+b          A.105 utt1:  # Uh-huh. # /  
+
++          B.106 utt1:  # {D you # know, } -/  
+
+bf          A.107 utt1:  He thinks more about them, then. /  
+
+aa          B.108 utt1:  Yeah.  /
+sd          B.108 utt2:  {C Plus } he eats, - /
+ sd         B.108 utt3: [ we both think more about, + I thought more of about  ] it as far as what it was I was eating, {D you know, }   
+
+b          A.109 utt1:  # Uh-huh. # /  
+
++          B.110 utt1:  # as # a living creature. /  
+
+ b         A.111 utt1:  Uh-huh. /  
+
+sd          B.112 utt1:  {C And } now we both think a lot of {D well, } what is it we're eating in relation to what it's going to give to our bodies. /  
+
+b          A.113 utt1:  Uh-huh.  /
+sv           A.113 utt2:  {C So } you kind of have a combination. /  
+
+b          B.114 utt1:  Uh-huh. /  
+
+b          A.115 utt1:  Uh-huh.  /
+sd         A.115 utt2:  {D Well } {D see, } [ we, + I  ] live in a farming community.   
+
+b          B.116 utt1:  Uh-huh. /  
+
++          A.117 utt1:  So, of course we have a lot of animals and that type of thing raised in our area. /  
+
+sd          B.118 utt1:  {D Well, } we do too.  /
+sd          B.118 utt2: {E I mean, } I was raised in, {F um, } - /
+sd          B.118 utt3: we're in cattle country. /  
+
+b          A.119 utt1:  Uh-huh. /  
+
+sd          B.120 utt1:  {C And } people here buy a half a cow --   
+
+ b         A.121 utt1:  Uh-huh. /  
+
++          B.122 utt1:  -- and put it in their freezer, /  
+
+ b         A.123 utt1:  # {F Oh, } yeah,  /
+b          A.123 utt2: yeah. # /  
+
+sd          B.124 utt1:  # {D you know. }  {C And } # [ that's, + that's  ] the way I, - /
+ %         B.124 utt2: {C and } I, - /
+sd          B.124 utt3: believe you me it wasn't easy [ to give up <laughter>, +   
+
+ x         A.125 utt1:  # <Laughter>.  #   
+
++          B.126 utt1:  # to # give up  ] a hamburger. /  
+
+x          A.127 utt1:  <Laughter>.   
+
+sd          B.128 utt1:  [ That, + that  ] was one of my favorite foods, [ [ was, + was  ] [ a, + a,  ] + was a  ] good steak or  a hamburger. /  
+
+b          A.129 utt1:  Uh-huh. /  
+
+sv          B.130 utt1:  {C But, } {D you know, } I suppose if you really believe in something [ it's, + ]   
+
+^2          A.131 utt1:  You get adjusted to the taste. /  
+
++          B.132 utt1:  [ You, + you  ] adjust your life -- /  
+
+ b         A.133 utt1:  Uh-huh. /  
+
+sv          B.134 utt1:  -- {C because } your mind. -/  
+
+b          A.135 utt1:  Uh-huh. /  
+
+%          B.136 utt1:  [ [ You, +  your,  ] + you,  ] - /
+ sv         B.136 utt2: inside yourself [ you just, + ] it's not right. /  
+
+b          A.137 utt1:  Uh-huh. /  
+
+%          B.138 utt1:  [ {C So, } + {C but, }  ] {F um, } -/  
+
+qy^d          A.139 utt1:  {C So } you would have a little more trouble when you were looking for a dining area than what [ most -- +   
+
+ny@          B.140 utt1:  {F Oh, } yes.   
+
++          A.141 utt1:  -- most ] people would. /  
+
++@          B.142 utt1:  Yeah. /  
+
+sd          A.143 utt1:  {D Now } we wouldn't have that problem, <laughter>  because we're not vegetarians. /  
+
+qw          B.144 utt1:  {C So } what do you look for when you, -/  
+
+sd          A.145 utt1:  {F Uh, } I think the main thing that I look for is, {F uh, } cleanliness, {F uh, } {D you know, } [ the, + in the  ] appearance of the people that work there.    
+
+b          B.146 utt1:  Uh-huh. /  
+
+ +         A.147 utt1:  And the, {F uh, } quality of the food that they serve. /  
+
+qr          B.148 utt1:  [ Do you normally, + when you're traveling, do  ] you look for places that's established, [ that, + that  ] you've been to before {C or } --   
+
+ny          A.149 utt1:  Yes. /  
+
++          B.150 utt1:  -- are you willing to try new places?  /
+
+sd          A.151 utt1:  {F Oh, } we try new places  /
+%          A.151 utt2: {C but } when we, - /
+sd          A.151 utt3: a lot of times we do eat where we know. /  
+
+aa          B.152 utt1:  Yeah.  /
+sv          B.152 utt2:  Like --    
+
+%          A.153 utt1:  What, -/  
+
++          B.154 utt1:  -- a chain restaurant --    
+
+ny          A.155 utt1:  Uh-huh. /  
+
++          B.156 utt1:  -- or something. /  
+
+sd          A.157 utt1:  What the quality, - /
+sv           A.157 utt2: {C because } a lot of them are the same no matter where you stop. /  
+
+b          B.158 utt1:  Uh-huh. /  
+
+sd          A.159 utt1:  {C And, } {F uh, } we do, do  that a lot.  /
+sd          A.159 utt2: {C And } I guess I'm getting [ old, + older,  ]  /
+sd          A.159 utt3: <laughter>  also I like to be served.  <laughter>  /
+sd          A.159 utt4: I like to sit down and have my, {F uh, } order taken. /  
+
+qy^d          B.160 utt1:  As opposed to {D like } a cafeteria --    
+
+na          A.161 utt1:  Right,  /
+ny          A.161 utt2: yeah. /  
+
++          B.162 utt1:  -- kind of <<faintly>> situation?  /
+%          B.162 utt2: Yeah. /  
+
+sv          A.163 utt1:  {C So, } I suppose you'd say I, - /
+sv          A.163 utt2: {D well } [ I, + I ] don't know whether it's age or what it is.  /
+%          A.163 utt3: {C But } I have, -/  
+
+ar          B.164 utt1:  {D Well } no,  /
+sd          B.164 utt2: I don't think so.  /
+sd          B.164 utt3: I think it's just your, - /
+sd          B.164 utt4: {C because } [ I, + I  ] prefer to be waited on too.  /
+sd          B.164 utt5: I just, - /
+qh          B.164 utt6: if you're going to go out to eat, why not have the whole service,    
+
+ba          A.165 utt1:  # Yeah, # /  
+
++          B.166 utt1:  # {D you # know? } /  
+
+b          A.167 utt1:  Yeah. /  
+
+qh          B.168 utt1:  Why not get the whole, - /
+sd          B.168 utt2: I guess because we don't go out that much, /  
+
+b          A.169 utt1:  # Uh-huh. # /  
+
+sd          B.170 utt1:  # I # feel like it's a treat. /  
+
+sd          A.171 utt1:  You should [ fee-, + ] have a treat. /  
+
+ba          B.172 utt1:  Yeah. /  
+
+sd          A.173 utt1:  {C And } I like the light meals.  /
+sd          A.173 utt2:  Not all restaurants have light meals on their menu,    
+
+b          B.174 utt1:  # Uh-huh. # /  
+
++          A.175 utt1:  # {D you # know. }  /
+ %         A.175 utt2: {C And } I, -/  
+
+ b         B.176 utt1:  Oh.  /
+ qy         B.176 utt2: Light menu, you mean like cooked light or, -/  
+
+sd          A.177 utt1:  {F Uh, } L I T E, {D like, } {F uh, } {F uh, } things that aren't as heavy a meal. /  
+
+bk          B.178 utt1:  {F Oh, } I see. /  
+
+%          A.179 utt1:  It, -/  
+
+b          B.180 utt1:  # Uh-huh. # /  
+
+ sd         A.181 utt1:  # [ that, + ] # you get more, {F uh, } fruit and maybe cottage cheese or a chicken breast or things that aren't as, {F uh, } - /
+sd          A.181 utt2: they're not breaded  /
+sd          A.181 utt3: {C and } they're not fried  /
+sd          A.181 utt4: {C and } they're not, -/  
+
+^2          B.182 utt1:  Not a lot of gravy --   
+
+aa          A.183 utt1:  Yeah. /  
+
++          B.184 utt1:  -- and things like that. /  
+
+sd          A.185 utt1:  {F Uh, } {C but } it's not --    
+
+sd          B.186 utt1:  {D You know, } [ I, +   
+
++          A.187 utt1:   -- # all rest, # /  
+
++          B.188 utt1:  # I ] like those # too. /  
+
+b          A.189 utt1:  Uh-huh. /  
+
+sd          B.190 utt1:  I like those too, because, {F uh, } [ some, + seems like sometimes  ] [ it's, + ] you order a meal, you order their dinner meal, and it's like they're trying to find out how much you can eat.  /
+  %        B.190 utt2: {C Or } -- -/  
+
+ ba         A.191 utt1:  I know -- /  
+
+ %         B.192 utt1:  -- {C or } <laughter>, -/  
+
+ sd         A.193 utt1:  -- it's too much,  /
+aa          A.193 utt2: yes. /  
+
+ sv         B.194 utt1:  [ {C Or, } + {C or }  ] {D like } evidently people go in there and they're not satisfied that they'd been given enough and they complain  /
+sv          B.194 utt2: {C and } --   
+
+b          A.195 utt1:  Uh-huh. /  
+
++          B.196 utt1:  -- maybe they're afraid <laughter> that people are going to,   
+
+x          A.197 utt1:  <Laughter>.   
+
++          B.198 utt1:  complain or something. /  
+
+sd          A.199 utt1:  I don't know what it is.  /
+sd          A.199 utt2:  {C But, } {D now } for instance, [ we, + we  ] had a Scout dinner last night we went to.  /
+%          A.199 utt3: {C And } [ it's, +  it's ] - /
+sd          A.199 utt4: [ they, + {F uh, } {D well } they'll  ] serve you at your seat  /
+sd          A.199 utt5: {C and } [ u-, + usually  ] the salad bar is included,  /
+sd          A.199 utt6: {C so } you have to get up for that.  /
+sd          A.199 utt7: {C But } they have so much food that [ you, + not matter how hard you try to restrain yourself, you  ] end up eating much more than you need. /  
+
+b          B.200 utt1:  Uh-huh.  /
+ sv          B.200 utt2:  {C And } I think that's a shame. /  
+
+b          A.201 utt1:  Uh-huh. /  
+
+sd          B.202 utt1:  {E I mean, } I must admit, sometimes I do like a buffet.  /
+sd          B.202 utt2:  [ {C But, } + {F uh, } {C but }  ] I think that they just tend to make [ you, + you  ] say, {F Oh, } {D well, } I've have got all I can eat -- /  
+
+b          A.203 utt1:  Uh-huh. /  
+
+  sd         B.204 utt1:  -- [ {C or, } + {C or, }  ] {D you know, } it's one of these situations where nobody's going to restrain what you <laughter>  eat,    
+
+  b        A.205 utt1:  # Uh-huh. # /  
+
+  +        B.206 utt1:  # the # amount that you eat. /  
+
+b          A.207 utt1:  Uh-huh. /  
+
+sv          B.208 utt1:  {C And } I think [ that peo-, + that we  ] just tend to eat, overeat. /  
+
+b          A.209 utt1:  Yeah.  /
+sv           A.209 utt2:  You can eat --   
+
+b          B.210 utt1:  Yeah. /  
+
++          A.211 utt1:  -- as much as you want and you like the food, {D you know. } /  
+
+b          B.212 utt1:  Yeah. /  
+
+sv          A.213 utt1:  {F Uh, } a lot of times the foods, - /
+sv          A.213 utt2: {D like, } {F uh, }  (( Haas's ))  carry a bread bar that is just out of this world <laughter>.  /
+%          A.213 utt3: {C And, } {D you know, } -/  
+
+b          B.214 utt1:  # Yeah. # /  
+
+%          A.215 utt1:  # you # - /
+sd          A.215 utt2: {C and } soup - /
+%          A.215 utt3: {C and, } {F uh, } they just, - /
+sd         A.215 utt4: {C and } fruit and vegetables - /
+%          A.215 utt5:  {C and } [ they, + they  ] just, - /
+h          A.215 utt6: I don't know.  /
+%          A.215 utt7: Th-, - /
+%          A.215 utt8: y-, - /
+sd          A.215 utt9: I know I always overeat no matter.  /
+sd          A.215 utt10: I go with good intentions, /  
+
+x          B.216 utt1:  # <Laughter>.  #   
+
+%          A.217 utt1:  # {C but } # I, - /
+sd          A.217 utt2: somehow along the way, when I come back to my seat, I have too much.  <laughter>   /
+sd         A.217 utt3: {C And } I eat it because it's so good. /  
+
+b          B.218 utt1:  Yeah.  /
+sd          B.218 utt2:  {D Well } at least it's fruit and stuff there <laughter>. /  
+
+b          A.219 utt1:  Yeah  /
+x          A.219 utt2: <laughter>.   
+
+sv           B.220 utt1:  Maybe it's not too <laughter>  bad. /  
+
+sd          A.221 utt1:  {C And } I like reasonable prices of course, too.  /
+ sd         A.221 utt2: I don't like to, {D you know, } go to anything that's real expensive. /  
+
+b          B.222 utt1:  Yeah. /  
+
+sd          A.223 utt1:  I think that's a waste of my money. /  
+
+^2          B.224 utt1:  Just for food,   
+
+ b         A.225 utt1:  # Uh-huh. # /  
+
++          B.226 utt1:  # it # does seem like it. /  
+
+b          A.227 utt1:  Uh-huh. /  
+
+ b         B.228 utt1:  Yeah.  /
+ %         B.228 utt2:  {C But, } {F uh, } -/  
+
+%          A.229 utt1:  {D So, } -/  
+
+sd          B.230 utt1:  [ We like, + {F uh, } we do like  ] international food,  /
+%          B.230 utt2: {C so } we take, -/  
+
+qy          A.231 utt1:  Do you? /  
+
+%          B.232 utt1:  I like cu-, - /
+sd          B.232 utt2: we like Indian food, /  
+
+b          A.233 utt1:  # Uh-huh. # /  
+
+sd          B.234 utt1:  # {C and, } # {F uh, } I love Italian food, /  
+
+ b         A.235 utt1:  # Uh-huh. # /  
+
+%          B.236 utt1:  # {C and, } # {F uh, } -/  
+
+qy^d          A.237 utt1:  Chinese? /  
+
+na          B.238 utt1:  Chinese  /
+%          B.238 utt2: {C but, } -/  
+
+sd          A.239 utt1:  We've got a good Chinese restaurant in town. /  
+
+b          B.240 utt1:  Yeah. /  
+
+sd          A.241 utt1:  [ I, + I  ] really like eating there  /
+   sd       A.241 utt2: [ {C and, } + {C and }  ] you don't get stuffed on their food it seems. /  
+
+b          B.242 utt1:  Yeah. /  
+
+ sd          A.243 utt1:  {D You know, } you can eat a whole big plate of their food, and you really don't feel like you've eaten too much. /  
+
+x          B.244 utt1:  <Laughter>.   
+
+ sd          A.245 utt1:  You're full, {D you know, }  /
+ sd          A.245 utt2: you're satisfied, /  
+
+b          B.246 utt1:  # Yeah. # /  
+
+ sd          A.247 utt1:  # {C but } # you don't feel stuffed and miserable. /  
+
+b          B.248 utt1:  Yeah,  /
+b^r          B.248 utt2: yeah.  /
+sd          B.248 utt3:  That's one thing that I wish we had more of, {F uh. }  /
+sd          B.248 utt4:  {C Because } where we're from, [ it's, + it's  ] pretty limited,  /
+sd          B.248 utt5: {C and } it's, - /
+sd          B.248 utt6: most of the restaurants [ are, + {F oh, } they tend to be,  ] {D you know, } American style food. /  
+
+  b        A.249 utt1:  Uh-huh. /  
+
+  sd        B.250 utt1:  {C And } we don't have too many, w-, - /
+ sd         B.250 utt2: you have to go all the way to Dallas. /  
+
+ %         A.251 utt1:  {F Um. } /  
+
+ sd         B.252 utt1:  {C And } {C so } it really is a treat, /  
+
+ b         A.253 utt1:  # {F Uh, } yeah. # /  
+
+ %         B.254 utt1:  # {C because, } {F uh, } # -/  
+
+  b        A.255 utt1:  # Yeah. # /  
+
+ sd         B.256 utt1:  # {D you # know, } we don't make a [ trip, sixty-five, eighty, + {D you know, } sixty-five to eighty  ] <<sound fading>> miles.  Depending how far in Dallas it is. /  
+
+  b       A.257 utt1:  Yeah. / 

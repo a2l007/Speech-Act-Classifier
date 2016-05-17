@@ -1,0 +1,237 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2540_1078_1230
+TOPIC#:		314
+DATE:		910410
+TRANSCRIBER:	LAB
+UTT_CODER:	mlg
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        None.
+
+=======================================================================
+  
+
+qo          A.1 utt1:  {D Well, } Stephanie, what's your position on gun control? /  
+
+sd          @B.2 utt1:  {D Well, } on a scale of one to ten, {F uh, } being ten, no, kind of legislation and  zero being, {F uh, } total ban, I probably would lean more towards six or seven.  /
+sv          @B.2 utt2: {F Um, } I feel like a total ban on guns is just going to put the guns in the hands the criminals. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  {F Um, } I lived in Massachusetts for two years  /
+sd          B.4 utt2: {C and } they have a total ban on guns  /
+sd          B.4 utt3: {C and } I saw that, it didn't stop crime in that state. /  
+
+qr          A.5 utt1:  {D Now } was that just on handguns or was that on  rifles? /  
+
+sd          B.6 utt1: [ Any, + any ] kind of firearms. /  
+
+bh          A.7 utt1:  Really? /  
+
+ny          B.8 utt1:  Yeah.  /
+%          B.8 utt2:  {F Uh, } it's, - /
+sd          B.8 utt3: there's was a mandatory jail sentence if you were caught, {F um, } with a firearm  /
+sd          B.8 utt4: {C and } also I think there was a fine. /  
+
+qy          A.9 utt1:  {C And } that didn't help at all? /  
+
+ nn         B.10 utt1:  No,  /
+%          B.10 utt2: I don't, - /
+sd          B.10 utt3: [ the, + the ] crime is not any better or any worse,  /
+%          B.10 utt4: {E I mean } it's, -/  
+
+b          A.11 utt1:  {F Huh. } /  
+
+sd          B.12 utt1: [ I, + I ] shouldn't say I don't know if it was any worse,  /
+sd          B.12 utt2: {C but } it certainly didn't get any better. /  
+
+b          A.13 utt1:  Uh-huh.  /
+%          A.13 utt2:  I usually just, - /
+sd          A.13 utt3: I'm trying to think of, - /
+sv          A.13 utt4: I guess I would tend myself to be more towards [ the, + the, ] {D like } three,   
+
+b          B.14 utt1:  Uh-huh. /  
+
++          A.15 utt1:  where I don't think you should necessarily ban guns [ any, + by any ] means,  /
+sv          A.15 utt2: {C but } you should definitely have the character search and the seven day holding period and things along that nature, {F uh, }  /
+sv          A.15 utt3: {D you know, } you shouldn't be able to go out there and just buy one [ and, + ] {D you # know, } right off the shelf. # /  
+
+aa          B.16 utt1: # Yeah,  /
+sd          B.16 utt2: [ [ I, + # I, ] + I ] agree with that. /  
+
+%          A.17 utt1: # [ {C And  } + {C but, } ]  # -/  
+
+sv          B.18 utt1:  # [ I, + I ] think that # [ the, + the ] law [ is + ] on who can buy a gun [ are, + are ] way too lax. /  
+
+b          A.19 utt1:  Uh-huh,  /
+aa          A.19 utt2: exactly. /  
+
+%          B.20 utt1: [ I think that, + # I think that ] the, # -/  
+
+sv          A.21 utt1:  # {C And, so, } I think # that kind of control [ is, +  would be ] good, /  
+
+b          B.22 utt1:  Yeah. /  
+
+%          A.23 utt1:  {C but } the, {F uh, } - /
+sd          A.23 utt2: [ I, + {D you know, } I'm ] trying to think of how many times you make the statement  [ and, + ] just to kind of exam it a little bit  /
+sv          A.23 utt3: {C and } [ I, + I ] know that any statement in absoluteness is not necessarily true, {F uh, }  /
+sv          A.23 utt4: only the guns were in the hands of the criminals,  /
+%          A.23 utt5: {C but } how many times, - /
+sv          A.23 utt6: I guess I have never heard of [ a, + a ] robbery being foiled or spoiled because the person who's being robbed had a gun. /  
+
+%          B.24 utt1:  {F Um, } I, -/  
+
+sv          A.25 utt1:  {C And } maybe they just don't report those  /
+h          A.25 utt2: {C or } I'm not sure  /
+sv          A.25 utt3: {C or, } {D you know, } I can't think of ever hearing on the news or whatnot or hearing or knowing anybody who was being robbed  /
+sv          A.25 utt4: {C but } good thing they had their gun on them  /
+sv          A.25 utt5: {C and } [ they, + they ] thwarted the robbery attempt. /  
+
+b          B.26 utt1:  Yeah,  /
+h          B.26 utt2: [ [ I, + I'm, ] + I'm ] not really sure,  /
+sd          B.26 utt3: [ I don't, + personally I don't ] own a gun, /  
+
+b          A.27 utt1:  Uh-huh. /  
+
+sd          B.28 utt1:  {F um, } {C and } I don't think I probably ever would, {F um, } although I would like to know how to handle one,  /
+sd          B.28 utt2: [ {C and }  I think it's good that everyb-, + {C and } I think everybody ] should learn how to handle one. /  
+
+b          A.29 utt1:  Uh-huh. /  
+
+sd          B.30 utt1:  {F Um, } you just never know when you might come into contact with one. /  
+
+ba          A.31 utt1:  True. /  
+
+%          B.32 utt1:  {F Um, } /  
+
+qy^d          A.33 utt1: [ [ Did, + did  you, ] + were you ] brought up in a family that hunted  /
+%          A.33 utt2: {C or, } -/  
+
+nn          B.34 utt1:  No.  /
+sd          B.34 utt2:  {F Uh, } nobody in my family hunted,  /
+sd          B.34 utt3: {F uh, } my father [ had, + had ] guns when I was in high school because he got them from a friend who lived in Massachusetts <laughter>.  /
+sd          B.34 utt4:  We lived in New Hampshire at the time. /  
+
+ba          A.35 utt1:  How about that. /  
+
+sd          B.36 utt1:  {C And } he lived in Massachusetts and had to get rid of all his guns, /  
+
+b          A.37 utt1:  {F Huh. } /  
+
+sd          B.38 utt1:  {C so } we ended up, {F uh, } with these guns, /  
+
+b          A.39 utt1:  Uh-huh. /  
+
+sd          B.40 utt1:  {C and } [ my, + really my ] only experience with a gun was shooting a pistol and  not knowing how to hold it right  /
+sd          B.40 utt2: {C and } the hammer came back and hit me in the thumb and blood squirted everywhere. /  
+
+ba          A.41 utt1:  {F Oh, } jeez. /  
+
+sd          B.42 utt1:  {C And so } that was really the only experience that I've had with guns  /
+sd          B.42 utt2: {C and } [ it, +   
+
+b          A.43 utt1:  Right. /  
+
++          B.44 utt1:  it ] kind of scared me. /  
+
+b          A.45 utt1:  Uh-huh. /  
+
+sd          B.46 utt1:  {C But } I think that if I learn how to use one, [ I would, + I would ] feel better. /  
+
+b          A.47 utt1:  Right.  /
+sd          A.47 utt2:  I've also always thought about the idea, {D you know, } most sports, {D you know, } which are the N R A and people  (( have ))  their thing, {D you know, } - /
+sd          A.47 utt3: if you ban guns, you're just banning [ the, + the ] recreation, the sport of hunting, things of that nature.  /
+sd          A.47 utt4:  Most of that's done with rifles and such.   {F Uh, } though there's, {D you know, } probably I'm sure some sector that does it with handguns.  /
+sd          A.47 utt5: {C But } just by the mere fact of outlawing handguns, would make it so that it would be not as conspicuous,  /
+sd          A.47 utt6: you couldn't be inconspicuous,   
+
+b          B.48 utt1:  Yeah. /  
+
++          A.49 utt1:  when you walked into a store  (( stuff ))  like that,  /
+sd          A.49 utt2: you could see someone coming or dressed inappropriately,  {D you know, }  /
+sd          A.49 utt3: [ you-, + ]  if they had to have a rifle  or was, - /
+sd          A.49 utt4: {D you know, } made it more difficult to get [ [ a, + a, ] + {F uh, } a ] handgun. - /
+sd          A.49 utt5: {D Now } of course, {D you know, } in this world anytime you've freedom you can be able to get anything you want. /  
+
+aa          B.50 utt1:  Yeah,  /
+ba          B.50 utt2: that's true. /  
+
+sd          A.51 utt1:  {C But } I guess to make it more difficult for the person who's just so irate and upset and, {D you know, } temporarily a little bit, {F uh, } offset or off keel, - /
+h          A.51 utt2: I don't know if that's a large percentage of, {F uh, } crime or not  /
+sd          A.51 utt3: {C but } I guess it would be some.  /
+sv          A.51 utt4:  {C But } [ I, + I ] think definitely, - /
+sd          A.51 utt5: {D like } today they just introduced [ the, + ] what's called the Brady bill.  The seven day mandatory waiting period,   
+
+b          B.52 utt1:  Uh-huh. /  
+
++          A.53 utt1:  on getting any guns.  /
+sv          A.53 utt2:  # {C And } I think [ that, # +   
+
+sv          B.54 utt1:  # I would definitely # support that. /  
+
++          A.55 utt1:  Shoot that's ] a good idea. /  
+
+aa          B.56 utt1:  Yeah.  /
+sd          B.56 utt2: [ [ I, + I, ] + I ] agree the thing that scares me, {F uh, } though about where [ I would, + I would ] [ wa-, + definitely want ] some sort of legislation  /
+sd          B.56 utt3: {C and } coming from the north east, I'm just not used to seeing, {F um, } these,  /
+sd          B.56 utt4: {C and } [ I, + I ] know this may sound kind of stereo typical  /
+sd          B.56 utt5: {C but } <<pause>> the cowboys with the gun racks in the back of their trucks.    
+
+ba          A.57 utt1:  {F Oh, } sure. /  
+
++          B.58 utt1:  That's kind of scary to me  /
+sd          B.58 utt2: that kind of,  to me it is more like   (( vigilantism )) . /  
+
+b          A.59 utt1:  Uh-huh. /  
+
+sd          B.60 utt1:  {D You know, } {C and } it kind of scares me especially with all the shootings that have been going on,   
+
+b          A.61 utt1:  Right. /  
+
++          B.62 utt1:  in L A, on the freeways, /  
+
+aa          A.63 utt1:  # Yeah,  /
+ba          A.63 utt2: that's crazy # . /  
+
+sd          B.64 utt1:  # {C and then } you # come here [ in, + in ] the Dallas area, {F um, }  /
+sv          B.64 utt2: [ I don't, + I don't ] believe that people should be allowed to carry guns in their vehicles.    
+
+b          A.65 utt1:  Yeah,  /
+sv         A.65 utt2: that's [ kind of, + kind of ] wild. /  
+
++          B.66 utt1:  {F Um, } especially not in the back window,    
+
+b          A.67 utt1:  Uh-huh. /  
+
++          B.68 utt1:  for everybody to see. /  
+
+ba^r          @@A.69 utt1:  That is kind of wild.  /
+sv          @@A.69 utt2:  {D Well, } that's all very interesting <throat_clearing>.  /
+fc          @@A.69 utt3: {D Well, } thanks for talking. /  
+
+fc          B.70 utt1:  {D Sure } you're welcome. /  
+
+fc          A.71 utt1:  Good-bye. /  
+
+fc          B.72 utt1:  Okay,  /
+fc          B.72 utt2: bye-bye. / 

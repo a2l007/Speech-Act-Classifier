@@ -1,0 +1,591 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2429_1226_1176
+TOPIC#:		306
+DATE:		910404
+TRANSCRIBER:	KVA
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=========================================================================
+  
+
+qw          A.1 utt1:  {D Well, } what would you have at a dinner party? /  
+
+sd          B.2 utt1:  {D Well, } {F uh, } lately, since I have children  I've cut down on having dinner parties <beep>. /  
+
+b          A.3 utt1:  Uh-huh. /  
+
+sd          B.4 utt1:  {C but } <laughter> when I do  I try   to keep it pretty simple on things that I can prepare ahead of time <beep>,  /
+sd          B.4 utt2: {F uh, }   I have one recipe for, {F uh, } a really good, {F um, } type of a meatball.  /
+sd          B.4 utt3:   It's called burgundy meatball  /
+sd          B.4 utt4: {C and } it's made with red wine and, -/  
+
+ba          A.5 utt1:  {F Oh, } gosh,    
+
+%          B.6 utt1:  {F um } -- /  
+
++          A.7 utt1:  that sounds great. /  
+
+sd          B.8 utt1:  -- [ It's, + it's ] really good  /
+sd          B.8 utt2:  {C and } you can make it ahead of time and then, {F um, } make the sauce when you're ready [ to, + {F um, } to ] serve it. /  
+
+b          A.9 utt1:  Uh-huh. /  
+
+sd          B.10 utt1:  That's one of my favorite things [ to, + to ] serve. /  
+
+sv          A.11 utt1:  {D Well, } {F um, } I think it would probably  depend on whether this was a formal or a informal dinner party. /  
+
+aa          B.12 utt1:  Sure. /  
+
+sd          A.13 utt1:  {C But } if it was informal, my first choice would be crawfish. /  
+
+b          B.14 utt1:  {F Oh, } really.  /
+sd          B.14 utt2: {D Well, } I guess being  from that part of the country. /  
+
+sd          A.15 utt1:  {C Because, } {E I mean, }  crawfish,   everybody over here likes crawfish   /
+sd          A.15 utt2: {C but } --   
+
+b          B.16 utt1:  Uh-huh. /  
+
++          A.17 utt1:  -- {D you know, } [ I, + I ]  wouldn't have to worry about satisfying my guest.  /
+sd          A.17 utt2:  {C But } if it was a formal dinner party I would probably think  of something else like,  {F uh, } - /
+sd          A.17 utt3: [ shrimp, + shrimp ] fettucini is real easy --   
+
+b          B.18 utt1:  Yeah. /  
+
++          A.19 utt1:  -- to, {F um, } make and everything  /
+sv          A.19 utt2:  {C and } it's usually well liked by people, I guess,  /
+sd          A.19 utt3: I'm just a seafood fan  /
+sd          A.19 utt4: {C so, }    
+
+qw          B.20 utt1:  {D Well, } [ how do,    
+
++          A.21 utt1:  I think on the lines of, -/  
+
++          B.22 utt1:  make, + how do [ you, + you ] cook ] crawfish?  /
+sd          B.22 utt2:  [ I, + in fact, I ] just came back from the grocery store  /
+sd          B.22 utt3: {C and } being in Texas  we don't have too many, {D you know, } people [ that, + that ] eat crawfish /
+sd          B.22 utt4: {C but } they had live crawfish,   
+
+ba          A.23 utt1:  {F Oh, } yeah, /  
+
++          B.24 utt1:  on sale. /  
+
+sd          A.25 utt1:  {F um, } [ you're not supposed to, +  {E I mean, } you're not supposed to ] eat them dead.  /
+ar          A.25 utt2: {E I mean, }   
+
+b          B.26 utt1:  Uh-huh. /  
+
++          A.27 utt1:  {D well, } you eat them dead  /
+%          A.27 utt2: {C but, } -/  
+
+^2          B.28 utt1:  <Laughter> Don't buy them that way <laughter>. /  
+
+aa          A.29 utt1:  Right.  /
+sd          A.29 utt2:  Because [ if, + if ]  they are dead for too long, - /
+sd          A.29 utt3: you can always tell whenever they're cooked if they've been dead for a long time  because their tail straightens out. /  
+
+b          B.30 utt1:  Uh-huh. /  
+
+sd          A.31 utt1:  {C And } you're not supposed to eat  those because they're bad for you. /  
+
+b          B.32 utt1:  Okay.  /
+cc          B.32 utt2: {D Well, } I'll remember that. /  
+
+b          A.33 utt1:  Yeah,  /
+ad          A.33 utt2: {C so } if you ever go in a  restaurant, order crawfish,  /
+sd          A.33 utt3: {E I mean, } every once in a while you'll see on-,  /
+sd          A.33 utt4: {E I mean, }   it doesn't happen very often because it's just an accident  /
+sd          A.33 utt5: {C but } if the tail is straight on it then, yeah,    
+
+b          B.34 utt1:  Uh-huh. /  
+
++          A.35 utt1:  don't eat it.  /
+sd          A.35 utt2:  {C But, }  {F um, } you just  put some Cajun, {D well, } lots of pepper <laughter> -- /  
+
+b          B.36 utt1:  Uh-huh. /  
+
+sd          A.37 utt1:  -- {C and } you just boil them  /
+sv          A.37 utt2:  {C and } they're absolutely wonderful  /
+sd          A.37 utt3: {C but } [ there's, + {F uh, } they're ] a pain to peel for some people.  /
+sv          A.37 utt4:  Once you get used to it they're real easy  /
+sv          A.37 utt5: {C but, }  <breathing> {F um, } {D you know, }  if you have nails or anything you can <lipsmack> plan on those being shot. /  
+
+qy          B.38 utt1:  <breathing> {F Huh. }  [ When you were, + {F um, } [ whe-,  +  when ] you <child> serve ] it do you shell them and then serve em too? /  
+
+sd          A.39 utt1:  <lipsmack> <breathing> I think for a dinner party - /
+h          A.39 utt2:  [ I, + I ] don't know  /
+sd          A.39 utt3: it depends. /  
+
+b          B.40 utt1:  Um-hum. /  
+
+sd          A.41 utt1:  <breathing> {D Like } [ if, + like my age, if ]  there was a bunch of college kids  coming over for a dinner party,  no, [ I, + they ] would shell their own, /  
+
+b          B.42 utt1:  Sure. /  
+
+sd          A.43 utt1:  {D you know, } we'd just have crawfish  and beer or something  /
+sd           A.43 utt2: {C but, }  <breathing> {F um, } if it was more formal like if I was, {D you know, } working environment then I would probably, {F um, } <lipsmack> <breathing> [ sh-, + shell ]  'em or at least disconnect them from the head <breathing> <laughter>.  /
+sd          A.43 utt3: {C But } [ there's a, +   
+
+o          B.44 utt1:  <Laughter> Still have see that. <Laughter> *[[slash error]]
+
++          A.45 utt1:  There's a, ] <breathing> big thing over here  that everybody sucks the head.  /
+sd^r          A.45 utt2:  {C So, }  {F um } --   
+
++           B.46 utt1:  Ooh <laughter>. /  *[[slash error should be 'ba']]
+
++          A.47 utt1:  -- [ it, + it ] would just   
+
+x          B.48 utt1:  <laughter>.   
+
++          A.49 utt1:   depend.  /
+sv          A.49 utt2: That's the best part of the crawfish. /  
+
+x          B.50 utt1:   <laughter>   
+
+sv          A.51 utt1:   <lipsmack> Sucking the head  /
+h          A.51 utt2:  {C But } {F um } <lipsmack> I don't know  /
+sd^r          A.51 utt3: [ it jus- +  [ i- + it ] just ] depends on what type it was  I guess  /
+sd          A.51 utt4: {C But } you can buy <breathing> {F uh }  the crawfish shells already peeled 'n everything  /
+sd          A.51 utt5:  {C And } usually you use those {D like } for frying <breathing>   
+
+b          B.52 utt1:   Um-hum /  
+
++          A.53 utt1:   or to put in salads or to {F um }  <lipsmack> {D You know } make a sauce with  or something like that  /
+sd          A.53 utt2: {C But } you can go ahead  and buy 'em cooked and shelled  /
+sd          A.53 utt3:  {C and } they're more expensive of course  /
+%          A.53 utt4: {C but } -/  
+
+qy          B.54 utt1:   Does it taste a lot like shrimp /  
+
+ny          A.55 utt1:   {F Um } <lipsmack> Yeah  /
+sd^e@          A.55 utt2: it really does <breathing>   *[[ Looks like a slash unit to me ]]
+
+b          B.56 utt1:   Uh-huh. /  
+
++@          A.57 utt1:   I like shrimp better /  *[[ These seems to be independent of A.55 utt 2 above, not a continuation ]]
+
+b          B.58 utt1:   Yeah. /  
+
+sd          A.59 utt1:   Just {F um } The crawfish {E I mean }  it just has a taste of its own  /
+sd          A.59 utt2:  It also depends on who's cooking it and how much seasoning they use   
+
+b          B.60 utt1:   Sure /  
+
++          A.61 utt1:   stuff like that  /
+%          A.61 utt2: {C but } {F um } I think that - /
+sv          A.61 utt3:  {C And } also to get totally off the subject of crawfish  lots of vegetables and hors d'oeuvres and stuff like  that for a dinner party I think that that really helps /  
+
+b          B.62 utt1:   Yeah.  /
+sd          B.62 utt2: <breathing> We have [ a + a ]  friend another couple where the husband is the one who cooks   
+
+x          A.63 utt1:   <laughter>   
+
++          B.64 utt1:   all the time  /
+%          B.64 utt2: {C And } -/  
+
+sd          A.65 utt1:   That's what I need <laughter> /  
+
+aa          B.66 utt1:   <laughter> Yeah  /
+sd          B.66 utt2: that's what I wish  I had <laughter> <breathing>  /
+sd          B.66 utt3:  {C but } in our family I am the one who who cooks  /
+sd          B.66 utt4:  {C And } [ I + I ] really enjoy it  /
+sd          B.66 utt5:  it's gotten a little more difficult with kids  /
+sd^r          B.66 utt6:  {C But } I really do enjoy cooking <breathing>  /
+sd          B.66 utt7:  {C And } [ we + {F um } we ] have them over for dinner   
+
+b          A.67 utt1:   Uh-huh /  
+
++          B.68 utt1:   back and forth quite a lot  /
+sd          B.68 utt2:  {C And } before I had my second child we sort of had a contest going where    
+
+x          A.69 utt1:   <lipsmack>   
+
++          B.70 utt1:   <breathing>   
+
+ba          A.71 utt1:   Oh! /  
+
++          B.72 utt1:   {D you know } he would cook and then the next  time it would be my turn  and I'd try to outdo him   
+
+x          A.73 utt1:   <laughter>   
+
++          B.74 utt1:   and then he'd try to outdo   
+
+x          A.75 utt1:   <laughter>   
+
++          B.76 utt1:   me  /
+%          B.76 utt2: {C and } <laughter> <laughter> [ we + we ] -/  
+
+x          A.77 utt1:   <breathing>   
+
+sd          B.78 utt1:   was really a lot of fun /  
+
+ba          A.79 utt1:   I bet /  
+
+%          B.80 utt1:   {C and } -/  
+
+bf          A.81 utt1:   [ that + that ] got pretty competitive    
+
+b          B.82 utt1:   Yeah /  
+
++          A.83 utt1:   {D you know } as   
+
+aa          B.84 utt1:   it did /  
+
++          A.85 utt1:   far as <breathing>     
+
+sd          B.86 utt1:   [ we + we ]   
+
++          A.87 utt1:   who   
+
++          B.88 utt1:   tried   
+
++          A.89 utt1:   could come   
+
++          B.90 utt1:   to   
+
++          A.91 utt1:   up   
+
++          B.92 utt1:   be   
+
++          A.93 utt1:   with the best recipe <laughter> /  
+
++          B.94 utt1:   fancier or more courses than the other /  
+
+sv          A.95 utt1:   That   
+
+%          B.96 utt1:   {C or } -/  
+
++          A.97 utt1:   would be fun /  
+
+sd          B.98 utt1:   {F Uh } it was a lot of fun  {D you know }  /
+sd          B.98 utt2: it something unique  {D you know }  /
+sd          B.98 utt3: {C and then } we got into different  {F um } themes {D you know } <breathing> {F um }  whether it would be ethnic food    
+
+b          A.99 utt1:   {F Uh } huh /  
+
++          B.100 utt1:   Or {F um } sometimes it would be  {F um } <click> oh Oh I don't know  maybe  an outdoor theme or {F uh } elegant theme or  {D you know } <laughter> <laughter> - /
+sd          B.100 utt2: It was a lot of fun /  
+
+bf          A.101 utt1:   Sometimes it might be the candlelight  /
+bf          A.101 utt2:  {C and } sometimes it might be the picnic out back   
+
+aa          B.102 utt1:   That's   
+
++          A.103 utt1:   or something /  
+
++          B.104 utt1:   right <laughter> /  
+
+ba          A.105 utt1:   <Laughter> <breathing> {D Well }   
+
+x          B.106 utt1:   <breathing>   
+
++          A.107 utt1:   [ that's + {D you know } that's ] fun /  
+
+sd^r          B.108 utt1:   it was fun  /
+sd          B.108 utt2: [ {C and } + {C and } ]  we threatened to make the other two {F uh } make us dinner one time    
+
+b          A.109 utt1:   Uh huh  /  
+
++          B.110 utt1:   {F Uh } Just to even it out since  we seemed to be unfairly doing all the cooking    
+
+x          A.111 utt1:   <Laughter>.   
+
++          B.112 utt1:   {C and } they were doing all the enjoying /  
+
+sv          A.113 utt1:   <laughter> That sounds right [ I   
+
+%          B.114 utt1:   I'm -/  
+
++          A.115 utt1:   would + <breathing> I'd ] take him up on that /  
+
+aa          B.116 utt1:   It does  /
+sd          B.116 utt2:  except that knowing them they would probably do something   
+
+x          A.117 utt1:   <laughter>   
+
++          B.118 utt1:   ridiculous and terrible [ just +   
+
+x          A.119 utt1:   <laughter>   
+
++          B.120 utt1:   just ] to {F uh } make sure that they didn't have to do it again /  
+
+b          A.121 utt1:   Uh huh /  
+
+x          B.122 utt1:   <laughter>   
+
+%          A.123 utt1:   <lipsmack> I'd   
+
+sd          B.124 utt1:   make hot   
+
++          A.125 utt1:   be -/  
+
++          B.126 utt1:   dogs or    
+
+x          A.127 utt1:   <laughter>   
+
++          B.128 utt1:   some potato chips /  
+
+sd          A.129 utt1:   <breathing> [ I + that's about how much I ] can cook    
+
+x          B.130 utt1:   <laughter>   
+
++          A.131 utt1:   {D You know }  /
+sd          A.131 utt2: [ I'm + I'm ] doing a lot  more cooking now <lipsmack> than I used to /  
+
+b          B.132 utt1:   Uh-huh /  
+
+sd          A.133 utt1:   {C but } that's only because my mom  just started working  /
+sd          A.133 utt2: {C so } <breathing> she's  tired when she comes home in the afternoon  /
+sd          A.133 utt3:  {C so } I try to have things cooked for her  /
+sd          A.133 utt4: {C but }   
+
+ba          B.134 utt1:   {F Oh } that's nice /  
+
++          A.135 utt1:   {F uh } {F um } I usually try to stay out  of kitchen  /
+h          A.135 utt2: I don't know <laughter> /  
+
+x          B.136 utt1:   <laughter>   
+
+x          A.137 utt1:   <breathing>   
+
+x          B.138 utt1:   <breathing>   
+
+sd          A.139 utt1:   not one of my favorite hobbies /  
+
+sv          B.140 utt1:   [ It can + it can ] be fun [ I +  if  ] you have the time  /
+sv          B.140 utt2: {C But } {D you know }  a lot of times it's too much of a rush really be [ able to enjoy it +    
+
+sd          A.141 utt1:   {D Well } {F um }   
+
++          B.142 utt1:   able   
+
++          A.143 utt1:   my grandma speaking   
+
++          B.144 utt1:   to ] -/  
+
++          A.145 utt1:   of those meatballs again she owned  every Christmas [ and + and ] Easter  /
+sd          A.145 utt2: whenever  we have [ at + ] the big get-together over at her house  she makes this meat ball sauce  /
+%          A.145 utt3: {C and } it has - /
+h          A.145 utt4:  I don't know  /
+sd          A.145 utt5: they are just kind of  like quarter size meatballs  /
+sd          A.145 utt6: {C and }   
+
+b          B.146 utt1:   Uh-huh /  
+
++          A.147 utt1:   they are absolutely delicious <breathing>  /
+sd          A.147 utt2:  I don't know what she calls them in  /
+sd          A.147 utt3:  [ I don't + I'm ] sure she puts wine in it  because {F um } she cooks everything with alcohol  /
+%          A.147 utt4: {C But } -/  
+
+x          B.148 utt1:   <laughter>   
+
+%          A.149 utt1:   <laughter> {F um } /  
+
+x          B.150 utt1:   <laughter>   
+
+h          A.151 utt1:   <lipsmack> I don't know  /
+sd          A.151 utt2: [ I would + I would ]  be interested in getting that recipe for you if you have it around /  
+
+aa          B.152 utt1:   Yeah  /
+sd          B.152 utt2: [ it's + {F um } it's ]  in the other room  /
+sd^t          B.152 utt3: I don't know if we   
+
+b          A.153 utt1:   Oh /  
+
++          B.154 utt1:   have enough time for it  /
+sd          B.154 utt2:  it's real easy  /
+sd          B.154 utt3: one of the unique things in this  it's like a pound of ground beef some bread crumbs  {F um } an egg {F um } whatever seasonings  /
+ad          B.154 utt4: you can just light -/  
+
+b          A.155 utt1:   Yeah /  
+
+sd          B.156 utt1:   {C so } salt and pepper {F Um } and  chopped up water chestnuts <child>   
+
+b          A.157 utt1:   Oh /  
+
++          B.158 utt1:   which is something different {F um } /  
+
+ba          A.159 utt1:   that would be wonderful /  
+
+sd          B.160 utt1:   makes them a little bit crunchy  /
+ad          B.160 utt2:  you need to chop em up real fine /  
+
+b          A.161 utt1:   Yeah /  
+
+sd^r          B.162 utt1:   {C But } {F um } it makes them crunchy  /
+sd          B.162 utt2:  {C and } that adds something new to it <lipsmack>  /
+sd          B.162 utt3:  {C And then } the sauce is just made with {F um } <breathing>  bouillion cubes   
+
+b          A.163 utt1:   Um-hum /  
+
++          B.164 utt1:   water burgundy wine and {F um } cornstarch instead of flour /  
+
+b          A.165 utt1:   Oh /  
+
+sd          B.166 utt1:   {C So } [ it's not a + it's not a ]  thick <lipsmack> rich type of a sauce  /
+sd          B.166 utt2:  it's more of a - /
+sd          B.166 utt3: when you use corn starch  [ in + in ] gravy like {D you know }   when you have {F um } Chinese food   
+
+b          A.167 utt1:   Um-hum /  
+
++@          B.168 utt1:   That kind of a gravy or a sauce  that comes with a lot of that  They use corn starch instead of flour in all of their sauces and gravies  /  *[[ Shouldn't this be 2 slash units?  I'm confused by the capital letter on "They". ]]
+sd          B.168 utt2:  {C And } it gives it a bit of a different consistency /  
+
+qw          A.169 utt1:   {D Well } {F um } how long do you cook the meatballs /  
+
+ad          B.170 utt1:   <breathing> The meatballs [ you just + ] {F um }  after you form them fry them in a pan until   
+
+b          A.171 utt1:   Uh huh /  
+
++          B.172 utt1:   they're <breathing> {F uh } browned on  [ all + all ] sides  /
+ad          B.172 utt2: {C and then } drain off all the grease  /
+sd          B.172 utt3: {F Uh } then what I usually do is I freeze them  /
+ad          B.172 utt4: {C And then } when   
+
+x          A.173 utt1:   <lipsmack>   
+
++          B.174 utt1:   you're ready   
+
+b          A.175 utt1:   Oh /  
+
++          B.176 utt1:   to serve   
+
+b          A.177 utt1:   yeah /  
+
++          B.178 utt1:   them then you cook the sauce and  then put the meatballs into the sauce  And heat it  /
+ad          B.178 utt2: probably you have to heat it up  for a good {F oh } - /
+sd          B.178 utt3: if they're frozen  {D you know } it may take a half for them to thaw out  /
+ad          B.178 utt4:  {C But } then heat them thoroughly in the sauce itself  /
+ad          B.178 utt5:  Let them simmer in the sauce itself /  
+
+%          A.179 utt1:   {F Hum } /  
+
+sd          B.180 utt1:   <lipsmack> {C and } it's real good /  
+
+ba          A.181 utt1:   That sounds great  /
+sd          A.181 utt2: Especially  {E I mean } the fact that you can prepare the meatballs  [ so + so ] far in advance -/  
+
+b          B.182 utt1:   Right. /  
+
+bf          A.183 utt1:   {E I mean } {D like } [ if + if ]   
+
+^2          B.184 utt1:   And then freeze them /  
+
++          A.185 utt1:   you are having a dinner party on  Wednesday night you could do it on a weekend /  
+
+aa          B.186 utt1:   Sure /  
+
+sv          A.187 utt1:   That would be great <breathing>  /
+sd          A.187 utt2:  I think I'm going to have to keep that in mind for my future because I   
+
+x          B.188 utt1:   <laughter>   
+
++          A.189 utt1:   hope [ to <lipsmack> have + to have ] lots of dinner parties    
+
+x          B.190 utt1:   <laughter>.   
+
++          A.191 utt1:   <laughter> <breathing> Cause I like to - /
+sd          A.191 utt2:  {E I mean } {F um } {F Um } I'm sure that  I'll be involved in a big company  /
+sd          A.191 utt3:  {C and } I know that my <breathing> future  husband will be {D You know } - /
+sd          A.191 utt4: He's going to be working for Chevron   
+
+b          B.192 utt1:   Uh-huh. /  
+
++          A.193 utt1: in Houston  /
+sd          A.193 utt2: {C so } he's going to be <breathing> - /
+sv          A.193 utt3: {F Um } <lipsmack> {D You know } I'm sure that dinner parties will   
+
+aa          B.194 utt1:   Yeah  /
+sv          B.194 utt2: you'll   
+
++          A.195 utt1:   come in handy /  
+
++          B.196 utt1:   meet friends   /
+ad          B.196 utt2: [ invite + invite ] the boss over    
+
+b          A.197 utt1:   {F Oh } yeah /  
+
++          B.198 utt1:   [ and +    
+
+sd          A.199 utt1:   I have   
+
++          B.200 utt1:   and ]    
+
++          A.201 utt1:   to impress the boss <laughter>   
+
++          B.202 utt1:   friends at work <laughter> /  
+
++          A.203 utt1:   <laughter> and clients   cause {F Um } [ I'm  in + I'm in ] public relations in school /  
+
+b          B.204 utt1:   Uh-huh. /  
+
+sd          A.205 utt1:   {C so }  [ I'm going to have + <breathing>   {D You know } my whole job's going to be ] based on my clients 'n stuff like that  /
+sd          A.205 utt2: {C so }    
+
+b          B.206 utt1:   Sure. /  
+
++          A.207 utt1:   I'm going to have lots of dinner parties  /
+sd          A.207 utt2:  {C And } have to take 'em out to eat  /
+sd*          A.207 utt3:  Right now I'm taking a class on ettiquesy  /  *[[ Did she really say "ettiquesy"?? ]]
+sd          A.207 utt4: {C and }   
+
+b          B.208 utt1:   Oh /  
+
++          A.209 utt1:   all the little   
+
+b          B.210 utt1:   really /  
+
++          A.211 utt1:   bitty things that I didn't even know  /
+sd          A.211 utt2: {E I   
+
+x          B.212 utt1:   <laughter>   
+
++          A.213 utt1:   mean } I thought for sure I'd been raised properly  /
+sd          A.213 utt2:  {C but } I've been doing a lot of things wrong I didn't know   
+
+x          B.214 utt1:   <laughter>   
+
++          A.215 utt1:   about <laughter>  /
+qy^t          A.215 utt2: [ {C but } +  {F um } <lipsmack> {C So } ] Is there anything else /  
+
+sv^t          B.216 utt1:   <lipsmack> {D Well } [ I + I ]  think we've covered the subject  /
+sd          B.216 utt2:  I got some interesting information about crawfish  /
+%          B.216 utt3: I was in fact -/  
+
+x          A.217 utt1:   <noise> <laughter>   
+
+sd          B.218 utt1:   It's good cause I was curious about that today when I saw those for   
+
+b          A.219 utt1:   Oh /  
+
++          B.220 utt1:   sale /  
+
+b          A.221 utt1:   yes  /
+ad          A.221 utt2: you need to try em  /
+sv          A.221 utt3: {F Oh } they're wonderful. /  
+
+cc          B.222 utt1:   {F Oh }  I will  /
+sd          B.222 utt2: I'm sure my husband will be surprised, 'cause we were talking about them the other day  [ mm- + ] before / 

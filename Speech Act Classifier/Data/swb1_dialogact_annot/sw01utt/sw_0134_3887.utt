@@ -1,0 +1,201 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3887_1493_1490
+TOPIC#:		302
+DATE:		920131
+TRANSCRIBER:	LAB
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+=============================================================================
+  
+
+sv          B.1 utt1:  {D Well } I guess we're, {F uh, } forced  [ to + finally, to do ] a lot about air pollution.  /
+sd          B.1 utt2: I hear that the major automobile manufacturers  are looking at nonpolluting cars  /
+sd          B.1 utt3: {C and } low polluting fuels are being experimented  with Ethanol and other types of fuels. /  
+
+b          A.2 utt1:  Yeah,  /
+sd^t          A.2 utt2: one of the things they asked me  to ask you was where you thought the major source was coming from?    
+
+sd          B.3 utt1:  [ I, + {D you know, } I ] assume,   
+
++          A.4 utt1:  # Or sources. # /  
+
++          B.5 utt1:  # that # the major sources are cars and factories. /  
+
+aa          A.6 utt1:  # That's what, #     
+
+sd          B.7 utt1:  # {C But } [ I, # +   
+
++          A.8 utt1:  I would think. /  
+
++          B.9 utt1:  I ] don't know for sure.  /
+sd          B.9 utt2:  I just know that,  {F um, } acid rain apparently is a big problem in Canada from,   [ (( would )) + ] - /
+sd          B.9 utt3:  comes over the border from us. /  
+
+aa          A.10 utt1:  Right.  /
+aa          A.10 utt2: Yeah,  /
+sv          A.10 utt3: I think the automobile  definitely is an area and [ any, + any ] industry that burns, {D you know, } /
+sd          A.10 utt4:  {C and then } I don't know about chemical pollution.  /
+sd          A.10 utt5: I'm not real into that as far as how it affects the air.  /
+sd          A.10 utt6:   I know we have a lot of chemical, the indoor type pollution.  /
+sd          A.10 utt7:  They have offices that are too well  insulated.  /
+sd          A.10 utt8: They found people are getting sick, /  
+
+b          B.11 utt1:  # Yeah. # /  
+
+sd          A.12 utt1:  # {C but } I # don't know if that affects outside.  /
+sd^t          A.12 utt2:   {D You know, } [ I, + I ] [ think, seems to + think, seems to ] me that's what they were asking about was outside  /
+sd          A.12 utt3: {C and } [ the thing I can, + the only thing I can ] think of  would be cars and factories. /  
+
+aa          B.13 utt1:  Yeah,  /
+bf          B.13 utt2: the smokestacks or the exhaust pipes. /  
+
+aa          A.14 utt1:  Yeah. /  
+
+sd          B.15 utt1:  {F Um, } I guess there's been a lot of pressure  to, {F um, } do away with the C F C's in these spray bottles which,   
+
+b          A.16 utt1:  # Right. # /  
+
++          B.17 utt1:  # has # been a real problem. /  
+
+aa          A.18 utt1:  Yeah,  /
+qy^g          A.18 utt2: [ that is, + {D well } that's ]  destroying the ozone, isn't it? /  
+
+na          B.19 utt1:   (( Again ))  [ I, + that's what I ]  hear  /
+sd          B.19 utt2: [ {C and, } + {C and } ] there's this big debate apparently about whether [ the ozone, + there's a hole in the ozone ]  or  not  /
+sd          B.19 utt3: {C but } at last I heard it was, {F uh, } discovered that the hole was bigger than they thought,   
+
+aa          A.20 utt1:  # Yeah,  /
+%          A.20 utt2: that's wh-, # -/  
+
++          B.21 utt1:  # initially. # /  
+
+sv          A.22 utt1:  It's kind of scary. /  
+
+aa          B.23 utt1:  {D Well, } it is scary  /
+sv          B.23 utt2: {C and } I think it  will, {F uh, } continue to force us to clean up our act,   
+
+b          A.24 utt1:  # Yeah. # /  
+
++          B.25 utt1:  # literally # and figuratively.  /
+sv          B.25 utt2:  We've got to learn to manage without destroying the environment. /  
+
+sv           A.26 utt1:  I think something too that you probably  see in older states, all [ we, + we ] do it down here once in a while we will have a cold spell is where people will use their fireplaces. /  
+
+sd          B.27 utt1:  [ [ I, + I, ] + I'm ] wondering whether  it's going to get to the point where you can't,   
+
+sv          A.28 utt1:  # I think it will. # /  
+
++          B.29 utt1: # do that. #  /
+sd          B.29 utt2: In Los Angeles they're apparently going to, - /
+sd          B.29 utt3: they've passed laws that, for habit, <+ do you think this could possibly be prohibit? nothing elseseems to make any sense?? +> for example, people using, {F uh, } barbecues --   *[[listen for habit -> prohibit]]
+
+b          A.30 utt1:  Uh-huh. /  
+
++          B.31 utt1:  -- gasoline lawn mowers, {F um, }  /
+sd          B.31 utt2:  {C and } it's really bad in places like Los Angeles,  /
+sd          B.31 utt3: {C and, }   
+
+b          A.32 utt1:  Right. /  
+
++          B.33 utt1:  it's gotten bad in Denver  /
+sd         B.33 utt2: [ {C and, } +  {C and, } ]   {F uh, } it's not too bad around here although you see it, {D you know, } more and more in the sky.  /
+sv          B.33 utt3:  {C And } people in this country are really wedded to their, {F uh, } cars, /  
+
+b          A.34 utt1:  # Right. # /  
+
+sv          B.35 utt1:  # {C and } our # economy seems to, - /
+sv          B.35 utt2:  {C and } this I think is one of the big problems, /  
+
+aa          A.36 utt1:  Yeah.  /
+sd          A.36 utt2:  In this area too since, {D you know, }  in Texas we're so spread out, /  
+
+b          B.37 utt1:  # Yeah. # /  
+
+sd          A.38 utt1:  # we have to drive # so far,  /
+sd          A.38 utt2:  {C but } I know in Colorado I have witnessed that where [ it just, + {F uh, } it just ]  stacks up [ at the + when the ] Rockies starts,  /
+sd          A.38 utt3:  {C but } we're even getting it here.  /
+sd          A.38 utt4:  We can [ drive into, +   when we've been on vacation or  something drive into ] Fort Worth or Dallas /
+sd          A.38 utt5:  {C and } you can tell it in the mornings too.  /
+sd          A.38 utt6: My husband likes to go out and jog  /
+sd          A.38 utt7:  {C and } there's just a brown fog here  /
+sd          A.38 utt8: {C and } we don't even have any mountains that are,    
+
+b          B.39 utt1:  # Yeah. # /  
+
++          A.40 utt1:  # holding it in. #  /
+sd          A.40 utt2: {C But } they also   said that more dense the population and the more we crowd together, the worse it gets. /  
+
+sv          B.41 utt1:  {D Well } that makes a lot of sense.  /
+sd          B.41 utt2:  {E I mean } [ I, + I ] hadn't thought about it that way  /
+%          B.41 utt3: {C but } [ it, + it, ] -/  
+
+sd          A.42 utt1:  You don't have to have mountains that are stopping it. /  
+
+b          B.43 utt1:  Yeah. /  
+
+sd          A.44 utt1:  {C And, }  {F uh, } they [ make, + {F uh, } making ]  more and more high-rise buildings  /
+%          A.44 utt2: [ {C and, } + {F uh, } {C so } ] yeah,  /
+sv          A.44 utt3: we can comment  /
+sd          A.44 utt4:  {C and } we didn't see this a few years ago. /  
+
+aa          B.45 utt1:  # No,  /
+%          B.45 utt2: {C and } I think, # -/  
+
+sd          A.46 utt1:  # It was pretty # clear here. /  
+
+b          B.47 utt1:  Yeah,  /
+sv          B.47 utt2: {C and } I think [ that, + that ]  more and more it's becoming apparent to people that the earth, which includes all the people on it  and everything that's going on it, [ is a, + is an ] organism of sorts,     
+
+b          A.48 utt1:  # Right. # /  
+
++           B.49 utt1:  # and that # there is [ a, + a ]  whole set of organic relationships that if we start to destroy one part of it, it's going to  tell us about it,  /
+sv          B.49 utt2: {C and, }  {F uh, } we're going to feel it,  /
+sv          B.49 utt3: {C and } I think it's  going to be real interesting  and  particularly in light of what is obviously going to be a  big structural change in the economy,   
+
+b          A.50 utt1:  # Uh-huh. # /  
+
++          B.51 utt1:  # {F uh, } in this # country,  {F uh, } whether people are willing to get out of their cars, /  
+
+b          A.52 utt1:  # Yeah. # /  
+
+sv          B.53 utt1:  # {C and } # in this country, {F uh, }  [ the, + the ] solution [ that, + that ] people seem to think work are politically unacceptable.  /
+sd          B.53 utt2:  For example,   
+
+b          A.54 utt1:  # Yeah. # /  
+
++          B.55 utt1:  # taxing # people heavily for using their cars.  /
+sd          B.55 utt2:   {C And, }  {F uh, } I have a little sports car that I enjoy using  /
+sd          B.55 utt3: {C and } I know just  like anybody else how much fun it is to drive  /
+sv          B.55 utt4: {C but } I think, {F uh, }  we're going to have to make some fundamental changes  /
+sd          B.55 utt5: [ {C and, } + {C and } ] [ I'm, + I'm ]  not sure how long it's going to take  or what it's going to take because they keep saying that the  economy is going to depend on how many cars and,    
+
+b          A.56 utt1:  # Yeah. # /  
+
++          B.57 utt1:  # houses # we sell. /  
+
+sv          A.58 utt1:  {C And } it's a shame too when you  do see somebody driving a big car, just one person in that.  /
+sv          A.58 utt2:  It's a lot of waste  /
+%          A.58 utt3: {C but, } -/ 

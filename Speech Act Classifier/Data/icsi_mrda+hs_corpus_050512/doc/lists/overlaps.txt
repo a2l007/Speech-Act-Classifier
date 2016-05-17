@@ -1,0 +1,267 @@
+Overlap 1: 1147.47,1147.9,Z,XXXX+XXXX+{@reject@},%,Bed004-c2,%,,,@reject@ .,{@reject@} .
+Overlap 2: 1147.87,1148.35,A,1147.87+1147.98+so|1147.98+1148.13+that's|1148.13+1148.35+great,s^ba,Bed004-c2,sj^ba,,,so that's great .,so that's great .
+NOTE: Reject is an unidentifiable speech sound.
+
+Overlap 1: 3404.39,3405.22,A,3404.39+3404.56+well|3404.87+3405.22+that's,s.%--,Bed005-c2,s.%--,32b,,well that's ==,well that's ==
+Overlap 2: 3404.8,3405.22,Z,XXXX+XXXX+{hhh},b,Bed005-c2,b,32b+,,hhh .,{hhh} .
+NOTE: Breath noise that was marked in the CSV.
+
+Overlap 1: 1790.13,1792.12,A,1790.13+1790.24+should|1790.24+1790.36+i|1790.36+1790.84+rename|1790.84+1791.21+this|1791.87+1792.12+too,qy^rt,Bed008-c5,qy^rt,42a,,should i rename this too ?,should i rename this too ?
+Overlap 2: 1791.98,1792.1,Z,XXXX+XXXX+{or},qrr.%--,Bed008-c5,qrr.%--,,,or ?==,{or} ?==
+NOTE: The "or" is very soft, probably missed in the MRT, but picked up by the DA labelers.
+
+Overlap 1: 5.856,6.766,A,5.856+6.296+two|6.566+6.766+two,z,Bed009-c4,z,,,two two .,two two .
+Overlap 2: 5.93,6.39,Z,XXXX+XXXX+{one},z,Bed009-c4,z,,,one .,{one} .
+NOTE: There is no "one".
+
+Overlap 1: 1775.88,1779.83,Z,XXXX+XXXX+{@reject@},%,Bed010-c4,%,,,@reject@ .,{@reject@} .
+Overlap 2: 1779.16,1783.78,A,1779.16+1779.28+but|1779.28+1779.48+um|1779.48+1779.74+i|1779.84+1779.97+i|1779.97+1780.18+think|1780.18+1780.31+we|1780.31+1780.52+should|1780.81+1781.05+leave|1781.05+1781.47+japanese|1781.47+1782.06+constructions|1782.06+1782.24+maybe|1782.24+1782.56+outside|1782.56+1782.65+of|1782.65+1782.72+the|1782.72+1783.06+scope|1783.06+1783.31+for|1783.41+1783.56+for|1783.56+1783.78+now,fh|s^cs,Bed010-c4,fh|s^cs,47a,,but um - | i - i think we should leave japanese constructions maybe outside of the scope for - for now .,but um - | i - i think we should leave japanese constructions maybe outside of the scope for - for now .
+NOTE: Reject is an unidentifiable speech sound.
+
+Overlap 1: 1245.09,1249.65,Y,1245.09+1245.2+so|1245.2+1245.35+they|1245.35+1245.68+probably|1245.68+1245.85+will|1245.85+1246.04+have|1246.38+1246.71+tools|1246.71+1246.79+to|1246.79+1247.07+address|1247.17+1247.24+the|1247.24+1247.68+actual|1248.52+1248.62+the|1248.99+1249.05+the|1249.55+1249.65+the|XXXX+XXXX+{transcriber}|XXXX+XXXX+{support},s,Bmr002-c2,s,,LOTS OF NOISE,so they probably will have tools to address the actual - the - the - the transcriber support .,so they probably will have tools to address the actual - the - the - the {transcriber} {support} .
+Overlap 2: 1248.65,1249.68,Z,XXXX+XXXX+{and}|XXXX+XXXX+{then}|XXXX+XXXX+{automated}|XXXX+XXXX+{alignment}|XXXX+XXXX+{of}|XXXX+XXXX+{what}|XXXX+XXXX+{the}|XXXX+XXXX+{transcribers}|XXXX+XXXX+{give}|XXXX+XXXX+{you},s,Bmr002-c2,s,8a,,and then automated alignment of what the transcribers give you .,{and} {then} {automated} {alignment} {of} {what} {the} {transcribers} {give} {you} .
+NOTE: Lots of background noise.  Words are spoken really softly.
+
+Overlap 1: 4004.89,4006.42,A,4004.89+4004.95+yeah|4004.95+4006.16+i|4006.26+4006.42+think,fg|%-,Bmr006-c2,fg|%-,,FBH,yeah | i think ==,yeah | i think ==
+Overlap 2: 4004.9,4005.22,Z,XXXX+XXXX+{@reject@},x,Bmr006-c2,x,,,@reject@ .,{@reject@} .
+NOTE: No perceptible audio heard other than the "yeah i think".
+
+Overlap 1: 4068.87,4069.78,A,4068.87+4069.13+yeah|4069.13+4069.54+yeah|4069.54+4069.66+i|4069.66+4069.78+think,fg|%-,Bmr006-c2,fg|%-,,,yeah yeah | i think ==,yeah yeah | i think ==
+Overlap 2: 4069.25,4069.46,Z,XXXX+XXXX+{@reject@},x,Bmr006-c2,x,,,@reject@ .,{@reject@} .
+NOTE: No perceptible audio heard other than the "yeah yeah i think".
+
+Overlap 1: 1671.74,1673.2,A,1671.74+1671.77+i|1671.77+1671.92+mean|1671.92+1672+you|1672+1672.2+could|1672.2+1672.37+you|1672.37+1672.51+could|1672.51+1672.76+say|1672.76+1673+well|1673+1673.2+let,s^cs.%--,Bmr010-cb,s^cs.%--,,,i mean you could - you could say well let ==,i mean you could - you could say well let ==
+Overlap 2: 1673.14,1673.83,Z,XXXX+XXXX+{@reject@},x,Bmr010-cb,x,,,@reject@ .,{@reject@} .
+NOTE: Reject is an unidentifiable speech sound.
+
+Overlap 1: 3009.65,3010.48,M,3009.65+3009.71+i|3009.71+3009.88+<yeah>|3009.96+3010.13+<have>|3010.13+3010.26+i|3010.26+3010.48+have,s^aa,Bmr010-c3,s^aa,41b,,i - i have .,i - <yeah> <have> i have .
+Overlap 2: 3010.16,3010.71,Z,XXXX+XXXX+{i}|XXXX+XXXX+{have},s^aa^r,Bmr010-c3,s^aa^r,41b+.42a,,i have .,{i} {have} .
+NOTE: Unmatched words due to automatic processing, which couldn't match the "yeah have" in the MRT with "i have" in the CSV.
+
+Overlap 1: 3095,3096,Z,XXXX+XXXX+{oh},s^fe,Bmr011-c2,s^fe,,,oh !,{oh} !
+Overlap 2: 3095.6,3095.86,A,3095.6+3095.64+ooo|3095.64+3095.86+ooo,s^fe,Bmr011-c2,s^fe,,FBH,ooo ooo !,ooo ooo !
+NOTE: The "oh" sound is an unmatched "ooo" from the other line.
+
+Overlap 1: 3246.77,3247.16,A,3246.77+3246.91+the|3246.91+3247.16+fa-,%-,Bmr011-c3,%-,,,the fa- ==,the fa- ==
+Overlap 2: 3247,3247.5,Z,XXXX+XXXX+{yeah}|XXXX+XXXX+{bu-},fg,Bmr011-c3,fg,,,yeah bu- ==,{yeah} {bu-} ==
+NOTE: These are unmatched spoken words.  The MRT has "b- b-" which are unmatched and in the line with start time 3298.62 for the same channel.
+
+Overlap 1: 2579.95,2580.15,Z,XXXX+XXXX+{yup},s^aa,Bmr013-c8,s^aa,24b.25a,,yup .,{yup} .
+Overlap 2: 2579.97,2585.35,A,2579.97+2580.18+yep|2580.61+2580.88+yep|2580.88+2581.1+so|2581.1+2581.16+it|2581.16+2581.57+was|2583.53+2583.65+it|2583.65+2583.79+was|2583.79+2584.4+advertised|2584.4+2584.55+for|2584.55+2585.35+performers,fg|s,Bmr013-c8,fg|s,,FBH,yep yep | so it was - it was advertised for performers .,yep yep | so it was - it was advertised for performers .
+NOTE: The "yup" is unmatched but seen in the "yep" of line 2.  The AP of line 1 should be moved to the AP field of line two.  The "^aa" part of the DA in line 1 should be added to the DA in line 2 to make it "fg|s^aa".
+
+Overlap 1: 249.008,249.342,Z,XXXX+XXXX+{uhhuh},b,Bmr015-c3,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 249.048,249.298,A,249.048+249.298+mm-hmm,b,Bmr015-c3,b,,,uhhuh .,mm-hmm .
+NOTE: Looks like extraneous line.
+
+Overlap 1: 804.945,805.327,Z,XXXX+XXXX+{huh},b,Bmr015-c3,b,,FBH,huh .,{huh} .
+Overlap 2: 805.025,805.285,A2,799.71+799.88+<hmm>|805.025+805.285+mm-hmm,b,Bmr015-c3,b,,,uhhuh .,<hmm> mm-hmm .
+NOTE: The "huh" is unmatched with the "hmm".
+
+Overlap 1: 976.46,979.945,Z,XXXX+XXXX+{then}|XXXX+XXXX+{today},%--,Bmr018-c2,%--,,,then today ==,{then} {today} ==
+Overlap 2: 977.3,977.83,A2,977+977.15+<does>|977.15+977.3+<any>|977.3+977.49+i|977.49+977.83+forget,s^df,Bmr018-c2,s^df,31a,,i forget .,<does> <any> i forget .
+
+Overlap 1: 1474.67,1475.6,A,1474.67+1474.8+oh|1474.8+1475.6+m_n_c_m,s.%,Bmr018-c4,s.%,,,oh m n c m .,oh m_n_c_m .
+Overlap 2: 1474.7,1475.59,Z,XXXX+XXXX+{alignments},s,Bmr018-c4,s,,,alignments .,{alignments} .
+
+Overlap 1: 2333.62,2335.41,A,2333.62+2333.65+i|2333.65+2333.74+mean|2333.74+2333.84+this|2333.84+2333.9+is|2333.9+2334.14+tough|2334.14+2334.3+for|2334.3+2334.33+a|2334.33+2334.68+language|2334.68+2334.97+model|2334.97+2335.41+probably,s,Bmr018-c3,s,25a,,i mean this is tough for a language model probably .,i mean this is tough for a language model probably .
+Overlap 2: 2335,2336.5,Z,XXXX+XXXX+{it's},%-,Bmr018-c3,%-,25a+,,it's ==,{it's} ==
+
+Overlap 1: 3112.99,3114.22,A,3112.99+3113.15+cuz|3113.15+3113.27+that|3113.27+3113.39+would|3113.39+3113.5+be|3113.5+3113.64+too|3113.64+3113.84+much|3113.84+3114.22+work,s^df^nd,Bmr020-c0,s^df^nd,16b+.17a+,,because that would be too much work .,cuz that would be too much work .
+Overlap 2: 3113.19,3114.46,Z,XXXX+XXXX+{yeah},b.%,Bmr020-c0,b.%,,,yeah .,{yeah} .
+
+Overlap 1: 831.25,833.68,A,831.25+831.46+because|831.46+831.58+we|831.58+831.81+write|831.81+831.89+it|831.89+832.44+once|832.44+832.57+and|832.57+832.67+then|832.67+832.77+we|832.77+833.02+never|833.02+833.27+touch|833.27+833.34+it|833.34+833.68+again,s,Bmr021-c0,s,31b,,because we write it once and then we never touch it again .,because we write it once and then we never touch it again .
+Overlap 2: 831.805,832.763,Z,XXXX+XXXX+{just}|XXXX+XXXX+{the}|XXXX+XXXX+{backed}|XXXX+XXXX+{up}|XXXX+XXXX+{space},s^df,Bmr021-c0,s^df,@44a+@,,just the backed up space .,{just} {the} {backed} {up} {space} .
+
+Overlap 1: 2320,2327,A,2320+2320.1+and|2320.1+2320.22+if|2320.22+2320.37+other|2320.37+2320.65+people|2320.65+2320.97+wanna|2326.63+2327+copy,s.%-,Bmr022-c0,s.%-,,,and if other people want to copy ==,and if other people wanna copy ==
+Overlap 2: 2326.580,2327.168,Z,XXXX+XXXX+{copy},s,Bmr022-c0,s,,,copy .,{copy} .
+
+Overlap 1: 1839.35,1840.14,Z,XXXX+XXXX+{uhhuh},b,Bmr023-c5,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 1839.44,1839.94,A2,1819.8+1820.28+<hmm>|1839.44+1839.94+mm-hmm,b,Bmr023-c5,b,,,uhhuh .,<hmm> mm-hmm .
+
+Overlap 1: 2154.62,2156.15,Z,XXXX+XXXX+{right}|XXXX+XXXX+{it}|XXXX+XXXX+{was}|XXXX+XXXX+{it}|XXXX+XXXX+{was}|XXXX+XXXX+{there}|XXXX+XXXX+{was},s.%--,Bmr023-c2,s.%--,,,right it was - it was - there was ==,{right} {it} {was} - {it} {was} - {there} {was} ==
+Overlap 2: 2155.32,2155.95,A,2155.32+2155.95+um,fh,Bmr023-c2,fh,,,um ==,um ==
+
+Overlap 1: 2260.86,2262.66,Z,XXXX+XXXX+{yeah},b,Bmr027-c5,b,,,yeah .,{yeah} .
+Overlap 2: 2261.34,2262.27,A2,2260.9+2261.13+<yeah>|2261.34+2261.39+a|2261.59+2261.89+hundred|2261.89+2262.07+gig|2262.07+2262.27+here,s:s,Bmr027-c5,s:s,,FBH,a hundred gig here .,<yeah> a hundred gig here .
+
+Overlap 1: 1603.61,1606.14,A,1603.61+1603.96+r-|1603.96+1604.33+right|1604.49+1604.84+but|1604.89+1605.08+in|1605.08+1605.38+terms|1605.38+1605.47+of|1605.47+1605.66+for|1605.66+1606.14+norm-,s^aa|s^aap.%-,Bmr028-ca,s^aa|s^aap.%-,40b,,r- - right | but in terms of - for norm- ==,r- - right | but in terms of - for norm- ==
+Overlap 2: 1605,1607,Z,XXXX+XXXX+{right},b,Bmr028-ca,b,,,right .,{right} .
+
+Overlap 1: 1605,1607,Z,XXXX+XXXX+{right},b,Bmr028-ca,b,,,right .,{right} .
+Overlap 2: 1606.14,1607.31,A,1606.14+1606.3+for|1606.3+1607.05+adaptation|1607.05+1607.31+right,s^m^na|s^aa,Bmr028-ca,s^m^na|s^aa,41b-1,,for adaptation | right .,for adaptation | right .
+
+Overlap 1: 3247,3249.59,Z,XXXX+XXXX+{uhhuh},b,Bmr028-cb,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 3247.07,3248.98,A,3247.07+3247.48+hmm|3247.98+3248.16+hey|3248.16+3248.22+i|3248.22+3248.35+bet|3248.35+3248.58+there's|3248.58+3248.98+tea,fg|s,Bmr028-cb,fg|s,,FBH,huh | hey i bet there's tea .,hmm | hey i bet there's tea .
+
+Overlap 1: 1810.73,1811.42,Z,XXXX+XXXX+{uhhuh},b,Bmr029-c9,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 1810.84,1811.17,A,1810.84+1811.17+mm-hmm,b,Bmr029-c9,b,,,uhhuh .,mm-hmm .
+
+Overlap 1: 985.105,985.662,Z,XXXX+XXXX+{uhhuh},b,Bmr030-c2,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 985.165,985.625,A,985.165+985.625+mmm,s^fe,Bmr030-c2,s^fe,,,huh !,mmm !
+
+Overlap 1: 592.874,593.439,Z,XXXX+XXXX+{uhhuh},b,Bmr031-c1,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 592.924,593.384,A2,573.334+573.574+<hmm>|592.924+593.384+mm-hmm,b,Bmr031-c1,b,,,uhhuh .,<hmm> mm-hmm .
+
+Overlap 1: 1469.03,1469.64,Z,XXXX+XXXX+{uhhuh},b,Bmr031-c2,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 1469.09,1469.52,A,1469.09+1469.52+mm-hmm,b,Bmr031-c2,b,,,uhhuh .,mm-hmm .
+
+Overlap 1: 1615.39,1616.58,A,1615.39+1615.49+oh|1615.49+1615.74+thank|1615.74+1615.87+you|1616.27+1616.47+thank|1616.47+1616.58+you,s^ft,Bmr031-c0,s^ft,71b.72a,,oh thank you thank you .,oh thank you thank you .
+Overlap 2: 1616.2,1617.08,Z,XXXX+XXXX+{uhhuh},b,Bmr031-c0,b,,,uhhuh .,{uhhuh} .
+
+Overlap 1: 1734.09,1736.13,A,1734.09+1734.18+and|1734.18+1734.27+it|1734.27+1734.54+comes|1734.54+1734.81+up|1734.81+1734.94+you|1734.94+1735.15+know|1735.15+1735.28+in|1735.28+1735.31+a|1735.31+1735.63+couple|1735.63+1735.7+of|1735.7+1736.13+seconds,s,Bmr031-c5,s,85a,,and it comes up you know in a couple of seconds .,and it comes up you know in a couple of seconds .
+Overlap 2: 1735.72,1737.18,Z,XXXX+XXXX+{um},fh,Bmr031-c5,fh,,,um ==,{um} ==
+
+Overlap 1: 2232.05,2232.51,Z,XXXX+XXXX+{uhhuh},b,Bmr031-c9,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 2232.15,2232.4,A2,2217.45+2217.96+<hmm>|2232.15+2232.4+mm-hmm,b,Bmr031-c9,b,,,uhhuh .,<hmm> mm-hmm .
+
+Overlap 1: 3173,3177,Z,XXXX+XXXX+{uhhuh},b,Bmr031-c9,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 3174.38,3174.74,A,3174.38+3174.74+o_k,s^bk,Bmr031-c9,s^bk,,FBH,okay .,o_k .
+
+Overlap 1: 15.682,360.77,M,15.682+16.042+uh|358.02+358.33+<uh>|358.46+358.6+yeah|358.6+358.69+you|358.69+358.88+don't|358.88+359.49+actually|359.59+359.84+n-|359.93+360.09+need|360.09+360.15+to|360.15+360.33+say|360.33+360.44+the|360.44+360.77+name,fh|s^t3,Bro003-c8,fh|s^t3,1a,,uh - | yeah you don't actually n- - need to say the name .,uh - | <uh> yeah you don't actually n- - need to say the name .
+Overlap 2: 16.159,60.062,D,,,Bro003-c8,,,,DIGIT_TASK,DIGIT_TASK
+
+Overlap 1: 966.422,976.752,A,966.422+966.512+well|966.512+966.842+actually|966.842+966.992+for|966.992+967.052+the|967.052+967.492+moment|967.492+967.692+if|967.752+968.182+we|968.182+968.562+w-|968.562+968.672+do|968.672+968.852+not|968.852+969.012+want|969.012+969.092+to|969.092+969.362+use|969.362+970.002+these|970.212+970.402+phone|970.402+971.012+databases|971.012+971.222+we|971.222+971.402+we|971.402+971.702+already|971.702+971.882+have|972.872+973.152+uh|973.152+973.542+english|973.542+974.002+spanish|974.002+974.112+and|974.112+974.612+french|975.352+975.722+uh|975.722+976.002+with|976.002+976.412+microphone|976.412+976.752+speech,s^cs,Bro003-c9,s^cs,20a,FBH,well actually for the moment if we - w- - do not want to use these phone databases we - we already have uh - english spanish and french uh with microphone speech .,well actually for the moment if we - w- - do not want to use these phone databases we - we already have uh - english spanish and french uh with microphone speech .
+Overlap 2: 968.275,970.394,Z,XXXX+XXXX+{uh},fh,Bro003-c9,fh,,,uh ==,{uh} ==
+
+Overlap 1: 3803.46,3805.11,A,3803.46+3803.55+it's|3803.55+3803.95+nutmeg|3803.95+3804.3+and|3804.3+3804.55+mustard|3804.55+3804.73+i|3804.73+3805.11+think,s^na,Bro003-c9,s^na,2b+,,it's nutmeg and mustard i think .,it's nutmeg and mustard i think .
+Overlap 2: 3804.94,3805.16,Z,XXXX+XXXX+{it}|XXXX+XXXX+{uh},%--,Bro003-c9,%--,,,it uh ==,{it} {uh} ==
+
+Overlap 1: 4159.32,4162.83,A,4159.32+4159.45+so|4159.45+4159.69+with|4161.51+4161.96+parameters|4161.96+4162.13+that|4162.13+4162.3+they|4162.3+4162.61+use|4162.61+4162.83+there,s,Bro003-c9,s,21a+++,,so with parameters that they use there .,so with parameters that they use there .
+Overlap 2: 4161.49,4163.66,Z,XXXX+XXXX+{a-},%-,Bro003-c9,%-,,,a- ==,{a-} ==
+
+Overlap 1: 4989.07,4993.8,Z,XXXX+XXXX+{uh},fh,Bro003-c8,fh,,,uh ==,{uh} ==
+Overlap 2: 4990.26,4991.47,A2,4989.08+4989.71+<um>|4990.26+4990.99+and|4990.99+4991.47+um,fh,Bro003-c8,fh,,,and um ==,<um> and um ==
+
+Overlap 1: 2375.14,2375.3,A,2375.14+2375.3+yeah,s^aa,Bro004-c4,s^aa,1b,,yeah .,yeah .
+Overlap 2: 2375.17,2375.29,Z,XXXX+XXXX+{yeah},b,Bro004-c4,b,,,yeah .,{yeah} .
+
+Overlap 1: 2633.42,2634.8,A,2633.42+2633.53+so|2633.53+2633.59+i|2633.59+2633.82+think|2633.82+2634.03+hynek|2634.03+2634.12+will|2634.12+2634.23+be|2634.23+2634.35+here|2634.35+2634.8+monday,s,Bro004-c1,s,10a,,so i think hynek will be here monday .,so i think hynek will be here monday .
+Overlap 2: 2634.23,2635.05,Z,XXXX+XXXX+{on}|XXXX+XXXX+{their},s.%--,Bro004-c1,s.%--,,,on their ==,{on} {their} ==
+
+Overlap 1: 663.721,664.511,A2,662.981+663.161+<it's>|663.441+663.721+<er->|663.721+663.951+error|663.951+664.151+rate|664.151+664.511+ratio,s^bsc,Bro005-c0,s^bsc,,,error rate ratio .,<it's> <er-> error rate ratio .
+Overlap 2: 664,667,Z,XXXX+XXXX+{so},fh,Bro005-c0,fh,,,so ==,{so} ==
+
+Overlap 1: 664,667,Z,XXXX+XXXX+{so},fh,Bro005-c0,fh,,,so ==,{so} ==
+Overlap 2: 664.511,664.781,A,664.511+664.781+so,fh,Bro005-c0,fh,,,so ==,so ==
+
+Overlap 1: 664.594,665.664,A,664.594+664.724+oh|664.724+664.904+this|664.904+664.984+is|664.984+665.664+accuracy,s^bk|s^fe,Bro005-c4,s^bk|s^fe,11b,,oh | this is accuracy !,oh | this is accuracy !
+Overlap 2: 665,665,Z,XXXX+XXXX+{huh},b.%,Bro005-c4,b.%,,,huh .,{huh} .
+
+Overlap 1: 1272.41,1274.2,Z,XXXX+XXXX+{@reject@},%,Bro005-c1,%,,,@reject@ .,{@reject@} .
+Overlap 2: 1272.59,1272.92,A2,1272.48+1272.59+<oh>|1272.59+1272.92+yeah,s^aa,Bro005-c1,s^aa,7b,,yeah .,<oh> yeah .
+
+Overlap 1: 1380.84,1381.27,Z,XXXX+XXXX+{uhhuh},b,Bro005-c0,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 1381.05,1381.77,A2,1371.82+1372.08+<mmm>|1381.05+1381.77+mm-hmm,b,Bro005-c0,b,,,uhhuh .,<mmm> mm-hmm .
+
+Overlap 1: 2152.45,2153.52,A,2152.45+2152.67+one|2152.67+2152.73+of|2152.81+2153.04+these|2153.04+2153.52+perhaps,qy^d^rt,Bro005-c0,qy^d^rt,,,one of these perhaps ?,one of these perhaps ?
+Overlap 2: 2153.39,2153.72,Z,XXXX+XXXX+{huh},b,Bro005-c0,b,,,huh .,{huh} .
+
+Overlap 1: 2153.39,2153.72,Z,XXXX+XXXX+{huh},b,Bro005-c0,b,,,huh .,{huh} .
+Overlap 2: 2153.52,2153.75,A,2153.52+2153.75+mm-hmm,b,Bro005-c0,b,,,uhhuh .,mm-hmm .
+
+Overlap 1: 2197.01,2203.77,M2,2183.87+2184.47+<mm-hmm>|2197.01+2197.42+uh|2197.42+2197.48+<mmm>|2197.48+2197.51+<uh>|2198.47+2198.54+i|2198.54+2198.73+mean|2198.73+2198.86+<that>|2198.86+2198.95+the|2198.95+2199.18+the|2199.18+2199.42+fact|2199.42+2199.63+that|2199.63+2199.72+<s->|2199.72+2199.94+well|2199.94+2200.16+for|2200.33+2200.78+for|2201.02+2201.65+t_i-digits|2202.09+2202.46+the|2202.54+2202.87+timit|2202.87+2203.08+net|2203.2+2203.34+is|2203.34+2203.44+the|2203.44+2203.77+best,h|s,Bro005-c0,h|s,17b,,uh | i mean the - the fact that well for for t i digits the timit net is the best .,<mm-hmm> uh | <mmm> <uh> i mean <that> the - the fact that <s-> well for for t_i-digits the timit net is the best .
+Overlap 2: 2197.601,2198.434,Z,XXXX+XXXX+{huh}|XXXX+XXXX+{uh},b,Bro005-c0,b,,,huh uh .,{huh} {uh} .
+
+Overlap 1: 2294.18,2296.24,Z,XXXX+XXXX+{@reject@},%,Bro005-c0,%,,,@reject@ .,{@reject@} .
+Overlap 2: 2296.13,2300.37,A,2296.13+2296.32+there|2296.32+2296.5+there|2296.5+2296.7+might|2296.7+2296.85+be|2296.85+2297.48+errors|2297.63+2297.95+just|2297.95+2298.07+in|2298.07+2298.16+the|2298.16+2298.46+in|2298.71+2298.82+in|2298.82+2299.06+the|2299.06+2299.15+ph-|2299.45+2299.8+string|2299.8+2299.87+of|2299.87+2300.37+phonemes,s,Bro005-c0,s,,,there - there might be errors just in the - in - in the ph- - string of phonemes .,there - there might be errors just in the - in - in the ph- - string of phonemes .
+
+Overlap 1: 2306.88,2308.78,A,2306.88+2307.07+yeah|2307.14+2307.25+so|2307.25+2307.42+this|2307.42+2307.52+is|2307.52+2307.72+not|2307.72+2307.93+really|2307.93+2308+the|2308+2308.35+viterbi|2308.35+2308.78+alignment,fh|s,Bro005-c0,fh|s,,,yeah | so this is not really the viterbi alignment .,yeah | so this is not really the viterbi alignment .
+Overlap 2: 2308.07,2309.28,Z,XXXX+XXXX+{@reject@},%,Bro005-c0,%,,,@reject@ .,{@reject@} .
+
+Overlap 1: 2308.07,2309.28,Z,XXXX+XXXX+{@reject@},%,Bro005-c0,%,,,@reject@ .,{@reject@} .
+Overlap 2: 2308.9,2309.22,A,2308.9+2308.96+in|2309.01+2309.22+fact,%--,Bro005-c0,%--,,,in fact ==,in fact ==
+
+Overlap 1: 2495.91,2498.49,A,2495.91+2496.13+yeah|2496.13+2496.46+that|2496.78+2496.99+seems|2496.99+2497.17+like|2497.17+2497.2+a|2497.2+2497.4+good|2497.4+2497.59+thing|2497.59+2497.65+to|2497.65+2497.85+do|2497.85+2498.49+probably,fg|s,Bro005-c4,fg|s,1b,,yeah | that seems like a good thing to do probably .,yeah | that seems like a good thing to do probably .
+Overlap 2: 2497.28,2498.74,Z,XXXX+XXXX+{yeah},fh,Bro005-c4,fh,,,yeah .,{yeah} .
+
+Overlap 1: 2823.79,2828.11,A,2823.79+2824.09+just|2824.09+2824.15+re-|2824.15+2824.28+re-|2824.28+2824.98+retraining|2824.98+2825.3+r-|2826.43+2826.89+retraining|2826.89+2827.03+the|2827.03+2828.11+h_t_k,s,Bro005-c0,s,12b++.13a++,FBH,just re- - re- - retraining r- - retraining the h t k .,just re- - re- - retraining r- - retraining the h_t_k .
+Overlap 2: 2827.69,2827.78,Z,XXXX+XXXX+{well},%-,Bro005-c0,%-,,,well ==,{well} ==
+
+Overlap 1: 2901.85,2918.08,Z,XXXX+XXXX+{huh},b,Bro005-c0,b,,,huh .,{huh} .
+Overlap 2: 2917.83,2918.21,A,2917.83+2918.21+mm-hmm,b,Bro005-c0,b,,,uhhuh .,mm-hmm .
+
+Overlap 1: 3189.93,3190.42,A,3189.93+3190.09+but|3190.26+3190.42+yeah,fg,Bro005-c0,fg,,,but yeah .,but yeah .
+Overlap 2: 3190.24,3190.56,Z,XXXX+XXXX+{huh},b,Bro005-c0,b,,,huh .,{huh} .
+
+Overlap 1: 1428.2,1428.7,Z,XXXX+XXXX+{huh}|XXXX+XXXX+{huh},b,Bro007-c3,b,,,huh huh .,{huh} {huh} .
+Overlap 2: 1428.31,1428.75,A,1428.31+1428.75+mm-hmm,b,Bro007-c3,b,,,uhhuh .,mm-hmm .
+
+Overlap 1: 621.67,621.95,Z,XXXX+XXXX+{uhuh},b,Bro008-c3,b,,,uhuh .,{uhuh} .
+Overlap 2: 621.68,621.96,A,621.68+621.96+hmm,b,Bro008-c3,b,,,huh .,hmm .
+
+Overlap 1: 2850.85,2853.98,A2,2850.39+2850.78+<o_k>|2850.85+2851.62+uh|2851.76+2851.79+i|2851.79+2851.95+think|2851.95+2852.34+that's|2852.89+2853.06+that's|2853.06+2853.17+all|2853.17+2853.25+we|2853.25+2853.42+have|2853.42+2853.59+this|2853.59+2853.98+week,fh|s^tc,Bro010-c4,fh|s^tc,,,uh | i think that's - that's all we have this week .,<o_k> uh | i think that's - that's all we have this week .
+Overlap 2: 2853.09,2855.17,Z,XXXX+XXXX+{o}|XXXX+XXXX+{k},fg,Bro010-c4,fg,,,o k .,{o} {k} .
+
+Overlap 1: 2853.09,2855.17,Z,XXXX+XXXX+{o}|XXXX+XXXX+{k},fg,Bro010-c4,fg,,,o k .,{o} {k} .
+Overlap 2: 2853.98,2856.93,A,2853.98+2854.66+and|2854.75+2855.53+uh|2855.53+2855.63+i|2855.63+2855.87+think|2855.87+2856.17+it's|2856.42+2856.66+digit|2856.66+2856.93+time,fh|s^t,Bro010-c4,fh|s^t,,,and uh | i think it's digit time .,and uh | i think it's digit time .
+
+Overlap 1: 0.12,0.795,Z,XXXX+XXXX+{ts-},z,Bro011-c1,z,,,ts- ==,{ts-} ==
+Overlap 2: 0.72,1.48,A2,0.04+0.1+<-st>|0.72+0.81+am|0.81+1.1+i|1.1+1.48+on,z,Bro011-c1,z,,,am i on ?,<-st> am i on ?
+
+Overlap 1: 2008.03,2008.2,Z,XXXX+XXXX+{huh},b,Bro011-c2,b,,,huh .,{huh} .
+Overlap 2: 2008.04,2008.44,A,2008.04+2008.44+mm-hmm,b,Bro011-c2,b,,,uhhuh .,mm-hmm .
+
+Overlap 1: 2158.74,2161.94,A,2158.74+2158.99+uh|2159.87+2160.26+no|2160.26+2160.41+no|2160.41+2160.55+i|2160.55+2160.75+don't|2160.75+2160.91+think|2160.91+2161.03+that|2161.03+2161.16+it|2161.16+2161.31+would|2161.31+2161.43+be|2161.43+2161.52+the|2161.52+2161.94+same,fh|s^ar,Bro017-c1,fh|s^ar,,,uh - | no no i don't think that it would be the same .,uh - | no no i don't think that it would be the same .
+Overlap 2: 2161.91,2162.57,Z,XXXX+XXXX+{let}|XXXX+XXXX+{me}|XXXX+XXXX+{uh},%--,Bro017-c1,%--,,,let me uh ==,{let} {me} {uh} ==
+
+Overlap 1: 2172.28,2172.46,Z,XXXX+XXXX+{huh}|XXXX+XXXX+{huh},b,Bro017-c5,b,,,huh huh .,{huh} {huh} .
+Overlap 2: 2172.29,2173,A,2172.29+2173+mm-hmm,b,Bro017-c5,b,,,uhhuh .,mm-hmm .
+
+Overlap 1: 3056.6,3057.06,Z,XXXX+XXXX+{okay},b,Bro017-c5,b,,,okay .,{okay} .
+Overlap 2: 3056.61,3057.07,A,3056.61+3057.07+hmm,b,Bro017-c5,b,,,huh .,hmm .
+
+Overlap 1: 3064.07,3064.42,Z,XXXX+XXXX+{yeah},b,Bro017-c3,b,,,yeah .,{yeah} .
+Overlap 2: 3064.08,3064.72,A2,3056.79+3056.99+<o_k>|3064.08+3064.72+yeah,b,Bro017-c3,b,,,yeah .,<o_k> yeah .
+
+Overlap 1: 1045.35,1045.69,Z,XXXX+XXXX+{uhhuh},b,Bro018-c5,b,,,uhhuh .,{uhhuh} .
+Overlap 2: 1045.36,1045.7,A2,1035.15+1035.53+<mmm>|1045.36+1045.7+mm-hmm,b,Bro018-c5,b,,,uhhuh .,<mmm> mm-hmm .
+
+Overlap 1: 1034.03,1035.1,A,1034.03+1035.1+mmm,b,Bro023-c1,b,,,huh .,mmm .
+Overlap 2: 1034.7,1035.41,Z,XXXX+XXXX+{@@},%,Bro023-c1,%,,,@@ ==,{@@} ==
+
+Overlap 1: 2554.09,2557.06,A,2554.09+2554.23+where|2554.23+2554.5+does|2554.5+2554.61+the|2554.61+2555.17+comprish-|2555.17+2555.69+compression|2555.69+2555.82+in|2555.82+2556.2+decoding|2556.2+2556.47+delay|2556.47+2556.76+comes|2556.76+2557.06+from,qw^rt,Bro024-c4,qw^rt,18a,,where does the comprish- - compression in decoding delay comes from ?,where does the comprish- - compression in decoding delay comes from ?
+Overlap 2: 2555.84,2557.73,Z,XXXX+XXXX+{@@},x,Bro024-c4,x,,,@@ ==,{@@} ==
+
+Overlap 1: 2649.9,2651.04,A,2649.9+2650.04+there|2650.04+2650.19+should|2650.19+2650.32+be|2650.32+2650.57+five|2650.57+2651.04+sheets,s,Bro024-c4,s,25a+,,there should be five sheets .,there should be five sheets .
+Overlap 2: 2650.6,2651.66,Z,XXXX+XXXX+{@@},x,Bro024-c4,x,,,@@ ==,{@@} ==
+
+Overlap 1: 3809.04,3813.61,A,3809.04+3809.16+i|3809.16+3809.56+just|3809.56+3809.97+uh|3810.05+3810.38+it|3810.53+3811.21+experience|3811.21+3811.52+shows|3811.52+3811.79+you|3812.21+3812.59+if|3812.59+3812.86+if|3812.86+3812.99+you|3812.99+3813.23+do|3813.23+3813.61+the,s.%--,Bro024-cA,s.%--,,,i just uh - it - experience shows you if - if you do the ==,i just uh - it - experience shows you if - if you do the ==
+Overlap 2: 3811.98,3815.32,Z,XXXX+XXXX+{@@},x,Bro024-cA,x,,,@@ ==,{@@} ==
+
+Overlap 1: 1418.11,1422.78,A,1418.11+1418.18+yeah|1418.29+1418.76+so|1419.14+1419.94+that's|1420.12+1420.29+so|1420.29+1420.52+that's|1420.52+1420.72+still|1420.72+1420.8+a|1420.93+1421.26+slight|1421.26+1421.64+difference|1421.64+1421.77+from|1421.77+1421.94+what|1421.94+1422.25+guenter|1422.25+1422.42+is|1422.42+1422.78+trying,s,Bro025-c2,s,,,yeah so that's - so that's still a slight difference from what guenter is trying .,yeah so that's - so that's still a slight difference from what guenter is trying .
+Overlap 2: 1420.78,1423.57,Z,XXXX+XXXX+{and},%--,Bro025-c2,%--,,,and ==,{and} ==
+
+Overlap 1: 111.791,111.931,Z,XXXX+XXXX+{yeah},b,Bro026-c2,b,,,yeah .,{yeah} .
+Overlap 2: 111.801,111.941,A,111.801+111.941+yeah,s^bk,Bro026-c2,s^bk,,FBH,yeah .,yeah .
+
+Overlap 1: 850.656,851.126,A,850.656+851.126+second,s,Bro026-c4,s,10b-1,,second .,second .
+Overlap 2: 851.056,851.146,Z,XXXX+XXXX+{right},qy^d^g^rt,Bro026-c4,qy^d^g^rt,10b-1+,,right ?,{right} ?
+
+Overlap 1: 2649.74,2650.1,Z,XXXX+XXXX+{@reject@},%,Bro026-c2,%,,,@reject@ .,{@reject@} .
+Overlap 2: 2649.78,2652.99,A,2649.78+2649.87+y-|2649.87+2650.13+y-|2650.19+2650.41+this|2650.41+2650.65+is|2650.65+2650.79+more|2650.79+2651.04+like|2651.04+2651.13+you|2651.13+2651.19+know|2651.19+2651.39+how|2651.39+2651.53+does|2651.53+2651.97+l_d_a|2651.97+2652.26+differ|2652.26+2652.42+from|2652.42+2652.99+p_c_a,s:qw,Bro026-c2,s:qw,7a,,y- - y- - this is more like you know how does l d a differ from p c a .,y- - y- - this is more like you know how does l_d_a differ from p_c_a .
+
+Overlap 1: 3020.4,3021,Z,XXXX+XXXX+{right},b,Bro026-c5,b,,,right .,{right} .
+Overlap 2: 3020.53,3020.96,A,3020.53+3020.96+mmm,b,Bro026-c5,b,,,huh .,mmm .
+
+Overlap 1: 2203.19,2203.78,A,2203.19+2203.78+yeah,b,Bro027-c3,b,,,yeah .,yeah .
+Overlap 2: 2203.63,2204.46,Z,XXXX+XXXX+{@@},%,Bro027-c3,%,,,@@ ?,{@@} ?
+
+Overlap 1: 2341.09,2342.56,A,2341.09+2341.3+on|2341.3+2341.4+the|2341.5+2341.82+test|2341.82+2342.17+set|2342.17+2342.56+yeah,s^t1,Bro027-c4,s^t1,,,on the test set yeah .,on the test set yeah .
+Overlap 2: 2342.17,2343.55,Z,XXXX+XXXX+{@@},%,Bro027-c4,%,,,@@ ==,{@@} ==
+
+Overlap 1: 417.151,417.833,Z,XXXX+XXXX+{huh}|XXXX+XXXX+{huh},b,Btr001-c3,b,,,huh huh .,{huh} {huh} .
+Overlap 2: 417.201,417.721,A,417.201+417.721+hmm-hmm,b,Btr001-c3,b,,,uhhuh .,hmm-hmm .
+
+Overlap 1: 779.24,781.05,A,779.24+779.33+i|779.33+779.46+hear|779.46+779.62+this|779.62+779.8+other|779.8+780.18+person's|780.18+780.42+voice|780.42+780.61+just|780.61+780.69+as|780.69+781.05+clearly,s^r:s,Btr002-c5,s^r:s,,,i hear this other person's voice just as clearly .,i hear this other person's voice just as clearly .
+Overlap 2: 780.836,781.413,Z,XXXX+XXXX+{or}|XXXX+XXXX+{something},s,Btr002-c5,s,,,or something .,{or} {something} .
+
+Overlap 1: 780.836,781.413,Z,XXXX+XXXX+{or}|XXXX+XXXX+{something},s,Btr002-c5,s,,,or something .,{or} {something} .
+Overlap 2: 781.05,782.686,A,781.05+781.15+and|781.15+781.18+i|781.18+781.53+realize|781.53+781.67+it's|781.67+781.93+not|782.306+782.686+jane,s:s,Btr002-c5,s:s,,,and i realize it's not jane .,and i realize it's not jane .
+
+Overlap 1: 1611.83,1613.93,A,1611.83+1612.08+that|1612.65+1612.86+that|1612.86+1613.13+has|1613.17+1613.3+the|1613.3+1613.93+p_c,s^e,Btr002-c3,s^e,105a,,that - that has the p. c .,that - that has the p_c .
+Overlap 2: 1611.84,1612.93,Z,XXXX+XXXX+{right},qy^d^g^r.%,Btr002-c3,qy^d^g^r.%,,,right ?,{right} ?
+
+Overlap 1: 2083.93,2084.54,A,2083.93+2084.54+yeah,s^aa,Buw001-c0,s^aa,49b+,,yeah .,yeah .
+Overlap 2: 2083.98,2084.54,Z,XXXX+XXXX+{yeah},s^aa,Buw001-c0,s^aa,49b+,,yeah .,{yeah} .
+NOTE: Extraneous line.

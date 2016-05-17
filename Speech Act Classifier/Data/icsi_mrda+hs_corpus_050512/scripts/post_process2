@@ -1,0 +1,417 @@
+#!/usr/local/bin/perl
+
+###########
+# in_dict #
+###########
+sub in_dict {
+    my $word=lc(shift @_);
+    $word=~s/^\W*//;
+    $word=~s/\W*$//;
+    open(DICT,"$dictfile") || die "ERROR can't open $dictfile: $!\n";
+    while(<DICT>) {
+	chomp;
+	if ($word eq $_) {
+	    close(DICT);
+	    return 1;
+	}
+    }
+    close(DICT);
+    return 0;
+
+}
+
+
+
+if ($#ARGV != 1)
+{
+    print "Usage: post_process <in_file> <out_file>\n";
+    exit;
+}
+
+$dictfile="/u/stolcke/project/meeting-recognizer/hub5.vocab";
+open(in_file, $ARGV[0]);
+open (out_file, ">".$ARGV[1]);
+
+while (<in_file>)
+{
+# Processing of periods
+s/\t\.\./\t/g;
+s/\.\.//g;
+
+# Processing stars
+s/([a-z][A-Z])\*(\w)/$1 $2/g;
+s/\*//g;
+
+# Processing of colons
+s/\://g;
+
+# Processing parenthesis
+s/\(\?\?\)/\@REJECT\@/g;
+s/\(//g;
+s/\)//g;
+
+# Hyphen mappings
+s/\bmmm-hmm\b/uhhuh/ig;
+s/\bmm-hmm\b/uhhuh/ig;
+s/\bhmm-hmm\b/uhhuh/ig;
+s/\bmmm-mm\b/uhhuh/ig;
+s/\bmm-hmmm\b/uhhuh/ig;
+s/\bum-hmm\b/uhhuh/ig;
+s/\bmm-mmm\b/uhhuh/ig;
+s/\bmmm-mmm\b/uhhuh/ig;
+s/\baa-huh\b/uhhuh/ig;
+s/\boh-huh\b/uhhuh/ig;
+s/\bhm-hmm\b/huh huh/ig;
+s/\bhmm-mmm\b/huh huh/ig;
+s/\bhm-umm\b/huh huh/ig;
+s/\bhuh-huh\b/huh huh/ig;
+s/\bhmm-hmm-hmm\b/huh huh huh/ig;
+s/\bhuh-huh-huh\b/huh huh huh/ig;
+s/\bhmm-hmm-hmm-hmm-hmm\b/huh huh huh huh huh/ig;
+s/\bhuh-uh\b/huh uh/ig;
+s/\bnnn-mm\b/nn mm/ig;
+s/\bnn-nnn\b/nn mm/ig;
+s/\bnn-mm\b/nn mm/ig;
+s/\bmmm-yea\b/mm yeah/ig;
+s/\bmm-yeah\b/mm yeah/ig;
+
+# Removing hyphens
+s/\buh-huh\b/uhhuh/ig;
+s/\buh-huhs\b/uhhuh/ig;
+s/\bon-line\b/online/ig;
+s/\buh-oh\b/uhoh/ig;
+s/\buh-uh\b/uhuh/ig;
+
+# Some more text normalizations
+s/\b[m|M]mhmmm\b/uhhuh/g;
+s/\b[m|M]mhmm\b/uhhuh/g;
+s/\b[m|M]hmm\b/uhhuh/g;
+s/\b[m|M]hm\b/uhhuh/g;
+s/\b[m|M]mhm\b/uhhuh/g;
+s/\b[m|M]mm\b/huh/g;
+s/\b[m|M]m\b/huh/g;
+s/\b[h|H]mm\b/huh/g;
+s/\b[a|A]h\b/uh/g;
+s/\b[e|E]h\b/uh/g;
+s/\b[u|U]mm\b/um/g;
+
+# Resolve rest of hyphenated words
+@words=split(/\s+/);
+$first=shift(@words);
+foreach $word (@words) {
+    unless ($word=~/\w-\w/) {
+	next;
+    }
+    $temp=$word;
+    $temp=~s/-//g;
+    @tempwords=split(/-/,$word);
+    if (in_dict($word)) {
+    } elsif (in_dict($temp)) {
+	$word=~s/-//g;
+    } elsif (in_dict($tempwords[0])) {
+	$allwords=1;
+	for ($i=1;$i<=$#tempwords;$i++) {
+	    if (!in_dict($tempwords[$i])) {
+		$allwords=0;
+	    }
+	}
+	if ($allwords) {
+	    $word=~s/-/ /g;
+	}
+    }
+}
+$_="@words\n";
+
+s/\./<PER>/g;
+
+# Other substitutions
+s/\bA_-to-D_\b/A\. to D\./g;
+s/\bA_G_C-like\b/A\. G\. C\. like/g;
+s/\bA_P_I-level\b/A\. P\. I\. level/g;
+s/\bAurora-two-B_\b/aurora two B\./g;
+s/\bC_-plus-plus\b/C\. plus plus/g;
+s/\bC_D-ROM\b/C\. D\. rom/g;
+s/\bC_D-ROMs\b/C\. D\. roms/g;
+s/\bC_plus-plus\b/C\. plus plus/g;
+s/\bD_-Day\b/D\. day/g;
+s/\bE_D_U-one\b/E\. D\. U\. one/g;
+s/\bE_M-like\b/E\. M\. like/g;
+s/\bEleven-B_\b/eleven B\./g;
+s/\bG_-seven-one-two\b/G\. seven one two/g;
+s/\bG_P_S-base\b/G\. P\. S\. base/g;
+s/\bH_M_M-ba-\b/H\. M\. M\. ba-/g;
+s/\bH_P_S_G-like\b/H\. P\. S\. G\. like/g;
+s/\bI_-triple-E_\b/I\. triple E\./g;
+s/\bI_C_S_I-O_G_I\b/I\. C\. S\. I\. O\. G\. I\./g;
+s/\bI_P-based\b/I\. P\. based/g;
+s/\bI_P-layer\b/I\. P\. layer/g;
+s/\bJ_RASTA-L_D_A\b/J\. rasta L\. D\. A\./g;
+s/\bJ_sound-stat\b/J\. sound stat/g;
+s/\bK_nearest-neighbors\b/K\. nearest neighbors/g;
+s/\bL_P_C-twelve\b/L\. P\. C\. twelve/g;
+s/\bL_P_C-twenty\b/L\. P\. C\. twenty/g;
+s/\bL_seventy-four\b/L\. seventy four/g;
+s/\bLogRASTA-P_L_P\b/lograsta P\. L\. P\./g;
+s/\bM_-three-L_\b/M\. three L\./g;
+s/\bM_-three-\b/M\. three/g;
+s/\bM_L_P-based\b/M\. L\. P\. based/g;
+s/\bM_O_-four\b/M\. O\. four/g;
+s/\bM_O_-two\b/M\. O\. two /g;
+s/\bM_P-thr-\b/M\. P\. thr-/g;
+s/\bM_S_G-like\b/M\. S\. G\. like/g;
+s/\bM_S_G-three\b/M\. S\. G\. three/g;
+s/\bM_one-hundred\b/M\. one hundred/g;
+s/\bN_L_P-ish\b/N\. L\. P\. ish/g;
+s/\bN_S_A-one\b/N\. S\. A\. one/g;
+s/\bN_S_A-three\b/N\. S\. A\. three/g;
+s/\bN_T_L-ish\b/N\. T\. L\. ish/g;
+s/\bO_L_N-two\b/O\. L\. N\. two/g;
+s/\bP_D_A-free\b/P\. D\. A\. free/g;
+s/\bP_D_A-left\b/P\. D\. A\. left/g;
+s/\bP_D_A-right\b/P\. D\. A\. right/g;
+s/\bP_D_M-right\b/P\. D\. M\. right/g;
+s/\bP_D_P-eights\b/P\. D\. P\. eights/g;
+s/\bP_Z_A-right\b/P\. Z\. A\. right/g;
+s/\bPost-P_H_D\b/post P\. H\. D\./g;
+s/\bQ_S-in-Advance\b/Q\. S\. in advance/g;
+s/\bRASTA-P_L_P\b/rasta P\. L\. P\./g;
+s/\bR_A-ship\b/R\. A\. ship/g;
+s/\bS_B-one-hundred\b/S\. B\. one hundred/g;
+s/\bS_G_M_L-like\b/S\. G\. M\. L\. like/g;
+s/\bS_M-ten-A\b/S\. M\. ten A\./g;
+s/\bS_N_D-play\b/S\. N\. D\. play/g;
+s/\bT_C_L-based\b/T\. C\. L\. based/g;
+s/\bT_I-di-\b/T\. I\. di-/g;
+s/\bT_I-digit\b/T\. I\. digit/g;
+s/\bT_I-digits\b/T\. I\. digits/g;
+s/\bTcl-T_K\b/tcl T\. K\./g;
+s/\bTest-A_\b/test A\./g;
+s/\bTest-B_\b/test B\./g;
+s/\bTrans-_I_P\b/trans I\. P\./g;
+s/\bTwo-D_\b/two D\./g;
+s/\bU_M_T_S-to-WaveLAN-gateway\b/U\. M\. T\. S\. to wavelan gateway/g;
+s/\bU_S_-of-A_\b/U\. S\. of A\./g;
+s/\bV_A_D-based\b/V\. A\. D\. based/g;
+s/\bV_A_D-like\b/V\. A\. D\. like/g;
+s/\bW_-three-C_\b/W\. three C\./g;
+s/\bWhere-X_\b/where X\./g;
+s/\barg-C_\b/arg C\./g;
+s/\barg-V_\b/arg V\./g;
+s/\bblah-blah-X_blah\b/blah blah X\. blah/g;
+s/\bcontrol-C_\b/control C\./g;
+s/\bdouble-E_\b/double E\./g;
+s/\bfive-A_\b/five A\./g;
+s/\bfive-K_s\b/five K\.s/g;
+s/\bfive-one-O_\b/five one O\./g;
+s/\blength-M_\b/length M\./g;
+s/\bloc-X_\b/loc X\./g;
+s/\blocation-X_\b/location X\./g;
+s/\blog-X_\b/log X\./g;
+s/\bmodel-A_\b/model A\./g;
+s/\bmulti-C_P_U\b/multi C\. P\. U\./g;
+s/\bnon-C_zero\b/non C\. zero/g;
+s/\bnon-X_M_L\b/non X\. M\. L\./g;
+s/\bnot-P_\b/not P\./g;
+s/\bone-K_\b/one K\./g;
+s/\bpart-A_\b/part A\./g;
+s/\bpart-B_\b/part B\./g;
+s/\bpath-X_\b/path X\./g;
+s/\bplanner-A_\b/planner A\./g;
+s/\bplanner-B_\b/planner B\./g;
+s/\bplanner-C_\b/planner C\./g;
+s/\bshow-A_T_T_R\b/show A\. T\. T\. R\./g;
+s/\bsigmoid-X_\b/sigmoid X\./g;
+s/\bsixteen-K_\b/sixteen K\./g;
+s/\bsize-T_\b/size T\./g;
+s/\bslash-D_-something\b/slash D\. something/g;
+s/\bslash-D_C\b/slash D\. C\./g;
+s/\bslash-X_-something\b/slash X\. something/g;
+s/\bslash-X_-whatever\b/slash X\. whatever/g;
+s/\bsub-D_\b/sub D\./g;
+s/\bsub-E_\b/sub E\./g;
+s/\bsub-O_\b/sub O\./g;
+s/\bsub-S_\b/sub S\./g;
+s/\bsub-U_\b/sub U\./g;
+s/\btest-A_\b/test A\./g;
+s/\btest-C_\b/test C\./g;
+s/\bthree-B_\b/three B\./g;
+s/\bthree-D_\b/three D\./g;
+s/\bthree-G_S_G_S_N\b/three G\. S\. G\. S\. N\./g;
+s/\btriple-A_\b/triple A\./g;
+s/\btriple-A_I\b/triple A\. I\./g;
+s/\btwo-B_\b/two B\./g;
+s/\btwo-D_\b/two D\./g;
+s/\btwo-I_P\b/two I\. P\./g;
+s/\btype-A_\b/type A\./g;
+s/\btype-B_\b/type B\./g;
+s/\btype-C_\b/type C\./g;
+s/\bunderbar-U_\b/underbar U\./g;
+s/\bunderscore-E_\b/underscore E\./g;
+s/\bunderscore-T_\b/underscore T\./g;
+s/\bversion-A_\b/version A\./g;
+
+s/\bLook-At-H\b/look at H\./g;
+
+s/\/\///g;
+s/O_K/Okay/g;
+s/{QUAL[^\{]+}/\[noise\]/g;
+s/{QUAL.+}/\[noise\]/g;
+s/(\s)[^\s]+\s{gloss "([^}]+)"}/$1$2/g;
+s/\{NUM[^\{]+\}//g;
+s/\{NUM \".+\"\}//g;
+s/{VOC\s([^}]+)}/\[$1\]/g;
+s/{NONVOC\s([^\}]+)}/\[$1\]/g;
+s/{NVC\s([^\}]+)}/\[noise\]/g;
+s/{DGTS}/[numbers]/g;
+s/{digits}/[numbers]/g;
+s/{numbers}/[numbers]/g;
+s/{pron_error}//g;
+s/{pron.error}//g;
+s/{pron.err}//g;
+s/{PRN[^\}]*}//g;
+s/{inhales}/[mouth]/g;
+s/{inhale}/[mouth]/g;
+s/{inbreath}/[mouth]/g;
+s/{exhales}/[mouth]/g;
+s/{exhale}/[mouth]/g;
+s/{laugh([^\}]+)}/[laugh]/g;
+s/{cough([^\}]+)}/[mouth]/g;
+s/{sniff([^\}]+)}/[mouth]/g;
+
+
+
+s/{false start}//g;
+s/{pron.error \".+\"}//g;
+
+
+s/([A-Z]_)([A-Z])(s)/$1$2\'$3/g; # Add apostrophe if spoken letter with s
+s/([A-Z]_)([A-Z])([\W])/$1$2\.$3/g; # Add dot to last spoken letter
+s/([A-Z])_-?/$1\. /g; # Change underscores to dots for the rest
+s/(\s)-([^a-zA-Z])/$1<D>$2/g;
+
+
+
+s/\?\?([^\>])/<Q>$1/g;
+s/\?([^\>])/<Q>$1/g;
+
+s/\!/<EXC>/g;
+
+s/[0-9]x\b/\@REJECT\@/g;
+s/\,/<COM>/g;
+s/([^\w\.])'/$1 /g;
+s/^'//g;
+s/^//g;
+
+s/{GER[^\}]*}//g;
+
+
+s/\[([^[\[|\]]+) ([^[\[|\]]+)\]/\[$1_$2\]/g;
+s/\<([^[<|>]+) ([^[<|>]+)\>/\<$1_$2\>/g;
+#s/\t\t(.+)-([a-zA-Z])/\t\t$1 $2/g;
+#s/([a-zA-Z])-([a-zA-Z])/$1 $2/g;
+
+#if (!/([m|r|n].+\t\t).+\S/)
+#{
+#    /([m|r|n].+\t\t)/;
+#    $_ = $1."EMPTY\n";
+#}
+s/\"([^\"]+)\"/<S.Q>$1<E.Q>/g;
+s/\<([a-z]+)\>/\[$1\]/g;
+s/\<([a-z]+_[a-z]+)\>/\[$1\]/g;
+
+s/\{/\[/;
+s/\}/\]/;
+
+s/\bcuz\b/because/ig;
+s/\buh huh\b/uhhuh/ig;
+s/\beh\b/uh/ig;
+s/\bdunno\b/don't know/ig;
+s/\ber\b/uh/ig;
+s/\bem\b/them/ig;
+s/\bwanna\b/want to/ig;
+s/\bgonna\b/going to/ig;
+s/\bkinda\b/kind of/ig;
+s/\bhafta\b/have to/ig;
+s/\balright\b/all right/ig;
+
+s/\baaa\b/ah/ig;
+s/\behhh\b/uh/ig;
+s/\behm\b/um/ig;
+s/\bhunh\b/huh/ig;
+s/\bumh\b/um/ig;
+s/\bummh\b/umm/ig;
+s/\buuh\b/uh/ig;
+
+s/\bhhh\b/[mouth]/ig;
+
+s/\blemme\b/let me/ig;
+s/\boughta\b/ought to/ig;
+s/\bsorta\b/sort of/ig;
+s/\bgotta\b/got to/ig;
+
+s/\banalyse\b/analyze/ig;
+s/\banalyser\b/analyzer/ig;
+s/\banalysing\b/analyzing/ig;
+s/\band_t\b/and t/ig;
+s/\bbackchannelling\b/backchanneling/ig;
+s/\bceptrum\b/cepstrum/ig;
+s/\bemphasises\b/emphasizes/ig;
+s/\bguestimating\b/guesstimating/ig;
+s/\bi cassp\b/icassp/ig;
+s/\bkingbury\b/kingsbury/ig;
+s/\bknowledgable\b/knowledgeable/ig;
+s/\blabeller\b/labeler/ig;
+s/\blabellers\b/labelers/ig;
+s/\blabellings\b/labelings/ig;
+s/\bmislabellings\b/mislabelings/ig;
+s/\bmispelled\b/misspelled/ig;
+s/\bmodeller\b/modeler/ig;
+s/\bmodelling\b/modeling/ig;
+s/\bosterhaut\b/osterhout/ig;
+s/\bparamenters\b/parameters/ig;
+s/\bprefectly\b/perfectly/ig;
+s/\bsightly\b/slightly/ig;
+s/\bsubstraction\b/subtraction/ig;
+s/\bsythesis\b/synthesis/ig;
+s/\btransciber\b/transcriber/ig;
+s/\btraveller\b/traveler/ig;
+s/\btuebingen\b/tubingen/ig;
+s/\bunderstandi\b/understand/ig;
+s/\bwavform\b/waveform/ig;
+s/\bzero\'s\b/zeroes/ig;
+
+
+s/\bd\'you\b/did you/ig;
+s/\bhere\'re\b/here are/ig;
+s/\bpeople\'d\b/people would/ig;
+s/\bshouldn\'t\'ve\b/shouldn\'t have/ig;
+s/\bthis\'d\b/this would/ig;
+s/\bthousand\'d\b/thousand would/ig;
+s/\btwenty\'d\b/twenty would/ig;
+s/\bwhichever\'s\b/whichever is/ig;
+
+# <word>'ll contractions
+# keep only in-vocab contractions with 'll
+s/\bhe\'ll\b/he\+ll/ig;
+s/\bi\'ll\b/i\+ll/ig;
+s/\bit\'ll\b/it\+ll/ig;
+s/\bshe\'ll\b/she\+ll/ig;
+s/\bthat\'ll\b/that\+ll/ig;
+s/\bthere\'ll\b/there\+ll/ig;
+s/\bthey\'ll\b/they\+ll/ig;
+s/\bthis\'ll\b/this\+ll/ig;
+s/\bwe\'ll\b/we\+ll/ig;
+s/\bwhat\'ll\b/what\+ll/ig;
+s/\bwho\'ll\b/who\+ll/ig;
+s/\byou\'ll\b/you\+ll/ig;
+# remove all others
+s/\b([a-z]*)\'ll\b/\1 will/ig;
+# recover the old contractions
+s/\+ll\b/\'ll/ig;
+
+$_="$first "."$_";
+
+print out_file $_;
+
+}
+

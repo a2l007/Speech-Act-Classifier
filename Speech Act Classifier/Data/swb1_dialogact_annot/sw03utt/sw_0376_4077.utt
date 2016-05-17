@@ -1,0 +1,251 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4077_1531_1469
+TOPIC#:		314
+DATE:		920306
+TRANSCRIBER:	SS
+DIFFICULTY:	3
+UTT_CODER:      MMAB
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:  	Speaker B has a television in the background.  Speak A
+says "you know" so often that he is very difficult to follow.
+
+============================================================================
+  
+
+qo          A.1 utt1:  How do you feel about gun control? /  
+
+sv          @B.2 utt1:  {D Well, } {F uh, } {E I mean } I don't think that guns  should be outlawed -- /  
+
+b          A.3 utt1:  {F Um. } /  
+
+%          B.4 utt1:  -- {C but } it's going to, - /
+%          B.4 utt2: a lot of the stuff  that, - /
+sv          B.4 utt3: {E I mean } all you do is to get guns --   
+
+b          A.5 utt1:  Uh-huh. /  
+
++          B.6 utt1:  -- and then like with the stuff of that  massacre in Killeen, Texas not too long ago,   
+
+b          A.7 utt1:  Uh-huh. /  
+
++          B.8 utt1:  {C But } I don't really know, {E I mean, } unless  they do, {F uh, } just outlaw them, how you can, {F uh, } prevent that. /  
+
+qy          A.9 utt1:  {D Well, } don't you think that {D you know, }  just having, {D you know, } some, {D you know } almost like a driver's license be required {D you know }  with stiff penalties if you are found [ with, + with ] {D you know } a gun that is not  registered or {D you know } that you are not licensed to carry.  /
+%@          A.9 utt2:  {E I mean, }   
+
+ny          B.10 utt1:  Yeah,  /
+%          B.10 utt2: that, - /
+qy          B.10 utt3: {D well } do you even know what the  procedures are now? /  
+
++@          A.11 utt1:  It varies from State to State. /  
+
+b          B.12 utt1:  {F Um. } /  
+
+sd          A.13 utt1:  There is no national, -/  
+
+sv          B.14 utt1:  {C But, }  it's kind of like if you want a gun you  can get a gun, especially if you have the money to pay for it. /  
+
+sv          A.15 utt1:  {F Uh, } in most States as long as you aren't  a convicted felon.   
+
+b          B.16 utt1:  Yeah. /  
+
++          A.17 utt1:  {D You know } or on probation or, {F uh, }  {D you know, } other obvious things like that.  /
+sd          A.17 utt2: {F Uh, } {C and } [ I know, + I know ] that {D like } in a lot of  states [ you could, + you could ] be just like released from a mental hospital the day before.   {D You know, } [ be, + be ] obviously insane,  /
+sd          A.17 utt3: [ {C and then, } + [ you, + {D you know } ]  {C but } ]  have your legal right to get a gun. /  
+
+sd          B.18 utt1:  {F Huh. } I didn't know that.  /
+ba          B.18 utt2: {D Well, } that's  pretty scary.  /
+qy^t          B.18 utt3: {C So, } [ does, + {D now } do ] they want us to say where we feel about it, {D like } in rating  it one to ten. /  
+
+ny          A.19 utt1:  {F Uh, } yeah,  /
+sd^e          A.19 utt2: [ I'd probably, + I'd probably ]  say about a five. /  
+
+sd          B.20 utt1:  <Laughter>  That's where I would probably be <laughter>. /  
+
+sv          A.21 utt1:  <Laughter> Seems like it's a good safe number to  pick, {D you know. } /  
+
+sd          B.22 utt1:  {D Well, } {E I mean, } {E I mean } I don't really know  [ what they can, + how they can ] really enforce the laws any better -- /  
+
+b          A.23 utt1:  Uh-huh <inhaling>. /  
+
+sv          B.24 utt1:  -- {C because } {E I mean } I do think that some people need  them [ and, + ] {D like, } for protection and stuff -- /  
+
+b          A.25 utt1:  Uh-huh. /  
+
+sd          B.26 utt1:  -- {C and } I can understand them wanting to have them,  /
+sv          B.26 utt2:  {C but } then again it's just like all those nuts out there. /  
+
+%          A.27 utt1:  <Smack> {D Well, } {D you know, } {F uh, } {F uh, } no-,  /
+sv          A.27 utt2:  if you are looking at {D like } {D you know } country [ that, +  {F uh, } where ] they do have a lot more  gun control, like England and  places like that, {D you know }  /
+sv          A.27 utt3: the amount of violent crime has  decreased by so  much. /  
+
+bh          B.28 utt1:  It has?  /
+%          B.28 utt2: # {C Because } then, # -/  
+
+ny          A.29 utt1:  # {D Well } {E I mean } # yeah.  /
+%          A.29 utt2:  [ The, + {F uh, } the ] - /
+sv^e          A.29 utt3:   in comparing per capita murders are incredibly lower than the United States. /  
+
+b        B.30 utt1:  {F Um. } /  
+
+sv          A.31 utt1:  {F Uh, } <inhaling> {D you know, } {E I mean, } the  problem though, {D you know, } [ they, if the, +  since the ] United States had this, {D you know, }  pretty much unrestricted flow of guns going for so long that I think, {D you know, } if you were introduced, {D you know, } any controls, it would probably take a  long while for them to take effect just because there is a glut of guns out # there already. # /  
+
+b          B.32 utt1:  # Yeah. # /  
+
+sv          A.33 utt1:  {D You know, } {C so } [ it's, + it's ]  really kind of a complex problem. /  
+
+qy          B.34 utt1:  {D Well, } is the crime that bad there in Atlanta? /  
+
+no          A.35 utt1:  <Inhaling> {F Uh, } I'm not really sure how bad it is.  /
+sd          A.35 utt2: [  I've, + I've ] not really had that many problems with it,  /
+sd          A.35 utt3: {C but } {E I mean } apparently  [ we, +  we ] were ranked pretty high up. /  
+
+b          B.36 utt1:  # Yeah  /
+sd          B.36 utt2: I know Dallas is. # /  
+
+%          A.37 utt1:  # {F Uh. } # {E I mean, } I think, {D you know, } in the  te-, - /
+sd          A.37 utt2: {E I mean } I think we have been {D like } ranked in one of the top three for murders in the last  few years. /  
+
+sd          B.38 utt1:  I don't know if Dallas is in the top three -- /  
+
+b          A.39 utt1:  Uh-huh. /  
+
+qy          B.40 utt1:  -- {C but. }   Do you own a gun? /  
+
+nn          A.41 utt1:  <Smack> No.  /
+sd^e          A.41 utt2: I've thought about getting one.  /
+sd          A.41 utt3: If I get one,  I think I will probably, {D you know, } get something.  /
+sd          A.41 utt4:  I probably wouldn't get  a hand gun.  /
+sd          A.41 utt5: I would probably get {D like } a shotgun.  /
+sd          A.41 utt6:  Just for protecting myself.    {D You know, } from --   
+
+b          B.42 utt1:  Uh-huh. /  
+
++          A.43 utt1:  -- burglar type thing.  /
+sd          A.43 utt2:  I do kind of live in the downtown area. /  
+
+b          B.44 utt1:  Yeah. /  
+
+sv          A.45 utt1:  {D You know }  {C and } shotguns are really good because  they're, - /
+sv          A.45 utt2: {E I mean } somebody is not going to break in, steal it, and {D you know, } use it to  mug someone, {D you know. } /  
+
+aa          B.46 utt1:  That's true. /  
+
+%          A.47 utt1:  {F Uh, } {C and } {D you know, } you, - /
+%          A.47 utt2: yeah,  /
+sd          A.47 utt3: I just don't  understand these people, {D you know, } like when [ they, + they ]  decide they're going to buy a gun to protect themselves.  /
+sv          A.47 utt4: They go out and buy a three fifty seven magnum which  is going to shoot through {D you know, } - /
+sv          A.47 utt5: they are probably going to miss the  person  /
+sv          A.47 utt6: [ {C and, } + {C and } ] they're going to shoot through five wall,   
+
+x          B.48 utt1:  <Laughter>.   
+
++          A.49 utt1:  and hit someone, {D you know. }  /
+sv          A.49 utt2: {E I mean } a shotgun just  really struck me as being {D you know } a real good defensive weapon.  /
+sv          A.49 utt3:  You can sort of point  it somewhere in the direction of --   
+
+b          B.50 utt1:  Yeah. /  
+
++          A.51 utt1:  -- {D you know } whoever. /  
+
+sd@          B.52 utt1:  {D Well, }   
+
+sv          A.53 utt1:  You pretty much stop them.  /
+%          A.53 utt2: {C And, }  you don't, - /
+sv          A.53 utt3: then the  actual shot doesn't go that far, {D you know, } a wall will stop it pretty much. /  
+
++@          B.54 utt1:  {D Well, } now when I first moved to Dallas, I moved up  here by myself  /
+sd          B.54 utt2: {C and, }  {F uh, } my Dad gave me a gun -- /  
+
+b          A.55 utt1:  Uh-huh. /  
+
+sd          B.56 utt1:  -- {C but } I never did go out and practice with it enough  to feel comfortable with it -- /  
+
+b          A.57 utt1:  Uh-huh. /  
+
+sd          B.58 utt1:  -- {C so } I finally ended up giving it back to him.  /
+sd(^q)          B.58 utt2:   I said I don't want it.  /
+^q          B.58 utt3: I don't want to be responsible for it because --   
+
+b          A.59 utt1:  Uh-huh. /  
+
++          B.60 utt1:  -- {D you know } if you're not going to teach me how  to do it --   
+
+b          A.61 utt1:  <Noise> Uh-huh. /  
+
++          B.62 utt1:  -- and if I am not going to, {D you know, }   
+
+x          A.63 utt1:  <Inhaling>.   
+
++          B.64 utt1:  be responsible enough to go out and learn, I don't need it. /  
+
+b          A.65 utt1:  Yeah,  /
+sd          A.65 utt2: [ that, + that ] really does scare me.   People, {D you know, } that have guns  /
+sv          A.65 utt3:  because {D you know, } if you ever get in the situation where  {D you know } you are not prepared to shoot, - /
+sv          A.65 utt4: {C but } you pick up the gun and point it at  the person --    
+
+b          B.66 utt1:  Yeah. /  
+
++          A.67 utt1:  -- [ that, + that ] person rushes you. /  
+
+sv          B.68 utt1:  {C And } they get it from you. /  
+
+sv          A.69 utt1:  {C And } {D you know, } you're pretty much  dead # {D you know. } #   
+
+b          B.70 utt1:  # Uh-huh. # /  
+
++          A.71 utt1:  Because [ you, + you've ] just told the person that  [ you, + you're ] about to kill them then,   
+
+^2          B.72 utt1:  Set them off. /  
+
++          A.73 utt1:  {D You know }  /
+sv          A.73 utt2: [ {C and, } + {C and, } ] {D well } {E I mean, }  [ you, + you ] basically made it clear to the person [ that +   {D you know } [ unless he, + unless, ] {D you know } that ] you  are a real danger to them  /
+sv          A.73 utt3: {C and then } {D you know } [ if you, + if they ]  manage to get the gun from you, {D you know } their first reaction  is going to [ be +  {D you know, } stop ] you. /  
+
+aa          B.74 utt1:  Yeah,  /
+sd          B.74 utt2: {D well } that's why I ended up giving it back to  him.  /
+sd(^q)          B.74 utt3:  I thought {D well } --   
+
+b          A.75 utt1:  Uh-huh. /  
+
++          B.76 utt1:  -- {D you know. }  I don't want it [ if I don't know how  to oper-, +   {D you know, } if I don't really know how to use ] it -- /  
+
+b          A.77 utt1:  Uh-huh. /  
+
+sd          B.78 utt1:  -- {C and } I just didn't want the responsibility. /  
+
+b          A.79 utt1:  {F Um. } /  
+
+qy          B.80 utt1:  {C So. } {D Well, } {F uh, } did you hear about that  Killeen massacre or whatever? /  
+
+ny          A.81 utt1:  Yeah,  /
+qy          A.81 utt2: [ the, +  did it ] happen at a cafeteria or something? /  
+
+ny          B.82 utt1:  Yeah,  /
+na          B.82 utt2: right.  /
+sv^e          B.82 utt3:  [ That kind of -- +     
+
+b          A.83 utt1:  Uh-huh. /  
+
++          B.84 utt1:  --  {E I mean } it ] just makes you wonder how people  get guns.  /
+sd          B.84 utt2:  I would be scared selling guns to people. / 

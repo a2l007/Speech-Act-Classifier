@@ -1,0 +1,296 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3242_1413_1362
+TOPIC#:		354
+DATE:		911010
+TRANSCRIBER:	GL
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.   
+
+======================================================================
+  
+
+qo^t          A.1 utt1:  {D Well, } how did you like that topic? /  
+
+sd          B.2 utt1:  {F Uh, } I don't know,  /
+sd^t          B.2 utt2: I've got mixed feelings about the topic. /  
+
+qy          @A.3 utt1:  Do you?  /
+sd          @A.3 utt2:  I don't. /  
+
+bf          B.4 utt1:  No.  /
+b          B.4 utt2: Okay. /  
+
+aa          A.5 utt1:  No,  /
+sd          A.5 utt2: I'm pretty opinionated about that  and many other things as you well know.  /
+sd          A.5 utt3:  I agree with it.  /
+sv          A.5 utt4: [ I think, + {F uh, } I think ]  a company should be able to test [ at, + ]  [ any, +  any  ] employee any  time they see fit. /  
+
+%          B.6 utt1:  {D Well, } -/  
+
+sv          A.7 utt1:  [ I just, +  I just ] don't think there's  a place in our environment, {D you know } in the work force for drugs, or alcohol either. /  
+
+sd          B.8 utt1:  {D Well, } I don't believe in drugs or alcohol,  /
+sd          B.8 utt2:  {C but } if you'll remember when the teachers had to take the T CAT --   
+
+b          A.9 utt1:  Right. /  
+
++          B.10 utt1:  -- they were talking about drug testing us -- /  
+
+b          A.11 utt1:  Uh-huh. /  
+
+sd          B.12 utt1:  -- {C and } we were laughing that  we'd have to go to that examination to prove we could read and write with a specimen of urine -- /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd          B.14 utt1:  -- {C and } we found it belittling. /  
+
+qy          A.15 utt1:  You did? /  
+
+ny          B.16 utt1:  Yeah, /  
+
+sd          A.17 utt1:  Uh-huh.  {D Well, } I can sort  of understand that, {F uh, }  /
+sd          A.17 utt2: {C but } not being a teacher, as you are, {D you know, } [ I, +  I ]  was not quite as sympathetic [ as, +  {D you know, } as ] I probably would have been [ if, +  if ]  Kay were a teacher or something. /  
+
+aa          B.18 utt1:  That's true. /  
+
+%          A.19 utt1:  {C But, }  {F uh, } -/  
+
+sd          B.20 utt1:  {C But } then, {D you know, }  at the same token, I'm not against  /
+sd          B.20 utt2: {C because } I look at airline pilots --   
+
+b          A.21 utt1:  Uh-huh. /  
+
++          B.22 utt1:  -- bus drivers --   
+
+b          A.23 utt1:  Uh-huh. /  
+
++          B.24 utt1:  -- {D you know, } people that really  have other peoples' lives in their hands --    
+
+aa          A.25 utt1:  That's right. /  
+
++          B.26 utt1:  -- truck drivers -- /  
+
+aa          A.27 utt1:  That's right. /  
+
+sd          B.28 utt1:  -- it's supposed to be a huge problem  with truck drivers using drugs --   
+
+aa          A.29 utt1:  {F Uh, } that's right -- /  
+
++          B.30 utt1:  -- and alcohol, /  
+
+sd          A.31 utt1:  -- {C and } I think it is a big problem with them using drugs --   
+
+%          B.32 utt1:  {C And, } -/  
+
++          A.33 utt1:  -- from what you read, {D you know, }  /
+%          A.33 utt2: {C but, }  {F uh, } -/  
+
+sv          B.34 utt1:  {D You know, } in those areas I really,  {D you know, } do believe that maybe we should clean up our, {D you know } --   
+
+aa          A.35 utt1:  Yeah,  /
+sd          A.35 utt2: I think so --   
+
++          B.36 utt1: -- house. /  
+
++          A.37 utt1:  -- too,  /
+sd          A.37 utt2: [ I, +  I ] agree with it.  /
+sd          A.37 utt3:  {F Uh, } I know Kay's company, {D you know, }  /
+sd          A.37 utt4: they started it couple of years ago,  /
+sd          A.37 utt5:  {C and so } many of the people, even the professional people [ were, +  boy, they were ]  so against them doing that, {D you know, }  /
+sd(^q)       A.37 utt6: {C and } I thought, Jeez, to me it's quite simple,  /
+^q          A.37 utt7:  {F uh, } you either need a job or you don't.  /
+sd          A.37 utt8:  [ The, +  the ] job is what provides  all of your needs,  /
+sd(^q)       A.37 utt9: {C and, }  {F uh, } if they say, Hey, you can't do this work, I'd say, Hey, I agree,  [ I don't, + I won't ] do that.  /
+sd          A.37 utt10: {C And } I think most of them have agreed to  that now, although they didn't like it at first. /  
+
+b          B.38 utt1:  Yeah,  /
+sv          B.38 utt2: I think it's just like  anything else, a new concept,  {D you know, }  /
+sd          B.38 utt3: as I said, if I have to go to a testing area  with my urine specimen I was insulted, /  
+
+aa          A.39 utt1:  Yeah,  /
+aa          A.39 utt2: it is,  /
+sd          A.39 utt3:  I can see where you would think,  / 
+%          A.39 utt4: Yeah,  /
+sd@          A.39 utt5: that is belittling, {D you know, } I'd probably feel the same way if I had to do that. /  *[[ Parsing error?  Shouldn't this be 2 slash units, with the 2nd starting at "I'd probably . . ."? ]]
+
+sd          B.40 utt1:  {C But } at the same token, in education  we can't do [ drug, + random drug ] testing on kids -- /  
+
+aa          A.41 utt1:  Yeah,  /
+aa          A.41 utt2: that's true, /  
+
+sd          B.42 utt1:  -- {D you know, } {E I mean, } their rights are protected. /  
+
+aa          A.43 utt1:  You bet.  /
+sv          A.43 utt2:  {F Oh, } gosh, [ they, +  they ]  would really raise a stink if that was to --   
+
+%          B.44 utt1:  What -- -/  
+
++          A.45 utt1:  -- happen. /  
+
+qh          B.46 utt1:  -- {D well, } {C but } [ why, +   if you're going to do teachers or professionals, why ] not do the kids,    
+
+x          A.47 utt1:  <Breathing>.   
+
++          B.48 utt1:  when we see them and  they're, {D you know, } under the influence. /  
+
+aa          A.49 utt1:  Right,  /
+aa          A.49 utt2: yes,  /
+sd          A.49 utt3: I agree with that.  /
+sd          A.49 utt4:   [ [ I, + I,  ] +  I ] wouldn't be opposed to it at all,  /
+sv          A.49 utt5: it's just our bleeding heart <inhaling> liberals that would fight it [ to-, +  tooth ] and nail, {D you know } -- /  
+
+aa          B.50 utt1:  That's true. /  
+
+fc          A.51 utt1:  -- {C but, }  {F uh, } {D well, } Lynn,  I've enjoyed talking with you.  /
+qy^g^t          A.51 utt2: I don't know how long we're supposed to carry on a conversation, do you? /  
+
+sd^t          B.52 utt1:  It's three minutes,  /
+sd^t          B.52 utt2:  {C and } the clicker comes in when it's time to, -/  
+
+ad^t          A.53 utt1:  {F Oh, } {D well, } we'd better keep  talking because I've not heard it have we. /  
+
+aa          B.54 utt1:  Yeah. /  
+
+qy^t          A.55 utt1:  Have you heard it? /  
+
+nn          B.56 utt1:  No. /  
+
+qy^g          A.57 utt1:  Anyway, we both sort of agree on it, don't we --    
+
+qy          B.58 utt1:  {D Well } --   
+
++          A.59 utt1:  -- about random testing. /  
+
++          B.60 utt1:  -- do we agree, or unless it's not me <laughter>. -/  
+
+h          A.61 utt1:  <Laughter>  {D Well, } listen, /  
+
+o          B.62 utt1:  {D You know, } here we go again, {E I mean } -- /  
+
+b          A.63 utt1:  Yeah,  /
+b^r          A.63 utt2: yeah. /  
+
+b          B.64 utt1:  -- yeah,  {D you know } -- /  
+
+sd          A.65 utt1:  If you agree that, {F uh, } -/  
+
+sv          B.66 utt1:  -- I believe that truck drivers and  people  that have, - /
+sv          B.66 utt2: even though teachers have  other kids lives in their hands,  [ and + ] if they come in stoned or they come in drunk -- -/  
+
+b          A.67 utt1:  Yeah. /  
+
+sd          B.68 utt1:  -- {C and } there was an incident  in my children's high school, where a teacher stayed drunk, /  
+
+bh          A.69 utt1:  Is that right? /  
+
+ny          B.70 utt1:  Uh-huh. /  
+
+sv          A.71 utt1:  You just don't think of that happening with teachers -- /  
+
+%          B.72 utt1:  {C And } he, -/  
+
+sd          A.73 utt1:  -- I really don't,  /
+sd          A.73 utt2:  when I think of drug testing, I'm thinking of the, {D you know, } outside of education. /  
+
+ar          B.74 utt1:  {F Uh, } {D well, } no,  /
+sv          B.74 utt2:  {D you know, } we are as susceptible a society --   
+
+aa          A.75 utt1:  [ Sure -- +    
+
++          B.76 utt1:  -- as anybody else -- /  
+
++          A.77 utt1:  -- sure, ]  /
+sd          A.77 utt2: I know that,  /
+sv          A.77 utt3: {C but, }  {F uh } --   
+
+%          B.78 utt1:  -- {C and, }  {F uh } -- -/  
+
++          A.79 utt1:  -- you don't think of that first hand, normally. /  
+
+b          B.80 utt1:  -- Yeah,  /
+qy          B.80 utt2: {D well, } did you hear on the news where the teacher of the year was up for child molestation. /  
+
+bh          A.81 utt1:  [ Isn't that, +    
+
+x          B.82 utt1:  <Laughter>.   
+
++          A.83 utt1:  isn't that -- ]   
+
+sd          B.84 utt1:  It was on the news tonight. /  
+
++          A.85 utt1:  -- mind boggling,  /
+ba          A.85 utt2: goodness,  /
+sv         A.85 utt3:  [ [ it, +  it is, ] +  it's ] mind bog-, {D you know, } {D well, } {D you know, } - /
+sd          A.85 utt4: I agree with you,  /
+sd          A.85 utt5:  I know teachers are just like everybody else,  same   problems --   
+
+b          B.86 utt1:  Yeah. /  
+
++          A.87 utt1:  -- the same, {F uh, } good qualities as anybody else. /  
+
+sd          B.88 utt1:  Then, I think, {D you know, }  [ if +  if ] [ it  came, +  push came ] to shove, I'd probably be drug tested --    
+
+b          A.89 utt1:  Yeah,  /
+b^r          A.89 utt2: yeah. /  
+
++          B.90 utt1:  -- {D you know, }  /
+sd          B.90 utt2: {C because } it does, {D you know, } -/  
+
+qy^d          A.91 utt1:  [ You, +  you ] think the benefit would be greater than the, -/  
+
+ny          B.92 utt1:  Yeah,  /
+sd^e          B.92 utt2: {C because, } {D you know, }  as I say, I'm sitting there fussing and fussing,  /
+sd          B.92 utt3: {C and } yet, I know of, {D you know, } one teacher  who was an alcoholic --   
+
+b          A.93 utt1:  Uh-huh. /  
+
++          B.94 utt1:  -- in school as well as, {D you know, } I presume out, /  
+
+qy^d          A.95 utt1:  {C And } that was in your children's high school, /  
+
+ny          B.96 utt1:  Uh-huh. /  
+
+bh          A.97 utt1:  Isn't that amazing, /  
+
+sd          B.98 utt1:  {C And, } {D you know, } my children  brought it to my attention.  /
+sd          B.98 utt2: I never --   
+
+sv          A.99 utt1:  [ [ If it, +  if it's -- ] +    
+
++          B.100 utt1:  -- was there to see it. /  
+
++          A.101 utt1:  -- if it was ] true there,  I'm sure it's true with just about probably to some degree every school there is -- -/  
+
+b          B.102 utt1:  Uh-huh. /  
+
+sv          A.103 utt1:  -- {D you know, } {C because } they represent a pretty good, -/  
+
+sv          B.104 utt1:  {C And } that's not giving a good example to students. /  
+
+aa          A.105 utt1:  No,  /
+aa          A.105 utt2: certainly not,  /
+aa^r          A.105 utt3: certainly not,  /
+sv          A.105 utt4:  they don't need that example  /
+%          A.105 utt5: {C but, } -/ 

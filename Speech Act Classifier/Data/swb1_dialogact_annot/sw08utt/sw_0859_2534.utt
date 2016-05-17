@@ -1,0 +1,467 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2534_1141_1130
+TOPIC#:		364
+DATE:		910410
+TRANSCRIBER:	csw
+UTT_CODER:      aabo
+DIFFICULTY:	1
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	1
+REMARKS:	Caller A runs words together.
+
+==============================================================================
+  
+
+qw          @A.1 utt1:  {D So, } what kind of neat hobbies do you have? /  
+
+sd          B.2 utt1:  {D Well, } I like gardening a lot,  /
+sd          B.2 utt2: I like to be outside, {F um. } /  
+
+sd          A.3 utt1:  I like gardening,  /
+sd          A.3 utt2: I wish I had a green thumb, though. /  
+
+x          B.4 utt1:  <Laughter>.   
+
+sd          A.5 utt1:  I've got a brown thumb.  /
+sd          A.5 utt2: That's what everything turns. /  
+
+%          B.6 utt1:  {F Oh } <laughter>, is, - /
+qy          B.6 utt2: {C but, } do you [ tr-, + ] keep trying anyway? /  
+
+na          A.7 utt1:  I keep trying, {F uh, } {D you know, }  /
+sv          A.7 utt2: you just [ can't, + can't ] give up on it, {F uh, }  /
+sd          A.7 utt3: [ I, + {F uh, } I bought some, {F uh, } plants from Michigan Bulb Company  /
+sd          A.7 utt4: <laughter> they send them to you all ready alive. /  
+
+nn          B.8 utt1:  No,  /
+nn^r          B.8 utt2: no,  /
+sd^e          B.8 utt3: I've never had any luck with their's. /  
+
+b          A.9 utt1:  {F Oh } really. /  
+
+ny          B.10 utt1:  Right. /  
+
+sv          A.11 utt1:  [ I guess, + I guess ] these are going to croak too. /  
+
+x          B.12 utt1:  <Laughter>.   
+
+sd          A.13 utt1:  Since I've got cats, I decided to get some catnip. /  
+
+b          B.14 utt1:  Oh. /  
+
+sd          A.15 utt1:  Lots and lots of catnip,  /
+sd          A.15 utt2: {C so } [ it's, + it's ] still green,  /
+sd          A.15 utt3: {C and } it's been two days  /
+sd          A.15 utt4: {C so } I'm encouraged <laughter>. /  
+
+nn          B.16 utt1:  <Laughter>  No,  /
+sd^e          B.16 utt2: [ I, + I ] haven't [ had, + had ] good luck with that company, {F uh, }  /
+sv          B.16 utt3: I think some of it depends how long things stay in the mail, probably. /  
+
+b          A.17 utt1:  Yeah. /  
+
+sd          B.18 utt1:  {C But, } I've had [ to, + to ] get my money back from them and had better luck [ with, + with ] some of [ the, + the ] more expensive companies. /  
+
+b          A.19 utt1:  Yeah,  /
+%          A.19 utt2: there's a, {F uh, } -/  
+
+%          B.20 utt1:  Because they, -/  
+
+h          A.21 utt1:  I don't know,  /
+qy          A.21 utt2: do you have Lowe's up there? /  
+
+%          B.22 utt1:  {F Uh, } {D well, } -/  
+
+%          A.23 utt1:  Its, {F uh, } - /
+%          A.23 utt2: building, {F uh, } contra-, - /
+qrr          A.23 utt3: {C or } building supplies place. /  
+
+nn          B.24 utt1:  No. /  
+
+sd          A.25 utt1:  {F Um, } [ they, + they ] also have a garden shop  /
+o@          A.25 utt2: {C and, }   
+
+b          B.26 utt1:  Uh-huh. /  
+
++@          A.27 utt1:  [ they, + they ] offer just as good a guarantee, if you buy it from them. /  
+
+ba          B.28 utt1:  {F Oh, } that's great, /  
+
+b          A.29 utt1:  Yeah. /  
+
+sd          B.30 utt1:  {D now } our local stores [ don't, + don't ] offer any guarantee. /  
+
+b          A.31 utt1:  {F Um. } /  
+
+sd          B.32 utt1:  {C But } some of the, - /
+sd@          B.32 utt2: the mail order ones that I've dealt with for roses and  that, they offer [ through, + through ] the first Summer.    
+
+b          A.33 utt1:  Yeah. /  
+
++@          B.34 utt1:  Which at least [ if they, + if they ] take off the first year, they're probably going to come up unless there's, {F uh, } a terrible freeze or something. /  
+
+b          A.35 utt1:  Yeah,  /
+b^r          A.35 utt2: yeah,  /
+b^r          A.35 utt3: yeah,  /
+sd          A.35 utt4: something like that.  /
+sd          A.35 utt5: {F Uh, } I got a whole bunch of bulbs along with this stuff,  /
+sd          A.35 utt6: {C so, } I'm going to wait on those. /  
+
+qr          B.36 utt1:  {F Oh, } they're bulbs for Spring or Fall? /  
+
+sd          A.37 utt1:  {F Uh, } probably Spring,  /
+sd          A.37 utt2: {C but, } {F uh,  } I don't much care about things like that.  /
+sd          A.37 utt3: [ I'll, + I'll ] make a little sort of greenhouse, a miniature greenhouse to put all this stuff in. /  
+
+x          B.38 utt1:  <Laughter>.   
+
+sd          A.39 utt1: [ Something, + something, ] to keep me occupied, {D you see. } /  
+
+b          B.40 utt1:  Uh-huh,  /
+b^r          B.40 utt2: uh-huh. /  
+
+sd          A.41 utt1:  I'll, {F uh, } buy some plastic  and make a little house  /
+%          A.41 utt2: {C and, } -/  
+
+ba          B.42 utt1:  <Laughter> Cute. /  
+
+b          A.43 utt1:  yeah,  /
+sd          A.43 utt2: {C and } watch the cats tear it up. /  
+
+b          B.44 utt1:  Right.  /
+sd          B.44 utt2:  I don't know that,  /
+qy          B.44 utt3: do cats bother bulbs?  /
+sv          B.44 utt4:  I think more the mice or  other rodents. /  
+
+na          A.45 utt1: [ They, + they ] just like to get in and dig. /  
+
+bk          B.46 utt1:  {F Oh, } I see  /
+bf          B.46 utt2: {C so } if you have fresh dirt, they'll <laughter>, -/  
+
+sd          A.47 utt1:  {F Oh, } they love to dig.  /
+sd          A.47 utt2: [  I had, + I had ] some, {F uh, } - /
+sd          A.47 utt3: I don't know what kind they are,  /
+sd          A.47 utt4: I've already forgotten, - /
+sd          A.47 utt5: just regular old flower seeds  /
+sd          A.47 utt6: {C and } I planted them  /
+sd          A.47 utt7: {C and } [ I was so, + I was so ] thrilled because they came up, {E I mean } nice green shoots coming up all over the place.  /
+sd          A.47 utt8:  {C And then } my cats got into it and started digging and that took care of that. /  
+
+ba          B.48 utt1:  {F Uh, } gee. /  
+
+sd          A.49 utt1:  {C So, } I have to hang these things high, - /
+sd          A.49 utt2: {C so } they can't get to them.  /
+sd          A.49 utt3: Especially the catnip. /  
+
+qw          B.50 utt1:  How many cats do you have? /  
+
+sd          A.51 utt1:  Three. /  
+
+bk          B.52 utt1:  {F Oh } okay. /  
+
+x          A.53 utt1:  <Laughter>.   
+
+sd          B.54 utt1:  {D Actually } I just, put a, {F uh, } little fence around my yard, {F uh, } {F um, } which is I suppose, technically illegal,  /
+sd          B.54 utt2: {C but } I had so many groundhogs last year that I think they'll let me get by with it,  /
+sd          B.54 utt3: {C and } [ it, + it's ] got this one inch mesh  /
+sd          B.54 utt4: {C and }  what I've noticed it's kept the cats out  /
+sd          B.54 utt5: {C and } I love it <laughter>. /  
+
+b          A.55 utt1:  {F Um, } yeah,  /
+b^r          A.55 utt2: yeah,  /
+sd          A.55 utt3: because [ they, + they ] like to get in and fertilize things too.  /
+qw          A.55 utt4: {C But, } {F uh, } why would it be illegal? /  
+
+sd          B.56 utt1:  {D Well, } because we have these tow-, {F uh, } - /
+sd          B.56 utt2: I live in a townhouse  /
+sd          B.56 utt3: {C and } {D anyway } all of our areas have associations that you have to get permission. /  
+
+b          A.57 utt1:  {F Oh, } {F uh, } yeah,  /
+b          A.57 utt2: right. /  
+
+sv          B.58 utt1:  {C And, } {D you know, } they want, {F uh, } privacy fences. /  
+
+sv          A.59 utt1:  {D Well, } [ if nobody, + {D yeah, }  if nobody ] complains you're all right. /  
+
+b          B.60 utt1:  Right,  /
+b^r          B.60 utt2: right.  /
+sd          B.60 utt3: {D Well } they do walking tours too,  /
+%          B.60 utt4: {C so. } -/  
+
+b          A.61 utt1:  {F Um. } /  
+
+sv          B.62 utt1:  {C But } at least, because I back up to, {F um, } a hillside where the, {F uh, } wild animals are, I think I can probably justify it. /  
+
+b          A.63 utt1:  {F Um, } yeah,  /
+%          A.63 utt2: an, - /
+sv          A.63 utt3: {C and } if somebody raises a stink about it you can always go before the association and argue your case anyway. /  
+
+b          B.64 utt1:  Right,  /
+b^r          B.64 utt2: right,  /
+%          B.64 utt3: I me-, -/  
+
+sv          A.65 utt1:  {D You know, } you don't have to put up with all these wild critters coming into your property. /  
+
+b          B.66 utt1:  <Laughter>  Right,  /
+sd          B.66 utt2: the first year, the deer ate my garden,  /
+sd          B.66 utt3: {C and } I was just astounded.  /
+sd          B.66 utt4:  I'm going deer, right here in the city <laughter>. /  
+
+b          A.67 utt1:  Yeah,  /
+b^m          A.67 utt2: right  here, Bambi <laughter>. /  
+
+aa          B.68 utt1:  <Laughter> Exactly. /  
+
+ba          A.69 utt1:  {F Uh, } gosh. /  
+
+%          B.70 utt1:  {C And so, } -/  
+
+^h          A.71 utt1:  {D Well, } let's see,  /
+sd          A.71 utt2: other than gardening which I fiddle at, - /
+sd          A.71 utt3: I'm not very good at, - /
+t1          A.71 utt4: what else do I, mostly just computer stuff. /  
+
+b          B.72 utt1:  Oh. /  
+
+sd          A.73 utt1:  I just like playing with my computer and doing stuff on that.  /
+sd          A.73 utt2:  {F Uh, } cooking, that's not really a hobby,  /
+sv          A.73 utt3:  it's a necessity. /  
+
+x          B.74 utt1:  <Laughter>.   
+
+sd          A.75 utt1: [ {C But, } + {C but } ] I enjoy it.  /
+sd          A.75 utt2:  I like to think that I'm a very good cook. /  
+
+ba          B.76 utt1:  {F Oh, } great. /  
+
+^h         A.77 utt1:  {F Um, } hobbies,  /
+sd          A.77 utt2: that's about it.  /
+sd          A.77 utt3: I don't have much time for hobbies, {F uh, } between being a student and trying to run a business on the side,  /
+sv          A.77 utt4: you don't have a lot of time. /  
+
+aa          B.78 utt1:  Right  /
+sd          B.78 utt2: that keeps you busy. /  
+
+b          A.79 utt1:  Yeah,  /
+sd          A.79 utt2: {C and } raising cats. /  
+
+sd          B.80 utt1:  <Laughter> {E I mean } that could become a hobby. /  
+
+sd          A.81 utt1:  {D Well, } [ it's, + it ] started out as a hobby {D actually. } /  
+
+b          B.82 utt1:  Uh-huh. /  
+
+sd          A.83 utt1:  {F Uh, } [ it just, + it ] developed into sort of a business, {F uh, } {D you know, }  /
+sd          A.83 utt2: we breed them and all that,  /
+sd          A.83 utt3: {C but, } [ we didn't, + {D you know, } we didn't ] really start it for the money,  /
+%          A.83 utt4: it was just, - /
+sd          A.83 utt5: they were fun to have around  /
+sd          A.83 utt6: {C and } we figured if we're going to have them we might as well have some purebreds [ an. + ]  /
+sd          A.83 utt7: {C And } now it developed in to going to cat shows and finding studs for them, and, {D you know, } all this kind of stuff. /  
+
+b          B.84 utt1:  Uh-huh.  /
+qw          B.84 utt2:  What kind of cats are they? /  
+
+sd          A.85 utt1:  {F Uh, } I've got [ a, +  {F uh, } a ] Bombay, a Turkish Van and a Himalayan Persian. /  
+
+ba          B.86 utt1:  Wow. /  
+
+b          A.87 utt1:  Yeah,  /
+sd          A.87 utt2: the  (( Himie ))  is probably the sweetest one.  /
+sd          A.87 utt3: [  She's, + she's ] just a little sweetheart. /  
+
+x          B.88 utt1:  <Laughter>.   
+
+%          A.89 utt1:  We, {F uh, } - /
+sd          A.89 utt2: [ the, + the ] Bombay had a litter, {F uh, } last October  /
+%          A.89 utt3: {C and } w-, - /
+sd          A.89 utt4: I just got her back from the vet this morning, getting her spayed.  /
+sd          A.89 utt5: Only going to breed them once. /  
+
+b          B.90 utt1:  {F Oh, } okay. /  
+
+sd          A.91 utt1:  {C And, } {F uh, } [ she's not, + she's not ]  feeling too great today. /  
+
+qy          B.92 utt1:  {F Um, } is that typical, to only breed them once? /  
+
+nn          A.93 utt1:  No,  /
+sv^e          A.93 utt2: {F uh, } [ m-, + most ] breeders are in it for the money,  /
+sd          A.93 utt3: {C so } [ they'll bree-, + they'll breed ] them twice a year  /
+sv          A.93 utt4: {C and } [ I, +   
+
+b          B.94 utt1:  Uh-huh,  /
+b^r          B.94 utt2: uh-huh. /  
+
++          A.95 utt1:  I ] just think that [ it's kind of, + I don't know, it's kind of ] cruel.  /
+sv          A.95 utt2:  {D You know, } [ [ they just, + they just ] breed these, + they breed ] them before they're ready,  /
+sv          A.95 utt3: {F uh, } {C and, }   
+
+b          B.96 utt1:  Right. /  
+
++          A.97 utt1:  [ you're never, + you're never ] rea-, - /
+sv          A.97 utt2: [ {C and, } + {C and } ] [ they, + they ] do a lot of inbreeding too,  /
+sv          A.97 utt3: {C and so } you end up with, {D you know, } kind of strange kittens. /  
+
+b          B.98 utt1:  Uh-huh,  /
+b^r          B.98 utt2: uh-huh. /  
+
+sd          A.99 utt1:  {C And } I just don't like that. /  
+
+qy          B.100 utt1:  {C So } will, you, {F uh, } breed one of the litter, then next year? /  
+
+ng          A.101 utt1:  [ We're, + we ] sold all that litter, /  
+
+b          B.102 utt1:  Oh. /  
+
+%          A.103 utt1:  {F um, } we, - /
+sd          A.103 utt2: there's not that much call [ to, + ] for Bombays. /  
+
+b          B.104 utt1:  Uh-huh. /  
+
+sd          A.105 utt1:  {F Um, } [ they're, + they're ] registered  /
+sd          A.105 utt2: {C but } [ [ they're not, + they're not, ] + {F uh, } they're not ] show cats. /  
+
+b          B.106 utt1:  {F Oh, } I see. /  
+
+sd          A.107 utt1:  {F Uh, } {C so } all you can do is sell them as pet quality. /  
+
+b          B.108 utt1:  Uh-huh. /  
+
+sd          A.109 utt1:  {F Uh, } {C so } what you've got is a registered pet.  /
+sv          A.109 utt2:  {C And, } not too many people want Bombays.  /
+sv          A.109 utt3: They want things like Himie Persians and Turkish Vans. /  
+
+b          B.110 utt1:  Uh-huh. /  
+
+sv          A.111 utt1:  Turkish Vans, if you've never seen one, {E I mean, } you wouldn't know that it was a pure bred.  /
+sd          A.111 utt2:  It's just, {F uh, } medium size short hair cat.  /
+%          A.111 utt3:  It's got, - /
+sd          A.111 utt4: he's mostly white with, {F uh, } brown and black patches. /  
+
+b          B.112 utt1:  Oh. /  
+
+sd          A.113 utt1:  {C But } they have nice personalities  /
+sd          A.113 utt2: {C and } they're very inquisitive.  /
+sd          A.113 utt3: {F Um, } {D now } the Himie, we'll probably breed her a couple of times  /
+sd          A.113 utt4: {C and } [ we'll, + we'll ] end up keeping one out of each litter and then breeding those. /  
+
+b          B.114 utt1:  Right. /  
+
+sd          A.115 utt1:  It's just the stud fees are so much, though.  /
+sd          A.115 utt2:   It'll cost about three hundred dollars for a stud for her.  /
+sd          A.115 utt3: [  We, + we ] want to breed her with a champion,  /
+%          A.115 utt4: {C so. } -/  
+
+b          B.116 utt1:  Right.  /
+qy^d          B.116 utt2:  Now these are long haired? /  
+
+ny          A.117 utt1:  Yeah,  /
+sd^e          A.117 utt2: the Persian is, /  
+
+b          B.118 utt1:  Uh-huh,  /
+b^r          B.118 utt2: uh-huh. /  
+
+sd          A.119 utt1:  {C and } the other two are short hairs. /  
+
+b          B.120 utt1:  Right.  /
+ba          B.120 utt2:  {F Uh, } that's nice. /  
+
+b          A.121 utt1:  Yeah,  /
+sd          A.121 utt2: [ she's, + {F uh, } she's ] sweet.  /
+sd          A.121 utt3:  Going to have some nice kittens, I hope. /  
+
+b          B.122 utt1:  Uh-huh  /
+x          B.122 utt2: <laughter>.   
+
+%          A.123 utt1: [ She's, + {F uh, }  she's, ] - /
+sd          A.123 utt2: [ if yo-, + if you ] know what a Himalayan is, generally they look something like, {F uh, } - /
+sd          A.123 utt3: {D well } they come in a lot of different colors.  /
+sv          A.123 utt4:  People don't realize it  /
+sv          A.123 utt5: {C but } they're sort of {D like, } {F uh, } Siamese in a way.  /
+sd          A.123 utt6: [  They have the, + {F uh, } they have the ] gloves on the paws  /
+sd          A.123 utt7: {C and } [ they're, + they're ] usually two colored.  /
+%          A.123 utt8: {F Uh, } {C but } this one [ is, + {F uh, } is ] - /
+sd          A.123 utt9: she's, [ pre-, + predominantly, ] {F uh, } black  /
+sd          A.123 utt10: {C but } she has chocolate, {F uh, } paws, chocolate stomach and silver on her hindquarters. /  
+
+ba          B.124 utt1:  Gee. /  
+
+b          A.125 utt1:  {C And } yeah,  /
+sd          A.125 utt2: [ she's, + she's ] quite attractive looking. /  
+
+b          B.126 utt1:  Uh-huh,  /
+b^r          B.126 utt2: uh-huh. /  
+
+sd          A.127 utt1: [ Hope, + hope ] the stud will find her attractive. /  
+
+sd          B.128 utt1:  <Laughter> {C And } that she has kittens that look like her. /  
+
+sd          A.129 utt1:  [ {C And, } + {C and } ] that she has a whole bunch of kittens.  /
+sd          A.129 utt2: {C But } we have to be careful,  /
+sd          A.129 utt3: {F uh, } {D you know, } we have to get a particular color point, {F uh, } stud.  /
+sv          A.129 utt4:  You can't just breed them with anything.  /
+sd          A.129 utt5: [  We have to get a, + {F uh, } we have to get a ] silver point Himie,  /
+sd          A.129 utt6: {C so } that the silver will be predominate in the kittens. /  
+
+b          B.130 utt1:  I see. /  
+
+sd          A.131 utt1: [ That's, + [ it, + ] that's ] the fun part, trying to figure out what you've got to breed them with,  /
+sd(^q)          A.131 utt2: can't just go out there and say, {D okay, } you guys breed, {D you know } <laughter>. /  
+
+sv          B.132 utt1:  <Laughter>  You can't just tell them that anyway,  /
+%          B.132 utt2: {C but } <laughter>. -/  
+
+aa          A.133 utt1:  That's right. /  
+
+ba          B.134 utt1:  {F Oh } {D dear. }  /
+sv          B.134 utt2:  {D Well } it really sounds like, {F uh, } {F uh, } a business more than a hobby. /  
+
+aa          A.135 utt1:  {D Well } {D actually, } {E I mean, } [ it, + it ] is a business in a way,  /
+sd          A.135 utt2: {C but } [ it, + it's ]  a lot of fun as a hobby.  Especially when you go to shows and get to see all the different cats.  /
+sd          A.135 utt3: [  We're, + we're ] about to get another breed,  /
+sd          A.135 utt4: [ we're go-, + we're going ] to buy a  (( Devon Rex )) .  /
+sd          A.135 utt5:  {C And } [ I didn't, + I don't ] like (( Devon Rexes ))  at first. /  
+
+qw          B.136 utt1:  What is it. /  
+
+sd          A.137 utt1:  [ It's a, + {D well } {D actually } it's a ] mutant.  /
+sd          A.137 utt2: [  It, + it ] comes from England and, {F uh, } [ fr-, + ] in the county of Devon. /  
+
+b          B.138 utt1:  Oh. /  
+
+sd^r          A.139 utt1:  {C And } it's a mutant cat.  /
+sd          A.139 utt2: {C And } [ they're, + they're ] pretty expensive,  /
+sd          A.139 utt3: [ we're going to, + we're going to ] shell out probably about a thousand bucks for one.  /
+sd          A.139 utt4: {F Um, } they're very thin,  /
+sd          A.139 utt5: [ [ they're, + they're, ] + they're ] long and lanky and skinny. /  
+
+b          B.140 utt1:  {F Um. } /  
+
+sd          A.141 utt1:  {C And } they have real short hair.  /
+sd          A.141 utt2:  It's curly, as a matter of fact. /  
+
+ba          B.142 utt1:  {F Huh, } interesting. /  
+
+b          A.143 utt1:  {F Um, } yeah,  /
+sd          A.143 utt2: [ [ it, + it, ] + it's ] a strange looking cat.  /
+sd          A.143 utt3:  {F Uh, } I didn't like them at first.  /
+sd          A.143 utt4: They've got great big ears, / 

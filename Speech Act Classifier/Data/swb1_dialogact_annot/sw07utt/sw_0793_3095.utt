@@ -1,0 +1,342 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3095_1263_1279
+TOPIC#:		341
+DATE:		910620
+TRANSCRIBER:	lya
+UTT_CODER:	lsh
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	2
+STATIC_ON_B:	3
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:        There was loud static throughout conversation during
+dialogue.   
+
+===========================================================================
+  
+
+sd^t           A.1 utt1:  I guess we are just to discuss trials [ and, + and ]  punishment. If it's to be given by the judge or not.  /
+qy^t          A.1 utt2: [ Did you, + did you ] catch your explanation of that? /  
+
+ny          B.2 utt1:  <Noise> <static> Yes,  /
+sd^e          B.2 utt2: I did.  /
+%          B.2 utt3: [ It's, + # it's, ] {F uh, } # -/  
+
+b          @A.3 utt1:  # Okay. # /  
+
+%          B.4 utt1:  The, {F uh, } - /
+sd          B.4 utt2: maybe I'm a hard liner  /
+sv          B.4 utt3: {C but } I think  that there should be some preset penalties in criminal cases.   Rather than, {F uh, } degrees of # sentencing. # /  
+
+qy          A.5 utt1:  # You mean the crimes # or the punishment should fit the crime? /  
+
+na          B.6 utt1:  Right.  /
+na^r          B.6 utt2: # Right. # /  
+
+bk          A.7 utt1:  # Okay # <Lipsmack>. /  
+
+sd          B.8 utt1:  {F Uh, } again, having participated in jury duty  myself, # [ I know + <laughter>, #   
+
+aa          A.9 utt1:  # Yes,  /
+sd          A.9 utt2: I did also. # /  
+
++          B.10 utt1:  I know ] how such a diverse group of people  get together, the different backgrounds, different ideas, # that # --   
+
+b          A.11 utt1:  # Right. # /  
+
++          B.12 utt1:  -- sometimes you can have one person or two,   
+
+x          A.13 utt1:  <Noise> <<like a telephone buzzer>>.   
+
++          B.14 utt1:  that can hold up what I consider the proper sentencing,   
+
+x          A.15 utt1:  </Noise>.   
+
++          B.16 utt1:  of the [ p-, +  person. ] /  
+
+ad          A.17 utt1:  Could you hang on one minute Jim? /  
+
+aa          B.18 utt1:  Yes ma'am. /  
+
+ft          A.19 utt1:  Thank you <<long pause>>. /  
+
+x          B.20 utt1:  <Noise> <swallowing> <cough>.   
+
+fa          A.21 utt1:  I am so sorry to keep you on hold. /  
+
+bd          B.22 utt1:  <Laughter> No problem. /  
+
+qy          A.23 utt1:  Are you at work? /  
+
+ny          B.24 utt1:  Yes. /  
+
+bk          A.25 utt1:  Okay,  /
+sd          A.25 utt2: I am too.  <laughter> # {F Um, } # /  
+
+b          B.26 utt1:  # Yeah.  /
+sv          B.26 utt2: {F Um, } # I think what you have  is, the way [ the, + the ] justice system works is they bend over backwards trying to protect the guilty. /  
+
+sv          A.27 utt1:  # {F Oh, } it's insane. # /  
+
+sv          B.28 utt1:  # So many things in their back, #  /
+br          B.28 utt2: pardon? /  
+
+sv^r          A.29 utt1:  It's insane. /  
+
+aa         B.30 utt1:  Yes.  /
+sd          B.30 utt2: I know, /  
+
+x          A.31 utt1:  <Noise> <<guttural sounds>>.   
+
+sd          B.32 utt1:  my wife participated in a jury trial <lipsmack>  several years back --   
+
+b          A.33 utt1:  Yes. /  
+
++          B.34 utt1:  -- wherein the individual after it was over and they,   
+
+x          A.35 utt1:  <Talking>.   
+
++          B.36 utt1:  had came up with the maximum sentence --   
+
+b          A.37 utt1:  Yes. /  
+
++          B.38 utt1:  -- in the jury form they found out that, {F uh, }  the gentleman involved had a long history of the same type offense --   
+
+b          A.39 utt1:  Right. /  
+
++          B.40 utt1:  -- which was theft # of # --   
+
+b          A.41 utt1:  # Uh-huh. # /  
+
++          B.42 utt1:  -- {F uh, } property. /  
+
+b          A.43 utt1:  {F Oh } yes. /  
+
+sd          B.44 utt1:  {C And } yet, [ the as-, + the attorney, ]   
+
+x          A.45 utt1:  <Talking>.   
+
++          B.46 utt1:  for the prosecution could not enter [ these, + {F uh, }  the ] good man's background into it.  /
+sd          B.46 utt2:  It was like,    
+
+x          A.47 utt1:  <Noise>.   
+
++          B.48 utt1:  this was a first time offender. /  
+
+b          A.49 utt1:  Yes. /  
+
+sv          B.50 utt1:  Whereas, {F uh, }   
+
+x          A.51 utt1:  <Noise>.   
+
++          B.52 utt1:  I think that's, -/  
+
+sv          A.53 utt1:  # It seems like ((   )) , # -/  
+
+sv          B.54 utt1:  # Those that # should be in jail should be in jail <laughter>. /  
+
+aa          A.55 utt1:  That's correct  /
+sv          A.55 utt2: {C and } there's too much leniency,  /
+sv          A.55 utt3:  there's too much, {F uh, } {F um, } underhanded, {F uh, } things going on that the public are not aware of. /  
+
+b          B.56 utt1:  Yeah  /
+x          B.56 utt2: <<very faintly>>.   
+
+sv          A.57 utt1:  {C And } it seems as though we are, {F uh, }  giving the criminal the benefit, more than the victim.  /
+sv          A.57 utt2:  The victim has been victimized twice,  not only by the perpetrator of the crime but also,   
+
+x          B.58 utt1:  <Noise>.   
+
++          A.59 utt1:  the courts that try to do the justice. /  
+
+sv          B.60 utt1:  {D Well, } I think this is one of the reasons that  also that attorneys have such [ a, + a, ] unsavory reputation,  /
+qh          B.60 utt2: shall we say? /  
+
+sd          A.61 utt1:  [ I do not have any, + I don't have an ]  ounce in my body of credibility toward [ the, + the ] judicial system in --   
+
+b          B.62 utt1:  Yeah  /
+x          B.62 utt2: <<very faintly>>.   
+
++          A.63 utt1:  -- the United States. /  
+
+sv          B.64 utt1:  {D Well, } what you got is the situation  wherein, {F uh, } if you ever get in trouble, you want to hire the smartest, crookedest, lawyer you can find. /  
+
+bh          A.65 utt1:  Isn't that terrible? /  
+
+sv          B.66 utt1:  {C And, } {F uh, } that's not the idea.  /
+sv          B.66 utt2: [ It's, + ] the idea is not to get the guy off of the crime,   
+
+x          A.67 utt1:  <Noise>.   
+
++@          B.68 utt1:  that he committed, but to punish him for the  crime # he committed. #   *[[ slash error ]]
+
+aap          A.69 utt1:  # {D Well, } to # punish him for the crime but  also to try and reeducate the man's thinking. /  
+
++@          B.70 utt1:  Yeah. /   *[[slash error]]
+
+sv          A.71 utt1:  To get him out of that, {F uh, } {F uh, }  criminal mind that he has and to direct,   
+
+x          B.72 utt1:  <Noise>.   
+
++          A.73 utt1:  him into a more productive life. /  
+
+b          B.74 utt1:  Yeah  /
+x          B.74 utt2: <<faint>>.   /
+sd          B.74 utt3: {D Well } we have, {F uh, }  a situation again that I am familiar with where, {F uh, } the son of an acquaintance of mine --   
+
+b          A.75 utt1:  # Uh-huh. # /  
+
++          B.76 utt1:  -- # was # killed --   
+
+b          A.77 utt1:  Oh <<very faintly>>. /  
+
++          B.78 utt1:  -- while trying to stop a robbery. /  
+
+b          A.79 utt1:  Yes,  /
+ba          A.79 utt2: how # sad. # /  
+
+sd          B.80 utt1:  # {C And } # the person that killed him was a  young woman <lipsmack> who had left the house with full intent to commit crimes,  carrying a gun in her # purse. # /  
+
+b          A.81 utt1:  # Uh-huh. # /  
+
+sd          B.82 utt1:  <Noise> {C And, } {D anyway } it'd get to the, - /
+sd          B.82 utt2:  she was sentenced to jail  /
+sd          B.82 utt3: {C but } then due to technicalities, she was going to be out of jail within eighteen months after she was sentenced. /  
+
+b          A.83 utt1:  Oh. /  
+
+sd          B.84 utt1:  Of course it took eighteen months for  [ the thing, + the trial ] to happen. /  
+
+b          A.85 utt1:  Right. /  
+
+sd          B.86 utt1:  {C So, } then, {F uh, }   
+
+x          A.87 utt1:  <Noise>.   
+
++          B.88 utt1:  there was a letter writing campaign that  went in, <lipsmack>  /
+sd          B.88 utt2: {C and } the Parole Board received approximately a thousand letters  protesting putting this person back on the street within eighteen months after killing someone.  /
+sd          B.88 utt3:   {C And, } {F uh, } fortunately it worked.  /
+sd          B.88 utt4: [ They, {F uh, } elimi-, + they corrected ]  the technicality. /  
+
+%          A.89 utt1:  {D Well } # if, # -/  
+
+sd          B.90 utt1:  # {C And } # the person now will have to serve   three to four years of the seven or eight they were sentenced # to. # /  
+
+b          A.91 utt1:  <Talking> <<Faint>> # Yes. #  /
+sv          A.91 utt2:  If enough of the public,   
+
+x          B.92 utt1:  <Cough>.   
+
++          A.93 utt1:  responded to, {F uh, } [ the dir-, + the, {F uh, } parties ]  that are involved, and if enough, - /
+sv          A.93 utt2: they will listen to the voice of the people.  /
+sd          A.93 utt3:   I have found that out. That if enough people respond and rise up against the  injustices being done, something is going to change. /  
+
+b          B.94 utt1:  Right. /  
+
+sv          A.95 utt1:  People have to be involved. /  
+
+sv          B.96 utt1:  <Noise> <<Like sipping through a straw>> This is it -- /  
+
+b          A.97 utt1:  # Yeah. # /  
+
+sv          B.98 utt1:  -- # {C and } # most people don't take the time. /  
+
+aa          A.99 utt1:  That's # right. # /  
+
+sd          B.100 utt1:  # Again # the only reason I took the time is  because I was personally # acquainted # --   
+
+aa          A.101 utt1:  # That's right. # /  
+
++          B.102 utt1:  -- with these people.  /
+sd          B.102 utt2:  # I'm just # --   
+
+%          A.103 utt1:  # You were, # -/  
+
++          B.104 utt1:  -- as guilty as the rest in that respect. /  
+
+aa          A.105 utt1:  Yes.  /
+sd          A.105 utt2:  {F Uh, } {C but, } <talking> {C and }  I'm not making an excuse  /
+sv          A.105 utt3: {C but } [ we, + our ] priorities are a bit backward. /  
+
+aa          B.106 utt1:  {F Oh } yes.  /
+sv          B.106 utt2: {D Well, } they, again the, - /
+sd          B.106 utt3:  {C and } I'm not knocking the civil rights program or anything like that,  /
+sv          B.106 utt4: {C but } we've gone,   
+
+x          A.107 utt1:  <Noise>.   
+
++          B.108 utt1:  overboard to, {F uh, } protect persons from  [ being, + having ] their civil rights,   
+
+x          A.109 utt1:  <Noise>.   
+
++          B.110 utt1:  violated to the point where the person that is damaged,   
+
+x          A.111 utt1:  <Talking>.   
+
++          B.112 utt1:  is not protected.  /
+sv          B.112 utt2: It's again the victim gets worse  punishment then the person,   
+
+x          A.113 utt1:  <Talking> <noise>.   
+
++          B.114 utt1:  that commits the crimes. /  
+
+aa          A.115 utt1:  That's correct. /  
+
+b          B.116 utt1:  Yeah  /
+x          B.116 utt2: <noise>.   
+
+b          A.117 utt1:  Yeah.  /
+b^r          A.117 utt2: Yeah. /  
+
+b          B.118 utt1:  <Sigh> Okay.  /
+sv          B.118 utt2:  <laughter> I think we're both in  agreement on this subject. /  
+
+sd          A.119 utt1:  {D Well, } I am too. /  
+
+x          B.120 utt1:  # <Laughter>. #   
+
+sd          A.121 utt1:  # {E I mean } [ I, + # I ]  just can't.  /
+sd          A.121 utt2: [ I, + {D you know, } I ] served on a jury for a lady that was having a mental problem  /
+sd          A.121 utt3: {C and } we found her not   [ guilty + ] because the lady obviously was not in their right mind. /
+sd          A.121 utt4:  {C So } if the person  is not in the right mind, {E I mean } they had to, {F uh, } <lipsmack> put her away. /  
+
+b          B.122 utt1:  Yeah. /  
+
+sd          A.123 utt1:  {C But } for her own safety  and [  for, + ]  because she didn't know what she was doing. /  
+
+x          B.124 utt1:  <Noise>.   
+
+sd          A.125 utt1:  {C And } [ we couldn't, + we just ] dismissed the case.    
+
+b          B.126 utt1:  # Yeah. # /  
+
++          A.127 utt1:  # {D You # know, }  /
+sd          A.127 utt2: [ {C and, } + {C and, } ]  she was, {F uh, } taken care of <noise> by the proper facility. /  
+
+b          B.128 utt1:  Yeah.  /
+sv          B.128 utt2:  {D Well } another side of the coin  [ that + ] with our justice system there are a lot of frivolous cases that go to court.  /
+sv          B.128 utt3:   There are a lot of things that could be settled out of court --   
+
+aa          A.129 utt1:  Yes,  /
+aa          A.129 utt2: that's true. /  
+
++          B.130 utt1:  -- [ which, + ] {F uh, } or should never have gone to  court.  /
+sv           B.130 utt2:  {C And then } the amazing thing, of course, is how, {F uh, } some cases can come  to trial in thirty days,  /
+sv          B.130 utt3: {C and } others it takes eighteen months </noise> </static>. / 

@@ -1,0 +1,712 @@
+#!/usr/local/bin/perl -w
+#
+#  Author: Adam Janin
+#          adam@janin.org
+#  Copyright (C) 2003 International Computer Science Institute
+#
+#  For more information on the ICSI Meeting Corpus, see:
+#    http://www.icsi.berkeley.edu/Speech/mr
+#
+# This script is provided AS IS. It has not been extensively tested,
+# and we offer no support or warranty.
+#
+#
+# Convert from embedded tags within <Segment> to and from the textual
+# transcriber's conventions. Also can remove embedded tags completely.
+#
+# Requires XML::Parser.
+#
+# This is done in two steps. First, parse the mrt file, looking for
+# Segment tags. When you find one, collect up all its enclosed text
+# including embedded tags, and pass it to TagToText, TextToTag, or
+# RemoveTag. These functions do the work.
+#
+# When you see anything other than stuff within a <Segment>, just pass
+# it through verbatim.
+#
+#
+# RCS $Header: /u/drspeech/repos/mrda/scripts/mrt_tag,v 1.1.1.1 2004/07/01 17:19:21 jca Exp $
+
+use strict;
+use Getopt::Std;
+use XML::Parser;
+
+my $NoPrint = 0;	# Used for debugging. If 1, only print segment text.
+
+# Command line handling
+
+use vars qw($opt_h $opt_r $opt_t $opt_x);
+
+$opt_h = 0;	# Help
+$opt_t = 0;	# Convert to Textual
+$opt_x = 0;	# Convert to XML tags
+$opt_r = 0;     # Remove tags
+
+getopts("hrtx") || usage();
+usage() if $opt_h;
+
+# Exactly one of -t -x -r
+if ($opt_r + $opt_t + $opt_x != 1) {
+    usage();
+}
+
+my $File = shift or usage();
+
+# Globals used by TagFile
+my($InSegment, $SegmentText);
+
+# Globals used by TagToText TextToTag and RemoveTag
+my($TagToTextParser, $RemoveTagParser, $TagText, @Attr, %Delimiters);
+my(%Languages, %LanguagesRev, $LanguagesRE);
+
+# Used in FindToMatchingClose to extract possibly nested expressions
+%Delimiters = ( '(' => ')',
+		'{' => '}',
+		'[' => ']',
+		'"' => '"');
+
+%Languages = qw(de GER
+		it ITALIAN
+		no NORWEGIAN
+		fr FRENCH
+		es SPAN
+		la LATIN);
+
+foreach my $key (keys %Languages) {
+    $LanguagesRev{$Languages{$key}} = $key;
+}
+$LanguagesRE = join('|', keys %LanguagesRev);
+
+
+
+# Do the work
+
+TagFile($File);
+
+
+# All subs below here
+
+exit;
+
+
+######################################################################
+#
+# Parse the XML .mrt file, passing through all non-<Segment> verbatim.
+# Collect up the text between the <Segment> and </Segment>, and either
+# convert from XML tags to textual format, from textual format to
+# XML tags, or remove tags completely (depending on command line
+# arguments).
+#
+# The variable $SegmentText collects up EVERYTHING between <Segment>
+# and </Segment>, including other XML tags.
+#
+
+sub TagFile {
+    my($fn) = @_;
+    my($parser);
+    
+    $parser = new XML::Parser(Handlers => { Start	=> \&TagFileStartTag,
+					    End		=> \&TagFileEndTag,
+					    Default	=> \&TagFileDefault});
+    $InSegment = 0;
+    $parser->parsefile($fn);
+}  # TagFile()
+
+sub TagFileStartTag {
+    my($expat, $elem, %attr) = @_;
+    if (! $InSegment) {
+	if ($elem eq "Segment") {
+	    $InSegment = 1;
+	    $SegmentText = '';
+	}
+	print $expat->original_string() unless $NoPrint;
+    } else {
+	if ($elem eq "Segment") {
+	    die "Nested <Segment> tags";
+	}
+	# We're in a segment. Collect up ALL its text (including
+	# any embedded tags).
+	$SegmentText .= $expat->original_string();
+    }
+}
+
+sub TagFileEndTag {
+    my($expat, $elem) = @_;
+    my($segstr);
+    if (! $InSegment) {
+	if ($elem eq "Segment") {
+	    die "Unexpected </Segment>";
+	}
+	print $expat->original_string() unless $NoPrint;
+    } else {
+	if ($elem eq "Segment") {
+	    $InSegment = 0;
+
+	    # Do the work
+
+	    if ($opt_t) {
+		$segstr = TagToText($SegmentText);
+	    } elsif ($opt_x) {
+		$segstr = TextToTag($SegmentText);
+	    } elsif ($opt_r) {
+		$segstr = RemoveTag($SegmentText);
+	    } else {
+		die "This should never happen";
+	    }
+	    print "\n" unless $NoPrint;
+	    if ($segstr ne '') {
+		print "      $segstr\n";
+	    }
+	    print "    " unless $NoPrint;
+	    print $expat->original_string() unless $NoPrint;
+	    $SegmentText = '';
+	} else {
+	    $SegmentText .= $expat->original_string();
+	}
+    }
+}
+
+#
+# Char, Proc, Comment, etc.
+#
+
+sub TagFileDefault {
+    my($expat) = @_;
+    if ($InSegment) {
+	$SegmentText .= $expat->original_string();
+    } else {
+	print $expat->original_string() unless $NoPrint;
+    }
+}
+
+
+######################################################################
+#
+# Everything below here only considers the text that occurs between
+# <Segment> and </Segment>
+#
+
+#
+# Convert from textual to XML.
+#
+# Most of the complexity comes from the fact that the end of
+# something marked as emphasized is implicitly defined. In other
+# words, emphasis has a start and an end, but the end position isn't
+# marked. For example:
+#
+#  *'them {PRN "em"}
+#
+# Is that *('them {PRN "em"})  or  *('them) {PRN "em}?
+#
+# Obviously, it must be the former, but the notation doesn't make it
+# explicit.
+#
+# Also confusing is *I_B_M  I_*B_M  I_B_*M  X_  *X_  log-*X_
+#
+# Other issues:
+#  
+#  Quoted strings are not always balanced (e.g. a single double quote may
+#  appear in an utterance).
+#
+#  Ambiguous nested quotes may appear (e.g. He said "Did she mean "ahead" there?")
+#
+#  It does NOT handle every possible case. For example, H_(*L)_T will
+#  certainly fail.
+#
+
+sub TextToTag {
+    my($str) = @_;
+    my($lex, $output, $elem);
+    # Put spaces on either end to avoid boundary cases.
+    $lex = MakeLexer(" $str ");
+    $output = '';
+    while (defined($elem = GetNextElement($lex))) {
+	$output .= $elem;
+    }
+    return trim($output);
+}
+
+# Get just the very next "element". 
+# An element is anything considered atomic for purposes of emphasis.
+# For example, 'a b c {PRN d e} is one element.
+    
+sub GetNextElement {
+    my($lex) = @_;
+    my($s, $str, $rest);
+    $s = $lex->{source};
+
+    if ($s eq "") {	# End of string
+	return undef;
+
+	# Allow arbitrary characters if introduced with backslash
+    } elsif ($s =~ /^\\./) {
+	$str = $&;
+	advance($lex, $str);
+	return $str;
+
+       # Whitespace
+    } elsif ($s =~ /^\s+/) {
+	$str = $&;
+	advance($lex, $str);
+	return " ";
+
+	# Quoted emphasis *"word"
+    } elsif ($s =~ /^\*\"(.*?)\"/) {
+	$str = $&;
+	$rest = $1;
+	advance($lex, $str);
+	return "<Emphasis> \"" . TextToTag($rest) . "\" </Emphasis>";
+
+	# Emphasis *word-*word
+    } elsif ($s =~ /^\*([a-z]+)-\*/i) {
+	$str = $1;
+	advance($lex, "*$str-");
+	return "<Emphasis> " . TextToTag($str) . " </Emphasis>-";
+	
+	# Emphasis *
+    } elsif ($s =~ /^\*/) {
+	advance($lex, "*");
+	$str = GetNextElement($lex);
+	return "<Emphasis> $str </Emphasis>";
+
+	# Uncertainty (anything in parens)
+    } elsif ($s =~ /^\(/) {
+	$str = FindToMatchingClose($s);
+	advance($lex, $str);
+	$rest = substr($str, 1, length($str)-2);
+	    # (3x)
+	if ($rest =~ /^([0-9]+)x$/) {
+	    return "<Uncertain NumSyllables=\"$1\"> @@ </Uncertain>";
+	    # (??)
+	} elsif ($rest eq '??') {
+	    return "<Uncertain> @@ </Uncertain>";
+	} else {
+	    # (anything)
+	    return "<Uncertain> " . TextToTag($rest) . " </Uncertain>";
+	}
+
+	# Special case of "'s for example "profile"'s
+    } elsif ($s =~ /^\"\'s/) {
+	$str = $&;
+	advance($lex, $str);
+	return $str;
+
+	# 'stuff {PRN ...    'stuff {GER ... 'stuff {SPAN , etc
+    } elsif ($s =~ /^(\'([^\{]+?)\s*\{)(PRN|$LanguagesRE)/) {
+	$str = $1;
+	$rest = $2;
+	advance($lex, $str);
+	return process_prn_foreign($lex, $rest);
+	
+	# QUAL, VOC, NVC
+    } elsif ($s =~ /^\{(QUAL|VOC|NVC)\s*([^\}]*)\}/) {
+	$str = $&;
+	my $command = $1;
+	my $comment = $2;
+	my %commands = qw( QUAL Comment VOC VocalSound NVC NonVocalSound );
+	advance($lex, $str);
+	return "<$commands{$command} Description=\"" . encode($comment) . "\"/>";
+
+	# A few special cases
+    } elsif ($s =~ /^\{DGTS\}/) {
+	$str = $&;
+	advance($lex, $str);
+	return "<Comment Description=\"Digits\"/>";
+    } elsif ($s =~ /^\{BLEEP\}/) {
+	$str = $&;
+	advance($lex, $str);
+	return "<Comment Description=\"Censored\"/>";
+
+	# Pause ..
+    } elsif ($s =~ /^\.\./) {
+	$str = $&;
+	advance($lex, $str);
+	return "<Pause/>";
+
+	# Spoken letter acronyms. Advance only up to space or certain
+        # punctuation. We ONLY handle embedded emphasis. Embedded 
+        # uncertainly will likely fail horribly.
+    } elsif ($s =~ /^([a-z]\S*_\S*?)[\s.?,!\"\)]/i) {
+	$str = $1;
+	advance($lex, $str);
+	# If it has a terminal underscore, preserve it
+	$str =~ s/\*([^\*_]+_)$/<Emphasis> $1 <\/Emphasis>/;
+	# Handle other embedded emphasis
+	$str =~ s/\*([^\*_]+)/<Emphasis> $1 <\/Emphasis>/g;
+	return $str;
+	
+	# Normal text
+    } elsif ($s =~ /^[a-z0-9][a-z0-9\'-]*/i) {
+	$str = $&;
+	advance($lex, $str);
+	return $str;
+        
+        # Other punct with no special meaning. This is separate from
+	# normal text so that they're not grouped with Emphasis. For
+	# example, "*so," should be "<Emphasis> so </Emphasis>,".
+    } elsif ($s =~ /^[:\"\.\,\&\$\#\@\!\?\;\+\=\'-]/) {
+	$str = $&;
+	advance($lex, $str);
+	return $str;
+
+    } else {
+	print STDERR "Warning: Unexpected string '$s'\n";
+	return undef;
+    }
+} # GetNextElement
+
+#
+# Process "bracketed" elements, which start with single quote,
+# contain arbitrary text, and end with a bracketed {TAG}.
+# The tag may contain comments.
+#
+# Currently, only {PRN} and foreign languages are supported.
+#
+
+sub process_prn_foreign {
+    my($lex, $content) = @_;
+    my($s, $str, $comment, $lang);
+    $s = $lex->{source};
+    
+    # PRN
+    if ($s =~ /^PRN([^\}]*)\}/) {
+	$str = $&;
+	$comment = $1;
+	advance($lex, $str);
+	if (defined($comment) && $comment !~ /^\s*$/) {
+	    return "<Pronounce Pronunciation=\"" . encode($comment) . "\"> " . 
+		TextToTag($content) . " </Pronounce>";
+	} else {
+	    return "<Pronounce> " . TextToTag($content) . " </Pronounce>";
+	}
+	# Foreign languages
+    } elsif ($s =~ /^($LanguagesRE)([^\}]*)\}/) {
+	$lang = $1;
+	$comment = $2;
+	$str = $&;
+	advance($lex, $str);
+	if (defined($comment) && $comment !~ /^\s*$/) {
+	    return "<Foreign Language=\"" . $LanguagesRev{$lang} . 
+		"\" Description=\"" . encode($comment) . "\"> " . 
+		    TextToTag($content) . " </Foreign>";
+	} else {
+	    return "<Foreign Language=\"" . $LanguagesRev{$lang} . 
+		"\"> " . TextToTag($content) . " </Foreign>";
+	}
+    } else {
+	die "Unexpected bracket expression '$s', '$content', stopped";
+    }
+} # process_prn_foreign
+
+# Just change " to &quot and clean up whitespace.
+sub encode {
+    my($str) = @_;
+    $str =~ s/\"/&quot;/g;
+    $str = trim($str);
+    return $str;
+}    
+
+# A Lexer just keeps track of where you are in a string.
+
+sub MakeLexer {
+    my($str) = @_;
+    return { 'source' => $str };
+}
+
+# Move forward in the lexer by the string. Report an error if
+# you try to advance by the wrong string.
+
+sub advance {
+    my($lex, $str) = @_;
+    if (substr($lex->{source}, 0, length($str)) ne $str) {
+	print STDERR "advance failed, mismatch '$str'\n";
+	exit;
+    }
+    $lex->{source} = substr($lex->{source}, length($str));
+}
+
+
+# Find matching paren, brace, bracket, quote. Return enclosed string
+# including the delimiters. Note that if the open and close are the
+# same, it will not nest. E.g. "test "this" is" => "test "
+
+sub FindToMatchingClose {
+    my($str) = @_;
+    my($odelim, $cdelim, $dcount, $i, $prev, $c);
+    $odelim = substr($str, 0, 1);
+    if (!exists($Delimiters{$odelim})) {
+	print STDERR "Unexpected delimiter '$odelim'\n";
+	exit;
+    }
+    $cdelim = $Delimiters{$odelim};
+    $dcount = 0;
+    $prev = $odelim;
+    for ($i = 1; $i < length($str); $i++) {
+	$c = substr($str, $i, 1); 
+	if ($prev eq "\\") {
+	    $prev = $c;
+	    next;
+	}
+	if ($c eq $cdelim) {
+	    $dcount--;
+	    if ($dcount < 0) {
+		return substr($str, 0, $i+1);
+	    }
+	} elsif ($c eq $odelim) {
+	    $dcount++;
+	}
+	$prev = $c;
+    }
+    print STDERR "Failed to find matching delimiter $cdelim in $str\n";
+    exit;
+} # FindToMatchingClose
+
+# Clean whitespace
+sub trim {
+    my($str) = @_;
+    $str =~ s/^\s+//g;
+    $str =~ s/\s+$//g;
+    return $str;
+}
+
+######################################################################
+#
+# Given the text of a segment, convert from XML tags to textual.
+#
+# Much of the complexity is to get the spacing right. For example,
+# <Emphasis> something </Emphasis> should become *something (with
+# no space). This is hard because Char and Default can get called
+# multiple times while within a single tag.
+#
+# $TagText collects up the text from the segment
+#
+# @Attr stores attributes of tags that are needed when the close tag
+# is encountered.
+#
+
+sub TagToText {
+    my($segtext) = @_;
+    
+    if (!defined($TagToTextParser)) {
+	$TagToTextParser = 
+	    new XML::Parser(Handlers => { Start   => \&TagToTextStartTag,
+					  End     => \&TagToTextEndTag,
+					  Default => \&TagToTextDefault});
+    }
+
+    @Attr = ();
+    $TagText = '';
+
+    # Need to add the <segment>..</segment> to make it well-formed XML.
+    $TagToTextParser->parse("<segment>$segtext</segment>");
+
+    # $TagText now holds the textual representation of the stuff between
+    # <Segment> and </Segment>. It requires a bit of cleanup...
+
+    $TagText =~ s/<deletefollowingspaces>\s*//g;
+    $TagText =~ s/\s*<deletepreviousspaces>//g;
+    
+    # Cleanup left over tags from Uncertain
+    
+    # (@@ 3x) => (3x)
+    $TagText =~ s/\(@@ ([1-9]+x)\)/($1)/g;
+
+    # (@@) => (??)
+    $TagText =~ s/\(@@\)/(??)/g;
+    
+    # Initial spaces, final spaces, and multiple spaces are all removed
+    $TagText = trim($TagText);
+    $TagText =~ s/\s\s+/ /g;
+    return $TagText;
+}
+
+# Note: the add function adds the text to the $TagText being collected.
+# addif acts like sprintf($1, $3{$2}), but only happens if the hash
+# element actually exists.
+
+sub TagToTextStartTag {
+    my($expat, $elem, %attr) = @_;
+    if ($elem eq "segment") {
+	# Nothing. Just there to make parser happy
+    } elsif ($elem eq "Emphasis") {
+	add("*<deletefollowingspaces>");
+    } elsif ($elem eq "Pause") {
+	add("..");
+    } elsif ($elem eq "VocalSound") {
+	add("{VOC");
+	addif(" %s", 'Description', %attr);
+	add("}");
+    } elsif ($elem eq "NonVocalSound") {
+	add("{NVC");
+	addif(" %s", 'Description', %attr);
+	add("}");
+    } elsif ($elem eq "Comment") {
+	if ($attr{Description} eq "Digits") {
+	    add("{DGTS}");
+	} elsif ($attr{Description} eq "Censored") {
+	    add("{BLEEP}");
+	} else {
+	    add("{QUAL " . $attr{Description} . "}");
+	}
+    } elsif ($elem eq "Pronounce") {
+	add("'<deletefollowingspaces>");
+	if (exists($attr{Pronunciation})) {
+	    push(@Attr, " $attr{Pronunciation}");
+	} else {
+	    push(@Attr, "");
+	}
+    } elsif ($elem eq "Uncertain") {
+	add("(<deletefollowingspaces>");
+	if (exists($attr{NumSyllables})) {
+	    push(@Attr, $attr{NumSyllables});
+	} else {
+	    push(@Attr, undef);
+	}
+    } elsif ($elem eq "Foreign") {
+	# Unlike the others, @Attr will get the whole bracket
+	# expression, and not just the attribute.
+
+	my $a = "{" . $Languages{$attr{Language}};
+	if (exists($attr{Description})) {
+	    $a .= " $attr{Description}";
+	}
+	$a .= "}";
+	push(@Attr, $a);
+	add("'<deletefollowingspaces>");
+    } else {
+	print STDERR "Warning: Unhandled tag <$elem>\n";
+	add($expat->original_string());
+    }
+}
+
+sub TagToTextEndTag {
+    my($expat, $elem) = @_;
+    my($a);
+    if ($elem eq "segment") {
+	# nothing
+    } elsif ($elem eq "Emphasis") {
+	add("<deletepreviousspaces>");
+    } elsif ($elem eq "Pause") {
+	# nothing
+    } elsif ($elem eq "Pronounce") {
+	$a = pop(@Attr);
+	add("{PRN$a}");
+    } elsif ($elem eq "Uncertain") {
+	$a = pop(@Attr);
+	if (defined($a) && $a > 0) {
+	    add("$a" . "x");
+	}
+	add("<deletepreviousspaces>)");
+    } elsif ($elem eq "Foreign") {
+	$a = pop(@Attr);
+	add($a);
+    } else {
+	add($expat->original_string());
+    }
+}
+
+sub TagToTextDefault {
+    my($expat) = @_;
+    add($expat->original_string());
+}
+
+sub add {
+    my($str) = @_;
+    $TagText .= $str;
+}
+
+sub addif {
+    my($format, $var, %attr) = @_;
+    if (exists($attr{$var})) {
+	add(sprintf($format, $attr{$var}));
+    }
+}
+
+######################################################################
+#
+# Remove embedded tags.
+#
+# Again, the only complexity is issues with spacing.
+#
+
+sub RemoveTag {
+    my($segtext) = @_;
+    
+    if (!defined($RemoveTagParser)) {
+	$RemoveTagParser = 
+	    new XML::Parser(Handlers => {  Start   => \&RemoveTagStartTag,
+					   End     => \&RemoveTagEndTag,
+					   Comment => \&RemoveTagIgnore,
+					   Default => \&RemoveTagDefault});
+    }
+    
+    $TagText = '';
+
+    # Need to add the <segment>..</segment> to make it well-formed XML.
+    $RemoveTagParser->parse("<segment>$segtext</segment>");
+
+    # $TagText now holds the textual representation of the stuff between
+    # <Segment> and </Segment>.
+
+    # Clean up extra spaces in XML tags
+    $TagText =~ s/<deletefollowingspaces>\s*//g;
+    $TagText =~ s/\s*<deletepreviousspaces>//g;
+
+    # Clean up spaces before punctuation.
+    $TagText =~ s/\s+([!?.,:])/$1/g;
+    
+    # Initial spaces, final spaces, and multiple spaces are all removed
+    $TagText = trim($TagText);
+    $TagText =~ s/\s\s+/ /g;
+    return $TagText;
+}
+
+sub RemoveTagStartTag {
+    $TagText .= "<deletefollowingspaces>";
+}
+
+sub RemoveTagEndTag {
+    $TagText .= "<deletepreviousspaces>";
+}
+
+sub RemoveTagIgnore {
+}
+
+sub RemoveTagDefault {
+    my($expat) = @_;
+    $TagText .= $expat->original_string();
+}
+
+sub usage {
+print STDERR<<'EndOfUsage';
+
+Usage: mrt_tag -h [-r | -t | -x] file.mrt
+
+  -r   Remove embedded tags
+  -t   Convert embedded tags to textual from XML
+  -x   Convert embedded tags to XML from textual
+  -h   Show this message
+
+  One of -r, -t or -x must be provided.
+
+  Converts between textual and XML embedded tags for events within a
+  <Segment>. The textual format is more compact and easier for humans
+  to use. The XML format is easier for computers to parse, and is more
+  suitable as an exchange format.
+
+  The overall structure of the mrt file is not changed -- only tags
+  within <Segment> blocks are modified.
+
+  Note that if -r is used, some segments may end up empty.
+
+  Example:
+
+   Textual: Hello '(6x) {GER} {QUAL whispered off-mike}
+
+   XML: Hello <Foreign Language="de"> <Uncertain NumSyllables="6"> @@ </Uncertain> </Foreign> <Comment Description="whispered off-mike"/>
+
+   Removed: Hello @@
+
+EndOfUsage
+  exit;
+}

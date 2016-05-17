@@ -1,0 +1,249 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3946_1481_1390
+TOPIC#:		305
+DATE:		920210
+TRANSCRIBER:	glp
+UTT_CODER:      mmab
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	2
+REMARKS:        None.
+
+==========================================================================
+  
+
+o           A.1 utt1:   I'm ready <laughter>. /  
+
+ad^t          B.2 utt1:   Why don't you go ahead and start off <laughter>. /  
+
+aa          @A.3 utt1:   Okay,  /
+sd          @A.3 utt2: {D well, } I don't have an elderly person that I could send to [ a, + a ] nursing home or anything.  /
+sd          @A.3 utt3:  [ My, + both of my ] parents are dead,  /
+sd          @A.3 utt4: {C but } I did have a friend that was in a convalescent home, {F uh, } like  a nursing home  /
+sd          @A.3 utt5: {C and } I [ h-, + went ] there very often to visit her and,  {F uh, } <lipsmack> made me feel really sad.  /
+sd          @A.3 utt6:  If I did have a mother living, I don't think I could do that. /  
+
+x          B.4 utt1:   <Door>.   
+
+sv          A.5 utt1:   I think they would be better off being at home with their family, {D you know. } /  
+
+aa          B.6 utt1:   I agree, although, we're in that situation right now. /  
+
+b          A.7 utt1:   Uh-huh. /  
+
+sd          B.8 utt1:   We have [ a, + an ] eighty seven year old mother in law living with me right now -- /  
+
+b          A.9 utt1:   Uh-huh. /  
+
+sd          B.10 utt1:   -- {C and } because of her circumstances she can no longer live independently.  /
+sd          B.10 utt2:  {C And } even moving from her house to our house --   
+
+b          A.11 utt1:   Uh-huh. /  
+
++          B.12 utt1:   -- has been tremendously unsettling for her  /
+sd          B.12 utt2: {C and } we have several young children -- /  
+
+b          A.13 utt1:   Uh-huh. /  
+
+sd          B.14 utt1:   -- {C and } they about drive her crazy. /  
+
+ba          A.15 utt1:   {F Oh, } I can believe that.  /
+%          A.15 utt2:  Yes,  /
+sv          A.15 utt3: {C because } most elderly people can't take having a lot of noise and kids running around and things like that.  /
+sv          A.15 utt4:  In a situation like that maybe it would be better. /  
+
+sd          B.16 utt1:   {D Well, } [ we've, + {D you know, } we've ] struggled a lot with it because, {D again, } most of the nursing homes I've been in are very depressing to me. /  
+
+b          A.17 utt1:   Uh-huh. /  
+
+sd          B.18 utt1:   {C And } she's still alert enough that I think she would really know that we were putting her there -- /  
+
+b          A.19 utt1:   {F Oh, } yeah. /  
+
+sd          B.20 utt1:   -- {C and } I think she would really resent it,  /
+sd          B.20 utt2: {C and } I think that would make it very hard. /  
+
+b          A.21 utt1:   Uh-huh. /  
+
+sd          B.22 utt1:   {C But, } on the other hand, I see my wife with, - /
+sd          B.22 utt2: I guess our youngest one now is five -- /  
+
+b          A.23 utt1:   Oh. /  
+
+sd          B.24 utt1:   -- and her trying to struggle because her mother really cannot take care of herself. - /
+sd          B.24 utt2: She needs to be --   
+
+b          A.25 utt1:   Uh-huh. /  
+
++          B.26 utt1:   -- bathed and dressed and a lot of those kinds of --   
+
+b          A.27 utt1:   Oh -- /  
+
++          B.28 utt1:   -- things. /  
+
+sv          A.29 utt1:   -- see, {D now } [ [ that's, + that's, ] + that's ] really a sad situation. /  
+
+sv          B.30 utt1:   And so the drain on the family. -/  
+
+aa          A.31 utt1:   Yeah,  /
+aa          A.31 utt2: {D really, } {D you know. } /  
+
+sd(^q)          B.32 utt1:   {C And } when the kids have kids come, {D you know, } she's always saying, {D you know, } why do they have to be here,  /
+^q          B.32 utt2: why can't they send them home,  /
+^q          B.32 utt3: it's too noisy  /
+sd          B.32 utt4: {C and } --   
+
+b          A.33 utt1:   Uh-huh. /  
+
++          B.34 utt1:   -- she'll say that to the kids' friends. /  
+
+b          A.35 utt1:   Yeah,  /
+b           A.35 utt2: right,  /
+b^r          A.35 utt3: right. /  
+
+sv          B.36 utt1:   {C So } it's a hard situation, either way, I think. /  
+
+aa          A.37 utt1:   Yeah,  /
+sv          A.37 utt2: in a case like that, {D you know, } you more or less think it would be better if she were in a nursing home because you have your family growing up where, -/  
+
+sd          B.38 utt1:   I think that's one of the things we're really wrestling with.  /
+qh          B.38 utt2: When does it become detrimental to our family to the point that you have to consider that --   
+
+b          A.39 utt1:   Uh-huh,  /
+b^r          A.39 utt2: uh-huh. /  
+
++          B.40 utt1:   -- as opposed to considering her current circumstances  /
+%          B.40 utt2: {C and, } -/  
+
+aa          A.41 utt1:   Uh-huh,  /
+sv          A.41 utt2: {C but } the cost of these nursing homes are so,    
+
+^2          B.42 utt1:   {F Oh, } prohibitive. /  
+
++          A.43 utt1:   {D You know, } - /
+sv          A.43 utt2: a lot of people can't afford that. /  
+
+b          B.44 utt1:   Yeah. /  
+
+sv          A.45 utt1:   {D You know, } {C so } you really have no choice that way [ if you, + {D you know, } if you're ] not rich [ or s-, + ] {D you know. }  /
+sd          A.45 utt2:  {F Uh, } I know this lady [ that, + {D you know, } that ] was a friend of mine,  /
+sd          A.45 utt3: {D now } her husband was still alive at the time when she was in there, {D you know, }  /
+sd          A.45 utt4: {C and } it was costing him a small fortune to keep her in there. /  
+
+b          B.46 utt1:   Yeah. /  
+
+%          A.47 utt1:   {C So, } -/  
+
+sv          B.48 utt1:   I think we need to develop some alternatives like adult day care --   
+
+b          A.49 utt1:   Uh-huh. /  
+
++          B.50 utt1:   -- that's more readily available, {D you know, }  /
+sv          B.50 utt2: I think if we could send her someplace for the day --   
+
+b          A.51 utt1:   Yeah,  /
+^2          A.51 utt2: then bring her back home at night. /  
+
++          B.52 utt1:   -- and she could be around some elderly people and have some activities would be of more interest to her --   
+
+aa          A.53 utt1:   Uh-huh,  /
+aa^r          A.53 utt2: uh-huh. /  
+
++          B.54 utt1:   -- and then in the evening have her return and be with the family. -/  
+
+aa          A.55 utt1:   Yeah,  /
+sv          A.55 utt2: {D you know, } just come home for dinner  /
+sv          A.55 utt3: {C and then } usually they want to go to bed fairly early anyhow. /  
+
+b          B.56 utt1:   Yeah. /  
+
+sv          A.57 utt1:   {D You know, } {C so } that would probably be nice if we could ever get something like that  /
+%          A.57 utt2: {C but, } -/  
+
+sv          B.58 utt1:   {C But } there's not many of those available right now -- /  
+
+b          A.59 utt1:   Yeah. /  
+
+sv          B.60 utt1:   -- {C and } they're very hard to get them into  /
+sd          B.60 utt2: {C and } --   
+
+b          A.61 utt1:   Uh-huh. /  
+
++          B.62 utt1:   -- we tried sending her to a senior citizen center. /  
+
+b          A.63 utt1:   Uh-huh. /  
+
+sd          B.64 utt1:   {C But } they're really not prepared to cope with her because she's somewhat senile. /  
+
+b          A.65 utt1:   Uh-huh. /  
+
+sd          B.66 utt1:   {C And so } a lot of the activities that they're engaged in, she can't participate in. /  
+
+b          A.67 utt1:   Uh-huh,  /
+b^r          A.67 utt2: uh-huh,  /
+b          A.67 utt3: {F um. } /  
+
+sv          B.68 utt1:   {C But } I think it's an issue that, {D you know, } - /
+sv          B.68 utt2: with the graying of America, we're really going to have to, [ as a, + as a ] country figure out how we're going to deal with this. /  
+
+b          A.69 utt1:   Uh-huh. /  
+
+sv          B.70 utt1:   {C Because } it is a difficult situation  /
+sv          B.70 utt2: {C and, } {D you know, } you hate seeing them just, sort of send off and not well cared for. /  
+
+aa          A.71 utt1:   Yeah,  /
+sv          A.71 utt2: [ if -- +   
+
+%          B.72 utt1:   {C And } yet, -/  
+
++          A.73 utt1:   -- if ] they don't know anybody and they don't know what's going on around them and everything like that, {D well, } I can see, maybe a nursing home would be better, {D you know. } /  
+
+x          B.74 utt1:   <Door>.   
+
+sv          A.75 utt1:   {C But } if [ they, + they ] have their wits about them and everything, {D why, } it's kind of hard <laughter>. /  
+
+sv          B.76 utt1:   {C And then } I think it depends on their physical ability, too, {D you know, }  /
+sv          B.76 utt2: if they could be up and doing some things --   
+
+aa          A.77 utt1:   Uh-huh,  /
+aa^r          A.77 utt2: uh-huh. /  
+
++          B.78 utt1:   -- it might be better than when they're just sort of needing almost constant supervision and care. /  
+
+aa          A.79 utt1:   Uh-huh,  /
+aa^r          A.79 utt2: uh-huh.  /
+sd          A.79 utt3:  {D Well, } {F uh, } my mother always said she hopes she never had to be like that  /
+sd          A.79 utt4: {C and, } {F uh, } luckily, {E I mean, } she lived by herself  /
+sd          A.79 utt5: {C and then, } {D you know, } one day she had a heart attack  /
+sd          A.79 utt6: {C and } she was gone,  /
+sd          A.79 utt7: {C so } she never did have to go into a nursing home or  anything like that,  /
+sd          A.79 utt8: {C but } there's, so many of us kids, {A there was {D like } seven of us } that, <breathing> [ my, + we ] wouldn't have probably allowed that to happen anyhow. /  
+
+b          B.80 utt1:   Yeah. /  
+
+sd          A.81 utt1:   {D You know, } she could have taken turns living with each one of us, {D you know, } for [ [ a sh-, + a sh-, ] + a period ] of time because we all don't live in the same city anyhow, [ o-, + nor ] the same state  /
+%          A.81 utt2: {C so, } -/  
+
+qy          B.82 utt1:   Do you live at all close to each other? /  
+
+no          A.83 utt1:   {F Uh, } [ I, + I ] have a couple more that live out here in California,  /
+sd          A.83 utt2: {C but } then I have a broth-, -/ 

@@ -1,0 +1,690 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2584_1106_1204
+TOPIC#:		321
+DATE:		910412
+TRANSCRIBER:	JKP
+UTT_CODER:      MMAB
+DIFFICULTY:	5
+TOPICALITY:	3
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	4
+BACKGROUND_B:	4
+REMARKS:        Extremely difficult conversation to transcribe. Voices sounded 
+muffled or blurred at many points during the conversation.  Noise in 
+background from children, also audible speech from other than Speaker 
+A or Speaker B
+
+==============================================================================
+  
+
+o          A.1 utt1:  Okay.  /
+qy          A.1 utt2:  Do you go camping very much? /  
+
+nn          @B.2 utt1:  No,  /
+sd^e          @B.2 utt2: I've haven't gone camping in years.  /
+sd          @B.2 utt3:   {C But } it's is something that I've done in the past.  /
+qo          @B.2 utt4:  How about you? /  
+
+sd          A.3 utt1:  {F Uh, } we try to go once, maybe twice a summer.  {F Uh, }    
+
+sv          B.4 utt1:  # [ That's, + that's ] pretty average to me <laughter>. # /  
+
++          A.5 utt1:  # <Laughter> [ we, + ] {F uh, } just, {D you know, }  for # {D like } a short weekend or something.  /
+sd          A.5 utt2: We don't go for [ the long, + {D you know, } week long ] thing. /  
+
+b          B.6 utt1:  Uh-huh. /  
+
+sd          A.7 utt1:  {C But } we usually go to, {F uh, } a lake area,  {D you know, } where the campsites,   
+
+b          B.8 utt1:  # Right. # /  
+
++          A.9 utt1:  # are # and do that.  {F Uh, } /  
+
+qy          B.10 utt1:  Do you tent camp  /
+qrr          B.10 utt2: {C or } do you have a camper? /  
+
+nn          A.11 utt1:  {F Oh } no,  /
+nn^r          A.11 utt2: no,  /
+nn^r          A.11 utt3: no  /
+sd^e          A.11 utt4: a tent. /  
+
+%          B.12 utt1:  That's what I ha-,  {D you know, } - /
+sd          B.12 utt2: that's how I camp too.  /
+sd          B.12 utt3:  That's how I define camping <laughter>. /  
+
+aa          A.13 utt1:  Me too <laughter>.  /
+sv          A.13 utt2:  You're really roughing it. /  
+
+sv          B.14 utt1:  <Laughter>  [ The rest, + the rest ] of that is [ re-, + really ]  not the same. /  
+
+b          A.15 utt1:  Yeah. /  
+
+sd          B.16 utt1:  As a matter of fact,   [ my, + my, ]  {D you know, } the majority of the amount of camping I've done has been really roughing it.  /
+sd          B.16 utt2:  {F Um, }  as a little girl I'd go with my dad and my uncle and my brother,  /
+sd          B.16 utt3: {C and } we went to  the Boundary Waters area in Minnesota.  /
+sd          B.16 utt4: {C So, }    
+
+b          A.17 utt1:  # Oh. # /  
+
++          B.18 utt1:  # [ that's, + # that's ] really wild. /  
+
+b          A.19 utt1:  Yeah.  /
+qy          A.19 utt2:  Are you here in local Texas,  /
+qy          A.19 utt3: {E I mean? } -/  
+
+ny          B.20 utt1:  Yes,  /
+sd^e          B.20 utt2: I'm in Austin,  /
+qw          B.20 utt3: where are you? /  
+
+sd          A.21 utt1:  I'm in Garland. /  
+
+bk          B.22 utt1:  Oh. /  
+
+sd          A.23 utt1:  Right outside of Dallas. /  
+
+b          B.24 utt1:  Uh-huh. /  
+
+sd          A.25 utt1:  {C So } [ we, + {F um, } we ] have a five year old,  /
+sd          A.25 utt2: {C and }  [ we started taking her, +  she was pretty young when we started, {F uh, } camping with her. ] /  
+
+sv          B.26 utt1:  {F Oh, } the kids love it. /  
+
+aa          A.27 utt1:  I know. /  
+
+sv          B.28 utt1:  {E I mean, } they just love it.  /
+sv          B.28 utt2:  It's wonderful for  them to be outside. /  
+
+aa          A.29 utt1:  I know,  /
+%          A.29 utt2: [ {C and } then they, + {C and } they, ]  {D you know, } - /
+sv          A.29 utt3: <sigh>  there's no T V,  /
+sv          A.29 utt4: {C and } they don't have all these modern toys,  /
+sv          A.29 utt5: {C and } they have to use  sticks and rocks and  stuff like,    
+
+aa          B.30 utt1:  # Exactly.  # /  
+
++          A.31 utt1:  # that # to play with. /  
+
+aa          B.32 utt1:  Yes. /  
+
+sd          A.33 utt1:  {C And } I like that.  /
+sv          A.33 utt2: It's pretty fun. /  
+
+%          B.34 utt1:  {D Well, }  (( how it, )) - /
+sv          B.34 utt2:  [ it's +  really [ is a, + is a ] ] [ good, + good ] family thing,   
+
+b          A.35 utt1:  # Uh-huh.  # /  
+
++          B.36 utt1:  # to # do. /  
+
+b          A.37 utt1:  Yeah. /  
+
+b^m          B.38 utt1:  Yeah.  /
+%          B.38 utt2:  {C And, } -/  
+
+sd          A.39 utt1:  [ We, + we ] try to, {F uh, } go with another  couple that have children also. /  
+
+b          B.40 utt1:  Uh-huh. /  
+
+sd          A.41 utt1:  {C And, }   {F uh, } that makes it a lot more enjoyable.  /
+sd          A.41 utt2:  {C Plus, } {D you know, } we don't have to go out and buy all the <sigh>  equipment and stuff, {D you know, }  /
+sd          A.41 utt3: we kind of split it up.  {F Uh, } /  
+
+ba          B.42 utt1:  Good planning <laughter>. /  
+
+aa          A.43 utt1:  Yeah <laughter>.  /
+sv          A.43 utt2: Because [ it gets, + it really does get ] expensive [ if you, + if you ] don't want to rough it all the way. /  
+
+aa          B.44 utt1:  Exactly. /  
+
+sv          A.45 utt1:  {D You know, } even the sleeping bags,  those are running, {D you know, } a good thirty dollars a pop,  /
+sd          A.45 utt2: [ {C and, } +   
+
+aa          B.46 utt1:  # You're right.  # /  
+
++          A.47 utt1:  # {C and  so } ] # we've built that up.  /
+%          A.47 utt2: {C But, } -/  
+
+qy          B.48 utt1:  Do you have a boat? /  
+
+nn          A.49 utt1:  No. /  
+
+bh^m          B.50 utt1:  No? /  
+
+sd          A.51 utt1:  Want one bad.  /
+qy          A.51 utt2: Do you? /  
+
+t1          B.52 utt1:  {F Oh, }  {D well, } {D actually, }  [ I would, +  {D you know } what I would ] love?  /
+sd          B.52 utt2: I would absolutely love a sail boat. /  
+
+bk          A.53 utt1:  Oh. /  
+
+sv          B.54 utt1:  That doesn't go along with camping,  /
+sd          B.54 utt2: {C but, }   
+
+b          A.55 utt1:  # Yes <laughter>.  # /  
+
++          B.56 utt1:  # now [ [ that, + # that, ] + that's ] what I would like,    
+
+b          A.57 utt1:  # Yeah, # /  
+
++          B.58 utt1:  # to # have. /  
+
+sd          A.59 utt1:  I would too. /  
+
+b          B.60 utt1:  Yeah. /  
+
+sd^r          A.61 utt1:  Would too.  /
+%          A.61 utt2: We usually, - /
+^h          A.61 utt3: {F uh, } let's see,  /
+sd          A.61 utt4: we try to go to a lake.  /
+sd          A.61 utt5:  My husband and this, {F uh, } other couple that we go with,  her husband, {F um, } kind of likes, {F um, } is it scuba dive?  /
+sd          A.61 utt6: {C And, so } we'll go to a lake   [ and, + ] {F uh, } <throat_clearing>  where they can go do that. /  
+
+b          B.62 utt1:  # Uh-huh.  # /  
+
+sd          A.63 utt1:  # We're # close enough so they can do that,  /
+sd          A.63 utt2:  {C and } the girls can play on the beach area <whispering>.  /
+x          A.63 utt3:  <<Okay. Whispers this, maybe to someone in background.>>    
+
+sd          B.64 utt1:  {C And } I would play on the beach area too. /  
+
+b          A.65 utt1:  Yeah. /  
+
+sd          B.66 utt1:  That's what I would do. /  
+
+b          A.67 utt1:  Yeah <laughter>. /  
+
+b^m          B.68 utt1:  <Laughter>  Yeah. /  
+
+ba          A.69 utt1:  That's fun. /  
+
+sv          B.70 utt1:  I'm just sitting here [ list-, + listening ]  to your accent and thinking what a good time the computer is going to have with that. /  
+
+bh          A.71 utt1:  <Laughter>  Really?  /
+qy          A.71 utt2: Am I pretty Texan? /  
+
+na          B.72 utt1:  You're pretty Texan. /  
+
+x          A.73 utt1:  # <Laughter>.  #   
+
+ny          B.74 utt1:  # Yes.  /
+qh          B.74 utt2: # {C But } {D you know, } you know what's really  funny?  /
+sd          B.74 utt3: {F Um, }  [ I've had +  people tell me that I have ] a Texas accent,  /
+sv          B.74 utt4: [ {C and, } + {C and } ]  {E I mean, } there is just no way I've not picked one up. /  
+
+aa          A.75 utt1:  No,  /
+sv          A.75 utt2: [ you don't, + you don't ] sound like it to me. /  
+
+sd          B.76 utt1:  I've only lived here about six years. /  
+
+bh          A.77 utt1:  {F Oh, } have you? /  
+
+sv          B.78 utt1:  {C So, } [ [ i-, +  i-, ] +  if ] I have one,  it must be very, very slight. /  
+
+b          A.79 utt1:  <Laughter>  Yeah. /  
+
+sv          B.80 utt1:  <Laughter>  The Yankees can hear it. /  
+
+aa          A.81 utt1:  Yes.  /
+aa          A.81 utt2: {F Oh, } that's true,  /
+aa^r          A.81 utt3: that's true.  /
+sv          A.81 utt4:  [ I, {D see } I ] don't think I do,  /
+sd          A.81 utt5: [ {C but, } + {F uh, } {C but } ] a lot of people do say I  sound like, - /
+sv          A.81 utt6: [ I guess, +  I have, I guess ] more of a twang,   
+
+b          B.82 utt1:  # Uh-huh.  # /  
+
++          A.83 utt1:  # to # my voice <<faintly, almost a whisper>>. /  
+
+qy          B.84 utt1:  Are you [ a, + a ] native Texan? /  
+
+na          A.85 utt1:  I sure am. /  
+
+bk          B.86 utt1:  Oh. /  
+
+sd          A.87 utt1:  I've lived here all my life. /  
+
+ba          B.88 utt1:  {D Well, } good for you. /  
+
+%          A.89 utt1:  {C But, }  any way, {F uh, } <<almost whispering>>, -/  
+
+qy          B.90 utt1:  Have you ever been to Austin? /  
+
+ny          A.91 utt1:  Yes,  /
+ny^r          A.91 utt2: yes  /
+sd^e          A.91 utt3: we went last summer, actually. /  
+
+%          B.92 utt1:  This, - /
+%          B.92 utt2: how was, - /
+qy^d          B.92 utt3: I'm wondering,  I'm really not that not familiar.  /
+qy^d          B.92 utt4:  I know there are some good places to go camping along  [ the, + {F uh, } the ] lakes. /  
+
+qy          A.93 utt1:  [ {C Or } + ] is there?  /
+%          A.93 utt2: Okay,  /
+sd          A.93 utt3: {D well, }  we didn't go camping,  /
+sd          A.93 utt4: [ [ we just, +  {F uh, } we ]  did {D like, } +  {F uh, } we drove ] down to Houston to visit friends,  /
+%          A.93 utt5: {C and, }   
+
+b          B.94 utt1:  # Uh-huh.  # /  
+
++          A.95 utt1:  # we # went to Galveston and, {F uh, } to San Antonio and then  up to Austin.  [ And, + and ] kind of, {F uh, } {D you know, }  doing the sight seeing type stuff.  /
+sd          A.95 utt2:  {C So } we didn't go camping.  /
+sv          A.95 utt3: That would be fun though to go.  /
+sd          A.95 utt4:   That's one thing my husband wanted to do, [ was, + on this summer's vacation  was ] to go and camp wherever we went.  /
+sd(^q)          A.95 utt5: {C And } I said, {D Well, } I'd love that  /
+%          A.95 utt6: {C but, } -/  
+
+sv          B.96 utt1:  It takes a lot more planning. /  
+
+aa          A.97 utt1:  It does,  /
+sd          A.97 utt2: [ {C and, } +  {C and } ] ever once,  {D you know, } on [ my summer vacation, +  {D you know, } my week-long vacation, ] I,   
+
+b          B.98 utt1:  # Uh-huh.  # /  
+
++          A.99 utt1:  # want # to be a little bit pampered, {D you know, } by a,   
+
+b          B.100 utt1:  # Right.  # /  
+
++          A.101 utt1:  # hotel # and a waiter <laughter>. /  
+
+aa          B.102 utt1:  Exactly,  /
+aa^r          B.102 utt2: exactly,  /
+aa          B.102 utt3: yeah. /  
+
+sd          A.103 utt1:  {C So, } we're hoping to do {D like } a three day weekend.  /
+sd          A.103 utt2:   There's, {F um, } a thing called Pfeiffer Rim.  /
+qy^d          A.103 utt3:  I don't know if you have ever heard of it? /  
+
+nn          B.104 utt1:  No,  /
+sd^e          B.104 utt2: I haven't. /  
+
+sd          A.105 utt1:  [ It's, + {F uh, } there's ] a town called Glenrose.  /
+sd          A.105 utt2:  I think it's around two hours from here.  /
+sd          A.105 utt3:  {C And, }  {F uh, } [ it's, + it has ] {D like } dinosaur tracks,   
+
+ba          B.106 utt1:  # {F Oh, } [ that sounds, # +   
+
++          A.107 utt1:  # and stuff like # that  /
+sd          A.107 utt2: {C and } it's got one of  those wildlife parks. /  
+
++          B.108 utt1:  That sounds ] great. /  
+
+aa          A.109 utt1:  Yeah.  /
+sv          A.109 utt2: I think that'll be fun.  /
+sd          A.109 utt3:  {C So } we're going to  try to do that {D like } on a three day weekend, go there  /
+%          A.109 utt4: {C and, } -/  
+
+qy          B.110 utt1:  Have you ever camped out of state? /  
+
+nn          A.111 utt1:  No,  /
+sd^e          A.111 utt2: I haven't. /  
+
+ad          B.112 utt1:  {D You know, } where you should try,   
+
+qw          A.113 utt1:  # Where at? # /  
+
++          B.114 utt1:  # sometime is # Colorado.  /
+sv          B.114 utt2: It is beautiful. /  
+
+bh          A.115 utt1:  Is it? /  
+
+na          B.116 utt1:  Absolutely beautiful. /  
+
+sd          A.117 utt1:  I've just been up there skiing,  /
+sd          A.117 utt2: {C and, }  {D well, }  we've driven through,  /
+b          A.117 utt3:  [ {C and, } +     
+
+b          B.118 utt1:  # Uh-huh.  # /  
+
++          A.119 utt1:  # {D you # know, } /  
+
+b          B.120 utt1:  # Uh-huh.  # /  
+
+sd          A.121 utt1:  # [ {C but, }  + # {C but } ] ] not,  {D you know, } camping or anything.  /
+sd          A.121 utt2:  {C But } I would love to camp,   
+
+b          B.122 utt1:  # Yes.  # /  
+
++          A.123 utt1:  # in # the mountains. /  
+
+sd          B.124 utt1:  Estes State Park is fantastic. /  
+
+sd          A.125 utt1:  That's what my girlfriend says.  /
+%          A.125 utt2: Yes,  /
+sd          A.125 utt3: she loves that place. /  
+
+ad          B.126 utt1:  {D See, } you need to go there. /  
+
+sd          A.127 utt1:  She loves that.  /
+sd          A.127 utt2:  She says that where we need to go sometime. /  
+
+sd          B.128 utt1:  [ [ [ It is. + It's, ] + {D you know, } it's, ] + it's ]  high canyon  /
+sd          B.128 utt2: [ {C and, } + {F uh, } {C and } ] there's this little mountain lakes  /
+sd          B.128 utt3: {C and } it's very peaceful. /  
+
+b          A.129 utt1:  Oh. /  
+
+sd          B.130 utt1:  {C And, }  {F um, } [ in, + in ] the early fall time, -/  
+
+b          A.131 utt1:  # Uh-huh.  # /  
+
+sd          B.132 utt1:  # {F um, } # I can't remember what type of trees  they are,  /
+sd          B.132 utt2: {C but }  [ they, + all the leaves ] turn yellow, /  
+
+b          A.133 utt1:  # Oh.  # /  
+
+sd          B.134 utt1:  # {C and } # it's just brilliant.  /
+%          B.134 utt2: {C And, } -/  
+
+sd          A.135 utt1:  I love that. /  
+
+aa          B.136 utt1:  Yes,  /
+aa          B.136 utt2: you would.   /
+sv          B.136 utt3: You'd like it very much. /  
+
+ba          A.137 utt1:  That's neat.  /
+ba          A.137 utt2: That's neat. /  
+
+sv          B.138 utt1:  I know you would. /  
+
+sd          A.139 utt1:  I used to go camping all the time as [ a, + a ] Girl Scout. /  
+
+sd          B.140 utt1:  I was too <laughter>. /  
+
+sd          A.141 utt1:  <Laughter>  All the time. I got real used to it then. /  
+
+b          B.142 utt1:  Yeah. /  
+
+sd          A.143 utt1:  I felt like we roughed it then <laughter>. /  
+
+sd          B.144 utt1:  {F Uh, } {D well } we did, {D you know, }  /
+sd^r          B.144 utt2: we really did.  /
+sv          B.144 utt3: {E I mean, } I just don't understand these people that think taking an R V,   
+
+b          A.145 utt1:  # Right.  # /  
+
++          B.146 utt1:  # and # parking it and sitting inside and watching T V,   
+
+b          A.147 utt1:  # Yes.  # /  
+
++          B.148 utt1:  # and # having your microwave <laughter>, /  
+
+aa          A.149 utt1:  # <Laughter>  Exactly.  # /  
+
+sv          B.150 utt1:  # It's not # camping. /  
+
+sd          A.151 utt1:  {E I mean, } we had to make the fires  and dig latrines <laughter>  and  everything. /  
+
+aa          B.152 utt1:  Right,  /
+aa^r          B.152 utt2: right.  /
+sv          B.152 utt3:  {E I mean } that is it <laughter>. /  
+
+sv          A.153 utt1:  <Laughter>  You have to get poison ivy  and all that good stuff,   
+
+b          B.154 utt1:  # Right.  # /  
+
++          A.155 utt1:  # to # really be camping <laughter>. /  
+
+b          B.156 utt1:  <Laughter>  Oh. /  
+
+b          A.157 utt1:  Yeah.  /
+qy          A.157 utt2:  {D Well } do [ [ you, + you, ] + you ]  say you haven't been in years? /  
+
+nn          B.158 utt1:  No,  /
+sd^e          B.158 utt2: I haven't.  /
+sd          B.158 utt3: [ I'm, + {F um, } I'm ]  a struggling single mom. /  
+
+ba          A.159 utt1:  # {F Oh, } gosh, bless your heart.  # /  
+
+%          B.160 utt1:  # {C and, }  {F uh, } - /
+ft          B.160 utt2: <laughter>  thank you.  # /  
+
+x          A.161 utt1:  <Laughter>.   
+
+%          B.162 utt1:  {F Um, }  it's,  {D you know, } - /
+sv          B.162 utt2:  time is precious,  /
+sv          B.162 utt3: money's precious. /  
+
+b          A.163 utt1:  Yes. /  
+
+%          B.164 utt1:  {F Um, } {C and } [ [ [ i-, +  i-, ] +  it, ] +  it, ] - /
+sd          B.164 utt2:   I think I haven't been able to do it,  /
+sd          B.164 utt3: {C and, }   {D you know, } [ what, +  that ] was one of the things  I really thought I'd like to do with my children,   
+
+b          A.165 utt1:  # Uh-huh,  /
+b^r          A.165 utt2: uh-huh.  # /  
+
++          B.166 utt1:  # {D you know, } # again.  /
+sd          B.166 utt2:  {C And } [ th-, + ]  I'm a little bit fearful of trying that just women. /  
+
+ba          A.167 utt1:  I don't blame you. /  
+
+qy          B.168 utt1:  {D You know? } /  
+
+ba^r          A.169 utt1:  I don't blame you at all. /  
+
+sd          B.170 utt1:  I hope, /  
+
+sv          A.171 utt1:  Years ago it would have been fine  /
+%          A.171 utt2: {C but, } -/  
+
+aa          B.172 utt1:  Yes,  /
+%          B.172 utt2: [ I, + I ] really now, [ [ n-, +  n-, ] + ] - /
+sd          B.172 utt3:  [ I, + I ] have gone on one little vacation, just the girls and I.  /
+sd          B.172 utt4: We drove down to Port Aransas,   
+
+b          A.173 utt1:  # Oh.  # /  
+
++          B.174 utt1:  # and # rented a little efficiency, {D you know, }   
+
+b          A.175 utt1:  # Yeah.  # /  
+
++          B.176 utt1:  # [ and, # + and ] had a marvelous like two nights, /  
+
+b          A.177 utt1:  # Yeah.  # /  
+
+sd          B.178 utt1:  # {C and } # that was great.  /
+sd          B.178 utt2:   {C And } even at that, [ it, + it ] was like the first time that I ventured,   
+
+b          A.179 utt1:  # Uh-huh.  # /  
+
++          B.180 utt1:  # {D you # know, } out of the city by myself.  /
+sd          B.180 utt2:   [ {C And, }  + {C and, } ] {D you know, } [ I, + I ] stayed in a nice place.  /
+sv          B.180 utt3:  {C But } [ it's still, +  it's ] real different not to have another adult with you. /  
+
+aa          A.181 utt1:  Yes.  /
+aa          A.181 utt2:  I kn-, -/  
+
+b          B.182 utt1:  {D # You know.  # } /  
+
+ba          A.183 utt1:  # I can # imagine. /  
+
+sv          B.184 utt1:  I'm just a chicken. /  
+
+x          A.185 utt1:  <Laughter>.   
+
+sd          B.186 utt1:  I know lots of women would do it all the <laughter>  time. /  
+
+ar          A.187 utt1:  No <laughter>.  /
+ba          A.187 utt2: I don't blame you, not nowadays. /  
+
+sd          B.188 utt1:  I haven't quite adjusted, {D you know? } /  
+
+b          @@A.189 utt1:  Yeah.  /
+qy          @@A.189 utt2: Now are you with T I down there? /  
+
+sd          B.190 utt1:  {D Well, } [ I, + I ] was with  T I until January.  /
+sd          B.190 utt2:  [ I, + {F uh, } I ] left T I in January hoping to strike out and find a job where I could make some money. /  
+
+ba          A.191 utt1:  Good. /  
+
+ng          B.192 utt1:  {C So, } {D well } [ it's, +   
+
+qy          A.193 utt1:  Have you? <laughter>. /  
+
++          B.194 utt1:  It  was ] a good plan but I haven't yet <laughter>. /  
+
+bk          A.195 utt1:  Okay. /  
+
+sd          B.196 utt1:  I got into sales,  /
+sd          B.196 utt2: {C and, }   
+
+b          A.197 utt1:  # Oh.  # /  
+
++          B.198 utt1:  # I'm # selling, {F uh, } telephone systems. /  
+
+ba          A.199 utt1:  {F Oh, } that's neat. /  
+
+sd          B.200 utt1:  {C And } [ it's, + it's ] fun  /
+sd          B.200 utt2: {C and }  it's interesting,  /
+sd          B.200 utt3: {C but } it's also, {F um, } pretty challenging,  /
+sd          B.200 utt4: {C and } [ I  haven't, + I haven't ] started  making money yet. /  
+
+qy^g          A.201 utt1:  {F Um. }  It's hard isn't it? /  
+
+ny          B.202 utt1:  {C So, } yeah,  /
+sd^e^m          B.202 utt2: [ it's, + it's ] hard <child>. /  
+
+qw          A.203 utt1:  {D Now, } how old are your girls? /  
+
+sd          B.204 utt1:  Eleven and fourteen. /  
+
+ba          A.205 utt1:  {F Oh, } goodness. /  
+
+b          B.206 utt1:  Yeah.  /
+sv          B.206 utt2:  {C So } I'm old <laughter>. /  
+
+ar          A.207 utt1:  No,  /
+sv          A.207 utt2: you're not old <laughter>. /  
+
+x          B.208 utt1:  <Laughter>.   
+
+sv^r          A.209 utt1:  <Child_talking>  <<saying, Who is it?>> You're not old at all. /  
+
+co          B.210 utt1:  {D Well, } excuse me just second. /  
+
+aa          A.211 utt1:  Sure. /  
+
+t3          B.212 utt1:  <<B speaks to someone>> Honey,  I'll be wi-, - /
+%          B.212 utt2: yeah,  /
+ad          B.212 utt3: go ahead.  /
+sd          B.212 utt4: <<Background voice, Okay.>>  There's someone at the door. /  
+
+b          A.213 utt1:  {F Oh, } okay.  /
+qy          A.213 utt2:  Do you need to go? /  
+
+nd          B.214 utt1:  {D Well, } {F um, } I'm going to listen.  /
+sd          B.214 utt2:  We always  check and see if we should answer the door,   
+
+b          A.215 utt1:  # Yeah.  # /  
+
++          B.216 utt1:  # at # night. /  
+
+ba          A.217 utt1:  That's very smart. /  
+
+b          B.218 utt1:  Yeah  /
+sd          B.218 utt2: {C so, } {D well, } I've enjoyed this. /  
+
+b          A.219 utt1:  Yeah,  /
+sd          A.219 utt2: me too. /  
+
+%          B.220 utt1:  {C And, }  {F uh, } -/  
+
+ba          A.221 utt1:  {C And } good luck.  /
+qw          A.221 utt2: How many have you made  so far, calls? /  
+
+sd          B.222 utt1:  [ I, + I ] haven't made any.  /
+sd          B.222 utt2:  I've been  just a recipient <laughter>. /  
+
+bh          A.223 utt1:  {F Oh, } have you?  /
+%          A.223 utt2: They're all, - /
+sd          A.223 utt3: this is only  about my second one I've ever made.  /
+sd          A.223 utt4: I've been a recipient on the others.  /
+qw          A.223 utt5:  How many have  you had so far, do you know? /  
+
+sd          B.224 utt1:  I think I've had about four. /  
+
+b^m          A.225 utt1:  Four,  /
+ba          A.225 utt2: that's good. /  
+
+%          B.226 utt1:  Ye-,  /
+b          B.226 utt2: yeah. /  
+
+ba          A.227 utt1:  Very good. /  
+
+sd          B.228 utt1:  That's four each.  /
+%          B.228 utt2:  {D Well, } {D you know, }  when I had to sup-, - /
+sv          B.228 utt3: this is [ my, + my ] Gemini nature, {D you know,  /
+sd          B.228 utt4: } it's like what are you interested in, /  
+
+b          A.229 utt1:  # Yes.  # /  
+
+sd          B.230 utt1:  # {C and } # it's like virtually anything.  /
+sd          B.230 utt2:  I'll talk  about anything to anybody <laughter>. /  
+
+b          A.231 utt1:  Yeah.  /
+sd          A.231 utt2:  I don't,  /
+%          A.231 utt3: yeah,  /
+ba          A.231 utt4: you bet,  /
+ba^r          A.231 utt5: you bet. /  
+
+sd          B.232 utt1:  {C And } [ it's, + it's ] been real interesting,  the different personalities <laughter>.    
+
+aa          A.233 utt1:  I know. /  
+
++          B.234 utt1:  That I run across. /  
+
+aa          A.235 utt1:  Yes,  /
+sd          A.235 utt2: I always try to find out where they're from,   
+
+aa          B.236 utt1:  # Exactly.  # /  
+
++          A.237 utt1:  # {D you # know, }  /
+sv          A.237 utt2: [ {C cause, } + {C because } ] it is neat. /  
+
+b          B.238 utt1:  Uh-huh. /  
+
+sv          A.239 utt1:  It really is. /  
+
+b          B.240 utt1:  Uh-huh. /  
+
+fc          A.241 utt1:  {D Well } then, I guess I'll let you go  so you can go get the door  /
+%          A.241 utt2: {C and, } -/  
+
+fc          B.242 utt1:  {D Well, } thank you.  /
+fc          B.242 utt2: {C And, }  {F um, }  I enjoyed talking with you. /  
+
+fc          A.243 utt1:  [ You, + me ] too. /  
+
+fc          B.244 utt1:  You have a good time camping,  /
+fc          B.244 utt2: when you go next time,   
+
+fc          A.245 utt1:  # Thanks.  # /  
+
++          B.246 utt1:  # think # of me <child>. /  
+
+fc          A.247 utt1:  Okay.  /
+fc          A.247 utt2:  Thank you. /  
+
+fc          B.248 utt1:  All right. /  
+
+fc          A.249 utt1:  Bye-bye. /  
+
+fc^m          B.250 utt1:  Bye-bye. / 

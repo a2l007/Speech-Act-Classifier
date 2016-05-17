@@ -1,0 +1,1162 @@
+Bed010-c1_0000030_0000180,x ==,{x} ==,z,z
+Bed010-c3_0000510_0001830,how many batteries do you go through ?,how many batteries do you go through ?,z,z
+Bed010-c1_0009270_0009550,thank you .,thank you .,z,z
+Bed010-c2_0009660_0009950,all right .,alright .,z,z
+Bed010-c0_0010550_0010900,sure .,sure .,z,z
+Bed010-c2_0010880_0011030,good .,good .,fg,fg
+Bed010-c2_0013318_0013518,yeah .,yeah .,fg,fg
+Bed010-c2_0015720_0017900,okay so let's get started .,o_k so let's get started .,s^tc,s^tc
+Bed010-c2_0017900_0019140,nancy said she's coming .,nancy said she's coming .,s,s
+Bed010-c2_0019140_0020210,and that means she will be .,and that means she will be .,s,s
+Bed010-c2_0021124_0032567,um | my suggestion is that robert and johno sort of give us a report on last week's adventures uh - to start .,um | my suggestion is that robert and johno sort of give us a report on last week's adventures uh - to start .,fh|s^t,fh|s^t
+Bed010-c2_0033350_0043710,so everybody knows there were these guys f- - uh - from heidelber- - uh - uh actually from uh - d f k i uh - part of the german smartkom project who were here for the week .,so everybody knows there were these guys f- - uh - from heidelber- - uh - uh actually from uh - d_f_k_i uh - part of the german smartkom project who were here for the week .,s,s
+Bed010-c2_0044430_0046490,and i think got a lot done .,and i think got a lot done .,s,s
+Bed010-c4_0048040_0048710,yeah i think so too .,yeah i think so too .,s^aa,s^aa
+Bed010-c4_0049700_0050420,um ==,um ==,fh,fh
+Bed010-c4_0051900_0065270,the - we got to the point where we can now speak into the smartkom system and it'll go all the way through and then say something like roman numeral one am smarticus .,the - we got to the point where we can now speak into the smartkom system and it'll go all the way through and then say something like roman numeral one am smarticus .,s,s
+Bed010-c4_0065739_0068759,it actually says roemisch einz am smarticus .,it actually says roemisch einz am smarticus .,s,s
+Bed010-c4_0068759_0074807,which means it's just using a german synthesis module for english sentences .,which means it's just using a german sythesis module for english sentences .,s,s
+Bed010-c1_0069044_0069304,okay .,o_k .,b,b
+Bed010-c1_0075067_0075327,okay .,o_k .,s^bk,s^bk
+Bed010-c4_0075507_0076877,so uh ==,so uh ==,%-,%-
+Bed010-c2_0076124_0077024,it doesn't know i .,it doesn't know i .,s^j.x,s^j.x
+Bed010-c1_0077799_0077949,okay .,o_k .,s^bk,s^bk
+Bed010-c4_0079350_0081473,um | the uh ==,um | the uh ==,fh|%-,fh|%-
+Bed010-c1_0080990_0081190,oh .,oh .,s^bk,s^bk
+Bed010-c1_0081610_0082440,am spartacus .,am spartacus .,s^2,s^2
+Bed010-c3_0081618_0083508,i am sm- - i am smarticus is what it's saying .,i am sm- - i am smarticus is what it's saying .,s,s
+Bed010-c1_0082840_0083260,verstehe .,verstehe .,s,s
+Bed010-c0_0083150_0083340,right .,right .,s^aa,s^aa
+Bed010-c3_0083508_0083648,i gue- ==,i gue- ==,%,%
+Bed010-c1_0083630_0083990,okay .,o_k .,b,b
+Bed010-c4_0084518_0093632,the uh - synthesis is just a question of um - hopefully it's just a question of exchanging a couple of files once we have them .,the uh - sythesis is just a question of um - hopefully it's just a question of exchanging a couple of files once we have them .,s,s
+Bed010-c4_0094190_0101524,and um - | it's not going to be a problem because we decided to stick to the so called concept to speech approach .,and um - | it's not going to be a problem because we decided to stick to the so-called concept to speech approach .,fh|s,fh|s
+Bed010-c4_0101934_0103304,so i'm - i'm - i'm going backwards now .,so i'm - i'm - i'm going backwards now .,s,s
+Bed010-c4_0103304_0107860,so | synthesis is where you sort of make this - uh - make these sounds .,so | synthesis is where you sort of make this - uh - make these sounds .,fh|s,fh|s
+Bed010-c4_0108253_0114877,and concept to speech is feeding into this synthesis module giving it what needs to be said and the whole syntactic structure .,and concept to speech is feeding into this synthesis module giving it what needs to be said and the whole syntactic structure .,s,s
+Bed010-c4_0115057_0119721,so it can pronounce things better presumably then just with text to speech .,so it can pronounce things better presumably then just with text to speech .,s^df,s^df
+Bed010-c1_0119684_0120084,uhhuh .,mm-hmm .,b,b
+Bed010-c4_0120623_0125334,and uh - | johno learned how to write x m l tags .,and uh - | johno learned how to write x_m_l tags .,fh|s,fh|s
+Bed010-c4_0126510_0132670,uh | and did write the tree adjoining grammar for some - some sentences .,uh | and did write the tree adjoining grammar for some - some sentences .,fh|s,fh|s
+Bed010-c4_0132670_0132880,no ?,no ?,qy^d^g,qy^d^g
+Bed010-c4_0132880_0133140,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c4_0133140_0133880,yeah for a couple ==,yeah for a couple ==,s.%-,s.%-
+Bed010-c3_0133550_0133720,yeah .,yeah .,s^aa,s^aa
+Bed010-c3_0133720_0143465,so bu- - uh i- - the way the uh - the dialogue manager works is it dumps out what it wants to know or what it wants to tell the person to a - uh in x m l .,so bu- - uh i- - the way the uh - the dialogue manager works is it dumps out what it wants to know or what it wants to tell the person to a - er in x_m_l .,s,s
+Bed010-c3_0144020_0148730,and there's a conversion system for different uh - to go from x m l to something else .,and there's a conversion system for different uh - to go from x_m_l to something else .,s,s
+Bed010-c3_0149040_0161390,and th- - so the knowledge base for the system that generates the syntasti- - syntactic structures for the ge- - generation is uh - in a lisp like - the knowledge base is in a lisp like form .,and th- - so the knowledge base for the system that generates the syntasti- - syntactic structures for the ge- - generation is uh - in a lisp-like - the knowledge base is in a lisp-like form .,s,s
+Bed010-c3_0161900_0166940,and then the thing that actually builds these syntactic structures is something based on prolog .,and then the thing that actually builds these syntactic structures is something based on prolog .,s,s
+Bed010-c3_0167710_0170260,so you have a - basically a goal .,so you have a - basically a goal .,s,s
+Bed010-c3_0170340_0174942,and it you know says okay well i'm going to try to do the greet the person goal .,and it you know says o_k well i'm gonna try to do the greet-the-person goal .,s,s
+Bed010-c1_0174449_0174789,uhhuh .,mm-hmm .,b,b
+Bed010-c3_0175372_0180402,so it just starts uh - it binds some variables and it just decides to you know do some subscold .,so it just starts uh - it binds some variables and it just decides to you know do some subscold .,s,s
+Bed010-c3_0180402_0181732,basically it just means build the tree .,basically it just means build the tree .,s^e,s^e
+Bed010-c3_0182271_0186590,and then it passes the tree onto uh - the ge- - the generation module .,and then it passes the tree onto uh - the ge- - the generation module .,s,s
+Bed010-c1_0182334_0182514,okay .,o_k .,b.%,b.%
+Bed010-c4_0188130_0199400,but i think that the point is that out of the twelve possible utterances that the german system can do we've already written the - the syntax trees for three or four .,but i think that the point is that out of the twelve possible utterances that the german system can do we've already written the - the syntax trees for three or four .,s,s
+Bed010-c3_0198680_0198740,we ==,we- ==,fg,fg
+Bed010-c3_0198740_0198890,yeah .,yeah .,fg,fg
+Bed010-c3_0198890_0200770,so the syntax trees are very simple .,so the syntax trees are very simple .,s,s
+Bed010-c3_0200770_0202980,it's like most of the sentences in one tree .,it's like most of the sentences in one tree .,s^rt,s^rt
+Bed010-c1_0203355_0203705,uhhuh .,mm-hmm .,b,b
+Bed010-c3_0203713_0213322,and instead of you know breaking down to like small units and building back up they basically took the sentences and basically cut them in half or you know into thirds or something like that and made trees out of those .,and instead of you know breaking down to like small units and building back up they basically took the sentences and basically cut them in half or you know into thirds or something like that and made trees out of those .,s,s
+Bed010-c3_0214020_0226830,and so uh - uh - | tilman wrote a little tool that you could take lisp notation and generate an x m l uh - tree uh - s- - what do ca- - structure from the - from the lisp .,and so uh - uh - | tilman wrote a little tool that you could take lisp notation and generate an x_m_l uh - tree uh - s- - what do ca- - structure from the - from the lisp .,fh|s,fh|s
+Bed010-c3_0227550_0231570,and so basically you just say you know noun goes to you know ==,and so basically you just say you know noun goes to you know ==,s.%--,s.%--
+Bed010-c3_0232650_0235060,nah i don't re- - i've never been good at those .,<er> nah i don't re- - i've never been good at those .,s^no,s^no
+Bed010-c3_0235060_0240637,so there's like the v p goes to n and those things in lisp and it will generate for you .,so there's like the v_p goes to n_ and those things in lisp and it will generate for you .,s,s
+Bed010-c1_0236863_0237183,okay .,o_k .,s^bk,s^bk
+Bed010-c1_0237814_0238194,n v .,n_ v_ .,s^bk^m,s^bk^m
+Bed010-c1_0238194_0238444,yeah .,yeah .,s^bk,s^bk
+Bed010-c1_0238444_0238694,okay .,o_k .,s^bk,s^bk
+Bed010-c1_0242243_0242493,all right .,alright .,s^tc,s^tc
+Bed010-c4_0242770_0249294,and because we're sticking to that structure the synthesis module doesn't need to be changed so all that f- - fancy stuff .,and because we're sticking to that structure the synthesis module doesn't need to be changed so all that f- - fancy stuff .,s,s
+Bed010-c4_0249294_0256124,and the texas speech version of it which is actually the simpler version is going to be done in october which is much too late for us .,and the texas speech version of it which is actually the simpler version is gonna be done in october which is much too late for us .,s,s
+Bed010-c4_0256234_0256434,so ==,so ==,fh,fh
+Bed010-c4_0257361_0259091,this way we - we worked around that .,this way we - we worked around that .,s^rt,s^rt
+Bed010-c4_0259593_0263013,the uh - the system um - i can show you the system .,the uh - the system um - i can show you the system .,s^cc,s^cc
+Bed010-c4_0263013_0269573,i actually want - at least maybe you should be able to start it on your own if you want to play around with it in th- - in the future .,i actually want - at least maybe you should be able to start it on your own if you wanna play around with it in th- - in the future .,s,s
+Bed010-c4_0270130_0281930,right now it's brittle and you need to ch- - start it up and then make ts- - twenty changes on - on - on - on seventeen modules before they actually can stomach it anything .,right now it's brittle and you need to ch- - start it up and then make ts- - twenty changes on - on - on - on seventeen modules before they actually can stomach it anything .,s,s
+Bed010-c4_0283050_0290340,and send in a - a - a couple of side queries on some dummy center set up program so that it actually works .,and send in a - a - a couple of side queries on some dummy center set-up program so that it actually works .,s,s
+Bed010-c4_0290340_0299840,because it's designed for this seevit thing where you have the gestural recognition running with this s- - siemens virtual touch screen which we don't have here .,because it's designed for this seevit thing where you have the gestural recognition running with this s- - siemens virtual touch screen which we don't have here .,s^df,s^df
+Bed010-c1_0295974_0296314,uhhuh .,mm-hmm .,b,b
+Bed010-c4_0300736_0303236,and so we're doing it via mouse .,and so we're doing it via mouse .,s,s
+Bed010-c4_0303236_0305466,but the whole system was designed to work with this thing .,but the whole system was designed to work with this thing .,s,s
+Bed010-c4_0305466_0308476,and it was - it was a lot of engineering stuff .,and it was - it was a lot of engineering stuff .,s,s
+Bed010-c4_0309288_0311248,no science in there whatsoever .,no science in there whatsoever .,s^rt,s^rt
+Bed010-c4_0311248_0312468,but it's working now .,but it's working now .,s,s
+Bed010-c4_0312468_0314800,and um - | that's the good news .,and um - | that's the good news .,fh|s,fh|s
+Bed010-c4_0314910_0319370,so everything else actually did prove to be language independent except for the parsing and the generation .,so everything else actually did prove to be language independent except for the parsing and the generation .,s^rt,s^rt
+Bed010-c3_0319660_0322790,why i had - i did need to chan- - generate different trees than the german ones .,why i had - i did need to chan- - generate different trees than the german ones .,s^ng^rt,s^ng^rt
+Bed010-c3_0323280_0329380,mainly because you know like uh the gerund in - in german is automatically taken care of with just a regular verb .,mainly because you know like uh the gerund in - in german is automatically taken care of with just a regular verb .,s^df,s^df
+Bed010-c4_0328923_0329813,you have to switch it on .,you have to switch it on .,s^t3,s^t3
+Bed010-c1_0329602_0329932,uhhuh .,mm-hmm .,b,b
+Bed010-c3_0329858_0331508,so i'd uh - have to add am walking .,so i'd uh - have to add am walking .,s:s,s:s
+Bed010-c3_0331508_0335140,or i'd have to add a little stem for the am when i build the - built the tree .,or i'd have to add a little stem for the am when i build the - built the tree .,s,s
+Bed010-c1_0331790_0332290,okay .,o_k .,s^bk,s^bk
+Bed010-c1_0333280_0333540,okay .,o_k .,fg,fg
+Bed010-c1_0335879_0343410,yeah i noticed that um that some of the examples they had had you know non english word orders and so on .,yeah i noticed that um that some of the examples they had had you know non-english word orders and so on .,s,s
+Bed010-c1_0343410_0344790,you know and then all that good stuff .,you know and then all that good stuff .,s,s
+Bed010-c1_0344790_0345100,so ==,so ==,fh,fh
+Bed010-c3_0345130_0345390,yeah .,yeah .,s^aa,s^aa
+Bed010-c2_0345265_0345585,all right .,alright .,s^bk,s^bk
+Bed010-c1_0345820_0346010,like ==,like ==,%-,%-
+Bed010-c2_0346157_0349187,so it might be worth keith you looking at this .,so it might be worth keith you looking at this .,s^cs,s^cs
+Bed010-c1_0349380_0349610,yeah .,yeah .,s^aa,s^aa
+Bed010-c2_0349837_0351197,um ==,um ==,h,h
+Bed010-c3_0351010_0352340,well tilman s- ==,well tilman s- ==,%-,%-
+Bed010-c1_0351410_0354350,i - i still don't - i still don't really understand e- - like ==,i - i still don't - i still don't really understand e- - like ==,s^no.%--,s^no.%--
+Bed010-c1_0354350_0355670,i mean we sort of say um ==,i mean we sort of say um ==,s.%--,s.%--
+Bed010-c1_0357290_0362950,you know i - i still don't exactly understand sort of the information flow uh in - in this thing or what the modules are and so on .,you know i - i still don't exactly understand sort of the information flow uh in - in this thing or what the modules are and so on .,s^no,s^no
+Bed010-c1_0362950_0370459,so you know like just that such and such module uh um decides that it wants to achieve the goal of greeting the user .,so you know like just that such-and-such module uh um decides that it wants to achieve the goal of greeting the user .,s^bu,s^bu
+Bed010-c1_0370459_0371999,and then magically it sort of s- ==,and then magically it sort of s- ==,s.%--,s.%--
+Bed010-c2_0370541_0370751,yeah ==,yeah ==,fg,fg
+Bed010-c1_0372412_0375462,i mean how does it know which syntactic structure to pull out and all that ?,i mean how does it know which syntactic structure to pull out and all that ?,qw,qw
+Bed010-c2_0373010_0373740,i thi- ==,i thi- ==,fg,fg
+Bed010-c2_0374160_0374470,yeah .,yeah .,fg,fg
+Bed010-c2_0374470_0377430,so i think it's not worth going over in the group .,so i think it's not worth going over in the group .,s,s
+Bed010-c1_0376991_0377441,r- - uh ==,r- - uh ==,%,%
+Bed010-c2_0377430_0385640,but sort of when you get free and you have the time uh - either robert or johno or i can walk you through it .,but sort of when you get free and you have the time uh - either robert or johno or i can walk you through it .,s^cc,s^cc
+Bed010-c1_0377441_0377811,sure .,sure .,s^bk,s^bk
+Bed010-c1_0380870_0381170,yeah .,yeah .,s^aa,s^aa
+Bed010-c1_0381690_0382110,soon .,soon .,s^2,s^2
+Bed010-c1_0385660_0385950,okay .,o_k .,s^bk,s^bk
+Bed010-c2_0386250_0389720,and you can ask all the questions about how this all fits together .,and you can ask all the questions about how this all fits together .,s,s
+Bed010-c1_0389480_0389880,that's fine .,that's fine .,s^ba,s^ba
+Bed010-c2_0390230_0391290,it's eee messy .,it's eee messy .,s,s
+Bed010-c2_0391290_0393360,but once you understand it you understand it .,but once you understand it you understand it .,s,s
+Bed010-c2_0393360_0396030,it's - it's - there's nothing really complicated about it .,it's - it's - there's nothing really complicated about it .,s,s
+Bed010-c1_0396070_0396420,okay .,o_k .,s^bk,s^bk
+Bed010-c4_0396302_0396622,no .,no .,s^aa,s^aa
+Bed010-c1_0397591_0405210,and i remember one thing that - that came up in the talk last wednesday um was this ==,and i remember one thing that - that came up in the talk last wednesday um was this ==,s.%--,s.%--
+Bed010-c1_0405280_0415550,i - i think he talked about the idea of like um - he was talking about these lexicalized uh - uh tree adjoining grammars where you sort of - for each word you um ==,i - i think he talked about the idea of like um - he was talking about these lexicalized uh - uh tree adjoining grammars where you sort of - for each word you um ==,s.%--,s.%--
+Bed010-c3_0407260_0408270,okay you know how to do it ?,o_k you know how to do it ?,qw^rt^t3,qw^rt^t3
+Bed010-c1_0415760_0421900,for each lexical item the lexical entry says what all the uh trees are that it can appear in .,for each lexical item the lexical entry says what all the uh trees are that it can appear in .,s^e^rt,s^e^rt
+Bed010-c1_0422270_0427470,and | of course that's not v- - that's the opposite of constructional .,and | of course that's not v- - that's the opposite of constructional .,fh|s,fh|s
+Bed010-c1_0427470_0429790,that's you know that's - that's h p s g or whatever .,that's you know that's - that's h_p_s_g or whatever .,s,s
+Bed010-c2_0428260_0428560,right .,right .,s^aa,s^aa
+Bed010-c2_0429750_0430020,right .,right .,fg,fg
+Bed010-c1_0429790_0430140,you know ?,you know ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c2_0430020_0438230,now we're - we're not committed for our research to do any of those things .,now we're - we're not committed for our research to do any of those things .,s,s
+Bed010-c1_0434920_0435110,yeah .,yeah .,b,b
+Bed010-c1_0438113_0438363,uhhuh .,mm-hmm .,b,b
+Bed010-c2_0438630_0441740,so uh | we are committed for our funding .,so uh | we are committed for our funding .,fh|s^e,fh|s^e
+Bed010-c1_0441825_0442095,right .,right .,b,b
+Bed010-c2_0442440_0443010,okay ?,o_k ?,qy^d^f,qy^d^f
+Bed010-c2_0443400_0444830,to uh ==,to uh ==,%-,%-
+Bed010-c1_0444308_0445658,make our stuff fit to that .,make our stuff fit to that .,s^2,s^2
+Bed010-c2_0445790_0446270,yeah | to ==,yeah | to ==,s^aa|%--,s^aa|%--
+Bed010-c2_0446270_0449750,n- - no | to just get the dem- - get the demos they need .,n- - no | to just get the dem- - get the demos they need .,s^ar|s^df,s^ar|s^df
+Bed010-c1_0449751_0450021,uhhuh .,uh-huh .,b,b
+Bed010-c2_0450300_0450630,okay ?,o_k ?,qy^d^f,qy^d^f
+Bed010-c2_0450920_0453480,so between us all we have t- - to get th- - the demos they need .,so between us all we have t- - to get th- - the demos they need .,s,s
+Bed010-c2_0453850_0461240,if it turns out we can also give them lots more than that by you know tapping into other things we do that's great .,if it turns out we can also give them lots more than that by you know tapping into other things we do that's great .,s^cs,s^cs
+Bed010-c3_0458921_0460721,you should probably move the microphone closer to your face .,you should probably move the microphone closer to your face .,s^cs^t3,s^cs^t3
+Bed010-c1_0461978_0462288,uhhuh .,mm-hmm .,b,b
+Bed010-c2_0462060_0464750,but i- - it turns out not to be in an- - any of the contracts .,but i- - it turns out not to be in an- - any of the contracts .,s,s
+Bed010-c3_0462380_0464480,there's like a little - the twisty thing you can move it with .,there's like a little - the twisty thing you can move it with .,s^t3,s^t3
+Bed010-c1_0464970_0465170,okay .,o_k .,s^bk,s^bk
+Bed010-c2_0465780_0467200,and s- - | deliberately .,and s- - | deliberately .,fh|s^e,fh|s^e
+Bed010-c2_0468450_0479150,so | the reason i'd like you to understand uh - what's going on in this demo system is not because it's important to the research .,so | the reason i'd like you to understand uh - what's going on in this demo system is not because it's important to the research .,fh|s^df,fh|s^df
+Bed010-c2_0479150_0480640,it's just for closure .,it's just for closure .,s,s
+Bed010-c2_0480640_0485420,so that if we come up with a question of could we fit this deeper stuff in there or something .,so that if we come up with a question of could we fit this deeper stuff in there or something .,s:qw,s:qw
+Bed010-c2_0485420_0488844,you know what the hell we- - we're talking about fitting in .,you know what the hell we- - we're talking about fitting in .,s,s
+Bed010-c1_0486681_0487001,right .,right .,s^aa,s^aa
+Bed010-c1_0489110_0489350,okay .,o_k .,s^bk,s^bk
+Bed010-c2_0489434_0492904,so it's just uh - in the sam- - same actually with the rest of us .,so it's just uh - in the sam- - same actually with the rest of us .,s,s
+Bed010-c2_0493720_0497550,we just need to really understand what's there .,we just need to really understand what's there .,s,s
+Bed010-c2_0497990_0499680,is there anything we can make use of ?,is there anything we can make use of ?,qy,qy
+Bed010-c2_0501070_0505230,uh | is there anything we can give back beyond th- - the sort of minimum requirements ?,uh | is there anything we can give back beyond th- - the sort of minimum requirements ?,fh|qy,fh|qy
+Bed010-c2_0506040_0507970,but none of that has a short time fuse .,but none of that has a short time fuse .,s,s
+Bed010-c1_0508347_0508657,okay .,o_k .,s^bk,s^bk
+Bed010-c2_0508820_0515380,so th- - the demo- - the demo requirements for this fall are sort of taken care of as of later this week or something .,so th- - the demo- - the demo requirements for this fall are sort of taken care of as of later this week or something .,s,s
+Bed010-c2_0515990_0520910,and then - so it's probably fifteen months or something until there's another serious demo requirement .,and then - so it's probably fifteen months or something until there's another serious demo requirement .,s,s
+Bed010-c2_0520910_0523180,that doesn't mean we don't think about it for fifteen months .,that doesn't mean we don't think about it for fifteen months .,s,s
+Bed010-c1_0521100_0521610,oh okay .,oh o_k .,s^bk,s^bk
+Bed010-c2_0523180_0525480,but it means we can not think about it for six months .,but it means we can not think about it for six months .,s,s
+Bed010-c1_0523190_0523710,right .,right .,s^bk,s^bk
+Bed010-c1_0525450_0525880,right yeah .,right yeah .,s^aa,s^aa
+Bed010-c2_0526410_0536400,so | the plan for this summer uh - really is to step back from the applied project .,so | the plan for this summer uh - really is to step back from the applied project .,fh|s^t^tc,fh|s^t^tc
+Bed010-c4_0526451_0526731,right .,right .,b.x,b.x
+Bed010-c2_0537220_0541820,keep the d- - keep the context open but actually go after the basic issues .,keep the d- - keep the context open but actually go after the basic issues .,s,s
+Bed010-c1_0539466_0539776,huh .,hmm .,b,b
+Bed010-c1_0541870_0542230,oh okay .,oh o_k .,s^bk,s^bk
+Bed010-c2_0542720_0543610,and ==,and ==,fh,fh
+Bed010-c2_0543860_0552480,so | the idea is there's this uh - other subgroup that's worrying about formalizing the nota- - getting a notation .,so | the idea is there's this uh - other subgroup that's worrying about formalizing the nota- - getting a notation .,fh|s,fh|s
+Bed010-c2_0552900_0562370,but sort of in parallel with that uh - the hope is tha- - in particularly you will work on constructions in english ge- - and german for this domain .,but sort of in parallel with that uh - the hope is tha- - in particularly you will work on constructions in english ge- - and german for this domain .,s^co,s^co
+Bed010-c1_0562399_0562729,uhhuh .,mm-hmm .,b,b
+Bed010-c2_0562960_0572270,but y- - not worry about parsing them or fitting them into smartkom or any of the other - anything lik- - any other constraints for the time being .,but y- - not worry about parsing them or fitting them into smartkom or any of the other - anything lik- - any other constraints for the time being .,s^e,s^e
+Bed010-c1_0566460_0566870,yeah .,yeah .,b,b
+Bed010-c1_0570215_0570475,okay .,o_k .,s^bk,s^bk
+Bed010-c1_0572573_0572853,got it .,got it .,s^bk,s^bk
+Bed010-c2_0572650_0580029,it's hard enough to get it semantically and syntactically right and then - and get the constructions in their form and stuff .,it's hard enough to get it semantically and syntactically right and then - and get the constructions in their form and stuff .,s,s
+Bed010-c1_0576176_0576576,yeah .,yeah .,s^aa,s^aa
+Bed010-c2_0580730_0587360,and i don- - i don't want you f- - feeling that you have to somehow meet all these other constraints .,and i don- - i don't want you f- - feeling that you have to somehow meet all these other constraints .,s,s
+Bed010-c1_0587245_0587755,right okay .,right o_k .,s^bk,s^bk
+Bed010-c2_0588730_0596860,um | and similarly with the parsing uh - we're going to worry about parsing uh - the general case .,um | and similarly with the parsing uh - we're gonna worry about parsing uh - the general case .,fh|s,fh|s
+Bed010-c2_0597510_0600180,you know construction parser for general constructions .,you know construction parser for general constructions .,s^e,s^e
+Bed010-c2_0600750_0606810,and | if we need a cut down version for something or whatever we'll worry about that later .,and | if we need a cut-down version for something or whatever we'll worry about that later .,fh|s,fh|s
+Bed010-c1_0607025_0607275,okay .,o_k .,s^bk,s^bk
+Bed010-c2_0607650_0611010,so i'd like to for the summer turn into science mode .,so i'd like to for the summer turn into science mode .,s^cc,s^cc
+Bed010-c1_0611286_0611616,okay .,o_k .,s^bk,s^bk
+Bed010-c2_0611640_0614080,and i assume that's also uh - your plan as well .,and i assume that's also uh - your plan as well .,s,s
+Bed010-c2_0616338_0616538,right .,right .,b,b
+Bed010-c1_0616630_0622580,so i mean | the - the point is that like the meetings um so far that i've been at have been - sort of been geared towards this demo .,so i mean | the - the point is that like the meetings um so far that i've been at have been - sort of been geared towards this demo .,fh|s,fh|s
+Bed010-c2_0620800_0621000,yeah .,yeah .,b,b
+Bed010-c2_0622730_0622910,yeah .,yeah .,fg,fg
+Bed010-c2_0622910_0623910,but - but we- - we're swit- ==,but - but we- - we're swit- ==,s.%-,s.%-
+Bed010-c1_0623239_0624989,and then that's going to go away pretty soon .,and then that's going to go away pretty soon .,s,s
+Bed010-c2_0625020_0625260,right .,right .,s^aa,s^aa
+Bed010-c1_0625380_0625650,okay .,o_k .,s^bk,s^bk
+Bed010-c1_0625650_0628610,and then we'll sort of shift gears a- - fairly substantially .,and then we'll sort of shift gears a- - fairly substantially .,s,s
+Bed010-c2_0625842_0626042,yeah .,yeah .,s^aa,s^aa
+Bed010-c4_0626000_0626220,it's ==,it's ==,%-,%-
+Bed010-c2_0626943_0627133,yeah .,yeah .,s^aa,s^aa
+Bed010-c4_0628586_0629096,it's got ==,it's got ==,s.%-,s.%-
+Bed010-c1_0628610_0628740,huh ?,huh ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c2_0628903_0629093,yeah .,yeah .,s^aa,s^aa
+Bed010-c4_0629316_0634286,what i - what i think is - is a good idea that i can - can show to anyone who's interested .,what i - what i think is - is a good idea that i can - can show to anyone who's interested .,s,s
+Bed010-c4_0634286_0636316,we can even make a - sort of an internal demo .,we can even make a - sort of an internal demo .,s,s
+Bed010-c4_0636316_0638456,and i - i show you what i do .,and i - i show you what i do .,s^rt,s^rt
+Bed010-c1_0638835_0639115,uhhuh .,mm-hmm .,b,b
+Bed010-c4_0638996_0640746,i speak into it and you hear it talk .,i speak into it and you hear it talk .,s,s
+Bed010-c1_0641180_0641570,okay .,o_k .,s^bk,s^bk
+Bed010-c4_0641326_0643676,and i can sort of walk f- - through the information .,and i can sort of walk f- - through the information .,s,s
+Bed010-c4_0643676_0645756,so this is like in half hour or forty five minutes .,so this is like in half hour or forty-five minutes .,s,s
+Bed010-c4_0645756_0646246,just fun .,just fun .,s,s
+Bed010-c1_0646765_0647015,okay .,o_k .,s^bk,s^bk
+Bed010-c4_0647100_0653060,and so you - when somebody on the streets com- - comes up to you and asks you what is smartkom so you can sort of give a sensible answer .,and so you - when somebody on the streets com- - comes up to you and asks you what is smartkom so you can sort of give a sensible answer .,s,s
+Bed010-c1_0651227_0651407,right .,right .,s^bk,s^bk
+Bed010-c1_0653137_0653517,okay .,o_k .,s^bk,s^bk
+Bed010-c2_0653280_0657200,so c- - sh- - we could set that up as actually an institute wide thing ?,so c- - sh- - we could set that up as actually an institute wide thing ?,qy^d^rt,qy^d^rt
+Bed010-c2_0657930_0662150,just give a talk in the big room and - and so peo- - people know what's going on .,just give a talk in the big room and - and so peo- - people know what's going on .,s^e^rt,s^e^rt
+Bed010-c2_0662520_0663080,when you're ready .,when you're ready .,s^e,s^e
+Bed010-c4_0664590_0665460,absolutely .,absolutely .,s^aa,s^aa
+Bed010-c2_0665300_0666600,yeah i mean | that's the kind of thing ==,yeah i mean | that's the kind of thing ==,fg|s.%--,fg|s.%--
+Bed010-c2_0667020_0674329,that's the level at which you know we can just li- - invite everybody and say this is a project that we've been working on and here's a demo version of it and stuff like that .,that's the level at which you know we can just li- - invite everybody and say this is a project that we've been working on and here's a demo version of it and stuff like that .,s,s
+Bed010-c1_0672680_0672910,yeah .,yeah .,b,b
+Bed010-c4_0674850_0675180,okay .,o_k .,s^bk,s^bk
+Bed010-c4_0675820_0682500,well d- - we - we do want to have all the bugs out b- - where you have to sort of pipe in extra x m l messages from left and right before you're ==,well d- - we - we do wanna have all the bugs out b- - where you have to sort of pipe in extra x_m_l messages from left and right Bdb001.dadb Bdb001.out Bdb001.trans Bed002.dadb Bed002.out Bed002.trans Bed003.dadb Bed003.out Bed003.trans Bed004.dadb Bed004.out Bed004.trans Bed005.dadb Bed005.out Bed005.trans Bed006.dadb Bed006.out Bed006.trans Bed008.dadb Bed008.out Bed008.trans Bed009.dadb Bed009.out Bed009.trans Bed010.dadb Bed010.out Bed010.trans Bed011.dadb Bed011.trans Bed012.dadb Bed012.trans Bed013.dadb Bed013.trans Bed014.dadb Bed014.trans Bed015.dadb Bed015.trans Bed016.dadb Bed016.trans Bed017.dadb Bed017.trans Bmr001.dadb Bmr001.trans Bmr002.dadb Bmr002.trans Bmr003.dadb Bmr003.trans Bmr005.dadb Bmr005.trans Bmr006.dadb Bmr006.trans Bmr007.dadb Bmr007.trans Bmr008.dadb Bmr008.trans Bmr009.dadb Bmr009.trans Bmr010.dadb Bmr010.trans Bmr011.dadb Bmr011.trans Bmr012.dadb Bmr012.trans Bmr013.dadb Bmr013.trans Bmr014.dadb Bmr014.trans Bmr015.dadb Bmr015.trans Bmr016.dadb Bmr016.trans Bmr018.dadb Bmr018.trans Bmr019.dadb Bmr019.trans Bmr020.dadb Bmr020.trans Bmr021.dadb Bmr021.trans Bmr022.dadb Bmr022.trans Bmr023.dadb Bmr023.trans Bmr024.dadb Bmr024.trans Bmr025.dadb Bmr025.trans Bmr026.dadb Bmr026.trans Bmr027.dadb Bmr027.trans Bmr028.dadb Bmr028.trans Bmr029.dadb Bmr029.trans Bmr030.dadb Bmr030.trans Bmr031.dadb Bmr031.trans Bns001.dadb Bns001.trans Bns002.dadb Bns002.trans Bns003.dadb Bns003.trans Bro003.dadb Bro003.trans Bro004.dadb Bro004.trans Bro005.dadb Bro005.trans Bro007.dadb Bro007.trans Bro008.dadb Bro008.trans Bro010.dadb Bro010.trans Bro011.dadb Bro011.trans Bro012.dadb Bro012.trans Bro013.dadb Bro013.trans Bro014.dadb Bro014.trans Bro015.dadb Bro015.trans Bro016.dadb Bro016.trans Bro017.dadb Bro017.trans Bro018.dadb Bro018.trans Bro019.dadb Bro019.trans Bro021.dadb Bro021.trans Bro022.dadb Bro022.trans Bro023.dadb Bro023.trans Bro024.dadb Bro024.trans Bro025.dadb Bro025.trans Bro026.dadb Bro026.trans Bro027.dadb Bro027.trans Bro028.dadb Bro028.trans Bsr001.dadb Bsr001.trans Btr001.dadb Btr001.trans Btr002.dadb Btr002.trans Buw001.dadb Buw001.trans scr.sh before you're ==,s^aap.%--,s^aap.%--
+Bed010-c1_0682451_0682771,uhhuh .,uh-huh .,b,b
+Bed010-c2_0682890_0683350,indeed .,indeed .,s^aa,s^aa
+Bed010-c4_0683477_0683647,yeah .,yeah .,s^bk,s^bk
+Bed010-c4_0685295_0685575,okay .,o_k .,s^rt^tc,s^rt^tc
+Bed010-c4_0685765_0686305,makes sense .,makes sense .,s,s
+Bed010-c2_0686900_0687910,but any- - so that e- - e- ==,but any- - so that e- - e- ==,%--,%--
+Bed010-c2_0687910_0688890,it's clear then i think .,it's clear then i think .,s,s
+Bed010-c2_0689337_0698427,actually roughly starting uh let's say nex- - next meeting because this meeting we have one other thing to tie up besides the trip report .,actually roughly starting uh let's say nex- - next meeting cuz this meeting we have one other thing to tie up besides the trip report .,s,s
+Bed010-c1_0694437_0694797,yeah .,yeah .,b,b
+Bed010-c1_0698746_0698966,okay .,o_k .,b,b
+Bed010-c2_0699003_0704970,but uh - | starting next meeting i think we want to flip into this mode where ==,but uh - | starting next meeting i think we want to flip into this mode where ==,fh|s^cc.%--,fh|s^cc.%--
+Bed010-c2_0705630_0707790,uh | i mean there are a lot of issues .,uh | i mean there are a lot of issues .,fh|s,fh|s
+Bed010-c2_0707790_0709390,what's the ontology look like .,what's the ontology look like .,s:qw,s:qw
+Bed010-c1_0709298_0709658,uhhuh .,mm-hmm .,b,b
+Bed010-c2_0709390_0710790,you know what do the constructions look like .,you know what do the constructions look like .,s:qw,s:qw
+Bed010-c2_0710790_0712310,what's the execution engine look like .,what's the execution engine look like .,s:qw,s:qw
+Bed010-c2_0712450_0713530,huh | lots of things .,mmm | lots of things .,fh|s,fh|s
+Bed010-c1_0712972_0713312,uhhuh .,mm-hmm .,b,b
+Bed010-c2_0714182_0721670,but more focused on uh - an idealized version than just getting the demo out .,but more focused on uh - an idealized version than just getting the demo out .,s,s
+Bed010-c2_0723920_0726887,now before we do that let's get back in ==,now before we do that let's get back in ==,s^tc.%--,s^tc.%--
+Bed010-c2_0727007_0727177,oh !,oh !,s^fe,s^fe
+Bed010-c2_0727507_0741960,but it's still i think useful for you to understand the demo version enough so that you can - can see what - what it is that - that uh - it might eventually get retro fitted into or something .,but it's still i think useful for you to understand the demo version enough so that you can - can see what - what it is that - that uh - it might eventually get retro-fitted into or something .,s,s
+Bed010-c1_0732111_0732341,yeah .,yeah .,b,b
+Bed010-c1_0741868_0742198,okay .,o_k .,s^bk,s^bk
+Bed010-c1_0742278_0742468,right .,right .,s^bk,s^bk
+Bed010-c2_0743600_0750340,and johno's already done that uh - looked at the dem- - uh - the - looked at the smartkom stuff .,and johno's already done that uh - looked at the dem- - uh - the - looked at the smartkom stuff .,s,s
+Bed010-c3_0746507_0747387,wa- ==,wa- ==,%-,%-
+Bed010-c3_0747387_0747417,uh ==,uh ==,fg,fg
+Bed010-c3_0751910_0752440,to some de- ==,to some de- ==,s^aap.%--,s^aap.%--
+Bed010-c3_0752440_0754540,uh - | what - what part of th- - the smartkom stuff ?,uh - | what - what part of th- - the smartkom stuff ?,fh|qw,fh|qw
+Bed010-c2_0754020_0755230,well the parser and that stuff .,well the parser and that stuff .,s,s
+Bed010-c3_0755230_0755750,oh yeah - yeah .,oh yeah - yeah .,s^aa,s^aa
+Bed010-c2_0757424_0757764,okay anyway .,o_k anyway .,s^tc,s^tc
+Bed010-c2_0757764_0758324,so the trip ==,so the trip ==,s.%--,s.%--
+Bed010-c2_0758434_0759614,the report on these ==,the report on these ==,s.%--,s.%--
+Bed010-c2_0759874_0764024,the last - we - we sort of interrupted you guys telling us about what happened last week .,the last - we- - we sort of interrupted you guys telling us about what happened last week .,s^t,s^t
+Bed010-c1_0762047_0762457,yeah .,yeah .,b,b
+Bed010-c1_0762457_0763247,it's all right .,it's alright .,s,s
+Bed010-c4_0766220_0776255,um | well it was just amazing to - to see uh - how - how instable the whole thing is .,um | well it was just amazing to - to see uh - how - how instable the whole thing is .,h|s,h|s
+Bed010-c2_0768724_0769244,maybe you're done then .,maybe you're done then .,s,s
+Bed010-c4_0776255_0777495,and if you just take the ==,and if you just take the ==,s.%--,s.%--
+Bed010-c4_0778526_0783470,and i g- - i got the feeling that we are the only ones right now who have a running system .,and i g- - i got the feeling that we are the only ones right now who have a running system .,s,s
+Bed010-c4_0783470_0786030,i don't know what the guys in kaiserslautern have running .,i don't know what the guys in kaiserslautern have running .,s^no,s^no
+Bed010-c4_0786030_0786630,because ==,because ==,%--,%--
+Bed010-c4_0787513_0791673,e- - the version - that is the full version that's on the server d- - does not work .,e- - the version - that is the full version that's on the server d- - does not work .,s,s
+Bed010-c4_0792756_0796566,and you need to do a lot of stuff to make it work .,and you need to do a lot of stuff to make it work .,s,s
+Bed010-c4_0796566_0797856,and so it's ==,and so it's ==,%--,%--
+Bed010-c4_0798710_0809110,and even tilman and ralf sort of said yeah there never was a really working version that uh - did it without th- - all the shortcuts that they built in for the uh - october @reject@ version .,and even tilman and ralf sort of said yeah there never was a really working version that uh - did it without th- - all the shortcuts that they built in for the uh - october {@reject@} version .,s,s
+Bed010-c4_0809110_0811460,so we're actually maybe ahead of the system gruppe by now .,so we're actually maybe ahead of the system gruppe by now .,s,s
+Bed010-c4_0812570_0814110,the system - the integration group .,the system - the integration group .,s^e,s^e
+Bed010-c4_0815190_0817760,and it was uh - it was fun to some extent .,and it was uh - it was fun to some extent .,s,s
+Bed010-c4_0817760_0825600,but | the uh - the outcome that is sort of of scientific interest is that i think both ralf and tilman ==,but | the uh - the outcome that is sort of of scientific interest is that i think both ralf and tilman ==,fh|s.%--,fh|s.%--
+Bed010-c4_0826240_0827760,um - | i know that they enjoyed it here .,um - | i know that they enjoyed it here .,fh|s^rt,fh|s^rt
+Bed010-c4_0828208_0831668,and they r- - they - they liked uh - a lot of the stuff they saw here .,and they r- - they - they liked uh - a lot of the stuff they saw here .,s,s
+Bed010-c4_0832151_0833691,what - what we have been thinking about .,what - what we have been thinking about .,s^e^rt,s^e^rt
+Bed010-c4_0834330_0838830,and they're more than willing to - to um - cooperate by all means .,and they're more than willing to - to um - cooperate by all means .,s,s
+Bed010-c4_0839726_0846322,and um - | part of my responsibility is uh - to use our internal group ware server at e m l .,and um - | part of my responsibility is uh - to use our internal group-ware server at e_m_l .,fh|s,fh|s
+Bed010-c4_0846322_0848422,make that open to all of us and them .,make that open to all of us and them .,s,s
+Bed010-c4_0848792_0855482,so that whatever we discuss in terms of parsing and - and generating and constructions w- - we - we sort of uh - put it in there .,so that whatever we discuss in terms of parsing and - and generating and constructions w- - we - we sort of uh - put it in there .,s,s
+Bed010-c4_0855482_0856982,and they put what they do in there .,and they put what they do in there .,s,s
+Bed010-c4_0857494_0863691,and maybe we can even um - get some overlap - get some synergy out of that .,and maybe we can even um - get some overlap - get some synergy out of that .,s.x,s.x
+Bed010-c4_0864440_0865920,and um ==,and um ==,fh,fh
+Bed010-c4_0866760_0867350,the uh ==,the uh ==,%--,%--
+Bed010-c4_0867470_0877700,if i find someone at - in e m l that is interested in that um i - i may even think that we could look - take constructions and - and generate from them .,if i find someone at - in e_m_l that is interested in that um i - i may even think that we could look - take constructions and - and generate from them .,s^cs,s^cs
+Bed010-c4_0877700_0883140,because the tree adjoining grammars that - that tilman is using is as you said nothing but a mathematical formalism .,because the tree adjoining grammars that - that tilman is using is as you said nothing but a mathematical formalism .,s^df,s^df
+Bed010-c4_0883140_0888680,and you can just do anything with it whether it's syntactic trees h p s g like stuff or whether it's construction .,and you can just do anything with it whether it's syntactic trees h_p_s_g-like stuff or whether it's construction .,s,s
+Bed010-c4_0889470_0896009,so if you ever get to the generation side of constructing things and - there might be something of interest there .,so if you ever get to the generation side of constructing things and - there might be something of interest there .,s,s
+Bed010-c4_0896009_0902322,but in the moment we're of course definitely focused on the understanding um - pipeline .,but in the moment we're of course definitely focused on the understanding um - pipeline .,s,s
+Bed010-c2_0906040_0911460,anyth- - any other uh - repo- - visit reports sort of stories ?,anyth- - any other uh - repo- - visit reports sort of stories ?,qy^d^rt,qy^d^rt
+Bed010-c0_0916460_1015910,BLEEPED,BLEEPED,,
+Bed010-c1_0916460_1015910,BLEEPED,BLEEPED,,
+Bed010-c2_0916460_1015910,BLEEPED,BLEEPED,,
+Bed010-c3_0916460_1015910,BLEEPED,BLEEPED,,
+Bed010-c4_0916460_1015910,BLEEPED,BLEEPED,,
+Bed010-c5_0916460_1015910,BLEEPED,BLEEPED,,
+Bed010-c9_0916460_1015910,BLEEPED,BLEEPED,,
+Bed010-c2_1016450_1020620,uh - | we - so we now know i think what the landscape is like .,uh - | we - so we now know i think what the landscape is like .,fh|s,fh|s
+Bed010-c1_1020600_1020850,uhhuh .,mm-hmm .,b,b
+Bed010-c2_1021460_1027930,and so we just push on and - and uh do what we need to do .,and so we just push on and - and uh do what we need to do .,s^co,s^co
+Bed010-c2_1030590_1043250,and one of the things we need to do is the um - and this i think is relatively tight - tightly constrained is to finish up this belief net stuff .,and one of the things we need to do is the um - and this i think is relatively tight - tightly constrained is to finish up this belief-net stuff .,s^co,s^co
+Bed010-c2_1043640_1044220,so ==,so ==,fh,fh
+Bed010-c2_1045160_1049990,uh | and i was going to switch to start talking about that unless there're m- - other more general questions .,uh | and i was going to switch to start talking about that unless there're m- - other more general questions .,fh|s^t^tc,fh|s^t^tc
+Bed010-c2_1053040_1056070,okay | so here's where we are on the belief net stuff as far as i understand it .,o_k | so here's where we are on the belief-net stuff as far as i understand it .,fh|s,fh|s
+Bed010-c2_1056860_1067580,um | going back i guess two weeks ago uh - robert had laid out this belief net missing only the connections .,um | going back i guess two weeks ago uh - robert had laid out this belief-net missing only the connections .,fh|s,fh|s
+Bed010-c2_1067580_1067910,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c2_1068060_1070330,that is - so he'd put all th- - all the dots down .,that is - so he'd put all th- - all the dots down .,s,s
+Bed010-c2_1070400_1083440,and we went through this and i think more or less convinced ourselves that at least the vast majority of the nodes that we needed for the demo level we were thinking of were in there .,and we went through this and i think more or less convinced ourselves that at least the vast majority of the nodes that we needed for the demo level we were thinking of were in there .,s,s
+Bed010-c2_1083810_1085290,yeah we may run across one or two more .,yeah we may run across one or two more .,s,s
+Bed010-c2_1085530_1086870,but of course the connections weren't .,but of course the connections weren't .,s,s
+Bed010-c2_1087860_1106100,so | uh bhaskara and i went off and looked at some technical questions about were certain operations sort of legitimate belief net computations and was there some known problem with them or had someone already uh - solved you know how to do this and stuff .,so | uh bhaskara and i went off and looked at some technical questions about were certain operations sort of legitimate belief-net computations and was there some known problem with them or had someone already uh - solved you know how to do this and stuff .,fh|s,fh|s
+Bed010-c2_1106700_1108510,and | so bhaskara tracked that down .,and | so bhaskara tracked that down .,fh|s,fh|s
+Bed010-c2_1108510_1115490,the answer seems to be uh no no one has done it but yes it's a perfectly reasonable thing to do if that's what you set out to do .,the answer seems to be uh no no one has done it but yes it's a perfectly reasonable thing to do if that's what you set out to do .,s,s
+Bed010-c2_1116310_1133530,and so the current state of things is that again starting now um - we'd like to actually get a running belief net for this particular subdomain done in the next few weeks .,and so the current state of things is that again starting now um - we'd like to actually get a running belief-net for this particular subdomain done in the next few weeks .,s^cs,s^cs
+Bed010-c2_1134310_1137080,so bhaskara is switching projects as of the first of june .,so bhaskara is switching projects as of the first of june .,s^rt,s^rt
+Bed010-c2_1137080_1147400,and uh - | he's going to leave us an inheritance which is a uh - hopefully a belief net that does these things .,and uh - | he's gonna leave us an inheritance which is a uh - hopefully a belief-net that does these things .,fh|s,fh|s
+Bed010-c2_1148000_1150720,and there're two aspects to it one of which is you know technical .,and there're two aspects to it one of which is you know technical .,s,s
+Bed010-c2_1150720_1154090,getting the coding right and making it run and uh - stuff like that .,getting the coding right and making it run and uh - stuff like that .,s^e,s^e
+Bed010-c2_1154090_1156760,and the other is the actual semantics .,and the other is the actual semantics .,s^e,s^e
+Bed010-c2_1157470_1162390,okay | what all - you know what are the considerations and how - and what are the ways in which they relate ?,o_k | what all - you know what are the considerations and how- - and what are the ways in which they relate ?,fh|qw,fh|qw
+Bed010-c2_1163270_1173030,so he doe- - h- - he doesn't need help from this group on the technical aspects or if he does uh - we'll do that separately .,so he doe- - h- - he doesn't need help from this group on the technical aspects or if he does uh - we'll do that separately .,s,s
+Bed010-c1_1173200_1173670,uhhuh .,mm-hmm .,b,b
+Bed010-c2_1173640_1181630,but in terms of what are the decisions and stuff like that that's something that we all have to work out .,but in terms of what are the decisions and stuff like that that's something that we all have to work out .,s,s
+Bed010-c2_1183080_1183820,is - is that right ?,is - is that right ?,qy^bu^rt,qy^bu^rt
+Bed010-c2_1184820_1186680,i mean that's - that's both you guys' understanding of where we are ?,i mean that's - that's both you guys' understanding of where we are ?,qy^bu^d^rt,qy^bu^d^rt
+Bed010-c4_1186540_1187020,absolutely .,absolutely .,s^aa,s^aa
+Bed010-c2_1187330_1187710,okay .,o_k .,s^bk,s^bk
+Bed010-c9_1189790_1194740,so | i guess um - is there like a latest version of the belief net - of the proposed belief net ?,so | i guess um - is there like a latest version of the belief-net - of the proposed belief-net ?,fg|qy^rt,fg|qy^rt
+Bed010-c9_1195500_1195610,like ==,like ==,%-,%-
+Bed010-c4_1196440_1197970,we had um decided ==,we had um decided ==,s.%--,s.%--
+Bed010-c9_1197170_1197410,like ==,like ==,%-,%-
+Bed010-c4_1199100_1201320,um | well no we didn't decide .,um | well no we didn't decide .,fh|s^bsc,fh|s^bsc
+Bed010-c4_1201320_1205890,we wanted to look into maybe getting it - the visualization a bit clearer .,we wanted to look into maybe getting it - the visualization a bit clearer .,s,s
+Bed010-c4_1205890_1215980,but i think if we do it um - sort of a paper version of all the nodes and then the connections between them that should suffice .,but i think if we do it um - sort of a paper version of all the nodes and then the connections between them that should suffice .,s,s
+Bed010-c9_1211360_1211870,uhhuh .,mm-hmm .,b^rt,b^rt
+Bed010-c9_1214220_1214320,yeah .,yeah .,s^aa,s^aa
+Bed010-c9_1214320_1214950,that should be fine .,that should be fine .,s^2^ba,s^2^ba
+Bed010-c3_1215940_1216570,yeah i ==,yeah i ==,fg,fg
+Bed010-c2_1216080_1217410,yeah i mean | that's a separate problem .,yeah i mean | that's a separate problem .,fg|s^aap,fg|s^aap
+Bed010-c2_1217410_1219970,we do in the long run want to do better visualization and all that stuff .,we do in the long run wanna do better visualization and all that stuff .,s,s
+Bed010-c4_1219490_1219810,yeah .,yeah .,b,b
+Bed010-c2_1220240_1220830,that's separable .,that's separable .,s,s
+Bed010-c2_1220830_1221050,yeah .,yeah .,fh,fh
+Bed010-c3_1221160_1225400,i did look into that uh - in terms of you know exploding the nodes out and down ag- ==,i did look into that uh - in terms of you know exploding the nodes out and down ag- ==,s.%--,s.%--
+Bed010-c2_1223480_1223690,yep .,yep .,b,b
+Bed010-c2_1225850_1225970,right .,right .,b,b
+Bed010-c3_1226070_1227460,javabayes does not support that .,javabayes does not support that .,s,s
+Bed010-c3_1227650_1231690,i can imagine a way of hacking at the code to do that .,i can imagine a way of hacking at the code to do that .,s^cs,s^cs
+Bed010-c3_1232160_1235020,it'd probably take two weeks or so to actually go through and do it .,it'd probably take two weeks or so to actually go through and do it .,s^rt,s^rt
+Bed010-c2_1235020_1235900,not - not at this point .,not - not at this point .,s^nd,s^nd
+Bed010-c3_1235490_1238490,and i went through all the other packages on murph- - kevin murphy's page .,and i went through all the other packages on murph- - kevin murphy's page .,s^rt,s^rt
+Bed010-c2_1238570_1238830,right .,right .,s^bk,s^bk
+Bed010-c3_1239020_1248430,and i couldn't find the necessary mix of free and uh with the gui and with this thing that we want .,and i couldn't find the necessary mix of free and uh with the gui and with this thing that we want .,s,s
+Bed010-c2_1248100_1249750,well we can p- - if it's - if we can pay ==,well we can p- - if it's - if we can pay ==,s^cs.%--,s^cs.%--
+Bed010-c2_1249750_1252370,yeah if you know it's paying a thousand dollars or something we can do that .,yeah if you know it's paying a thousand dollars or something we can do that .,s,s
+Bed010-c2_1252870_1253040,okay ?,o_k ?,qy^d^f^rt,qy^d^f^rt
+Bed010-c3_1252940_1253230,okay .,o_k .,s^bk,s^bk
+Bed010-c2_1253040_1256880,so - so don't view free as - as a absolute constraint .,so - so don't view free as - as a absolute constraint .,s,s
+Bed010-c3_1257480_1260000,okay | so then i'll go back and look at the ones on the list that ==,o_k | so then i'll go back and look at the ones on the list that ==,s^bk|s^cc.%-,s^bk|s^cc.%-
+Bed010-c2_1259140_1259390,okay .,o_k .,s^bk,s^bk
+Bed010-c9_1259550_1259920,yeah .,yeah .,b.x,b.x
+Bed010-c4_1259640_1259980,but ==,but ==,fg,fg
+Bed010-c2_1259690_1260550,and you can ask kevin .,and you can ask kevin .,s^cs,s^cs
+Bed010-c9_1260890_1263650,yeah | the one that uh - people seem to use is uh - hugin or whatever .,yeah | the one that uh - people seem to use is uh - hugin or whatever .,fg|s^rt,fg|s^rt
+Bed010-c3_1261160_1261650,huh .,mmm .,b,b
+Bed010-c4_1261250_1261480,but ==,but ==,fg,fg
+Bed010-c2_1263830_1264120,hugin .,hugin .,s^m,s^m
+Bed010-c2_1264120_1264730,yeah that's free .,yeah that's free .,s,s
+Bed010-c9_1264140_1264690,how exp- ?==,how exp- ?==,qw.%-,qw.%-
+Bed010-c9_1265180_1265920,i don't think it's ==,i don't think it's ==,s^ng.%--,s^ng.%--
+Bed010-c9_1265990_1266360,is it free ?,is it free ?,qy^rt,qy^rt
+Bed010-c9_1266360_1269420,because i've seen it advertised in places so i - it seems to ==,because i've seen it advertised in places so i - it seems to ==,s^df.%--,s^df.%--
+Bed010-c2_1268670_1270140,uh | it may be free to academics .,uh | it may be free to academics .,h|s,h|s
+Bed010-c2_1270210_1270960,like i - i don't know .,like i - i don't know .,s^no,s^no
+Bed010-c2_1271210_1275170,i have a co- - i have a copy that i l- - i downloaded .,i have a co- - i have a copy that i l- - i downloaded .,s^df,s^df
+Bed010-c9_1273850_1274150,okay .,o_k .,s^bk,s^bk
+Bed010-c2_1275170_1276540,so at one point it was free .,so at one point it was free .,s^df,s^df
+Bed010-c9_1276790_1277110,okay .,o_k .,s^bk,s^bk
+Bed010-c2_1277460_1279700,uh | but yo- - i noticed people do use hugin .,uh | but yo- - i noticed people do use hugin .,fh|s,fh|s
+Bed010-c2_1279700_1281010,so um ==,so um ==,fh,fh
+Bed010-c3_1283450_1284140,how do you spell that ?,how do you spell that ?,qw^rt,qw^rt
+Bed010-c5_1284050_1284200,why ?,why ?,qw^t3,qw^t3
+Bed010-c2_1284300_1285660,h u g i n .,h_u_g_i_n .,s,s
+Bed010-c2_1286970_1287960,and bhaskara can give you a pointer .,and bhaskara can give you a pointer .,s,s
+Bed010-c2_1288210_1289910,so then in any case um ==,so then in any case um ==,s.%--,s.%--
+Bed010-c2_1290180_1290680,but paying a lit- ==,but paying a lit- ==,s.%--,s.%--
+Bed010-c2_1290680_1294190,you know if i- - if it's uh ==,you know if i- - if it's uh ==,s.%--,s.%--
+Bed010-c2_1294190_1297120,probably for university it's - it's going to be real cheap anyway .,probably for university it's - it's gonna be real cheap anyway .,s,s
+Bed010-c2_1297850_1301800,but um - | you know if it's fifty thousand dollars we aren't going to do it .,but um - | you know if it's fifty thousand dollars we aren't gonna do it .,fh|s,fh|s
+Bed010-c2_1301980_1303350,i'm mean we have no need for that .,i'm mean we have no need for that .,s^df,s^df
+Bed010-c4_1302770_1308030,i - i also s- - would suggest not to d- - spend two weeks in - in - in changing the - the javabayes code .,i - i also s- - would suggest not to d- - spend two weeks in - in - in changing the - the javabayes code .,s^cs,s^cs
+Bed010-c2_1306680_1306880,no .,no .,s^aa,s^aa
+Bed010-c2_1306880_1307860,he's not going to do that .,he's not gonna do that .,s,s
+Bed010-c1_1307320_1307560,yeah .,yeah .,b,b
+Bed010-c3_1307850_1308100,okay .,o_k .,s^bk,s^bk
+Bed010-c4_1308030_1311240,i - i will send you a pointer to a java applet that does that .,i - i will send you a pointer to a java applet that does that .,s^cc,s^cc
+Bed010-c4_1311240_1312200,it's sort of a fish eye .,it's sort of a fish-eye .,s^e,s^e
+Bed010-c4_1312200_1315270,you - you have a node and you click on it and it shows you all the connections .,you - you have a node and you click on it and it shows you all the connections .,s^e^rt,s^e^rt
+Bed010-c4_1315270_1318850,and then if you click on something else that moves away that goes into the middle .,and then if you click on something else that moves away that goes into the middle .,s,s
+Bed010-c3_1315450_1315990,huh .,mmm .,b,b
+Bed010-c4_1319410_1321650,and maybe there is an easy way of interfacing those two .,and maybe there is an easy way of interfacing those two .,s^am,s^am
+Bed010-c4_1322110_1325660,if that doesn't work it's not a problem we - we need to solve right now .,if that doesn't work it's not a problem we - we need to solve right now .,s,s
+Bed010-c4_1326010_1333600,what i'm - what my job is - i will um - give you the input in terms of - of the internal structure .,what i'm - what my job is - i will um - give you the input in terms of - of the internal structure .,s^cc,s^cc
+Bed010-c4_1334090_1336170,maybe node by node or something like this .,maybe node by node or something like this .,s^cs^rt,s^cs^rt
+Bed010-c4_1336170_1337740,or should i collect it all ?,or should i collect it all ?,qrr,qrr
+Bed010-c9_1336480_1337220,uhhuh .,mm-hmm .,b,b
+Bed010-c4_1337740_1338090,and ==,and ==,fh,fh
+Bed010-c2_1338840_1339200,doesn't matter .,doesn't matter .,s,s
+Bed010-c9_1339280_1344100,um | just any like - like sort of rough representation of the entire belief net is probably best .,um | just any like - like sort of rough representation of the entire belief-net is probably best .,h|s,h|s
+Bed010-c4_1343600_1343850,okay .,o_k .,s^bk.%,s^bk.%
+Bed010-c4_1344560_1351060,and um - | you're going to be around t- - again always tuesdays and thursdays afternoon-ish as usual ?,and um - | you're gonna be around t- - again always tuesdays and thursdays afternoon-ish as usual ?,fh|qy^bu^d^rt,fh|qy^bu^d^rt
+Bed010-c9_1352170_1352470,yeah .,yeah .,s^aa,s^aa
+Bed010-c4_1352200_1353100,or will that change ?,or will that change ?,qr^rt,qr^rt
+Bed010-c9_1353180_1354080,i mean | yeah .,i mean | yeah .,h|s^aa,h|s^aa
+Bed010-c9_1354230_1355710,i can - like i c- ==,i can - like i c- ==,s.%--,s.%--
+Bed010-c9_1355710_1360930,um | this week i guess um - kind of - i have a lot of projects and stuff but after that i will generally be more free .,um | this week i guess um - kind of - i have a lot of projects and stuff but after that i will generally be more free .,h|s,h|s
+Bed010-c9_1360930_1363300,so yes | i might - i can be around .,so yes | i might - i can be around .,s^am|s^cc,s^am|s^cc
+Bed010-c9_1363300_1365790,and g- - i mean generally if you email me also i can be around on other days .,and g- - i mean generally if you email me also i can be around on other days .,s,s
+Bed010-c4_1365140_1365300,yeah .,yeah .,b,b
+Bed010-c4_1365980_1366180,okay .,o_k .,s^bk,s^bk
+Bed010-c2_1367760_1374790,yeah and this is not a crisis that - i mean you do e- - everybody who's a student should you know do their work get their c- - courses all in good shape .,yeah and this is not a crisis that - i mean you do e- - everybody who's a student should you know do their work get their c- - courses all in good shape .,s^co,s^co
+Bed010-c2_1374790_1377310,and - and - and - and then we'll dig - d- - dig down on this .,and - and - and - and then we'll dig - d- - dig down on this .,s^cc,s^cc
+Bed010-c4_1374920_1375630,yeah | that's ==,yeah | that's ==,s^aa|%--,s^aa|%--
+Bed010-c4_1377430_1377550,yeah .,yeah .,b,b
+Bed010-c4_1378080_1378350,okay .,o_k .,fg,fg
+Bed010-c4_1378990_1379370,no that's good .,no that's good .,s^ba,s^ba
+Bed010-c4_1379370_1382140,that means i have - i h- - i can spend this week doing it .,that means i have - i h- - i can spend this week doing it .,s,s
+Bed010-c4_1382320_1382520,so ==,so ==,fh,fh
+Bed010-c9_1382690_1382830,okay .,o_k .,b,b
+Bed010-c1_1384070_1386580,how do you go about this process of deciding what these connections are ?,how do you go about this process of deciding what these connections are ?,qw,qw
+Bed010-c1_1386580_1390260,i know that there's an issue of how to weight the different things too and stuff .,i know that there's an issue of how to weight the different things too and stuff .,s,s
+Bed010-c2_1390090_1390390,right .,right .,s^aa,s^aa
+Bed010-c1_1390260_1390450,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c1_1390450_1392960,i mean do you just sort of guess and see if it sort of ==,i mean do you just sort of guess and see if it sort of ==,s.%-,s.%-
+Bed010-c2_1392540_1396460,well there - there - there - there're two different things you do .,well there - there - there - there're two different things you do .,s,s
+Bed010-c4_1394700_1394970,it's ==,it's ==,fg,fg
+Bed010-c2_1396460_1398190,one is you design and the other is you learn .,one is you design and the other is you learn .,s^e,s^e
+Bed010-c2_1398620_1398900,okay ?,o_k ?,qy^d^f^rt,qy^d^f^rt
+Bed010-c2_1399340_1406130,so uh - | what we're going to do initially is - is do design and i- - if you will guess .,so uh - | what we're gonna do initially is - is do design and i- - if you will guess .,fh|s^co,fh|s^co
+Bed010-c1_1406290_1406520,okay .,o_k .,b,b
+Bed010-c2_1406680_1406980,okay ?,o_k ?,qy^d^f^g^rt,qy^d^f^g^rt
+Bed010-c2_1407290_1414140,uh that is you know use your best knowledge of - of the domain to uh - hypothesize what the dependencies are and stuff .,uh that is you know use your best knowledge of - of the domain to uh - hypothesize what the dependencies are and stuff .,s,s
+Bed010-c1_1409350_1409590,right .,right .,b,b
+Bed010-c1_1414270_1414560,okay .,o_k .,b,b
+Bed010-c2_1415270_1423410,if it's done right and if you have data then there are techniques for learning the numbers given the structure .,if it's done right and if you have data then there are techniques for learning the numbers given the structure .,s,s
+Bed010-c1_1419070_1419330,yeah .,yeah .,b,b
+Bed010-c2_1423920_1428230,and there are even techniques for learning the structure although that takes a lot more data .,and there are even techniques for learning the structure although that takes a lot more data .,s,s
+Bed010-c2_1428230_1429840,and it's not as @reject@ - and so forth and so on .,and it's not as {@reject@} - and so forth and so on .,s,s
+Bed010-c2_1429840_1431160,so uh ==,so uh ==,fh,fh
+Bed010-c2_1432360_1439320,but for the limited amount of stuff we have for this particular exercise i think we'll just design it .,but for the limited amount of stuff we have for this particular exercise i think we'll just design it .,s^cs,s^cs
+Bed010-c1_1439890_1440050,all right .,alright .,s^bk,s^bk
+Bed010-c4_1441140_1441290,yeah .,yeah .,s^bk,s^bk
+Bed010-c4_1441880_1449760,fo- - hopefully as time passes we'll get more and more data from heidelberg and from people actually using it and stuff .,fo- - hopefully as time passes we'll get more and more data from heidelberg and from people actually using it and stuff .,s,s
+Bed010-c1_1447680_1447930,okay .,o_k .,s^bk,s^bk
+Bed010-c4_1449760_1453310,so - but this is the long run .,so - but this is the long run .,s,s
+Bed010-c1_1452470_1452690,yeah .,yeah .,b,b
+Bed010-c4_1453860_1458100,but to solve our problems ag- - uh a mediocre design will do i think in the beginning .,but to solve our problems ag- - uh a mediocre design will do i think in the beginning .,s,s
+Bed010-c1_1457570_1457720,yeah .,yeah .,s^aa,s^aa
+Bed010-c1_1457720_1458060,that's right .,that's right .,s^aa^rt,s^aa^rt
+Bed010-c1_1459840_1462560,yeah oh | and by the way speaking of data um - are there ==,yeah oh | and by the way speaking of data um - are there ==,fg|s.%--:qy.%--,fg|s.%--:qy.%--
+Bed010-c1_1463180_1466260,i could swore uh - i could swear i saw it sitting on someone's desk at some point .,i could swore uh - i could swear i saw it sitting on someone's desk at some point .,s,s
+Bed010-c1_1466260_1472860,but is there a um - a transcript of any of the sort of initial interactions of people with the - with the system ?,but is there a um - a transcript of any of the sort of initial interactions of people with the - with the system ?,qy^rt,qy^rt
+Bed010-c2_1473110_1473440,uhhuh .,mm-hmm .,s^aa^rt,s^aa^rt
+Bed010-c1_1473420_1477730,because you know i'm still sort of itching to - to look at what - look at the stuff and see what people are saying .,cuz you know i'm still sort of itching to - to look at what - look at the stuff and see what people are saying .,s^df,s^df
+Bed010-c2_1476550_1476750,yeah .,yeah .,b,b
+Bed010-c2_1477400_1478060,yeah make yourself a note .,yeah make yourself a note .,s^co,s^co
+Bed010-c2_1478400_1481000,so and - and of course keith would like the german as well as the english .,so and - and of course keith would like the german as well as the english .,s,s
+Bed010-c2_1481000_1482350,so whatever you guys can get .,so whatever you guys can get .,s,s
+Bed010-c4_1483250_1484000,the german ?,the german ?,qy^bu^d^rt,qy^bu^d^rt
+Bed010-c4_1485150_1486210,oh yeah of course german .,oh yeah of course german .,s^na,s^na
+Bed010-c4_1486420_1486540,yeah .,yeah .,b,b
+Bed010-c2_1487010_1487980,yeah the y- - your native language .,yeah the y- - your native language .,s,s
+Bed010-c2_1487980_1488090,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c2_1488150_1488880,you remember that one .,you remember that one .,s^j,s^j
+Bed010-c4_1489780_1490130,okay .,o_k .,s^bk,s^bk
+Bed010-c4_1491160_1491970,that's important yeah .,that's important yeah .,s^ba,s^ba
+Bed010-c2_1493560_1494660,so he'll get you some data .,so he'll get you some data .,s^co,s^co
+Bed010-c1_1493570_1493770,yeah ==,yeah ==,fg,fg
+Bed010-c1_1494760_1495020,okay .,<u-> o_k .,s^bk,s^bk
+Bed010-c1_1495570_1501530,yeah i mean i - i sort of um - found the uh uh - the audio of some of those .,yeah i mean i - i sort of um - found the uh uh - the audio of some of those .,s,s
+Bed010-c4_1501510_1501830,huh .,hmm .,b,b
+Bed010-c1_1501530_1505600,and um | it kind of sounded like i didn't want to trudge through that you know .,and um | it kind of sounded like i didn't want to trudge through that you know .,fh|s,fh|s
+Bed010-c1_1505600_1507380,it was just strange .,it was just strange .,s,s
+Bed010-c1_1507380_1507560,but ==,but ==,fh,fh
+Bed010-c2_1507940_1508180,yep .,yep .,s^aa,s^aa
+Bed010-c4_1508070_1511870,we probably will not get those to describe because they were trial runs .,we probably will not get those to describe because they were trial runs .,s,s
+Bed010-c1_1511900_1512150,oh yeah .,oh yeah .,s^aa,s^aa
+Bed010-c1_1512150_1512380,okay .,o_k .,s^bk,s^bk
+Bed010-c4_1512740_1517780,um | but uh - that's th- - but we have data in english and german already .,um | but uh - that's th- - but we have data in english and german already .,fh|s,fh|s
+Bed010-c4_1517780_1518100,so ==,so ==,fh,fh
+Bed010-c1_1517820_1518010,okay .,o_k .,s^bk,s^bk
+Bed010-c1_1518120_1518500,yeah i mean ==,yeah i mean ==,fg,fg
+Bed010-c4_1518360_1518870,transcribed .,transcribed .,s^e,s^e
+Bed010-c4_1518870_1519730,i will send you that .,i will send you that .,s^cc,s^cc
+Bed010-c4_1523090_1523320,okay .,o_k .,s^bk,s^bk
+Bed010-c2_1539660_1539930,okay .,o_k .,fg,fg
+Bed010-c2_1539930_1547030,so | while we're still at this sort of top level anything else that we ought to talk about today ?,so | while we're still at this sort of top level anything else that we oughta talk about today ?,fh|qy^d^t,fh|qy^d^t
+Bed010-c4_1553170_1555510,ho- - how was your thingy ?,ho- - how was your thingy ?,qw^t,qw^t
+Bed010-c0_1557280_1621980,BLEEPED,BLEEPED,,
+Bed010-c1_1557280_1621980,BLEEPED,BLEEPED,,
+Bed010-c2_1557280_1621980,BLEEPED,BLEEPED,,
+Bed010-c3_1557280_1621980,BLEEPED,BLEEPED,,
+Bed010-c4_1557280_1621980,BLEEPED,BLEEPED,,
+Bed010-c5_1557280_1621980,BLEEPED,BLEEPED,,
+Bed010-c9_1557280_1621980,BLEEPED,BLEEPED,,
+Bed010-c1_1623640_1631120,oh um | i just wanted to uh s- - like mention as an issue um - you know last meeting i wasn't here .,oh um | i just wanted to uh s- - like mention as an issue um - you know last meeting i wasn't here .,fg|s^t^tc,fg|s^t^tc
+Bed010-c1_1631120_1634220,because i went to a linguistics colloquium on the fictive motion stuff .,because i went to a linguistics colloquium on the fictive motion stuff .,s^df,s^df
+Bed010-c2_1632410_1632750,oh right .,oh right .,s^aa,s^aa
+Bed010-c1_1634220_1635370,and that was pretty interesting .,and that was pretty interesting .,s^ba,s^ba
+Bed010-c1_1635370_1636120,and you know i mean ==,and you know i mean ==,fh,fh
+Bed010-c1_1636120_1641030,seems to me that that will fairly obviously be of relevance to uh to what we're doing here .,seems to me that that will fairly obviously be of relevance to uh to what we're doing here .,s,s
+Bed010-c1_1641030_1643000,because you know people are likely to give descriptions .,because you know people are likely to give descriptions .,s,s
+Bed010-c1_1643010_1647900,like you know what's that thing uh - right where you start to go up the hill or something like that .,like you know what's that thing uh - right where you start to go up the hill or something like that .,s^e,s^e
+Bed010-c1_1647900_1652600,you know meaning a few feet up the hill or whatever from some reference point and all that stuff .,you know meaning a few feet up the hill or whatever from some reference point and all that stuff .,s^e,s^e
+Bed010-c1_1652600_1659130,so i mean i'm sure in terms of you know people trying to state locations or you know all that kind of stuff this is going to be very relevant .,so i mean i'm sure in terms of you know people trying to state locations or you know all that kind of stuff this is gonna be very relevant .,s,s
+Bed010-c1_1659130_1659480,so ==,so ==,fh,fh
+Bed010-c1_1659930_1669890,um - | now that was - the talk was about english versus japanese um - which obviously the japanese doesn't affect us directly except that um - some of the construction ==,um - | now that was - the talk was about english versus japanese um - which obviously the japanese doesn't affect us directly except that um - some of the construction ==,fh|s.%--,fh|s.%--
+Bed010-c1_1669890_1674550,he'd - what he talked about was that you know in english we say things like th- - you know your bike is parked across the street .,he'd - what he talked about was that you know in english we say things like th- - you know your bike is parked across the street .,s:s,s:s
+Bed010-c1_1675010_1680060,and we use these prepositional phrases you know well if you were to move across the street you would be at the bike .,and we use these prepositional phrases you know well if you were to move across the street you would be at the bike .,s:s,s:s
+Bed010-c1_1680060_1689700,but um - in - in japanese the - the more conventionalized tendency is to use a - sort of a description of where one has crossed to the river there is a tree .,but um - in - in japanese the - the more conventionalized tendency is to use a - sort of a description of where one has crossed to the river there is a tree .,s:s,s:s
+Bed010-c1_1690170_1698070,um | and you know you can actually say things like um - there's a tree where one has crossed the river but no one has ever crossed the river or something like that .,um | and you know you can actually say things like um - there's a tree where one has crossed the river but no one has ever crossed the river or something like that .,fh|s:s,fh|s:s
+Bed010-c1_1698070_1701720,so the idea is that this really is you know that's supposed show that's it's really fictive and so on .,so the idea is that this really is you know that's supposed show that's it's really fictive and so on .,s,s
+Bed010-c1_1702040_1702660,but um ==,but um ==,fh,fh
+Bed010-c1_1703810_1712650,but the point is that that kind of construction is also used in english you know like right where you start to go up the hill or just when you get off the train or something like that to uh - to indicate where something is .,but the point is that that kind of construction is also used in english you know like right where you start to go up the hill or just when you get off the train or something like that to uh - to indicate where something is .,s:s,s:s
+Bed010-c2_1711150_1711540,huh .,mmm .,b,b
+Bed010-c1_1712650_1713620,so we'll have to think about ==,so we'll have to think about ==,s^cc.%-,s^cc.%-
+Bed010-c2_1713080_1713230,so ==,so ==,fg,fg
+Bed010-c2_1713800_1715030,how much is that used in german ?,how much is that used in german ?,qw,qw
+Bed010-c4_1716070_1722040,um | the uh - well i wa- - i was on a uh on a - on a different sidetrack .,um | the uh - well i wa- - i was on a uh on a - on a different sidetrack .,h|s,h|s
+Bed010-c4_1722420_1727890,i mean the - the deep map project which um - is undergoing some renovation at - at the moment .,i mean the - the deep map project which um - is undergoing some renovation at - at the moment .,s,s
+Bed010-c2_1722620_1722910,oh okay .,oh o_k .,s^bk,s^bk
+Bed010-c4_1727890_1731260,but this is a - a three language project - german english japanese .,but this is a - a three language project - german english japanese .,s,s
+Bed010-c1_1731160_1731460,okay .,o_k .,s^bk,s^bk
+Bed010-c4_1731930_1739990,and um | we have a uh - uh - i have taken care that we have the - the japanese generation and stuff .,and um | we have a uh - uh - i have taken care that we have the - the japanese generation and stuff .,fh|s,fh|s
+Bed010-c4_1739990_1743300,and so | i looked into uh - spatial description .,and so | i looked into uh - spatial description .,fh|s,fh|s
+Bed010-c4_1743300_1749510,so we can generate spatial descriptions how to get from a to b and - and information on objects in german english and japanese .,so we can generate spatial descriptions how to get from a_ to b_ and - and information on objects in german english and japanese .,s^df,s^df
+Bed010-c1_1746240_1746570,uhhuh .,mm-hmm .,b,b
+Bed010-c4_1749510_1755860,and there is a huge uh - project on spatial descriptions uh differences in spatial descriptions .,and there is a huge uh - project on spatial descriptions uh differences in spatial descriptions .,s,s
+Bed010-c4_1756480_1758060,well if yo- - if you're interested in that .,well if yo- - if you're interested in that .,s^e,s^e
+Bed010-c4_1758570_1759340,so how - how ?==,so how - how ?==,qw.%--,qw.%--
+Bed010-c4_1759340_1763370,i mean it does sort of go d- - all the way down to the conceptual level to some extent .,i mean it does sort of go d- - all the way down to the conceptual level to some extent .,s,s
+Bed010-c1_1762770_1763060,okay .,o_k .,s^bk,s^bk
+Bed010-c4_1763370_1763650,so ==,so ==,fh,fh
+Bed010-c4_1764680_1765300,um ==,um ==,fh,fh
+Bed010-c2_1765480_1766980,so where is this huge project ?,so where is this huge project ?,qw^rt,qw^rt
+Bed010-c4_1767420_1768220,it's kleist .,it's kleist .,s,s
+Bed010-c4_1768610_1774590,it's the uh - bielefeld generation of uh - spatial descriptions and whatever .,it's the uh - bielefeld generation of uh - spatial descriptions and whatever .,s,s
+Bed010-c2_1770290_1770610,uhhuh .,mm-hmm .,b^rt,b^rt
+Bed010-c4_1775880_1779830,@reject@ .,{@reject@} .,%,%
+Bed010-c2_1776470_1778070,well that may be another thing that keith wants to look at .,well that may be another thing that keith wants to look at .,s^cs,s^cs
+Bed010-c1_1778300_1778450,okay .,o_k .,s^bk,s^bk
+Bed010-c4_1779160_1783780,but um - | i - i think we should leave japanese constructions maybe outside of the scope for - for now .,but um - | i - i think we should leave japanese constructions maybe outside of the scope for - for now .,fh|s^cs,fh|s^cs
+Bed010-c1_1783330_1783750,yeah .,yeah .,s^aa,s^aa
+Bed010-c4_1783780_1788770,but um - | definitely it's interesting to look at - at cross the bordered there .,but um - | definitely it's interesting to look at - at cross the bordered there .,fh|s^ba,fh|s^ba
+Bed010-c2_1786340_1786800,uhhuh .,mm-hmm .,b,b
+Bed010-c0_1789530_1797530,are - are you going to p- - pay any attention to the relative position - of - of the direction relative - relative to the speaker ?,are - are you going to p- - pay any attention to the relative position - of - of the direction relative - relative to the speaker ?,qy,qy
+Bed010-c0_1797530_1799920,for example there are some differences between hebrew and english .,for example there are some differences between hebrew and english .,s^e,s^e
+Bed010-c0_1800400_1806490,we can say um - park in front of the car as you come beh- - you drive behind the car .,we can say um - park in front of the car as you come beh- - you drive behind the car .,s,s
+Bed010-c0_1806940_1811710,in hebrew it means park behind the car because to follow the car is defined as it faces you .,in hebrew it means park behind the car because to follow the car is defined as it faces you .,s,s
+Bed010-c4_1810240_1810460,uhhuh .,mm-hmm .,b,b
+Bed010-c4_1810890_1811580,intrinsic .,intrinsic .,s,s
+Bed010-c4_1811730_1811840,yeah .,yeah .,b,b
+Bed010-c0_1812420_1815100,while in english front of the car is the absolute front of the car .,while in english front of the car is the absolute front of the car .,s,s
+Bed010-c1_1812910_1813500,okay .,o_k .,s^bk,s^bk
+Bed010-c1_1815910_1818980,right | so the canonical direction of motion determines where the front is .,right | so the canonical direction of motion determines where the front is .,fg|s^bu,fg|s^bu
+Bed010-c0_1816100_1816440,so ==,so ==,fh,fh
+Bed010-c0_1817720_1817990,right .,right .,s^aa,s^aa
+Bed010-c0_1818780_1819020,right .,right .,s^aa^r,s^aa^r
+Bed010-c1_1818980_1819190,okay .,o_k .,s^bk,s^bk
+Bed010-c0_1820370_1824910,so i- - i- - i- - is german uh - closer to - to e- - uh - uh - uh - uh - to e- - i mean uh ?==,so i- - i- - i- - is german uh - closer to - to e- - uh - uh - uh - uh - to e- - i mean uh ?==,qy.%--,qy.%--
+Bed010-c4_1821150_1821490,uhhuh .,mm-hmm .,b,b
+Bed010-c0_1825220_1828720,i don't think it - it's related to syntax though so it may be entirely different .,i don't think it - it's related to syntax though so it may be entirely different .,s,s
+Bed010-c4_1827510_1828670,um | as a matter of fact ==,um | as a matter of fact ==,fh|s.%-,fh|s.%-
+Bed010-c2_1828260_1828670,no it's not .,no it's not .,s^aa,s^aa
+Bed010-c1_1828810_1829080,right .,right .,s^aa,s^aa
+Bed010-c0_1829510_1829670,yeah .,yeah .,b,b
+Bed010-c4_1829790_1837090,um | did you ever get to look at the - the rou- - paper that i sent you on the - on that problem in english and german ?,um | did you ever get to look at the - the rou- - paper that i sent you on the - on that problem in english and german ?,fg|qy^rt,fg|qy^rt
+Bed010-c1_1830820_1831030,i think ==,i think ==,s.%-,s.%-
+Bed010-c4_1837780_1839330,carroll ninety three .,carroll ninety-three .,s^e,s^e
+Bed010-c4_1840050_1848110,um | i - there is a - a study on the differences between english and german on exactly that problem .,um | i - there is a - a study on the differences between english and german on exactly that problem .,fh|s,fh|s
+Bed010-c0_1847760_1848330,huh .,hmm .,b,b
+Bed010-c4_1848510_1850820,so it's - they actually say the monkey in front of the car .,so it's - they actually say the monkey in front of the car .,s:s,s:s
+Bed010-c4_1851030_1851790,where's the monkey ?,where's the monkey ?,qw^rt,qw^rt
+Bed010-c1_1851950_1852330,uhhuh .,mm-hmm .,b,b
+Bed010-c4_1852600_1856600,and um - they found statistically very significant differences in english and german .,and um - they found statistically very significant differences in english and german .,s,s
+Bed010-c4_1856810_1857800,so i - i - i ==,so i - i - i ==,%--,%--
+Bed010-c4_1857800_1863650,it might be since there are only a finite number of ways of doing it that - that german might be more like hebrew in that respect .,it might be since there are only a finite number of ways of doing it that - that german might be more like hebrew in that respect .,s,s
+Bed010-c4_1864110_1867830,the solution they proposed was that it was due to syntactic factors .,the solution they proposed was that it was due to syntactic factors .,s,s
+Bed010-c1_1864170_1864820,huh .,hmm .,b,b
+Bed010-c0_1868510_1869900,that - but it wasn't - was ==,that - but it wasn't - was ==,s^arp.%--,s^arp.%--
+Bed010-c4_1869420_1881570,that syntactic facto- - factors do - do play a role there wh- - whether you're more likely you know to develop uh - choices that lead you towards using uh - intrinsic versus extrinsic reference frames .,that syntactic facto- - factors do - do play a role there wh- - whether you're more likely you know to develop uh - choices that lead you towards using uh - intrinsic versus extrinsic reference frames .,s,s
+Bed010-c0_1870600_1870800,right .,right .,%,%
+Bed010-c0_1871080_1871280,uhhuh .,mm-hmm .,b,b
+Bed010-c0_1872560_1872760,right .,right .,b,b
+Bed010-c2_1882320_1882640,huh .,hmm .,b,b
+Bed010-c1_1882720_1885670,i mean it seems to me that you can get both in - in english depending o- ==,i mean it seems to me that you can get both in - in english depending o- ==,s.%--,s.%--
+Bed010-c1_1885670_1888040,you know like in front of the car could you know like ==,you know like in front of the car could you know like ==,s.%--,s.%--
+Bed010-c1_1888680_1892410,here's the car sideways to me in between me and the car or something's in front of the car or whatever .,here's the car sideways to me in between me and the car or something's in front of the car or whatever .,s,s
+Bed010-c1_1892410_1893040,i could see that .,i could see that .,s,s
+Bed010-c2_1892410_1892850,absolutely .,absolutely .,s^aa,s^aa
+Bed010-c1_1893040_1893260,but ==,but ==,fh,fh
+Bed010-c1_1894470_1898990,but anyway so you know i mean this was - this was a - a very good talk on those kinds of issues and so on .,but anyway so you know i mean this was - this was a - a very good talk on those kinds of issues and so on .,s^tc,s^tc
+Bed010-c1_1898990_1899540,so uh ==,so uh ==,fh,fh
+Bed010-c4_1900690_1906910,i can also give you uh - a pointer to a paper of mine which is the - the ultimate taxonomy of reference frames .,i can also give you uh - a pointer to a paper of mine which is the - the ultimate taxonomy of reference frames .,s^cc,s^cc
+Bed010-c1_1906850_1907440,all right .,alright .,s^ba,s^ba
+Bed010-c4_1907060_1907380,so ==,so ==,fh,fh
+Bed010-c1_1907440_1907760,cool .,cool .,s^ba,s^ba
+Bed010-c4_1908900_1911060,i'm the only person in the world who actually knows how it works .,i'm the only person in the world who actually knows how it works .,s,s
+Bed010-c2_1908960_1909470,oh .,oh .,b,b
+Bed010-c2_1911990_1912260,oh .,oh .,s^bk,s^bk
+Bed010-c4_1912350_1912860,not really .,not really .,s^e,s^e
+Bed010-c2_1914100_1914270,great .,great .,s^ba,s^ba
+Bed010-c2_1914270_1915050,no i've not seen that .,no i've not seen that .,s,s
+Bed010-c4_1916330_1917010,it's called a ==,it's called a ==,s.%-,s.%-
+Bed010-c0_1916500_1918490,what do you mean um reference frames ?,what do you mean um reference frames ?,qw,qw
+Bed010-c0_1918490_1921550,uh uh ==,uh uh ==,fh,fh
+Bed010-c4_1919000_1921210,it's - it's spatial reference frames .,it's - it's spatial reference frames .,s,s
+Bed010-c4_1921210_1922240,you actually have only ==,you actually have only ==,s.%--,s.%--
+Bed010-c4_1922960_1926100,um | if you want to have a ==,um | if you wanna have a ==,h|s.%--,h|s.%--
+Bed010-c4_1926540_1928230,this is usually um ==,this is usually um ==,s.%--,s.%--
+Bed010-c4_1929150_1930520,i should - there should be an l though .,i should - there should be an l_ though .,s,s
+Bed010-c4_1931940_1934010,well actually you have - only have two choices .,well actually you have - only have two choices .,s,s
+Bed010-c4_1934010_1936970,you can either do a two point or a three point .,you can either do a two-point or a three-point .,s,s
+Bed010-c4_1938330_1942120,which is you - you're familiar with th- - with the origo ?,which is you- - you're familiar with th- - with the origo ?,qy^rt,qy^rt
+Bed010-c4_1942350_1945810,where that's the center - origo is the center of the f- - frame of reference .,where that's the center - origo is the center of the f- - frame of reference .,s,s
+Bed010-c4_1946210_1951270,and then you have the reference object and the object to be localized .,and then you have the reference object and the object to be localized .,s,s
+Bed010-c1_1946270_1946650,huh .,hmm .,b,b
+Bed010-c1_1952170_1952440,huh .,hmm .,b,b
+Bed010-c4_1952780_1953070,okay ?,o_k ?,qy^d^f^rt,qy^d^f^rt
+Bed010-c0_1953130_1953600,uhhuh .,mm-hmm .,b,b
+Bed010-c4_1953340_1960130,in some cases the origo is the same as the reference object .,in some cases the origo is the same as the reference object .,s,s
+Bed010-c5_1961060_1961680,this was like ==,this was like ==,s.%-,s.%-
+Bed010-c2_1961100_1962780,so that would be origin in english .,so that would be origin in english .,s^bu,s^bu
+Bed010-c1_1962140_1962820,the origin .,the origin .,s^aa^r,s^aa^r
+Bed010-c2_1962890_1963150,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c1_1962990_1963060,yeah .,yeah .,b,b
+Bed010-c0_1963270_1963500,right .,right .,s^aa,s^aa
+Bed010-c4_1964330_1966540,origo is a terminus technikus in that sense .,origo is a terminus technikus in that sense .,s,s
+Bed010-c4_1966540_1967970,that's even used in the english literature .,that's even used in the english literature .,s,s
+Bed010-c4_1968290_1968770,origo .,origo .,s,s
+Bed010-c1_1969370_1969720,oh okay .,oh o_k .,s^bk,s^bk
+Bed010-c2_1969980_1970250,all right .,alright .,s^bk^rt,s^bk^rt
+Bed010-c1_1970120_1970600,i never heard it .,i never heard it .,s^rt,s^rt
+Bed010-c0_1970860_1971070,okay .,o_k .,b,b
+Bed010-c1_1970900_1971150,okay .,o_k .,s^bk^rt,s^bk^rt
+Bed010-c4_1971500_1973770,and um so ==,and um so ==,fh,fh
+Bed010-c4_1974520_1975790,this video tape is in front of me .,this video tape is in front of me .,s,s
+Bed010-c4_1976110_1978320,i'm the origo and i'm also the reference object .,i'm the origo and i'm also the reference object .,s,s
+Bed010-c1_1976140_1976420,uhhuh .,mm-hmm .,b,b
+Bed010-c1_1978320_1978770,uhhuh .,mm-hmm .,b,b
+Bed010-c4_1978770_1979650,those are two point .,those are two-point .,s,s
+Bed010-c0_1978980_1979140,right .,right .,b,b
+Bed010-c2_1980240_1980830,uhhuh .,mm-hmm .,b,b
+Bed010-c4_1980990_1988740,and three point relations is if something has an intrinsic front side like this chair then your f- - shoe is behind the chair .,and three-point relations is if something has an intrinsic front side like this chair then your f- - shoe is behind the chair .,s,s
+Bed010-c2_1985470_1985640,yeah .,yeah .,b,b
+Bed010-c1_1988770_1989100,uhhuh .,mm-hmm .,b,b
+Bed010-c4_1990340_1996930,and reference object and um no from - from my point of view your shoe is left of the chair .,and reference object and um no from - from my point of view your shoe is left of the chair .,s,s
+Bed010-c1_1995860_1996100,right .,right .,fg,fg
+Bed010-c1_1997110_2004420,you - you can actually say things like um - it's behind the tree from me or something like that i think in - in - in certain circumstances in english .,you - you can actually say things like um - it's behind the tree from me or something like that i think in - in - in certain circumstances in english .,s,s
+Bed010-c1_2004420_2004660,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c4_2004590_2004750,yeah .,yeah .,s^aa,s^aa
+Bed010-c1_2004660_2007090,as sort of from where i'm standing it would appear that ==,as sort of from where i'm standing it would appear that ==,s.%--,s.%--
+Bed010-c4_2007150_2007370,yeah .,yeah .,b,b
+Bed010-c4_2008650_2009000,so ==,so ==,fg,fg
+Bed010-c5_2008700_2010650,looks a little bit like reichenbach for time .,looks a little bit like reichenbach for time .,s,s
+Bed010-c2_2011090_2011790,yeah it sounds like it .,yeah it sounds like it .,s^na,s^na
+Bed010-c2_2011790_2012230,doesn't it ?,doesn't it ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c5_2012150_2012850,it's a lot like it .,it's a lot like it .,s^aa^m,s^aa^m
+Bed010-c2_2012230_2012540,yeah .,yeah .,b,b
+Bed010-c1_2012640_2012840,yeah .,yeah .,b,b
+Bed010-c4_2013160_2014640,and then - and then here you ==,and then - and then here you ==,s.%-,s.%-
+Bed010-c5_2013230_2013830,um ==,um ==,fh,fh
+Bed010-c4_2014780_2019770,on this scale you have it either be ego or allocentric .,on this scale you have it either be ego or allocentric .,s,s
+Bed010-c2_2020660_2021270,uhhuh .,mm-hmm .,s^aa^rt,s^aa^rt
+Bed010-c4_2022040_2025340,and that's - that's basically it .,and that's - that's basically it .,s,s
+Bed010-c4_2025600_2029700,so | egocentric two point egocentric three point or you can have allocentric .,so | egocentric two-point egocentric three-point or you can have allocentric .,fh|s,fh|s
+Bed010-c4_2030170_2036050,so | as seen from the church the town hall is right of that um - fire station .,so | as seen from the church the town hall is right of that um - fire station .,fh|s,fh|s
+Bed010-c1_2030560_2031010,oh okay .,oh o_k .,s^bk,s^bk
+Bed010-c4_2036230_2038820,uhhuh | it's hardly ever used but it's w- ==,aa-huh | it's hardly ever used but it's w- ==,fh|s.%-,fh|s.%-
+Bed010-c0_2038290_2040170,i'd love to see it if you - if you have a copy kind of .,i'd love to see it if you - if you have a copy kind of .,s,s
+Bed010-c2_2039830_2039920,yeah .,yeah .,fg,fg
+Bed010-c2_2039920_2042410,i see this is - this is getting into ami's thing .,i see this is - this is getting into ami's thing .,s,s
+Bed010-c1_2040090_2040470,yeah .,yeah .,b,b
+Bed010-c0_2040170_2040340,uh ==,uh ==,b,b
+Bed010-c1_2043000_2043290,uhhuh .,mm-hmm .,b,b
+Bed010-c2_2043030_2044180,he's - he's very interested in that .,he's - he's very interested in that .,s,s
+Bed010-c0_2043380_2043660,here ==,here ==,%,%
+Bed010-c4_2044350_2044600,okay .,o_k .,s^bk,s^bk
+Bed010-c2_2044950_2045190,so ==,so ==,fh,fh
+Bed010-c2_2045520_2046060,uh yeah .,uh yeah .,fh,fh
+Bed010-c1_2045610_2045850,me too .,me too .,s,s
+Bed010-c2_2046060_2047800,well why don't you just put it on the web page ?,well why don't you just put it on the web page ?,qw,qw
+Bed010-c2_2048070_2048910,there's this e d u ==,there's this e_d_u ==,s.%--,s.%--
+Bed010-c2_2048910_2049130,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c4_2049320_2049500,yeah .,yeah .,fg,fg
+Bed010-c4_2049500_2050670,it's - or - or just ==,it's - or - or just ==,s.%--,s.%--
+Bed010-c4_2050670_2050900,yeah .,yeah .,s^bk,s^bk
+Bed010-c4_2051210_2053350,it's also all on my - my home page at e m l .,it's also all on my - my home page at e_m_l .,s,s
+Bed010-c2_2051410_2051960,or a link to it .,or a link to it .,s,s
+Bed010-c4_2053460_2055500,it's called an anatomy of a spatial description .,it's called an anatomy of a spatial description .,s,s
+Bed010-c2_2054040_2054240,just ==,just ==,%-,%-
+Bed010-c4_2055500_2056550,but i'll send that link .,but i'll send that link .,s^cc,s^cc
+Bed010-c0_2056800_2057050,okay great .,o_k great .,b,b
+Bed010-c2_2057110_2057980,maybe just put a link on .,maybe just put a link on .,s^cs,s^cs
+Bed010-c4_2057670_2057990,yep .,yep .,s^bk,s^bk
+Bed010-c2_2057980_2058130,yeah .,yeah .,fh,fh
+Bed010-c4_2058150_2058290,yep .,yep .,fh,fh
+Bed010-c2_2058610_2074260,by the way | there - something that i didn't know until about a week ago or so is apparently there are separate brain areas for things within reach and things that are out of reach .,by the way | there - something that i didn't know until about a week ago or so is apparently there are separate brain areas for things within reach and things that are out of reach .,fg|s,fg|s
+Bed010-c2_2074610_2081410,so there's - there's uh - all this linguistic stuff about you know near and far or yon and - and so forth .,so there's - there's uh - all this linguistic stuff about you know near and far or yon and - and so forth .,s,s
+Bed010-c1_2074630_2075060,huh .,huh .,b,b
+Bed010-c1_2080690_2080840,uhhuh .,mm-hmm .,b,b
+Bed010-c2_2081670_2083670,so this is all - this is - there's this linguistic facts .,so this is all - this is - there's this linguistic facts .,s,s
+Bed010-c2_2083670_2087600,but apparently the - uh here's the way the findings go .,but apparently the - uh here's the way the findings go .,s,s
+Bed010-c2_2088250_2096300,that you know they do m r i and - and if you're uh - got something within reach then there's one of your areas lights up .,that you know they do m_r_i and - and if you're uh - got something within reach then there's one of your areas lights up .,s,s
+Bed010-c2_2096300_2098980,and if something's out of reach uh - a different one .,and if something's out of reach uh - a different one .,s,s
+Bed010-c2_2100070_2105060,but here's the - the amazing result um they say .,but here's the - the amazing result um they say .,s^ba,s^ba
+Bed010-c2_2105870_2112990,you get someone with a - with a deficit so that they have a perfectly normal ability at distance things .,you get someone with a - with a deficit so that they have a perfectly normal ability at distance things .,s,s
+Bed010-c2_2112990_2115760,so | the s- - typical task is subdivision .,so | the s- - typical task is subdivision .,fh|s,fh|s
+Bed010-c2_2115760_2119990,so there's a - a line on the wall over there and you give them a laser pointer and you say where's the midpoint .,so there's a - a line on the wall over there and you give them a laser pointer and you say where's the midpoint .,s:qw,s:qw
+Bed010-c2_2119990_2120790,and they do fine .,and they do fine .,s,s
+Bed010-c2_2121660_2123480,if you give them the line and they have to touch it .,if you give them the line and they have to touch it .,s,s
+Bed010-c2_2123610_2124160,they can't .,they can't .,s^e,s^e
+Bed010-c2_2124760_2127260,there's just that part of the brain isn't functioning so they can't do that .,there's just that part of the brain isn't functioning so they can't do that .,s,s
+Bed010-c2_2128010_2129070,here's the real experiment .,here's the real experiment .,s,s
+Bed010-c2_2129630_2131980,the same thing on the wall you give them a laser where is it .,the same thing on the wall you give them a laser where is it .,s:qw,s:qw
+Bed010-c2_2132430_2132800,they do it .,they do it .,s^e,s^e
+Bed010-c1_2132850_2133090,uhhuh .,mm-hmm .,b,b
+Bed010-c2_2133050_2135150,give them a stick - long stick and say do it .,give them a stick - long stick and say do it .,s:s,s:s
+Bed010-c2_2135150_2135890,they can't do it .,they can't do it .,s^e,s^e
+Bed010-c2_2136740_2142390,so there's a remapping of distant space into nearby space .,so there's a remapping of distant space into nearby space .,s,s
+Bed010-c0_2141680_2141860,right .,right .,b,b
+Bed010-c0_2143340_2143930,so they doubled ==,so they doubled ==,s^bu.%-,s^bu.%-
+Bed010-c5_2143750_2144880,because it's within reach now ?,because it's within reach now ?,qy^bu^d^rt,qy^bu^d^rt
+Bed010-c0_2144160_2145450,the - the end - the end of this ==,the - the end - the end of this ==,s.%-,s.%-
+Bed010-c2_2145170_2149620,it's not within reach and you use the within reach uh - mechanism .,it's not within reach Bdb001.dadb Bdb001.out Bdb001.trans Bed002.dadb Bed002.out Bed002.trans Bed003.dadb Bed003.out Bed003.trans Bed004.dadb Bed004.out Bed004.trans Bed005.dadb Bed005.out Bed005.trans Bed006.dadb Bed006.out Bed006.trans Bed008.dadb Bed008.out Bed008.trans Bed009.dadb Bed009.out Bed009.trans Bed010.dadb Bed010.out Bed010.trans Bed011.dadb Bed011.trans Bed012.dadb Bed012.trans Bed013.dadb Bed013.trans Bed014.dadb Bed014.trans Bed015.dadb Bed015.trans Bed016.dadb Bed016.trans Bed017.dadb Bed017.trans Bmr001.dadb Bmr001.trans Bmr002.dadb Bmr002.trans Bmr003.dadb Bmr003.trans Bmr005.dadb Bmr005.trans Bmr006.dadb Bmr006.trans Bmr007.dadb Bmr007.trans Bmr008.dadb Bmr008.trans Bmr009.dadb Bmr009.trans Bmr010.dadb Bmr010.trans Bmr011.dadb Bmr011.trans Bmr012.dadb Bmr012.trans Bmr013.dadb Bmr013.trans Bmr014.dadb Bmr014.trans Bmr015.dadb Bmr015.trans Bmr016.dadb Bmr016.trans Bmr018.dadb Bmr018.trans Bmr019.dadb Bmr019.trans Bmr020.dadb Bmr020.trans Bmr021.dadb Bmr021.trans Bmr022.dadb Bmr022.trans Bmr023.dadb Bmr023.trans Bmr024.dadb Bmr024.trans Bmr025.dadb Bmr025.trans Bmr026.dadb Bmr026.trans Bmr027.dadb Bmr027.trans Bmr028.dadb Bmr028.trans Bmr029.dadb Bmr029.trans Bmr030.dadb Bmr030.trans Bmr031.dadb Bmr031.trans Bns001.dadb Bns001.trans Bns002.dadb Bns002.trans Bns003.dadb Bns003.trans Bro003.dadb Bro003.trans Bro004.dadb Bro004.trans Bro005.dadb Bro005.trans Bro007.dadb Bro007.trans Bro008.dadb Bro008.trans Bro010.dadb Bro010.trans Bro011.dadb Bro011.trans Bro012.dadb Bro012.trans Bro013.dadb Bro013.trans Bro014.dadb Bro014.trans Bro015.dadb Bro015.trans Bro016.dadb Bro016.trans Bro017.dadb Bro017.trans Bro018.dadb Bro018.trans Bro019.dadb Bro019.trans Bro021.dadb Bro021.trans Bro022.dadb Bro022.trans Bro023.dadb Bro023.trans Bro024.dadb Bro024.trans Bro025.dadb Bro025.trans Bro026.dadb Bro026.trans Bro027.dadb Bro027.trans Bro028.dadb Bro028.trans Bsr001.dadb Bsr001.trans Btr001.dadb Btr001.trans Btr002.dadb Btr002.trans Buw001.dadb Buw001.trans scr.sh and you use the within-reach uh - mechanism .,s^ng,s^ng
+Bed010-c1_2145350_2145620,yeah .,yeah .,s^aa,s^aa
+Bed010-c5_2146170_2147230,oh wow !,oh wow !,s^fe,s^fe
+Bed010-c1_2146190_2146400,yeah .,yeah .,b,b
+Bed010-c1_2148870_2149290,circuits .,circuits .,s^2,s^2
+Bed010-c2_2149900_2151140,so i'll d- - i'll dig you up this reference .,so i'll d- - i'll dig you up this reference .,s^cc,s^cc
+Bed010-c0_2150030_2150610,right .,right .,b,b
+Bed010-c1_2151450_2151870,that's cool .,that's cool .,s^ba,s^ba
+Bed010-c2_2151480_2153570,and so this doe- - this is uh ==,and so this doe- - this is uh ==,s.%--,s.%--
+Bed010-c2_2153570_2155970,first of all it explains something that i've always wondered about .,first of all it explains something that i've always wondered about .,s,s
+Bed010-c2_2156590_2159230,and i'll do this - this test on you guys as well .,and i'll do this - this test on you guys as well .,s^cc,s^cc
+Bed010-c2_2159610_2159870,so ==,so ==,fh,fh
+Bed010-c2_2160380_2173750,uh | how- - i have had an experience not often but a certain number of times when for example i'm working with a tool a screwdriver or something for a long time i start feeling the tip directly .,uh | how- - i have had an experience not often but a certain number of times when for example i'm working with a tool a screwdriver or something for a long time i start feeling the tip directly .,fh|s,fh|s
+Bed010-c2_2174360_2175260,not indirectly .,not indirectly .,s^e,s^e
+Bed010-c2_2175260_2177600,but you actually can feel the tip .,but you actually can feel the tip .,s,s
+Bed010-c1_2176040_2176250,yeah .,yeah .,b,b
+Bed010-c1_2176400_2176630,yeah .,yeah .,b,b
+Bed010-c2_2177600_2190740,and people who are uh - accomplished violinists and stuff like that claim they also have this kind of thing where you get a direct sensation of - physical sensation of the end affector .,and people who are uh - accomplished violinists and stuff like that claim they also have this kind of thing where you get a direct sensation of - physical sensation of the end affector .,s,s
+Bed010-c1_2180970_2181410,yeah .,yeah .,b,b
+Bed010-c1_2189730_2190970,what's going on at the end of the tool .,what's going on at the end of the tool .,s^2,s^2
+Bed010-c1_2190970_2191080,yeah .,yeah .,b,b
+Bed010-c0_2191360_2193860,the ext- - the - the - the extension .,the ext- - the - the - the extension .,s,s
+Bed010-c2_2191500_2191670,huh ?,huh ?,qw^br^d^rt,qw^br^d^rt
+Bed010-c1_2192000_2193600,what's going on at the end of the tool or whatever .,what's going on at the end of the tool or whatever .,s^r,s^r
+Bed010-c2_2193130_2193270,yeah .,yeah .,s^aa,s^aa
+Bed010-c2_2193270_2193840,within ==,within ==,%-,%-
+Bed010-c0_2193860_2194050,right .,right .,s^aa,s^aa
+Bed010-c2_2194310_2194570,huh ?,huh ?,qw^br^d^rt,qw^br^d^rt
+Bed010-c0_2194890_2196500,the extension of - of your hand right .,the extension of - of your hand right .,s^r,s^r
+Bed010-c2_2196210_2196360,yeah .,yeah .,s^aa,s^aa
+Bed010-c2_2196670_2196850,right .,right .,s^aa,s^aa
+Bed010-c2_2196850_2197840,have you hav- - y- - h- - had this ?,have you hav- - y- - h- - had this ?,qy^rt,qy^rt
+Bed010-c0_2197390_2197590,the ==,the ==,%,%
+Bed010-c0_2198780_2199540,i - i think so .,i - i think so .,s^am,s^am
+Bed010-c0_2199540_2204440,i mean i- - i- - it's not exactly the th- - same thing but - but s- - it - it - it's getting close to that .,i mean i- - i- - it's not exactly the th- - same thing but - but s- - it - it - it's getting close to that .,s^e,s^e
+Bed010-c5_2204040_2205400,w- - what does it feel like ?,w- - what does it feel like ?,qw,qw
+Bed010-c1_2204510_2204930,yeah .,yeah .,b,b
+Bed010-c2_2206190_2217450,oh i- - it feels like your - as if your uh - neurons had extended themselves out to this tool and you're feeling forces on it and so forth .,oh i- - it feels like your - as if your uh - neurons had extended themselves out to this tool and you're feeling forces on it and so forth .,s,s
+Bed010-c2_2217450_2219520,and - and you deal directly with it .,and - and you deal directly with it .,s,s
+Bed010-c0_2220630_2228110,i once i - i was playing you know with those um - uh devices that allow you to manipulate objects when it's dangerous to get close .,i once i - i was playing you know with those um - uh devices that allow you to manipulate objects when it's dangerous to get close .,s,s
+Bed010-c2_2228010_2229100,right yeah - yeah - yeah .,right yeah - yeah - yeah .,s^bk,s^bk
+Bed010-c1_2228050_2228530,oh okay .,oh o_k .,s^bk,s^bk
+Bed010-c0_2228280_2229980,so you can insert your hand something .,so you can insert your hand something .,s,s
+Bed010-c2_2229820_2230060,yeah .,yeah .,b,b
+Bed010-c0_2230380_2231520,and there's a correspondence between ==,and there's a correspondence between ==,s.%--,s.%--
+Bed010-c2_2231750_2231900,yeah .,yeah .,b,b
+Bed010-c0_2232280_2232930,so i played with it .,so i played with it .,s,s
+Bed010-c0_2232930_2235560,after a while you don't feel the difference anymore .,after a while you don't feel the difference anymore .,s,s
+Bed010-c2_2235570_2236380,yeah right .,yeah right .,s^aa,s^aa
+Bed010-c0_2235810_2236630,i - i mean it's kind of ==,i - i mean it's kind of ==,s.%-,s.%-
+Bed010-c1_2235960_2236310,uhhuh .,mm-hmm .,b,b
+Bed010-c0_2237540_2240600,very - kind of - you stop back and suddenly it goes away .,very - kind of - you stop back and suddenly it goes away .,s,s
+Bed010-c0_2240600_2243190,and you have to kind of work again to recapture it but yeah .,and you have to kind of work again to recapture it but yeah .,s,s
+Bed010-c1_2240630_2241050,yeah .,yeah .,b,b
+Bed010-c2_2240840_2241650,right .,right .,b,b
+Bed010-c2_2243390_2249570,yeah | so anyway so - so this was the first actual experimental evidence i'd seen that was consistent with this anecdotal stuff .,<right> yeah | so anyway so - so this was the first actual experimental evidence i'd seen that was consistent with this anecdotal stuff .,fg|s^tc,fg|s^tc
+Bed010-c1_2244840_2245390,that's cool .,that's cool .,s^ba,s^ba
+Bed010-c2_2250090_2257380,and of course it makes a lovely def- - uh - story about why languages uh - make this distinction .,and of course it makes a lovely def- - uh - story about why languages uh - make this distinction .,s,s
+Bed010-c2_2257380_2259370,of course there are behavioral differences too .,of course there are behavioral differences too .,s,s
+Bed010-c2_2259370_2261440,things you can reach are really quite different than things you can't .,things you can reach are really quite different than things you can't .,s,s
+Bed010-c1_2261610_2262060,yeah .,yeah .,b,b
+Bed010-c2_2261860_2266270,but there seems to be an actu- - really deep embodied neural difference .,but there seems to be an actu- - really deep embodied neural difference .,s,s
+Bed010-c2_2266270_2267670,and i- - this is um ==,and i- - this is um ==,s.%--,s.%--
+Bed010-c2_2267920_2270220,so in addition to the e- ==,so in addition to the e- ==,s.%-,s.%-
+Bed010-c4_2269880_2271870,this is more proximal distal .,this is more proximal-distal .,s,s
+Bed010-c2_2271140_2271910,yeah uh exactly .,yeah uh exactly .,s^aa,s^aa
+Bed010-c2_2271910_2283800,so in addition to e- - ego and allocentric uh - which appear all over the place you also apparently have this proximal distal thing which is very deeply uh embedded .,so in addition to e- - ego and allocentric uh - which appear all over the place you also apparently have this proximal-distal thing which is very deeply uh embedded .,s,s
+Bed010-c2_2284590_2284920,s- ==,s- ==,%,%
+Bed010-c4_2285040_2286460,well dan montello sort of ==,well dan montello sort of ==,s.%--,s.%--
+Bed010-c4_2286460_2291090,he - he does the uh - uh - th- - the cognitive map world down in santa barbara .,he - he does the uh - uh - th- - the cognitive map world down in santa barbara .,s,s
+Bed010-c4_2291890_2294030,and he - he always talks about these .,and he - he always talks about these .,s,s
+Bed010-c4_2294490_2295310,he - he already - well ==,he - he already - well ==,s.%--,s.%--
+Bed010-c4_2295310_2303800,i- - probably - most likely without knowing this - this evidence uh - is talking about these small scale spaces that you can manipulate versus large scale environmental spaces .,i- - probably - most likely without knowing this - this evidence uh - is talking about these small scale spaces that you can manipulate versus large scale environmental spaces .,s,s
+Bed010-c2_2297690_2297940,yeah .,yeah .,b,b
+Bed010-c2_2302710_2307330,well there's - there's uh - been a lot of behavioral things o- - on this but that was the first neur- - neuro physiological thing i saw .,well there's - there's uh - been a lot of behavioral things o- - on this but that was the first neur- - neuro-physiological thing i saw .,s,s
+Bed010-c2_2308960_2310990,anyway yeah so we'll - we'll look at this .,anyway yeah so we'll - we'll look at this .,s^cc^tc,s^cc^tc
+Bed010-c2_2311900_2314850,and | so all of these issues now - are now starting to come up .,and | so all of these issues now - are now starting to come up .,fh|s,fh|s
+Bed010-c2_2314850_2316410,so now - we're now done with demos .,so now - we're now done with demos .,s,s
+Bed010-c2_2316410_2317320,we're starting to do science .,we're starting to do science .,s,s
+Bed010-c2_2317320_2317670,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c2_2317670_2329550,and | so these issues about uh - reference and - spatial reference discourse reference - uhuh - uhuh - all this sort of stuff uh - deixis which is part of what you were talking about .,and | so these issues about uh - reference and - spatial reference discourse reference - uh-uh-uh-uh - - all this sort of stuff uh - deixis which is part of what you were talking about .,fh|s,fh|s
+Bed010-c1_2325200_2325600,uhhuh .,mm-hmm .,b,b
+Bed010-c1_2329670_2330010,uhhuh .,mm-hmm .,b,b
+Bed010-c2_2330010_2336630,um | so all of this stuff is coming up essentially starting now .,um | so all of this stuff is coming up essentially starting now .,fh|s,fh|s
+Bed010-c2_2337500_2338390,so we got to do all this .,so we gotta do all this .,s^co,s^co
+Bed010-c2_2339010_2339910,so there's that .,so there's that .,s^t,s^t
+Bed010-c2_2339910_2344540,and then there's also a set of system things that come up .,and then there's also a set of system things that come up .,s^t,s^t
+Bed010-c2_2344980_2349090,so okay we're not using their system that means we need our system .,so o_k we're not using their system that means we need our system .,s:s,s:s
+Bed010-c1_2349120_2349480,uhhuh .,mm-hmm .,s^aa,s^aa
+Bed010-c2_2349150_2349390,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c2_2349390_2350490,it - it follows .,it - it follows .,s,s
+Bed010-c1_2349850_2350130,yeah .,yeah .,s^aa,s^aa
+Bed010-c2_2350900_2362230,and so uh - | in addition to the business about just getting the linguistics right and the formalism and stuff we're actually going to build something .,and so uh - | in addition to the business about just getting the linguistics right and the formalism and stuff we're actually gonna build something .,fh|s^cc,fh|s^cc
+Bed010-c2_2363100_2369990,and uh - | johno is point person on the parser analyzer whatever that is .,and uh - | johno is point person on the parser analyzer whatever that is .,fh|s,fh|s
+Bed010-c2_2370550_2376960,and | we're going to start on that in parallel with the um - the grammar stuff .,and | we're gonna start on that in parallel with the um - the grammar stuff .,fh|s,fh|s
+Bed010-c2_2377400_2383620,but to do that we're going to need to make some decisions like ontology .,but to do that we're gonna need to make some decisions like ontology .,s,s
+Bed010-c1_2377490_2377800,all right .,alright .,b,b
+Bed010-c2_2384690_2398810,so um | and so this is another thing where we're going to you know have to get involved and make s- - relatively early i think make some decisions on uh - is there an ontology a p i that - that ==,so um | and so this is another thing where we're gonna you know have to get involved and make s- - relatively early i think make some decisions on uh - is there an ontology a_p_i that - that ==,fh|s.%--:qy.%--,fh|s.%--:qy.%--
+Bed010-c2_2398810_2401540,there's a sort of standard way of getting things from ontologies .,there's a sort of standard way of getting things from ontologies .,s,s
+Bed010-c2_2401540_2404070,and we build the parser and stuff around that .,and we build the parser and stuff around that .,s,s
+Bed010-c2_2404190_2411950,or is there a particular ontology that we're going to standardize on and if so - for example is there something that we can use there ?,or is there a particular ontology that we're gonna standardize on and if so - for example is there something that we can use there ?,qy,qy
+Bed010-c2_2412370_2423960,i- - does uh - either the uh - smartkom project or one of the projects at e m l have something that we can just p- - pull out for that ?,i- - does uh - either the uh - smartkom project or one of the projects at e_m_l have something that we can just p- - pull out for that ?,qy,qy
+Bed010-c2_2425390_2433710,uh | so there are going to be some - some - some things like that which are not science but system .,uh | so there are gonna be some - some - some things like that which are not science but system .,fh|s,fh|s
+Bed010-c2_2435200_2436180,but we aren't going to ignore those .,but we aren't gonna ignore those .,s,s
+Bed010-c2_2436180_2444370,because we're - we're not only going - the plan is not only to lay out this thing but to actually uh - build some of it .,cuz we're - we're not only going - the plan is not only to lay out this thing but to actually uh - build some of it .,s^df,s^df
+Bed010-c2_2445200_2447050,and how much we build and - and so forth .,and how much we build and - and so forth .,s,s
+Bed010-c1_2447170_2447460,i ==,i ==,%--,%--
+Bed010-c0_2448008_2483790,BLEEPED,BLEEPED,,
+Bed010-c1_2448008_2483790,BLEEPED,BLEEPED,,
+Bed010-c2_2448008_2483790,BLEEPED,BLEEPED,,
+Bed010-c3_2448008_2483790,BLEEPED,BLEEPED,,
+Bed010-c4_2448008_2483790,BLEEPED,BLEEPED,,
+Bed010-c5_2448008_2483790,BLEEPED,BLEEPED,,
+Bed010-c9_2448008_2483790,BLEEPED,BLEEPED,,
+Bed010-c2_2484150_2487800,uh | part of it if it works right is wh- ==,uh | part of it if it works right is wh- ==,fh|s.%--,fh|s.%--
+Bed010-c2_2487800_2503690,it looks like we're now in a position that the construction analyzer that we want for this applied project can be the same as the construction analyzer that nancy needs for the child language modeling .,it looks like we're now in a position that the construction analyzer that we want for this applied project can be the same as the construction analyzer that nancy needs for the child language modeling .,s,s
+Bed010-c2_2504290_2505660,so it's always been out of phase .,so it's always been out of phase .,s,s
+Bed010-c2_2505660_2510140,but it now seems that um - there's a good shot at that .,but it now seems that um - there's a good shot at that .,s,s
+Bed010-c2_2510450_2511510,so we've talked about it .,so we've talked about it .,s,s
+Bed010-c2_2511630_2517440,and the hope is that we can make these things the same thing .,and the hope is that we can make these things the same thing .,s,s
+Bed010-c1_2517840_2518120,okay .,o_k .,s^bk,s^bk
+Bed010-c2_2518470_2522230,and of course it's only w- - in both cases it's only one piece of a bigger system .,and of course it's only w- - in both cases it's only one piece of a bigger system .,s,s
+Bed010-c1_2522350_2522660,uhhuh .,mm-hmm .,b,b
+Bed010-c2_2522740_2526320,but it would be nice if that piece were exactly the same piece .,but it would be nice if that piece were exactly the same piece .,s,s
+Bed010-c2_2526320_2530380,it was just this uh - construction analyzer .,it was just this uh - construction analyzer .,s,s
+Bed010-c1_2526610_2526870,right .,right .,b,b
+Bed010-c2_2531170_2535760,and | so we think - we think we have a shot at - at that .,and | so we think - we think we have a shot at - at that .,fh|s,fh|s
+Bed010-c1_2535980_2536200,okay .,o_k .,b,b
+Bed010-c0_2537044_2548460,BLEEPED,BLEEPED,,
+Bed010-c1_2537044_2548460,BLEEPED,BLEEPED,,
+Bed010-c2_2537044_2548460,BLEEPED,BLEEPED,,
+Bed010-c3_2537044_2548460,BLEEPED,BLEEPED,,
+Bed010-c4_2537044_2548460,BLEEPED,BLEEPED,,
+Bed010-c5_2537044_2548460,BLEEPED,BLEEPED,,
+Bed010-c9_2537044_2548460,BLEEPED,BLEEPED,,
+Bed010-c2_2549360_2549890,so the for- ==,so the for- ==,s.%--,s.%--
+Bed010-c2_2549890_2550220,so ==,so ==,fh,fh
+Bed010-c2_2550450_2553820,to - to come full circle on that this formalization task ==,to - to come full circle on that this formalization task ==,s.%--,s.%--
+Bed010-c2_2554300_2554640,okay ?,o_k ?,qy^d^f,qy^d^f
+Bed010-c2_2555110_2565370,is trying to get the formalism into - into a shape where it can actually uh ==,is trying to get the formalism into - into a shape where it can actually uh ==,s^e.%-,s^e.%-
+Bed010-c1_2564030_2564240,yeah .,yeah .,fg,fg
+Bed010-c1_2565180_2566850,be of use to someone who's trying to do this .,be of use to someone who's trying to do this .,s^2,s^2
+Bed010-c1_2566850_2566970,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c2_2566850_2567330,well yeah .,<d-> well yeah .,s^aa,s^aa
+Bed010-c2_2567430_2570200,where it actually is - is - covers the whole range of things .,where it actually is - is - covers the whole range of things .,s,s
+Bed010-c2_2570950_2579560,and the - the - the - the thing that got mark into the worst trouble is he had a very ambitious thing he was trying to do .,and the - the - the - the thing that got mark into the worst trouble is he had a very ambitious thing he was trying to do .,s,s
+Bed010-c2_2579660_2585970,and he insisted on trying to do it with a limited set of mechanisms .,and he insisted on trying to do it with a limited set of mechanisms .,s,s
+Bed010-c2_2585970_2588470,it turned out inherently not to cover the space .,it turned out inherently not to cover the space .,s,s
+Bed010-c1_2588640_2588920,okay .,o_k .,s^bk,s^bk
+Bed010-c2_2589070_2591900,and it just - it was just terribly frustrating for him .,and it just - it was just terribly frustrating for him .,s,s
+Bed010-c1_2592050_2592300,yeah .,yeah .,b,b
+Bed010-c2_2592070_2599250,and | he seemed fully committed to both sides of this i- - i- - irreconcilable thing .,and | he seemed fully committed to both sides of this i- - i- - irreconcilable thing .,fh|s,fh|s
+Bed010-c1_2596460_2596780,i see .,i see .,b,b
+Bed010-c1_2598380_2598610,right .,right .,b,b
+Bed010-c2_2599750_2600720,and ==,and ==,fh,fh
+Bed010-c2_2602090_2604810,uh | johno is much more pragmatic .,uh | johno is much more pragmatic .,fh|s,fh|s
+Bed010-c1_2605090_2605340,okay .,o_k .,s^bk,s^bk
+Bed010-c2_2606630_2606840,huh ?,<uh> huh ?,qy^br^rt,qy^br^rt
+Bed010-c1_2606850_2607290,good to know .,good to know .,s,s
+Bed010-c2_2607620_2608310,is - this is true .,is - this is true .,s,s
+Bed010-c2_2608310_2608670,is it not ?,is it not ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c3_2608810_2609150,yes .,yes .,s^aa,s^aa
+Bed010-c2_2609400_2609830,okay .,o_k .,s^bk,s^bk
+Bed010-c2_2610220_2617330,so there's you know sort of yeah deep really deep emotional commitment to a certain theory being uh - complete .,so there's you know sort of yeah deep really deep emotional commitment to a certain theory being uh - complete .,s,s
+Bed010-c1_2615040_2615390,oh okay .,oh o_k .,s^bk,s^bk
+Bed010-c5_2617050_2618630,you don't have a hidden purist streak ?,you don't have a hidden purist streak ?,qy^d^j^rt,qy^d^j^rt
+Bed010-c3_2618940_2619440,oh no .,oh no .,s^ar,s^ar
+Bed010-c5_2619580_2619920,okay .,o_k .,s^bk,s^bk
+Bed010-c2_2619940_2622880,we- - well it hasn't it - it certainly hasn't been observed in any case .,we- - well it hasn't it - it certainly hasn't been observed in any case .,s^j,s^j
+Bed010-c5_2620240_2620720,just checking .,just checking .,s^df,s^df
+Bed010-c3_2623000_2623600,no sir .,no sir .,s^aa,s^aa
+Bed010-c1_2624650_2624950,all right .,alright .,s^bk,s^bk
+Bed010-c2_2625450_2628450,um | now you do but that's okay .,um | now you do but that's o_k .,fh|s,fh|s
+Bed010-c2_2629180_2630360,uh | so for - for ==,uh | so for - for ==,fh|%-,fh|%-
+Bed010-c1_2630190_2631580,because i don't have to implement anything .,cuz i don't have to implement anything .,s^df^j,s^df^j
+Bed010-c2_2631340_2632120,exactly right .,exactly right .,s^aa,s^aa
+Bed010-c5_2632830_2633840,i have a problem then .,i have a problem then .,s^j,s^j
+Bed010-c2_2633100_2633500,exactly .,exactly .,s^aa,s^aa
+Bed010-c5_2635160_2638380,it's - so whether i do depends on whether i'm talking to him or him probably .,it's - so whether i do depends on whether i'm talking to him or him probably .,s^j,s^j
+Bed010-c0_2636280_2636580,huh .,hmm .,b,b
+Bed010-c1_2637700_2638250,yeah right .,yeah right .,s^aa,s^aa
+Bed010-c2_2638090_2638340,right .,right .,b,b
+Bed010-c5_2638690_2639570,which meeting i'm in .,which meeting i'm in .,s^e,s^e
+Bed010-c2_2638710_2647570,why - | a- - actually uh - the thing is you - you do but th- - the thing you have to im- - implement is so small that uh ==,why - | a- - actually uh - the thing is you - you do Bdb001.dadb Bdb001.out Bdb001.trans Bed002.dadb Bed002.out Bed002.trans Bed003.dadb Bed003.out Bed003.trans Bed004.dadb Bed004.out Bed004.trans Bed005.dadb Bed005.out Bed005.trans Bed006.dadb Bed006.out Bed006.trans Bed008.dadb Bed008.out Bed008.trans Bed009.dadb Bed009.out Bed009.trans Bed010.dadb Bed010.out Bed010.trans Bed011.dadb Bed011.trans Bed012.dadb Bed012.trans Bed013.dadb Bed013.trans Bed014.dadb Bed014.trans Bed015.dadb Bed015.trans Bed016.dadb Bed016.trans Bed017.dadb Bed017.trans Bmr001.dadb Bmr001.trans Bmr002.dadb Bmr002.trans Bmr003.dadb Bmr003.trans Bmr005.dadb Bmr005.trans Bmr006.dadb Bmr006.trans Bmr007.dadb Bmr007.trans Bmr008.dadb Bmr008.trans Bmr009.dadb Bmr009.trans Bmr010.dadb Bmr010.trans Bmr011.dadb Bmr011.trans Bmr012.dadb Bmr012.trans Bmr013.dadb Bmr013.trans Bmr014.dadb Bmr014.trans Bmr015.dadb Bmr015.trans Bmr016.dadb Bmr016.trans Bmr018.dadb Bmr018.trans Bmr019.dadb Bmr019.trans Bmr020.dadb Bmr020.trans Bmr021.dadb Bmr021.trans Bmr022.dadb Bmr022.trans Bmr023.dadb Bmr023.trans Bmr024.dadb Bmr024.trans Bmr025.dadb Bmr025.trans Bmr026.dadb Bmr026.trans Bmr027.dadb Bmr027.trans Bmr028.dadb Bmr028.trans Bmr029.dadb Bmr029.trans Bmr030.dadb Bmr030.trans Bmr031.dadb Bmr031.trans Bns001.dadb Bns001.trans Bns002.dadb Bns002.trans Bns003.dadb Bns003.trans Bro003.dadb Bro003.trans Bro004.dadb Bro004.trans Bro005.dadb Bro005.trans Bro007.dadb Bro007.trans Bro008.dadb Bro008.trans Bro010.dadb Bro010.trans Bro011.dadb Bro011.trans Bro012.dadb Bro012.trans Bro013.dadb Bro013.trans Bro014.dadb Bro014.trans Bro015.dadb Bro015.trans Bro016.dadb Bro016.trans Bro017.dadb Bro017.trans Bro018.dadb Bro018.trans Bro019.dadb Bro019.trans Bro021.dadb Bro021.trans Bro022.dadb Bro022.trans Bro023.dadb Bro023.trans Bro024.dadb Bro024.trans Bro025.dadb Bro025.trans Bro026.dadb Bro026.trans Bro027.dadb Bro027.trans Bro028.dadb Bro028.trans Bsr001.dadb Bsr001.trans Btr001.dadb Btr001.trans Btr002.dadb Btr002.trans Buw001.dadb Buw001.trans scr.sh but th- - the thing you have to im- - implement is so small that uh ==,fg|s.%--,fg|s.%--
+Bed010-c5_2647140_2649170,it's okay to be purist within that context .,it's o_k to be purist within that context .,s^2^j,s^2^j
+Bed010-c2_2648750_2649490,within that .,within that .,s^aa^m,s^aa^m
+Bed010-c5_2649360_2649550,yes .,yes .,s^bk,s^bk
+Bed010-c2_2649490_2649700,yeah .,yeah .,s^aa,s^aa
+Bed010-c5_2649790_2650110,good .,good .,s^ba,s^ba
+Bed010-c2_2650160_2654350,and uh - | it's - a- - and still i think you know get something done .,and uh - | it's - a- - and still i think you know get something done .,fh|s,fh|s
+Bed010-c1_2652280_2652470,cool !,cool !,s^fe,s^fe
+Bed010-c2_2655390_2664740,but to try to do something upscale and purist particularly if - if um - what you're purist about doesn't actually work is real hard .,but to try to do something upscale and purist particularly if - if um - what you're purist about doesn't actually work is real hard .,s,s
+Bed010-c5_2655710_2656320,yay .,yay .,b.%,b.%
+Bed010-c1_2657360_2657720,uhhuh .,mm-hmm .,b,b
+Bed010-c1_2664170_2664510,yeah .,yeah .,b,b
+Bed010-c2_2665420_2665680,okay .,o_k .,fh,fh
+Bed010-c2_2665980_2672970,and then the other thing is while we're doing this uh - robert's going to pick a piece of this space .,and then the other thing is while we're doing this uh - robert's gonna pick a piece of this space .,s^t,s^t
+Bed010-c0_2667470_2668130,@reject@ it's possible yeah .,{@reject@} it's possible yeah .,s,s
+Bed010-c1_2673170_2673370,okay .,o_k .,s^bk,s^bk
+Bed010-c2_2673560_2674050,okay ?,o_k ?,qy^d^f^m,qy^d^f^m
+Bed010-c2_2674750_2679050,uh - | for his absentee thesis .,uh - | for his absentee thesis .,fh|s^e,fh|s^e
+Bed010-c2_2679290_2683210,i think you all know that - that you can just in germany almost just send in your thesis .,i think you all know that - that you can just in germany almost just send in your thesis .,s,s
+Bed010-c1_2682540_2683320,just a drive up .,just a drive up .,s^2^j,s^2^j
+Bed010-c1_2683320_2683500,ca-chuk .,ca-chuk .,%,%
+Bed010-c2_2683730_2684290,yeah right .,yeah right .,s^aa,s^aa
+Bed010-c0_2683880_2684170,um ==,um ==,fg,fg
+Bed010-c1_2684540_2685810,there you go .,there you go .,s^j,s^j
+Bed010-c2_2684890_2685530,okay .,o_k .,s^bk^j,s^bk^j
+Bed010-c4_2684910_2692210,the- - th- - there - there's a drive in thesis uh - sh- - joint over in saarbruecken .,the- - th- - there - there's a drive-in thesis uh - sh- - joint over in saarbruecken .,s^j,s^j
+Bed010-c1_2688330_2688780,exactly .,exactly .,s^aa,s^aa
+Bed010-c1_2688780_2689390,drive through yeah .,drive through yeah .,s^2^aa,s^2^aa
+Bed010-c2_2690690_2691620,it costs a lot .,it costs a lot .,s^j,s^j
+Bed010-c2_2692150_2695610,the - the amount - you put in your credit card and as well .,the - the amount - you put in your credit card and as well .,s^e,s^e
+Bed010-c2_2695610_2696700,but uh ==,but uh ==,fh,fh
+Bed010-c2_2697420_2697920,but anyway .,but anyway .,fh,fh
+Bed010-c2_2697920_2707210,so uh - | that's um - also got to be worked out hopefully over the next few weeks .,so uh - | that's um - also gotta be worked out hopefully over the next few weeks .,fh|s^co,fh|s^co
+Bed010-c2_2707530_2714520,so that - that it becomes clear uh - what piece uh - robert wants to jump into .,so that - that it becomes clear uh - what piece uh - robert wants to jump into .,s^df,s^df
+Bed010-c2_2715420_2732020,and while we're at this level uh - there's at least one new doctoral student in computer science who will be joining the project either next week or the first of august depending on the blandishments of microsoft .,and while we're at this level uh - there's at least one new doctoral student in computer science who will be joining the project either next week or the first of august depending on the blandishments of microsoft .,s^t,s^t
+Bed010-c1_2732190_2732280,okay .,o_k .,s^bk,s^bk
+Bed010-c2_2732330_2735020,so de- - uh | and her name is eva .,so de- - uh | Bdb001.dadb Bdb001.out Bdb001.trans Bed002.dadb Bed002.out Bed002.trans Bed003.dadb Bed003.out Bed003.trans Bed004.dadb Bed004.out Bed004.trans Bed005.dadb Bed005.out Bed005.trans Bed006.dadb Bed006.out Bed006.trans Bed008.dadb Bed008.out Bed008.trans Bed009.dadb Bed009.out Bed009.trans Bed010.dadb Bed010.out Bed010.trans Bed011.dadb Bed011.trans Bed012.dadb Bed012.trans Bed013.dadb Bed013.trans Bed014.dadb Bed014.trans Bed015.dadb Bed015.trans Bed016.dadb Bed016.trans Bed017.dadb Bed017.trans Bmr001.dadb Bmr001.trans Bmr002.dadb Bmr002.trans Bmr003.dadb Bmr003.trans Bmr005.dadb Bmr005.trans Bmr006.dadb Bmr006.trans Bmr007.dadb Bmr007.trans Bmr008.dadb Bmr008.trans Bmr009.dadb Bmr009.trans Bmr010.dadb Bmr010.trans Bmr011.dadb Bmr011.trans Bmr012.dadb Bmr012.trans Bmr013.dadb Bmr013.trans Bmr014.dadb Bmr014.trans Bmr015.dadb Bmr015.trans Bmr016.dadb Bmr016.trans Bmr018.dadb Bmr018.trans Bmr019.dadb Bmr019.trans Bmr020.dadb Bmr020.trans Bmr021.dadb Bmr021.trans Bmr022.dadb Bmr022.trans Bmr023.dadb Bmr023.trans Bmr024.dadb Bmr024.trans Bmr025.dadb Bmr025.trans Bmr026.dadb Bmr026.trans Bmr027.dadb Bmr027.trans Bmr028.dadb Bmr028.trans Bmr029.dadb Bmr029.trans Bmr030.dadb Bmr030.trans Bmr031.dadb Bmr031.trans Bns001.dadb Bns001.trans Bns002.dadb Bns002.trans Bns003.dadb Bns003.trans Bro003.dadb Bro003.trans Bro004.dadb Bro004.trans Bro005.dadb Bro005.trans Bro007.dadb Bro007.trans Bro008.dadb Bro008.trans Bro010.dadb Bro010.trans Bro011.dadb Bro011.trans Bro012.dadb Bro012.trans Bro013.dadb Bro013.trans Bro014.dadb Bro014.trans Bro015.dadb Bro015.trans Bro016.dadb Bro016.trans Bro017.dadb Bro017.trans Bro018.dadb Bro018.trans Bro019.dadb Bro019.trans Bro021.dadb Bro021.trans Bro022.dadb Bro022.trans Bro023.dadb Bro023.trans Bro024.dadb Bro024.trans Bro025.dadb Bro025.trans Bro026.dadb Bro026.trans Bro027.dadb Bro027.trans Bro028.dadb Bro028.trans Bsr001.dadb Bsr001.trans Btr001.dadb Btr001.trans Btr002.dadb Btr002.trans Buw001.dadb Buw001.trans scr.sh and her name is eva .,fh|s^e,fh|s^e
+Bed010-c1_2735650_2735890,okay .,o_k .,b.%,b.%
+Bed010-c2_2735730_2736210,it really is .,it really is .,s^df,s^df
+Bed010-c2_2737040_2738350,nobody believed th- - th- - that .,nobody believed th- - th- - that .,s,s
+Bed010-c5_2738180_2741510,yeah | i thought it had to be a joke of your part you know .,yeah | i thought it had to be a joke of your part you know .,fg|s,fg|s
+Bed010-c5_2741510_2742990,like johno made it up .,like johno made it up .,s^j,s^j
+Bed010-c2_2741650_2741800,yeah .,yeah .,s^aa,s^aa
+Bed010-c5_2743210_2743620,i'm sure .,i'm sure .,s.%,s.%
+Bed010-c9_2744550_2746600,is this person someone who's in first year this year ?,is this person someone who's in first-year this year ?,qy^rt,qy^rt
+Bed010-c2_2746720_2747710,no first year coming .,no first year coming .,s^aa,s^aa
+Bed010-c9_2747210_2747310,or ?==,or ?==,qrr.%--,qrr.%--
+Bed010-c2_2748100_2749620,so she's - she's now out here .,so she's - she's now out here .,s,s
+Bed010-c2_2749620_2750310,she's moved .,she's moved .,s,s
+Bed010-c9_2750560_2751240,okay .,o_k .,b,b
+Bed010-c2_2750690_2753220,and she'll be a student as of then .,and she'll be a student as of then .,s,s
+Bed010-c2_2753440_2756090,and probably she'll pick up from you on the belief net stuff .,and probably she'll pick up from you on the belief-net stuff .,s,s
+Bed010-c2_2756090_2758370,so sh- - she'll be chasing you down and stuff like that .,so sh- - she'll be chasing you down and stuff like that .,s,s
+Bed010-c9_2756180_2756460,okay .,o_k .,s^bk,s^bk
+Bed010-c4_2759420_2760060,document .,document .,s,s
+Bed010-c2_2759510_2759810,uh ==,uh ==,fh,fh
+Bed010-c9_2761720_2762020,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c2_2763190_2764700,uh | against all traditions .,uh | against all traditions .,fh|s^na,fh|s^na
+Bed010-c2_2765260_2772690,and actually i talked today to a uh - undergraduate who wants to do an honors thesis on this .,and actually i talked today to a uh - undergraduate who wants to do an honors thesis on this .,s,s
+Bed010-c2_2773690_2774390,uh ==,uh ==,fh,fh
+Bed010-c5_2773700_2774610,someone from the class ?,someone from the class ?,qy^bu^d^rt,qy^bu^d^rt
+Bed010-c2_2775060_2775860,no .,no .,s^ar,s^ar
+Bed010-c2_2775860_2776810,interestingly enough .,interestingly enough .,s,s
+Bed010-c5_2776630_2778630,we always get these people who are not in the class who ==,we always get these people who are not in the class who ==,s.%-,s.%-
+Bed010-c2_2778470_2779410,some of th- - some of them yeah .,some of th- - some of them yeah .,s^arp,s^arp
+Bed010-c5_2778910_2779370,it's interesting .,it's interesting .,s^ba,s^ba
+Bed010-c2_2780080_2781130,so anyway .,so anyway .,fh,fh
+Bed010-c2_2781210_2786310,uh | but uh she's another one of these ones with a three point nine average and so forth and so on .,uh | but uh she's another one of these ones with a three point nine average and so forth and so on .,fh|s,fh|s
+Bed010-c1_2785580_2785970,uhhuh .,mm-hmm .,b,b
+Bed010-c2_2786960_2790970,uh so um - | i've give- - i've given her some things to read .,uh so um - | i've give- - i've given her some things to read .,fh|s,fh|s
+Bed010-c2_2791690_2792570,so we'll see how this goes .,so we'll see how this goes .,s,s
+Bed010-c2_2792570_2798030,oh there's yet another one of the incoming first - incoming first year graduate students who's expressed interest .,oh there's yet another one of the incoming first - incoming first-year graduate students who's expressed interest .,s,s
+Bed010-c2_2798030_2798900,so we'll see how that goes .,so we'll see how that goes .,s,s
+Bed010-c2_2799740_2800280,um ==,um ==,fh,fh
+Bed010-c2_2801170_2801520,anyway ==,anyway ==,fh,fh
+Bed010-c2_2803480_2827990,so | i think as far as this group goes um - it's certainly worth continuing for the next few weeks to get closure on the uh - belief net and the ideas that are involved in that and what are th- - what are the concepts .,so | i think as far as this group goes um - it's certainly worth continuing for the next few weeks to get closure on the uh - belief-net and the ideas that are involved in that and what are th- - what are the concepts .,fh|s^t,fh|s^t
+Bed010-c2_2829410_2842280,we'll see whether it's going to make sense to have this be separate from the other bigger effort with the formalization stuff or not .,we'll see whether it's gonna make sense to have this be separate from the other bigger effort with the formalization stuff or not .,s,s
+Bed010-c2_2842280_2842930,i'm not sure .,i'm not sure .,s^no,s^no
+Bed010-c2_2843060_2847580,it partly depends on w- - what your thesis turns out to be and how that goes .,it partly depends on w- - what your thesis turns out to be and how that goes .,s,s
+Bed010-c2_2848280_2849390,s- - so we'll see .,s- - so we'll see .,s,s
+Bed010-c2_2849750_2853610,and then ami you can decide you know how much time you want to put into it .,and then ami you can decide you know how much time you wanna put into it .,s^co,s^co
+Bed010-c2_2853740_2857440,and uh - it- - it's beginning to take shap- - shape .,and uh - it- - it's beginning to take shap- - shape .,s,s
+Bed010-c0_2855210_2855420,okay .,o_k .,b,b
+Bed010-c2_2857440_2860650,so uh - and ==,so uh - and ==,fh,fh
+Bed010-c0_2858850_2859020,right ==,right ==,fg.%,fg.%
+Bed010-c2_2860970_2888910,i think you will find that if you want to look technically at some of the - your traditional questions in this light uh - keith who's buil- - building constructions will be quite happy to uh - see what you know you envision as the issues and the problems and um - how they might uh - get reflected in constructions .,i think you will find that if you want to look technically at some of the - your traditional questions in this light uh - keith who's buil- - building constructions will be quite happy to uh - see what you know you envision as the issues and the problems and um - how they might uh - get reflected in constructions .,s,s
+Bed010-c1_2889050_2889340,sure .,sure .,s^aa,s^aa
+Bed010-c2_2890220_2891130,i suspect that's right .,i suspect that's right .,s,s
+Bed010-c1_2890780_2891010,yeah .,yeah .,s^aa,s^aa
+Bed010-c1_2891290_2891570,yeah .,yeah .,s^aa^r,s^aa^r
+Bed010-c0_2894080_2903190,i - i may have to go to switzerland for - in june or beginning of july for between two weeks and four weeks but uh - after that or before that .,i - i may have to go to switzerland for - in june or beginning of july for between two weeks and four weeks but uh - after that or before that .,s,s
+Bed010-c2_2903570_2903830,okay .,o_k .,s^bk,s^bk
+Bed010-c2_2903830_2904190,fine .,fine .,s^bk,s^bk
+Bed010-c2_2904690_2916020,and um - | if it's useful we can probably arrange for you to drop by and visit either at heidelberg or at the german a i center while you're in - in the neighborhood .,and um - | if it's useful we can probably arrange for you to drop by and visit either at heidelberg or at the german a_i center while you're in - in the neighborhood .,fh|s^cs,fh|s^cs
+Bed010-c0_2915230_2915420,right .,right .,s^bk,s^bk
+Bed010-c0_2916990_2917530,yeah be- - uh ==,yeah be- - uh ==,%--,%--
+Bed010-c0_2917530_2928070,actu- - actually i'm invited to do some consulting with a bank in geneva which has an affiliation with a research institute in geneva which i forgot the name of .,actu- - actually i'm invited to do some consulting with a bank in geneva which has an affiliation with a research institute in geneva which i forgot the name of .,s,s
+Bed010-c2_2921830_2922170,yeah .,yeah .,b,b
+Bed010-c2_2922610_2922840,yep .,yep .,b,b
+Bed010-c2_2928150_2929010,e- - o- - do y- ==,e- - o- - do y- ==,%--,%--
+Bed010-c2_2929010_2932610,well | we- - we're connected to uh ==,well | we- - we're connected to uh ==,fg|s.%--,fg|s.%--
+Bed010-c0_2929260_2929420,yeah .,yeah .,b,b
+Bed010-c2_2932610_2936150,there's a - there's a - a very significant connection between ==,there's a - there's a - a very significant connection between ==,s.%--,s.%--
+Bed010-c2_2936320_2937190,we'll - we'll go through this .,we'll - we'll go through this .,s^cc,s^cc
+Bed010-c0_2937350_2937630,yeah .,yeah .,b,b
+Bed010-c2_2937650_2944310,i c s i and e p f l which is the uh - it's the fr- ==,i_c_s_i and e_p_f_l which is the uh - it's the fr- ==,s.%--,s.%--
+Bed010-c2_2944490_2948150,ge- - germany's got two big technical institutes .,ge- - germany's got two big technical institutes .,s,s
+Bed010-c2_2948150_2950260,there's one in - in zurich .,there's one in - in zurich .,s,s
+Bed010-c0_2950650_2951090,uhhuh .,mm-hmm .,b^rt,b^rt
+Bed010-c2_2951270_2951780,e t h .,e_t_h .,s^e,s^e
+Bed010-c2_2951780_2955520,and then there's one - the french speaking one in lausanne .,and then there's one - the french speaking one in lausanne .,s^e,s^e
+Bed010-c2_2956250_2956660,okay ?,o_k ?,qy^d^f^rt,qy^d^f^rt
+Bed010-c1_2956740_2957520,oh so in switzerland .,oh so in switzerland .,s^bs,s^bs
+Bed010-c2_2956990_2958770,which is uh - e p f l .,which is uh - e_p_f_l .,s^e,s^e
+Bed010-c2_2959620_2961390,so find out who they are associated with in geneva .,so find out who they are associated with in geneva .,s^co,s^co
+Bed010-c0_2959800_2960430,great .,great .,b,b
+Bed010-c2_2961390_2962870,probably we're connected to them .,probably we're connected to them .,s,s
+Bed010-c0_2961840_2962020,right .,right .,b,b
+Bed010-c0_2963320_2963500,great .,great .,s^ba,s^ba
+Bed010-c0_2963710_2964220,i'll let you know .,i'll let you know .,s^cc,s^cc
+Bed010-c0_2964500_2965230,s- - i'll send you email .,s- - i'll send you email .,s^cc,s^cc
+Bed010-c2_2964520_2964770,okay .,o_k .,s^bk,s^bk
+Bed010-c2_2965690_2965870,yeah .,yeah .,s^bk,s^bk
+Bed010-c2_2966200_2975230,and so anyway we c- - uh we can m- - undoubtedly get ami uh - to give a talk at uh e m l or something like that while he's in - in uh ==,and so anyway we c- - uh we can m- - undoubtedly get ami uh - to give a talk at uh e_m_l or something like that while he's in - in uh ==,s^cs.%--,s^cs.%--
+Bed010-c4_2975470_2975610,huh .,hmm .,b,b
+Bed010-c4_2975720_2980500,uh | i - i think the one you - you gave here a couple of weeks ago would be of interest there too .,uh | i - i think the one you - you gave here a couple of weeks ago would be of interest there too .,fh|s,fh|s
+Bed010-c0_2980080_2980960,sure yeah .,sure yeah .,s^aa,s^aa
+Bed010-c2_2980140_2983730,a lot of interest actually either place d f k i or uh ==,a lot of interest actually either place d_f_k_i or uh ==,s.%--,s.%--
+Bed010-c2_2984930_2989860,yeah | so and - and if there is a book that you'll be building up some audience for it .,yeah | so and - and if there is a book that you'll be building up some audience for it .,fh|s,fh|s
+Bed010-c0_2985520_2986060,yeah .,yeah .,b,b
+Bed010-c0_2988610_2988850,right .,right .,s^bk,s^bk
+Bed010-c2_2989860_2991070,and you'll get feedback from these guys .,and you'll get feedback from these guys .,s,s
+Bed010-c0_2991140_2991880,great yeah .,great yeah .,s^ba.%,s^ba.%
+Bed010-c2_2991310_2998080,because they've actually - these d f k i guys have done as much as anyone over the last decade in trying to build them .,cuz they've actually - these d_f_k_i guys have done as much as anyone over the last decade in trying to build them .,s^df,s^df
+Bed010-c2_2999520_3000200,so we'll set that up .,so we'll set that up .,s^cc,s^cc
+Bed010-c0_3000640_3000830,cool .,cool .,s^ba,s^ba
+Bed010-c2_3003580_3003970,okay .,o_k .,fh,fh
+Bed010-c2_3003970_3017380,so uh - | unless we want to start digging into the - uh - the belief net and the decisions now which would be fine it's probably ==,so uh - | unless we wanna start digging into the - uh - the belief-net and the decisions now which would be fine it's probably ==,fh|s.%-,fh|s.%-
+Bed010-c4_3016790_3017460,i - i tho- ==,i - i tho- ==,%-,%-
+Bed010-c4_3017460_3026960,it's probably better if i come next week with the um - version o point nine of the structure .,it's probably better if i come next week with the um - version o_ point nine of the structure .,s,s
+Bed010-c2_3025800_3026010,okay .,o_k .,s^bk,s^bk
+Bed010-c2_3026190_3034940,so how about if you two guys between now and next week come up with something that is partially proposal and partially questions .,so how about if you two guys between now and next week come up with something that is partially proposal and partially questions .,s^cs,s^cs
+Bed010-c2_3035190_3039610,saying here's what we think we understand here are the things we think we don't understand .,saying here's what we think we understand here are the things we think we don't understand .,s^e:s,s^e:s
+Bed010-c2_3040470_3043130,and that we as a group will try to - to finish it .,and that we as a group will try to - to finish it .,s^cc,s^cc
+Bed010-c2_3043210_3046590,what i'd like to do is shoot f- - for finishing all this next monday .,what i'd like to do is shoot f- - for finishing all this next monday .,s^cs,s^cs
+Bed010-c9_3043560_3043780,sure .,sure .,s^aa,s^aa
+Bed010-c2_3047180_3047410,okay ?,o_k ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c2_3047410_3048830,uh | these are the decisions ==,uh | these are the decisions ==,fh|s.%--,fh|s.%--
+Bed010-c2_3049210_3051460,i don't think we're going to get lots more information .,i don't think we're gonna get lots more information .,s,s
+Bed010-c2_3051460_3052450,it's a design problem .,it's a design problem .,s,s
+Bed010-c1_3052740_3053100,uhhuh .,mm-hmm .,b,b
+Bed010-c9_3053280_3053490,yeah .,yeah .,b,b
+Bed010-c2_3053440_3054170,you know we ==,you know we ==,%--,%--
+Bed010-c2_3054980_3055090,yeah .,yeah .,h,h
+Bed010-c2_3055240_3061680,and let's come up with a first cut at what this should look like and then finish it up .,and let's come up with a first cut at what this should look like and then finish it up .,s^co,s^co
+Bed010-c1_3060570_3060790,okay .,o_k .,b,b
+Bed010-c2_3061680_3062470,does that so- - make sense ?,does that so- - make sense ?,qy^rt,qy^rt
+Bed010-c1_3065120_3065280,okay .,o_k .,s^aa,s^aa
+Bed010-c4_3065490_3072950,and um - | the - the sem- - semester will be over next week but then you have projects for one more week to come ?,and um - | the - the sem- - semester will be over next week but then you have projects for one more week to come ?,fh|qy^bu^d^rt,fh|qy^bu^d^rt
+Bed010-c9_3073090_3076570,no | i - i think i'll be done - everything by this uh - by the end of this week .,no | i - i think i'll be done - everything by this uh - by the end of this week .,s^ar|s,s^ar|s
+Bed010-c4_3077400_3077930,same with you ?,same with you ?,qy^d^rt,qy^d^rt
+Bed010-c4_3077930_3078230,no .,no .,s^ar,s^ar
+Bed010-c3_3079310_3079930,nnn ==,nnn ==,fh,fh
+Bed010-c3_3079930_3086370,this - well i've - i have projects but then the - my prof- - professor of one of my classes also wa- - has a final that he's giving us .,this - well i've - i have projects but then the - my prof- - professor of one of my classes also wa- - has a final that he's giving us .,s,s
+Bed010-c3_3086370_3089440,and he's giving us five days to do it which means it going to be hard .,and he's giving us five days to do it Bdb001.dadb Bdb001.out Bdb001.trans Bed002.dadb Bed002.out Bed002.trans Bed003.dadb Bed003.out Bed003.trans Bed004.dadb Bed004.out Bed004.trans Bed005.dadb Bed005.out Bed005.trans Bed006.dadb Bed006.out Bed006.trans Bed008.dadb Bed008.out Bed008.trans Bed009.dadb Bed009.out Bed009.trans Bed010.dadb Bed010.out Bed010.trans Bed011.dadb Bed011.trans Bed012.dadb Bed012.trans Bed013.dadb Bed013.trans Bed014.dadb Bed014.trans Bed015.dadb Bed015.trans Bed016.dadb Bed016.trans Bed017.dadb Bed017.trans Bmr001.dadb Bmr001.trans Bmr002.dadb Bmr002.trans Bmr003.dadb Bmr003.trans Bmr005.dadb Bmr005.trans Bmr006.dadb Bmr006.trans Bmr007.dadb Bmr007.trans Bmr008.dadb Bmr008.trans Bmr009.dadb Bmr009.trans Bmr010.dadb Bmr010.trans Bmr011.dadb Bmr011.trans Bmr012.dadb Bmr012.trans Bmr013.dadb Bmr013.trans Bmr014.dadb Bmr014.trans Bmr015.dadb Bmr015.trans Bmr016.dadb Bmr016.trans Bmr018.dadb Bmr018.trans Bmr019.dadb Bmr019.trans Bmr020.dadb Bmr020.trans Bmr021.dadb Bmr021.trans Bmr022.dadb Bmr022.trans Bmr023.dadb Bmr023.trans Bmr024.dadb Bmr024.trans Bmr025.dadb Bmr025.trans Bmr026.dadb Bmr026.trans Bmr027.dadb Bmr027.trans Bmr028.dadb Bmr028.trans Bmr029.dadb Bmr029.trans Bmr030.dadb Bmr030.trans Bmr031.dadb Bmr031.trans Bns001.dadb Bns001.trans Bns002.dadb Bns002.trans Bns003.dadb Bns003.trans Bro003.dadb Bro003.trans Bro004.dadb Bro004.trans Bro005.dadb Bro005.trans Bro007.dadb Bro007.trans Bro008.dadb Bro008.trans Bro010.dadb Bro010.trans Bro011.dadb Bro011.trans Bro012.dadb Bro012.trans Bro013.dadb Bro013.trans Bro014.dadb Bro014.trans Bro015.dadb Bro015.trans Bro016.dadb Bro016.trans Bro017.dadb Bro017.trans Bro018.dadb Bro018.trans Bro019.dadb Bro019.trans Bro021.dadb Bro021.trans Bro022.dadb Bro022.trans Bro023.dadb Bro023.trans Bro024.dadb Bro024.trans Bro025.dadb Bro025.trans Bro026.dadb Bro026.trans Bro027.dadb Bro027.trans Bro028.dadb Bro028.trans Bsr001.dadb Bsr001.trans Btr001.dadb Btr001.trans Btr002.dadb Btr002.trans Buw001.dadb Buw001.trans scr.sh which means it going to be hard .,s,s
+Bed010-c2_3089900_3090060,yeah .,yeah .,s^aa,s^aa
+Bed010-c1_3090010_3090310,yeah .,yeah .,s^aa,s^aa
+Bed010-c2_3090350_3091170,oh is it a take home final ?,oh is it a take-home final ?,qy^bu^rt,qy^bu^rt
+Bed010-c3_3091160_3091390,yeah .,yeah .,s^aa,s^aa
+Bed010-c2_3091170_3091710,who's doing this ?,who's doing this ?,qw,qw
+Bed010-c3_3091940_3093180,aikin alex yeah .,aikin alex yeah .,s,s
+Bed010-c2_3092480_3092980,yeah figured .,yeah figured .,s^bk,s^bk
+Bed010-c2_3092980_3094030,that would have been i- - my guess .,that would have been i- - my guess .,s,s
+Bed010-c9_3093060_3093720,huh .,hmm .,b,b
+Bed010-c2_3095220_3095450,right .,right .,fh,fh
+Bed010-c2_3096250_3098130,um | but anyway yeah .,um | but anyway yeah .,fh|s,fh|s
+Bed010-c1_3099410_3099930,pretty soon .,pretty soon .,s,s
+Bed010-c4_3100010_3100120,okay .,o_k .,b,b
+Bed010-c2_3100850_3101820,okay | so i guess that's ==,o_k | so i guess that's ==,fh|s.%-,fh|s.%-
+Bed010-c3_3101020_3104740,so the seventeenth will definitely be the last day like it or not for me .,so the seventeenth will definitely be the last day like it or not for me .,s,s
+Bed010-c2_3104550_3104840,right .,right .,b,b
+Bed010-c2_3105480_3105740,right .,right .,b,b
+Bed010-c2_3106450_3107530,so let's do this .,so let's do this .,s^co,s^co
+Bed010-c2_3107530_3109810,and then we- - we- - well there's going to be some separate co- ==,and then we- - we- - well there's gonna be some separate co- ==,s.%--,s.%--
+Bed010-c2_3109810_3110830,these guys are talking .,these guys are talking .,s,s
+Bed010-c2_3111350_3113350,uh - | we have a group on the formalization .,uh - | we have a group on the formalization .,fh|s,fh|s
+Bed010-c2_3113390_3116720,uh - | nancy and johno and i are going to talk about parsers .,uh - | nancy and johno and i are gonna talk about parsers .,fh|s,fh|s
+Bed010-c2_3116920_3119320,so there're various kinds of uh ==,so there're various kinds of uh ==,s.%--,s.%--
+Bed010-c1_3118040_3118230,okay .,o_k .,b,b
+Bed010-c2_3119620_3122440,of course nothing gets done even in a meeting of seven people .,of course nothing gets done even in a meeting of seven people .,s,s
+Bed010-c2_3122440_3122690,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c2_3122690_3128580,so um - | two or three people is the size in which actual work gets done .,so um - | two or three people is the size in which actual work gets done .,fh|s,fh|s
+Bed010-c1_3122710_3122850,right .,right .,b,b
+Bed010-c4_3122990_3123330,huh .,mmm .,b,b
+Bed010-c1_3128970_3129160,yeah .,yeah .,s^aa,s^aa
+Bed010-c2_3130380_3131310,so we'll do that .,so we'll do that .,s^cc,s^cc
+Bed010-c2_3132750_3132940,great .,great .,fh,fh
+Bed010-c2_3133100_3137930,oh the other thing we want to do is catch up with uh - ellen and see what she's doing .,oh the other thing we wanna do is catch up with uh - ellen and see what she's doing .,s^t,s^t
+Bed010-c2_3137930_3146700,because the um - image schemas are going to be um - an important pa- ==,because the um - image schemas are going to be um - an important pa- ==,s^df.%--,s^df.%--
+Bed010-c1_3141880_3142090,yeah .,yeah .,b,b
+Bed010-c1_3145680_3146560,quite relevant yeah .,quite relevant yeah .,s^2,s^2
+Bed010-c2_3146700_3147550,we - we want those .,we - we want those .,s,s
+Bed010-c2_3147550_3147800,right ?,right ?,qy^d^g^rt,qy^d^g^rt
+Bed010-c1_3147670_3147900,yeah .,yeah .,b,b
+Bed010-c2_3147930_3149770,and we want them formalized and stuff like that .,and we want them formalized and stuff like that .,s,s
+Bed010-c1_3148020_3148300,oh yeah .,oh yeah .,s^aa,s^aa
+Bed010-c1_3149800_3150050,yeah .,yeah .,b,b
+Bed010-c2_3150540_3151920,so let me - let me make a note to do that .,so let me - let me make a note to do that .,s^co,s^co
+Bed010-c1_3151990_3152220,okay .,o_k .,fg,fg
+Bed010-c1_3153010_3162660,yeah i'm actually probably going to be in contact with her uh - pretty soon anyway because of various of us students were going to have a reading group about precisely that sort of thing over the summer .,yeah i'm actually probably going to be in contact with her uh - pretty soon anyway because of various of us students were going to have a reading group about precisely that sort of thing over the summer .,s,s
+Bed010-c3_3160780_3160930,okay .,o_k .,s^bk^t3,s^bk^t3
+Bed010-c2_3161530_3162120,oh right .,oh right .,s^aa,s^aa
+Bed010-c2_3162120_3162620,right right right .,right right right .,s^aa^r,s^aa^r
+Bed010-c2_3162620_3163150,that's great .,that's great .,s^ba,s^ba
+Bed010-c1_3162660_3162880,so ==,so ==,fh.%,fh.%
+Bed010-c2_3163510_3166880,yeah i - i - shweta mentioned that although she said it's a secret .,yeah i - i - shweta mentioned that although she said it's a secret .,s,s
+Bed010-c1_3165120_3165440,okay .,o_k .,s^bk,s^bk
+Bed010-c3_3166820_3166990,hi .,hi .,s^t3,s^t3
+Bed010-c1_3167750_3168160,right .,right .,fg,fg
+Bed010-c2_3167780_3169870,th- - the faculty aren't - faculty aren't supposed to know .,th- - the faculty aren't - faculty aren't supposed to know .,s^j,s^j
+Bed010-c1_3168160_3168800,no faculty .,no faculty .,s^2,s^2
+Bed010-c3_3170700_3172220,@reject@ wednesday's much better for me yeah .,{@reject@} wednesday's much better for me yeah .,s^t3,s^t3
+Bed010-c2_3171280_3172120,but um ==,but um ==,fh,fh
+Bed010-c2_3173120_3175000,i'm sufficiently clueless that i count as a ==,i'm sufficiently clueless that i count as a ==,s.%--,s.%--
+Bed010-c1_3174920_3175440,yeah right .,yeah right .,s^aa,s^aa
+Bed010-c1_3176250_3177900,it's as if we didn't tell anyone at all .,it's as if we didn't tell anyone at all .,s,s
+Bed010-c3_3177820_3178100,bhaskara .,bhaskara .,s,s
+Bed010-c1_3178700_3178790,right .,right .,s^bk,s^bk

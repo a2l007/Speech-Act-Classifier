@@ -1,0 +1,467 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3041_1229_1284
+TOPIC#:		348
+DATE:		910610
+TRANSCRIBER:	LAB
+UTT_CODER:		AEE
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:       Both speakers bled through.  Both were somewhat disjointed.
+
+=========================================================================
+  
+
+qw          @A.1 utt1:  {C So } what movies have you seen lately? /  
+
+sd          B.2 utt1:  {D Well, } [ I saw, {F um, } + lately I've seen ] SOAP DISH. /  
+
+bk          A.3 utt1:  Oh. /  
+
+%          B.4 utt1:  Which was a, - /
+sd          B.4 utt2: {C and } that was a lot of fun.  /
+sd          B.4 utt3:  It was kind of a silly little film about soap operas and things. /  
+
+sd          A.5 utt1:  {D Well, }  {D see } that's something I want to see, /  
+
+%          B.6 utt1:  Yeah. /  
+
+sd          A.7 utt1:  that's on my list to see. /  
+
+b          B.8 utt1:  Yeah,  /
+sd          B.8 utt2: [ it was, + it was ] okay.  /
+sd          B.8 utt3: It was [ not, +  {F um, } not ] a wonderful film  /
+sd          B.8 utt4: {C but } [ [ it was, + {E I mean } it was, ] + it was ] cute  but not the biggest laugh I've seen. /  
+
+b          A.9 utt1:  {F Oh, } okay. /  
+
+sd          B.10 utt1:  I saw THELMA AND LOUISE.    
+
+bh          A.11 utt1:  {F Oh, } did you? /  
+
++          B.12 utt1:  A couple of days ago,  and really liked that.  /
+sd          B.12 utt2:  Actually I saw it twice because I <laughter> liked it so much. /  
+
+b          A.13 utt1:  Oh.  /
+sd          A.13 utt2:  {D See } that's also on my list. /  
+
+sd          B.14 utt1:  {C And } [ it's very, + it's really ] disturbing  but a good movie. /  
+
+b^m          A.15 utt1:  A disturbing movie,  /
+qo          A.15 utt2: how do you mean? /  
+
+%          B.16 utt1:  {D Well, } it was, - /
+^h          B.16 utt2: {F um, } <lipsmack> let's see.  /
+%          B.16 utt3: The, {F um, } - /
+sd          B.16 utt4: [ it's, +  it's ] different,  /
+sd          B.16 utt5: [ it's kind of, +  it's  ] an [ action adventure kind of, + {D you know, }  shoot 'em up kind  of ] film. /  
+
+b          A.17 utt1: Right. /  
+
+sd          B.18 utt1:  {C But } it's with women in it instead of men  /
+sv          B.18 utt2: {C so } [ that's kind of a -- +   
+
+bh          A.19 utt1:  A switcheroo, {F huh? } /  
+
++          B.20 utt1:  -- that's kind of a ] twist on the normal thing.  /
+sd          B.20 utt2: {C And } it made me think a lot about, {D you know, } - /
+sv          B.20 utt3: you would applaud Bruce Willis in DIE HARD if he was doing this  /
+sv          B.20 utt4: {C but } you might not be [ so -- +   
+
+b          A.21 utt1:  Right. /  
+
++          B.22 utt1:  -- {D you know, } so ] encouraging,    
+
+x          A.23 utt1:  <Laughter>.   
+
++          B.24 utt1:  of  (( Susan Sarandon and then Gena Davis ))  when they do it. /  
+
+sv          A.25 utt1:  When the shoe is on the other foot and see how it, -/  
+
+sd          B.26 utt1:  {C So, } that was kind of interesting.  /
+%          B.26 utt2:  I've, - /
+sd          B.26 utt3: {C but } I really enjoyed it. /  
+
+b          A.27 utt1:  Oh. /  
+
+%          B.28 utt1:  {C So, } I w-, -/  
+
+sd          A.29 utt1:  {C Because } [ that, +  that ] just reminds me of, {D you know, } {D like } back in school  /
+sd          A.29 utt2: {C and, } {D you know, } the girlfriends just taking off for a day <laughter> or something.    
+
+aa          B.30 utt1:  Yeah,  /
+aa          B.30 utt2: that's kind of what it was. /  
+
++          A.31 utt1:  Just getting in trouble and probably not that much trouble  /
+%          A.31 utt2: {C but, } -/  
+
+b          B.32 utt1:  Right. /  
+
+b          A.33 utt1:  {F um, } yeah. /  
+
+sd          B.34 utt1:  They had started out with that,  /
+sd          B.34 utt2: then they got into lots of trouble. /  
+
+sd          A.35 utt1:  Before we found the shopping malls that's <laughter> what we did. /  
+
+b          B.36 utt1:  Uh-huh. /  
+
+b          A.37 utt1:  <Laughter>  Yeah,  /
+sd          A.37 utt2: {D well, } [ I'll have to put that, + I'll have to keep that ] on my list then. /  
+
+b          B.38 utt1:  Yeah.  /
+sd          B.38 utt2: I also saw that Madonna movie. /  
+
+b          A.39 utt1:  Oh. /  
+
+sd          B.40 utt1:  It's <lipsmack> TRUTH OR DARE  /
+sd          B.40 utt2: {C and } that was pretty scandalous. /  
+
+b^m          A.41 utt1:  Scandalous? /  
+
+ny          B.42 utt1:  Yeah,  /
+sd^e          B.42 utt2: it was kind of, - /
+%          B.42 utt3: yeah,  /
+sv          B.42 utt4: Madonna --   
+
+ba          A.43 utt1:  I can imagine. /  
+
++          B.44 utt1:  -- she's pretty trashy.  /
+sd          B.44 utt2:  {C And so } [ it was, +  it was ] interesting  <laughter>. /  
+
+sv          A.45 utt1:  I guess she does it for the social value of showing you what trash is, {F huh? } /  
+
+b          B.46 utt1:  Righ-,  /
+sd          B.46 utt2: {D well, } I think she kept saying that,  {F uh, }  /
+sd          B.46 utt3: they talked about her,  /
+sd          B.46 utt4: [ it, +  it ] was a film of her concert, {F um, } tour she had taken through [ all, + all  ] around the world.  /
+sd          B.46 utt5:  {C And } they were all  ((   ))  to her at the Vatican city and wouldn't let her perform in Rome,  /
+sd          B.46 utt6: {C and } she,   
+
+b          A.47 utt1:  {F Huh. } /  
+
++          B.48 utt1:  kept saying that her show was not garbage.  /
+sd          B.48 utt2: It had a social message to it  /
+%          B.48 utt3: {C and, } -/  
+
+sv          A.49 utt1:  You just had to find it.  /
+sv          A.49 utt2:  You had to wade through it  and find it <laughter>. /  
+
+aa          B.50 utt1:  Right.  /
+sd          B.50 utt2:  We never quite believed that,  /
+%          B.50 utt3: {C so. } -/  
+
+sv          A.51 utt1:  You never quite <laughter> got to, /  
+
+sv          B.52 utt1:  I thought that was pushing it a little bit  /
+%          B.52 utt2: {C but, }  she  ((   )) , -/  
+
+sv          A.53 utt1:  All I know about that woman is that she's an [ in-, + incredible  ]  (( marketeer )) <laughter>. /  
+
+aa          B.54 utt1:  She is.  /
+sv          B.54 utt2: She's rich <laughter>. /  
+
+aa          A.55 utt1:  Yeah,  /
+aa^m          A.55 utt2: {C  and } she's rich  /
+%          A.55 utt3: {C and } she, - /
+%          A.55 utt4: yeah,  /
+%          A.55 utt5: {C so. } -/  
+
+sv          B.56 utt1:   ((   ))  she's smart at what she does.  /
+sv          B.56 utt2:  She knows how to do that. /  
+
+qy^g          A.57 utt1:  She knows how to twist this around, {F huh? } /  
+
+ny          B.58 utt1:  Yeah.  /
+qo          B.58 utt2: What did you think about DANCES WITH WOLVES when you saw it? /  
+
+b          A.59 utt1:  {D Well, } okay,  /
+sd          A.59 utt2: {D see, } we're getting back to last year.  /
+sd          A.59 utt3:  That's probably the last <laughter> movie I saw.  {F Um, }  DANCES WITH WOLVES,  /
+sd          A.59 utt4: I just adored it. /  
+
+bh          B.60 utt1:  Really? /  
+
+^h          A.61 utt1:  How can I tell you.  /
+sd          A.61 utt2: {F Um, }  a couple years ago, I guess, {D well, } maybe ten years ago [ I, + I  ] had read  (( BURY MY HEART AT WOUNDED KNEE ))  /
+sd          A.61 utt3:  {C and,     
+
+b          B.62 utt1:  Uh-huh. /  
+
++          A.63 utt1:  so, } {D you know, } just the general theme of the whole movie was, {F um, } pretty, - /
+sd          A.63 utt2:  {E I mean } I really liked it a lot. /  
+
+b          B.64 utt1:  Right. /  
+
+sv          A.65 utt1:  I mean it was a real consciousness raiser,  I guess.  /
+sv         A.65 utt2: {F Um, }  {C and } I only bring up  (( WOUNDED KNEE ))  because that was what ten years ago you read [ and, +  and ]  understood, {D you know, } about the [ American pop, + Indian population,  ] /  
+
+b          B.66 utt1:  Right. /  
+
+sv          A.67 utt1:  {C and then } everything went away for a couple years, /  
+
+b          B.68 utt1:  Uh-huh. /  
+
+sv          A.69 utt1:  {C and } now it's back again.  /
+sv          A.69 utt2:  {C And, } {D you know, } it's sort of a popular view of, {F um, } what happened way back then. /  
+
+b          B.70 utt1:  Right. /  
+
+sv          A.71 utt1:  Of course, no one will ever know.  /
+h          A.71 utt2:  Really I don't kn-, -/  
+
+aa          B.72 utt1:  I know,  /
+%          B.72 utt2: I was,  /
+qh          B.72 utt3: I wondered if, {F uh, } [ the tribes that they represented + the tribe that was ] [ the, + the ] evil tribe,  if they were really as bad as it made them to be. /  
+
+no          A.73 utt1:  {D Well, } who knows.  /
+sd          A.73 utt2:  {E I mean } [ [ it, +  it, ] + it ] sort of showed {D like } two different types of tribes  /
+sd          A.73 utt3: {D like } one was a warring tribe,  /
+sd          A.73 utt4: {C and } the other one was, {F uh, } vegetarian kind of, {D you know, } feel good tribe.    
+
+b          B.74 utt1:  Right <laughter>. /  
+
++          A.75 utt1:  {D You know, } sort of thing,  /
+sv          A.75 utt2: {C so } there possibly were because you know you always have conflict in the world. /  
+
+b          B.76 utt1: Uh-huh. /  
+
+sv          A.77 utt1:  Nobody can get along peacefully <laughter>. /  
+
+aa          B.78 utt1:  Yeah,  /
+%          B.78 utt2: {C but } I wonder  /
+%          B.78 utt3: I thought the-, - /
+sv          B.78 utt4: {C because } they made a big deal about how [ this, +  this ] film was such a big leap for [ the, + the  ] people [ who, +  who ] were the ancestors of [ the, + this  ] Indian tribe  /
+sv          B.78 utt5: {C and } [ that, +  {D you know, } that ] was so wonderful that they done that  /
+qh          B.78 utt6: {C and } [ they, + {F uh, } {F uh, } I ] wonder how the ancestors of this warlike tribe if they were offended by the film, -/  
+
+b          A.79 utt1:  {F Oh, } I see. /  
+
+%          B.80 utt1:  if it, - /
+sv          B.80 utt2: {D you know, } you didn't,   
+
+b          A.81 utt1:  Yeah. /  
+
++          B.82 utt1:  hear any press about that. /  
+
+b          A.83 utt1:  {F Huh. } /  
+
+sv          B.84 utt1: I thought it was a very interesting movie. /  
+
+aa          A.85 utt1:  {D Well, } I think so.  /
+sd          A.85 utt2: [ I, +  {F um, } I ] have come to respect a little bit more [ the, + ] {F uh, } {D you know, } what went on here, /  
+
+b          B.86 utt1:  Right. /  
+
+qh          A.87 utt1:  [ {C but, } + {C but } ] who knows how it's supposed to all end <laughter>. /  
+
+aa          B.88 utt1:  Uh-huh <laughter>.  /
+aa          B.88 utt2: Right. /  
+
+sv          A.89 utt1:  {D You know } [ on the, +  on the ] broad scope {E I mean, } <lipsmack> {F um, }  {D like }  if, {F uh, }  [ [ it, + it, ] + it ] had a much bigger thing  I thin-, - /
+%          A.89 utt2: meaning to me - /
+sv          A.89 utt3: I think about, {D you know, } just the meaning of, {F um, } the freedom of this country  [ and, + and  ] what that really meant. /  
+
+b          B.90 utt1:  Right. /  
+
+sv          A.91 utt1:  {C And } that was taking over somebody else's freedoms.    
+
+b          B.92 utt1:  Uh-huh. /  
+
++          A.93 utt1:  And sort of trampling that  /
+sv          A.93 utt2: [ {C and, } +   {F uh, } {C so }  ] {D you know } [ it, + it ]  meant something bigger I think.  /
+sv          A.93 utt3: {C But } still it was a fantas-, - /
+sd          A.93 utt4: I loved the buffalo scene.  /
+sv          A.93 utt5: {C And } I thought Kevin Costner was just, - /
+sv          A.93 utt6: I got a little sick of his mug on the screen every,     
+
+aa          B.94 utt1:  I know the <laughter>, -/  
+
++          A.95 utt1:  three minutes,  /
+sd          A.95 utt2: {C but } he's the director, {D you know. }  /
+%          A.95 utt3:  {F Um, }   {C but, }  yeah,  /
+sv          A.95 utt4: [ I, +  I ] just thought it was a really interesting, intense film. /  
+
+ba          B.96 utt1:  {D Well, } that's good. /  
+
+sv          A.97 utt1:  Intense I think is the word for it because three hours went by really fast. /  
+
+ba          B.98 utt1: [ [ [ That was, + that was, ] + it was, ] + it was ] good.  /
+sd          B.98 utt2:  I looked at my watch only a few times,   
+
+b          A.99 utt1:  Yeah. /  
+
++          B.100 utt1:  which is a good thing. /  
+
+sd          A.101 utt1:  Ate a lot of popcorn. /  
+
+sd          B.102 utt1:  {C But } [ it put me in a really, + it put me in a really ]  bad mood,  /
+sd          B.102 utt2: I don't know why. /  
+
+bh          A.103 utt1:  Did it really? /  
+
+ny          B.104 utt1:  Yeah,  /
+%          B.104 utt2: we di-, - /
+sd^e          B.104 utt3: there were three of us who went.  /
+sd          B.104 utt4:   We were just all [ grou-, + really grouchy ] when it was over. /  
+
+b          A.105 utt1:  {F Huh. } /  
+
+sd          B.106 utt1:  {C So } we decided that may be the mark of a good film.  /
+sd          B.106 utt2: It made us think.  /
+%          B.106 utt3: {C And  so, } -/  
+
+bf          A.107 utt1:  It made you think. /  
+
+sd          B.108 utt1:  we were grouchy.  /
+sd          B.108 utt2: We felt guilty for being, -/  
+
+sv          A.109 utt1: [ Maybe i-, + {D well, } maybe that ] was, {F um, } -/  
+
+x          B.110 utt1:  <Laughter>.   
+
+sv          A.111 utt1:  {C but } there are no answers, {D you know. } /  
+
+aa          B.112 utt1:  I know  /
+sd          B.112 utt2: {C and } [ we, +  we ] had <laughter>, nothing to do with it. /  
+
+sv          A.113 utt1:  [ That, +  that ] can make you crabby,  yes. /  
+
+sd          B.114 utt1:  We were not responsible, /  
+
+x          A.115 utt1:  <Laughter>.   
+
+sd          B.116 utt1:  {C but } we still felt the thick blame for,   
+
+aa          A.117 utt1:  Really,  /
+aa          A.117 utt2: that's true. /  
+
++          B.118 utt1:  what had gone on.  /
+%          B.118 utt2:  We could have, -/  
+
+%          A.119 utt1:  {C But }  [ it, + it's, ] - /
+sv          A.119 utt2: they sort of candy coated the western story for many years, /  
+
+b          B.120 utt1:  Right. /  
+
+sv          A.121 utt1:  {C and, }  {F um, } {D you know, } when the truth, {F oh, } {D well, } - /
+sv          A.121 utt2: it always balances out one way or the other --   
+
+b          B.122 utt1:  Uh-huh. /  
+
++          A.123 utt1:  -- once you get the whole story  /
+%          A.123 utt2: {C but, } -/  
+
+b          B.124 utt1:  Yeah. /  
+
+qy@          A.125 utt1:  Have you seen any other movies?    
+
+%          B.126 utt1:  {D Well, } -/  
+
++@          A.127 utt1:  Because you sound like you see a lot. /  
+
+aa          B.128 utt1:  Righ-,  /
+aa          B.128 utt2: I do.  /
+sd          B.128 utt3:  I'm just out of school  /
+sd          B.128 utt4: {C so } I've seen,   
+
+bk          A.129 utt1:  {F Oh, } okay. /  
+
++          B.130 utt1:  a lot of mo-, - /
+sd          B.130 utt2: <laughter> don't have a job  /
+sd          B.130 utt3: {C so } I  (( shouldn't ))  go see movies all the time. /  
+
+ba          A.131 utt1:  {F Oh, } there you go <laughter>. /  
+
+sd          B.132 utt1:  {F Um, } I rented a good movie, {F um, } called CINEMA  (( PARADESO ))  --   
+
+b          A.133 utt1:  Oh. /  
+
++          B.134 utt1:  -- which is an Italian movie --   
+
+b          A.135 utt1:  Oh. /  
+
++          B.136 utt1:  -- which is probably the best movie I've seen ever.  /
+sd          B.136 utt2:  It was just,   
+
+bh          A.137 utt1:  Really? /  
+
++          B.138 utt1:  wonderful.  /
+sd          B.138 utt2:  It's, uh, story about a little boy in  [ a Italian, +  a little Italian ] village,  /
+sd          B.138 utt3: {C and } he, {F um, } owns a, {F um, } - /
+sd          B.138 utt4:  {C or } he works in [ a, +  a ] movie [ th-, +  theater ] {C and } [ it w-, + it helps ] the projectionist.  /
+sd          B.138 utt5:  There's [ a little, +  {F oh, } an old ] man who's the projectionist  /
+sd          B.138 utt6: {C and } he befriends this old man,  /
+sd          B.138 utt7:  {C and then } it just tells about their friendship that lasts through all these years. /  
+
+b          A.139 utt1:  Oh. /  
+
+%          B.140 utt1:  {C And } it's just, - /
+sd          B.140 utt2: {E I mean, } if you don't mind reading subtitles, - /
+sd          B.140 utt3: I thought I had to kind of get beyond that. /  
+
+x          A.141 utt1:  <Laughter>.   
+
+sd          B.142 utt1:  Those little, {D you know, } - /
+sd          B.142 utt2: reading the little words at the bottom  of the screen - /
+sd          B.142 utt3: {C but, }  {F um, } {F oh, } I just laughed and cried  /
+sd         B.142 utt4: {C and, }   
+
+sd          A.143 utt1:  {F Oh, } I'll have to write that down. /  
+
++          B.144 utt1:  I really loved it.  /
+sd          B.144 utt2:  That was [ a, +  a ] great one. /  
+
+ba          A.145 utt1:  Wow. /  
+
+%          B.146 utt1:  {C And } other than that I, -/  
+
+sd          A.147 utt1:  <<Very faint>> I'll have to write that,  /
+qy          A.147 utt2: [ [ have you, +  have, ] +  did ] you  see TEXASVILLE?  /
+qy          A.147 utt3: Are you into,   
+
+nn^e          B.148 utt1:  No, [ I  had-, +    
+
++          A.149 utt1:  Larry McMurtry? /  
+
++          B.150 utt1:  I hadn't. ]  /
+sd          B.150 utt2:  I had read, {F um, } THE LAST PICTURE SHOW  /
+sd          B.150 utt3: [ {C and } +  {C but } ] that's out on video now  /
+sd          B.150 utt4: {C and } I haven't seen it.  /
+sd          B.150 utt5:  {C But } I was interested in reading TEXASVILLE before I saw the movie. /  
+
+b          A.151 utt1:  Yeah. /  
+
+qy          B.152 utt1:  Did you like it? /  
+
+sd          A.153 utt1:  {F Um, } [ I, +  I ] read a lot of Larry McMurtry books -- /  
+
+b          B.154 utt1:  Right. /  
+
+sd          A.155 utt1:  -- {C and } TEXASVILLE is just like that.  /
+sd          A.155 utt2: It's {D like } very peculiar circumstances  --   
+
+b          B.156 utt1:  Uh-huh. /  
+
++          A.157 utt1:  -- and very peculiar things that people do with each other  /
+%          A.157 utt2:  [ it's, + it's,  ]  {D you know, } - /
+%          A.157 utt3: {C and } it's just sort of a, -/ 

@@ -1,0 +1,337 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3007_1022_1149
+TOPIC#:		351
+DATE:		910604
+TRANSCRIBER:	LAB
+UTT_CODER:      lsh
+DIFFICULTY:	2
+TOPICALITY:	2
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+%          A.1 utt1:  Okay,  /
+qy          A.1 utt2: do you have any pets? /  
+
+ny          @B.2 utt1:  Yes,  /
+sd^e           @B.2 utt2: [ I've had, + I have had ] a number of them  in my lifetime  /
+%          @B.2 utt3: {C and } I've, - /
+sd          @B.2 utt4: I am a Golden retriever fan, /  
+
+b          A.3 utt1:  Oh. /  
+
+sd           B.4 utt1:  {C but } I had to replace it with something that the kids could carry. /  
+
+b          A.5 utt1:  Oh <laughter>. /  
+
+b          B.6 utt1:  Yes.  /
+b^r          B.6 utt2: Yes. /  
+
+bf          A.7 utt1:  Instead of being carried <laughter>. /  
+
+aa          B.8 utt1:  Yes,  /
+sd          B.8 utt2: {D well, } they were, - /
+sd          B.8 utt3: they really wanted  something teeny tiny,  /
+sd           B.8 utt4: {C and } I, {F uh, } really wanted that retriever's disposition.    
+
+b          A.9 utt1:  Yeah. /  
+
++           B.10 utt1:  {F Uh, } the ultimate to tolerant, trainable disposition, /  
+
+b          A.11 utt1:  Really. /  
+
+sd           B.12 utt1:  {C so } I called <breathing> four or five dog trainers  because I don't like  the little dogs. /  
+
+b          A.13 utt1:  Uh-huh. /  
+
+sd(^q)       B.14 utt1:  [ {C And, } + {C and } ] I asked them, {D you know, } these are the ages of the kids, what do I get. /
+sd(^q)       B.14 utt2: {C And } they all said, Golden Retriever  /
+sd(^q)          B.14 utt3:  {C and } I said okay,   
+
+x          A.15 utt1:  <Laughter>.   
+
++          B.16 utt1:  put it under twenty pounds.  /
+sd           B.16 utt2:  {C And } the only thing  that they could come up with was a Bichon Frize which is a, -/  
+
+b          A.17 utt1:  Huh. /  
+
+qy          B.18 utt1:  Do you know what that is? /  
+
+ny          A.19 utt1:  Yes,  /
+sd^e          A.19 utt2: I've seen those.  /
+sv          A.19 utt3:  They're cute. /  
+
+sv^m          B.20 utt1:  They're cute.  /
+sv          B.20 utt2: They look like an air headed  ((   ))   let me tell you. - /
+sv           B.20 utt3: They're calm, they're not  (( yuppie )) , they're trainable, they're, {F uh, } very personable in a different way that a Golden Retriever is.  /
+sv          B.20 utt4:  They're not dignified like a retriever can be. /  
+
+b          A.21 utt1:  Uh-huh. /  
+
+b          B.22 utt1:  Yeah.  /
+qw          B.22 utt2:  {C So } how old is your retriever? /  
+
+sd          A.23 utt1:  {F Oh, } she's about four.  /
+sd          A.23 utt2: She's not completely pure.  /
+sd           A.23 utt3:   We got her from the, {F uh, } Humane Society when she was a puppy.  /
+sd          A.23 utt4:  She looks like  a Gol-, - /
+sd          A.23 utt5: she looks just like a Golden Retriever,  /
+sd          A.23 utt6: {C but } she's a little bit smaller.  /
+sd          A.23 utt7:  She's like fifty-five pounds. /  
+
+sd           B.24 utt1:  {D Well, } {D actually, } {D you know, } that's the breed standard for females.  /
+%          B.24 utt2:  What you, -/  
+
+qy          A.25 utt1:  Is it? /  
+
+ny          B.26 utt1:  yeah,  /
+sd^e         B.26 utt2: what you see shown and bred now as Golden  Retrievers, this, {D you know, } plus eighty to a hundred pound range./  
+
+b          A.27 utt1:  Uh-huh. /  
+
+sd          B.28 utt1:  That is not breed standard. /  
+
+b          A.29 utt1:  Huh. /  
+
+sd          B.30 utt1:  Fifty-five is the minimum  /
+sd          B.30 utt2: {C but } they usually run about sixty to sixty-five.  /
+sd           B.30 utt3: {C And } the ones that are shown, they are inside that weight allowance. /  
+
+b          A.31 utt1:  Uh-huh. /  
+
+sd           B.32 utt1:  You cannot show your retriever if it's, {D you know, }  a hundred plus pounds. /  
+
+b          A.33 utt1:  {F Oh, } huh. /  
+
+ad          B.34 utt1:  {C So } don't say she's small,   
+
+b          A.35 utt1:  Yeah. /  
+
++          B.36 utt1:  just say she's perfect. /  
+
+b^m          A.37 utt1:  She's perfect.  /
+sd           A.37 utt2:  {D Well, } she's got a brown nose instead of black too. /  
+
+b          B.38 utt1:  Uh-huh. /  
+
+sd          A.39 utt1:  Which makes her, I guess, unshowable,   
+
+aa          B.40 utt1:  Yep. /  
+
++          A.41 utt1:  even if she had papers which she doesn't  /
+sd          A.41 utt2:  [ {C but, } + {C but } ]  we love her anyway.  /
+sd          A.41 utt3: She's just a lot of company to us.  /
+%          A.41 utt4: We didn't, - /
+sd          A.41 utt5:  we haven't had any kids  /
+sd          A.41 utt6: {C and } we're expecting a baby this summer,  /
+sd          A.41 utt7: {C but } up until then,  she's been our substitute kid  /
+sd          A.41 utt8: {C and } she was a lot of fun. /  
+
+sd           B.42 utt1:  {D Well, } [ they are, + they are ] the ultimate dog to  have around kids so long as your kid is not scared of a big dog,   
+
+b          A.43 utt1:  Right. /  
+
++           B.44 utt1:  because I had a retriever, actually I had a retriever  Irish Setter cross.    
+
+b          A.45 utt1:  Oh. /  
+
++          B.46 utt1:  Which is a really nice animal  /
+sd          B.46 utt2: {C and } fortunately it  was just like a retriever  /
+sd          B.46 utt3: {C and then } I've had a retriever. /  
+
+sd          A.47 utt1:  I bet it had a pretty coat too. /  
+
+sd          B.48 utt1:  It was gorgeous.  /
+sd^r          B.48 utt2: It was just gorgeous.    {E I mean } just gorgeous. /
+sd          B.48 utt3: {F Um, } {C and } they both, {D you know, } - /
+sd           B.48 utt4: both the half breed and the pure breed  had [ the, + ] {F uh, } what I consider [ the, + the, ] the perfect disposition.  /
+qh          B.48 utt5:   {C But } [ you know what, + you know what ] scares me about Golden Retrievers? /  
+
+o@          A.49 utt1:  Huh-uh.   *[[ slash error ]]  
+
+sd           B.50 utt1:  Since they've become so popular you get what I call backyard breeders.   
+
++@          A.51 utt1:  Yeah. /  *[[ slash error ]]  
+
++           B.52 utt1:  Which is probably where yours came from.   People that don't know what they're doing, and they breed them, {D you know, } for a certain characteristic.  /
+sd           B.52 utt2: {C And } in the retrievers it happens to be they like them big,  for somehow big is perceived as the better.  /
+sd           B.52 utt3: {C And } when you start doing  that you really tamper with, {D you know, } [ the, + ] all [ the, + the ]  years of, {F uh, } culling litters  /
+sd          B.52 utt4: [ {C and, } + {C and, } ] {F uh, } you tamper with what the dog innately is. /  
+
+b          A.53 utt1:  Yeah. /  
+
+%          B.54 utt1:  We w-, - /
+%          B.54 utt2: when I was, - /
+sd           B.54 utt3: when I bought my last purebred retriever {E I mean } I looked all over because I wanted one that still looked like a retriever,  {D you know, } the short to the ground, stocky, golden, {F uh, }  trainable, tractable, quiet --   
+
+b          A.55 utt1:  Right. /  
+
++          B.56 utt1:  -- animal that could hunt and still be in the house.  /
+sd           B.56 utt2:  {C And } I ended up getting one that, {F uh, } came out of [ [ a, + a, ] + a ]  hunting stock --   
+
+b          A.57 utt1:  Oh. /  
+
++           B.58 utt1:  -- because I wanted one that could still  perform like a retriever did.  /
+sd           B.58 utt2:  {C And } I've seen an awful lot of <whispering> lately really [ dumb, +   
+
+x          A.59 utt1:  <Laughter>.   
+
++          B.60 utt1:  dumb ] retrievers  /
+sd           B.60 utt2: {C and } I'm, {C and } I really fear for the breed because I love that breed, /  
+
+b          A.61 utt1:  Yeah. /  
+
+sd           B.62 utt1:  {C but } I really figure right when it becomes really popular that it's <breathing> going to be ruined. /  
+
+sd           A.63 utt1:  We have some friends with a brother and sister Golden retriever  /
+sd          A.63 utt2: {C and } those dogs have been having seizures,  /
+sd           A.63 utt3: {C and } I wonder since both of them are having them if it's some kind of breeding --   
+
+aa          B.64 utt1:  {F Oh, } yeah. /  
+
++          A.65 utt1:  -- problem. /  
+
+aa          B.66 utt1:  You bet you.  /
+aa^r          B.66 utt2: You bet you.  /
+qy^d           B.66 utt3:  You know how they came up with the retriever, don't you, the Golden? /  
+
+nn          A.67 utt1:  Huh-uh. /  
+
+sd          B.68 utt1:  It was bred out of several different retrievers,  /
+sd           B.68 utt2:  {C and } they bred it for companionship and, {F uh, } {F uh, } disposition [ and, + and ]  ability to hunt.  /
+sd          B.68 utt3: It was kept only by kings. /  
+
+b          A.69 utt1:  Oh. /  
+
+sd           B.70 utt1:  {C But } they selectively culled those litters, {E I mean, }  for many hundreds of years  /
+sd           B.70 utt2: {C and } since it slept in the castle  with its master,  (( {E I mean } ))  [ it had, + it had ] to be of a disposition <breathing> to make  it, {D you know, } an animal you could keep around that closely.  /
+sd           B.70 utt3:  {C But } they would go  through all the litters and destroy the puppies if they were anything other than perfect.  /
+sd           B.70 utt4:   Now, {D you know, } that seems like a cruel thing to do. /  
+
+b          A.71 utt1:  Yeah. /  
+
+sv           B.72 utt1:  On the other hand, [ you sure, + ] {D you know, } they sure created [ a, + a ] wonderful breed,   
+
+aa          A.73 utt1:  Yeah.  /
+sv          A.73 utt2:  They did. /  
+
++          B.74 utt1:  {E I mean } a wonderful breed. /  
+
+sd           A.75 utt1:  [ I, + I ] had never really had a Golden retriever before.  /
+sd           A.75 utt2:  We were going to get a shepherd and something  mixed because my husband's family had had shepherds  /
+%          A.75 utt3: {C and } all the other, - /
+sd           A.75 utt4: we looked at some of the  shepherd mixes and the puppies weren't very, {F uh, } social and stuff. /  
+
+b          B.76 utt1:  Uh-huh. /  
+
+sd           A.77 utt1:  {C And } we went to a pen of a little bit bigger dogs  /
+sd           A.77 utt2:  {C and } all the others were standing there barking and jumping up and down.  /
+sd           A.77 utt3:  {C And } one dog  would stand there wagging her tail and smiling <laughter>.  /
+sd          A.77 utt4:  {C And } that,   
+
+sd          B.78 utt1:  {D Well, } I tell you,   
+
++          A.79 utt1:  was mine. /  
+
++            B.80 utt1:  {D you know } [ the, + the ] German shepherd is the classic case of what I'm talking about because in America that's called a Rin Tin Tin phenomena. /  
+
+b          A.81 utt1:  Uh-huh. /  
+
+sd           B.82 utt1:  Only in America is there a dog called a German Shepherd. /  
+
+bh          A.83 utt1:  {F Oh, } really? /  
+
+sd           B.84 utt1:  That dog is bred out of three European dogs. The Belgian Tervurien, a German Skutzhund, and a <<speaker makes a grunt>>, I always forget the third one.  I can see it.  /
+%          B.84 utt2: {F Uh, } {F uh, } i-, - /
+sd          B.84 utt3: {C but } the third  one is a children's dog. /  
+
+b          A.85 utt1:  Oh. /  
+
+sd          B.86 utt1:  {C And } there are distinct breeds in Europe.  /
+sd           B.86 utt2:  Now what happened over here was is that people saw [ the, + the ]  first, {F um, } which would actually have been a Skutzhund which is what Rin Tin Tin was. /  
+
+b          A.87 utt1:  Uh-huh. /  
+
+sd          B.88 utt1:  {C And } everybody wanted Rin Tin Tin. /  
+
+x          A.89 utt1:  <Laughter>.   
+
+sd          B.90 utt1: {C And } it was known as a German shepherd here.  /
+sd           B.90 utt2:   {C So } they created a breed standard.  The American Kennel Club did. /  
+
+b          A.91 utt1:  Oh. /  
+
+sd            B.92 utt1:  That said anything that is a Skutzhund, [ a, + a ] Tervurien and, {F uh, } [ Alsatian + {A that's the other one. } Alsatian, ] any inner breeding of that can be called a German shepherd here. /  
+
+b          A.93 utt1:  Huh. /  
+
+sd           B.94 utt1:  {C And } what happened is, is that people wanted this shepherd to shepherd and  protect.  /
+sd           B.94 utt2: {C And } they bred a dog that  [ I th-, + ] it's called  [ a, + ] an animal's critical span which basically translates to how much shit will it  take before it bites you. /  
+
+x          A.95 utt1:  <Laughter>.   
+
+sd           B.96 utt1:  That German shepherd, the American German Shepherd here was [ a, a, a + ] such an unreliable animal that the American Seeing Eye Institute --   
+
+b          A.97 utt1:  Uh-huh. /  
+
++          B.98 utt1:  -- refused to use them,   
+
+b          A.99 utt1:  Huh. /  
+
++           B.100 utt1:  because they would turn [ on th-, + on their ] handlers. /  
+
+b          A.101 utt1:  Uh-huh. /  
+
+sd           B.102 utt1:  {C And } even, {F um, } {F uh, } police corps which started, {D you know, } finding other breeds to use because [ this thing, + [ this, + this ] thing ]  known as a German shepherd here, its personality and its dependability and its reliability  was just terrible.  /
+sd           B.102 utt2:  {C So } about fifteen years ago the German Shepherd  Club of America decided amongst themselves that they were going to change this.  /
+sd           B.102 utt3:   {C So } they went back to Europe and brought back some good examples of each  of the three breeds --   
+
+b          A.103 utt1:  Uh-huh. /  
+
++            B.104 utt1:  -- and bred to a standard what they wanted an American German shepherd to be.  Which is a very heavily now Skutzhund and Alsatian,  /
+sd          B.104 utt2: {C and } it's the Alsatian that's the kid's dog.  /
+%          B.104 utt3: It's just, - /
+sd          B.104 utt4:  you see them in Europe  /
+sv          B.104 utt5: {C and } they're just lovely. /  
+
+b          A.105 utt1:  Huh. /  
+
+sd          B.106 utt1:  {C But } you'll see, - /
+sd(^q)       B.106 utt2: {E I mean, } if you ever start looking in papers now and you start seeing these ads for German Shepherds, they will say on them, bred for disposition, A K C  (( conforming ))  --   
+
+b          A.107 utt1:  Huh. /  
+
++           B.108 utt1:  -- which means that their advertising that this is no longer an indiscriminate dog.  /
+sd          B.108 utt2: This is bred for, - /
+sd           B.108 utt3: {C and } they had to  go through and destroy [ a, + ] for a while there, about seventy-five percent of  their puppies that they bred. /  
+
+ba          A.109 utt1:  Wow. /  
+
+sd           B.110 utt1:  {C Because } they were looking for this disposition.  /
+sd           B.110 utt2:  {C And } nowadays [ [ you, + you'll ] get, + you'll get ] a dog trainer to recommend a specific, {D you know, } breeder handler.  /
+sd           B.110 utt3: They will recommend their  shepherds as a children's dog. /  
+
+b          A.111 utt1:  Huh. /  
+
+%          B.112 utt1:  {C But } ... -/ 

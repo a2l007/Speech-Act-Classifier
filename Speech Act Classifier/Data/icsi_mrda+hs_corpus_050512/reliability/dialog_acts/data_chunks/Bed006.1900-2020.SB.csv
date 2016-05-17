@@ -1,0 +1,51 @@
+1891.27,1894.85,Bed006-cA,s,,,{and} {you} {can} {also} {describe} {them} {in} {a} {general} {way} {as} {source} {path} {goal} {schema} .
+1894.85,1898.1,Bed006-cA,s.%--,,,{and} {maybe} {there's} {other} {image} {schemas} {that} {you} {could} {you} {know} {add} {after} {this} {that} {you} {know} ==
+1898.4,1901.29,Bed006-cA,qh,,,how do they work in terms of you know a force dynamics ?
+1901.29,1902.63,Bed006-cA,qh,,,or how do they work in f- - terms of other things ?
+1901.67,1901.96,Bed006-c2,b,,,{huh} {huh} {huh} {huh} mm-hmm .
+1901.96,1902.27,Bed006-c2,b.%,,,mm-hmm .
+1902.27,1902.6,Bed006-c2,b,,,mm-hmm .
+1902.86,1911.44,Bed006-cA,s,,,so all of those have um - basically f- - either specific - frame specific roles or more general frame specific roles that might have binding .
+1911.44,1916.74,Bed006-cA,s,,,so the question is are - um - how to represent when things are linked in a certain way .
+1916.94,1919.81,Bed006-cA,s,,,so we know for enter that there's container potentially involved .
+1919.81,1922.23,Bed006-cA,s.%--,,,and it's not uh ==
+1922.71,1926.06,Bed006-cA,s,,,i don't know if you wanna have in the same level as the action schema s_p_g schema .
+1926.06,1928.93,Bed006-cA,s,,,it - it's somewhere in there that you need to represent that there is some container .
+1928.93,1933.15,Bed006-cA,s,,,and the interior of it corresponds to some part of the source-path-goal .
+1933.66,1936.87,Bed006-cA,s,,,um - you know goal - uh - goal i guess in this case .
+1937.21,1942.17,Bed006-cA,qy.%--,1a,,so uh - is there an easy way in this notation to show when ?==
+1942.31,1944.25,Bed006-cA,s^df,1a+,,there's identity basically between things .
+1943.46,1943.65,Bed006-c2,b,,,yeah .
+1944.25,1946.41,Bed006-cA,s^rt,1a++,,and i di- - don't know if that's something we need to invent .
+1946.41,1947.17,Bed006-cA,s.%-,1a+++,,or you know just ==
+1946.91,1950.02,Bed006-c1,qy.%--,1b,,the - wa- - wasn't there supposed to be a link in the ?==
+1947.81,1948.26,Bed006-c5,b.%,,,right .
+1951.04,1952.14,Bed006-c1,s^bd,1b,,i don't know if this answers your question .
+1952.14,1953.74,Bed006-c1,s^df,,,i was just staring at this while you were talking .
+1953.74,1954.18,Bed006-c1,s^fa,2a,,sorry .
+1955.09,1955.39,Bed006-cA,s^aa,2b,,it's o_k .
+1955.62,1958.81,Bed006-c1,s.%--,3a,,uh - a link between the action schema ==
+1958.81,1965.66,Bed006-c1,s^rt,3a+,,a field in the s- - in the schema for the image schemas that would link us to which action schema we were supposed to use .
+1965.66,1966.17,Bed006-c1,%-,3a++,,so we could ==
+1965.79,1966.07,Bed006-c2,s^aa,3b,,yeah .
+1967.15,1971.79,Bed006-c2,s.%--,,,um - well that's - that's one - one thing is that we can link up ==
+1972.53,1982.96,Bed006-c2,s,,,think also that um - we can have one or m- - as many as we want links from - from the schema up to the s- - action um - description of it .
+1981.52,1981.78,Bed006-cA,b,,,{uhhuh} .
+1983.45,2003.15,Bed006-c2,s,,,but the notion i got from nancy's idea was that we may f- - find sort of concepts floating around i- - in the a- - action description of the action f- - enter frame up there that are e- - when you talk about the real world actually identical to the goal of the - the s- - source-path-goal schema .
+2001.1,2001.66,Bed006-cA,b,,,exactly .
+2002.27,2003.3,Bed006-cA,b,,,right right .
+2003.62,2006.6,Bed006-c2,qh,,,and do we have means of - of telling it within that ?
+2006.96,2007.24,Bed006-cA,b,,,right .
+2007.01,2008.61,Bed006-c2,s,,,a- - and the answer is absolutely .
+2008.79,2008.95,Bed006-cA,b,,,yeah .
+2009.27,2011.31,Bed006-c2,s^rt,,,the way - we absolutely have those means .
+2011.31,2013.96,Bed006-c2,s^rt,,,that are even part of the m_-three-l_ a_ a_p_i .
+2013.44,2013.79,Bed006-cA,b,,,oh great .
+2013.79,2014.23,Bed006-cA,b,,,s- - uh-huh .
+2014.57,2016.18,Bed006-c2,s,,,meaning we can reference .
+2016.33,2016.89,Bed006-c2,s.%-,,,so meaning ==
+2016.34,2016.58,Bed006-cA,b,,,great .
+2016.79,2019.05,Bed006-cA,s,,,that's exactly what is necessary .
+2018.44,2018.8,Bed006-c1,b,,,yeah .
+2018.45,2018.93,Bed006-c2,fg,,,and um ==
+2018.8,2019.58,Bed006-c1,%-,,,st- ==

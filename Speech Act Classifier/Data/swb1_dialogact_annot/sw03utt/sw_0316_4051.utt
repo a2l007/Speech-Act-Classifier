@@ -1,0 +1,152 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	4051_1307_1001
+TOPIC#:		302
+DATE:		920303
+TRANSCRIBER:	GL
+UTT_CODER:      MMAB
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.    
+
+============================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+ad          A.1 utt2: you want to start? /  
+
+aa          @B.2 utt1:  Yeah,  /
+aa          @B.2 utt2: I might as well.  /
+sd          @B.2 utt3:  {F Uh, } one of the things  I'm very concerned about the air pollution, is  [ [ [ the, + {F uh, } this, ] + this, ] + the ] ozone  layer, {F uh, } {F uh, } issue.  /
+sd          @B.2 utt4:  {F Uh, } I used to own a heating and air conditioning business and handled lots of  [ fre-, +  different types of freons, ]  /
+sd          @B.2 utt5: {C and } that, {F uh, }  rather bothers me that, {F uh, } I was [ in, +  in ] effect, {F uh, } contributing to the delinquency of  [ the, + the ] environment, so to speak. /  
+
+b          A.3 utt1:  Uh-huh.  /
+b          A.3 utt2:  Yeah,  /
+sv          A.3 utt3: that's stuff we never even thought about  three years ago. /  
+
+aa          B.4 utt1:  Right,  /
+aa^r          B.4 utt2: right,  /
+sd          B.4 utt3: {C and } one of the reasons they  fixed up the freons eleven, twelve and thirteen, [ [ in, + in, ] + in ] that area was  because they were inexpensive,  /
+sd          B.4 utt4: {F uh, } they could be made, {F uh, } {D you know, }  inexpensive and lots of it, {F uh, }  /
+sd          B.4 utt5: {C and } in that, [ and + ] its properties were great, {F uh, }   with, {F uh, } the machinery, didn't have to have lots of expensive machinery to,  {F uh, } get your heating and cooling cycles to work. /  
+
+%          A.5 utt1:  {F Um. } /  
+
+%          B.6 utt1:  {C So. } -/  
+
+qy          A.7 utt1:  Have they stopped that practice now? /  
+
+sd          B.8 utt1:  {D Well, } course there's [ a, + a ] <laughter>  tremendous number of [ refrigerators and  fre-, + {E excuse me, } refrigerators and freezers, ]  both commercial and residential, {F uh, } utilizing freon twelve,  /
+sv          B.8 utt2: {C and } of course, the new cars,  I guess starting with [ ni-, + nineteen ] ninety-three will not have  freon twelve in their systems.  /
+sd          B.8 utt3:  {C But, } {F uh, } there's, {D you know, } the ton of after market  machines, and et cetera, et cetera. /  
+
+b          A.9 utt1:  <Throat_clearing>  Yeah. /  
+
+sd          B.10 utt1:  {C And } that's got me very, {D you know, } highly concerned  that, {F uh, } <breathing> that's going to be quite a while before we can, {F uh, }   
+
+x          A.11 utt1:  <Throat_clearing>.   
+
++          B.12 utt1:  undo this.  /
+sv          B.12 utt2:  Now, that could spawn several good  industries and help,   
+
+x          A.13 utt1:  <Throat_clearing>.   
+
++          B.14 utt1:  pull us out of this recession,  /
+sv          B.14 utt2: {C but } you got to have  people that can [ make, +  {D you know, } earn ] a salary to pay for this conversion.  /
+sv          B.14 utt3:  [ {C So, } + {C so } ] I see us in [ a kind, +  somewhat of a ] catch twenty-two [ unless we, + unless the ]  banks or industry  and [ or + ] the government go together [ and, + and ]  come up with a way to, {F uh, } have us as a part of the unemployed society be able to be gainfully employed again converting all this freon twelve stuff into the new nonpolluting, {F uh, } compound. /  
+
+b          A.15 utt1:  {F Oh, } yeah. /  
+
+sv          B.16 utt1: {C Because } as I say, [ there's a, + there's a ] tremen-, - /
+qh          B.16 utt2: {D well, } how many, {F uh, } {F uh, } families own a refrigerator,  /
+qh          B.16 utt3: {C and then } do, you know, that number,  [ and then + ] how many [ a, + a ] freezer separate from --    
+
+b          A.17 utt1:  Uh-huh. /  
+
++          B.18 utt1:  -- and how many people,  especially here in Texas, own cars and trucks with air conditioning. /  
+
+aa          A.19 utt1:  Yeah <laughter>,  /
+aa^r          A.19 utt2: yeah. /  
+
+sv          B.20 utt1:  {E I mean, } [  this is, + [ there,  + there ] are ] people  [ that, + that ] [ make it, + have ] a  thriving business, {F uh, } that do nothing but heating  and air conditioning [ on, + on ] automobiles and trucks,  /
+sv          B.20 utt2: {C and, }  {F uh, } the only reason  I didn't, {F uh, } get into that more, when I [ was, +  had ] my little business,  was because, {F uh, } most of your, {F uh, } air conditioning [ [ in, + in, ] + on ] vehicles tend to be greasy and  dirty to the N-th degree -- /  
+
+b          A.21 utt1:  Uh-huh. /  
+
+%          B.22 utt1:  -- {C and } <laughter> {E I mean, } -/  
+
+x          A.23 utt1:  <Laughter>.   
+
+sd          B.24 utt1:  {C so, } {F uh, } <child> <cough> that's why I [ stayed in, + stayed more [ towar-, + towards, ] ] {F uh, } {F uh, } - /
+sv          B.24 utt2: {C and } that's  a [ pollut-, + polluting ] type deal too, is the excessive, {F um, } {D you know, } {F uh, }  petroleum products in your engine bay and so  forth, and the dirt and grit and those two mixed together  [ with, + with ] water [ and, + ] {F uh, } <noise>  <<sounds like knocking on a door>> really [ make, + {F uh, } make ] a mess. /  
+
+aa          A.25 utt1:  {F Um, } yeah,  /
+aa^r          A.25 utt2: yeah,  /
+sd          A.25 utt3: I hate to see a car going down  the street, or even a truck or bus for that matter, that's putting out a lot of dark --   
+
+b          B.26 utt1:  Uh-huh. /  
+
++          A.27 utt1:  -- smoke,  /
+sv          A.27 utt2: {C and } I know there's a lot of pollutants  we can't even see coming out of --   
+
+b          B.28 utt1:  Right. /  
+
++          A.29 utt1:  -- cars,  /
+sd          A.29 utt2: {C but } [ that, + that ] particular bothers me. /  
+
+sd          B.30 utt1:  {D Well, } [ [ most, + most, ] + most ] of the time when  you see [ bus, +  {F uh, } {D you know, } the busses ] with the diesel --   
+
+b          A.31 utt1:  Uh-huh. /  
+
++          B.32 utt1:  -- [ that's, + {F uh, } those ] are carbon particles,  and carbon dioxide and water vapor, {F uh, }  /
+%          B.32 utt2: {C because } [ when you, + when diesel ] is burned  it's it, - /
+sd          B.32 utt3: {D you know } diesel fuel is burned [ in a, + in the ] diesel engine  /
+sd          B.32 utt4: it's  burned so completely, that you don't have any, {F uh, } nitrous oxides, {F uh, } or oxides of  nitrogen, {F uh, } to, {F uh, } form --   
+
+b          A.33 utt1:  {F Oh. } /  
+
++          B.34 utt1:  -- [ because of, + by virtue of ] the very combustion  process of the diesel engine, because diesel oil [ is, + {F uh, } <laughter> is ] not very  volatile.    
+
+b          A.35 utt1:  Uh-huh. /  
+
++          B.36 utt1:  {D You know, } where gasoline, if you leave a little pail of  gasoline out before long it's gone. /  
+
+b          A.37 utt1:  Yeah. /  
+
+sd          B.38 utt1:  Diesel is going to be around,  because it doesn't evaporate easily,  /
+%          B.38 utt2: {C and } it's got, - /
+sd          B.38 utt3: {D well, } {D you know, } it's latent heat is high,  /
+sd          B.38 utt4: {C but }  it's slow burning [ at, + at, ] {F uh, } normal pressures.  /
+sd          B.38 utt5: That's why your diesel engines have such high compression ratios --   
+
+b          A.39 utt1:  {F Oh, } I see. /  
+
++          B.40 utt1:  -- [ as the, + as the ] air is heated,  {D you know, } by virtue of the compression process to {D like } one to nineteen or nineteen to one --   
+
+b          A.41 utt1:  Uh-huh. /  
+
++          B.42 utt1:  -- ratio -- /  
+
+b          A.43 utt1:  Uh-huh. /  
+
+%          B.44 utt1:  -- {C and  so } if the car sucks in, {F uh, } fifty degrees, -/ 

@@ -1,0 +1,473 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2506_1071_1209
+TOPIC#:		343
+DATE:		910408
+TRANSCRIBER:	LAB
+UTT_CODER:      aabo
+DIFFICULTY:	2
+TOPICALITY:	3
+NATURALNESS:	2
+ECHO_FROM_B:	3
+ECHO_FROM_A:	3
+STATIC_ON_A:	2
+STATIC_ON_B:	2
+BACKGROUND_A:	3
+BACKGROUND_B:	3
+REMARKS:        There was a lot of background noises that could be heard
+mostly when listening to the speakers separately.  It was both a radio and
+someone playing the piano, I believe.
+
+============================================================================
+  
+
+ad          B.1 utt1:  {C So, } tell me about your home. /  
+
+b^m       A.2 utt1:  My home.  /
+aa       A.2 utt2:  All right,  /
+sd          A.2 utt3: my home is about fifteen years old. /  
+
+b          B.3 utt1:  All right. /  
+
+sd          A.4 utt1:  It's a two story house,  /
+sd          A.4 utt2: [ it, + it's ] our first home,  /
+sd          A.4 utt3: {C and } it looks like it's going to be the last,  /
+sd          A.4 utt4: I think we're going to demolish it <laughter>.  /
+sd          A.4 utt5:  We've got two children  /
+%          A.4 utt6: {C and } it's, - /
+sd          A.4 utt7: they have scraped the, {F uh, } plaster off the walls, {D you know, } with riding their little toys through it and stuff.  {D You know, } /  
+
+b          B.5 utt1:  Yes. /  
+
+sd          A.6 utt1:  put dents in the tiles, just multitude of them,  /
+%          A.6 utt2: {E I mean } even places, - /
+sd          A.6 utt3: [ it's, + it's ] past the dent stage,  /
+sd          A.6 utt4: we're talking some of it's been  (( peeled ))  away, {D you know, }  /
+sd          A.6 utt5: I don't know what they, -/  
+
+bf          B.7 utt1:  We talking  ((   )) [ from, + from ] dents in the holes. /  
+
+b          A.8 utt1:  Yeah,  /
+sd^m          A.8 utt2: dents in the  (( hole )) ,  /
+b          A.8 utt3: right. /  
+
+ba          B.9 utt1:  I understand,  /
+sd          B.9 utt2: [  we've got, + I've got ] a daughter. /  
+
+sd          A.10 utt1:  <Breathing> We've got two,  /
+sd          A.10 utt2: one of them's eleven  /
+sd          A.10 utt3: {C and } one of them's seven  /
+sd          A.10 utt4: {C and then } the carpet, {D you know, } - /
+sd          A.10 utt5: we need to replace the carpet.  /
+sd          A.10 utt6:    {E I mean, } it sounds like it's just the pits  /
+sd          A.10 utt7: {C but } it's not all that bad,  (( I guess ))  /
+sd          A.10 utt8: {C but, } {D you know, } they're just real hard on it. /  
+
+sv          B.11 utt1:  Kids are hard on houses. /  
+
+aa          A.12 utt1:  Definitely,  /
+sv          A.12 utt2: I can see why people wait until they get {D like } in high school or  maybe junior high  /
+sv          A.12 utt3: {C and then } they get another one. /  
+
+b          B.13 utt1:  Yeah,  /
+b^r          B.13 utt2: yeah.  /
+sd          B.13 utt3:  {F Uh, } we live in a mobile home  /
+sd          B.13 utt4: {C and } that's probably not typical America  /
+%          B.13 utt5: {C but, } -/  
+
+sd          A.14 utt1:  I know there's a lot of them. /  
+
+%          B.15 utt1:  <Breathing> it's, - /
+sd          B.15 utt2: what we have, - /
+sd          B.15 utt3: it's all we can afford. /  
+
+b          A.16 utt1:  Yeah. /  
+
+sd          B.17 utt1:  {C And, } {F uh, } seems like we're always working on it, as I'm sure,   
+
+sv          A.18 utt1: [ Because they're always, +   
+
++          B.19 utt1:  it is with your house. /  
+
++          A.20 utt1:  because they're always ]  (( ruining ))  something? /  
+
+b          B.21 utt1:  Yeah. /  
+
+qw          A.22 utt1:  How old is your child? /  
+
+sd          B.23 utt1:  Ten,  /
+sd          B.23 utt2: girl. /  
+
+%          A.24 utt1:  {D Well, } -/  
+
+sd          B.25 utt1:  {C So, } {D you know, } just like yours, ours is always, {D you know, } - /
+%          B.25 utt2: we're, - /
+sd          B.25 utt3: something else goes wrong always, {D you know, }  /
+%          B.25 utt4: it's, -/  
+
+qr          A.26 utt1:  Some appliances breaking or something? /  
+
+nn          B.27 utt1:  No,  /
+sd^e          B.27 utt2: appliances, - /
+sd          B.27 utt3: we had a couple plumbing problems,  /
+%          B.27 utt4: we've, {F oh, } - /
+sd          B.27 utt5: who knows, {D you know, } it's always something with homes. /  
+
+qy^d          A.28 utt1:  {C And } you said you were in Colorado Springs? /  
+
+ny          B.29 utt1:  Yes. /  
+
+qy          A.30 utt1:  Are there a lot of trailers around there? /  
+
+ny          B.31 utt1:  Yeah,  /
+sd^e          B.31 utt2: there are there's a big military constituency. /  
+
+qy          A.32 utt1:  {C And } is that what you're in? /  
+
+nn          B.33 utt1:  {F Oh, } no,  /
+nn^r          B.33 utt2: no  /
+sd^e          B.33 utt3: [ I'm, + I ] work for T I. /  
+
+qy^g^t          A.34 utt1:  {D Well, } then that's why you're doing this then, isn't it? /  
+
+ny          B.35 utt1:  {F Oh, } yes. /  
+
+bk          A.36 utt1:  {F Oh, } <laughter> okay,  /
+%          A.36 utt2: {D well, } -/  
+
+qw          B.37 utt1:  What division are you in? /  
+
+sd          A.38 utt1:  I'm not in T I. /  
+
+b          B.39 utt1:  Oh. /  
+
+sd          A.40 utt1:  I had a friend that had a roommate that worked for T I  /
+sd^t          A.40 utt2: {C and } she saw this come up on the computer screen, and ran it off.  And passed it  ((   ))  to the people that were interested. /  
+
+sv^t          B.41 utt1:  It's not a hobby, {D you know, }  /
+sd^t          B.41 utt2: it's something to do.  /
+sd^t          B.41 utt3:  I get to here about Texas again a bit and get to talk to people all over the country,  /
+sd^t          B.41 utt4: you know,  that I've talked to someone in Maryland, I believe it was. /  
+
+sd^t          A.42 utt1:  I know, I've been talking to people in Ohio, and, {F uh, } Virginia, and I think, California. /  
+
+qy^g^t          B.43 utt1:  It's interesting, isn't it? /  
+
+ny          A.44 utt1:  Yeah,  /
+sd^e^t          A.44 utt2: it is. /  
+
+sd^t          B.45 utt1:  {D You know, } the gal I talked to in Maryland, didn't own a car,  /
+sd         B.45 utt2: she's never traveled anywhere,  /
+sd        B.45 utt3: she's never been anywhere,  /
+%          B.45 utt4: she, {D you know, } - /
+sd^t          B.45 utt5: I talked about one of the biggest problems in the United States being our roads,  /
+sd        B.45 utt6: {C and } she didn't understand.  /
+sd          B.45 utt7:  She doesn't drive. /  
+
+qw        A.46 utt1:  How does she get to work? /  
+
+sd         B.47 utt1:  {F Uh, } she, {F uh, } lives on campus,  /
+sd       B.47 utt2: she's a college student.  /
+sd        B.47 utt3:  Buses [ and, + and, ] {F uh, } public transportation. /  
+
+b          A.48 utt1:  Uh-huh.  /
+%          A.48 utt2:  I had a re-, -/  
+
+sd        B.49 utt1:  [ Her, + her ] parents live by the public transportation. /  
+
+sv             A.50 utt1:  {C and } I wish we could down here. /  
+
+aa          B.51 utt1:  {D Well, } it would be nice  /
+qy^g          B.51 utt2: {C but } I kind of like the freedom, too, don't you? /  
+
+no          A.52 utt1:  <Breathing> {D Well, } sometimes  /
+sv          A.52 utt2: {C but } I tell you I'd sure like to be able to get on a bus or something and get to work,  /
+sd          A.52 utt3: {C but } if I did it, it would take me an hour and fifteen minutes.  /
+sd          A.52 utt4:  I would have to get on one and drive, or walk to a bu-, {D you know, } - /
+sd          A.52 utt5: there's one terminal close to us  /
+sd          A.52 utt6: {C and then } they'd drive me to the main terminal here, /  
+
+b          B.53 utt1:  Right. /  
+
+sd          A.54 utt1:  then, I'd have to go to downtown Dallas and then walk over couple blocks and get on another bus to go to my school. /  
+
+sv          B.55 utt1:  If it's anything like, {F uh, } -/  
+
+bf          A.56 utt1:  {C So } that's too much. /  
+
+sv          B.57 utt1:  Dallas always has been,  /
+sv          B.57 utt2: no one wants to be at downtown Dallas much. /  
+
+b          A.58 utt1:  Yeah,  /
+sd          A.58 utt2: {C but } there sure are a lot of people that work down there. /  
+
+qy          B.59 utt1:  Is the crime rate still bad? /  
+
+na          A.60 utt1:  Definitely.  /
+sd          A.60 utt2: {C And } I went down there a couple, maybe three weeks ago for a trial,  /
+sd          A.60 utt3: {C and, } {E I mean, } all these people were standing up, that was, {D you know, } during the workday all along the [ cur-, + ] streets,   
+
+b          B.61 utt1:  {F Huh. } /  
+
++          A.62 utt1:  {D you know, } just all around these vacant buildings,  (( just ))  a lot of vacant buildings,  /
+sd          A.62 utt2: {C and } they're just being demolished, /  
+
+b          B.63 utt1:  {F Huh. } /  
+
+sd          A.64 utt1:  [ {C and, } + {C and } ] they stink  /
+o@          A.64 utt2: {C and, }   
+
+b          B.65 utt1:  Yeah. /  
+
++@          A.66 utt1:  beer and wine bottles all over the place. /  
+
+ba          B.67 utt1:  {F Huh, } that's terrible. /  
+
+b          A.68 utt1:  Uh-huh. /  
+
+sd          B.69 utt1:  {C So, } Garland, how nice is it now,  /
+sd          B.69 utt2: it's been a while since I've been there. /  
+
+sv          A.70 utt1:  {D You know, } I think it might be up to two hundred and fifty thousand.  /
+sd          A.70 utt2:  It's gotten big. /  
+
+aa          B.71 utt1:  Yes,  /
+sd          B.71 utt2: it has. /  
+
+sv          A.72 utt1:  I think when we moved here it was like a hundred and twenty, something like  that.  /
+sd          A.72 utt2:  {C And } I didn't realize, when I moved here, that it was a separate town from Dallas <laughter>. /  
+
+b          B.73 utt1:  {D Well, } yeah,  /
+sd          B.73 utt2: it is. /  
+
+sd          A.74 utt1:  I know, now <laughter>  /
+sd          A.74 utt2: {C but } I didn't. /  
+
+qw          B.75 utt1:  Where you from? /  
+
+sd          A.76 utt1:  I'm from Kilgore, Texas  /
+sd          A.76 utt2: it's in east, -/  
+
+b^m          B.77 utt1:  Kilgore,  /
+sd          B.77 utt2: I know where Kilgore is. /  
+
+qw          A.78 utt1:  {F Oh, } where you from? /  
+
+sd          B.79 utt1: [ I'm, + I'm ] originally from Lubbock. /  
+
+qy          A.80 utt1:  Are you? /  
+
+ny          B.81 utt1:  Yeah. /  
+
+qw          A.82 utt1:  {C So, } why did you move up to Colorado? /  
+
+sd          B.83 utt1:  Seemed like the thing to do at the time. /  
+
+sd          A.84 utt1:  {D Well, } it's real pretty up there.  /
+sd          A.84 utt2:  I have a friend,   
+
+sd          B.85 utt1:  {F Oh, } I love it,   
+
++          A.86 utt1:  in Denver. /  
+
++          B.87 utt1:  the mountains.  /
+sd          B.87 utt2:  I love the mountains, /  
+
+qw          A.88 utt1:  What do you, -/  
+
+ad          B.89 utt1:  {F uh, } back to the topic, /  
+
+br          A.90 utt1:  What? /  
+
+sv          B.91 utt1:  it seems that, {F uh, } more and more people are not  ((   ))  owning traditional homes these days. /  
+
+sv          A.92 utt1:  They're not owning homes, period. /  
+
+b          B.93 utt1:  Yeah,  /
+b^r          B.93 utt2: yeah,  /
+sv          B.93 utt3: {F uh, } everyone says, {D you know, } - /
+sd(^q)          B.93 utt4: when I bought this several years ago when our local economy was good everyone said, no, no, you're crazy to buy a mobile home. /  
+
+b          A.94 utt1:  Uh-huh. /  
+
+sv          B.95 utt1:  <Breathing> {C But } now it seems that, {F uh, } with the local economy bad and T I - /
+sv          B.95 utt2:  {C and }  (( strange ))  it seems that, {F uh, } -/  
+
+^2          A.96 utt1:  It wasn't such a bad idea? /  
+
+sv          B.97 utt1:  {F Oh, } they're doing some back pedaling. /  
+
+qy          A.98 utt1:  {C So, } have you got, {F uh, } land? /  
+
+nn          B.99 utt1:  No,  /
+sd^e          B.99 utt2: I'm renting at the time,  /
+%          B.99 utt3: {C so. } -/  
+
+sd          A.100 utt1:  I did that one year,  /
+sd          A.100 utt2: I lived with two other girls  /
+sd          A.100 utt3: {C and } we all taught.  /
+sd          A.100 utt4: {C And } it was a two bedroom,  /
+sd          A.100 utt5: {C so, } we took turns, <laughter> {D you know, }   
+
+ba          B.101 utt1:  Gosh. /  
+
++          A.102 utt1:  [ having, + sharing ] the bedroom. /  
+
+b          B.103 utt1:  Yeah. /  
+
+sd          A.104 utt1:  I got to where I decided I wanted to pay more rent and get a private bedroom.  /
+sd          A.104 utt2: {C And then } we had two baths  /
+sd          A.104 utt3: it was just, [ one, + ] the little bathroom, were the thing that really bothered me because I felt real closed in. /  
+
+sv          B.105 utt1:  {D Well, } mobile homes have changed a lot probably since you had one. /  
+
+sd          A.106 utt1:  That was in the seventies. /  
+
+sd          B.107 utt1:  [ Ours is wood s-, + ours is wood sided, ] /  
+
+b          A.108 utt1:  Uh-huh. /  
+
+sd          B.109 utt1:  {C and } it has a traditional  (( V top )) ,   
+
+fa          A.110 utt1:  <Sneezing> I'm sorry. /  
+
++          B.111 utt1:  roof,  /
+sd          B.111 utt2: {C and, } {F uh, } it's nine hundred and eighty square foot.  /
+qy^d          B.111 utt3: What, two bedroom, one bath,   
+
+ny          A.112 utt1:  Uh-huh. /  
+
++          B.113 utt1:  rooms are nice sized.  /
+sd          B.113 utt2:  {D Well, } you can imagine nine hundred eighty square foot broke up into two bedrooms, one bath, /  
+
+qy          A.114 utt1:  <Sneezing> {C So } [ have, +   
+
+sd          B.115 utt1:  [ it's, + it's ] comfy. /  
+
++          A.116 utt1:  Have ] you got it under  ((   )) ? -/  
+
+ny          B.117 utt1:  Yes. /  
+
+qy          A.118 utt1:  Are you required to by law? /  
+
+o@          B.119 utt1:  I,   
+
+sd          A.120 utt1:  We were down here. /  
+
++@          B.121 utt1:  don't know whether it is or not.  /
+sd          B.121 utt2:  It was already setup when we bought it. /  
+
+b          A.122 utt1:  Yeah,  /
+sv          A.122 utt2: {D well, } I bet it's not bad. /  
+
+b          B.123 utt1:  {F Oh, } yeah,  /
+sd          B.123 utt2: it's wood sided it has sheetrock everywhere,  /
+sd          B.123 utt3: [ {C and, } + {F uh, } {D you know, } {C so, } ] it's quieter than you remember mobile homes to be. /  
+
+b          A.124 utt1:  Okay,  /
+qw          A.124 utt2: {C but } how much is yours?  /
+sd          A.124 utt3: When we bought ours we were paying [ tw-, + ] {F uh, } three hundred twenty-nine dollars. /  
+
+sd          B.125 utt1:  {F Oh, } our payments are like two twenty. /  
+
+qw          A.126 utt1:  For how many years? /  
+
+sd          B.127 utt1:  Fifteen. /  
+
+sv          A.128 utt1:   (( {F Oh, } {C so, } ))  it was still a lot cheaper, /  
+
+br          B.129 utt1:  {C And, } {F uh, } what? /  
+
+sv^r          A.130 utt1:  {C so, } it was still a lot cheaper than what we gave because ours is thirty years,  /
+sd          A.130 utt2: {C and } we bought one of the cheapest houses, {D you know, } a tract house. /  
+
+b          B.131 utt1:  Yeah,  /
+b          B.131 utt2: {F oh, } yes.  /
+sd          B.131 utt3:  A mobile home's a heck of a lot cheaper,  /
+sd@        B.131 utt4: {C and, } {D well, } {D actually } whenever we got ours we picked it up used, {D you know, } three or four years used,  <whispering> [ and, + ] {F uh, }     
+
+qy^d          A.132 utt1:  Which probably didn't make much difference. /  
+
++@          B.133 utt1:  {D Well, } yeah,  /
+sd^e          B.133 utt2: it did. /  
+
+qy          A.134 utt1:   (( have a ))   ((   ))  in it. -/  
+
+nn          B.135 utt1:  No,  /
+nn^r          B.135 utt2: no,  /
+nn^r          B.135 utt3: no  /
+sd^e          B.135 utt4: what I meant, not in quality, - /
+sd          B.135 utt5: what I meant was,   
+
+^2          A.136 utt1:  In the price. /  
+
++          B.137 utt1:  four years equity costs five hundred dollars. /  
+
+ba          A.138 utt1:  {D Gee, } nice, {F huh. }  /
+ba          A.138 utt2:  That sounds good. /  
+
+sd          B.139 utt1:  {C So, } {D you know, } there's not that much time left on the loan  /
+%          B.139 utt2: {C and, } -/  
+
+qy          A.140 utt1:  {C So, } if the economy gets better, are you going to get [ another one, + another house? ] /  
+
+h          B.141 utt1:  I, don't know. /  
+
+^g          A.142 utt1:  No? /  
+
+ng          B.143 utt1:  {F Uh, } to tell you the truth right now it feels kind of comfy to have our mobile home and have it so close to paid for.  /
+sv          B.143 utt2:  {D You know, } it's like me to pickup and move [ somewhere else, + somewhere else ] is easy. /  
+
+sd          A.144 utt1:  {C But } you wouldn't take that mobile home,  /
+^g          A.144 utt2: right? /  
+
+na          B.145 utt1:  Sure. /  
+
+qy^d        A.146 utt1:  You would? /  
+
+na          B.147 utt1:  Sure,  /
+na          B.147 utt2: absolutely. /  
+
+qy^d          A.148 utt1:  It would be cheaper to move that than buy another one. /  
+
+na          B.149 utt1:  {F Oh, } absolutely.  /
+sd          B.149 utt2: [ When I, + {D you know, } when you ] talk about the deal {D like } I got, {D yeah, }  {D yeah, }  it would be cheaper.  /
+sd          B.149 utt3: {F Uh, } especially if it were a paid move or  something.  /
+sd          B.149 utt4:  {D You know, } there's some paid moves occasionally. /  
+
+qy          A.150 utt1:  T I would pay to move you? /  
+
+h          B.151 utt1:  I don't know  /
+sd          B.151 utt2: {C but } they did, - /
+sd          B.151 utt3: [ when I, + when I ] moved up here, - /
+sd          B.151 utt4: {C so, } they might want to move away. /  
+
+qw          A.152 utt1:  {C So, } how many years you been up there? /  
+
+sd          B.153 utt1:  {F Uh, } six or seven. /  
+
+qy          A.154 utt1:  Do you snow ski? /  
+
+na          B.155 utt1:  {F Uh, } a [ little bit, + little bit, ]  /
+sd          B.155 utt2: mostly I just <noise>, love walking in the mountains, driving in the mountains. /  
+
+sd          A.156 utt1:  It's real pretty.  /
+sd          A.156 utt2: I went rock climbing one time. /  
+
+ba          B.157 utt1:  {F Oh, } that's exciting. /  
+
+sd          A.158 utt1:  my friend talked me in that <laughter>.  /
+sd          A.158 utt2:  I'm a real, {F um, } scaredy when it comes to heights  /
+sd          A.158 utt3: {C but } once we got on top of the rocks it was quite, -/ 

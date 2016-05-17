@@ -1,0 +1,46 @@
+The .mpf (merged punctuation format) files contain information on the
+punctuations given by both the MRT and the DADB files.  Each file contains
+all the words (except digits task words) for each channel of each meeting in
+the 75 meetings in the ICSI Meeting Recorder 1.0 release.
+
+In each file, the following header exists
+
+                SEGMENT PUNCTUATION
+           WORD   MRT   MRT  DADB  
+-----------------------------------
+
+followed by a line for each MRT word that contains the following columns
+
+<MRT Word>         : found in the MRT files
+<MRT Segment>      : 0 when there is no segment boundary after the word
+                     # when there is a segment boundary after the word
+<MRT Punctuation>  : . ? ! - , or a combination
+<DADB Punctuation> : . ? ! - | == ?== or a combination
+
+Here is an example
+
+                SEGMENT PUNCTUATION
+           WORD   MRT   MRT  DADB  
+-----------------------------------
+            O_K     0     .     .
+             So     0     0     0
+             uh     0     ,     -
+           he's     0     0     0
+            not     0     0     0
+           here     0     ,     .
+             so     0     0     0
+            you     0     0     0
+            get     0     0     0
+             to     #     -    ==
+           Yeah     #     .     .
+         Mm-hmm     #     .     .
+
+Several notes:
+-There are 0 or more leading spaces for each line, depending on the length of
+ the MRT word.
+-Occassionally, several punctuations exist after a word.  These are preserved
+ in this file.  Multiple MRT punctuations have no space between them, but
+ multiple DADB punctuations have a space between them.
+-Quotation marks are not included in the mpf files.
+-As noted in the introduction paragraph of this document, MRT segments marked
+ with the "DigitTask=true" attribute are not included.

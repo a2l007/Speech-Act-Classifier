@@ -1,0 +1,287 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2640_1096_1239
+TOPIC#:		341
+DATE:		910423
+TRANSCRIBER:	LAB
+UTT_CODER:      MMAB
+DIFFICULTY:	3
+TOPICALITY:	2
+NATURALNESS:	2
+ECHO_FROM_B:	2
+ECHO_FROM_A:	3
+STATIC_ON_A:	3
+STATIC_ON_B:	2
+BACKGROUND_A:	3
+BACKGROUND_B:	2
+REMARKS:        The first time through Speaker A kept cutting out, but I
+managed to pick it back up the second time.  Then at the end of the 
+conversation, Speaker B was being run over by Speaker A which made it hard 
+to understand what he said in several places.
+
+==========================================================================
+  
+
+qw^d          A.1 utt1:  {D Well, } [ I don't, + {E I mean, } I don't ] know what you think about the, subject,  /
+sd          A.1 utt2: [ I'd, + the, I had ] never really thought of what they said before about allowing [ the, + the ] sentencing [ to, + {F uh, } to ] go to the judge instead of the jury and allowing him to do that.  /
+sd          A.1 utt3:  I've been kind of sitting here thinking about that a little bit while I was waiting for them to phone somebody,  /
+sd          A.1 utt4: {C and } I don't know that that's not a good idea. /  
+
+sv          B.2 utt1:  That's not a bad idea  /
+%          B.2 utt2:  I, - /
+%          B.2 utt3: {F um, } {F uh, } that, {D you know, } - /
+sv          B.2 utt4: they probably, need to change it somehow, {F uh, }  /
+sv          B.2 utt5: the whole system needs changing,  /
+sv          B.2 utt6: we've just got too many people  (( in there )) ,    
+
+aa          A.3 utt1:  # I agree.  # /  
+
++          B.4 utt1:  # and, {F uh, } #  ((   )) , are putting too many, {F uh, } people in jail that probably don't need to be there  /
+sv          B.4 utt2: {C and } it's another form of sentencing. /  
+
+b          A.5 utt1:  Uh-huh. /  
+
+sv          B.6 utt1:  {C But } on that one thing, [ I, +  I ] still think it should be a unanimous decision, /  
+
+aa          A.7 utt1:  # {F Oh, } yeah,  /
+aa          A.7 utt2: I agree.  /
+aa^r          A.7 utt3: Yeah.  # /  
+
+sv          B.8 utt1:  # {F uh, } I think we're getting # to the point now where they're going to eventually let it be, {F um, } majority vote.  /
+sv          B.8 utt2: {C And } that's not going to be good. /  
+
+sd          A.9 utt1:  I don't like that,  /
+aa          A.9 utt2: no, /  
+
+b^m          B.10 utt1:  # No.  # /  
+
+sd          A.11 utt1:  # I # don't like that at all.  /
+sd          A.11 utt2:  I know my husband served [ on a, + on a ] jury a few months ago up here in Denton,  /
+sd          A.11 utt3: {C but, }  {F uh, } [ [ it was a guy, + it was, ] + it was ] a drug conviction  /
+%          A.11 utt4: {C and } I don't remember  /
+sd          A.11 utt5: he had some cocaine and [ th-, + ]   [ (( it )) + ]   was accused of selling it,   /
+sd          A.11 utt6: {C and } I don't remember exactly how much he had  /
+sd          A.11 utt7: {C but, }  {F uh, } {D actually } not selling  (( it )) , - /
+sd          A.11 utt8: there's a difference,  /
+sd          A.11 utt9: [ [ cr-, + cro-, ] +  (( couriering )) ]  it is what, - /
+sd          A.11 utt10: ther-, is supposedly a difference from selling then being a courier  /
+sd          A.11 utt11: {C and, }   
+
+b          B.12 utt1:  # Right.  # /  
+
++          A.13 utt1:  # he # was a courier.   /
+sd          A.13 utt2: {C And, }  {F uh, } [ [ they, + he's, ] + he ] sat on that jury  /
+sd          A.13 utt3: {C and } they found him guilty,  /
+sd          A.13 utt4: {C and } they went through the sentencing phase and everything  /
+sd          A.13 utt5: {C and, }  {F uh, } {D you know, } they were told that, {D you know, } during the trial that this is this guy's first offense  /
+sd          A.13 utt6: {C and } he's got this clean record,  /
+sd          A.13 utt7: [ {C and, } + {C and } ]  they ended up, - /
+sd(^q)          A.13 utt8: the jury, {D you know, } decided, {F hey, } it's time to crackdown here, {D you know, }  /
+sd          A.13 utt9: {C and } it was time to do this drug thing  /
+^q          A.13 utt10: {C and } let's crackdown  /
+^q          A.13 utt11: {C and } let's really, - /
+sd          A.13 utt12: {C and } they sentenced him to fifteen years,    
+
+b          B.14 utt1:  # Uh-huh.  # /  
+
++          A.15 utt1:  # {D you # know, } which [ they thought first offense, okay,  this is, +  they thought ] that [ that was, + that was ] a good thing.  /
+sd          A.15 utt2: {C And } they sentencing him to fifteen years - /
+sd          A.15 utt3:  {C and, }  {F um, } after it was all over, {F uh, } [ the jud-, + they ]  [ sit down with the judge and  with the other two lawyers, + <<talks to someone in the background>>, {A let me come over in just a second,  okay, }   [ and + ] sit down with the judge and with the other two lawyers  ]  /
+sd          A.15 utt4: {C and } they were told that, {F uh, } he would probably serve three,   
+
+b          B.16 utt1:  # Uh-huh.  # /  
+
++          A.17 utt1:  # of # the fifteen,    
+
+b          B.18 utt1:  # Uh-huh.  # /  
+
++          A.19 utt1:  # and # that he had three previous convictions.  /
+sd          A.19 utt2: However, they could not tell [ the jud-, + the jury ] that during the trial because all three of them were in appeal. /  
+
+b          B.20 utt1:  {F Oh, } yeah. /  
+
+sd          A.21 utt1:  {C So, }  the jury didn't know about it,  /
+sd          A.21 utt2: {C so } here they based their sentencing thinking that this was this guy's first offense, /  
+
+b          B.22 utt1: # (( Sure )) . # /  
+
+sd(^q)          A.23 utt1:  # [ {C and } + # {C so, }  ] {D you know, } we'll give him fifteen which will teach him a lesson  /
+sv          A.23 utt2: {C but } it's [ not + just, ] {D you know, } horrible,    
+
+b          B.24 utt1:  #  (( Yeah )) . # /  
+
++          A.25 utt1:  # since # it was first offense  /
+sd          A.25 utt2: {C and } he'd been convicted three times before,  {D you know, } /  
+
+b          B.26 utt1:  #  (( Oh )) . # /  
+
+sd          A.27 utt1:  # [ {C and, } +  # {C and  } ] the jury was very upset  /
+sd          A.27 utt2: {C and } my husband came [ home, a + home, ] very upset,  /
+sd          A.27 utt3: {E I mean, } he felt [ like + ] [ that, + that ] they had been tricked, {D you know, } /  
+
+b          B.28 utt1:  # Right.  # /  
+
+%          A.29 utt1:  [ # {C and } + # {C so }  ] something, - /
+qh          A.29 utt2: I wonder if a judge didn't have control of that if some of that would change, {D you know. } /  
+
+aa          B.30 utt1:  Yeah,  /
+sv          B.30 utt2: the judge might know  /
+sv          B.30 utt3: {C or } at least [ it, + it ] wouldn't hurt to switch over there and see if it worked any better,  /
+sv          B.30 utt4: if it didn't we can come back for something else  /
+%          B.30 utt5: {C or, } -/  
+
+aa          A.31 utt1:  # That's true.  /
+aa^r          A.31 utt2: That's very true.  # /  
+
+%          B.32 utt1: # [ {C or, } + {C or }  ] what we've got, # - /
+%          B.32 utt2: {C so. } -/  
+
+b          A.33 utt1: Yeah. /  
+
+sv          B.34 utt1:  {D Well, } we definitely need a change in the system  /
+%          B.34 utt2: {C and, }  {F uh, } -/  
+
+aa          A.35 utt1:  Yeah,  /
+sv          A.35 utt2: obviously what we are doing is not working, {D you know. } /  
+
+aa^m          B.36 utt1:  It's not working,  (( too )) . /  
+
+aa          A.37 utt1:  No. /  
+
+sv          B.38 utt1:  It's just piling up on us. /  
+
+aa          A.39 utt1:  Yeah,  /
+sv          A.39 utt2: {C and } [  there's, + {D you know, } there's ] people in  (( our ))  prisons that are not being rehabilitated in any way, shape, or form, /  
+
+b          B.40 utt1:  # Right.  # /  
+
+sv          A.41 utt1:  # {C and } # either they're in there,   
+
+b          B.42 utt1:  # Right.  # /  
+
++          A.43 utt1:  # forever #  or when they get out [ they're, + {D you know, } it's ] a matter of a few months  /
+sv          A.43 utt2: {C and } they're going to be right back for the same thing  /
+%          A.43 utt3: {C so } the system, -/  
+
+sv          B.44 utt1:  We're just [ not willing to set + a society not willing to spend  ] the time or  the money to do what it takes,  /
+%          B.44 utt2: {C so. } -/  
+
+aa          A.45 utt1:  That's very true. /  
+
+b          B.46 utt1:  Yeah. /  
+
+b^m          A.47 utt1:  Yeah,  /
+sd          A.47 utt2: I was talking to a friend of mine about this the other day  /
+sd(^q)          A.47 utt3: {C and } I said, {D you know, } I understand that there are a lot of countries that rely on the United States, to - /
+^q          A.47 utt4: [ [ {C and, } +   
+
+b          B.48 utt1:  # Uh-huh.  # /  
+
++          A.49 utt1:  # {C and } # the, ] + {C and } the ] people in those countries rely on our money to survive  /
+^q          A.49 utt2: {C but } I really believe that we need to take care of ourselves, /  
+
+b          B.50 utt1:  # Right.  # /  
+
+%          A.51 utt1:  # {E I # mean, } we, - /
+%          A.51 utt2: [ {C and, } +  {C and } ] the-, - /
+sv(^q)          A.51 utt3: I know people say, {F oh, } it would be cruel to, {D you know, } pull our aid from these other countries  /
+sv          A.51 utt4: [ {C and, } +  {C and } ] maybe so,  /
+sv(^q)          A.51 utt5: {C so } tell them, you've got five years.    
+
+b          B.52 utt1:  Right. /  
+
++          A.53 utt1:  To work out a plan, to make it on your own. /  
+
+b          B.54 utt1:  Yeah. /  
+
+^q          A.55 utt1:  {C And, }  we will continue funding you for the next two years,  /
+^q          A.55 utt2: after two years we'll cut it down [ [ seven + to seventy fiv-, ] + {D you know, } seventy-five ] percent. /  
+
+b          B.56 utt1:  Uh-huh. /  
+
+^q          A.57 utt1:  {C And } after another year we'll cut it fifty percent,  /
+^q          A.57 utt2: {C and } in five years,    it sh-, - /
+^q          A.57 utt3: by then you [ should + all should  ] have a plan worked where you can make it on your own without our help. /  
+
+aa          B.58 utt1:  Sure. /  
+
+sv          A.59 utt1:  {C And  then } [ [ we'll have all, + we'll have, ] + we will have ] the money if we would do that [ to, +   
+
+b          B.60 utt1:  # Yeah.  # /  
+
++          A.61 utt1:  # to # ] work on your own system because we've got some serious problems here  /
+sv          A.61 utt2: {C and } we're trying to,   
+
+aa^m          B.62 utt1:  # Very serious, yeah.  # /  
+
++          A.63 utt1:  # heal the world, # {D you know, }  /
+sv          A.63 utt2: [ it's just not, +   
+
+b          B.64 utt1:  #  (( {F Oh, } yeah )) , # /  
+
++          A.65 utt1:  # it's just # not ] working. /  
+
+aa          B.66 utt1:   (( your right )) ,  ((   )) . /  
+
+sd          A.67 utt1: [  I look at the, + I look at ] [ [ what, {D you know, } thi-, + what, ] + ]  the  (( aid ))  presented to the Kurds  /
+sd          A.67 utt2: {C and } [ I, + I ] feel sorry for them  /
+sv          A.67 utt3: {C and } I know they're suffering  /
+sv          A.67 utt4: {C and } I know they're dying everyday,  /
+sv          A.67 utt5: {C but } we've got, {D you know, } kids here in the United States that are dying everyday, too.    
+
+aa          B.68 utt1:  Sure. /  
+
++          A.69 utt1:  {D You know, } and being,   
+
+b          B.70 utt1:  #  (( Oh )) . # /  
+
++          A.71 utt1:  # abused # and neglected  /
+h          A.71 utt2: {C and, } {D you know, } I don't know.  /
+sv          A.71 utt3: I just have this problem with,   
+
+ba          B.72 utt1:  #  (( You bet )) . # /  
+
++          A.73 utt1:  # {F uh, } trying # to heal the world when you're so sick yourself, {D you know, }  /
+%          A.73 utt2: {C so.  } -/  
+
+aa          B.74 utt1:  Right.  /
+sv          B.74 utt2: {D Well, } we seem to agree on the jury thing  /
+sv          B.74 utt3: [ {C and, } +  {F uh, } {C but, } ]  (( {F uh } )) , we'll need an unanimous verdict  /
+sv          B.74 utt4: {C and, }   
+
+aa          A.75 utt1:  # Yep.  # /  
+
++          B.76 utt1:  # maybe # let the judge have a opportunity to make, #  (( a decision )) . # /  
+
+sv          A.77 utt1:  # I think # we should try it, like you say, /  
+
+b          B.78 utt1:  # Yeah.  # /  
+
+sv          A.79 utt1:  # if # it doesn't work, we can always come back,  /
+sv          A.79 utt2: {C but } I think it would be a good idea to try it. /  
+
+aa          B.80 utt1:  I do too. /  
+
+sv          A.81 utt1:  {C So, }  {D anyway, } # {D well, } we all agree. # /  
+
+ba          B.82 utt1:  # {D Well, } good. # /  
+
+x          A.83 utt1:  <Laughter>.   
+
+fc          B.84 utt1:  Good to hear from you. /  
+
+fc          A.85 utt1:  You too, bye-bye. /  
+
+fc^m          B.86 utt1:  Bye-bye. / 

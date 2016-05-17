@@ -1,0 +1,470 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	2122_1167_1112
+TOPIC#:		325
+DATE:		910311
+TRANSCRIBER:	sk
+UTT_CODER:	lsh
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	3
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        Caller A dominated.
+
+===========================================================================
+  
+
+o          A.1 utt1:  Okay,  /
+qy          A.1 utt2: {D so, } {F uh, } do you own a P C? /  
+
+nn          B.2 utt1:  {F Um, } no,  /
+sd^e          B.2 utt2: not personally  /
+%          B.2 utt3: {C but, } -/  
+
+qy^d          A.3 utt1:  {C But } you have one at work. /  
+
+ny          B.4 utt1:  Yes,  /
+ny          B.4 utt2: uh-huh,  /
+ny          B.4 utt3: Yeah,  /
+sd^e          B.4 utt4: several <laughter>. /  
+
+b          A.5 utt1:  Okay,  /
+sd          A.5 utt2: {C and, } now because, {F um, } - /
+sd          A.5 utt3:  {D see } [ I'm, + I'm ]  doing my, {F uh, } Master's in Computer Science and Computer Engineering. /  
+
+b          B.6 utt1:  Uh-huh. /  
+
+sd          A.7 utt1:  [ {C And, } + {F um, } {C and } ] [ I, + I ]  don't have one,  /
+sd          A.7 utt2: {C but } I have to use them,   
+
+b          B.8 utt1:  Right. /  
+
++          A.9 utt1:  {D like } [ during, + especially during ] my undergrad. /  
+
+b          B.10 utt1:  Uh-huh. /  
+
+%          A.11 utt1:  [ You, + you ]  use, {F um, } - /
+sv          A.11 utt2: {D like } your first couple of years  you use personal computers because, {F uh, } {D you know, } the software.  /
+sv          A.11 utt3:   {D You know, } {D like } it's easier for you to go to and run a program,   
+
+b          B.12 utt1:  Uh-huh. /  
+
++          A.13 utt1:  {D you know, } through the disk,   
+
+b          B.14 utt1:  Uh-huh. /  
+
++          A.15 utt1:  because, {F um, } the grader can do it at home. /  
+
+b          B.16 utt1:  Yeah. /  
+
+sv          A.17 utt1:  Then, [ as the, + {D you know, } as you ]  go up higher, {D like } in your senior level, you're doing projects which [ are, + are ] so big,  /
+sv          A.17 utt2:  {C and } you have to have so many people sharing the same data,   
+
+b          B.18 utt1:  Uh-huh. /  
+
++          A.19 utt1:  that you can't use personal computers,  so you have to use, {D you know, } a main frame. /  
+
+aa          B.20 utt1:  Right,  /
+aa^r          B.20 utt2: right.  /
+%          B.20 utt3:  Yeah,  /
+sd          B.20 utt4: I know [ I, + {F uh, } I ]  do have [ a, + {F uh, } {D you know, } a ] computer at home,  /
+sd          B.20 utt5: {C but } it's one that the company has loaned me. /  
+
+bk          A.21 utt1:  {F Oh, } okay. /  
+
+sd          B.22 utt1:  {C And, } [ that, + that's ] been my situation,  is that, {F uh, } that way I can get in, access our, {F uh, } computers that I have up  here and, {D you know, } do work from home. /  
+
+qy          A.23 utt1:  {C But } does it have, {F uh, } {D like, } a disk drive? /  
+
+ny          B.24 utt1:  {F Oh } yeah.  /
+ny^r          B.24 utt2:  Yeah,  /
+ny^r          B.24 utt3: yeah,  /
+ny^r          B.24 utt4: yeah, /  
+
+bk          A.25 utt1:  {F Oh, } okay,  /
+sd          A.25 utt2: {C because, } {F uh, } the ones that  we use, [ yo-, + ] {D you know, } are like UNIX base systems. /  
+
+b          B.26 utt1:  Right.  /
+b          B.26 utt2: Uh-huh. /  
+
+sd          A.27 utt1:  {C And, so } they don't have a disk drive. /  
+
+b          B.28 utt1:  Right. /  
+
+sd          A.29 utt1:  {D You know, } {C so } you can't, - /
+sd         A.29 utt2: the only way that  you can do it is through a modem. /  
+
+b          B.30 utt1:  Right. /  
+
+sd          A.31 utt1:  {C And, } [ you, + {D you know, } you ] just do it that way. /  
+
+b          B.32 utt1:  Yeah. /  
+
+sd          A.33 utt1:  {C But, } [ that's, + {F uh, } that's ]  the only way that you can get [ to, + through to ] the system,  /
+sd          A.33 utt2: you can't store it anywhere. /  
+
+aa          B.34 utt1:  Right.  /
+aa          B.34 utt2:  Yeah,  /
+o          B.34 utt3: no  /
+sd          B.34 utt4: [ [ I, + {F um, } I, ] + I ]  have both, because [ that, + that's ] what I use all the time is UNIX Systems.  {F Um, } versus the DOS.  /
+sd          B.34 utt5:   {C But } then I teach DOS classes, {F uh, } at night. /  
+
+bk          A.35 utt1:  {F Oh, } okay. /  
+
+b          B.36 utt1:  Uh-huh,  /
+sd          B.36 utt2: part time.  /
+%          B.36 utt3: {C So, } -/  
+
+bf          A.37 utt1:  {C And then } you also have to do all your  grading on the P  C. /  
+
+sd          B.38 utt1:  {D Well, } [ that, + that's ]  the really neat thing, I teach in the continuing education classes, so [ I don't, + {F uh, } I don't ]  have to have [ grad-, + any grades, ] no grade books, so that's great <laughter>. /  
+
+bk          A.39 utt1:  {F Oh, } okay. /  
+
+o          B.40 utt1:  {C But, } no,  /
+sd          B.40 utt2: I find that I use [ the, + the ]  personal computer a lot though for my WordPerfect,   
+
+b          A.41 utt1:  Okay. /  
+
++          B.42 utt1:  and also for my spread sheets. /  
+
+b          A.43 utt1:  Yeah. /  
+
+sd          B.44 utt1:  {F Um, } {C so } I think it's extremely helpful and  very useful. /  
+
+sd          A.45 utt1:  {D Well, } {F uh, } for us [ it's, + {F uh, }  {F uh, } {D you know, } it's ] like for doing {D like, } {D you know, }  {D like } resumes,   
+
+b          B.46 utt1:  Uh-huh. /  
+
++          A.47 utt1:  and, presentations. /  
+
+b          B.48 utt1:  {F Um, } {F um. } Uh-huh. /  
+
+sd          A.49 utt1:  We use {D like } for example, a Mackintosh,  which is a lot easier for graphics,   
+
+b          B.50 utt1:  Yeah. /  
+
++          A.51 utt1:  [ than the P-, + than ] {D you know, }  the I B M P C's or anything compatible with that. /  
+
+b          B.52 utt1:  Right. /  
+
+sd          A.53 utt1:  [ Due, + due ] to the fact that,  {D well, } {D you know, } [ I, + I ] haven't tested [ the, + the ] P S two yet. /  
+
+b          B.54 utt1:  {F Um, } {F um. } Uh-huh. /  
+
+sd          A.55 utt1:  {C but } I don't know if the software is as  easily, {D you know, } like you can manage it a lot easier [ than, + than ] the old one. /  
+
+b          B.56 utt1:  Right. /  
+
+sd          A.57 utt1:  The old one you had to go pick a line,  use little arrows to go onto the screen and check where you wanted to start, and where,   
+
+b          B.58 utt1:  Right. /  
+
++          A.59 utt1:  you know, with the mouse you do it, {D you know, } {D like, } a hundred times  faster. /  
+
+aa          B.60 utt1:  That's true.  /
+aa^r          B.60 utt2: That's true. /  
+
+sd          A.61 utt1:  {C And, } {F uh, } you also get, {D you know, } - /
+sd          A.61 utt2:  when you see it on the Mackintosh with, {D you know, } the one I have, - /
+sd          A.61 utt3:  that doesn't have any color,  /
+sd          A.61 utt4: you can look at it  /
+sd          A.61 utt5: {C and } that's the way it's going to print out. /  
+
+b          B.62 utt1:  Uh-huh. /  
+
+sd          A.63 utt1:  {C And, } especially if you have a laser printer,  it's going to print out the same way as it's on the screen. /  
+
+b          B.64 utt1:  {F Oh, } Uh-huh. /  
+
+sd          A.65 utt1:  {C And, so, } [ with, + {D you know, } with ]  the I B M what would happen is, {F uh, } since the software that I had was, it was basically, {D you know, }  you only see part of the page. /  
+
+b          B.66 utt1:  Uh-huh. /  
+
+sd          A.67 utt1:  {C And, so, } the whole page [ you, + you ]  never can actually see it, /  
+
+b          B.68 utt1:  Oh. /  
+
+sd          A.69 utt1:  you just draw it  /
+sd          A.69 utt2: {C and } they have to zoom  out and zoom in  /
+sd          A.69 utt3: {C and, } {D you know, } it's like, every time that you have to do  something [ is, + ] it's really a pain. /  
+
+ba          B.70 utt1:  What a hassle,  /
+b          B.70 utt2: yeah,  /
+b^r          B.70 utt3: yeah. /  
+
+sd          A.71 utt1:  {C And, } also, {D  you know, } it's like  [ for, + for ] presentations,  /
+sd          A.71 utt2: it's like if you have to do any statistical data it can be easily  represented [ on a, + on a ] P C. /  
+
+b          B.72 utt1:  Uh-huh. /  
+
+sd^r          A.73 utt1:  it can be easily represented [ on a, + on a ] P C.  /
+sd          A.73 utt2:   {D You know, } {D like } years back when you didn't have that you would have to map  out [ all this, + all these ] numbers. /  
+
+b          B.74 utt1:  Yeah. /  
+
+sd          A.75 utt1:  and get a graph which you weren't sure if it  was okay or not, {D you know. } /  
+
+b          B.76 utt1:  Right.  /
+b          B.76 utt2: Yeah. /  
+
+sd          A.77 utt1:  {C But, } [ with a, + with a ]  new system I can calculate everything so fast,   
+
+b          B.78 utt1:  Uh-huh. /  
+
++          A.79 utt1:  {D you know, } like for spread sheets. /  
+
+b          B.80 utt1:  Right.  /
+b^r          B.80 utt2:  Right. /  
+
+sv          A.81 utt1:  You can see what the trend is over the years. /  
+
+b          B.82 utt1:  Yeah.  /
+sd          B.82 utt2:  {C And, } I love all the windows that  they have out now too, /  
+
+b          A.83 utt1:  Yeah,  /
+%          A.83 utt2: [ [ that, +   
+
+sv          B.84 utt1:  they have really simplified things. /  
+
++          A.85 utt1:  that ] - /
+sd          A.85 utt2: [ [ [ I, + I ] had a, + I had a ]  program due  /
+sd          A.85 utt3: {C and } {F uh, } [ one, + one ] window I had the  program  /
+sd          A.85 utt4: {C and } the other one I had the program running.    
+
+b          B.86 utt1:  Right.  /
+b^r          B.86 utt2: Right. /  
+
++          A.87 utt1:  so if there was ever a mistake,  I could easily check, {D you know, }  /
+sd(^q)       A.87 utt2: I could look at the program and say, this is where I made the error. /  
+
+b          B.88 utt1:  Right. /  
+
+sd(^q)       A.89 utt1:  Instead of saying, where did I make the error? /  
+
+b          B.90 utt1:  Uh-huh. /  
+
+sd          A.91 utt1:  {D You know, } go back and forth  /
+sd          A.91 utt2:  [ {C and, } + {C and, } ] {D you know, } you always, {D you know, } - /
+sd          A.91 utt3:  the old ones you had to go out of your program,  [ load up, + {F um, } {F uh, } {D well } load up ] the program again,   
+
+b          B.92 utt1:  Uh-huh. /  
+
++          A.93 utt1:  in this case.  /
+sd          A.93 utt2:  After you load it up change it,  hope that's right,   
+
+x          B.94 utt1:  <Laughter>.   
+
++          A.95 utt1:  get out of that, run the program,   
+
+b          B.96 utt1:  Yes. /  
+
++          A.97 utt1:  run, {D uh-huh, }   as long as it took,   
+
+b          B.98 utt1:  Yes. /  
+
++          A.99 utt1:  and then go back and see if that worked or not. /  
+
+b          B.100 utt1:  Yeah. /  
+
+sd          A.101 utt1:  {C But } with windows you can have the  program  /
+sd          A.101 utt2: {C and } {D say } it messed up in line fifty-four. /  
+
+b          B.102 utt1:  Yeah. /  
+
+sd          A.103 utt1:  {C So, } you take a look at line fifty-four,  /
+sd          A.103 utt2:  you take a look at the output at the same time,  /
+sd          A.103 utt3: {C and } you can see [ that, + ]  where it messed up, because, {D you know } it's like in the old computers, the ones that, {F uh, }  we're using here a couple of years ago, you would always have to have a printout,   
+
+b          B.104 utt1:  Uh-huh. /  
+
++@          A.105 utt1:  every time that you ran your program,   *[[end of slash unit?]]
+
+b          B.106 utt1:  Yeah. /  
+
++@          A.107 utt1:  you would need a printout because  everything else was erased in the background. / *[[should have been new slash unit]] 
+
+aa          B.108 utt1:  Yeah,  /
+aa          B.108 utt2: right,  /
+aa^r          B.108 utt3: right.  /
+%          B.108 utt4:  Yeah,  /
+sd          B.108 utt5: I know, [ I, + {F uh, } I ]  remember my college days <laughter>.  And having to do that too. /  
+
+qy          A.109 utt1:  [ [ Di-, + did, ] + did ]  you learn it in computer science? /  
+
+ny          B.110 utt1:  {F Oh, } yeah,  /
+ny          B.110 utt2: uh-huh.  /
+sd^e          B.110 utt3:  I sure did. /  
+
+qw          A.111 utt1:  {C And, } when was this. /  
+
+sd          B.112 utt1:  {F Uh, } I graduated in eighty-six. /  
+
+bk          A.113 utt1:  {F Oh, } okay. /  
+
+b          B.114 utt1:  Yeah.  /
+sd          B.114 utt2:  {C So } it's been fairly recent. /  
+
+b          A.115 utt1:  Yeah,  /
+sd          A.115 utt2: I know because, {F uh, } all I know is  that when I came here in eighty-seven, [ they still had, + ] {F uh, }     
+
+^2          B.116 utt1:  The cards. /  
+
++          A.117 utt1:  it was the last year [ to, + to ] put all your punch cards in. /  
+
+ba          B.118 utt1:  {F Oh, } {F oh } dear.  /
+sd          B.118 utt2:  I didn't have to bother  with that at all, thank goodness.  /
+%          B.118 utt3: Yeah. /  
+
+b          A.119 utt1:  {C So, } yeah.  /
+o          A.119 utt2:  No,  /
+sd          A.119 utt3: {C but } [ it, + it ]  was just sensational because I walked in  /
+sd(^q)       A.119 utt4: {C and } they go, {F Oh, } my God, they're still using this. /  
+
+b          B.120 utt1:  Yes. /  
+
+sd          A.121 utt1:  It was like, this is the last year you can put  your punch cards in and get your program out  /
+sd          A.121 utt2: {C and, } {D you know } <laughter>,   
+
+ba          B.122 utt1:  Wow,  /
+ba^r          B.122 utt2: wow. /  
+
++         A.123 utt1:  You can get a hard copy of it,  /
+sd          A.123 utt2: {C and } that's about it. /  
+
+b          B.124 utt1:  Uh-huh,  /
+ba          B.124 utt2: wow. /  
+
+sd          A.125 utt1:  {C So. } {C But, } {E I mean, } the price of  computers has gone down.  /
+sd          A.125 utt2: They said that, {F um, } if the auto industry would have kept the  same trend as the computer industry has ever since, {D you know, } it started,   
+
+b          B.126 utt1:  Uh-huh. /  
+
++          A.127 utt1:  they said that, {F uh, } cars would cost  two dollars  /
+sd          A.127 utt2: {C and } they would run forever. /  
+
+sv          B.128 utt1:  {F Oh, } that would be great. /  
+
+x          A.129 utt1:  <Laughter>.   
+
+x          B.130 utt1:  <Laughter>.   
+
+sd          A.131 utt1:  {C So, } {E I mean } it's like, {D you know, } [ the, + the ]  joke with the Yugo, {D you know, }  /
+sd(^q)       A.131 utt2: it's like,  {D yeah, }  [ yo-, + ] {D you know, } [ like + ]  when your, {F uh, } car runs out of gas just throw it away. /  
+
+b          B.132 utt1:  Uh-huh. /  
+
+sv          A.133 utt1:  {C And, } [ that, + that's ] the way it would be. /  
+
+ba          B.134 utt1:  Wow. /  
+
+sd(^q)       A.135 utt1:  It's like {D yeah, }  I think I'll buy a new car  today, {D you know, }  /
+%          A.135 utt2: {C so, } -/  
+
+x          B.136 utt1:  <Laughter>.   
+
+b          A.137 utt1:  Yeah,  /
+sd          A.137 utt2: {C but } {E I mean } the price has  really gone down.  /
+sd          A.137 utt3:  {E I mean, } I B M which, {F uh, } - /
+sd          A.137 utt4:  an I B M P C in {D like } in nineteen eighty-one  it would cost you five thousand dollars, /  
+
+aa          B.138 utt1:  {F Oh, } sure,  /
+aa^r          B.138 utt2: {F oh, } sure. /  
+
+sd          A.139 utt1:  {C and } now you can get it, {D you know, }  {D like } for, one thousand dollars, [ because, + {D you know, } because ] of the parts basically. /  
+
+aa          B.140 utt1:  Right.  /
+aa          B.140 utt2:  Yeah,  /
+sd          B.140 utt3: {C and } the two eighty-six  too,  /
+%          B.140 utt4: {C so, } yeah. /  
+
+aa          A.141 utt1:  Yeah.  /
+sd          A.141 utt2:  The parts and the labor is what  they're charging you,  /
+sd(^q)      A.141 utt3: they're not charging you, {D you know, } over pricing,   
+
+b          B.142 utt1:  Uh-huh. /  
+
++          A.143 utt1:  it because it's like, if we sell it for  less, {D you know, } it's like we're losing money, {D you know. } /  
+
+b          B.144 utt1:  Right. /  
+
+sd(^q)       A.145 utt1:  It's like we want to sell it to break even at least. /  
+
+b          B.146 utt1:  Uh-huh. /  
+
+sd          A.147 utt1:  {C And, } I think they stopped producing the I B M P C. /  
+
+b          B.148 utt1:  Uh-huh. /  
+
+sd          A.149 utt1:  [ {C And, } + {F uh, } {C and } ]  the, {F uh, } P C Junior  was a total failure,   
+
+b          B.150 utt1:  Oh. /  
+
++          A.151 utt1:  to them. /  
+
+b          B.152 utt1:  Yeah. /  
+
+sd          A.153 utt1:  They had, {F uh, } - /
+sd          A.153 utt2:  they're trying to get out small computers,  /
+sd          A.153 utt3: {C but, } the only problem was that when they took that one out,  the small computer was the I B M P C <laughter>. /  
+
+x          B.154 utt1:  <Laughter>.   
+
+sd          A.155 utt1:  {C And, so, } you couldn't, {D you know, } - /
+sd(^q)       A.155 utt2:    it's like, sure bring out.  N-, into the market something that's smaller when [ no-, + nobody ]  uses anything that's smaller than, {D you know, } this, {D you know. } /  
+
+b          B.156 utt1:  Yeah. /  
+
+%          A.157 utt1:  {C And, so. } -/  
+
+b          B.158 utt1:  Oh.   
+sd          A.159 utt1:  {C But, } over the past years it's like  I B M has been producing {D like } - /
+sd          A.159 utt2: every two years they bring out a whole new system.    
+
++          B.160 utt1:  Uh-huh. /  
+
++          A.161 utt1:  {D You know, } like the P C X T, A T, and  the P S one, P S two things, {D you know, }  /
+sv          A.161 utt2: {C and so. } It's just that you have to always  compete  /
+sd          A.161 utt3: {C and, } {F uh, } Mackintosh took a lot of the market from a lot of schools. /  
+
+b          B.162 utt1:  Yeah. /  
+
+sd          A.163 utt1:  {C Because } [ of, + of ]  their, {D you know, } - /
+sv          A.163 utt2: you can work with it a lot easier. /  
+
+aa          B.164 utt1:  Yeah.  /
+aa          B.164 utt2:  That's true. /  
+
+sd          A.165 utt1:  {C So, } that's what they're trying to do.  /
+ad          A.165 utt2: {F Oh, } {D well, }   
+
+%          B.166 utt1:  {D Well. } -/  
+
++          A.167 utt1:  I'll leave you back to your work. /  
+
+aa          B.168 utt1:  Okay. /  
+
+fx          A.169 utt1:  {C And, } {F uh, } have a good lunch. /  
+
+ft          B.170 utt1:  Thanks.  /
+fc          B.170 utt2: Bye. /  
+
+fc          A.171 utt1:  All right,  /
+fc          A.171 utt2: bye, bye. / 

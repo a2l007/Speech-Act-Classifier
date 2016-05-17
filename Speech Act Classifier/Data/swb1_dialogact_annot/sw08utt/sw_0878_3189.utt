@@ -1,0 +1,316 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1995 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+FILENAME:	3189_1253_1281
+TOPIC#:		331
+DATE:		911002
+TRANSCRIBER:	GL
+UTT_CODER:      aabo
+DIFFICULTY:	1
+TOPICALITY:	1
+NATURALNESS:	1
+ECHO_FROM_B:	2
+ECHO_FROM_A:	2
+STATIC_ON_A:	1
+STATIC_ON_B:	1
+BACKGROUND_A:	1
+BACKGROUND_B:	1
+REMARKS:        None.
+
+========================================================================
+  
+
+fp          @B.1 utt1:  Hi, Clarice.  /
+qy          @B.1 utt2: {F Um, } have you had a family reunion recently? /  
+
+ny          A.2 utt1:  Yes,  /
+sd^e          A.2 utt2: just this last summer we went back to Utah,  /
+sd          A.2 utt3: {C and } we met, it was my,  /
+sd          A.2 utt4: we usually go to my family reunion,  /
+sd          A.2 utt5: {C but } this one was my husband's -- /  
+
+b          B.3 utt1:  Uh-huh. /  
+
+sd          A.4 utt1:  -- {C and } they're usually quite similar, I think. /  
+
+qy          B.5 utt1:  Are you both from Utah originally? /  
+
+nn          A.6 utt1:  No,  /
+sd^e          A.6 utt2: he's from here -- /  
+
+bk          B.7 utt1:  {F Oh, } uh-huh. /  
+
+sd          A.8 utt1:  -- {C but, } {F uh, } most of his people are from Oregon,  /
+sd          A.8 utt2: {C so } we kind of met halfway -- /  
+
+b          B.9 utt1:  Uh-huh. /  
+
+sd          A.10 utt1:  -- {C and so, } this was one, - /
+sd          A.10 utt2: {C and } they, {F um, } planned it up in the mountains and got a cabin --   
+
+ba          B.11 utt1:  {F Oh, } how nice. /  
+
++          A.12 utt1:  -- and had, {D you know, } - /
+sv          A.12 utt2: things like that have to be planned,  /
+sd          A.12 utt3: {D like } they had planned - /
+sd          A.12 utt4: [ that, + ] we went to the reunion in end of [ Jul-, + ] June and first of July --   
+
+b          B.13 utt1:  Uh-huh. /  
+
++          A.14 utt1:  -- that part --   
+
+b          B.15 utt1:  Uh-huh. /  
+
++          A.16 utt1:  -- the fourth of July weekend,  /
+sd          A.16 utt2: {C but } we had to plan everything {D like } clear in December, January --   
+
+b          B.17 utt1:  Sure,  /
+b^r          B.17 utt2: sure, /  
+
++          A.18 utt1:  -- to reserve that. /  
+
+qr          B.19 utt1:  {D Now } was this his entire family, cousins, aunts, uncles --   
+
+b          A.20 utt1:  Uh-huh. /  
+
++          B.21 utt1:  -- like that or his immediate family? /  
+
+nn          A.22 utt1:  No -- /  
+
+ba          B.23 utt1:  {F Oh, } wow. /  
+
+sd          A.24 utt1:  -- this was everybody. /  
+
+ba          B.25 utt1:  {F Oh } wow,  /
+qw          B.25 utt2: how many people were there? /  
+
+sd          A.26 utt1:  {F Oh, } [ [ I, + {F oh, } I, ] + jeez, I ] think over, {F um, } three hundred --   
+
+ba          B.27 utt1:  Wow. /  
+
++          A.28 utt1:  -- were there.  /
+sd          A.28 utt2: It was quite a large -- -/  
+
+ba          B.29 utt1:  Wow. /  
+
+sd          A.30 utt1:  -- it was a great big lodge,  /
+sd          A.30 utt2: {C and so } we had plenty of room and  everything,  /
+sd          A.30 utt3: {C and } some of them live in that area,  /
+sd          A.30 utt4: {C so } it wasn't too hard for them to come in the day and leave. /  
+
+b          B.31 utt1:  Uh-huh. /  
+
+sd          A.32 utt1:  {C But, } {F um, } that was a great big thing,  /
+sd          A.32 utt2: {C and } we do that with his family about every five years,   
+
+o@          B.33 utt1:  {F Oh } that's,   
+
++          A.34 utt1:  # a great big one. # /  
+
++@          B.35 utt1:  # wonderful, {F oh. } # /  
+
+sd          A.36 utt1:  {C And then } {D like } immediate family [ we do, + {D like } we try ] to do one thing once a year. /  
+
+qw          B.37 utt1:  {D Now } [ how many, + how many ] people are in his immediate family? /  
+
+sv          A.38 utt1:  {D Well, } he has eight brothers and sisters -- /  
+
+ba          B.39 utt1:  {F Oh, } wow. /  
+
+sd          A.40 utt1:  -- {C so } that's big by itself. /  
+
+ba          B.41 utt1:  Wow,  /
+aa          B.41 utt2: it really is, /  
+
+x           A.42 utt1:  <Laughter>.   
+
+qy^d          B.43 utt1:  {C and } you get together once a year. /  
+
+ny          A.44 utt1:  Yeah. /  
+
+ba          B.45 utt1:  Wow, /  
+
+sd          A.46 utt1:  {C So } we have a little shindig with them. /  
+
+qy          B.47 utt1:  Are they all here in the area,  /
+qrr          B.47 utt2: {C or } are they --   
+
+sd          A.48 utt1:  {F Um } --   
+
++          B.49 utt1:  -- scattered? /  
+
++          A.50 utt1:  -- they're [ close, + in a close ] proximity.  /
+^h          A.50 utt2:  {F Um, } let's see,  /
+sd          A.50 utt3: there are four of them who live here in Texas, and his mom and dad. /  
+
+b          B.51 utt1:  Uh-huh. /  
+
+sd          A.52 utt1:  {C So, } {F um, } the others live in close neighboring, {F um, } states, like Nevada, Arizona --   
+
+b          B.53 utt1:  Uh-huh. /  
+
++          A.54 utt1:  -- I think like that,  /
+%          A.54 utt2: yeah -- /  
+
+ba          B.55 utt1:  {F Oh } wow,  /
+sd          B.55 utt2: that's wonderful. /  
+
+sd          A.56 utt1:  -- {C so, } it's been fun.  /
+qo          A.56 utt2:  How about you? /  
+
+sd          B.57 utt1:  {D Well, } we don't really get together,  /
+sd          B.57 utt2: [ I, + I ] would love to,  /
+sd          B.57 utt3: {C and } that's why I checked that I wanted to do that, because I would love to plan a family reunion sometime.  /
+sd          B.57 utt4:  {F Um, } I have a sister in Colorado, and, {F uh, } a sister in upstate New York, and a sister in Connecticut, and here I am in Texas.  /
+sd          B.57 utt5: {C So } we're kind of scattered right now. /  
+
+b          A.58 utt1:  Uh-huh. /  
+
+sd          B.59 utt1:  {C And, } {F uh, } [ my, + my ] cousins [ have a, + ] {D you know, } they put on a family reunion, {F um, } once a year,  /
+sd          B.59 utt2: {C but } it's always like the second week in September,  /
+%          B.59 utt3: {C so } it's, - /
+sd          B.59 utt4: the kids are already back in school -- /  
+
+b          A.60 utt1:  Uh-huh. /  
+
+sd          B.61 utt1:  -- [ {C and so, } + {C and } ] that's back in the -- -/  
+
+ba          A.62 utt1:  That's hard. /  
+
+sd          B.63 utt1:  -- {C and } that's in New York,  /
+sd          B.63 utt2: {C and } [ there's no way, + {E I mean } there's --   
+
+b          A.64 utt1:  Yeah, /  
+
++          B.65 utt1:  -- just no possible way. ] /  
+
+b          A.66 utt1:  Yeah. /  
+
+sd          B.67 utt1:  {C And } it's not really a weekend,  /
+sd          B.67 utt2: it's just like a day kind of thing, because most of them are, {D you know, } {F um, } - /
+sd          B.67 utt3: my family moved to Connecticut,  /
+sd          B.67 utt4: the rest of the family stayed in New York --   
+
+b          A.68 utt1:  Uh-huh. /  
+
++          B.69 utt1:  -- and, {F uh, } on Long Island,  /
+sd          B.69 utt2: {C and so, } they're all kind of local and close,  /
+sd          B.69 utt3: {C and so } they just have [ a, + {D you know, } a ] day picnic,  /
+sd          B.69 utt4: {C and, } {F uh, } I've always thought it would be so neat, even if it were just my immediate family, to have like a weekend type thing -- /  
+
+b          A.70 utt1:  Yeah. /  
+
+sd          B.71 utt1:  -- that would be so wonderful <laughter>. /  
+
+sd          A.72 utt1:  It really is fun,  /
+sd          A.72 utt2: {C and } my mom's family does it once a year, just like you said -- /  
+
+b          B.73 utt1:  Uh-huh. /  
+
+sd          A.74 utt1:  -- once a year, {F um, } they have [ [ a, + a, ] + a ] Wednesday through [ a, + a ] Saturday type thing.  /
+sd          A.74 utt2: You can come and go as you please type thing. /  
+
+ba          B.75 utt1:  {F Oh, } wow. /  
+
+sd          A.76 utt1:  {C And } they do that once a year.  /
+sd          A.76 utt2: I kind of missed it this year, and felt bad,  /
+sv          A.76 utt3: {C but } you can't go every year,  /
+sv          A.76 utt4: you just --   
+
+b          B.77 utt1:  Yeah,  /
+b^r          B.77 utt2: yeah, /  
+
++          A.78 utt1:  -- cannot do that. /  
+
+b          B.79 utt1:  Yeah. /  
+
+b          A.80 utt1:  {F Um. } /  
+
+qy          B.81 utt1:  {C And } do [ they, + they ] have a  hotel,  /
+qrr          B.81 utt2: {C or } where do you stay? /  
+
+sd          A.82 utt1:  {F Um, } basically, they just stay with each other, brothers or  sisters.  /
+sd          A.82 utt2: There are enough in the area [ to, + to ] just kind of span yourself out. /  
+
+^2          B.83 utt1:  Take everybody,  /
+%          B.83 utt2: yeah. /  
+
+sd          A.84 utt1:  Whoever's mom and dad it is, you usually go and stay with them,  /
+sd          A.84 utt2: {D like } I go stay with my mother,  /
+sd          A.84 utt3: {C and } my cousins, they just go stay with their mom and dad, {D you know } --   
+
+b          B.85 utt1:  Uh-huh,  /
+b^r          B.85 utt2: uh-huh. /  
+
++          A.86 utt1:  -- kind of thing.  /
+sd          A.86 utt2:  {C And so } it's not hard [ in, + in ] that respect because they all are pretty centralized in one Utah area -- /  
+
+b          B.87 utt1:  Yeah,  /
+b^r          B.87 utt2: yeah, /  
+
+sd          A.88 utt1:  -- {C so } that's not hard,  /
+sd          A.88 utt2: {C but } --    
+
+ba          B.89 utt1:  {F Oh, } that sounds so wonderful,  /
+qh          B.89 utt2: isn't that nice. /  
+
++          A.90 utt1:  -- the real planning, that's the real key -- /  
+
+b          B.91 utt1:  Yeah. /  
+
+sd          A.92 utt1:  -- {C and } they send out, - /
+sd          A.92 utt2: my mom's family now, - /
+sd          A.92 utt3: this is the first reunion with my husband's family I've really been involved with,  /
+sd          A.92 utt4: {C but } my mom's family, each brother and sister takes a turn one year,  /
+sd          A.92 utt5: {C and } that's how they divide it up -- /  
+
+b          B.93 utt1:  Uh-huh. /  
+
+o@          A.94 utt1:  -- {C and then, }   
+
+sd          B.95 utt1:  {C But } then one brother and sister from each family. -/  
+
++@          A.96 utt1:  {F Um, } she has ten in that family -- /  
+
+b          B.97 utt1:  Uh-huh. /  
+
+sd          A.98 utt1:  -- {C and } each one of them take their turn. /  
+
+ba          B.99 utt1:  {F Oh, } wow,  /
+b          B.99 utt2: uh-huh. /  
+
+sd          A.100 utt1:  {C And then }  [ the, + the ] parent who's turn it is,  [ the child whose turn it is + ]  --   
+
+b          B.101 utt1:  Uh-huh. /  
+
++          A.102 utt1:  -- her children help her,  /
+sd          A.102 utt2: {D like } if it was my mother's turn --   
+
+ba          B.103 utt1:  {F Oh, } I see, uh-huh. /  
+
++          A.104 utt1:  -- all of us children would help her --   
+
+b          B.105 utt1:  Uh-huh. /  
+
++          A.106 utt1:  -- put it on --   
+
+b          B.107 utt1:  Uh-huh. /  
+
++          A.108 utt1:  -- kind of thing. /  
+
+ba          B.109 utt1:  {F Oh, } wow, /  
+
+b          A.110 utt1:  Yeah,  /
+sd          A.110 utt2: {C and, } {F um, } the thing is, that, {F um, } [ the, + the ] real part is there are two mailings that go out,  /
+sd          A.110 utt3: {C and } the first one is to just kind of give an approximate date and time so you can start making, -/ 
