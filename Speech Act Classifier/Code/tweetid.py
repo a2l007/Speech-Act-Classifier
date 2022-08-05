@@ -3,10 +3,10 @@ import tweepy
 from tweepy import StreamListener
 from tweepy import Stream
 g=open("source_tweets.txt",'r');
-consumer_key='W0wAfqirB786tf7QxiKxVmtjt'
-consumer_secret='2BNI5fY67S0ewjrDhTBlyDXbWhCE7SNmyg9ppNoE3Jp55wty6o'
-access_token='37893525-qOxIXuRpVDLXpv0te3mOVqd4IKFcIU68pkanY6xbG'
-access_token_secret='GfD200VrffjbUTScuUTWcgeWgXvBo9q6b8mbwpstMQKLM'
+consumer_key='abcd'
+consumer_secret='abcd'
+access_token='37893525-abcd'
+access_token_secret='abcd'
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
